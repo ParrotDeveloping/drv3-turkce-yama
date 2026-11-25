@@ -1,0 +1,63 @@
+@ chap4_text_US
+## c04_100_029
+349|O zaman kimse gizlice çıkış yapıp sonra\ntekrar giriş yapmamış gibi görünüyor.
+350|<CLT=cltMIND>O zaman asıl endişem...
+351|<CLT=cltMIND>Kaito. Bizden önce çıkış yaptı...
+352|<CLT=cltMIND>...Hayır, o olamaz.
+353|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Giriş/Çıkış Kaydı<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+354|Ayrıca... programı analiz ederken fark\nettiğim başka bir şey daha var.
+355|Görünüşe göre programın bazı kısımları\nyeniden yazılmış.
+356|Program yeniden mi yazılmış?
+357|Belli ki bunu yapabilecek tek kişi\nMiu'ydu.
+358|Peki hangi dosyaları yeniden yazmış ve\nneyi değiştirmiş?
+359|Tabii ki onu analiz edeceğim... Ama biraz\nzaman alacak.
+360|Eh, sınıf duruşmasına kadar bittiği sürece.\nO zaman Shuichi Miu'nun intikamını alabilir.
+361|<CLT=cltMIND>Ağzına geleni söylüyor...
+362|Tamaaam! O zaman bu programı analiz\nedip içini dışına çıkarmaya devam edeceğim!
+363|Ah-haha, çok güvenilirsin!
+364|...Evet, senden çok daha fazla.
+365|...Bilgisayarla ilgiliyse Monotaro'ya sor.
+366|Ben sadece yardım ediyorum.
+367|Henüz analizi bitirmedi, o yüzden şu an\nelimizdeki bilgileri düzenlemeliyiz.
+368|Sonunda... böyle oldu.
+369|İçimde kötü bir his vardı... Yemek salonunun\npenceresinden Miu'yu gördüğümü sandığımdan beri.
+370|Miu'yu gördüğünü mü sandın...?
+371|Evet... Shuichi'ye söyledim...
+372|Oo, demek o zaman Miu'yu gördün.
+373|Şapelin yanında olması gerektiği için\nyanılmış olmalıyım diye düşündüm—
+374|Sadece daha az suçlu hissetmek için\n"yanılmış" olduğunu söylüyorsun.
+376|O kişinin Miu olduğundan *emin* olsaydın\ndaha erken bir şey yapabilirdin...
+377|Ölümünü engelleyebilirdin, biliyor musun?
+378|B-Bu...
+379|Bu sadece bir varsayım, Kokichi.\nSonradan bakarak yargılayamazsın.
+380|Ah, konudan biraz saptık.\nNeyse, sana bir şey sormak istiyordum...
+381|Miu'yu gördüğünü "sandıktan" sonra\nne yaptın?
+382|Ş-Şey... yanıldığımı düşündüm ama\nbeni gerçekten rahatsız etti, o yüzden...
+383|Yaklaşık on dakika sonra Shuichi'ye söyledim. \nVe bunun hakkında konuşurken...
+384|Yüksek bir ses duyduk ve giriş salonuna\nkoştuk...
+385|Kee-çocuğun sesi mi? Şapelde değil miydi?
+386|Oradaydı ama Tsumugi ve ben onun sesi\nolduğundan eminiz.
+387|Şapelde *olması gerekirken* giriş salonundan\nKeebo'nun sesini duyduk.
+388|Neee? Bu tuhaf, çünkü şapelle konak arasında\nhiçbir şey duyamaman gerekiyor.
+389|Miu bile öyle demişti.
+390|Haklısın... Sesin harita yükleme noktasından\ngeçmemesi gerekiyor.
+391|Peki Keebo'nun sesini nasıl duyduk?
+392|Keebo şapeldeyse onu konaktan\nnasıl duyabildik?
+393|Belki... biri yalan söylüyordur.
+394|Yalan mı...?
+396|Bu arada, Kokichi. Yüksek sesi ya da Keebo'nun\nsesini hiç duydun mu?
+397|Hm... emin değilim. Aramakla çok meşgul\nolduğum için fark etmemiş olmalıyım.
+398|Yüzüne karşı yalan söylüyorsun!
+400|Kaito, ben konuşurken sözümü kesip duruyorsun.\nBenden hoşlanıyor musun yoksa?
+401|Kim senden hoşlanır, salak!?\nShuichi'nin konuşmasıyla ilgileniyordum!
+402|Benim konuşmam mı?
+403|İmkânsız olması gerekirken Keebo'nun sesini duydun.\nBana bundan biraz daha bahsedebilir misin?
+404|Şey, daha önce söylediklerim aşağı\nyukarı hepsiydi.
+405|Ondan sonra ne olduğunu görmek için\nşapele geri döndük...
+406|Konaktan çıkarken Gonta'yı gördük ve\nüçümüz birlikte nehre gittik.
+407|Kokichi ile orada buluştuk.
+408|Sonra bulduğum tabelayı köprü olarak\nkullandık...
+409|Ama ne olmuş? Bir şey fark ettin mi?
+411|<CLT=cltMIND>Sanırım hayır.
+412|Sıkı çalıştığını görüyorum. Bu oyunu ciddiye\nalmaya başlamışsın gibi görünüyor, Kaito.
+413|Kes sesini!

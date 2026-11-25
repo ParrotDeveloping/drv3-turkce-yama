@@ -1,12 +1,96 @@
+0	Evet, işte bu!\nSanal Dünya bir <CLT=cltSTRONG>döngü<CLT=cltNORMAL>!
+1	Döngü mü?
+2	Tıpkı eski oyunlardaki gibi, değil mi!?\nMesela...
+3	Bir karakter ekranın sol tarafından çıkıp\nsağ tarafından yeniden belirdiğinde.
+4	Evet, aynen. Sanal Dünya'nın kenarları\nkesintisiz bir döngüde birbirine bağlı.
+5	Sanal Dünya... döngü mü?
+6	N-Ne oluyor böyle!?
+7	Bu doğruysa tabelanın akıntıya kapılma\nşeklini açıklar.
+8	Nehrin aşağısındaki duvarda kayboldu, aynı\nduvarın yukarısından çıktı...
+9	ve kayalara takılana kadar akıntıyla\nsürüklendi.
+10	Miu duvarı eklemeden önce dünya\nnasıldı...?
+11	Aslında Y ekseninde hiç duvar yoktu ve\nX ekseni döngü olacak şekilde ayarlanmıştı.
+12	C-Ciddi misin? Bir bilgisayar programı\nolsa bile bu çok çılgınca değil mi?
+13	Döngüye giren bir dünya... Bu sihirden\nbile daha olağanüstü...
+14	Ama en azından sıkıcı bir cevap değil.\nOlan her şeyi de açıklıyor.
+15	Ha? Her şeyi açıklamıyor,\ndeğil mi?
+16	Çünkü o sesi ya da Keebo'nun sesini neden\nduyduğumuzu hâlâ bilmiyoruz.
+17	Evet, ses harita yükleme noktasını\ngeçmiyor.
+18	Aslında dünyanın bir döngü olduğunu bilirsek\nbunu da açıklayabiliriz.
 19	Ha? Gerçekten mi?
+20	Evet, ama önce döngünün *nerede* başladığını\nnetleştirmeliyiz.
+21	Döngünün başladığı yer...
+22	Konağın ve şapelin yanındaki duvarlarda\ndöngüye girmiyor mu...?
+23	Her zaman değil. Konağın içinden şapeldeki\nbir sesi duyduysak o zaman döngü...
+24	Ah... orada.
+25	Ne? Orada mı?
+26	X ekseni döngüye giriyorsa döngü noktası\ndünyayı dikey olarak kesmez mi?
 27	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+28	Döngü konağın batısındaki ormanda\nbaşlıyor.
+29	Ormanın konumu düşünülünce döngü noktası\niçin tuhaf bir yer değil mi?
 30	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+31	Belki döngü şapeldir?
+32	Döngü noktası tek bir yerle sınırlı olmak\nyerine bütün dünyayı kesmez mi?
 33	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+34	Belki döngü konağın çatısıdır?
+35	Döngü noktası tek bir yerle sınırlı olmak\nyerine bütün dünyayı kesmez mi?
 36	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+37	Belki döngü konağın merdivenleridir?
+38	Döngü noktası tek bir yerle sınırlı olmak\nyerine bütün dünyayı kesmez mi?
 39	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+40	Belki döngü konaktır?
+41	Döngü noktası tek bir yerle sınırlı olmak\nyerine bütün dünyayı kesmez mi?
 42	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+43	Döngü nehirde başlıyor!
+44	Ama tabelayı kullanarak nehri geçtiğimizde\nhiçbir şey olmadı, değil mi?
+45	Haritadaki geçiş noktasından geçtiğinde\nhiçbir şey göremez ve duyamazsın...
 46	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 47	...
+48	Konağın ve şapelin yanındaki duvar değil mi?\nYanlışsa lütfen nedenini söyle.
 49	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+50	Döngü noktası nerede?
+51	Sanal Dünya'nın döngüye girdiği yer\n<CLT=cltSTRONG>harita yükleme noktasıydı<CLT=cltNORMAL>.
+52	<CLT=cltSTRONG>Yükleme noktasının<CLT=cltNORMAL> haritanın ortasında\nolduğunu sanıyorduk...
+53	Ama yükleme noktası aslında\n<CLT=cltSTRONG>kenarlardaydı<CLT=cltNORMAL>.
+54	Yani Miu'nun yarattığı duvar dünyanın\nkenarlarında değil, aksine...
+55	Duvarı dünyanın merkezindeydi.
+56	Anlıyorum, yani konak ve şapel birbirine\nyakındı ve aralarında bir duvar vardı...
+57	Ve şapelin yanında çıkan her ses\nkonağa da ulaşırdı.
+58	Duvar <CLT=cltSTRONG>sadece insan olmayanların geçmesine izin veriyor<CLT=cltNORMAL>,\nyani <CLT=cltSTRONG>ses<CLT=cltNORMAL> kolayca geçebilmeli.
+59	Doğru. Sanal Dünya böyle\nişliyor!
+60	Muhahahahahaha!!!\nEtkileyici, Shuichi!
+61	Buraya kadar gelebilmen! \nEvet! Eveeet! Gerçekten işe yararsın!
+62	<CLT=cltSTRONG>"Buraya kadar gelebilmen"<CLT=cltNORMAL> mi? Ne yani,\nipleri elinde tutan bir kötü adam mısın?
+63	Hayır! Burada ipleri elinde tutan ben değil\nMiu'ydu. Hatırladın mı?
+64	Bu tuzağı da Miu kurdu.
+65	Her şey Miu bize haritayı gösterdiğinde başladı.
+66	Harita yüzünden yükleme noktasının merkezde\nolduğunu yanlışlıkla düşündük...
+67	Bu da konakla şapelin birbirinden daha\nuzak görünmesine sebep oldu.
+68	Ama dünyanın yapısı aslında öyle\ndeğildi.
+69	Y ekseni boyunca bir duvar vardı ve\nX ekseni döngü halinde dönüyordu.
+70	O duvarı dünyanın merkezine koyarak\ndöngüyü kesti...
+71	Yani Miu bize o haritayı gösterdiğinden\nberi onun tuzağına düşmüştük.
+72	Ama Shuichi sayesinde bu gizemi çözdük!\nYaşasın kurtarıcımız!
+73	Evet. Shuichi burada olmasaydı bu gizemi\nasla çözemezdik.
+74	Doğru! Aferin, Shuichi!
+75	Teşekkürler, Shuichi! Bizi kurtardın!
+76	Ah... Rica ederim.
 77	...
+78	Sanal Dünya'nın sırrını bulduk diye\nhenüz gevşeyemeyiz.
+79	Aslında... bu fail avı daha yeni heyecanlı\nkısmına geldi!
+80	Bütün hileleri bilsek bile faili bulamazsak\npek bir anlamı yok.
+81	Ne de olsa sınıf duruşması böyle işler!
+82	Kokichi yine Monokuma gibi konuşuyor...
+83	Çık... Ne dersen de\nyalanlarına inanmayacağım...
+84	Herkese inanacağım!\nGerçeğe böyle ulaşacağım!
+85	Nii-hihi...\nBundan sonra ne olacağını görmek için sabırsızlanıyorum.
 86	...
+87	<CLT=cltMIND>Kokichi'nin buradaki planı ne?
+88	<CLT=cltMIND>Kesinlikle bilerek Kaito'yu\ndürtüyor.
+89	<CLT=cltMIND>Neyse, onun gibi dikkat dağıtıcılara\nayıracak vakit yok.
+90	<CLT=cltMIND>Yapmamız gereken şey Miu'yu\nöldüren faili bulmak.
+91	<CLT=cltMIND>Faili bulamazsak ne kadar küçük\ngizem çözdüğümüzün önemi yok...
+92	<CLT=cltMIND>hepsi boşa gider.
+93	<CLT=cltMIND>Ama kim olabileceğini hâlâ\nkesin olarak bilmiyorum.
+94	<CLT=cltMIND>Miu'nun kendi planını ona karşı kullanıp\nonu kim öldürdü?
+95	<CLT=cltMIND>Miu'yu kim öldürdü...?

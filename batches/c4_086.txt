@@ -1,0 +1,75 @@
+@ chap4_text_US
+## c04_234_000
+4|Yalan söylediğimi kanıtlayabilecek biri var mı!?\nYok, değil mi!? Değil mi!?
+5|Bütün zaman boyunca salondaydım!\nÇatıya çıkmadım!
+7|<CLT=cltMIND>Kokichi kesinlikle yalan söylüyor.\nAma bana yalan atmaya devam ederse...
+8|<CLT=cltMIND>Ateşe ateşle karşılık vermeliyim. Kokichi'nin\nsalonda olmadığı hakkında yalan söylemeliyim.
+10|<CLT=cltMIND>Ateşe ateşle karşılık vermeliyim!
+## c04_234_001
+0|<CLT=size2>Çatıya<CLT=size1> <CLT=size2>çıkmadım!
+1|Çatıya çıkmadım!
+2|<CLT=size2.5>Yalanlarından<CLT=size1> bıktım artık!
+3|Yalanlarından bıktım artık!
+4|Yalan <CLT=size3>söylemiyorum<CLT=size1>!
+5|Yalan söylemiyorum!
+6|<CLT=size2>Çatının<CLT=size1> kapısı
+7|Çatının kapısı kilitliydi\nve açamadım!
+8|<CLT=cltWEAK><CLT=size2>kilitliydi<CLT=cltNORMAL><CLT=size1> ve
+9|açamadım!
+10|Peki\n<CLT=size2>Kokichi<CLT=size1>\nne yaptı?
+11|Peki Kokichi ne yaptı?
+12|Tabii ki hemen\n<CLT=size2>geri<CLT=size1> döndüm...
+13|Tabii ki hemen geri döndüm...
+14|ve bütün zaman\n<CLT=cltWEAK><CLT=size2>salonda\n<CLT=size1>kaldım<CLT=cltNORMAL>,\nbiliyor musun?
+15|ve bütün zaman salonda\nkaldım, biliyor musun?
+16|<CLT=size2>Yalancılar
+17|Yalancılar cehennemde yanar, biliyor musun!?
+18|<CLT=size2>cehennemde<CLT=size1> <CLT=size2>yanar<CLT=size1>, biliyor musun!?
+19|Yalan söylüyorsan\n<CLT=size2>donunu<CLT=size1> <CLT=size2>tutuştururum!
+20|Yalan söylüyorsan\ndonunu tutuştururum!
+21|B-\nBu
+22|B-Bu sorun değil, çünkü yalan söylemiyorum...
+23|<CLT=size3>sorun değil,
+24|<CLT=size2>çünkü
+25|<CLT=size2>yalan
+26|<CLT=size2>söylemiyorum
+27|<CLT=size2>...
+28|O zaman neden bu kadar <CLT=size2>gergin görünüyorsun?
+29|O zaman neden bu kadar gergin görünüyorsun?
+30|İtiraf et artık!
+31|Tartışmanız bitti mi?
+32|Yeter bu kadar yalan!
+34|Burası zaten\ncehennem...
+35|Ateş\n　\n　
+36|*titreme*
+## c04_235_000
+0|Kokichi. Şu an yalan söylüyorsun, değil mi?
+1|...Ha? Ne hakkında yalan?
+2|Cinayet işlenmeden hemen önce sana\nbakmak için salona gittim.
+3|Ama <CLT=cltSTRONG>orada değildin<CLT=cltNORMAL>.
+5|Bir süre orada bekledim.\nHiç gelmedin.
+6|Bu da ne demek, Kokichi?
+7|Çatının kapısını kilitli bulduktan sonra\nhemen salona dönmedin mi?
+9|Anlıyorum... Sen de hileli yöntemler\nkullanıyorsun. Ha, Shuichi?
+11|Peki, kime inanacaksınız?\nShuichi'ye mi... yoksa bana mı?
+12|Tabii ki Shuichi'ye inanacağım!
+13|Shuichi'ye yüzde yüz inanıyorum!
+14|Kokichi olmayana.
+15|Shuichi'ye yüz ev puanı; hayır, Himiko\npuanı!
+16|Ama salona gitmek için Shuichi'nin yemek\nsalonundaki benim yanımdan geçmesi lazımdı...
+17|Şey... Shuichi'yi orada neden fark\netmedim acaba...
+19|Neyse. Yine de Shuichi'ye inanacağım.\nGenelde haklı çıkar.
+20|Özür dilerim ama... Gonta da Shuichi'ye inanıyor.
+21|Ah, anlıyorum...\nEn azından Gonta'nın bana inanmasını istemiştim...
+22|Heh, ne ekersen onu biçersin!\nSenin gibi yalancılara olan budur!
+23|Yalandan neden bu kadar nefret ediyorsunuz?
+24|Tek bir gerçek vardır ama yalanların\nsonsuz ihtimali vardır, biliyor musunuz?
+25|Ve bazıları sadece beyaz yalanlar ya da\ninsanlara nazik olmak için söylenen yalanlar...
+26|Hepsini *sırf* yalan olduğu için\nreddederseniz...
+27|O zaman bu, yalan söylenmesi konusunda\nberbat olduğunuz anlamına gelir! Cidden, en kötüsü!
+28|Söyle artık!\nÇatıya çıktın, değil mi!?
+29|Miu ile orada buluşmadı mı?
+30|Hayır, onunla sadece buluşmadı.\nMuhtemelen onu öl—
+31|Tamam, peki! Bu kadar bilmek istiyorsanız\nsöylerim! Bunu intikamım say.
+32|İntikam mı?
+33|Bana yalan söylemeye cesaretin varmış. Beni\nkızdırdığın için eğlenceni elinden alacağım, Shuichi.

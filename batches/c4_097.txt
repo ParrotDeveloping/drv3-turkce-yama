@@ -1,0 +1,48 @@
+@ chap4_text_US
+## c04_245_000
+41|Ah! Sanırım yolda birine rastladı ve\nsonra yakınlarda bir yere attı.
+43|Nii-hihi... Görünüşe göre Kaito'nun morali\nçöktü, yani bu iş artık bitti!
+44|Mesele... çözülmüş görünüyor.
+45|B-Bu... Bu...
+47|Demek... doğru. Gonta... gerçekten Miu'yu öldürdü.
+48|Ama planı bulan benim! Neyseee...\nsadece suçunu kabul et, Gonta.
+49|Hatırlamasan bile...\nyine de sen yaptın.
+50|A-Ama... Gonta neden... öyle...\nkorkunç bir şey yaptı...?
+51|Dur, ağlamaya başlamadan önce...\nönce suçunu kabul etmelis—
+52|Dur.
+53|Buna izin vermeyeceğim, Kokichi.\nOnu itiraf ettirecek biri varsa...
+54|...o benim.
+56|Gonta... bütün davaya bir kez daha\ngeri dönüp bakacağım, tamam mı?
+57|İkna olduğunda bana söyle,\ntamam mı? Bunu birlikte bitirelim.
+58|Iıııı... Iıııııı...
+## c04_246_000
+0|Dava <CLT=cltSTRONG>dün gece<CLT=cltNORMAL> başladı.
+1|Miu tarafından ikna edildikten sonra\nhepimiz <CLT=cltSTRONG>Sanal Dünya'ya<CLT=cltNORMAL> giriş yaptık.
+2|Giriş yapmak için <CLT=cltSTRONG>hafıza ve bilinç\nkablolarını<CLT=cltNORMAL> cihaza takmalısın.
+3|Hepimiz o kabloları kasklarımıza takıp\nSanal Dünya'ya girdik.
+4|Ama <CLT=cltSTRONG>fail<CLT=cltNORMAL> kablolarını yanlışlıkla\n<CLT=cltSTRONG>yanlış girişlere<CLT=cltNORMAL> takmıştı.
+5|Bu yüzden failin beyni ile avatarı\narasında bir bağlantı <CLT=cltSTRONG>hatası<CLT=cltNORMAL> oluştu...
+6|Sonuç olarak fail Sanal Dünya'da olan\nher şeyi <CLT=cltSTRONG>unutacaktı<CLT=cltNORMAL>.
+7|Bunun... avatarının kişiliği üzerinde de\nbir etkisi olmuş olabilir.
+8|Çünkü ben... o kadar iyi kalpli birinin\ncinayet işleyebileceğine inanamıyorum...
+9|Ama... bu hatanın olduğundan bile haberimiz\nyoktu. Ve böylece hepimiz tek tek giriş yaptık.
+10|Bu arada en son giriş yapan <CLT=cltSTRONG>Miu<CLT=cltNORMAL>'ydu.
+11|Belirli bir amacı gerçekleştirebilmek için\nöldürme oyunu simülatörünü değiştirmişti.
+12|Hepimizin giriş yaptığını teyit ettikten sonra\nMiu <CLT=cltSTRONG>zehir şişesini<CLT=cltNORMAL> çıkardı...
+13|...ve <CLT=cltSTRONG>Kokichi'nin koltuğuna<CLT=cltNORMAL> koydu.
+14|Bu, döndüğümüzde Kokichi zehirle öldürülmüş\ngibi görünsün diye yapıldı.
+15|Evet... Miu'nun simülatörü değiştirip bizi\nSanal Dünya'ya getirmesinin sebebi...
+16|...Kokichi'yi <CLT=cltSTRONG>Sanal Dünya'da öldürüp<CLT=cltNORMAL>\n<CLT=cltSTRONG>gerçek dünyada ölmüş<CLT=cltNORMAL> gibi göstermekti!
+17|Hepimiz giriş yaptıktan sonra Miu bize dünyayı\naçıkladı.
+18|"<CLT=cltSTRONG>Çıkış için salondaki telefonu kullanın, nesneler\nkırılmaz, avatarlarınız beş duyuyu da kullanır<CLT=cltNORMAL>"...
+19|Konağın giriş salonunda Sanal Dünya'nın\n<CLT=cltSTRONG>haritasını<CLT=cltNORMAL> da açıkladı.
+20|Ama açıklaması bilerek yanlıştı.\nDünyayı yanlış anlamamızı istedi.
+21|Ancak... içimizden biri planını\ngörebildi.
+22|Miu'nun öldürmeye çalıştığı kişinin\nta kendisi... <CLT=cltSTRONG>Kokichi<CLT=cltNORMAL>.
+23|Kokichi Miu'nun planını ona karşı kullanacak\nve onun cinayetini planlayacaktı!
+24|Ama Kokichi bunu kendisi yapmayacaktı. Bu davada\n<CLT=cltSTRONG>fail<CLT=cltNORMAL> olması için bir maşa kullandı.
+25|Kokichi motif konusunda ağzını sıkı tuttu...\no yüzden failin neden kabul ettiğini bilmiyorum.
+26|Ama görünüşe göre giriş yaptıktan hemen sonra\nKokichi ve fail dışarı çıktığında...
+27|...cinayeti gerçekleştirmek için zaten\n<CLT=cltSTRONG>birlikte çalışıyorlardı<CLT=cltNORMAL>.
+28|Sonunda Kokichi ile buluşup nehri geçerek\nşapele gittik.
+29|Miu bazı "<CLT=cltSTRONG>dış dünyanın sırrı<CLT=cltNORMAL>"nı bulmaya\nçalışmak için bizi ayırdı.

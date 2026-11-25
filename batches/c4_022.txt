@@ -1,0 +1,69 @@
+@ chap4_text_US
+## c04_012_262
+20|A-Ama sahte bile olsa ortalıkta kılıç\nsallamak iyi fikir mi bilmiyorum...
+21|Ah, evet... doğru.\nO zaman...
+22|Zen meditasyonu yapalım...\nNe yapmamız gerektiği üzerine meditasyon yaparız.
+23|Neyse, şimdilik kahvaltıya gidelim.\nBen önden gidiyorum.
+24|<CLT=cltMIND>Avluda zen meditasyonu mu?\nBacaklar için zor olabilir...
+25|Tamam, anladım.
+26|Karar verildi! Maki Rulo'yu getiririm,\nher zamanki yerde buluşalım!
+27|Ama önce kahvaltı.\nOrada görüşürüz!
+28|Ne yapmamız gerektiği üzerine meditasyon\nyaparız. Ama önce yemek yiyelim.
+29|Ben önden gidiyorum. Geç kalma, kanka!
+31|Heyyyy! Çıııık!
+32|Nerede saklanıyorsun! Gel, Gonta ile konuş!
+33|Gonta? Ne oldu?\nBirini mi arıyorsun?
+34|Ah! Günaydın, Shuichi!
+35|Gonta insan aramıyor.\nGonta minik böcek arıyor.
+36|Ah, evet, onu merak ediyordum.\nHiç buldun mu?
+37|Şey... Gonta onu bulamıyor.
+38|Gonta onu çok kez gördü, o yüzden\nGonta yanlış olmadığından epey emin...
+40|Ama Gonta Shuichi böcekleri bu kadar sevdiği için mutlu!
+41|Ha?\nAh, şey, böcekleri *o kadar* da sevmem...
+42|Ne!? Böceklerden nefret mi ediyorsun, Shuichi!?
+43|H-Hayır! Onlara bayılırım, Gonta!\nDaha önce söylemiştim, değil mi?
+44|Ah evet. Sen iyi insansın, o yüzden tabii ki\nböcekleri seversin.
+45|Tamam! Gonta Shuichi için minik böceği bulacak!\nNe gerekirse yapacak!
+46|Dört gözle bekle!
+47|Ah... <CLT=cltSTRONG>Böcek Buluşması<CLT=cltNORMAL>'nı düşündükçe\nhâlâ tüylerim diken diken oluyor.
+49|<CLT=cltMIND>Havuz Girişi Bulmaca Bitkisi
+## c04_013_010
+0|Hm? Miu ve Kokichi nerede?
+1|Kokichi'nin neden olmadığını anlıyorum,\nama Miu nerede?
+2|Muhtemelen hâlâ 4. kattaki o bilgisayarla\nuğraşıyordur.
+3|Ya da laboratuvarında başka bir icat\nüzerinde çalışıyor olabilir.
+4|Bana bakım yaparken laboratuvarında\nyarım kalmış birçok makine gördüm.
+5|Eh, makinelerle ve bilgisayarlarla uğraşmak\nzaten tek işe yaradığı şey.
+6|<CLT=cltMIND>Ne peşinde olabilir ki...?
+9|Gonta hâlâ düşünüyor... dünden beri...\nGonta nasıl yararlı olabilir?
+10|Ama... Gonta hiçbir şey düşünemiyor!\nÇok... sinir bozucu!
+11|Tamam ama bu kadar korkunç bir surat\nyapmana gerek yok...
+12|Hem... sadece sen değilsin. Bu hepimizin\ndüşünmesi gereken bir şey.
+13|Hepimiz hayatta kalmak için ne\nyapabileceğimizi düşünmeliyiz...
+14|Bizi kurtarmak için kendini imha sistemini kullan.\nRobotlar kendilerini böyle yararlı kılar.
+15|Bu doğru olsa bile, böyle bir şeyi söylemeden\nönce en azından biraz tereddüt et!
+16|<CLT=cltMIND>Ama doğru olduğunu kabul ediyorsun, ha...?
+17|Ben de... düşünmeye devam edeceğim. İyi bir\nfikir bulursam size söylerim.
+18|Bu halledildiğine göre, yiyelim!\nİyi yemezsen iyi düşünemezsin!
+19|<CLT=cltMIND>Kahvaltıyı bitirdik ve sonra\nodalarımıza döndük.
+20|<CLT=cltMIND>Düşüncelerimizi toparlamamız gerekiyordu.
+21|<CLT=cltMIND>Hiçbirimiz farkında değildik...\n<CLT=cltSTRONG>tarifsiz bir kötülüğün<CLT=cltMIND> kaynadığından.
+## c04_014_101
+0|<CLT=cltMIND>Şimdi Kaito ile antrenmanım var...
+1|<CLT=cltMIND>Her zamanki yer dedi.\nOnunla avluda buluşacağım.
+2|<CLT=cltMIND>Ne yapmalı...
+3|<CLT=cltMIND>*Ben* ne yapabilirim?
+4|<CLT=cltMIND>İyi olduğum tek şey gizem çözmek,\nama bu akademiyi çözemiyorum.
+5|<CLT=cltMIND>Çok fazla ipucum yok...\nama bu bir bahane değil.
+17|<CLT=cltMIND>Panik yapıp endişelenmek hiçbir şeye\nyardım etmez. Dinlenmeliyim...
+## c04_014_262
+5|Ah, geldin kanka!
+6|...Özel bir antrenman türünden bahsettiğinde\nşaşırmıştım.
+7|Ee!?
+8|Yeni antrenmanımız için gereken şeyi\ngetirdin, değil mi!?
+9|Yeni antrenman mı?
+10|Ver şunu!
+11|Al, ama... kullanılabilir mi?
+12|...Bu bir antrenman kılıcı mı? Sende neden\nböyle bir şey var?
+13|Ha? Neden öyle iğrenmiş bir surat\nyapıyorsun, Maki Rulo?
+14|<CLT=cltMIND>Ah, doğru ya!\nMaki...

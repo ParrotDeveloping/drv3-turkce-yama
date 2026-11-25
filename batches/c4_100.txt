@@ -1,0 +1,66 @@
+@ chap4_text_US
+## c04_247_000
+25|Şimdi kendinizi toparlayın da\nbaşlayalım!
+26|Kara eller ile lekesizlerin karşı karşıya geldiği kalp\nçarptıran heyecan! İşte... OYLAMA VAKTİ!!!
+## c04_300_333
+0|Bakın hele! Doğru oy verdiniz!\nTebrikler millet!
+1|Kendinizi alkışlayın!\nNeşeli seslerinizi duyayım!
+2|*hıçkırık* *hıçkırık*
+3|Neşeli seslerinizi duyayım dedim!
+4|Kahretsin... neden!?
+5|Hay Allah, hepsi surat asıyor!\nKendileri için mutlu olmaları lazım!
+6|Ben süper mutluyum!\nHey, çocuğa ne isim koyalım?
+7|Güzel soru.\nAltı isim... hazırlamalıyız.
+8|Ne!? Altız mı oluyor!?\nO kadar mutluyum ki çıldırabilirim!
+9|Hey, Kokichi... Bunun ortalığı\nşenlendireceğini söylemiştin. Ne oldu, ha?
+11|Öldürme oyununu ve sınıf duruşmasını\nşenlendireceğini söylemiştin...
+12|Ben de motifi, <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL>,\nöldürme oyunu simülatörüne koyacağımı söylemiştim.
+13|Ah-haha, o sadece bir yalandı.
+14|Ah, demek sadece yalanmış.
+15|Gülüp geçti mi!?
+16|Tatmin oldun mu, Kokichi?\nBize anlatmanı istiyorum.
+17|"<CLT=cltSTRONG>Dış dünya<CLT=cltNORMAL>" ne?\nGonta'ya verdiğin <CLT=cltSTRONG>motif<CLT=cltNORMAL> mi?
+18|Hepsini açıklamayı planlıyorum...\nama daha çok, nasıl desem...?
+19|Benim tatlı dudaklarımdan duyarsanız\nyalan olduğunu varsayacaksınız...
+20|Ah, evet!\nO zaman Gonta açıklasın!
+21|...Ha? Gonta mı?
+22|Gonta hiçbir şey hatırlamıyor; ondan\nnasıl bekleyebilirsin ki—
+23|O zaman hepimiz öldürme oyunu\nsimülatörüne geri dönelim!
+25|Neden Sanal Dünya'daki Gonta'ya\nsormuyoruz?
+26|A-Ama... Sanal Dünya'ya geri dönmek—
+27|Puhuhu... O baş belası yöntemden çok\ndaha kolay bir yol var.
+28|Gonta'nın anıları aktarılmadı, yani hâlâ\nSanal Dünya'da veri olarak duruyorlar...
+29|Gonta'nın son girişindeki bilincini o artık\nhafıza verisiyle birleştirebilirim!
+30|Ta-da! <CLT=cltSTRONG>Alter Ego Gonta<CLT=cltNORMAL> tamamlandı!
+31|...Alter Ego mu?
+32|Kısaca, sadece sanal uzayda var olan\n<CLT=cltSTRONG>ayrı bir Gonta<CLT=cltNORMAL>.
+33|Ne dediğini dinlersek o dünyada ne\nolduğunu öğrenebiliriz.
+35|Ha? Bu ne? Ne oluyor?
+36|Bu... Gonta mı?
+37|O... Gonta mı?
+38|B-Bu nasıl bir olay?\nNe yaptın?
+39|Rahat ol, Himiko. Ne sihir ne de\nhile.
+40|Alter Ego Gonta sadece bir bilgisayar\nsimülasyonu.
+41|Sadece Gonta'nın düşünce kalıplarını taklit ediyor.\nAslında gerçek Gonta'dan farklı...
+42|G-Gonta anlamıyor...\nBu "<CLT=cltSTRONG>Alter Ego<CLT=cltNORMAL>" denen kişi kim?
+43|Gördünüz mü? Gerçek Gonta kadar aptal bile!\nFarkı neredeyse anlayamıyorsunuz!
+44|Üstelik Gonta'nın Sanal Dünya anıları onda,\nyani ne olduğunu hatırlıyor olmalı.
+45|O-O zaman öteki Gonta... Gonta'ya söyle.
+46|Neden!? Gonta Miu'yu neden öldürdü!?
+47|Miu'yu öldürmek mi...? Öteki Gonta bunu\nnereden biliyor—
+48|Ne yazık ki planımız başarısız oldu.\nArtık onlara gerçeği söyleyebilirsin...
+50|...Ah.
+51|O zaman... Gonta herkesi kurtaramadı mı?
+52|...Herkesi kurtarmak mı?
+53|Hey! Gonta'ya cevap ver!\nGonta Miu'yu neden öldürdü!?
+54|Gonta sadece... herkesi... kurtarmak istedi.
+55|<CLT=cltMIND>Herkesi kurtarmak mı istedi...?
+56|Gonta... ne demek istiyorsun?
+57|Gonta uzun süre düşündü... Gonta herkese\nnasıl yararlı olabilir?
+58|Gonta duruşmalarda yardım edecek kadar akıllı değil...\nGonta güçlü ama Exisal'larla savaşamaz...
+59|Gonta sinirlendi... çünkü Gonta hiçbir şey\nyapamadı.
+60|Gonta anlıyor... bu Gonta'nın nasıl hissettiğini.
+61|Teknik olarak ikisi aynı kişi.
+62|İşte bu yüzden... Gonta herkesin iyiliği için\n<CLT=cltSTRONG>onu<CLT=cltNORMAL> yapması gerektiğini düşündü.
+63|Gonta yapması gerektiğini düşündü, çünkü\nbaşka kimse yapmak istemiyordu.
+64|O yüzden... Gonta Miu'yu öldürdü.

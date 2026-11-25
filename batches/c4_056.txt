@@ -1,0 +1,61 @@
+@ chap4_text_US
+## c04_101_200
+182|Etrafa saçılmış şu eşyalara bakın...\nBurada ne oldu?
+183|Şimdi incelemeye başlayacağımız şey de o!\nDeğil mi, Shuichi!?
+184|Doğru...
+185|<CLT=cltMIND>Çatıyı incelemek için konağa\ngidelim.
+187|<CLT=cltMIND>Tamam... Bu alanın incelemesini\nbitirdim.
+188|...Shuichi, görünüşe göre burayı incelemeyi\nbitirdik.
+189|Evet...\nHey, sormak istediğim bir şey vardı.
+190|Avatarlarımız nesne saklayabilir mi?
+191|Ah, görünüşe göre burada da kıyafetlerinin içine\neşya koyabiliyorsun. Tıpkı gerçek dünyadaki gibi.
+192|Anlıyorum, tıpkı gerçek dünyadaki gibi.
+193|Peki... şimdi ne yapacağız? Gerçek dünyaya\nşimdiden mi dönüyoruz?
+194|Ah, ondan önce...\nİncelemem gereken bir yer daha var.
+195|Konağın çatısı.
+196|...Pekala o zaman.
+197|<CLT=cltMIND>Miu ve Kokichi'nin buluşacağı yer,\nKaito'nun çıkış yaptığı yer...
+198|<CLT=cltMIND>Bu davayla bir ilgisi olduğundan eminim.\nOrada ipuçları olmalı.
+199|Pek anlamadım ama... incelemek istiyorsan\ngidip yapalım, Shuichi.
+200|Nyeeeh... Haklısın.
+201|Shuichi, herkes sana güveniyor.\nBen de dahil...
+202|Lütfen sınıf duruşmasında elinden gelenin en\niyisini yap ve bizi sonuna kadar götür.
+203|Tabii ki ben de elimden geleni yapacağım!
+204|<CLT=cltMIND>Ben de.
+205|<CLT=cltMIND>En azından bunu yapabilirim...\nNe de olsa bir dedektifim.
+## c04_101_206
+0|Ah! Benim avatarım! Bakın! Avatarım!
+1|Demek... sonuçta sevmişsin.
+2|Demek buraya geri döndük...
+3|Görünüşe göre giriş yaptığımızda hep\nbu odaya geliyoruz.
+4|Miu bu odada olmadıkça giriş ve çıkış\nyapmanın mümkün olmadığını söylemişti.
+5|O zaman... ben çatıdayken nasıl\nçıkış yaptım?
+6|Evet, o alanı da incelememiz lazım.
+7|Önce Miu'nun avatarına bakacağız, değil mi?
+8|Bence avatarı hâlâ şapelin yanında.
+9|O zaman şapele gidelim!
+10|<CLT=cltMIND>Bu, çıkış yapmak için kullandığımız\ntelefon.
+11|<CLT=cltMIND>Ahizeyi kaldırıp adını söylüyorsun\nve avatarın çıkış yapıyor.
+12|<CLT=cltMIND>Bu telefon taşınabilir değil, yani sadece\nburadan çıkış yapabilirsin.
+13|<CLT=cltMIND>O zaman Kaito çatıdan nasıl\nçıkış yaptı?
+14|<CLT=cltMIND>Bu soruyu cevaplamalıyım...
+## c04_101_208
+0|<CLT=cltMIND>Ah, şapele gitmeden önce haritaya\nbakmalıyım.
+1|Bu bedeni biraz seviyorum. Gerçi Himiko'nun\nkendininkini sevdiği kadar değil.
+2|Ha? Bu hayal kırıklığı grafikleri mi seviyorsun?
+3|O kadar da hayal kırıklığı değiller, biliyor musun?\nBiraz şıklar. Hoşuma gidiyor.
+4|Değil mi!? Onlar—\nDur... bu bir iltifattı.
+5|Neyse, bunu konuşacak vaktimiz yok!\nAcele edip inceleyelim!
+6|Şapele geçmeden önce neden şuradaki\nharitayı incelemiyoruz?
+7|Olay olduğunda herkesin nerede olduğunu\nbirlikte teyit edebiliriz.
+8|Belki bu bize bir çeşit ipucu verir.
+9|Miu'nun avatarı hâlâ şapelin yan\ntarafında olmalı.
+10|Hemen şapele gidelim!
+11|Ama ondan önce haritaya bakalım.\nBuraya sadece ikinci gelişimiz.
+12|Bir süredir düşünüyorum, Kokichi ve Kaito\nhiç anlaşamıyor.
+13|Kaito'ya yardım etmen için sana güveniyorum.\nMaki ile iyi şanslar.
+14|<CLT=cltMIND>Duvardaki iki harita...\nBiri konağın, biri dünyanın.
+15|<CLT=cltMIND>Önce konağın haritasına bakacağım.
+16|<CLT=cltMIND>Birinci katta salon, yemek salonu, mutfak\nve banyo var. İkincisi çatı.
+17|<CLT=cltMIND><CLT=cltSTRONG>Dış dünyanın sırrını<CLT=cltMIND> ararken\nayrılmıştık.
+18|<CLT=cltMIND>Salon Kokichi'de, yemek salonu Tsumugi'de,\nçatı Kaito'da, dışarısı da Gonta'daydı.

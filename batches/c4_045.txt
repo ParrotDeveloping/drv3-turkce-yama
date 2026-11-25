@@ -1,0 +1,53 @@
+@ chap4_text_US
+## c04_100_029
+178|Ama... bu neden oldu...!?\nMiu neden... öldürüldü!?
+179|Gonta anlamıyor...\nGonta hiçbir şey anlamıyor...
+180|...Ama Gonta sinirli ve üzgün!\nGonta Miu'yu koruyamadı!
+181|Şu an kafası karmakarışık görünüyor. Off be,\nböyleyken hiç düşünemiyor.
+182|Ama Gonta yalan söylüyor gibi görünmüyor.\nBize doğruyu söylediğinden epey eminim.
+183|Eh... sanırım Gonta gibi koca bir saftiriğin\nzaten yalan söyleyecek kafası yok.
+184|...Onun hakkında böyle konuşma.
+185|Senden çok hayal kırıklığına uğradım, Gonta. Seninle\nilk tanıştığımda daha yararlı olacağını düşünmüştüm.
+186|Ö-Özür dilerim...!
+187|Gonta çok özür diler! Gonta Miu'yu koruyamadığı\niçin özür diler!
+188|Gonta...
+189|Bu kadar kötü hissediyorsan kendini suçlamayı\nbırak. Onun yerine faili bulmamıza yardım et.
+190|Zaten bu failin suçu, o yüzden kendini\ntopla da bize yardım et, tamam mı?
+192|T-Tamam... Gonta anladı.
+193|Gonta faili bulmak için elinden geleni yapacak!\nGonta... bu sefer kesinlikle elinden geleni yapacak!
+194|Evet, işte bu ruh!
+195|<CLT=cltMIND>Şimdi de Kokichi onu cesaretlendiriyor mu?
+197|<CLT=cltMIND>Kokichi'nin ne düşündüğünü gerçekten\nbilmiyorum.
+199|Nii-hihi... bana karşı bu kadar temkinli\nolmana gerek yok.
+200|Kaito seni rahatsız etmeye kalkarsa diye\ngözümü dört açıyorum.
+203|<CLT=cltMIND>Ne yapmaya çalışıyor?\nNeden beni takip etmekte ısrar ediyor?
+204|Monotaro'nun artık bizim tarafımızda olduğuna inanabiliyor\nmusunuz!? Hem de yeni ölen annesi için!
+205|VAAAAAAAAAAAAAAAAHHHHHH!!!!!\nO kadar duygulandım ki ağlamayı kesemiyorum!
+206|Monoyavrular onu çok seviyordu...
+207|Miu'yu öldüren faili... asla affetmeyeceğim!
+209|Merak ediyordum...
+210|Aradığımız bu <CLT=cltSTRONG>dış dünyanın sırrı<CLT=cltNORMAL>\nneydi ki?
+211|<CLT=cltMIND>Doğru...\nMiu'nun cinayet davası yüzünden dikkatimiz dağıldı.
+212|<CLT=cltMIND>O sırrın aslında ne olduğunu\nhiç bulamadık.
+213|Şapelde hiçbir şey bulamadık, siz de\nkonakta hiçbir şey bulamadınız, değil mi?
+214|Hayır. Tsumugi ve ben hiçbir şey bulamadık.
+215|Ben de bir şey bulamadım. Muhtemelen Kaito\nve Gonta için de aynısı geçerli, değil mi?
+216|Onları bildiğimize göre bir şey bulsalardı\nhemen bize söylerlerdi.
+217|Evet, söylerlerdi. Senin aksine...
+218|Vay!!! Shuichi, duydun mu!?\nRobot bana laf sokuyor!
+219|Biliyor muydun? Robotların çalışmak için sıcak\nkana ihtiyacı yok, o yüzden böyle soğuk oluyorlar...
+220|Bu yüzden zavallı Miu'dan çok <CLT=cltSTRONG>dış\ndünyanın sırrıyla<CLT=cltNORMAL> ilgileniyor.
+221|İstese bile ağlayamayacağını söyledi!\nDramatik tepkisini sahnelemek için o kadar ileri gitti.
+222|B-Bu doğru değil! Ben de gerçeği bulabilmeyi\numuyorum!
+223|Epey gelişmiş bir robotsun. Hem laf\nsokup *hem de* bahane uydurabiliyorsun.
+225|...<CLT=cltSTRONG>Dış dünyanın sırrı<CLT=cltNORMAL> her neyse,\nşimdilik bir kenara bırakalım.
+226|Şu an en büyük önceliğimiz Miu'nun ölümünün\nardındaki gerçeği bulmak.
+227|Miu'nun... öldürüleceğini hiç düşünmemiştim.
+228|Avatarını orada... hareketsiz görünce...\nbelki diye düşündüm ama...
+229|Doğru... Miu'nun Sanal Dünya'daki avatarının\nhareketsiz kaldığını görmüştün.
+230|Ben, Keebo ve Maki avatarını birlikte bulduk...
+231|Bana bundan biraz daha bahsedebilir misin? \nHerhangi bir ayrıntı?
+232|Şapelde <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL>\narıyorduk...
+233|Miu da, değil mi?
+234|Hayır, Miu şapelin dışına bakmaya gönüllü\noldu, o yüzden bizimle değildi.
+235|<CLT=cltMIND>*Miu* dışarıya bakmaya gönüllü mü oldu?

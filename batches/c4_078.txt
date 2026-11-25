@@ -1,0 +1,54 @@
+@ chap4_text_US
+## c04_223_000
+41|Ama tabelanın akıntıya kapılma şekliyle \nilgili başka bir şey olmalı!
+48|Neee? Shuichi de mi bilmiyor?
+49|VAAAAAAAAAAAHHHHHHHH!!!!!\nHEPİMİZ BİTTİK!!!!!
+51|Sadece Miu'nun bildiği bir şey var\nve bu bizi şaşırtıyor.
+52|Şaşırdığımızı söylüyorsun ama\nepey sakin görünüyorsun...
+54|Tabelanın nehirde doğal olmayan şekilde\ntaşınmasıyla hangi ipucu ilgili?
+55|<CLT=cltSTRONG>Sadece nesnelerin geçebildiği\nduvarla<CLT=cltNORMAL> ilgili olabilir...
+56|Tabelanın şapelin öbür tarafındaki\nduvarda durması gerekirdi.
+57|Ama o duvar Miu'nun <CLT=cltSTRONG>nesnelerin geçmesine\nizin verecek<CLT=cltNORMAL> şekilde ayarladığı duvarsa...
+58|Anlıyorum... <CLT=cltSTRONG>sadece insan olmayanların\ngeçebildiği<CLT=cltNORMAL> bir duvar...
+59|Yani tabela duvardan geçebilir,\ndeğil mi?
+60|Şapel duvarından geçebilse bile\nkonağın yanına nasıl gitti?
+61|Bunu yapabilmesinin tek yolu duvarın bir\nIşınlanma Bölgesi olmasıydı, ama değil, değil mi?
+62|<CLT=cltMIND>Doğru, buradaki asıl\nsorun bu...
+63|<CLT=cltMIND>Tabela duvardan geçip nasıl konak\ntarafına varabildi?
+64|<CLT=cltMIND>Bunu ne açıklayabilir?
+65|Bana bırak, Shuichi! Ben, ortağın,\nzor zamanlarda sana ipucu vereceğim!
+67|Burası Sanal Dünya. Bütün sağduyumuzu\natmalıyız, tamaaam mı?
+68|Ha? Bu ne demek be?
+69|<CLT=cltMIND>Kokichi bir şeyin peşinde\nolabilir...
+70|<CLT=cltMIND>Bildiklerimizi unutup sadece\nbunu düşünmeliyiz.
+71|<CLT=cltMIND>Tabela aşağıdaki duvardan geçip nasıl\nyukarıda bitti...?
+72|<CLT=cltMIND>Sağduyuyu bir kenara bırakıp\n<CLT=cltSTRONG>nehrin akışına<CLT=cltMIND> odaklanırsak...
+73|Başka bir tabela
+74|Belki bulduğumuz tabela sadece başka,\naynı görünen bir tabeladır.
+75|Hmm... Sağduyunu atsan bile bu\nolamaz.
+77|Tabela ışınlandı
+78|Belki duvar tabelanın ışınlanmasına\nsebep oldu.
+79|Dediğim gibi, duvar bir ışınlanma\nnoktası değildi...
+81|Aşağısı ve yukarısı bağlı
+83|Hmmm? Çekiniyor musun?\nSenin gibi bir dedektif bilmeli!
+86|Ya <CLT=cltSTRONG>nehrin iki ucu birbirine bağlıysa<CLT=cltNORMAL>?
+87|Ha? Nehrin iki ucu bağlı mı?
+88|Aynen. Başka bir deyişle nehir şapelin\nyanındaki duvarda kesilmiyor...
+89|Hepsi büyük bir döngünün parçası. Nehrin\nyukarı kısmı ona bağlı.
+90|Ne!? Ne diyorsun sen!?\nNehrin iki ucu bağlı olamaz—
+91|Tekrar ediyorum, bütün sağduyuyu kafandan\nat. Sanal Dünya'dan bahsediyoruz.
+92|O zaman duvar ne olacak? İçinden geçilebilen\nsadece bir duvar vardı.
+93|Doğru. Nehir bağlı olsa ve şapel\nduvarından geçse bile...
+94|Konak duvarından da geçemezdi!
+95|<CLT=cltMIND>Dur, o zaman...
+96|Anladım... Miu'nun neden sadece bir\nduvar kurduğunu biliyorum.
+97|Nyeh? Şimdi neden bahsediyorsun?
+98|<CLT=cltMIND>Sadece bir duvar kurmasının sebebi\nşapel ve konak duvarlarının...
+99|Bir duvar zaten yerindeydi
+100|Duvarlardan biri zaten oradaydı.
+101|Yani başka bir duvar mı koydu?\nBunun anlamı neydi?
+103|Onlar aynı duvar
+104|Onlar birebir kopya
+105|Belki duvarlardan biri sadece bir\nkopya olduğu için...?
+106|...Öyle bir şeyi hiç duymadım.
+109|Ee? Bir şey çözdün mü?

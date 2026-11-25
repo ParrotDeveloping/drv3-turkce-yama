@@ -1,0 +1,58 @@
+@ chap4_text_US
+## c04_001_010
+106|Hı? Neredeyim? Kaoru nerede...?
+107|Ah! Karakterin tamamen\ndeğişmiş!
+108|Babalık... Ailem... Ve sen...\nBeni sevdiğiniz için... teşekkürler!
+109|Hadi ama! Artık hatırla!
+110|*iç çekiş*... Ne kadar sevimli ve ilginçler.\nOnları sonsuza dek izleyebilirim.
+111|Onlardan bıktım artık...
+112|Heeey, biraz da bize ilgi gösteeer.\nÖdülümü hemen istiyoruuum.
+113|Monokuma ile ne zaman bu kadar \nsamimi oldun Kokichi?
+114|Tamam, tamam. Bu seferki ödül—
+115|Ta-da! Efsanevi <CLT=cltSTRONG>Levitaş<CLT=cltNORMAL>, paha biçilmez\n<CLT=cltSTRONG>Ahtapot Fırçası<CLT=cltNORMAL> ve...
+116|bir <CLT=cltSTRONG>kart anahtar<CLT=cltNORMAL>! Ki tesadüfe bakın,\naynı zamanda motif de o!
+117|<CLT=cltMIND>Motif mi!?
+118|<CLT=cltSTRONG>Motif<CLT=cltNORMAL>... mi dedin!?
+119|Evet! Bu <CLT=cltSTRONG>gizemli kart anahtar<CLT=cltNORMAL> sizin\nbir sonraki motifiniz!
+120|Klasik havuç ve sopa yöntemi! Kimse havucu\nya da sopayı Babacık kadar iyi kullanamaz!
+121|Havucunu da sopanı da boş ver!\nBana kırbaç ve zincir ver sonuna kadar!
+122|Kart anahtar mı <CLT=cltSTRONG>motif<CLT=cltNORMAL>?\nBu ne demek oluyor?
+123|Yani kart anahtarla açabileceğimiz yeni\nalan... Asıl motif orada mı?
+124|Puhuhu, o bir sır. Bu kadar merak\nediyorsanız neden kullanmıyorsunuz?
+125|Hayır, kullanmamalıyız. Başka bir cinayetin\nolmasını engellemek istiyorsak—
+126|Kaptım! O kart anahtarı ben alayım o zaman!
+127|<CLT=cltMIND>Kokichi çevik vücudunu kullanarak\nkart anahtarı Monokuma'dan kaptı.
+128|A-Ama o Monokuma'nın <CLT=cltSTRONG>motifi<CLT=cltNORMAL>! Ya\nbaşka cinayet olursa!?
+129|Hiç umurumda olmaz, biliyor musun?
+131|Çünkü bu öldürme oyunu ve biz de\noyuncularız, bu kadar basit.
+132|Oyuncular neden oyunu *oynamasın* ki?
+133|Saçmalamayı bırak da onu bize ver!
+134|Hayııır sağ ol! Görüşürüüüz!
+135|Ne—! Hey! Bekle!
+136|<CLT=cltMIND>Kokichi yemekhaneden koşarak çıktı,\nKaito da peşinden.
+137|Koridorlarda koşmak normalde yasak,\nama sanırım erkekler böyledir.
+138|Bir de söylemeyi unuttum, bir yere başka\nbir <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> sakladım.
+139|Bakalım bir dahaki sefere hangi anıları\nortaya çıkaracaksınız! İyi avlar!
+140|Ha? "<CLT=cltSTRONG>Hoşça kalın, ayıcıklar<CLT=cltNORMAL>" ne demek?
+141|Onu da mı unuttun!? Hadi, gidelim!
+142|N-Ne yapmalıyız?\nKokichi ve Kaito gitti.
+143|Kokichi'yi o <CLT=cltSTRONG>kart anahtar motifiyle<CLT=cltNORMAL>\nyalnız bırakamayız...
+144|Ama... siz de <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı\nmerak etmiyor musunuz?
+145|Belki hep birlikte arayıp Kokichi'yi\nde aramalıyız.
+146|İyi fikir ama... biz Kokichi'yi arayalım,\nsen de aramaya odaklan.
+147|Şu an bir dedektif olarak yeteneklerine\nihtiyacımız var, Shuichi.
+148|Peki... O zaman şunları ben tutayım.\nEtrafa tekrar bakacağım.
+149|Nyeeeh, Shuichi büyümüş!\nÇok güvenilir biri olmuş!
+150|Artık bu kadar saygın olduğuna göre,\nistersen beni sevmene izin veririm!
+151|Ah, anlıyorum, demek o onur Shuichi'nin.
+152|Shuichi çok harika. Gonta da herkese\nyararlı olmak istiyor.
+153|Merak etme. Zamanı gelince vücudunu\ninsan kalkanı olarak kullanırız.
+154|Tamam! Gonta umar zaman yakında gelir!
+155|Hayır... Gelmemesini ummalısın.
+156|<CLT=cltMIND>Pekala, nereden başlasam?
+157|<CLT=cltMIND>Bu <CLT=cltSTRONG>gizemli eşyaları<CLT=cltMIND> kullanabileceğim\nbir yer arayacağım.
+158|Gonta herkese yararlı olabildiği için mutlu!
+159|Gonta Shuichi'den öğrenmek için elinden geleni\nyapacak ve daha da yardımcı olacak!
+160|...Ama o mesaj ne demek ki?
+161|Biri... bize bu dünya hakkında bir şey\nsöylemeye mi çalışıyor?
+162|Sen aramaya odaklan, Shuichi.\nKokichi'yi aramayı bize bırak.

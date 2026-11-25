@@ -1,0 +1,69 @@
+@ chap4_text_US
+## c04_201_000
+6|Ha? Yani... beraberlik gibi mi?
+7|İkisi de kara eller demek olur.\nBiri doğru olduğu sürece sorun yok.
+8|Babacık... böyle bir kararı bu kadar\nrahat vermen gerçekten doğru mu?
+9|Evet, sorun yok... Neyse işte.
+10|Teşekküürler! Bu da cevaplandığına göre artık\nbu ölüm kalım oyununun tadını çıkarabilirim!
+11|Ne oyunu!? Bunu daha ne kadar\nsöyleyip duracaksın!?
+12|Kokichi'yi boş verin. Geri kalanımız gerçeği\nbulmak için birlikte çalışmalıyız.
+13|Anladınız mı!? Burada ölemeyiz!
+14|Aman! Himiko ne kadar kararlı olmuş!
+15|Doğru. İnsanlar gerçekten değişiyor.
+16|...Ama şimdi onu bu kadar özgün yapan\nşeyi kaybetti.
+17|Bu seni ilgilendirmez!
+18|...Sınıf duruşmasına odaklanmalıyız.\nÖnce netleştirmemiz gereken—
+19|Fail Kaito!
+20|Ne!? Yüzüme söyle şunu!
+21|Hepimiz hâlâ girişliyken Kaito tek başına\nçıkış yaptı, değil mi?
+22|Serbestçe hareket edebiliyordun. Bu, cinayeti\nsenin işlemiş olabileceğin anlamına gelmez mi?
+23|Saçmalama!\nFail olmamın hiçbir imkânı yok!
+24|Kaito haklı!\nKaito Miu'yu öldürmüş olamaz!
+25|Bunu daha ne kadar söyleyeceksin?\nGüvenilen insanlar da öldürebilir, biliyor musun?
+26|Bunu zaten bir sürü kez gördük!\nO kadar çok kez ki... Kaede'den beri.
+28|<CLT=cltMIND>Kaito'nun çıkış yapan tek kişi\nolması şüpheli...
+29|<CLT=cltMIND>Ama fail o değil!\nOlamaz!
+## c04_202_000
+0|Haaa? Ama Miu hâlâ girişli değil miydi?
+1|Miu'nun çıkış yaptığını kanıtlayan\nherhangi bir kanıt var mı?
+3|Zehir şişesindeki etiketi gördün, değil mi\nShuichi? En küçük miktarı bile öldürebiliyor.
+4|Yüzündeki o acı ifadesi... kesinlikle zehrin\nbelirtilerine benziyordu.
+5|Bu yüzden fail Kaito!
+6|Yapmadım dedim!\nShuichi, bana destek ol!
+8|Zehir şişesi Kokichi'nin\nsandalyesindeydi, değil mi?
+9|Bu bir gerçek!
+10|Ama bu Kaito'nun dikkatimizi kendinden\nbaşka yere çekmek için acınası bir planı değil miydi?
+11|Fail ben olsaydım gerçekten böyle aptalca\nbir hata yapacağımı mı düşünüyorsun?
+13|<CLT=cltMIND>Önce Miu'nun gerçek dünyada mı yoksa Sanal\nDünya'da mı öldürüldüğüne karar vermeliyiz.
+14|<CLT=cltMIND>Gerçekten zehirle öldürüldüyse gözlerinin\nkanlanmış olması gerekmez miydi?
+15|Öyleyse...
+17|<CLT=cltMIND>Sorun da burada.
+## c04_202_001
+0|<CLT=size2>Kaito
+1|Kaito tek başına önce çıkış yaptı...
+2|<CLT=size2>tek başına<CLT=size1> önce
+3|<CLT=size2>çıkış yaptı...
+4|<CLT=cltWEAK><CLT=size2>Miu<CLT=size1> ise hâlâ <CLT=size2>girişliydi,
+5|Miu ise hâlâ girişliydi, ama...
+6|<CLT=size2>ama...
+7|İşte o zaman onu\n<CLT=size2>zehirledin, 
+8|İşte o zaman onu zehirledin, değil mi Kaito?
+9|<CLT=cltWEAK><CLT=size2>değil mi<CLT=cltNORMAL>,<CLT=size1> Kaito?
+10|İşte o zaman onu\n<CLT=cltWEAK><CLT=size2>zehirledin, 
+11|<CLT=size2>Kaito... fail mi!?\n<CLT=size3>İmkânsızmaz!
+12|Kaito... fail mi!?\nİmkânsızmaz!
+13|Tabii ki "imkânsızmaz"!\n<CLT=size2>Çünkü ben yapmadım!
+14|Tabii ki "imkânsızmaz"!\nÇünkü ben yapmadım!
+15|Yani, o <CLT=size2>zehir<CLT=size1> <CLT=size2>şişesini...
+16|Yani, o zehir şişesini...
+17|<CLT=cltWEAK><CLT=size2>Kokichi'nin
+18|Kokichi'nin koltuğunda bulmadık mı!?
+19|<CLT=cltWEAK><CLT=size3>koltuğunda,
+20|bulmadık mı!?
+21|Fail suçu
+22|Fail suçu\nbana atmaya çalışıyordu...
+23|bana <CLT=size3>atmaya<CLT=size1> çalışıyordu...
+24|O\n<CLT=size2>oyalama\n<CLT=size1>senin
+25|O oyalama senin planının bir parçasıydı, değil mi Kaito?
+26|planının parçasıydı,\ndeğil mi <CLT=size2>Kaito?
+27|Ee, Kaito?\nSon\n<CLT=size2>sözlerin?

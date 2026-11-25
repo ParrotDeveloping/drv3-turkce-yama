@@ -1,0 +1,72 @@
+@ chap4_text_US
+## c04_019_210
+2|Ben yemek salonuna bakacağım. Sen de lütfen\nmutfağa bakabilir misin, Shuichi?
+## c04_020_200
+45|Yani Gonta'nın sadece tahtayı nehrin üstüne koyması mı lazım?
+46|Ama tahta çok ince. Sorun olmaz mı?\nYa tahta bu sefer kırılırsa—
+47|İnce olabilir ama sağlam ahşaptan!\nAcele edip köprüyü koyabilir misin artık!?
+48|T-Tamam! Anladım!
+49|Ne oldu? Orada ne oldu!?
+50|Sonra açıklarım. Ama hemen çıkış\nyapmamız lazım.
+51|Çıkış mı?
+52|Ha? Miu nerede?
+53|O-Ona bir şey oldu!
+54|Ne demek istiyorsun!?
+55|Emin değiliz ama avatarı hareket etmiyor.
+56|Belki gerçek dünyada onu hareket\nettirmesini engelleyen bir şey olmuştur.
+57|B-Bu çok kötü görünüyor millet... Tamam...\nsalona gidip hemen çıkış yapalım.
+58|...Hey, Kaito nerede?
+59|Ah, Kaito! B-Bilmiyorum, buraya olabildiğince\nhızlı koştum, çatıya bakmadım...
+60|...Onu almak için çatıya gitme zahmetine\nbile girmedin. Sandığımdan daha soğuksun.
+62|Shuichi, acele edelim!
+64|Çıkış yapmalıyım, beni bekliyorlar!
+65|Tuvalet kâğıdı mı...?
+66|Şimdi boş ver onu, şapele\ngitmem lazım!
+68|<CLT=cltMIND>Acele edip şapele gitmeliyim!
+69|<CLT=cltMIND>Keebo'ya bir şey olmuş olabilir!\nOyalanacak vakit yok, şapele gitmeliyim!
+## c04_020_208
+0|Giriş salonunda bir şey yok...\nBelki dışarıda bir şey vardır?
+1|Belki o ses çatıdan düşen bir\nşeydir?
+2|<CLT=cltMIND>Ama... çatıdaki kişi...
+3|Ş-Şimdilik dışarı çıkıp\nbakalım—
+4|O-Olamaz!
+6|O Keebo'nun sesiydi, değil mi!?\nSanırım dışarıda duydum! Yakından geliyordu!
+7|Ama Keebo şapelde olmalı, neden...?
+8|Neyse, dışarı çıkalım! Kendi gözümüzle\ngörmek daha hızlı olur!
+9|D-Doğru!
+10|Keebo'nun sesini neden duyduğumu bilmiyorum ama...
+11|Neyse, dışarı çıkalım!
+12|<CLT=cltMIND>Keebo'nun sesini dışarıda duydum!\nBakmalıyım!
+## c04_021_029
+2|<CLT=cltMIND>Gözlerimi açtığımda\nsadece siyah görebiliyordum.
+3|<CLT=cltMIND>Çıkış yapmıştım.
+4|<CLT=cltMIND>Başımdaki kask görüşümü\nengelliyordu.
+5|<CLT=cltMIND>Bunu fark edince hemen uzanıp\nkaskı tuttum ve çıkardım.
+6|<CLT=cltMIND>Ama çıkardığımda beni mide bulandırıcı\nbir manzara bekliyordu.
+7|<CLT=cltMIND>Miu'nun soğuk, cansız bedeni.
+## c04_021_206
+0|Dur, Shuichi. Aynı anda sadece bir kişi\nçıkış yapabiliyor.
+1|...Sıra Gonta'da.
+2|Şey... Yani Gonta sadece telefona adını söyleyecek\nve biri gelip onu alacak mı?
+3|Kimin umurunda? Yap artık şunu.
+4|Şey... Gonta Gokuhara...
+5|Yok oldu...\nDemek çıkış yapmak böyle görünüyor.
+6|Demek çıkış yapınca avatarlar yok oluyor.
+7|Ama Miu'nun avatarı hâlâ burada ve\nhareketsiz, değil mi?
+8|...Bu ne demek?
+9|N-Neyse, acele edip geri dönelim!
+10|Tsumugi Shirogane...
+11|Ah, Shuichi, benden önce çıkış yapabilirsin. Eminim\ndedektif sezgilerin devreye giriyordur, değil mi?
+12|Yani, buyur.
+14|Utanma, buyur.
+15|Ah, demek gerçekten önce gidiyorsun? Ah-haha,\nşaka yapıyordum! Ama yok, cidden. Buyur.
+16|Ah, dur! Artık yalnız olduğumuza göre\nsana bir şey söylemek istiyorum.
+18|Gerçekten işe yarar birisin.
+20|Ee, aptal Kaito'yla takılmayı bırakıp\nonun yerine *benim* arkadaşım olsana?
+21|Bence ben de sana yararlı olabilirim...\nbiliyor musun?
+22|Herkesi kurtarmana yardım edebilirim.
+23|Ve sen de herkesi kurtarmak istiyorsun, değil miiii?
+25|...Shuichi Saihara.
+26|Nii-hihi... ah, reddedildim.\nAma o kadar kolay pes etmem.
+27|Hoşlandığım birini bulunca beni fark etmesi\niçin her şeyi yaparım... boğmak bile.
+28|<CLT=cltMIND>Miu için endişeleniyorum!\nÇıkış yapmam lazım!

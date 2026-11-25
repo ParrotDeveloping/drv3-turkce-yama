@@ -1,0 +1,53 @@
+@ chap4_text_US
+## c04_102_208
+5|Ah... pardon...
+6|Hadi ama. Yeter artık.\nSoruşturmaya karışma.
+7|K-Karışmıyordum...
+8|Dur, siz neden buraya geri geldiniz?\nİncelemeyi bitirdiniz mi?
+9|Sırada çatıyı incelemek istiyordum.
+10|Ha? Çatının nesi önemli?
+11|Miu bütün zaman boyunca şapelde değil miydi?\nOnu yanındaki yerde bulduk.
+12|Hadi hadi, Shuichi'nin akıl yürütmesine güvenelim.
+13|Shuichi kesinlikle yapabilir. Ne de olsa\no <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>.
+14|Öyle olacaksan istediğini yap.\nÇatıyı mı incelersin, ne yaparsan yap.
+15|Ama Shuichi benim yardımcım! Yani\nonun çıkarımları benim çıkarımlarım!
+16|Ve benim çıkarımlarım da onun!
+17|Ne yani... başkasının emeğini çalan bir zorba mısın?
+18|Neyse, geçen sefer sözüm kesildiği için\nMiu'nun avatarını inceleyeceğim.
+20|Pekala o zaman, çatıya gidelim.
+21|Evet, gitmeliyiz.
+22|<CLT=cltMIND>Monotaro'nun incelemesinin sonuçlarını merak\nediyorum. Salondan çıkış yapmalıyım.
+23|<CLT=cltMIND>Süre yakında dolabilir...\nAcele edip çatıya gitmeliyim.
+## c04_102_211
+0|Depo...
+1|<CLT=cltMIND>Hatırladığımdan biraz farklı.
+2|<CLT=cltMIND>Sanki... bir şey eksik gibi.
+4|<CLT=cltMIND>Bir şeyin eksik olduğunu düşünmeden\nedemiyorum...
+6|<CLT=cltMIND>Ama ilk seferinde dikkatli bakmamıştım,\no yüzden hatırlamıyorum...
+## c04_103_029
+2|<CLT=cltMIND>Cihazı başımdan çıkardım ve\ngerçek dünya önümde belirdi.
+3|Ee, Shuichi? Gerçek dünya bir sanal\ngerçeklikten çok daha iyi değil mi?
+4|Neyseee, sen yokken çok yalnız hissettim.\nBeni sevilmemiş hissettirdiğin için özür dile.
+5|...Hey. Sana sormak istediğim bir şey var.
+6|Hm? Sen girişliyken karnına hiç miiii\nbir şey çizmedim, tamam mı?
+8|Nii-hihi, şaka yapıyorum.\nEe, ne sormak istiyordun?
+9|...Miu ile çatıda buluşmayı planlamıştın,\ndeğil mi? Sonunda buluştunuz mu?
+11|Ooohh, demek bunu biliyorsun, Shuichi.\nEtkileyici, Bay <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>.
+12|O zaman ne olduğunu anlatayım.
+13|Miu ile hiç buluşmadım. Kilitli olduğu için\nçatıya çıkamadım.
+14|Kilitli mi?
+15|Sonra pes edip <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL>\naramak için salona döndüm.
+16|...Bu doğru mu, Kokichi?
+17|Hm? Benden şüphe mi ediyorsun?
+18|Bütün zaman boyunca salonda olduğunu\ndoğrulayabilecek biri var mı?
+19|Orada biriyle karşılaştın mı?
+20|Hayır, tanığım yok...
+21|Ama orada *olmadığımı* kanıtlayabilecek bir\ntanık da *yok* diyebilirsin!
+22|Salonu kendin boş görmediysen tabii.
+24|Eh, bana inanıp inanmamak\nsana kalmış...
+25|Ama benden böyle şüphelenmemelisin!\nBiz ortağız!
+26|<CLT=cltMIND>Hangisi...?
+27|<CLT=cltMIND>Kokichi Miu ile buluştu mu buluşmadı mı?
+28|<CLT=cltMIND>Yalan mı söylüyor yoksa doğruyu mu...?
+29|<CLT=cltMIND>Hangisi...?
+30|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Salondaki Kokichi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.

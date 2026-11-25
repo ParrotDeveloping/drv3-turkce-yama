@@ -1,3 +1,4 @@
+0	<CLT=cltMIND>Hâlâ biraz vakit var...
 1	Evet
 2	Hayır
 3	Emin olmadığın bir şey mi var?
@@ -8,4 +9,7 @@
 8	Hayır
 9	Emin olmadığın bir şey mi var?
 10	<CLT=cltSYSTEM>Yatakta dinlenmek ister misin?\nDinlenirsen Serbest Zaman biter.
+11	<CLT=cltMIND>Hâlâ biraz vakit var...\nBiraz dinlenmeliyim.
 12	<CLT=cltMIND>Epey büyük bir lamba.\nOdayı iyi aydınlatıyor...
+13	<CLT=cltMIND>Dolabımda bir sürü\naynı üniforma...
+14	<CLT=cltMIND>Böyle bir hazırlık, bizi hedef\naldıkları anlamına geliyor olmalı.

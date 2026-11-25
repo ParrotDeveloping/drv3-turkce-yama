@@ -1,0 +1,62 @@
+@ chap4_text_US
+## c04_014_262
+15|...Demek Kaito'ya henüz söylemedin.
+16|İşe ilk başladığımda bir katanayla bir\ngörevi berbat ettim.
+17|O zamandan beri kılıç kullanmamaya karar verdim...
+19|O suratı yapma. Kötü bir niyetin\nolmadığını biliyorum.
+20|Hayır, sana kötü hissettiren bir şeyi\nhatırlattığım için benim suçum.
+21|Tamam! Şimdi anlat bize!\nHepsini dinleyeceğim!
+23|İnsanlara başarısızlıklarını anlatmak zordur.\nAnlıyorum. Ama sana söylemedim mi?
+24|Yüklerini başkalarıyla paylaşabilmek...\nBöyle güçlenirsin!
+25|Geçmişine sonsuza dek tutunma!\nİlerlemek için onunla yüzleşmelisin!
+26|Ve bunda sana ben yardım edeceğim!
+27|...Ne diyorsun sen?
+28|Saçmasın. Neyse, o başarısızlık artık\nbeni rahatsız etmiyor.
+29|Ama anlatmaktan çekinmem. Yalnız uyarayım,\nsıkıcı bir hikâye.
+31|<CLT=cltMIND>Eskiden bana sadece kendi işime\nbakmamı söylerdi.
+32|<CLT=cltMIND>Maki o zamandan beri çok değişti...
+33|...Bir suikast planlarken önce ayrıntılı\nbilgi toplaman gerekir.
+34|Hedefi tanıman gerekir; programını,\nhareketlerini, arkadaşlarını ve tanıdıklarını...
+35|Bu hedef normalde gece geç saatlere\nkadar çalışırdı...
+36|Ama programına daha derinden bakınca bazı\ninek hobileri olduğunu öğrendim.
+37|İnek hobileri mi?\nTsumugi'ninki gibi mi?
+38|Evet, tıpkı onunki gibi.\nÖzellikle kostüm giymeyi severdi.
+39|Kostüm mü?
+40|<CLT=cltMIND>Maki'nin ağzından "kostüm" lafını duyacağımı\nmilyon yılda hayal edemezdim.
+41|Hedefimin özel hayatını gözlemlerken...
+42|Silahımı gizleyerek ona yaklaşmak için\niyi bir plan düşündüm.
+43|Nasıl?
+44|...Bir aksesuar taşıma çantası.
+45|O ne? Normal bir taşıma çantasından\nne farkı var?
+46|Tsumugi bilirdi.
+47|Kostüm aksesuarları için özel yapılmış\nbir taşıma çantası.
+48|Büyük aksesuarları alabildiği için taşıması\nkullanışlı...
+49|Ben de o taşıma çantasına bir katana koyup\nharekete geçtim.
+50|Ama sonra... etraftaki insanlar beni kostümcü\nsandı ve tuhaf bir şey oldu.
+51|Ne oldu?
+52|O gün hedefin gittiği salonda bir\nkostüm etkinliği düzenleniyordu.
+53|Ne yazık ki...
+54|...Boyum ve saç modelim, aynı zamanda katana\ntaşıyan popüler bir karakterle aynıydı.
+55|O karakterin kostümünü giydiğimi sandılar...
+56|...ve pahalı fotoğraf makineli heyecanlı bir\ngrup insan tarafından bir salona sürüklendim.
+57|Çantamdaki silahları neredeyse görüyorlardı...
+58|Görselerdi, katanamın aslında gerçek\nolduğunu anlarlardı...
+59|Kıl payı kurtulmuşsun gibi...
+60|Hahaha! Bu "ciddi başarısızlığının" ne\nolacağını merak ediyordum!
+61|Evet, açıkçası... beklediğimden çok\ndaha tatlıydı.
+62|Gülmeyin... Benim için çok ciddiydi...
+63|Böyle aptalca bir şey yüzünden başarısız\ndamgası yedim.
+64|Yetimhaneye artık bağış yapmasalardı...\no zaman... her şey biterdi...
+65|Ah... haklısın...
+66|Evet, haklısın... bu komik değil.
+67|Güldüğüm için gerçekten özür dilerim...
+68|Evet, ben de... Güldüğüm için özür dilerim, Maki.
+70|Ö-Özür dilemenize gerek yok. Kızgın değilim.
+71|<CLT=cltMIND>Maki somurtarak başını\nyana çevirdi.
+72|<CLT=cltMIND>Yüzündeki o ifade...\nHikâyeleriyle bize açılması...
+73|<CLT=cltMIND>Bunu asla hayal edemezdim.
+74|<CLT=cltMIND>Onun hakkındaki izlenimim\nyine değişti.
+75|<CLT=cltMIND>Maki ve Kaito hakkında hâlâ bilmediğim\nçok şey var...
+76|<CLT=cltMIND>Umarım Maki haklıdır. Çıktıktan sonra\nbirbirimizi daha iyi tanıyabiliriz...
+77|<CLT=cltMIND>Hayır. Arkadaş olacağız!\nBuradan kesinlikle çıkacağız!
+78|<CLT=cltMIND>Kılıçla bir tur antrenmandan sonra\nodama döndüm.

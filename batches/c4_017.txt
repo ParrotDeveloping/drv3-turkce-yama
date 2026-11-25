@@ -1,0 +1,70 @@
+@ chap4_text_US
+## c04_007_010
+19|Aslında neden öldürme oyununu durdurmak\nisteyesiniz ki? Daha yeni eğlenceli olmaya başladı!
+20|Şimdi durdurmak israf olur.
+21|Hepiniz kafayı yemişsiniz! Kafanızda bir\nsorun mu var!?
+22|Asıl senin kafanda sorun var!
+23|Aa, yoksa... oyunu kazanacak kadar kendinize\ngüvenmiyor musunuz?
+24|Hay Allah, gerçekten o kadar korkaksanız\nkaybedebilirsiniz bile, biliyor musunuz?
+25|Ama ben özgüven doluyum!\nNe olursa olsun bu oyunu kazanacağım!
+26|O-Oyunu kazanmak...
+27|O zaman bir sonraki kara eller\nolmayı mı planlıyorsun?
+28|Ben mi...? Bir sonraki kara eller mi?
+29|Evet, tabii. Kazanmama yardımcı olacaksa\nyaparım.
+31|Tabii ki! Oyunlar ancak ciddi\noynandığında eğlencelidir, değil mi!?
+32|Hadi, millet! Daha çok tadını çıkaralım! Her zaman\nöldürme oyunu oynama fırsatı olmuyor, biliyor musunuz?
+33|Peeeki, bir sonraki kurban kim olacak!?\n
+34|Başka bir kurban olmadan oyun devam edemez!\nBiri artık öldürmeye başlasın!
+35|Yapmazsanız o zaman ben birini öldürürüm!\nTıpkı söz verdiğim gibi, anladınız mı!?
+36|Seni... Yeter artık!
+37|<CLT=cltMIND>Kaito bir mermi gibi\nKokichi'ye atıldı ve...
+38|<CLT=cltSYSTEM>*güm!*
+39|Kokichi... sana ne oluyor be?
+41|Zaten başından beri kafadan sorunluydun\nama bu bambaşka bir seviye tuhaflık...
+42|Böyle davranmaya devam edersen aklını\nyumrukla başına getireceğim!!!
+43|Şey... zaten vurdun.
+44|Kaito, lütfen dur. Şiddet uygulamak için\nasla iyi bir sebep yoktur.
+45|Küçük saldırganlıklar bile... cinayet gibi\nvahşetlere yol açabilir.
+47|<CLT=cltMIND>Keebo onu ikna etti.\nKaito sıktığı yumruğunu indirdi.
+48|Çık... peki.\nŞimdilik duruyorum.
+49|Ama Kokichi... umarım o aptal\nkonuşmanın tamamı yalandı.
+51|Belki... Gonta yapmak zorunda.
+52|Arkadaşlar böyle kavga edecekse o zaman\nGonta gidip Monokuma ile savaşır.
+53|Dediğim gibi, yapamazsın. Lütfen pervasız\nbir şey yapma.
+54|Evet, doğru...\nBu kadar pervasız olmaya gerek yok.
+56|Hah-hahaha! Pervasız olman gereken tek şey\nşu ağaç gövdesi gibi aletin!
+57|...derdin normalde. Ama bu hiç\nsana benzemeyen endişe de ne?
+58|Ciddiyim, Gonta'nın bu kadar pervasız\nbir şey yapması için hiçbir sebep yok.
+59|Çünkü ben, muhteşem dahi kız Miu Iruma,\nhepinizi kurtaracağım!
+60|Ha? Bizi kurtarmak mı?
+61|Anladınız mı!? Biraz daha bekleyin!
+62|Sizi öldürme oyununun olmadığı\nbir dünyaya götüreceğim!
+63|Öldürme oyununun olmadığı\nbir dünya mı?
+64|Hah-haha! Bekleyip göreceksiniz!
+65|Ooh... Planımı sır olarak saklayacağım!\nMerakta bırakmaya bayılırım!
+66|Nyeeeh... İçimde bununla ilgili kötü bir his var.
+67|Evet, bende de...
+68|<CLT=cltMIND>O garip atmosferde kahvaltı ettikten\nsonra odalarımıza döndük.
+## c04_008_101
+0|<CLT=cltMIND>Himiko ile buluşmaya söz verdim.\nDojoya gideyim.
+1|<CLT=cltMIND>Gonta'nın Monokuma ile savaşmak istemesinin\nsebebi arkadaşlarını kurtarmaktı...
+2|<CLT=cltMIND>Sanırım... Miu da aynı.
+3|<CLT=cltMIND>Peki ya ben?
+4|<CLT=cltMIND>Arkadaşlarım ölüyor... ve tek yapabildiğim\nher şey bittikten sonra cinayetlerini çözmek.
+5|Yapabileceğim daha fazla şey olmalı...
+16|<CLT=cltMIND>Hâlâ biraz vakit var...\nBiraz dinlenmeliyim.
+## c04_008_151
+0|Ah, Shuichi, geldin.
+1|Shuichi! Bunu birlikte yapalım!
+2|Ha? Sen de mi buradasın, Gonta?
+3|Gonta Himiko'ya yardım etmek istiyor!
+4|Yardım mı?
+5|Himiko sıkı çalışmaya, Angie ve Tenko'nun\nhatırı için yaşamaya karar verdi, değil mi?
+6|Gonta Himiko'nun duygularından çok etkilendi!
+7|O yüzden Gonta Himiko'nun pozitif kalmasına yardım\netmek istiyor! Gonta azıcık da olsa yararlı olmak istiyor!
+8|Yardıma ihtiyacım yok...
+9|...Ha? Yok mu?
+10|Ugh—!
+11|H-Hayır... şey, belki bana birazcık \nyardım edebilirsin.
+12|Gerçekten mi? Gonta bir şeye yardım edebilir mi!?
+14|Gonta'ya söyle! Gonta Himiko için her şeyi yapar!

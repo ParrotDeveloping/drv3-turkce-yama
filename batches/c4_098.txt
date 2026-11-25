@@ -1,0 +1,44 @@
+@ chap4_text_US
+## c04_246_000
+30|Kaito, Kokichi, Gonta, Tsumugi ve ben\nkonağı inceledik...
+31|...Maki, Himiko, Keebo ve Miu ise\nşapeli inceledi.
+32|<CLT=cltSTRONG>Bizi ayırmak<CLT=cltNORMAL> da Miu'nun planının bir parçasıydı.
+33|Şapelde Miu, Maki'ye <CLT=cltSTRONG>dışarıya bakacağını<CLT=cltNORMAL>\nsöyledi.
+34|Biz konağa doğru giderken grubumuzun\npeşinden geldi.
+35|Karşıya geçtiğimizden emin olunca\n<CLT=cltSTRONG>köprüyü nehre düşürdü<CLT=cltNORMAL>.
+36|Bu, bizi nehrin konakla şapeli ayırdığını\ndüşünmemiz için kandırmaktı.
+37|O sırada hiçbir şey düşünmedik...\nSadece Miu'nun şakalarından biriydi.
+38|Bu yüzden <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL> bulma\nplanımıza devam ettik.
+39|Konağa gidip <CLT=cltSTRONG>ipucu<CLT=cltNORMAL> aramak için\nayrıldık.
+40|Kokichi salonu aradı.
+41|Kaito çatıyı aradı.
+42|Tsumugi yemek salonunu aradı.
+43|Ben mutfağı aradım.
+44|Ve son olarak fail <CLT=cltSTRONG>konağın\ndışını<CLT=cltNORMAL> aradı!
+45|O sıralarda Miu şapelin yan tarafındaki\n<CLT=cltSTRONG>duvara<CLT=cltNORMAL> doğru gidiyordu.
+46|<CLT=cltSTRONG>Duvardan<CLT=cltNORMAL> geçip Kokichi'yi öldürmek\niçin konağa yöneldi.
+47|Gördüğünüz gibi <CLT=cltSTRONG>duvar<CLT=cltNORMAL>, Miu'nun bizzat\neklediği özel bir duvardı.
+48|Bu duvar <CLT=cltSTRONG>sadece nesnelerin\ngeçebileceği<CLT=cltNORMAL> şekilde programlanmıştı...
+49|...ve Miu avatarının ayarlarını "<CLT=cltSTRONG>insan<CLT=cltNORMAL>"dan\n"<CLT=cltSTRONG>nesne<CLT=cltNORMAL>"ye değiştirmişti.
+50|Kendisi için hazırladığı <CLT=cltSTRONG>gizli yol<CLT=cltNORMAL>\nbuydu.
+51|Sadece kendisinin geçebileceği bir <CLT=cltSTRONG>duvar<CLT=cltNORMAL>\nkurdu!
+52|Miu konağa doğru gitti ama yolda\nTsumugi tarafından görüldü...
+53|Konağa girdiğinde <CLT=cltSTRONG>cep telefonunu<CLT=cltNORMAL>\nçıkardı.
+54|Çıkış yapmanın başka bir yolu olduğunu\nbize söylememişti...
+55|Sonra telefona bir isim söyledi, bu da o\nkişiyi <CLT=cltSTRONG>zorla çıkış yaptırdı<CLT=cltNORMAL>.
+56|O sırada çatıda olan <CLT=cltSTRONG>Kaito<CLT=cltNORMAL>'ydu.
+57|Kokichi ile Miu'nun buluşacağı aynı\nçatı.
+58|Kaito'ya çatıyı aratıp sonra onu\nzorla çıkış yaptırarak...
+59|...onu en şüpheli kişi gibi gösteriyordu.\nAma planı sorunsuz gitmedi.
+60|Kokichi çatıda fail ve Miu'yu öldürmek için\nkullanılan tuvalet kâğıdıyla bekliyordu.
+61|Miu'nun dikkati Kokichi'deyken fail\narkadan sinsice yaklaştı...
+62|Ve konağın banyosundaki <CLT=cltSTRONG>tuvalet kâğıdını<CLT=cltNORMAL>\nkullanarak Miu'yu boğdu.
+63|Bu ancak <CLT=cltSTRONG>Sanal Dünya'daki nesneler\nkırılmaz<CLT=cltNORMAL> olduğu için mümkündü.
+64|Miu'nun avatarı <CLT=cltSTRONG>boğularak öldürüldü<CLT=cltNORMAL> ve\nşok Miu'yu gerçek dünyada öldürdü.
+65|Cinayetten sonra Kokichi temizliği faile\nbırakıp çatıdan ayrıldı.
+66|Şüphe çekmemek için muhtemelen olabildiğince\nçabuk salona döndü.
+67|Fail sonra depodan <CLT=cltSTRONG>kafesi<CLT=cltNORMAL>\naldı...
+68|...ve Miu'nun cesedini çekiç ve cep telefonuyla\nbirlikte üstüne koydu.
+69|Fail kafesi korkuluğun üstünden kaldırıp\nçatının eğiminden güçlü bir şekilde kaydırdı.
+70|<CLT=cltSTRONG>Üstünde bir ceset olunca<CLT=cltNORMAL> kafes geçici bir\nkızağa dönüştü ve çatıdan uçtu.
+71|<CLT=cltSTRONG>Şapele<CLT=cltNORMAL> çarpmadan önce <CLT=cltSTRONG>sadece nesnelerin\ngeçebildiği duvardan<CLT=cltNORMAL> geçti.

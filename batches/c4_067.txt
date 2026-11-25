@@ -1,0 +1,68 @@
+@ chap4_text_US
+## c04_204_001
+13|<CLT=cltAGREE><CLT=size2>Kesinlikle <CLT=size4>o
+14|Kesinlikle o çekiç!
+15|<CLT=size4>　\n　\n　\n<CLT=size2><CLT=cltAGREE>bir <CLT=size4>çekiç<CLT=cltNORMAL>!
+16|Ya da Gonta onu <CLT=cltAGREE><CLT=size2>dövdü
+17|Ya da Gonta onu çıplak elleriyle dövdü.
+18|<CLT=cltAGREE>çıplak\n<CLT=size2>elleriyle<CLT=cltNORMAL>.
+19|Künt bir darbe olduğundan\n<CLT=size2>emin<CLT=size1> miyiz?
+20|Künt bir darbe olduğundan emin miyiz?
+21|<CLT=size2>Bence<CLT=size1>
+22|Bence boğulması daha olası.
+23|<CLT=cltAGREE><CLT=size2>boğulması
+24|daha olası.
+25|Mümkün <CLT=size1>ki
+26|Mümkün ki çok yüksekten itilmiştir!
+27|<CLT=cltAGREE><CLT=size2>itilmiştir
+28|çok <CLT=size2>yüksekten!
+29|Suda\n<CLT=size2><CLT=cltAGREE>boğulmuş olabilir mi?
+30|Suda boğulmuş olabilir mi?
+31|Ölümcül yara...
+32|Buna ne sebep olmuş olabilir?
+33|Yerde ne vardı?
+34|Bu düpedüz yanlış, değil mi?
+35|Bunun mümkün olduğunu sanmıyorum.
+36|Gonta ASLA hanıma vurmaz!
+37|Bu bir uzman görüşü!
+38|Bu düpedüz mümkün!
+39|Bir nehir *vardı* ama...
+## c04_205_000
+0|Miu'nun cesedi ağır travma ve boğuşma\nbelirtileri gösteriyordu.
+1|Evet, acı çekmiş gibi görünüyordu.\nBakması çok... zordu.
+2|Doğru, ve Sanal Dünya <CLT=cltSTRONG>beş duyumuza\nbağlı<CLT=cltNORMAL>.
+3|Vücudu acı hissettiyse Sanal Dünya'da\nda acı çekmiş olmalı.
+4|Bunu bilerek Maki'nin haklı olduğuna inanıyorum.\nMiu <CLT=cltSTRONG>boğularak öldürüldü<CLT=cltNORMAL>.
+5|...Evet, kesinlikle.
+6|Onu boğulmuş gibi gösterebilecek tek\nyöntemler boğma ve zehir.
+7|Ama zehir ihtimalini zaten eledik,\nyani sadece boğma olabilir.
+8|Ayrıca... kurban zehirlendiğinde genelde\ngöğsünü ya da ağzını tutar.
+9|Ama Miu boğazını tutuyordu... Nefes borusunu\nkorumaya çalıştığı belli.
+10|Ooooohhh! Suikastçı usta söz konusu cesetler\nolunca çoook konuşkan oluyor!
+12|Öyleyse kesin ölüm sebebi <CLT=cltSTRONG>Sanal Dünya'da\nboğularak öldürülmek<CLT=cltNORMAL>.
+13|Ama Sanal Dünya'da boğmak mümkün\nmü ki?
+14|Avatarlar eşit güçteyse direnen bir kurbanı\nboğmak zor olurdu.
+15|Evet, onlar kadar güçlüyse onu\nboğabilmelerinin imkânı yok.
+16|O zaman failin bir <CLT=cltSTRONG>alete<CLT=cltNORMAL> ihtiyacı olurdu.
+17|Daha zayıf birinin daha güçlü birini iple\nboğduğu tonlarca vaka var.
+18|Vay! Öldürmek hakkında çok şey biliyorsun! İnek!
+20|Ama o dünyada ip var mıydı ki?\nHiç gördüğümü hatırlamıyorum.
+21|O zaman ip yerine başka bir şey\nkullanmış olmalılar.
+22|<CLT=cltMIND>İp yerine bir şey, ha?\nNe olabileceğine dair bir fikrim var.
+23|<CLT=cltMIND>Soruşturma sırasında bulmuştum.
+24|Eyvaaah! Bir şey yok mu?\nİpe benzer bir şey yok muydu?
+25|Shuichi, gerçekten bilmiyor musun?
+27|Shuichi, ipe benzer bir şey uzun olur\nve bir şeylerin etrafına sarabilirsin!
+28|Bu çoook gereksiz ipucu için sağ ol,\nKaptan Bariz!
+30|Miu'yu boğmak için ne kullanıldı?
+31|Soruşturma sırasında konağın dışında\n<CLT=cltSTRONG>tuvalet kâğıdı<CLT=cltNORMAL> bulduk.
+32|Bu... tuvalet kâğıdı mı?\nTuvalet kâğıdının burada ne işi var?
+33|Tahminimce tuvalet kâğıdı onu boğmak\niçin kullanıldı.
+34|Ne demek istiyorsun, Shuichi?
+35|Ha? Ne oldu...?
+36|Ne oldu mu!? Shuichi oyun oynuyor!\nHiç centilmence değil!
+## c04_206_000
+0|Tuvalet kâğıdıyla boğamazsın!\nYırtılır!
+1|Ne dersen de Shuichi, bunun\nimkânı yok!
+3|<CLT=cltMIND>Gonta'nın ifadesi...\nOnda bir yanlışlık var.
+4|<CLT=cltMIND>Gonta'nın ifadesinde bir tuhaflık var.\nDikkatli olmalıyım...

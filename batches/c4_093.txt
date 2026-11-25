@@ -1,0 +1,74 @@
+@ chap4_text_US
+## c04_242_002
+2|bilgisayarlarda <CLT=size2>kötü<CLT=size1> de ondan!
+3|bilgisayarlarda kötü de ondan!
+4|Gonta bir arkadaşını\n<CLT=size2>asla<CLT=size1>\nöldürmez!
+5|Gonta bir arkadaşını asla öldürmez!
+6|Bunu öylece\n<CLT=size2>varsayabilir<CLT=size1> miyiz?
+7|Bunu öylece\nvarsayabilir miyiz?
+8|Yani,
+9|Yani, daha önce de kendini kaybetmişti...
+10|daha önce de\nkendini kaybetmişti...
+11|Ama Gonta bir böceği bile <CLT=size2>öldüremez<CLT=size1>!
+12|Ama Gonta bir böceği bile öldüremez!
+13|Bu\n<CLT=size2>zayıf\n<CLT=size1>bir argüman.
+14|Bu zayıf bir argüman.
+15|Kendini kaybetmek o kadar da kötü değil...
+## c04_242_003
+1|Gonta ASLA kimseye zarar vermez!
+2|<CLT=size2>ASLA
+3|kimseye <CLT=size2>zarar vermez!
+4|Gonta herkesi\n<CLT=size2>güvende<CLT=size1> tutmak istiyor!
+5|Gonta herkesi güvende tutmak istiyor!
+6|Sen yaptın ama\nyaptığını\n<CLT=size2>hatırlamıyorsun<CLT=size1>, değil mi?
+7|Sen yaptın ama yaptığını\nhatırlamıyorsun, değil mi?
+8|Gonta\n<CLT=size2>centilmen!\n<CLT=size1>Centilmen\narkadaşlarını\n<CLT=cltWEAK><CLT=size2>korur!<CLT=size1><CLT=cltNORMAL>
+9|Gonta centilmen!\nCentilmen arkadaşlarını korur!
+10|<CLT=size2>Yalanların<CLT=size1>\nkimseyi korumuyor.
+11|Yalanların kimseyi korumuyor.
+12|Gonta\nyalan\n<CLT=size2>söylemiyor!
+13|Gonta yalan söylemiyor!
+15|Gonta yemin eder! Lütfen Gonta'ya inanın!
+16|<CLT=size3>yemin eder!
+17|Lütfen <CLT=size2>inanın
+18|Gonta'ya!
+19|Gerçekten Gonta olabilir mi...?
+20|Sana inanıyorum, Gonta!
+## c04_243_000
+0|Gonta'nın avatarını etkileyen hatanın\nsebebi...
+1|...Sanal Dünya'ya giriş yapmak için kullanılan\nkasktaki <CLT=cltSTRONG>iki kablo<CLT=cltNORMAL>.
+5|Bence Gonta kablolarla ilgili bir şeyi\nkarıştırdı ve hataya sebep oldu.
+6|<CLT=cltSTRONG>Bilinç<CLT=cltNORMAL> ve <CLT=cltSTRONG>hafıza<CLT=cltNORMAL> kablolarını karıştırırsa\n<CLT=cltSTRONG>hafızada<CLT=cltNORMAL> bir hata olur.
+7|Mesela... avatarının anılarını gerçek dünyaya\ngetirmeni engelleyen bir hata...
+9|Gonta, kabloları yanlış bağlamış olman\nmümkün mü sence?
+10|Ha? Gonta bunu nasıl\nhatırlasın ki...?
+11|O-Onu karıştırmış olamaz!\nTekrar tekrar söyledim!
+12|Sağ, yemek çubuklarını tuttuğun\nel!
+13|Ah, ama Gonta yemek çubuklarını bu elle tutuyor...
+14|Nyeh!? O-O senin sol elin!
+16|Ah-hahahaha!\nGörünüşe göre karar verildi!
+17|Ne... karar verildi?
+18|Yanılıyor, değil mi Gonta? Sanal\nDünya'yı hatırlıyorsun, değil mi?
+19|G-Gonta hatırlamıyor...
+20|Gonta bu "<CLT=cltSTRONG>Sa-nal Dün-ya<CLT=cltNORMAL>" denen yere\ngitmedi bile...
+22|Gonta kaskı takınca uyuyakaldı...
+23|Gonta uyandığında... Miu ölmüştü...\nGonta ne olduğunu bilmiyor...
+24|O yüzden... Gonta endişeli. Gonta herkesin\nneden bahsettiğini anlamıyor...
+25|Hayır...! Olamaz!
+26|Ama Gonta anlamak için elinden geleni yapıyor.\nGonta çok sıkı hayal ediyor—
+27|Yeter, Gonta. Zaten biliyoruz.
+28|N-Neyi biliyorsunuz...?
+29|Benimle ekip olmayı... ve Miu'yu öldürmeyi\ntamamen unuttuğunu biliyoruz.
+30|B-Bir dakika! Bu yalan!\nGonta Miu'yu öldürmedi!
+31|Çünkü... Gonta bunu neden yapsın ki!?
+32|Evet, bu yalan!\nBunu asla kabul etmeyeceğim!
+33|Hem!\nGonta'nın Miu'yu öldürmek için hiçbir motifi yok!
+34|...Cinayet planını nasıl bulduğum hakkında\nifademi zaten verdim.
+35|Ben de sana inanmadığımı söylüyorum!
+36|Kokichi, söylediğin doğruysa\nneden böyle planladın?
+37|Cinayeti kendin planlayıp başka birine\nmi uygulatmak istedin?
+38|Planlayan kişi de uygulayanla birlikte\nkara eller sayılıyor mu?
+39|Hayır! Sadece cinayeti gerçekten işleyen\nkişi kara eller olur!
+40|O zaman sadece cinayeti planlamanın\nhiçbir getirisi yok...
+41|Ama Gonta çok nazik biri.\nBuna neden razı olsun ki?
+42|Dur! Bu henüz karara bağlanmadı!

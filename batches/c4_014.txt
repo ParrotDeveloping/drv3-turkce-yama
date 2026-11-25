@@ -1,0 +1,70 @@
+@ chap4_text_US
+## c04_005_100
+22|<CLT=cltMIND>Neye karar verdi acaba...\nNeyse, yarın öğreniriz.
+29|<CLT=cltMIND>Kaito burada değil.\nBelki çoktan avludadır.
+45|<CLT=cltMIND>Maki burada değil.\nBelki çoktan avludadır.
+## c04_005_101
+1|Saat şu an akşam 10.\n<CLT=cltSTRONG>Gece vakti<CLT=cltNORMAL> resmen başlamıştır.
+2|Geç yatmak cilde zararlı, o yüzden belki\nsiz veletler yatmalısınız, tamam mı?
+3|Uyuyamamamın sebebi bütün gece seni\ndüşünmem, Monophanie.
+4|Güm güm!
+5|N-Ne...? Böyle bir şeyi... öylece\nağzından kaçıramazsın.
+6|Gerçekten biraz çılgınca... Seni daha önce\nhiç böyle düşünmemiştim...
+7|Hey... kalbime ne zaman böyle\nsızdın?
+8|Güm güm!
+9|Peki... buna ne yapacaksın?
+10|Olmaz... Biz aileyiz, biliyor musun?\nBunu... unutamazsın...
+11|Sana ihtiyacım var, Monophanie.
+13|Seni istiyorum, Monotaro.
+14|<CLT=cltMIND>*O* da neydi öyle...?
+15|Neyse, Monoyavrular için endişelenmeye gerek yok.\nAntrenman vakti!
+16|<CLT=cltMIND>Uzun zamandır yapmamışım gibi geliyor...\nTamam, avluya!
+## c04_005_262
+0|Ah, güzel. Geldin, kanka!
+2|Evet... Üçümüzün bunu yapmasının\nüzerinden çok zaman geçti.
+3|...Çünkü Kaito hayaletlerden korkuyordu.
+4|Korkmuyordum! Dur, bana onları\ndüşündürme!
+5|<CLT=cltMIND>Maki ve Kaito ile ilk tanıştığımda... böyle\ntakılacağımızı asla hayal edemezdim.
+6|N-Neyse, başlayalım!\nİlk olarak 100 mekik!
+7|Gaza gelseniz iyi olur!
+8|<CLT=cltMIND>Üçümüz çimenlerin üzerine dizilip\nrutinimize başladık.
+9|Bir... İki... Üç!
+10|25, 26, 27, 28...
+11|M-Maki... çok hızlısın...
+12|Gerçekten düşününce \nevren imkânsız derecede geniş.
+13|Hey, az konuş, çok çalış!\nMekiklerine ne oldu!?
+15|...Kaito?
+16|<CLT=cltMIND>Kaito yavaşça ayağa kalktı,\nvücudu tereddütlüydü.
+17|Pardon... tuvalete gitmem lazım.
+18|<CLT=cltMIND>Kaito yavaşça okul binasına doğru\nyürümeye başladı.
+19|...Neyi var acaba. Tuvalete gitmesi gereken\nbiri için pek acelesi yok.
+20|Gidip bakmamı ister misin?\n100 mekiğimi yeni bitirdim.
+21|Ne? Şimdiden mi?
+22|Ama, şey, belki gitmemelisin...\nÇünkü orası... erkekler tuvaleti...
+24|...Bu aklına gelmedi mi?
+26|Ah, pardon!
+27|Neyse, sorun değil...
+28|Bu arada... sormak için iyi bir zaman\ngibi görünüyor ama...
+29|Kaede'den... hoşlanıyor muydun?
+31|Şey... hoşlanmadığını varsaymıştım, çünkü\nbu tuhaf olurdu.
+32|"Tuhaf" derken?
+33|Yeni tanıştığın birinden hoşlanmak...\nözellikle böyle bir durumda...
+35|O zaman söyle... hangi koşullarda birinden\nhoşlanmak tuhaf *değildir*?
+37|Ben... bilmiyorum. O şeyin ne olduğunu...\npek anlamıyorum...
+38|...Boş ver. Sorduğumu unut gitsin.
+39|Sorduğunu unutayım mı?\nBunu neden açtın, Maki?
+40|...Sebepsiz. Sadece merak ettim.
+41|Sebepsiz mi?
+42|Maki, çok... acımasızsın. Bana kişisel bir soru\nsoruyorsun, sonra umursamıyormuş gibi—
+43|Hey! Ben yokken siz öpüşüyor\nmuydunuz!?
+44|<CLT=cltMIND>Her zamanki gibi mükemmel zamanlama, Kaito...
+45|*Neyse*, neyin var Kaito?\nNeden birden gittin?
+46|Yok, ben... antrenmandan önce çok su içmişim.\nAma boşalttım, şimdi iyiyim.
+47|O zaman kaldığımız yerden devam edelim!\nBu sefer kesinlikle gaza gelelim!
+48|Devam mı? Senin... bir tane bile\nyaptığını hatırlamıyorum, Kaito.
+49|O zaman en baştan! Tabii ki siz de\nbenimle baştan başlayacaksınız!
+50|...Ben 100 tanemi zaten bitirdim.
+51|Heh, bu kadar soğuk olma!\n"Yol arkadaşın iyiyse yol uzun gelmez," değil mi?
+52|O sözün buna uyduğunu sanmıyorum.
+53|Bırak terin tüm üzüntünü, korkunu,\nendişeni ve zorluklarını yıkayıp götürsün.
+54|Sadece vücudunu hareket ettir, acın sen\nfarkına bile varmadan anıya dönüşecek.

@@ -1,0 +1,74 @@
+@ chap4_text_US
+## c04_212_001
+29|Erken çıkış yapan tek kişi Kaito'ydu...
+30|<CLT=cltAGREE><CLT=size2>Kaito'ydu<CLT=cltNORMAL><CLT=size1>...
+31|<CLT=size2>Kaito,<CLT=size1> mezarın az önce\n<CLT=size2>üç metre daha derinleşti!
+32|Kaito, mezarın az önce\nüç metre daha derinleşti!
+33|H-Hayır...
+34|H-Hayır... Ben değildim millet!
+35|Ben değildim millet!
+36|Belki Gonta uyurken?
+37|Hiç anlamıyorsun...
+38|Bu mümkün değil.
+39|Bu imkânsız!
+40|Miu bunu yapmış olabilir mi...?
+41|Gonta hiçbir şey görmedi!
+42|Evet, buna inanıyorum.
+43|Bu mümkün olamaz, değil mi...?
+44|Hmm, anlıyorum.
+45|Ah, demek Kaito'ymuş *gerçekten*!
+46|Tam bir kendi kendini imha...
+47|Görünüşe göre damarına bastık!
+## c04_213_000
+0|Zehri Kokichi'nin sandalyesine yerleştiren\nMiu'ydu.
+1|Bunu yapmak için bolca vakti vardı.\nAl, şuna bir bak.
+2|Bu... Sanal Dünya'ya kimin girip\nçıktığının kaydı mı?
+3|Doğru. Miu'nun en son giriş yapan\nkişi olduğu yazıyor.
+4|Evet. Ne olmuş?
+5|En son giriş yaptıysa...
+6|Bir önceki kişi giriş yaptıktan sonra gerçek\ndünyada dolaşacak vakti olurdu.
+7|Doğru! Zehir şişesini Kokichi'nin koltuğuna\nkoyabilirdi!
+8|Bunların hepsi Miu'nun planının parçasıydı.
+9|Beni Sanal Dünya'da öldürmeye, gerçek\ndünyada olmuş gibi düşündürmeye...
+10|...sonra da suçu Kaito'ya atmaya çalıştı.
+11|Ş-Şey, bu benim suçum değil!
+12|Bu yüzden sırf bu amaçla seni elle\nçıkış yaptırdı.
+13|Yani bunu bana o mu yaptı?
+14|Evet, bundan eminim.
+15|Miu, Kaito'yu elle çıkış yaptırmak için sadece\nkendisinin kullanabileceği bir yöntem kullandı.
+16|<CLT=cltMIND>Miu, Kaito'yu nasıl çıkış yaptırdı?
+17|Miu bana ne yaptı?
+19|Non, non. O değil.
+20|Beni öldürmeyi, Kaito'ya tuzak kurmayı ve sonra\nsınıf duruşmasını kazanmayı planladı.
+21|Onu suçlayabilecek her kanıtı saklardı, değil mi?\nSadece onun bildiği bir yöntem vardı.
+23|Miu, Kaito'yu nasıl çıkış yaptırdı?
+24|Miu'nun avatarının yanında bulunan\n<CLT=cltSTRONG>cep telefonuyla<CLT=cltNORMAL>.
+25|O cep telefonu salondaki telefonla aynı şekilde\nçalışıyordu. Kullanıcıları giriş ve çıkış yaptırıyor.
+26|Kaito'nun adını içine söyleyerek bunu\nbizzat doğruladım.
+29|Anlıyorum... O cep telefonuyla herkesi istediği\nzaman zorla çıkış yaptırabilirdi.
+30|Ama Miu bir cep telefonundan hiç bahsetmedi, değil mi?
+31|Shuichi'nin sadece onun kullanabileceği bir\nyöntem derken kastettiği buydu.
+32|Cinayet için kullanabilmek için cep telefonunu\nbilerek sır olarak sakladı.
+33|Demek... gerçekten bir cinayet planlıyordu.
+34|Ve... bana tuzak kurmaya çalıştı...
+35|Eh, bunu baştan beri biliyordum.
+36|O zaman neden fail benim dedin!?
+37|Çünkü şunu o kalın kafana\nsokmak istedim...
+38|Güvendiğin ve savunduğun insanlar sonunda\nsana ihanet eder. Bu bir şüphe oyunu.
+40|Eh, bence ideallerin aynı\nkalmalı.
+41|Çünkü oyunu daha ilginç yapan senin gibi\nsahtekârlar.
+42|Katılmıyor musun, Monokuma?
+43|Hmmm... Katılıyor muyum?\nBilmem ki...
+44|...Ha? Dur, ne hakkında konuşuyorduk?
+45|Babacığın motivasyonu ne zaman geri\ngelecek acaba...
+46|Evet! Babacık tembellik etmeye devam ederse bütün\nişler Annecik'in üstüne kalacak—
+47|...Ha? Annecik mi?
+48|Gh! B-Başım! Bir şey hatırlamak üzereymişim\ngibi hissediyorum... ama hatırlayamıyorum!
+49|Ne oldu, Monotaro!?\nKendini topla!
+50|Neyseee, benim değil de Miu'nun ölmesi\nhayırlı bir şer olmuş.
+51|N-Ne demek istiyorsun...?
+52|Çünkü Sanal Dünya'da gerçekte ne olduğu\nhakkında hiçbir şey söylemezdi.
+53|Faili bulmakta çok daha fazla zorlanırdınız,\nbiliyor musunuz.
+54|Sanal Dünya'nın ayarları hakkında istediği\nkadar yalan söyleyebilirdi...
+55|Ve cinayetin aslında Sanal Dünya'da işlendiğini\nasla bilemezdiniz.
+56|Bu yüzden cinayete teşebbüs etmeye karar verdi.\nÇünkü tam kontrol ondaydı.

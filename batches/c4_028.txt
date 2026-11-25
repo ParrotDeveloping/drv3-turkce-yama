@@ -1,0 +1,64 @@
+@ chap4_text_US
+## c04_017_029
+226|S-Sorun yok... S-S-Sadece sakin kalırsak\no zaman... hiçbir sorun olmaz.
+227|T-Tamam... yemek çubuklarımı s-sağ elimde\ntutuyorum, yani...
+228|Sakin ol, Himiko...
+229|<CLT=cltMIND>Biraz uğraştıktan sonra hepimiz\ncihaza bağlandık.
+230|Sonra yapmanız gereken tek şey kaskı\nkafanıza takmak.
+231|Son olarak şakağınızın yanındaki düğmeye basın,\nve Sanal Dünya'ya ışınlanacaksınız!
+232|Gerçek dünyadan daha güzel, cinayetin ve\nMonokuma'nın olmadığı bir cennet!
+233|Yani Gonta düğmeye basınca "<CLT=cltSTRONG>a-va-tar<CLT=cltNORMAL>" kişi\nGonta'yı "<CLT=cltSTRONG>Sa-nal Dün-ya<CLT=cltNORMAL>" yerine mi götürecek?
+234|Aman Tanrım... Evet, tabii, sana\nnasıl mantıklı geliyorsa.
+235|Bu arada avatarlarınızı size benzesin\ndiye biraz ayarladım.
+236|Hatta şu anki görünüşünüze kıyasla\nbüyük bir gelişme!
+237|Tebrikler, Himiko! Artık pahalı estetik\nameliyata para ödemene gerek yok!
+238|Hiç estetik ameliyat istemedim ki...\nYüzümü seviyorum.
+239|*iç çekiş* Bu konuda hâlâ gerginim...
+240|Kes sesini de yap artık şunu,\nDört Göz! Hay Allah!
+241|Tamam, millet! Gidelim!
+242|<CLT=cltMIND><CLT=cltSTRONG>Dış dünya<CLT=cltMIND> hakkında ipucu bulma\nfırsatını görmezden gelemeyiz.
+243|Tamam... gidelim.
+244|İyi eğlenceler!
+245|<CLT=cltMIND>Kaskı başıma taktım ve derin\nbir nefes aldıktan sonra düğmeye bastım.
+246|<CLT=cltMIND>...Ve sonra...
+## c04_018_200
+0|Miu bana nasıl aptal der!
+1|Köprü olmadan burayı nasıl\ngeçeceğiz ki!?
+2|H-Hey! Yine mi bana aptal dedin!?\nNe demek oluyor bu!?
+3|Hey... o ince tahtayı gerçekten köprü\nolarak mı kullanacağız?
+4|Bu tehlikeli!\nBurada aptal olan Miu, ben değilim!
+5|Hey kanka, ilk sen git!\nTereddüt etme! Hadi geç bakalım!
+6|<CLT=cltMIND>Yani denemeyi *bana* mı yaptıracaksın?
+7|Yardımcılarıma karşı bu kadar düşünceli\nolduğum için ilk seni gönderiyorum!
+9|Kaito Momota\nÇatı Harita yükleme noktası geçildikten sonra
+10|...Gerçekten o tahtayı kullanıp mı geçeceğiz?
+11|Gonta çok ağır... Sorun olmadığına emin misin?
+12|Vay! Gonta tahtanın üstünde duruyor, sorun yok!
+13|Yoksa Gonta artık böyle göründüğü\niçin daha mı hafif?
+17|Hafıza bankamdaki verilerle karşılaştırınca\niyi görünmüyorsun.
+18|Kokichi sana bir şey mi yaptı? Yoksa sana\ntehlikeli bir şey mi yaptırdı?
+19|Hayır... Gonta sadece iyi hissetmiyor...
+20|Ah, 3D yüzünden hareket hastalığı mı\noluyorsun acaba?
+21|Deniz tutması mı...? Ama bu nehir, deniz değil...
+22|Hayır, "hareket hastalığı" dedim, Gonta.
+23|Bazı insanlar 3D efektlere ya da VR'a çok uzun\nsüre bakınca kendilerini kötü hissetmeye başlar.
+24|Muhtemelen odur. Eminim sadece böyle şeylere\nalışık olmadığın içindir, Gonta...
+25|Şey... Gonta pek anlamıyor...\nAma Gonta muhtemelen iyi...
+26|Ah, belki bir mola vermelisin...\nBizden önce çıkış yapmak ister misin?
+27|Ç-Çıkış yapmak mı...?
+28|Şey, bunu sana açıklamak biraz\nzor olabilir, Gonta...
+29|Neden bizden önce akademiye dönüp\nbiraz dinlenmiyorsun?
+30|H-Hayır! Gonta iyi!\nSadece biraz midesi bulanıyor, o kadar!
+31|Burada Gonta'nın yardım etmek için\nyapabileceği bir şey olabilir...
+32|O yüzden Gonta herkesle kalmak istiyor!
+33|Evet... öyle diyeceğini biliyordum.
+34|O zaman hep birlikte şapele gidelim.\nGonta, miden bulanırsa bize söyle.
+36|Gonta iyi, gerçekten...\nEndişelendirdiği için özür diler...
+37|Bu dalgalı çizgi de ne?
+38|Shuichi içinden geçtikten sonra\nyok olursa...
+39|Ağlarım, biliyor musun!?
+40|<CLT=cltMIND>Yine timsah gözyaşları...
+41|Kokichi Oma\nDışarısı Harita yükleme noktası geçildikten sonra
+42|Bu nehir epey hızlı akıyor. İçine\ndüşersen seni sürükleyip götürebilir.
+43|Şey, böyle... alışılmadık eğilimlerin\nolduğunu bilmiyordum...
+44|...Sana bakış açımı yeniden mi değerlendirmeliyim?

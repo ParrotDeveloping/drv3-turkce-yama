@@ -1,0 +1,78 @@
+@ chap4_text_US
+## c04_207_000
+40|Dediğim gibi, belki fail onu yedek cinayet\nsilahı olarak getirmiştir?
+42|<CLT=cltMIND>Çekici getiren\nkişi...
+43|Çekici getiren <CLT=cltSTRONG>Miu<CLT=cltNORMAL>'ydu.
+44|Ha? Miu çekiç mi getirdi?
+45|Bize ne söylediğini hatırlayın...
+46|Programı silah olarak kullanılabilecek tüm\ntehlikeli nesneleri silecek şekilde yeniden yazdım!
+47|Evet, tehlikeli nesneleri sildiğini\nsöylemişti.
+48|Bu doğru olsaydı çekiç gibi bir şeyi\ngözden kaçırmazdı.
+49|Yani Miu onu bilerek bırakmış\nolmalı.
+50|Bilerek mi...?
+51|Ama... neden öyle yapsın?
+52|<CLT=cltMIND>Çekici kesinlikle Miu getirdi,\nama ona ne için ihtiyacı vardı?
+53|<CLT=cltMIND>Bunu netleştirmeliyiz.
+## c04_208_000
+0|Sanal Dünya'da nesneler kırılmaz.\nBunu nasıl çoktan unuttun?
+2|Yani Miu biriyle mi buluştu?\nBirini çağırdığını görmedim.
+3|Nii-hihi...\nEh, Kaito muhtemelen hiç görmemiştir, değil mi?
+5|N-Ne?\nTuhaf bir şey söylemedim ki.
+6|Çekiç ne içindi bilmiyorum ama ölen\nkesinlikle Miu'ydu.
+8|<CLT=cltMIND>Miu çekiçle ne yapmayı planlıyordu?\nBu hâlâ belirsiz...
+9|<CLT=cltMIND>Ama biriyle buluşacağını hatırlıyorum.\nBu ilgili olabilir.
+11|<CLT=cltMIND>Ne yaptığını, planının ne olduğunu\ngeri dönüp düşünmeliyim...
+## c04_208_001
+0|Diyelim ki\n<CLT=size2>Miu
+1|Diyelim ki çekici Miu getirdi...
+2|çekici\n<CLT=size2>getirdi...
+3|Onunla ne\n<CLT=size2>yapmayı<CLT=size1> <CLT=size2>planlıyordu?
+4|Onunla ne yapmayı planlıyordu?
+5|Belki <CLT=size2>onunla
+6|Belki onunla bir duvarı yıkmak için?
+7|<CLT=cltAGREE>bir duvarı
+8|<CLT=cltAGREE>yıkmak
+9|<CLT=cltAGREE>için
+10|?
+11|Çekicin <CLT=size2>kullanım<CLT=size1> <CLT=size2>alanları...
+12|Çekicin kullanım alanları...
+13|Gonta biliyor! Miu çekiçle
+14|Gonta biliyor! Miu çekiçle bir şeyler yapacaktı!
+15|<CLT=size2>bir şeyler
+16|<CLT=size2>yapacaktı
+17|çekiçle!
+18|Muhtemelen sadece\n<CLT=size2>kendini korumak<CLT=size1> için getirdi.
+19|Muhtemelen sadece\nkendini korumak için getirdi.
+20|Ya da <CLT=size2>gizlice
+21|Ya da gizlice biriyle buluştu...
+22|<CLT=cltAGREE>biriyle <CLT=size2>buluştu<CLT=cltNORMAL>...
+23|ve onunla
+24|ve onunla o kişiyi öldürmeye çalıştı!
+25|o kişiyi <CLT=size4>öldürmeye<CLT=size1> çalıştı!
+26|<CLT=size3>Seni aptal!
+27|Seni aptal! Kurban oydu!
+28|<CLT=cltWEAK><CLT=size2>Kurban<CLT=size1> <CLT=size2>oydu<CLT=cltNORMAL>!
+29|Yani onu kullanıyor muydu?
+30|Oraya mı konmuştu?
+31|Hangi duvardı?
+32|Sandalye gibi mi?
+33|Masa gibi mi?
+34|Kendin yap projesi!
+35|Gizlice mi...?
+36|Miu mu!?
+37|Katil mi!?
+38|Kurban olması gerçekten önemli mi?
+## c04_209_000
+0|Miu Sanal Dünya'da biriyle\n<CLT=cltSTRONG>buluşacaktı<CLT=cltNORMAL>...
+1|Hı-hı, benimle! Konağın çatısında Miu ile\nbuluşacaktım.
+3|Şapelde bunun hakkında konuştuklarına kulak misafiri oldum.
+4|Bu arada, Sanal Dünya'ya girmeden önce\nbenimle buluşmak isteyen *Miu*'ydu...
+5|Nerede buluşacağımızı tamamen unutmuştum,\niyi ki Kee-çocuk bizi gözetlemiş.
+6|Dur, yani Kokichi'yi Miu mu çağırdı?
+7|Çekici Miu getirdiyse... Onunla ne yapmayı\nplanlıyordu acaba?
+8|<CLT=cltMIND>Kokichi bunu çoktan çözdü.\nPlanladığı şey...
+9|Kokichi'yi öldürmek
+10|Kokichi'ye birini öldürtmek
+11|Çekici Kokichi'ye verip... kendisi için\nöldürmesini mi isteyecekti...?
+12|Ne diyorsun sen? Doğru cevap veremiyorsan\ngereksiz bir şey söyleme.
+14|Kokichi ile bir cinayet planlamak

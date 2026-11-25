@@ -1,0 +1,58 @@
+@ chap4_text_US
+## c04_017_029
+169|Monokuma'nın Sanal Dünya'da bir sır\nsakladığını mı?
+170|Öyle şaka yapma...\nSadece bir önsezi.
+171|Neyse, görmezden gelemeyiz. Dış dünya\nhakkında bilgi bulabiliriz.
+172|Belki o bilgiyle bu öldürme oyununa\nson bile verebiliriz.
+173|Ha!? Öldürme oyununu bitirebilir miyiz!?
+174|O zaman Gonta gidecek! Gonta şu...\n"<CLT=cltSTRONG>Sa-nal Dün-ya<CLT=cltNORMAL>" denen yere gidecek!
+175|Bekle... gidemezsin! Muhtemelen Monokuma'nın\nkurduğu bir tuzak!
+176|Ama öldürme oyununu durdurmak için küçük\nbir şans bile varsa denemeliyiz.
+177|...Evet, iç sesim de bana bunu söylüyor.
+178|Hâlâ iç sesinden mi bahsediyorsun?\nO Atua işlerinden zaten bıktık.
+179|Daha önce de söylediğim gibi, bunun Angie'nin\netkisiyle hiçbir ilgisi yok.
+180|Ne zaman kaybolsam iç sesim bana\nne yapacağımı söyler.
+181|O sese her zaman itaat ettim ve\netmeye de devam edeceğim.
+182|O yüzden Sanal Dünya'ya\ngideceğim!
+183|O zaman ben de geliyorum.
+184|Sen de mi, Kaito?
+185|Evet, bu "<CLT=cltSTRONG>dış dünyanın sırrı<CLT=cltNORMAL>" meselesi beni\nendişelendiriyor ama bu dünyaya bir bakmak istiyorum.
+186|Buna erkek merakı de!!!
+187|Aptal yine başladı...
+188|B-Bir erkek merakını kaybederse yaşlanır!\nErkeği harekete geçiren meraktır!
+189|Artık susabilirsin ama... sanırım ben de\naptal olacağım.
+190|Ah, bekle...\nSen de mi geliyorsun, Maki?
+191|Tabii ki. Sen de geliyorsun, değil mi Shuichi?\nVe tehlikeli diye hayır deme.
+192|Bir süredir zaten tehlikedeyiz.
+193|<CLT=cltMIND>Bu doğru...
+194|<CLT=cltMIND>Benim yeteneğim... kanıt toplamak\nve gerçeği ortaya çıkarmak.
+195|<CLT=cltMIND>O yüzden bundan kaçamam.
+196|Tamam... ben de geliyorum.
+197|A-Ama neden!? Kesinlikle tehlikeli\nolacak!
+198|Ne kadar tehlikeli olursa olsun\nyapmak zorundayız.
+199|Peki... ben de geliyorum.\nGeride kalmak beni sadece endişelendirir.
+200|O zaman Tsumugi dışında herkes geliyor!
+201|B-Bekleyin... Herkes gidecekse... ben de gelirim.
+202|Nii-hihi... tamam, artık herkes geliyor.
+203|Kokichi... bir şey mi planlıyorsun?
+204|Ah-haha, tabii ki hayır. Kaito bana yumruk\nattıktan sonra değişmiş bir adam oldum.
+205|Yani... rahatlayın ve bana güvenin.
+207|Tamam! O zaman siz hamamböcekleri fikrinizi\ndeğiştirmeden başlayalım!
+208|Önce her biriniz bir kask alıp\nkıçınızı o koltuklardan birine koyun!
+209|Tamam, peki...
+210|<CLT=cltMIND>Miu'nun talimatlarıyla bilgisayarın\netrafında yerimizi aldık.
+211|Vizörün arkasındaki o iki girişi\ngörüyor musunuz?
+212|Bunu mu diyorsun?
+213|Sizi bilgisayara bağlayan iki kabloyu\noraya takıyorsunuz!
+214|Ah, bu kablolar.
+215|Kırmızı kablo <CLT=cltSTRONG>bilinç<CLT=cltNORMAL> için, mavi\nkablo da <CLT=cltSTRONG>hafıza<CLT=cltNORMAL> için.
+216|Süslü teknik terimler savurmaya başlayabilirim\nama siz aptallar anlamazsınız...
+217|Bilmeniz gereken tek şey o kabloların <CLT=cltSTRONG>bilincinizi<CLT=cltNORMAL>\nve <CLT=cltSTRONG>hafızanızı<CLT=cltNORMAL> Sanal Dünya'ya tıkacağı!
+218|Sadece yanlış deliğe sokmayın!\nVe evet, *tam da* öyle demek istedim!
+219|Tamam, peki... öyle diyorsan.
+220|Peki hangi kablo hangi girişe?
+221|Kırmızı <CLT=cltSTRONG>bilinç<CLT=cltNORMAL> kablosunu sağ girişe,\nmavi <CLT=cltSTRONG>hafıza<CLT=cltNORMAL> kablosunu sola takın.
+222|Merak ettim de... kabloları karıştırırsan\nne olur?
+223|Bilmem. Daha önce hiç yapmadım...\nMuhtemelen her şey bozulur falan!
+224|Belki bitki olursun, belki biriyle beden\ndeğiştirirsin... Kim bilir?
+225|Şey... o zaman sanırım kabloları\nkarıştırmamaya dikkat etmeliyiz.

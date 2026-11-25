@@ -1,0 +1,50 @@
+@ chap4_text_US
+## c04_100_200
+54|...ve onu çatının dik eğiminden aşağı kaydırdı!
+55|Kızak hızlandı,\nçatıdan uçtu...
+56|<CLT=cltSTRONG>sadece nesnelerin geçebildiği<CLT=cltNORMAL> duvardan\nsüzülüp şapele çarptı.
+## c04_100_211
+0|Çatıdaki depoya ilk baktığımda\nkafesi orada görmüştüm.
+1|Depoya ilk baktığımda kafesi\nfark etmiştim...
+2|ama soruşturma sırasında\nyok olduğunu gördüm.
+## c04_101_200
+0|Ah, Shuichi? Benimle gelebilir misin lütfen?
+1|Ne? Ne oldu?
+2|Ben... tuhaf bir şey buldum.
+3|Davayla ilgili mi bilmiyorum ama yine\nde fikrini duymak istiyorum.
+4|...Hemen bu tarafta.
+6|Burası soğuk...
+8|İlk düşüncem birinin buraya dışkılamak\niçin gelmiş olabileceğiydi...
+9|Ah, hayır, öyle olduğunu sanmıyorum...\nAvatarların... bağırsak hareketi olduğunu sanmıyorum.
+10|Benim hiç tuvaletim gelmiyor.
+11|B-Bunu fark etmemiştim!
+12|Gerçek dünyada katı atık atmam gerekmediği\niçin bu hiç aklıma gelmedi...
+13|...Özür dilerim!
+15|Yine de tuhaf...\nBöyle bir yerde neden tuvalet kâğıdı olsun ki?
+16|Bu davayla ilgili olabilir mi?
+17|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Tuvalet Kâğıdı<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+18|Ha? Köprü neden burada?
+19|Oradaki Miu'nun gerçek dünyada ölü olduğuna\ninanmak biraz zor...
+20|Shuichi, gaza gelip inceleyelim!\nBurada yeni bir ipucu bulabilirsek...
+21|Adımı temize çıkarabiliriz!
+22|Elimden gelenin en iyisini yapacağım! Ama sana\ngüvenmediğimden falan değil...
+23|Sadece Kokichi'nin söylediği o saçmalıkları\nduyduktan sonra... Bir erkek olarak sessiz kalamam!
+25|Ne oldu, Keebo?\nKafanı kurcalayan bir şey mi var?
+26|Az önce bir şey hatırladım.
+27|Sanırım kulak misafiri olduğum fısıltı\nbu davayla ilgili olabilir...
+28|Fısıltı mı duydun?
+29|Evet... kulak misafiri olmak istememiştim ama\nduydum.
+30|Şapelde toplanıp aramaya başlamak için\ndağılmamızdan kısa süre önce...
+34|Görünüşe göre Kokichi ve Miu buluşmak\niçin plan yapmışlardı.
+35|Buluşmak mı!?
+36|Kokichi buluşacakları yeri\nteyit ediyordu.
+37|Konuşmanın tamamını duyamadım ama\nçatıdan bahsedildiğinden eminim.
+38|O zaman... ikisi çatıda mı buluştu?
+39|Ama... tuhaf, değil mi? Konağın çatısında\nbuluşmayı planlıyorlarsa...
+40|Miu neden şapelin çevresini aramaya\ngönüllü oldu?
+41|Bu doğru... Çatıda buluşacaklarsa konağı\naramak isterdi.
+42|Her iki durumda da... çatıya çıkabilmesi\nmümkün olmamalıydı.
+43|Şapelin çevresini arıyordu ki avatarını\nda orada bulduk...
+44|Ve nehri geçecek köprü olmadan şapelden\nkonağa gidemezdi.
+45|<CLT=cltMIND>Bu doğru... Bütün bunlarda bir\ntuhaflık var.
+46|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Miu ve Kokichi'nin Buluşması<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.

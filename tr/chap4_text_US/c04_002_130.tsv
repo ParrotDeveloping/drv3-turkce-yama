@@ -1,12 +1,156 @@
+0	Ne...? Bu...?
+1	Burası senin araştırma laboratuvarına benziyor.
+2	Öyle, değil mi?
+3	Bakalım içeride ne var.\nAma... burası içimde kötü bir his uyandırıyor.
+4	<CLT=cltMIND>Kötü bir his mi?
+5	Burasının <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'in\nlaboratuvarı olduğunu nereden bildin?
+6	Bakınca... anlayabildim.
+7	Ama burası sana hiç uymuyor. Bence bu\nlaboratuvar senin gibi biri için fazla iyi.
+8	Ahaha, haklı olabilirsin...\nÖnce bir pelerin ve bir avcı şapkası lazım.
+9	Ne...? O kıyafetler sana yakışmaz\nbile.
+10	Sana hiç yakışmaz, o yüzden deneme bile.
+11	Burası kesinlikle bir dedektif için\nlaboratuvara benziyor...
+12	Burası sana hiç uymuyor. Bence bu\nlaboratuvar senin gibi biri için fazla iyi.
+13	Kaito'nun tavrından hiç şikâyet etmiyorsun...
+14	Sanırım onun yardımcısı olmaya\ngerçekten kapılmışsın.
 15	<CLT=cltMIND>Buralarda biraz daha araştırma yapacağım.
 16	Evet
 17	Hayır
 18	Emin olmadığın bir şey mi var?
 19	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+20	<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör,\nama neden bu kadar... cafcaflı?
+21	<CLT=cltMIND>Ve sadece monitör değil,\nbütün akademi böyle.
+22	<CLT=cltMIND>Burada neler oluyor...?
+23	<CLT=cltMIND>Cam kapının ardındaki raflarda şişeler\ndizili. Bunlar...?
+24	Görünüşe göre... zehir.
+25	Demek sen de öyle düşünüyorsun, ha?
+26	<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'in laboratuvarında\nnormal ilaç olmasının imkânı yok...
+27	<CLT=cltMIND>Dolabın cam kapısını açıp\niçine göz attı.
+28	Evet, bazılarının ne olduğunu biliyorum.\nKesinlikle zehir.
+29	Öyleyse... onlardan kurtulmaya çalışmalıyız.\nKimsenin yanlışlıkla—
+30	Onlardan kurtulsak bile Monokuma\nyenilerini koyar.
+31	O yüzden bunu yapmak boşuna. Sadece\ngeçici bir çözüm olur.
+32	<CLT=cltMIND>Geçici bir çözüm...
+33	<CLT=cltMIND>Kimsenin onları asla kullanmayacağından\n*emin* olmak istiyor.
+34	Yine de... burada bu kadar çok olmasına\nşaşırdım.
+35	Anında öldüren zehirler de var, çeşitli\nbelirtilere yol açanlar da...
+36	Nasıl kullandığına bağlı olarak farklı\ndüzenekler kurabilirsin.
+37	Burası bir <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL> laboratuvarı gibi değil.\nDaha çok bir suçlunun laboratuvarı gibi.
+38	Suçlar hakkında her şeyi bilmek söz konusu\nolduğunda aradaki çizgi çok ince.
+39	<CLT=cltMIND>Sanırım doğru... Suçluyla dedektif\narasında ince bir çizgi var.
+40	<CLT=cltMIND>Suçluyla dedektif arasında\nince bir çizgi var.
+41	Bir sürü dosya dizilmiş.\nYaklaşık 50 tane gibi görünüyor.
+42	Bu dosyalar ne için?
+43	<CLT=cltMIND>Rastgele birini alıp\nsayfalarını çevirdim.
 44	Ah!
+45	<CLT=cltMIND>İçinde cinayet mahallerinin fotoğrafları\nve <CLT=cltSTRONG>failin kullandığı hileler<CLT=cltMIND> vardı.
 46	Bu ne...?
+47	<CLT=cltMIND>Aceleyle diğer dosyalara da baktım\nve hepsinin benzer olduğunu gördüm.
+48	...Cinayetlerde kullanılan tüm hileleri\niçeren bir dosya bu.
+49	Öyle görünüyor.
+50	Bu olay gerçekten yaşandı mı?
+51	Emin olamam ama olay yerinin\nfotoğrafları var.
+52	Ve bu davaların hepsi uygulanabilir görünüyor.
+53	Uygulanabilir, ha?
+54	O zaman bu, cinayet işlemek isteyen herkes\niçin iyi bir rehber olur.
 55	...
+56	Gerçi herkesin erişebildiği bir dosyayı\nkullanacak kadar aptal biri olduğunu sanmam...
+57	<CLT=cltMIND>Maki rastgele bir dosya aldı ve\nsayfalarını çevirmeye başladı.
+58	Ha? Bu dosyada hiç fotoğraf yok.\nHepsi sadece elle çizilmiş resimler ama...
+59	Çizimler mi?
+60	<CLT=cltMIND>Maki dosyaları birbiri ardına\nraftan çekmeye başladı.
+61	Yeni dosyalarda fotoğraf var ama\neskilerde çizim mi var?
+62	Ama neden? Eskiler <CLT=cltSTRONG>sadece kurgu<CLT=cltNORMAL> mu?
+63	<CLT=cltMIND>İlk birkaç dosyada sadece çizimler var,\nama diğerlerinde fotoğraflar...
+64	<CLT=cltMIND>Bunun bir sebebi var mı?
+65	<CLT=cltMIND>İlk birkaç dosyada sadece çizimler var,\nama diğerlerinde fotoğraflar...
+66	<CLT=cltMIND>Bunun bir sebebi var mı?
+67	<CLT=cltMIND>Neyse, merak ettiğim tüm yerleri\ninceledim.
+68	Buradaki her şey ölümle ilgili.
+69	Eh, dedektif olarak işin bu, özellikle\nbu öldürme oyununda.
+70	Evet... biliyorum.
+71	Dedektif yeteneğimi kullanabildiğim tek zaman\nbiri öldükten sonra...
+72	Bir dedektif... kimseyi kurtaramaz. Ancak her\nşey için çok geç olduktan sonra işe yararım.
+73	Neden birden bu kadar üzüldün?\nÖlmek mi istiyorsun?
+74	Sırf bunun için beni öldürür müsün!?
+75	Yok, Maki Rulo'nun neden öyle dediğini\nanlıyorum. Suratın epey kasvetliydi.
+76	Kaito?
+77	O kadar kasvetli bir suratla benim yardımcım\nolduğuna inanamıyorum.
+78	Kendinle daha çok gurur duy, Shuichi!\nŞimdiye kadar yaptığın her şey harika!
+79	Ah... teşekkürler.
+80	O yüzden dikkatli olmalısın.
 81	Ha? Ne demek istiyorsun?
+82	Sınıf duruşmalarında bu kadar iyi olduğun için\n<CLT=cltSTRONG>gelecekteki failler<CLT=cltNORMAL> gözünü sana dikti...
+83	Bir sonraki fail senin peşine düşebilir.
+84	Benim peşime mi?
+85	Heh, onun için endişelenmene gerek yok!\nKimsenin yardımcıma bulaşmasına izin vermem!
+86	İkinizi de koruyacağım!\nYardımcılarını korumak bir kahramanın işidir!
+87	...Ya ben bir <CLT=cltSTRONG>gelecekteki fail<CLT=cltNORMAL> olursam?
+88	Aptal mısın? Bu imkânsız.
+89	İnsanlara... nasıl bu kadar kolay güvenebiliyorsun?
+90	Ha? Sana daha önce söylemedim mi?\nGüvenmek istediğim insanlara güvenirim.
+91	Ve bana ihanet ederlerse, bu sadece onlara \ngüvenerek yanlış karar verdiğim anlamına gelir.
+92	Tabii ki sen de güvenmek istediğim\ninsanlardan birisin, Maki Rulo!
 93	...
+94	Sen neden buradasın ki? Kokichi ile\nkovalamacayı bitirdin mi?
+95	İzini kaybettim. O herifi hiçbir\nyerde bulamıyorum.
+96	Bulamadın mı?\nAma <CLT=cltSTRONG>motif kart anahtarı<CLT=cltNORMAL> hâlâ onda, değil mi?
+97	Evet, hâlâ onda olmalı.
+98	<CLT=cltMIND>Kokichi'nin kart anahtarı kullanıp bir\nyere gitmiş olma ihtimali var...
+99	Neyse, elimden kaçtı ama\nbakın ne buldum!
+100	<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>!
+101	Ah, bir tane bulmuşsun!
+102	Kokichi için endişeleniyorum ama bence \nönce bununla ilgilenmeliyiz.
+103	Hadi hep birlikte yemekhanede toplanalım!
+104	...Ha? Ben de mi geliyorum?
+105	Ah, bir dakika!
+106	Önce bakmak istediğim başka yerler var!\nSizinle sonra buluşabilir miyim?
+107	Öyle mi?\nO zaman ben yemekhaneye önden gidiyorum.
+108	...Burayı incelemeyecek misin?
+109	Shuichi'ye bırakıyorum!\nHalledersin. Değil mi Shuichi!?
+110	E-Evet... tabii.
+111	O zaman işin bitince \nyemekhaneye gel.
+112	...İtiraz bile etmedin. Artık cidden\nonun yardımcısı *olmuşsun*.
+113	<CLT=cltMIND>...Buna itiraz bile edemiyorum.
+114	<CLT=cltMIND>Neyse, merak ettiğim tüm yerleri\ninceledim.
+115	Buradaki her şey ölümle ilgili.
+116	Eh, dedektif olarak işin bu, özellikle\nbu öldürme oyununda.
+117	Evet... biliyorum.
+118	Dedektif yeteneğimi kullanabildiğim tek zaman\nbiri öldükten sonra...
+119	Bir dedektif... kimseyi kurtaramaz. Ancak her\nşey için çok geç olduktan sonra işe yararım.
+120	Neden birden bu kadar üzüldün?\nÖlmek mi istiyorsun?
+121	Sırf bunun için beni öldürür müsün!?
+122	Yok, Maki Rulo'nun neden öyle dediğini\nanlıyorum. Suratın epey kasvetliydi.
+123	Kaito?
+124	O kadar kasvetli bir suratla benim yardımcım\nolduğuna inanamıyorum.
+125	Kendinle daha çok gurur duy, Shuichi!\nŞimdiye kadar yaptığın her şey harika!
+126	Ah... teşekkürler.
+127	O yüzden dikkatli olmalısın.
 128	Ha? Ne demek istiyorsun?
+129	Sınıf duruşmalarında bu kadar iyi olduğun için\ninsanlar gözünü sana dikti, Shuichi...
+130	Bir sonraki fail senin peşine düşebilir.
+131	Benim peşime mi?
+132	Heh, onun için endişelenmene gerek yok!\nKimsenin yardımcıma bulaşmasına izin vermem!
+133	İkinizi de koruyacağım!\nYardımcılarını korumak bir kahramanın işidir!
+134	...Ya ben bir <CLT=cltSTRONG>gelecekteki fail<CLT=cltNORMAL> olursam?
+135	Aptal mısın? Bu imkânsız.
+136	İnsanlara... nasıl bu kadar kolay güvenebiliyorsun?
+137	Ha? Sana daha önce söylemedim mi?\nGüvenmek istediğim insanlara güvenirim.
+138	Ve bana ihanet ederlerse, bu sadece onlara \ngüvenerek yanlış karar verdiğim anlamına gelir.
+139	Tabii ki sen de güvenmek istediğim\ninsanlardan birisin, Maki Rulo!
 140	...
+141	Sen neden buradasın ki? Kokichi ile\nkovalamacayı bitirdin mi?
+142	İzini kaybettim. O herifi hiçbir\nyerde bulamıyorum.
+143	Bulamadın mı?\nAma <CLT=cltSTRONG>motif kart anahtarı<CLT=cltNORMAL> hâlâ onda, değil mi?
+144	Evet, hâlâ onda olmalı.
+145	<CLT=cltMIND>Kokichi'nin kart anahtarı kullanıp bir\nyere gitmiş olma ihtimali var...
+146	Neyse, elimden kaçtı ama\nbakın ne buldum!
+147	<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>!
+148	Ah, bir tane bulmuşsun!
+149	Kokichi için endişeleniyorum ama bence \nönce bununla ilgilenmeliyiz.
+150	Hadi hep birlikte yemekhanede toplanalım!
+151	...Ha? Ben de mi?
+152	Ş-Şey, üçümüz arasında bölüşürsek\nçok uzun sürmez.
+153	Tamam! Gidelim!
+154	<CLT=cltMIND>Ayrıldıktan sonra üçümüz\ndiğerlerini toplamaya gittik.
+155	<CLT=cltMIND>Bir süre sonra herkes\nyemekhanede toplanmıştı.

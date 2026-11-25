@@ -1,0 +1,62 @@
+@ chap4_text_US
+## c04_002_251
+50|Hm, tamam! O zaman devam edeceğim!
+51|<CLT=cltMIND>Himiko... gerçekten değişmeye çalışıyor.
+52|Yeniden doğdum! Artık duyguların \nzahmetli olduğunu söylemeyeceğim!
+53|E-Evet...\nYorgunsam yorgun bir surat yapmam yeterli...
+54|<CLT=cltMIND>Nasıl hissettiğini anlıyorum ama bu\nbiraz abartı olabilir.
+55|Artık kimse "Atua şöyle, Atua böyle" diye\ngevezelik etmediği için ortalık sessizleşti!
+56|O kahrolası cücenin lanet bir tarikat\nyönettiğini biliyordum!
+57|Yani, gerçekten bir tanrı olsaydı...
+58|Elbette beni, muhteşem dahi kızı\nseçilmiş kişisi yapardı!
+59|Hah-hahaha! O kaçık sürtük!
+61|Hah-hahahahaha! O kaçık sürtük bu\nyüzden öldü işte!
+63|Ahhhhhhhh! O kadar derine sokarsan\nbeni çıldırtacak!
+75|<CLT=cltMIND>Hâlâ inşaat halinde.
+76|<CLT=cltMIND>Ne inşa ediyorlar?
+77|<CLT=cltMIND>Bu tuhaf binanın bir <CLT=cltSTRONG>Ultimate laboratuvarı<CLT=cltMIND>\nolduğundan eminim.
+78|<CLT=cltMIND>Makinelere ve bilimkurgu havasına bakılırsa\nburasının Keebo'nun laboratuvarı olduğu sonucuna varırım.
+79|İçeri bakacağım.
+82|B-Binalar birleşti!
+83|Ahhhhh! Laboratuvarıma ne yaptın!?\nSüper derine giriyor!
+88|<CLT=cltMIND>Siber Alan Kapı Anahtarı
+## c04_002_262
+0|<CLT=cltMIND>Geçen seferden de az yeşillik var.\nHâlâ bakım çalışması sürüyor.
+1|Burasının olayı ne ki!?\nEskiden ne tür bir tesisti!?
+2|Eski bir tesisi mi yeniliyorlar?\nYoksa yeni bir bina mı yapıyorlar...?
+3|Başta Monokuma bunların <CLT=cltSTRONG>bizim için\ntesisler<CLT=cltNORMAL> olduğunu söylemişti.
+4|Belli ki yalan! O pelüş ayı yalan ve\nboklarla doldurulmuş!
+5|Bütün bu tesisi sadece bizim için\ninşa ettiklerini düşünmek zor.
+6|Ben de Monokuma'nın yalan söylediğini düşünüyorum.\nO son derece hilekâr bir varlık.
+7|"Varlık" mı? Sonuçta o bir robot, değil mi?
+8|...Shuichi, bunca zamandır robofob\nmuydun?
+9|Ah, hayır, öyle demek istemedim...
+10|<CLT=cltMIND>Ama... bu <CLT=cltSTRONG>Ultimate Akademi<CLT=cltMIND>'nin gerçekte ne\nolduğunu nihayet ne zaman öğreneceğiz?
+11|<CLT=cltMIND>Neden var?
+12|<CLT=cltMIND>Gerçekten sadece öldürme oyunu\noynamamız için bir yer mi?
+## c04_003_010
+0|Tamam, görünüşe göre herkes burada.\nBaşlayalım.
+1|Ah, Kokichi ne olacak?
+2|Boş ver onu!\nÖyle oyun oynaması kendi suçu!
+3|Sanırım... saklambaçta gerçek bir\nprofesyonel olmalı.
+4|Sihirle bütün okulu aradım ama\nhiçbir yerde yoktu.
+5|S-Sihirle mi?
+6|Kimse bulamıyor, ha?
+7|<CLT=cltSTRONG>Motifin kart anahtarını<CLT=cltNORMAL> kullanıp\nbilmediğimiz bir yere girmiş olabilir.
+8|Sence asıl <CLT=cltSTRONG>motif<CLT=cltNORMAL> orada mı saklanıyor?\nHer iki durumda da endişe verici.
+9|Heh, onu bir daha gördüğümde yakalayıp\nsormam yeterli.
+10|Neyse, şu <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı deneyelim!
+11|Ama... bu <CLT=cltSTRONG>Geri Dönüş Işıkları<CLT=cltNORMAL> \nkonusunda hâlâ tedirginim... Kullanmak gerçekten güvenli mi?
+12|Eh, kullanmazsak anılarımız asla\ngeri gelmez, biliyor musun?
+13|O yüzden kullanmaktan başka çaremiz yok! \nBundan alacağımız anı tek ipucumuz!
+14|Şu balık suratlıya katılıyorum!
+15|Kime pane balık diyorsun!?
+16|Ah-haha, konserve ton balığına benzeyen biri\niçin epey iyi laf sokuyorsun.
+17|Kime didiklenmiş balık diyorsun!?
+18|Dur... Kokichi!?
+19|Bizi burada bulacağını biliyordum... ama\nsadece sen olduğun için.
+20|İltifat için sağ ol! Peki neden bütün\nneşeli arkadaşlarım burada toplandı?
+21|Önce şunu söyle...\nO <CLT=cltSTRONG>kart anahtarla<CLT=cltNORMAL> ne yaptın?
+22|Oo, demek bunun için endişeleniyorsunuz.\nRahat olun.
+23|Ne yazık ki kart anahtarı kullanamadım.
+24|Kullanamadın mı?

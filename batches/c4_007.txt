@@ -1,0 +1,56 @@
+@ chap4_text_US
+## c04_002_005
+22|Ama Kiyo gerçekten mükemmel bir\n<CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL>'du.
+23|<CLT=cltMIND>Ama Kiyo buradan sağ\nçıkabilseydi...
+24|<CLT=cltMIND>Kız kardeşine daha da fazla\n<CLT=cltSTRONG>arkadaş<CLT=cltMIND> edinebilirdi.
+26|Ama Kiyo gerçekten mükemmel bir\n<CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL>'du.
+28|<CLT=cltMIND>Monokuma <CLT=cltMIND>ölülerin diriltilebileceği<CLT=cltMIND>\niddiasından asla geri adım atmadı.
+29|<CLT=cltMIND>Bu akademi normal değil.\nBunu biliyorum.
+30|<CLT=cltMIND>Ama *öyle* bir şeyin olabileceği kadar\n<CLT=cltMIND>anormal<CLT=cltMIND> mi?
+45|<CLT=cltMIND>Bir merdiven...\nGörünüşe göre buradan yukarı çıkılabiliyor.
+46|Beşinci kat, ha?\nBu okulun kaç katı var?
+## c04_002_006
+0|Merdivenlerin yanında bir melek ve bir şeytan heykeli\nvar. Şapellerde genelde bunlar olmaz mı?
+2|<CLT=cltMIND>Burası insana tanrı olmadığını\nhissettiriyor, ama bir de bu var...
+3|<CLT=cltMIND>Bu tesadüf mü yoksa sadece\nMonokuma'nın mizah anlayışı mı?
+4|Avludan okul binasına bakınca 5. kat\nbu kadar büyük görünmüyordu...
+5|Yakın zamanda mı genişlettiler... sadece bizim için?
+6|Burası 4. kattan tamamen farklı\nbir havaya sahip.
+7|Ha? Şuradaki kapı düpedüz\nşüpheli. Yoksa...
+8|Ha? Şuradaki kapı düpedüz\nşüpheli. Yoksa...
+9|<CLT=cltMIND>Burası bir <CLT=cltMIND>Ultimate laboratuvarına<CLT=cltMIND> benziyor.\nİçeri bakmalıyım.
+10|<CLT=cltMIND>Burası da bir <CLT=cltMIND>Ultimate laboratuvarına<CLT=cltMIND> benziyor.\nAma kimin laboratuvarı?
+11|Emin olmak için içeri bakmalıyım.
+## c04_002_130
+0|Ne...? Bu...?
+1|Burası senin araştırma laboratuvarına benziyor.
+2|Öyle, değil mi?
+3|Bakalım içeride ne var.\nAma... burası içimde kötü bir his uyandırıyor.
+4|<CLT=cltMIND>Kötü bir his mi?
+5|Burasının <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'in\nlaboratuvarı olduğunu nereden bildin?
+6|Bakınca... anlayabildim.
+7|Ama burası sana hiç uymuyor. Bence bu\nlaboratuvar senin gibi biri için fazla iyi.
+8|Ahaha, haklı olabilirsin...\nÖnce bir pelerin ve bir avcı şapkası lazım.
+9|Ne...? O kıyafetler sana yakışmaz\nbile.
+10|Sana hiç yakışmaz, o yüzden deneme bile.
+11|Burası kesinlikle bir dedektif için\nlaboratuvara benziyor...
+12|Burası sana hiç uymuyor. Bence bu\nlaboratuvar senin gibi biri için fazla iyi.
+13|Kaito'nun tavrından hiç şikâyet etmiyorsun...
+14|Sanırım onun yardımcısı olmaya\ngerçekten kapılmışsın.
+23|<CLT=cltMIND>Cam kapının ardındaki raflarda şişeler\ndizili. Bunlar...?
+24|Görünüşe göre... zehir.
+25|Demek sen de öyle düşünüyorsun, ha?
+26|<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'in laboratuvarında\nnormal ilaç olmasının imkânı yok...
+27|<CLT=cltMIND>Dolabın cam kapısını açıp\niçine göz attı.
+28|Evet, bazılarının ne olduğunu biliyorum.\nKesinlikle zehir.
+29|Öyleyse... onlardan kurtulmaya çalışmalıyız.\nKimsenin yanlışlıkla—
+30|Onlardan kurtulsak bile Monokuma\nyenilerini koyar.
+31|O yüzden bunu yapmak boşuna. Sadece\ngeçici bir çözüm olur.
+32|<CLT=cltMIND>Geçici bir çözüm...
+33|<CLT=cltMIND>Kimsenin onları asla kullanmayacağından\n*emin* olmak istiyor.
+34|Yine de... burada bu kadar çok olmasına\nşaşırdım.
+35|Anında öldüren zehirler de var, çeşitli\nbelirtilere yol açanlar da...
+36|Nasıl kullandığına bağlı olarak farklı\ndüzenekler kurabilirsin.
+37|Burası bir <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL> laboratuvarı gibi değil.\nDaha çok bir suçlunun laboratuvarı gibi.
+38|Suçlar hakkında her şeyi bilmek söz konusu\nolduğunda aradaki çizgi çok ince.
+39|<CLT=cltMIND>Sanırım doğru... Suçluyla dedektif\narasında ince bir çizgi var.

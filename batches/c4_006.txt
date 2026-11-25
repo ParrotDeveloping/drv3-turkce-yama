@@ -1,0 +1,59 @@
+@ chap4_text_US
+## c04_001_010
+163|Anlıyorum. Kokichi'yi size bırakıyorum.
+164|Bir de, burnumu sokmak istemem ama...
+165|Miu'nun laboratuvarının yakınındaki büyük\nduvar ve kapılar ilgimi çekiyor.
+166|Elbette bu, aldığımız ödüllerle ilgili\nolduğundan şüphelenmek için bir sebep değil...
+167|Ancak akademinin içinde şüpheli görünen\nbaşka bir şey aklıma gelmiyor...
+168|Yani şüpheli bir şey varsa\navluda olmaz mı?
+169|Akademinin içinde şüpheli görünen başka\nbir şey aklıma gelmiyor...
+170|Yani şüpheli bir şey varsa\navluda olmaz mı?
+171|Neden bu kadar oyalanıyorsunuz!? Gençler \ngibi koşturuyor olmanız lazım!
+173|Hm? Yoksa... nereye bakacağınızı\nbilmiyor musunuz?
+174|Pekala, size yardım edeceğim! Sihrimle\nsezdiğim bir yeri söyleyeceğim!
+175|Orası...
+176|Avludaki kaide!\nMiu'nun laboratuvarının önündeki şey!
+177|O-O yüzden... hemen gidip bakmalısınız...
+178|<CLT=cltMIND>Tamam, tamam, bana bağırmana\ngerek yok...
+179|<CLT=cltMIND>Umarım bu kadar enerji harcayıp\nbayılmaz.
+180|Sezdiğim yer avludaki kaide!\nMiu'nun laboratuvarının önündeki şey!
+181|H-Hemen... gidip bakmalısınız...
+182|Ah, tamam.\nTeşekkürler.
+183|Aklıma geldi de... bu sabah buraya yürürken\nbir şey fark ettim...
+184|Avlu farklı görünmüyor mu?\nSanki daha az çimen var.
+185|Belki Gonta'nın bulduğu mesaj tek\nyeni şey değildir...
+186|Ama belki etrafta daha az bitki olduğuna\ngöre başka şeyler bulabiliriz.
+187|<CLT=cltSTRONG>Motif kart anahtarı<CLT=cltNORMAL>, ha...?
+188|Ama okulda kart anahtarı kullanacak\nbir yer var mı ki?
+189|Aklıma gelen tek yer kütüphanedeki gizli \nkapı ama onun için olduğunu sanmıyorum.
+190|Bu sefer sadece iki boktan ödül mü!? Vay be,\nbu ödüller gittikçe daha da sönükleşiyor!
+## c04_002_001
+0|<CLT=cltMIND>Erkekler tuvaletinden sıkıldım, sanırım\nkızlarınkini deneyeceğim... Şaka şaka.
+1|<CLT=cltMIND>Bodrumda gizemli bir nesne olduğunu\nhatırlamıyorum. Başka yere bakayım.
+## c04_002_002
+1|<CLT=cltMIND>Kaede...\nBen... Hayır, biz... henüz pes etmedik.
+2|<CLT=cltMIND>Yeteneklerimizi kullanarak tüm bunlara\nkarşı savaşacağız!
+4|<CLT=cltMIND>Senden ve Ryoma'dan sonra üç kişi\ndaha kurban edildi.
+## c04_002_003
+1|<CLT=cltMIND>Yaşamak için bir sebep istemiştin... Kiyo'nun\nmotifi hakkında ne derdin acaba.
+## c04_002_005
+0|Bu katta tuhaf nesne var mı diye\nbakmak istiyorum ama...
+1|Tapınak kapısının ötesindeki asılı parşömeni\nfark ettin mi? Üzerinde hiçbir şey yazmıyor.
+2|Evet, o da kafamı kurcalıyordu.\nTuhaf.
+3|Muhtemelen bunların hepsini atmosfer yaratmak\niçin yaptılar. Buradaki ıvır zıvırı kullanabilir misin bak.
+4|Doğru. Bana bırak.
+5|<CLT=cltMIND>Maki daha önce soruşturmalarda hiç\nbu kadar işbirlikçi olmamıştı...
+6|<CLT=cltMIND>Duruşmadan sonra söyledikleri\nkonusunda ciddi olmalı.
+7|...Ne? Neden o iğrenç suratı yapıyorsun?
+8|N-Ne!? *İğrenç* değil... değil mi?
+9|Sadece mutluyum... Şey, bizimle böyle\nçalışman gerçekten çok güzel.
+11|Kaito'nun aksine ben sadece laf yapmam.\nKararlarımı her zaman sonuna kadar götürürüm.
+13|Tapınak kapısının ötesindeki asılı parşömen...\nÜzerinde hiçbir şey yazmıyor.
+14|Acele et de ıvır zıvırı üzerinde kullanabilir misin bak.
+15|Hey, tapınak kapısının etrafına\nda baktın mı?
+16|Hayır, henüz bakmadım. Neden?
+17|Kiyo'nun bana daha önce söylediğini\nhatırlıyorum...
+18|Tapınak kapıları kutsal alanlara açılan <CLT=cltSTRONG>girişlerdir<CLT=cltNORMAL>\nve kutsal alanların etrafında bariyerler olur...
+19|Böyle düşününce buralarda bir yerde\ngizli bir giriş olabilir.
+20|Kiyo'dan her şey beklenir.
+21|Kız kardeşiyle ilgili olanları ya da Angie ile \nTenko'yu neden öldürdüğünü hâlâ anlamadım...

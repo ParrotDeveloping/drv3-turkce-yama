@@ -1,0 +1,69 @@
+@ chap4_text_US
+## c04_235_000
+92|Bütün şanı Shuichi'nin toplamasını\nistemedim, o yüzden herkese doğruyu söyledim!
+93|Kes şunu! İşe yaramayacak dedim!
+94|İpleri elimde tutup Gonta'ya emirlerimi\nyaptırmış olabileceğimi düşünmüyor musunuz?
+95|Mümkün olup olmaması önemli değil...\nçünkü ben imkânsız diyorum!
+96|Önemli! Sınıf duruşmalarına duyguları\nkarıştırmaya gerek yok!
+97|Tek ihtiyacımız mantıklı düşünmek...\nDeğil miii, Shuichi?
+99|Ş-Şeyy... Gonta neler olduğunu anlamıyor.\nAma yine de...
+100|Gonta... Miu'yu öldürmedi.\nGonta... gerçekten hiçbir şey bilmiyor.
+101|Ve ayrıca... Gonta yalan söylemez.\nVe Gonta başkalarına sorun çıkarmaz...
+102|Çünkü centilmenler öyle davranmaz!\nO yüzden Gonta fail *değil*!
+103|Evet, Gonta yalan söylemiyor...\nSadece ona bakarak anlayabiliyorum!
+104|Sihrimle zaten kontrol ettim!\nGonta kesinlikle yalan söylemiyor!
+105|O zaman size sorayım...\nGonta değilse fail kim?
+106|Sensin tabii ki!
+107|Ah-hahaha, hadi ama. Miu'yu öldüremeyeceğime\ndair zaten kanıt var.
+108|...Zaten kanıt mı var?
+109|Ah? Şimdiden unuttun mu?\nO zaman bir kez daha netleştireyim...
+110|...neden fail olamayacağımı!
+## c04_236_000
+0|Nyeh? Cinayet silahının tuvalet kâğıdı\nolduğunu zaten kanıtlamadık mı?
+1|Ona yakışan bir son demiştim,\nhatırladın mı?
+3|Gördün mü? Shuichi de katılıyor! Herkes onu\narkasından boğmuş olabilir!
+4|Hmm... tamam.
+5|Ama direnseydi bana dokunurdu,\ndeğil mi?
+6|Nii-hihi...\nNeden biraz daha düşünmüyorsun?
+8|Boğuşsa bile yapabileceği tek şey\nfaile dokunmaktı!
+9|Shuichi, aklında bir şey mi var?
+10|İkna olmak için bundan daha iyi bir\nkanıta ihtiyacım var...
+12|Hm? Ne dediğini anlamıyorum.\nShuichi, sen bilmelisin, değil mi?
+13|Yoksa yine yalan mı söyleyeceksin?\nBunu yapamazsııın; gerçekle yüzleşmelisin.
+15|<CLT=cltMIND>Kokichi'nin masum olduğu zaten kanıtlandıysa\nbunun kanıtı elimizde olmalı.
+16|<CLT=cltMIND>Suçluysa... boğuşma sırasında boğmaya\ngerçekten devam edebilir miydi?
+18|<CLT=cltMIND>Bir şey söylemeden önce bir şeyi\naydınlatmamız lazım...
+## c04_236_001
+0|<CLT=size2>Ben
+1|Ben fail değilim...
+2|<CLT=size2>fail <CLT=size1><CLT=size2>değilim...
+3|Bunu size zaten <CLT=size2>kanıtlamadım<CLT=size1> mı?
+4|Bunu size zaten kanıtlamadım mı?
+5|İpucu
+6|İpucu Miu'nun nasıl öldürüldüğü.
+7|Miu'nun nasıl
+8|öldürüldüğü.
+9|<CLT=size2>Miu
+10|Miu boğularak öldürüldü, değil mi?
+11|boğularak
+12|<CLT=size2>öldürüldü,
+13|<CLT=size2>değil mi?
+14|<CLT=size2>　\n<CLT=cltWEAK>T
+15|Cinayet silahı tuvalet kâğıdıydı!
+16|<CLT=size2>　\n<CLT=cltWEAK>u
+17|<CLT=size2>　\n<CLT=cltWEAK>va
+18|<CLT=size2>　\n<CLT=cltWEAK>l
+19|<CLT=size2>　\n<CLT=cltWEAK>e
+20|<CLT=size2>　\n<CLT=cltWEAK>t
+21|<CLT=size2>　\n<CLT=cltWEAK>kâ
+22|<CLT=size2>　\n<CLT=cltWEAK>ğı
+23|<CLT=size2>　\n<CLT=cltWEAK>dı<CLT=cltNORMAL><CLT=size1> cinayet\nsilahıydı!
+24|<CLT=size2>Miu<CLT=size1> boğulurken
+25|Miu boğulurken kesinlikle\ndirenirdi, değil mi?
+26|kesinlikle<CLT=size2>\ndirenirdi<CLT=size1>\n
+27|<CLT=size2>değil mi?
+28|<CLT=size2>O zaman\n<CLT=size1>benim gibi zayıf biri için\nimkânsız olurdu!
+29|O zaman benim gibi zayıf biri için\nimkânsız olurdu!
+30|Sanal avatarının <CLT=size2>gücünden\n<CLT=size1>mi <CLT=size2>bahsediyorsun?
+31|Sanal avatarının gücünden\nmi bahsediyorsun?
+32|<CLT=size3>Bu

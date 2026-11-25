@@ -1,37 +1,463 @@
+0	<CLT=cltMIND>Şafak vakti.
+1	<CLT=cltMIND>Biz Sanal Dünya'nın içindeyken\ngüneş doğmuştu.
 2	<CLT=cltSYSTEM>*ding dong, dong ding!*
+3	Bir ceset bulundu! Herkes lütfen bilgisayar\nodasına gelsin...
+4	...Dur, zaten buradasınız.
+5	Vay, ceset bulunma anonsunu size\ncanlı yapıyorum!
+6	Of, canlı yapmak harika!\nBiradan da sevişmekten de iyi!
+7	Ha? Babacık, ağzın hep bu kadar\nbozuk muydu?
+8	Zaten ağzı bozuk bir oyuncumuz olduğu için kendimi\ntutuyordum ama şimdi parlama zamanım!
+9	Neyse ki çok sevimliyim, o yüzden her türlü\nkaba lafı söyleyip paçayı kurtarabilirim.
+10	Yaşasın! Sonunda ağzı bozuk bir <CLT=cltSTRONG>göt herif<CLT=cltNORMAL> olabiliyorum!
+11	Ne kaba bir son söz!
 12	...
+13	Ne oldu, Monotaro? Cesede boş boş\nbakıp duruyorsun...
+14	Ce-Cesede... boş boş—
 15	BLÖĞĞBLRBLÖĞĞBLRBLÖĞĞ!
 16	...
+17	...Annecik.
+18	<CLT=cltMIND>Şaşkınlık içinde Miu'ya bakarken\nanonsu zar zor duyduk.
+19	<CLT=cltMIND>Sadece... Miu'nun cesedine bakıyorduk.
+20	B-Bu korkunç... Neden böyle oldu...?
+21	Miu! N-Neden...!?
+22	N-Neler oluyor?\nMiu neden... öldürüldü?
+23	Gonta da... anlamıyor... Gonta uyandığında\nMiu böyleydi...
+24	Hey! Neler oluyor!? Bu neden oldu!?
+25	Eh, bir cinayet işlendiği belli.
+26	C-Cinayet mi...?
+27	N-Ne demek istiyorsun!? Gonta uyurken\nbir şey mi oldu!?
+28	Uyumuyorduk ve o bir rüya değildi.\nSanal Dünya'daydık.
+29	...Hey, Kaito nerede?
+30	Doğru, Kaito—
+31	<CLT=cltMIND>Sanki işaret verilmiş gibi...
+32	<CLT=cltMIND>Koridorda hızla koşan ayak sesleri\nduyduk, ses gittikçe yükseldi ve...
+33	<CLT=cltMIND>Kapı hızla açıldı.
+34	Hey! Bu da ne!?\nO ceset bulunma anonsu da neyin neyd—
+35	Ne—! Miu!?\nN-Neler oluyor burada be!?
+36	Çok geç kaldın, tamam mı? Diğerlerinin hepsi\ndehşetle soluklanmayı çoktan bitirdi.
+37	Ama neyse, bunca zaman neredeydin,\nKaito? Ne yapıyordun?
+38	B-Ben sadece şekerleme yapıyordum.
+39	Şekerleme mi?
+40	Uyuyor muydun?
+41	Gonta da uyuyordu! Tuhaf rüya gördü!\nGonta hiçbir şey anlamıyor!
+42	Dediğim gibi, orası Sanal Dünya'ydı...
+43	Yani tek başına çıkış yapıp şekerleme\nmi yaptın? İznimiz olmadan?
+44	Birden çıkış yapılmış oldum...\nFarkına varmadan buraya geri dönmüştüm...
+45	İstemeden mi... çıkış yaptın?
+46	Evet... Tekrar giriş yapmak sorun olur mu\nbilmediğim için odama dönüp uyudum.
+47	Ve o ceset bulunma anonsu beni uyandırınca\nburaya koştum—
+48	Hey, Kaito! Yalan söyleyeceksen bari daha\niyi söyle!
+49	Böyle berbat bir yalanla öldürme oyununu\ndaha heyecanlı yapabileceğini mi sanıyorsun!?
+50	B-Bu yalan değil! Gerçekten uyuyordum!
+51	Bir dakika. Bunun yalan olup olmadığını\nsonra konuşabiliriz.
+52	Şu an yapmamız gereken... soruşturmaya başlamak.\nMiu'yu kimin öldürdüğünü bulmalıyız.
+53	Nii-hihi... hazır görünüyorsun.\nEh, tabii ki hazırsın.
+54	Değerli arkadaşlarından biri öldürüldü, yani\nsonunda parlama zamanın geldiiii!
+55	...İstediğin gibi açıkla, Kokichi.
+56	Gerçek şu ki, failin kim olduğunu\nbulamazsak hepimiz idam edileceğiz.
+57	Ama buna izin vermeyeceğim. Hepimiz hayatta\nkalabilelim diye faili bulacağım.
+58	...Fail Kaito olsa bile mi?
+59	Ha!? Ne!?
+60	Hadi hadi, tartışmalarınızı sınıf duruşmasına\nsaklayın. Bu arada...
+61	Ta-da! Monokuma Dosyası! Bununla Miu'nun\nkıçının deliğini bile inceleyebilirsiniz!
+62	Ha? Orayı bile mi?
 63	...
+64	Pekala o zaman, elinizden geleni yapın!
+65	Eminim bu olayları çok eğlenceli hale\ngetireceksiniz! <CLT=cltSTRONG>Göt herif<CLT=cltNORMAL>!
+66	Babacık o kaba kelimeden gerçekten\nçok hoşlanmış gibi.
 67	...
+68	...Annecik.
+69	Tamam, millet! Hadi bakalım! Bu sefer\nne olursa olsun faili ben bulacağım!
+70	Neden bu kadar neşelisin!?
+71	Eee, siz neden üzgünsünüz? Ondan nefret\nediyordunuz! Benden ettiğiniz kadar değil ama yine de!
+72	M-Mesele o değil... Tabii ki gürültücü\nve sinir bozucu olduğunu düşünüyordum ama...
+73	Ölmesini asla istemedim.\nHep birlikte kaçmamızı istedim.
+74	Miu kesinlikle küstah ve enerjikti ama\nkötü biri değildi.
+75	İnanın bana, vücudumun bakımını ona yaptırdım!\nO yüzden biliyorum! Çok... iyi biliyorum!
+76	Krgh... Ağlamak istiyorum ama yapamıyorum...\nMiu'ya ağlama fonksiyonu taktırmalıydım!
+77	Ha? Gözyaşların kısa devreye sebep\nolmaz mıydı?
+78	Hiç de değil. Vücudum tamamen su geçirmez.
+79	Bunun zamanı değil...
+80	Ugh... Gonta bunu affedemez.\nGonta... bunu asla affetmeyecek.
+81	Faili de asla affetmeyecek...
+82	Ama Gonta kendini asla affetmeyecek! Gonta herkesi\nkorumaya yemin etti! Ama Gonta Miu'yu koruyamadı!
+83	Gonta yine kimseyi koruyamadı!\nGonta centilmen olarak başarısız!
 84	...
+85	<CLT=cltMIND>Bu berbat histen... çok yoruldum.
+86	<CLT=cltMIND>Bir şey yapmalıyım.\nBuna izin veremem—
+87	Shuichi, yükü tek başına taşıma.
 88	Ha?
+89	Sen benim yardımcımsın! Unutma.
+90	Bunu birlikte yapacağız!\nBirlikte çalışırsak bunu çözebiliriz—
+91	Hayatta olmaz.
+92	Ne... Ne!?
+93	Shuichi sınıf duruşmasındaki en güvenilir\nkişi, biliyor musun?
+94	Böyle önemli birinin senin gibi bir şüpheliyle\nbirlikte çalışmasına neden izin verelim?
+95	Şüpheli mi...?
+96	Yani fail ben olsaydım Shuichi beni korumak\niçin gerçeği saklar mı diyorsun?
+97	Saçmalık! Shuichi'yi hafife alma!
+98	Fail ben olsam bile o işi sonuna kadar\ngötürecek türden biri!
+99	Ama Kaede'nin sınıf duruşmasını hatırla—
+100	Onda da sonuna kadar götürdü, değil mi!?\nShuichi'ye inanıyorum!
 101	K-Kaito...
+102	Nii-hihi...\n<CLT=cltSTRONG>İnanmaya<CLT=cltNORMAL> bayılıyorsun, değil mi Kaito?
+103	Ama o <CLT=cltSTRONG>inanç<CLT=cltNORMAL> sana karşı dönebilir, özellikle\nbu öldürme oyununda, biliyor musun?
+104	Heh... Neden bahsettiğin hakkında hiçbir\nfikrim yok... Hiç anlamıyorum...
+105	Peki, bu kadar sinirleneceksen o zaman\nShuichi ile ekip olmayacağım.
 106	A-Ama...
+107	Merak etme! Sadece şimdilik!
+108	Ama onun bunları söylediğini duyunca...\nsessiz kalamam!
+109	Bununla birlikte, bunu kendi başına atlatmaya çalış!\nKendi gücünle şüpheden kurtul!
+110	Nii-hihi... *eğer* kurtulabilirsen.
 111	...
+112	<CLT=cltMIND>...Bundan hiç hoşlanmadım. Kokichi'nin\nhilelerinden biri daha gibi geliyor.
+113	<CLT=cltMIND>Tabii ki söz konusu Kaito, söyleyeceğim\nhiçbir şey fikrini değiştiremez.
+114	<CLT=cltMIND>Ne olursa olsun... yapabileceğim\ntek bir şey var.
+115	<CLT=cltMIND>Korkamam...\nŞimdi kaybolamam.
+116	<CLT=cltMIND>Herkesi korumak için bir şey\nyapmalıyım.
+117	<CLT=cltMIND>Bir şey yapmalıyım...
+118	<CLT=cltMIND>Önce Monokuma Dosyası'na bakmalıyım.
+119	<CLT=cltMIND>Kurban <CLT=cltSTRONG>Ultimate Mucit<CLT=cltMIND>\nMiu Iruma.
+120	<CLT=cltMIND>Ceset 4. kattaki bilgisayar odasında\nbulundu.
+121	<CLT=cltMIND>Tahmini ölüm saati sabah 6.30.\nCesette dış yara yok.
+122	<CLT=cltMIND>Dış yara yok...\nSabah 6.30 civarında öldürülmüş...
+123	Ölüm saati şu andan 30 dakika önce...\nbiz hâlâ Sanal Dünya'dayken.
+124	Kokichi. Ne istiyorsun?
+125	Bana karşı bu kadar temkinli olmana gerek yok.\nYoluna çıkacak değilim, Shuichi.
+126	Sadece... yalanlardan o kadar nefret ediyorum ki\nbaşkalarından çok şüphelenmeye meyilliyim.
+127	Kaito bu davada seninle ekip olmayacağını\nsöyledi ama o sözlere güvenemem.
+128	O yüzden seni rahatsız etmeye kalkarsa\ndiye gözümü dört açıyorum.
+129	"Gözünü dört açmak" mı?
+130	Ama yanlış anlama. Ortağın olarak Kaito'nun\nyerini almaya çalışmıyorum, tamam mı?
+131	Ama elimden geldiğince sana yardım edeceğim.\nEe, şimdi nereyi inceleyeceksin?
+132	<CLT=cltMIND>Ne peşinde?\nNeden beni takip ediyor?
+133	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma Dosyası 4<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+134	Shuichi, açıklamam lazım. \nYanlış anlamayasın diye.
+135	Neyi açıklaman...?
+136	Tek başına nasıl çıkış yaptığından bahsediyorsun,\ndeğil mi? Tama-am! Dinleyelim o zaman.
+137	S-Sen neden—?
+138	Tabii ki istediğin gibi yalan söyle. Ne de olsa\nyalanları ortaya çıkarmak bu oyunun asıl zevki.
+139	Ha? Ne!?
+140	Kaito... onu boş ver de benimle konuş, tamam mı?
 141	...
+142	Şu çıkış yapma meselesi...\nBen de pek anlamıyorum.
+143	Çatıda <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL> ararken\naltımda bir daire parladı.
+144	Birden içine çekildim ve farkına\nvarmadan çıkış yapmıştım.
+145	<CLT=cltMIND>Telefonla çıkış yaptığımda da aynısı oldu.\nBu çatıda nasıl oldu?
+146	Peki çıkış yaptıktan sonra ne oldu?
+147	Herkes hâlâ girişliydi ama tekrar giriş\nyapmamın sorun olur mu bilmiyordum...
+148	O yüzden odama dönüp uyudum.\nŞafak vakti olduğu için epey yorgundum...
+149	Ve ceset bulunma anonsu seni uyandırdı mı?
+150	Evet, doğru. Duyunca buraya\nkoşup geldim.
+151	Çıkış yaptığında Miu'nun cesedinin ne\ndurumda olduğunu hatırlıyor musun?
+152	Yok. Dikkat etmedim,\no yüzden bilmiyorum.
+153	Yanlış bir şey fark etmedin mi?\nÖlü olup olmadığı gibi?
+154	Dedim ya, bilmiyorum!
+155	Tamam, pardon. Yani o ifadedeki çelişkiye\nitiraz etmem yeterli, değil mi?
+156	Yalan söylemiyorum dedim!\nSöyle şuna, Shuichi!
+157	Hayır, Shuichi. Gerçeği bulmak için\ntaraflı olamazsın.
 158	...
+159	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kaito'nun İfadesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+160	Şu çıkış yapma meselesi...\nBen de pek anlamıyorum.
+161	Çatıda <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL> ararken\naltımda bir daire parladı.
+162	Birden içine çekildim ve farkına\nvarmadan çıkış yapmıştım.
+163	<CLT=cltMIND>Telefonla çıkış yaptığımda da aynısı oldu.\nBu çatıda nasıl oldu?
+164	Herkes hâlâ girişliydi ama tekrar giriş\nyapmamın sorun olur mu bilmiyordum...
+165	O yüzden odama dönüp uyudum.\nŞafak vakti olduğu için epey yorgundum...
+166	Ve ceset bulunma anonsu seni\nuyandırdı mı?
+167	Evet, doğru. Duyunca buraya\nkoşup geldim.
+168	Hatırlıyor musun... çıkış yaptığında\nMiu ne durumdaydı?
+169	Yok. Dikkat etmedim,\no yüzden bilmiyorum.
+170	Shuichi, tekrar söylüyorum; taraf tutmadan\ndüşünmelisin, tamam mı?
 171	...
 172	...
+173	Gonta... iyi misin?
+174	Miu yüzünden hâlâ morali mi bozuk?\nHadi ama, bu kadar karamsar olma.
 175	...
+176	Ah, Gonta, ne düşündüğünü bilmek istiyorum. Nadir\nbir şey, biliyorum ama sence fail kim?
+177	Gonta... bilmiyor. Gonta uyandığında\ncinayet çoktan olmuştu...
+178	Ama... bu neden oldu...!?\nMiu neden... öldürüldü!?
+179	Gonta anlamıyor...\nGonta hiçbir şey anlamıyor...
+180	...Ama Gonta sinirli ve üzgün!\nGonta Miu'yu koruyamadı!
+181	Şu an kafası karmakarışık görünüyor. Off be,\nböyleyken hiç düşünemiyor.
+182	Ama Gonta yalan söylüyor gibi görünmüyor.\nBize doğruyu söylediğinden epey eminim.
+183	Eh... sanırım Gonta gibi koca bir saftiriğin\nzaten yalan söyleyecek kafası yok.
+184	...Onun hakkında böyle konuşma.
+185	Senden çok hayal kırıklığına uğradım, Gonta. Seninle\nilk tanıştığımda daha yararlı olacağını düşünmüştüm.
+186	Ö-Özür dilerim...!
+187	Gonta çok özür diler! Gonta Miu'yu koruyamadığı\niçin özür diler!
+188	Gonta...
+189	Bu kadar kötü hissediyorsan kendini suçlamayı\nbırak. Onun yerine faili bulmamıza yardım et.
+190	Zaten bu failin suçu, o yüzden kendini\ntopla da bize yardım et, tamam mı?
 191	...
+192	T-Tamam... Gonta anladı.
+193	Gonta faili bulmak için elinden geleni yapacak!\nGonta... bu sefer kesinlikle elinden geleni yapacak!
+194	Evet, işte bu ruh!
+195	<CLT=cltMIND>Şimdi de Kokichi onu cesaretlendiriyor mu?
 196	...
+197	<CLT=cltMIND>Kokichi'nin ne düşündüğünü gerçekten\nbilmiyorum.
+198	Gonta faili bulmak için elinden geleni yapacak.\nGonta... bu sefer kesinlikle elinden geleni yapacak!
+199	Nii-hihi... bana karşı bu kadar temkinli\nolmana gerek yok.
+200	Kaito seni rahatsız etmeye kalkarsa diye\ngözümü dört açıyorum.
+201	Ama yanlış anlama. Ortağın olarak Kaito'nun\nyerini almaya çalışmıyorum, tamam mı?
+202	Ama elimden geldiğince sana yardım edeceğim.\nEe, şimdi nereyi inceleyeceksin?
+203	<CLT=cltMIND>Ne yapmaya çalışıyor?\nNeden beni takip etmekte ısrar ediyor?
+204	Monotaro'nun artık bizim tarafımızda olduğuna inanabiliyor\nmusunuz!? Hem de yeni ölen annesi için!
+205	VAAAAAAAAAAAAAAAAHHHHHH!!!!!\nO kadar duygulandım ki ağlamayı kesemiyorum!
+206	Monoyavrular onu çok seviyordu...
+207	Miu'yu öldüren faili... asla affetmeyeceğim!
 208	...
+209	Merak ediyordum...
+210	Aradığımız bu <CLT=cltSTRONG>dış dünyanın sırrı<CLT=cltNORMAL>\nneydi ki?
+211	<CLT=cltMIND>Doğru...\nMiu'nun cinayet davası yüzünden dikkatimiz dağıldı.
+212	<CLT=cltMIND>O sırrın aslında ne olduğunu\nhiç bulamadık.
+213	Şapelde hiçbir şey bulamadık, siz de\nkonakta hiçbir şey bulamadınız, değil mi?
+214	Hayır. Tsumugi ve ben hiçbir şey bulamadık.
+215	Ben de bir şey bulamadım. Muhtemelen Kaito\nve Gonta için de aynısı geçerli, değil mi?
+216	Onları bildiğimize göre bir şey bulsalardı\nhemen bize söylerlerdi.
+217	Evet, söylerlerdi. Senin aksine...
+218	Vay!!! Shuichi, duydun mu!?\nRobot bana laf sokuyor!
+219	Biliyor muydun? Robotların çalışmak için sıcak\nkana ihtiyacı yok, o yüzden böyle soğuk oluyorlar...
+220	Bu yüzden zavallı Miu'dan çok <CLT=cltSTRONG>dış\ndünyanın sırrıyla<CLT=cltNORMAL> ilgileniyor.
+221	İstese bile ağlayamayacağını söyledi!\nDramatik tepkisini sahnelemek için o kadar ileri gitti.
+222	B-Bu doğru değil! Ben de gerçeği bulabilmeyi\numuyorum!
+223	Epey gelişmiş bir robotsun. Hem laf\nsokup *hem de* bahane uydurabiliyorsun.
 224	Grrh...
+225	...<CLT=cltSTRONG>Dış dünyanın sırrı<CLT=cltNORMAL> her neyse,\nşimdilik bir kenara bırakalım.
+226	Şu an en büyük önceliğimiz Miu'nun ölümünün\nardındaki gerçeği bulmak.
+227	Miu'nun... öldürüleceğini hiç düşünmemiştim.
+228	Avatarını orada... hareketsiz görünce...\nbelki diye düşündüm ama...
+229	Doğru... Miu'nun Sanal Dünya'daki avatarının\nhareketsiz kaldığını görmüştün.
+230	Ben, Keebo ve Maki avatarını birlikte bulduk...
+231	Bana bundan biraz daha bahsedebilir misin? \nHerhangi bir ayrıntı?
+232	Şapelde <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL>\narıyorduk...
+233	Miu da, değil mi?
+234	Hayır, Miu şapelin dışına bakmaya gönüllü\noldu, o yüzden bizimle değildi.
+235	<CLT=cltMIND>*Miu* dışarıya bakmaya gönüllü mü oldu?
+236	Aradık ama hiçbir şey bulamadık.\nSonra tam yorulmaya başlamışken...
+237	Birden dışarıdan çok yüksek bir\nses duyduk.
+238	<CLT=cltMIND>Benim duyduğum ses de o olmalı.
+239	Bir şey şapelin duvarına çok sert çarpmış\nolmalı. Ta içeriden hissettik.
+240	<CLT=cltMIND>Şapel duvarına çarpan bir şey...
+241	Hepimiz şapelin yan tarafına bakmak için\ndışarı koştuk ve Miu'nun avatarını bulduk.
+242	Miu'nun gerçek bedenine bakmak için\nçıkış yapmaya o zaman gittiniz, değil mi?
+243	Ama nehre gittiğimizde nedense\nköprü yoktu.
+244	Sonra ne yapacağımızı düşünerek orada\ndikilirken siz geldiniz.
+245	Anlıyorum. Teşekkürler.
+246	Bu ifade önemli gibiydi, özellikle\nnehri geçemedikleri kısmı.
+247	Çünkü geçemedilerse o zaman kimse konakla\nşapel arasında gidip gelemezdi.
+248	O zaman bu, Miu ile temas kurmuş olabilecek\nkişileri daraltmamıza yardım ediyor.
+249	<CLT=cltMIND>Şapelde Miu ile kim temas\nkurmuş olabilir...?
+250	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Şapeldeki Olaylar<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+251	Miu'nun avatarını bulduktan sonra ne olduğunu\nbiraz daha anlatabilir misin?
+252	Hrm... şapelde <CLT=cltSTRONG>dış dünyanın\nsırrını<CLT=cltNORMAL> arıyorduk...
+253	Ama Miu şapelin dışına bakmaya gönüllü\nolduğu için bizden ayrıydı.
+254	<CLT=cltMIND>Bunda bir tuhaflık var. Miu hep çok\ntembeldi, neden buna gönüllü olsun ki?
+255	Aradık ama hiçbir şey bulamadık.\nSonra tam yorulmaya başlamışken...
+256	Birden dışarıdan çok yüksek bir\nses duyduk.
+257	Bir şey şapelin duvarına çok sert çarpmış\nolmalı. Ta içeriden hissettik.
+258	<CLT=cltMIND>Şapel duvarı...
+259	Hepimiz şapelin yan tarafına bakmak için\ndışarı koştuk ve Miu'nun avatarını bulduk.
+260	Miu'nun gerçek bedenine bakmak için\nçıkış yapmaya o zaman gittiniz, değil mi?
+261	Ama nehre gittiğimizde nedense\nköprü yoktu.
+262	Sonra ne yapacağımızı düşünerek orada\ndikilirken siz geldiniz.
+263	Anlıyorum. Teşekkürler.
+264	<CLT=cltMIND>Himiko'nun ifadesi kimsenin konakla\nşapel arasında gidip gelemeyeceğini söylüyor.
 265	...
+266	<CLT=cltMIND>Maki bilgisayarda çalışıyordu,\neli fareyi hızla oynatıyordu.
+267	O bilgisayarı kullanmayı biliyor musun, Maki?
+268	Hayır, pek değil. Bu programı daha önce\nhiç kullanmadım da.
+269	Anlıyorum... Uzman olmadıkça anlamanın\nzor olacağını tahmin ediyorum.
+270	Ama bu programla ilgili metin dosyasını\nbuldum.
+271	Programın temel özellikleri hakkında bilgi var,\nama onun dışında pek bir şey yok.
+272	Oo, peki ne yazıyordu?
 273	...
+274	Bana söylemek istemiyorsan bari\nShuichi'ye söyle.
+275	Bu metin dosyasına göre...
+276	Öldürme oyunu simülatörü temel olarak\nbelirli bir program kullanmış.
+277	Adı <CLT=cltSTRONG>Neo World Program<CLT=cltNORMAL>.
+278	<CLT=cltSTRONG>Neo World Program<CLT=cltNORMAL> mı...?\nHmmm, hiç duymadım.
+279	Bu öldürme oyunu simülatöründe\n<CLT=cltSTRONG>nesneler kırılamaz<CLT=cltNORMAL>...
+280	Vücudunun beş duyusu avatarına bağlı\nve avatarına zarar verilemez...
+281	Ama avatarına verilen her hasar gerçek\ndünyadaki vücuduna aktarılır.
+282	<CLT=cltMIND>Bu Miu'nun bize söyledikleriyle uyuşuyor.
+283	Avatarın ölümcül hasar alırsa\ngerçek vücudun şoktan ölür.
+284	Şoktan mı?
+285	Ooohh, bunu ilk defa\nduyuyoruz.
+286	Biri Sanal Dünya'da ölümcül bir yara alırsa\ngerçek dünyada ölür...
+287	Eh, beş duyun bağlı olduğuna göre aynı\nmiktarda acı hissetmen mantıklı.
+288	Yani ölümcül yaradan ölmen çok da\nşaşırtıcı olmaz.
+289	Ama daha önemli soru şu...
+290	Miu neden böyle önemli bir ayrıntıyı\nsır olarak sakladı?
+291	<CLT=cltMIND>Bu tuhaf. Böyle önemli bir ayrıntıdan neden\nbahsetmediği hakkında hiçbir fikrim yok.
+292	<CLT=cltMIND>Bunu bizden bilerek mi sakladı?
+293	Sanal Dünya'nın temel özellikleri hakkında\nyazan bu kadar.
+294	Fizik kanunları dahil Sanal Dünya'nın geri\nkalanı gerçek dünyayla aynı.
+295	Işınlanma ve binek gibi özel ulaşım\nyolları yok.
+296	Yani sadece avatarını kullanarak hareket edebilirsin.
+297	Sanal Dünya'ya ışınlanma ve binek\neklemeliydi.
+298	Bu metin dosyasında yazan bu kadar...
+299	Teşekkürler, Maki. Çok yardımcı oldu.
+300	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Öldürme Oyunu Simülatörü<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+301	Ama metin dosyasındaki bilgi doğru mu?
 302	...Ne demek istiyorsun?
+303	Senden şüphelendiğimden falan değil, Maki. Sadece\no dosya yeniden yazılmış olabilir diyorum.
+304	Biri orijinal bilgiyi yanlış bilgiyle değiştirmiş\nolabilir, biliyor musun?
+305	Ama bunu anlamak için kapsamlı bilgisayar\nbilgisi gerekir—
+306	Bu tam bana göre bir iş!
 307	...Ne?
 308	...Ha?
+309	...Yolumuza çıkma.
+310	Yolunuza çıkmayacağım! Hatta soruşturmaya\nyardım etmeme izin vermenizi istiyorum!
+311	Soruşturmaya yardım mı...?\nMonotaro, ne diyorsun sen?
+312	Hadi, lütfen! Soruşturmaya yardım\netmeme izin vermez misiniz?
+313	Bilgisayarlarda kötü olduğumu unuttuğumdan\nberi artık bilgisayarlarda iyiyim!
+314	Bu mantık... hiç mantıklı değil.
+315	O-Olmaz, Monotaro...
+316	Katılımcılara yardım etmemize izin yok.\nMaskotlar olarak o kurala uymalıyız.
+317	Kurallar zerre umurumda değil!\nHerkese yardım etmek istiyorum!
+318	Ölen annemin intikamını almak istiyorum!
+319	"Annen" mi? Miu'yu mu kastediyorsun?
+320	H-Hayır, Monotaro... Yine unuttun...
+321	Onun annemiz olmadığını unuttun...
+322	Ve... korumak zorunda olduğun önemli\nkişiyi unuttun—
+323	Kes sesini, domuz! Annemin ölümünün\nintikamını almakla meşgulüm!
+324	Ergh... Ngh... Ne kadar üzücü ama görünüşe\ngöre bu bir veda...
+325	Seni seviyorum ama... korumam gereken\nbiri var...
+326	Elveda!
+327	Pekala o zaman, hadi bakalım!
+328	...Ne yapalım?
+329	Benim için fark etmez. Yardım etmek\nistiyorsa sorun değil.
+330	D-Doğru, sanırım ama...
+331	Teşekkürler! Annem için elimden geleni yapacağım!
+332	B-Bekle, belki de—
+333	Ölen annesi için elinden geleni yapıyor!\nÇ-Çok duygulandım... VAAAAAAAAHHH!!!
 334	...
+335	...Peki, tamam. O zaman sana bırakıyorum.\nSanırım başka çarem yok.
+336	Tamaaam! Bilgisayarı hemen analiz\netmeye başlıyorum!
+337	GYAHHHHHHHHHHHHHHHH!
+338	Bu ufacık bilgisayar ellerime\nrakip olamaz!
+339	Gah! Elleri o kadar yoğun bir hızla gidiyor ki\nsürtünme ateş yaratıyor!
+340	Şimdiden birkaç şeyi analiz ettim!
+341	Şimdiden mi!?
+342	Metin dosyası orijinal programla tutarlı.\nDeğiştirilmiş gibi görünmüyor.
+343	Ayrıca... bunu da buldum.
+344	Bu... herkesin giriş ve çıkış yaptığı\nzamanların bilgisine benziyor.
+345	Bunun da değiştirildiğine dair bir iz yok!\nKesinlikle doğru bilgi!
+346	Bana gösterebilir misin?
+347	<CLT=cltMIND>Gerçekten de herkesin giriş ve\nçıkış saatleri kaydedilmiş.
+348	Miu dışında herkes bir kez giriş ve\nçıkış yapmış...
+349	O zaman kimse gizlice çıkış yapıp sonra\ntekrar giriş yapmamış gibi görünüyor.
+350	<CLT=cltMIND>O zaman asıl endişem...
+351	<CLT=cltMIND>Kaito. Bizden önce çıkış yaptı...
+352	<CLT=cltMIND>...Hayır, o olamaz.
+353	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Giriş/Çıkış Kaydı<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+354	Ayrıca... programı analiz ederken fark\nettiğim başka bir şey daha var.
+355	Görünüşe göre programın bazı kısımları\nyeniden yazılmış.
+356	Program yeniden mi yazılmış?
+357	Belli ki bunu yapabilecek tek kişi\nMiu'ydu.
+358	Peki hangi dosyaları yeniden yazmış ve\nneyi değiştirmiş?
+359	Tabii ki onu analiz edeceğim... Ama biraz\nzaman alacak.
+360	Eh, sınıf duruşmasına kadar bittiği sürece.\nO zaman Shuichi Miu'nun intikamını alabilir.
+361	<CLT=cltMIND>Ağzına geleni söylüyor...
+362	Tamaaam! O zaman bu programı analiz\nedip içini dışına çıkarmaya devam edeceğim!
+363	Ah-haha, çok güvenilirsin!
+364	...Evet, senden çok daha fazla.
+365	...Bilgisayarla ilgiliyse Monotaro'ya sor.
+366	Ben sadece yardım ediyorum.
+367	Henüz analizi bitirmedi, o yüzden şu an\nelimizdeki bilgileri düzenlemeliyiz.
+368	Sonunda... böyle oldu.
+369	İçimde kötü bir his vardı... Yemek salonunun\npenceresinden Miu'yu gördüğümü sandığımdan beri.
+370	Miu'yu gördüğünü mü sandın...?
+371	Evet... Shuichi'ye söyledim...
+372	Oo, demek o zaman Miu'yu gördün.
+373	Şapelin yanında olması gerektiği için\nyanılmış olmalıyım diye düşündüm—
+374	Sadece daha az suçlu hissetmek için\n"yanılmış" olduğunu söylüyorsun.
 375	Ha?
+376	O kişinin Miu olduğundan *emin* olsaydın\ndaha erken bir şey yapabilirdin...
+377	Ölümünü engelleyebilirdin, biliyor musun?
+378	B-Bu...
+379	Bu sadece bir varsayım, Kokichi.\nSonradan bakarak yargılayamazsın.
+380	Ah, konudan biraz saptık.\nNeyse, sana bir şey sormak istiyordum...
+381	Miu'yu gördüğünü "sandıktan" sonra\nne yaptın?
+382	Ş-Şey... yanıldığımı düşündüm ama\nbeni gerçekten rahatsız etti, o yüzden...
+383	Yaklaşık on dakika sonra Shuichi'ye söyledim. \nVe bunun hakkında konuşurken...
+384	Yüksek bir ses duyduk ve giriş salonuna\nkoştuk...
+385	Kee-çocuğun sesi mi? Şapelde değil miydi?
+386	Oradaydı ama Tsumugi ve ben onun sesi\nolduğundan eminiz.
+387	Şapelde *olması gerekirken* giriş salonundan\nKeebo'nun sesini duyduk.
+388	Neee? Bu tuhaf, çünkü şapelle konak arasında\nhiçbir şey duyamaman gerekiyor.
+389	Miu bile öyle demişti.
+390	Haklısın... Sesin harita yükleme noktasından\ngeçmemesi gerekiyor.
+391	Peki Keebo'nun sesini nasıl duyduk?
+392	Keebo şapeldeyse onu konaktan\nnasıl duyabildik?
+393	Belki... biri yalan söylüyordur.
+394	Yalan mı...?
 395	...
+396	Bu arada, Kokichi. Yüksek sesi ya da Keebo'nun\nsesini hiç duydun mu?
+397	Hm... emin değilim. Aramakla çok meşgul\nolduğum için fark etmemiş olmalıyım.
+398	Yüzüne karşı yalan söylüyorsun!
 399	ben öldürdüm!
+400	Kaito, ben konuşurken sözümü kesip duruyorsun.\nBenden hoşlanıyor musun yoksa?
+401	Kim senden hoşlanır, salak!?\nShuichi'nin konuşmasıyla ilgileniyordum!
+402	Benim konuşmam mı?
+403	İmkânsız olması gerekirken Keebo'nun sesini duydun.\nBana bundan biraz daha bahsedebilir misin?
+404	Şey, daha önce söylediklerim aşağı\nyukarı hepsiydi.
+405	Ondan sonra ne olduğunu görmek için\nşapele geri döndük...
+406	Konaktan çıkarken Gonta'yı gördük ve\nüçümüz birlikte nehre gittik.
+407	Kokichi ile orada buluştuk.
+408	Sonra bulduğum tabelayı köprü olarak\nkullandık...
+409	Ama ne olmuş? Bir şey fark ettin mi?
 410	...
+411	<CLT=cltMIND>Sanırım hayır.
+412	Sıkı çalıştığını görüyorum. Bu oyunu ciddiye\nalmaya başlamışsın gibi görünüyor, Kaito.
+413	Kes sesini!
 414	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Tsumugi'nin İfadesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+415	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Yüksek Ses<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+416	Sesin harita yükleme noktasından\ngeçmemesi gerekiyor.
+417	Peki Keebo'nun sesini nasıl duydum?
+418	Keebo şapeldeyse onu konaktan\nnasıl duyabildik?
+419	Ve şapelde olması gerekirken Miu'yu\nnasıl bir anlığına gördüm...?
+420	Neler oluyor böyle?
 421	...
+422	...Annecik.
+423	Ah, selam...\nBilgisayarla meşgul olduğunu biliyorum ama...
+424	Programı incelerken öğrendiklerimizin\nüzerinden geçmek istiyorum.
+425	Ah, bu bilgisayarı mı kullanmak istiyorsun!?\nBuyur!
+426	<CLT=cltMIND>Pekala, önce...
+427	<CLT=cltMIND>O metin dosyasında hangi program\nbilgileri yazıyordu?
+428	<CLT=cltMIND>Dosyaya göre...
+429	<CLT=cltMIND>Öldürme oyunu simülatörü <CLT=cltSTRONG>Neo World\nProgram<CLT=cltMIND> temel alınarak yapılmış.
+430	<CLT=cltMIND>Simülatörde <CLT=cltSTRONG>nesneler kırılamaz<CLT=cltMIND>.
+431	<CLT=cltMIND>Beş duyun avatarına bağlı, ama\navatarına zarar verilemez.
+432	<CLT=cltMIND>Avatarına verilen hasar gerçek\nvücuduna aktarılır...
+433	Miu'nun bize söylediği tam olarak buydu.
+434	<CLT=cltMIND>Avatarın ölümcül hasar alırsa\ngerçek vücudun şoktan ölür.
+435	<CLT=cltMIND>Yani Sanal Dünya'daki ölümcül yaralar\ngerçek vücut için de ölümcül.
+436	<CLT=cltMIND>...Miu'nun bize bunu söylediğini hiç\nhatırlamıyorum.
+437	<CLT=cltMIND>Bize söylemeyi öylece unutmazdı.\nBu bilgiyi bilerek mi saklıyordu?
 438	...
+439	<CLT=cltMIND>Sanal Dünya'da fizik kuralları\nda aynı.
+440	<CLT=cltMIND>Işınlanma ya da hızlı ulaşım\nyöntemleri yok.
+441	<CLT=cltMIND>Etrafta dolaşmak için sadece\navatarını kullanabilirsin.
+442	<CLT=cltMIND>Metin dosyasında yazanlar aşağı\nyukarı bu kadar.
+443	<CLT=cltMIND>İlginç bulduğum diğer kanıt\nise...
+444	<CLT=cltMIND>Monotaro'nun bulduğu giriş/çıkış\nkaydı.
+445	<CLT=cltMIND>Giriş ve çıkış yaptığımız tüm\nzamanları kaydetmiş.
+446	<CLT=cltMIND>Kurban Miu dışında...\nherkes sadece bir kez giriş ve çıkış yapmış.
+447	<CLT=cltMIND>Yani kimse gizlice çıkış yapıp\ntekrar giriş yapmamış.
+448	<CLT=cltMIND>Bu da demek oluyor ki...
+449	<CLT=cltMIND>Kaito... Hepimizden önce çıkış yaptı\nama o olamaz.
+450	<CLT=cltMIND>Programın kendisi de birkaç şekilde\ndeğiştirilmiş.
+451	<CLT=cltMIND>O bilgi için Monotaro'nun analizini\nbitirmesini beklemeliyiz.
+452	Ah, bitti mi?
+453	Tamam! O zaman bu programı analiz\nedip içini dışına çıkarmaya devam edeceğim!
+454	Bir şey bulunca haber veririm!
+455	Hey, Monotaro? Neyin var?
+456	Burası midemi bulandırıyor...
+457	H-Hayır! Maskot karakterler olarak tüm\nvarlığımızı tehlikeye atıyorsun!
 458	...
+459	Monotaro...
 460	...
 461	<CLT=cltMIND>Sanırım burada hâlâ araştırılacak\nşeyler var...
 462	Evet
@@ -39,9 +465,150 @@
 464	Emin olmadığın bir şey mi var?
 465	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
 466	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+467	<CLT=cltMIND>Monokuma Dosyası'nda belirtilen\nölüm saatine göre...
+468	<CLT=cltMIND>Miu biz hâlâ Sanal Dünya'dayken\nöldürülmüş.
+469	<CLT=cltMIND>Bu... davayla ilgili gibi\ngörünmüyor.
+470	<CLT=cltMIND>Hm? Koltukta bir şey var...
+471	<CLT=cltMIND>Küçük bir şişe...
+472	<CLT=cltMIND>Bunu daha önce görmüş gibiyim—
+473	Bu senin... değil mi, Shuichi?
+474	Benim mi...?
+475	Yok, sanırım senin değil ama senin\nlaboratuvarından...
+476	Ah, doğru!\nBu <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'in laboratuvarındaydı.
+477	Evet, o zehir.
+478	...Demek bunu biliyorsun, Kokichi?
+479	Tabii ki, çünkü zaten baktım.\nBir öldürme oyunundayız, biliyor musun?
+480	Hazırlanmış zehir ve hileler varsa tabii\nki onları bir an önce incelerim.
+481	Bu—
+482	Ah, kullanmak için değil. Başkası kullanırsa\ndiye kontrol ediyorum.
+483	<CLT=cltMIND>...Bu gerçekten doğru mu?
+484	Bu arada, bu şişenin arkasındaki\netiketi gördün mü?
+485	Etiket...
+486	Buradaki uyarılara göre bu zehir epey\nöldürücü.
+487	Karıştırılınca etkisiz hale geliyor, o yüzden\ndoğrudan alınması gerekiyor...
+488	Ama doğrudan alınınca, kurban azıcık yudumlasa\nbile anında ölüyor.
+489	<CLT=cltMIND>Yani kurbanın ağzını açabilirsen onu\nanında öldürebilirsin...
+490	<CLT=cltMIND>Giriş yapmış birini öldürmek için daha\niyi bir yöntem düşünemiyorum...
+491	Bu arada, bu zehrin hangi belirtilere yol\naçtığını sana söylemeliyim...
+492	Konjonktivanın altındaki küçük bir kan\ndamarının patlamasına sebep oluyor...
+493	...bu da gözlerinin akının kan kırmızısına\ndönmesine yol açıyor.
+494	<CLT=cltMIND>Kanlanmış gözler...\nBu önemli bir bilgi.
+495	Eh, bu zehir hakkında hepsi bu.
+496	Nii-hihi... iyi iş çıkarıyor muyum? Belki de beni\n<CLT=cltSTRONG>ortağın<CLT=cltNORMAL> olarak kabul etmenin zamanı gelmiştir.
+497	Ortağım olmak *istemediğini* söylediğini\nhatırlıyorum sanki.
+498	Hm? Öyle mi dedim?\nEh, bazen düşünmeden yalan söylerim.
+499	Cidden...
+500	Neyse, bu zehri kim getirdi?\nSence fail mi getirdi?
+501	<CLT=cltMIND>Zehri kim getirdi...?\nHenüz emin olamam.
+502	<CLT=cltMIND>Ama zehrin *o* kişinin sandalyesinde\nbırakıldığını biliyorum.
+503	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Küçük Zehir Şişesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+504	<CLT=cltMIND>Sandalyede küçük bir şişe var.
+505	<CLT=cltMIND>Bu benim laboratuvarımdan gelen bir zehir.
+506	<CLT=cltMIND>Etikette zehir hakkında bazı\nbilgiler var...
+507	<CLT=cltMIND>Uyarıya göre\ntehlikeli bir zehir.
+508	<CLT=cltMIND>Zehri herhangi bir çözücüyle karıştırmak etkisini\nazaltır. Doğrudan tüketilmesi gerekir.
+509	<CLT=cltMIND>Ama az bir miktar bile bir yetişkini\nöldürmeye yeter.
+510	<CLT=cltMIND>Kurbanın açık ağzına azıcık koyabilirsen\nanında ölür.
+511	<CLT=cltMIND>Giriş yapmış birini öldürmek için kesinlikle\netkili bir yöntem ama...
 512	...
+513	<CLT=cltMIND>Listelenen belirtilerle ilgili bir\nşey kafamı kurcalıyor.
+514	<CLT=cltMIND>Bu zehir konjonktiva altındaki kan\ndamarlarının kanamasına yol açıyor.
+515	<CLT=cltMIND>Bu da gözlerin kanlanmasına yol açmalı...
+516	<CLT=cltMIND>Bu zehri buraya getiren kişi...\nfail olduğundan emin olamam.
+517	<CLT=cltMIND>Ama zehrin *o* kişinin sandalyesine\nkonduğunu biliyorum.
+518	<CLT=cltMIND>Miu'nun elleri, sanki nefes almaya çalışıyormuş\ngibi boynunu kavramış.
+519	<CLT=cltMIND>Gözleri panikle ardına kadar açık...\nEpey acı çekmiş olmalı.
+520	Iyyy, ne iğrenç bir surat.\nMiu çok acı çekmiş olmalı.
+521	Nii-hihi...\nKaba bir kaltağa yakışan kaba bir ölüm.
+522	Dur, Kokichi.\nŞaka yapıyor olsan bile bu çok fazla.
+523	Haklısın! Ne kadar nefret etsen de ölülerin\narkasından asla kötü konuşmamalısın!
+524	İğrenç, acınası, pis bir insan olsa\nbile!
+525	<CLT=cltMIND>Sanırım Kokichi'yi asla\ndeğiştiremeyeceğim...
+526	Ama... Miu'nun ölüm sebebi ne?\nMonokuma Dosyası'nda yazmıyor...
+527	Şey... Bir şey diyebilir miyim?
+528	Her ihtimale karşı bir ipucu olabilir diye\nsize söylemek istedim...
+529	Şey... Çıkış yapıp Miu'nun cesedini ilk\nbulan bendim.
+530	Hâlâ kaskı takıyordu ve vücudu korkunç\nbir pozisyonda kıvrılmıştı...
+531	Maki benden sonra çıkış yaptı ve Miu'nun\nkaskını çıkarmama yardım etti.
+532	Ve sonra... ölmüştü.
+533	Bu bir itiraf mı?
+534	Bu nasıl itiraf olsun!?
+535	<CLT=cltMIND>Neyse... asıl soru ölüm sebebi.\nOnun böyle acı çekmesine ne sebep oldu...?
+536	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Miu'nun Cesedi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+537	<CLT=cltMIND>Miu'nun elleri, sanki nefes almaya çalışıyormuş\ngibi boynunu kavramış.
+538	<CLT=cltMIND>Gözleri panikle ardına kadar açık...\nEpey acı çekmiş olmalı.
+539	<CLT=cltMIND>Miu'nun cesedini bulan kişi ilk\nçıkış yapan Keebo'ydu.
+540	<CLT=cltMIND>O sırada kaskın hâlâ başında\nolduğunu söyledi.
+541	Onun böyle acı çekmesine ne sebep olmuş olabilir...?
+542	Ölüm sebebi neydi?
+543	<CLT=cltMIND>Bu, Sanal Dünya'ya girmek için başımıza\ntaktığımız cihaz.
+544	<CLT=cltMIND>Bazı kasklarda kablolar hâlâ takılı,\nbazılarında çıkarılmış...
+545	Çıkış yaptıktan sonra çıkarıldıklarından\neminim...
+546	<CLT=cltMIND>Ah, işte bu. Kablolar...
+547	<CLT=cltMIND>Bilgisayardaki iki kabloyu kasklarımıza\ntakmamız gerekiyordu.
+548	<CLT=cltMIND>Kırmızı <CLT=cltSTRONG>bilinç<CLT=cltMIND> için,\nmavi <CLT=cltSTRONG>hafıza<CLT=cltMIND> için.
+549	<CLT=cltMIND>Bunları karıştırırsan...
+550	Merak ettim de... kabloları karıştırırsan\nne olur?
+551	Bilmem. Daha önce hiç yapmadım...\nMuhtemelen her şey bozulur falan!
+552	Belki bitki olursun, belki biriyle beden\ndeğiştirirsin... Kim bilir!?
+553	Bir bozulma...
+554	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Cihaz Talimatları<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+555	<CLT=cltMIND>Bu, Sanal Dünya'ya girmek için başımıza\ntaktığımız cihaz.
+556	<CLT=cltMIND>Bazı kasklarda kablolar hâlâ takılı,\nbazılarında çıkarılmış...
+557	<CLT=cltMIND>Kafamı kurcalayan kablolar...
+558	<CLT=cltMIND>Bilgisayardaki iki kabloyu kasklarımıza\ntakmamız gerekiyordu.
+559	<CLT=cltMIND>Kırmızı <CLT=cltSTRONG>bilinç<CLT=cltMIND> için,\nmavi <CLT=cltSTRONG>hafıza<CLT=cltMIND> için.
+560	<CLT=cltMIND>Yer değiştirilirlerse\nbozulma olabilir.
+561	<CLT=cltMIND>Miu bize böyle söylemişti...
+562	<CLT=cltMIND>Sanırım burada inceleyebileceğim\nher şeyi inceledim.
+563	Olay yerini incelemeyi bitirdin mi?\nEe, failin kim olduğunu biliyor musun?
+564	Ah, hayır...\nBurası aslında olay yeri olmayabilir.
+565	<CLT=cltMIND>Evet... Sanal Dünya'daki yaralar gerçek\ndünyada ölümcül olabilir.
+566	<CLT=cltMIND>Yani Sanal Dünya'da öldürülmüş\nolma ihtimali var.
+567	<CLT=cltMIND>Bu da demek oluyor ki incelenecek\nbir sonraki yer...
+568	...Sanal Dünya. Oraya tekrar gitmeliyiz.
 569	Ha!?
+570	Az önce aklını okudum, değil mi?\nOkudum, değil mi? Değil mi? Değil mi?
+571	Öyleyse ben de geliyorum!
+572	Ah harika, o da geliyor...\nBenden gerçekten hoşlanıyor olmalısın, ha?
+573	Çık, ne dersen de.\nSeninle kaybedecek vaktim yok!
+574	Sanal Dünya'ya geri dönersek\nyeni ipuçları bulabiliriz.
+575	Onlarla adımı temize çıkarabilirim!
+576	...Ben de size katılabilir miyim?
+577	Ben de Sanal Dünya'yı tekrar incelememiz\ngerektiğini düşünüyorum.
+578	Neden hep birlikte gitmiyoruz!?
+579	Ah! Yani yine o avatar mı olacağım!?
+580	Ha? Avatarı aslında sevdin mi yoksa?
+581	Ben burada kalacağım. O hâlâ programı\nanaliz etmenin ortasında.
+582	Gonta... burayı biraz daha arayacak.\nŞimdi uyumanın zamanı değil.
+583	Bizim yaptığımız şey o değil... Neyse, sorun değil.
+584	O zaman ben de burada kalacağım.
 585	Ne?
+586	Hm, şaşırdın mı? Ortağın olmadan\nyalnız mı kalacaksın?
+587	Ama ben de meşgulüm, biliyor musun? Maki bir hile\nyapmaya kalkarsa diye onu izlemem lazım.
+588	...Hile mi?
+589	Eh, sen ve Kaito epey yakınsınız, o yüzden\nonun için bir hile yapabilirsin, değil mi?
 590	...
+591	...İyi ki Gonta benimle. Bakışın tek başına\nkaldıramayacağım kadar korkutucu!
+592	Gonta beni bir katilden korumak için\nhayatını riske atar.
 593	...Ha?
+594	Hey! Böyle saçma sapan şeyler söylemeye\ndevam edersen seni yörüngeye tekmelerim!
+595	Sorun değil... Sen onu boş ver de\nacele edip Sanal Dünya'ya git.
+596	Kaito... şimdilik davayı çözmeye\nodaklanalım.
+597	Çık... peki.
+598	Çok şükür... Şiddetten hoşlanmam. <CLT=cltSTRONG>Ultimate\nYüce Lider<CLT=cltNORMAL> gizlice dolaşmayı tercih eder!
+599	Neyseee... Sanal Dünya'yı sana bırakıyorum,\nShuichi.
 600	...
+601	Ama bu sınıf duruşmasının ancak senin tarafından\nçözülebileceğini söylerken abartmıyorum, tamam mı?
+602	Yeteneğin buradaki işe yaramaz insanları\nkurtarabilir, biliyor musun?
+603	Kime işe yaramaz diyorsun!?
+604	Yeter artık.
+605	Kaito... gidelim.
+606	<CLT=cltMIND>Kaito, Keebo, Himiko, Tsumugi ve ben\nSanal Dünya'ya girmeye hazırlandık.
+607	<CLT=cltMIND>Kasklarımızı bir kez daha alıp\naynı koltuklara oturduk.
+608	Iı... yani kırmızı kablo sağ tarafa,\nmavi kablo sola, değil mi?
+609	Evet, öyle yapalım.
+610	S-Sağ, yemek çubuklarımı tuttuğum el. \nB-Bunu doğru yaptığımdan emin olmalıyım.
+611	Bu kadar endişeleniyorsan neden zaten\nayarlanmış olanı kullanmıyorsun?
+612	<CLT=cltMIND>Cihazları başımıza taktık...
+613	<CLT=cltMIND>ve düğmeye bastık.

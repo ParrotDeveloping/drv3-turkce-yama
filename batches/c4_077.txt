@@ -1,0 +1,56 @@
+@ chap4_text_US
+## c04_219_000
+78|Benim sesimi de mi duydunuz?
+79|Ne—? Bu epey tuhaf...
+80|Aynen. Bu Sanal Dünya'nın gizemine dair\nbir çeşit ipucu olmalı.
+81|Tamam, cevaplara sonra bakalım ve önce\ndiğer tüm ipuçlarını bulmaya çalışalım.
+82|Sanal Dünya'da başka bir gizemli olay\ndaha vardı, değil mi?
+83|Kokichi bir şey fark etmiş gibi konuşuyor...\nBilmiyormuş gibi mi yapıyor?
+84|Gonta bile mi benden şüpheleniyor? Hep bana\nsen güveneceksin diye düşünmüştüm!
+85|Ö-Özür dilerim! Gonta öyle demek istemedi!
+86|Ondan özür dilemene gerek yok.\nMuhtemelen yine yalan söylüyordur.
+87|Diğer tuhaf olay neydi?\nSen gördün mü, Shuichi?
+88|<CLT=cltMIND>Başka bir gizemli olay...
+89|<CLT=cltMIND>Miu'nun konakta olması ya da o yüksek ses\ngibi mümkün olmaması gereken bir şey...
+90|<CLT=cltMIND>Orada olan diğer her şeyi\nhatırlamalıyım.
+## c04_221_000
+0|Köprü olarak kullandığımız <CLT=cltSTRONG>tabela<CLT=cltNORMAL>\nbana tuhaf geldi...
+1|Nasıl tuhaf?
+2|Daha önce bahsettik ama Miu tabelayı\nnehre düşürdü...
+4|Sonra bulduk ama onda... doğal olmayan\nbir şey vardı.
+5|<CLT=cltMIND>Tabelayı bulmak kesinlikle\ntuhaftı...
+6|<CLT=cltMIND>En çok kafamı karıştıran tabelanın\noraya nasıl gittiği.
+7|<CLT=cltMIND>O tabelayla tam olarak ne olduğunu\nhatırlamalıyım...
+8|<CLT=cltMIND>Pekala, başlıyoruz!
+## c04_223_000
+0|Görünüşe göre tabela nehrin akıntısına\n*karşı* taşınmış.
+1|Hepimiz Miu'nun tabelayı düşürdüğünü ve\nnehrin onu aşağı taşıdığını gördük.
+2|Ve nehir orada genişti.
+3|Tabelanın nehrin aşağısına, şapele doğru\ngitmesi gerekirdi, değil mi?
+4|Şapelin uzak tarafındaki duvara çarpıp\norada durması gerekirdi.
+5|Ama onu orada bulmadık...
+6|Konağın yakınında, kayaların arasına\nsıkışmış halde bulduk.
+7|Tabelanın şapelin yanında olması gerekirdi\nama onu öbür tarafta bulduk...
+8|Bir dakika. Miu şapel tarafında kalmamış mıydı?
+9|Muhtemelen nehri geçmek için tabelayı şapel\nduvarından aldı.
+10|Sonra geri dönebilmek için konağın yanındaki\nkayaların üstünde bıraktı.
+11|Akıntıya kapılıp onu mahsur bırakabileceği\nbir yerde tabelayı neden bıraksın ki?
+12|Ayrıca bunun duvardan geçmekle hiçbir ilgisi\nyok, değil mi? Konudan sapıyoruz.
+13|Gerçeğe çok yakınız.\nSadece "Nasıl" ile "Ne"yi birleştirmeliyiz.
+14|Yaşanan tüm gizemli şeyler bir şekilde\nbirbirine bağlanmalı...
+15|Nasıl bağlanmalı?
+16|Sadece nesnelerin geçebildiği bir duvar...\nDuyulmaması gereken sesler...
+17|Nehrin akıntısına karşı giden bir tabela...\nHepsi nasıl bağlantılı?
+18|Ah-haha! Bilmiyorum.\nAma Shuichi bilmeli, değil mi?
+20|Bilmeseydin başımız çok dertte olurdu.
+21|Bu gizemi çözüp hepimizi kurtarabilecek\ntek kişi... sensin!
+23|P-Peki nasıl bağlantılılar?\nBiliyor musun, Shuichi?
+24|Ah, şey, şu ana kadar bildiğimiz...
+25|tabelanın doğal olmayan şekilde taşınmasının\nduvarla ilgili olabileceği...
+26|Miu'yu bulduğumuz sırada tabelanın akıntıya\nkapılmış olduğu doğru.
+27|Ama bunda gerçekten doğal olmayan\nbir şey olduğunu sanmıyorum.
+29|Duyduğumuz sesin tabelanın akıntıya kapılma\nşekliyle bağlantılı olduğunu sanmıyorum...
+30|Tabelanın nehrin aşağı kısmında durması gerekirdi...\nBununla hangi ipucu ilgili...?
+32|Miu muhtemelen onu da hazırlamıştı...
+33|Ama tabelanın akıntıya kapılma şekliyle\nilgili başka bir şey olmalı!
+34|Hatırla...\nTabela "insan olmayan" bir şey, değil mi...?

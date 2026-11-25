@@ -1,0 +1,53 @@
+@ chap4_text_US
+## c04_100_029
+453|Tamam! O zaman bu programı analiz\nedip içini dışına çıkarmaya devam edeceğim!
+485|Etiket...
+486|Buradaki uyarılara göre bu zehir epey\nöldürücü.
+487|Karıştırılınca etkisiz hale geliyor, o yüzden\ndoğrudan alınması gerekiyor...
+488|Ama doğrudan alınınca, kurban azıcık yudumlasa\nbile anında ölüyor.
+489|<CLT=cltMIND>Yani kurbanın ağzını açabilirsen onu\nanında öldürebilirsin...
+490|<CLT=cltMIND>Giriş yapmış birini öldürmek için daha\niyi bir yöntem düşünemiyorum...
+491|Bu arada, bu zehrin hangi belirtilere yol\naçtığını sana söylemeliyim...
+492|Konjonktivanın altındaki küçük bir kan\ndamarının patlamasına sebep oluyor...
+493|...bu da gözlerinin akının kan kırmızısına\ndönmesine yol açıyor.
+494|<CLT=cltMIND>Kanlanmış gözler...\nBu önemli bir bilgi.
+495|Eh, bu zehir hakkında hepsi bu.
+496|Nii-hihi... iyi iş çıkarıyor muyum? Belki de beni\n<CLT=cltSTRONG>ortağın<CLT=cltNORMAL> olarak kabul etmenin zamanı gelmiştir.
+497|Ortağım olmak *istemediğini* söylediğini\nhatırlıyorum sanki.
+498|Hm? Öyle mi dedim?\nEh, bazen düşünmeden yalan söylerim.
+499|Cidden...
+500|Neyse, bu zehri kim getirdi?\nSence fail mi getirdi?
+501|<CLT=cltMIND>Zehri kim getirdi...?\nHenüz emin olamam.
+502|<CLT=cltMIND>Ama zehrin *o* kişinin sandalyesinde\nbırakıldığını biliyorum.
+503|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Küçük Zehir Şişesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+504|<CLT=cltMIND>Sandalyede küçük bir şişe var.
+505|<CLT=cltMIND>Bu benim laboratuvarımdan gelen bir zehir.
+506|<CLT=cltMIND>Etikette zehir hakkında bazı\nbilgiler var...
+507|<CLT=cltMIND>Uyarıya göre\ntehlikeli bir zehir.
+508|<CLT=cltMIND>Zehri herhangi bir çözücüyle karıştırmak etkisini\nazaltır. Doğrudan tüketilmesi gerekir.
+509|<CLT=cltMIND>Ama az bir miktar bile bir yetişkini\nöldürmeye yeter.
+510|<CLT=cltMIND>Kurbanın açık ağzına azıcık koyabilirsen\nanında ölür.
+511|<CLT=cltMIND>Giriş yapmış birini öldürmek için kesinlikle\netkili bir yöntem ama...
+513|<CLT=cltMIND>Listelenen belirtilerle ilgili bir\nşey kafamı kurcalıyor.
+514|<CLT=cltMIND>Bu zehir konjonktiva altındaki kan\ndamarlarının kanamasına yol açıyor.
+515|<CLT=cltMIND>Bu da gözlerin kanlanmasına yol açmalı...
+516|<CLT=cltMIND>Bu zehri buraya getiren kişi...\nfail olduğundan emin olamam.
+517|<CLT=cltMIND>Ama zehrin *o* kişinin sandalyesine\nkonduğunu biliyorum.
+518|<CLT=cltMIND>Miu'nun elleri, sanki nefes almaya çalışıyormuş\ngibi boynunu kavramış.
+519|<CLT=cltMIND>Gözleri panikle ardına kadar açık...\nEpey acı çekmiş olmalı.
+520|Iyyy, ne iğrenç bir surat.\nMiu çok acı çekmiş olmalı.
+521|Nii-hihi...\nKaba bir kaltağa yakışan kaba bir ölüm.
+522|Dur, Kokichi.\nŞaka yapıyor olsan bile bu çok fazla.
+523|Haklısın! Ne kadar nefret etsen de ölülerin\narkasından asla kötü konuşmamalısın!
+524|İğrenç, acınası, pis bir insan olsa\nbile!
+525|<CLT=cltMIND>Sanırım Kokichi'yi asla\ndeğiştiremeyeceğim...
+526|Ama... Miu'nun ölüm sebebi ne?\nMonokuma Dosyası'nda yazmıyor...
+527|Şey... Bir şey diyebilir miyim?
+528|Her ihtimale karşı bir ipucu olabilir diye\nsize söylemek istedim...
+529|Şey... Çıkış yapıp Miu'nun cesedini ilk\nbulan bendim.
+530|Hâlâ kaskı takıyordu ve vücudu korkunç\nbir pozisyonda kıvrılmıştı...
+531|Maki benden sonra çıkış yaptı ve Miu'nun\nkaskını çıkarmama yardım etti.
+532|Ve sonra... ölmüştü.
+533|Bu bir itiraf mı?
+534|Bu nasıl itiraf olsun!?
+535|<CLT=cltMIND>Neyse... asıl soru ölüm sebebi.\nOnun böyle acı çekmesine ne sebep oldu...?

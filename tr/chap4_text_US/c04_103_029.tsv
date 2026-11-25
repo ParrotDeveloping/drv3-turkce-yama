@@ -1,12 +1,199 @@
 0	...
 1	Ah...
+2	<CLT=cltMIND>Cihazı başımdan çıkardım ve\ngerçek dünya önümde belirdi.
+3	Ee, Shuichi? Gerçek dünya bir sanal\ngerçeklikten çok daha iyi değil mi?
+4	Neyseee, sen yokken çok yalnız hissettim.\nBeni sevilmemiş hissettirdiğin için özür dile.
+5	...Hey. Sana sormak istediğim bir şey var.
+6	Hm? Sen girişliyken karnına hiç miiii\nbir şey çizmedim, tamam mı?
 7	...Ne?
+8	Nii-hihi, şaka yapıyorum.\nEe, ne sormak istiyordun?
+9	...Miu ile çatıda buluşmayı planlamıştın,\ndeğil mi? Sonunda buluştunuz mu?
 10	...
+11	Ooohh, demek bunu biliyorsun, Shuichi.\nEtkileyici, Bay <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>.
+12	O zaman ne olduğunu anlatayım.
+13	Miu ile hiç buluşmadım. Kilitli olduğu için\nçatıya çıkamadım.
+14	Kilitli mi?
+15	Sonra pes edip <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL>\naramak için salona döndüm.
+16	...Bu doğru mu, Kokichi?
+17	Hm? Benden şüphe mi ediyorsun?
+18	Bütün zaman boyunca salonda olduğunu\ndoğrulayabilecek biri var mı?
+19	Orada biriyle karşılaştın mı?
+20	Hayır, tanığım yok...
+21	Ama orada *olmadığımı* kanıtlayabilecek bir\ntanık da *yok* diyebilirsin!
+22	Salonu kendin boş görmediysen tabii.
 23	...
+24	Eh, bana inanıp inanmamak\nsana kalmış...
+25	Ama benden böyle şüphelenmemelisin!\nBiz ortağız!
+26	<CLT=cltMIND>Hangisi...?
+27	<CLT=cltMIND>Kokichi Miu ile buluştu mu buluşmadı mı?
+28	<CLT=cltMIND>Yalan mı söylüyor yoksa doğruyu mu...?
+29	<CLT=cltMIND>Hangisi...?
+30	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Salondaki Kokichi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+31	Önce beni çıkış yaptırıyorsun, şimdi de bize bir\nşey söylemesi gerektiği için Monotaro bizi çağırıyor...
+32	Miu'nun avatarını incelemeyi yine\nbitiremedim...
+33	Ne yapacağız!?\nBöyle adımı temize çıkaramam!
+34	Şimdi uyumanın zamanı değil... Neden kimse\ninceleme yapmak istemiyor!?
+35	Bu hiç centilmence değil...!
+36	<CLT=cltMIND>Uyumuyordum ki...
+37	Eh, bana inanıp inanmamak\nsana kalmış...
+38	Ama benden böyle şüphelenmemelisin!\nBiz ortağız!
+39	Kokichi ile Miu'yla buluşması hakkında\nkonuştun mu?
+40	Miu ile buluşmadığını söyledi. Çatının kilitli\nolduğunu, o yüzden giremediğini iddia etti.
+41	Anlıyorum... Ama söz konusu olan Kokichi.\nPekâlâ yalan söylüyor olabilir.
+42	Kokichi Miu ile hiç buluşmamış...
+43	Ama söz konusu olan Kokichi...\nYani pekâlâ yalan söylüyor olabilir.
+44	*hıçkırık* Demek avatarıma veda ediyorum...
+45	Analizin sonuçlarını Monotaro'ya sor.\nAyrıntıları ben de henüz bilmiyorum.
+46	Sonunda... Monokuma'nın dış dünyanın sırrını\nnereye sakladığını hiç bulamadık.
+47	Görünüşe göre şapelde de değildi.
+48	Ama daha önemlisi, Miu'nun davası için\nbir şey yapmalıyız.
+49	Şu an Miu'nun davası dış dünyanın\nsırrından daha önemli.
+50	Seni bekliyordum, Shuichi.
+51	Eminim Maki sana zaten söylemiştir, ama sonunda\nprogramı analiz etmeyi bitirdim.
+52	Bir sürü önemli gerçeği bir araya getirmeye\nbaşladım, işte buyurun!
+53	<CLT=cltMIND>Gerçekten arkadaşımız olmaya çalışıyor...\nEn azından birazcık.
+54	İlk olarak, bu programı kurcalayan kişi...\ntahmin ettiğimiz gibi Annecik'ti.
+55	Anneciğin kod yazma şekli tuhaftır,\no yüzden onun olduğunu hemen anladım.
+56	Sanırım ondaki tek tuhaf şey kişiliği\ndeğilmiş.
+57	Peki neyi kurcalamış?
+58	Birkaç şeyi... ama ilkini sizinle\npaylaşacağım.
+59	Görünüşe göre Annecik bu öldürme oyunu\nsimülatöründen bir sürü <CLT=cltSTRONG>nesne<CLT=cltNORMAL> silmiş.
+60	Silah olarak kullanılabilecek her şeyi\nsildiğini söylemişti.
+61	Ama öyleyse neden çekiç var?
+62	Doğru, sadece çekiç bırakılmış.\nAma neden bırakılmış, hm?
+63	Programın yazılış şekli bunu bilerek\nyapmış gibi gösteriyor.
+64	<CLT=cltMIND>Bilerek...
+65	Herhangi bir şey *eklemiş* mi?
+66	Sanal Dünya'da bir cep telefonu bulduk...
+67	Hayır, o cep telefonu programın orijinal\nbir özelliğiydi.
+68	<CLT=cltMIND>Bu, Miu'nun bu gerçeği bizden\nsakladığını gösteriyor. Yani...
+69	Anneciğin eklediği tek şey iki harita.\nGerisi zaten programın parçasıydı.
+70	Bu arada, nesnelerden bahsetmişken\nsana bir şey sormak istiyordum...
+71	Nehri geçmek için tabelayı kullandık ama\nköprü olarak başka bir şey kullanabilir miydik?
+72	Hmm... Nehri geçmek için köprü olarak\nkullanılabilecek hiçbir şey görmedim.
+73	<CLT=cltMIND>Yani köprü olarak sadece o tabela\nkullanılabilirdi.
+74	Peki kurcaladığı bir sonraki şey ne?
+75	Şey, görünüşe göre programın belirli\n<CLT=cltSTRONG>parametrelerini<CLT=cltNORMAL> de kurcalamış.
+76	Parametreler mi?
+77	O programdaki her şey ya "<CLT=cltSTRONG>insan<CLT=cltNORMAL>" ya da\n"<CLT=cltSTRONG>insan olmayan nesne<CLT=cltNORMAL>" olarak sınıflandırılıyor.
+78	Tabii ki herkesin avatarına "<CLT=cltSTRONG>insan<CLT=cltNORMAL>"\nparametresi atanmış...
+79	Ama nedense Annecik kendi avatarına "<CLT=cltSTRONG>insan\nolmayan nesne<CLT=cltNORMAL>" parametresini vermiş...
+80	Peki bir <CLT=cltSTRONG>nesne<CLT=cltNORMAL> olunca\nne oluyor?
+81	Şey, fark sadece tanımlama amaçlı, o yüzden\nmuhtemelen hiçbir şeyi etkilemedi.
+82	Ama hiçbir şeyi etkilemediyse neden bunu\nyapmak için zahmete girsin ki?
+83	Belki bunun kurcaladığı bir sonraki şeyle\nbir ilgisi vardır.
+84	Annecik programda başta var olmayan\nbir duvar eklemiş.
+85	Sanal Dünya'nın koordinatları bir <CLT=cltSTRONG>X ekseni<CLT=cltNORMAL>\nve bir <CLT=cltSTRONG>Y ekseni<CLT=cltNORMAL> üzerinde gösteriliyor...
+86	...ve görünüşe göre Annecik Y ekseni boyunca\nuzanan bir duvar eklemiş.
+87	Fazladan bir duvar mı yaratmış?
+88	<CLT=cltMIND>Dört bir yanda duvarlar vardı, Y ekseni\nboyunca da iki tane...
+89	Ama... sadece bir tane olduğundan emin misin?
+90	Evet, kesinlikle sadece bir tane.
+91	<CLT=cltMIND>Bu ne demek?
+92	<CLT=cltMIND>Miu'nun eklediği duvar hangisiydi?
+93	<CLT=cltMIND>Dünya başta nasıldı? Miu duvarın\nötesinde hiçbir şey olmadığını söylemişti.
+94	<CLT=cltMIND>Bu da mı bir yalandı...?
+95	Ayrıca görünüşe göre o fazladan duvara\nözel bir ayar verilmiş.
+96	<CLT=cltSTRONG>İnsan olmayan nesnelerin içinden\ngeçmesine izin veren<CLT=cltNORMAL> bir ayar.
+97	<CLT=cltMIND>Nesnelerin geçmesine izin mi veriyor?
+98	Anlıyorum... bu çok ilginç.
+99	Peki kurcaladığı şeylerin hepsi bu mu?
+100	Ah, bir şey daha var.
+101	Şey, sizden birinin avatarına da tuhaf\nbir ayar verilmiş.
+102	"Tuhaf bir ayar" mı?
+103	Evet... Ayar, <CLT=cltSTRONG>Annecik dokunursa\nhareket edemeyecek<CLT=cltNORMAL> şekilde yapılmış.
+104	Yani... Miu dokunursa avatarı\nfelç mi olacaktı?
+105	Kimdi?
+106	Ah... Kokichi'ydi.
+107	Ee, ben miyim? Bilmiyordum!
+108	Eh, tabii ki bilemezdim!\nO dünyada Miu'ya hiç dokunmadım.
+109	Anlıyorum, anlıyorum. Fark etmemiştim bile.
 110	...
+111	...Rapor edeceklerim bu kadar.\nEe? Sizce işinize yarar mı?
+112	Çok işe yarar.\n...Teşekkürler.
+113	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Miu'nun Avatarı<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümünde güncellendi.
+114	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Miu'nun Eklediği Duvar<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+115	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kokichi'nin Avatarındaki Ayar<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+116	Ah, bunu da muhtemelen söylemeliyim.\nGerçi muhtemelen davayla ilgili değil...
+117	Hepiniz ilk kez giriş yaptığınızda bir tür\navatar kullanıcı hatası oluşmuş.
+118	Hata mı?
+119	Hatanın içeriği bilinmiyor, o yüzden\nayrıntı veremem...
+120	Ama hepiniz giriş yaptığınızda birinin avatarına\nkesinlikle tuhaf bir şey olmuş.
+121	Yine de kimsenin avatarının tuhaf davrandığını\nsanmıyorum...
+122	<CLT=cltMIND>Ne tür bir hata olabilir...?\nBu önemli bir bilgi...
+123	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Avatar Hatası<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+124	*iç çekiş* Tamam, millet...\nSınıf duruşması vakti...
+125	Bilirsiniz işte, herkesin bir daire halinde durup\ncesetten bahsettiği şey...
+126	...Hm? Enerjim mi düşük? Benim mi?\nYok, yok... heyecanlıyım. Gerçekten...
+127	Şu an sadece biraz mola veriyorum...\nBitince her zamanki enerjik halime dönerim.
+128	Evet... çok daha enerjik olacağım...
+129	Neyse... hepsi bu.
+130	Hiç havanda değil gibisin.\nSınıf duruşması yapmak zorunda değiliz, biliyor musun!
+131	Ama... başlayacak, değil mi?\nArtık durduramaz mıyız?
+132	Hayır. Durduramayız.
+133	Size söyleyebileceğim tek şey bu ama hiçbirinizin\nunutmasını istemiyorum...
+134	Ben sizin arkadaşınızım!
+135	Ha? Arkadaş olduğumuza öylece karar mı verdi?
+136	Teşekkürler! Gonta rahatladı!
+137	Merak etme, Monotaro.\nShuichi Miu'nun ölümünün intikamını alacak.
+138	Ve o intikamı... aramızdaki faili\nbularak alacak.
+139	<CLT=cltMIND>...Haklı.\nFail... buradaki biri.
+140	Teşekkürler millet! Çok teşekkürler!
+141	Bu sınıf duruşması bitince umarım hepimiz\nbirbirimizi daha iyi tanıyabiliriz!
+142	Nyeeeh... bu tam ölüm bayrağı\ndikecek türden bir replik.
+143	Ben... temiz bir başlangıç istiyorum. Geçmiş\nhatalarımı telafi etmek istiyorum.
+144	O da...
+145	Hepinizle tanışmak... gerçekten...
+146	Pardon, bir şey yok. Sınıf duruşması\nbittikten sonraya saklayacağım.
+147	Nyeeeh... bayrak yükseliyor!
+148	Hm? O neydi? Sanırım şurada\nbir şey duydum.
+149	Tek başıma gidip bakacağım!
+150	Rüzgârda dalgalanıyoooooor!!!
+151	Saçmalamayı kesin. Acele edip gidelim.
+152	Gonta da elinden geleni yapacak! Gonta herkese\nazıcık da olsa yararlı olmak için elinden geleni yapacak!
+153	Çooook heyecanlıyım! Bu sefer faili\nkesinlikle ortaya çıkaracağım.
+154	Çık... Bunun nesi heyecanlı ki!?
+155	<CLT=cltMIND>Kalplerimizde çelişkili duygularla\n<CLT=cltSTRONG>Yargı Tapınağı<CLT=cltMIND>'na gittik.
 156	Evet
 157	Hayır
 158	Emin olmadığın bir şey mi var?
 159	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
 160	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+161	<CLT=cltMIND>Monokuma Dosyası'nda belirtilen\nölüm saatine göre...
+162	<CLT=cltMIND>Miu biz hâlâ Sanal Dünya'dayken\nöldürülmüş.
+163	Hazine Sandığı
+164	<CLT=cltMIND>Sandalyede küçük bir şişe var.
+165	<CLT=cltMIND>Bu benim laboratuvarımdan gelen bir zehir.
+166	<CLT=cltMIND>Etikette zehir hakkında bazı\nbilgiler var...
+167	<CLT=cltMIND>Uyarıya göre\ntehlikeli bir zehir.
+168	<CLT=cltMIND>Zehri herhangi bir çözücüyle karıştırmak etkisini\nazaltır. Doğrudan tüketilmesi gerekir.
+169	<CLT=cltMIND>Ama az bir miktar bile bir yetişkini\nöldürmeye yeter.
+170	<CLT=cltMIND>Kurbanın açık ağzına azıcık koyabilirsen\nanında ölür.
+171	<CLT=cltMIND>Giriş yapmış birini öldürmek için kesinlikle\netkili bir yöntem ama...
 172	...
+173	<CLT=cltMIND>Listelenen belirtilerle ilgili bir\nşey kafamı kurcalıyor.
+174	<CLT=cltMIND>Bu zehir konjonktiva altındaki kan\ndamarlarının kanamasına yol açıyor.
+175	<CLT=cltMIND>Bu da gözlerin kanlanmasına yol açmalı...
+176	<CLT=cltMIND>Bu zehri buraya getiren kişi...\nfail olduğundan emin olamam.
+177	<CLT=cltMIND>Ama zehrin *o* kişinin sandalyesine\nkonduğunu biliyorum.
+178	<CLT=cltMIND>Miu'nun elleri, sanki nefes almaya çalışıyormuş\ngibi boynunu kavramış.
+179	<CLT=cltMIND>Gözleri panikle ardına kadar açık...\nEpey acı çekmiş olmalı.
+180	<CLT=cltMIND>Miu'nun cesedini bulan kişi ilk\nçıkış yapan Keebo'ydu.
+181	<CLT=cltMIND>O sırada kaskın hâlâ başında\nolduğunu söyledi.
+182	Yine de...
+183	Onun böyle acı çekmesine ne sebep oldu?\nÖlüm sebebi neydi?
+184	<CLT=cltMIND>Bu, Sanal Dünya'ya girmek için başımıza\ntaktığımız cihaz.
+185	<CLT=cltMIND>Bazı kasklarda kablolar hâlâ takılı,\nbazılarında çıkarılmış...
+186	<CLT=cltMIND>Kafamı kurcalayan kablolar...
+187	<CLT=cltMIND>Bilgisayardaki iki kabloyu kasklarımıza\ntakmamız gerekiyordu.
+188	<CLT=cltMIND>Kırmızı <CLT=cltSTRONG>bilinç<CLT=cltMIND> için,\nmavi <CLT=cltSTRONG>hafıza<CLT=cltMIND> için.
+189	<CLT=cltMIND>Yer değiştirilirlerse\nbozulma olabilir.
+190	<CLT=cltMIND>Miu bize böyle söylemişti...
+191	<CLT=cltMIND>Bu, Sanal Dünya'ya girmek için başımıza\ntaktığımız cihaz.
+192	<CLT=cltMIND>Bazı kasklarda kablolar hâlâ takılı,\nbazılarında çıkarılmış...
+193	<CLT=cltMIND>Kafamı kurcalayan kablolar...
+194	<CLT=cltMIND>Bilgisayardaki iki kabloyu kasklarımıza\ntakmamız gerekiyordu.
+195	<CLT=cltMIND>Kırmızı <CLT=cltSTRONG>bilinç<CLT=cltMIND> için,\nmavi <CLT=cltSTRONG>hafıza<CLT=cltMIND> için.
+196	<CLT=cltMIND>Yer değiştirilirlerse\nbozulma olabilir.
+197	<CLT=cltMIND>Miu bize böyle söylemişti...
+198	<CLT=cltMIND>Monotaro'nun araştırmasının sonuçlarını\nmerak ediyorum…

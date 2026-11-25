@@ -1,0 +1,50 @@
+@ chap4_text_US
+## c04_237_000
+39|Ve şimdi Shuichi'nin dedektif sezgisi onu\nbaşkalarına karşı daha <CLT=cltSTRONG>şüpheci<CLT=cltNORMAL> yaptı.
+40|Eh, yapacak bir şey yok.\nBir dedektif böyle yapar.
+41|Öyle değil, Kokichi! Sadece herkesin hayatta\nkalmasından emin olmaya çalışıyorum—
+42|Shuichi... Gonta gerçekten yapmadı...\nGonta... fail değil...
+43|Lütfen... Gonta'ya inan...
+45|...Tartışsak iyi olur.
+47|Sadece bir önlem olarak, o kadar.
+48|Bence Gonta'nın bu suçu işleyebilecek durumda\nolup olmadığını ciddi olarak tartışmalıyız.
+49|...Ancak o zaman mantıklı bir karara\nvarabiliriz.
+50|Siz... Neden anlamıyorsunuz?\nKokichi'nin istediği tam olarak bu!
+51|Sadece bizi bölmeye çalışıyor!\nShuichi! Gözünü aç!
+53|Bu gergin anı bozduğum için üzgünüm ama\nşu an epey eşit bölünmüş görünüyorsunuz...
+54|O yüzden Ultimate Akademi gururla kendi\n<CLT=cltSTRONG>dönüşfenomenal duruşma alanını<CLT=cltNORMAL> sunar!
+55|...Yani yine onu mu yapacağız?
+56|Shuichi, neden...?\nNeden anlamıyorsun?
+57|S... Sen benim yardımcımsın, değil mi...?
+59|<CLT=cltMIND>Tabii ki Gonta'ya inanmak istiyorum.\nBirini öldürdüğünü düşünmek istemiyorum.
+60|<CLT=cltMIND>Ama Ultimate Dedektif olarak\ngerçekten yüz çeviremem!
+61|<CLT=cltMIND>Gerçeği bulmalıyım!
+## c04_238_000
+0|Bu imkânsız!
+1|Bu mümkün!
+2|<CLT=cltMIND>Gonta'nın fail olması *mümkün*...
+3|<CLT=cltMIND>Kaito'yu ikna etmek için elimdeki\nher kanıtı kullanmalıyım!
+4|<CLT=cltMIND>Körü körüne güven bizi gerçekten\ndaha da uzaklaştıracak!
+5|<CLT=cltMIND>Bunu çözmek istiyorum... çözmek zorundayım!\nÇünkü herkesle birlikte hayatta kalmak istiyorum!
+6|Shuichi, Gonta'nın fail olduğunu mu\nsöylüyorsun!?
+8|<CLT=cltMIND>İstemesek bile gerçekle yüzleşmeliyiz.\nBu noktayı savunmalıyız!
+9|Gonta çok tatlı biri.\nKarıncayı bile incitmez!
+12|Gonta fark edilmeden çatıya çıkabilir\nmiydi ki?
+15|Giriş salonunda tanıklar olmalıydı!
+18|Ama Kokichi Monokuma ile çalıştığını\nitiraf etti!
+21|Hepsi yalan!\nMiu'yu öldüren Kokichi!
+24|Gonta Miu'yu öldürmedi! Lütfen Gonta'ya inanın!
+## c04_238_001
+0|Shuichi,\nGonta'nın\n<CLT=cltWEAK>fail<CLT=cltNORMAL> olduğunu\nmu söylüyorsun!?
+1|Shuichi, Gonta'nın fail olduğunu mu\nsöylüyorsun!?
+2|<CLT=cltWEAK>Fail<CLT=cltNORMAL> olduğunu\nkesin söyleyemem.\nİhtimali eleyemeyeceğimizi\nsöylüyorum!
+3|Fail olduğunu kesin söyleyemem.\nİhtimali eleyemeyeceğimizi söylüyorum!
+6|Gonta çok\n<CLT=cltWEAK>tatlı biri.\n<CLT=cltNORMAL>Karıncayı bile\nincitmez!
+7|Gonta çok tatlı biri.\nKarıncayı bile incitmez!
+8|Bu sözde\n<CLT=cltWEAK>tatlı<CLT=cltNORMAL> insanların da\nsuç işleyebileceğinin\nfarkında değil misin?
+9|Bu sözde tatlı insanların da suç\nişleyebileceğinin farkında değil misin?
+10|Tatlı
+11|Tatlı
+12|Gonta fark\nedilmeden\n<CLT=cltWEAK>çatıya<CLT=cltNORMAL>\nçıkabilir miydi ki?
+13|Gonta fark edilmeden çatıya\nçıkabilir miydi ki?
+14|\nÇatıyı konağın\ndışından ayıran\ntek şey\n<CLT=cltWEAK>giriş salonu<CLT=cltNORMAL>.

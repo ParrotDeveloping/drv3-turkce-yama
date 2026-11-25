@@ -1,0 +1,58 @@
+@ chap4_text_US
+## c04_017_029
+36|Ş-Şeeey... "Başka bir dünya" derken bu kocaman\nbilgisayardan bahsediyordum...
+37|Ne? Bu mu?
+38|B-Bilgisayara bağlı, başınıza\ntaktığınız bir cihaz var...
+39|Bilincinizi yüklüyor, böylece bir bilgisayar\nprogramının yarattığı dünyaya gidebiliyorsunuz.
+40|Bir bilgisayar programının yarattığı dünya mı?
+41|Ah... Gonta anladı!
+42|Çıkış o <CLT=cltSTRONG>bil-gi-sa-yar<CLT=cltNORMAL> kutusunda! Yani\nkırıp içine mi girmeliyiz!?
+43|H-Hayır! Zorla girmeye çalışırsan\nsadece mahvedersin!
+44|Şu sanal gerçeklikten bahsediyorsun, değil mi?
+45|B-Bu sanal gerçeklikten de öte...\nBu... bir Sanal Dünya...
+46|Çünkü... bilinciniz gerçek dünyadaymış\ngibi hareket edebilecek.
+47|Ah! Matrix gibi! Küçükken televizyonda\nöyle bir şey hakkında film izlemiştim!
+48|Tamam, hadi gidelim!
+49|Ha? Gitmek mi? Yani, Sanal Dünya'ya mı?
+50|Evet! Hep birlikte gidelim!
+51|Asla olmaz!
+52|Ne!? Neden!? Hepimizin aynı anda\ngeleceğine söz vermiştiniz!
+53|Sana hiçbir söz vermedim!\nNe diyorsun sen!?
+54|Her ihtimale karşı bir soru sormalıyım...
+55|Bilgisayarın içindeyken <CLT=cltSTRONG>bilincimize<CLT=cltNORMAL>\nne olacak?
+56|Ah, <CLT=cltSTRONG>bilincimizi<CLT=cltNORMAL> Sanal Dünya'ya bağlamak için\nyeni bedenimiz olarak <CLT=cltSTRONG>avatarlar<CLT=cltNORMAL> kullanıyoruz.
+57|...Bunu nereden biliyorsun?
+58|Miu bana zaten anlattı.
+59|Sanal Dünya'ya yolculuğumuzu hazırlamasına\nyardım ettim! Tüm koltuklarımızı buraya getirdim...
+60|Karşılığında da sebebini bana söyletmiştim.
+61|Demek o özür buymuş.
+62|Şey... Ne hakkında konuşuyorsunuz?\nBu "<CLT=cltSTRONG>a-va-tar<CLT=cltNORMAL>" ne?
+63|Sanal Dünya'dayken sizi temsil edecek\nkarakterler.
+64|Yani bu bilgisayar <CLT=cltSTRONG>bilincimizi<CLT=cltNORMAL>\nbedenlerimizden aktaracak...
+65|...ve onları Sanal Dünya'daki <CLT=cltSTRONG>avatarların<CLT=cltNORMAL>\niçine tıkacak. Ve sonra...
+66|yeni bir dünyada yeni bedenlerimiz olacak!\nCinayetsiz ve Monokumasız bir dünya!
+67|Peki gerçek bedenlerimize ne olacak?
+68|Bedenin o süre boyunca temelde uyuyor\nolacak. Bu açıdan bir rüya gibi olacak.
+70|Dediğim gibi, gitmiyoruz.\nKesinlikle tehlikeli.
+71|Kes lan sesini, eşek dudaklı! Sana söylüyorum,\nhiç de siktiğimin tehlikeli değil!
+72|Böyle demek kulağa daha da tehlikeli\ngetiriyor!
+73|Hiiiiiiiiiiii!
+74|N-Ne—?\nGerçekten o kadar güvenilmez miyim?
+75|Peki o zaman, bu Sanal Dünya'yı benim\nyaratmadığımı duyunca rahatlarsınız...
+76|Görünüşe göre başka biri yapmış.
+77|<CLT=cltMIND>Ne? Başka biri mi?
+78|Bilinci bedenden gerçekten böyle\nayırabilir misin?
+79|Biz sadece nesne değiliz, biliyor musun?
+80|Gonta pek anlamıyor... Hepimiz uyuyup aynı\nrüyayı mı göreceğiz? Bu mümkün mü?
+81|Ben Sanal Dünya'ya gitmeye tamamen varım.\nİlginç görünüyor.
+82|Bilincimizi bir bilgisayara yükleyebiliyorsa\nbu olağanüstü bir teknoloji olmalı...
+83|Sanal Dünya'ya gönderecek bir <CLT=cltSTRONG>bilincin<CLT=cltNORMAL>\nvar mı ki, Kee-çocuk? Sen bir robotsun.
+84|Teneke kafan insan duygularını ancak\nmekanik bir süreçle taklit edebilir.
+85|Gh...
+86|...Benim de <CLT=cltSTRONG>bilincim<CLT=cltNORMAL> var.\nEn azından öyle olduğuna inanıyorum.
+87|Yani avatar başka bir beden...\nAma ben bunu seviyorum.
+88|Bu beden ruhumu yarattı,\nruhum da bu bedeni...
+89|Yani bedenim ve ruhum birlikte beni ben\nyapıyor! Onları ayırmak rezalet!
+90|Demek bilinci bedenden ayırıyor...\nBu mümkünse o zaman...
+91|Hayır... bir şey yok.
+92|Bu odada bir şeylerin farklı olduğunu\ndüşünmüştüm. Artık burada bir sürü sandalye var.

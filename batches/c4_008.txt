@@ -1,0 +1,62 @@
+@ chap4_text_US
+## c04_002_130
+40|<CLT=cltMIND>Suçluyla dedektif arasında\nince bir çizgi var.
+41|Bir sürü dosya dizilmiş.\nYaklaşık 50 tane gibi görünüyor.
+42|Bu dosyalar ne için?
+43|<CLT=cltMIND>Rastgele birini alıp\nsayfalarını çevirdim.
+45|<CLT=cltMIND>İçinde cinayet mahallerinin fotoğrafları\nve <CLT=cltSTRONG>failin kullandığı hileler<CLT=cltMIND> vardı.
+47|<CLT=cltMIND>Aceleyle diğer dosyalara da baktım\nve hepsinin benzer olduğunu gördüm.
+48|...Cinayetlerde kullanılan tüm hileleri\niçeren bir dosya bu.
+49|Öyle görünüyor.
+50|Bu olay gerçekten yaşandı mı?
+51|Emin olamam ama olay yerinin\nfotoğrafları var.
+52|Ve bu davaların hepsi uygulanabilir görünüyor.
+53|Uygulanabilir, ha?
+54|O zaman bu, cinayet işlemek isteyen herkes\niçin iyi bir rehber olur.
+56|Gerçi herkesin erişebildiği bir dosyayı\nkullanacak kadar aptal biri olduğunu sanmam...
+57|<CLT=cltMIND>Maki rastgele bir dosya aldı ve\nsayfalarını çevirmeye başladı.
+58|Ha? Bu dosyada hiç fotoğraf yok.\nHepsi sadece elle çizilmiş resimler ama...
+59|Çizimler mi?
+60|<CLT=cltMIND>Maki dosyaları birbiri ardına\nraftan çekmeye başladı.
+61|Yeni dosyalarda fotoğraf var ama\neskilerde çizim mi var?
+62|Ama neden? Eskiler <CLT=cltSTRONG>sadece kurgu<CLT=cltNORMAL> mu?
+64|<CLT=cltMIND>Bunun bir sebebi var mı?
+67|<CLT=cltMIND>Neyse, merak ettiğim tüm yerleri\ninceledim.
+68|Buradaki her şey ölümle ilgili.
+69|Eh, dedektif olarak işin bu, özellikle\nbu öldürme oyununda.
+70|Evet... biliyorum.
+71|Dedektif yeteneğimi kullanabildiğim tek zaman\nbiri öldükten sonra...
+72|Bir dedektif... kimseyi kurtaramaz. Ancak her\nşey için çok geç olduktan sonra işe yararım.
+73|Neden birden bu kadar üzüldün?\nÖlmek mi istiyorsun?
+74|Sırf bunun için beni öldürür müsün!?
+75|Yok, Maki Rulo'nun neden öyle dediğini\nanlıyorum. Suratın epey kasvetliydi.
+76|Kaito?
+77|O kadar kasvetli bir suratla benim yardımcım\nolduğuna inanamıyorum.
+78|Kendinle daha çok gurur duy, Shuichi!\nŞimdiye kadar yaptığın her şey harika!
+79|Ah... teşekkürler.
+80|O yüzden dikkatli olmalısın.
+82|Sınıf duruşmalarında bu kadar iyi olduğun için\n<CLT=cltSTRONG>gelecekteki failler<CLT=cltNORMAL> gözünü sana dikti...
+83|Bir sonraki fail senin peşine düşebilir.
+84|Benim peşime mi?
+85|Heh, onun için endişelenmene gerek yok!\nKimsenin yardımcıma bulaşmasına izin vermem!
+86|İkinizi de koruyacağım!\nYardımcılarını korumak bir kahramanın işidir!
+87|...Ya ben bir <CLT=cltSTRONG>gelecekteki fail<CLT=cltNORMAL> olursam?
+88|Aptal mısın? Bu imkânsız.
+89|İnsanlara... nasıl bu kadar kolay güvenebiliyorsun?
+90|Ha? Sana daha önce söylemedim mi?\nGüvenmek istediğim insanlara güvenirim.
+91|Ve bana ihanet ederlerse, bu sadece onlara \ngüvenerek yanlış karar verdiğim anlamına gelir.
+92|Tabii ki sen de güvenmek istediğim\ninsanlardan birisin, Maki Rulo!
+94|Sen neden buradasın ki? Kokichi ile\nkovalamacayı bitirdin mi?
+95|İzini kaybettim. O herifi hiçbir\nyerde bulamıyorum.
+96|Bulamadın mı?\nAma <CLT=cltSTRONG>motif kart anahtarı<CLT=cltNORMAL> hâlâ onda, değil mi?
+97|Evet, hâlâ onda olmalı.
+98|<CLT=cltMIND>Kokichi'nin kart anahtarı kullanıp bir\nyere gitmiş olma ihtimali var...
+99|Neyse, elimden kaçtı ama\nbakın ne buldum!
+100|<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>!
+101|Ah, bir tane bulmuşsun!
+102|Kokichi için endişeleniyorum ama bence \nönce bununla ilgilenmeliyiz.
+103|Hadi hep birlikte yemekhanede toplanalım!
+104|...Ha? Ben de mi geliyorum?
+105|Ah, bir dakika!
+106|Önce bakmak istediğim başka yerler var!\nSizinle sonra buluşabilir miyim?
+107|Öyle mi?\nO zaman ben yemekhaneye önden gidiyorum.

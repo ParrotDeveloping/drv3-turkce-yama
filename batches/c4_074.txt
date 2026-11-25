@@ -1,0 +1,74 @@
+@ chap4_text_US
+## c04_215_000
+12|Peki... hangi <CLT=cltSTRONG>gizli yöntemi<CLT=cltNORMAL> kullandı?
+13|Bunu çözmek o kadar kolay olmayacak.\nGizli yöntem denmesinin bir sebebi var!
+14|Merak etmeyin millet! Shuichi'ye bıraktığımız\nsürece her şey yolunda olacak!
+16|Ne diyorsun sen? Her zaman sadece\nShuichi'ye güvenemeyiz.
+17|Bu sınıf duruşması hepimiz için!\nBunu birlikte çözmek için buradayız!
+18|Nii-hihi... Sen sadece Shuichi'yi yavaşlatırsın.
+20|<CLT=cltMIND>...Kokichi ile uğraşacak vaktim yok.\nŞu an davaya odaklanmam lazım.
+21|<CLT=cltMIND>Miu'nun konağa gitmek için bir çeşit özel\nyöntem kullandığından eminim.
+22|<CLT=cltMIND>Tamam! Sadece ne olduğunu\nbulmam lazım!
+## c04_216_000
+0|Ama... aslında öyle bir şey hiç\nbulmadık...
+1|Bir şey buldun mu, Shuichi?
+3|Sanal Dünya'da ışınlanma ve binek\nolmadığını söyleyen bir kural var.
+5|Çekiç bana hâlâ bilmediğimiz pek çok\nsır olduğunu düşündürüyor...
+6|Ama o sırların ne olabileceğine gelince...\nHmm... Hiçbir şey aklıma gelmiyor...
+8|<CLT=cltMIND>Sadece Miu'nun bildiği\ngizli bir yöntem...
+9|<CLT=cltMIND>Programı kurcaladı, bunun hiçbir ilgisi\nolmadığını düşünmek zor.
+10|<CLT=cltMIND>Gizli bir yol ya da öyle bir şey\nolabilir...
+13|<CLT=cltMIND>Bir şeyi değiştirdiğinden eminim...
+## c04_216_001
+0|Sadece Miu'nun\nbildiği
+1|Sadece Miu'nun bildiği bir geçiş yolu...
+2|<CLT=size3>Miu'nun
+3|bildiği bir yol...
+4|<CLT=cltAGREE>Belki <CLT=size2>gizli bir köprü
+5|Belki o tabeladan başka gizli bir köprü?
+6|<CLT=cltAGREE><CLT=size2>o tabeladan<CLT=cltNORMAL> başka,<CLT=size1> belki?
+7|Ya da <CLT=size2>köprü<CLT=size1> <CLT=size2>yerine...
+8|Ya da köprü yerine...
+9|Miu karşıya\ngeçmek için
+10|Miu karşıya geçmek için bir çeşit araç kullandı!
+11|<CLT=size2>a
+12|r
+13|<CLT=size2>aç
+14|kullandı!
+15|Ya da belki
+16|Ya da belki sihirle ışınlandı...
+17|<CLT=cltAGREE><CLT=size2>ışınlandı
+18|<CLT=size2>sihirle...
+19|Ya da bir
+20|Ya da bir Işınlanma Bölgesi kullandı!
+21|<CLT=size2>Işınlanma Bölgesi
+23|Belki köprüsüz\n<CLT=size2>geçebileceğin\n<CLT=size2>bir yer<CLT=size1> vardır!
+24|Belki köprüsüz geçebileceğin\nbir yer vardır!
+25|<CLT=cltAGREE>Karşıya geçmek için\n　\n　\n　\n　
+26|Karşıya geçmek için sadece Miu'nun kullanabileceği gizli bir yol...
+27|<CLT=cltAGREE><CLT=size2>sadece Miu'nun\nkullanabileceği
+28|　\n　\n　\n　\ngizli bir yol...
+29|Sanırım yer değiştirmek\niçin onu <CLT=size2>kullanmış\n<CLT=size1>olması\n<CLT=size2>mümkün.
+30|Sanırım yer değiştirmek için onu\nkullanmış olması mümkün.
+31|Vay be,\nçok <CLT=size2>yanılıyorsunuz...
+32|Vay be, çok yanılıyorsunuz...
+33|Ya da belki sadece
+34|Ya da belki sadece sizi işletiyorumdur!
+35|<CLT=size2>sizi
+36|<CLT=size2>işletiyorumdur!
+37|Ne olabilir?
+38|Gizli bir yol...
+39|Gizli
+40|Uçak gibi mi?
+41|Roket gibi mi?
+42|Yine mi sihir!?
+43|Kimse bilmiyor mu?
+44|Gerçekten öyle bir şey olduğunu mu sanıyorsun?
+## c04_217_000
+0|İşte bu, Keebo! Sadece Miu'nun kullanabileceği\ngizli bir yol vardı!
+1|Hm? Gerçekten var mıydı?
+2|Miu dünyaya özel bir duvar eklemek için\nprogramı değiştirdi.
+3|Duvar Y ekseni boyunca uzanıyor ama Sanal\nDünya'da böyle iki duvar bulduk.
+4|Miu'nun konağın yanındaki duvarı mı yoksa şapelin\nyanındaki duvarı mı eklediği belli değil.
+5|*Bildiğimiz* şey, o duvarın <CLT=cltSTRONG>sadece nesnelerin\ngeçebileceği<CLT=cltNORMAL> şekilde ayarlandığı...
+6|...Hm? Ne oldu, Kaito?

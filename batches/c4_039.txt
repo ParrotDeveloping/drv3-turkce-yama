@@ -1,0 +1,55 @@
+@ chap4_text_US
+## c04_019_200
+16|Onlarla sonra ilgileniriz. Önce <CLT=cltSTRONG>dış\ndünyanın sırrını<CLT=cltNORMAL> bulmalıyız.
+17|<CLT=cltMIND><CLT=cltSTRONG>Dış dünyanın sırrı<CLT=cltMIND>...\nNe olabileceğini hayal edemiyorum.
+18|<CLT=cltMIND>Tek yapabileceğim bunun bir çıkış\nyolu anlamına gelmesini ummak...
+## c04_019_208
+0|Gonta ve Kaito konağın çevresine ve çatısına\nbakacak. Ben salona gideceğim.
+1|Peki sıradan ikili, Tsumugi ve Shuichi,\nsıradan bir şekilde yemek salonu ile mutfağı arayabilir mi?
+2|Üzgünüm, Shuichi... Benimle sıradan\nikili olman benim suçum.
+3|Ama herkes bilir ki sıradan ikili\ndüpedüz tehlikelidir!
+4|Ah, onu bilemem...
+5|...Gonta şimdi gidiyor.
+6|Dışarısı şaşırtıcı derecede soğuk, dikkatli ol.\nIsınmak için buraya dönmelisin.
+7|Teşekkürler... ama Gonta iyi.\nGonta hasta olacak kadar akıllı değil.
+8|Akıllı olmayan biri herkesi kurtarmak\nistemezdi... Sadece kendini düşünürdü.
+9|Ah... teşekkürler.
+10|Tamaaam, eğlenceli sohbeti bırakıp <CLT=cltSTRONG>dış\ndünyanın sırrını<CLT=cltNORMAL> aramaya dönelim.
+11|Ama bizi neyin beklediğini bilmiyoruz,\no yüzden çoook dikkatli olmalıyız, tamam mı?
+12|Tamam, biz de aramaya başlayacağız.
+13|Evet... <CLT=cltSTRONG>Dış dünyanın sırrını<CLT=cltNORMAL> çabucak\nbulup geri dönmek istiyorum...
+14|Gerçek bedenime dönmek istiyorum.
+15|Şey... Bu avatarlar o kadar da kötü değil, biliyor musun?
+16|Ha? Bu avatarlar mı?
+17|Şaka şaka! Sadece şaka! Şaka yapıyorum!
+18|Gidip çatıya bakacağım!\nSakın tembellik etmeyin!
+19|Gonta... da şimdi gidiyor.
+20|Shuichi, biz de gitmeliyiz.
+21|Evet, gidelim.
+32|<CLT=cltMIND>Tsumugi bekliyor. Yemek salonuna\ngitmeliyim.
+## c04_019_210
+0|Ben yemek salonuna bakacağım. Sen de lütfen\nmutfağa bakabilir misin, Shuichi?
+1|Tamam, mutfak bu tarafta.
+3|Burada farklı bir şey yok... Görünüşe göre\nses dışarıdan gelmiş.
+4|<CLT=cltMIND>Mutfakta bir şey yok...\nDışarı çıkmalıyım.
+5|<CLT=cltMIND>Bu bardaklar epey pahalı görünüyor...
+6|<CLT=cltMIND>Ama bu <CLT=cltMIND>dış dünyanın sırrı<CLT=cltMIND> değil.
+7|Ha? Gözüne çarpan bir şey\nmi oldu?
+8|Ben yemek salonuna bakacağım ama...
+9|Hayır, bir şey yok.\nŞimdi mutfağı inceleyeceğim.
+10|<CLT=cltMIND>Yemek salonunda bir şey yok...\nDışarı çıkmalıyım.
+11|<CLT=cltMIND>Bu sandık iyi yapılmış, mumlar da\nkesinlikle etkileyici...
+13|Hm? Shuichi, iyi işçiliğe hayran olan\nbiri misin?
+14|Ah, hayır, pek değil...\nŞimdi mutfağı inceleyeceğim.
+16|<CLT=cltMIND>Çeşitli boylarda tabaklar...\nMonokuma bunların hepsini neden hazırladı?
+17|<CLT=cltMIND>Ama her durumda bu\n<CLT=cltMIND>dış dünyanın sırrı<CLT=cltMIND> değil.
+18|Ne oldu? Ben yemek salonuna\nbakacağım.
+19|Haklısın, pardon.\nŞimdi mutfağı inceleyeceğim.
+21|Ha? Ne oldu? Belki... tuvalete\nmi gitmen lazım?
+22|Ah, pardon, yanlış kapı...\nMutfak şurada, anladım.
+## c04_019_212
+0|<CLT=cltMIND><CLT=cltSTRONG>Dış dünyanın sırrını<CLT=cltMIND> aramamız\ngerektiğini biliyorum...
+1|<CLT=cltMIND>Ama o *ne*? Bir nesne mi?\nTamamen başka bir şey mi?
+2|Sanırım her yeri arayıp şüpheli\nherhangi bir şeye bakmalıyım...
+3|<CLT=cltMIND>Mutfağın her köşesini bucağını\naradım ama...
+4|*iç çekiş*... Her yere baktım ama şüpheli\nhiçbir şey bulamadım...

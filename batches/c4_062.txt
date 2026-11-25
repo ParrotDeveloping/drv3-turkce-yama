@@ -1,0 +1,62 @@
+@ chap4_text_US
+## c04_103_029
+141|Bu sınıf duruşması bitince umarım hepimiz\nbirbirimizi daha iyi tanıyabiliriz!
+142|Nyeeeh... bu tam ölüm bayrağı\ndikecek türden bir replik.
+143|Ben... temiz bir başlangıç istiyorum. Geçmiş\nhatalarımı telafi etmek istiyorum.
+144|O da...
+145|Hepinizle tanışmak... gerçekten...
+146|Pardon, bir şey yok. Sınıf duruşması\nbittikten sonraya saklayacağım.
+147|Nyeeeh... bayrak yükseliyor!
+148|Hm? O neydi? Sanırım şurada\nbir şey duydum.
+149|Tek başıma gidip bakacağım!
+150|Rüzgârda dalgalanıyoooooor!!!
+151|Saçmalamayı kesin. Acele edip gidelim.
+152|Gonta da elinden geleni yapacak! Gonta herkese\nazıcık da olsa yararlı olmak için elinden geleni yapacak!
+153|Çooook heyecanlıyım! Bu sefer faili\nkesinlikle ortaya çıkaracağım.
+154|Çık... Bunun nesi heyecanlı ki!?
+155|<CLT=cltMIND>Kalplerimizde çelişkili duygularla\n<CLT=cltSTRONG>Yargı Tapınağı<CLT=cltMIND>'na gittik.
+182|Yine de...
+183|Onun böyle acı çekmesine ne sebep oldu?\nÖlüm sebebi neydi?
+198|<CLT=cltMIND>Monotaro'nun araştırmasının sonuçlarını\nmerak ediyorum…
+## c04_104_265
+0|Görünüşe göre... herkes burada...
+1|Ah... herkes bu, ha?\nArtık... çok daha az kişiyiz.
+2|Bu başladığımız sayının sadece yarısı...
+3|Çünkü bu oyunun devam etmesine izin verdik.\nBir şekilde durdurmalıyız—
+4|Ama şimdi duramayız!!!\nEğlencenin bitmesine izin veremeyiz!
+5|K-Kes şunu! Bu duruşmanın son olacağından\neminim!
+6|Önce bu sınıf duruşmasında hayatta kalmaya odaklanalım.
+7|H-Haklısın... Burada çuvallarsak sayımız\ndaha da hızlı azalır...
+8|Sadece fail kalırdı...
+9|Bu belki sorun olmaz. Belki bu da öldürme\noyununu durdurmanın başka bir yoludur.
+10|Hepimiz ölürsek öldürme oyunu biter.
+11|Böyle aptalca saçmalıklar söyleme!\nHepimiz ölürsek hiçbir anlamı kalmaz!
+12|Şey... endişelenmemize gerek yok. Yanımızda\n<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL> var.
+13|Evet, dedektifin parlama zamanı.\nShuichi, lütfen iyi işine devam et.
+14|E-Evet... Elimden geleni yapacağım.
+15|<CLT=cltMIND>Evet... kendimi toparlamalıyım.\nYeteneğimin parlayabileceği tek zaman bu.
+16|<CLT=cltMIND>Sadece kendi hayatımı kurtarmıyorum...\nherkesin hayatı tehlikede.
+17|<CLT=cltMIND>Burada gerçeği bulamazsam\nherkes kurban edilecek...
+18|<CLT=cltMIND>Ve bunun olmasına asla izin vermeyeceğim—
+19|Hey, Shuichi. Geriliyorsun.
+20|Ah, ne?
+21|Sana daha önce söylemedim mi?\nShuichi, yükü tek başına taşıma—
+22|Ve *ben* de sana daha önce yolumuza\nçıkma demedim mi, Kaito?
+23|Ha? Senin derdin ne?
+24|Bu sınıf duruşmasında kıçımızı kurtarması\niçin hepimiz Shuichi'ye güveniyoruz, tamam mı?
+25|Aynı replikleri tekrar tekrar söyleyen bir\npapağan gibisin. Onu rahatsız ediyorsun.
+26|Bence Shuichi'ye yapabileceğin en sinir\nbozucu şey bu, biliyor musun?
+27|N-Ne demek istiyorsun?\nBen—
+28|Kokichi... sinir bozucusun.
+29|Vay... katil kız bana dik dik bakıyor...\nSadece şaka yapıyordum...
+30|<CLT=cltMIND>Maki'nin bakışı işe yaramış gibiydi,\nKokichi moral bozukluğuyla arkasını döndü.
+31|Sonunda o baş belası gitti.\nSağ ol, Maki Rulo.
+32|Katlan biraz, Kaito. Şimdi birbirimizle\natışmanın zamanı değil.
+33|Ah, benim hatam. Pardon.
+34|...Kaito, ben iyiyim.
+36|Ne demek istediğini biliyorum, Kaito.\nEndişelenmene gerek yok.
+37|Anlıyorum... O zaman sana inanacağım\nve başka bir şey söylemeyeceğim.
+38|Ama bir sorunun olursa söyle. Sana\nyardım ederim. Yanındayım, kanka.
+39|...Teşekkürler, Kaito.
+40|Sana inanacağım ve başka bir şey söylemeyeceğim.
+42|Gonta neler olduğunu pek anlamıyor...\nAma... Gonta bu sefer yararlı olmak için çok uğraşacak.

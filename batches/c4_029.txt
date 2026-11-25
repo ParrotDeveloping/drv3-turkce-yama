@@ -1,0 +1,55 @@
+@ chap4_text_US
+## c04_018_200
+45|B-Buna *gerek yok*!
+49|Buradaki nesnelerin kırılmadığı söylense de\nbu tabela hâlâ güvenilmez görünüyor.
+50|Hiçbir olay olmadan geçmeyi başardık.
+51|Hesaplamalarıma göre ağırlığımın köprüyü\nkırması gerekirdi...
+52|Ama buradaki nesneler kırılmaz olduğundan\nkopmadan sadece büküldü.
+53|Akıntıya kapılmadığı sürece köprü olarak\nkullanmak için yeterince iyi.
+54|Kapılsa bile seni köprü olarak\nkullanabiliriz, Kee-çocuk.
+55|Neden ben!?
+56|Merak etme, kendin söyledin!\nBu dünyada nesneler kırılmaz!
+57|Lütfen bana nesne gibi davranma!
+58|Robofobin çok fazla, Kokichi...
+59|Bir harita yükleme noktasından geçmek...
+60|Böyle bir şey yaşayacağımı hiç\nhayal etmemiştim.
+61|Bu karda ayak izi bırakmıyoruz...
+62|Tuhaf hissettiriyor. Sanki ayaksız bir\nhayalete dönüşmüşüm gibi.
+63|Ee? Hadi bakalım. Emirleri yerine getirmenin\nkeyfini çıkar.
+65|Aferin, görünüşe göre aldın.\nGit efendine rapor ver.
+67|B-Burada sihrimi kullanabilseydim...\nBu nehrin üstünden süper kolay süzülürdüm.
+68|Çok korkunçtu...\nHâlâ kalbim çıldırıyor gibi.
+69|Gerçi bu bedenlerin kalbi var mı\nonu bile bilmiyorum...
+70|Kokichi'nin de peşinden gitmemeli miyiz?\nHep bir haltlar karıştırıyor...
+71|Dışarıda gerçekten yığılmış.
+72|Kaito bu kadar kara heyecanlanırdı.\nEminim kardan adam falan yapardı...
+73|Maki... beni *öyle* mi görüyorsun?
+74|Çünkü Kaito sana emir verirken hep\nçok memnun görünüyorsun.
+75|Memnun mu!?
+76|Ama yardımcı olarak mutlu görünüyorsun.\nBelki öyle şeylerden hoşlanıyorsundur.
+78|Neyse, çabuk ol. Yoksa Kaito'dan emir\nalmayı mı tercih edersin?
+79|H-Hayır, öyle değil, gerçekten...
+86|D-Dediğim gibi, önemli değil...
+87|Miu ve Kokichi az önce karşıya\ngeçtiğinde...
+88|...kırılacakmış gibi o kadar büküldü ki,\nama şimdi normale döndü.
+89|Demek... bu dünyada nesneler gerçekten kırılamıyor.
+90|Haritadaki o dalgalı çizgi ne anlama\ngeliyor acaba...
+91|Miu açıklamak istemiyor gibi, o yüzden\nsanırım gidip bakmamız gerekecek.
+92|..."Biz" diyorum ama "sen" demek istiyorum.
+93|<CLT=cltMIND>Ben mi?
+94|Maki Harukawa\nDışarısı Harita yükleme noktası geçildikten sonra
+95|Etrafımız kar dolu bir alan ama yolda\nasla birikmeyecek şekilde yapılmış.
+96|Bu iyi... Artık kaybolmaktan\nendişelenmeme gerek yok.
+97|Anlıyorum... Demek sen öylesin, Shuichi...
+98|<CLT=cltMIND>Bu... acıma mı sezdiğim?
+101|G-Güvenli mi? Bu kadar soğukta nehre\ndüşersek hiç de gülünecek bir şey olmaz.
+102|Ah! Soğuk!
+103|Acele edip şapele gidelim! Burada olduğundan\nbiraz daha sıcak olsa bile!
+104|Anlıyorum, demek bir sonraki haritayı yüklemesi gerekiyor.
+105|Böyle yerler insana bu dünyanın bir bilgisayardaki\nprogramla yaratıldığını hatırlatıyor.
+106|Ağırdan almayı kesin!\nAcele edin de üstüme gelin!
+107|Iı, yani... benimle gelin! Acele edin!
+108|Hadi, acele edin! Dört ayak üstüne çöküp\ngidip getirin!
+110|Neden o noktaya önden gidip ne olduğunu\nkendiniz öğrenmiyorsunuz?
+111|Eh, eğlenceliydi!
+112|Merak etmeyin! Harita yükleme noktasından\ngeçmek avatarlarınızı etkilemez!

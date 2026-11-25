@@ -1,0 +1,68 @@
+@ chap4_text_US
+## c04_021_208
+0|Maki, çatıya baktın mı?
+1|...Orada değildi.
+2|Orada değil miydi?
+3|Çatıda kimse yoktu. Ona seslenmeyi\ndenedim ama cevap gelmedi.
+4|Nereye gitti ki...?
+6|Muhtemelen... tek başına önden çıkış yaptı.
+7|Ama endişelenme... Kendini öldürtecek kadar\naptal ama gerçekten ölmeyeceğini biliyorum.
+9|<CLT=cltMIND>Sanırım doğru.\nOnun için endişelenmeme gerek yok...
+10|<CLT=cltMIND>Acele edip çıkış yapmalıyım.
+11|<CLT=cltMIND>Miu'ya bakmalıyım.
+## c04_100_029
+0|<CLT=cltMIND>Şafak vakti.
+1|<CLT=cltMIND>Biz Sanal Dünya'nın içindeyken\ngüneş doğmuştu.
+3|Bir ceset bulundu! Herkes lütfen bilgisayar\nodasına gelsin...
+4|...Dur, zaten buradasınız.
+5|Vay, ceset bulunma anonsunu size\ncanlı yapıyorum!
+6|Of, canlı yapmak harika!\nBiradan da sevişmekten de iyi!
+7|Ha? Babacık, ağzın hep bu kadar\nbozuk muydu?
+8|Zaten ağzı bozuk bir oyuncumuz olduğu için kendimi\ntutuyordum ama şimdi parlama zamanım!
+9|Neyse ki çok sevimliyim, o yüzden her türlü\nkaba lafı söyleyip paçayı kurtarabilirim.
+10|Yaşasın! Sonunda ağzı bozuk bir <CLT=cltSTRONG>göt herif<CLT=cltNORMAL> olabiliyorum!
+11|Ne kaba bir son söz!
+13|Ne oldu, Monotaro? Cesede boş boş\nbakıp duruyorsun...
+14|Ce-Cesede... boş boş—
+17|...Annecik.
+18|<CLT=cltMIND>Şaşkınlık içinde Miu'ya bakarken\nanonsu zar zor duyduk.
+19|<CLT=cltMIND>Sadece... Miu'nun cesedine bakıyorduk.
+20|B-Bu korkunç... Neden böyle oldu...?
+21|Miu! N-Neden...!?
+22|N-Neler oluyor?\nMiu neden... öldürüldü?
+23|Gonta da... anlamıyor... Gonta uyandığında\nMiu böyleydi...
+24|Hey! Neler oluyor!? Bu neden oldu!?
+25|Eh, bir cinayet işlendiği belli.
+26|C-Cinayet mi...?
+27|N-Ne demek istiyorsun!? Gonta uyurken\nbir şey mi oldu!?
+28|Uyumuyorduk ve o bir rüya değildi.\nSanal Dünya'daydık.
+30|Doğru, Kaito—
+31|<CLT=cltMIND>Sanki işaret verilmiş gibi...
+32|<CLT=cltMIND>Koridorda hızla koşan ayak sesleri\nduyduk, ses gittikçe yükseldi ve...
+33|<CLT=cltMIND>Kapı hızla açıldı.
+34|Hey! Bu da ne!?\nO ceset bulunma anonsu da neyin neyd—
+35|Ne—! Miu!?\nN-Neler oluyor burada be!?
+36|Çok geç kaldın, tamam mı? Diğerlerinin hepsi\ndehşetle soluklanmayı çoktan bitirdi.
+37|Ama neyse, bunca zaman neredeydin,\nKaito? Ne yapıyordun?
+38|B-Ben sadece şekerleme yapıyordum.
+39|Şekerleme mi?
+40|Uyuyor muydun?
+41|Gonta da uyuyordu! Tuhaf rüya gördü!\nGonta hiçbir şey anlamıyor!
+42|Dediğim gibi, orası Sanal Dünya'ydı...
+43|Yani tek başına çıkış yapıp şekerleme\nmi yaptın? İznimiz olmadan?
+44|Birden çıkış yapılmış oldum...\nFarkına varmadan buraya geri dönmüştüm...
+45|İstemeden mi... çıkış yaptın?
+46|Evet... Tekrar giriş yapmak sorun olur mu\nbilmediğim için odama dönüp uyudum.
+47|Ve o ceset bulunma anonsu beni uyandırınca\nburaya koştum—
+48|Hey, Kaito! Yalan söyleyeceksen bari daha\niyi söyle!
+49|Böyle berbat bir yalanla öldürme oyununu\ndaha heyecanlı yapabileceğini mi sanıyorsun!?
+50|B-Bu yalan değil! Gerçekten uyuyordum!
+51|Bir dakika. Bunun yalan olup olmadığını\nsonra konuşabiliriz.
+52|Şu an yapmamız gereken... soruşturmaya başlamak.\nMiu'yu kimin öldürdüğünü bulmalıyız.
+53|Nii-hihi... hazır görünüyorsun.\nEh, tabii ki hazırsın.
+54|Değerli arkadaşlarından biri öldürüldü, yani\nsonunda parlama zamanın geldiiii!
+55|...İstediğin gibi açıkla, Kokichi.
+56|Gerçek şu ki, failin kim olduğunu\nbulamazsak hepimiz idam edileceğiz.
+57|Ama buna izin vermeyeceğim. Hepimiz hayatta\nkalabilelim diye faili bulacağım.
+58|...Fail Kaito olsa bile mi?
+59|Ha!? Ne!?

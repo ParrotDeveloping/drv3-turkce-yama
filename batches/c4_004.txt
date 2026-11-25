@@ -1,0 +1,63 @@
+@ chap4_text_US
+## c04_001_010
+43|Ama... depresif olmak ölenlerin huzur \niçinde yatmasına yardım etmez...
+44|Tenko ve Angie de. Depresif kalırsam\nonlar da huzur içinde yatamaz.
+45|O yüzden ölümlerinin bir anlamı olsun diye\nhayatımı pozitif yaşamaya karar verdim!
+46|N-Neyse...\nLütfen... y-yeni beni... idare edin...
+47|Daha şimdiden nefesin kesildi. Daha\nbaşlangıçta son hıza çıktın!
+48|Ama tam Himiko'nun dediği gibi.
+49|Geride kalanlarımız geleceğe bakıp \nyaşamalı. Diğerlerinin hatırı için.
+50|Evet! Neşelenelim ve sıkı çalışalım!\nBu oyun daha yeni başlıyor!
+51|Oyun mu?
+52|Ha? Bundan bahsetmiyor muyduk?
+53|Ihhh... ama artık daha az insan olduğuna göre\nbir sonraki kurban... ben olabilirim...
+54|Vaaay, çok heyecanlı!\nAma kesinlikle ölmek istemiyorum!
+55|Gerçi sanırım herkes için durum aynı!\nAh-hahahahahaha!
+56|Böyle bir zamanda hâlâ böyle \nsaçmalıklar mı söylüyorsun—
+57|<CLT=cltMIND>Tam o sırada yemekhanenin kapısı\nbirden açıldı ve...
+58|Herkes! Bu ciddi!
+59|Olamaz... Devasa Liseli Kız duvarın\nöbür tarafında, değil mi!?
+60|Tamam, belki o kadar ciddi değil, ama Gonta\nburaya gelmeden önce avluya gitti...
+61|Duvar yazısı mı?\nDaha fazlası mı eklenmiş?
+62|Evet. Daha fazla harf eklenmiş...
+63|Ne yazmaya çalıştığından emin değilim...\n"Kılıçlar" mı? Yoksa "bu dünya" mı?
+64|D-Dünyaya ne olmuş? Ne anlama geliyor?\nÇılgın bir hikâye mi dönüyor?
+65|Muhtemelen sadece duvar yazısıdır, değil mi?\nGörmezden gelmeliyiz.
+66|Hayır, bunun iyi bir fikir olduğunu sanmıyorum.
+67|...Neden? Ölmek mi istiyorsun?
+69|<CLT=cltMIND>Ah, doğru. Bu sadece onun bir alışkanlığı.\nAma her seferinde kalbim yerinden oynuyor...
+70|Buradaki kimse yazdığını kabul etmiyor, değil mi?\nAma şimdi üstüne daha fazlası eklenmiş.
+71|Bir anlamı olmalı.
+72|Yani cidden, hiçbirimiz mi yazmadık?\nBu bir şakaysa, söyleseniz iyi olur.
+73|Ama Gonta yazıyı tesadüfen buldu,\ndeğil mi?
+74|Şaka olsaydı çimenlerin arasına değil,\ndaha göze batan bir yere yaparlardı.
+75|Fark edilmeyen bir şakadan daha\niç karartıcı bir şey yoktur.
+76|Kimsenin ellemek istemediği bir meme gibi!
+77|Şey, ilk bulan o olduğuna göre yazan\nGonta da olabilir—
+78|Gonta asla öyle şey yapmaz! Gonta asla\nherkese sorun çıkarmaz!
+79|Bu... centilmence değil.
+80|<CLT=cltMIND>O yazı da ne...
+81|<CLT=cltMIND>Giderek daha fazlası ekleniyor...
+82|<CLT=cltMIND>Kim yapıyor?\nNe anlama geliyor?
+83|Pek anlamadım ama...\nBelki bir çeşit ipucudur.
+84|Haber verdiğin için sağ ol, Gonta.
+85|...Gonta yardım edebildiği için mutlu.
+86|Gonta yardım etmek istiyor, az da olsa.\nBir şeye yardım lazım olursa Gonta'ya söyle, tamam mı?
+87|Tama-am, anladım! Birini yumruklamanı\nistersem haber veririm.
+88|Hayır! Artık Gonta'ya ne yapacağını\nsöyleyemezsin!
+89|E-Evet... Gonta <CLT=cltSTRONG>Böcek Buluşması<CLT=cltNORMAL>'ndan\nsonra ders aldı...
+90|Çık, çok sıııkıcı.
+91|Oho! Kulaklarım çınlıyor! Yine benden mi\nbahsediyorsunuz? Bana bayılıyor olmalısınız!
+92|Hm? Çok konsantre olduğumda yaptığım\nsurat yüzünden başınız mı dönüyor?
+93|Suratın mı...? Hep aynı değil mi?
+94|Boş verin onu... Muhtemelen bunun için\nsabırsızlanıyorsunuz, değil mi?
+95|Ödülüm için, yani.
+96|Değil mi? Şu an ödül almadan\nyaşayamazsınız, değil mi?
+97|Ben de öyle düşündüm, o yüzden ödül getirdim!
+99|Ha? Ayısal ne demek?
+100|Aman... Kendi sloganını unutmak bir maskot\niçin ölüm öpücüğü gibidir, biliyor musun?
+101|Hahaha! Çünkü ben bir maskotum! Anladınız mı?
+102|Bu şaka bile değildi! Giriş yok,\nespri yok, hiçbir şey yok!
+103|Bu arada, bu pembe pelüş domuz kim\nve neden benimle konuşuyor?
+104|Monotaro'nun kafası bozulmuş! Sağlam\nbir şaplak hatırlamasını sağlar!
+105|Ah!

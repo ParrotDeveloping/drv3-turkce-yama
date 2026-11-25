@@ -1,0 +1,70 @@
+@ chap4_text_US
+## c04_008_151
+15|Nyeeeh... bakalım...
+16|<CLT=cltMIND>Neden *bana* bakıyorsun?
+17|Ne oldu? Alçakgönüllülük mü yapıyorsun?
+18|Alçakgönüllü olmana gerek yok! Biz arkadaşız!
+19|B-Biliyorum! Sen söyle, Shuichi!
+20|<CLT=cltMIND>Bunu bana yaptıracağını\nbiliyordum!
+21|Shuichi, Gonta nasıl yardım edebilir?
+22|Ah, şey, belki birlikte\nantrenman yapmalıyız?
+23|Birlikte mi? Bu kadar mı? Gerçekten mi, Himiko?
+24|E-Evet! G-Gerçekten!
+25|Yapmak üzere olduğum egzersizler normal\negzersizler değil. Büyücü antrenmanı için.
+26|Yani vücudumu hareket ettirmek\niçin manaya ihtiyacım var.
+27|Ma-na mı? O ne? Gonta akıllı çocuk\ndeğil, o yüzden Gonta anlamıyor!
+28|Iı... şey... kısaca enerji.\nSihir kullanmak için çok enerjiye ihtiyacım var.
+29|O enerjiyi almanın en iyi yolu da yakınlarda\nyaşam enerjisi taşan birinin olması.
+30|Özür dilerim! Gonta hâlâ anlamıyor!
+31|Gonta, senin çok yaşam enerjin var, o yüzden\nbir kısmını Himiko'ya vermene yardım etmeni istiyorum.
+32|...Ve bu Himiko'ya yardım eder mi?
+33|Iı, evet. Çok yardım eder.
+34|Tamam! O zaman Gonta da Himiko ile antrenman yapacak!
+35|Shuichi, Himiko için sıkı çalışalım!
+36|E-Evet!
+37|Daha başlamadık bile ve ben \nşimdiden yoruldum...
+38|<CLT=cltMIND>Keikogilerimizi giydikten sonra\nHimiko'nun yönetiminde antrenmana başladık.
+39|Sıradaki, 100 tane havalı sihir\ngösterisi pozu!
+40|Beni takip edin!\nSeyirciye gülümsemeyi unutmayın!
+41|Evet!
+43|Bir! İki! Üç!
+44|Bir! İki! Üç!
+45|<CLT=cltMIND>Asalarımızı sallamayı ve süpürgelere\nbinmeyi 100 kez çalıştık...
+46|<CLT=cltMIND>Açıkçası... yorum yapması\nzor...
+47|Ne oldu, Shuichi!?\nPozlarında tembellik ediyorsun!
+48|Gülümsemek de önemli!\nGonta gibi gülümse! Centilmen gibi gülümse!
+49|T-Tamam.
+50|Bir kez daha, en baştan!\nBir! İki! Üç!
+51|<CLT=cltMIND>Himiko onu hiç görmediğim kadar\ncanlı.
+52|<CLT=cltMIND>Tüm o öfke ve üzüntü... Hepsiyle\nkendi yöntemiyle başa çıkmaya çalışıyor.
+55|<CLT=cltMIND>Antrenmandan hâlâ terli bir şekilde\nodama döndüm.
+## c04_009_029
+9|Hazine Sandığı
+## c04_009_101
+0|<CLT=cltMIND>Hâlâ biraz vakit var...
+## c04_010_100
+0|Shuichi, ne oldu?
+1|Gece anonsu az önce çaldığına göre\nodana dönmeni tavsiye ederim.
+2|Ah, evet. İşim bitince\ndoğruca dönerim.
+3|Evet, lütfen. Gece odanın dışında olursan\nbaşka bir cinayet olabilir.
+4|Doğru... Öldürme oyununun yeniden başlamasını\ndüşünmek bile istemiyorum...
+5|Kokichi daha önce o kadar rahatsız edici\nşeyler söyledi ki...
+6|Kaito o an onu susturmuş olabilir ama Kokichi'nin\nbu kadar kolay etkileneceğini sanmıyorum.
+7|Ama Kokichi hiç ciddi olmaz...
+8|Muhtemelen hepsi onun şaka anlayışıydı,\ndeğil mi?
+9|Şaka yapıyor olabilir.\nCiddi de olabilir.
+10|Sözlerinin samimiyetini anlamak\nçok zor.
+11|Ne düşündüğünü hiç bilemiyorum...\nOnu tehlikeli yapan da bu.
+12|Her iki durumda da gardımızı\nindirmemeliyiz.
+13|Hepimiz tetikte kaldığımız sürece\nbaşka cinayet olmamalı.
+14|Evet... elimizden geleni yapalım.
+17|Ne yapıyorsun, Tsumugi?
+18|Ah, Shuichi... Pek bir şey değil. Odama dönerken\no anons çaldı.
+19|Sadece saati söyleselerdi sorun olmazdı,\nama neden bu kadar melodramatik olmak zorunda?
+20|Bilmiyorum, ama kesinlikle abartı...
+21|Ben daha çok ahlaki boyutuyla ilgileniyorum.\nMonoyavrular kardeş değil mi?
+22|Ama o zaman...
+23|N-Nasıl birbirleriyle böyle uygunsuz bir\nilişkileri olabilir!?
+24|Şey, Monoyavrular ayı, değil mi?\nİnsan ahlakının onlar için geçerli olup olmadığını bilmiyorum...
+25|Ya da aslında... sanırım onlar ayı değil,\nrobot.
+26|...Demek sen de robofobsun, Tsumugi.

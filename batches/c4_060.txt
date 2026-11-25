@@ -1,0 +1,53 @@
+@ chap4_text_US
+## c04_103_029
+31|Önce beni çıkış yaptırıyorsun, şimdi de bize bir\nşey söylemesi gerektiği için Monotaro bizi çağırıyor...
+32|Miu'nun avatarını incelemeyi yine\nbitiremedim...
+33|Ne yapacağız!?\nBöyle adımı temize çıkaramam!
+34|Şimdi uyumanın zamanı değil... Neden kimse\ninceleme yapmak istemiyor!?
+35|Bu hiç centilmence değil...!
+36|<CLT=cltMIND>Uyumuyordum ki...
+39|Kokichi ile Miu'yla buluşması hakkında\nkonuştun mu?
+40|Miu ile buluşmadığını söyledi. Çatının kilitli\nolduğunu, o yüzden giremediğini iddia etti.
+41|Anlıyorum... Ama söz konusu olan Kokichi.\nPekâlâ yalan söylüyor olabilir.
+42|Kokichi Miu ile hiç buluşmamış...
+43|Ama söz konusu olan Kokichi...\nYani pekâlâ yalan söylüyor olabilir.
+44|*hıçkırık* Demek avatarıma veda ediyorum...
+45|Analizin sonuçlarını Monotaro'ya sor.\nAyrıntıları ben de henüz bilmiyorum.
+46|Sonunda... Monokuma'nın dış dünyanın sırrını\nnereye sakladığını hiç bulamadık.
+47|Görünüşe göre şapelde de değildi.
+48|Ama daha önemlisi, Miu'nun davası için\nbir şey yapmalıyız.
+49|Şu an Miu'nun davası dış dünyanın\nsırrından daha önemli.
+50|Seni bekliyordum, Shuichi.
+51|Eminim Maki sana zaten söylemiştir, ama sonunda\nprogramı analiz etmeyi bitirdim.
+52|Bir sürü önemli gerçeği bir araya getirmeye\nbaşladım, işte buyurun!
+53|<CLT=cltMIND>Gerçekten arkadaşımız olmaya çalışıyor...\nEn azından birazcık.
+54|İlk olarak, bu programı kurcalayan kişi...\ntahmin ettiğimiz gibi Annecik'ti.
+55|Anneciğin kod yazma şekli tuhaftır,\no yüzden onun olduğunu hemen anladım.
+56|Sanırım ondaki tek tuhaf şey kişiliği\ndeğilmiş.
+57|Peki neyi kurcalamış?
+58|Birkaç şeyi... ama ilkini sizinle\npaylaşacağım.
+59|Görünüşe göre Annecik bu öldürme oyunu\nsimülatöründen bir sürü <CLT=cltSTRONG>nesne<CLT=cltNORMAL> silmiş.
+60|Silah olarak kullanılabilecek her şeyi\nsildiğini söylemişti.
+61|Ama öyleyse neden çekiç var?
+62|Doğru, sadece çekiç bırakılmış.\nAma neden bırakılmış, hm?
+63|Programın yazılış şekli bunu bilerek\nyapmış gibi gösteriyor.
+64|<CLT=cltMIND>Bilerek...
+65|Herhangi bir şey *eklemiş* mi?
+66|Sanal Dünya'da bir cep telefonu bulduk...
+67|Hayır, o cep telefonu programın orijinal\nbir özelliğiydi.
+68|<CLT=cltMIND>Bu, Miu'nun bu gerçeği bizden\nsakladığını gösteriyor. Yani...
+69|Anneciğin eklediği tek şey iki harita.\nGerisi zaten programın parçasıydı.
+70|Bu arada, nesnelerden bahsetmişken\nsana bir şey sormak istiyordum...
+71|Nehri geçmek için tabelayı kullandık ama\nköprü olarak başka bir şey kullanabilir miydik?
+72|Hmm... Nehri geçmek için köprü olarak\nkullanılabilecek hiçbir şey görmedim.
+73|<CLT=cltMIND>Yani köprü olarak sadece o tabela\nkullanılabilirdi.
+74|Peki kurcaladığı bir sonraki şey ne?
+75|Şey, görünüşe göre programın belirli\n<CLT=cltSTRONG>parametrelerini<CLT=cltNORMAL> de kurcalamış.
+76|Parametreler mi?
+77|O programdaki her şey ya "<CLT=cltSTRONG>insan<CLT=cltNORMAL>" ya da\n"<CLT=cltSTRONG>insan olmayan nesne<CLT=cltNORMAL>" olarak sınıflandırılıyor.
+78|Tabii ki herkesin avatarına "<CLT=cltSTRONG>insan<CLT=cltNORMAL>"\nparametresi atanmış...
+79|Ama nedense Annecik kendi avatarına "<CLT=cltSTRONG>insan\nolmayan nesne<CLT=cltNORMAL>" parametresini vermiş...
+80|Peki bir <CLT=cltSTRONG>nesne<CLT=cltNORMAL> olunca\nne oluyor?
+81|Şey, fark sadece tanımlama amaçlı, o yüzden\nmuhtemelen hiçbir şeyi etkilemedi.
+82|Ama hiçbir şeyi etkilemediyse neden bunu\nyapmak için zahmete girsin ki?
+83|Belki bunun kurcaladığı bir sonraki şeyle\nbir ilgisi vardır.

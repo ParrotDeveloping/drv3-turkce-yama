@@ -1,0 +1,70 @@
+@ chap4_text_US
+## c04_217_000
+7|Hay Allah, Miu öyle tuhaf bir duvar mı kurmuş?
+8|Bu şüpheli ama konuştuğumuz şeyle\nhiçbir ilgisi yok.
+9|Hiçbir ilgisi yok mu?
+10|Hıh, hatanın farkında bile değil misin?\nFormunu mu kaybediyorsun?
+11|Neyse! Yardımcımın hataları benim\nhatalarım! Düzelteceğim!
+## c04_218_000
+0|Hey, o duvarı oraya koyanın Miu\nolduğunu söylediğini sanıyordum!
+1|Böyle şeyler hakkında öylece fikrini\ndeğiştirme!
+3|Miu'nun avatarı da tıpkı bizimkiler gibi\ninsandı! Duvardan geçemezdi!
+4|İmkânsızı tartışmanın ne anlamı var!?\nVakit kaybı!
+6|<CLT=cltMIND>Kaito'nun aklında ne var?
+7|<CLT=cltMIND>Bu daha ileri gitmeden onun\nendişelerini gidermeliyim...
+8|<CLT=cltMIND>Miu'nun o duvardan geçebildiğine\nhiç şüphe yok.
+9|<CLT=cltMIND>Avatarlarımızdaki ayarlara bakmak\nbunu netleştirecek!
+11|<CLT=cltMIND>Bunun için bir çeşit kanıt\ngöstermeliyim!
+15|<CLT=cltMIND>Çok yaklaşmıştım! Yapamadım.\nGeri itiliyorum! <CLT=cltNORMAL>
+## c04_218_001
+0|Bulmamız 
+1|Bulmamız gereken şey...
+2|<CLT=size2>gereken şey...
+3|Miu'nun <CLT=size2>şapelden\n<CLT=size2>konağa<CLT=size1> <CLT=size2>nasıl\n<CLT=size1>gittiği, değil mi?
+4|Miu'nun şapelden konağa\nnasıl gittiği, değil mi?
+5|O zaman neden
+6|O zaman neden imkânsızdan bahsederek vakit kaybedelim?
+7|imkânsızdan bahsederek vakit kaybedelim?
+8|<CLT=size2>Anlamsız!
+9|Anlamsız!
+10|<CLT=size2>Burada
+11|Burada bambaşka bir yaklaşım denemeliyiz!
+12|bambaşka bir <CLT=size2>yaklaşım
+13|<CLT=size2>denemeliyiz!
+14|<CLT=size2>Bir saniye<CLT=size1> <CLT=size2>dur!
+15|Bir saniye dur!\nAslında hiç de imkânsız değil!
+16|<CLT=size2>Aslında hiç de\n<CLT=size2>imkânsız<CLT=size1> değil!
+17|Ama sen 
+18|Ama sen az önce öyle dedin, değil mi?
+19|<CLT=size1>az önce <CLT=size2>öyle dedin,<CLT=size1> değil mi?
+21|Miu'nun kurduğu o duvar...
+22|<CLT=cltWEAK>Miu'nun <CLT=size2>kurduğu<CLT=size1> <CLT=size2>duvar...
+23|<CLT=size2>sadece
+24|sadece insan olmayan nesnelerin geçmesine izin veriyor!
+25|<CLT=size2>insan olmayan<CLT=size1> nesnelerin
+26|<CLT=size2>geçmesine izin veriyor!
+27|<CLT=size2>İnsanlar<CLT=size1> içinden\n<CLT=size2> geçemiyor.
+28|İnsanlar içinden geçemiyor.
+29|Yani belli ki <CLT=size2>Miu<CLT=size1> 
+30|Yani belli ki Miu o duvardan geçemezdi!
+31|o
+32|<CLT=size2>duvardan
+33|<CLT=size2>geçemezdi!
+34|<CLT=cltWEAK><CLT=size1>Ne de olsa o sadece\nbir <CLT=size2>nesne<CLT=size1> <CLT=size2>değil,
+35|Ne de olsa o sadece bir nesne değil!
+36|değil mi!
+37|<CLT=size2>Anladın mı?
+38|Anladın mı? O zaman bunu bir kez daha gözden geçirelim.
+39|O zaman bunu
+40|<CLT=size2>bir kez daha gözden geçirelim.
+## c04_219_000
+0|Miu'nun değiştirdiği tek şey duvar\ndeğildi...
+1|Avatar ayarlarını da "<CLT=cltSTRONG>insan<CLT=cltNORMAL>"dan\n"<CLT=cltSTRONG>nesne<CLT=cltNORMAL>"ye değiştirdi.
+2|İnsandan nesneye mi?
+3|Yani Sanal Dünya onun avatarını bir\n<CLT=cltSTRONG>nesne<CLT=cltNORMAL> olarak gördü...
+4|<CLT=cltSTRONG>Sadece insan olmayanların geçebildiği<CLT=cltNORMAL>\nbir duvardan geçebilirdi.
+5|B-Bu... doğru mu?
+6|Acele etme, Kaito. Shuichi'nin söylediği\nher şeyi dinlemeliyiz.
+7|Sana zaten söyledim. Ne kadar uğraşırsan\nbize o kadar sorun çıkarıyorsun.
+8|Kendi yardımcının seni yerin dibine sokması\nçoook ezik bir durum!
+9|Kokichi, yeter! Onunla tartışmıyordum.\nSadece açıklıyordum—

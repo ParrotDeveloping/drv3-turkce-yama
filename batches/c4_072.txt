@@ -1,0 +1,61 @@
+@ chap4_text_US
+## c04_213_000
+57|O zaman Miu'nun Sanal Dünya'ya girmemiz\nkonusunda bu kadar ısrarcı olmasının sebebi...
+63|Bizi öldürebilmek için oraya gitmemizde ısrar\netti! Ne kadar sinsi biri!
+64|Gittiği için üzgündüm ama şimdi ne\ndüşüneceğimi bilmiyorum...
+65|Nii-hihihi! Süpeeer!\nGüvenilen bir arkadaş tarafından sırtından bıçaklanmak...
+66|Gördünüz mü? İşte ideal eğlenceli durum!\nArtık *gerçek* bir sınıf duruşmasına başlayabiliriz!
+67|Hey, Kokichi biraz... Monokuma gibi konuşuyor.
+68|Hm, öyle mi? Hiç de ona benzemiyorum.
+69|Hayır... Tıpkı Monokuma gibisin.
+70|İkiniz de korkaksınız. Asla doğruyu söylemiyor\nya da gerçek yüzünüzü göstermiyorsunuz.
+71|Dur, korkak mı? Bazen ilginç şeyler\nsöylüyorsun, Kaito.
+72|Gülümsemek, maske takmak,\ngerçekte ne düşündüğünü asla söylememek...
+73|Bu tür bir korkaklık tıpkı Monokuma'nınki gibi!
+74|Babacık, sana korkak diyorlar!\nBir şey yapmayacak mısın?
+75|Evet, evet... Sadece imza gülüşümü\nyapmam lazım, değil mi?
+76|Puhuhuuu... İşte, yaptım.
+77|Hevesini tamamen kaybetmiş... Eski şöhretine\ntutunan tek hitlik bir şarkıcı gibi...
+78|Ghhh...! B-Başım...!
+79|Dinle beni, Kokichi!
+80|Bu "şüphe oyunu" saçmalığının canı cehenneme!\nBunu asla kabullenmeyeceğim!
+81|Ben sadece herkese inanacağım!
+82|Arkadaşlarımdan şüphelenmek yerine onlara\ninanarak gerçeği bulacağım!
+83|Eh, bu oyunu böyle kazanabileceğini\ndüşünüyorsan... buyur bakalım.
+84|Tabii ki kazanabilirim.\nSenin iznine ihtiyacım yok.
+85|Daha ne kadar tartışacaksınız?\nAcele edip devam edelim.
+86|Faili bulamazsak hepimiz öleceğiz.\nBiliyor musunuz?
+87|Ah, haklısın. Özür dilerim.
+88|Faili aramaya başlayacaksak Kokichi'nin\nanlattıklarıyla başlayalım.
+89|Ha? Benim anlattıklarım mı?
+90|Miu ile buluşacaktın ama sonunda\nkurban o oldu...
+91|Yani katilin sen olduğunu düşünmemiz\ngayet doğal, değil mi?
+92|Cevabım şu: Miu ile hiç buluşmadım.
+93|Hm? Buluşmadın mı?
+94|Onunla buluşmak için çatıya çıkmaya çalıştım\nama kapı kilitliydi.
+95|Ama <CLT=cltSTRONG>kilit açmak<CLT=cltNORMAL> senin uzmanlık alanın değil mi?\nKolayca açabilmen gerekirdi.
+96|Avatar bedenimle kilit açamadım.\nBunun için aletlerim de yoktu.
+97|Ayrıca buluşma için bile olsa çatıya\nhiç gitmedim.
+98|Hatırlıyorum... aramaya ilk başladığımızda\nsen ve Gonta birlikte gitmiştiniz.
+99|Ama çatının kapısı gerçekten kilitli\nmiydi?
+100|Çıkış yapmadan önce çatıdayken\nkapı kilitli değildi.
+101|Haaa? Ben nereden bileyim?
+102|O zaman çatının kapısını kim kilitledi?
+103|Söyledim ya, ben nereden bileyim?
+104|Ben çatıya gittiğimde kilitli değildi,\nyani yalan söylüyor olmalısın.
+105|Yalan söylesem ne işime yarar?\nBen de ölmek istemiyorum, biliyor musun!
+106|Fail sensen yalan söylemenin\nsana çok faydası olur.
+107|Ah! Hı-hı, anlıyorum! Bunu fark etmemiştim!
+108|Bu ne biçim cevap!?\nBu çok şüpheli!
+109|Bekleyin, şimdi bunu tartışmanın anlamı yok.\nGerçek eninde sonunda ortaya çıkacak.
+110|Ona gelmeden önce Miu'nun ölümünün\nardındaki gerçeği bulmalıyız.
+111|...Gerçek mi?
+112|Ölümünü çevreleyen gizemli koşullar\nvardı.
+113|Önce onları anlamlandırmalıyız.
+114|Vay, Shuichi! Bu oyunu iyi\nbiliyorsun!
+115|Evet, sıkı çalışmaya devam et!\nHayatlarımızın kaderi senin ellerinde!
+116|Peki... bu tuhaf koşul ne?
+117|Kokichi buluşma yerini seçenin Miu\nolduğunu iddia ediyor...
+118|Ama şapelden konağın çatısına nasıl\ngittiğini merak ediyorum.
+119|Anlıyorum. Konakla şapeli birbirine bağlayan\nköprüyü nehre bizzat Miu attı.
+121|Öyleyse Miu çatıya hiç gitmemiş\nbile olabilir...

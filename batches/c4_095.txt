@@ -1,0 +1,65 @@
+@ chap4_text_US
+## c04_243_000
+104|Shuichi'yle uyumumuz artık tam yerinde,\no yüzden kalan şüphelilere geçelim.
+105|Gonta, Tsumugi, Shuichi ve ben...\nTsumugi ve Shuichi'nin üstü çizilebilir.
+106|Ama bunun sebebi ne?
+107|Çatıya çıkmadık
+108|Tsumugi ve ben alanı ararken çatıya\nçıkmadık...
+109|Eh, bu doğru.\nAma sebep o değil.
+110|Olay olduğunda siz ikiniz ne\nyapıyordunuz?
+112|Sağlam mazeretlerimiz var
+113|Miu'yu gördük
+114|Miu'yu konakta gördük...
+115|Non, non... Onu sadece Tsumugi\ngördü...
+116|Sen görseydin fail olman mümkün\nolurdu!
+119|Kendinden bahsetmek seni rahatsız mı ediyor?\nNeden sessizsin?
+121|<CLT=cltMIND>Tsumugi ile benim fail\nolamamamızın sebebi...
+122|Tsumugi ve ben birbirimizin mazeretinin\ntanığıyız.
+123|İkiniz de Miu'nun şapel duvarına çarpmasını\nduydunuz, değil mi?
+124|Fail o sırada kesinlikle çatıdaydı,\nçünkü Miu'yu aşağı kaydırdı.
+125|Bu yüzden Shuichi ve Tsumugi fail\nolamaz.
+127|Geriye kalan şüpheliler sadece Gonta\nve ben...
+128|O zaman fail sensin!
+129|Umutlandırdığım için üzgünüm ama bunun imkânsız\nolduğunu zaten açıklamadım mı?
+131|Kokichi çatıya çıkmadı
+132|Kokichi çatıya çıkmadı, yani—
+133|Ah-haha... ne diyorsun sen?\nBunu daha önce zaten çürüttün, değil mi?
+135|Kokichi Miu'nun hedefiydi
+136|Kokichi Miu'nun hedefiydi, yani—
+137|Evet, bu doğru.\nAma bununla ilgili daha net bir sebep var.
+139|Miu'yu öldürmüş olamazdı
+141|Ne oldu?\nBundan az önce bahsettik!
+143|<CLT=cltMIND>Kokichi'nin fail\nolamamasının sebebi...
+144|<CLT=cltSTRONG>Miu ona dokunsa olduğu yerde donardı<CLT=cltNORMAL>.\nKokichi onu boğabilecek durumda değildi.
+145|O zaman geriye tek kişi kaldı.\nVeee... o kimdi bakalım?
+146|Iı... Iııı...
+147|Eeee? Kim?
+148|Cevap verme, Shuichi!\nBuna cevap vermene gerek yok!
+149|Bunların hepsi Kokichi'nin tuzağı!
+151|<CLT=cltMIND>Geriye sadece bir şüpheli kaldı.\nBunu sadece bir kişi yapmış olabilir...
+152|Hadi artık.\nBen olamayacağımı az önce söyledik.
+153|Epey inatçısın, Shuichi.\nBir de kendine dedektif diyorsun?
+155|Ağzını kapalı tutmak işe yaramayacak.\nHadi! Herkesin yüzüne vur artık!
+156|Herkesin o kadar bayıldığı gerçeği!
+158|Bu kadar yol geldikten sonra bunu diyemezsin.\nBunu yapabilecek sadece bir kişi var.
+160|Bu cinayeti işleyebilecek tek\nkişi kim?
+161|B-Bu... bu... Gonta.
+162|Ş-Shuichi!?
+163|Evet! Cinayeti işleyebilecek tek kişi\nGonta!
+164|Artık anladınız, değil mi? Hepimizin ulaşmaya\nçalıştığı gerçek buydu.
+165|O kadar çok istediğiniz şey!\nHiç yalan içermeyen bir gerçek!
+166|Miu Iruma'nın katili... Gonta Gokuhara!
+168|G-Gerçekten mi...?\nGonta... gerçekten yaptı mı...?
+169|Hay Allaaah, tepkin gerçekten bu mu?\nÇıldırsaydın eğlenceli olurdu.
+170|...Ama her şeyi unuttun. Eh, ne yapalım.
+171|Cinayetini hatırlamayan bir fail epey\nilginç, o yüzden hiç yoktan iyidir.
+172|Gonta hatırlasaydı kılığı çok çabuk açığa\nçıkardı. Özellikle de aptal olduğu için.
+174|D-Dur! B-Ben hâlâ bunu kabul etmedim!\nBu... Kokichi'nin tuzağı olmalı...
+175|Ben hâlâ Gonta'ya inanıyorum!\nO öldürecek türden biri değil!
+177|Bunu sana milyon kez söyledim, Kaito.\nDuyguları kullanarak akıl yür—
+178|Kanıt mı istiyorsun!? Kanıtın bende!
+180|Tsumugi ve Shuichi konakta Keebo'nun\nsesini duyduktan sonra dışarı koştular.
+181|Ve dışarıda kimi gördüler?
+185|Gonta'yı.
+186|Kokichi kendisi söyledi...
+187|Miu'nun avatarı şapel duvarına çarptığında\nfail çatıda olmalıydı.

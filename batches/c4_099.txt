@@ -1,0 +1,65 @@
+@ chap4_text_US
+## c04_246_000
+72|Keebo'nun şapelde, bizim de konakta duyduğumuz\n<CLT=cltSTRONG>çarpma sesi<CLT=cltNORMAL> buydu.
+73|Miu'nun duvarı konakla şapelin aslında\nyan yana olduğu gerçeğini sakladı.
+74|Bu yüzden Tsumugi ve ben çarpmayı\nkonaktan duyabildik!
+75|Son adım olarak fail çatıdan inmek\nzorundaydı.
+76|Biz konakta olduğumuz için merdivenleri\nkullanamazlardı yoksa görülürlerdi.
+77|Bu yüzden çatıdan kaçmak için <CLT=cltSTRONG>tuvalet\nkâğıdını<CLT=cltNORMAL> tekrar kullandılar.
+78|Tuvalet kâğıdını çatıdaki <CLT=cltSTRONG>dürbüne\n<CLT=cltNORMAL>astılar...
+79|...ve aşağı inmek için onu <CLT=cltSTRONG>bir ip gibi<CLT=cltNORMAL>\nkullandılar.
+80|Fail güvenle yere indikten sonra tuvalet\nkâğıdını geri almak için çekti.
+81|Onu banyoya geri götürecekti ama biz\nkonaktan çıkarken bize rastladı.
+82|Panik içinde fail tuvalet kâğıdını yakınlarda\nbir yere <CLT=cltSTRONG>fırlattı<CLT=cltNORMAL>.
+83|O küçük hata olmasaydı...
+84|...bu davayı asla çözemeyebilirdik, çünkü\n<CLT=cltSTRONG>fail hatırlamıyor<CLT=cltNORMAL>.
+85|Unuttuğun gerçek bu!\n<CLT=cltSTRONG>Ultimate Böcekbilimci Gonta Gokuhara<CLT=cltNORMAL>!
+86|Mavi kablo sağda\nKırmızı kablo solda
+87|Zehir şişesi
+88|Sanal Dünya'nın haritası
+89|Tabelayı nehre attı
+90|"Dış dünyanın sırrını" arayan\nKaito Momota
+91|"Dış dünyanın sırrını" arayan\nTsumugi Shirogane
+92|"Dış dünyanın sırrını" arayan\nShuichi Saihara
+93|"Dış dünyanın sırrını" arayan\nfail
+94|Cep telefonu
+95|Kaito Momota çıkış yaptı
+96|Miu gizlice bir çekiç sokuyor
+97|Yırtılmayan tuvalet kâğıdı
+98|Kızak gibi kullanılan kafes
+99|Dürbün ve tuvalet kâğıdı
+100|Fail sağ girişe hangi renk kabloyu\ntaktı?
+101|Miu, Shuichi'nin laboratuvarından ne getirdi?
+102|Sanal Dünya'daki konağın giriş salonunda\nne asılıydı?
+103|Diğerleri konağa giderken Miu ne\nyaptı?
+104|Çatıyı kim inceliyordu?
+105|Yemek salonunu kim inceliyordu?
+106|Mutfağı kim inceliyordu?
+107|Konağın dışını kim inceliyordu?
+108|Miu konağa vardığında hangi nesneyi\nkullandı?
+109|Kim istemeden çıkış yaptırıldı?
+110|Miu'nun Kokichi'yi öldürmek için getirdiği\nsilah neydi?
+111|Fail Miu'yu boğmak için ne kullandı?
+112|Cesedi çatıdan taşımak için depodan\nne çıkarıldı?
+113|Fail çatıdan nasıl kaçtı?
+## c04_247_000
+0|Gonta... ulaştığımız gerçek bu.
+1|Ö-Özür dilerim... Gonta pek anlamıyor.\nÇünkü... Gonta akıllı çocuk değil...
+2|Ama... herkes hemfikirse o zaman... herkes\nmuhtemelen haklıdır.
+3|Gonta... herkese güveniyor!
+6|Gonta Miu'yu öldürdü... her şeyi unuttu...\nGonta kötü bir şey yapmadığını bile düşündü...
+7|Ve sonra Gonta suçu başkasına atmaya\nçalıştı ve herkese acı çektirdi!
+8|N-Neden...?
+9|Gonta neden böyle korkunç bir şey yaptı!?
+11|Gonta... Bu senin suçun değil.
+12|Bu Kokichi'nin suçu.\nO... Gonta'yı kandırmış olmalı.
+13|Haaa? Onu hiç de kandırmadım.
+14|Ona girmeden önce Oylama Vakti!\nÖnce sınıf duruşmasını bitirmeliyiz.
+15|Ama... bu doğru cevap mı?\nKokichi tarafından kandırılmıyoruz, değil mi?
+16|Bir kerelik... keşke kandırılıyor olsaydık.
+18|Ha? Şimdiden mi topluyoruz?
+19|Hmmm... Ne kadar keyif kaçırıcı bir son.\nÖnceki Oylama Vakitlerinin coşkusu yok...
+20|Eh, bunca öldürme oyunundan sonra sanırım\neninde sonunda olacaktı!
+21|Böylesi daha iyi. Bu öldürme oyunu bebek\niçin kötü bir etki.
+22|Aman, Monotaro. Bir baba gibi görünmeye\nbile başladın.
+23|Evet! Bebek için kendimi\ntoparlamalıyım!

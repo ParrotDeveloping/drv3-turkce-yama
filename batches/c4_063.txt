@@ -1,0 +1,63 @@
+@ chap4_text_US
+## c04_104_265
+43|İşin zor olmalı, Shuichi. O itici herif\nhep seni rahatsız ediyor...
+44|Yardımıma ihtiyacın olursa beni çağır! Onu\nsusturup yoluna bir daha çıkmamasını sağlarım!
+45|Miu kesinlikle mükemmel değildi... ama bu\nöldürülmeyi hak ettiği anlamına gelmiyor.
+46|Ona olanı kimse hak etmez...\nTek bir kişi bile.
+47|Bu sefer de sana güveneceğiz,\nBay <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>!
+48|...Unutmadın, değil mi?\n<CLT=cltSTRONG>Kim<CLT=cltNORMAL> olduğunu hatırla.
+49|Bunu asla unutmadığından emin ol.
+50|Bu sefer... gerçekten son olacak.\nOlmazsa...
+55|<CLT=cltMIND>Kendimi toparlamalıyım!\nYeteneğimi kullanma zamanı şimdi!
+58|Tamam, gidelim...
+60|<CLT=cltMIND>Sekizimiz asansöre bindik.
+61|<CLT=cltMIND>Kapı arkamızdan kapandı.
+62|<CLT=cltMIND>Ve önceki tüm seferlerde olduğu gibi\naşağı indik.
+63|<CLT=cltMIND>Ölüm sessizliği vardı.
+64|<CLT=cltMIND>Duyabildiğim tek ses kulaklarımda\natan kalbimdi.
+65|<CLT=cltMIND>Vücudum titriyordu...
+66|<CLT=cltMIND>Kontrol etmeye çalıştıkça\ndaha da kötüleşiyordu...
+67|<CLT=cltMIND>Buna alışmanın hiçbir yolu yok, gerçekten.\nÖlüm korkusuna.
+68|<CLT=cltMIND>Hepimiz onunla savaşıyor, cesur\nolmaya çalışıyorduk.
+69|<CLT=cltMIND>Hepimiz kendi idamımıza gidiyormuş\ngibi hissediyorduk.
+70|<CLT=cltMIND>Hayır, idam değil.
+71|<CLT=cltMIND>Hayatta kalma irademizin bir sınavı!
+## c04_104_333
+0|<CLT=cltMIND>Sonunda asansör durdu ve\nkapılar açıldı.
+1|<CLT=cltMIND>Ve açıklayamasam da\nvücudumun titremesi durdu.
+2|Hoş geldiniz! Hadi boş bir kürsünün\narkasına geçin!
+4|Kıçınızı kımıldatın... Babacığı bekletmeye devam\nederseniz size ne yapacağımı görmek istemezsiniz.
+5|Dur... Normale mi döndü?
+6|Ha? Artık arkadaş değil misin?
+7|Siz pislikler Monotaro'nun unutkanlığını kullanıp\nonunla arkadaş olarak epey kurnaz hissediyor olmalısınız...
+8|Arkadaş olduğumuza kendi kendine\nkarar vermişti...
+9|Ama... artık Monotaro'yu kandırmanıza izin\nvermeyeceğim, çünkü o çoktan unuttu...
+10|Babacığın tarafında olduğunu unutmuş\nolabilir...
+11|Ama şimdi de Babacığın tarafında olduğunu\nunuttuğunu unuttu!
+12|...Benim sayemde, çünkü onu döve döve\ndolgusunu çıkardım!
+13|Nyeeeh... ne kafa karıştırıcı.\nNeyse, boş ver.
+14|Ben... hatırlayamıyorum ama... sizden biri\nfail, değil mi?
+15|Ben... bir katille aynı odada olamam...\nTehlikeli...
+16|Gidip kendimi odama kilitleyeceğim!\nBelki bir barikat bile kurarım!
+17|Bu da başka bir ölüm bayrağı!
+18|Hadi başlatalım; kara eller ile lekesizlerin\nkarşı karşıya geldiği kalp çarptıran heyecanı!
+19|<CLT=cltMIND>Her zamanki gibi kürsülerimize geçtik.
+20|<CLT=cltMIND>Ne yapmamız gerektiğini biliyorduk.\nİçimizde itiraz edecek güç kalmamıştı.
+21|<CLT=cltMIND>Bu artık dördüncü sefer.
+22|<CLT=cltMIND>Dördüncü sınıf duruşması\nbaşlamak üzereydi.
+23|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Mucit<CLT=cltMIND> Miu Iruma...
+24|<CLT=cltMIND>Bize çok sorun çıkarmış olabilir...\nama hepimiz onu özlüyoruz.
+25|<CLT=cltMIND>Ne de olsa bu bir trajedi.
+26|<CLT=cltMIND>O kameralarla bana ve Kaede'ye yardım etti,\nKeebo'ya ek fonksiyonlar kazandırdı...
+27|<CLT=cltMIND>Sonuçta... bizim için çok şey\nyapmıştı.
+28|<CLT=cltMIND>Ve onu öldüren fail...
+29|<CLT=cltMIND>aramızdan biri.
+30|<CLT=cltMIND>Onun kim olduğunu bulmalıyım.
+31|<CLT=cltMIND>Hayatta kalmak için faili\nbulmalıyım.
+## c04_201_000
+0|Öhöm! Şimdi temel bir açıklamayla\nbaşlayalım...
+1|...Eh, boş ver. Bu yorucu.
+2|Daha çok motivasyona ihtiyacın var!
+3|Var... gerçekten, gerçekten var.\nŞimdi bu sınıf duruşmasına başlayalım.
+4|Başlamadan önce, pek çoğumuz kalmadığı\niçin bir şey sormak istiyorum...
+5|Oylar <CLT=cltSTRONG>iki birinciyle<CLT=cltNORMAL> sonuçlanırsa\nne olur?

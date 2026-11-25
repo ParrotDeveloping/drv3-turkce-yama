@@ -1,0 +1,56 @@
+@ chap4_text_US
+## c04_223_000
+112|Şapelin ve konağın yanındaki duvarlar ayrı\ndeğil! Onlar <CLT=cltSTRONG>aynı duvar<CLT=cltNORMAL>!
+113|Aynı... duvar mı?
+114|Sadece nehir değil, duvarların\nkendileri de bağlı.
+115|Bunu iki ayrı duvar olarak değil, Y eksenine\nparalel tek bir duvar olarak düşünün.
+116|O tek duvar bütün Sanal Dünya'yı\nbölüyor.
+117|Fikir şu: şapelin yanındaki duvardan geçiyorsun\nve konağın yanından çıkıyorsun.
+118|Nii-hihi... Her şey birbirine bağlanmaya başlıyor.
+119|Gördün mü, söylemedim mi?\nHer şey *gerçekten* bağlı.
+120|Kahretsin, Kokichi! Söyle şunu artık—
+121|Şşşş, sorun yok!\nDaha önemlisi, bu son düzlük!
+122|Hem nehir hem duvar bağlıysa\nsırrı bulabilirsin.
+123|Shuichi, Sanal Dünya'nın ardındaki sırrı\nzaten biliyorsun, değil mi?
+124|<CLT=cltMIND>Sır, ha?
+125|<CLT=cltMIND>Evet... sanırım bunu\naydınlatmalıyız.
+126|<CLT=cltMIND>Sanal Dünya'nın gizemini\nçözmeliyiz!
+## c04_225_000
+0|Evet, işte bu!\nSanal Dünya bir <CLT=cltSTRONG>döngü<CLT=cltNORMAL>!
+1|Döngü mü?
+2|Tıpkı eski oyunlardaki gibi, değil mi!?\nMesela...
+3|Bir karakter ekranın sol tarafından çıkıp\nsağ tarafından yeniden belirdiğinde.
+4|Evet, aynen. Sanal Dünya'nın kenarları\nkesintisiz bir döngüde birbirine bağlı.
+5|Sanal Dünya... döngü mü?
+6|N-Ne oluyor böyle!?
+7|Bu doğruysa tabelanın akıntıya kapılma\nşeklini açıklar.
+8|Nehrin aşağısındaki duvarda kayboldu, aynı\nduvarın yukarısından çıktı...
+9|ve kayalara takılana kadar akıntıyla\nsürüklendi.
+10|Miu duvarı eklemeden önce dünya\nnasıldı...?
+11|Aslında Y ekseninde hiç duvar yoktu ve\nX ekseni döngü olacak şekilde ayarlanmıştı.
+12|C-Ciddi misin? Bir bilgisayar programı\nolsa bile bu çok çılgınca değil mi?
+13|Döngüye giren bir dünya... Bu sihirden\nbile daha olağanüstü...
+14|Ama en azından sıkıcı bir cevap değil.\nOlan her şeyi de açıklıyor.
+15|Ha? Her şeyi açıklamıyor,\ndeğil mi?
+16|Çünkü o sesi ya da Keebo'nun sesini neden\nduyduğumuzu hâlâ bilmiyoruz.
+17|Evet, ses harita yükleme noktasını\ngeçmiyor.
+18|Aslında dünyanın bir döngü olduğunu bilirsek\nbunu da açıklayabiliriz.
+20|Evet, ama önce döngünün *nerede* başladığını\nnetleştirmeliyiz.
+21|Döngünün başladığı yer...
+22|Konağın ve şapelin yanındaki duvarlarda\ndöngüye girmiyor mu...?
+23|Her zaman değil. Konağın içinden şapeldeki\nbir sesi duyduysak o zaman döngü...
+24|Ah... orada.
+25|Ne? Orada mı?
+26|X ekseni döngüye giriyorsa döngü noktası\ndünyayı dikey olarak kesmez mi?
+28|Döngü konağın batısındaki ormanda\nbaşlıyor.
+29|Ormanın konumu düşünülünce döngü noktası\niçin tuhaf bir yer değil mi?
+31|Belki döngü şapeldir?
+32|Döngü noktası tek bir yerle sınırlı olmak\nyerine bütün dünyayı kesmez mi?
+34|Belki döngü konağın çatısıdır?
+37|Belki döngü konağın merdivenleridir?
+40|Belki döngü konaktır?
+43|Döngü nehirde başlıyor!
+44|Ama tabelayı kullanarak nehri geçtiğimizde\nhiçbir şey olmadı, değil mi?
+45|Haritadaki geçiş noktasından geçtiğinde\nhiçbir şey göremez ve duyamazsın...
+48|Konağın ve şapelin yanındaki duvar değil mi?\nYanlışsa lütfen nedenini söyle.
+50|Döngü noktası nerede?

@@ -1,0 +1,52 @@
+@ chap4_text_US
+## c04_100_029
+536|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Miu'nun Cesedi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+539|<CLT=cltMIND>Miu'nun cesedini bulan kişi ilk\nçıkış yapan Keebo'ydu.
+540|<CLT=cltMIND>O sırada kaskın hâlâ başında\nolduğunu söyledi.
+541|Onun böyle acı çekmesine ne sebep olmuş olabilir...?
+542|Ölüm sebebi neydi?
+543|<CLT=cltMIND>Bu, Sanal Dünya'ya girmek için başımıza\ntaktığımız cihaz.
+544|<CLT=cltMIND>Bazı kasklarda kablolar hâlâ takılı,\nbazılarında çıkarılmış...
+545|Çıkış yaptıktan sonra çıkarıldıklarından\neminim...
+546|<CLT=cltMIND>Ah, işte bu. Kablolar...
+547|<CLT=cltMIND>Bilgisayardaki iki kabloyu kasklarımıza\ntakmamız gerekiyordu.
+548|<CLT=cltMIND>Kırmızı <CLT=cltSTRONG>bilinç<CLT=cltMIND> için,\nmavi <CLT=cltSTRONG>hafıza<CLT=cltMIND> için.
+549|<CLT=cltMIND>Bunları karıştırırsan...
+552|Belki bitki olursun, belki biriyle beden\ndeğiştirirsin... Kim bilir!?
+553|Bir bozulma...
+554|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Cihaz Talimatları<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+557|<CLT=cltMIND>Kafamı kurcalayan kablolar...
+560|<CLT=cltMIND>Yer değiştirilirlerse\nbozulma olabilir.
+561|<CLT=cltMIND>Miu bize böyle söylemişti...
+562|<CLT=cltMIND>Sanırım burada inceleyebileceğim\nher şeyi inceledim.
+563|Olay yerini incelemeyi bitirdin mi?\nEe, failin kim olduğunu biliyor musun?
+564|Ah, hayır...\nBurası aslında olay yeri olmayabilir.
+565|<CLT=cltMIND>Evet... Sanal Dünya'daki yaralar gerçek\ndünyada ölümcül olabilir.
+566|<CLT=cltMIND>Yani Sanal Dünya'da öldürülmüş\nolma ihtimali var.
+567|<CLT=cltMIND>Bu da demek oluyor ki incelenecek\nbir sonraki yer...
+568|...Sanal Dünya. Oraya tekrar gitmeliyiz.
+570|Az önce aklını okudum, değil mi?\nOkudum, değil mi? Değil mi? Değil mi?
+571|Öyleyse ben de geliyorum!
+572|Ah harika, o da geliyor...\nBenden gerçekten hoşlanıyor olmalısın, ha?
+573|Çık, ne dersen de.\nSeninle kaybedecek vaktim yok!
+574|Sanal Dünya'ya geri dönersek\nyeni ipuçları bulabiliriz.
+575|Onlarla adımı temize çıkarabilirim!
+576|...Ben de size katılabilir miyim?
+577|Ben de Sanal Dünya'yı tekrar incelememiz\ngerektiğini düşünüyorum.
+578|Neden hep birlikte gitmiyoruz!?
+579|Ah! Yani yine o avatar mı olacağım!?
+580|Ha? Avatarı aslında sevdin mi yoksa?
+581|Ben burada kalacağım. O hâlâ programı\nanaliz etmenin ortasında.
+582|Gonta... burayı biraz daha arayacak.\nŞimdi uyumanın zamanı değil.
+583|Bizim yaptığımız şey o değil... Neyse, sorun değil.
+584|O zaman ben de burada kalacağım.
+586|Hm, şaşırdın mı? Ortağın olmadan\nyalnız mı kalacaksın?
+587|Ama ben de meşgulüm, biliyor musun? Maki bir hile\nyapmaya kalkarsa diye onu izlemem lazım.
+588|...Hile mi?
+589|Eh, sen ve Kaito epey yakınsınız, o yüzden\nonun için bir hile yapabilirsin, değil mi?
+591|...İyi ki Gonta benimle. Bakışın tek başına\nkaldıramayacağım kadar korkutucu!
+592|Gonta beni bir katilden korumak için\nhayatını riske atar.
+594|Hey! Böyle saçma sapan şeyler söylemeye\ndevam edersen seni yörüngeye tekmelerim!
+595|Sorun değil... Sen onu boş ver de\nacele edip Sanal Dünya'ya git.
+596|Kaito... şimdilik davayı çözmeye\nodaklanalım.
+597|Çık... peki.

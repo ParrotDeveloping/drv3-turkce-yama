@@ -1,0 +1,56 @@
+@ chap4_text_US
+## c04_018_209
+68|...Bu mantıksız. Gerçeklikten kaçmanın\nhiç zamanı değil.
+69|Bir oyun dünyasında yaşamak ilginç bir fikir\ngibi ama... burada sonsuza dek kalmak istemem.
+70|Soğuğu sevmiyorum. Bu Sanal Dünya tropik\nbir ada olsaydı daha iyi olurdu.
+71|Yani, benim yüzüm bu kadar çirkin değil!
+72|N-Ne oluyor lan millet!? Cidden mi...!?
+73|Buna pişman olacaksınız!
+74|Aptal mısın? \nZaten pişmanım!
+75|Buraya... gelmemeliydim.
+76|Hadi hadi millet. Burasının harika olmadığını\nbiliyorum ama aramaya başlayalım.
+77|Ugh... grghggh! B-Buna pişman olacaksınız!
+78|<CLT=cltMIND>Pişman mı? Ne demek istiyor?\nÖyle uğursuz şeyler söylüyor ki...
+79|<CLT=cltMIND>Sanırım bir şapelde org olması\nmantıklı.
+80|<CLT=cltMIND>...Kaede de muhtemelen orgu iyi\nçalabilirdi.
+82|<CLT=cltMIND>Burası gerçekten dağınık...
+83|<CLT=cltMIND>Bir yığın kitap ve afiş var, bir de\nNoel süsüne benzeyen şeyler...
+84|<CLT=cltMIND>Bu <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltMIND>\nsaklamak için mi?
+85|<CLT=cltMIND>Bu tam Monokuma'nın yapacağı bir şey...
+86|Shuichi! Şapelin etrafını aramayı biz\nhallederiz!
+87|O ev temizlik robotlarından fersah fersah\nüstün olduğumu size göstereceğim!
+88|Ah, tamam. Şapeli sana bırakıyorum, Keebo.
+93|Nyeeeh...\nŞimdiden yoruldum...
+94|Shuichi, yardım etmek istersen\nçekinme, tamam mı?
+95|Ah, sadece etrafa bakıyordum...\nGidip konağı inceleyeceğim.
+## c04_018_211
+0|Burada ilgi çekici bir şey yok gibi.\nVe her durumda...
+2|Silah olarak kullanılabilecek tehlikeli\nbir şey göremiyorum.
+3|<CLT=cltMIND>Ayrıca bu bir simülatör, değil mi?\n*Gerçekten* ölmeyiz, değil mi?
+4|<CLT=cltMIND>Belki bütün silahlar silindiği için\nraflar boş.
+5|<CLT=cltMIND>Burada sadece boş bir kutu ve\nbiraz kafes var.
+6|<CLT=cltMIND>Rulo halinde halı, ha?
+7|<CLT=cltMIND>...Güvenli görünüyor.
+## c04_018_215
+0|<CLT=cltMIND>Burası banyo.
+2|<CLT=cltMIND>...Avatarlar tuvalete gitmek\nzorunda mı?
+3|<CLT=cltMIND>Normal tuvalet kâğıdı. Şüpheli bir\nşey göremiyorum.
+4|<CLT=cltMIND>Ama... hiçbir şeyin kırılmadığı bir dünyada\ntuvalet kâğıdı da yırtılmıyor mu...?
+6|<CLT=cltMIND>Avatarlar tuvaleti kullanmak zorunda mı...?\nÖyleyse bu önemli bir soru...
+## c04_019_200
+0|Herkes köprüyü geçti mi? Tamam o zaman,\nhep birlikte konağa gidelim.
+1|Eyvah, elim kaydı.
+2|Ah! Ne yapıyorsun!?
+3|Sadece sizi uğurlamaya geldim... ve\nelim yanlışlıkla kaydı!
+4|Belli ki bilerek yaptın!
+5|H-Hiç de bilerek değildi!\nK-K-Kazaydı!
+6|Böyle boktan konuşmaya devam edersen\nsadece çirkin kaltakları çekersin!
+7|Hayatının geri kalanını çirkin kaltaklarla\nçevrili mi geçirmek istiyorsun, salak!?
+8|Çık... bu hakaret bile değil.\nÇirkin insanları çekmekle meşhurumdur!
+9|Ne için kavga ediyorlar?
+10|Şimdiye kadar... bir sürü insanla tanıştım ama\nhiç bu kadar sorunlu birine rastlamadım...
+11|Cidden, o kız tam bir baş belası!
+12|Ah, pardon... Burada bir kişi daha vardı.
+13|Şapeldekiler ne yapacak?\nArtık karşıya geçmenin hiçbir yolu yok.
+14|Ah, haklısın. Sadece konaktaki salondan\nçıkış yapabiliyorsun.
+15|Eh, belki Miu sonra düzeltebilir. Hadi\nkonağa gidelim artık.

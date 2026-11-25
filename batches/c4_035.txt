@@ -1,0 +1,58 @@
+@ chap4_text_US
+## c04_018_207
+75|Ah, hayır... boş ver. Az önce söylediğimi unut.
+76|Gitmeliyiz. Geç kalırsak Miu bizi küfürlerle\nyerden yere vurur.
+## c04_018_208
+0|Bakın, size hazırladığım harita orada.
+1|İnceleyin, Sanal Dünya'yı Tsumugi'nin\nensesini bildiği gibi bileceksiniz!
+2|Ha? Enseme ne olmuş?\nO noktanın... hassas olduğunu nereden bildin?
+3|T-Tamam... anlıyorum.\nEnsen demek, ha?
+4|Neden bununla bu kadar ilgileniyorsun?\nİğrençsin...
+5|Önce haritaya bakalım.\nBu dünya hakkında daha çok şey bilmeliyiz.
+6|Kokichi için yapabileceğimiz bir şey yok...\nÇatıya bakalım.
+7|Gonta ne yapacağını bilmiyor... Gonta zayıfsa\nyararlı olamaz...
+8|Tsumugi'nin hassas noktasını mı\ninceliyordun...?
+9|Kaito, sapıksın! Gizli sapık olduğunu\nhep biliyordum!
+10|N-Ne diyorsun sen!? Öyle sinsi biri\nolmadığımı biliyorsun!
+11|B-Bekle, yani açık açık sapık\nolduğun anlamına mı geliyor...?
+12|İki harita mı? Sanal Dünya gerçekten bu kadar büyük mü?
+13|Kokichi "<CLT=cltSTRONG>Böcek Buluşması<CLT=cltNORMAL>"nda yaptığı gibi\nyine Gonta'yı yönlendirmeye çalışıyor...
+14|Çok başa bela biri...
+15|Bu bina sandığımdan büyük... \nBirkaç farklı odası var gibi.
+16|Ama Kokichi'yi yalnız bırakmak gerçekten sorun değil mi?
+17|<CLT=cltSTRONG>Dış dünyanın sırrını<CLT=cltNORMAL> önce o bulursa\nsorun olmaz mı?
+18|Eh, muhtemelen sorun olmaz. Sonuçta\nGonta onunla...
+19|Saklanmış ya da kurcalanmış olabileceğini\nsanmıyorum.
+20|Haklısın... Tamam o zaman, başlayalım.
+21|Çatıya bakalım. Önce buradaki tüm\nalanlara bakmalıyız.
+23|...Tenko gibi davranmaya çalışmıyorum ama\nerkekler gerçekten bununla ilgili çok hayal kuruyor.
+24|Yoksa...
+26|...Ne? Çabuk haritaya bak.
+27|Bir tuzak...
+28|Çatıda da tuzaklar olabilir.\nDikkatli olmalıyız.
+29|Enseme dair şeyleri sır olarak tutalım.\nİnternete koyma, tamam mı?
+30|Yayılırsa insanlar fotoğraf çekimlerinde\nbana şaka yapmaya başlar...
+31|Eteğinin altına bakmak mı...?
+32|Miu ağzını her açtığında bir sürü\ngereksiz çöp dökülüyor...
+33|Harita orada demedim mi!?\nÇabuk ol lan, azgın!
+34|<CLT=cltMIND>Burada biri büyük biri küçük iki harita\nasılı. Küçük olana bakayım.
+35|<CLT=cltMIND>Bu haritada "<CLT=cltSTRONG>konak<CLT=cltMIND>"\nyazıyor.
+36|Bu, şu an içinde olduğumuz bina olan\n<CLT=cltSTRONG>konağın<CLT=cltNORMAL> haritası.
+37|Burası giriş salonu, telefonun olduğu\noda da salon.
+38|Yemek salonu, mutfak ve banyo da\n1. katta.
+39|İkinci kat yok...\nama bir çatı alanı görüyorum.
+40|Çatı, ha? Sanırım iyi bir manzarası olur.\nSonra gidip bakalım.
+41|Evet, iyi fikir.
+42|<CLT=cltMIND>Ama ondan önce bu büyük haritaya\nda bakmalıyım.
+43|<CLT=cltMIND>Bütün Sanal Dünya'nın haritası\ngibi görünüyor.
+44|Dinle beni, pislik! Bu dünya hakkındaki\nher şeyi hatırladığından emin ol!
+45|Epey... geniş görünüyor.\nNehrin ötesine bile devam ediyor.
+46|Buradaki üç nokta mı?\nDevam ettiğini mi gösteriyor?
+47|Evet, o işaretin ne anlama geldiğini sonra söylerim.\nGerçekten oraya gidince anlarsınız.
+48|<CLT=cltMIND>Ne demek istiyor olabilir?
+49|Ah, burada başka bir bina var.
+50|Evet, sadece ufak tefek bir şapel. İçerisi\ndağınıklık içindeydi.
+51|Bir sürü eşya mı var, ha?
+52|Belki <CLT=cltSTRONG>dış dünyanın sırrı<CLT=cltNORMAL>\norada saklıdır...
+53|Ah, şimdi fark ettim... <CLT=cltSTRONG>Dünya haritasının<CLT=cltNORMAL>\netrafında siyah çizgiler çizili...
+54|Ama bu bir şey mi ifade ediyor?

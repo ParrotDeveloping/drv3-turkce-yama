@@ -1,0 +1,56 @@
+@ chap4_text_US
+## c04_018_200
+113|Demek köprü yokmuş. Nehri şimdi nasıl\ngeçeceğiz?
+114|Bilginiz olsun, sihrim bu dünyada\nişe yaramıyor!
+115|Yoksa... yüzmek zorunda mıyız?
+116|Peki, söylemem... Hem Sanal Dünya'da\nnehre giremezsin.
+117|O zaman... bir şeyi kayık olarak mı kullanmalıyız?
+118|Hay Allah, aptallığını saklamaya bile\nçalışmıyorsun!
+119|Nehrin akıntısı çok hızlı!\nKayık kolayca sürüklenir!
+120|O zaman bize bir köprü lazım, değil mi?
+121|Söyledim ya, zaten bir köprümüz var!
+122|Aşağıda buna bağlanan daha geniş\nbir nehir var.
+123|Yanında da "Mirai Tepeleri" yazan uzun\nbir tabela var.
+124|Görünüşe göre konak için yapılmış ama\ngeçici köprü olarak kullanabiliriz.
+125|Yani sadece o tabelayı almamız mı gerekiyor?
+126|Evet, ama gidip almasını mazoşiste söyleyeceğim!\nEmir almaya baaayılır!
+127|Shuichi! Git tabelayı getir!
+129|...Evet, git tabelayı getir.
+131|Evet. Tam bir mazoşistsin.
+133|Bir dakika...\n*Hepiniz* benim hakkımda öyle mi düşünüyorsunuz?
+134|Özel olsun diye köpek gibi emekleyerek\ngetirmeni istiyorum!
+135|Hayır... sanırım normal yürüyeceğim, sağ ol.
+141|<CLT=cltMIND>Tabela bu.\n"Mirai Tepeleri" yazıyor.
+142|Bunu alıp diğerlerinin yanına\ndönmem yeterli.
+143|<CLT=cltSTRONG>Dış dünyanın sırrı<CLT=cltNORMAL> bu mu?
+144|<CLT=cltSYSTEM>1 Monopara kazandın.
+145|Parlak bir şey...
+146|<CLT=cltSYSTEM>3 Monopara kazandın.
+147|Demek <CLT=cltSTRONG>dış dünyanın sırrı<CLT=cltNORMAL> bu!
+148|<CLT=cltSYSTEM>7 Monopara kazandın.
+149|Hey! Sana köpek gibi emekle demiştim!
+150|...Gerçekten dört ayak üstüne çökeceğimi mi sandın?
+151|Neyse. Vakit kaybetmeyi bırak da tabelayı\nnehrin üstüne yatır.
+153|Gördün mü? Tam oturdu! Artık bir\nköprümüz var!
+154|Bu köhne görünüşlü tabelanın üstünde mi\nyürüyeceğiz? Kesinlikle kırılır.
+155|Beynin memelerinden bile küçük olmalı!\nSöyledim ya, bu dünyada nesneler kırılmaz!
+156|Ah, demek bu dünyada bu berbat tabela\nbile sağlam bir köprü olabiliyor, ha?
+157|Elimizdeki tek köprü bu tabela!\nO yüzden sıçıp akıntıya kaptırmayın!
+158|Bu tabela nehre kapılırsa artık\nköprümüz kalmaz!
+159|Tamam be. Off, çok sinir bozucusun.
+160|Ha? Köprü var!
+161|Ah, çok şükür! Nehri geçmenin bir yolu\nolmadığını anlayınca pes etmiştim.
+162|Neredeydin ve ne yapıyordun?
+163|Ah, şuradaki ormanda <CLT=cltSTRONG>dış dünyanın\nsırrını<CLT=cltNORMAL> arıyordum.
+164|Ama ne yazık ki bulamadım... Eh, zaten\no kadar kolay olacağını beklemiyordum.
+165|...Değil mi, Gonta?
+167|Mükemmel! Zaten hep birlikteyken\ndaha kullanışlı.
+168|Hm? Kullanışlı derken?
+169|H-Hiçbir şey! Ugh, neyse...\nHadi nehri geçelim!
+170|Acele edin de buraya gelin millet! Geri\ndönmek için artık çok geç, tamam mı?
+171|Nyeeeh... stresliydi. Ama nesnelerin\nkırılmamasıyla ilgili şey doğruymuş.
+172|Ben de onu diyordum!
+173|Haritada çizili dalgalı çizginin hemen\nötesinde değil miyiz?
+174|İlerlemeye devam edersen öğrenirsin.\nNeden gidip bakmıyorsun?
+175|<CLT=cltMIND>...Bu huzursuz edici.
+177|N-Ne oldu!? Az önce ne oldu!?

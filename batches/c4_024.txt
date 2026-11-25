@@ -1,0 +1,73 @@
+@ chap4_text_US
+## c04_015_101
+0|<CLT=cltMIND>Görünüşe göre biraz boş vaktim var.
+12|<CLT=cltMIND>Endişelenerek vakit kaybetmemeliyim...\nBiraz dinlenmeliyim.
+## c04_015_130
+10|<CLT=cltMIND>İçinde cinayet mahallerinin fotoğrafları\nve <CLT=cltSTRONG>failin kullandığı hileler<CLT=cltMIND> var.
+## c04_016_005
+0|Hm? Himiko?
+1|Ah... merhaba, Shuichi.\nMiu sana da buluşmamızı mı söyledi?
+2|Evet... Yani herkes aynı mesajı\nmı aldı?
+3|Buradan çıkabileceğimizi söyledi ama \nbunların hepsi çok şüpheli kokuyor...
+4|Sihirli içgüdülerim bana Miu'yla\nbulaşmamamı söylüyor.
+5|Ama tek kaçış yolunu bulmuş\nolabilir.
+6|Bence gitmeliyiz... her ihtimale karşı.
+7|Sanırım haklısın...
+9|Himiko? Ne oldu?
+10|Sadece hatırladım da... böyle zamanlarda Tenko\nhep elimi tutup beni peşinden sürüklerdi...
+12|<CLT=cltMIND>Tenko'nun elini tutup "Seni ben\nkoruyacağım!" dediğini gözümde canlandırabiliyorum.
+13|Tamam! Tenko'dan ders alıp\nilerleyeceğim!
+14|Pekala Shuichi. Ben önden gidiyorum.\nSen de yakında gel.
+## c04_016_101
+0|<CLT=cltSYSTEM>*ding dong...ding dong...*
+1|<CLT=cltMIND>Kapı zili mi?\nBeni arayan Kaito mu yoksa Maki mi?
+2|<CLT=cltMIND>Bu saatte kim gelmiş olabilir?
+7|Selam, Kaka-ichi!
+8|Değil mi? Peki Bok-ichi? Sümük-ichi?
+9|Neyse, boş ver! İstediğin lakabı seç!
+10|M-Miu? Burada ne yapıyorsun?
+11|Ben ve ikizler bakire kıçını bir ziyaret\nedelim dedik! Kalktı mı bakalım!?
+12|...Burada ne yapıyorsun?
+13|Burada ne mi yapıyorum?
+14|N-Neşelen! Benim sayemde bu kısıtlayıcı\nyerden çıkabileceksin!
+15|Kaçabilir miyiz?
+16|Akademinin 4. katındaki bilgisayar\nodasına gel yeter!
+17|Ama acele yok, beni düşünerek bir tane\npatlatmak istersen vaktin var.
+18|Hah-hahaha! Ama sonra kurumuş\nmendilleri getirsen iyi olur!
+19|<CLT=cltMIND>Söylediklerine rağmen pek ciddi\ngelmiyor kulağa...
+20|<CLT=cltMIND>Ama onu öylece görmezden gelmemeliyim.
+21|4. kattaki bilgisayar odası...
+## c04_017_029
+0|Tahmin ettiğim gibi... herkes buraya getirilmiş.
+1|Benimle baş başa vakit geçiremedin diye\nöyle depresif davranma!
+2|...Sana "depresif" mi görünüyorum?
+3|Kaçma şansı olduğu söylenince\ngelmememizin imkânı yok.
+4|Ama hâlâ şüpheli kokuyor bence.
+5|Öyle mi? Bence daha çok eğlenceli bir\nşey olacakmış gibi kokuyor.
+6|Böyle şeylere hep geliyorsun.\nSeni çözdüm artık...
+7|Teşekkürler! Karşılıklı dostluğun anahtarı\nbirbirini anlamaktır!
+8|...Peki buradan çıkmanın bu "yolu"\nne?
+9|Gerçekten bir yol var mı?
+10|Hıh-ı! Tabii ki var!\nBenim gibi dahiler asla hata yapmaz!
+11|Peki... nasıl kaçacağız?
+12|<CLT=cltSTRONG>Başka bir dünyaya<CLT=cltNORMAL> gidiyoruz! Öldürme oyunlarının\nve Monokuma'nın olmadığı bir dünyaya!
+13|"Başka bir dünya" mı?
+14|Ohh... bilmek istiyorsunuz demek? Ha? İstiyor musunuz?
+15|Bana eğilirseniz söylerim!\nDizlerinizin üstüne! Hemen!
+16|Ha? Neden...?
+17|Hehe... Shuichi ve Kaede bana eğildiğinde...\niçimde bir şeyler uyandırdı sanki...
+18|Şimdi acele edin de bana eğilin, sizi\nmazoşist pislikler!
+19|...Hm? Bize eğilmesi gereken sen\nolmamalı mısın?
+21|Dinlememizi istiyorsun, değil mi? O zaman dizlerinin\nüstüne çök ve köpek gibi yalvar.
+22|N-Ne oluyor be? Bu... tuhaf değil mi?
+23|Herkes değerli vaktini senin gibi\ndeğersiz bir çöpe harcıyor.
+24|O yüzden eğilip yalvarsan iyi olur.\nHadi, çabuk ol.
+25|Ne? N-Neden? Bunu herkes için hazırlamak\niçin bütün gece uyumadım—
+26|Tamamdır o zaman! Millet, gidiyoruuuz!
+27|B-B-Bekleyin!!!
+28|Ben... anlatmak istiyorum...
+30|...Aslında ona acıyorum.
+31|Hey... en azından onu dinleyelim.
+32|Duydun mu, Miu? Ne güzel!
+34|Daha ne kadar depresif kalacaksın, seni\ndomuz!? Çabuk anlat, kalamar nefesli!
+35|Hiiiii! E-Evet, efendim!

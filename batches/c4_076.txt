@@ -1,0 +1,57 @@
+@ chap4_text_US
+## c04_219_000
+10|Heh, umurumda değil.\nBu beni hiç rahatsız etmiyor.
+11|Bu sadece benim bile hata yaptığım anlamına\ngeliyor. Dert etme, Shuichi.
+13|Nii-hihi... Kaito'nun böyle sert görünmeye\nçalışmasını izlemek epey komik.
+14|Kokichi... Lütfen böyle alakasız ve\nmantıksız yorumlardan kaçın.
+15|Yani... Miu programla oynayıp sadece\nkendisinin geçebileceği bir duvar yaptıysa...
+16|O zaman gizli yolu o duvarın\niçinden miydi?
+17|Bu, değil mi? Haritanın dışında yürümek için\nbir oyundaki hatayı kullanmak gibi!
+18|Eminim Miu'nun şapelin arkasında böyle\ngizli bir geçidi vardı!
+19|Ama... duvarlardan geçebilse bile gerçekten\ngizli bir geçit var mıydı?
+20|Çünkü Miu demişti ki...
+21|Hayır, burada hapsolmadınız. O duvarın ötesi\ndünyanın sonu. Kelimenin tam anlamıyla.
+23|Muhtemelen yalan söyledi. Öbür tarafta hiçbir\nşey yoksa gitmenin bir anlamı olmazdı.
+24|Miu yalan söyledi... Hıh...
+25|Gerçek ne acaba.\nArtık öğrenmenin hiçbir yolu yok...
+26|O pis tuvalet taşı <CLT=cltSTRONG>duvarın ötesinde hiçbir\nşey olmadığı<CLT=cltNORMAL> konusunda kesinlikle yalan söylüyordu.
+27|Gurur, kabalık ve sırlarla dolu bir hayat\nyaşadı! Yalan söylemek onun için çocuk oyuncağı!
+28|Kokichi! O kadar ileri gitmene gerek yok!
+29|Kes şunu! Annecik hakkında kötü konuşma!
+30|M-Monotaro?
+31|Şu söylediğine bak... Annecik'ten korkunç,\nyalancı bir fahişeymiş gibi bahsediyorsun...
+32|Ama Annecik yalan söylemiyordu! O Sanal\nDünya'da <CLT=cltSTRONG>gizli bir yol<CLT=cltNORMAL> yoktu!
+33|Oooh... Yok muydu, haaa?
+34|Hey! Onlara böyle önemli bir ipucu\nveremezsin!
+35|Ah! O ipucunun önemli olduğunu söylüyorsan\nsanırım doğru olmalı!
+36|Ah, kahretsin!
+37|Ah, hay Allah...\nŞanslısın ki sevimlisin.
+38|<CLT=cltMIND>Kokichi Miu hakkında bunları yavrulara\nbir şey ağzından kaçırtmak için mi söyledi?
+39|<CLT=cltMIND>Sanırım ona teşekkür etmeliyim... ama bazen\nbir şeyleri neden yaptığını hiç anlamıyorum.
+40|Peki, artık gizli yol olmadığını bildiğimize\ngöre programla neden oynadı?
+41|Duvarın ötesinde gerçekten hiçbir şey yoksa\no ayar anlamsızdı.
+42|Miu anlamsız bir şey yapmazdı.\nBir planı olurdu.
+43|Evet, Miu kesinlikle bir sebepten o duvardan\ngeçebilmek istiyordu.
+44|Henüz nedenini bilmiyoruz ama Sanal\nDünya'nın gizemini çözdüğümüzde...
+45|"Sa-nal Dün-ya"nın gizemi mi...?
+46|Sanal Dünya'da bir sürü tuhaf\nolay yaşandı...
+47|Nedenini belirleyebilirsek Miu'nun ne peşinde\nolduğunu da belirleriz.
+48|Duvardan neden geçmek istediğini\nanlarız.
+49|Tamam! O tuhaf olayları\naydınlatalım!
+50|E-Evet! Gonta ne demek istediğinizi bilmese de\nyardım edecek!
+51|Tuhaf olaylardan bahsetmişken, bir şey\nbeni düpedüz endişelendiriyor...
+52|Hatırlıyor musunuz? Tüm tuhaf olayları\nfark etmemizi sağlayan o şey?
+53|<CLT=cltMIND>Bizi oraya götüren olaylar...
+54|Şey... Benim bahsettiğim o\ndeğildi...
+55|<CLT=cltSTRONG>Dış dünyanın sırrını<CLT=cltNORMAL> ararken\nolan o şey.
+57|Nyeh?\nNe oldu peki?
+59|Hayır, ikimiz de Sanal Dünya'daki konaktayken\nolan şeyden bahsediyorum.
+61|Sanal Dünya'da hangi tuhaf olay\nyaşandı?
+62|Seninle mutfakta duyduğumuz <CLT=cltSTRONG>yüksek\nsesi<CLT=cltNORMAL> mi kastediyorsun?
+67|Hm? Hepiniz o sesi duydunuz mu?
+68|Evet, konağın mutfağında.
+69|Ama o ses şapelin yanında oldu.\nTa konaktan nasıl duydunuz?
+70|Bir kere, ses harita yükleme noktasını\ngeçemez.
+71|O ses gerçekten şapelden mi geldi?
+72|O ses şapel duvarına bir şeyin çarpmasıydı.\nÇok yüksekti.
+73|Ve kesinlikle duyduk.\nKeebo'nun sesini de duyduk.

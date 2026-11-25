@@ -1,0 +1,61 @@
+@ chap4_text_US
+## c04_225_000
+51|Sanal Dünya'nın döngüye girdiği yer\n<CLT=cltSTRONG>harita yükleme noktasıydı<CLT=cltNORMAL>.
+52|<CLT=cltSTRONG>Yükleme noktasının<CLT=cltNORMAL> haritanın ortasında\nolduğunu sanıyorduk...
+53|Ama yükleme noktası aslında\n<CLT=cltSTRONG>kenarlardaydı<CLT=cltNORMAL>.
+54|Yani Miu'nun yarattığı duvar dünyanın\nkenarlarında değil, aksine...
+55|Duvarı dünyanın merkezindeydi.
+56|Anlıyorum, yani konak ve şapel birbirine\nyakındı ve aralarında bir duvar vardı...
+57|Ve şapelin yanında çıkan her ses\nkonağa da ulaşırdı.
+58|Duvar <CLT=cltSTRONG>sadece insan olmayanların geçmesine izin veriyor<CLT=cltNORMAL>,\nyani <CLT=cltSTRONG>ses<CLT=cltNORMAL> kolayca geçebilmeli.
+59|Doğru. Sanal Dünya böyle\nişliyor!
+60|Muhahahahahaha!!!\nEtkileyici, Shuichi!
+61|Buraya kadar gelebilmen! \nEvet! Eveeet! Gerçekten işe yararsın!
+62|<CLT=cltSTRONG>"Buraya kadar gelebilmen"<CLT=cltNORMAL> mi? Ne yani,\nipleri elinde tutan bir kötü adam mısın?
+63|Hayır! Burada ipleri elinde tutan ben değil\nMiu'ydu. Hatırladın mı?
+64|Bu tuzağı da Miu kurdu.
+65|Her şey Miu bize haritayı gösterdiğinde başladı.
+66|Harita yüzünden yükleme noktasının merkezde\nolduğunu yanlışlıkla düşündük...
+67|Bu da konakla şapelin birbirinden daha\nuzak görünmesine sebep oldu.
+68|Ama dünyanın yapısı aslında öyle\ndeğildi.
+69|Y ekseni boyunca bir duvar vardı ve\nX ekseni döngü halinde dönüyordu.
+70|O duvarı dünyanın merkezine koyarak\ndöngüyü kesti...
+71|Yani Miu bize o haritayı gösterdiğinden\nberi onun tuzağına düşmüştük.
+72|Ama Shuichi sayesinde bu gizemi çözdük!\nYaşasın kurtarıcımız!
+73|Evet. Shuichi burada olmasaydı bu gizemi\nasla çözemezdik.
+74|Doğru! Aferin, Shuichi!
+75|Teşekkürler, Shuichi! Bizi kurtardın!
+76|Ah... Rica ederim.
+78|Sanal Dünya'nın sırrını bulduk diye\nhenüz gevşeyemeyiz.
+79|Aslında... bu fail avı daha yeni heyecanlı\nkısmına geldi!
+80|Bütün hileleri bilsek bile faili bulamazsak\npek bir anlamı yok.
+81|Ne de olsa sınıf duruşması böyle işler!
+82|Kokichi yine Monokuma gibi konuşuyor...
+83|Çık... Ne dersen de\nyalanlarına inanmayacağım...
+84|Herkese inanacağım!\nGerçeğe böyle ulaşacağım!
+85|Nii-hihi...\nBundan sonra ne olacağını görmek için sabırsızlanıyorum.
+87|<CLT=cltMIND>Kokichi'nin buradaki planı ne?
+88|<CLT=cltMIND>Kesinlikle bilerek Kaito'yu\ndürtüyor.
+89|<CLT=cltMIND>Neyse, onun gibi dikkat dağıtıcılara\nayıracak vakit yok.
+90|<CLT=cltMIND>Yapmamız gereken şey Miu'yu\nöldüren faili bulmak.
+91|<CLT=cltMIND>Faili bulamazsak ne kadar küçük\ngizem çözdüğümüzün önemi yok...
+92|<CLT=cltMIND>hepsi boşa gider.
+93|<CLT=cltMIND>Ama kim olabileceğini hâlâ\nkesin olarak bilmiyorum.
+94|<CLT=cltMIND>Miu'nun kendi planını ona karşı kullanıp\nonu kim öldürdü?
+95|<CLT=cltMIND>Miu'yu kim öldürdü...?
+## c04_226_000
+0|Of, bittim. Hiç motivasyonum yok.\nBir de Monophanie'nin regli gecikti.
+1|*nefesini tutar!*
+2|Babacık... Monophanie'nin döngüsünü\nnereden biliyorsun...?
+3|Boş verin onu... Belki bu motivasyon eksikliği\nkış uykusu eksikliğinden kaynaklanıyordur.
+4|Kış uykusu eksikliği mi...?
+5|Evet... Son zamanlarda iyi uyuyamıyorum,\no yüzden pek kış uykusuna yatamadım...
+6|Bu korkunç... Buna ne sebep olabilir?
+7|Kafanda çok şey olduğu için mi?
+9|Gece vardiyası saatlik daha iyi para\nverdiği için mi?
+11|Sadece tembellik ettiğini düşünmelerini\nistemediğin için mi?
+13|Arkadaş kalmak istediğin için mi?
+14|Hmmmmmmmm...
+15|Canlı izlemek istediğin için mi?
+18|...Babacık?
+19|Kış uykusuna yattı...\nOnu rahat bırakmalıyız...

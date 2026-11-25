@@ -1,0 +1,68 @@
+@ chap4_text_US
+## c04_019_212
+5|Belki bir şeyi kaçırdım...\nBir kez daha bakacağım.
+6|<CLT=cltMIND>Ama vakit kaybıydı; hiçbir şey bulamadım.
+8|Epey zaman geçti ama hiçbir şey bulamıyorum.
+9|<CLT=cltMIND>Bütün bunlardan sonra bile bir şey\nbulamadıysam mutfakta olamaz.
+10|<CLT=cltMIND>Şimdi ne yapmalıyım...?\nBaşka bir yeri mi aramalıyım?
+11|Araman nasıl geçti, Shuichi?
+12|Hiçbir şey bulamadım... ya sen?
+13|Aynı... Her köşeye baktım ama\nhiçbir şey bulamadım.
+14|Burada gerçekten saklı bir şey olup olmadığını\nmerak etmeye başlıyorum. Monokuma yalan mı söyledi?
+15|<CLT=cltMIND>Monokuma'nın konuşma şekli kesinlikle\nşüpheliydi.
+20|<CLT=cltMIND>O konuşmayı yönlendiren\nKokichi'ydi...
+21|<CLT=cltMIND>Ama bunu neden yapsın ki?
+22|Ah, bu arada... Kafamı kurcalayan\nbir şey var...
+23|Hm? Kafanı kurcalayan bir şey mi?
+24|E-Evet... Belki sadece hayal\ngücümdür ama...
+25|Yemek salonunda küçük bir pencere var...\nYaklaşık on dakika önce içinden baktım...
+26|Ve Miu'yu gördüm sandım.
+27|Miu'yu mu gördün?\nAma şapelde olması gerekiyordu...
+28|Ve... köprü düştü, yani buraya\ngelememesi lazım, değil mi?
+29|Bu yüzden sadece hayal gücüm sandım\nama bir şey söylemem gerektiğini düşündüm—
+30|<CLT=cltSYSTEM>GÜM!!!
+32|N-Ne!? O ses de neydi!?
+33|Sanki bir şeye çok sert vurulmuş gibi\nbir sesti. Dışarıdan geldi ama...
+34|Tsumugi! Gidip bakalım!
+36|N-Ne sesiydi o!?\nGidip ne olduğuna bakmamalı mıyız?
+## c04_020_200
+0|Ah! Shuichi ve Tsumugi!
+1|Gonta, buralarda bir yerde Keebo'yu\ngördün mü?
+2|H-Hayır, Gonta onu görmedi.
+3|Ha? Görmedin mi? Ama sesini yakından\nduydum...
+4|O zaman çatıdan bir şey mi düştü!?\nO yüksek sesi duydun, değil mi!?
+5|A-Ah... Gonta ses duydu ama Gonta\nhiçbir şey görmedi.
+8|<CLT=cltMIND>Sesi ve Keebo'nun sesini yakından\nduyduğumu sanmıştım...
+9|<CLT=cltMIND>Ama Gonta hiçbir şey görmedi mi?
+10|<CLT=cltMIND>Peki ya Kaito?\nO da çatıdan bunu duymuş olmalı...
+11|<CLT=cltMIND>Hemen buraya koşardı...\nNeler oluyor?
+12|Hey, Shuichi... Bütün bunlar ne demek?
+13|<CLT=cltMIND>Ne kadar tuhaf olaylar...
+14|<CLT=cltMIND>...Pekala. Benim yeteneğim... gizem çözmek.
+15|<CLT=cltMIND>O yüzden bunu yapacağım.
+16|Keebo'nun neden çığlık attığını bulmalıyız.
+17|Şapele gidelim!\nOrada bir şey olmuş olabilir.
+19|Ne oldu? Keebo'ya bir şey mi\noldu?
+20|Şapele gidelim!
+21|Keebo orada olmalı.\nBir şey olmuş olabilir!
+23|Shuichi, tam zamanında! Orada köprü\nolarak kullanılabilecek bir şey var mı!?
+24|Ha...? Keebo orada mı? O zaman az önce\nduyduğum bağırış neydi?
+25|Hey, köprünün yerine koyacak başka\nbir şeyi çabucak bulmalıyız.
+26|E-Evet! Zamanında yetişebiliriz!
+27|Zamanında mı? Ne demek—
+28|Ne oldu? Neden böyle ortalığı\nayağa kaldırıyorsunuz?
+29|Kokichi!
+30|Yemek salonunda kimseyi göremedim, ben\nde sizi aramaya gittim...
+31|Ah-haha, Miu köprüyü düşürdüğüne göre\nherkes başı dertte gibi görünüyor.
+32|G-Gülmenin hiç zamanı değil! Yerine\nkoyacak bir köprü bulmalıyız—
+33|Oo, ama köprü burada, biliyor musun?
+35|Hadi, buraya.
+36|...Neyse, gidelim.
+37|Kokichi söyledi, şimdi endişeleniyorum...
+38|Bekleyip ne olacağını görelim.
+39|Bakın, şu kayaya takılmış tabela Miu'nun\ndüşürdüğüyle aynı, değil mi?
+40|Haklısın! Ta buraya kadar sürüklenmiş!
+41|Gonta'ya bırakın!\nGonta'nın sadece tabelayı taşıması mı lazım!?
+42|Bu halledildiğine göre herkesin\nolduğu yere dönelim.
+43|Hrm... geri döndüler mi?
+44|Ah, buradalar.

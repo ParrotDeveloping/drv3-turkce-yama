@@ -1,0 +1,57 @@
+@ chap4_text_US
+## c04_100_029
+60|Hadi hadi, tartışmalarınızı sınıf duruşmasına\nsaklayın. Bu arada...
+61|Ta-da! Monokuma Dosyası! Bununla Miu'nun\nkıçının deliğini bile inceleyebilirsiniz!
+62|Ha? Orayı bile mi?
+64|Pekala o zaman, elinizden geleni yapın!
+65|Eminim bu olayları çok eğlenceli hale\ngetireceksiniz! <CLT=cltSTRONG>Göt herif<CLT=cltNORMAL>!
+66|Babacık o kaba kelimeden gerçekten\nçok hoşlanmış gibi.
+69|Tamam, millet! Hadi bakalım! Bu sefer\nne olursa olsun faili ben bulacağım!
+70|Neden bu kadar neşelisin!?
+71|Eee, siz neden üzgünsünüz? Ondan nefret\nediyordunuz! Benden ettiğiniz kadar değil ama yine de!
+72|M-Mesele o değil... Tabii ki gürültücü\nve sinir bozucu olduğunu düşünüyordum ama...
+73|Ölmesini asla istemedim.\nHep birlikte kaçmamızı istedim.
+74|Miu kesinlikle küstah ve enerjikti ama\nkötü biri değildi.
+75|İnanın bana, vücudumun bakımını ona yaptırdım!\nO yüzden biliyorum! Çok... iyi biliyorum!
+76|Krgh... Ağlamak istiyorum ama yapamıyorum...\nMiu'ya ağlama fonksiyonu taktırmalıydım!
+77|Ha? Gözyaşların kısa devreye sebep\nolmaz mıydı?
+78|Hiç de değil. Vücudum tamamen su geçirmez.
+79|Bunun zamanı değil...
+80|Ugh... Gonta bunu affedemez.\nGonta... bunu asla affetmeyecek.
+81|Faili de asla affetmeyecek...
+82|Ama Gonta kendini asla affetmeyecek! Gonta herkesi\nkorumaya yemin etti! Ama Gonta Miu'yu koruyamadı!
+83|Gonta yine kimseyi koruyamadı!\nGonta centilmen olarak başarısız!
+85|<CLT=cltMIND>Bu berbat histen... çok yoruldum.
+86|<CLT=cltMIND>Bir şey yapmalıyım.\nBuna izin veremem—
+87|Shuichi, yükü tek başına taşıma.
+89|Sen benim yardımcımsın! Unutma.
+90|Bunu birlikte yapacağız!\nBirlikte çalışırsak bunu çözebiliriz—
+91|Hayatta olmaz.
+92|Ne... Ne!?
+93|Shuichi sınıf duruşmasındaki en güvenilir\nkişi, biliyor musun?
+94|Böyle önemli birinin senin gibi bir şüpheliyle\nbirlikte çalışmasına neden izin verelim?
+95|Şüpheli mi...?
+96|Yani fail ben olsaydım Shuichi beni korumak\niçin gerçeği saklar mı diyorsun?
+97|Saçmalık! Shuichi'yi hafife alma!
+98|Fail ben olsam bile o işi sonuna kadar\ngötürecek türden biri!
+99|Ama Kaede'nin sınıf duruşmasını hatırla—
+100|Onda da sonuna kadar götürdü, değil mi!?\nShuichi'ye inanıyorum!
+102|Nii-hihi...\n<CLT=cltSTRONG>İnanmaya<CLT=cltNORMAL> bayılıyorsun, değil mi Kaito?
+103|Ama o <CLT=cltSTRONG>inanç<CLT=cltNORMAL> sana karşı dönebilir, özellikle\nbu öldürme oyununda, biliyor musun?
+104|Heh... Neden bahsettiğin hakkında hiçbir\nfikrim yok... Hiç anlamıyorum...
+105|Peki, bu kadar sinirleneceksen o zaman\nShuichi ile ekip olmayacağım.
+107|Merak etme! Sadece şimdilik!
+108|Ama onun bunları söylediğini duyunca...\nsessiz kalamam!
+109|Bununla birlikte, bunu kendi başına atlatmaya çalış!\nKendi gücünle şüpheden kurtul!
+110|Nii-hihi... *eğer* kurtulabilirsen.
+112|<CLT=cltMIND>...Bundan hiç hoşlanmadım. Kokichi'nin\nhilelerinden biri daha gibi geliyor.
+113|<CLT=cltMIND>Tabii ki söz konusu Kaito, söyleyeceğim\nhiçbir şey fikrini değiştiremez.
+114|<CLT=cltMIND>Ne olursa olsun... yapabileceğim\ntek bir şey var.
+115|<CLT=cltMIND>Korkamam...\nŞimdi kaybolamam.
+116|<CLT=cltMIND>Herkesi korumak için bir şey\nyapmalıyım.
+117|<CLT=cltMIND>Bir şey yapmalıyım...
+118|<CLT=cltMIND>Önce Monokuma Dosyası'na bakmalıyım.
+119|<CLT=cltMIND>Kurban <CLT=cltSTRONG>Ultimate Mucit<CLT=cltMIND>\nMiu Iruma.
+120|<CLT=cltMIND>Ceset 4. kattaki bilgisayar odasında\nbulundu.
+121|<CLT=cltMIND>Tahmini ölüm saati sabah 6.30.\nCesette dış yara yok.
+122|<CLT=cltMIND>Dış yara yok...\nSabah 6.30 civarında öldürülmüş...

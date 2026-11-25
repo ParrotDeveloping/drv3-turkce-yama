@@ -1,0 +1,75 @@
+@ chap4_text_US
+## c04_236_001
+33|Onu arkadan boğsaydın bu önemli olmazdı!
+34|onu <CLT=cltAGREE><CLT=size2>arkadan<CLT=size1> <CLT=size2>boğsaydın<CLT=size1><CLT=cltNORMAL> önemli olmazdı!
+35|Bu durumda <CLT=size2>dirense<CLT=size1> bile...
+36|Bu durumda dirense bile...
+37|yapabileceği\nen fazla şey\nfaile\nsadece\n<CLT=size2>dokunmak\n<CLT=size1>olurdu.
+38|yapabileceği en fazla şey\nfaile sadece dokunmak olurdu.
+39|Aynen. Pek <CLT=size2>boğuşamazdı...
+40|Aynen. Pek boğuşamazdı...
+41|yani onu sorunsuzca\n<CLT=cltWEAK><CLT=size2>boğmaya<CLT=size1> devam edebilirdin<CLT=cltNORMAL>,
+42|yani onu sorunsuzca boğmaya devam edebilirdin!
+43|<CLT=size2>hiç sorun yok!
+44|Gördün mü?
+45|Gördün mü? Fail olmadığımı söylemiştim.
+46|Söylemiştim
+47|<CLT=cltWEAK>fail
+48|<CLT=cltWEAK>olmadığımı.
+49|<CLT=size2>Bu<CLT=size1> sonuca nasıl vardın!?
+50|Bu sonuca nasıl vardın!?
+51|Fail *sensin*!
+53|Gonta değil!
+55|Yalan söylüyorsun.
+56|Unuttun mu...?
+57|Belli ki yalan!
+58|Yalan söylüyor olabilir mi?
+59|Ne kadarı yalan?
+60|Sana inanamıyorum.
+61|Kanıtlanmış mı?
+62|Gonta hiçbir şey bilmiyor!
+63|Boğma mı?
+64|Bir ipucu mu!?
+65|Nasıl öldürüldüğü mü?
+66|Bunu zaten biliyoruz.
+67|Bunu herkes yapmış olabilir.
+68|Mantıklı geliyor.
+69|O zaman fail kesinlikle...
+70|Kokichi olmalıydı!
+71|Hâlâ hikâyende ısrar\nediyorsun, ha?
+72|Çünkü doğru!
+## c04_237_000
+0|Aslında... belki Kokichi'nin Miu'yu boğması\nmümkün değildi.
+1|Neden mümkün değildi?
+2|Miu avatarımı, bana saldırırsa karşı\nkoyamayacağım şekilde değiştirdi.
+3|Miu <CLT=cltSTRONG>bana dokunursa hareket edemezdim<CLT=cltNORMAL>.
+5|Yani onu bıçaklamak ya da vurmak gibi\nanında öldürmem gerekirdi...
+6|Onu <CLT=cltSTRONG>boğarak öldüremezdim<CLT=cltNORMAL>, çünkü bana\ndokunursa oyun biterdi.
+8|Şey... tuvalet kâğıdını kullanıyorsan ona\ndoğrudan dokunmana gerek kalmazdı.
+9|Ama tuvalet kâğıdını boynuna sararken\nsana dokunulamıyorsa...
+10|O zaman bu imkânsız olurdu.
+11|Yani... boğularak öldüğü sürece\nben olamam!
+12|B-Bekle! Peki ya boğma dışında bir\nşeyse? Mesela—
+13|Miu'nun boğulduğuna hiç şüphe yok.\nBunu zaten tartıştık.
+14|Nii-hihi... Kaito beni fail yapmak için\nçoook çaresiz...
+15|Ne kadar sızlanırsan sızlan\ngerçeği değiştiremezsin!
+16|Miu'yu öldüren fail Gonta Gokuhara!\nBu, o kadar bayıldığınız gerçek!
+17|H-Hayır! Gonta Miu'yu öldürmedi!
+18|Bu doğru! Gonta'ya inanmalısınız!\nGonta asla kimseye zarar vermez!
+19|Sana inanıyorum. Herkesi korumak için\nkendini riske atıyordun.
+20|Gonta'nın öldürmesinin imkânı yok!\nBöcekleri bile öldürmez!
+21|Ben de... Gonta'ya inanıyorum.\nKokichi'nin yalanlarını dinlemeyeceğim...
+22|T-Tabii ki! Onun gibi bir yalancıya kim inanır ki!?
+23|Gonta'nın fail olduğu konusunda yalan\nsöylüyor, o yüzden konuşmanın anlamı yok!
+24|<CLT=cltMIND>Bundan emin değilim...
+25|<CLT=cltMIND>Gerçeği istiyorsak rahatsız edici\nsorular sormamız gerekebilir...
+26|Değil mi, Shuichi!?\nSen de öyle düşünüyorsun, değil mi?
+29|İnanmanın ne kadar önemli olduğunu biliyorum.\nAma Ultimate Dedektif olarak...
+30|...bu davayı sadece inançla\nçözemeyeceğimizi biliyorum.
+32|Sadece... bir şey uymuyor.\nİçimde... bir tuhaflık varmış gibi bir his var.
+33|Böyle gidip gelmeye devam edemeyiz.\nBunu tartışmalıyız.
+34|Ne, sen... Gonta'dan şüphelenmek mi istiyorsun?
+35|Ne yazık, Kaito. Görünüşe göre Shuichi\nbana katılıyor.
+36|H-Hayır, öyle yapmaya çalışmıyorum—!
+37|Ah, ne ironi!
+38|Shuichi'nin bir dedektif olarak kendini\ntoparlaması tamamen Kaito sayesinde...

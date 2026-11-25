@@ -1,11 +1,16 @@
+0	<CLT=cltMIND>Görünüşe göre biraz boş vaktim var.
 1	Evet
 2	Hayır
 3	Emin olmadığın bir şey mi var?
 4	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+5	<CLT=cltMIND>Bu monitörler her yerde,\nama hiç kamera göremiyorum.
+6	<CLT=cltMIND>Bu öldürme oyununun arkasındaki beyin\nbizi nasıl izliyor?
+7	<CLT=cltMIND>Yoksa... aslında hiç\nizlenmiyor muyuz?
 8	Evet
 9	Hayır
 10	Emin olmadığın bir şey mi var?
 11	<CLT=cltSYSTEM>Yatakta dinlenmek ister misin?\nDinlenirsen Serbest Zaman biter.
+12	<CLT=cltMIND>Endişelenerek vakit kaybetmemeliyim...\nBiraz dinlenmeliyim.
 13	<CLT=cltMIND>Epey büyük bir lamba.\nOdayı iyi aydınlatıyor...
 14	<CLT=cltMIND>Dolabım benimkinin aynısı olan\nüniformalarla dolu...
 15	<CLT=cltMIND>Bütün bunları sadece bir ölüm oyunu için mi\nyaptılar? Amaçları ne...?

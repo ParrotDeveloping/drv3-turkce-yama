@@ -1,0 +1,71 @@
+@ chap4_text_US
+## c04_000_151
+8|<CLT=cltMIND>Ama Tenko'yu koruyamadı...
+10|<CLT=cltMIND>Tenko, burayı bulduğunda\nçok mutlu olmuştun...
+13|<CLT=cltMIND>Belki de Tenko'ya bunun ne için\nolduğunu sormalıydım...
+16|<CLT=cltMIND>Bu... bir sütun mu?\nBöyle bir yerde neden sütun var?
+## c04_000_152
+6|<CLT=cltMIND>Burası fotoğraf çekimleri için bir set, öyle mi?
+7|<CLT=cltMIND>Burada bir sürü fon var.\nBelki çeşitlilik içindir?
+8|<CLT=cltMIND>Oldukça gerçekçi bir bar seti...\nŞişelerde sıvı bile var.
+9|<CLT=cltMIND>Bu da fotoğraf çekimleri için başka bir set...\nEpey gotik bir havası var.
+10|<CLT=cltMIND>Bir dikiş makinesi ve çalışma masası.\nBelki kostüm yapıp onarmak için bir alan?
+## c04_000_153
+1|<CLT=cltMIND>Her şey eski haline dönmüş...\nBalmumu kuklalar bile gitmiş.
+2|<CLT=cltMIND>Ama Angie, Tenko... ve Kiyo...\nhâlâ ölü.
+10|<CLT=cltMIND>Büyük bir balmumu yığını var...
+11|<CLT=cltMIND>Angie bunu kukla yapmak için kullanmıştı.
+12|<CLT=cltMIND>Ama onlarda <CLT=cltSTRONG>ruh izi<CLT=cltMIND> yoktu.
+14|<CLT=cltMIND>Bu asla kopyalanamayacak bir şey.
+## c04_000_190
+19|<CLT=cltMIND>Burada havuz kuralları asılı.
+## c04_000_251
+3|<CLT=cltMIND>Taşı kaideye koyduğumda\nbir bina buraya uçup geldi...
+4|<CLT=cltMIND>Bu ne tür bir teknoloji?\nBelki de hiç düşünmemeliyim.
+## c04_000_264
+4|Gizemli harfler
+## c04_000_265
+7|<CLT=cltMIND>Üçüncü sınıf duruşmasından sonra yedi\narkadaşımızı kaybettik. Sadece dokuzumuz kaldı.
+8|<CLT=cltMIND>Ama hepimiz Himiko'nun ve Tenko'nun dileğini\nyüreğimize aldık. Yaşamaya devam ediyoruz.
+9|<CLT=cltMIND>Maki de bize katılmaya, hayatta kalmamıza\nyardım etmeye karar verdi.
+10|<CLT=cltMIND>Belki azıcık, ama <CLT=cltSTRONG>sona<CLT=cltMIND>\ndaha yakınız...
+## c04_001_010
+0|Selam. Sanırım kendimi tanıtmama\ngerek yok, ha?
+1|Kendini... böyle görmenin muhtemelen\nepey kafa karıştırıcı olduğunu anlıyorum.
+2|Sanırım en baştan\nbaşlamalıyım.
+3|Durum bu.
+4|Monokuma muhtemelen bunu sana zaten\nsöylemiştir ama her ihtimale karşı...
+5|Bu öldürme oyunu sadece iki kişi\nkalana kadar devam edecek.
+6|Bu kuralın önemli kısmı ise\nşu—
+7|...Ah.\nBir şey... daha var.
+8|Aslında gerçek şu ki...\nbu senin ilk—
+9|Kim olduğunu öğrenen herkes\npeşine düşecek...
+10|O yüzden arkanı kolla. Kimseye güvenme.
+11|Ve asla unutma...
+12|Bu öldürme oyununu sen istedin, o yüzden\nne olursa olsun kazanmalısın.
+13|...Ne olursa olsun.
+14|<CLT=cltMIND>Üçüncü sınıf duruşmasının ertesi sabahı.
+15|<CLT=cltMIND>Monokuma'nın anonsuyla uyandıktan sonra\nher zamanki gibi yemekhaneye gittim.
+16|Herkese günaydın.
+17|Ah... evet. Günaydın.
+18|Gün...aydın...
+21|<CLT=cltMIND>Bugün yemekhanenin havasında\nkasvetli bir ruh hali var.
+22|<CLT=cltMIND>Yaşadıklarımızdan sonra\nbu beklenen bir şey.
+23|<CLT=cltMIND>Böyle bir durumda...
+24|<CLT=cltMIND>Hepimizin hevesli kalabilmesi\nmümkün değil.
+25|<CLT=cltMIND>...Şey, iki istisna dışında.
+26|Ne oldu kanka!?\nYemeyecek misin!?
+27|Sen yemezsen o zaman Gonta seni yiyecek,\nShuichi.
+28|Ah, beni mi yiyecek?\nKahvaltımı demek istemedin mi...?
+29|Gonta demişken, o nerede?\nBu sabah onu görmedim.
+30|Daha gelmedi mi?
+31|Muhtemelen hâlâ uyuyordur...
+34|<CLT=cltMIND>Bu hava çok ağır...\nHerkes zihinsel olarak gerçekten yıpranmış.
+35|Heeey! Hiç enerjiniz yok! Canlı \ngörünmeniz lazım! Hâlâ gençsiniz!
+36|H-Himiko?
+37|"Günaydın"larınız çok sessiz! Bu kadar\nsessiz olduğunuz için kendinizi kötü hissediyorsunuz!
+38|*İÇ ÇEKİŞ!!!*
+39|Daha yüksek sesle iç çekin demek istemedim!
+40|...Tuhaf. Aramızda en depresif olanın\nsen olacağını sanıyordum.
+41|Tabii ki... depresifim. 200 milyon yıllık \nhayatımda hiç bu kadar depresif olmamıştım.
+42|200 milyon yıl mı!?

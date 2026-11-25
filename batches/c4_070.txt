@@ -1,0 +1,65 @@
+@ chap4_text_US
+## c04_209_000
+15|Belki ortak olarak Kokichi ile bir cinayet\nplanlayacaktı.
+16|Miu'nun yapacağı her plan sıkıcı olurdu,\no yüzden benim için olmaz!
+17|Ama ben olsaydım tamamen farklı olurdu. Harika\nve hiç sıkıcı olmayan bir suç planlardım!
+18|Hey! Öyle şeyler söyleme!
+20|Kokichi'ye aşkını itiraf etmek
+21|Kokichi'ye aşkını itiraf edecekti... ve onu\nreddederse çekici kullanacaktı...
+22|Çatıda ya da bir ağacın altında itiraflar klişe\nama onlara hayranım...
+23|Ama, şey... bence bu durum biraz\nfarklı olabilir.
+26|Yok, cidden... ne yapmaya çalışıyordu?\nShuichi, belki sen söyleyebilirsin?
+28|<CLT=cltMIND>Miu çekici kullanabilmek için Kokichi\nile buluşmak istedi...
+29|Kokichi'yi öldürmeye çalışıyordu.
+30|Ne yapmaya çalışıyordu!?
+31|Evet. Benimle buluşup sonra beni çekiçle\nöldürmeyi planladı...
+32|Bunu kanıtlamak istiyorsan Miu'nun planını\nçözmen gerekecek, tamam mı?
+33|<CLT=cltMIND>Miu'nun planı, ha?
+34|<CLT=cltMIND>Bulduğumuz ipuçlarını analiz edersem\neminim bir şey çıkarabilirim.
+35|<CLT=cltMIND>Pekala, hadi yapalım!
+## c04_211_000
+0|Kokichi gerçek dünyada öldürülmüş gibi\ngörünmesini istedi.
+1|Cinayetin gerçek dünyada işlendiğini düşünelim\ndiye zehri benim koltuğuma koydu.
+2|Onu da mı yaptı?
+3|Ne? O zehir şişesini oraya koyan\nMiu muydu?
+4|Hayır, bu doğru değil!\nBunda kesinlikle tuhaf bir şey var!
+## c04_212_000
+0|...Hiç iz bırakmadan fark edilmeden\nçıkış yapmak imkânsız.
+1|Bu sadece bizim için değil, Miu için\nde geçerli.
+3|Giriş ya da çıkış yapmadıysa zehri\nkoyabilmesinin hiçbir yolu yok!
+4|Ama... yardımcım öyle diyorsa\nbelki bir yolu vardı...
+6|Değil mi!?\nSonuçta sadece Kaito olabilir!
+7|H-Hey! Ben değilim dedim!
+8|Sadece birden çıkış yaptırıldım!\nHiçbir şey yapmadım!
+10|<CLT=cltMIND>Zehir yerleştirilmiş bir kanıtsa asıl\nsoru *ne zaman* yerleştirildiği.
+11|<CLT=cltMIND>Miu'nun fırsatı vardı.\nYapmış olması mümkün!
+13|<CLT=cltMIND>Ne zaman olduğunu belirlersek\nkim olduğunu da belirleyebiliriz!
+## c04_212_001
+0|Miu zehri oraya\n<CLT=size2>ne zaman<CLT=size1> <CLT=size2>koymuş<CLT=size1> olabilir?
+1|Miu zehri oraya\nne zaman koymuş olabilir?
+2|Zehri biz <CLT=size2>fark etmeden\n<CLT=size2>koyduysa...
+3|Zehri biz fark etmeden koyduysa...
+4|o zaman bir noktada
+5|o zaman bir noktada çıkış yapmış olmalı.
+6|<CLT=cltAGREE><CLT=size2>çıkış yapmış
+7|olmalı.
+8|Ya sonra?
+9|Ya sonra? Tekrar giriş mi yaptı?
+10|Tekrar <CLT=size2>giriş
+11|<CLT=size2>mi yaptı?
+12|<CLT=size2>Kokichi,<CLT=size1> o sıralarda\n<CLT=size2>salonda<CLT=size1> değil miydin?
+13|Kokichi, o sıralarda\nsalonda değil miydin?
+14|Onun hiç\n<CLT=size2>giriş<CLT=size1> ya da <CLT=size2>çıkış\n<CLT=size1>yaptığını gördün mü?
+15|Onun hiç giriş ya da çıkış yaptığını gördün mü?
+16|Hayır!\nHiç <CLT=size2>öyle bir şey<CLT=size1> <CLT=size2>görmedim!
+17|Hayır! Hiç öyle bir şey görmedim!
+18|Eğer\n<CLT=size2>giriş<CLT=size1> ya da <CLT=size2>çıkış yapmadıysa...
+19|Eğer giriş ya da\nçıkış yapmadıysa...
+20|o zaman <CLT=cltWEAK><CLT=size2>Miu<CLT=size1>
+21|o zaman Miu zehri koymuş olamaz!
+22|<CLT=cltWEAK>zehri\n<CLT=size2>koymuş\n<CLT=size1><CLT=size2>olamaz<CLT=cltNORMAL>!
+24|O zaman zehir şişesini kim koydu?
+25|<CLT=size2>kim<CLT=size1> koydu
+26|<CLT=size1.5>zehir
+27|<CLT=size1.5>şişesini?
+28|Erken çıkış yapan tek kişi

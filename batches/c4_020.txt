@@ -1,0 +1,59 @@
+@ chap4_text_US
+## c04_010_262
+54|Suikastçı olarak ayak uyduramazsam\nyetimhane artık para alamayacaktı...
+55|Ve o zaman hayatta bir amacım\nkalmayacaktı.
+56|Eğitim zordu. Her gün kusuyordum...\nve her gece ağlıyordum.
+57|Ama tekrar tekrar kusup ağladıktan sonra\nkalbim yavaş yavaş boşaldı.
+58|Sonunda... alıştım.
+59|İlk işimden sonra da aynıydı.\nBir süre ne yiyebildim ne uyuyabildim.
+60|Ama bunu uzun süre yaptıktan sonra \nhissizleştim.
+61|Bazen neden bu yabancıları öldürmek\nzorunda olduğumu merak ettiğim zamanlar oldu...
+62|Ama sonunda bunu düşünmeyi bıraktım.
+63|O yaşam tarzına... insanları öldürmeye...\nhayatlarını çalmaya alıştım...
+64|Ve... korkunç biri olmaya.
+65|Bugün bile bir görevi bitirdikten sonra\naynı şeyi düşünürüm...
+66|...Nedir o?
+67|Yetimhanede kalsaydım nasıl biri\nolurdum?
+68|Bunu hâlâ düşünüyorum... sürekli.
+69|<CLT=cltMIND>Maki içini döktükten sonra \nderin bir iç çekti.
+70|...Hepsi bu. Dinlemesi ilginç bir hikâye\ndeğildi, değil mi?
+71|"İlginç" mi? Hayır, Maki, bu...\nBunca zamandır taşıdığın yük—
+72|Hay Allah. Bu kadar ufak biri için çok\nfazla yük taşıyorsun.
+74|Eh, aynı şeyi Shuichi için de söyleyebilirim...
+76|Her şeyi tek başına omuzlamaya çalışma.\nBaşkalarına güvenmelisin.
+77|Yüklerini arkadaşlarınla paylaşabildiğinde\ndaha güçlü olacaksın.
+78|Eh, Maki Rulo bu kadar konuşabildiyse\nşimdiden biraz güçlenmiş demektir.
+80|...Antrenman sayesinde olabilir.
+81|Tabii ki!
+82|Antrenmanım sistematik bir yönteme dayanıyor!
+83|Bu... biraz belirsiz.
+84|<CLT=cltMIND>Uzun bir süre aklımıza gelen her\nşey hakkında konuştuk.
+85|<CLT=cltMIND>Çoğu anlamsız sohbetti\nama...
+86|<CLT=cltMIND>Belki de ilk kez gerçekten eğlenip\nburayı unutabildim.
+87|<CLT=cltMIND>Arkadaşlarımı korumak için...
+88|<CLT=cltMIND>Bu akademinin gerçeğini ortaya\nçıkarmalıyım.
+89|<CLT=cltMIND>Gerçekle yüzleşip onu dünyaya\nduyurmalıyım.
+90|<CLT=cltMIND>Mecburum... arkadaşlarımı hayatta tutmak için.
+## c04_011_025
+0|Beyaz yarısı taze pişmiş pirinçten beyaz!\nSiyah yarısı en karanlık geceden siyah!
+1|İşte Mono-Mono-Mono-Monokuma!
+2|Gerçekten geldin.\nHmm, demek bunu yapmama izin var, ha?
+3|Seninle böyle baş başa konuşmam\ngerçekten sorun değil mi?
+4|Teknik olarak kural ihlali değil...
+5|Ayrıca öldürme oyununu daha heyecanlı\nhale getirme fırsatını kaçıramam.
+6|Değil miii? Ben de aynı şeyi düşünüyordum!
+7|Aklımdaki tek şey bu eğlenceli ve\nacımasız öldürme oyunu!
+8|Bunu dedikten sonra, <CLT=cltSTRONG>o motifi<CLT=cltNORMAL>\nkullanmayı denemeyecek misin bile?
+9|Ah-haha, anlamıyorsun...
+10|Böyle çılgın bir <CLT=cltSTRONG>motif<CLT=cltNORMAL> daha... dramatik\nbir şekilde kullanılmalı, değil mi?
+11|Ben de öyle düşünüyordum, o yüzden onu\nkullanmanın yollarını bulmaya çalıştım...
+12|Ve sonunda bir fikir buldum.\nYani teklifim şu...
+13|<CLT=cltSTRONG>Birisi<CLT=cltNORMAL> ilginç bir şey planlıyor,\no yüzden <CLT=cltSTRONG>motifi<CLT=cltNORMAL> orada kullanırsak...
+14|Bence oyunu baya baya renklendirir.\nEe, var mısın?
+16|Puhuhu. Gerçekten şeytani bir veletsin.
+17|Tabii ki... Ben <CLT=cltSTRONG>Ultimate Yüce\nLider<CLT=cltNORMAL>'im, biliyor musun?
+18|Bu dünyayı dehşetin dibine sürükleyeceğim,\nkötü gücümü <CLT=cltSTRONG>kötülük<CLT=cltNORMAL> yapmak için kullanarak.
+## c04_012_001
+1|Nyeh, sensin Shuichi.\nBu sabah çok talihsizdi.
+2|Hm? Bir şey mi oldu?
+3|Ne diyorsun?\nMonoyavruların dizisi bitti.

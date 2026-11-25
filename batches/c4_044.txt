@@ -1,0 +1,44 @@
+@ chap4_text_US
+## c04_100_029
+123|Ölüm saati şu andan 30 dakika önce...\nbiz hâlâ Sanal Dünya'dayken.
+124|Kokichi. Ne istiyorsun?
+125|Bana karşı bu kadar temkinli olmana gerek yok.\nYoluna çıkacak değilim, Shuichi.
+126|Sadece... yalanlardan o kadar nefret ediyorum ki\nbaşkalarından çok şüphelenmeye meyilliyim.
+127|Kaito bu davada seninle ekip olmayacağını\nsöyledi ama o sözlere güvenemem.
+128|O yüzden seni rahatsız etmeye kalkarsa\ndiye gözümü dört açıyorum.
+129|"Gözünü dört açmak" mı?
+130|Ama yanlış anlama. Ortağın olarak Kaito'nun\nyerini almaya çalışmıyorum, tamam mı?
+131|Ama elimden geldiğince sana yardım edeceğim.\nEe, şimdi nereyi inceleyeceksin?
+132|<CLT=cltMIND>Ne peşinde?\nNeden beni takip ediyor?
+133|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma Dosyası 4<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+134|Shuichi, açıklamam lazım. \nYanlış anlamayasın diye.
+135|Neyi açıklaman...?
+136|Tek başına nasıl çıkış yaptığından bahsediyorsun,\ndeğil mi? Tama-am! Dinleyelim o zaman.
+137|S-Sen neden—?
+138|Tabii ki istediğin gibi yalan söyle. Ne de olsa\nyalanları ortaya çıkarmak bu oyunun asıl zevki.
+139|Ha? Ne!?
+140|Kaito... onu boş ver de benimle konuş, tamam mı?
+142|Şu çıkış yapma meselesi...\nBen de pek anlamıyorum.
+143|Çatıda <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL> ararken\naltımda bir daire parladı.
+144|Birden içine çekildim ve farkına\nvarmadan çıkış yapmıştım.
+145|<CLT=cltMIND>Telefonla çıkış yaptığımda da aynısı oldu.\nBu çatıda nasıl oldu?
+146|Peki çıkış yaptıktan sonra ne oldu?
+147|Herkes hâlâ girişliydi ama tekrar giriş\nyapmamın sorun olur mu bilmiyordum...
+148|O yüzden odama dönüp uyudum.\nŞafak vakti olduğu için epey yorgundum...
+149|Ve ceset bulunma anonsu seni uyandırdı mı?
+150|Evet, doğru. Duyunca buraya\nkoşup geldim.
+151|Çıkış yaptığında Miu'nun cesedinin ne\ndurumda olduğunu hatırlıyor musun?
+152|Yok. Dikkat etmedim,\no yüzden bilmiyorum.
+153|Yanlış bir şey fark etmedin mi?\nÖlü olup olmadığı gibi?
+154|Dedim ya, bilmiyorum!
+155|Tamam, pardon. Yani o ifadedeki çelişkiye\nitiraz etmem yeterli, değil mi?
+156|Yalan söylemiyorum dedim!\nSöyle şuna, Shuichi!
+157|Hayır, Shuichi. Gerçeği bulmak için\ntaraflı olamazsın.
+159|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kaito'nun İfadesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+166|Ve ceset bulunma anonsu seni\nuyandırdı mı?
+168|Hatırlıyor musun... çıkış yaptığında\nMiu ne durumdaydı?
+170|Shuichi, tekrar söylüyorum; taraf tutmadan\ndüşünmelisin, tamam mı?
+173|Gonta... iyi misin?
+174|Miu yüzünden hâlâ morali mi bozuk?\nHadi ama, bu kadar karamsar olma.
+176|Ah, Gonta, ne düşündüğünü bilmek istiyorum. Nadir\nbir şey, biliyorum ama sence fail kim?
+177|Gonta... bilmiyor. Gonta uyandığında\ncinayet çoktan olmuştu...

@@ -1,3 +1,9 @@
+0	<CLT=cltMIND>Himiko ile buluşmaya söz verdim.\nDojoya gideyim.
+1	<CLT=cltMIND>Gonta'nın Monokuma ile savaşmak istemesinin\nsebebi arkadaşlarını kurtarmaktı...
+2	<CLT=cltMIND>Sanırım... Miu da aynı.
+3	<CLT=cltMIND>Peki ya ben?
+4	<CLT=cltMIND>Arkadaşlarım ölüyor... ve tek yapabildiğim\nher şey bittikten sonra cinayetlerini çözmek.
+5	Yapabileceğim daha fazla şey olmalı...
 6	Evet
 7	Hayır
 8	Emin olmadığın bir şey mi var?
@@ -8,6 +14,7 @@
 13	Hayır
 14	Emin olmadığın bir şey mi var?
 15	<CLT=cltSYSTEM>Yatakta dinlenmek ister misin?\nDinlenirsen Serbest Zaman biter.
+16	<CLT=cltMIND>Hâlâ biraz vakit var...\nBiraz dinlenmeliyim.
 17	<CLT=cltMIND>Epey büyük bir lamba.\nOdayı iyi aydınlatıyor...
 18	<CLT=cltMIND>Dolabım benimkinin aynısı olan\nüniformalarla dolu...
 19	<CLT=cltMIND>Bütün bunları sadece bir ölüm oyunu için mi\nyaptılar? Amaçları ne...?

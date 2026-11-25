@@ -1,0 +1,33 @@
+@ chap4_text_US
+## c04_000_001
+1|<CLT=cltMIND>Kızlar tuvaletine bakıyorum...\nNeden kızlar tuvaletine bakıyorum?
+2|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör,\nama neden bu kadar... cafcaflı?
+3|<CLT=cltMIND>Ve sadece monitör değil,\nbütün akademi böyle.
+4|<CLT=cltMIND>Burada neler oluyor...?
+## c04_000_006
+0|<CLT=cltMIND>Bu kapı kesinlikle bu katın\natmosferine uyuyor...
+1|<CLT=cltMIND>Açılacak gibi görünmüyor...\nSanırım şimdilik kendi haline bırakmalıyım.
+2|<CLT=cltMIND>Bu monitörler her yerde,\nama hiç kamera göremiyorum.
+3|<CLT=cltMIND>Bu öldürme oyununun arkasındaki beyin\nbizi nasıl izliyor?
+4|<CLT=cltMIND>Yoksa... aslında hiç\nizlenmiyor muyuz?
+## c04_000_029
+8|<CLT=cltMIND>Birkaç kapsüle bağlı...\nİçine bir insan sığacak kadar büyük görünüyorlar.
+10|Kanepedeki küçük şişe
+11|Miu Iruma'nın cesedinin çevresi
+12|Başa takılan ekran
+## c04_000_031
+7|Öğretmen masası
+## c04_000_036
+8|<CLT=cltMIND>Görünüşe göre bu döşeme tahtaları\n<CLT=cltSTRONG>kirişlerin<CLT=cltMIND> üstüne dizilmiş...
+9|<CLT=cltMIND>Bu, Kiyo'nun cinayet planında\nkilit bir rol oynamıştı...
+10|Köşedeki delik
+## c04_000_037
+1|<CLT=cltMIND>Ritüelin bütün izleri\nyok olmuş.
+## c04_000_100
+12|<CLT=cltMIND>Kiyo, demiştin ki...
+13|<CLT=cltMIND>Ölümle nasıl yüzleştiğin\nnasıl yaşadığını belirler.
+14|<CLT=cltMIND>Belki de... ne demek istediğini anlıyorum.
+15|<CLT=cltMIND>Kaede'nin ölümüyle yüzleşerek... kendi\nyeteneğimi kucaklayıp ilerleyebildim.
+17|Ama senin <CLT=cltSTRONG>cevabını<CLT=cltNORMAL> gerçekten anlayabilecek\nmiyim, bilmiyorum.
+23|Tenko...
+24|<CLT=cltMIND>Duygularını ifade etmek utanç verici değil,\nbu sadece insanca...

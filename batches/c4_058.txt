@@ -1,0 +1,60 @@
+@ chap4_text_US
+## c04_101_208
+45|<CLT=cltMIND>Bu bütün Sanal Dünya'nın\nharitası.
+## c04_102_207
+13|Çatının kenarı bile kabaca üç dört katlı\nbir bina yüksekliğinde.
+14|Evet... atlamak için kesinlikle fazla yüksek.
+15|Yani dışarıdan tırmanmak imkânsız\nolurdu.
+16|<CLT=cltMIND>Yani bu çatıya çıkmanın tek yolu\nmerdivenler...
+20|Hrm...
+22|Böyle karlı bir konakta cinayet\nişlendiğinde...
+23|Her zaman yığılmış karın yarattığı kilitli oda\ngizemleri olur! Değil mi!?
+24|Ama bu dünyada karda ayak izi\nbırakamaman hayal kırıklığı.
+25|<CLT=cltMIND>Bu hayal kırıklığına uğranacak bir şey mi...?
+26|Bu dünyada karda ayak izi\nbırakamaman hayal kırıklığı.
+27|Şey... anlıyorum...
+28|Ne oldu, Tsumugi?
+29|Ah... şu kapı koluna bak. Kilitli.
+30|Ah, öyle...\nMandallı bir kilit.
+31|Kilitlemesi kolay.
+32|Görünüşe göre dışarıda olmadıkça\nkilitleyemiyorsun.
+33|Ve bak. Anahtar deliği kapının bu\ntarafında...
+34|Genelde tam tersi olmaz mı?
+35|Her zaman değil, bunu daha önce gördüm.\nDışarıda kilitli kalmanı önlemek için.
+36|Hmm... Öyle mi...?
+37|<CLT=cltMIND>Bu çatının kapısında kilit var...\nBu önemli bir bilgi.
+38|Bu kapı kilitli.
+39|Ama sadece dışarıdan kilitleyebiliyorsun...
+40|<CLT=cltMIND>Davayla doğrudan bağlantılı olmayabilir\nama bu dürbünü incelemeliyim.
+41|<CLT=cltMIND>Bu binanın bir tepenin üstünde\nolduğunu görebiliyorum...
+42|<CLT=cltMIND>Ve harita yükleme noktası olduğu için\nbu noktanın ötesini göremiyorum.
+43|<CLT=cltMIND>Ama... bu tuhaf...
+44|<CLT=cltMIND>Harita yükleme noktası neden dünyanın\ntam ortasında olsun ki?
+45|Bir şey... doğru gelmiyor.
+51|<CLT=cltMIND>İncelemem gereken her şeyi inceledim.\nGerçek dünyaya dönmeliyim.
+52|<CLT=cltMIND>Hâlâ incelemem gereken yerler\nvar...
+54|<CLT=cltMIND>Buradaki her şeyi inceledim.\nGeriye kalan tek şey...
+55|Ah, buradasın... Seni arıyordum.
+56|Maki? Burada ne işin var?\nProgramı analiz ettiğini sanıyordum—
+57|Monotaro programı analiz etmeyi bitirdi,\nbana herkesi toplamamı söyledi.
+58|Bitirdi mi?
+59|O zaman muhtemelen geri dönmeliyiz. Buradaki\nincelememiz aşağı yukarı bitti, değil mi?
+60|Evet, haklısın.\nİncelemem gereken her şeyi inceledim.
+61|Pekala o zaman, biz önden dönüyoruz.
+62|*hıçkırık* İstemiyorum!\nAvatarıma veda etmek istemiyorum!
+63|O-O kadar mı sevdin?
+64|Biz de gitmeliyiz.
+66|...Ne oldu?
+67|Şey, sınıf duruşmasının *içinde* dışında\nolduğundan kesinlikle daha güvenilirsin...
+68|Diğerleri de öyle düşünüyor...
+70|Kaito gibi konuşmaya çalışmıyorum ama... bence\nbütün yükü tek başına taşımamalısın.
+71|Dedektif olmadan önce sen <CLT=cltSTRONG>Shuichi Saihara<CLT=cltNORMAL>'sın.\nBunu asla unutma.
+72|Gerçi ben konuşmamalıyım. Suikastçı olmak için\n<CLT=cltSTRONG>Maki Harukawa<CLT=cltNORMAL> kimliğimi bir kenara attım...
+73|...Teşekkürler, Maki.
+76|<CLT=cltMIND>Az önce... düşüncelilik mi yaptı?
+## c04_102_208
+0|Hey, Shuichi! O neydi öyle!?
+1|Ah, Kaito! Çok özür dilerim!
+2|Sadece cep telefonunu kullanarak çıkış\nyaptırabilir misin diye görmek istemiştim—
+3|O zaman önce bana söyle! Kalbim için hiç iyi değildi!
+4|Birden çıkış yaptırıldım! Panikleyip\nburaya geri koştum!

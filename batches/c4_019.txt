@@ -1,0 +1,64 @@
+@ chap4_text_US
+## c04_010_100
+27|Konuyu açan sendin, Keebo.\nZulüm kompleksin biraz abartılı.
+28|<CLT=cltMIND>Güçlü inançları var...
+29|Düşünüyordum da... Keebo'nun zulüm\nkompleksi biraz abartılı.
+30|Öte yandan, bu onun en insani yanı\nolabilir. Aslında biraz şaşırtıcı.
+## c04_010_101
+1|Şey... Bu, şeyden... ııı... burasının adı\nneydi... resmi bir anonstur.
+3|Ha? Saat şu an kaç? Unuttum...
+4|Aslında... hep yalnız mıydım?\nBen... onu da unuttum.
+5|Ugh... hatırlayamıyorum... Sanki... eskiden\nbenim için çok önemli biri vardı...
+6|Vaaaaaaaaaaaaaah!!!\nB-Ben... hatırlayamıyorum!
+7|Biliyordum... Bensiz çaresiz.
+8|*burun çekme*... Zavallı Monotaro.
+10|<CLT=cltMIND>Pekala, antrenman vakti.\nKaito ve Maki avluda olmalı.
+## c04_010_262
+1|Kaito? Ne oldu?\nYine tuvalete mi gitmen lazım?
+3|Olanlar yüzünden böyle.
+4|Ne oldu? İyi hissetmiyor musun?
+5|Hayır, iyiyim...\nSadece midem ağrıyor, o kadar...
+6|Hey, bugünkü antrenmanda \negzersiz yerine...
+7|Üçümüz sadece konuşsak nasıl olur?
+9|Konuşmak mı...? Ne hakkında?
+10|Aptal! Kimse konuşmaya başlamadan önce \nne hakkında konuşacağına karar vermez!
+11|Neyse... gidip oturacak bir yer bulalım!
+12|<CLT=cltMIND>Kaito avluda rastgele bir yer seçti\nve hepimiz oturduk.
+14|Peki ne hakkında konuşacağız?
+15|...Buna karar vermemize gerek olmadığını\nsen söylemedin mi az önce?
+16|H-Hadi be, o... sadece şakaydı.\nIııı... ah doğru! O zaman...
+17|Maki hakkında konuşalım.
+18|...Ben mi? Benim neyim?
+19|Bilirsin işte, seninle ilgili genel şeyler.\nBilmediğimiz bir sürü şey var.
+20|Mesela... hangi kan grubunu seversin?
+21|Hangi kan grubunu sever miyim?\nKan grubum ne demek istemedin mi...?
+22|Hm? Tuhaf bir şey mi dedim?
+23|Neyse, boş ver!\nAhahahahaha!
+25|Kaito... bunda biraz kötüsün...
+26|O-O zaman sen sor!\nOna sorun ne, ha!?
+27|...Sizin için kobay gibi miyim?
+28|Şey, aslında sormak *istiyordum*...
+29|İlk tanıştığımızda <CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>\nolduğunu söylemiştin. Neden?
+30|Shuichi, bu çok doğrudan! Öyle lafı\ndolandırmadan sadede gelemezsin!
+31|Ah, öyle mi? Pardon...
+32|Pekala o zaman! Garantiye alalım ve en sevdiği\nuzay gemisini soralım—
+33|Bir yetimhanede büyüdüm.
+35|Ailem hakkında hiçbir şey bilmiyorum...\nHatırlayabildiğim zamandan önce gitmişlerdi.
+36|<CLT=cltMIND>Maki yavaşça bize hikâyesini anlatmaya başladı.
+37|Yaşadığım yetimhanede büyük çocuklar\nküçüklere bakmak zorundaydı.
+38|Bu yüzden ben de küçüklere bakmaya\nbaşladım.
+39|Anlıyorum... Demek o yalan değildi.
+40|Nedense... çocuklar beni sever. Ama onlara\nbakmaktan pek hoşlanmam.
+41|Belki bu sana suikastçı olmaktan daha\nçok yakışıyor.
+42|Mesele bana yakışıp yakışmaması değil.\nBaşından beri hiç <CLT=cltSTRONG>seçme hakkım<CLT=cltNORMAL> olmadı.
+43|Seçme hakkı mı?
+44|10 yaşlarındayken bazı yabancılar\nyetimhaneyi ziyaret etmeye başladı...
+45|İlk başta normal, iyi kalpli adamlar gibi görünüyorlardı...
+46|Yüzlerinde gülümsemeyle çocukların oynamasını\nizlerlerdi. Ama adamlar onlara hiç yaklaşmazdı...
+47|Şimdi düşününce, eminim yeteneklerimizi\ngözlüyorlardı.
+48|Suikastçı mı arıyorlardı?\nVe bu yüzden mi sen seçildin?
+49|Gitmek istemedim ama gidersem büyük\nbir para bağışlayacaklarını duydum...
+50|Gitmem gerektiğini düşündüğümü hatırlıyorum.
+51|Ama... cehennemin başlangıcı oydu.
+52|O günden beri suikastçı olmak için\neğitim aldım.
+53|Sanırım başından beri doğal bir yeteneğim\nvardı ama inanılmaz derecede sıkı da çalıştım.

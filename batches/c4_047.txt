@@ -1,0 +1,62 @@
+@ chap4_text_US
+## c04_100_029
+198|Gonta faili bulmak için elinden geleni yapacak.\nGonta... bu sefer kesinlikle elinden geleni yapacak!
+286|Biri Sanal Dünya'da ölümcül bir yara alırsa\ngerçek dünyada ölür...
+287|Eh, beş duyun bağlı olduğuna göre aynı\nmiktarda acı hissetmen mantıklı.
+288|Yani ölümcül yaradan ölmen çok da\nşaşırtıcı olmaz.
+289|Ama daha önemli soru şu...
+290|Miu neden böyle önemli bir ayrıntıyı\nsır olarak sakladı?
+291|<CLT=cltMIND>Bu tuhaf. Böyle önemli bir ayrıntıdan neden\nbahsetmediği hakkında hiçbir fikrim yok.
+292|<CLT=cltMIND>Bunu bizden bilerek mi sakladı?
+293|Sanal Dünya'nın temel özellikleri hakkında\nyazan bu kadar.
+294|Fizik kanunları dahil Sanal Dünya'nın geri\nkalanı gerçek dünyayla aynı.
+295|Işınlanma ve binek gibi özel ulaşım\nyolları yok.
+296|Yani sadece avatarını kullanarak hareket edebilirsin.
+297|Sanal Dünya'ya ışınlanma ve binek\neklemeliydi.
+298|Bu metin dosyasında yazan bu kadar...
+299|Teşekkürler, Maki. Çok yardımcı oldu.
+300|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Öldürme Oyunu Simülatörü<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+301|Ama metin dosyasındaki bilgi doğru mu?
+303|Senden şüphelendiğimden falan değil, Maki. Sadece\no dosya yeniden yazılmış olabilir diyorum.
+304|Biri orijinal bilgiyi yanlış bilgiyle değiştirmiş\nolabilir, biliyor musun?
+305|Ama bunu anlamak için kapsamlı bilgisayar\nbilgisi gerekir—
+306|Bu tam bana göre bir iş!
+309|...Yolumuza çıkma.
+310|Yolunuza çıkmayacağım! Hatta soruşturmaya\nyardım etmeme izin vermenizi istiyorum!
+311|Soruşturmaya yardım mı...?\nMonotaro, ne diyorsun sen?
+312|Hadi, lütfen! Soruşturmaya yardım\netmeme izin vermez misiniz?
+313|Bilgisayarlarda kötü olduğumu unuttuğumdan\nberi artık bilgisayarlarda iyiyim!
+314|Bu mantık... hiç mantıklı değil.
+315|O-Olmaz, Monotaro...
+316|Katılımcılara yardım etmemize izin yok.\nMaskotlar olarak o kurala uymalıyız.
+317|Kurallar zerre umurumda değil!\nHerkese yardım etmek istiyorum!
+318|Ölen annemin intikamını almak istiyorum!
+319|"Annen" mi? Miu'yu mu kastediyorsun?
+320|H-Hayır, Monotaro... Yine unuttun...
+321|Onun annemiz olmadığını unuttun...
+322|Ve... korumak zorunda olduğun önemli\nkişiyi unuttun—
+323|Kes sesini, domuz! Annemin ölümünün\nintikamını almakla meşgulüm!
+324|Ergh... Ngh... Ne kadar üzücü ama görünüşe\ngöre bu bir veda...
+325|Seni seviyorum ama... korumam gereken\nbiri var...
+326|Elveda!
+327|Pekala o zaman, hadi bakalım!
+328|...Ne yapalım?
+329|Benim için fark etmez. Yardım etmek\nistiyorsa sorun değil.
+330|D-Doğru, sanırım ama...
+331|Teşekkürler! Annem için elimden geleni yapacağım!
+332|B-Bekle, belki de—
+333|Ölen annesi için elinden geleni yapıyor!\nÇ-Çok duygulandım... VAAAAAAAAHHH!!!
+335|...Peki, tamam. O zaman sana bırakıyorum.\nSanırım başka çarem yok.
+336|Tamaaam! Bilgisayarı hemen analiz\netmeye başlıyorum!
+337|GYAHHHHHHHHHHHHHHHH!
+338|Bu ufacık bilgisayar ellerime\nrakip olamaz!
+339|Gah! Elleri o kadar yoğun bir hızla gidiyor ki\nsürtünme ateş yaratıyor!
+340|Şimdiden birkaç şeyi analiz ettim!
+341|Şimdiden mi!?
+342|Metin dosyası orijinal programla tutarlı.\nDeğiştirilmiş gibi görünmüyor.
+343|Ayrıca... bunu da buldum.
+344|Bu... herkesin giriş ve çıkış yaptığı\nzamanların bilgisine benziyor.
+345|Bunun da değiştirildiğine dair bir iz yok!\nKesinlikle doğru bilgi!
+346|Bana gösterebilir misin?
+347|<CLT=cltMIND>Gerçekten de herkesin giriş ve\nçıkış saatleri kaydedilmiş.
+348|Miu dışında herkes bir kez giriş ve\nçıkış yapmış...

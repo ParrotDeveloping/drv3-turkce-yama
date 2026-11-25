@@ -1,0 +1,78 @@
+@ chap4_text_US
+## c04_229_000
+10|Ah! Ramenman'ın öğrencisi!\nŞey, pardon... Hobilerim araya girdi...
+11|<CLT=cltMIND>Miu'nun avatarının böyle taşındığından\neminim. Ama...
+12|<CLT=cltMIND>Belki fail cesedinin kaymasına yardım\netmek için başka bir şey de kullanmıştır.
+## c04_230_000
+0|Haaa?\nShuichi'nin beni reddedeceğini hiç beklemiyordum!
+1|Bir düşün, Bay Dedektif.\nKayaklar ve kızaklar gibi!
+3|Şey... Çatıda kesinlikle kar\nbirikmişti...
+4|Ama Miu'nun avatarını yeterli ivmeyle\nkaydırabilir miydin?
+6|Sanal Dünya olabilir ama fizik kanunları\ngerçek dünyanınkine epey benziyor.
+7|Yani aynı fizik kanunları Sanal Dünya'ya\nda uygulanabilir, değil mi?
+9|Yok öyle!\nKayak da kızak da yoktu!
+10|Kayak ya da kızak olmasa bile benzer\nbir şey kullanabilirdin!
+12|<CLT=cltMIND>Bir cesedi kaydırarak taşımak\nisteseydin bunu nasıl yapardın?
+13|<CLT=cltMIND>Kullanılabilecek bir şey olduğunu\nsöylemek yerinde olur...
+15|<CLT=cltMIND>Olay yerinde yardımcı olacak\nbir şey bırakılmıştı...
+## c04_230_001
+0|Avatarı
+1|Avatarı çatıdan kaysa bile...
+2|çatıdan kaysa bile...
+3|O kadar hızlı\n<CLT=size2>kayar mıydı?
+4|O kadar hızlı kayar mıydı?
+5|<CLT=cltWEAK>Tabii ki kayardı.
+6|Tabii ki kayardı.
+7|O kadar <CLT=size2>ses<CLT=size1> çıkardıysa...
+8|O kadar ses çıkardıysa...
+9|epey <CLT=size2>hız<CLT=size1> <CLT=size2>kazanmış
+10|epey hız kazanmış olmalı.
+11|olmalı.
+12|Çatıda bir sürü <CLT=cltWEAK><CLT=size2>kar
+13|Çatıda bir sürü kar birikmişti...
+14|<CLT=cltWEAK><CLT=size2>birikmişti<CLT=cltNORMAL><CLT=size1>...
+15|ama\n<CLT=size2>donmamıştı,<CLT=size1> değil mi?
+16|ama donmamıştı, değil mi?
+17|Yine de\nkayardın.
+18|Yine de kayardın.
+19|<CLT=size2>Gerçek dünyada\n<CLT=size1>bu <CLT=size2>zor<CLT=size1> olabilir...
+20|Gerçek dünyada bu zor olabilir...
+21|ama
+22|ama Sanal Dünya'da belki değildir...
+23|<CLT=cltAGREE><CLT=size2>Sa
+24|<CLT=cltAGREE><CLT=size2>nal
+25|<CLT=cltAGREE><CLT=size2> 
+26|<CLT=cltAGREE><CLT=size2>Dün
+27|<CLT=cltAGREE><CLT=size2>ya
+28|<CLT=cltAGREE><CLT=size2>'d
+29|<CLT=cltAGREE><CLT=size2>a,
+30|belki değildir.
+31|Mesele o değil...
+32|Mesele o değil...
+33|Karda\nkaymak\n<CLT=size2>kolay\n<CLT=size1>bir\nşey.
+34|Karda kaymak kolay bir şey.
+35|Sadece
+36|Sadece sürtünmeyi azaltacak bir kızak ya da kayak lazım!
+37|bir <CLT=size2>kızak
+38|ya da <CLT=size2>kayak
+39|sürtünmeyi azaltacak!
+40|Ama etrafta <CLT=cltWEAK><CLT=size2>öyle bir şey\n<CLT=size1>yoktu<CLT=cltNORMAL> ki!
+41|Ama etrafta öyle bir şey\nyoktu ki!
+42|Bu mümkün değil!
+43|Sadece yuvarlanırsın...
+44|Vııın!
+45|GÜÜÜM!!!
+46|...diye oldu işte.
+47|Kartopuna sarılarak mı!?
+48|Donmamıştı...
+49|Ama yine de gerçek dünya fiziği var, değil mi?
+50|Hiç kızak ya da kayak görmedim...
+51|Benzer bir şey var mıydı?
+## c04_231_000
+0|Failin cesedi kaydırmak için kullanabileceği\nbir şey vardı! <CLT=cltSTRONG>Tabela<CLT=cltNORMAL>!
+1|Tabela mı!?
+2|Miu'nun cesedini üstüne koyup onu bir\nçeşit kızak olarak kullanırsın.
+3|Cesedi kaydırmak için *kullanabilirdin* ama\nköprü olarak kullandığımız tabela tekti.
+4|Fail o tabelayı kızak olarak\nkullanmış olamaz.
+5|<CLT=cltMIND>Maki haklı, tam olarak o tabela\nolamaz. Ancak...
+6|<CLT=cltMIND><CLT=cltSTRONG>O<CLT=cltMIND> bunun nasıl yapıldığını\ngayet iyi biliyor.

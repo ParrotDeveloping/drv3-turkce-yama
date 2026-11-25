@@ -1,0 +1,67 @@
+@ chap4_text_US
+## c04_231_000
+63|<CLT=cltMIND>Doğru, beş şüpheli...\nBen, Tsumugi, Gonta, Kokichi ve Kaito.
+64|<CLT=cltMIND>Faili söyleyecek kadar bilgimiz yok ama\naralarından biri şüpheli...
+65|<CLT=cltMIND>Çatıdan bahsederken açıkça\nyalan söyledi...
+66|<CLT=cltMIND>Ama yalan söylemek için ne\nsebebi olabilir?
+67|<CLT=cltMIND>Bir yargıya varmadan önce ondan\nbilgi almak için üstüne gitmeliyim.
+68|...Kaito... çatı hakkında bir şeyde\nyalan söyledin mi?
+69|Ne diyorsun sen!?\nYalan söylemem!
+71|...Gonta, çatı hakkında bir şeyde\nyalan söyledin mi?
+72|Ne? Gonta bu Sanal Dünya işlerini\npek anlamıyor...
+73|Ama Gonta'nın Miu'yu öldürmesinin\nhiçbir imkânı yok! Buna inan!
+75|...Tsumugi, çatı hakkında bir şeyde\nyalan söyledin mi?
+76|Şey... Çatı hakkında yalan söylemem\niçin pek bir sebep yoktu...
+78|Vay be... seçilecek o kadar çok şüpheli var ki.\nBu seni biraz zorluyor mu, dedektif?
+80|Hayır! Hareketin yönüne bakarsak çatıya\ngiden biri olmalı!
+81|Oraya hiç çıkmadım.
+83|Yalancı kim?
+84|Kokichi, bilmem gereken bir şey var.
+85|Hm? Neyi bilmen lazım?
+86|Az önce neden yalan söyledin?
+87|Hangi yalandan bahsediyorsun, Shuichi?\nÇok yalan söylerim, hafızamı tazelemen lazım.
+88|Peki. <CLT=cltSTRONG>Yalanını<CLT=cltNORMAL> şimdi ortaya çıkaracağım...
+91|Muhtemelen öyle oldu.\nFail onu kilitli çatıda öldürdü.
+92|Beni rahatsız eden o ifadeydi.
+## c04_233_000
+0|Çatının kapısının kilitli olduğunu\naçıklarken şöyle demiştin...
+2|Ama sonra şöyle dedin...
+5|Ve eğim şapel duvarına bakıyordu.\nÜstüne üstlük çatıda kar vardı.
+6|Bu çok ayrıntılı bir bilgi. Orada\nbulunmasaydın bilemeyeceğin şeyler.
+7|Ah, evet! Sen söyleyince... bunları\nnereden *biliyordun*!?
+8|Çatının dik eğimini muhtemelen konağın\ndışından görebilirdin.
+9|Ama çatıya bizzat çıkmadıysan tuğla\nkorkuluğu bilemezdin.
+11|H-Ha? N-N-Ne...?
+12|Bu da ne demek, Kokichi?\nGerçekten çatıya çıktın mı?
+13|B-B-Ben... ç-çıkmadım...\nBunu sana d-daha önce s-söyledim...
+14|Neden bu kadar gergin görünüyorsun?
+15|Bu samimi bir tepki mi?
+16|A-Ama... ç-çatıya çıktığımı k-kanıtlayan\nhiçbir k-kanıt yok...
+17|Ah, dur! Şimdi hatırladım!\nHimiko'nun söylediği o şey!
+18|Nyeh!? B-Ben mi!?
+19|Sınıf duruşmasının başında <CLT=cltSTRONG>korkuluğun\ntuğladan<CLT=cltNORMAL> yapıldığını söylediğini hatırlıyorum.
+20|Ooohhh! Ne kadar sakarsın kızım!\nDaha dikkatli olmalısın, Himiko!
+21|B-Benim suçum mu...?
+22|Himiko gerçekten öyle dedi mi?
+23|Kesinlikle öyle dedi!
+24|Hayır demedi!
+25|Evet, dedi!
+26|Demedi!
+27|Dedi işte!
+28|O zaman ne zaman!? Ne kadar önce olduğunu söyle!\nSaat, dakika ve saniye olarak!
+29|Puhu, ne değersiz bir kavga.
+30|Durdur onları, Dede! Bu korkunç kavga\nbebek için kötü!
+31|Evet, Dede! Torunun doğmadan önce\ndurdur onları!
+33|Özür dilemeyeceğim! Çünkü Himiko söyledi!
+34|Grgh—! Ne kadar inatçı!
+35|Daha ne kadar böyle\ndavranacaksın?
+36|<CLT=cltMIND>Buna vaktimiz yok...
+37|<CLT=cltMIND>Ama Kokichi inatçı.\nNe olursa olsun itiraf etmeyecek.
+38|<CLT=cltMIND>Ama bu kadar inatçıysa saklayacak\nbir şeyi var gibi düşünüyorum.
+39|<CLT=cltMIND>Kartlarını açmasını sağlamak için\nçatıda olduğunu kanıtlamalıyım.
+40|<CLT=cltMIND>Hoşuma gitmeyebilir ama...\nsaldırgan olmalıyım.
+41|<CLT=cltMIND>Şimdi gerçeğin tamamını öğrenmezsek\nherkesin hayatı tehlikede.
+## c04_234_000
+0|Kilit açmayı biliyorsun, değil mi Kokichi?\nKapının kilidini açabilirdin.
+1|H... H-Hayır...\nAvatarımın bedeniyle yapamazdım...
+2|Bu doğru, tamam mı!?\nY-Yalan söylemiyorum!

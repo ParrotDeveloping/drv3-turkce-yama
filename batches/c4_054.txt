@@ -1,0 +1,49 @@
+@ chap4_text_US
+## c04_101_200
+57|Az önceki için özür dilerim...
+58|Ah, özür dilemene gerek yok...
+59|<CLT=cltMIND>Ben de... neden özür dilediğinden\npek emin değilim zaten.
+60|Miu'nun avatarını burada bulduk...
+61|Hafıza bankamdaki veriler olay yerinin\ndeğiştirilmediğini doğrulayabilir.
+62|Hey, Himiko. Miu'yu bulduğunuz anı bana\nbir kez daha anlatabilir misin?
+63|Nyeh, şapelde <CLT=cltSTRONG>dış dünyanın\nsırrını<CLT=cltNORMAL> arıyorduk...
+65|Aramaya başladıktan bir süre sonra\ndışarıdan çok yüksek bir ses duyduk.
+67|<CLT=cltMIND>Şapel duvarına bir şey mi çarptı?
+69|Ve sonra... hepimiz çıkış yapıp Miu'nun gerçek\nbedenine bakmak için konağa gitmeye çalıştık...
+70|Ama nehre vardığımızda nedense\nköprü yoktu.
+72|Teşekkürler, anladım.
+73|<CLT=cltMIND>O ifadede bir ipucu\nolmalı...
+74|Bu kadar kar yağıyorsa ipuçları\ngömülebilir...
+75|Belki failin istediği de buydu?
+78|Böyle olacağını biliyordum ama...\n*brr* Soğuk!
+79|Miu'nun avatarının üstünde kar birikmemiş.\nYolda da birikmiyor...
+80|Acaba kar sadece belirli yerlerde birikecek\nşekilde mi programlanmış.
+81|Ah, aklıma geldi... Karda ayak izi\nbırakamıyorsun, değil mi?
+82|Öyle görünüyor...\nBu bir öldürme oyunu simülatörü.
+83|Muhtemelen karda ayak izi olsa faili bulmak\nkolay olacağı içindir.
+84|Yani kar muhtemelen bu dava için\nbir ipucu değil...
+85|Karda ayak izi bırakamıyorsun...\no yüzden muhtemelen ipucu değil...
+86|<CLT=cltMIND>Miu'nun avatarı karın içinde\nyığılmış, donmuş halde.
+87|<CLT=cltMIND>Çıkış yapan avatar yok olur ama gerçek\nbeden ölürse avatar kalır.
+88|<CLT=cltMIND>Öldürme oyunu simülatörü için mantıklı.\nBeden yok olsaydı inceleyemezdik.
+89|Avatarlarda hiç yara görünmüyor, o yüzden\naynı kalıyorlar... Hâlâ neredeyse canlı görünüyor.
+90|Burada yüzü çok güzel, değil mi?\nÖldüğüne... inanmak zor.
+92|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Miu'nun Avatarı<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+97|Avatarlarda hiç yara görünmüyor,\no yüzden aynı kalıyorlar...
+98|<CLT=cltMIND>Bu bir kafes parçası mı?\nNeden burada?
+99|Nyeeeh... Gizemli bir nesne.
+100|Ahşap bir paspas.\nEskiden banyolarda yaygındı.
+101|Şapelde... öyle bir şey görmedim.\nNereden geldi ki...?
+102|<CLT=cltMIND>Şapelden değil...\nO zaman neden burada?
+103|Nyeeeh! Sihrimle az önce çözdüm!
+104|Ha? Çözdün mü?
+105|Belki biri nehri geçmek için tabela\nyerine bunu kullanmıştır?
+106|O biri... faildir!
+107|Ah... öyle olduğunu sanmıyorum...\nNehrin akıntısı epey hızlı.
+108|Geçmek için kullanmış olsan bile\n*burada* olması için bir sebep yok.
+109|B-Biliyorum...\nSadece seni biraz test ediyordum.
+110|<CLT=cltMIND>...Beni neden test etmek isteyesin ki?
+111|Ama... bu ne demek? Böyle bir şeyin\nburada ne işi var?
+112|<CLT=cltMIND>Bu kafesin neden burada bırakıldığından\nemin değilim ama...
+113|<CLT=cltMIND>Davayla bir ilgisi olması\ngerektiğinden eminim.
+114|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Şapelin Yanındaki Kafes<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.

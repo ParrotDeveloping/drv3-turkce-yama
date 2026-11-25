@@ -1,0 +1,60 @@
+@ chap4_text_US
+## c04_203_000
+58|Zehirlenmediyse o zaman neydi...?\nHmm... Vücudu da yaralı değildi.
+60|Miu'nun ölüm sebebi gerçekten bu mu?\nAnlamıyorum...
+61|Cesede bakılırsa belki ölüm sebebi\ngerçek dünyada değildi...
+63|Miu'nun ölüm sebebi neydi?
+64|Miu'nun ölüm sebebi <CLT=cltSTRONG>öldürme oyunu\nsimülatörünün<CLT=cltNORMAL> kendisiydi.
+65|Sanal Dünya'da avatarın ölümcül hasar alırsa\ngerçek vücudun şoktan ölür.
+66|Bu, programın metin dosyasında açıkça\nbelirtilmişti.
+67|Miu Sanal Dünya'da ölümcül hasar aldı\nve o şoktan öldü...
+68|Öyleyse ölüm sebebinin aslında simülatör\nolduğunu söylemek yerinde olur.
+69|Şeyy... Gonta'nın sorusu var...
+70|Bu "<CLT=cltSTRONG>Sa-nal Dün-ya<CLT=cltNORMAL>" denen yer nerede?\nHangi katta?
+71|Anlamıyorsan hiçbir şey\nsöyleme.
+72|Miu Sanal Dünya'da öldürüldüyse\nbulmamız gereken bir sonraki şey...
+73|Sanal Dünya'da ölümcül hasar almasına\nneyin sebep olduğu.
+74|Yani önemli olan Sanal Dünya'daki\nölüm sebebi.
+75|Ş-Şeyy...
+76|Ah, görünüşe göre Gonta'nın kafası karıştı,\no yüzden neden biraz gözden geçirmiyoruz?
+77|Şey... Yani <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL>\nbulmak için iki gruba ayrıldık.
+78|Konağı arayanlar ben, Shuichi,\nTsumugi, Gonta ve...
+79|...şu NPC Kaito!
+80|Hey! Kime NPC diyorsun, seni Ö-K-Ü-Z!?
+81|Şapeli arayan diğerleri de Kee-çocuk,\nMaki, Himiko ve... merhum Miu'ydu.
+82|Böyle bir durumda biri ona nasıl\nölümcül hasar vermiş olabilir?
+83|Düşünmemiz gereken bu!\nŞimdi hep birlikte çalışalım!
+84|Ooo, minik Himiko büyümüş!\nGöğsünün büyümemesi ne yazık ama.
+85|Buna hiç gerek yoktu! Bir gün\ngöğsüm deli gibi büyüyecek!
+86|...O zaman başlayalım.
+87|<CLT=cltMIND>Miu'nun Sanal Dünya'da aldığı\nölümcül hasar...
+88|<CLT=cltMIND>Bunu netleştirelim.
+## c04_204_000
+0|Shuichi, sen de mi öyle düşünüyorsun?\nGörünüşe göre üçüncü gözüm gerçeği görmüş!
+1|Yok, Miu'nun cesedini hatırlamalısın.
+2|Gerçekten çekiçle mi öldürüldü?
+4|Bekle! Sanal Dünya'da herkesin aynı\nfiziksel güce sahip olması gerekiyordu!
+5|O ve Gonta eşit güçteyse sadece\ndarbe yiyerek ölmezdi!
+7|Ooohh, boğma! Profesyonel bir katilin\nkesinlikle kullanacağı garantili bir yöntem!
+8|Ama bu boğulduğunu nasıl kanıtlıyor?\nPek anlamadım.
+10|Miu'nun avatarının durumuna bakılırsa\nitilmiş gibi görünüyor...
+11|Ama bunu destekleyecek bir kanıt yok...
+13|Miu ölürken acı çekiyor gibiydi, o yüzden...\nbelki boğulmuştur diye düşündüm...
+14|Ama... şimdi düşününce...\nBunun için gerçekten hiçbir kanıt yok...
+16|<CLT=cltMIND>Belirli ölüm sebebini\nbelirlememiz lazım.
+17|<CLT=cltMIND>Acı çekiyordu...\nBoğulmuş olma ihtimali var.
+19|<CLT=cltMIND>Miu'nun cesedinin durumunu düşünürsem\nbir ipucu çıkmalı.
+## c04_204_001
+0|<CLT=size2>Sanal Dünya'da<CLT=size1> Miu
+1|Sanal Dünya'da Miu ölümcül şekilde yaralandı...
+2|<CLT=size2>ö
+3|<CLT=size2>lüm
+4|<CLT=size2>cül
+5|<CLT=size2>şekilde
+6|<CLT=size2>yaralandı...
+7|O yüzden çabalarımızı\n<CLT=size2>önce<CLT=size1> buna <CLT=size2>odaklayalım.
+8|O yüzden çabalarımızı önce buna odaklayalım.
+9|Miu'ya\n<CLT=size2>bunu yapan<CLT=size1>\nşey her neyse...
+10|Miu'ya bunu yapan şey her neyse...
+11|avatarının hemen yanına\n<CLT=size2>düşürülmüştü.
+12|avatarının hemen yanına düşürülmüştü.

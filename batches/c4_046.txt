@@ -1,0 +1,42 @@
+@ chap4_text_US
+## c04_100_029
+236|Aradık ama hiçbir şey bulamadık.\nSonra tam yorulmaya başlamışken...
+237|Birden dışarıdan çok yüksek bir\nses duyduk.
+238|<CLT=cltMIND>Benim duyduğum ses de o olmalı.
+239|Bir şey şapelin duvarına çok sert çarpmış\nolmalı. Ta içeriden hissettik.
+240|<CLT=cltMIND>Şapel duvarına çarpan bir şey...
+241|Hepimiz şapelin yan tarafına bakmak için\ndışarı koştuk ve Miu'nun avatarını bulduk.
+242|Miu'nun gerçek bedenine bakmak için\nçıkış yapmaya o zaman gittiniz, değil mi?
+243|Ama nehre gittiğimizde nedense\nköprü yoktu.
+244|Sonra ne yapacağımızı düşünerek orada\ndikilirken siz geldiniz.
+245|Anlıyorum. Teşekkürler.
+246|Bu ifade önemli gibiydi, özellikle\nnehri geçemedikleri kısmı.
+247|Çünkü geçemedilerse o zaman kimse konakla\nşapel arasında gidip gelemezdi.
+248|O zaman bu, Miu ile temas kurmuş olabilecek\nkişileri daraltmamıza yardım ediyor.
+249|<CLT=cltMIND>Şapelde Miu ile kim temas\nkurmuş olabilir...?
+250|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Şapeldeki Olaylar<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+251|Miu'nun avatarını bulduktan sonra ne olduğunu\nbiraz daha anlatabilir misin?
+252|Hrm... şapelde <CLT=cltSTRONG>dış dünyanın\nsırrını<CLT=cltNORMAL> arıyorduk...
+253|Ama Miu şapelin dışına bakmaya gönüllü\nolduğu için bizden ayrıydı.
+254|<CLT=cltMIND>Bunda bir tuhaflık var. Miu hep çok\ntembeldi, neden buna gönüllü olsun ki?
+258|<CLT=cltMIND>Şapel duvarı...
+264|<CLT=cltMIND>Himiko'nun ifadesi kimsenin konakla\nşapel arasında gidip gelemeyeceğini söylüyor.
+266|<CLT=cltMIND>Maki bilgisayarda çalışıyordu,\neli fareyi hızla oynatıyordu.
+267|O bilgisayarı kullanmayı biliyor musun, Maki?
+268|Hayır, pek değil. Bu programı daha önce\nhiç kullanmadım da.
+269|Anlıyorum... Uzman olmadıkça anlamanın\nzor olacağını tahmin ediyorum.
+270|Ama bu programla ilgili metin dosyasını\nbuldum.
+271|Programın temel özellikleri hakkında bilgi var,\nama onun dışında pek bir şey yok.
+272|Oo, peki ne yazıyordu?
+274|Bana söylemek istemiyorsan bari\nShuichi'ye söyle.
+275|Bu metin dosyasına göre...
+276|Öldürme oyunu simülatörü temel olarak\nbelirli bir program kullanmış.
+277|Adı <CLT=cltSTRONG>Neo World Program<CLT=cltNORMAL>.
+278|<CLT=cltSTRONG>Neo World Program<CLT=cltNORMAL> mı...?\nHmmm, hiç duymadım.
+279|Bu öldürme oyunu simülatöründe\n<CLT=cltSTRONG>nesneler kırılamaz<CLT=cltNORMAL>...
+280|Vücudunun beş duyusu avatarına bağlı\nve avatarına zarar verilemez...
+281|Ama avatarına verilen her hasar gerçek\ndünyadaki vücuduna aktarılır.
+282|<CLT=cltMIND>Bu Miu'nun bize söyledikleriyle uyuşuyor.
+283|Avatarın ölümcül hasar alırsa\ngerçek vücudun şoktan ölür.
+284|Şoktan mı?
+285|Ooohh, bunu ilk defa\nduyuyoruz.

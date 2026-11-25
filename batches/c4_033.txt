@@ -1,0 +1,63 @@
+@ chap4_text_US
+## c04_018_206
+93|Peki bize ne söyleyeceksin, Miu?
+94|Şey, o kadar da büyük bir şey değil ama bu\ndünyanın özel bir kuralı var...
+95|...Buradaki nesneler kırılmaz.
+96|Hm? Nesneler kırılmıyor mu?
+97|Sanal Dünya'da <CLT=cltSTRONG>nesnelerin kırılıp kırılamayacağını<CLT=cltNORMAL>\nbelirleyen hiçbir kural yok.
+98|Yani hangi nesne olursa olsun, asla\nkırılamaz.
+99|Mesela bir lastik bandı yeterince gerersen\nsonunda kopar, biliyor musun?
+100|Ama burada lastik bant belli bir noktada\ngerilmeyi durdurur ve hiç kopmaz.
+101|Aynı sebepten avatarlarınız da yaralanamaz.\nYine de acı hissedersiniz.
+102|Gördünüz mü? Büyük bir şey değil demiştim!
+103|Ne diyorsun sen!? Bu çok büyük bir şey!\nBöyle şeyleri bize önceden söylemelisin!
+104|Hiiiiiiiiiiiii! Ö-Özür dilerim!
+105|A-Ama... tek özel şey bu! Diğer her açıdan\nburadaki fizik aynı—
+106|...Ah, dur. Doğru ya... Avatarlarla ilgili\nde özel bir şey var...
+107|Daha da mı var!? Söyle artık!
+108|Hiiiiiiiiiiii! Özür dilerim, özür dilerim!
+109|Peki avatarların nesi özel?
+110|Adil olsun diye... bu dünyadaki herkesin\navatarı aynı ortalama fiziksel güce sahip...
+111|Yani fiziksel yeteneklerimiz arasında\nfark edilebilir bir fark yok mu?
+112|Yani bu Sanal Dünya'da ben de Gonta\nkadar güçlü müyüm?
+113|Ne!? Gonta daha mı zayıf!?\nBu da mı Himiko'nun sihri yüzünden!?
+115|B-Benim suçum değil. Bu dünya...\nböyle işte.
+116|...Bu dünyada farklı olan şeyler sadece\nbunlar mı, Miu?
+117|E-Evet... hepsi bu.
+118|Bu arada, bu dünyadan nasıl çıkış yapıyoruz?
+119|A-Ah evet, doğru...\nBunu söylemem lazım.
+120|Çıkış yapmak isterseniz şuradaki telefonu\nkullanmanız yeterli.
+121|Sadece kaldırıp adınızı söyleyin.\nBu kadar basitlik size yeter mi, pislikler?
+122|Ayrıca o telefon sabit ve o odadan\nçıkarılamaz.
+123|Yani giriş ve çıkış yapmak için bu\nodayı kullanmak zorundasınız.
+124|Giriş yaptığınızda her zaman bu odada\nbelirirsiniz.
+125|Hmm... tamam, anladım.
+127|Evet, anladık. Peki bu harita nerede?
+128|Harita bu odanın dışındaki duvarda asılı.\nBeni takip edin.
+129|<CLT=cltMIND>Bu telefon *nedir* ki?\nNereye bağlanıyor?
+130|<CLT=cltMIND>Çıkış yapmak için bu telefonu kullanıyoruz...
+131|<CLT=cltMIND>Telefonu kaldırıp adını söyleyerek\nçıkış yapıyorsun.
+132|<CLT=cltMIND>Telefon taşınabilir değil, yani sadece\nbu noktadan çıkış yapabilirsin.
+133|<CLT=cltMIND>Sanırım burası hakkındaki tek bilgi\nkaynağı Miu...
+## c04_018_207
+0|...Kar mı?
+1|Burada kar var...
+2|Vay! Kar bu! Bak, Maki Rulo!\nKar! Bak! Kar!
+3|Köpek misin sen?
+4|Burası... soğuk mu? Avatarlarımız soğuğu\nhissedebiliyor mu?
+5|Evet! Harika değil mi!?
+6|Sadece soğuğu değil, acıyı ve zevki\nbile hissedebilirsiniz!
+7|Hatta burada doğum kontrolü kullanmanıza\nbile gerek yok!
+8|Hey... lütfen sessiz olmaya çalış. Sanki sen\nkonuştukça senden daha çok hoşlanmayacağım.
+9|Önce çatıyı keşfederek başlasak\nnasıl olur?
+10|Evet, öyle yapalım.
+11|Kar bu, Shuichi! Kar! Kar!\nHer yerde birikiyor! Bak!
+13|<CLT=cltMIND>Gerçekten heyecanlı bir köpek yavrusu gibi...
+14|Buradan her şeyi oldukça net\ngözlemleyebilirsin.
+15|Gözümüze çarpabilecek herhangi bir şey\narayalım.
+16|Haritayı iyice incelemiş olsak da\nonu Miu yarattı...
+17|Bize söylemeyi unuttuğu başka şeyler\nolabilir, ne demek istediğimi anlıyorsan.
+18|Soğuk ve kar... hatta bu bulutlu gökyüzü\nbile bir şekilde ferahlatıcı.
+19|Akademide hapsolduğumuzdan beri...
+20|Kar için nasıl bu kadar heyecanlanabiliyorsun?\nArtık çocuk değilsin...
+21|Hey, Maki Rulo.\nErkekler...

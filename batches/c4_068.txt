@@ -1,0 +1,75 @@
+@ chap4_text_US
+## c04_206_000
+6|<CLT=cltMIND>...Bu fazla duygusallaşıyor.\nMantıklı bir tartışma için iyi değil.
+7|<CLT=cltMIND>Savda bir açık fark ettim. Ona karşı\nçıkıp tartışmayı yoluna sokmalıyım.
+9|<CLT=cltMIND>Az önceki konuşmada bir tuhaflık\nvardı. Ona saldırmalıyım.
+## c04_206_001
+0|Saçmalığın\nzamanı değil!
+1|Saçmalığın\nzamanı değil!
+2|Tuvalet\nkâğıdını\nkullanamazsın...
+3|Tuvalet kâğıdını kullanamazsın
+4|ip\nyerine!
+5|ip yerine!
+6|Çok
+7|Çok kolay yırtılır!
+8|<CLT=cltWEAK>kolay
+9|yırtılır!
+10|Gonta bile biliyor,
+11|Gonta bile biliyor, ve Gonta akıllı değil!
+12|ve Gonta
+13|akıllı değil!
+14|<CLT=size2>Hayır,<CLT=size1> eminim ki
+15|Hayır, eminim ki ip yerine\ntuvalet kâğıdı kullanıldı!
+16|ip yerine\n<CLT=size2>tuvalet kâğıdı<CLT=size1> <CLT=size2>kullanıldı!
+17|Miu öldü
+18|Miu öyle korkunç bir ölümle öldü...
+19|öyle
+20|korkunç bir ölümle...
+21|O zaman neden
+22|O zaman neden bunu ciddiye almıyorsun!?
+23|ciddiye
+24|almıyorsun!?
+25|Kendine\nUltimate Dedektif\nmi diyorsun!?
+26|Kendine\nUltimate Dedektif\nmi diyorsun!?
+27|Kafanı
+28|Kafanı kullan!
+30|kullan!
+31|Gerçek cinayet\nsilahını bul!
+32|Gerçek cinayet\nsilahını bul!
+33|Hayır, eminim ki
+34|Hayır, eminim ki ip yerine\ntuvalet kâğıdı kullanıldı!
+35|ip yerine<CLT=size2>\n<CLT=size2>tuvalet kâğıdı<CLT=size1> <CLT=size2>kullanıldı!
+## c04_207_000
+0|Tuvalet kâğıdı yırtılmazdı.
+1|Çünkü Sanal Dünya'da nesneler\nkırılamaz!
+2|...Kırılamaz mı?
+3|Nii-hihi! Çok aptalsın, Gonta!\nBunu bile bilmiyor muydun?
+4|O dünyada nesneler kırılamıyorsa tuvalet\nkâğıdının da yırtılamaması gerekir.
+5|Ve yırtılamadığına göre ip olarak\nkullanılabilirdi.
+6|Gonta... pek anlamıyor ama...
+7|Özür dilerim, Shuichi! Gonta yanılmış!
+8|Sorun değil, Gonta. Dert etme.
+9|Tuvalet kâğıdıyla öldürülmek...\nOna... yakışan bir sondu...
+10|Yakışan bir son mu...? O mantığı tam\nolarak anlamıyorum.
+11|Ama Miu şapelin yanında öldürüldüyse cinayet\nsilahı neden konağın yanındaydı?
+12|Belki fail kanıtı yok etmek için ondan\nkurtulmaya çalıştı.
+13|<CLT=cltMIND>Fail kanıttan kurtulmak istediyse\nbunu pek beceremedi.
+14|<CLT=cltMIND>Onu yok edebilecekleri çok daha\niyi bir yer vardı.
+15|Cinayet silahı tuvalet kâğıdıysa yanındaki\nçekicin olayı ne?
+16|Belki fail her ihtimale karşı yedek bir\nsilah hazırlamıştı?
+17|Hayır, çekici fail getirmedi.
+18|Hayır mı? Ama failden başka kim\nçekiç getirir ki?
+19|<CLT=cltMIND>Dur, o çekici kimin getirdiğini\nzaten biliyoruz...
+20|Miu'yu öldüren
+21|Miu'yu öldüren fail\nçekici getirdi.
+22|Ha? Ama Miu tuvalet kâğıdıyla\nöldürülmedi mi?
+23|Çekice neden ihtiyaçları oldu?\nBiraz gereksiz gibi...
+27|...Kokichi? Sen miydin?
+28|Miu silah olarak kullanılabilecek her nesneyi\nsilmişti, değil mi?
+29|Öyleyse çekici de silmiş olmalı. Ve var\nolmayan bir çekici getiremem.
+30|Benden şüphelenmek istemene kızmıyorum ama\nduygularının araya girmesine izin verme.
+33|Tabii ki Monokuma getirdi!
+34|Sanal Dünya'nın başta Monokuma'nın hazırladığı\nbir öldürme oyunu simülatörü olduğu doğru ama...
+35|Miu cinayet silahı olarak kullanılabilecek tüm\ntehlikeli nesneleri silmişti, değil mi?
+36|Ve o şeyleri hazırlamak için de çok\nuğraşmıştım. Ne yazık...
+37|Miu epey titizdi. Bir çekici gözden\nkaçıracağını sanmıyorum.

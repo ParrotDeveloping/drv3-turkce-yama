@@ -1,0 +1,60 @@
+@ chap4_text_US
+## c04_227_000
+48|Hmmm... Miu'nun avatarını duvarın öbür\ntarafına nasıl gönderdiler?
+49|Belki o şeyin bununla bir ilgisi vardır?\nBilirsiniz... duyduğunuz <CLT=cltSTRONG>yüksek ses<CLT=cltNORMAL>?
+53|O ses yüzünden şapelin yan tarafına\ngittiniz. Değil mi, Kee-çocuk?
+54|Ölü Miu'yu orada o zaman buldunuz,\ndeğil miii?
+55|Öyleyse bence o sesle avatarının şapelin\nyanında olması bağlantılı...
+56|<CLT=cltMIND>Evet, sesin bu davayla ilgili olduğuna\nhiç şüphem yok.
+57|<CLT=cltMIND>O sesin ne olabileceğini\nbulmalıyız...
+58|<CLT=cltMIND>Bu davayı çözmek için ihtiyacımız\nolan ipucu olabilir.
+59|<CLT=cltMIND>Peki neydi? Bir şeyin başka bir şeye\nsertçe çarpması gibi bir sesti...
+60|<CLT=cltMIND>Peki o iki şey neydi?\nOlabilir ki...
+61|Çekicin duvara çarpması
+62|Duyduğumuz ses çekicin duvara\nçarpmasıydı.
+63|Bir çekiç o kadar ses çıkarır mı?\nDaha büyük bir şey gibiydi...
+65|Cep telefonunun duvara çarpması
+66|Belki Miu cep telefonunu duvara\nfırlatmıştır?
+67|Hmm... Yine de o kadar yüksek bir ses\nçıkaracağını sanmıyorum.
+69|Kafesin duvara çarpması
+70|Belki Miu'nun avatarının yanındaki kafes\nduvara çarpmıştır...
+71|Bir kafesin o kadar yüksek ses\nçıkaracağını düşünüyor musun?
+72|Çarpmanın herkesi irkiltip dışarı çıkaracak\nkadar yüksek olacağını sanmıyorum...
+74|Miu'nun duvara çarpması
+76|O ses gerçekte neydi acaba...
+78|<CLT=cltMIND>Duyduğumuz o ses, iki nesnenin\nçarpışması gibi...
+79|Bence ses <CLT=cltSTRONG>Miu'nun avatarının<CLT=cltNORMAL>\nşapel duvarına çarpmasından geldi...
+80|Çekiç, cep telefonu ve kafes oradaydı ama\no sesi çıkarmak için çok küçüklerdi.
+81|Onları elersek geriye kalan tek açıklama\nsesin Miu'nun duvara çarpması olduğu.
+82|Öyleyse Miu'nun avatarı şapel duvarına\nçok sert çarpmış olmalı.
+83|Çarpmayı ta şapelin içinden\nhissettik.
+84|Evet, asıl soru bu.
+85|Miu'nun avatarı muhtemelen şapelin duvarına\nepey büyük bir güçle çarptı...
+86|Ama duvara neden bu kadar güçle çarptı?\nÇözebilir misiniz?
+87|Dur bir dakika, Kokichi. Bu konuşma\ntarzın da ne?
+88|Neden her şeyi biliyormuş gibi konuşuyorsun!?
+89|...Şimdilik bunu dert etmeyelim.
+90|Daha önemlisi, gizemi çözmeliyiz!\nArkadaşlar arasında kavga vakit kaybı.
+91|"Arkadaş" mı? Biz mi?
+92|Neyse... bu sorunu çözdükten sonra\nbunu konuşabilir miyiz?
+93|Miu'nun avatarının şapele çarpmasına yol\naçacak bir taşıma yöntemi...
+94|<CLT=cltMIND>Miu'nun avatarını konağın çatısından\nşapele çarptırmak...
+95|<CLT=cltMIND>Bunu yapmanın aklıma gelen\ntek bir yolu var.
+96|Hey, Shuichi... Ortağın olarak sana\nküçük bir ipucu vereceğim.
+97|...Ne vereceksin?
+101|Failin cesedi taşımak için güce ihtiyacı\nvardıysa bunu nasıl yaptı acaba?
+103|<CLT=cltMIND>Kokichi her şeyi çoktan çözmüş\ngibi konuşuyor...
+104|<CLT=cltMIND>Ama dikkatimi dağıtmasına izin veremem.\nDavayı çözmeliyim.
+105|<CLT=cltMIND>Miu'yu konağın çatısından şapel\nduvarına nasıl çarptırırsın...
+106|<CLT=cltMIND>Cevabı bulacağım!
+## c04_229_000
+0|Fail eğimli çatıyı Miu'nun avatarı için\nbir <CLT=cltSTRONG>kaydırak<CLT=cltNORMAL> olarak kullandı!
+1|Kaydırak mı!?
+2|Yok be. Eğim ve kar olsa bile Miu'nun\ncesedi kaymazdı—
+3|Yanlış. Kayardı.
+4|Ama avatarlar sürtünme yaratabiliyor. Yoksa\nyürüyemezdik.
+5|O yüzden *o kadar* ivme kazanacağından\nşüpheliyim.
+6|Non, non! Kayardı.
+7|Kaymazdı! Tıpkı Maki Rulo'nun dediği gibi!
+8|Kayardı! Tıpkı Şumay'ın dediği gibi!
+9|Şumay da kim be!?

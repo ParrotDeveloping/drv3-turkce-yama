@@ -1,0 +1,65 @@
+@ chap4_text_US
+## c04_238_001
+15|Çatıyı konağın dışından ayıran\ntek şey giriş salonu.
+16|Çatı
+17|Çatı
+18|Giriş\n<CLT=cltWEAK>salonunda<CLT=cltNORMAL>\ntanıklar\nolmalıydı!
+20|Hayır,\nhiçbirimiz\n<CLT=cltWEAK>giriş salonundan<CLT=cltNORMAL>\nsorumlu değildi!
+21|Hayır, hiçbirimiz giriş\nsalonundan sorumlu değildi!
+22|Giriş Salonu
+23|Giriş Salonu
+24|Ama Kokichi\n<CLT=cltWEAK>Monokuma<CLT=cltNORMAL> ile\nçalıştığını\nitiraf etti!
+26|<CLT=cltWEAK>Monokuma<CLT=cltNORMAL> ile\nişbirliği yaptım\nama sadece\ngeçici olarak.
+27|Monokuma ile işbirliği yaptım\nama sadece geçici olarak.
+30|\nHepsi yalan!\nMiu'yu öldüren\n<CLT=cltWEAK>Kokichi<CLT=cltNORMAL>!
+32|Bu imkânsız,\nçünkü <CLT=cltWEAK>Kokichi<CLT=cltNORMAL>'nin\navatarının özel\nayarları vardı.
+33|Bu imkânsız, çünkü Kokichi'nin\navatarının özel ayarları vardı.
+36|Gonta <CLT=cltWEAK>Miu<CLT=cltNORMAL>'yu\nöldürmedi! Gerçekten!
+37|Gonta Miu'yu öldürmedi! Gerçekten!
+38|Gerçek şu ki\nGonta\n<CLT=cltWEAK>Miu<CLT=cltNORMAL>'yu\nöldürmüş olabilir!
+39|Gerçek şu ki Gonta Miu'yu\nöldürmüş olabilir!
+## c04_239_000
+0|Bence... Gonta'nın fail olma ihtimali\nolduğu sürece bunu tartışmalıyız.
+1|Bu saçmalık... Gonta yerine Kokichi'ye\nmi inanacaksın?
+2|Hiç de öyle değil. Sadece gerçeği istiyorum.
+3|Hayatta kalacaksak gerçeği\nbulmalıyım!
+5|Ama... Gonta doğruyu söylüyor...\nGonta... g-gerçekten fail değil...
+6|B-Ben... hâlâ Gonta'nın yalan söylediğini düşünmüyorum...
+7|Ama... size zaten söylemedim mi?
+10|Bu yüzden Gonta'ya böyle eziyet etmek\nkalbimi acıtıyor!
+11|Gonta! Anladıysan doğru yap!\nGerçek için mantıklı argümanlar sun!
+12|M-Mantıklı argümanlar mı?
+13|Yani kafanı kullanarak argüman sun!
+14|Kafayı... kullanmak mı...?
+15|Söylemeye çalıştığım şu... fail değilsen\nolmadığını kanıtlamalısın!
+16|Ama... Gonta gerçekten bilmiyor...
+17|<CLT=cltSTRONG>Bilmiyorum<CLT=cltNORMAL> deyip durmandan bıktım!\nTanrım, neden bu kadar aptalsın!?
+18|Gonta sadece herkese yardım etmek istiyor!\nGerçek bir centilmen gibi!
+19|Gerçek bir centilmen mi!?\nDaha çok gerçek bir avanak!
+20|Hey! Bu düpedüz zorbalık!
+21|...Zorbalık mı? Evet, ne olmuş?\nBu oyunda yapılan bu, değil mi?
+22|Beni suçlayıp bana karşı birleşiyorsunuz ama şimdi\nde iyi insanları mı oynayacaksınız?
+23|H-Hayır... Ben hiç birleşmedim—
+24|Gonta, karşılık ver artık!\nBir bahane uydur ya da... her neyse!
+25|Kes şunu!!! Yeter artık!
+26|...Hm? Neyi keseyim?\nOyunu mu durdurayım diyorsun?
+27|Hey, ne dediğinin farkında mısın?
+28|Evet, farkındayım... Ne olmuş?
+29|Senin seviyene inmem gerekiyorsa\nhayatta kalmak istemiyorum.
+30|Oo, bu tam bir belden aşağı vuruş...
+31|O zaman bir çukurda ölüp git, umurumda değil!\nBiz yaşamak istiyoruz, yolumuzdan çekil!
+32|Kes şunu. Ağzını kapatmazsan ben senin\nyerine kapatırım... kalıcı olarak.
+33|Maki, lütfen! Sakin ol!
+35|Özür dilerim... Herkesin bu kadar üzgün olması Gonta'nın suçu...
+36|Ama... Gonta doğruyu söylüyor!\nGonta gerçekten fail değil!
+37|Çünkü Gonta hiçbir şey bilmiyor! Gerçekten!
+38|Kes artık şunu! Bütün bu zaman boyunca\ntek söylediğin bu!
+39|Asıl kesmesi gereken\nsensin!
+40|<CLT=cltMIND>Dur, Kokichi ne\ndedi...?
+41|<CLT=cltMIND>"Bütün bu zaman boyunca tek söylediğin"...\nGonta için bu doğru.
+42|<CLT=cltMIND>Bütün bu zaman boyunca Gonta hiçbir\nşey bilmediğini söylüyor.
+49|<CLT=cltMIND>Ama bu savunmayı tam olarak ne zaman\nkullanmaya başladı...?
+50|Sanal Dünya'ya giriş yapmadan önce
+51|<CLT=cltMIND>Hayır, giriş yapmadan önce öyle\nbir şey söylemiyordu...
+52|Sanal Dünya'dan her bahsettiğimizde bilmiyorum\ndemeyi kes! Bıktım bundan!
+53|<CLT=cltMIND>Bunu hatırlamalıyım!\nHerkes için!

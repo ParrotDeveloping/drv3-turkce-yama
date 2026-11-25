@@ -1,0 +1,59 @@
+@ chap4_text_US
+## c04_226_000
+20|Evet, haklısın... İyi geceler.
+21|Ugh! B-Başım!
+22|Monotaro, kendini topla!
+23|B-Benim için önemli birini unutuyormuşum\ngibi hissediyorum ama... ugh... b-bir türlü...
+24|B-Başım! Başım çok ağrıyor,\nhatırlayamıyorum...
+25|...Unuttuysan belki de en iyisi\nbudur.
+26|Bundan sonra kendimize yeni bir\nhayat kuralım.
+27|Ne de olsa... bebeğimiz babasıyla tanışmak\niçin heyecanlı, biliyor musun?
+28|...Baba mı? Dur, NE!?\nBaba mı olacağım!?
+## c04_227_000
+0|Ne kocaman bir ölüm bayrağı. Bundan sonra\nölmezse *şaşırırım*.
+1|Daha önemlisi... konuşmaya kaldığımız\nyerden devam edelim.
+2|Miu'nun cinayeti planladığını anlıyoruz ama\n<CLT=cltSTRONG>onu kimin öldürdüğünü<CLT=cltNORMAL> bulmalıyız.
+3|Ve bunu çözmek için Miu'nun hareketlerini\nanlamamız gerekiyor...
+4|O yüzden cinayet planını adım adım\ntartışalım!
+5|Bunun önemli olduğunu biliyorum ama konuşmayı\nsenin yönetmen beni çok sinir ediyor.
+6|Bakalım, Miu cinayet planının bir parçası\nolarak kullanmak için Sanal Dünya'yla oynadı...
+7|Beni öylece görmezden gelip başlama...
+8|Başarsaydı şapelle konak arasındaki\nduvarı geçecekti...
+9|ve sonra—GÜM!—beni çatıda çekiçle\nöldürecekti.
+10|Cinayeti gerçek dünyada olmuş gibi gösterip\nsonra suçu Kaito'ya atacaktı.
+11|Gerçek dünyadaki mazereti olarak Sanal\nDünya'da girişli olduğunu söyleyebilirdi...
+12|Sanal Dünya'da da bütün zaman boyunca\nşapelin yanında olduğunu söyleyebilirdi.
+13|Düşen köprü yüzünden konağa ulaşamadığı\nhakkında bir bahane uydururdu.
+14|Sorun şu ki cinayet planları yüzünden nerede\nöldürüldüğünü bile bilmiyoruz.
+15|<CLT=cltSTRONG>Çatıda<CLT=cltNORMAL> öldürüldü, değil mi?
+16|Kokichi çatının kapısının kilitli olduğunu\nve geçemediğini söyledi.
+17|Belki... fail onu o zaman öldürdü?
+18|Muhtemelen öyle oldu.\nFail onu kilitli çatıda öldürdü.
+19|Çatının kapısını fail mi kilitledi?
+20|Belki. Miu'nun yaptığını sanmıyorum.
+21|Miu kilitleseydi Kokichi'yi çatıya\nçağırdığında kilitlerdi.
+22|Biri yukarı gelse bile planının hedefini\ndeğiştireceğine inanmıyorum.
+23|Kokichi'nin sonra geleceğini biliyordu.\nKapıyı kilitlemek şüpheli olurdu.
+24|Eh, o kadar ileriyi hiç düşünmemiş\nolması da mümkün...
+25|Akıllıydı...\nAma aynı zamanda gerçekten çok aptaldı.
+26|B-Böyle kötü şeyler söyleme.
+27|Öldürme oyunu kötü, Miu değil.
+28|Miu kötü insan değil. Gonta işler farklı\nolsaydı arkadaş olabileceğimizi düşünüyor.
+29|Bu... zor olabilirdi.\nBu öldürme oyunu olmasa bile.
+30|Bu olmazdı.
+31|Yok yok. Hayatta olmaz.
+33|Neyse... tartışmaya devam edelim.\nMiu konağın çatısında öldürüldüyse...
+34|Fail onu öldürdükten sonra Miu'nun avatarını\nşapele taşımış olmalı, değil mi?
+35|Yani bir sonraki konuşmamız gereken şey\navatarını nasıl taşıdıkları.
+36|Artık konakla şapelin aslında yan yana\nolduğunu biliyoruz.
+37|Ama sorun aralarındaki duvar.
+38|O duvardan sadece Miu geçebiliyordu.\nFail geçemezdi...
+39|O zaman fail Miu'nun avatarını o duvardan\ngönderdi mi diyorsun?
+40|Evet, tek yol bu, değil mi?
+41|Ama fail Miu'nun avatarını duvardan\nnasıl gönderdi?
+42|Yani onu fırlatmış olamazlar ya.
+43|Gonta onu fırlatmadı!
+44|Biliyoruz. Fırlatamazdın çünkü avatarların\n<CLT=cltSTRONG>fiziksel gücü eşitlenmişti<CLT=cltNORMAL>.
+45|Fiziksel güç... eşitlenmiş mi?
+46|Bu sorun! Öyle olursa Gonta herkesi\nkoruyamaz!
+47|Hay Allah, bize ayak uydur. Sınıf duruşmasının\nikinci yarısındayız zaten.

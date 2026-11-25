@@ -1,0 +1,62 @@
+@ chap4_text_US
+## c04_243_000
+188|Anlıyorum! Gonta fail olsaydı çatıda\nolmaması tuhaf olurdu!
+189|Çarpmayı duyduktan sonra konaktan kaçmış\nolması mümkün...
+190|Çatıdan konağın dışına çıkmak için giriş\nsalonundan geçmek zorundaydın.
+191|Shuichi ve Tsumugi çarpma sesini duyunca\noraya koşmamış mıydı?
+192|O zaman belki çatıdan atlamıştır?
+193|Bu mümkün değil!\nO çatı epey yüksekteydi!
+194|Normalde Gonta yapabilirdi ama avatarı\nyeterince güçlü değildi.
+195|Nasıl ama!? Şimdi anladınız, değil mi!?
+196|Gonta fail olsaydı konağın dışında\nolmasının imkânı yoktu!
+197|Artık Gonta'nın fail olduğunu söyleyemezsiniz!\nTebrikler, Gonta!
+200|<CLT=cltMIND>Gerçek bu olsaydı çok\ngüzel olurdu...
+201|<CLT=cltMIND>Kaito haklı olsaydı ve bu korkunç\nduruşma öylece bitseydi...
+203|Hayır... bu yanlış...
+205|Gonta'nın konakta olması fail olmadığı\nanlamına gelmiyor.
+206|Failin tek ihtiyacı çatıdan konağın\ndışına çıkmanın bir yoluydu.
+208|Nii-hihihi... Görünüşe göre Shuichi anladı.\nGerisini ona bırakıyorum.
+210|Kaito, nasıl hissettiğini biliyorum. Biliyorum\nçünkü hepimiz aynı şeyi hissediyoruz.
+211|Ama... gerçekle yüzleşmeliyiz.
+212|O gerçek ne kadar acımasız olursa olsun\nhayatta kalmak için onunla yüzleşmek *zorundayız*.
+213|Sen kimin tarafındasın, Shuichi?
+214|Kaito, lütfen!
+215|Sen benim yardımcım değil misin!?\nO... sadece bir yalan mıydı!?
+217|Peki o zaman! O berbat akıl yürütmeni\nparçalayıp seni uyandıracağım!
+218|<CLT=cltMIND>Şimdi dedektiflik çalışmamdan\nşüphe edemem.
+219|<CLT=cltMIND>Hepimizin hayatta kalmasını istiyorsam\ngeri adım atamam!
+## c04_245_000
+0|Konağın dışında bulduğumuz\n<CLT=cltSTRONG>tuvalet kâğıdı<CLT=cltNORMAL>...
+1|Failin çatıdan yere inmek için kullandığı\nşey o!
+2|Tuvalet... kâğıdı mı?
+3|Cinayet silahı olarak kullanılan aynı\ntuvalet kâğıdı.
+4|Bu yüzden onu başka hiçbir yerde\nbulamadık.
+5|Ne olay yerinde\nne de Miu'nun cesedinde.
+6|Konağın dışındaydı.
+7|Dur... Çatıdan inmek için tuvalet kâğıdını\nip olarak kullandılarsa...
+8|O zaman onu bir şeye bağlamaları gerekirdi.\nAma bağlayacak hiçbir şey yoktu.
+9|Biliyorum çünkü... çatıyı ben inceledim!
+10|İnatçısın, Kaito.\nHâlâ bunun üstüne gidiyorsun...
+11|Tabii ki! Sonuna kadar Gonta'ya\ninanacağım!
+12|Hayır, tuvalet kâğıdının bağlanabileceği\nbir şey vardı.
+14|<CLT=cltMIND>Evet, tuvalet kâğıdının bağlandığı\nyer...
+15|...Orası.
+16|Haaa!?\nOrası da ne demek?
+17|Shuichi!\nHiçbir fikrin yok gibi görünüyor ama...
+18|...bir şey var, değil mi?\nMesela... bir çeşit direk?
+20|Çatı kapısının kolu.
+21|O kadar uzağa mı bağlanmış!?\nSaçmalamayı kes be!
+23|Deponun kapısına\nbağladılarsa...
+24|Deponun sürgülü kapısı vardı!\nOnu kullanmalarının imkânı yok!
+26|<CLT=cltMIND>...Hayır,\nçünkü bu tuvalet kâğıdı şuraya bağlanmıştı...
+27|Heh, şimdi anladın mı!? Tuvalet kâğıdını\nbağlayacak hiçbir yer yoktu!
+30|Tuvalet kâğıdını bağlayabilecekleri hiçbir\nyer yoktu! Gonta'ya inanıyorum!
+32|Fail çatıdan inmek için tuvalet kâğıdını\nnereye bağladı?
+33|Çatıdaki <CLT=cltSTRONG>dürbüne<CLT=cltNORMAL>.\nTuvalet kâğıdı oraya bağlanmış olabilir.
+34|Gh...!
+35|Ancak failin onu oraya gerçekten bağladığını\nsanmıyorum. Sadece astılar...
+36|...ve sonra ikiye katlanmış tuvalet kâğıdını\nkullanarak aşağı tırmandılar.
+37|Ama bu durumda indirmek için onu\nçekmeleri gerekirdi...
+38|Evet, doğru!\nÇünkü o fikri ben buldum!
+39|G-Gerçekten mi...?
+40|Ama Gonta'ya tuvalet kâğıdını banyoya geri\nkoymasını söylediğimi sanıyordum...

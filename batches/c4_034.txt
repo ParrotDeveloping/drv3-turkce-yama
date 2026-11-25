@@ -1,0 +1,55 @@
+@ chap4_text_US
+## c04_018_207
+22|...oyunbaz ruhlarına değer vermesi gereken\ncanlılardır! Onu kaybederlerse yaşlanırlar!
+23|...Erkekler meraklarını kaybederse yaşlanır\ndediğini sanıyordum.
+24|Evet, ikisi de önemli! Bir erkeğin hatırlaması\ngereken çok şey var! Değil mi, kanka?
+25|Buna... nasıl cevap vereceğimi bilmiyorum.
+26|Heyecanlanmana bir şey demem ama <CLT=cltSTRONG>dış dünyanın\nsırrını<CLT=cltNORMAL> aramalıyız.
+27|S-Soğuk... Böyle ince kıyafetlerle karda\ndurursam üşütürüm.
+28|Ya da dur...? Belki avatar olarak\nüşütemiyoruzdur?
+29|Ama... kesinlikle soğuk hissediyoruz. Bu gerçek\nbedenlerimizi hasta etmeye yeter mi acaba.
+30|Bu bana bir zamanlar okuduğum bir\nçalışmayı hatırlattı...
+31|İnsanlara üzerlerine sıcak su döküleceği söylenmiş\nama onun yerine soğuk su kullanılmış.
+32|Ama zihinleri o kadar ikna olmuş ki bedenleri\nsu kaynarmış gibi tepki vermiş.
+33|Ah, ben de daha önce öyle bir şey\nduymuştum.
+34|Yani belki de bundan gerçekten üşütebiliriz.\nDikkatli olmak iyi olabilir.
+35|Belki de bundan gerçekten üşütebiliriz,\no yüzden dikkatli olmak en iyisi.
+36|Değil mi? Burası harika değil mi?\nBurada istediğin kadar azabilirsin!
+37|Daha önce de dediğim gibi... lütfen sessiz olmaya çalış.
+38|<CLT=cltMIND>Sabit dürbün mü?
+39|Vay be, dürbün konusunda epey deneyimin\nvar gibi görünüyor!
+40|Hah-haha! Belli ki tam bir röntgencisin!
+41|<CLT=cltMIND>Dürbün konusunda çok mu deneyimim var?\nBu ne demek...?
+42|<CLT=cltSYSTEM>Bu sabit dürbünle epey\nuzağı görebilirsin!
+43|<CLT=cltSYSTEM>Yani... tabii ki. Dürbün sonuçta.
+44|<CLT=cltSYSTEM>Onunla istediğin gibi etrafa bak!\nHer şeye iyice bir göz at!
+45|<CLT=cltMIND>Çatıya bakmalıyım.
+46|<CLT=cltMIND>Burası bir depoya benziyor...\nSanırım içeri bakmalıyım.
+47|<CLT=cltMIND>Dışarı çıkacağım.
+48|<CLT=cltMIND>Hm? Dürbün buranın ötesini göremiyor.
+49|Ah, burası... haritadaki çizginin\nolduğu yer mi?
+50|Söyledim ya, o bir çizgi değil!
+51|O zaman... ne?\nDürbün neden orada duruyor?
+52|Krgh... Saldırgan erkekler hep gelip gidiyor\nve çok erken boşalıyor.
+53|Oraya varınca açıklarım, o yüzden\nhemen kendinizi kasmayın.
+54|<CLT=cltMIND>Neden bahsediyor?\nOrada ne olabilir?
+55|<CLT=cltMIND>Dürbün buranın ötesini göremiyor.\nMiu ne saklıyor?
+56|Ee? Gözüne çarpan tüm yerleri\nincelemeyi başardın mı?
+57|Evet, ama pek ilgi çekici nokta\nyoktu.
+58|Aaah, gerçekten soğuk. Kar yağacağını\ndüşünmemiştim.
+59|Güzel, Himiko! Yani düşüp başını\ncarparsan acımaz!
+60|Kaba olma! Ben öyle sık sık düşen\nbiri değilim—
+61|...Bu fazlasıyla klişe bir şaka.
+62|Kar ve bir konak... Ne kadar uğursuz.\n*iç çekiş* Aferin, öldürme oyunu simülatörü.
+63|Ama... karda hiç ayak izi bırakmıyoruz.\nBunun olayı ne?
+64|Muhtemelen öyle programlanmış. Ayak izlerinden\nfaili bulmak kolay olurdu.
+65|Evet... öyle görünüyor. Ama bunun için\nendişelenmenize gerek yok.
+66|Bu sadece bir simülasyon ve burada hiçbir\ntehlikeli eşya yok.
+67|Hadi dışarı çıkalım! Nehri geçip\nşapele gidebiliriz!
+68|Ama nehri nasıl geçeceğiz?\nHiç köprü gördüğümü hatırlamıyorum...
+69|Hay Allah, o kadar siktiğimin aptalısın ki\ndahi-salak sınırına yaklaşıyorsun...
+70|Hadi oraya gidelim de siz aptallara\nhepsini bir kerede açıklayayım!
+71|Keebo? Bir sorun mu var?
+72|Şey... o duvara bakıyordum ve Miu'nun\nsöylediklerini düşünmeye başladım...
+73|O duvarın ötesinde <CLT=cltSTRONG>hiçbir şeyin olmadığı<CLT=cltNORMAL>\nhakkında.
+74|Ve sonra akademiyi çevreleyen duvarı\ndüşünmeye başladım...

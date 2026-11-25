@@ -1,0 +1,49 @@
+@ chap4_text_US
+## c04_101_208
+19|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Konağın Haritası<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+20|<CLT=cltMIND>Bu bütün Sanal Dünya'nın\nharitası.
+21|<CLT=cltMIND>Dünya dört bir yandan duvarlarla\nçevrili.
+22|<CLT=cltMIND>Ortada bir yükleme noktası var,\nbu yüzden harita ikiye bölünmüş.
+23|<CLT=cltMIND>Harita yükleme noktasından ne görüntü\nne de ses geçebiliyor.
+24|<CLT=cltMIND>Konaktan şapele gitmek için bu noktadan\ngeçmek *zorundasın*.
+25|<CLT=cltMIND>Bir de ona paralel akan nehri\ngeçmen gerekiyor.
+26|<CLT=cltMIND>Bu dünya böyle tasarlanmış.
+27|<CLT=cltMIND>...Tuhaf.\nSanki bunda bir sır varmış gibi hissediyorum...
+28|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Dünyanın Haritası<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+29|<CLT=cltMIND>Bu haritayı Miu yaptı...
+30|<CLT=cltMIND>Beni rahatsız eden şey bu mu?
+31|Anlıyorum... Haritalara bakmak insanı\nsakinleştiriyor, değil mi?
+33|Sen teneffüste oynamak yerine tek başına\nharitalara bakan türden bir çocuksun, değil mi?
+34|Ah... öyle bir şey hiç yapmadım...
+35|Seninle olduğumuzu unutma, kanka!
+36|Artık yalnız değilsin.
+37|Kabuğuna çekilmene gerek yok,\nbiliyor musun?
+38|*hıçkırık* Seninle çok gurur duyuyorum...\nHaritalarla değil... gerçek insanlarla arkadaş oldun...
+39|İnceleme yapıyorum!\nSadece inceleme...
+41|<CLT=cltMIND>Küçük harita konağa ait.
+55|<CLT=cltMIND>Bir yere gitmeden önce bu haritaya\nbakmalıyım.
+56|<CLT=cltMIND>Bu saatin davayla bir ilgisi\nolduğunu sanmıyorum...
+58|<CLT=cltMIND>Önce şapele gitmeliyim.
+## c04_102_206
+0|Sadece sen ve ben kaldık...\nBiz de çıkış yapmalıyız.
+1|Bu arada... seninle Kaito arasında bir\nşey mi oldu?
+3|Az önce çıkış yaptığında keyfi yokmuş\ngibi görünüyordu.
+4|Özür dilerim... muhtemelen benim suçum...
+5|Seninle Kaito arasında ne oldu\nbilmiyorum ama...
+6|O aptal basit biridir, eminim özür\ndilersen seni affeder.
+7|Shuichi Saihara.
+8|<CLT=cltMIND>Çıkış yapmak için telefonu kullanmalıyım.
+## c04_102_207
+0|<CLT=cltMIND>Miu ve Kokichi tam bu çatıda\nbuluşacaklardı...
+1|<CLT=cltMIND>Ve bu alanı aramakla görevli kişi, Kaito,\nzorla çıkış yaptırıldı.
+2|Bu alanın davayla bir ilgisi *olmalı*.
+3|Keebo, bir şey buldun mu?
+4|Hmm... Bu zor. Burada ipucuna benzeyen\nhiçbir şey yok.
+5|Ama Miu burada Kokichi ile buluşmayı\nayarlamış olmalı.
+6|En azından gerçekten çatıya gelip gelmediğini\nteyit edebiliriz diye düşündüm...
+7|Ama ne yazık ki bunu gösteren hiçbir\nipucu yok...
+8|<CLT=cltMIND>Miu hiç çatıya geldi mi...?\nBu *gerçekten* önemli bir soru.
+9|Hey, Keebo.\nBir konuda fikrini almak istiyordum...
+10|Sence konağın dışından bu çatıya\nçıkıp inebilir misin?
+11|Hayır, bu çok zor olurdu.
+12|Bu çatı epey yüksek.

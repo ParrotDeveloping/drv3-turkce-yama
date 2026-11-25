@@ -1,0 +1,52 @@
+@ chap4_text_US
+## c04_243_000
+43|<CLT=cltSTRONG>Motif<CLT=cltNORMAL> kimin umurunda?\nArtık faile oy verelim.
+44|Motif benim umurumda!
+45|Eh, benim umurumda değil. Bu sınıf duruşmasında\n<CLT=cltSTRONG>faili bulmak<CLT=cltNORMAL> daha önemli.
+46|Motif hakkında konuşmak anlamsız.\nBu dava için gerekli değil.
+47|Ne dersen de...\nYalanlarına asla inanmayacağım.
+48|Hepimiz Gonta'nın fail olduğunda hemfikiriz, değil mi?\nOndan başka biri için <CLT=cltSTRONG>imkânsız<CLT=cltNORMAL> olurdu.
+49|İmkânsız mı? Neden?
+50|Eleme yöntemini kullanırsan\nepey açık...
+51|Bu da demek oluyor ki; Shuichi!\nOrtağım olacaksın, değil mi!?
+52|<CLT=cltMIND>...Ben mi?
+53|Çünkü gerçekle yüzleşmezsen hepimiz\nöleceğiz, değil miiii?
+54|Ve bunu istemezsin, değil mi?
+56|Tamaaam! Başlayalım!
+57|Saçmalamayı kes! Senin bencil\nsaçmalıklarına katlanmaktan bıktım!
+58|Kaito, açıklamasını dinlemeliyiz.\nHayatlarımız buna bağlı.
+59|Grh...
+60|Peee, artık Kee-çocuk, Himiko ve Maki'yi\nşüpheli listesinden çıkarabiliriz...
+61|Shuichi, açıklamak ister misin?\nBenden gelirse inanacaklarını sanmıyorum.
+63|<CLT=cltMIND>Keebo, Himiko ve Maki'nin şüpheli olarak\nelenebilmesinin sebebi...
+64|Cinayet silahları yoktu
+65|Cinayet silahları yoktu—
+66|Sanal Dünya'da sıradan cinayet silahları\nyoktu, değil mi?
+67|Yani o değil... şimdiye kadar ne çıkardığını\nhatırlamalısın, Shuichi.
+68|<CLT=cltMIND>Gerçekle yüzleşmeliyim...\nHerkesin hayatı tehlikede!\n<CLT=cltNORMAL>
+69|Olay yerine ulaşamazlardı
+70|Motifleri yoktu
+71|Motifleri yoktu—
+72|Bize böyle belirsiz bir cevap verme.
+75|Neden bu kadar sessizsin?\nŞimdiye kadar ne bulduğunu açıkla!
+78|<CLT=cltSTRONG>Olay yerine ulaşamazlardı<CLT=cltNORMAL>,\ndeğil mi?
+79|Şapelden konağa giden köprü yoktu ve\nduvardan sadece Miu geçebiliyordu.
+80|Şapeldeki üç kişinin konağa gitmesinin\nhiçbir yolu yoktu, yani yapmış olamazlar.
+81|Şüpheli listemizden çıkacak sıradaki kişi Kaito.\nVe nedenini biliyorsun, değil mi?
+82|Çıkış yapmıştı
+83|Çatıya çıkmadı
+84|Kaito çatıya çıkmadı—
+85|Bunun hiçbir önemi yok.\nBundan çoook daha basit.
+87|Kimseyi öldürmez
+88|Kaito öldürmez—
+89|Hadi ama... İhanetin beklendiği bir öldürme\noyununda bunu gerçekten mi söylüyorsun?
+92|Miu cep telefonunu... Kaito'ya kullandı...
+93|Nereye varmak istediğimi biliyorsun, değil mi?
+95|<CLT=cltMIND>Kaito'nun şüpheli olmamasının sebebi...
+96|Kaito bizden önce <CLT=cltSTRONG>çıkış yapmıştı<CLT=cltNORMAL>...
+97|Miu en başta Kaito'yu çıkış yaptırdı...
+98|Ama bunu cinayetin gerçek dünyada işlendiğini\ndüşünelim diye yaptı, değil mi?
+99|Asıl öldürmenin Sanal Dünya'da olduğunu\nanladığımıza göre...
+100|...zaten çıkış yapmış olan Kaito için\nbu imkânsız olurdu.
+101|Miu'nun ölüm saati <CLT=cltSTRONG>sabah 6.30\ncivarı<CLT=cltNORMAL>. Bu, Kaito çıkış yaptıktan sonra.
+102|Nyeeeh... Artık tamamen Kokichi\nyönetiyor.

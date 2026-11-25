@@ -1,0 +1,68 @@
+@ chap4_text_US
+## c04_213_000
+122|Haaa? Yani beni ekti mi?\nSöz tutmamak çok kabalıktır! Hıh!
+123|<CLT=cltMIND>Doğru, önce Miu'nun gerçekten orada olup\nolmadığını belirlememiz lazım.
+124|<CLT=cltMIND>...Gitti mi?\nYoksa çatıya hiç çıkmadı mı?
+## c04_214_000
+0|Miu ile buluşmayı planladığımızı zaten\nbelirledik, değil mi?
+1|Böyle sıkıcı bir yalan söylemem.
+3|Miu şapelin yanında arama yapıyordu ve\navatarını da orada bulduk.
+4|Başka bir yerde görülmediyse bütün zaman\nboyunca orada olduğunu söyleyebiliriz.
+6|Nyeh? Miu'nun avatarının şapelin yanında\nyattığından epey eminim.
+8|O tabelayı köprü olarak kullanmanın nehri\ngeçmenin tek yolu olduğunu sanıyordum...
+9|Peki bu ne demek...?
+11|<CLT=cltMIND>İlk bakışta Miu'nun konağa gitmesi\nimkânsız gibi görünüyor.
+12|<CLT=cltMIND>Ama bütün zaman boyunca şapelde değildi.\nBunun kanıtı var!
+14|<CLT=cltMIND>Ama bunun mümkün olduğunu gösteren\nbir kanıt olmalı!
+## c04_214_001
+0|<CLT=size2>Miu<CLT=size1> benim
+1|Miu benim gelmemi bekliyordu...
+2|<CLT=cltWEAK>gelmemi
+3|<CLT=cltWEAK><CLT=size1>bekliyordu\n<CLT=cltNORMAL>...
+4|Eminim\n<CLT=size2>konağın\n<CLT=size2>çatısında<CLT=size1>\nbekliyordu!
+5|Eminim konağın\nçatısında bekliyordu!
+6|Hayır,
+7|Hayır, Miu şapelde olmalıydı...
+8|<CLT=size2>Miu\n　
+9|olmalıydı
+10|<CLT=cltWEAK><CLT=size2>şapelde<CLT=cltNORMAL>...
+11|Bakarsan
+12|Bakarsan avatarının düştüğü yere...
+13|<CLT=size2>avatarının düştüğü yere...
+14|<CLT=size2>şapelin<CLT=size1> <CLT=size2><CLT=cltWEAK>hemen yanında<CLT=cltNORMAL>.
+15|şapelin hemen yanında.
+16|<CLT=size2>Konağa<CLT=size1> nasıl\ngitmiş olabilir?
+17|Konağa nasıl gitmiş olabilir?
+18|Nehrin
+19|Nehrin üstünde köprü yoktu.
+20|<CLT=size1.5>Nehrin<CLT=size1> üstünde <CLT=size1.5>köprü yoktu.
+21|Köprü\n　\n　\n　\n　\n　\n<CLT=cltWEAK><CLT=size2>karşıya geçmenin\n<CLT=size1>tek <CLT=size2>yolu<CLT=cltNORMAL><CLT=size1> olurdu.
+22|Köprü karşıya geçmenin\ntek yolu olurdu.
+23|Yani\n<CLT=size2>Kokichi<CLT=size1> ile <CLT=size2>buluşması<CLT=size1>...
+24|Yani Kokichi ile buluşması...
+25|Beni
+26|Beni ekti mi!?
+27|ekti mi!?
+28|Belki bu bir yalandır.
+29|Hayır, konuştuklarını duydum.
+30|Şapelin dışını\ninceliyordu.
+31|Yani şapelde *idi*!
+32|Ortada bir yerde ayrıldı mı?
+34|Onu düşürdü...
+35|Yüzerek geçemez mi?
+36|Yedek bir köprü var mıydı?
+37|Belki sadece unutmuştur.
+38|Zaten neden buluşuyordunuz ki?
+## c04_215_000
+0|Miu konağa gitmiş olmalı.\nBir tanığımız var.
+1|Evet. Yemek salonunu ararken Miu'nun\npencerenin önünden geçtiğini gördüm.
+2|Nyeh! O zaman neden daha önce söylemedin!?
+3|Ö-Özür dilerim... İlk başta sadece\nyanıldığımı düşündüm...
+4|Konağa gelebilmesinin hiçbir\nyolu olmadığı için.
+5|Ama sanırım yanılmamışım.\nO kesinlikle Miu'ydu.
+6|O zaman... şapelden konağa nasıl\ngitti?
+7|Sadece Miu'nun bildiği <CLT=cltSTRONG>özel bir yöntem<CLT=cltNORMAL>\nolmalı. O cep telefonu gibi.
+8|Buna hiç şüphe yok.\nKöprüyü bu yüzden düşürdü.
+9|Nehri geçmek imkânsızken bir cinayet\nişlenirse o suçlanmazdı.
+10|Cinayet için şapelden konağa geçmek\niçin gizli bir yöntem kullandı.
+11|Köprünün artık orada olmadığını herkese\nduyurmak için düşürüp büyük olay çıkardı.

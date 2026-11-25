@@ -1,0 +1,59 @@
+@ chap4_text_US
+## c04_100_029
+415|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Yüksek Ses<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+416|Sesin harita yükleme noktasından\ngeçmemesi gerekiyor.
+417|Peki Keebo'nun sesini nasıl duydum?
+419|Ve şapelde olması gerekirken Miu'yu\nnasıl bir anlığına gördüm...?
+420|Neler oluyor böyle?
+423|Ah, selam...\nBilgisayarla meşgul olduğunu biliyorum ama...
+424|Programı incelerken öğrendiklerimizin\nüzerinden geçmek istiyorum.
+425|Ah, bu bilgisayarı mı kullanmak istiyorsun!?\nBuyur!
+426|<CLT=cltMIND>Pekala, önce...
+427|<CLT=cltMIND>O metin dosyasında hangi program\nbilgileri yazıyordu?
+428|<CLT=cltMIND>Dosyaya göre...
+429|<CLT=cltMIND>Öldürme oyunu simülatörü <CLT=cltSTRONG>Neo World\nProgram<CLT=cltMIND> temel alınarak yapılmış.
+430|<CLT=cltMIND>Simülatörde <CLT=cltSTRONG>nesneler kırılamaz<CLT=cltMIND>.
+431|<CLT=cltMIND>Beş duyun avatarına bağlı, ama\navatarına zarar verilemez.
+432|<CLT=cltMIND>Avatarına verilen hasar gerçek\nvücuduna aktarılır...
+433|Miu'nun bize söylediği tam olarak buydu.
+434|<CLT=cltMIND>Avatarın ölümcül hasar alırsa\ngerçek vücudun şoktan ölür.
+435|<CLT=cltMIND>Yani Sanal Dünya'daki ölümcül yaralar\ngerçek vücut için de ölümcül.
+436|<CLT=cltMIND>...Miu'nun bize bunu söylediğini hiç\nhatırlamıyorum.
+437|<CLT=cltMIND>Bize söylemeyi öylece unutmazdı.\nBu bilgiyi bilerek mi saklıyordu?
+439|<CLT=cltMIND>Sanal Dünya'da fizik kuralları\nda aynı.
+440|<CLT=cltMIND>Işınlanma ya da hızlı ulaşım\nyöntemleri yok.
+441|<CLT=cltMIND>Etrafta dolaşmak için sadece\navatarını kullanabilirsin.
+442|<CLT=cltMIND>Metin dosyasında yazanlar aşağı\nyukarı bu kadar.
+443|<CLT=cltMIND>İlginç bulduğum diğer kanıt\nise...
+444|<CLT=cltMIND>Monotaro'nun bulduğu giriş/çıkış\nkaydı.
+445|<CLT=cltMIND>Giriş ve çıkış yaptığımız tüm\nzamanları kaydetmiş.
+446|<CLT=cltMIND>Kurban Miu dışında...\nherkes sadece bir kez giriş ve çıkış yapmış.
+447|<CLT=cltMIND>Yani kimse gizlice çıkış yapıp\ntekrar giriş yapmamış.
+448|<CLT=cltMIND>Bu da demek oluyor ki...
+449|<CLT=cltMIND>Kaito... Hepimizden önce çıkış yaptı\nama o olamaz.
+450|<CLT=cltMIND>Programın kendisi de birkaç şekilde\ndeğiştirilmiş.
+451|<CLT=cltMIND>O bilgi için Monotaro'nun analizini\nbitirmesini beklemeliyiz.
+452|Ah, bitti mi?
+454|Bir şey bulunca haber veririm!
+455|Hey, Monotaro? Neyin var?
+456|Burası midemi bulandırıyor...
+457|H-Hayır! Maskot karakterler olarak tüm\nvarlığımızı tehlikeye atıyorsun!
+459|Monotaro...
+467|<CLT=cltMIND>Monokuma Dosyası'nda belirtilen\nölüm saatine göre...
+468|<CLT=cltMIND>Miu biz hâlâ Sanal Dünya'dayken\nöldürülmüş.
+469|<CLT=cltMIND>Bu... davayla ilgili gibi\ngörünmüyor.
+470|<CLT=cltMIND>Hm? Koltukta bir şey var...
+471|<CLT=cltMIND>Küçük bir şişe...
+472|<CLT=cltMIND>Bunu daha önce görmüş gibiyim—
+473|Bu senin... değil mi, Shuichi?
+474|Benim mi...?
+475|Yok, sanırım senin değil ama senin\nlaboratuvarından...
+476|Ah, doğru!\nBu <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'in laboratuvarındaydı.
+477|Evet, o zehir.
+478|...Demek bunu biliyorsun, Kokichi?
+479|Tabii ki, çünkü zaten baktım.\nBir öldürme oyunundayız, biliyor musun?
+480|Hazırlanmış zehir ve hileler varsa tabii\nki onları bir an önce incelerim.
+481|Bu—
+482|Ah, kullanmak için değil. Başkası kullanırsa\ndiye kontrol ediyorum.
+483|<CLT=cltMIND>...Bu gerçekten doğru mu?
+484|Bu arada, bu şişenin arkasındaki\netiketi gördün mü?

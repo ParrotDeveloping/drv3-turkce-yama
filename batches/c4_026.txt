@@ -1,0 +1,67 @@
+@ chap4_text_US
+## c04_017_029
+93|Bedenlerimiz uyuyor gibi olacağı için\nmuhtemelen onları buraya getirdiler.
+94|Miu için hiç alışılmadık derecede düşünceli.
+95|<CLT=cltMIND>Bir fikrim var ama... Sanal Dünya'yı\nkimin yaptığını Miu'ya sormalıyım.
+102|<CLT=cltMIND>Oradaki dünya...\nÖldürme oyunu yok mu? Monokuma yok mu?
+105|Hey, Miu...\nSanal Dünya'yı kim yaptı?
+106|Doğru! Bendim!
+107|Nyeeeh! Biliyordum!
+108|Ah, Babacık! Gerçekten her şeyi yapabiliyorsun!
+109|Ha? Babacık mı? Hangisi... benim babam?
+111|O! O benim babam!
+112|Hayır değilim!
+113|Şimdi, izin verin açıklayayım!
+114|Sanal Dünya'yı yaratmak için şablon olarak\n<CLT=cltSTRONG>belirli bir program<CLT=cltNORMAL> kullandım...
+115|Ve o program da... <CLT=cltSTRONG>öldürme oyunu\nsimülatörü<CLT=cltNORMAL>!
+116|...Öldürme oyunu simülatörü mü?
+117|Eh, böylece kararımı verdim.\nArtık kesinlikle oraya girmem.
+118|B-B-Bekle! Bekle dedim, kahretsin!
+119|Monokuma yaptıysa kesinlikle tehlikelidir.
+120|Bütün gece uyumadan inceledim ve\nondaki tehlikeli her şeyi sildim...
+121|Kesinlikle güvenli! Yemin ederim!
+122|Endişelenmeye gerek yok.\nSadece bir <CLT=cltSTRONG>simülatör<CLT=cltNORMAL>, değil mi?
+123|Hayır, söz konusu olan Monokuma.\nGerçek bir simülatör bile olmayabilir.
+124|Babacık haklı!
+125|Hey, sen kimin tarafındasın?
+126|Ben senin baban değilim!
+128|Ne kadar acımasız... Neden şimdilik onu\nçocuğun olarak kabul etmiyorsun?
+129|Şimdilik mi? Oyuna ayak uyduramam.\nO benim çocuğum bile değil.
+130|Siz sadece Sanal Dünya'ya henüz gitmediğiniz\niçin söyleniyorsunuz...
+131|Ama bir kere gidince anlayacaksınız...
+132|Cidden, amına koyayım harika!\nBayılacağınızı biliyorum!
+133|Ve sonra... size gösterdiğim için bana\naşık olacaksınız!
+134|Yani... hemen dalalım, tamam mı?\nBirlikte yapacağız.
+135|Ama... orası *Monokuma*'nın yarattığı\nbir dünya, değil mi?
+136|Tamamen dalmak istemiyorsan sadece\nucunu sokabilirsin!
+137|Neyin ucunu!?
+138|Ama bütün gece uyumadan her şeyi ayarladığını\nsöyledin, değil mi Miu?
+139|Yani... başta bir öldürme oyunu simülatörüydü\nama artık değil, öyle mi?
+141|Programı silah olarak kullanılabilecek tüm\ntehlikeli nesneleri silecek şekilde yeniden yazdım.
+142|İyi bir anne de böyle yapardı!
+143|A-Anne mi!?
+144|G-Göğsümdeki bu tuhaf his de ne?\nB-Bu mu... anne olmak böyle mi hissettiriyor?
+145|Hey, Miu'ya güvenelim! Zaten arkadaşlarımıza\ndaha çok güvenmeliyiz!
+146|Neden... Miu'nun tarafını tutuyorsun?
+147|Onun tarafını tutmuyorum ama sanki... o dünyada\nbir şey bulacakmışız gibi bir his var içimde.
+148|...Bir şey mi?
+149|Yani, bu dünyayı Monokuma yarattı, değil mi?\nBelki bizi içeri çekmek için yem koymuştur!
+150|Mesela... o dünyada saklı süper\nçılgın bir sır!
+151|Bir sır mı?
+152|Ee, Monokuma? Bizim için bir çeşit\nyem hazırladın mı?
+153|Ah, yem mi? Evet, tabii ki hazırladım.
+154|Ha, gerçekten mi? Bunu ilk defa\nduyuyorum.
+155|Ben de!
+156|...Annecik de bunu ilk defa duyuyor.
+157|Kabul etti onu!?
+158|Kokichi'nin dediği gibi, Sanal Dünya'da bir\nyerde saklı çılgın bir sır var.
+159|...Bu <CLT=cltSTRONG>dış dünyanın sırrı<CLT=cltNORMAL>.
+160|Dış dünyanın... sırrı mı?
+161|Sır hakkında söyleyebileceğim tek şey,\neğer onu ele geçirirseniz...
+162|Akademinin dışında neler olduğunu\nanında öğreneceksiniz!
+163|D-Dur bir dakika... Dışarıda ne oluyor?\nNe diyorsun sen?
+164|Sanki dışarıda bir şeyler oluyor diyor\nama... bu olamaz, değil mi?
+165|Sence o göktaşlarıyla bir ilgisi\nvar mı?
+166|Puhuhu, merakınız mı uyandı?\nO zaman gitmekten başka çareniz yok.
+167|Evet! Bilmek istiyoruz, o yüzden kesinlikle gideceğiz!
+168|Kokichi... burada neler oluyor?\nBaştan beri bunu biliyor muydun?

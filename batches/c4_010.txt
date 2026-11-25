@@ -1,0 +1,68 @@
+@ chap4_text_US
+## c04_002_152
+28|<CLT=cltMIND>Burada bir sürü fon var.\nİnanılmaz bir düzen...
+29|<CLT=cltMIND>Burası bir bara benziyor...\nBu da mı bir set?
+30|Vay vay... tıpkı gerçeği \ngibi.
+31|<CLT=cltMIND>Tsumugi neşeyle konuşup tezgâhın\nönündeki masaya oturdu.
+32|Hey, Shuichi, susadın mı? İstersen sana\nözel kokteyllerimden birini yapabilirim.
+33|Özel kokteyl mi?
+34|Evet, buradaki tüm içecekler birinci\nsınıf şeyler gibi görünüyor.
+35|Yarı zamanlı işimde çok yapardım. Merak\netme. Alkolsüz olacak tabii ki.
+36|Ah, tamam...\nBir tane alayım.
+37|<CLT=cltSYSTEM>*şıngır, şıngır*
+38|Nasıl olsun?\nBiraz daha sert mi?
+39|Ha? Ah, olur...
+40|<CLT=cltSYSTEM>*şıngır, şıngır*
+41|Vay, bunda iyisin, değil mi?
+42|Evet, kostümcülüğüm için sponsor \nbulmadan önce bir sürü işte çalıştım.
+43|Müşterilerime şöyle derdim...
+44|"Biraz maddi sıkıntıdayım.\nKeşke biri bana yardım edebilse..."
+46|<CLT=cltMIND>Bu his de ne...?\nBirden içimden bağış yapmak geldi!
+47|<CLT=cltSYSTEM>*şıngır, şıngır*
+48|Tamam, hazır.
+49|Teşekkürler.
+50|<CLT=cltMIND>Ne tür bir yarı zamanlı işte çalışmıştı ki?\nBöyle içki karıştırarak...?
+51|<CLT=cltMIND>Kafamda bu düşünceler dönerken\nTsumugi'nin uzattığı içeceği içtim.
+52|Yine bekleriz.
+53|Evet, teşekkürler. Yine gelirim.
+55|<CLT=cltMIND>Tsumugi daha önce böyle bir\nyerde çalıştığını söyledi.
+56|<CLT=cltMIND>Ne tür bir yarı zamanlı işte çalışmıştı ki?\nBöyle içki karıştırarak...?
+## c04_002_251
+0|Heyyyy! Ortaya çıııık!
+1|Nerede saklanıyorsun!?\nGel, Gonta ile konuuuuş!
+2|Gonta?\nKokichi'yi mi arıyorsun?
+3|Hayır, Kokichi değil...
+4|Gonta minik böcek gördü!
+5|Bu sefer yanlış yok! Kesinlikle Gonta'nın\ngözünün önünden uçtu!
+6|Heeeey böcek! Yine çııık!\nGonta sadece konuşmak istiyoooor!
+7|<CLT=cltMIND>Yine minik böcekler...\nGonta bir süredir onlardan bahsediyor.
+8|<CLT=cltMIND>Eminim <CLT=cltSTRONG>Ultimate Böcekbilimci<CLT=cltMIND>\nolarak ilgisini çekiyordur...
+9|<CLT=cltMIND>Ama... <CLT=cltSTRONG>Böcek Buluşması<CLT=cltMIND>'nın\nanısı hâlâ taze...
+10|Heyyyyy! Çık, çık, nerede\nolursan ooool!
+11|Nerede saklanıyorsun böcek!?\nGel, Gonta ile konuuuuş!
+12|Kokichi'ye hiç rastlamadık.\nNereye gitmiş olabilir acaba...
+13|Avluda değilse...\niçeride bir yerde mi?
+14|Muhtemelen... haklısın. Ama görünüşe göre\nKokichi saklambaçta epey iyiymiş.
+15|Bizden saklanma konusunda ciddiyse onu\nbulmak epey zahmetli olabilir.
+16|Zahmetli mi?
+17|Neden bu kadar şaşırmış görünüyorsun?
+18|Ah, hayır, bir şey yok.
+19|Lütfen söyle! Çekinmene gerek yok.\nNe de olsa arkadaşız.
+21|Sadece düşündüm ki... belki bir *robot*\nbir insanı bulabilir...
+23|Shuichi... artık robofobini saklamaya\nbile çalışmıyorsun.
+24|<CLT=cltMIND>Ne? Gerçekten mi?
+25|Neyse, Shuichi...
+26|Şuradaki siyah nesne şüpheli görünüyor,\ndeğil mi? Kırmızı kenarlı olan.
+27|Shuichi... Şuradaki çimenlerin içindeki siyah\nnesne şüpheli görünüyor, sence de öyle değil mi?
+28|Hani, kırmızı kenarlı nesne.
+29|U-Uçan bir bina mı?\nBu ne tür bir teknoloji?
+30|Burada ileri teknoloji olduğunu biliyorduk\nama kim böyle bir şey hayal edebilirdi ki!?
+32|<CLT=cltMIND>Tenko'nun laboratuvarına bakıyor...\nOnu kendi haline bırakmalıyım.
+33|Ne oldu, Shuichi?\nBana bu kadar bakma...
+34|Yoksa daha da güzelleşeceğim...
+35|Ah... anlıyorum.
+37|<CLT=cltMIND>Utanıyor mu?\nKendi söylediği bir şey yüzünden mi?
+38|...Kızarıyormuşum gibi mi görünüyordu?
+40|Eskiden... kimse kızardığımı fark\nedemezdi, değil mi?
+41|<CLT=cltMIND>Ah, doğru, hatırladım!
+49|Evet, az önce biraz utanmış\ngibi görünüyordun...

@@ -1,0 +1,65 @@
+@ chap4_text_US
+## c04_003_010
+88|Mesela... aslında hepimiz ölmüş olsak\nve burası öbür dünya olsa.
+89|Öbür dünya mı?
+90|S-Seni... \nBöyle aptalca saçmalıklar söylemeyi kes!
+91|Aptalca değil. Göktaşları olabiliyorsa\nbaşka her şey de olabilir.
+92|Hadi ama, sen bir astronotsun, değil mi? Uzay\nkavrayamayacağımız gizemlerle dolu.
+93|Bu yüzden göktaşları gerçekten üstümüze\ndüştüyse her şey olmuş olabilir.
+94|Gizemli bir virüs yayılmış olabilir, ya da\ntuhaf bir teknoloji...
+95|Hatta Dünya'ya zamanı ve uzayı bükebilecek\n<CLT=cltSTRONG>bilinmeyen bir madde<CLT=cltNORMAL> gelmiş olabilir—
+96|Bu bilimkurgu gibi!\nTemamızın sihir olduğunu sanıyordum!
+97|O sadece senin teman, Himiko...
+98|Çık, bu düpedüz aptalca! Üçüncü sınıf bir \nanimenin ya da oyunun konusu gibi!
+99|Bunu uydurduğumu mu düşünüyorsun?
+100|Ama o zaman <CLT=cltSTRONG>Geri Dönüş Işıkları<CLT=cltNORMAL>'nı,\nExisal'ları, hatta Monokuma'yı nasıl açıklarsın?
+101|*Şimdi* alışmış olabiliriz ama böyle şeyler\nsağduyuya aykırı, biliyor musun?
+102|Yani... söylediğim şeylerden herhangi biri\ngerçekten olsaydı çok da uçuk olmazdı.
+103|Kes sesini! Bir kere, burada uzaydan\nbahsetme hakkı olan tek kişi benim!
+104|Ah, haklısın. Pardon, benim hatam.
+105|Ihhhh... N-Neyse... Acele edin de\nburadan çıkabileyim...
+106|D-Dur... Böyle düşünmemelisin...\nBuradan çıkmak hakkında...
+107|Herkes... çok yorgun görünüyor. Şimdilik\nmuhtemelen dağılmalıyız.
+108|Ah! Sonunda ortamı okumayı öğrendin!\nAferin robot!
+109|Her gün... öğreniyorum.
+110|Ah, gitmeden önce, Gonta rögar kapağını\neski haline koydu.
+111|Yeraltına tekrar meydan okumak istersek\nbu sefer Gonta kesinlikle—
+112|Ah-haha, o çöplüğe tekrar meydan okuyacak\nkadar aptal kimse yok!
+113|Sıkı çalışmayı küçümseme!
+114|Himiko, gerçekten değişmişsin...
+115|...Demek isterdim ama oradan kaçmak \niçin sıkı çalışmak anlamsız.
+116|Şey... ne kadar değişmiş olursan ol\ntabii ki öyle düşünürsün...
+117|<CLT=cltMIND>Böyle devam edemeyiz...\nBir çıkış yolu bulmamız lazım.
+118|<CLT=cltMIND>Tüm bu gizemleri\nçözmem lazım.
+119|<CLT=cltMIND>Konuşmamızdan sonra\nodalarımıza döndük.
+## c04_004_015
+15|Tek kullanımlık fotoğraf makinesi
+## c04_004_029
+11|<CLT=cltMIND>O anıyı bize veren Geri Dönüş Işığı'nı\nburada bulmuştuk ama...
+13|Miu Iruma'nın Cesedinin Çevresi
+14|Başa Takılan Ekran
+## c04_004_101
+0|Kahretsin... anlamıyorum!\nBurada neler oluyor!?
+2|<CLT=cltMIND>Kaede'ye verdiğim sözü tutmalıyım.\nGerçeği bulmalıyım.
+3|<CLT=cltMIND>Bize neler oluyor... Neden bu öldürme\noyununu oynamaya zorlanıyoruz...
+4|<CLT=cltMIND>Neyse... bugün hâlâ biraz vaktim var.\nYerimde duramam, şimdi olmaz...
+## c04_005_100
+0|Hm? Gonta?
+1|Ah, Shuichi? Odana geri dönmelisin.\nGece oldu.
+2|Ah, şey... Kaito ve Maki ile buluşmaya\nsöz vermiştim...
+4|Şey, Angie gitti ve öğrenci konseyi de\nartık yok...
+5|Ama Gonta hâlâ gece dışarı çıkmamanın\nen iyisi olduğunu düşünüyor.
+6|Çünkü Ryoma gece öldürüldü.\nAngie de.
+8|Ama Kaito'ya verdiğim söz benim için çok\nönemli. Onu bozamam.
+9|Söz veriyorum, sonra hemen dönerim.\nVe birbirimizden ayrılmayacağız.
+10|...Gonta az önce dikkatsizdi. Gonta senin Kaito'ya\nböyle önemli söz verdiğini bilmiyordu.
+11|Gonta... çok işe yaramaz.
+12|Hayır, hayır! Hiç de değil Gonta. Dert etme.
+13|Bizi ne kadar önemsediğini hepimiz biliyoruz.
+15|Gonta?
+16|Shuichi, Gonta karar verdi!
+17|Ha? Neye karar verdin...?
+18|Şey... yani...
+19|Hmm, aslında... Gonta yarın herkes bir\naradayken herkese söyleyecek.
+20|Gonta bu gece iyi uyuyacak ve yarına\nhazırlanacak! İyi geceler!
+21|Ah, evet... İyi geceler, Gonta.
