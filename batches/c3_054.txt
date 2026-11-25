@@ -1,0 +1,49 @@
+@ chap3_text_US
+## c03_100_157
+510|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kokichi'nin Kilit Açması<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+511|<CLT=cltMIND>Sanırım şimdilik her şeyi araştırmayı\nbitirdik...
+512|...Gerçekten dinlenme zamanı mı? Bence\nhenüz yeterince ipucu bulmadık.
+513|Soruşturmak için ne kadar vaktimiz kaldığını\nbilmiyoruz, o yüzden acele etmeliyiz.
+514|Ah, haklısın...\nÖnce şunu yapmalıyız...
+515|<CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL>'un laboratuvarını araştırmalıyız.
+516|Katanayla ilgili bir ipucu bulabiliriz.
+517|Doğru... Katananın gerçekten oradan gelip\ngelmediğini kontrol etmemiz lazım—
+519|...Bir sorun mu var, Maki?
+520|Şimdi aklıma geldi... Neden ortağınmış gibi\ndavranıyorum?
+521|Neyse, sorun değil. Sadece...buna alışma.
+522|<CLT=cltMIND>Senden *istemiş* değilim ki...\nama benim için sorun yok.
+523|<CLT=cltMIND>Maki'nin bana muazzam bir yardımı\ndokunduğu doğru.
+524|<CLT=cltMIND>Baş aşağı asılmış dört heykel olay yerini\nözellikle ürkütücü yapıyor.
+525|<CLT=cltMIND>Tavandaki açık kirişlerden ipler\nsarkıyor.
+526|Yanlış hatırlamıyorsam bu balmumu figürlerin\nhepsini Angie yapmıştı.
+527|Bu ip depodan mı?
+528|Sanırım öyle...bu da pek bir ipucu\nolmayacakları anlamına geliyor.
+529|*Herkes* gidip bu ipleri alabilirdi.
+530|Belki öğrenci konseyi rögar yerine depoyu\nkapatmalıydı.
+531|<CLT=cltMIND>Depoda gerçekten de cinayet için\nkullanılabilecek bir sürü şey var...
+532|Neyse...bu heykellerin sadece balmumu olduğunu\nbiliyorum ama yine de tüylerimi ürpertiyorlar...
+533|Heykeller tıpatıp gerçek insanlara benziyor...\nSadece yüzleri değil, bedenleri de.
+534|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltMIND> gerçekten\nyetenekliydi...
+535|Bu arada bu heykel neden baş aşağı asılı?\nBu da <CLT=cltSTRONG>ritüelin<CLT=cltNORMAL> bir parçası mı?
+536|Hm... Emin değilim.
+537|Değilse...neden böyle? Kim bir balmumu heykeli\nasmak için bu kadar zahmete girer?
+538|<CLT=cltMIND>Doğru... Bu kadar uğraştılarsa *bir*\nsebebi olmalı.
+539|<CLT=cltMIND>Ne olabilir?
+540|<CLT=cltMIND>Bunu kim yapar?
+541|<CLT=cltMIND>Suçlu mu? Angie mi?\nYoksa bambaşka biri mi?
+542|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Baş Aşağı Asılı Heykeller<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+543|<CLT=cltMIND>Dört heykel tavanın açık kirişlerine\niplerle asılmış.
+544|<CLT=cltMIND>Bu balmumu figürler kesinlikle Angie'nin\nyaptıklarının aynısı.
+545|<CLT=cltMIND>Ama neden asılmışlar?
+546|<CLT=cltMIND>Bu da <CLT=cltMIND>diriltme ritüelinin<CLT=cltMIND> bir parçası mı?\nYoksa başka bir amacı mı var?
+547|<CLT=cltMIND>Bunların hepsini asmak çok emek\nisterdi.
+548|<CLT=cltMIND>Bu ardında bir sebep olduğunu\nima ediyor.
+549|<CLT=cltMIND>Ama o sebep ne?\nVe bunu kim yaptı?
+## c03_101_139
+0|<CLT=cltMIND>Yanlış hatırlamıyorsam altın varaklı\nkatana şuradan...
+1|Önce cinayette kullanılan katananın gerçekten\nburadan gelip gelmediğini doğrulamalıyız.
+2|Yine de...burada bir sürü tuhaf görünümlü\nşey var.
+3|İlk başta hepsinin işe yaramaz ıvır zıvır\nolduğunu sanmıştım ama sanırım değilmiş...
+4|...Pardon, bana aldırma.
+6|Ruh çağırma seansıyla sen ilgilen.
+7|Ben ipuçlarını yeniden incelemek için\nolay yerine döneceğim.

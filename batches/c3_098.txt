@@ -1,0 +1,56 @@
+@ chap3_text_US
+## c03_233_000
+4|Sonra herkesin dikkati dağılmışken orağı\nsessizce zeminin altına düşürdün.
+5|Harika! Tam olarak doğru!
+7|Doğru mu...?\nO zaman neden artık pes etmiyorsun!?
+8|Kehehe... Bu kadar emek verdiğim numara\nartık boşa gitti. Heyhat.
+9|Yani...sen miydin? Tenko'yu sen mi öldürdün!?
+10|Tahmin edeyim, beni asla affetmeyeceksin.\nHimiko, benden çok nefret ediyor olmalısın.
+11|Belki Monokuma tarafından idam edilsem\ndaha iyi hissedersin...
+12|Ama ne yazık ki senin için bu\nolmayacak!
+13|Çünkü bana oy verirseniz ben dahil bütün\nlekesizler ölecek.
+14|Ne diyorsun sen, Kiyo?
+15|Kehehe...\nHâlâ anlamıyor musunuz?
+16|Tenko'yu ben öldürdüm. Gerçek bu.\nAma bu Sınıf Duruşması'nda anlamsız.
+17|Anlamsız mı!?
+18|Monokuma'nın <CLT=cltSTRONG>ek kuralını<CLT=cltNORMAL> diyorsun, değil mi?
+20|Eh, bunun bir cevabı var!\n<CLT=cltSTRONG>İlk gelen alır<CLT=cltNORMAL>!
+21|Görüyorsunuz...Tenko'yu ben öldürdüm\nama Angie'yi değil...
+22|Bizim için Tenko'nun ölümü önemsiz bir\nmeseleden başka bir şey değil...
+23|Çünkü bu duruşmadaki Kara <CLT=cltSTRONG>Angie'yi\nöldüren suçlu<CLT=cltNORMAL>.
+24|Önemsiz...bir mesele mi?
+25|Hayır...bu bir yalan olmalı.\nMuhtemelen Angie'yi de sen öldürdün!
+26|Bu kesinlikle mümkün değil. Angie'nin\nlaboratuvarına giremediğimi hatırlayın.
+27|Oh... Araştırma laboratuvarına sadece öğrenci\nkonseyi üyeleri ve Kokichi girebilirdi...
+28|Laboratuvarına bile giremezken Angie'yi\nnasıl öldürmüş olabilirim ki?
+29|Bunu...çözebiliriz. Senden başka kimse\nyapmış olamaz.
+30|Tenko'yu öldüren sensen Angie'yi öldüren\nde sen olmalısın!
+31|Ne hissettiğini anlıyorum, Himiko. Ama belki\nbunu mantıklı ve sakin bir şekilde tartışabiliriz.
+32|Kiyo'nun doğruyu söylüyor olma ihtimali\nsıfır değil.
+33|Demek ne hissettiğini anlıyorsun. Anlıyorum...\nDur! Robotlar insan duygularını anlayabilir mi!?
+34|E-Elbette anlıyorum!\nAnlamak için...çok çalışıyorum!
+35|Hey... Neden bu kadar heyecanlandın,\nKeebo? Sakin ol, dostum.
+36|Yeter! Oylama Vakti!\nOna oy vereceğim!
+37|Kehehe... Bana oy vermek sadece Angie'yi\nöldüren kişiye yardım eder.
+38|Kiyo...suçlu değil mi?
+39|Elbette değilim...\nBu dava benim açımdan bir hataydı.
+40|Monokuma o kuralı iki ceset de bulunduktan\nsonra ekledi, değil mi?
+41|Duruşmanın sadece Angie'nin katili için\nolacağını nereden bilebilirdim?
+42|Bilseydim kesinlikle Tenko'yu\nöldürmezdim.
+43|Y-Yalan söylüyorsun!\nTenko'yu da Angie'yi de sen öldürdün!
+44|Şimdi bir dakika, burada aceleyle sonuca\natlamak tehlikeli.
+45|Mm-hm, daha çok konuşmalıyız. Bu davada bizi\nbekleyen sulu sürprizler olabilir!
+46|Saçmalık! Bu davaya nereden bakarsan bak\nsuçlu belli ki Kiyo!
+47|Evet... Başka bir bakış açısı pek\nyok gibi!
+48|Hayır, mantıklı bir karara varmadan önce\noylamak çok tehlikeli!
+49|Vay be! Bu tartışma kızışıyor!\nBöyle zamanlarda...
+51|Yaşasın! Bunu bekliyordum!
+52|*Sen* neden bekliyordun?
+53|<CLT=cltMIND>Kiyo, Tenko'yu öldürdüğünü itiraf etti\nama Angie'yi öldürmediğinde ısrar ediyor.
+54|<CLT=cltMIND>Kiyo'yu yaptığı şey için affetmeyeceğiz...\nama gerçekleri bilene kadar oy veremeyiz.
+55|<CLT=cltMIND>Delilleri netleştirip herkesi ikna\netmeliyim!
+## c03_234_000
+0|Hemen oyla!
+1|Henüz oylama!
+2|<CLT=cltMIND>Oy vermek istiyorlar...ama Kiyo'nun itirafı\nyüzünden aceleci bir karar veriyorlar.
+3|<CLT=cltMIND>Görüşlerimizi dinlemelerini sağlarsak\neminim oylamayı ertelemek isteyecekler!

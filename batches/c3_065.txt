@@ -1,0 +1,47 @@
+@ chap3_text_US
+## c03_103_039
+320|<CLT=cltMIND>Kiyo'nun yere çizdiği büyü çemberi.\nEn azından *öyleydi*...
+321|Tamamen çiğnenmiş.\nSanırım kaçınılmazdı.
+322|Bu...tuzla mı çizildi?
+323|Ne zaman ruh çağırma seansı yapsam\nhep tuz kullanırım.
+324|...İyi misin? Kulağa gülünç\ngeliyorsun.
+325|G-Gülünç mü? Pek çok başarılı seans yaptım!\nHatta ruhlar bedenime bile gir—
+326|Kes sesini. Aptal hayallerini duymak\nistemiyorum.
+327|<CLT=cltMIND>Maki gerçekten lafı dolandırmıyor.\nAslında biraz ferahlatıcı.
+328|Her hâlükârda bu kadar ayak iziyle orijinal\nçemberi seçemiyorum...
+329|Kiyo'nun laboratuvarında öğreniriz. <CLT=cltSTRONG>Kafesli Köpek\nKöyü<CLT=cltNORMAL> belgesinde yazıyor olmalı.
+330|...Değil mi, Kiyo?
+332|<CLT=cltMIND>Morali bozuk görünüyor.\nSanırım bu mantıklı.
+333|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Korekiyo'nun Çizdiği Büyü Çemberi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+334|<CLT=cltMIND>Kiyo'nun yere çizdiği büyü çemberi.
+335|<CLT=cltMIND>Tuzla çizdiği için orijinal çizim şimdiye\nkadar her yerinden çiğnenmiş...
+336|<CLT=cltMIND>Orijinal çemberi artık seçemiyorsun\nbile.
+337|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Antropolog<CLT=cltMIND>'un laboratuvarındaki\n<CLT=cltSTRONG>Kafesli Köpek Köyü<CLT=cltMIND> belgesinde çizili olduğunu biliyorum.
+338|<CLT=cltMIND>Seansta kullanılan kafes bu.
+339|Yaklaşık bir metre yüksekliğinde ve bir buçuk\nmetre genişliğinde görünüyor.
+340|Epey büyük bir demir kafes.
+341|Bir insanın içine sığabileceği kadar büyük.
+342|<CLT=cltMIND>Seans sırasında Kokichi ile ben Tenko'yu\nkafesle örttük...
+343|<CLT=cltMIND>Onu kaldırmamız da gerekiyordu.
+344|<CLT=cltMIND>Ama içeri dalıp kafesi ilk kaldıran\nHimiko oldu.
+345|...Hey, şuna bak.
+346|Kafesin altında bir kan lekesi.\nMuhtemelen Tenko'nun kanı, değil mi?
+347|Evet, sanırım öyle. Bu sıçrama öldürüldüğünde\nolmuş olmalı.
+348|Yani Tenko kafesin içindeyken\nöldürüldü.
+349|Bence haklısın. Tenko seanstan önce kafesin\naltına girdi...
+350|...ama seanstan sonra kafes kaldırıldığında\nçoktan ölmüştü.
+351|Kafes kaldırıldığı anda bıçaklandıysa bu kan\nlekesini açıklardı, değil mi?
+353|<CLT=cltMIND>Belki seans sırasında değil de kafesin\nkaldırıldığı anda öldürülmüştür.
+354|<CLT=cltMIND>Bu bir ihtimal...
+355|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Demir Kafes<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+356|<CLT=cltMIND>Seansta kullanılan kafes bu.
+357|<CLT=cltMIND>Epey büyük. Yaklaşık bir metre yüksekliğinde\nve bir buçuk metre genişliğinde.
+358|<CLT=cltMIND>Seans sırasında Kokichi ile ben Tenko'yu\nkafesle örttük...
+359|<CLT=cltMIND>Onu kaldırmamız da gerekiyordu ama\nHimiko önce içeri daldı.
+360|<CLT=cltMIND>Kafesin altındaki kan sıçraması...\nmuhtemelen Tenko öldürüldüğünde oldu.
+361|<CLT=cltMIND>Yani Tenko hâlâ kafesin içindeyken\nöldürüldü.
+362|<CLT=cltMIND>Ama kafes açıldığı anda hızla\nbıçaklanmış olması da mümkün.
+363|<CLT=cltMIND>Seansta kullanılan ahşap köpek heykeli.\nSanırım adı <CLT=cltSTRONG>Köpek Tanrı<CLT=cltMIND>.
+364|<CLT=cltMIND>Seans sırasında bu ahşap heykel kafesin\nüstündeydi...
+365|<CLT=cltMIND>Kaldırmak için dördümüz gerekti.
+366|Bu ahşap heykel epey ağır...

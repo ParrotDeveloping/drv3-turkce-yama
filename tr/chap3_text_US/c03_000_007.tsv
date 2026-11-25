@@ -1,8 +1,12 @@
 0	Ah...
+1	<CLT=cltMIND>Himiko'nun gösterisinden kalan her şey tamamen\ngitmiş. Monokuma temizlemiş olmalı.
+2	<CLT=cltMIND>Ama...Ryoma'nın cesedinin görüntüsü...\nZihnimize kazındı. Asla unutmayacağız.
 3	Evet
 4	Hayır
 5	Emin olmadığın bir şey mi var?
 6	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+7	<CLT=cltMIND>Bu monitör özel yapım olmalı...
+8	<CLT=cltMIND>Bunu yapmak için neden bu kadar zahmete girsinler?\nBu bütçe nereden geliyor?
 9	Basket Potası_Sağ
 10	Basket Potası_Sol
 11	Skor Tabelası

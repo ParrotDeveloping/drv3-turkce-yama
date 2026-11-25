@@ -1,0 +1,67 @@
+@ chap3_text_US
+## c03_004_136
+10|<CLT=cltMIND>...Uzun bir süre başka bir böcek\ngörmek istemiyorum.
+## c03_004_190
+1|<CLT=cltMIND>Simit burada değil...\nMonokuma kaldırmış mı?
+## c03_005_101
+11|<CLT=cltMIND>O zaman avluya gitmem lazım.
+12|Ah... Çok yorgunum...
+13|<CLT=cltMIND>Odama dönünce derin bir iç çektim\nve sırtüstü yatağa düştüm.
+14|Kaito'nun Maki'yi getirmesi...\ngerçekten çılgın.
+15|Ama belki de Maki o çılgın olduğu için\ngelmiştir.
+17|Kaito...gerçekten bambaşkasın.
+18|<CLT=cltMIND>Kendi kendime konuşmaya devam ederken\ngözlerim kapandı ve sonunda uykuya daldım.
+20|...MERAK-MI-EDİYORSUNUZ?
+21|...SİZ-YOKKEN-BİZ-MONOYAVRULARIN-\nNE-YAPTIĞINI-MERAK-MI-EDİYORSUNUZ?
+22|SÖYLEYEYİM.
+23|YABANCI-MÜZİK-DİNLEYİP-KULAĞA-\nKOMİK-GELEN-KELİMELERE-GÜLÜYORUZ.
+24|KULAĞA-SAPIKÇA-GELEN-KELİMELER-\nDUYUNCA-ÇOK-HEYECANLANIYORUZ.
+25|AYRICA-BÜTÜN-GÜN-PİJAMAYLA-\nKLİMALI-BİR-ODADA-YAYILIYORUZ...
+26|VE-HEP-BİRLİKTE-DIŞARI-ÇIKINCA-\nGENELDE-BANA-HIRSIZLIK-YAPTIRIYORLAR.
+27|GÖRDÜNÜZ-MÜ? HEPİMİZ-ÇOK-İYİ-\nARKADAŞIZ. HEP-BİRLİKTEYİZ.
+28|HIRSIZLIK-YAPARKEN-YAKALANINCA-\nKAÇIP-GİTTİKLERİ-ZAMANLAR-HARİÇ.
+## c03_005_258
+0|Görünüşe göre Kaito henüz burada değil.
+1|<CLT=cltMIND>Sonra birdenbire...
+2|Hey, geç kaldığım için pardon.\nOnu getirmekte zorlandım.
+3|Onu mu?
+5|Maki mi? Maki neden burada?
+6|...Ben de onu bilmek istiyorum.
+7|Biri durmadan zilimi çaldı, o kadar bıktım\nki sonunda kapıyı açtım.
+8|Sonra bu herif kolumdan tutup beni\nta buraya kadar sürükledi—
+9|Neyse, küçük şeyleri dert etme!
+10|Antrenman yapacaksak üç kişiyle iki\nkişiden daha eğlenceli, değil mi?
+11|Antrenman mı? Üçümüz mü? Beni buraya\nsürüklemenin sebebi gerçekten bu mu?
+12|Bu aptalca... Ben dönüyorum.
+13|Heh...buna aptalca mı diyorsun?
+14|Dinle! Bir kahraman büyük bir düşmanla savaşmak\nzorunda kalınca çalışır, çalışır, daha da çalışır!
+15|Bu antrenman da işte o! Benim gibi bir\nkahraman için önemli.
+16|Yani siz de kahraman olmama yardım etmek\niçin yanımda süper köpek, kedi ya da at olabilirsiniz!
+17|Seçebileceğin onca örnek varken...
+18|O çılgın açıklamanın beni kalmaya ikna\nedeceğini gerçekten düşündün mü?
+19|Bu hâlâ aptalca... Ben dönüyorum.
+20|Hey, bir saniye... Kahraman ben dediğimde\nbu sadece benim bakış açımdan.
+21|Süper evcil hayvanlar bile kendilerini\nkahraman sayar.
+22|Aynısı ikiniz için de geçerli! Her biriniz\nkendi hikâyenizin kahramanısınız!
+23|O yüzden öyle davranın!
+25|Ne peşinde olduğunu bilmiyorum...ama ikinize\nde benden uzak durmanızı söyledim.
+26|Durmazsanız bunun kötü biteceğini biliyorsunuz,\no zaman neden bu kadar zorluk çıkarıyorsunuz?
+27|Daha ne kadar kaçacaksın?
+29|<CLT=cltMIND>Kaito yüzünü Maki'nin yüzüne yaklaştırdı.
+30|Maskeni indiriyorum...\nBugün sana bakarak bile anlayabildim.
+33|Diğerlerinin sandığı gibi korkunç biri\ndeğilsin...
+34|Sen sadece bir korkaksın.
+36|Hey, senin düşmanın ne?
+37|...Ha? Düşmanım mı?
+38|Ne olduğunu bana söylemene gerek yok,\nkendin bildiğin sürece.
+39|Peki düşmanından daha ne kadar\nkaçacaksın?
+40|...Kaçmak mı?
+41|Evet, kaçıyorsun.\nEpey acınası.
+42|Ama...ona karşı durmak istiyorsan,\nazıcık bile olsa...
+43|Seninle antrenman yaparım!\nGüçlü olabilesin diye!
+46|<CLT=cltMIND>Maki sinirleniyor...\nKaito onu sadece kışkırtıyor.
+47|<CLT=cltMIND>İyi olacak mı?\n<CLT=cltSTRONG>Ultimate Suikastçı<CLT=cltMIND>'yı kızdırıyor...
+49|Ee, ne yapacaksın!?
+50|Hey, Kaito...\nSorun değil, zorunda değilsin—
+51|...Peki, yapacağım.
+52|Ha? Yapacak mısın?

@@ -1,0 +1,67 @@
+@ chap3_text_US
+## c03_242_000
+101|Angie'yi hangi silah bayılttı?
+102|Angie taşınırken başındaki yaraya ne\nbastırıyordu?
+103|Angie'yi hangi silah öldürdü?
+104|Katanayla kimin heykeli bıçaklandı?
+105|Dönen katananın kabzası...
+106|Angie'nin cesedi bulunduğunda kapıyı\nkim açtı?
+107|Tenko seans sırasında alnını hangi\nnesneye dayadı?
+108|Suçlu demir kafesin üstüne hangi silahı\nkurdu?
+109|Kokichi dışında mumları söndürmekten\nkim sorumluydu?
+110|Suçlu seans sırasında karanlıkta nasıl\nhareket edebildi?
+111|Suçlu kafese yaklaşınca...
+112|Büyü çemberi nasıl silindi?
+## c03_243_000
+0|Dedektifliğim bizi buraya götürüyor.\nHer şey yerine oturuyor!
+1|I... Iııhhh...
+2|Tatlı Korekiyo'm, bazen yenilgiyi kabul etmek\ngerekir.
+3|K-Kabul etmek mi...?
+5|Evet... Tamam...
+6|Yani sen...sonunda yaptığını kabul ediyorsun.
+7|Ne yazık ki...evet.
+8|Evet... Ne talihsizlik.\nÇok, çok talihsiz.
+9|Tek pişmanlığım... Tek pişmanlığım...
+10|...<CLT=cltSTRONG>100 arkadaş<CLT=cltNORMAL> edinemememdi.
+11|100...a-arkadaş mı?
+12|Kehehe... 100 arkadaş edinmek benim hayalimdi.
+13|Ooh, ne talihsizlik!\n100'e çok yaklaşmıştım!
+14|N-Neden...bahsediyorsun?\nBunun tek kelimesini anlamıyorum.
+15|Kimin umurunda lan!? Bu kaçık şerefsize oy verip\nşu işi bitirelim artık!
+16|Anlaşıldı! Bir Oylama Vakti geliyor!
+17|KALP-ÇARPTIRAN-HEYECANIN...
+20|Kalp çarptıran heyecan...!
+21|Karalar ile lekesizlerin sonunda karşı\nkarşıya geldiği...
+## c03_300_332
+0|Vay! Cidden mi!? Yine doğru bildiniz!
+1|İ-İnanılmaz! Bu üst üste üçüncü doğru\nkarar!
+2|Üst üste 12 doğru karar verirseniz bonus\nturuna geçeceksiniz!
+3|Bu o kadar nasıl sürecek ki!?
+5|...Sonunda bitti.
+6|Hayır, henüz değil.\nOnun cevabını...henüz duymadım.
+7|Kiyo...neden?\nAngie ile Tenko'yu neden öldürdün?
+8|Evet! Motifi ne olursa olsun ikisini de\nöldürmesine gerek yoktu!
+9|Motif mi?
+10|Motifinin <CLT=cltSTRONG>dirilen<CLT=cltNORMAL> nakil öğrenciyle bir\nilgisi var mıydı?
+11|Öyle olsa bile...\nBu bir cinayeti nasıl tetikledi?
+12|Yoksa... Sen gerçekten <CLT=cltSTRONG>diriltme ritüelinden<CLT=cltNORMAL>\nkorkuyor muydun, Kaito?
+13|K-Kes sesini!\nKorktuğumu hiç söylemedim!
+14|Kehehe... <CLT=cltSTRONG>Diriltme ritüelinin<CLT=cltNORMAL>\nbununla hiçbir ilgisi yoktu.
+15|<CLT=cltMIND>Hiçbir ilgisi yok muydu...?
+16|Arkadaş olduğumuz için söyleyeceğim...\n<CLT=cltSTRONG>Ritüele<CLT=cltNORMAL> bir kez bile inanmadım.
+17|Böyle saçma bir şey yüzünden birini\nasla öldürmem.
+18|...Yani motifle hiçbir ilgisi yok mu?
+19|O-O zaman...neden?
+20|Sevdiğim kişi için...
+21|Sevdiğim...biri var.
+22|Kalbimin derinliklerinden.\nÇok değerli...özlemini çektiğim biri.
+23|Onu bütün kalbimle seviyorum.\nO da beni bütün kalbiyle seviyor.
+24|Evet, birbirimize sonsuz bir aşk yemini ettik...\nkaderle sonsuza dek bağlıyız.
+25|Kimse aramıza giremez.\nYoğun bir aşkla bağlıyız...
+26|Kim ne derse desin.
+27|Kusursuz aşk hayatınla mı övünüyorsun!?\nSiktir git! Bazılarımız o kadar şanslı değil...!
+28|Yani bu sevgilini görmek için kaçman\ngerekiyordu...
+29|Angie ile Tenko'yu bu yüzden mi öldürdün?\nAma neden ikisini de öldürmen gerek-
+30|Bunu buradan kaçmak için mi yaptığımı sorarsan\ncevabım... "Hayır" olur.
+31|Çünkü buradan kaçmama gerek yok.\nSevdiğim kişi...burada, içeride.
+32|<CLT=cltMIND>İçeride mi?

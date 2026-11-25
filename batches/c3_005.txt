@@ -1,0 +1,58 @@
+@ chap3_text_US
+## c03_001_150
+40|Bir katilin yeteneği... Hayatta kalmak isteyen\nhepimiz için en büyük tehdit bu.
+41|Hadi onu kimseyi öldüremeyeceği bir\nyere kilitleyelim.
+42|Bunu sana bırakıyorum, Gonta...
+43|Ha? A-Ama...
+44|Ben de yardım edeceğim! Bir cinayet daha\nolmasını istemiyorum.
+45|Ah, dur, o kadar ileri gitmenize gerek yok...\nBizi öldürmeye çalıştığı falan yok—
+46|En iyisi <CLT=cltSTRONG>sinsi bir saldırı<CLT=cltNORMAL>! O davranmadan\nbiz davranmalıyız! Arkadan vur onu!
+47|Sinsi saldırı mı...? O davranmadan mı?\nBir Aikido ustası bunları söylemeli mi?
+48|Öyleyse Atua ile ben barışı korumak için\nherkesle birlikte çalışacağız.
+49|Öyleyse ben de size tezahürat yaparım. Büyümle\nağzımdan ponponlar çıkaracağım.
+50|Vaaay! Öyle neşeli bir tezahürat büyüsü\nherkesi heyecanlandırır!
+51|Durun millet. Maki'yi bana bırakın...\nO maskesini ben indireceğim.
+52|Tch, <CLT=cltSTRONG>Ultimate Suikastçı<CLT=cltNORMAL> mıymış...\nHep dalga geçiyor...
+53|K-Kaito?\nAptalca bir şey yapma—
+54|Taaa-mam! Her şeyi Kaito'ya bırakalım!
+55|Gonta, sen geride dur. Yardım etmeye\nkalktığında hiç iyi bir şey olmuyor.
+56|Hm? Ah evet...özür dilerim.
+57|Hey, Gonta. Sana söylediğim gibi, bir erkek\nbu kadar kolay özür dilememeli—
+58|Oh! Herkesin her zamanki tepkilerine\nihtiyacım yok! Biraz vaktimiz dar!
+60|Herkes! Gonta'nın arkasına geçin!
+61|Himiko, arkama geç! Seni korumak için\nbedenimle etrafını saracağım!
+62|Her zamanki tepkilerinize ihtiyacım yok dedim!
+63|Devre arası yaklaşıyor, yakında herkesin\nkafayı takacağı istatistikler çıkar...
+64|Ve Sınıf Duruşması'nı atlattığınıza göre hepinize\nharika bir <CLT=cltSTRONG>ödül<CLT=cltNORMAL> vereyim dedim!
+66|Diyorum ki, hepinize harika bir\n<CLT=cltSTRONG>ödül<CLT=cltNORMAL> vereyim dedim!
+68|...Ha? Sevimli küçük yavrularım gelmiyor mu?\nBu tuhaf.
+69|UYANIN-BAKALIM-AYICIKLAR!
+70|Sonunda geldiler! Yaşasın! Bugün o kadar\ntatlısınız ki neredeyse ayıp!
+71|Vay be. Cidden çok tatlısınız.\nH-Hep bu kadar tatlı mıydınız?
+72|Ahhhh! Süper tatlı çocuklarımın şoku...\nbeni...kel yapıyor galiba...
+73|...Yani, yer yer.
+74|Gerçekten kelleşiyor mu!?
+75|Iyy! İğrenç!
+76|Ahhhh... Ü-Üşüyorum... Ç-Çok üşüyorum...
+77|Hey, sevimli küçük yavrularım... Onlara\n<CLT=cltSTRONG>ödülü<CLT=cltNORMAL> çabuk verir misiniz...?
+78|Ç-Çok soğuk...d-dayanamıyorum... Çabuk...\nSıcak bir yere gitmek istiyorum...
+81|Ha? Ne oldu? Neden bana destek\nolmuyorsunuz?
+82|BABA...BİZ-SENİN-KÖLELERİN-DEĞİLİZ.
+83|ARTIK-BİZİ-KULLANMANA-İZİN-VERMEYECEĞİZ.
+85|BUNDAN-SONRA...KARARLARI-BEN-\nVERECEĞİM.
+86|...Hah! Güzel şaka, çocuklar. Çok komik. Şimdi\nbana gizli kameraların yerini gösterebilirsiniz.
+87|B-Baba...sen bunun için çok yaşlısın! Bunu o kadar\nuzun zamandır yapıyorsun ki tahmin edilebilir oldun!
+88|Artık Monoyavru çağı!\nEskiler gitsin, yeniler gelsin!
+89|N-Ne!? Ama ya uzun zamandır bizi takip\neden hayranlar—
+90|Neyse, sen artık eskidin! Neden bir yerde\nemekli olup bronzlaşmaya çalışmıyorsun!?
+91|E-Eskidin mi!?
+92|AFERİN, SİZE... REPLİKLERİMİ-\nKUSURSUZ-EZBERLEMİŞSİNİZ.
+93|B-Babanıza gerçekten karşı gelebileceğinizi mi\nsanıyorsunuz!? Böyle bir şeyi affedeceğimi mi—
+94|...NE-DİYORDUN?
+95|İİİİİİİİİİİİİİİİK!!!
+96|UNUTTUN-MU, BABA?\nEXISAL'LARI-SADECE-BİZ-KULLANABİLİRİZ.
+97|...Ne!? Gerçekten mi!?
+98|Bunu nasıl unutursun!?
+99|TEŞEKKÜRLER, BABA, AMA-AKADEMİ-ARTIK-\nBİZİM-UYUMLU-KONTROLÜMÜZDE.
+100|...KENARA-ÇEKİL, BABA.
+101|O-Olamaz! Yani size malımmış gibi davranmamın...\nyanlış olduğunu mu söylüyorsunuz!?

@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_100_157
+116|Üstelik burada efsanevi ruh çağırma seansı\n<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>'u yapmak için nadir bir şansımız var.
+117|Bundan faydalanmamak aptallık olur,\ndeğil mi?
+118|N-Nasıl söylersen söyle şimdi böyle bir şeyin\nsırası değil—
+119|Oh? Bence önceki teorini doğrulamanın tek\nyolu seansı yapmak, değil mi?
+120|Benim...önceki teorim mi?
+121|Suçlunun dirilen <CLT=cltSTRONG>nakil öğrenci<CLT=cltNORMAL>\nolma ihtimali...
+122|Sınıf Duruşması'na kafada böyle tuhaf\nteorilerle girmek akıllıca değil.
+123|O yüzden bunun imkânsız olduğunu kanıtlamak\niçin bence en iyisi Angie'nin kendisine danışmak.
+124|B-Bu mantık en hafif tabiriyle tuhaf!
+125|<CLT=cltSTRONG>Ritüel<CLT=cltNORMAL> hakkında bilgi almak için ruh çağırma seansı...\nYani okültizmle okültizme karşı savaşacağız.
+126|Eh, bunu sonsuza kadar dert edemeyiz,\no yüzden en kolay çözümü seçsek iyi olur.
+127|Tamam, ben yardım ederim! Zaten soruşturmaktan\nsıkılmaya başlamıştım!
+129|Ben de yardım ederim...
+130|Ha!? Sen de mi, Himiko!?
+131|Angie ile bir kez daha konuşabilirsem...\nher şeyi yaparım.
+132|Ruh çağırma seansı ya da ne gerekiyorsa...\nYaparım.
+133|B-Ben de yardım edeceğim!\nHimiko'yu yalnız bırakamam!
+134|Ne istersen yap...
+135|Tamam...yapacağım.
+136|Şimdi dört katılımcımız var.\nKokichi, Himiko, Tenko ve ben...
+137|Ancak <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> için beş kişi\ngerekiyor. Hâlâ bir kişi eksiğiz...
+138|Peeeki, o zaman Kee-çocuk da gelebilir.
+139|Sanırım seçici olamayız...
+140|Neden hem katılmaya zorlanıyorum hem de\nbir yükmüşüm gibi davranılıyor!?
+141|O zaman seansı yapmak için bir yere\nihtiyacımız var... Nerede yapalım?
+142|Senin laboratuvarına ne dersin?
+143|Hayır...<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>'un başarılı olması\niçin oda olabildiğince karanlık olmalı.
+144|Laboratuvarımın pencereleri var, o yüzden\nışıkları kapatmak yeterince karanlık yapmaz.
+145|O zaman...boş odalara ne dersin?
+146|Boş odalar mı? 4. kattakiler mi?
+147|Orada hiç pencere yok, mumları söndürürsek\nzifiri karanlık olmalı.
+148|Tabii, bana uyar.
+149|Himiko'ya katılıyorum!
+150|Ancak...üç boş oda var.\nHangisini kullanalım?
+151|Hmm...ortadaki oda. Böyle şeyler için\nortadaki oda hep en iyisidir.
+152|Pekala. Hazırlıklara hemen\nbaşlıyorum.
+153|Siz dördünüz de yardım edeceksiniz. Gerekli\nbütün ekipmanı laboratuvarımdan taşıyalım.
+154|G-Gerçekten bunu yapacak mısınız?
+155|Bu soruşturmamız için.\nÖyle dedim, değil mi?
+156|Kehehe... Hayatlarımızı kaybetmemek için\nsuçluyu bulmak adına bütün çabamızı göstermeliyiz.
+157|<CLT=cltMIND>Kiyo, Kokichi, Keebo, Tenko ve\nHimiko olay yerinden ayrıldı.
+158|Bu aptal ruh çağırma seansı konusunda\nciddiler mi?
+159|Belki onların gözünde bu soruşturmanın bir\nparçasıdır... Uyum sağlamalıyız.
+160|<CLT=cltMIND>Her hâlükârda yapabileceğim şeye\nodaklanmalıyım.
+161|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Dedektif<CLT=cltMIND>'in yapabileceği şeye...
+162|Gece işlenen bir cinayet...tuhaf.\nHatta imkânsızsız.
+163|Neden öyle düşünüyorsun?
+164|Çünkü öğrenci konseyi gece dışarıda\nolamayacağımıza dair kural koydu.
+165|Herkesin uyuyor olması gerekiyordu. Gece\ncinayet işlenmesinin imkânı yok.
+166|Gerçekten herkesin o kurala uyacağını\nmı düşünüyorsun?
+167|Ama o Atua'nın kuralı. Angie, kurallarına\nuymazsak bizi cezalandıracağını söyledi...
+168|Ama öğrenci konseyi buna dahil değildi,\ndoğru mu? İstediklerini yapabiliyorlardı.

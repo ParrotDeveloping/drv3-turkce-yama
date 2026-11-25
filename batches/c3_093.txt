@@ -1,0 +1,59 @@
+@ chap3_text_US
+## c03_228_001
+25|<CLT=size2>o tuzağı\n<CLT=size1>başkası kurmuş olabilir!
+26|o tuzağı\nbaşkası kurmuş olabilir!
+27|Fikirleriniz\n<CLT=size2>boş laflar.
+28|Fikirleriniz boş laflar.
+31|Bu doğru...
+32|Onun söylediğini duydum...
+33|O boş oda Himiko'nun\nfikriydi!
+34|Özel bir sebebi yoktu!
+35|O vahşi küçük bir kurbağa!
+36|Diğer odaları hiç araştırmadık...
+37|Bundan emin misin?
+38|Suç ortağını mı diyorsun?
+## c03_229_000
+0|<CLT=cltMIND>Plan Himiko'yu suçlamaksa o planı bozmak\nbize bir şey öğretebilir.
+1|<CLT=cltMIND>Bu yüzden...yalan söylemeliyim!
+2|Tsumugi haklı. Bence Himiko'ya\n<CLT=cltSTRONG>tuzak kuruldu<CLT=cltNORMAL>.
+3|Himiko o odayı sadece Kiyo <CLT=cltSTRONG>olabildiğince\nkaranlık<CLT=cltNORMAL> olmasını istediği için seçti.
+4|Hayır...Kafesteki Çocuk'un başarılı olması\niçin oda olabildiğince karanlık olmalı.
+5|Laboratuvarımın pencereleri var, o yüzden\nışıklar kapalıyken bile yeterince karanlık değil.
+6|O zaman...boş odalara ne dersin?
+7|Himiko, Kiyo'nun dediği yüzünden bir boş\noda seçmiş olsa bile...
+8|Ortadaki odayı tamamen tesadüfen seçtiğini\nmi söylüyorsun?
+9|Suçlu ortadaki odanın tesadüfen seçilmesi\nüzerine kumar mı oynadı?
+10|Bu son derece olasılık dışı görünüyor.
+11|<CLT=cltMIND>Ah, bu doğru...\nSuçlu bunu şansa bırakmazdı.
+12|<CLT=cltMIND>Ama belki bırakmadılar.\nBelki Himiko'yu bir şekilde yönlendirdiler.
+16|Yeter artık...
+17|Size söyledim...çok zahmetli.\nOylamayı ya da her neyse onu yapın...
+19|Himiko'nun hangi odayı seçtiğinin önemli\nolmadığından epey eminim...
+21|Biraz sıkıcı olmaya başladı, o yüzden açıklayayım.
+22|Ortadakini tesadüfen seçmedi.\nZaten her oda aynıydı.
+23|Her oda...aynı mı?
+24|Gonta'nın daha önce ne dediğini hatırlıyor musunuz?\nBelki suçlu bütün odalara tuzak kurmuştur?
+25|Eh...bu doğruydu! Duruşmadan önce bütün\nodaları kontrol ederken kendimi yaraladım.
+26|Ah! Doğru ya!
+29|Kokichi diğer odalardan birinde başka bir\n<CLT=cltSTRONG>gevşek döşeme tahtası<CLT=cltNORMAL> buldu!
+30|Aynen Gonta'nın dediği gibi. Her oda\naynıydı. Hepsinde tuzak vardı.
+31|Ne? Bu doğru mu!?
+32|Kokichi size anlatacak.
+33|Fazlasıyla dikkatsizdim!\nHa, dur. Neden bahsediyorsun?
+36|Olay yerinin yanındaki odadayken bir <CLT=cltSTRONG>gevşek\ndöşeme tahtası<CLT=cltNORMAL> buldun, değil mi?
+37|Eh...bulmaktan çok ayağım içinden geçip\ntökezledim.
+38|Neee—! Dur bir dakika! Yan odada da gevşek\nbir döşeme tahtası mı vardı?
+39|Yani suçlu sadece ortadakine değil, <CLT=cltSTRONG>üç boş\nodanın hepsine<CLT=cltNORMAL> tuzak hazırladı.
+40|Suçlu bütün odalara tuzak kurduysa\nodayı kendisinin seçmesine gerek kalmazdı.
+41|Yani asıl tuzak başka birinin odayı seçip\nsuçu üstlenmesiydi!
+43|Anlıyorum... Baştan beri suçlunun\ntuzağına düşmüşüz.
+44|Özellikle de sen!
+45|Ama artık Himiko'dan şüphelenmek için bir\nsebep yok! Değil mi!?
+47|Himiko...Tenko'nun sana ne dediğini hatırlıyor musun?
+48|Başını dik tut ve hayatına ileriye bakarak devam et!\nBenimle ve diğer herkesle hayatta kal!
+50|<CLT=cltSTRONG>"Hayatına ileriye bakarak devam et."<CLT=cltNORMAL>\nSana öyle dedi, değil mi?
+51|Yaşamaktan vazgeçersen...onun hatırasına\nihanet etmiş olursun.
+53|Hepimiz...ölülere verdiğimiz sözleri\ntutmaya çalışıyoruz.
+54|Bu duruşma... Sadece bizim hayatlarımız için\ndeğil, ölen herkes için de.
+55|Bu yüzden pes edemeyiz!\nBu bizim sorumluluğumuz! Yaşamaya devam ediyoruz!
+57|Sen...haklısın.\nEvet... Doğru...

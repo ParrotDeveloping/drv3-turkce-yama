@@ -1,0 +1,38 @@
+@ chap3_text_US
+## c03_103_039
+269|<CLT=cltMIND>Odadaki tek ışık kaynağı onlar.
+272|<CLT=cltMIND>Görünüşe göre bu döşeme tahtaları\n<CLT=cltSTRONG>kirişlerin<CLT=cltMIND> üstüne döşenmiş...
+273|<CLT=cltMIND>Muhtemelen biraz sallantılı gelmelerinin\nsebebi bu.
+274|<CLT=cltMIND>Ama epey kalın ve sağlamlar, kolayca\nyerinden çıkacaklarını sanmıyorum.
+275|<CLT=cltMIND>Ah, bu döşeme tahtası gevşek!
+276|<CLT=cltMIND>Ve tam Tenko'nun altındaki...
+277|Bu döşeme tahtası neden gevşek?
+278|Önceden böyle değildi...seans sırasında\ngevşemiş olmalı.
+279|...Seans sırasında neden gevşesin ki?
+280|Bu kadar kalın ve ağır bir döşeme tahtası\nkolayca gevşemezdi.
+281|O zaman...biri onu bilerek gevşetmiş\nolmalı.
+282|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Gevşek Döşeme Tahtası<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+283|<CLT=cltMIND>Bu döşeme tahtası gevşek.\nVe tam Tenko'nun altındaki...
+284|<CLT=cltMIND>Önceden böyle değildi. Seans sırasında\nolmuş olması gerektiğinden eminim.
+285|<CLT=cltMIND>Ama bu kadar kalın ve ağır bir döşeme\ntahtası kolayca gevşemezdi.
+286|<CLT=cltMIND>Bu da birinin onu bilerek gevşettiği\nanlamına gelmeli.
+287|<CLT=cltMIND>Odanın köşesinde küçük bir\naçıklık var!
+288|<CLT=cltMIND>Bir insanın geçebileceği kadar büyük\ngörünmüyor ama yine de...
+289|...Bir delik mi? Görünüşe göre burada da altta\nbir boşluk var. Ah, dur...
+290|...Aşağıda bir şey görebiliyorum. Oraya bir\nşey düşmüş gibi görünüyor.
+291|<CLT=cltMIND>Ne? Oraya bir şey mi düşmüş?
+292|Diğer her yere baktıktan sonra neden zeminin\naltına inip kendimiz görmüyoruz?
+293|Doğru. Hadi yapalım.
+294|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Köşedeki Delik<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+296|<CLT=cltMIND>Zeminin altında bir boşluk var ve\naşağıda bir şey var...
+297|<CLT=cltMIND>Ama zeminin altına bakmadan önce\nburadaki incelemeyi bitirmeliyim.
+299|Bir insanın geçebileceği kadar büyük\ngörünmüyor ama yine de...
+302|Ne? Oraya bir şey mi düşmüş?
+303|<CLT=cltMIND>Buradan bir şey mi düşürüldü?
+307|Aşağısı epey karanlık görünüyor...\nIşık için ne kullanmalıyız?
+308|Bir mum götürelim. Keebo'nun yukarıdan\ngelen ışığıyla yeterli olmalı.
+309|O zaman ben bir mum getireyim. Aşağı\ninebilmemiz için o döşeme tahtasını kaldır.
+310|Tamam, anladım.
+311|<CLT=cltMIND>Deliğin yakınındaki birkaç döşeme tahtasını\nçekip çıkardım ve mumu Maki'den aldım.
+312|<CLT=cltMIND>Sonra delikten dikkatle geçip zeminin\naltına indik.
+313|Maki, burada araştırmayı bitirdik.\nBelki zeminin altına bakmalıyız?

@@ -1,6 +1,105 @@
+0	<CLT=cltMIND>Burası düşündüğümden çok daha geniş.\nDört ayak üstünde epey rahat hareket edebiliyorsun.
+1	Etrafa ipucu için bakalım.
+2	Bu tozlu yerde emekledikten sonra hiç ipucu\nbulamasak epey aptalca görünürdü.
 3	E-Evet...
 4	<CLT=cltMIND>Sanırım burada hâlâ araştırılacak\nşeyler var...
 5	Evet
 6	Hayır
 7	Emin olmadığın bir şey mi var?
 8	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+9	<CLT=cltMIND>Döşeme tahtalarının arasındaki\nboşluklardan kan damlıyor...
+10	<CLT=cltMIND>Taze kan.\nBu kesinlikle Tenko'nun.
+11	<CLT=cltMIND>Gevşek döşeme tahtasının altındaki zeminde\nbir kan lekesi var.
+12	<CLT=cltMIND>Ama Tenko'nun kanının damladığı yerden\nepey uzak...
+13	<CLT=cltMIND>Aynı döşeme tahtasının altında...\nsadece farklı uçlarında.
+14	<CLT=cltMIND>Burada neden kan var?
+15	Hey, bu döşeme tahtasının arkasında da\nkan var.
+16	Haklısın...bu döşeme tahtasının alt yüzünde\nbiraz kan var.
+17	Tenko öldürüldüğünde kanı buraya mı\nsıçradı?
+18	Acaba... Henüz emin olamıyorum.
+19	Ama buradaki kan lekeleri tamamen\nkurumuş.
+20	<CLT=cltMIND>Özellikle bu lekelerin kurumuş olmasının\nbir sebebi olmalı...
+21	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Zeminin Altındaki Kurumuş Kan<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+22	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Gevşek Döşeme Tahtası<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+23	<CLT=cltMIND>Gevşek döşeme tahtasının altındaki zeminde\nbir kan lekesi var.
+24	<CLT=cltMIND>Tenko'nun kanının biriktiği yerden\nepey uzakta.
+25	<CLT=cltMIND>Burada neden bir kan lekesi var?
+26	<CLT=cltMIND>Bu döşeme tahtasının alt yüzünde\nde kan var.
+27	<CLT=cltMIND>Bu da Tenko öldürüldüğünde mi oldu?\nBilmiyorum...
+28	<CLT=cltMIND>Ama bu kan lekeleri tamamen\nkurumuş.
+29	<CLT=cltMIND>Bu ne anlama gelebilir...?
+30	<CLT=cltMIND>Tahtanın bir kısmı çürüyüp kopmuş,\nyani yan odayı görebiliyorsun...
+31	Bu...boş odanın duvarı, değil mi?\nDuvar boyunca tahta var gibi...
+32	Bu kısım çürümüş.
+33	Doğal bir çürüme gibi görünüyor...\nBu delik kasıtlı açılmamış.
+34	Ama buradan yan odaya geçebilirim.
+35	Yanlış hatırlamıyorsam yan oda da boş,\ndeğil mi?
+36	O zaman suçlu koridoru kullanmak yerine\nburadan geçerek odadan odaya gitmiş olabilir.
+37	Doğru ama zeminin altında hareket etmek\nzor olurdu.
+38	Işığımız olduğu için idare ettik.\nO olmasaydı zifiri karanlık olurdu.
+39	Bu, orada hareket etmeyi imkânsız\nhâle getirebilir.
+40	O zaman şu an bizim yaptığımız gibi bir\nışık kullanmış olabilirler.
+41	Doğru...
+42	<CLT=cltMIND>Zeminin altında hareket etmek için ışık mı\nkullandılar? Bu mümkün mü?
+43	<CLT=cltMIND>Tahtanın bir kısmı çürümüş.
+44	<CLT=cltMIND>Doğal bir çürüme gibi görünüyor.\nBu delik kasıtlı açılmamış.
+45	<CLT=cltMIND>Burası yan odanın duvarına yakın.\nBu boşluktan oraya geçebilirsin.
+46	<CLT=cltMIND>Yani zeminin altından odadan odaya\ngidebilirsin...
+47	<CLT=cltMIND>Ama tamamen karanlık olurdu.
+48	<CLT=cltMIND>Sana yol gösterecek bir tür ışık olmadan\nhareket etmek mümkün olmazdı.
+49	<CLT=cltMIND>Suçlu zeminin altına yanında bir ışık\ngetirmiş olabilir mi?
+50	<CLT=cltMIND>Burada bir orak var!\nVe her yeri kan içinde!
+51	Bu oraktaki kan taze...\nBu o. Cinayet silahı bu!
+52	Bu...benim araştırma laboratuvarımdan geldi.
+53	Öyle mi?
+54	Bir orak bir hedefe suikast yapmak için\nkullanılabilir.
+55	Ölümcüllüğünü kaybetmeden fırlatılabilir ve\nkıyafetlerinin altına da saklayabilirsin.
+56	Bununla saldırıya uğrasaydı hiç şansı olmazdı.\nBıçağı yaklaşık 15 santim...
+57	Ve Tenko kafesin içinde olduğu için kendini\nsavunamazdı.
+58	Ama bu *gerçekten* cinayet silahımız olsa bile...
+59	Suçlu kafesteki Tenko'ya nasıl saldırdı?
+60	Bıçak kafesin aralıklarından geçebilirdi\nama boynuna ulaşabilir miydi?
+61	Kafes bir metre yüksekliğinde... İçine 15\nsantimlik bir bıçakla saplarsan...
+62	Eh, Tenko'nun duruşuna bağlı...\nama imkânsız olduğunu sanmıyorum.
+63	<CLT=cltMIND>O zaman soru onun duruşu...
+64	Hey... Silah burada aşağıdaysa suçlu onu\nfırlatıp atmış olmalı, değil mi?
+65	Belki Tenko'yu öldürdükten sonra suçlu orağı\nkaranlıkta zeminin altına attı.
+66	Ya da bütün zaman boyunca zeminin altında\nolabilirlerdi. İkisi de mümkün.
+67	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Zeminin Altındaki Orak<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+68	<CLT=cltMIND>Buraya kanlı bir orak bırakılmış.
+69	<CLT=cltMIND>Kan hâlâ ıslak. Tenko'yu öldürmek için\nkullanılan silah olmalı.
+70	<CLT=cltMIND>Bu silah Maki'nin laboratuvarındandı.
+71	<CLT=cltMIND>Bıçağı yaklaşık 15 santim,\nbir dövüşte ölümcül.
+72	<CLT=cltMIND>Ama suçlu kafesteki Tenko'ya orakla\nnasıl saldırdı?
+73	<CLT=cltMIND>Bıçak kafesin aralıklarından geçebilir ama\nTenko'nun boynuna ulaşabilir miydi?
+74	<CLT=cltMIND>Kafes yaklaşık bir metre yüksekliğinde,\nyani içine 15 santimlik bir bıçak saplamak...
+75	<CLT=cltMIND>Her şey kafesin içindeki vücut\npozisyonuna bağlı olurdu.
+76	<CLT=cltMIND>Bütün bunlara ek olarak...
+77	<CLT=cltMIND>Suçlu onu buraya attığı için silahın\nburada aşağıda olduğunu varsayarsak...
+78	<CLT=cltMIND>O zaman ya suçlu cinayetten sonra orağı\nkaranlıkta buraya attı...
+79	<CLT=cltMIND>ya da suçlu bütün zaman boyunca\nzeminin altındaydı.
+80	<CLT=cltMIND>Hangisi olabilir...?
+81	Ah, bak! Döşeme tahtasını destekleyen\nkirişin bir kısmı kesilmiş.
+82	Gevşek döşeme tahtasının yakınında ve eksik\nkısım da yaklaşık aynı genişlikte.
+83	Ve görebildiğim kadarıyla...
+84	Doğal olarak kırılmamış.\nBiri tarafından kesilmiş.
+85	Depoda testereler olmalı, onu kullanmış\nolabilirler...
+86	Soru şu: neden?
+87	Döşeme tahtasını başka bir kiriş destekliyor,\nyani bu kısım eksik olsa da düşmeyebilir...
+88	Peki bu ne işe yaradı?
+89	<CLT=cltMIND>Tenko'nun cesedinin altındaki döşeme tahtası gevşek\nve onu destekleyen kiriş kesilmiş...
+90	<CLT=cltMIND>Bunların hepsini suçlu yaptıysa...neden?
+91	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Zeminin Altındaki Kiriş<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+92	<CLT=cltMIND>Gevşek döşeme tahtasını destekleyen\nkirişten bir parça kesilmiş...
+93	<CLT=cltMIND>Ve görebildiğim kadarıyla...
+94	<CLT=cltMIND>Doğal olarak kırılmamış.\nBiri tarafından kesilmiş olmalı.
+95	<CLT=cltMIND>Depoda testereler olmalı, onu\nkullandıklarını varsayarsak...
+96	<CLT=cltMIND>Bütün bunları neden yapsınlar?
+97	<CLT=cltMIND>Tenko'nun cesedinin üstünde olduğu döşeme tahtası\ngevşek ve altındaki kiriş kesilmiş...
+98	<CLT=cltMIND>Bunların hepsini suçlu yaptıysa...neden?
+99	<CLT=cltMIND>Tenko'nun cesedinin gevşek döşeme\ntahtasının üstünde olması tesadüf olamaz.
+100	<CLT=cltMIND>Sanırım burada araştırmayı bitirdik.
+101	Maki, yukarı çıkmak ister misin?
+102	İyi ki sordun... Bütün bu tozdan bıkmaya\nbaşlamıştım.
+103	<CLT=cltMIND>Maki ile zeminin altından emekleyerek\nçıktıktan sonra döşeme tahtalarını yerine koyduk...
+104	<CLT=cltMIND>Ve soruşturmamıza döndük.

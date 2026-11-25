@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_221_000
+10|Eh, düşen şey kesinlikle hafif bir şey\ndeğildi.
+11|Eh neyse, nasıl bir ses çıkardığı\nönemli değil.
+12|Sesin karanlıkken çıktığını not etmek\ndaha önemli değil mi?
+14|Belki...o sesi demir kafes çıkarmıştır?
+15|Demir kafes ağırdı ama hareket ettirildiğine\ndair bir iz olduğunu sanmıyorum.
+16|Sebebinin bu olduğunu sanmıyorum, sen öyle mi düşünüyorsun?
+18|Belki...o sesi kafesin üstündeki\nheykel çıkarmıştır?
+19|Düşseydi epey yüksek ses çıkarırdı ama\nseanstan sonra hâlâ kafesin üstündeydi.
+20|Böyle bir şeyi unutmak sana hiç\nbenzemiyor, Shuichi.
+22|Belki...orağın yere çarpma\nsesiydi?
+23|O olsaydı bu kadar yüksek ses çıkarmazdı.\nDaha ağır bir şey olmalı.
+25|Ne sıkıntılı... Shuichi'ye ve diğer seans\nkatılımcılarına güvenmemiz lazım ama...
+27|Ee? Bunun seans sırasındaki sesle\nhiçbir ilgisi yok.
+28|Rastgele şeyler söylemeye devam edersen\nartık kimse sana inanmaz, biliyorsun değil mi?
+29|Bunu sen söyleyemezsin!
+31|Seans sırasında duyulan sese ne\nsebep oldu?
+32|Bence döşeme tahtasının yerinden çıkmasının\no sesle bir ilgisi vardı.
+33|O döşeme tahtası seans sırasında bir noktada\ngevşedi, değil mi?
+34|Ama döşeme tahtası bu kadar yüksek bir\nses çıkarır mıydı?
+35|Şiddetli bir çarpmanın sesiydi...
+36|Çarpma o kadar şiddetliyse döşeme tahtasını\ngevşetmiş olabilir.
+37|<CLT=cltMIND>Bu doğru. O sesi çıkarmak için güçlü bir\nçarpma olması gerekirdi.
+38|<CLT=cltMIND>Ama neydi?\nNe olabilirdi?
+40|Pekala o zaman, öyle kabul edelim! Şimdi\nhepimiz kafa kafaya vermeliyiz!
+## c03_222_000
+0|Tam bir karanlıkta bir döşeme tahtasını\nkaldırmak biraz imkânsız görünüyor, değil mi?
+1|Bence seans sırasında o ağır döşeme\ntahtasını kaldırmak zor olurdu...
+3|Köpek heykeli ağır olduğu için epey yüksek\nbir ses çıkarırdı...
+4|Ama suçlu onu tek başına kafesin üstüne\ngeri kaldıramazdı, değil mi?
+6|Suçlu kafasını o sağlam döşeme tahtasına\nçarpsaydı ölürdü.
+8|Zeminden aşağı basmak mı...\nBu mümkün mü ki?
+9|Gonta araştırınca döşeme tahtası kirişe\ntam oturuyordu.
+11|Ne!? Benimle tanıştırmak istediğin yeni\n"arkadaşların" mı var, Shuichi...?
+12|Burada mı...? Şimdi mi...?\nK-Kes şunu...!
+15|<CLT=cltMIND>Döşeme tahtasını gevşetecek kadar güçlü\nbir çarpmaya ne sebep olmuş olabilir?
+16|<CLT=cltMIND>Şimdi düşünüyorum da zemin kirişinde\ntuhaf bir şey vardı...
+17|<CLT=cltMIND>Bunun bir ilgisi olabilir\nmi?
+19|<CLT=cltMIND>Herkesin ifadesini düşünüp gerçeklerle\nbirleştirirsem...
+## c03_222_001
+0|Peki döşeme tahtasının <CLT=size2>gevşemesine\n<CLT=size2>ne<CLT=size1> sebep oldu!?
+1|Peki döşeme tahtasının gevşemesine ne sebep oldu!?
+2|Sese\n<CLT=size2>bakılırsa,
+3|Sese bakılırsa,\nepey büyük bir\nkuvvet olmuş\nolmalı...
+4|epey büyük bir
+5|<CLT=size4>kuvvet\n<CLT=size1>olmuş olmalı...
+6|<CLT=size2>Seansa<CLT=size1> <CLT=size2>katılan<CLT=size1> <CLT=size2>biri...
+7|Seansa katılan biri...
+8|belki o kişi
+9|belki o kişi döşeme tahtasını söküp çıkardı?
+10|<CLT=cltAGREE>döşeme            
+11|<CLT=cltAGREE>tahtasını söküp
+12|<CLT=cltAGREE>çıkardı<CLT=cltNORMAL>?

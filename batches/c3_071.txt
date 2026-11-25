@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_105_261
+61|<CLT=cltMIND>aşağı indik.
+62|<CLT=cltMIND>Belki daha az kişi olduğumuz için\nasansör daha hızlı iniyor gibiydi.
+63|<CLT=cltMIND>Ve böylece karanlığın içine gittikçe\ndaha hızlı düştük.
+## c03_105_332
+0|<CLT=cltMIND>Asansör durdu ve tıpkı her\nzamanki gibi...
+1|<CLT=cltMIND>...kapılar yavaşça aralandı.
+2|<CLT=cltMIND>Öbür taraftan bize vuran ışık,\ngeleceğimizin parlak ışığı.
+3|<CLT=cltMIND>Yoksa öyle mi—
+4|Vay be, gerçekten moralleri bozuk görünüyor.\nKatılımcı daha da azaldığı için olmalı.
+5|Moralleri bozuk görünüyor deme!\nMonodam'ı üzeceksin!
+7|Puhuhu... Bu sevimli atışmayı dinlemeye\ndevam etmeyi ne kadar istesem de...
+8|Hadi acele edip başlayalım!
+9|Sonunda Sınıf Duruşması başlıyor! Umarım\ngönlünüzce keyif alırsınız!
+10|<CLT=cltMIND>Üçüncü Sınıf Duruşması başlamak\nüzereydi.
+11|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltMIND> Angie Yonaga...
+12|<CLT=cltMIND>Öldürme oyununu önlemeye çalışmak için\nUltimate Akademisi Öğrenci Konseyi'ni kurdu.
+13|<CLT=cltMIND>Sonra <CLT=cltSTRONG>Ultimate Aikido Ustası<CLT=cltMIND>\nTenko Chabashira...
+14|<CLT=cltMIND>Erkeklerden nefret ediyordu ama bu korkunç\nöldürme oyunundan daha çok nefret ettiğini biliyordum.
+15|<CLT=cltMIND>Öldürülen iki kişi de öldürmeyi\ndurdurmaya çalışıyordu.
+16|<CLT=cltMIND>Peki onları öldüren kimdi?
+17|<CLT=cltMIND>Tek kişi miydi?
+18|<CLT=cltMIND>İki farklı kişi mi?
+19|<CLT=cltMIND>Bunu bu Sınıf Duruşması'nda\nnetleştirmeliyiz.
+20|<CLT=cltMIND>Yaşamak için...gerçeği bulmalıyız!
+21|<CLT=cltMIND>...Ve bunun için savaşacağım.
+22|<CLT=cltMIND>Bu Sınıf Duruşması'nda gerçekler ve\nyalanlarla savaşacağım!
+## c03_201_000
+1|Duruşma sırasında suçlunun kim olduğuna dair\nargümanlarınızı sunacak ve <CLT=cltSTRONG>"kimin yaptığına"<CLT=cltNORMAL> oy vereceksiniz.
+5|Şimdi herkes gülümsesin! Gösteri vakti! Şu\nçılgın-müthiş duruşmayı başlatalım!
+6|Özür dilerim millet ama bu sefer pek\nyardımcı olacağımı sanmıyorum.
+7|Monokuma'nın...engellemeleri yüzünden\niyice soruşturma yapamadım.
+8|Monokuma'nın kompleksini gizlemek için\naşırı telafi ettiğini anlayabiliyorum.
+9|Bir dahaki sefere saçını yapmaya daha az, soruşturmaya\ndaha çok vakit ayır, uzay adamı!
+10|Kes sesini! Siz iki tuhaftan komedi gösterisi\ndinlemeye ihtiyacım yok.
+12|Kim yaptı?
+13|Angie ile Tenko'yu kim öldürdü?
+14|Duygularınızın kararınızı aceleye getirmesine\nizin vermeyin. İki katil olabilir.
+15|Yani...diğer suçlumuz...bizden biri\nolmayabiliiir...
+17|<CLT=cltSTRONG>Nakiiil öğrenciii<CLT=cltNORMAL>...
+18|Belki dirilen nakil öğrencimiz...Angie ile\nTenko'yu mezara sürükledi...
+19|D-Durun!\nUydurmayı kesin!
+20|Bir şey söyle, Shuichi. Böyle devam\nederse ortalık karışacak.
+21|<CLT=cltMIND>...Dirilmiş bir cesedin suçlu olması\nmümkün mü ki...?
+22|<CLT=cltMIND>...Eh, titiz olmak adına burada\nişleri netleştirmeliyim.
+## c03_202_000
+0|D-Dediğim gibi! Ölüler öylece kalkamaz...\nO yüzden buna karşı çık!
+2|Ha? Rantaro'yu tekmeleyip bağırtarak hayata\ngeri sürüklemeye çalıştığımızı sanıyordum!
+3|Dalga geçmeye devam edersen omurganı söküp\nbeynini sikerek çalıştırırım!
+5|<CLT=cltMIND>Mesele ölüleri diriltmeye inanmak değil.\nOnların ifadelerine odaklanmalıyım.\n
+6|<CLT=cltMIND>Ritüelin başarılı olmadığını biliyorum...ve\nbunu destekleyecek bir delil olmalı.
+7|<CLT=cltMIND>Mesele ölüleri diriltmeye inanmak değil.\nOnların ifadelerine odaklanmalıyım.
+8|<CLT=cltMIND>...Hm.\nO ifadelerin hepsi doğru muydu...?

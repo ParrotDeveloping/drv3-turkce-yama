@@ -1,0 +1,59 @@
+@ chap3_text_US
+## c03_003_010
+5|Maki de burada değil!
+6|Ah, Maki gelmiyor. Onu davet etmedim.
+7|Ha? Onu davet etmedin mi?
+8|O katili boşverin. Hey Miu, Kee-çocuk, 4. kattaki\nbilgisayar odasını gördünüz mü?
+9|Bilgisayar odası mı dedin? Devam eeet...
+10|Evet, 4. katta büyük bir bilgisayar vardı.\nSonra bir bakar mısınız?
+11|Sen ya da Keebo onunla ilgili bir şey\nbiliyor olabilirsiniz, değil mi?
+12|Özür dilerim. Bilgisayarlardan pek anlamam.
+13|O-Oh... Öyle mi...? Bu...beklenmedik.
+14|Bir süredir sormak istiyordum ama...\nKeebo, tam olarak yeteneğin *ne*?
+15|Şey...her türlü şeyi yapabilirim.
+16|Ah evet! Kendimi övmek gibi olmasın ama tek\nkişilik komedi gösterilerinde epey iyiyimdir!
+17|Kee-çocuk'un tek <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yanı varlığı.\nOnun dışında hiç yeteneği yok.
+18|Az önce tek kişilik komedi gösterilerinde iyi\nolduğumu söyledim!
+19|Pek anlamadım ama sadece bu bilgisayar\nodasına bakmamız lazım, değil mi?
+20|Ama sırf bir bilgisayar için gelmem.\nBundan çok daha fazlası gerek!
+21|Ah, şey...\nMonoyavrular inanılmaz olduğunu söylemişti...
+22|Hey! Beklediğiniz için teşekkürler!
+23|K-Kaito! Ve...
+25|M-Maki mi!? Maki neden seninle!?
+26|Eh, bu <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL> ile ilgili,\no yüzden herkes burada olmalı, değil mi?
+27|Ama..."herkes" derken gerçekten profesyonel\nbir katili de dahil etmen mi gerekiyor?
+28|...Ben gidiyorum.
+29|Dur, bir saniye.
+30|<CLT=cltMIND>Kaito, Maki gidemeden kolunu\nyakaladı.
+31|Kaito, onun maskesini falan indirmek istediğini\nsöylememiş miydin?
+32|Evet, onun bir <CLT=cltSTRONG>katil<CLT=cltNORMAL> olarak taktığı\nmaskeyi indireceğim.
+34|Onun gibi bir kızın soğukkanlılıkla insan\nöldürebileceğine inanamıyorum..
+36|Şey... Doğru mu? Gerçekten <CLT=cltSTRONG>Ultimate\nSuikastçı<CLT=cltNORMAL> mısın, Maki?
+37|Daha önce...birini öldürdün mü?
+39|...Evet.
+40|<CLT=cltMIND>Gerçekten mi...?
+41|Neden...bunu sakladın?
+42|Pöh! Belli değil mi!? Kimliğini öğrenmeden\nhepimizi öldürebilmek için!
+43|Yanılıyorsun... Çünkü sizin böyle tepki\nvereceğinizi biliyordum.
+45|İnsanlar <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneğimi öğrenince gözlerinde\nsizdeki korkunun aynısı beliriyor...
+46|Eninde sonunda...o korku nefrete dönüşüyor.
+47|Ve sonra biri önce ben onu öldürürüm diye\nkorkup beni öldürmeye çalışıyor.
+48|Öyle değil—
+49|Biri gerçek kimliğimi öğrendiğinde beni öldürmeye\nçalışıyor. Her seferinde oluyor. Her zaman.
+50|...H-Her zaman mı?
+51|Hmm... Epey hüzünlü bir hayat yaşamışsın,\nMaki.
+52|Ah...zavallı, zavallı Maki. Senin için çok\nüzülüyorum. Sanırım ağlamak üzereyim...
+53|Yaşadığın her şey yüzünden artık insan\nhayatının senin için hiçbir değeri yok, öyle mi!?
+54|O bir suikastçı, cani bir canavar değil!
+55|Birini öldürmüş olsa bile bu, bunun sorun\nolmadığını düşündüğü anlamına—
+56|Hey, artık bırakır mısın beni?
+57|Hm? O-Oh...
+58|<CLT=cltMIND>Kaito sonunda kolunu bıraktı ve\nMaki iç çekti.
+59|Bana inanmayacağınızı biliyordum...
+60|Bu yüzden sır olarak sakladım...ve sizden\nolabildiğince uzak durmaya çalıştım.
+61|Ama kendi işine bakmayı bilmeyen biri beni\nsürekli bir yerlere sürükledi.
+62|Ha? Benden mi bahsediyorsun?
+63|Ancak şunu söyleyeyim...
+64|Biriniz önce beni öldürmeye çalışmadıkça\nhiçbirinizi öldürmeye niyetim yok.
+65|Bunu söyledim ama...muhtemelen yine de\nbana inanmayacaksınız.
+66|O yüzden...siz kendi işinize bakın, ben de\nkendiminkine bakayım, birbirimizden uzak duralım.

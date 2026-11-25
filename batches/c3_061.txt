@@ -1,0 +1,60 @@
+@ chap3_text_US
+## c03_103_039
+92|<CLT=cltMIND>Kurban <CLT=cltSTRONG>Ultimate Aikido Ustası<CLT=cltMIND>\nTenko Chabashira...
+93|<CLT=cltMIND>Ceset 4. kattaki ortadaki boş\nodada bulundu.
+94|<CLT=cltMIND>Ölüm saati yaklaşık\nsabah 11.
+95|<CLT=cltMIND>Görünen tek yara ensedeki bıçak\nyarası.
+96|Ensede bir bıçak yarası...\nAngie'nin ölüm sebebiyle aynı.
+97|Tesadüf gibi görünmüyor.\nBelki...Angie'nin lanetidir.
+98|L-Lanet mi...?
+99|Tanrım, yine mi...
+100|L-L-Lanet miii!?
+101|H-Hey!?
+102|N-Ne—!? Lanet mi!?
+103|Kaito, sakin ol!
+104|L-Lanet olmasının imkânı yok!
+105|Dalga geçmeyin!!!
+106|Dalga geçen sensin!
+107|Ölmek mi istiyorsun!?
+108|<CLT=cltSYSTEM>*GÜM!!!*
+109|<CLT=cltMIND>Odada boğuk bir ses yankılandı.
+112|K-Kaito...iyi misin?
+113|Pardon, Shuichi...kötü hissetmeye başlıyorum...\nama başka bir sebepten.
+114|Biraz temiz hava alacağım, o yüzden...\nbunu sana ve Maki Rulo'ya bırakıyorum...
+115|<CLT=cltMIND>Kaito hâlâ biraz sendeleyerek\nodadan çıktı...
+116|Şey... Soruşturmaya devam etsek mi?\nVakit çok önemli...
+117|Doğru... Kendi hayatımız tehlikedeyken\nTenko'nun ölümünün yasını tutacak vaktimiz yok...
+118|B-Bu doğru ama...önce Angie, sonra Tenko...
+119|V-Ve daha önce...Tenko'dan şüphelendiğimi\ndüşününce...
+120|Özür dilerim...Tenko!
+121|Hepsi Gonta'nın suçu...!\nGonta yine arkadaşlarını koruyamadı!
+123|<CLT=cltMIND>Tenko'nun ölümü hepimizi hazırlıksız yakaladı...\nHerkes panik içinde.
+124|<CLT=cltMIND>Kendimi toparlamalıyım.\nDaha çok çalışmalıyım.
+125|<CLT=cltMIND>Çünkü ben...bir dedektifim.
+126|Burası çok karanlık... İstesek bile\nsoruşturamayız.
+127|Gonta odayı aydınlatmak için diğer odadan\nmum getirsin, tamam mı?
+128|Hayır, buna gerek olmayacak.
+129|Evet...buna hiç gerek yok.
+130|...Ha? Neden?
+131|Göster onlara, Keebo! Yeni gücünü göster!
+132|<CLT=cltMIND>Yeni güç mü?
+133|Gözleri parladı!
+134|Ben, muhteşem dahi kız Miu Iruma, Keebo'ya\nyeni bir özellik yükledim!
+135|Bunu bana bırakın. Hepinizi aydınlatan\nyol gösterici ışık olacağım.
+136|Mwah-hahahahaha! Parla, parla!\nParla, seni çılgın lanet elmas!
+137|Off yaaa...ne kötü bir özellik. Onu...Transformer\nfalan yapmalıydın...
+138|Ama artık aydınlık, o yüzden acele edip\nsoruşturmalıyız.
+140|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Keebo'nun El Feneri Özelliği<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+141|Önce Angie...sonra Tenko!
+142|Gonta çok utanıyor...!\nGonta neden arkadaşlarını koruyamadı!?
+144|Neden...? Neden...bu...?
+145|Kiyo, cinayetin epey şok edici olduğunu\nbiliyorum...
+146|Elbette...buna ben de şaşırdım...\nAma seans neden başarısız oldu?
+147|Bütün adımları kusursuz uyguladık...!
+148|<CLT=cltMIND>Bunu cinayetten daha çok dert\nediniyor gibi...
+149|Oh! <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>'u yeniden yapıp\nbu sefer Tenko'nun ruhunu çağırırsak—
+150|Saçmalamayı kes. Sadece seans sırasında\nne olduğunu söyle bana.
+151|Sen de Shuichi de oradaydınız, değil mi?\nSeans sırasında mı öldürüldü?
+152|Doğru... Seansın neden başarısız olduğunu\nanlamak için olanları geride bırakmak en iyisi olabilir...
+153|...Neyse, çabuk ol.
+154|O sırada seansa başlamak için ruh medyumu\nTenko'yu...

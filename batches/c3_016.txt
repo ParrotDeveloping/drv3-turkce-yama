@@ -1,0 +1,59 @@
+@ chap3_text_US
+## c03_002_251
+4|Bu ilişkiyi bir üst seviyeye taşıyabiliriz...\nLütfen.
+5|...Ama Miu, yapmamalıyız.
+6|Sorun olmayacak...sadece benimle gel.\nBirlikte yapacağız.
+7|<CLT=cltMIND>Miu, Keebo'yu kolundan çekerek\n<CLT=cltSTRONG>Ultimate Mucit<CLT=cltMIND>'in laboratuvarına götürdü.
+8|O da neydi...? Görmemem gereken bir şey\ngörmüşüm gibi hissediyorum.
+9|<CLT=cltMIND>Neler olduğuna...bakmalıyım.\nHer ihtimale karşı...
+10|Ah, Keebo? Ne yapıyorsun—
+11|Vah!
+12|Ah! P-Pardon! Seni korkuttum mu?
+13|H-Hayır, asıl ben özür dilerim!\nGerçekten, bir şey yok!
+14|Hey, yolumuza çıkmayı kes!
+15|Defol! Git şurada dur, seni röntgenci!
+16|<CLT=cltMIND>Ne? Sadece Keebo ile konuşuyordum...
+17|<CLT=cltMIND>Eh, sanırım Miu hep böyle.
+18|Özür dilerim, şu an olmaz...\nBu nesneleri sana bırakacağım.
+19|Shuichi...sana söylemem gereken bir şey var.
+20|<CLT=cltMIND>Bana söylemesi gereken bir şey mi?\nNe olabilir?
+21|Son duruşmada su tankının bir numarası olduğunu\nkabul ettim. Ama onu kullanmadım.
+22|Su Altından Kaçış Gösterisi'ni büyüyle yaptım.\nO bir büyüydü.
+23|Anladın mı?
+25|<CLT=cltMIND>Hâlâ bundan vazgeçmeyecek, ha?
+26|Ama...pişmanlık içindeyim.
+27|Pişmanlık mı?
+28|Gösterilerimin insanları gülümsetmesi gerekiyor.\nAma...tam tersi için kullanıldı.
+29|Hem...Su Altından Kaçış'ta bütün büyümü\nkullanmasaydım...
+30|Piranaları bir anda öldürüp Ryoma'nın\nbedenini kurtarabilirdim...
+31|Himiko...
+32|Görünüşe göre...bir büyücü olarak...\ndaha çok yolum var...
+34|Bu da benim büyüm...
+35|Ah, hayır, heykelde bir eşya kullandım—
+36|Bu benim büyüm.
+37|...Evet, öyle diyelim.
+38|Dün gece ruhum zayıftı...
+39|Öldürme oyunundan bıktığımı söylerken\nciddiydim...
+40|Ama vazgeçip sonsuza dek burada kalmayı\nönerdiğim için bile utanıyorum.
+41|Öldürmeye başvurmadan buradan kaçacağız!\nPes edemeyiz!
+42|Haklısın. Pes edemeyiz.
+43|Himiko yanımdayken Kaede ile Kirumi'nin\ndileklerini taşımak için savaşacağım!
+44|Ah, bir de sanırım...Rantaro ile Ryoma'nın\ndilekleri de. Madem öyle...
+45|...Madem öyle.
+46|Yoz dileklerini bile katarak iyi davrandığım\niçin minnettar olmalısın!
+49|Evet! Bir dojo! Dojo olmadan hiçbir\nokul tamamlanmış sayılmaz!
+50|Şimdi, gidelim!
+51|...Ah, Shuichi, reddedebilirsin. Aslında bunu tercih\nederim, sonuçta sen bir yozsun.
+52|Ahhhh, kahretsin!\nBu kafama takılacak!
+53|Kafana mı takılacak? Ne o?
+54|Ha? Kendi lanet işine bak!
+55|Tch! Böyle devam ederse işleri sadece daha\nkötü yapacak...!
+56|Benim gibi muhteşem bir dahiyi nasıl\nreddedebilir!
+57|Kibarlık bunu kabul etmeyi gerektirir...
+58|<CLT=cltMIND>Bir şeyler mırıldanıyor...\nMuhtemelen bulaşmamak en iyisi.
+59|Ahhhh... Artık dayanamıyorum...
+60|Sadece düşünmek bile...\nHeh, hihihihi...
+67|<CLT=cltMIND>Bir <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltMIND> olmalı.\nBinanın görünüşüne bakılırsa—
+68|<CLT=cltSTRONG>Ultimate Aikido Ustası<CLT=cltNORMAL>'nın laboratuvarı!\nEminim!
+69|Pekala, içeri girelim!\nUtanma, Himiko! Önce hanımlar!
+70|Nyeeeh...ne baş belasııı...

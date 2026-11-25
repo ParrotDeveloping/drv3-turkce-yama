@@ -1,0 +1,48 @@
+@ chap3_text_US
+## c03_100_157
+169|Angie de gece burada çalışıyordu.
+170|Ha!? Öyle mi!?
+171|O-Olamaz. Öğrenci konseyi kendi kurallarını\nasla çiğnemez!
+172|Kendi odalarında uyuyor olmaları gerekiyordu!\nBaşkalarına iyi örnek olmak için!
+173|Belki Angie odasında uyurken saldırıya\nuğradı ve buraya getirildi?
+174|Öyleyse...Gonta onu kurtarabilirdi!\nKeşke Gonta görseydi!
+175|Ama Gonta uyuyordu... Özür dilerim, Angie...\nGonta seni kurtaramadı!
+176|<CLT=cltMIND>Öğrenci konseyinin kuralına rağmen kimsenin\ndışarı çıkmadığına inanmak zor geliyor.
+177|Herkes odalarında olmalıydı, çünkü öğrenci\nkonseyi gece kimsenin dışarı çıkamayacağını söyledi.
+178|Ama o zaman...Angie burada ne yapıyordu!?
+179|Sadece bir şeyi doğrulamak istiyorum...
+180|Bu laboratuvara geldiğimizde ön kapının\nkilitli olduğundan emin misin?
+181|Evet, eminim.
+185|Ön giriş, Kokichi kilidi açana kadar\nkilitliydi.
+190|Yani...bu silindir kilidi o açtı.
+191|Sence ondan başka biri bu kilidi açabilir\nmiydi?
+192|Dışarıdan imkânsız olurdu.\nMonoyavrular anahtarı aldı.
+200|Yani kapıyı dışarıdan açıp kapatabilecek tek\nkişi Kokichi, değil mi?
+201|Doğru. Kapıyı *dışarıdan* sadece Kokichi\naçıp kapatabilirdi...
+202|Ama *içerideki* biri istediği gibi açıp\nkapatabilirdi.
+203|Yani ön kapı odanın içinden mi\nkilitlendi?
+204|Öyle olması şart değil, sadece ihtimalleri\ndüşünüyorum...
+205|<CLT=cltMIND>Ama o durumda soru, kapıları kilitleyen\nkişinin nasıl dışarı çıktığı oluyor...
+206|<CLT=cltMIND>Suçlunun kapıları kilitledikten sonra...\nsınıftan nasıl çıktığı...
+207|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Sanat Laboratuvarının Ön Kapısı<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+208|Bu laboratuvara geldiğimizde ön kapı\nkilitliydi...
+209|Evet, Kokichi kilidi açana kadar sımsıkı\nkilitli olmalıydı.
+210|Monoyavrular anahtarı aldıktan sonra onu\ndışarıdan açabilecek tek kişi...
+211|kilit açma becerisiyle Kokichi'ydi.
+212|Bu laboratuvarın içinde biri olsaydı ön kapıyı\nistediği zaman açıp kapatabilirdi...
+213|O zaman ön kapının içeriden kilitlenmiş\nolması mümkün.
+216|Ön kapı ile arka kapının farklı kilitleri\nolması tuhaf...
+217|Girdiğimiz ön kapının silindir kilidi\nvar...
+218|...ve şuradaki arka kapının da sürgülü\nkilidi var.
+219|Ama cesedi bulduğumuzda iki kapı da\nkilitliydi.
+220|Yani buna...kilitli oda gizemi diyebiliriz,\ndeğil mi?
+221|Evet. Normal şartlarda kapıları sadece\niçeriden kilitleyip açabilirdin.
+222|Tek istisna Kokichi'nin kilit açma\nbecerisi olurdu.
+223|Laboratuvara girip çıkmak için ön kapıdaki\nsilindir kilidi açmış olabilir...
+224|Yani bu kilitli oda gizemini o yaratmış\nolabilir.
+225|Ayrıca laboratuvara girmeye çalıştığımızda\ntuhaf derecede uygun bir zamanda ortaya çıktı.
+226|...Açıkça şüpheli.
+227|<CLT=cltMIND>Kesinlikle öyle...\nAma *fazla* bariz gibi geliyor.
+228|Bizi suçluya götürebilecek başka bir ipucu\nbulamadık...
+229|Acele edip diğer yerlere bakalım. Soruşturma\niçin ne kadar vaktimiz olduğunu bilmiyoruz.
+230|Doğru. <CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL>\nlaboratuvarına gidelim.

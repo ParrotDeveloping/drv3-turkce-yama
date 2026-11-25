@@ -1,0 +1,56 @@
+@ chap3_text_US
+## c03_006_007
+13|Hey millet, uyurgezer miyim ne?\n<CLT=cltSTRONG>Onun<CLT=cltNORMAL> burada ne işi var?
+15|Ah, anladım! Halüsinasyon görüyorum! Maki'nin\ndaha önce söylediklerinden sonra burada olmasının imkânı yok!
+16|Böyle aptalca şeyler söyleme. Onunla hiç\nkonuşmazsan onu asla daha iyi tanıyamazsın!
+17|Belki herkes bunu tercih ediyordur!
+18|Belki herkes bu tehlikeli katilin bizden\nuzak durmasını tercih ediyordur!
+19|Tabii ben hiç tercih etmem!
+20|Kessen iyi olur!
+21|Haklı. Barışçıl bir akademi hayatında cinayete\nve ölüme yer yok.
+22|Nyeeeh...aynen Angie'nin dediği gibi.
+23|Evet...aynen Angie'nin dediği gibi.
+25|Herkes! Bu ciddi!
+26|Olamaz... Duvarın öbür tarafında Devasa\nBöcek var, değil mi!?
+27|Hayır, o değil. Gonta buraya gelmeden önce\navluya gitti ve—
+28|Bize katlandığınız için teşekkürler!
+29|Hadiii, ne oldu? Bizi neden birden\nçağırdınız!?
+30|Onları çağıran bizdik!\nOnu da mı unuttun?
+31|MONOTARO-İÇİN...SONRA-ENDİŞELENELİM,\nŞİMDİ-<CLT=cltSTRONG>MOTİFİ<CLT=cltNORMAL>-SUNALIM.
+32|Demek sonuçta bir <CLT=cltSTRONG>motif<CLT=cltNORMAL>.
+33|Nyahaha! <CLT=cltSTRONG>Motif<CLT=cltNORMAL> ne olursa olsun artık\nöldürme oyunu oynamayacağız.
+34|D-Doğru! Artık hiçbir şeyden\nkorkmuyoruz!
+35|...Çünkü Atua bizimle.
+37|Ama bu sıradan bir <CLT=cltSTRONG>motif<CLT=cltNORMAL> değil. Bu <CLT=cltSTRONG>motif<CLT=cltNORMAL>\ndaha önce hiç görülmemiş bir korku uyandıracak.
+38|Daha önce hiç görülmemiş bir korku mu?
+39|DAHA-ÖNCE-GÖRÜLMEMİŞ-BİR-KORKUYLA-\nYÜZLEŞİRSENİZ...BİRLEŞMEKTEN-BAŞKA-ÇARENİZ-KALMAZ.
+40|ŞİMDİ, SİZİ-DEHŞETİN-DİPLERİNE-\nATACAK-MOTİF...
+41|...Onu birlikte sunacağız!
+42|Bu seferki motif bir <CLT=cltSTRONG>nakil öğrenci<CLT=cltNORMAL>!
+43|Evet! Yeni bir öğrenci geliyor!\nVe herhangi bir nakil öğrenci değil...
+44|Şimdiye kadar ölen dört kişiden birini\ndiriltebiliyorsunuz...
+45|...ve onu akademiye nakil öğrenci olarak\nyeniden kabul ediyorsunuz!
+46|...Eeeee?
+47|N-Nakil öğrenci mi...?
+48|Birini...diriltebiliyor muyuz?
+49|<CLT=cltSTRONG>Diriltme ritüelinin<CLT=cltNORMAL> talimatları\n<CLT=cltSTRONG>Necronomicon<CLT=cltNORMAL>'da yazıyor.
+50|Ritüeli yazıldığı gibi yaparak ölmüş bir\nkurbanı diriltebilirsiniz.
+51|Ama şimdiye kadar ölen dört kişiden sadece\nbiri <CLT=cltSTRONG>nakil öğrenci<CLT=cltNORMAL> olabilir.
+52|Kimi seçerseniz seçin, o kişi öldürme oyunu\ndöneminin bir parçası sayılacak.
+53|Yani teknik olarak dirilir dirilmez onu yine\nöldürebilirsiniz.
+54|Bilirsiniz...öyle kullanmak isterseniz.
+55|BU-MOTİFİN...ONLARI-BİRBİRİNE-\nYAKINLAŞTIRMASI-GEREKİYOR.
+56|O-Oh...ö-ö-özür dilerim! Eski alışkanlıklar\nişte...
+57|Monodam...Monotaro'yu affedelim.\nAffetmek arkadaşların yaptığı şeydir, bilirsin.
+58|MONOPHANIE...SEN-İYİSİN.
+59|AMA...ARKADAŞLIK-İYİ-OLMAKTAN-\nİBARET-DEĞİLDİR.
+60|ARKADAŞLAR-YANLIŞ-BİR-ŞEY-YAPINCA-\nBİRBİRLERİNİ-CEZALANDIRIR-DA.
+61|BU-YÜZDEN...MONOTARO'YU-SEN-\nCEZALANDIRACAKSIN.
+62|...Ne!? Ben mi!?
+63|Lütfen, hayır! Monophanie olmasın!
+64|O bakmıyorken hep onunla dalga geçiyorum!\nOnun tarafından cezalandırılmak istemiyorum!
+65|Peki, yapacağım!
+67|<CLT=cltMIND>Hepimiz tamamen afallamıştık.
+68|<CLT=cltMIND>Bu akademi beni saçma durumlara\nhazırlamış gibi hissediyorum...
+69|<CLT=cltMIND>Ama az önce duyduğum şey şimdiye kadarki\nen saçma şeydi.
+70|N-Nakil öğrenci mi...?\nÖ-Ölüleri diriltmek mi...?

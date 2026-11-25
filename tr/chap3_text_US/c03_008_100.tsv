@@ -5,13 +5,32 @@
 4	<CLT=cltSYSTEM>*tak, tak*
 5	<CLT=cltMIND>...
 6	<CLT=cltSYSTEM>*tık*
+7	Oh, sen misin Shuichi...
+8	Pardon, sadece...
+9	Şu an epey meşgulüm.\nSonra uğrayabilir misin?
+10	Pardon, dostum. Sonra görüşürüz.
+11	<CLT=cltSYSTEM>*güm*
+12	<CLT=cltMIND>Kaito pek iyi görünmüyordu...\nİyi mi acaba?
 13	Ryoma...
+14	<CLT=cltMIND>Senin...kimsen yoktu.
+15	<CLT=cltMIND>O korkunç gerçeği öğrendin ve\nhayatını Kirumi'ye bıraktın.
+16	<CLT=cltMIND>Ama...ben...
+17	<CLT=cltMIND>Ryoma, bizimle birlikte savaşmak istiyordun,\ndeğil mi?
+18	<CLT=cltMIND>Bu yaşamak için yeterli bir sebep değil miydi?
+19	<CLT=cltMIND>Bizimle savaşabilirdin, birlikte savaşabilirdik...\no zaman yaşayabilirdin.
+20	<CLT=cltMIND>Biz...senin yaşama sebebin olamaz mıydık?
+21	...Belki de sadece kibirli davranıyorum.
 22	<CLT=cltSYSTEM>*tık...tık...*
+23	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 24	<CLT=cltMIND>Burası...Gonta'nın odası, ha?\nŞu an burada bir işim yok.
 25	<CLT=cltMIND>Burası Kokichi'nin odası ama...\nşu an burada bir işim yok.
 26	<CLT=cltMIND>Burası Kiyo'nun odası\nama şu an burada bir işim yok.
 27	<CLT=cltMIND>Burası Keebo'nun odası...\nŞu an burada bir işim yok.
 28	...
+29	<CLT=cltMIND>Kirumi'nin son anları... Hayatı için koşmasının\ngörüntüsünü kafamdan atamıyorum.
+30	<CLT=cltMIND>Onu hâlâ duyabiliyorum...\nMeydan okuyan çığlığını.
+31	<CLT=cltMIND>Belki kaçmak o kadar da kötü değildir...\nBelki onunla yüzleşecek kadar güçlü değiliz.
+32	<CLT=cltMIND><CLT=cltSTRONG>Sona<CLT=cltMIND> kadar yaşayabilmek için...
 33	<CLT=cltMIND>Burası Himiko'nun odası.\nŞu an burada bir işim yok.
 34	<CLT=cltMIND>Demek burası Maki'nin odası...\nŞu an burada bir işim yok.
 35	<CLT=cltMIND>Burası Tenko'nun odası.\nŞu an burada bir işim yok.
@@ -21,4 +40,6 @@
 39	<CLT=cltSYSTEM>*tık*
 40	<CLT=cltMIND>Burası Miu'nun odası\nama şu an burada bir işim yok.
 41	<CLT=cltSYSTEM>*tık...tık...*
+42	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 43	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+44	<CLT=cltMIND>Ama sadece görmek bile midemi bulandırıyor...

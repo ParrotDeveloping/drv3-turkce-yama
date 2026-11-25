@@ -1,0 +1,58 @@
+@ chap3_text_US
+## c03_234_000
+4|<CLT=cltMIND>Kiyo'nun itirafı şok ediciydi...\nama Kara olduğundan emin olamayız.
+5|<CLT=cltMIND>Fikirlerimizi eşleştirip hepsini bir\nanda ikna etmeliyiz!
+6|Kiyo, Tenko'yu da Angie'yi de öldürdü!
+8|<CLT=cltMIND>Şimdi oy verirsek gerçeği asla bilemeyiz.\nBu noktayı savunmalıyız!
+9|Suçlu Angie'nin laboratuvarına zorla\ngirip onu öldürdü!
+12|Katana Kiyo'nun laboratuvarında\nbulundu!
+15|Kiyo, Tenko'yu öldürmüş olsa da\nKara değil mi?
+18|En başından beri kendini korumak için ek\nkuralı kullanmayı planlamıştı.
+21|Tenko'nun ölümünün gizemini çözdük...\nArtık oy veremez miyiz?
+## c03_234_001
+0|<CLT=cltWEAK>Kiyo<CLT=cltNORMAL>, Tenko'yu da\nAngie'yi de öldürdü!
+1|Kiyo, Tenko'yu da\nAngie'yi de öldürdü!
+2|<CLT=cltWEAK>Kiyo'nun<CLT=cltNORMAL>\nAngie'yi öldürdüğünü\nkesin bilmiyoruz!
+3|Kiyo'nun Angie'yi öldürdüğünü\nkesin bilmiyoruz!
+6|<CLT=cltWEAK>Angie<CLT=cltNORMAL>'nin araştırma\nlaboratuvarına zorla\ngirip onu öldürdü!
+7|Angie'nin araştırma\nlaboratuvarına zorla\ngirip onu öldürdü!
+8|Ama <CLT=cltWEAK>Angie<CLT=cltNORMAL>'nin\naraştırma\nlaboratuvarına\ngiremezdi...
+9|Ama Angie'nin\naraştırma\nlaboratuvarına\ngiremezdi...
+10|Angie
+11|Angie
+12|Katana Kiyo'nun\n<CLT=cltWEAK>laboratuvarında<CLT=cltNORMAL>\nbulundu!
+13|Katana Kiyo'nun\nlaboratuvarında\nbulundu!
+14|<CLT=cltWEAK>Laboratuvarıma<CLT=cltNORMAL>\nherkes\ngirebilirdi.
+15|Laboratuvarıma\nherkes\ngirebilirdi.
+16|Laboratuvar
+17|Laboratuvar
+18|Yani Kiyo Tenko'yu\nöldürdü ama\n<CLT=cltWEAK>Kara<CLT=cltNORMAL> değil mi?
+19|Yani Kiyo Tenko'yu öldürdü\nama Kara değil mi?
+20|Belki bulmamız\ngereken ikinci bir\n<CLT=cltWEAK>Kara<CLT=cltNORMAL> vardır.
+21|Belki bulmamız gereken ikinci\nbir Kara vardır.
+22|Kara
+23|Kara
+24|Baştan beri kendini\nkorumak için yeni\n<CLT=cltWEAK>kuralı<CLT=cltNORMAL> kullanmayı\nplanlıyordu.
+25|Baştan beri kendini korumak için\nyeni kuralı kullanmayı planlıyordu.
+26|Mümkün değil.\nO <CLT=cltWEAK>kural<CLT=cltNORMAL>\niki cinayetten\nsonra eklendi.
+27|Mümkün değil.\nO kural\niki cinayetten\nsonra eklendi.
+28|Kural
+29|Kural
+30|Tenko'nun ölümünün\n<CLT=cltWEAK>gizemini<CLT=cltNORMAL> çözdük...\nArtık oy\nveremez miyiz?
+31|Tenko'nun ölümünün gizemini çözdük...\nArtık oy veremez miyiz?
+32|Daha değil!\nÇözülecek bir\n<CLT=cltWEAK>gizem<CLT=cltNORMAL> daha\nvar!
+33|Daha değil!\nÇözülecek bir\ngizem daha\nvar!
+34|Gizem
+35|Gizem
+## c03_235_000
+0|Angie'nin cinayetini tamamen çözmeden\noy vermek hata olur.
+1|Ve hâlâ Tenko'nun cinayetinin\ngizemi var...
+2|Gizem mi? Ne gizemi?
+3|Eh, Kiyo'nun itirafı konuşmamızı biraz\nraydan çıkardı...
+4|ama Tenko'nun olay yerinde bulunan\nipuçlarından birini hâlâ incelemeliyiz.
+5|Bence Angie'nin cinayetiyle bile bir\nilgisi olabilir.
+6|<CLT=cltMIND>Evet, Tenko'nun cinayet mahallindeki\nayrıksı delil...
+7|Angie'nin alnında henüz açıklamadığımız\nbir yara vardı.
+8|Doğru. Onu merak etmiştim...
+9|Ne olduğunu öğrenebilmek için bütün duruma\ndaha yakından bakmamız gerektiğini düşünüyorum.
+11|Angie'nin cesedinin altında kanlı bir\nbant parçası vardı.

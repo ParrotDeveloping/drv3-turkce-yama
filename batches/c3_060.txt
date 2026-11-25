@@ -1,0 +1,53 @@
+@ chap3_text_US
+## c03_103_039
+31|B-BU...İŞE-YARAMAZ. BABAM-ARTIK-SADECE-\nBOŞ-BİR-KABUK.
+33|Bu doğru değil! Aşkın gücüyle her şey\nmümkün!
+34|Bunu anlamıyorsun çünkü daha önce hiç\nsevilmedin, Monodam!
+36|Babacııım! Seni seviyorum, lütfen normale\ndön!
+37|Seni görmek istiyorum, Babaaaa!\nSeni bütün kalbimle seviyorum!
+38|Ah, beni utandırıyorsunuz.
+39|Geri döndüüüm! Ben yokken uslu durdunuz mu?
+40|Çok teşekkürler, sevimli, canım\nyavrularım!
+41|Akademiyi siz yönetirken rahatlatıcı\ntatilimin tadını sonuna kadar çıkardım!
+42|Hihihi! Ah, gıdıklanıyorum! Babamın yoğun\nsevgisi beni sırılsıklam ediyor!
+43|Babacım, dilin harika hissettiriyor!\nUmarım bu içimde bir şey uyandırmaz!
+44|HAYIIIIIIIIIIIR...
+45|Vay be, o tatil tam ihtiyacım olan şeydi.\nDinlenmek için izin almak önemli.
+46|Normalde çoğu şirket tatile gitmen için\nizin almana bile izin vermez...
+47|Ama ben yapabildim! Sır, izin alsan da almasan\nda çekip gitmek!
+48|Ha? Dur, o zaman...bu kel kim?
+50|Ah, ben yokken yerime bakması için tuttuğum\nbir yarı zamanlı çalışan.
+51|İşte anlaştığımız gibi ücretin!\nŞimdi al ve defol!
+52|Ha? Rahatlamış olman gerektiğini\nsanıyordum.
+54|O baş belası yoldan çekildiğine göre...\nNe konuşuyordunuz?
+55|Ah, doğru. İki Kara adayı varsa oylarınıza\nne olur?
+56|Eh, bunun bir cevabı var!\nİlk gelen alır!
+57|İlk gelen alır mı?
+58|İlk bulunan kurbanı öldüren Kara\nhedefiniz olacak.
+59|Yani Angie'yi öldüren Kara, Tenko'yu\nöldürenle aynı değilse...
+60|O zaman sadece Angie'nin katili Kara\nsayılacak.
+61|Kısacası Tenko'nun katili <CLT=cltSTRONG>boşuna öldürdü<CLT=cltNORMAL> ve\nTenko'nun kendisi de <CLT=cltSTRONG>boşa giden bir kurban<CLT=cltNORMAL>.
+62|Ah, sonra gözden geçirebilmeniz için bunu okul\nkurallarına ekleyeceğim.
+63|Monokuma Dosyası'nı da güncelledim. Bu cinayeti\nde soruşturmak için elinizden geleni yapın.
+64|<CLT=cltSYSTEM>Monopad'inin Gerçek Mermileri bölümündeki\n"<CLT=cltSTRONG>Monokuma Dosyası 3<CLT=cltSYSTEM>" güncellendi.
+65|Vay be, Babam işleri yeniden yönettiği için\nher şey ne kadar sorunsuz gidiyor!
+66|Liderler kararlı davranabilmeli!\nKararsızlık en kötüsü!
+67|Babacııım, ışıl ışılsın!\nLamba gibi parlıyorsun!
+69|Sevimli yavrularım tarafından övülmekten\ndaha güzel bir şey yok.
+70|Sevimli yavrularımla vakit geçirmekten\ndaha güzel bir şey yok.
+71|Yaşadığınız sürece hiçbirinizi asla\nbırakmayacağım.
+72|Bizi asla bırakmayacağını söylerken\nöylece arkasında bıraktı!
+73|Bu yüzden çok muhteşem!\nLütfen beni biraz daha yala, Babacım!
+76|Ş-Şey...bütün bunları toparlarsak...
+77|İki cinayetin suçluları farklıysa oyumuz\nAngie'nin katilini belirleyecek.
+78|Ama farklı bir suçlu olup olmadığını bile\nbilmiyoruz, değil mi?
+79|Doğru...her ihtimale karşı Tenko'nun\nölümünü de soruşturmalıyız.
+80|Ah-haha! Sonunda işler kızışıyor!\nÇok heyecanlanıyorum!
+81|Gahhhh! Seni lanet psikopat!
+83|Shuichi...bu kötü.
+85|Bu...tartışmasız kötü.\nTenko'nun öldürüldüğüne inanamıyorum.
+86|Herkes üzgün ve kafası karışık...\nVe ben şu an yardım edecek durumda değilim...
+87|O yüzden...burada öne çıkman lazım.
+88|Dinle, Shuichi...
+89|İmkânsız diye bir şey yoktur,\ntek yapman gereken onu başarmak.
+91|Pekala...o zaman önce Monokuma\nDosyası'na bakalım.

@@ -1,0 +1,58 @@
+@ chap3_text_US
+## c03_003_010
+67|Lütfen...burada değilmişim gibi davranın.
+68|Maki...
+69|<CLT=cltMIND>Bir tehdit olarak başladı ama son\nkısmı...biraz hüzünlü gibiydi.
+71|Tanrım, Kaito. Ne düşünüyordun?\nBizi birbirimize düşürmeye mi çalışıyorsun?
+72|Sanırım herkes adına konuşuyorum: Hepimiz\nsenden hayal kırıklığına uğradık! Değil mi, millet!?
+73|H-Hayır... Öyle demezdim ama...
+74|Artık başlayalım mı? Hepimiz <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>\niçin burada toplandık, değil mi?
+75|Evet... Peki, ne yapacağımıza hepimiz karar\nverdik mi?
+76|Kullanacağız tabii! Yeni bir şey\nhatırlayabiliriz!
+77|<CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL>'nın gerçek amacı gibi...
+78|Eh...burada neden kapalı olduğumuzla bir ilgisi\nolup olmadığını kesin bilmiyoruz...
+79|Bana o kararsız saçmalığı satma! Tabii ki\nneden burada olduğumuzla bir ilgisi var!
+80|Hey, tartışacağımıza kullanmak çok daha\nhızlı olur, biliyorsunuz değil mi?
+81|Evet... Gonta endişeli ama yapmalıyız.
+82|Ama ama, ne hatırlarsanız hatırlayın buradan\nayrılmak istemeyi düşünemezsiniz.
+83|Öyle düşünürseniz...
+84|Sadece kendimizi tekrarlamış oluruz.
+85|B-Biliyorum! Ve kendimizi tekrarlayıp\nduramayız!
+86|O zaman bir deneyelim.\nShuichi, hadi.
+87|Hmm, biraz gerginim...\nBiraz...düpedüz midem bulanıyor.
+88|<CLT=cltMIND>Herkes gözlerini bana çevirdi ve ben de\n<CLT=cltSTRONG>Hatıra Işığı<CLT=cltMIND>'nı yaktım.
+89|<CLT=cltMIND>Ve o anda, bir kez daha...
+91|<CLT=cltMIND>...büküldü.
+92|<CLT=cltMIND>Bilincim beyazladı ve o beyazlığın bir\nyerinde bir <CLT=cltSTRONG>sahne<CLT=cltMIND> oynadı.
+94|Bir kaza gibiydi.\n<CLT=cltSTRONG>O gruptan<CLT=cltNORMAL> kaçıyorlardı.
+97|<CLT=cltMIND>O...neydi?
+98|<CLT=cltMIND>Cenaze mi?
+99|<CLT=cltMIND>O...benimkiydi...
+100|<CLT=cltMIND>Buradaki herkesinkiydi!
+101|N-Neden? Neden ben...kendi\ncenazemdeydim?
+102|Ne!? Cenaze mi... Sen de mi, Shuichi!?
+103|Görünüşe göre hepimiz aynı şeyi\nhatırladık.
+104|Ama bu ne demek lan!?
+105|Neden sizin cenazenizi izliyordum!?\nV-Ve...neden ben de oradaydım!?
+106|N-Neler oluyor lan!?\nO cenaze neydi...?
+107|Ama...hatırlayabildiğim tek şey o cenazeyi\ngörmek. Başka bir şey değil...
+108|Belki biz...zaten ölü müyüz!?
+109|Ahahahahahaha!\nOlamaz!
+110|Tanrım...bu o kadar aptalca ki gülmeden\nedemedim.
+111|Yani...bunun kendi cenazemize dair bir anı\nolmasının imkânı yok...
+112|O zaman neydi?
+113|Muhtemelen...okul şenliğimizden falan\nbir anı.
+114|Okul şenliği mi?
+115|Evet, muhtemelen okul şenliği için yaptığımız\nbir oyundan falan bir anıydı.
+116|Yani biraz düşününce gayet belli\ndeğil mi?
+117|O cenaze gerçek olsaydı hâlâ hayatta\nolmamızın imkânı olmazdı!
+118|Nyeeeh...doğru.
+119|Ama hepimiz farklı liselerden değil miyiz?\nNeden birlikte okul şenliğimiz olsun?
+120|B-Bu...muhtemelen sonra onunla ilgili başka\nbir şey hatırlarız.
+121|Neyse, o cenazenin gerçek olmasının imkânı yok!\nBuna hiç şüphe yok!
+122|Haklısın... Mantıklı düşünürsek bu açıkça\nsöz konusu bile olamaz...
+123|Tamam...iyi. Gonta herkesin zaten öldüğünü\ndüşünmüştü.
+124|Aptalca şeyler söylemeyi kes! Bana bak,\nhayattayım! Dipdiri!
+125|Dipdiri mi? Beni her gördüğünde bir yerin\ndikiliyor diye mi?
+126|Ah, erkeklerin sabah ne kadar sertleştiklerine\nbakıp sağlıklı olduklarını anladıklarını duydum! Doğru mu!?
+127|Hey! S-Sen kendi işine bak, kaltak!

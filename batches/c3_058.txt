@@ -1,0 +1,56 @@
+@ chap3_text_US
+## c03_102_038
+81|B-Biliyorum... Bu sırada bir ceset bulundu\nanonsu yapılsa hiç komik olmazdı.
+82|Lütfen uğursuzluk getirme!
+83|Of, yoruldum. Sırada sepeti beyaz bir\nkumaşla örtmek var, değil mi?
+84|O görevi ben üstleneceğim.
+85|Pekala, her şey hazır.\nTenko...nasılsın?
+86|Şey... Bu pozisyondan sadece yeri görebiliyorum\nama sanırım iyiyim!
+87|Son adım ahşap Köpek Tanrı heykelini\nkafesin üstüne koymak...
+88|Bunu dördümüz birlikte yapmamız gerekebilir.\nHeykel epey ağır.
+89|Nyeeeh! Nyeeeh...
+90|D-Dört kişiyle bile...\nhâlâ çok ağır!
+91|Krgh! Hay anasını, bu bir ton çekiyor!
+92|Hayır...80 kilodan pek fazla\ndeğil...
+93|Of, tamamen bittim.
+94|Büyümü kullanıp kolayca taşıyabilirdim...\nama ruh çağırma ve büyü uyuşmaz.
+95|Bu kadar ağır bir şeyi kafesin üstüne\nkoymak sorun olmaz mı?
+96|Demir kafes özellikle ruh çağırma seansları\niçin yapıldı, bu ağırlığı taşıyabilir.
+97|Tamam...sanırım o zaman sorun yok.
+98|Şimdi büyü çemberinden çıkalım.\nOnu bozmamaya özen gösterin.
+99|Artık geri dönüş yok, Tenko.\nBu noktadan sonra konuşmamalısın.
+100|Ağzını bir dahaki açışında senin aracılığınla\nkonuşan Angie olacak.
+101|Anlaşıldı. Seans bitene kadar tek kelime\netmeyeceğim!
+102|Tamam, herkes!\nSeanstan sonra görüşürüz!
+103|Geri kalanımız odanın köşelerine geçecek.\nLütfen istediğiniz birine gidin.
+104|<CLT=cltMIND>Her birimiz farklı bir köşede durduk...
+105|Şimdi odayı karartıyoruz. Mumlara en\nyakın olanlar Kokichi ile Shuichi.
+106|Lütfen mumları söndürün. Karanlıkta duvarları\ntakip edebilirsiniz.
+107|Yani karanlık olunca odanın köşesine\ndönüyoruz... Taaa-mam, anladım!
+108|Senin hareket etmene gerek yok, Himiko.\nYanında zeminde bir sürü boşluk var.
+109|Nyeh... Anladım.
+110|Oda karanlık olunca şarkıya başlayacağım.\nLütfen benimle birlikte söyleyin.
+111|Sonra Angie'ye sesleneceğim. O cevap\nverene kadar sessizlik olmalı.
+112|Seans bitince Shuichi ile benim mumları\nyeniden yakmamız gerekiyor, değil mi?
+113|Doğru. Depodan kibrit getirdim,\nlütfen onları kullanın.
+114|Tamamdır! O zaman şimdi mumu söndürüyorum.
+115|<CLT=cltMIND>En yakın muma yürüyüp alevi\nüfleyerek söndürdüm.
+116|<CLT=cltMIND>Oda anında tam bir karanlığa\ngömüldü.
+117|<CLT=cltMIND>Zifiri karanlık.
+118|<CLT=cltMIND>O kadar karanlık ki kendi bedenimi\nbile göremiyordum.
+119|<CLT=cltMIND>Karanlığa karşı içgüdüsel korkumu yenerek\nduvar boyunca köşeme geri döndüm.
+120|<CLT=cltMIND>Sonra şarkı başladı...
+122|<CLT=cltMIND>Kiyo hepimize <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltMIND> şarkısında öncülük etti.
+126|<CLT=cltSYSTEM>*güm!*
+129|<CLT=cltMIND>Şarkıyı söylemeyi bitirdik ama...
+130|<CLT=cltMIND>Ortasında tuhaf bir ses duyar gibi oldum.\nO neydi?
+131|<CLT=cltSTRONG>Kafesteki çocuk<CLT=cltNORMAL>...Angie Yonaga mı?
+132|<CLT=cltMIND>Seslenmeye başladı. Şimdi medyum\ncevap verirse...
+136|<CLT=cltMIND>Neler...oluyor...?
+139|Ne oldu?\nAngie neden cevap vermiyor?
+140|Himiko...konuşmaman gerektiğini çok açık\nbir şekilde söyledim, değil mi?
+141|Ama...bir tuhaflık var.\nNeden cevap vermiyor?
+142|Belki...başarısız oldu?
+144|Hadi...mumları kısa bir süreliğine yakalım.
+145|Ne? Sorun olur mu?
+146|Ş-Şimdilik...

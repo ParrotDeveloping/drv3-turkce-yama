@@ -1,0 +1,26 @@
+@ chap3_text_US
+## c03_902_004
+8|Kepenklerin aniden açılıp içeri bir gazetenin\nsavrulması an meselesi.
+9|Ama... burada pencere yok ki.
+10|<CLT=cltMIND>Boş bir odada vakit kaybetmem için\nbir sebep yok.
+## c03_902_005
+0|Bunları söylesem de... yine de bir şey\naniden fırlayacakmış gibi geliyor.
+1|Deliler ya da suçlularla dolu o eski terk\nedilmiş akıl hastanelerinden biri gibi.
+2|Öyle ki bir cesedin duvarı yarıp bizi\nkovalamasını bile bekleyebilirim.
+3|Özür dilerim... bu şaka konusu değil.
+4|Bunları söylesem de... yine de bir şey\naniden fırlayacakmış gibi geliyor.
+## c03_902_006
+0|Burada bir şey yok...\nBu oda ne için ki?
+## c03_999_250
+0|<CLT=cltMIND>Yemekhaneye gitmeliyim.\nHepimiz orada buluşacaktık.
+1|<CLT=cltMIND>Bugün antrenman yapacağımıza eminim,\navluya gitmeliyim.
+2|<CLT=cltMIND>Bu konuda içimde kötü bir his var...\nama spor salonuna gitmem lazım.
+3|<CLT=cltMIND>Ben... şimdi yemekhaneye gideyim.
+4|<CLT=cltMIND>Tenko bir iyilik mi istiyor?\nOna sormalıyım...
+5|Shuichi, nereye gidiyorsun!?
+6|Angie ritüeli <CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltNORMAL>'nın\naraştırma laboratuvarında hazırlıyor olmalı!
+7|Oyalanacak vaktimiz yok!\nAcele edip Angie'yi durduralım!
+8|<CLT=cltMIND>O laboratuvara girmem lazım!\nAngie için endişeleniyorum!
+9|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Antropolog<CLT=cltMIND>'un laboratuvarına gitmeliyim...\nO katanayı incelemem lazım.
+10|<CLT=cltMIND>Demek ruh çağırma seansı ortadaki\nodada yapılacak...
+11|<CLT=cltMIND>Avludaki <CLT=cltSTRONG>Yargı Tapınağı<CLT=cltMIND>'na\ngitmem lazım...

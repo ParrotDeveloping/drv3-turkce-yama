@@ -1,0 +1,74 @@
+@ chap3_text_US
+## c03_014_001
+13|S-Sence anlamış mıdır?
+14|Kim bilir? Onunla anlamak zor.\nHep rastgele saçmalıklar söyler.
+15|Neyse, acele edelim. Angie laboratuvarında,\ndeğil mi?
+16|Tipik yozlaşmış erkek...\nSenden bir iyilik istemiştim...
+17|Onu görmezden gelmekle kalmadın, şimdi de\naffedilemez bir şey yapmaya çalışıyorsun!
+18|Ölmek mi istiyorsun, Shuichi!?
+19|H-Hayır! Özür dilerim!\nSadece küçük bir hataydı!
+20|Bu basit bir hatadan çok daha kötü!
+21|...Bunun için gerçekten vaktimiz var mı?
+22|Shuichi, Tenko'yu sinirlendirmeyi kes.\nHadi çabuk gidelim.
+24|...Duydun mu beni?\nTenko'yu sinirlendirmeyi kes dedim.
+## c03_014_003
+0|...Orası benim laboratuvarım. Biraz "ikna"\niçin silah almayı mı planlıyorsun?
+1|Neee—!?
+2|Shuichi! Onu şiddetle değil, sözlerle\ndurdurmanı istiyorum!
+3|Bunu sana gerçekten açıklamam mı lazım!?\nGerçekten beyinsiz bir yozsun!
+4|Onu zorla durdurmak isteseydim kendim\nyapardım! Bir erkekten yardım istemezdim!
+5|<CLT=cltMIND>Demek zor *kullanırdın*...
+6|Neyse, silah yok! Hadi gidelim, Shuichi!
+7|Onu ikna etmek için silaha ihtiyacımız yok!\nHadi gidelim, Shuichi!
+## c03_014_005
+0|Pekala...tam burası.
+1|<CLT=cltMIND>Tam elimi kapıya\nuzatmışken...
+2|Ah, dur! O kapının kilitli olduğundan\neminim!
+3|<CLT=cltMIND>Kilitli mi?
+4|Ah, doğru. Angie çalışırken odayı\nkilitlediğini söylemişti.
+5|<CLT=cltMIND>Yine de denemek için kapı kolunu\ntuttum.
+7|Demek kilitli.
+8|Çekil.
+9|<CLT=cltMIND>Maki beni kenara itip kapıya\nvurmaya başladı.
+10|<CLT=cltSYSTEM>*bam! bam! bam!*
+11|Angie, bu kapıyı aç. Hemen.
+12|D-Dur, Maki! Öyle yapamazsın!\nSabırsız Hanım'ı oynamayı bırak!
+13|O zaman nasıl yapmalıyım?
+14|Angie kapıyı ancak bir öğrenci konseyi üyesi\nseslenirse açar.
+15|<CLT=cltMIND>Tenko kapıya dönüp gergince birkaç\nkez tıklattı.
+16|<CLT=cltSYSTEM>*tak, tak, tak*
+17|Angie, benim Tenko. Seninle bir şey hakkında\nkonuşmak istiyorum... Kapıyı açar mısın?
+19|...Oh, Tenko mu?
+20|Evet, benim!
+21|<CLT=cltMIND>Tenko cevap verince kapı birden\naçıldı.
+22|Yah-hah! Yardımcı olabilir miyim?
+23|...Ha? Shuichi ile Maki neden burada?
+24|Ah, şey—
+25|Ah, anladım. İkiniz de öğrenci konseyine\nkatılmak istiyorsunuz, ha?
+26|O zaman Atua ile tanışmanız gerekecek.\nSizi Onunla tanıştıracağım.
+27|Lütfen, içeri gelin.
+28|Ah, hayır, öyle değil...
+29|Şimdilik içeri girelim. İçeride konuşabiliriz.
+30|Eh...sanırım.
+31|<CLT=cltMIND>Angie'nin davetiyle laboratuvarına\ngirdik.
+33|<CLT=cltMIND>Göreceğimiz şeye hazır\ndeğildik.
+34|Oh, Shuichi! O taraftan değil!
+35|Ne? Angie burada değil mi?
+36|Evet ama ön kapıdan girmeliyiz.
+38|Angie'yi durdurmak için ona meydan okuyacağım!
+39|O yüzden ön kapıdan, dürüstçe karşısına\nçıkmalıyım!
+40|Bunun önemli olduğunu hiç sanmıyorum.
+41|Ş-Şey, Tenko'yu daha iyi hissettirecekse...
+42|...Peki. Ne istersen yap.
+43|<CLT=cltMIND>Diğer kapıya gidelim.
+## c03_014_100
+0|<CLT=cltMIND>Kaito'nun bu konuda ne diyeceğini görmeye\ngitmeliyim. Onun için endişeleniyorum...
+6|Kaito iyi mi acaba...\nUmarım biraz daha iyi hissediyordur.
+7|<CLT=cltMIND>Tam zili çalmak üzereyken...
+9|<CLT=cltMIND>Kaito'nun odasının kapısı açıldı\nve dışarı çıkan...
+11|Ah...Maki.
+13|<CLT=cltMIND>Kızgın...mı?
+14|O-Oh, hey kanka...\nTam zamanında.
+15|Senden de özür dilemem lazım...
+16|...Bugünkü antrenmanı da atlayacağını\nsöyledi.
+17|Yani...hâlâ iyi hissetmiyor.

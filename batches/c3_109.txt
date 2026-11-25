@@ -1,0 +1,61 @@
+@ chap3_text_US
+## c03_300_332
+33|B-Bana bakmayın!\nBen...ben onun sevgilisi değilim!
+34|Sakin ol, zaten kimse senin gibi iğrenç,\nbok dolu bir kaltağı istemez.
+35|N-N-Ne ne ne!?!?
+36|Kiyo! Kim o!?\nSevdiğin bu kişi kim!?
+37|...Gerçekten bizden biri mi?
+38|Mmm... "İçeride" derken "bu akademinin\niçinde" demek istemiyorum.
+39|Demek istediğim...benim içimde.
+40|Evet, sevdiğim kişi benim içimde yaşıyor.\nCanım <CLT=cltSTRONG>Ablam<CLT=cltNORMAL>.
+41|A-Ablan mı!?
+42|B-Bana bakmayın!\nBen...ben onun ablası değilim!
+43|Eh, tabii. Onun ablası olsaydın kendini\nçoktan öldürmüş olurdu.
+44|Ablan mı? Ama...onun sevgilin olduğunu\nsöylememiş miydin?
+45|Kehehe... O kadar da zor değil.\nAblam benim sevgilim.
+46|Onu öyle derinden sevdim...\nO da beni öyle derinden sevdi...
+47|Kardeş olmamızın...bizim için hiçbir\nanlamı yoktu.
+48|Buna "<CLT=cltSTRONG>yasak aşk<CLT=cltNORMAL>" dediler ama paylaştığımız\naşkı kimse durduramadı...
+49|Ooh... Ablamın sıcaklığını ne çok özlüyorum...
+50|Huzur bulduğum tek zaman...ablamın sıcaklığına\nsarıldığım zamandı!
+51|Bu yüzden...sevgili ablam için...\nyapmak zorundaydım-
+52|B-Buradan kaçmak zorundaydın, değil mi?
+53|Hayır...\nOnun için öldürmek zorundaydım.
+55|Ablam çok hastalıklıydı...
+56|Çocukluğundan beri hastaneye sürekli\ngirip çıkıyordu.
+57|Bu yüzden pek arkadaşı yoktu.\nHep çok yalnız görünüyordu...
+58|Onun hem küçük kardeşi hem de sevgilisi\nolabilsem de arkadaşı olamazdım.
+59|O yüzden ona arkadaş bulayım dedim.\n<CLT=cltSTRONG>Rahmetli canım ablam<CLT=cltNORMAL> için arkadaşlar.
+60|Rahmetli mi...?
+61|Ablam artık bir hayalet, o yüzden arkadaşları\nda hayalet olmalı, değil mi?
+62|Ablam için...pek çoklarını öldürdüm!\nOna 100 arkadaş göndermek için!
+63|Hepsi harika insanlardı!\nAblamın arkadaşı olmaya layıktılar!
+65|Bunu anlamak çok imkânsız...!\nÇok...imkânsız!
+66|Kehehe... Ablam çok mutlu.
+67|Evet, Korekiyo... Çok mutluyum.\nSenin sayende yalnız değilim.
+68|Y-Yoksa...ruj sürmüş Kiyo...
+69|Ben Korekiyo'nun ablasıyım. Küçük kardeşime\nbaktığınız için teşekkür ederim.
+70|N-Ne oluyor lan!?
+71|Sevgili ablamı kaybettikten sonra o kadar\nperişan oldum ki neredeyse aklımı kaçırıyordum.
+72|Ama ablam beni kurtarmaya geldi.
+73|Ruh çağırma seanslarımdan birinde beni ziyaret\netti ve içimde kaldı...
+74|Kehehe...artık onu istediğim zaman görebiliyorum.\nAsla yalnız değilim...
+75|Bu harika, Korekiyo.\nAşkın imkânsızı mümkün kıldı.
+76|C-Ciddi misin...!?\nBu...gerçekten bir ruh mu!?
+77|Sadece hayal görüyor...
+78|Hımhımhım... Aşkın gücüne bile inanamayan\nne kadar zavallı bir kız...
+80|H-Her hâlükârda tamamen aklını kaçırmış.\nYani...ölü bir karı için öldürdü.
+81|Daha önce de çok öldürdüğünü söyledin,\ndeğil mi? Yani burada öldürdüğün sadece ikisi değil mi?
+83|Nişişi... Görünüşe göre buraya gelmeden önce\nde kafayı yemişti...
+84|Buradan kaçmak için öldürmedin—\nen başından beri amacın bu değildi...
+85|Sadece bir sürü insanı katletmek istedin, ha!?
+86|Beni kana susamış, gözü dönmüş bir katil\ngibi göstermeyin.
+87|Ben sadece ablamın arkadaşı olmaya layık\nolduğunu düşündüğüm kızları öldürürüm.
+88|Sadece kızları mı?
+89|Anlıyorum... Yani medyumun kim olacağına\nkarar verirken...
+91|En iyi bir kızla işe yarayacağını söyledin.
+92|Vaktimi buradaki bütün kızları\ndeğerlendirerek geçirdim...
+93|Ve Maki ile Miu dışında\nhepsi layıktı!
+94|Hepsi ablamın arkadaşı olmaya layık!
+95|Hepsi...layık mı?
+96|Hey, ben neden dahil değilim!?\nYani, umurumda değil!

@@ -1,0 +1,58 @@
+@ chap3_text_US
+## c03_002_251
+71|<CLT=cltMIND>Tenko, Himiko'yu iterek binanın\niçine girdi.
+72|Sanırım ben de içine bakmalıyım.
+74|<CLT=cltMIND>Ses çıkarmamaya dikkat ederek kapıyı\naçıp içeri göz attım...
+75|<CLT=cltMIND>Tuhaf bir ses duydum...
+76|<CLT=cltMIND>Sesin kaynağına baktığımda gözlerim\ninanılmaz bir manzarayla karşılaştı.
+77|Vay be... Gerçekten tıkanmışsın.\nNeredeyse zonkluyorsun..
+78|...Toz ve kirle zonkluyorsun, demek istedim.
+79|Mm-mm... Bu iyi değil. Hiç iyi değil.\nÇok birikmiş hissediyor olmalısın...
+80|Özür dilerim... Buraya geldiğimden beri\nihtiyaçlarımı ihmal ediyorum...
+81|Rahatla... Hepsini çıkaracağım. Güven bana,\nsonrasında çok daha iyi hissedeceksin...
+82|Ah, şey... Teşekkürler?
+83|Oh evet, gövden sıkı...\n*Gerçekten* sıkı. Yani, vay be...
+84|Vücudun cidden inanılmaz!\nBöylesini...hiç görmedim...
+85|D-Dikkatli... N-Nazik ol...\nGıdıklanıyorum...
+86|Bu inanılmaz... Seni kim yaptıysa kesinlikle\nne yaptığını biliyormuş...
+87|Ahhhh... Her yerim...karıncalanıyor...
+88|S-Sen de kesinlikle ne yaptığını biliyorsun.\nBöyle devam edersen belki de—
+89|V-VAAAAAAAY!
+90|Mmmmmm... Demek oraya dokununca böyle\nbir ses çıkarıyorsun. İyi bilmek...
+91|<CLT=cltMIND>...Tek kelime etmeden kapıyı kapattım.
+92|<CLT=cltMIND>Miu sadece Keebo'nun vücuduna bakım\nyapıyordu. Hepsi buydu.
+93|<CLT=cltMIND>...Aynen öyle. Başka bir şey değil.
+94|<CLT=cltMIND>Miu, Keebo'nun vücuduna bakım\nyapıyor.
+95|<CLT=cltMIND>...Ve başka hiçbir şey.
+96|B...Bir bina mı? Ne tür bir teknoloji bir\nbinayı aniden ortaya çıkarır?
+97|Haiyah! Sıradan bir bina değil, bir dojo!\nO yüzden nasıl ortaya çıktığı önemli değil!
+98|Yani bir aşçı bana güzel yemek yaptığı sürece\narabayla mı trenle mi geldiği umurumda olmaz!
+99|<CLT=cltMIND>Bu gerçekten aynı şey mi?
+## c03_002_258
+0|<CLT=cltMIND>Eskisinden daha az bitki var...\nBakım iyi gidiyor olmalı.
+1|Gittikçe daha da güzelleşiyor...\nTıpkı benim gibi.
+2|Ah...gerçekten mi...?
+4|Oh, Himiko'yu kızdırdın!
+5|Senin gibi biri bunu bilmez ama Himiko\nkızınca böyle olur!
+6|Hayır...sadece kızarıyordum.
+7|Ne!? Kendi iltifatından mı!?
+8|Himiko...ifaden pek değişmiyor, o yüzden\nne hissettiğini anlamak zor.
+9|İfade değiştirmek...zahmetli.
+10|<CLT=cltMIND>Bunu yapmamanın tek sebebi\nbu mu?
+11|Himiko Yumeno ile sohbet,\nTenko'nun laboratuvarı ortaya çıkmadan önce
+12|Himiko Yumeno ile sohbet,\nTenko'nun laboratuvarı ortaya çıktıktan sonra
+13|Tenko Chabashira ile sohbet\nTenko'nun laboratuvarı ortaya çıkmadan önce
+14|Tenko Chabashira ile sohbet\nTenko'nun laboratuvarı ortaya çıktıktan sonra
+17|<CLT=cltMIND>O simit olmasaydı Kirumi'nin planı\nkusursuz olurdu.
+18|<CLT=cltMIND>Kusursuz hizmetçiden kusursuz bir plan...
+19|<CLT=cltMIND>Ve Kirumi'den bu ülkeyi yeniden kurması\n<CLT=cltSTRONG>istenmiş<CLT=cltMIND>, öyle mi?
+21|<CLT=cltMIND>Dışarıda neler oluyor olabilir?\nBizi ne <CLT=cltSTRONG>kriz<CLT=cltMIND> bekliyor?
+27|<CLT=cltMIND>Havuz Girişi Zelda düzeneği bitkisi
+## c03_003_002
+1|<CLT=cltMIND>Kendime gerçekten inanıyor muyum henüz...\nbilmiyorum. Ama geri dönmeyeceğim, söz veriyorum!
+## c03_003_010
+0|Shuichi! Bir <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL> daha bulduğun\ndoğru mu!?
+1|Evet, doğru.
+2|Dur, yani Kokichi yalan *söylemiyormuş*!\nŞaşkınım! Hayretteyim! Şoktayım!
+3|Gördün mü? Yalan söylemediğimi söylemiştim.\nİyi ki de, çünkü burnumun uzamasını istemem.
+4|Ne yapacağımızı konuşmaya başlamak istiyorum\nama Kaito henüz burada değil...

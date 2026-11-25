@@ -1,0 +1,55 @@
+@ chap3_text_US
+## c03_705_054
+6|Oh, kızdın mı? Sadece şakaydı.
+## c03_706_050
+0|Antik Mısır, Babil, Yunanistan, Roma...\nPek çok kültürün ölülerle konuşma yolları vardır.
+1|Dünyanın her yerinde pek çok ruh çağırma seansı\nyaratılmıştır. <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> onlardan sadece biri.
+6|Kehehe... Sen de ölülerle konuşmak\nister misin?
+7|<CLT=cltMIND>Kiyo'nun durmadan ruh çağırma\nseanslarından bahsetmesini dinledim...
+## c03_706_051
+0|Seanslar genellikle ölüleri yaşayanların içine getirir.\nJaponya'da buna kuchiyose, yani medyumluk denir.
+1|Ruh medyumlarını daha önce duymuşsundur, değil mi?\nKadın medyumlar ruhları içlerinde barındırır.
+6|Kehehe, pekala o zaman, sana bir ruh medyumuyla\ntanıştığım zamanı anlatayım...
+## c03_706_052
+0|Seanslarla tanrıları, hayvan ruhlarını, hatta\nastral bedenleri bile çağırabilirsin.
+1|Ouija tahtaları ve kokkuri denen Japon oyunu\ngibi şeyler de bir tür ruh çağırma seansıdır.
+2|Kokkuri'nin katılımcıların sorularını cevaplaması\niçin bir tilki ruhunu çağırdığı söylenir...
+7|Bununla birlikte bu basit seanslardan gelen cevaplar\ngenelde sadece katılımcıların bilinçaltıdır.
+8|Ama <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> farklı...\nOnunla gerçekten ölülerle konuşabiliriz!
+9|Ee? Denemek ister misin?
+## c03_706_053
+0|<CLT=cltSTRONG>Kafesli Köpek Köyü<CLT=cltNORMAL>'nün kara sanatları fazla\netkili oldukları için mühürlendi.
+1|<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> da onlardan biriydi. Görünüşe göre\nderebeyleri ölülerin sözlerinden korkuyordu.
+6|"Ölüler konuşmaz"...\nKehehe...ne aptalca bir söz.
+7|Ölülerle konuşmanın sayısız yolu\nvardır...
+## c03_706_054
+0|Ah, evet... Yanlış anlamanı istemem...
+1|Ruh çağırma ve nekromansi iki farklı şeydir.\nNekromansi ölüleri kirletir...
+6|Farkları duymak mı istiyorsun?\nDüşündüğüm gibi, ruh çağırmaya ilgin var.
+## c03_707_050
+0|Uzun zamandır ilk defa harika hissediyorum!\nHareketlerim yerinde, öyle değil mi!?
+5|Anlıyorum... Bugün formumun zirvesinde\nolduğum için benimle ilgileniyorsun!
+6|Pekala o zaman!\nSana gerçek kişiliğimi göstereceğim!
+7|<CLT=cltMIND>Keebo bana en iyi hareketlerini gösterdi.
+8|<CLT=cltMIND>Farklı olup olmadıklarını anlayamadım...\nama bunu kendime saklayacağım.
+## c03_707_051
+0|Atua adil ve hakkaniyetli...
+1|Bir robot olan benim öğrenci konseyine\nkatılmama izin verdi...
+6|Bana hurda gibi davranılmasını başka\nkimse umursamadı...
+7|<CLT=cltMIND>Keebo'nun Atua hakkında verdiği epey\nuzun bir vaazı dinledim.
+## c03_707_052
+0|Angie haklı. Kaçma arzumuzu bırakmalıyız.
+1|O zaman burada huzur içinde yaşayabiliriz...
+6|Tabii. Şu an ilgilenmem gereken bir öğrenci\nkonseyi işi yok.
+7|<CLT=cltMIND>Keebo ile garip bir şekilde biraz\nvakit öldürdük...
+## c03_707_053
+0|...Bir şeye mi ihtiyacın var? Şu an meşgulüm.
+1|Öğrenci konseyinin amacını anlayamıyorsan\nen azından yolumuza çıkmamaya çalış.
+5|<CLT=cltSYSTEM>Keebo ile ne yapmak istersin?
+6|Etkinlik 4 Keebo ile Vakit Geçirme
+## c03_709_050
+0|Nyeh...? Ne var...?
+6|Her şey zahmetli...\nBeni rahat bırak...
+7|<CLT=cltMIND>Her zamankinden de tembel görünen Himiko'yu\ncesaretlendirerek biraz vakit geçirdim...
+## c03_709_051
+0|Bundan sonra her şeye Atua karar verecek...\nBu yüzden endişelenmemize gerek yok...

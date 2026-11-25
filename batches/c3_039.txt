@@ -1,0 +1,57 @@
+@ chap3_text_US
+## c03_014_258
+40|Öğrenci konseyine sızdıktan sonra bu bana\nnetleşti.
+41|Angie...Atua'ya gerçekten inanıyor. Atua'nın\nkoruması altında olduğuna inanıyor.
+42|Bu yüzden...canı ne isterse yapıyor.
+43|Kendini Atua'nın aracı sanıyor, o yüzden\nyaptığı hiçbir şey için suçluluk duymuyor.
+44|Ve bu yüzden onu öldürmemi mi istiyorsun?
+46|Benim gibi birinden "iyilik" istemek sadece\ntek bir anlama gelebilir.
+48|Bunu...inkâr etmeyeceğim. Bütün bunlar\nolmadan önce bile onun yok olmasını istiyordum...
+49|Ve bence herkes hayatında en az bir kez\nbirinin ölmesini istemiştir...
+50|Ama bunu gerçekten yapmak farklı bir\nşey!
+51|Bir insanın cinayet işlemesi yanlış!\nSebebi ne olursa olsun!
+52|Sen...kiminle konuştuğunun farkında mısın?
+53|Ah! Çok özür dilerim! Öyle demek\nistemedim...
+54|Ben sadece...Angie'yi durdurmak istiyorum.\n<CLT=cltSTRONG>Diriltme ritüeli<CLT=cltNORMAL> denenemeyecek kadar tehlikeli.
+55|Monokuma'nın <CLT=cltSTRONG>motifine<CLT=cltNORMAL> uyarsak bu başka bir\ncinayete yol açabilir.
+56|Ama öğrenci konseyi Angie'ye karşı gelmez ve\nben de onu tek başıma durduramam...
+57|Bu yüzden ikinize sormaya geldim! Angie'yi\ndurdurabilecek tek kişiler sizsiniz!
+58|Sadece biz mi?
+59|Eh...Kokichi'ye, Miu'ya ya da Kiyo'ya soramam\nbelli ki. Kaito da iyi hissetmiyor, biliyorsun değil mi?
+60|Anlıyorum... Pek seçeneğin yoktu.
+61|E-Evet...doğru.
+62|O yüzden lütfen bana yardım edin! Angie'yi\nritüeli yapmamaya ikna etmelisiniz!
+63|Size yalvarıyorum!
+64|<CLT=cltMIND>Tenko olabildiğince derin bir şekilde\neğildi.
+65|Pekala o zaman, gidelim!
+66|Ne? Daha cevap bile vermedik!
+67|Grghhhhh! Şikâyet etmeyi bırak da bu iyiliği\nyap bana, seni yoz!
+68|Önünde eğiliyorum bile! Hem de bunu hiçbir\nerkek için asla yapmazdım!
+69|<CLT=cltMIND>İyilik istediğin birine söylenecek en\niyi şey bu değil...
+70|Sen...çok samimisin. Başkalarından yardım\nistemeye alışkın olmadığını anlayabiliyorum.
+71|Peki ne yapacaksın, Shuichi? Bu görmezden\ngeleceğin bir şey gibi görünüyor.
+72|<CLT=cltMIND>Görmezden geleceğim bir şey mi?\nBeni ne sanıyorsun...?
+73|Hayır, yapacağım...\nSadece düşünüyordum.
+74|Monokuma'nın <CLT=cltSTRONG>motifine<CLT=cltNORMAL> uymanın tehlikeli\nolduğu konusunda Tenko'ya katılıyorum.
+75|O zaman artık bir şey yap! Erkeklerin kararlı\nolması gerektiğini sanıyordum!
+77|Yine de seni affediyorum sanırım! Şimdi\nhadi birlikte Angie'yi ikna edelim!
+78|Şu an <CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltNORMAL> laboratuvarında\nritüel için hazırlanıyor olmalı!
+79|Birlikte mi? Ben de mi geliyorum?
+80|E-Elbette!
+81|Sadece Shuichi'den yardım istemezdim!
+82|<CLT=cltMIND>Daha yeni yardım etmeyi kabul ettim ve\nbana böyle mi davranıyorsun?
+83|<CLT=cltMIND>Neyse...\nAngie'nin laboratuvarına gideyim.
+84|Bana yardım edecek tek kişinin Shuichi olduğunu\nbilseydim asla yardım istemezdim!
+## c03_015_156
+0|K-Kaede! Ve...Rantaro?\nKirumi? Ryoma?
+1|Ben yaptım! Canlı gibi görünmüyorlar mı?\nTam anlamıyla ilahi değiller mi?
+2|Sen mi yaptın...?
+3|Evet, kendi el yapımı balmumu\nheykellerim.
+4|Balmumu heykel mi? Neden?
+5|Neden mi? Diriltme ritüeli için tabii ki.
+6|Hmm, <CLT=cltSTRONG>Necronomicon<CLT=cltNORMAL>'a göre <CLT=cltSTRONG>ritüeli<CLT=cltNORMAL> yapmak\niçin ölünün bir heykeline ihtiyacımız var.
+7|Ben de bunları yaptım.
+8|Basit bebekler muhtemelen daha iyi olurdu ama\nişe koyulunca Atua beni ele geçirdi.
+9|Nyahaha! Bir de baktım ki bunları yapmışım!\nNe dersiniz? İnanılmaz değiller mi?
+10|Böyle zalim şeyleri o kadar masumca yapıyorsun ki.
+11|Hm? Ne?

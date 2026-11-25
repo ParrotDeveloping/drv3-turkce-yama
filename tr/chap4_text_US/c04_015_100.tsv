@@ -4,7 +4,9 @@
 3	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
 4	<CLT=cltMIND>Burası Kaito'nun odası.\nŞu an burada bir işim yok.
 5	<CLT=cltSYSTEM>*tık...tık...*
+6	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 7	<CLT=cltSYSTEM>*tık...tık...*
+8	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 9	<CLT=cltMIND>Burası...Gonta'nın odası, ha?\nŞu an burada bir işim yok.
 10	<CLT=cltMIND>Burası Kokichi'nin odası ama...\nşu an burada bir işim yok.
 11	...
@@ -13,6 +15,7 @@
 19	<CLT=cltMIND>...
 20	<CLT=cltSYSTEM>*tık*
 21	<CLT=cltSYSTEM>*tık...tık...*
+22	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 23	<CLT=cltSYSTEM>*tak, tak*
 24	<CLT=cltMIND>...
 25	<CLT=cltSYSTEM>*tık*
@@ -20,3 +23,4 @@
 32	<CLT=cltMIND>Burası...Tsumugi'nin odası.\nŞu an burada bir işim yok.
 37	<CLT=cltMIND>Burası Miu'nun odası\nama şu an burada bir işim yok.
 38	<CLT=cltSYSTEM>*tık...tık...*
+39	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.

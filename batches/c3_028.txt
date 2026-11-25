@@ -1,0 +1,59 @@
+@ chap3_text_US
+## c03_006_100
+21|Her neyse, boş sohbete vaktimiz yok.\nBen önden spor salonuna gidiyorum.
+28|<CLT=cltMIND>O korkunç gerçeği öğrendin ve\nhayatını Kirumi'ye bıraktın.
+29|<CLT=cltMIND>Ama...bence...
+30|<CLT=cltMIND>Ryoma...\nBizimle savaşmak istiyordun, değil mi?
+31|<CLT=cltMIND>Bu yaşama sebebin olmaya yetmez miydi?
+32|<CLT=cltMIND>Bizimle savaşabilirdin...birlikte savaşabilirdik...o zaman yaşayabilirdin.
+33|<CLT=cltMIND>Biz...senin yaşama sebebin olamaz mıydık...?
+34|...Belki bu kibirli bir düşünce.
+36|<CLT=cltMIND>...Açılmıyor.\nKilitli görünüyor.
+## c03_006_101
+0|Bu, Ultimate Akademisi'nden resmi bir\nduyurudur. Saat şu an sabah 8.
+1|BU-BİR-ACİL-DURUM-ANONSUDUR.\nLÜTFEN-SPOR-SALONUNDA-TOPLANIN.
+2|ANLAŞMAYI-REDDETMEK...CEZA-\nSEBEBİDİR.
+3|Ah Monodam, şu anlaşma işini gerçekten\nkafaya takmışsın!
+4|Artık izlediği tek dizi "Friends"!
+5|ANLAŞMAZSANIZ...SİZİ-\nAFFETMEYECEĞİM.
+6|EXISAL'LARI-KULLANIP-YÜZLERİNİZİ-\nMANDALİNA-GİBİ-SOYACAĞIM.
+7|Iyyyy! Bu çok kanlı!\nL-Lütfen herkes anlaşsın—
+8|...BLÖĞĞBRBLBLÖĞĞBRBLBLÖĞĞ!
+9|Ah! Yine kustu!\nOoh, bu sefer mavi! Ne nadir!
+10|Monophanie'nin mavi kusmuğunu gören herkesin\nşansının açılacağı söylenir.
+11|...Hoşça kalın, ayıcıklar!
+12|<CLT=cltMIND>Spor salonunda toplanmak, ha...\nBu konuda içimde kötü bir his var.
+## c03_006_258
+0|Himiko, günaydın.
+2|<CLT=cltMIND>Bu..."günaydın" mı demekti?
+3|Ne baş belası... Neden sabahın bu kadar\nerken saatinde spor salonuna gitmek zorundayız...?
+4|Bilmiyorum...ama iyi bir şey olduğunu\nsanmıyorum.
+5|Bugün önemli bir öğrenci konseyi toplantımız var\nama bu bütün enerjimi tüketecek...
+6|<CLT=cltMIND>Önemli bir toplantı mı?
+7|Hadi ama, sorun yok. Sadece spor salonuna\nyürümek o kadar enerji tüketmez.
+8|Nyeh...
+9|Hey, bu "toplantı"...\nBir şey mi planlıyorsunuz?
+10|Ah, evet, bir bakıma... Angie bir parti\nyapmamız gerektiğini söyledi.
+11|Bundan sonra herkesle havuzda oynamayı\nplanlıyorduk.
+13|Atua havuzda oynamak istediğini söyledi.
+14|<CLT=cltMIND>...Bir tanrı için ne tuhaf bir\nistek.
+15|Olamaz! Şimdi burada durup konuşmanın\nsırası değil!
+16|Spor salonuna acele etmezsek yüzlerimiz\nmandalina gibi soyulabilir!
+17|Mandalina sevmem.\nBütün o beyaz şeyleri soymak zahmetli...
+18|<CLT=cltMIND>Havuz...\nDemek bütün kızlar orada olacak...
+22|N-Ne? Benden bir şey mi istiyorsun?
+24|<CLT=cltMIND>Monokuma sanki bana bir şey söylemeye\nçalışıyormuş gibi sessizce, yoğun bir şekilde baktı.
+25|Ee? Ne var?\nSöyleyecek bir şeyin varsa söyle!
+27|<CLT=cltMIND>Birden aklıma bir düşünce\ngeldi!
+28|<CLT=cltMIND>Bir...erkeğin...fantezisi...
+29|<CLT=cltMIND>B-Bu düşünce nereden geliyor?
+30|<CLT=cltMIND>Aklımdan değil...\nKalbimden mi?
+31|<CLT=cltMIND>Evet, kalbimden! Çünkü aşk benim\ntarafımda!
+33|Şimdi anlıyorum, Monokuma. Bana...\nvaktin geldiğini söylüyorsun.
+34|<CLT=cltMIND>Kızlar havuzda oynamaya gidecek, bu da\nmayo giyecekleri anlamına geliyor.
+35|<CLT=cltMIND>Bu *kesinlikle* çılgın ama romantik bir\nsahne yaşanacak demek! Ve ben orada olacağım!
+39|<CLT=cltMIND>Evet, şimdi geri adım atamam.
+40|<CLT=cltMIND>Göğsümdeki aşkın gücü çarpan kalbimi\ndoldurdu! Tam şarj!
+41|<CLT=cltMIND>Başka çarem yok. Gitmek *zorundayım*!
+43|<CLT=cltMIND>Hayır...\nGözetlememeliyim.
+44|<CLT=cltMIND>Monokuma'nın beni yönlendirmesine\nizin veremem...

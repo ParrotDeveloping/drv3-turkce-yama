@@ -1,0 +1,59 @@
+@ chap3_text_US
+## c03_211_000
+102|Ama şimdi...çok geç.\nNe ona şikâyet edebilirim...ne de teşekkür...
+103|Çok...geç—
+104|Evet, cidden!\nBunu fark etmek için artık çok geç.
+105|Tek seçeneğimiz onun ölümüyle yüz yüze\ngelmek!
+106|...Nyeh? Ölümüyle yüzleşmek mi?
+107|Himiko... Neler yaşadığını\nanlıyorum.
+108|O yüzden sana yardım edeceğim!\nGerçeği bulmak için birlikte çalışalım!
+109|Kimsenin onun ölümünün önemsiz olduğunu\nsöylemesine izin vermeyeceğim!
+110|K-Kaito...!
+111|Pekala! Tenko'nun ölümüne anlamsız diyen\nherkese susturma laneti atacağım!
+112|Lanetin adı...Ölüm Laneti!
+113|Şey, sanırım ölü olmak birini epey\niyi sustururdu.
+114|Dinleyin!\nHepiniz de yardım edeceksiniz!
+115|Ölen birini terk edip sadece kendi\nhayatta kalmanı düşünmek...
+116|Bu çarpıp kaçmak kadar kötü!\nBöyle berbat bir şeyi affetmem!
+117|Tenko bizim arkadaşımızdı! Gonta da\nneden öldüğünü bilmek istiyor!
+118|Sana söyledim, buna hiiiç gerek yok.\nKonudan sapıyoruz.
+119|Hayır, farklı bir suçlu olsa bile Tenko'nun\nnasıl öldüğünü bilmemiz lazım.
+120|Onu kimin öldürdüğünü bulmazsak birlikte\nçalışamayız. Ne şimdi ne de hiçbir zaman.
+121|Bu duruşma onun için olmasa bile\nhayatta kalabilmemiz için...
+122|Tenko'nun ölümünün aslını\nöğrenmeliyiz!
+123|Sadece bu duruşmayı atlatmak için değil!\nDevam edip yaşayabilmemiz için!
+125|Sonunda fark ettin! Tanrım, ne kadar\nyavaşsın...
+126|Ha? Kokichi fark etmemizi mi istiyordu—
+127|Saçmalıklarını dinleme. İki farklı suçlu olup\nolmadığına henüz karar vermedik.
+128|O zaman Tenko'nun davasını konuşalım.\nBelki bu bize bir ipucu verir.
+129|E-Evet, belki...
+130|<CLT=cltMIND>Yanılmıyorlar ama...
+131|<CLT=cltMIND>Tenko'nun davasını incelemekte\nbir sakınca görmüyorum...
+132|<CLT=cltMIND>Ama bu ani bir konu değişikliğiydi.\nBu...kasıtlı mıydı...?
+133|Ee, önce neyi konuşalım?
+134|Şimdilik şüpheliler listesini daraltabilir\nmiyiz bakalım.
+135|Tenkasık muhtemelen seans sırasında öldürüldü,\nyani orada olan herkes şüpheli!
+136|T-Tenkasık mı!?
+137|<CLT=cltMIND>Seansa katılan\nkişiler...
+138|Korekiyo, Shuichi, Himiko, Kokichi
+139|Korekiyo, Shuichi, Himiko, Keebo
+140|Ben, Korekiyo, Himiko ve Keebo...\nSanırım dördümüzdük...
+141|Ha? Ama gitmeye zorlandım, sonra da\nbeni yine de kovdunuz, Shuichi!
+143|Korekiyo, Shuichi, Himiko, Kaito
+144|Ben, Korekiyo, Himiko ve Kaito...\nSanırım dördümüzdük...
+145|Kaito ruh çağırma seansı fikrinden neredeyse\naltına kaçırıyordu. Katılmış olamaz.
+146|Ama korktuğum için değildi!\nBu...ciddi bir sağlık sorunu!
+148|Korekiyo, Shuichi, Himiko, Kokichi, Keebo
+149|Ben, Korekiyo, Himiko, Kokichi ve Keebo...\nSanırım beşimizdik...
+150|Seansa sadece dört kişi katıldı.\nLütfen böyle ayrıntıları unutma.
+153|Nasıl hatırlamazsın!? Sapıkça düşünceler\ndüşünmekle mi meşguldün, bakir!?
+154|Anladım! Bu seksi vücudum yanında olduğu\niçin dikkatin dağılıyor!
+156|<CLT=cltMIND>Seansa katılan\nkişiler...
+157|Ben, Kiyo, Himiko ve Kokichi'ydik.
+158|Yani o dördü suçlu!
+159|Oh... Himiko hâlâ suçlu mu?
+161|Eh, bu muhtemelen sadece tesadüf. Dördünün\niçinde en şüphelisi aslında...
+162|Kiyo! Bütün seans fikrini o önerdi!
+163|Doğru, önermiş olabilirim. Ama prosedürü\nönceden açıkladım, değil mi?
+164|Cinayetten önce hepimiz biliyorsak hepimiz\neşit derecede şüpheliyiz.
+165|Eh, sanırım ama...

@@ -1,0 +1,57 @@
+@ chap3_text_US
+## c03_229_000
+58|Burada pes etseydim Angie ile Tenko'nun\nyüzüne bakamazdım...
+59|Aynen öyle!\nO yüzden elimizden gelenin en iyisini yapalım!
+60|Nyeeeeeeh! Pekala! Artık zahmetli\ndemeyeceğim!
+61|Pes etmeyeceğim! Herkesle yan yana\nsavaşıp hayatta kalacağım!
+62|"Herkes" deme. Sonuçta Kara hâlâ\naramızda.
+63|Tanrım. Yine her zamanki gibi havayı\nbozuyorsun.
+64|Ama vay be! İyi dedin, Shuichi!\nRuh kankamdan da bu beklenirdi!
+65|Senin..."ruh kankan" mı?
+66|Neyse, sence bu seferki Kara'nın bir tür\nsüper gücü var mı?
+68|Eh, döşeme tahtasından ayağı geçme konusunda\nkendini uzman ilan etmiş biri olarak...
+69|Suçlu kullanmadan önce kimsenin o döşeme\ntahtasına basmaması tuhaf değil mi?
+70|Ah... Bu iyi bir nokta.
+71|Bariyer büyüsü olmalı!
+72|Eh...bu bir ihtimal... Ama bence başka bir\nşey olabilir.
+73|<CLT=cltMIND>Neden cinayette kullanılana kadar kimse\ndöşeme tahtasına basmadı...
+74|<CLT=cltMIND>...Ah! İşte bu!\nSebebi bu olmalı!
+75|Suçlu kafesi bizim dokunmayacağımız\nbir yere koydu!
+76|Non, non. O demir kafesi alın terimiz ve\ngözyaşlarımızla taşıdık!
+77|Kaba olma, Shuichi.\nGerçekten bütün emeğimi görmezden mi geleceksin?
+79|Kiriş bütün zaman boyunca döşeme\ntahtasını destekliyor muydu?
+80|Belki suçlu döşeme tahtasına basmadan\nhemen önce kirişi kaldırmıştır.
+81|Hmmm, öyle mi düşünüyorsun? Kimsenin\nbasmamasını sağlasalar daha akıllıca olurdu.
+82|Suçlu plana daha çok şey eklerse işi\nberbat etmesi o kadar kolaylaşır.
+84|Hmm... Seansa katılmadıysan hayal\netmek biraz zor...
+85|Sen seansın bir parçasıydın, değil mi\nShuichi? Bir şey hatırlıyor musun?
+87|Bunun ilgili olduğunu sanmıyorum...
+88|Shuichi, seansı hazırlarken basmadığın\nbir yer var mıydı?
+89|Döşeme tahtası tuzağının saklandığı yer\norası olabilirdi.
+91|Neden suçlu cinayette kullanana kadar kimse\ndöşeme tahtasına basmadı?
+92|Çünkü olay yerindeki <CLT=cltSTRONG>büyü\nçemberi<CLT=cltNORMAL> yüzünden.
+96|Seansa başlamadan önce çembere\nbasmamamız konusunda uyarıldık.
+97|Söz konusu döşeme tahtası çemberin içindeydi.\nBu yüzden kimse üstüne basmadı.
+98|Yani büyü çemberinin amacı bizi bütün\nnumaradan uzak tutmaktı.
+99|Bu da suçlunun planının bir parçası mıydı?
+100|<CLT=cltMIND>Aynen öyle!\nEğer öyleyse suçlu...
+101|<CLT=cltMIND>Aklımda hiç şüphe yok.\nTenko'yu öldüren o.
+102|<CLT=cltMIND>Fırsatı ve motifi olan tek\nbir kişi var.
+103|Himiko...\nGerçekten sen—
+104|Ben olmadığımı biliyorsun!\nŞimdi dalga geçmenin sırası değil!
+106|Suçlunun kim olduğunu zaten biliyorum ama\nBay Dedektif'in kendisinden duymak istiyorum!
+107|Belli ki...zaten biliyorsun, değil mi?
+109|O kişi olamaz, değil mi Shuichi?
+110|Büyü çemberini ve amacını düşün.\nOnu kim çizdiyse şüpheli, değil mi?
+112|Tenko'yu kim öldürdü?
+113|Kiyo...sen miydin?
+114|Hmm? Neden bahsediyorsun\nsen?
+115|Tenko'nun cinayetinden bahsediyorum.
+116|Ha? Kiyo mu?
+117|Neden benden şüpheleniyorsun?
+118|Çünkü büyü çemberini çizen\nsendin.
+119|Çember tahterevalli numarasını keşfetmemizi\nengelledi...
+120|Ama tek amacı bu değildi.
+121|Cinayetin başarılı olması için...
+122|...Tenko'nun pozisyonu ve kafesin yeri gibi\ndeğişkenlerin belirlenmesi gerekiyordu.
+123|Ve o değişkenler büyü çemberi kullanılarak\nbelirlendi.

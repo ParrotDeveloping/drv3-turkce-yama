@@ -1,0 +1,69 @@
+@ chap3_text_US
+## c03_235_000
+83|Eh, en başından beri bunun daha olası\nolduğunu düşünüyordum.
+84|O yüzden <CLT=cltSTRONG>Angie'nin gitmiş olabileceği yerlere<CLT=cltNORMAL>\ngittim ve üç boş odanın hepsine baktım.
+85|Gitmiş olabileceği yerler mi? O zaman neden\nboş odalara baktın?
+86|Hm? Boş odalar Angie'nin gidebileceğini\ndüşünebildiğim tek yerlerdi.
+87|Angie'nin...odalarda işi mi vardı?
+88|Kehehe... Görünüşe göre Kokichi yine her\nzamanki yanıltıcı saçmalıklarına başladı...
+89|Nişişi... Çok yalan söylerim ve şu an da\nyalan söylüyor olabilirim...
+90|Ama yalanım yüzünden şu an *birinin*\npanikte olduğundan epey eminim.
+92|<CLT=cltMIND>Angie laboratuvarından kendi isteğiyle\nçıkıp öldürüldüğü odaya gitti.
+93|<CLT=cltMIND>Kokichi'nin ifadesi doğru mu?\nYoksa...
+## c03_236_000
+0|Haaaaaaaaa?\nShuichi de bilmiyor muuuu?
+1|Taaa-mam, söyleyeyim!\nAngie boş odada öldürüldü!
+2|...Ama yalan söylüyor olabilirim, kim bilir!
+4|Bu ne lan!? Senin gibi bir bakirin böyle bir\nhobisi olacağını beklemezdim!
+5|Hayır, o değil... Angie ölümünden hemen önce\nne yapmaya çalışıyordu?
+6|Sadece o ayrıntıyı hatırlamanın çok işe\nyarayabileceğini söylüyorum, değil miii?
+8|Nereden biliyorsun? Gerçekten sıcak balmumunu\nşuramıza dökmekten hoşlanan bir tek ben miyim...
+9|Ha...? Öyle miyim?
+11|<CLT=cltMIND>Kokichi ne gördü?
+12|<CLT=cltMIND>Orada sadece mumlar vardı...\nNeden bir muma ihtiyacı olsun ki?
+14|<CLT=cltMIND>Angie'nin yaptığı bir şey...\nOrada bir ipucu olmalı!
+## c03_236_001
+0|<CLT=size2>Sanat\n<CLT=size2>araştırma laboratuvarı...
+1|Sanat araştırma laboratuvarı...
+2|Angie'nin <CLT=size2>öldürüldüğü\n<CLT=size2>yer<CLT=size1>
+3|Angie'nin öldürüldüğü yer değil...
+4|<CLT=size2>değil...
+5|Onun yerine <CLT=cltWEAK><CLT=size2>boş odada\n<CLT=cltNORMAL><CLT=size2>öldürüldü<CLT=size1>!
+6|Onun yerine boş odada\nöldürüldü!
+7|Laboratuvarından <CLT=size2>kendi<CLT=size1> <CLT=size2>isteğiyle<CLT=size1> mi <CLT=size2>çıktı...?
+8|Laboratuvarından kendi isteğiyle mi çıktı...?
+9|Ama neden <CLT=size2>boş bir\n<CLT=size2>odaya<CLT=size1> girsin?
+10|Ama neden boş bir\nodaya girsin?
+11|Orada <CLT=size2>hiçbir şey\n<CLT=size2>olmaması<CLT=size1> gerekirdi.
+12|Orada hiçbir şey olmaması gerekirdi.
+13|<CLT=size2>Mumlar<CLT=size1> hariç...
+14|Mumlar hariç...
+15|İşte bu!
+16|İşte bu! Bir mum istedi!
+17|<CLT=cltAGREE>Bir <CLT=size2>mum<CLT=cltNORMAL> istedi!
+18|Gece <CLT=size2>uyanık<CLT=size1> <CLT=size2>kalmak için...
+19|Gece uyanık kalmak için...
+20|vücuduna
+21|vücuduna sıcak balmumu damlatacaktı!
+22|<CLT=size1>sıcak
+23|<CLT=size2>balmumu
+24|damlatacaktı!
+25|Bu ancak <CLT=size2>senin<CLT=size1>\nyapacağın
+26|Bu ancak senin yapacağın bir şey gibi geliyor, Miu.
+27|<CLT=cltAGREE>bir şey gibi <CLT=size2>geliyor<CLT=size1>,\n<CLT=size2>Miu<CLT=cltNORMAL>.
+28|Angie orada bir şey mi unuttu?
+29|Bu akıl almaz...
+30|Buna inanmıyorum...
+32|Neden mumlar...?
+33|Onları ne için istedi?
+36|Kafanın içinde neler dönüyor?
+37|Tipik Miu!
+38|Ha? Öyle mi düşünüyorsun...?
+## c03_237_000
+0|İşte bu! Angie o odaya bir mum almak\niçin gitti!
+1|Evet! Sapıkça balmumu oyunları için!
+2|Iı, hayır... Angie onu ritüel için\nkullanacaktı.
+3|Necronomicon'a göre <CLT=cltSTRONG>ölüleri\ndiriltmek<CLT=cltNORMAL> için...
+6|O zaman kitabı yakabilmek için mi bir mum\naramaya gitti?
+7|Aynen öyle! Angie'nin laboratuvarında ateş\nyakacak hiçbir şey yok...
+8|O yüzden boş odalardan birinden mum\nalmaya gitti!

@@ -1,0 +1,69 @@
+@ chap3_text_US
+## c03_711_052
+7|B-Bu işe yaramaz mesajı kim yazdıysa\nyozlaşmış bir erkek olmalı!
+8|Kesinlikle Rantaro ya da Ryoma\nyazmıştır!
+9|<CLT=cltMIND>Panik içindeki Tenko ile\nbiraz vakit geçirdim.
+## c03_711_053
+0|...Atua'ya dua etmekle meşgulüm.
+1|Git başımdan. Senin gibi yozlaşmışlara\nayıracak vaktim yok.
+5|<CLT=cltSYSTEM>Tenko ile ne yapmak istersin?
+6|Etkinlik 4 Tenko ile Vakit Geçirme
+## c03_711_054
+1|Ne istiyorsun? Öğrenci konseyine katılmak\niçin mi geldin?
+2|Bunu Angie ile konuş lütfen.
+6|<CLT=cltSYSTEM>Tenko ile ne yapmak istersin?
+7|Etkinlik 5 Tenko ile Vakit Geçirme
+## c03_712_050
+0|Şimdi düşündüm de...\nMonokuma hâlâ kel mi acaba?
+1|Onun için endişelendiğimden değil...\nO haliyle düpedüz iğrenç de ondan.
+6|Neyse, Monokuma önemli değil.\nGel birlikte çay içelim.
+7|<CLT=cltMIND>Tsumugi ile çay içtim.
+## c03_712_051
+0|Öğrenci konseyinde olduğum için \nkonumuma karar vermem lazım.
+1|Angie başkan... Belki ben sayman olurum? \nMalzeme maliyetlerini yönetmekte iyiyimdir.
+6|Shuichi, sen de öğrenci konseyine \nkatılmak ister misin?
+7|Orada olmana düpedüz bayılırdım...\nAma önce Angie'ye sormalıyız.
+8|<CLT=cltMIND>Tsumugi ile resmi görevler hakkında\ndüşünerek biraz vakit geçirdik...
+## c03_712_052
+0|Öğrenci konseylerinden bahsetmişken...
+1|Kurgudaki öğrenci konseylerinin genelde\ninanılmaz bir yetkisi olur.
+6|Kimi host kulübü açar, kimi çılgın güçlere sahiptir,\nkimi yemek yapar, kimi hep "iyi günler" der...
+7|Neyse, bizim öğrenci konseyi üyelerimizin hepsi \n<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>, yani kesinlikle rekabet edebiliriz.
+8|O kurgusal öğrenci konseylerini bile\ngeçebiliriz!
+9|<CLT=cltMIND>Tsumugi bana animelerdeki öğrenci konseylerinin\nuzun ve renkli tarihini anlattı...
+## c03_712_053
+0|Üzgünüm... öğrenci konseyi Atua'ya dua edip \nritüele hazırlanmakla meşgul.
+1|Yolumuza çıkarsan...kötü bir şey\nolabilir...
+5|<CLT=cltSYSTEM>Tsumugi ile ne yapmak istersin?
+6|Etkinlik 4 Tsumugi Shirogane ile Vakit Geçirme
+7|<CLT=cltMIND>Tsumugi ile biraz vakit geçirdim...
+## c03_712_054
+0|Üzgünüm... öğrenci konseyi Atua'ya dua edip \nritüele hazırlanmakla meşgul.
+1|Yolumuza çıkarsan...kötü bir şey\nolabilir...
+5|<CLT=cltSYSTEM>Tsumugi ile ne yapmak istersin?
+6|Etkinlik 5 Tsumugi Shirogane ile Vakit Geçirme
+7|<CLT=cltMIND>Tsumugi ile biraz vakit geçirdim...
+## c03_713_050
+0|O anı ne anlama gelebilir? Yani, benim için\ncenaze töreni yapılmış olması imkânsız.
+1|Çünkü Atua var. Yani ölme tehlikem yok,\nbiliyor musun?
+2|<CLT=cltMIND>Bir süre Angie ile takılayım mı?\nKeyfi yerinde olabilir...
+6|<CLT=cltMIND>Bir süre Angie ile takılayım mı?\nKeyfi yerinde olabilir...
+7|Tamam! O zaman ne yapalım?
+8|<CLT=cltMIND>Angie laboratuvarında bana sanat\nmalzemelerini göstererek vakit geçirdi.
+## c03_713_051
+0|Naber Shuichi? Sen de öğrenci konseyine\nkatılmak ister misin?
+5|Nyahahaha! Öğrenci konseyi herkese\nkapısını açar!
+6|<CLT=cltMIND>Katılma teklifini geri çevirdikten sonra\nAngie ile biraz vakit geçirdik...
+## c03_713_052
+0|Bu diriltme ritüeli işini öğrenci\nkonseyine bırak.
+1|Şu an Atua kimi diriltmemiz gerektiğini\nbulmaya çalışıyor.
+6|Kaede'yi diriltmek mi istiyorsun?
+7|Çünkü Atua başka birinin olması gerektiğine\nkarar verirse kabul etmelisin, tamam mı?
+## c03_713_053
+1|Seninle konuşacak vaktim yok.\nAtua'ya dua ediyorum.
+2|Sonra konuşuruz! Bay-onara!
+6|<CLT=cltSYSTEM>Angie ile ne yapmak istersin?
+7|Etkinlik 4 Angie Yonaga ile Vakit Geçirme
+## c03_713_054
+0|Ritüele hazırlanmakla meşgul olduğumu\nbiliyorsun Shuichi.
+1|İşim bitince ritüeli yapmak için seni\nçağıracağım. O zamana kadar bekle.

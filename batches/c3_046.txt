@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_100_157
+61|Ve ritüelin parçası olarak baş aşağı asılı\no balmumu bebekleri yaptı...
+62|Belki ritüel başarılı oldu ve dirilen kişi\nonu öldürdü—
+63|İİİİİİİİİİİİİİİİİİİİİK!!!
+64|...Ne? Kes sesini artık.
+65|O-Onun suçu! Birdenbire korkunç hikâyeler\nanlatıyor!
+66|Ö-Öyle saçma sapan şeyler söylüyor...
+67|Hrn...rrrrnnnngggghhh!
+68|Kaito, iyi misin?
+69|T-Tabii... Pardon, Shuichi...\nBiraz temiz hava almam lazım...
+70|Bunu sana ve Maki'ye bırakıyorum.\nİyi iş çıkarın, millet.
+71|<CLT=cltMIND>Kaito hâlâ biraz sendeleyerek çıktı.
+72|"İyi iş çıkarın" mı... O korkağın bize emir\nvermeye yüzü var.
+73|Ah, belki söylemenin en iyi yolu değildi ama\nsadece bizi cesaretlendirmek—
+74|Belli ki yardımcı rolüne iyice\nyerleşmişsin.
+76|Ona emir verdirmeme gerek yok. Bu kadar az kişi\nkalmışken...artık kenarda oturamam.
+77|Peki, nereden başlamalıyız? Önce Monokuma\nDosyası'na bakmalıyız, değil mi?
+78|Evet, bir bakalım.
+79|<CLT=cltMIND>Kurban <CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltMIND>\nAngie Yonaga...
+80|<CLT=cltMIND>Ceset <CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltMIND>'nın\nlaboratuvarında bulundu.
+81|<CLT=cltMIND>Ölüm saati yaklaşık\ngece 2.
+82|<CLT=cltMIND>Ölüm sebebi ensedeki bıçak yarası.\nAlnında da bir yırtık var.
+83|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma Dosyası 3<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+84|Monokuma Dosyası bu sefer ölüm saatini\nde içeriyor.
+85|Gece 2. Herkes uyuyor olmalıydı...\nmuhtemelen tanık ifadelerine güvenemeyiz.
+86|Yani...cinayet sonuçta gece\nişlenmiş.
+87|Herkes Angie ile Atua'nın dediği gibi öğrenci\nkonseyinin kurallarına uysaydı...
+88|Kehehe... Bunu söylemek ne işe yarar? Suçlu\nöğrenci konseyinden biri olabilir, değil mi?
+89|Öğrenci konseyinden biri mi? B-Bu—
+90|Gidip bunu çözmeliyiz! Hadi soruşturmaya\nbaşlayıp bu gizemi birlikte çözelim!
+92|Yapamam...
+93|H-Himiko...?
+94|Yapamam...bunu...\nAngie'nin cesedini soruşturamam...
+95|Ama...Sınıf Duruşması'nı atlatamazsak\nherkes ölecek...
+96|Artık...umurumda değil...
+98|Hayatta kalmak...ve diğer her şey...\nÇok zahmetli...
+99|O zaman neden büyünü kullanıp Angie'yi\ndiriltmiyoruz!?
+100|Şimdi kötü niyetli alaylarının sırası değil!\nOnu diriltmek açıkça imkânsız!
+101|Bunu kesin olarak söyleyemeyiz, değil mi?
+102|Efendim!?
+103|Eh...onu diriltmek elbette imkânsız ama\nAngie ile konuşabileceğimiz bir yol biliyorum.
+104|<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> adlı bir ruh çağırma\nseansıyla ruhunu çağırabiliriz.
+105|<CLT=cltMIND>Ruh çağırma seansı mı?
+106|Ruh çağırma mı...? Neden bahsediyorsun?\nKes artık şunu.
+107|E-Evet! Şaka yapmanın sırası değil!
+108|Ah, ciddiyim...\nBu soruşturmamız için.
+109|Soruşturmamız için mi?
+110|Angie ile konuşursak ona suçlunun kim olduğunu\nsorup bu davayı hızla kapatabiliriz.
+111|Önce bir <CLT=cltSTRONG>diriltme ritüeli<CLT=cltNORMAL>, şimdi de <CLT=cltSTRONG>ruh çağırma\nseansı<CLT=cltNORMAL> mı? Bizimle dalga mı geçiyorsun?
+112|Kehehe... Bunu Monokuma'nın aptallığıyla\nkarşılaştırmasan sevinirim...
+113|Ruh çağırma seansları gerçektir. Dünyanın\ndört bir yanındaki literatürde yazılıdır.
+114|Hatta ben kendim de defalarca ruh çağırma\nseansına katıldım...
+115|D-Defalarca mı?

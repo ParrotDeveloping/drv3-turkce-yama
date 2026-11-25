@@ -1,0 +1,53 @@
+@ chap3_text_US
+## c03_209_000
+9|Yani suçlu sürgülü kilidi hareket ettirmek\niçin katanayı kullandı, değil mi?
+10|Ama dur, onu katanayla nasıl hareket ettirdiler?\nHem de Angie'nin laboratuvarının dışından?
+11|Bize cevabı verebilecek ipucu <CLT=cltSTRONG>alanın\ndüzeninin<CLT=cltNORMAL> kendisi.
+12|Sonuçta tuhaf bir düzendi.
+13|Heykele saplanmış katana, baş aşağı\nasılı heykeller...
+14|Angie bunları ritüelin bir parçası olarak\nyapmadı mı?
+15|Hayır... Necronomicon'un hiçbir yerinde\nheykelleri asman gerektiği yazmıyordu.
+16|Ritüelin bir parçası değilse...o zaman başka\nbir amaç için olmalı, değil mi?
+17|<CLT=cltMIND>Başka bir amaç...\nNe olabilirdi?
+18|<CLT=cltMIND>Suçlu odayı kilitlemek için bir şekilde\nbu düzeni kullandı.
+19|<CLT=cltMIND>O zaman o düzenin her adımının ardındaki\nsebebi bilmem lazım...
+20|<CLT=cltMIND>Bunu yaparsam suçlunun odayı nasıl\nkilitlediği netleşmeli!
+## c03_211_000
+0|İşte bu! Suçlunun katanayı heykele\nsaplamasının sebebi...
+1|...<CLT=cltSTRONG>heykel dönerken<CLT=cltNORMAL> sürgülü kilide\nçarpmasıydı!
+2|Heykel...dönerken mi?
+3|Doğru. Heykeli döndürürsen asılı olduğu\nip bükülürdü.
+4|Sonra bırakırsan ip çözülür ve heykel\nters yöne dönerdi.
+5|Ve tabii katana da onunla birlikte dönerdi.
+6|Anlıyorum! Yani suçlu kilidi yerine itmek\niçin katananın ters dönüşünü mü kullandı!?
+7|Suçlunun yapması gereken tek şey heykelin\nipini döndürüp hızla çıkmaktı...
+8|Bu da dönen katananın sürgülü kilide\nçarpmasına yol açardı...
+9|Ve böylece boş bir sınıfın arka kapısı\niçeriden kilitlendi.
+10|Evet. Angie'nin laboratuvarı böyle\nkilitlendi.
+11|Katanalı heykeli kullanarak.
+12|Kılıcın kalbinden doğan, havada süzülüp\nbizi karşılayan bir plan.
+13|Ah ama sürgülü kilidi bu kadar kolay\nhareket ettirebilir miydi?
+14|Sürgülü kilit epey gevşekti.\nKüçük bir itiş onu hareket ettirebilirdi.
+15|Dönen katana kilide çarptığı sürece\nyerine kayardı.
+16|Suçlu ilk birkaç seferde başarısız olsa bile\nkilitlenene kadar denemeye devam edebilirdi.
+17|Bu yüzden suçlu fark edilmemek için\ngeceyi seçti.
+18|Evet, sonuçta öğrenci konseyi gece kimsenin\ndolaşmasını yasaklamıştı.
+19|Yani...bunun öğrenci konseyinin suçu\nolduğunu mu söylüyorsun?
+20|Öyle demedim.
+21|Her hâlükârda suçlu bu numara için muhtemelen\ncinayet silahını kullandı.
+22|Heykelden sürgülü kilide ulaşacak doğru\nuzunlukta olması gerekiyordu.
+23|Suçlu laboratuvarımda yeterince uzun bir bıçak\nbulamadı, o yüzden katanayla yetindi.
+24|Diğer heykeller sadece bunun bir tür tören\nolduğunu düşünelim diye asıldı.
+25|Böylece kilit numarasını fark etmeyecektik.
+26|Ama...Kokichi daha önce kilidi maymuncukla\nkapatabileceğini söylemişti.
+28|O ihtimali tamamen göz ardı etmek\nistemiyorum...
+29|...ama suçlunun bütün bunları sırf dikkat\ndağıtmak için yaptığını hayal edemiyorum.
+30|Eğer öyleyse Kokichi'nin daha önceki\nitirafı aslında...
+31|Cidden mi!? Yine mi yalan söyledin lan!?
+32|Söyle bakalım, Kokichi!
+33|Off yaaa, beni yakaladınız...\nTamaaaam, suçlu ben değilim...
+34|Bu sefer doğruyu söylüyorsun, değil mi?
+35|Yalan söylüyorum demek isterdim ama değil.
+36|Neden suçlu olduğunu söyledin?
+37|...Suçluyu ortaya çıkarmak istedim.
+38|Suçlu olduğumu iddia edersem *gerçek* suçlu\nda katılırdı, anlıyor musun?

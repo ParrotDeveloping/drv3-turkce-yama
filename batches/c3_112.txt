@@ -1,0 +1,59 @@
+@ chap3_text_US
+## c03_301_332
+34|...Bu senin gibi bir korkağın söyleyeceği\nbir şey değil.
+35|K-Kes sesini... Beni rahat bırak.
+36|Ama...bu davanın bana öğrettiği\nbir şey var.
+37|Bizi gözetleyen bir tanrı olduğunu\ndüşünüyordum ama...
+38|Sonuçta yokmuş...\nEn azından bu akademide yok...
+39|Evet...haklısın.
+40|Eh...bu yüzden birlikte çalışmamız lazım,\ndeğil mi? Birlikte yüzleşmeliyiz.
+41|Ultimate yeteneklerimiz sahip olduğumuz\nen iyi silahlar.
+42|O zaman Gonta herkesi güvende tutmak için elinden\ngeleni yapacak! Gonta herkesi korumak istiyor!
+43|Ama...senin yeteneğin böcekbilim...
+44|Shuichi'nin artık Ultimate yeteneğini kullanmasını\nistemiyorum. Sınıf Duruşmalarından bıktım.
+45|Ah, evet...haklısın.
+46|Hey! Senin suikastçı yeteneğin çok daha\nbaşbelası! Onu ne zaman kullanacaksın, ha?
+48|...Herkes Ultimate yeteneğime güvenene kadar\nçok çalışacağım.
+50|Şimdi mümkün olmayabilir ama herkes bana\ngüvenebilsin diye çaba göstereceğim.
+51|Ben...artık kaçmayacağım... Hayatta kalıp\nherkesle birlikte buradan kaçmak istiyorum.
+52|<CLT=cltMIND>Maki...
+53|Anlıyoruuum...Acaba bu ne kadar sürecek.\nYa gerçek katil doğan ortaya çıkarsa?
+54|Onu hafife alma!\nMaki Rulo benim yardımcılarımdan biri!
+55|Senin yardımcın olduğumu hatırlamıyorum. Ayrıca\nbana Maki Rulo demeyi kes demedim mi?
+56|Ooohhh, artık çok yakınsınız.\nBu dostluğun güçlü bağı olmalı.
+57|Ama bunun daha erken olmasını tercih ederdim.\nÖzellikle de yedi kişiyi kaybettikten sonra değil.
+58|H-Haklısın...\nArtık sadece dokuz kişi kaldı.
+59|Bak sen şu işe?\nSalak *da* basit matematik yapabiliyormuş!
+60|Doğru, yedi bok parçası sifonu çekilip gitti\nve sadece dokuzu kaldı.
+61|O hesaba göre... Sen de o parçalardan\nbiri olmuyor musun?
+62|Sadece...dokuzumuz.
+63|İnsanlar yabani ot gibidir—sayılamayacak kadar çok.\nYedimizin ölmesi sonuçta pek bir şey ifade etmez.
+64|...Kalpsiz robot kesinlikle bunu düşünüyor!\nDeğil mi, değil miii!?
+65|Hayır, bunu düşünmüyorum! Bu bariz\nrobotfobin kesinlikle affedilemez!
+66|Ama hey...\nHiçbirimiz pes etmedik, değil mi?
+67|Hepimizin kaçacağını biliyorum! Ne bir tanrıya,\nne ruhlara, ne de ölülere güveneceğim.
+68|Sadece size!\nHepinize inanıyorum!
+70|Haklısın! Geride kalan bizler yeniden\nbaşlayabiliriz!
+71|Dur bir dakika! Kee-çocuk bütün o öğrenci\nkonseyi olayı için herkesten özür dilemeli.
+72|Ve kabul etmeye razı olduğum tek bir\nözür türü var...
+73|Kafanı kopar ve bütün gücünle yere\nçarp, anladın mı!?
+74|Bu kadar yoğun bir özür biçimini hiç\nduymadım!
+75|<CLT=cltMIND>Görünüşe göre...şimdilik her şey\nhalloldu.
+76|<CLT=cltMIND>Onu özlesek de...
+78|Himiko... İyi misin?
+79|Gonta'nın yardım edebileceği bir şey var mı?\nGonta'ya söyleyebilirsin.
+80|Bence...şimdilik ona biraz alan tanımalıyız.\nOnun için en iyisi bu olabilir.
+81|...Nasıl hissettiğimi hatırlıyorum...
+82|Oh... Gonta anlıyor.
+84|Tanrım, Himiko ne yalancı!
+86|Şahsen yalanların pek de kötü bir şey\nolduğunu düşünmüyorum...
+87|Kabul edelim, dünya sadece gerçekten oluşsaydı\nhiç özgür iraden olmazdı.
+88|Ama yine de...kendine yalan söylemenin iyi\nolduğunu düşünmüyorum, biliyor musun?
+90|Ne diyorsun sen!? Biraz Himiko'nun\nduygularını düşün-
+91|Bunu düşündüğüm *için* söyledim.
+92|Himiko kendi duyguları hakkında kendine yalan\nsöylüyor, bu yüzden kendini tutuyor.
+93|Hey, neyi bastırıyorsun?\nKendini tutmak için neden bu kadar uğraşıyorsun?
+94|<CLT=cltMIND>...Ne? Kendini tutmak mı?
+103|I.. Iıı...
+104|Uuuuuuuvaaaaaaaaaah!
+105|Tenko...Angie!\nÇok yalnızım!

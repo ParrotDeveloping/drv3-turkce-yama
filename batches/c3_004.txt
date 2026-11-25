@@ -1,0 +1,51 @@
+@ chap3_text_US
+## c03_000_260
+7|<CLT=cltMIND>Dedikleri gibi...\nrögar kapağının üstüne moloz yığılmış.
+8|<CLT=cltMIND>Girebileceğimi sanmıyorum...
+9|<CLT=cltMIND>Bütün bunları kaldıracak kadar güçlü\ntek kişi Gonta olurdu.
+## c03_000_261
+5|<CLT=cltMIND>İki Sınıf Duruşması'nı atlattık ama\ndurumumuz değişmiş değil.
+6|<CLT=cltMIND>Tek yaptığımız...daha çok arkadaş kaybetmek oldu.
+7|<CLT=cltMIND>Hâlâ ne yapacağımızı bilmiyoruz...\nHâlâ nereye gideceğimizi bilmiyoruz...
+## c03_000_281
+1|<CLT=cltMIND>Bu imadan pek hoşlandığımı söyleyemem...
+## c03_000_353
+8|<CLT=cltMIND>Burada olabildiğince göze batacak\nşekilde "ÇIKIŞ" yazıyor.
+## c03_001_150
+0|<CLT=cltSYSTEM>Şu an gördüğünüz, olay yerindeki kameramızdan\ngökyüzünün canlı görüntüleri!
+1|<CLT=cltSYSTEM>Yağan meteorları açıkça\ngörebilirsiniz!
+2|<CLT=cltSYSTEM>Dünyanın sonu gibi görünen bir şeye\ntanık oluyoruz!
+3|<CLT=cltSYSTEM>Bu bir film değil! Tekrar ediyorum, bu bir film\nDEĞİL! Bunlar canlı, kurgulanmamış görüntüler!
+4|<CLT=cltSYSTEM>Bu gerçek! Gökyüzü gözlerimizin önünde\nçöküyor!
+5|<CLT=cltSYSTEM>Hükümetin resmen olağanüstü hâl ilan\nettiği bilgisini yeni aldık!
+6|<CLT=cltSYSTEM>Metro istasyonları sığınak olarak açıldı!
+7|<CLT=cltSYSTEM>Hükümet vatandaşlara sakin kalıp en yakın\nsığınağa tahliye olmalarını söylüyor!
+8|<CLT=cltSYSTEM>Çocuklara ve hastalara öncelik\nverilmeli—
+9|<CLT=cltMIND>İkinci Sınıf Duruşması'nın ertesi günüydü.
+10|<CLT=cltMIND>Hepimiz okul binasının 3. katındaki\nMaki'nin laboratuvarına gittik.
+11|<CLT=cltMIND>Ve orada bizi...\nbeklenmedik bir manzara bekliyordu.
+12|N-Ne bu böyle?
+13|Sanki...silah deposu.
+14|Gördünüz mü, size onun <CLT=cltSTRONG>Ultimate Çocuk\nBakıcısı<CLT=cltNORMAL> olmadığını söylemiştim...
+15|O <CLT=cltSTRONG>Ultimate Suikastçı<CLT=cltNORMAL>.
+16|<CLT=cltMIND>Maki...<CLT=cltSTRONG>Ultimate Suikastçı<CLT=cltMIND> mı?
+17|Kokichi...bunu <CLT=cltSTRONG>motif videosundan<CLT=cltNORMAL>\nöğrendin, değil mi?
+18|Monokuma her <CLT=cltSTRONG>videonun<CLT=cltNORMAL> başında herkesin\n<CLT=cltSTRONG>Ultimate yeteneğini<CLT=cltNORMAL> söylüyordu.
+19|Ryoma, Maki'nin gerçek kimliğini biliyordu çünkü\nonun <CLT=cltSTRONG>motif videosu<CLT=cltNORMAL> ondaydı...
+20|Ve sen de onu gördüğün için—
+21|Hm? Baştan beri biliyordum. Konumum gereği\nherkesten önce bileceğim belli, değil mi?
+22|"Konumun" mu?
+23|Ah...kafana takma. O bir yalandı.
+24|Neyse, dünkü tepkisi <CLT=cltSTRONG>Ultimate Suikastçı<CLT=cltNORMAL>\nolduğunu neredeyse ele verdi.
+28|Ama neden <CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>\nolduğu konusunda yalan söyledi ki?
+29|Çünkü suikastçılar bütün öldürme işlerini\nsaklanarak yapar!
+30|İnsanlar suikastçı olduklarını öğrenirse temkinli\ndavranır ve kimseyi öldüremezler!
+31|Gerçek kimliğini...bizi öldürmeyi planladığı\niçin mi sakladı?
+32|Ama o zaman neden henüz kimseyi öldürmedi?\nBunun için pek çok fırsatı oldu.
+33|Tanrım, robotlar insan duygularını, hele bir\nkızın kalbini hiç anlayamaz.
+34|Lütfen az önce söylediğini geri al.\nBen de insan duygularını anlayabiliyorum.
+35|Ama hâlâ veri topluyorum.\nLütfen, bana veri verin! Lütfen!
+36|Bu kadar endişeliysen neden ona sormuyorsun?\nBütün gün odasına kapanmış.
+37|Ama bana yapmaya çalıştığı gibi seni de\nöldürmeye çalışmayacağının garantisini veremem.
+38|Nişişi... İyi ki herkes onu durdurmak için\noradaydı ama bir dahaki sefere ne olacak?
+39|Uyuyan tanrıları uyandırmamak en iyisi.

@@ -1,0 +1,42 @@
+@ chap3_text_US
+## c03_002_138
+80|<CLT=cltMIND>Her zamanki sessiz hâlinin aksine Kiyo bağırdı\nve telaşlı bir ifadeyle yanıma koştu.
+81|<CLT=cltMIND>Sakin, dikkatli ellerle kitabı vitrininden\naldı.
+82|Gerçekten *o*... N-Ne kadar inanılmaz!\nGerçekten gerçek!
+83|O kitap ne, Kiyo?
+84|O...son derece değerli bir belge.
+85|Bu kitap, uzun zaman önce yok edildiği söylenen efsanevi\n<CLT=cltSTRONG>Kafesli Köpek Köyü<CLT=cltNORMAL>'nün tarihi.
+86|"Kafesli Köpek Köyü" mü?
+87|<CLT=cltSTRONG>Kafesli Köpek Köyü<CLT=cltNORMAL> pek çok kara sanat ve\nbüyü kullanmasıyla ün salmıştı...
+88|Köy, güçlerinden korkan bir derebeyinin\neliyle yok edildi...
+89|Ama bir kız—tek hayatta kalan—hayatını\nriske atarak bu kitabı yazdı.
+90|Yani...bunların hepsi onun el yazısı.
+91|Bu kitap, onun derin kiniyle yoğrulmuş son\nderece değerli, eşsiz bir kalıntı.
+92|Eşsiz mi?\nBu *gerçekten* değerli...
+93|Üstelik bu kitabın böyle bir <CLT=cltSTRONG>ünü<CLT=cltNORMAL> olduğu\niçin çok az kopyası var.
+94|O kopyalardan birini edinecek kadar şanslı\nolduğum için onu çoktan ezberledim.
+95|Kehehe... Ama gerçeğini göreceğimi hiç\ndüşünmemiştim... Ne kader cilvesi.
+96|Ah, Kiyo...<CLT=cltSTRONG>ün<CLT=cltNORMAL> derken ne demek istedin?
+97|Söylentiye göre bu kitapta yazılı büyüler ve\nkara sanatlar son derece güçlü...
+98|Bilim ve teknoloji dünyasında yaşayan\ninsanların kavrayışını aşıyorlar.
+99|Bu yüzden...karanlığa gömüldü.\nBütün Kafesli Köpek Köyü ile birlikte.
+100|Ama görünüşe göre bunlar sadece söylenti\ndeğilmiş. Bu kitaptan sızan gücü hissedebiliyorum.
+101|Köyü yok edilmiş bir kızın derinlere\nkök salmış kini...her harfe işlemiş...
+102|<CLT=cltMIND>...Bu tuhaflaşıyor.\nSanırım konuşmayı...bitirmeliyim.
+105|Kehehe... Onu burada bulacağımı hiç hayal\netmemiştim.
+107|Gerçeğini göreceğimi hiç düşünmemiştim...\nNe kader cilvesi.
+108|Kehehe... Bu kitaptan sızan gücü\nhissedebiliyorum.
+110|<CLT=cltMIND>Öğrendiğim tek şey bu laboratuvar hakkında\nhiçbir şey öğrenmediğim gibi geliyor.
+111|Bu arada, Shuichi... Ölülerin seslerine\nkulak vermek ister misin?
+112|...Neye?
+113|<CLT=cltSTRONG>Kafesli Köpek Köyü belgeleri<CLT=cltNORMAL> o köye özgü\npek çok kara sanat içeriyor.
+114|Hepsinin arasında en ilginç bulduğum\n"<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>" adlı bir ruh çağırma seansı...
+115|Hatta şuradaki ahşap köpek heykeli ve demir\nkafes tam da bu seansta kullanılmak için.
+116|Kehehe... Var olduğunu keşfetmek yeterince\nşaşırtıcı ama gerçekten önümde olması...
+117|Ee...denemek ister misin? <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> ile\nölülerle konuşalım mı?
+118|Ah...hayır, teşekkürler.\nOkültizme hiç ilgim yok...
+119|Hadi ama... Onu basitçe okültizm diye\ngeçiştirmemelisin...
+120|Okült dediğin bazı konular antropoloji için\nson derece önemlidir.
+121|Anlamadığın şeyleri okültizm diye geçiştirmek\nbütün kültürlere hakarettir, değil mi?
+122|Ah, evet ama <CLT=cltSTRONG>ölülerle konuşmak<CLT=cltNORMAL>—
+123|Hiç ölülerle konuşmak istemedin\nmi?

@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_006_007
+125|Ama belki de kullanması değil, görmezden\ngelmesi tehlikeli bir <CLT=cltSTRONG>motiftir<CLT=cltNORMAL>.
+126|Mesela belki ölenler aslında\nhayattadır...
+127|Ve ritüeli yapmazsak belki bu sefer\nkesin olarak öldürülürler?
+128|Hm, hayatta kalma ihtimali olan dört kişinin\nölmesine izin verirsek sorun olur.
+129|Nyahaha. Bunu bize söylediğin için çok akıllısın,\nGonta. O dört kişinin kurtarıcısısın.
+131|<CLT=cltMIND>Angie her zamanki kocaman gülümsemesiyle\nGonta'ya yaklaştı ve...
+132|Hmmmmmm...
+133|...Ak!
+134|Çok çalışıyorsun, Gonta. Her zaman herkesi\ngüvende tutmaya çalışıyorsun.
+135|Kendini kaybettiğinde bile herkesi\ndüşünüyorsun, değil mi?
+136|Bunu biliyorum...çünkü Atua seni hep\ngözetliyor.
+137|H-Hep...Gonta'yı...gözetliyor mu?
+138|...Merak etme. Yalnız değilsin, Gonta.
+139|Atua seni gözetleyip güvende tutan nazik\nbir büyükanne gibi.
+140|Büyükanneler...iyidir...
+141|Nazik büyükanne mi? Atua'nın yakışıklı bir\nadam olduğunu söylediğini sanıyordum?
+142|Angie'nin Atua'sı kimin baktığına göre\ngörünüşünü değiştiriyor.
+143|Eh, bu hiç de şüpheli derecede işine\ngelmiyor tabii.
+144|Ah evet. Neden <CLT=cltSTRONG>öğrenci konseyimize<CLT=cltNORMAL>\nkatılmıyorsun, Gonta?
+145|Evet! <CLT=cltSTRONG>Öğrenci konseyinin<CLT=cltNORMAL> bir parçası olsan\nçok içimiz rahat ederdi, Gonta!
+146|Mhm...gücünü akademinin barışı için\nkullanacaksın.
+147|Nyahaha! Herkesin sana ne kadar ihtiyacı\nolduğunu görüyor musun, Gonta? Kesinlikle katılmalısın.
+148|...Gonta'ya ihtiyacınız mı var?
+149|Tamam! Gonta da <CLT=cltSTRONG>öğrenci konseyine<CLT=cltNORMAL> katılacak!
+150|D-Dur, bütün bunlardan önce, bu "<CLT=cltSTRONG>öğrenci\nkonseyi<CLT=cltNORMAL>" tam olarak ne?
+151|Bu yüzden mi tuhaf davranıyorsunuz—
+152|Dün gece Angie öldürme oyununu nasıl yok\nedebileceğimizi konuşmak için bizi çağırdı.
+153|Ben, Keebo...Tenko ve Tsumugi.
+154|Ve bir sonuca vardık!
+155|Bu, <CLT=cltSTRONG>başkanımız<CLT=cltNORMAL> Angie Yonaga ile\n<CLT=cltSTRONG>Ultimate Akademisi Öğrenci Konseyi<CLT=cltNORMAL>!
+156|...Ultimate Akademisi Öğrenci Konseyi mi?
+157|Hepimiz Başkan Angie'nin liderliği altında\nbir araya geldik!
+158|Programımız...öldürme oyununun topyekûn\nyok edilmesi.
+159|Nyeh... Öğrenci konseyimiz öldürme oyunundan\narınmış bir Ultimate Akademisi vaat ediyor.
+160|Öğrenci konseyi... Ve başkan Angie mi?
+161|Evet, farklı şeyler söyleyip durursak\naramızda uyum olamaz.
+162|Ah, kes sesini!
+164|Eh, adı öğrenci konseyi ama bütün kararları\nAtua veriyor.
+165|Ama Angie, Atua ile konuşabildiği için konseye\nliderlik etmeye layık tek kişi o.
+166|Nyeh...doğru.
+167|Evet, ben de Angie'yi takip edeceğim.
+168|Nyahahaha! Teşekkürler, herkes!\nAtua da mutlu!
+169|Ah tanrım, beyinleri tamamen yıkanmış.
+170|Kehehe... Angie biz fark etmeden etkisini\nyaymış bile.
+171|Ama düşününce mantıklı. Burada bir tarikatın\noluşması için bütün şartlar var.
+172|Kaçınılamayan bir ölümün korkusu...\nTarikatlar ondan kaçma arzusundan doğar.
+173|Yani bu durumu okulu ele geçirip bizi\n"Atua"ya bağımlı yapmak için kullanıyor.
+174|"Kullanmak" bunu tarif etmenin kaba bir yolu.
+175|Başkan bu okulun barışını istiyor, biz de\nhepimiz onun yüce bilgeliğine katılıyoruz.
+176|Evet! Gonta kimsenin öğrenci konseyi hakkında\nkötü konuşmasına izin vermeyecek!
+177|Daha yeni katıldın lan, seni beyni\nyıkanmış aptal!
+178|Ama...Tenko'nun öğrenci konseyine katılmaya\nkarar vermesine şaşırdım.

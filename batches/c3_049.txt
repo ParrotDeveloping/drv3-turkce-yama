@@ -1,0 +1,47 @@
+@ chap3_text_US
+## c03_100_157
+231|Laboratuvarındaki altın varaklı katana\ncinayet silahı olabilirdi...
+232|O odayı ipuçları için araştırmalıyız.
+233|Ş-Şey...bunu söylemek doğru mu emin\ndeğilim ama...
+234|Suçlu...Tenko olabilir mi?
+235|Ha? Tenko mu?
+236|Ah, kanıtım falan yok ama az önce\nHimiko'nun şunu söylediğini duydum...
+237|Tenko'nun...öğrenci konseyine ihanet\netmeye çalıştığını.
+238|Yani Tenko'dan mı şüpheleniyorsun?
+239|Çünkü...öğrenci konseyi üyesi olarak bu\nlaboratuvara girmesine izin verilirdi...
+240|Doğru. Angie öğrenci konseyi üyelerinin\nlaboratuvarına girmesine izin veriyordu...
+241|Evet... Angie dünden beri ritüel üzerinde tek\nbaşına çalışmak için buraya kapanmıştı...
+242|Kapıyı sadece bir öğrenci konseyi üyesinin\nsesini duyarsa açacağını söylemişti.
+243|Bu kesinlikle Tenko'yu işaret ederdi. Sonuçta\nöğrenci konseyine ihanet etti.
+244|T-Tenko'dan şüphelenmek istediğimden değil ama...
+245|Buraya sadece öğrenci konseyi üyeleri\nalınacağına göre...
+246|<CLT=cltMIND>Demek Angie sadece öğrenci konseyi\nüyelerini içeri alıyordu...
+247|<CLT=cltMIND>Onlar da Gonta, Keebo, Himiko,\nTenko ve Tsumugi.
+248|<CLT=cltMIND>O grup içinde...en şüpheli olan\nkesinlikle Tenko.
+249|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Tsumugi'nin İfadesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+252|Ve...Tenko öğrenci konseyi üyesi olduğu\niçin buraya girmesine izin verilirdi.
+259|Hah-hahaha! Bu dolgun, zeki güzel her\nşeyi çözdü!
+260|Ha? Yani suçlunun kim olduğunu\nbiliyor musun?
+261|Ha!? Suçlu mu!? Siktir et onu!
+262|Shuichi...onu dinleyecek vaktimiz\ngerçekten var mı?
+263|H-Hey, dur! Dur, lanet olsun! Dahiyane fikrimi\nöylece görmezden mi geleceksiniz!?
+264|Sadece beni dinleyin, tamam mı?\nHadi, beni dinleyin... Dinleyin...
+265|Ah, tamam...
+266|Madem kolumu büküyorsunuz söyleyeyim!\nBunun için bana teşekkür etseniz iyi olur!
+268|Hepinizin pirelerden daha aptal olduğunu biliyorum\nama bu balmumu bebeklerin ne kadar tuhaf olduğunu siz bile anlarsınız, değil mi?
+269|<CLT=cltMIND>Gerçekten tuhaflar. Ritüel için mi yoksa\nbaşka bir amaç için mi...?
+270|Ama ben tek bakışta çözdüm.\nBunlar <CLT=cltSTRONG>dikkat dağıtıcı<CLT=cltNORMAL>!
+271|Dikkat dağıtıcı mı?
+272|Evet! Suçlu bu balmumu bebekleri dikkatimizi\nbir şeyden dağıtmak için kullandı!
+273|...Ne demek istiyorsun?
+274|N-Nereden bileyim!? Bu Sherlock Hıyar'ın\nişi değil mi?
+275|...Vakit kaybısın.
+276|<CLT=cltMIND>Maki dönüp uzaklaştı.\nOnu suçladığımı söyleyemem.
+277|...Ha? Onun derdi ne lan?\nAdet falan mı görüyor?
+278|Demek bu balmumu bebekleri Angie yaptı, ha?\nBenzerlik epey tekinsiz.
+279|Şeytan ayrıntıda gizlidir derler, bilirsin.\nHadi ne kadar ayrıntılı olduklarına bakalım!
+280|H-Hey!
+281|<CLT=cltMIND>Miu balmumu figürün eteğinin altına\nbakmaya çalıştı...
+282|N-Ne yapıyorsun!? Kes şunu!
+283|Hiiiiii!
+284|N-Ne? Sadece bu bebeğin külot giyip\ngiymediğini görmek istedim...

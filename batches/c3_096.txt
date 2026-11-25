@@ -1,0 +1,61 @@
+@ chap3_text_US
+## c03_231_000
+15|Hayır, kesinlikle tıpatıp aynısını çizdim.\nKusursuzca ezberledim.
+16|Ş-Şey...hangisi o zaman?\nKontrol etmenin bir yolu var mı?
+17|Artık yok. Büyü çemberi çiğnenmekten\ntamamen darmadağın oldu.
+18|<CLT=cltMIND>Anlıyorum... Yapbozun bir parçası\ndaha.
+19|<CLT=cltMIND>Çemberi tuzla çizmek geçici olacağını\nneredeyse garantiledi.
+20|<CLT=cltMIND>Soruşturmanın kendisi delili ortadan\nkaldıracaktı. Zekice.
+21|Herkes, dikkatinizi rica edebilir miyim?
+22|Hmm...ne baş belası.\nŞu an kontrol etmenin hiçbir yolu yok...
+23|A-Affedersiniz, herkes. Dikkatinizi rica\nedebilir miyim!?
+24|Neyse, sanırım artık büyü çemberini\ntartışmanın anlamı yok!
+25|Hey! Dikkatinizi rica edebilir miyim!?
+26|Ahh! Kes şunu dedim!\nFazla parlak!
+27|Özür dilerim... Sadece herkesin beni\ndinlemesini istedim.
+28|Ne hakkında?
+29|El fenerine ek olarak Miu'ya vücuduma\nbaşka bir özellik daha ekletmiştim.
+30|Ne...!? Olamaz...\nGerçekten mi...?
+31|D-Dur! Yapamazsın! Onu bu amaç için\nyüklemedim—
+32|Lütfen, kullanmama izin ver! Onunla herkesi\nkurtarabilirim belki!
+33|Pekala, peki...bu özellik ne?
+34|...Bu bir <CLT=cltSTRONG>görüntü kaydetme özelliği<CLT=cltNORMAL>.
+35|Ha? Görüntü kaydetme mi!?
+36|Daha doğrusu bu özellik kendi hafızamın\nbir çıktısını vermemi sağlıyor...
+37|...Bir deneyeceğim.
+38|...Hazır mısınız?
+39|<CLT=cltSYSTEM>*vızzzzzz*
+40|Ağzından mı!?
+41|Ben de...daha önce öyle bir büyü kullanmıştım.
+42|Bu çıktı, seanstan kovulduğum ana\ndair hafızam.
+43|Lütfen boş odanın zemininin açıkça\ngörüldüğünü doğrulayın.
+44|Hadi! Resmi al da kendin gör!
+45|Ah, t-tamam. Anladım.
+46|<CLT=cltMIND>İsteksizce kâğıdı Keebo'nun\nağzından aldım.
+47|<CLT=cltMIND>Demek seansta kullanılan büyü\nçemberi bu...
+48|Ee, Shuichi?\nBir şey fark ettin mi?
+49|<CLT=cltMIND>Bir şey fark etmek...
+50|Ah, hm. Bence buradaki bu alanda bir\ntuhaflık var.
+51|Hm? Görebildiğim kadarıyla belgedeki\nçizimle aynı görünüyor.
+52|Suçlunun köşeden nasıl hareket ettiğini bulmaya\nçalıştığımıza göre belki oraya bakmalısın?
+54|Kafesin konduğu alan\nşüpheli...
+55|Büyü çemberinin ortasına dikkat etmenin\ngerçekten bir anlamı var mı?
+56|Ortadan çok odanın köşelerine odaklanmamız\nlazım, değil mi?
+58|Ortadaki bu alan boş...
+59|Bu sadece çemberin ortasına giden yol değil\nmi? Belgede de aynı şekilde çizilmiş.
+62|...Ee, Shuichi?
+63|Yeni özelliğim işe yaradı mı...?
+65|Büyü çemberinin hangi kısmı en\nşüpheli?
+66|Bu çok işe yaradı, Keebo.\nSen olmasaydın...
+67|...<CLT=cltSTRONG>Kiyo'nun yalanını<CLT=cltNORMAL> asla\nfark edemezdim.
+68|Benim yalanım mı...?
+69|Az önce büyü çemberini tam olarak belgede\ngöründüğü gibi çizdiğini söyledin.
+70|Ama bu bir yalan, değil mi?
+71|Olay yerindeki büyü çemberinde <CLT=cltSTRONG>odanın\nköşelerine uzanan çizgiler<CLT=cltNORMAL> vardı.
+72|Bu da döşeme tahtasını odanın her yerinden\nbulabileceğin anlamına geliyor.
+73|Yani sonuçta belgedekinden farklıymış!
+74|Hepsi Himiko fark ettiği için!\nVe...Keebo sayesinde de!
+75|Hey, bana teşekkür nerede!? O özelliği\nKeebo'ya yükleyen benim!
+76|Hey, evet. Amacı hakkında ne\ndiyordun?
+77|O-Oh... Açıkçası o görüntü kaydetme\nözelliğinin amacı sağlığımı takip etmek...
+78|Daha doğrusu Keebo'ya her gün o özelliği\nkullandırıp...*iç çeker*...kakamı analiz ettiriyorum...

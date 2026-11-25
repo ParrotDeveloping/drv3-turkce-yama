@@ -1,0 +1,47 @@
+@ chap3_text_US
+## c03_011_010
+176|Ne kadar takdire şayansın!\nBu yüzden seni desteklemek istiyorum!
+177|Ah dur, bu bir yalan!
+179|Şimdi aklıma geldi, bir zamanlar yine bir ölüm\noyunu hakkında bir anime izlemiştim...
+180|Elebaşı öldürmeyi başlatmak için ilk kurban\nolarak bir aile üyesini feda etmişti.
+181|Bir aile üyesini mi feda etmiş?\nYani...öldürmüş mü?
+182|Evet, güç gösterisi olarak. Belki Rantaro'nun\nbaşına da bu gelmiştir...
+183|Ya Rantaro elebaşı için çalışıyorduysa?\nOnu geri getirmek kötü bir fikir olabilir.
+184|H-Hayır, bu aptalca! Rantaro elebaşı için\nçalışıyor olamazdı...
+185|<CLT=cltMIND>Ama...gerçekten imkânsız mı?
+186|<CLT=cltMIND>Rantaro'yu sadece kısa bir süre\ntanıdık.
+187|<CLT=cltMIND>Öldürme oyununa biraz <CLT=cltSTRONG>alışkın<CLT=cltMIND>\ngibi görünüyordu.
+188|Nişişi... Görünüşe göre ne demek istediğimi\nanlamaya başlıyorsun, Shuichi.
+189|Eh, ne dersek diyelim Angie muhtemelen <CLT=cltSTRONG>nakil\nöğrencinin<CLT=cltNORMAL> kim olacağı konusunda kararını vermiştir...
+190|Hayata dönerse o kadar! Dört gözle\nbeklemekten başka yapacak bir şey yok!
+194|Bir tanrıya güvenmek kaçınılmazdır...\nAma bağımlılık sorunludur.
+195|Bağımlılık yozlaşmış bir zihnin özelliğidir.\nGerçekten güvenebileceğimiz tek şey...
+196|...aşktır!
+197|Böyle ürkütücü şeyler söyleyen erkekler, seninle\nkonuşmayı kesmeyen iş arkadaşlarından da beter.
+198|<CLT=cltMIND>O kavga neyle ilgiliydi?\nKaito'dan duymalıyım...
+199|Kendilerine öğrenci konseyi diyorlar ama\ngörünüşe göre bütün kararları "<CLT=cltSTRONG>Atua<CLT=cltNORMAL>" veriyor.
+200|Yani zaten öğrencilerin isteklerini pek\numursamıyorlar.
+201|Şu an kimse Angie'ye karşı gelemez.\nAma daha da endişe verici olan...
+202|Müritleri onun adını bahane ederek kendi\nbaşlarına hareket etmeye başlayabilir.
+203|...Bu da bir bakış açısı.
+204|Ha? Asık Surat Kaltak ile Ucube Gösterisi\nşimdi de anlayışlı mı olmaya başladı!?
+205|Şey, ıı, yani...ne demeye çalıştığınızı\nanlıyorum...
+206|Ama şu dangalak Kaito hiç takip\netmiyor! Ona açıklayın!
+209|Hâlâ dalıp gitmiş.
+210|<CLT=cltMIND>Öyle görünüyor... Miu'nun ona sataşmasına\nbile tepki vermedi.
+211|Neyse, şimdilik o acınası rezilliği\nbir kenara bırakalım...
+212|Şu aptal kaltakçıkla inek memelerine\nher şeyi açıklayın.
+213|Ihh... Bana hakaret etti!
+214|...Böyle bir durum mutlak liderleri olan\ngruplarda yaygındır.
+215|Liderlerinin gözüne girmek için...\nYa da inançları için kendilerini feda etmek için...
+216|Müritler daha radikal eylemlere\ngirişmeye başlar.
+217|Yani...Angie'nin hükmünü daha rahat hâle\ngetirmek için bize baskı yapabilirler.
+218|Ha? Bize hükmetmek mi?
+219|B-Bu ileride bir sorun\nolabilir...
+220|Eh, bununla başlayacaklarından şüpheliyim...\nAma bu sadece zaman meselesi.
+221|Şu an kimse Angie'ye karşı gelemez ama\ndaha da endişe verici olan...
+222|Müritlerinin onun iradesiyle hareket etmeye\nbaşlaması.
+224|Bunu öldürme oyununu yok edip bu okula\nbarış getirmek için yapıyoruz.
+225|Sen de bunu istiyorsun, değil mi Shuichi?
+226|En önemli şey akademideki barış.\nBizim çalıştığımız şey bu.
+227|Bu sizin iyiliğiniz için de, biliyorsun değil mi?

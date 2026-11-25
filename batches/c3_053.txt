@@ -1,0 +1,50 @@
+@ chap3_text_US
+## c03_100_157
+449|Öyle bile olsa...balmumu heykele neden\nbir silah saplanmış?
+450|Hem de asılı bir balmumu heykele...
+451|Ritüelin bir parçası mıydı? Yoksa suçlu cinayet\nsilahını saklamaya mı çalışıyordu?
+452|Belki saklamaya hiç niyetleri yoktu.\nKanı bile silmemişler.
+453|Hem eminim cinayet silahını saklamanın bundan\ndaha iyi yolları vardır...
+454|O zaman...bunun sebebi ne?
+455|Açıkçası...hiçbir fikrim yok.
+457|Bu silahın nereden geldiğini araştırmalıyız.\nOrada bir ipucu bulabiliriz.
+458|<CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL> laboratuvarı mı?\nEvet, öyle yapalım.
+459|Katananın gerçekten o odadan geldiğinden\nemin olmak istiyorum.
+460|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Altın Varaklı Katana<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+461|<CLT=cltMIND>Kaede'nin heykeline bir katana saplanmış.
+462|<CLT=cltMIND>Muhtemelen <CLT=cltSTRONG>Kiyo'nun<CLT=cltMIND> laboratuvarında\nsergilenen katananın aynısı.
+463|<CLT=cltMIND>Ucundaki kan bunun cinayet silahı\nolduğunu gösteriyor.
+464|<CLT=cltMIND>Bıçak paslı ve kör ama hâlâ etkili\nbir şekilde saplanabilir.
+465|<CLT=cltMIND>Ama neden özellikle bu silahı kullanmışlar?
+466|<CLT=cltMIND>Maki'nin laboratuvarına gitselerdi istedikleri\nsilahı seçebilirlerdi.
+467|<CLT=cltMIND><CLT=cltSTRONG>Kiyo'nun<CLT=cltMIND> laboratuvarı yakın olduğu için\nmi kolaylık olsun diye onu seçtiler?
+468|<CLT=cltMIND>Yoksa Maki'nin dediği gibi mi?\nUzun bir silaha mı ihtiyaçları vardı?
+469|<CLT=cltMIND>Ama her hâlükârda cinayetten sonra silahı\nneden heykele saplasınlar?
+470|<CLT=cltMIND>Bunun silahı saklamak için yapıldığını hayal\nedemiyorum. Neden öyle yaptılar?
+472|<CLT=cltMIND>Bu aşamada çözmem gereken hâlâ\nbir sürü gizem var.
+473|<CLT=cltMIND>Cinayet silahının asıl yerine,\n<CLT=cltSTRONG>Kiyo<CLT=cltMIND>'nun laboratuvarına gitmeliyim.
+474|<CLT=cltMIND>Orada bir ipucu olabilir.
+475|<CLT=cltMIND>Angie'nin cesedi...\nOdanın ortasında yüzüstü yatıyor.
+476|...Daha yakından bakacak mısın?
+477|E-Evet...öyle planlıyordum...
+478|O zaman acele edip yapalım. Burada vakit\nkaybetmeyi göze alamayız.
+479|<CLT=cltMIND>Maki tereddüt etmedi. Yanımdan geçip\ncesede doğru yürüdü.
+480|<CLT=cltMIND>Cesetlerle hiç sorunu yok.\nSonuçta <CLT=cltSTRONG>Ultimate Suikastçı<CLT=cltMIND>...
+481|Angie'nin cesedi tam olarak Monokuma\nDosyası'nda anlatıldığı gibi görünüyor.
+483|Dikkatimi çeken birkaç ipucu oldu ama\nhenüz bir sonuca varamıyorum.
+484|Bütün delilleri bir arada düşünürsek bu\nbize bir şey söyleyebilir.
+485|Şimdilik soruşturmaya devam edelim.
+487|...Maki, ne oldu?
+488|O kadar önemli değil ama...
+489|...güvenilir olduğun tek zaman bir olay\nyerini soruştururken.
+490|Bu...iltifat mı olmalıydı?
+491|...Kim bilir?
+492|En azından Kaito'dan kesinlikle daha\ngüvenilirsin. O herif işe yaramaz.
+493|<CLT=cltMIND>Neyse...devam edelim.
+494|Yine de...ön kapı ile arka kapının farklı\nkilitleri olması tuhaf...
+499|<CLT=cltMIND>Kilitli demek, ha...
+500|Evet, silindir kilidin anahtarını\nMonoyavrular aldı...
+501|Yani iki kapı da sadece içeriden\nkilitlenebiliyordu.
+502|Ama sadece Kokichi'nin kilit açma becerisini\nhesaba katmazsan, değil mi?
+505|Angie'yi öldürdükten sonra kilidi açma becerisiyle\nkapıyı dışarıdan kilitlemiş olması mümkün.
+509|<CLT=cltMIND>Şüpheli ama bu çözüm biraz\nfazla...uygun görünüyor.

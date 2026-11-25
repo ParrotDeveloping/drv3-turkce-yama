@@ -1,0 +1,52 @@
+@ chap3_text_US
+## c03_006_007
+71|B-Böyle aptalca bir şey söyleme! <CLT=cltSTRONG>Ölüleri\ndiriltmenin<CLT=cltNORMAL> mümkün olmasının imkânı yok!
+72|B-Bu olamaz...
+73|T-Tanrım... B-Bu bilim dışı saçmalık yığınına\nkim inanır ki lan?
+74|Bilimsel değeri yok diye inanmamak...\nsadece bilimsel bir toplumun kibridir.
+75|Bu ritüel...ya da daha doğrusu <CLT=cltSTRONG>diriltme töreni<CLT=cltNORMAL>,\ndünyanın dört bir yanındaki <CLT=cltSTRONG>cenaze törenlerinden<CLT=cltNORMAL> gelir.
+76|Gördünüz mü? Benzerler, değil mi? Ölüleri öbür\ndünyaya göndermek bir tür ritüeldir.
+77|Söylentiler ve efsaneler yoluyla o ritüel\nölüleri bu dünyaya döndürmenin bir yoluna dönüştü.
+78|<CLT=cltMIND>Bir ritüel...
+80|Bundan durmadan bahsettiğine göre bunlara\ngerçekten inanıyorsun herhalde, ha Kiyo?
+81|Kehehe... Ne diyorsun?\nÖlülerin <CLT=cltSTRONG>diriltilmesinin<CLT=cltNORMAL> imkânı yok.
+83|Şüphesiz ölülerin ruhları vardır ama\nhayata geri getirilemezler...
+84|Kırık cam onarılamayacağı gibi ölü et de\neski hâline getirilemez...
+85|Yani ruhlara inanıyorsun ama o ruhların\ndiriltilebileceğine inanmıyor musun?
+86|Kafa karıştırıcı görünüyor ama sorarsak bu\nkonuşmanın sonsuza kadar süreceğini biliyorum...
+87|K-Kiyo bile inanmıyorsa...ölüleri diriltmek\ndiye bir şey yoktur.
+88|Ve bu idealist yoz bile inanamıyorsa hiçbir\nmantıklı kız da inanmaz!
+89|Hmmm, öyle mi düşünüyorsun? Ölülerin hayata\ndönmesini tuhaf bulmuyorum.
+90|Hah-hahaha! Kaçık kaltak sonunda\nkonuşuyor!
+91|Ama ne yazık! Kimse senin saçma\ntarikatınla ilgilenmiyor!
+92|Hayır...dur. Angie'nin ne diyeceğini dinleyelim.
+93|Evet, Angie konuşmakta özgür.
+94|Nyahahaha, söyleyebilir miyim?\nYaşasııın! Tamam, söylüyorum.
+95|Çünkü...Atua bunu istiyor.
+96|<CLT=cltMIND>Bu konuşmayı hiç takip edemiyorum...
+98|Ne oldu, Kaito?\nİyi görünmüyorsun...
+99|H-Hayır...bir şey yok.\nSadece...pek iyi hissetmiyorum.
+100|<CLT=cltMIND>Birdenbire mi?
+101|Ölüleri hayata geri getirmek mi...?\nGonta buna inanamıyor.
+102|Orman ailesi Gonta'ya öğretti...
+103|Doğan her şey ve ölen her şey...\nbüyük bir akışın parçası.
+104|Ve akış asla geri sarılmaz...
+105|Ölen her şey geri gelebilseydi Gonta\nmutlu olurdu...
+106|Ama Gonta bile olan bir şeyi geri almanın\nimkânı olmadığını biliyor...!
+107|Gonta, avluda yazan harfleri biliyorsun,\ndeğil mi?
+108|Evet...ama şimdi biraz farklı.
+109|Gonta buraya gelirken avludaki yazıyı\ngörmeye gitti...
+110|Ve bu sefer daha çok yazı vardı.
+111|Daha çok yazı mı?
+112|Gonta yazının ne demek olduğunu anlayamadı\nama belki...
+113|Belki ölülerden gelen bir mesajdır?
+114|Belki herkes bize "Hey! Hayattayız!" diyen\nbir mesaj bırakmıştır.
+115|Bir mesaj...ölen herkesten mi?
+116|Çünkü buradaki kimse yazmadı, değil mi?\nO zaman başka biri yazmış olmalı, değil mi?
+117|Okulda saklanan bir <CLT=cltSTRONG>ölünün<CLT=cltNORMAL> o mesajı\nyazdığını mı söylüyorsun?
+118|Yani...bu <CLT=cltSTRONG>ölülerden gelen bir\nmesaj<CLT=cltNORMAL> mı?
+119|D-Dur...<CLT=cltSTRONG>ölülerden gelen bir mesaj<CLT=cltNORMAL> mı!?\nBu ne lan...!?
+121|Her hâlükârda bir arkadaşla yeniden\nbuluşmaktan daha ilahi bir şey yoktur.
+122|<CLT=cltMIND>Angie konuşurken Necronomicon'u\nyerden aldı.
+123|Angie...onunla ne yapmayı\nplanlıyorsun?
+124|Ritüeli...gerçekten yapmayı mı planlıyorsun?\nBunun bir <CLT=cltSTRONG>motif<CLT=cltNORMAL> olduğunu biliyorsun, değil mi?

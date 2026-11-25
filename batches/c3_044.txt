@@ -1,0 +1,63 @@
+@ chap3_text_US
+## c03_017_101
+23|...Daha *yeni* uyandım.\nAnons bir dakika önceydi.
+24|*Onunla* mı uyanıyorsun?
+25|O anonsu çalar saat olarak kullanırsan\nburaya alışmaya başlarsın.
+26|Eh, sanırım doğru...
+27|Neyse. Hadi gidip ritüeli durduralım.
+29|Maki Rulo'dan duydum. Görünüşe göre Angie\nritüeli yapacak.
+30|Maki Rulo mu...? Bana böyle tuhaf bir lakap\ntakma.
+31|Kaito'yu sen mi getirdin, Maki?
+32|...Tuhaf mı? Doğrudan yaklaşım işe yaramazsa\ndiye bir yedek plana ihtiyacımız var.
+33|Pek de...doğrudan olmayan bir yaklaşım için\nKaito'dan daha iyisi kim olabilir?
+34|Ama Kaito...iyi misin?
+35|Heh, benim için endişelenecek vaktimiz\nyok.
+36|Şu saçma "<CLT=cltSTRONG>ölüleri diriltme<CLT=cltNORMAL>" saçmalığını\ndurdurmamız lazım...
+37|Ve sonra...sonunda o konuyu kapatabiliriz.\nYoksa...dayanamayacağım...
+38|<CLT=cltMIND>Dayanamayacak mı?\nKaito...yoksa sen...
+39|Korkuyor musun?
+41|Ah, sadece hayaletler falan hakkında konuşmayı\nsevmediğini hatırladım da...
+42|Şimdi düşününce, şundan beri tuhaf\ndavranıyorsun...
+43|<CLT=cltSTRONG>ölüleri diriltmekten<CLT=cltNORMAL> bahsetmeye\nbaşladığımızdan beri.
+44|S-S-Saçmalama!\nB-Bunun imkânı yok!
+45|Ah. Demek haklıymışım.
+46|Dur... Yani antrenmana gelmemenin sebebi\nkorkman mıydı?
+47|K-Korktuğumdan değil...\nVücudum böyle işte.
+48|Dar alanlar, uzay ve yer çekimsiz ortam konusunda\nsorunum yok ama...hayalet hikâyeleri...
+49|Çocukluğumdan beri onları ne zaman duysam...\nmidem bulanmaya başlar...
+50|<CLT=cltMIND>Kaito konuştukça yüzü daha da\nsolgunlaşıyordu...
+51|Bu yüzden...bütün bu saçmalık başladığından\nberi ne yiyebildim ne uyuyabildim...
+52|Demek olan buydu...
+53|Yani...hadi acele edip Angie'yi durduralım ki\nbu ürkütücü şeylere bir son verebilelim!
+56|N-Neden bana öyle bakıyorsunuz?
+57|İnanılmaz... Hep hiçbir şeyden korkmuyormuş\ngibi davranıyorsun.
+58|K-Kes sesini!\nHadi...gidip Angie'yi durduralım artık!
+59|Hadi kanka! Hadi Maki Rulo!\nÇabuk!
+60|Cidden...bana Maki Rulo deme.
+61|N-Neyse...Angie'nin laboratuvarına gidelim.
+## c03_017_258
+1|Ah... Günaydın.
+2|Oh? Kaito değil mi bu?\nŞimdiden daha iyi misin?
+3|E-Evet, bir şekilde... Pardon ama şu an\nkonuşacak pek vaktimiz yok.
+4|Eh, kendini zorlama. O gür sesin olmadan\nbir şeyler eksik gibi.
+5|Evet, tabii. Seni endişelendirdiğim için kusura bakma.
+6|...Evet, hem de sırf korktuğun için.
+7|Hm? Bir şey mi dedin?
+8|B-Bir şey yok!\nDeğil mi, Maki Rulo!?
+9|...Bana Maki Rulo demeyi kes.
+10|Eh, ciddi bir şey olmamasına sevindim...\nSen olmadan bir şeyler eksik gibi.
+12|Günaydın, Maki!
+13|...Günaydın.
+14|Hey, Shuichi'yi görmezden mi geliyorsun?
+15|Ha, ne demek istiyorsun? Yozlaşmış erkeklerden\nönce kızları selamlamak görgü kuralıdır.
+16|Daha önemlisi, Himiko'yu gördünüz mü?
+17|Görmedim...\nYurtlarda değil mi?
+18|Sanırım değil. Kapısını çaldım ama cevap\nalamadım, demek ki dışarı çıkmış...
+19|Neyse, onu aramaya gidiyorum!\nGörürseniz lütfen bana haber verin!
+20|<CLT=cltMIND>Dün gece için özür dilemek istiyor olmalı.\nHarekete geçmek tam Tenko'ya göre...
+21|H-Hey!\nNeden oraya gidiyorsun!?
+22|Kumarı sonsuza dek bıraktım!
+23|Bu da nereden çıktı... Kumarhanede hayalet\nfalan mı gördün?
+24|N-N-Ne!? Orada var mıydı?\nNerede gördün!?
+25|...Seni biraz korkutmak istedim ama bu\nkadar panikleyeceğini düşünmemiştim.
+26|T-Tanrım, Maki Rulo!\nBenimle öyle dalga geçme!

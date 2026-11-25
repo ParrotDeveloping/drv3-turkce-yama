@@ -1,0 +1,67 @@
+@ chap3_text_US
+## c03_002_151
+50|Aikido zarar vermek için bir dövüş sanatı değil,\nkendini geliştirmenin bir yoludur!
+51|Ne dersin? Epey etkileyici, değil mi?
+52|<CLT=cltMIND>Kulağa iyi bir öğreti gibi geliyor\nama ben yine de fırlatıldım...
+## c03_002_153
+0|<CLT=cltMIND>Çeşitli sanat ve oyma aletleri var...\n<CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltMIND>'nın laboratuvarı için mantıklı.
+1|Ama bu laboratuvarın neden kilidi var...?
+2|Atua konuştu... Bu sınıfın muhtemelen benim\niçin yapıldığını söylüyor.
+3|Bu ne demek?
+4|Ben cevaplayacağım!\nSeksi, güzel sesimle!
+5|Bir saniye! O soruyu benim cevaplayacağımı\nkonuşmuştuk!
+6|Hayır, konuşmadık. Hafızan daha da mı\nkötüleşiyor, Monotaro?
+7|Söz verdin! Çünkü söz vermediğini\nhatırlamıyorum!
+8|Bunun hiçbir anlamı yok!
+9|Ne olmuş!? Bırak ben yapayım!\nBırakmazsan...
+10|Elimi kıçıma sokup sonra ağzına tıkar,\nazı dişlerini takırdatırım!
+11|Kyaaaa! Bu hijyenik değil!
+13|Oh! D-Dur, Monodam!\nBiz...kavga etmiyorduk!
+14|Sadece şakalaşıyorduk.\nBilirsin, arkadaş olduğumuz için...
+15|SORUN-YOK...ANLAŞTIĞINIZ-\nSÜRECE.
+16|Ee, anahtarın olayı ne?
+17|Ah, evet... Angie yalnız olmadıkça sanatına\nodaklanamayan bir kız.
+18|Yüce Atua ile bir olabilmek için bütün\ninsanları ve sesleri dışarıda bırakmalıyım.
+19|Nyahahaha! Atua insanların önünde benimle\nbir olmak için fazla utangaç!
+20|Vay! Porno yıldızı gibi!
+21|Nasıl!? Tam tersi!
+22|Yani sanat yapacağım her odanın bir\nanahtarı olmalı ama...
+23|Monoyavruların bunu bilmesine şaşırdım.
+25|Ve bunların hepsi en sevdiğim sanat\nmalzemeleri ve heykel aletleri...
+26|Nereden bildiniz?
+27|I-Iıı... Ne demeliyim?\nBen...iyi doğaçlama yapamam.
+28|S-Sakin ol...ben daha da kötüyüm.
+29|BİZ...SİZ-PİSLİKLER-HAKKINDA-HER-\nŞEYİ-BİLİYORUZ.
+30|ÇÜNKÜ-SİZİNLE-ARKADAŞ-OLMAK-İSTİYORUZ.
+31|Ben sizinle arkadaş olmak istemiyorum.
+32|Ben sadece Monokuma ile ilgileniyorum. Taklit\nürünlerle samimi olmak istemiyorum.
+34|NEDEN...ÖYLE-SÖYLÜYORSUN?\nNEDEN...BENDEN-NEFRET-EDİYORSUN?
+35|BENİMLE-ANLAŞMAYI-REDDEDEN-HİÇ-\nKİMSEYİ-AFFETMEYECEĞİM!
+36|H-Hadi ama, Monodam... Onlara bu odanın\nanahtarını vermedik, değil mi?
+37|Tamaaaam, işte burada. Ama sadece bir anahtar\nvar, o yüzden kaybetmeyin.
+38|Kaybederseniz kötü olur. Kapıyı dışarıdan\nkilitleyemez ya da açamazsınız.
+40|O-ANAHTARI-BANA-VER.
+41|<CLT=cltMIND>Monodam anahtarı Monophanie'den kaptı,\nsonra ağzına götürdü...
+42|...HAM.
+43|Ah! Yedi onu!
+44|...GLUK.
+45|Ah! Yuttu onu!
+46|BİP...BİP...BİİİİİİİİİİP...
+47|Ah! Kalbi durdu!
+48|Ne yapıyorsun? O anahtarı yutarsan kesinlikle\nboğazına takılır.
+49|BİRİ-BU-ANAHTARI...CİNAYET-İÇİN-\nKULLANABİLİR.
+50|ÇÜNKÜ-ANAHTARLAR...GİZEMLİDİR.
+51|KÖTÜ-BİR-ŞEY-OLURSA-ÇOK-GEÇ-\nOLUR...
+52|BEN...HERKESİN-ANLAŞMASINI-İSTİYORUM.
+53|Ah, Monodam...ne kadar pervasızsın.
+54|Şimdilik Monodam'ı taşıyalım.
+55|Onu sarhoş bir çalışanına bakan iyi kalpli\nbir patron gibi taşıyacağız.
+56|Yani anahtarı alamaz mıyız?\nBu da ne böyle...?
+57|Ama bu kapıyı sadece içeride çalışırken\nkilitleyeceğim, o yüzden...
+58|Kapıyı dışarıdan açıp kapatamasam\nda umurumda değil.
+59|Ah, sanırım o zaman sorun yok...
+60|Bu arada, onlar bizim hakkımızda her şeyi\nbildiklerini söylediler, değil mi?
+61|Bu laboratuvarın Angie'nin zevkine bu kadar\nuymasının sebebi muhtemelen bu...
+62|Yani...bu okul özellikle bizim için mi\nyapıldı?
+63|Monokuma bunu daha önce de iddia etmişti...\nama bu gerçekten mümkün mü?
+64|Bu dev yapı sadece on altımız için mi\ninşa edildi?

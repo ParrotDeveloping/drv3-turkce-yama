@@ -1,0 +1,53 @@
+@ chap3_text_US
+## c03_002_005
+47|<CLT=cltMIND>Monokuma bir bana bir de duvardaki\nresme bakıp duruyor.
+48|...Hm? Bu resim mi?
+50|<CLT=cltMIND>Ah, anlıyorum. Bu bir tuval değil...\nBir cam levha.
+51|Belki de...
+52|<CLT=cltMIND>Henüz kullanmadığım o eşyayı bunun\nüzerinde kullanmalıyım.
+53|Pekala, denemeye değer.
+54|<CLT=cltMIND>Çekici elime aldım, önümdeki cama\ndöndüm...
+55|<CLT=cltMIND>ve var gücümle fırlattım.
+56|Tam düşündüğüm gibi...\nburada gizli bir geçit var.
+58|<CLT=cltMIND>Ne peşinde olduğunu bilmiyorum...\nAma bu gerçekten işimize yaradı.
+59|<CLT=cltMIND>Geçit perili evden farklı görünüyordu—\ndaha çok bir fabrika gibi.
+60|Bu...başka bir şekilde ürkütücü.
+61|<CLT=cltMIND>Sanırım koridorun sonunda ne olduğunu\naraştıracağım.
+65|<CLT=cltMIND>Bu bir <CLT=cltSTRONG>Ultimate Laboratuvarı<CLT=cltMIND>'nın kapısı olmalı.\nAcaba kimin laboratuvarı...
+66|<CLT=cltMIND>İçine bakmalıyım.
+68|<CLT=cltMIND>Bir <CLT=cltSTRONG>Ultimate Laboratuvarı<CLT=cltMIND>'nın kapısı.\nGörünüşüne bakılırsa <CLT=cltSTRONG>Sanat<CLT=cltMIND> için...
+69|Biraz araştırmalıyım.
+70|<CLT=cltMIND>Kapı kolunu tutup çevirdim...
+72|Ha? Kilitli mi?
+73|Evet, öyle görünüyor. Sanırım giremeyiz.
+74|Ama neden kilitli? Diğer <CLT=cltSTRONG>Ultimate\nLaboratuvarları<CLT=cltNORMAL> kilitli değildi...
+75|Ah, bu arada...bu laboratuvarın koridorun\nsonunda bir tür arka girişi var...
+76|Ama o da kilitliydi.
+77|İki kapı da kilitliyse içeri nasıl\ngireceğiz?
+78|Nişişi... Hemen pes etme.\nÇünkü benim gizli bir teknik—
+80|<CLT=cltMIND>Sanki işaret almış gibi, bir kilidin açıldığını\ngösteren metalik bir tık sesi duyduk...
+81|<CLT=cltMIND>ve kapı yavaşça açıldı.
+82|Yahaaah! Yardımcı olabilir miyim?
+83|Angie!? İçeride miydin?
+84|Burada sohbet etmek tuhaf geliyor, hadi\nhep beraber içeri girelim, tamam mı?
+85|<CLT=cltMIND>Ne kadar ısrarcı...
+86|Gelin, gelin! Lütfen içeri gelin!
+87|<CLT=cltMIND>Her zamanki nezaketiyle Angie yine de\nbizi laboratuvara davet etti.
+91|<CLT=cltMIND>Bu kapı Angie'nin laboratuvarının arka\ngirişi olmalı.
+92|<CLT=cltMIND>Angie içerideyken oda kilitli.\nGiremeyiz.
+## c03_002_029
+0|<CLT=cltMIND>Dev bir makine... Bunu daha önce hiç\ngörmedim. Bu ne olabilir—
+1|BURAYA-KADAR-GELDİYSENİZ...RESİM-\nBULMACASINI-ÇÖZDÜNÜZ-DEMEKTİR...
+2|MÜKEMMEL...TAKIM-ÇALIŞMASI.
+3|Ha? Ne takım çalışması? Sadece Shuichi var.
+4|O-BULMACA-TEK-KİŞİNİN-ÇÖZEMEYECEĞİ-\nKADAR-ZORDU.
+5|EMİNİM...ANLAŞIP-HEP-BİRLİKTE-\nÇÖZDÜNÜZ.
+6|H-Hadi uyum sağlayalım... Ona karşı gelirsek\nkendimizi tehlikeye atarız.
+7|Doğru derler—ciddi olanlar sonunda patlayınca\nen korkunç olanlardır.
+8|EMİNİM-MÜMKÜN-DEĞİLDİR...
+9|AMA-O-MODASI-GEÇMİŞ-HURDA-SİZE-\nHİÇ-YARDIM-ETTİ-Mİ?
+11|Ah, evet... Bu odayı açıklamalıyız.
+12|Burası <CLT=cltSTRONG>bilgisayar odası<CLT=cltNORMAL>.
+13|<CLT=cltMIND>Bilgisayar odası mı?
+14|Ama bu bilgisayar sıradan bir bilgisayar\ndeğil.
+15|Baktığınız bu bilgisayar...\nsüper inanılmaz.

@@ -1,6 +1,10 @@
+0	Bu diriltme ritüeli işini öğrenci\nkonseyine bırak.
+1	Şu an Atua kimi diriltmemiz gerektiğini\nbulmaya çalışıyor.
 2	Evet
 3	Hayır
 4	Emin olmadığın bir şey mi var?
 5	<CLT=cltMIND>Bir süre Angie ile takılayım mı?
+6	Kaede'yi diriltmek mi istiyorsun?
+7	Çünkü Atua başka birinin olması gerektiğine\nkarar verirse kabul etmelisin, tamam mı?
 8	<CLT=cltMIND>Angie ile biraz vakit geçirdim...
 9	<CLT=cltMIND>Angie'yle bugün biraz daha yakınlaştık.

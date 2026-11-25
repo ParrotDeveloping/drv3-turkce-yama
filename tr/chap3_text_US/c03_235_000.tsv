@@ -1,20 +1,94 @@
+0	Angie'nin cinayetini tamamen çözmeden\noy vermek hata olur.
+1	Ve hâlâ Tenko'nun cinayetinin\ngizemi var...
+2	Gizem mi? Ne gizemi?
+3	Eh, Kiyo'nun itirafı konuşmamızı biraz\nraydan çıkardı...
+4	ama Tenko'nun olay yerinde bulunan\nipuçlarından birini hâlâ incelemeliyiz.
+5	Bence Angie'nin cinayetiyle bile bir\nilgisi olabilir.
+6	<CLT=cltMIND>Evet, Tenko'nun cinayet mahallindeki\nayrıksı delil...
+7	Angie'nin alnında henüz açıklamadığımız\nbir yara vardı.
+8	Doğru. Onu merak etmiştim...
+9	Ne olduğunu öğrenebilmek için bütün duruma\ndaha yakından bakmamız gerektiğini düşünüyorum.
 10	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+11	Angie'nin cesedinin altında kanlı bir\nbant parçası vardı.
+12	Doğru. Onu merak etmiştim...
+13	Ne olduğunu öğrenebilmek için bütün duruma\ndaha yakından bakmamız gerektiğini düşünüyorum.
 14	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+15	Seanstaki ahşap heykel—
+16	O cinayet silahını yerinde tutmak için ağırlık olarak\nkullanıldı. Angie ile hiçbir ilgisi yok.
 17	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+18	Hadiii, bu gizemin cevabını söyle\nartık!
 19	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+20	Bunda tuhaf bir şey mi vardı?
+21	Soruşturma sırasında döşeme tahtalarının\naltında kafama takılan bir şey gördüm.
 22	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+23	Olay yerinde bulunup henüz açıklanmayan\nipucu ne?
+24	<CLT=cltSTRONG>Zeminin altında bulunan kan lekesi<CLT=cltNORMAL>.\nSoruşturma sırasında Maki ile bulduk.
+25	Suçlunun bastığı döşeme tahtasının\naltındaydı.
+26	Bu...Tenko'nun kanı mı?
+27	O kan lekesi Tenko'nun cesedine onun olamayacak\nkadar uzaktı.
+28	Ayrıca bulduğumuzda kan lekesi\nçoktan kurumuştu.
+29	Ama Tenko'nun bedeninden gelen kan\nkurumaya başlamamıştı bile.
+30	Eh, bu tuhaf. Neden sadece o kan\nlekesi kurumuştu?
+31	<CLT=cltMIND>Döşeme tahtasının altındaki kan lekesi\nkurumuştu çünkü...
+32	Seanstan önce olmuştu
+33	Tenko öldürülmeden önce oradaydı
+34	Kan Tenko'nun öldürüldüğü seanstan önce\ndökülmüştü.
+35	Leke daha küçük olduğu için daha hızlı\nkurudu.
+36	Ama o kan lekesi Tenko'nun bedeninden\nepey uzaktaydı, değil mi?
 37	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+38	Soruşturma sırasında oldu
+39	Soruşturma sırasında Kokichi döşeme\ntahtalarından birinde kendini yaraladı...
+40	Ben farklı bir odada döşeme tahtasından ayağım\ngeçip tökezledim, cinayet mahallinde değil...
 41	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+42	Hava kuruydu
+43	Odada hava çok kuruydu, o yüzden kan\nçabucak kurudu.
+44	Mümkün değil. Döşeme tahtalarının üstündeki\nTenko'nun kanı henüz kurumamıştı, hatırladın mı?
 45	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 46	...
+47	Anlamıyor musun? Ama onu sen buldun, Shuichi.\nGonta sana yardım edemeyebilir...
 48	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+49	<CLT=cltMIND>Döşeme tahtasının altındaki kan lekesi\nkurumuştu çünkü...
+50	O kan lekesi Tenko'nun cinayetinden\ndeğildi...
+51	<CLT=cltSTRONG>Seansa başlamadan önce<CLT=cltNORMAL> oradaydı.
+52	Seanstan önce mi...?
+53	<CLT=cltMIND>Bu kimin kanı olduğunu netleştirmeli...
 54	Tenko Chabashira
+55	Kan lekesi Tenko'dan geldi.
+56	Tenko seanstan önce yaralı değildi,\no yüzden muhtemelen yanlış.
 57	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 58	Angie Yonaga
 59	Korekiyo Shinguji
+60	Kan lekesi seanstan önce Kiyo'dan geldi.
+61	Tahterevalliyi kurarken kendini yaralamış\nolabilir.
+62	Bu bir ihtimal *olmayabilir* değil ama\nsüper sıkıcı bir cevap olurdu.
+63	Daha iyi bir çıkarım yaptıktan sonra bize\ncevap ver!
 64	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 65	Kokichi Oma
+66	Kokichi, soruşturma sırasında yaralandın,\ndeğil mi?
+67	Iııı...ciddi misin? Seans başlamadan önce\nbirlikte bile dolaştık, hatırladın mı?
 68	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 69	...
+70	Nyeh? Seanstan önceyse kimin kanı\no zaman?
 71	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+72	<CLT=cltMIND>Seanstan önceki kan lekesi...\nO kişi olmalı.
+73	O kan lekesi Tenko'nun değildi.\n<CLT=cltSTRONG>Angie'nindi<CLT=cltNORMAL>.
+74	Nyeh!? Tenko'nun cinayet mahallinde neden\nAngie'nin kanı vardı!?
+75	Evet, Angie araştırma laboratuvarında\nöldürülmedi mi?
+76	Cesedini orada bulmamız orada öldürüldüğü\nanlamına gelmez.
+77	Ah...sanırım bu mümkün!
+78	Angie laboratuvarında öldürülmediyse bu çok\ndaha fazla ihtimal ortaya çıkarır.
+79	Cesedi laboratuvarında olduğu için Angie'yi\nsadece konsey üyelerinin öldürebileceğini varsaydık...
+80	Ama başka bir yerde öldüyse artık sadece\nkonsey üyelerinden şüphelenemeyiz.
+81	Yani suçlu laboratuvarına girmedi de onun\noradan çıkmasını mı bekledi?
+82	Suçlunun onu bekleyip beklemediğinden emin\ndeğilim ama muhtemelen çıkınca onu öldürdüler.
+83	Eh, en başından beri bunun daha olası\nolduğunu düşünüyordum.
+84	O yüzden <CLT=cltSTRONG>Angie'nin gitmiş olabileceği yerlere<CLT=cltNORMAL>\ngittim ve üç boş odanın hepsine baktım.
+85	Gitmiş olabileceği yerler mi? O zaman neden\nboş odalara baktın?
+86	Hm? Boş odalar Angie'nin gidebileceğini\ndüşünebildiğim tek yerlerdi.
+87	Angie'nin...odalarda işi mi vardı?
+88	Kehehe... Görünüşe göre Kokichi yine her\nzamanki yanıltıcı saçmalıklarına başladı...
+89	Nişişi... Çok yalan söylerim ve şu an da\nyalan söylüyor olabilirim...
+90	Ama yalanım yüzünden şu an *birinin*\npanikte olduğundan epey eminim.
 91	...
+92	<CLT=cltMIND>Angie laboratuvarından kendi isteğiyle\nçıkıp öldürüldüğü odaya gitti.
+93	<CLT=cltMIND>Kokichi'nin ifadesi doğru mu?\nYoksa...

@@ -1,0 +1,51 @@
+@ chap3_text_US
+## c03_103_041
+38|Işığımız olduğu için idare ettik.\nO olmasaydı zifiri karanlık olurdu.
+39|Bu, orada hareket etmeyi imkânsız\nhâle getirebilir.
+40|O zaman şu an bizim yaptığımız gibi bir\nışık kullanmış olabilirler.
+41|Doğru...
+42|<CLT=cltMIND>Zeminin altında hareket etmek için ışık mı\nkullandılar? Bu mümkün mü?
+43|<CLT=cltMIND>Tahtanın bir kısmı çürümüş.
+44|<CLT=cltMIND>Doğal bir çürüme gibi görünüyor.\nBu delik kasıtlı açılmamış.
+45|<CLT=cltMIND>Burası yan odanın duvarına yakın.\nBu boşluktan oraya geçebilirsin.
+46|<CLT=cltMIND>Yani zeminin altından odadan odaya\ngidebilirsin...
+47|<CLT=cltMIND>Ama tamamen karanlık olurdu.
+48|<CLT=cltMIND>Sana yol gösterecek bir tür ışık olmadan\nhareket etmek mümkün olmazdı.
+49|<CLT=cltMIND>Suçlu zeminin altına yanında bir ışık\ngetirmiş olabilir mi?
+50|<CLT=cltMIND>Burada bir orak var!\nVe her yeri kan içinde!
+51|Bu oraktaki kan taze...\nBu o. Cinayet silahı bu!
+52|Bu...benim araştırma laboratuvarımdan geldi.
+53|Öyle mi?
+54|Bir orak bir hedefe suikast yapmak için\nkullanılabilir.
+55|Ölümcüllüğünü kaybetmeden fırlatılabilir ve\nkıyafetlerinin altına da saklayabilirsin.
+56|Bununla saldırıya uğrasaydı hiç şansı olmazdı.\nBıçağı yaklaşık 15 santim...
+57|Ve Tenko kafesin içinde olduğu için kendini\nsavunamazdı.
+58|Ama bu *gerçekten* cinayet silahımız olsa bile...
+59|Suçlu kafesteki Tenko'ya nasıl saldırdı?
+60|Bıçak kafesin aralıklarından geçebilirdi\nama boynuna ulaşabilir miydi?
+61|Kafes bir metre yüksekliğinde... İçine 15\nsantimlik bir bıçakla saplarsan...
+62|Eh, Tenko'nun duruşuna bağlı...\nama imkânsız olduğunu sanmıyorum.
+63|<CLT=cltMIND>O zaman soru onun duruşu...
+64|Hey... Silah burada aşağıdaysa suçlu onu\nfırlatıp atmış olmalı, değil mi?
+65|Belki Tenko'yu öldürdükten sonra suçlu orağı\nkaranlıkta zeminin altına attı.
+66|Ya da bütün zaman boyunca zeminin altında\nolabilirlerdi. İkisi de mümkün.
+67|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Zeminin Altındaki Orak<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+68|<CLT=cltMIND>Buraya kanlı bir orak bırakılmış.
+69|<CLT=cltMIND>Kan hâlâ ıslak. Tenko'yu öldürmek için\nkullanılan silah olmalı.
+70|<CLT=cltMIND>Bu silah Maki'nin laboratuvarındandı.
+71|<CLT=cltMIND>Bıçağı yaklaşık 15 santim,\nbir dövüşte ölümcül.
+72|<CLT=cltMIND>Ama suçlu kafesteki Tenko'ya orakla\nnasıl saldırdı?
+73|<CLT=cltMIND>Bıçak kafesin aralıklarından geçebilir ama\nTenko'nun boynuna ulaşabilir miydi?
+74|<CLT=cltMIND>Kafes yaklaşık bir metre yüksekliğinde,\nyani içine 15 santimlik bir bıçak saplamak...
+75|<CLT=cltMIND>Her şey kafesin içindeki vücut\npozisyonuna bağlı olurdu.
+76|<CLT=cltMIND>Bütün bunlara ek olarak...
+77|<CLT=cltMIND>Suçlu onu buraya attığı için silahın\nburada aşağıda olduğunu varsayarsak...
+78|<CLT=cltMIND>O zaman ya suçlu cinayetten sonra orağı\nkaranlıkta buraya attı...
+79|<CLT=cltMIND>ya da suçlu bütün zaman boyunca\nzeminin altındaydı.
+80|<CLT=cltMIND>Hangisi olabilir...?
+81|Ah, bak! Döşeme tahtasını destekleyen\nkirişin bir kısmı kesilmiş.
+82|Gevşek döşeme tahtasının yakınında ve eksik\nkısım da yaklaşık aynı genişlikte.
+83|Ve görebildiğim kadarıyla...
+84|Doğal olarak kırılmamış.\nBiri tarafından kesilmiş.
+85|Depoda testereler olmalı, onu kullanmış\nolabilirler...
+86|Soru şu: neden?

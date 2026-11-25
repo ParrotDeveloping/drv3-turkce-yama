@@ -1,0 +1,58 @@
+@ chap3_text_US
+## c03_017_005
+36|Küçük bir kuş bana numaramı ortaya\nçıkarmanın tam zamanı olduğunu söyledi.
+37|<CLT=cltMIND>Kokichi'nin numarası mı?
+38|Ah, kilit açma!
+39|Ha? Kilit açma mı?
+40|<CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltNORMAL> sırasında Kokichi\nkilitleri açarak odalarımıza girebilmişti.
+41|Kilit açma becerilerini bu laboratuvar\nkapısını açmak için kullanabilir misin?
+42|...Bu kapının kilidini açmamı istiyorsun, ha?\nHmmm, bir bakayım...
+43|<CLT=cltMIND>Kokichi eğilip kapı kolunun anahtar\ndeliğinden içeri baktı.
+44|Ooh, silindir kilit. İşte bu tür kilit kilit\naçmak için mükemmeldir.
+45|Evet! Lütfen, Kokichi, kilidi aç!
+46|İzinsiz kilit açmak kabalıktır.
+47|Şimdi onun sırası değil!\nAngie'ye bir şey olmuş olabilir!
+48|O-Onu dert etme!\nKokichi, çabuk kapıyı aç!
+49|Üzgünüm, Himiko. Bunu sadece bu üçü beni\ntehdit ettiği için yapıyorum.
+50|<CLT=cltMIND>Kokichi ince iğneler çıkarıp kilidin\nanahtar deliğine soktu.
+51|<CLT=cltSYSTEM>*klik...klik...klik...*
+52|<CLT=cltSYSTEM>...*klak*
+53|İşte, açıl susam açıl.
+54|Bu kadar basit mi...?
+55|Nişişi... Övünmek gibi olmasın ama ben\n<CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>'im, biliyorsun.
+56|Kilit açmak daha çok adi hırsızlara\nyakışıyor gibi.
+57|Aaaaaak! Bu çok derinden yaraladı, Maki!
+58|Hadi içeri girelim! Angie için endişeleniyorum!
+60|<CLT=cltMIND>Kapı koluna dokunduğumda korkudan\navuçlarımın terlediğini fark ettim.
+61|<CLT=cltMIND>Korku mu...? Neden gerginim...?
+62|<CLT=cltMIND>Kapı kolunu çevirdim, kapıyı itip açtım\nve gördüm ki...
+65|...BİR-CESET-BULUNDU.
+66|HERKES, LÜTFEN-<CLT=cltSTRONG>ULTIMATE-SANAT-\nLABORATUVARI<CLT=cltNORMAL>'NDA-TOPLANSIN.
+67|...BLÖĞĞBLRBLÖĞĞBLRBLÖĞĞBLRB!
+68|Ahhh! Yine kustu!\nVe bu sefer yeşil!
+69|Monophanie'nin yeşil kusmuğunun kötü şansın\nve felaketin habercisi olduğu söylenir!
+70|Neler olmak üzere böyle!?
+## c03_017_100
+0|H-Hadi acele edip Angie'yi durduralım ki bu\nürkütücü şeylere bir son verebilelim!
+1|İşler bundan daha korkunç olursa cidden\nkalp krizinden öleceğim!
+2|Odasında değilse muhtemelen laboratuvarında\nritüele hazırlanıyordur.
+7|H-Hadi acele edip Angie'yi durduralım ki\nbütün bunlara bir son verebilelim!
+27|...Kimse yok.
+28|O zaman muhtemelen laboratuvarındadır.\nRitüele hazırlanacağını söylemişti.
+29|Haklısın. Gidelim.
+30|<CLT=cltMIND>Belki Angie laboratuvarındadır...\nOrada deneyeceğim.
+## c03_017_101
+3|<CLT=cltSYSTEM>*ding dong ding dong!*
+4|Zil mi? Sabahın bu kadar erken saatinde?\nAcaba kim olabilir...
+6|İşler daha korkunç olursa cidden kalp\nkrizinden öleceğim!
+7|Senin yaşındaki birinin hayaletlerden korktuğu\niçin yatağa saklandığına inanamıyorum...
+8|Ş-Şey, bilirsin... Bu...ıı, benim vücudum\nböyle. Elimden bir şey gelmez...
+9|Yani suikastçıların yanında durabiliyorsun\nama hayaletlerde çizgiyi çekiyorsun, öyle mi?
+10|Bana herhangi bir hayaletten daha korkunç\nolduğum söylendi.
+11|Ha? Senden hiç korkmuyorum ki.
+12|Sana söylemedim mi? Sen sadece zayıf bir\nkorkaksın. Hem antrenmana daha yeni başladın.
+14|Bana zayıf deme hakkı en son sende olur.
+15|K-Kes sesini!\nHadi gidip Angie'yi durduralım!
+16|...Kaito'yu dehşetten bayılmadan Angie'ye\ngötürelim.
+17|<CLT=cltMIND>Sabahın bu kadar erken saatinde mi?\nAcaba kim olabilir...
+22|Bu surat ne...?\nSanki yeni uyanmış gibisin.

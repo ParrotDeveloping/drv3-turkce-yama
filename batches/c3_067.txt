@@ -1,0 +1,51 @@
+@ chap3_text_US
+## c03_103_039
+423|<CLT=cltMIND>Haklısın, ortada bir cinayet silahı\ngöremiyorum. Bu bir ipucu olabilir.
+424|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Tenko'nun Son Anları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+428|<CLT=cltMIND>Maki anında ölmemiş olabileceğini\nsöylüyor.
+429|<CLT=cltMIND>Uzun süresi olmadığından eminim ama\nbelki hareket etmek için birkaç saniyesi vardı.
+430|Burada olduğun için teşekkürler, Maki.\nÇok büyük yardımın dokunuyor.
+431|<CLT=cltMIND>Cevaplanmamış en büyük soru...\ncinayet silahı.
+432|<CLT=cltMIND>O silahın nereye gittiği bu davayı\nçözmenin anahtarı olacak.
+436|...Sadece bu odayı araştırıyoruz.\nBunun akıllıca olduğundan emin misin?
+438|Angie ile Tenko'nun katilleri farklıysa\noylamamız gereken Kara...
+439|İlk cinayetin suçlusu.\n<CLT=cltSTRONG>Angie'yi öldüren suçlu<CLT=cltNORMAL>.
+440|Monokuma öyle dedi...
+441|Yani Tenko'nun ölümünü soruşturacağımıza\nAngie'ninkini soruşturmamız gerekmez mi?
+442|E-Evet, elbette...
+443|Ama bu öldürme oyunundan daha büyük.\nÖlen iki kişi uğruna...
+444|*İkisinin de* ölümünün gerçeğini ortaya\nçıkarmalıyım.
+445|Eh, neden böyle hissettiğini anlıyorum...
+446|Ama...diğer olay yerini yeniden soruşturmayı\nplanlıyorsan muhtemelen acele etmeliyiz.
+## c03_103_041
+0|<CLT=cltMIND>Burası düşündüğümden çok daha geniş.\nDört ayak üstünde epey rahat hareket edebiliyorsun.
+1|Etrafa ipucu için bakalım.
+2|Bu tozlu yerde emekledikten sonra hiç ipucu\nbulamasak epey aptalca görünürdü.
+9|<CLT=cltMIND>Döşeme tahtalarının arasındaki\nboşluklardan kan damlıyor...
+10|<CLT=cltMIND>Taze kan.\nBu kesinlikle Tenko'nun.
+11|<CLT=cltMIND>Gevşek döşeme tahtasının altındaki zeminde\nbir kan lekesi var.
+12|<CLT=cltMIND>Ama Tenko'nun kanının damladığı yerden\nepey uzak...
+13|<CLT=cltMIND>Aynı döşeme tahtasının altında...\nsadece farklı uçlarında.
+14|<CLT=cltMIND>Burada neden kan var?
+15|Hey, bu döşeme tahtasının arkasında da\nkan var.
+16|Haklısın...bu döşeme tahtasının alt yüzünde\nbiraz kan var.
+17|Tenko öldürüldüğünde kanı buraya mı\nsıçradı?
+18|Acaba... Henüz emin olamıyorum.
+19|Ama buradaki kan lekeleri tamamen\nkurumuş.
+20|<CLT=cltMIND>Özellikle bu lekelerin kurumuş olmasının\nbir sebebi olmalı...
+21|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Zeminin Altındaki Kurumuş Kan<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+23|<CLT=cltMIND>Gevşek döşeme tahtasının altındaki zeminde\nbir kan lekesi var.
+24|<CLT=cltMIND>Tenko'nun kanının biriktiği yerden\nepey uzakta.
+25|<CLT=cltMIND>Burada neden bir kan lekesi var?
+26|<CLT=cltMIND>Bu döşeme tahtasının alt yüzünde\nde kan var.
+27|<CLT=cltMIND>Bu da Tenko öldürüldüğünde mi oldu?\nBilmiyorum...
+28|<CLT=cltMIND>Ama bu kan lekeleri tamamen\nkurumuş.
+29|<CLT=cltMIND>Bu ne anlama gelebilir...?
+30|<CLT=cltMIND>Tahtanın bir kısmı çürüyüp kopmuş,\nyani yan odayı görebiliyorsun...
+31|Bu...boş odanın duvarı, değil mi?\nDuvar boyunca tahta var gibi...
+32|Bu kısım çürümüş.
+33|Doğal bir çürüme gibi görünüyor...\nBu delik kasıtlı açılmamış.
+34|Ama buradan yan odaya geçebilirim.
+35|Yanlış hatırlamıyorsam yan oda da boş,\ndeğil mi?
+36|O zaman suçlu koridoru kullanmak yerine\nburadan geçerek odadan odaya gitmiş olabilir.
+37|Doğru ama zeminin altında hareket etmek\nzor olurdu.

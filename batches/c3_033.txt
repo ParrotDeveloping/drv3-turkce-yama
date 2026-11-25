@@ -1,0 +1,55 @@
+@ chap3_text_US
+## c03_011_010
+57|A-Aptal olma! Bana burada kalıp hiçbir şey\nyapmamamı mı söylüyorsun!?
+58|Asla yapmam!\nDaha uzaya bile gitmedim!
+60|...KAVGA-MI-EDİYORSUNUZ?
+61|S-Sanmıyorum! Bence belki de aslında\nkavga etmiyorlardır!
+62|E-Evet! Kavga ediyor olsalar bile dostça\nbir kavga gibi görünüyor!
+63|...Ne için geldiniz? Şu an meşgulüz.
+64|BİZ...BİRBİRİNİZE-DAHA-DA-\nYAKINLAŞMANIZI-İSTİYORUZ...
+65|O-YÜZDEN-BUNU-GETİRDİK...
+66|Hatıra Işığı mı!?
+67|Bu bizim "Yeni bir anıyı geri getirmek için\n<CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'nı kullan...
+68|...ve onun hakkında birbirinizle konuşarak\ndaha iyi arkadaş olun" planımızın parçası!
+69|Vay, *o kadar* uzun bir plan adını hatırlamak\niçin kafama fazla darbe aldım.
+70|Ah, şunu bir göreyim.
+71|AH—!
+72|<CLT=cltMIND>Angie birden <CLT=cltSTRONG>Hatıra Işığı<CLT=cltMIND>'nı\nelinden kaptı ve...
+73|<CLT=cltSYSTEM>*şangır!*
+74|<CLT=cltMIND>Onu yere fırlatıp amansızca üstünde\ntepindi!
+75|AH...AHHHHHHHHHH!
+76|Nyaha! Öğrenci konseyi artık <CLT=cltSTRONG>Hatıra Işıkları<CLT=cltNORMAL>'nı\nkullanmamaya karar verdi.
+77|Ne!? N-Neden!?
+78|Çünkü Hatıra Işıkları sadece <CLT=cltSTRONG>dış dünyayla\n<CLT=cltNORMAL>ilgili anılarımızı geri getiriyor.
+79|Ama artık o anılara ihtiyacımız yok.
+80|Artık <CLT=cltSTRONG>dış dünyaya<CLT=cltNORMAL> ait olmadığımızı\nfark ettik...
+81|Biz buraya, Ultimate Akademisi'ne aitiz...
+82|O-Olamaz...<CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'nı kullanmazsanız\nplanımız suya düşer...
+83|N-Ne yapacağız, Monodam!?
+85|Hey! Kaçtı!
+86|Heyyyyy Monodaaaaam!\nBekleeeee!
+88|A-Angie...ne yapıyorsun!?
+89|Cenaze ya da <CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> hakkında bir şey\nhatırlayabilirdik!
+90|Bütün bunları hatırlamak için bir sebep yok.\nDış dünyaya dönmüyoruz.
+91|...Evet. Artık anlamsız.
+92|S-Seni... Fazlasıyla ileri gittin!
+93|Öldürme oyununu durdurmak istesen bile\nfazlasıyla ileri gidiyorsun.
+94|Üzgünüm ama bunu Atua'ya söylemelisin.
+95|Tanrım, hiç üzgün olduğunu sanmıyorum. Peki,\n"<CLT=cltSTRONG>şu şey<CLT=cltNORMAL>" için bir planın var mı?
+96|<CLT=cltSTRONG>Diriltme ritüelini<CLT=cltNORMAL> mi diyorsun?\nAh, onun için bir planımız var!
+98|Ne...planlıyorsun?
+99|Sadece gerekli bir önlem. Ne kadar çok arkadaşımız\nolursa hayatımız o kadar dolu olur.
+100|Gerekli bir önlem mi?
+101|Hmm... Ya Rantaro'nun ölümüne yol açan gibi\nbaşka bir süre sınırlı <CLT=cltSTRONG>motif<CLT=cltNORMAL> gelirse?
+102|...Her ihtimale karşı hazırda bir kurbanımız\nolması gerekmez mi?
+103|Yani...birinin ölmesi gerekirse dirilttiğimiz\nbirini mi gönüllü yapmalıyız diyorsun?
+104|Birini...sadece yeniden öldürmek için mi\ndirilteceksin?
+105|Kehehe... Öldürme oyununu durdurmak isteyen\nbiri için epey zalim planların var.
+106|Hayat her zaman eğlence ve gülümsemeden ibaret\nolamaz... Atua zor, hatta zalim kararlar vermek zorunda.
+107|Ama, ama! Huzurlu bir okul hayatı yaşayacaksak\nAtua'nın iradesine boyun eğmeliyiz.
+108|Atua'nın iradesi mutlaktır.
+109|Atua öyle diyorsa yapabileceğimiz bir\nşey yok.
+110|Nyeeeh...aynen Atua'nın dediği gibi.
+112|C-Ciddi misiniz? O şeyin öldürme oyunu için\nbir motif olduğunu unuttunuz mu?
+113|<CLT=cltMIND>Kaito...sana ne oluyor?\nGittikçe daha kötü görünüyorsun...
+114|Buradan kaçma arzunuzu bir kenara attığınız\nsürece o <CLT=cltSTRONG>motif<CLT=cltNORMAL> bizi ilgilendirmez.

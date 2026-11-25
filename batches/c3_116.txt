@@ -1,0 +1,66 @@
+@ chap3_text_US
+## c03_709_051
+5|Olur...
+6|Öğrenci konseyinin şu an işi yok,\nyani sanırım takılabilirim...
+7|<CLT=cltMIND>Himiko bana Atua ile bir olmak ya da öyle\nbir şey hakkında bir şeyler öğretti...
+## c03_709_052
+0|Ne var? Sen de öğrenci konseyine\nkatılmak mı istiyorsun?
+1|Hm, iyi fikir.\nAtua'yı da mutlu eder...
+6|Şöyle düşünürsen... yeteneğin öldürme oyunu \ndışında işe yaramaz.
+7|Yani öğrenci konseyi seni işe yaramaz hale getiriyor.\nPişmanlıkla dolu olmalısın...
+8|<CLT=cltMIND>Himiko beni neşelendirmekle yerin\ndibine sokmak arasında gidip geldi...
+## c03_709_053
+0|Ne istiyorsun...?\nÖğrenci konseyi çok meşgul, biliyorsun?
+1|Bizi durdurmaya mı çalışıyorsun? Bunu akademinin \nhuzuru için yapıyoruz.
+6|Etkinlik 4 Himiko Yumeno ile Vakit Geçirme
+## c03_709_054
+0|Ne istiyorsun...?\nÖğrenci konseyi çok meşgul, biliyorsun?
+1|Bizi durdurmaya mı çalışıyorsun? Bunu akademinin \nhuzuru için yapıyoruz.
+6|Etkinlik 5 Himiko Yumeno ile Vakit Geçirme
+## c03_710_050
+0|Maki Harukawa 3. Bölüm Serbest Etkinlik 1\nHiçbir şey olmaz
+## c03_710_051
+1|Ah, söyleyecek bir şeyim yok...\nSadece... takılabiliriz diye düşündüm?
+3|<CLT=cltMIND>Sanırım bu bir hayır?
+4|<CLT=cltMIND>Kaito'yla birlikte antrenman yapmanın\nbizi yakınlaştıracağını düşünmüştüm...
+5|...Olur.
+7|...Bu tepki ne?\nDaveti yapan sendin.
+8|Ö-Özür dilerim, sadece şaşırdım.\nAçıkçası beni reddedeceğini düşünmüştüm.
+9|...Bunca zamandır sadece iki aptalla, seninle\nve Kaito'yla antrenman yapacağımı sanıyordum...
+10|Ve Kaito'nun isteklerine boyun eğmenin\ndaha hızlı olacağını düşündüm...
+11|<CLT=cltMIND>...Buna ne hissetmem gerektiğini bilmiyorum.
+12|Bunu duyduktan sonra bile hâlâ benimle\ntakılmak istiyor musun?
+16|<CLT=cltMIND>Bir süre Maki ile takılayım mı?
+17|Peki, seninle takılırım. Ama bence sonunda\nbenimle vaktini boşa harcamış olacaksın.
+18|<CLT=cltMIND>Maki ile boş şeylerden konuşarak\nbiraz vakit geçirdim...
+## c03_710_052
+0|...İnsanlar benimle konuştuğunu görürse seni bir\n<CLT=cltSTRONG>suikastçının<CLT=cltNORMAL> arkadaşı sanacaklar.
+4|<CLT=cltMIND>Bir süre Maki ile takılayım mı?
+5|...Ve hâlâ sorun değil mi? Eğer rol yapıyorsan\nsonra canın yanacak.
+## c03_710_053
+0|<CLT=cltSTRONG>Ölüleri diriltmenin<CLT=cltNORMAL> hiçbir yolu yok...
+1|Rantaro kesinlikle öldü... Kaede ve Kirumi\ngözlerimizin önünde öldü...
+5|<CLT=cltMIND>Bir süre Maki ile takılayım mı?
+6|...Peki.
+7|Özel bir şey yapmak içimden gelmiyor,\no yüzden karar sende.
+## c03_710_054
+0|...Kaito iyi mi?
+1|Başkalarından şikâyet ediyor ama kendine bile\nbakamıyor... Sorumsuz aptal...
+5|<CLT=cltMIND>Bir süre Maki ile takılayım mı?
+6|...Yürüyüşe çıkmak üzereydim. İstersen\ngelebilirsin...
+7|<CLT=cltMIND>Maki ile avluda dolaşarak\nbiraz vakit geçirdim.
+## c03_711_050
+0|Sence Maki hakkında hiçbir şey yapmazsak\nsorun olur mu?
+1|Ondan uzak durmamızı söyledi ama...
+2|Hâlâ onun gibi bir katili başıboş bırakmanın\ntehlikeli olduğunu düşünüyorum!
+7|Onu kışkırtmamıza gerek yok ama her ihtimale\nkarşı gözümüzü dört açalım!
+8|<CLT=cltMIND>Tenko ile Maki'yi gizlice takip ederek\nbiraz vakit geçirdim...
+## c03_711_051
+0|Ne oldu?\nSana yardımcı olabilir miyim?
+5|Olur...
+6|Ama öğrenci konseyi görevlerim öncelikli!\nÇünkü ben öğrenci konseyi üyesiyim!
+7|<CLT=cltMIND>Tenko ile biraz gergin bir şekilde\nvakit geçirdim...
+## c03_711_052
+0|Eğer avludaki yazı ölenlerden gelen\nbir mesajsa...
+1|neden "İmdat!" gibi daha açık bir\nmesaj yazmadılar ki?
+6|...Ah! Angie'nin sözlerinden şüphe ettiğim\nfalan yok, tamam mı!?

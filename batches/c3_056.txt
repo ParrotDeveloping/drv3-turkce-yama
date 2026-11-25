@@ -1,0 +1,55 @@
+@ chap3_text_US
+## c03_101_139
+61|İşe yarasa da yaramasa da...Kiyo bir süredir\nbu seansı yapmak istiyordu.
+64|Ah, evet. Her kelimesini ezberlediğini\nde söyledi.
+65|Muhtemelen kitabı bu yüzden burada bıraktı,\nçünkü seansı kitapsız yapabiliyor.
+66|Ama bu mümkün mü ki?\nAngie'nin hayaletiyle iletişim kurmak...?
+67|Nişişi... Bu kadar merak ediyorsan neden\nbize katılmıyorsun, Shuichi?
+69|Nasıl sonuçlandığını kendi gözlerinle\ngörmelisin.
+70|Hâlâ vakit var, biliyorsun değil mi? Seans\ndaha başlamadı bile.
+71|Belki onlara katılman daha iyi olur.
+73|Eh, ben gitmiyorum. Ruh çağırma seanslarına\ninanmıyorum.
+74|Ama inansan da inanmasan da dedektif olarak\nne olduğunu gözlemlemek için orada olmalısın.
+75|<CLT=cltMIND>Dedektif olarak, ha...
+76|Evet...Sanırım haklısın.
+77|Nişişi... İşte şimdi konuştun.
+78|Neyse, seni bekliyor olacağım! Üç boş\nodadan ortadakindeyiz.
+79|<CLT=cltMIND>Kokichi beni oyuna çağırıyormuş gibi\nkonuştu, sonra odadan çıktı.
+80|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+81|<CLT=cltMIND>Katana burada olmalıydı ama geriye\nsadece kını kalmış.
+82|<CLT=cltMIND>Cinayet silahı bu odadan getirildi,\nbundan eminim.
+83|<CLT=cltMIND>Sanırım katana tam burada, bu vitrinde\nsergileniyordu...
+85|<CLT=cltMIND>Ama şimdi okuyacak vakit yok.
+86|<CLT=cltMIND>Bu kumaş...
+87|<CLT=cltMIND>Ah, anlıyorum. <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltMIND>'ta kafesi\nörten beyaz kumaş bu.
+88|<CLT=cltMIND>Sanırım kafesi çoktan odaya\ngötürdüler...
+89|<CLT=cltMIND>Bu büyük ihtimalle <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltMIND>'ta\nkafesi örten beyaz kumaş.
+91|<CLT=cltMIND><CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltMIND> kitabı\nhâlâ burada...
+92|<CLT=cltMIND>Kiyo onu o kadar çok okuduğunu söyledi ki\nezberden okuyabiliyormuş.
+93|<CLT=cltMIND>Sanırım seansı yapmak için ona\nihtiyacı yok.
+## c03_102_038
+0|Demek...Kokichi'nin dediğine göre sen de\nseansa katılmak istiyorsun, Shuichi?
+1|Kehehe... Bize katılmana çok memnun oluruz.
+2|...Demek isterdim. Ancak ruh medyumu dahil\nsadece beş kişi katılabilir.
+3|Off yaaa, ne yazık.\nEh, Kee-çocuk, sen dışarıdasın.
+4|...Neden ben!?
+5|...Kokichi'ye katılıyorum.\nBir süredir bunu düşünüyordum...
+6|Robotlar ve ruh çağırma seansları uyuşmaz!\nDiş macunu ve portakal suyu gibiler!
+7|Açıkçası ben de aynı şeyi düşünmüştüm.\nYardımın için teşekkürler...Keebo.
+8|B-Beni gelmeye zorladıktan sonra kovduğunuz\niçin hiç suçluluk duymuyor musunuz?
+9|Bu yüzden özür diliyoruz!
+10|Henüz kimse özür dilemedi!
+11|Peki, peki, kusura bakma... Sadece kızıp bize\nelektromanyetik dalga atmaya başlama.
+12|Bunu neden yapayım!?
+13|Sızlanmayı kes, Keebo... Seansa bir an\nönce başlamak istiyorum.
+14|P-Peki...ama bu ihaneti unutmayacağım,\nShuichi!
+15|<CLT=cltMIND>*Ben* ne yaptım?
+16|Şimdi Shuichi de bize katıldı.\nÖnce bazı uyarılar...
+17|Yere çizdiğim büyü çemberine\ngirmeyin.
+18|Arındırıcı tuzla çizildi, o yüzden üstüne\nbasılınca kolayca bozulur.
+19|Bu büyü çemberini tuzla mı çizdin?
+20|Büyü çemberleri için hep tuz kullanırım.\nSeansların başarılı olma ihtimalini artırır.
+21|Ayrıca burası karanlık, o yüzden adımlarınıza\ndikkat edin.
+22|Büyü çemberi bozulursa sadece seans\nbaşarısız olmakla kalmaz...
+23|Aynı zamanda bir lanet de salınabilir.
+24|A-Anladım... Dikkatli olacağım.

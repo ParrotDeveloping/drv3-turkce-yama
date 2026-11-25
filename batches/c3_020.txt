@@ -1,0 +1,58 @@
+@ chap3_text_US
+## c03_003_010
+128|Başkalarının açık saçık şakalarıyla aram\niyi değil...
+130|Off yaaa, ne hayal kırıklığı...
+131|Hayal kırıklığı mı?
+132|Nyeeeh...doğru. Bu <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL> gerçek bir\nhayal kırıklığıydı...
+133|<CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> hakkında hiçbir şey öğrenmedik.\nSadece tuhaf bir anı.
+134|Evet, cidden. Tam bir hayal kırıklığı...
+135|Hayır, anıdan bahsetmiyorum.\nSizden bahsediyorum...
+137|Ah, hayır! Bir şey yok! Yine yalan söylüyorum,\no yüzden kafana takma!
+138|<CLT=cltMIND>Keşke baştan hiçbir şey\nsöylemeseydin...
+139|<CLT=cltMIND>Ama daha önemlisi, gördüğümüz\n<CLT=cltSTRONG>cenaze anısı<CLT=cltMIND>...
+140|<CLT=cltMIND>Gerçek bir cenazenin anısı olamaz...
+141|<CLT=cltMIND>Bununla ilgili daha çok şey öğrenmeliyiz...
+142|<CLT=cltMIND>Ne kadar düşünürsem düşüneyim\nkafam almıyor.
+143|<CLT=cltMIND>O deneyimden sonra yemekhanede yemek\nyiyip odalarımıza döndük.
+## c03_004_100
+26|<CLT=cltMIND>Maki...\nMuhtemelen bu onun odası.
+27|<CLT=cltMIND>...Söylediklerini görmezden gelemem.\nGerçekten üzgün gibiydi.
+30|<CLT=cltMIND>*klik*
+32|Ah, şey, senin için uygunsa\nkonuşmak ister misin?
+34|Sana benden uzak durmanı söylemedim mi?
+35|Ben de senden ve diğerlerinden uzak duruyorum.\nO yüzden...burada değilmişim gibi davran.
+36|<CLT=cltSYSTEM>*GÜM!*
+## c03_004_101
+0|<CLT=cltMIND>O cenazeyle ilgili bir tür sır var gibi\nhissediyorum. Düşünmeden duramıyorum.
+1|<CLT=cltMIND>Ama bu kadar kısa bir sahneden bir şey\nçıkarmak zor.
+2|<CLT=cltMIND>...Monokuma'dan ipucu isteyebilirim.\nBu işe yarardı ama...
+3|Çözülemez bir problemi çözmeye çalışarak\nvaktimi boşa harcamamalıyım.
+4|<CLT=cltMIND>Bugün hâlâ biraz vaktim var.\nBelki dışarı çıkıp kafamı dağıtırım...
+## c03_004_138
+22|<CLT=cltMIND>Fazla yaklaşmak istemiyorum...\nEtrafındaki <CLT=cltSTRONG>karanlık havayı<CLT=cltMIND> buradan hissedebiliyorum.
+## c03_005_100
+0|Haaaa? Shuichi, nereye gidiyorsun?
+1|Ah, özel bir yere değil...\nYa sen, Angie?
+2|Ah, sadece diğerleriyle konuşuyordum.
+3|Konuşuyor muydun?
+4|Atua'nın sesini duyamadıkları için onlara\nOnun bilgeliğini anlatıyordum.
+6|Atua herkesin duygularından etkilendi, bu yüzden\nburadaki barışı hep birlikte korumamız gerektiğini söyledi!
+7|Nyahahaha! Çok rahatladım! Bu akademiyi bir\ncennete çevirmek için herkesle birlikte çalışacağım!
+8|<CLT=cltMIND>Herkesle birlikte mi çalışacak...?\nBununla ne kastediyor acaba.
+9|Bay-onara, Shuichi!\nYarın görüşürüz!
+10|<CLT=cltMIND>...Bu konuda içimde kötü bir his var.
+11|<CLT=cltMIND>Himiko'nun büyü gösterisi de Angie'nin\nfikriydi...
+12|<CLT=cltMIND>Bu sefer ne planlıyor?
+19|<CLT=cltMIND>Kaito odasında değil gibi.\nŞimdiden avluda mı?
+## c03_005_101
+0|Bu, Ultimate Akademisi'nden resmi bir\nduyurudur!
+1|Saat şu an akşam 10.\nNinni vakti geldi.
+2|SİZ-İKİNİZ...KOCAMAN-BİR-YATAKTA-\nBİRLİKTE-UYUMALISINIZ.
+3|Oh, üçümüz de kocaman bir yatakta\nuyuyabiliriz, değil mi?
+4|BU-KADAR-YAKINKEN-SADECE-KOCAMAN-\nBİR-YATAKTA-UYUMAKLA-KALMAYIZ...
+5|ÜÇ-KATLI-RANZALARDA-DA-UYUYABİLİRİZ.
+6|Ha!? Ama en üstteki yataktan düşüp\nöleeeebilir!
+7|Ihh... O kadar yakın mıyız bilmiyorum...
+8|...Yatma vakti, ayıcıklar.
+9|<CLT=cltMIND>Gece... Kaito ile antrenmanım var.
+10|<CLT=cltMIND>Cinayet yüzünden bir süredir yapmadık\nama bu gece yapacağız, değil mi?

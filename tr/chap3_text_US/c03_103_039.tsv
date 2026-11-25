@@ -1,37 +1,447 @@
+0	<CLT=cltMIND>İkinci ceset bulundu anonsu\nçaldı...
+1	<CLT=cltMIND>Herkesin koşarak gelmesi uzun\nsürmedi.
+2	T-Tenko! C-Cidden mi!?
+3	B-Bu ne? Bu nasıl oldu?
+4	T-Tenko...! Gonta çok üzgün...\nGonta seni koruyamadı!
 5	...
+6	...Shuichi, durumu açıkla.
+7	Ruh çağırma seansı yaptığınızı sanıyordum.\nNe oldu?
+8	B-Bilmiyorum...\nNe...oluyor...?
+9	Ben de şaşırdım! Bir soruşturma sırasında\ncinayet işleneceğini hiç düşünmemiştim!
+10	Ş-Şey, sanırım şimdilik...belki hemen\nsoruşturmaya başlamalısınız!?
+11	Ondan önce bir şeyi doğrulamak\nistiyorum...
+12	Angie'yi öldüren suçlu, Tenko'yu öldüren\nsuçludan farklı biri olabilir, değil mi?
 13	Ha?
+14	İki kişi tarafından iki cinayet işlenirse ne olur?\nYa iki Kara varsa?
+15	Sınıf Duruşması'nda ikisini de bulmamız\ngerekecek mi?
+16	Şimdi sen söyleyince güzel bir nokta.\nO durumda ne olurdu?
+17	Ha? N-Ne olurdu?\nMonodam...ne olurdu?
+18	N-NE-OLURDU...?
+19	Sen de neden kaybolmuş gibi görünüyorsun, Monodam!?\nİşleri Babam yerine sen yöneteceğini sanıyordum!
+20	BEN...BÖYLE-BİR-ŞEY-OLACAĞINI-HİÇ-\nBEKLEMİYORDUM...
+21	NE-YAPACAĞIMI-BİLMİYORUM!\nGERÇEKTEN! BİLMİYORUM!
+22	Off yaaa, hepsi darmadağın.
+23	Sınıf Duruşması'nın amacına karar veremezseniz\nneyi soruşturacağımızı bilemeyiz.
+24	B-Babam her zaman ne yapacağını bilir!\nOndan yardım istemeliyiz!
+25	Unuttun mu!? Babam bize yardım edecek\ndurumda değil!
 26	...
+27	Ihhh... Babamın o hâle gelmesi tamamen\nbizim suçumuz...
+28	Ha? Hepsi senin suçun mu, Monophanie?
+29	Babacııım! İmdaaat! Kendi başımıza ne\nyapacağımızı bilmiyoruz!
+30	Aşkın gücünü kullanmalıyız! Bu onu\nnormale döndürür!
+31	B-BU...İŞE-YARAMAZ. BABAM-ARTIK-SADECE-\nBOŞ-BİR-KABUK.
 32	...
+33	Bu doğru değil! Aşkın gücüyle her şey\nmümkün!
+34	Bunu anlamıyorsun çünkü daha önce hiç\nsevilmedin, Monodam!
 35	...
+36	Babacııım! Seni seviyorum, lütfen normale\ndön!
+37	Seni görmek istiyorum, Babaaaa!\nSeni bütün kalbimle seviyorum!
+38	Ah, beni utandırıyorsunuz.
+39	Geri döndüüüm! Ben yokken uslu durdunuz mu?
+40	Çok teşekkürler, sevimli, canım\nyavrularım!
+41	Akademiyi siz yönetirken rahatlatıcı\ntatilimin tadını sonuna kadar çıkardım!
+42	Hihihi! Ah, gıdıklanıyorum! Babamın yoğun\nsevgisi beni sırılsıklam ediyor!
+43	Babacım, dilin harika hissettiriyor!\nUmarım bu içimde bir şey uyandırmaz!
+44	HAYIIIIIIIIIIIR...
+45	Vay be, o tatil tam ihtiyacım olan şeydi.\nDinlenmek için izin almak önemli.
+46	Normalde çoğu şirket tatile gitmen için\nizin almana bile izin vermez...
+47	Ama ben yapabildim! Sır, izin alsan da almasan\nda çekip gitmek!
+48	Ha? Dur, o zaman...bu kel kim?
 49	...
+50	Ah, ben yokken yerime bakması için tuttuğum\nbir yarı zamanlı çalışan.
+51	İşte anlaştığımız gibi ücretin!\nŞimdi al ve defol!
+52	Ha? Rahatlamış olman gerektiğini\nsanıyordum.
 53	...
+54	O baş belası yoldan çekildiğine göre...\nNe konuşuyordunuz?
+55	Ah, doğru. İki Kara adayı varsa oylarınıza\nne olur?
+56	Eh, bunun bir cevabı var!\nİlk gelen alır!
+57	İlk gelen alır mı?
+58	İlk bulunan kurbanı öldüren Kara\nhedefiniz olacak.
+59	Yani Angie'yi öldüren Kara, Tenko'yu\nöldürenle aynı değilse...
+60	O zaman sadece Angie'nin katili Kara\nsayılacak.
+61	Kısacası Tenko'nun katili <CLT=cltSTRONG>boşuna öldürdü<CLT=cltNORMAL> ve\nTenko'nun kendisi de <CLT=cltSTRONG>boşa giden bir kurban<CLT=cltNORMAL>.
+62	Ah, sonra gözden geçirebilmeniz için bunu okul\nkurallarına ekleyeceğim.
+63	Monokuma Dosyası'nı da güncelledim. Bu cinayeti\nde soruşturmak için elinizden geleni yapın.
+64	<CLT=cltSYSTEM>Monopad'inin Gerçek Mermileri bölümündeki\n"<CLT=cltSTRONG>Monokuma Dosyası 3<CLT=cltSYSTEM>" güncellendi.
+65	Vay be, Babam işleri yeniden yönettiği için\nher şey ne kadar sorunsuz gidiyor!
+66	Liderler kararlı davranabilmeli!\nKararsızlık en kötüsü!
+67	Babacııım, ışıl ışılsın!\nLamba gibi parlıyorsun!
 68	...
+69	Sevimli yavrularım tarafından övülmekten\ndaha güzel bir şey yok.
+70	Sevimli yavrularımla vakit geçirmekten\ndaha güzel bir şey yok.
+71	Yaşadığınız sürece hiçbirinizi asla\nbırakmayacağım.
+72	Bizi asla bırakmayacağını söylerken\nöylece arkasında bıraktı!
+73	Bu yüzden çok muhteşem!\nLütfen beni biraz daha yala, Babacım!
 74	...
 75	...
+76	Ş-Şey...bütün bunları toparlarsak...
+77	İki cinayetin suçluları farklıysa oyumuz\nAngie'nin katilini belirleyecek.
+78	Ama farklı bir suçlu olup olmadığını bile\nbilmiyoruz, değil mi?
+79	Doğru...her ihtimale karşı Tenko'nun\nölümünü de soruşturmalıyız.
+80	Ah-haha! Sonunda işler kızışıyor!\nÇok heyecanlanıyorum!
+81	Gahhhh! Seni lanet psikopat!
 82	...
+83	Shuichi...bu kötü.
 84	Hm?
+85	Bu...tartışmasız kötü.\nTenko'nun öldürüldüğüne inanamıyorum.
+86	Herkes üzgün ve kafası karışık...\nVe ben şu an yardım edecek durumda değilim...
+87	O yüzden...burada öne çıkman lazım.
+88	Dinle, Shuichi...
+89	İmkânsız diye bir şey yoktur,\ntek yapman gereken onu başarmak.
 90	E-Evet...
+91	Pekala...o zaman önce Monokuma\nDosyası'na bakalım.
+92	<CLT=cltMIND>Kurban <CLT=cltSTRONG>Ultimate Aikido Ustası<CLT=cltMIND>\nTenko Chabashira...
+93	<CLT=cltMIND>Ceset 4. kattaki ortadaki boş\nodada bulundu.
+94	<CLT=cltMIND>Ölüm saati yaklaşık\nsabah 11.
+95	<CLT=cltMIND>Görünen tek yara ensedeki bıçak\nyarası.
+96	Ensede bir bıçak yarası...\nAngie'nin ölüm sebebiyle aynı.
+97	Tesadüf gibi görünmüyor.\nBelki...Angie'nin lanetidir.
+98	L-Lanet mi...?
+99	Tanrım, yine mi...
+100	L-L-Lanet miii!?
+101	H-Hey!?
+102	N-Ne—!? Lanet mi!?
+103	Kaito, sakin ol!
+104	L-Lanet olmasının imkânı yok!
+105	Dalga geçmeyin!!!
+106	Dalga geçen sensin!
+107	Ölmek mi istiyorsun!?
+108	<CLT=cltSYSTEM>*GÜM!!!*
+109	<CLT=cltMIND>Odada boğuk bir ses yankılandı.
 110	...
 111	...
+112	K-Kaito...iyi misin?
+113	Pardon, Shuichi...kötü hissetmeye başlıyorum...\nama başka bir sebepten.
+114	Biraz temiz hava alacağım, o yüzden...\nbunu sana ve Maki Rulo'ya bırakıyorum...
+115	<CLT=cltMIND>Kaito hâlâ biraz sendeleyerek\nodadan çıktı...
+116	Şey... Soruşturmaya devam etsek mi?\nVakit çok önemli...
+117	Doğru... Kendi hayatımız tehlikedeyken\nTenko'nun ölümünün yasını tutacak vaktimiz yok...
+118	B-Bu doğru ama...önce Angie, sonra Tenko...
+119	V-Ve daha önce...Tenko'dan şüphelendiğimi\ndüşününce...
+120	Özür dilerim...Tenko!
+121	Hepsi Gonta'nın suçu...!\nGonta yine arkadaşlarını koruyamadı!
 122	...
+123	<CLT=cltMIND>Tenko'nun ölümü hepimizi hazırlıksız yakaladı...\nHerkes panik içinde.
+124	<CLT=cltMIND>Kendimi toparlamalıyım.\nDaha çok çalışmalıyım.
+125	<CLT=cltMIND>Çünkü ben...bir dedektifim.
+126	Burası çok karanlık... İstesek bile\nsoruşturamayız.
+127	Gonta odayı aydınlatmak için diğer odadan\nmum getirsin, tamam mı?
+128	Hayır, buna gerek olmayacak.
+129	Evet...buna hiç gerek yok.
+130	...Ha? Neden?
+131	Göster onlara, Keebo! Yeni gücünü göster!
+132	<CLT=cltMIND>Yeni güç mü?
+133	Gözleri parladı!
+134	Ben, muhteşem dahi kız Miu Iruma, Keebo'ya\nyeni bir özellik yükledim!
+135	Bunu bana bırakın. Hepinizi aydınlatan\nyol gösterici ışık olacağım.
+136	Mwah-hahahahaha! Parla, parla!\nParla, seni çılgın lanet elmas!
+137	Off yaaa...ne kötü bir özellik. Onu...Transformer\nfalan yapmalıydın...
+138	Ama artık aydınlık, o yüzden acele edip\nsoruşturmalıyız.
 139	Evet, haklısın.
+140	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Keebo'nun El Feneri Özelliği<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+141	Önce Angie...sonra Tenko!
+142	Gonta çok utanıyor...!\nGonta neden arkadaşlarını koruyamadı!?
+143	Off yaaa...ne kötü bir özellik. Onu...Transformer\nfalan yapmalıydın...
+144	Neden...? Neden...bu...?
+145	Kiyo, cinayetin epey şok edici olduğunu\nbiliyorum...
+146	Elbette...buna ben de şaşırdım...\nAma seans neden başarısız oldu?
+147	Bütün adımları kusursuz uyguladık...!
+148	<CLT=cltMIND>Bunu cinayetten daha çok dert\nediniyor gibi...
+149	Oh! <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>'u yeniden yapıp\nbu sefer Tenko'nun ruhunu çağırırsak—
+150	Saçmalamayı kes. Sadece seans sırasında\nne olduğunu söyle bana.
+151	Sen de Shuichi de oradaydınız, değil mi?\nSeans sırasında mı öldürüldü?
+152	Doğru... Seansın neden başarısız olduğunu\nanlamak için olanları geride bırakmak en iyisi olabilir...
+153	...Neyse, çabuk ol.
+154	O sırada seansa başlamak için ruh medyumu\nTenko'yu...
+155	...büyü çemberinin içinde kaplumbağa gibi\nkonumlandırdık, başı işaret taşına değecek şekilde.
+156	Sonra Shuichi ile Kokichi kafesi Tenko'nun\nüstüne koydu...
+157	Ve ondan sonra ben beyaz kumaşı kafesin\nüstüne örttüm...
+158	Sonra dördümüz birlikte ahşap Köpek Tanrı\nheykelini kafesin üstüne koyduk.
+159	Ardından odanın dört köşesinde durduk.\nKokichi ile Shuichi mumları söndürdü.
+160	Son olarak hep birlikte <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> şarkısını\nsöyledik. Seansın tamamlanmış olması gerekiyordu ama...
+161	Ah, şimdi sen söyleyince şarkı sırasında\ntuhaf bir ses duyduğumu hatırlıyorum...
+162	<CLT=cltSYSTEM>*güm!*
+163	Benim için de bir gizem. Belki birinin\ntökezlediğini düşünmüştüm...
+164	<CLT=cltMIND>Birinin tökezlemesi için epey yüksek bir\nsesti... Belki Kiyo bir şey biliyordur.
 165	Ve sonra ne oldu?
+166	Ah...ona seslendik ama cevap gelmedi.\nShuichi ile Kokichi'ye mumları yeniden yaktırdım.
+167	Ve sonra büyü çemberinin içindeki bütün\neşyaları ters sırayla çıkardık.
+168	Önce dördümüz birlikte Köpek Tanrı\nheykelini kaldırdık...
+169	Sonra ben beyaz kumaşı çıkardım.\nVe sonra...
+170	Himiko kafese koştu ve onu\nkaldırdığı anda—
+171	...O zaman Tenko kesinlikle seans sırasında\nöldürülmüş gibi görünüyor.
+172	Ama böyle bir karanlıkta zor olmaz mıydı?\nHem kafesin içindeydi, değil mi?
+173	O zaman ne zaman öldürüldü?
+174	Evet, sorun bu.
+175	Başka bir sorun daha var...
+176	O da seansın neden başarısız olduğu.\nBir türlü çözemiyorum...
+177	Belki biri köşesinden ayrılmıştır?\nYa da başka biri gizlice buraya mı girdi?
+178	Tabii ki, çünkü bu seans açıkça bir\nsahtekârlıktı.
 179	...
+180	<CLT=cltMIND>Maki hiçbir zaman lafını sakınan biri\nolmadı.
+181	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Seans Sırasındaki Ses<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+182	Anlayamıyorum...\nSeansın neden başarısız olduğuna dair hiçbir fikrim yok...
+183	...Hâlâ bunu mu söylüyorsun?
+184	Neden seansı bir kez daha düşünmüyoruz?\nNeden başarısız olduğunu bilmek istiyorum.
+185	Ah, şey, belki daha çok ipucu buluruz.
+186	O sırada seansa başlamak için ruh medyumu\nTenko'yu...
+187	...büyü çemberinin içinde kaplumbağa gibi\nkonumlandırdık.
+188	Alnı üstüne dayansın diye yere bir işaret\ntaşı konmuştu.
+189	Sonra Shuichi ile Kokichi kafesi Tenko'nun\nüstüne koydu...
+190	Ve ondan sonra ben beyaz kumaşı kafesin\nüstüne örttüm...
+191	Sonra dördümüz birlikte ahşap Köpek Tanrı\nheykelini kafesin üstüne koyduk.
+192	Ardından odanın dört köşesinde durduk.\nKokichi ile Shuichi mumları söndürdü.
+193	Son olarak hep birlikte <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> şarkısını\nsöyledik. Seansın tamamlanmış olması gerekiyordu ama...
+194	Seans sırasında duyduğum o tuhaf ses\nvardı. Acaba neydi...
+195	<CLT=cltSYSTEM>*güm!*
+196	Benim için de bir gizem. Belki birinin\ntökezlediğini düşünmüştüm...
+197	<CLT=cltMIND>Birinin tökezlemesi için epey yüksek\nbir sesti. Emin misin, Kiyo?
+198	Ona seslendik ama cevap gelmedi, o yüzden\nShuichi ile Kokichi'ye mumları yeniden yaktırdım.
+199	Ve sonra büyü çemberinin içindeki bütün\neşyaları ters sırayla çıkardık.
+200	Önce dördümüz birlikte Köpek Tanrı\nheykelini kaldırdık...
+201	Sonra ben beyaz kumaşı çıkardım.\nVe sonra...
+202	Himiko kafese koştu ve onu\nkaldırdığı anda...
+203	...O zaman Tenko kesinlikle seans sırasında\nöldürülmüş gibi görünüyor.
+204	Ama böyle bir karanlıkta zor olurdu.\nHem kafesin içindeydi.
+205	Soru şu: Tenko tam olarak ne zaman\nöldürüldü?
+206	Bana bırakın... Hepinizi aydınlatan\nyol gösterici ışık olacağım.
 207	...
+208	Himiko! Hey, Himiko! Güçlü ol, Himiko!
+209	Gonta... Himiko'yu o kadar sarsarsan\nkırılacak!
+210	Ama konuşmuyor!\nSanki Himiko burada bile değil!
+211	Tenko yüzünden gerçekten şok olmuş olmalı...\nşimdilik onu rahat bırakalım...
 212	T-Tamam...
 213	...
+214	<CLT=cltMIND>Himiko...
 215	...
+216	Bu döşeme tahtaları sana biraz sallantılı\ngelmiyor mu? Üstlerinde yürümek zor.
+217	Döşeme tahtaları çivilenmemiş, sadece\nkirişlerin üstüne konmuşlar.
+218	Gonta bana öyle söyledi. Biraz sallantılı\nolmalarının sebebi muhtemelen bu.
+219	Hmmm... Sadece üstüne konmuşlar.\nBu yüzden sallantılılar.
+220	Eh, tahtalar epey kalın ve sağlam.\nKolayca yerinden çıkacaklarını sanmıyorum.
+221	Ama biri bir döşeme tahtasını kaldırmak\nisteseydi kolayca yapabilirdi, değil mi?
+222	Evet, sanırım.
+223	Döşeme tahtaları sadece kirişlerin üstüne\nkonmuş... Bu yüzden sallantılılar.
+224	Eh, tahtalar epey kalın ve sağlam.\nKolayca yerinden çıkacaklarını sanmıyorum.
+225	Ama biri bir döşeme tahtasını kaldırmak\nisteseydi kolayca yapabilirdi, değil mi?
+226	Evet, sanırım.
+227	B-Ben...Tenko'yu şüpheli gösteren...şeyler\nsöyledim...ve şimdi bu...
+228	*burun çeker* Özür dilerim, Tenko!
+229	...Sonra ağla.
 230	Ha...?
+231	Ağlamak Tenko'yu geri getirmez...ve iyice\nsoruşturmazsak biz de öleceğiz.
+232	Gerçeği bulup suçluyu saptamam lazım.\nTenko için...ve hepimiz için.
 233	...
+234	Haklısın. Tenko pişmanlığı kalmasın diye\nbunu çözmemizi isterdi...
+235	Bu...özür dilemenin en iyi yolu olur.
+236	Düpedüz elimden gelenin en iyisini yapacağım.\nTenko için de...
+237	Bu soruşturma bitti, kapandı! Hepsi de Keebo'ya\nyeni özelliğini verdiğim için benim sayemde!
+238	Şimdi, Kaltak-Fu'nun katili belli ki...
+239	...en başta bu saçma seansa katılmaya yazılan\nsiz salak pisliklerden biri!
+240	Ah, hayır, öyle olması şart değil—
+241	Ha? Cidden mi? Bu seans açıkça onu çekip\nöldürmek için kurulmuştu.
+242	Odada olmayan biri onu nasıl\nöldürebilirdi?
+243	Yani Tenko'nun seans sırasında öldürüldüğüne\nmi inanıyorsun?
+244	Başka ihtimal yok, bok kafa!\nTanrım, ONU bile bilmiyor musun!?
+245	<CLT=cltMIND>Tenko'nun seans başlamadan önce\nhayatta olduğu doğru...
+246	Artık geri dönüş yok, Tenko.\nBu noktadan sonra konuşmamalısın.
+247	Ağzını bir dahaki açışında senin aracılığınla\nkonuşan Angie olacak.
+248	Anlaşıldı. Seans bitene kadar tek kelime\netmeyeceğim!
+249	<CLT=cltMIND>Tenko, Kiyo'ya cevap verdi, yani o noktada\nkesinlikle hayattaydı.
+250	<CLT=cltMIND>Ama mumlar yeniden yakılınca...
+251	<CLT=cltMIND>Çoktan öldürülmüştü.
+252	<CLT=cltMIND>Yani karanlıkta öldürüldü.\nEminim.
+253	<CLT=cltMIND>Mumlar söndürüldükten sonra Tenko tam\nolarak ne zaman öldürüldü?
+254	<CLT=cltMIND>Bu davanın önemli bir noktası\nolabilir.
+255	Bu soruşturma bitti, kapandı! Hepsi de Keebo'ya\nyeni özelliğini verdiğim için benim sayemde!
+256	Şimdi, Kaltak-Fu'nun katili belli ki...
+257	...en başta bu saçma seansa katılmaya yazılan\nsiz salak pisliklerden biri!
 258	<CLT=cltMIND>Burada hâlâ araştırmam gereken\nbir şey var...
 259	Evet
 260	Hayır
 261	Emin olmadığın bir şey mi var?
 262	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+263	<CLT=cltMIND>Koridora geldiğimde...
+264	<CLT=cltMIND>...hayal edebileceğimden çok daha şaşırtıcı\nbir manzara gözlerimin önüne serildi.
+265	<CLT=cltMIND>Duvarlara mumlar asılmış...\nOdadaki tek ışık kaynağı onlar.
+266	<CLT=cltMIND>Bu odada pencere yok, o yüzden mumlar\nolmadan zifiri karanlıktı.
+267	<CLT=cltMIND>Ama suçlu Tenko'yu tam bir karanlıkta\nnasıl öldürdü?
+268	<CLT=cltMIND>Duvarlara mumlar asılmış...
+269	<CLT=cltMIND>Odadaki tek ışık kaynağı onlar.
+270	<CLT=cltMIND>Bu odada pencere yok, o yüzden mumlar\nolmadan zifiri karanlıktı.
+271	<CLT=cltMIND>Ama suçlu Tenko'yu tam bir karanlıkta\nnasıl öldürdü?
+272	<CLT=cltMIND>Görünüşe göre bu döşeme tahtaları\n<CLT=cltSTRONG>kirişlerin<CLT=cltMIND> üstüne döşenmiş...
+273	<CLT=cltMIND>Muhtemelen biraz sallantılı gelmelerinin\nsebebi bu.
+274	<CLT=cltMIND>Ama epey kalın ve sağlamlar, kolayca\nyerinden çıkacaklarını sanmıyorum.
+275	<CLT=cltMIND>Ah, bu döşeme tahtası gevşek!
+276	<CLT=cltMIND>Ve tam Tenko'nun altındaki...
+277	Bu döşeme tahtası neden gevşek?
+278	Önceden böyle değildi...seans sırasında\ngevşemiş olmalı.
+279	...Seans sırasında neden gevşesin ki?
+280	Bu kadar kalın ve ağır bir döşeme tahtası\nkolayca gevşemezdi.
+281	O zaman...biri onu bilerek gevşetmiş\nolmalı.
+282	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Gevşek Döşeme Tahtası<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+283	<CLT=cltMIND>Bu döşeme tahtası gevşek.\nVe tam Tenko'nun altındaki...
+284	<CLT=cltMIND>Önceden böyle değildi. Seans sırasında\nolmuş olması gerektiğinden eminim.
+285	<CLT=cltMIND>Ama bu kadar kalın ve ağır bir döşeme\ntahtası kolayca gevşemezdi.
+286	<CLT=cltMIND>Bu da birinin onu bilerek gevşettiği\nanlamına gelmeli.
+287	<CLT=cltMIND>Odanın köşesinde küçük bir\naçıklık var!
+288	<CLT=cltMIND>Bir insanın geçebileceği kadar büyük\ngörünmüyor ama yine de...
+289	...Bir delik mi? Görünüşe göre burada da altta\nbir boşluk var. Ah, dur...
+290	...Aşağıda bir şey görebiliyorum. Oraya bir\nşey düşmüş gibi görünüyor.
+291	<CLT=cltMIND>Ne? Oraya bir şey mi düşmüş?
+292	Diğer her yere baktıktan sonra neden zeminin\naltına inip kendimiz görmüyoruz?
+293	Doğru. Hadi yapalım.
+294	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Köşedeki Delik<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+295	<CLT=cltMIND>Odanın köşesinde küçük bir\naçıklık var!
+296	<CLT=cltMIND>Zeminin altında bir boşluk var ve\naşağıda bir şey var...
+297	<CLT=cltMIND>Ama zeminin altına bakmadan önce\nburadaki incelemeyi bitirmeliyim.
+298	<CLT=cltMIND>Odanın köşesinde küçük bir\naçıklık var!
+299	Bir insanın geçebileceği kadar büyük\ngörünmüyor ama yine de...
+300	...Bir delik mi? Görünüşe göre burada da altta\nbir boşluk var. Ah, dur...
+301	...Aşağıda bir şey görebiliyorum. Oraya bir\nşey düşmüş gibi görünüyor.
+302	Ne? Oraya bir şey mi düşmüş?
+303	<CLT=cltMIND>Buradan bir şey mi düşürüldü?
+304	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Köşedeki Delik<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+305	Diğer her yere baktıktan sonra neden zeminin\naltına inip kendimiz görmüyoruz?
+306	Doğru. Hadi yapalım.
+307	Aşağısı epey karanlık görünüyor...\nIşık için ne kullanmalıyız?
+308	Bir mum götürelim. Keebo'nun yukarıdan\ngelen ışığıyla yeterli olmalı.
+309	O zaman ben bir mum getireyim. Aşağı\ninebilmemiz için o döşeme tahtasını kaldır.
+310	Tamam, anladım.
+311	<CLT=cltMIND>Deliğin yakınındaki birkaç döşeme tahtasını\nçekip çıkardım ve mumu Maki'den aldım.
+312	<CLT=cltMIND>Sonra delikten dikkatle geçip zeminin\naltına indik.
+313	Maki, burada araştırmayı bitirdik.\nBelki zeminin altına bakmalıyız?
+314	Aşağısı epey karanlık görünüyor...\nIşık için ne kullanmalıyız?
+315	Bir mum götürelim. Keebo'nun yukarıdan\ngelen ışığıyla yeterli olmalı.
+316	O zaman ben bir mum getireyim. Aşağı\ninebilmemiz için o döşeme tahtasını kaldır.
+317	Tamam, anladım.
+318	<CLT=cltMIND>Deliğin yakınındaki birkaç döşeme tahtasını\nçekip çıkardım ve mumu Maki'den aldım.
+319	<CLT=cltMIND>Sonra delikten dikkatle geçip zeminin\naltına indik.
+320	<CLT=cltMIND>Kiyo'nun yere çizdiği büyü çemberi.\nEn azından *öyleydi*...
+321	Tamamen çiğnenmiş.\nSanırım kaçınılmazdı.
+322	Bu...tuzla mı çizildi?
+323	Ne zaman ruh çağırma seansı yapsam\nhep tuz kullanırım.
+324	...İyi misin? Kulağa gülünç\ngeliyorsun.
+325	G-Gülünç mü? Pek çok başarılı seans yaptım!\nHatta ruhlar bedenime bile gir—
+326	Kes sesini. Aptal hayallerini duymak\nistemiyorum.
+327	<CLT=cltMIND>Maki gerçekten lafı dolandırmıyor.\nAslında biraz ferahlatıcı.
+328	Her hâlükârda bu kadar ayak iziyle orijinal\nçemberi seçemiyorum...
+329	Kiyo'nun laboratuvarında öğreniriz. <CLT=cltSTRONG>Kafesli Köpek\nKöyü<CLT=cltNORMAL> belgesinde yazıyor olmalı.
+330	...Değil mi, Kiyo?
 331	...
+332	<CLT=cltMIND>Morali bozuk görünüyor.\nSanırım bu mantıklı.
+333	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Korekiyo'nun Çizdiği Büyü Çemberi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+334	<CLT=cltMIND>Kiyo'nun yere çizdiği büyü çemberi.
+335	<CLT=cltMIND>Tuzla çizdiği için orijinal çizim şimdiye\nkadar her yerinden çiğnenmiş...
+336	<CLT=cltMIND>Orijinal çemberi artık seçemiyorsun\nbile.
+337	<CLT=cltMIND><CLT=cltSTRONG>Ultimate Antropolog<CLT=cltMIND>'un laboratuvarındaki\n<CLT=cltSTRONG>Kafesli Köpek Köyü<CLT=cltMIND> belgesinde çizili olduğunu biliyorum.
+338	<CLT=cltMIND>Seansta kullanılan kafes bu.
+339	Yaklaşık bir metre yüksekliğinde ve bir buçuk\nmetre genişliğinde görünüyor.
+340	Epey büyük bir demir kafes.
+341	Bir insanın içine sığabileceği kadar büyük.
+342	<CLT=cltMIND>Seans sırasında Kokichi ile ben Tenko'yu\nkafesle örttük...
+343	<CLT=cltMIND>Onu kaldırmamız da gerekiyordu.
+344	<CLT=cltMIND>Ama içeri dalıp kafesi ilk kaldıran\nHimiko oldu.
+345	...Hey, şuna bak.
+346	Kafesin altında bir kan lekesi.\nMuhtemelen Tenko'nun kanı, değil mi?
+347	Evet, sanırım öyle. Bu sıçrama öldürüldüğünde\nolmuş olmalı.
+348	Yani Tenko kafesin içindeyken\nöldürüldü.
+349	Bence haklısın. Tenko seanstan önce kafesin\naltına girdi...
+350	...ama seanstan sonra kafes kaldırıldığında\nçoktan ölmüştü.
+351	Kafes kaldırıldığı anda bıçaklandıysa bu kan\nlekesini açıklardı, değil mi?
 352	Hm...
+353	<CLT=cltMIND>Belki seans sırasında değil de kafesin\nkaldırıldığı anda öldürülmüştür.
+354	<CLT=cltMIND>Bu bir ihtimal...
+355	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Demir Kafes<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+356	<CLT=cltMIND>Seansta kullanılan kafes bu.
+357	<CLT=cltMIND>Epey büyük. Yaklaşık bir metre yüksekliğinde\nve bir buçuk metre genişliğinde.
+358	<CLT=cltMIND>Seans sırasında Kokichi ile ben Tenko'yu\nkafesle örttük...
+359	<CLT=cltMIND>Onu kaldırmamız da gerekiyordu ama\nHimiko önce içeri daldı.
+360	<CLT=cltMIND>Kafesin altındaki kan sıçraması...\nmuhtemelen Tenko öldürüldüğünde oldu.
+361	<CLT=cltMIND>Yani Tenko hâlâ kafesin içindeyken\nöldürüldü.
+362	<CLT=cltMIND>Ama kafes açıldığı anda hızla\nbıçaklanmış olması da mümkün.
+363	<CLT=cltMIND>Seansta kullanılan ahşap köpek heykeli.\nSanırım adı <CLT=cltSTRONG>Köpek Tanrı<CLT=cltMIND>.
+364	<CLT=cltMIND>Seans sırasında bu ahşap heykel kafesin\nüstündeydi...
+365	<CLT=cltMIND>Kaldırmak için dördümüz gerekti.
+366	Bu ahşap heykel epey ağır...
+367	Kiyo yaklaşık 80 kilo olduğunu söyledi.\nBu iki kızın ağırlığı kadar...
+368	...Sen kızlar hakkında ne *bilirsin* ki? Annen\ndışında bir kadına dokundun mu hiç?
 369	N-Ne?
+370	...Şaka yapıyorum. Neyse...
+371	Bu ağır şey kafesin üstündeyse Tenko\nkolayca dışarı çıkamazdı.
+372	Evet...bu konuda haklısın.
+373	<CLT=cltMIND>...Az önce şaka yapıyormuş\ngibi gelmedi.
+374	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Köpek Heykeli<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+375	<CLT=cltMIND>Seansta kullanılan ahşap köpek heykeli.\nSanırım adı <CLT=cltSTRONG>Köpek Tanrı<CLT=cltMIND>.
+376	<CLT=cltMIND>Seans sırasında bu ahşap heykel kafesin\nüstündeydi ve sonra şunlar tarafından kaldırıldı...
+377	<CLT=cltMIND>Kiyo, Kokichi, Himiko ve ben.
+378	<CLT=cltMIND>Kiyo yaklaşık 80 kilo olduğunu söyledi.
+379	<CLT=cltMIND>Kafesin üstünde bu kadar ağır bir şey varken\nTenko'nun kolayca çıkabilmesi pek olası değil.
+380	<CLT=cltMIND>Tenko'nun cesedinin yanında bir taş var.\nBu şu olmalı...
+381	Lütfen alnını buraya koyduğum bu taş\nişarete daya.
+382	Avludan getirdiğim sıradan bir taş.\nİşe yarayacağından emin misin?
+383	Kesinlikle. Sadece alnının dayanacağı bir\nişaret olarak gerekli.
+384	Şey...böyle mi?
+385	<CLT=cltMIND>Tenko alnını bu taşa dayamış,\nbüzülmüş hâldeydi...
+386	<CLT=cltMIND>Kafese sığmak için kendini küçültmek\nzorundaydı.
+387	<CLT=cltSYSTEM>"<CLT=cltSTRONG>İşaret Taşı<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+388	<CLT=cltMIND>Tenko'nun cesedinin yanında bir taş var.
+389	<CLT=cltMIND>Tenko alnını bu taşa dayamış,\nbüzülmüş hâldeydi...
+390	<CLT=cltMIND>Kiyo kafesin içinde kaplumbağa gibi\nolmakla ilgili bir şey söylemişti...
+391	<CLT=cltMIND>Seansta kullandığımız beyaz örtü.
+392	<CLT=cltMIND>Bu kafesin üstüne\nkonmuştu...
+393	<CLT=cltMIND>Onu kaldıran Kiyo'ydu.
+394	Bu kumaş epey kalın...
+395	Pencere perdesine benziyor ama tamamen\nışık geçirmez. Ve arkasında...
+396	Bak, üstünde bir kan lekesi var, tam\nörtünün ortasına yakın.
+397	Ama kumaşta delik yok...
+398	Yani Tenko bu kumaşın içinden\nbıçaklanmadı.
+399	...Kumaşın altındayken bıçaklandı.
+400	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Beyaz Örtü<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+401	<CLT=cltMIND>Seansta kullandığımız beyaz örtü.
+402	<CLT=cltMIND>Onu kafesin üstüne koyan ve\nkaldıran kişi...
+403	<CLT=cltMIND>Kiyo.
+404	<CLT=cltMIND>Örtü epey kalın. Hiç ışık geçirmeyen\npencere perdeleri gibi.
+405	<CLT=cltMIND>Örtünün üstünde de kan var,\ntam ortaya yakın.
+406	<CLT=cltMIND>Ama kumaşta delik olmadığına göre Tenko'nun\nbunun içinden öldürüldüğünü sanmıyorum...
+407	<CLT=cltMIND>Kumaşın *altından* bıçaklanmış\nolmalı.
+408	<CLT=cltMIND>Tenko'nun cesedi...\nSon nefesini böyle büzülmüş hâlde verdi.
+409	<CLT=cltMIND>Monokuma Dosyası'na göre tek yarası\nboynundaki bıçak yarası.
+410	<CLT=cltMIND>Bu yara ölümcüldü...
+411	Bu anında ölüme yol açmış olmalı.\nSeans sırasında çığlık duymadım...
+412	Ah, dur...
+413	Anlaşıldı. Seans bitene kadar tek kelime\netmeyeceğim!
+414	<CLT=cltMIND>Tenko acıya rağmen gerçekten\nağzını kapalı tutar mıydı?
+415	Ölümü anında olmamış olabilir ama kan kaybından\nölmeden önce pek uzağa gidemezdi.
 416	Ne demek istiyorsun?
+417	Bunu dert ediyordun, değil mi?
+418	Bu kadar derin bir yarayla kurban ölmek\ndışında bir şey yapamayacak kadar şoktadır.
+419	...Tecrübelerinden mi konuşuyorsun?
+420	...Elbette. Hızlı ölümler benim uzmanlık\nalanımdır.
+421	<CLT=cltMIND>Pekala o zaman...bu mantıklı.
+422	Asıl soru şu...neyle öldürüldü?\nEtrafta bir cinayet silahı göremiyorum...
+423	<CLT=cltMIND>Haklısın, ortada bir cinayet silahı\ngöremiyorum. Bu bir ipucu olabilir.
+424	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Tenko'nun Son Anları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+425	<CLT=cltMIND>Tenko'nun cesedi...\nSon nefesini böyle büzülmüş hâlde verdi.
+426	<CLT=cltMIND>Monokuma Dosyası'na göre tek yarası\nboynundaki bıçak yarası.
+427	<CLT=cltMIND>Bu yara ölümcüldü...
+428	<CLT=cltMIND>Maki anında ölmemiş olabileceğini\nsöylüyor.
+429	<CLT=cltMIND>Uzun süresi olmadığından eminim ama\nbelki hareket etmek için birkaç saniyesi vardı.
+430	Burada olduğun için teşekkürler, Maki.\nÇok büyük yardımın dokunuyor.
+431	<CLT=cltMIND>Cevaplanmamış en büyük soru...\ncinayet silahı.
+432	<CLT=cltMIND>O silahın nereye gittiği bu davayı\nçözmenin anahtarı olacak.
 433	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+434	<CLT=cltMIND>Ama sadece görmek bile midemi bulandırıyor...
 435	...
+436	...Sadece bu odayı araştırıyoruz.\nBunun akıllıca olduğundan emin misin?
 437	...Ne demek istiyorsun?
+438	Angie ile Tenko'nun katilleri farklıysa\noylamamız gereken Kara...
+439	İlk cinayetin suçlusu.\n<CLT=cltSTRONG>Angie'yi öldüren suçlu<CLT=cltNORMAL>.
+440	Monokuma öyle dedi...
+441	Yani Tenko'nun ölümünü soruşturacağımıza\nAngie'ninkini soruşturmamız gerekmez mi?
+442	E-Evet, elbette...
+443	Ama bu öldürme oyunundan daha büyük.\nÖlen iki kişi uğruna...
+444	*İkisinin de* ölümünün gerçeğini ortaya\nçıkarmalıyım.
+445	Eh, neden böyle hissettiğini anlıyorum...
+446	Ama...diğer olay yerini yeniden soruşturmayı\nplanlıyorsan muhtemelen acele etmeliyiz.

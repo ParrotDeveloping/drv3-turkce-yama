@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_102_038
+25|Resme bakmadan bile bunu çizebilmene\nşaşırdım...
+26|Bütün belgeyi ezberledim, o yüzden bu büyü\nçemberi kusursuz olmalı.
+27|Elbette <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>'un şarkısını da\nezberledim. Siz de aynısını yapmalısınız.
+28|Şarkının sözlerini buraya yazdım.\nLütfen ezberleyin.
+29|Diğer herkes çoktan ezberledi.\nSonuçta karanlıkta okuyamayacaksınız.
+30|Sözleri şimdi mi ezberlememiz lazım?
+31|Sen bir dedektifsin, hafızanın bu işe yeteceğini\nbekliyorum. Melodisi şöyle...
+32|<CLT=cltMIND>Kiyo'nun şarkıyı söylemesini dinledim ve\nmelodiyi ve sözleri ezberlemek için elimden geleni yaptım.
+33|Pekala...Sanırım artık ezberledim.
+34|Kehehe... Hafızan olağanüstü.\nGerçekten de <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>sin.
+35|Pekala o zaman, ritüele hemen başlayalım.
+36|Yaşasııın! Sonunda Angie'yi göreceğiz!
+37|Ondan önce bir ruh medyumu seçelim.\nEn iyi bir kızla işe yarar...
+38|O zaman ben yaparım.
+39|Angie'nin ruhunun girmesi gereken benden\nbaşka birini düşünemiyorum.
+40|...Hayır, ben yapacağım.
+41|Çünkü ruh medyumu sen olursan Angie ile\nkonuşamazsın.
+43|Angie ile konuşmak istiyorsun, değil mi?\nO zaman ruh medyumu ben olayım...
+44|Böylece onunla vedalaşabilirsin.
+45|Ve vedalaşmayı bitirdikten\nsonra...
+46|Başını dik tut ve hayatına ileriye bakarak devam et!\nBenimle ve diğer herkesle hayatta kal!
+47|...Lütfen.
+50|Ayrıca...Himiko, sana bir şey söyleyeyim.
+51|Duygularını ifade etmek gayet doğal.\nHiç utanmamalısın.
+52|O yüzden...Angie ile konuşurken ağlamak\nistersen devam et, gözlerin şişene kadar ağla.
+53|...Ağlayınca daha iyi hissedeceksin.
+54|Yani...gülmek de insanı daha iyi\nhissettirir...
+55|Ve öfkeni bir şeyden çıkarmak da gerçekten\nmoralini düzeltebilir!
+56|Ağlayarak, gülerek ve öfkeni dışa vurarak\nkalbini çalıştır, Himiko.
+58|Bence sen fazla çalışmışsın...
+59|Hahaha, muhtemelen haklısın.
+60|<CLT=cltMIND>Görünüşe göre ikisi barıştı...\nBu iyi.
+61|Ruh medyumuna karar verdiğimize göre\nbaşlayalım.
+62|Pekala, Himiko! Sonra görüşürüz!
+63|Şimdi ruh medyumu Tenko'nun ortadaki\nçemberin içine oturmasını istiyorum...
+64|Büyü çemberini bozmamak için lütfen\nyoldan yürüdüğünden emin ol.
+65|Mm-hm... Burası çok karanlık olduğu için\nadımına dikkat et.
+66|Sonra o çemberin içinde bir kaplumbağa\ngibi olmalısın...
+67|Lütfen alnını buraya koyduğum bu taş\nişarete daya.
+68|Avludan getirdiğim sıradan bir taş.\nİşe yarayacağından emin misin?
+69|Kesinlikle. Sadece alnının dayanacağı bir\nişaret olarak gerekli.
+70|Şey...böyle mi?
+71|Bu rahatsız edici olabilir ama lütfen seans\nbitene kadar dayan.
+72|Ne yaparsan yap başını kaldırmamalı ya da\npozisyonunu değiştirmemelisin.
+73|Çocuk oyuncağı! 5 yıldızlı esnekliğim var!
+74|Şu andan itibaren geri kalanımız işe koyulmalı.\nYapılacak daha çok şey var.
+75|Önce bu demir kafesi Tenko'nun üstüne koymalıyız.\nBunu Shuichi ile Kokichi'ye bırakıyorum.
+76|Ve lütfen unutmayın...büyü çemberini\nbozmamak için dikkatli yürüyün.
+77|Taaa-mam, bana güvenebilirsin! Öyle\ngörünmeyebilirim ama aslında süper güçlüyüm!
+78|I-Ihh...yalan söylememeliydim...\nBöyle işler için...fazla zayıfım...
+79|Demirden yapılmış, ağır olmasına şaşmamalı...
+80|Dur! Öylece üstüme düşürmeyin!

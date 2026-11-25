@@ -1,8 +1,77 @@
+0	K-Kaede! Ve...Rantaro?\nKirumi? Ryoma?
+1	Ben yaptım! Canlı gibi görünmüyorlar mı?\nTam anlamıyla ilahi değiller mi?
+2	Sen mi yaptın...?
+3	Evet, kendi el yapımı balmumu\nheykellerim.
+4	Balmumu heykel mi? Neden?
+5	Neden mi? Diriltme ritüeli için tabii ki.
+6	Hmm, <CLT=cltSTRONG>Necronomicon<CLT=cltNORMAL>'a göre <CLT=cltSTRONG>ritüeli<CLT=cltNORMAL> yapmak\niçin ölünün bir heykeline ihtiyacımız var.
+7	Ben de bunları yaptım.
+8	Basit bebekler muhtemelen daha iyi olurdu ama\nişe koyulunca Atua beni ele geçirdi.
+9	Nyahaha! Bir de baktım ki bunları yapmışım!\nNe dersiniz? İnanılmaz değiller mi?
+10	Böyle zalim şeyleri o kadar masumca yapıyorsun ki.
+11	Hm? Ne?
+12	İnanılmaz...\nBir an gerçek olduklarını sandım.
+13	<CLT=cltMIND>Evet...tıpkı gerçekleri gibi.\nAma...
+14	Önce sen onu ikna etmeyi dene. Dedektifler\nkonuşmakta iyidir, değil mi?
+15	<CLT=cltMIND>Dedektifler hakkında bazı yanlış\nbilgileri var gibi geliyor...
+16	<CLT=cltMIND>Ama Maki'nin insanları ikna etmekte pek iyi\nolmadığını biliyorum. Yani iş bana düşüyor.
+17	Angie'nin böyle şeyleri hiç umursamadan\nyapabilmesi onu bu kadar tehlikeli yapan şey.
+18	Lütfen! Angie'yi durdurmalısınız!
+19	Angie...bir daha düşünür müsün lütfen?
+20	...Anlıyorum, anlıyorum. Tam olarak neyi\ndüşüneyim?
+21	Yapmaya çalıştığın <CLT=cltSTRONG>ritüeli<CLT=cltNORMAL>.
+22	Bunun ne kadar kötü olabileceğini\nanladığını sanmıyorum.
+23	Bunun Monokuma'nın <CLT=cltSTRONG>motifi<CLT=cltNORMAL> olduğunu unutma.\nO yapmamızı *istiyorsa* iyi olamaz.
+24	Ama ölüler gerçekten hayata dönemez.\nYani ölenler hâlâ hayatta olmalı—
+25	Hayır, Angie. Bu mümkün değil.
+26	Cesetler sahte değildi. Eminim.\nÖzellikle balmumu heykelleri gördükten sonra.
+27	Heykeller neredeyse kusursuzdu ama gerçek\ncesetlerde hâlâ <CLT=cltSTRONG>bir ruhun izleri<CLT=cltNORMAL> vardı.
+28	Yaşamak için çırpınan, mücadele eden,\nhayat için savaşan <CLT=cltSTRONG>bir ruh<CLT=cltNORMAL>...
+29	Bu asla taklit edilemeyecek bir şey.
+30	Ne teknolojin olursa olsun bir ruhu\ntaklit edemezsin.
+31	Ryoma, Kirumi, Rantaro...ve Kaede...öldü.
+32	...Katılıyorum. <CLT=cltSTRONG>Ölümlerinin gerçek<CLT=cltNORMAL>\nolduğundan hiç şüphem yok.
+33	Güvenin bana, epey ceset gördüm.
+34	Anlıyorum, anlıyorum... Maki öyle diyorsa\nbelki de gerçekten ölüdürler.
+35	O zaman...ritüeli yaparsak ölüleri gerçekten\ndiriltecek miyiz?
+36	Ne mucizevi bir gizem.
 37	Ha?
+38	...Ne diyorsun? Ölmüş biri diriltilemez.
+39	Hm? Ama Atua öyle demiyor.
+40	Ritüeli yaparsak şimdiye kadar ölen herkesin\ngeri geleceğini söylüyor.
+41	Yani...o dördü gerçekten ölüyse\n<CLT=cltSTRONG>diriltme ritüeli<CLT=cltNORMAL> kesinlikle işe yarayacak.
+42	Nyahahaha! Öyle olmalı!\nÇünkü Atua asla yanılmaz!
+43	Sen...bunu durdurmayacaksın, değil mi?
+44	Elbette hayır! Bu Atua'nın iradesi!
+45	Bu senin iraden, Atua'nın değil.
+46	Yok canım, Atua'nın.
+47	Atua bana bu ritüeli yaparsak arkadaşlarımızın\nhayata döneceğini söyledi.
+48	O yüzden yapmalıyız. Atua'nın doğrudan bir\nemrine karşı gelemeyiz.
+49	Yoksa...cezalandırılırız, biliyorsun değil mi?
 50	...
+51	Muhtemelen hâlâ <CLT=cltSTRONG>motif<CLT=cltNORMAL> için endişeleniyorsun,\nShuichi, ama sorun yok.
+52	Atua konuştu... Bütün kaçış düşüncelerini bir\nkenara bıraktığın sürece kötü bir şey olmayacak.
+53	Öyle mi? O zaman artık konuşmanın\nanlamı yok.
+54	Hmm, konuşmamız bitti mi? Çünkü hâlâ\nritüel için hazırlanmakla meşgulüm.
+55	Beni yavaşlatacaksanız sizi balmumu heykele\nçeviririm! Nyahahaha!
+56	Tenko, şimdilik dönelim.\nSanırım başka bir plana ihtiyacımız olabilir...
 57	T-Tamam...
+58	<CLT=cltMIND>Angie'yi ikna edemeyince isteksizce\nlaboratuvardan çıktık.
+59	<CLT=cltMIND>Onu ikna etmenin bir yolunu\nbulmalıyız.
 60	Evet
 61	Hayır
 62	Emin olmadığın bir şey mi var?
 63	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
 64	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+65	<CLT=cltMIND>Ama sadece görmek bile midemi bulandırıyor...
+66	<CLT=cltMIND>Balmumu yığını
+67	<CLT=cltMIND>Onu ikna etmenin bir yolunu\nbulmalıyız.
+68	<CLT=cltMIND>Onu ikna etmenin bir yolunu\nbulmalıyız.
+69	<CLT=cltMIND>Gerçekten Ryoma'ya benziyor...
+70	<CLT=cltMIND>Ama...aslında—
+71	<CLT=cltMIND>Baktıkça daha çok Rantaro'ya\nbenziyor...
+72	<CLT=cltMIND>Ama...aslında—
+73	<CLT=cltMIND>Tıpatıp Kirumi'ye benziyor...
+74	<CLT=cltMIND>Ama...aslında—
+75	<CLT=cltMIND>...Tıpatıp Kaede'ye benziyor.\nYüzü ve bedeni, gerçeği gibi görünüyor...
+76	<CLT=cltMIND>Ama...aslında—

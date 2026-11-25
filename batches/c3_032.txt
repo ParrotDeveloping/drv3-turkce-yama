@@ -1,0 +1,53 @@
+@ chap3_text_US
+## c03_011_010
+1|D-Dalga geçmeyi kesin!\nCanınız ne isterse onu yapamazsınız!
+2|Hmmm? Ama Atua'nın kutsaması bende.
+3|Evet! Atua'nın kutsaması bizde! Bundan bahsetmeyi\nkesmeyen her yozu da fırlatırım!
+4|Hm...öğrenci konseyi falan olduğunuzu iddia\nettiğinizi biliyorum ama bu fazla ileri gitmek, değil mi?
+5|Daha önce de söylediğimiz gibi bunların hepsi\nöldürme oyununu bitirip barışı korumak için.
+6|<CLT=cltMIND>Ne? Neler oluyor?
+7|Kaito, ne oldu?\nNe için kavga ediyorsunuz?
+8|Bunlar inanılmaz bir şey yaptı.
+9|Yeraltına inen rögar kapağını\nkapattılar!
+10|Rögar kapağını mı?
+11|Gonta rögar kapağının üstüne ağır kayalar koydu,\nböylece artık kimse kullanamaz.
+12|Büyümle yok edebilirdim ama bu sefer\nGonta'nın halletmesine karar verdim.
+13|Bunu...neden yaptınız?
+14|Çünkü rögar buradan ayrılma arzumuzu\nhatırlatıyor.
+15|Kaede'nin başına gelen gibi bir trajedinin\nyeniden olmasını istemiyoruz.
+17|Aynen öyle, Angie! O yeraltı tünelini tamamen\nunutup yeni bir başlangıç yapmalıyız!
+18|Lanet olsun! Fikrimizi sormadan bile\ncanı ne isterse yapıyor!
+19|Herkesin fikrini almak kesinlikle önemli ama\nöyle yapsaydık hiçbir şey yapılamazdı.
+20|Bu yüzden sadece öğrenci konseyi başkanına\nitaat etmeye karar verdik!
+21|Angie ise doğru kararı verir! Sonuçta\nAtua'yı duyabiliyor!
+22|Vay be, umut yok. Onun gibi sıradan kızlar\nkonu tarikat olunca tam bir saf oluyor.
+23|Tsumugi, harika konuşman için teşekkürler.\nGerçekten çok etkilendim.
+26|Beni hep desteklediğin için teşekkürler. Atua sade\nve basit hizmetin için sana gülümsüyor.
+27|Merak ediyordum...Atua'nın kırmızı gözleri ve\ngece kadar siyah saçları mı var?
+28|Atua'nın senin istediğin özellikleri var.
+29|Kırmızı gözlü, siyah saçlı bir tanrı... Ah,\nbeni ne havalı bir tanrı gözetliyor!
+30|Onunla ne zaman tanışabilirim!? Onunla bir\nan önce tanışmak istiyorum!
+31|Atua zamanın ötesinde var ama eminim çok\nyakında Onun varlığını hissedeceksin.
+32|Çok havalı! Atua çok havalı!
+33|...Böyle tarikatlar ters düşersen gerçekten\nçok sinir bozucu olabiliyor.
+34|Ama ama rögar kapatıldı diye neden bu\nkadar kızgınsınız?
+35|Kaçmak için kullanmak istediğiniz için mi?\nHâlâ buradan ayrılmaktan vazgeçmediniz mi?
+36|Vazgeçmediniz mi?
+37|Vazgeçmediniz mi?
+38|S-Sizin derdiniz ne lan!?
+39|Öğrenci konseyi bunu görmezden gelemez.\nGörünüşe göre kontrolümüzü sıkılaştırmalıyız.
+40|Sıkılaştırmak mı...? Bana gevşek mi diyorsun!?
+41|Dün geceden sonra bilgisayar odasındaydın,\ndeğil mi Miu?
+42|Ha? N-Ne olmuş yani!?
+43|Maki de öyle. Gece epey ilerleyene kadar\nodasına dönmedi.
+44|Shuichi...sen de, değil mi?
+46|Tanrım! Bu iyi değil! Hayatın darmadağınsa\nzihnin ve bedenin de öyle olur.
+47|Atua haklı... Öğrenci konseyi dışında herkesin\ngece dolaşmasını yasaklamalıyız.
+49|N-Ne!? Neyi nerede yaptığım hiç senin\nlanet işin değil!
+50|Hayır, herkes hâlâ ayrılmak istediği sürece\nbu kabul edilemez.
+51|Öğrenci konseyi neden kurallarınızdan muaf?\nBu açıkça adaletsiz, değil mi?
+52|Nyahaha! Öğrenci konseyi için endişelenmiyorum.\nOnlar artık ayrılmak istemiyor.
+53|Aynen öyle.\nZaten neden dışarı çıkmamız gereksin ki?
+54|Burada yiyeceğimiz, kıyafetimiz, barınağımız,\nharika arkadaşlarımız ve en önemlisi Atua var.
+55|Daha ne lazım?\nAçgözlü olmak iyi değil, biliyorsun değil mi?
+56|Nyahaha! Öğrenci konseyindeki herkes\nçok ilahi!

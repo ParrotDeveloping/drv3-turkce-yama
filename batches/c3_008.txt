@@ -1,0 +1,61 @@
+@ chap3_text_US
+## c03_002_003
+56|Nyahahahah! İşte Atua bu!\nÇok ilahi!
+58|<CLT=cltMIND>Angie gittikçe daha ürkütücü\noluyor gibi geliyor...
+60|Yeni bir alan açıldı!
+61|Hadi gidelim, Shuichi!\nAtua bile "Acele edin!" diyor.
+73|<CLT=cltMIND>Şimdilik gizemli nesneleri\nbulmalıyım...
+74|Kapı çöktü...\nGörünüşe göre artık arkaya geçebiliyoruz.
+75|Acaba bunun ötesinde ne var?\nBelki bizi bekleyen biri vardır?
+76|Öyle mi düşünüyorsun...?
+77|Kehehe... Sadece bir şaka.\nEvet, bu dünya şakalarla dolu.
+78|<CLT=cltMIND>Şakalarla dolu bir dünya...\nSanırım doğru.
+79|<CLT=cltMIND>Bir merdiven...\nArtık 4. kata çıkabiliyoruz.
+80|Acaba üst katlar nasıl...\nTehlikeli...bir şey yok, değil mi?
+81|Yoksa var mı...?
+82|Merak etme, ne olursa olsun Gonta seni\nkoruyacak.
+83|Teşekkürler, Gonta. İçimi rahatlattın.\nSmokin ve maske sana çok yakışırdı.
+84|Hm? Smokin beyefendiler için şart ama\nmaske de mi...?
+85|Gitmeliyim.
+## c03_002_005
+0|Aaah!
+1|<CLT=cltMIND>Ürkütücü ortam o kadar boğucuydu ki\nfarkında olmadan bağırdım.
+2|Burada...neler oluyor...?
+3|Şey...uydurma bir hikâye ama güya burada\nvahşi bir cinayet işlenmiş.
+4|Lütfen dur... Korkunç hikâyeler duyarsam\ntuvalete tek başıma gidemem.
+5|Oh ama uydurma hikâye diyor...\nO zaman sorun yok, değil mi?
+7|Aaah!!!
+9|S-Senin burada ne işin var!?
+11|<CLT=cltMIND>Monokuma sessizce bana baktı, sonra\nkoridorun sonunda gözden kayboldu.
+12|...Sanırım onu takip etmemi istiyor.\nOrada ne olabilir?
+13|Bu alan...ürkütücü hissettiriyor...\nGonta da korkuyor...
+14|Sorun yok...\nCinayet hikâyesi sadece uydurmaydı.
+15|Sadece hikâye değil...\nGonta'nın içinde tuhaf bir his var...
+16|Belki şuradaki duvardaki leke...\nkandır...
+17|Sadece bir leke... Muhtemelen sahnelenmiş,\nbiliyor musun?
+18|Sahnelenmiş mi...?
+19|Muhtemelen Monokuma ya da Monoyavrular\nbizi korkutmak için oraya koymuştur.
+20|G-Gerçekten mi?
+21|<CLT=cltMIND>Demek roller değişti, ha?
+22|Tsumugi, böyle şeyler seni rahatsız ediyor mu?
+23|Şey, rahat olduğumdan değil...
+24|Sadece bu kadar abartılı olunca sahte gibi\ngörünüyor, o yüzden bir şey hissetmiyorum.
+25|Ama Gonta... Az öncesine kadar çok\ngüvenilirdin.
+26|Sanırım smokin ve maske giymen için\nhenüz çok erken.
+27|Ha!? Oh, olamaz! Ama smokin beyefendiler\niçin şart...!
+29|Smokin beyefendiler için şart...\nGonta asla beyefendi olamayacak...
+30|Hey, sadece kontrol ediyorum ama...\nburası bir okul, değil mi?
+31|E-Evet...\nEn azından Monokuma öyle dedi.
+32|Ama bu kat hiç okul gibi görünmüyor,\ndeğil mi?
+33|...Ne demek istediğinden emin değilim.
+34|Yani...bu katın havası tamamen farklı,\nsanki bambaşka bir bina gibi.
+35|Böyle bir bina yapmak çok paraya ve\nemeğe mal olmuş olmalı...
+36|Bütün araştırma laboratuvarları da inanılmaz...\nBu okula ne kadar para harcandı?
+37|Ve hepsi sadece bizim için yapıldı...
+38|Laboratuvarların yeteneğimizi geliştirebilmemiz\niçin olduğunu söylemişlerdi.
+39|Yeteneğini araştırıyorsun, mükemmelleştiriyorsun...\nBu biraz okul gibi, değil mi?
+40|O zaman Monokuma gerçekten burasının <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'lerin\ntoplandığı bir okul olmasını mı istiyor?
+41|Ama aynı zamanda bizi burada hapsedip\nbirbirimizi öldürtüyorlar.
+42|Evet, hiç mantıklı değil. Buraya getirildik ve\nsonra öldürme oyununa zorlandık...
+43|Hmm...hiç anlamıyorum.\nSıradan aklım sınırına dayandı.
+44|Bu <CLT=cltSTRONG>Yetenekli Gençler Akademisi<CLT=cltNORMAL> de\nne böyle?

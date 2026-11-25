@@ -1,0 +1,63 @@
+@ chap3_text_US
+## c03_211_000
+39|Ve beni itiraf etmem için sıkıştırsalardı bu\nfazlasıyla şüpheli görünürdü.
+40|Tanrım! Kahretsin! Shuichi planıma burnunu\nsoktuğu için istediğim gibi olmadı...
+42|Tch! Sen ve senin lanet yalanların! Git köşede\notur da kendi kendine oyna!
+43|Taaa-mam! Hemen başlıyorum!
+44|Pekala! Peki bu kilitli oda gizemini kuran\nşerefsiz kim!?
+45|Miu...artık dayanamıyorum...
+46|Ne oldu!?\nŞimdi de bana karşı yumuşuyor musun!?
+47|Kilitli oda gizemini kimin kurduğu önemli\ndeğil, çünkü bunu herkes yapabilirdi.
+48|Bu kadar basit bir şeyi bile anlamıyor\nmusun, seni pis boşalma kabı?
+49|B-Boşalma kabı mı...!?
+50|Sonunda...! Biri...sonunda bana boşalma\nkabı dedi!!!
+51|N-Neyi konuşsak şimdi...?
+52|Kilitli odaya değil, Angie'nin laboratuvarına\nkimin girdiğine odaklanmalıyız.
+53|Sadece öğrenci konseyi üyelerinden biri—\nya da Kokichi—girebilirdi.
+54|Bu yüzden suçlu onların arasında\nolmalı.
+55|Geriye dört şüpheli kalıyor...\nTsumugi, Gonta, Keebo...ve Kokichi.
+56|Himiko'yu unutma.\nO da öğrenci konseyinin bir parçası.
+57|Angie ile can ciğer olması fark etmez,\no da hâlâ şüpheli.
+58|Bu daha önce söylediğinle çelişiyor ve bunu kayıt\nözelliğimi kullanarak kanıtlayabilirim...
+59|...Boşver. Bu sadece vakit kaybı.
+60|Ben mi? Şüpheli mi?
+61|Ben...Angie'yi asla öldürmem!
+62|Pekala bütün şüpheliler, sırada neyi\nkonuşalım?
+63|Herkesin fikrini duymak istiyorum. Kendinizi\nşüpheli listesinden çıkarmak için ne derdiniz?
+64|Neden tartışmayı yönetmeye çalışıyorsun?\nSen de şüphelisin.
+65|Sessiz ol, yabancı! Sadece Şüpheli\nTimi konuşabilir!
+66|Ş-Şüpheli Timi mi!?
+67|Katılıyorum. Şüphe altında olanlar kendilerini\niyice açıklamalı.
+68|Onları suçüstü yakalayabiliriz!
+69|Neyseee, Şüpheli Timi'ne sormak\nistiyorum...
+70|Neyi konuşmalıyız!? Kendimizi şüpheli listesinden\nçıkarmak için ne söylemeliyiz!?
+71|Ee, millet!? Ne düşündüğünüzü duymak istiyorum!
+72|Ş-Şey... Bu biraz zor bir soru,\nbiliyor musun?
+73|Gonta buna cevap bilecek kadar akıllı\ndeğil...
+74|E-Evet... Bu soruya mantıklı bir cevap\noluşturmak zor.
+75|Kelimelerle anlatamıyorsunuz, ha? Masumiyetinizi\nkanıtlamak istemiyor musunuz?
+76|Sana hiç güvenmiyorlar ve onları suçlamıyorum.\nMuhtemelen bir şeyler planlıyorsun—
+77|Tenko...neden ölmek zorundaydı?
+79|Angie'ye ne olduğunu da bilmek\nistiyorum ama...
+80|Artık sadece Angie'ninkini değil, Tenko'nun\ndavasını da konuşabilir miyiz—
+81|Mwah-hahahaha!\nSeni tam istediğim yerde yakaladım, Himiko!
+82|Nyeh? Ne demek istiyorsun?
+83|İki kurban iki ayrı katil tarafından\nöldürülmüş olabilir, biliyorsun değil mi?
+84|Yani ilk kurbandan sorumlu ilk Kara'yı\nbulmamız lazım...
+85|Angie'yi kimin öldürdüğünü çözmemiz lazım.
+86|Angie'nin davasını çözene kadar Tenko'nun\ndavası anlamsız!
+87|Bunu vaktimizi boşa harcamak için mi\nönerdin—
+88|Anlamsız değil!
+89|<CLT=cltMIND>Himiko?
+90|Tenko'nun ölümü anlamsız mı? Bunu nasıl\nsöylersin!
+91|Zavallı Tenko... Ona bunu nasıl yaparsın!?
+92|H-Himiko...
+93|Himiko, şu berbat yalanlarını kes.
+94|Yalan mı...?
+95|Söylediğin her şey tamamen saçmalık.
+96|Tenko hayattayken onu zerre kadar\numursamıyordun...
+97|Ama şimdi öldükten sonra "Ah, olamaz! Zavallı\nTenko!" diyorsun. Hadi ama, cidden mi?
+98|Kokichi! Yeter!
+99|Hayır...sorun değil.\nBöyle düşünmesine şaşırmadım.
+100|Tenko'yu daha önce görmezden geldiğimi biliyorum...\nBu yüzden...şimdi çok üzgünüm...
+101|Tenko ile yüzleşmeliydim...o hâlâ hayattayken\nonunla aramızı düzeltmeliydim.

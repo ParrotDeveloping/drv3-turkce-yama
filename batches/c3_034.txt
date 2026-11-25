@@ -1,0 +1,55 @@
+@ chap3_text_US
+## c03_011_010
+115|Bu arada...kimi dirilteceksiniz?
+116|N-Ne biçim aptalca bir soru bu!?
+117|Hmm... Konuyu Atua ile görüştükten sonra\ndirilteceğimiz <CLT=cltSTRONG>nakil öğrenci<CLT=cltNORMAL>...
+118|...Rantaro Amami!
+120|Eh...Kaede ve Kirumi gibi hüküm giymiş\nkatilleri diriltemeyiz...
+121|Ryoma gibi motif videosunu paylaşmama\nkuralını çiğneyen suçluları da...
+122|Geriye öğrenci konseyinin işine yarayacak\ntek kişi olarak Rantaro kalıyor...
+123|<CLT=cltMIND>Doğru, <CLT=cltSTRONG>Ultimate Avı<CLT=cltMIND>'nı bilen tek\nkişi Rantaro'ydu...
+124|<CLT=cltMIND>Onu geri mi getirecekler?
+127|<CLT=cltMIND>Hayır... Hayır, bu imkânsız!\nOlmayacak...
+128|<CLT=cltMIND>...O öldü.
+129|<CLT=cltMIND>Kaede...onu öldürdü.
+130|Aman, epey geç olmuş bile.\nArtık gitmeliyim.
+131|Atua'ya dua edip ritüelin hazırlıklarına\nbaşlamalıyım.
+132|Nyeeeh...haklısın.\nYakışıklı Atua'ya dua etme vakti.
+133|Pekala o zaman, gidelim.
+135|<CLT=cltMIND>Angie önde, öğrenci konseyi\nodadan çıktı.
+136|Atua'nın iradesini yerine getiriyormuş gibi\ndavranıyor ama bu onun iradesi, değil mi?
+137|Öyle bile olsa şu an ona karşı gelemeyiz.\nAşırı inanç gerçekten ürkütücü.
+138|O zaman öğrenci konseyine karşı topyekûn savaş!\nAltıya altı! Bunu kazanabiliriz!
+139|Ayrıca suikastçı da bizim tarafımızda!\nOnları güzelce, çabucak öldürsün!
+140|Ah, hayır... Bunu barışçıl bir şekilde\nçözmeliyiz.
+141|Tabii, harika olur ama kimsenin bunu barışçıl\nbitirecek bir plan ortaya attığını duymuyorum.
+142|...Ya sen, Kaito? Bunca zamandır sessizsin.\nEminim harika fikirlerin vardır.
+144|Ha? Bir şey mi dedin?
+145|Ah-ah... *Biri* dalıp gitmişti.
+147|<CLT=cltMIND>Kaito...\nBir şeyler yolunda değil gibi.
+148|Kaito...ne oldu?\nİyi misin?
+149|O-Oh, bir şey yok.\nSadece biraz üşüyorum...
+150|Biraz tükürük sürersem daha iyi hissedersin.
+151|...Tam olarak neye tükürük süreceksin?
+152|N-Neyse...<CLT=cltSTRONG>ölüleri diriltmek\n<CLT=cltNORMAL>diye bir şey yok.
+153|B-Bunun imkânı yok...\nSadece mümkün değil—
+154|Lanet olsun...hayır.\nBu ürpertileri durduramıyorum!
+156|Pardon millet. Benim hatam.\nB-Ben odama dönüyorum.
+157|<CLT=cltMIND>Kaito titrek adımlarla odasına\ndönmek için çıktı.
+158|...O da neydi? Hastalanıyor mu?
+159|Az önce bütün o okült şeylerden bahsediyorduk.\nBelki ele geçirilmiştir...
+160|Hahaha! O herif için endişelenmeye\nbaşlıyorum!
+161|Bundan keyif alıyor gibisin...
+162|<CLT=cltMIND>Geri kalanımız yemekhaneden çıkıp\nodalarımıza döndük.
+163|Öğrenci konseyi konuştu! Bu karar\nherkesin iyiliği için!
+164|<CLT=cltMIND>Öğrenci konseyinin kararı...\nBu ne demek? Kaito buna mı üzülüyor?
+165|Ah-ooo! Sorun şimdiden başladı!\nEh, bunun olacağını biliyordum.
+166|Ah, evet. Öğrenci konseyine karşı bir savaş\nbaşlatmak istiyorsak...
+167|...<CLT=cltSTRONG>diriltme ritüelinden<CLT=cltNORMAL> sonrasına\nkadar beklemeliyiz.
+168|Kokichi...bu motife uymak mı\nistiyorsun?
+169|Çünkü kulağa eğlenceli geliyor! Sen de\n<CLT=cltSTRONG>diriltme ritüelini<CLT=cltNORMAL> görmek istemiyor musun!?
+170|Ah ama Angie, Rantaro'yu <CLT=cltSTRONG>nakil öğrenci\n<CLT=cltNORMAL>yapmak istiyor, ha?
+171|Onun hayata dönmesini istemiyorum.
+173|Çünkü...seni en çok seviyorum, Shuichi.\nHep seni düşünüyorum...
+174|Ve sen Kaede'nin hayata döndürülmesini\ntercih edersin, ha?
+175|B-Bu...

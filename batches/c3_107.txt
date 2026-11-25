@@ -1,0 +1,50 @@
+@ chap3_text_US
+## c03_242_000
+53|Sonra suçlu demir kafesin üstüne <CLT=cltSTRONG>beyaz\nkumaşı<CLT=cltNORMAL> örtmeye gönüllü oldu.
+54|O sırada fark etmedik ama bu suçlunun\nbilinçli bir kararıydı.
+55|Tenko'yu öldürmek için kullanılan <CLT=cltSTRONG>cinayet\nsilahını<CLT=cltNORMAL> kurmaları gerekiyordu.
+56|Kafesi kumaşla örterken orağı gizlice\nyerleştirdiler.
+57|Son olarak dördümüz <CLT=cltSTRONG>ahşap heykeli<CLT=cltNORMAL>\nkafesin üstüne <CLT=cltSTRONG>koyduk<CLT=cltNORMAL>.
+58|Suçlu cinayet silahını yerinde tutmak için\nheykelin ağırlığını kullandı.
+59|Hazırlıklar tamamlandıktan sonra seansa\nbaşladık.
+60|Tam bir karanlıkta her birimiz bir köşede durup\n"<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>" şarkısını söyledik.
+61|Şarkı bitince ölünün ruhunun medyuma\ngirmesi gerekiyordu...
+62|ama suçlumuzun başka bir planı vardı—\n<CLT=cltSTRONG>karanlıkta<CLT=cltNORMAL> bir cinayet işlemek.
+63|Şarkıya başladıktan hemen sonra suçlu\nTenko'ya doğru ilerlemeye başladı.
+64|Tam bir karanlıkta bunu yapmak epey zor olurdu\nama suçlumuzun bir <CLT=cltSTRONG>rehberi<CLT=cltNORMAL> vardı.
+65|<CLT=cltSTRONG>Tuzla çizilmiş büyü çemberinin<CLT=cltNORMAL>\nçizgilerini kullandılar.
+66|Suçlu tuzu el yordamıyla bulup onu\nrehber olarak kullandı.
+67|Ve suçlu çemberin ortasına\nulaşınca...
+68|kirişi önceki gece kesilmiş olan döşeme\ntahtasını buldu...
+69|Sonra ayağını kaldırıp döşeme tahtasına\nsertçe <CLT=cltSTRONG>bastı<CLT=cltNORMAL>!
+70|Döşeme tahtası tahterevalli gibi kalktı...
+71|...ve Tenko'nun bedenini kafesin tavanına\ndoğru itti.
+72|Tenko ensesinden <CLT=cltSTRONG>kafesin tepesindeki\norak<CLT=cltNORMAL> tarafından bıçaklandı.
+73|Gözlerimizin önünde öldürüldü ve biz\ngörmedik bile!
+74|Suçu işledikten sonra suçlu tuzu takip\nederek köşesine döndü...
+75|...ritüeli bitirdi ve mumları bize\nyaktırdı.
+76|Suçlunun talimatlarına uyup seans için\nkullanılan ekipmanı kaldırdık...
+77|...ve Tenko'nun cesedini bulduk.
+78|Ve hepimiz cesede odaklanmışken suçlu\norağı aldı...
+79|...ve onu odanın <CLT=cltSTRONG>köşesindeki\ndelikten<CLT=cltNORMAL> zeminin altına düşürdü.
+80|İronik olarak...cinayetin son adımını\nfarkında olmadan biz gerçekleştirdik.
+81|Suçlu cinayeti, bazı delilleri istemeden\nyok edeceğimiz şekilde planlamıştı.
+82|O delil suçlunun karanlıkta yolunu bulmak\niçin kullandığı <CLT=cltSTRONG>büyü çemberiydi<CLT=cltNORMAL>.
+83|Ancak suçlu Keebo'nun bir <CLT=cltSTRONG>fotoğraf<CLT=cltNORMAL>\nçektiğini bilmiyordu.
+84|Bizi gerçekten kurtardı. O olmasaydı çembere\nhangi değişikliklerin yapıldığını bilemezdik.
+85|Ama artık kesin olarak biliyoruz. Ve büyü\nçemberini suçlunun <CLT=cltSTRONG>çizdiğini<CLT=cltNORMAL> biliyoruz...
+86|<CLT=cltSTRONG>Ultimate Antropolog Korekiyo Shinguji<CLT=cltNORMAL>!\nBu cinayetlerin arkasındaki suçlu sensin!
+87|Zeminin altındaki kesik kiriş
+88|Kaldırılan döşeme tahtası
+89|Yapışan koli bandı
+90|Altın varaklı katanayı çıkardı
+91|Kaede'nin heykelini bıçakladı
+92|Sürgülü kilide vurdu
+93|Kokichi'nin kilit açması
+94|Himiko'nun getirdiği küçük taş
+95|Öldürmek için yerleştirilen orak
+96|Shuichi alevi söndürür
+97|Tuzla yapılan yol
+98|Döşeme tahtasına sertçe bas
+99|Olay yerini bozan ayak izleri
+100|Boş odadaki testereli suçlu\nkimdi?

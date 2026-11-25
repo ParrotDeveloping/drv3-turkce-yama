@@ -1,0 +1,58 @@
+@ chap3_text_US
+## c03_011_010
+228|...Git Kaito'yu durdur. Birbirinize bağırmak\nhiçbir işe yaramaz.
+229|Sence iki tarafın da birbirini anlamasını\nsağlamanın bir yolu var mı?
+231|Daha önce sen söyledin, değil mi?
+232|Şu an...bilmiyorum. Ama böyle konuşarak hiçbir\nşeyin çözülmeyeceğini biliyorum.
+233|Öğrenci konseyi üyelerinin fikirlerini\ndeğiştireceğini sanmıyorum.
+234|Doğru ama...
+235|Bunun iki tarafı var... Neden birini\nöylece "ortadan kaldırmıyoruz"?
+238|<CLT=cltMIND>Maki... Angie...
+239|H-Hayır! Bunu yapamayız!\nOnları "ortadan kaldırmak" hiçbir şeyi çözmez!
+240|...Bunu zaten biliyorum. Sadece geldiğim\ndünyada bir seçenek.
+241|Sadece...bir düşün. O kadar.
+244|Ölüleri diriltmek imkânsız.
+245|Öyle olmasa bile gerçekten geri gelmek\nisterler miydi?
+246|Sence geri gelip bu durumu yeniden yaşamak\nisterler mi?
+248|<CLT=cltMIND>Geri gelseler bile öldürme oyunu\ndevam ederdi.
+249|<CLT=cltMIND>Bir kez ölmüş olmaları bir şeye kalkışmayacakları\nanlamına gelmez...
+250|Ne!? Öğrenci konseyine karşı mı geliyorsun!?\nBeni seni fırlatmaya zorlama, Shuichi!
+251|Herkesin neden bu kadar kızdığını\nanlamıyorum...
+252|Bu, öldürme oyunu olmasın ve burada huzurlu\nbir hayatımız olsun diye...
+253|Herkes neden bu kadar üzgün? Atua'dan\nçoktan izin aldım!
+254|Siktir et Atua'nı! Fikirlerimizi dinlemeden kendi\nbaşına hareket etme! Özellikle benimkini!
+255|Geri döndükten sonra zaten feda edileceklerse\n<CLT=cltSTRONG>ölüleri diriltmeye<CLT=cltNORMAL> varım!
+256|Bir kez mi, iki kez mi, yüz kez mi öldükleri\nfark etmez...
+257|Benim yerime öldükleri sürece ölümleri\nboşa gitmiş olmaz!
+259|N-Ne...? Neden bana öyle bakıyorsun?
+260|B-B-Bana yan gözle bakmaya kalkmadan önce\nbir ergenliğe gir bakalım!
+262|<CLT=cltMIND>Burada neler oluyor?\nKaito öğrenci konseyiyle mi kavga ediyor?
+## c03_012_100
+8|Pardon, dostum. Bu ürpertiler geçmiyor...\nDinlenmem lazım.
+9|Görüşürüz...
+11|<CLT=cltMIND>Kaito iyi mi acaba...?
+## c03_012_101
+0|<CLT=cltMIND>Angie bize vazgeçmemizi söyledi\nama buna hiç niyetim yok.
+1|<CLT=cltMIND>Amacım Kaede'ninkiyle aynı.\nHerkesle birlikte buradan çıkmak.
+2|<CLT=cltMIND>Ve bu da...bir şey yapmam gerektiği anlamına geliyor.
+13|<CLT=cltMIND>Hâlâ vakit var... Dinlenmeliyim...
+## c03_013_100
+8|Pardon ama şu an konuşacak havamda\ndeğilim. Sonra konuşuruz, tamam mı?
+## c03_013_101
+0|<CLT=cltMIND>Geceye daha vakit var...
+## c03_013_138
+16|<CLT=cltMIND>Bir milyon yılım olsa bile bunların\nhepsini okuyabileceğimi sanmıyorum...
+## c03_013_258
+1|<CLT=cltMIND>Havuz Girişi Zelda düzeneği bitkisi
+## c03_014_001
+0|Hm? Bu alışılmadık bir grup.
+1|Tenko öğrenci konseyi üyesi, onun neden\nburada olduğunu anlıyorum...
+2|...ama Shuichi, Maki, sizin burada olmanıza\nizin var mı ki? Gece oldu bile.
+4|Ben...ben sadece...gece saatlerinde dışarıda\nolan var mı diye nöbet tutuyordum...
+5|...ve sonra bu ikisini ortalıkta dolaşırken\nyakaladım!
+6|Evet! Sadece öğrenci konseyi üyesi olarak işimi\nyapıyorum! Öğrenci konseyinde olduğum için!
+7|<CLT=cltMIND>Tenko...bu kadar hevesli davranırsan\nşüpheli görünürsün.
+8|Kokichi! Odana dön ve uyu!
+9|Ohh, görüyorum ki işini çok ciddiye alıyorsun.
+10|Ama yalan söylememelisin...
+12|...Yani işini yalan yanlış yapmamalısın!\nNişişi! Neyse, iyi geceler!

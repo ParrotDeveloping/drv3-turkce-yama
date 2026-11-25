@@ -1,0 +1,67 @@
+@ chap3_text_US
+## c03_239_000
+6|Öldürücü darbe vurulurken düşüp\nbedeninin altında kalmış olmalı.
+7|Bunu bizim için...Atua yapmış olmalı.
+8|N-Ne? Atua mı...?\nBunu daha ne kadar sürdüreceksin?
+9|Artık Angie'nin cinayetinin ardındaki gizemin\nçoğunu biliyoruz.
+10|İkna oldum. Angie'yi öldürmüş olabilecek\ntek bir kişi var...
+11|Shuichi, neden tereddüt ediyorsun?\nHepimiz kimin yaptığını biliyoruz!
+13|Hayır! O kişi değil! Tanrım!
+15|Angie'yi kim öldürdü?
+16|Sensin, Kiyo!\nAngie'yi sen öldürdün!
+17|Hiiiiiiyah!
+18|Ne lan!? Demek doğruymuş!
+19|Eh, bu belliydi.\nNe kadar sıkıcı, bariz bir cevap...
+20|Sen...ikisini de öldürdün...
+21|Neden...? Onları neden öldürdün!?
+22|Saf mantık açısından kazanmak için tek\nbir kurban yeterliydi.
+23|Neden!? Neden ikisini de öldürdün!?
+24|...Bence cinayetlerden biri bir\n<CLT=cltSTRONG>kazaydı<CLT=cltNORMAL>.
+26|Doğru. Planın bir parçası değildi.
+27|Ha? Hangisi?
+28|<CLT=cltMIND>Kaza olan cinayet...
+29|Angie Yonaga'nın cinayeti
+30|Tenko Chabashira'nın cinayeti
+31|<CLT=cltMIND>...Hayır, Tenko'nun öldürülme şekli titiz\nhazırlıklar gerektiriyordu...
+32|Shuichi...lütfen söyle bana.\nBilebileceğim her şeyi...bilmek istiyorum.
+35|Burada işleri sen yönetiyorsun, Shuichi!\nKendinden emin bir şekilde söyle!
+37|<CLT=cltMIND>Kaza olan cinayet...
+38|<CLT=cltSTRONG>Angie'nin cinayeti<CLT=cltNORMAL> bir kazaydı.
+39|Ne? Tenko kaza değil miydi?
+40|Doğru. Kiyo başlangıçta tahterevalli numarasıyla\nbirini öldürmeyi planlamıştı.
+41|Ama boş odada hazırlık yaparken Angie\niçeri girdi...
+42|O yüzden konuşmasın diye onu öldürmeye\nkarar verdi.
+43|Suçlu hazırlık yaparken tesadüfen içeri\ngirdi...ve öldürüldü.
+44|O zaman...orada durmalıydı.
+45|Angie'yi öldürdükten sonra Tenko'yu\nöldürmesi için hiçbir sebep yoktu!
+46|Bu oyun için sadece birini öldürmesi gerekiyordu.\nİkisini öldürmek anlamsız.
+47|Daha çok öldürmek için bonus puan alsan\ntamam. Yoksa geride daha çok ipucu bırakır.
+48|Neden, Kiyo?\nNeden iki arkadaşımızı öldürdün?
+49|N-Ne...ne...?\nNeden bahsediyorsunuz siz?
+50|H-Hayır...suçlu ben değilim...!
+51|Ö-Öyleyse...neden herkes bana öyleymişim\ngibi bakıyor...?
+52|Neden! Neden bakıyorlar!? Neden—
+53|Sakin ol, Korekiyo.
+54|E-Evet...!
+55|Sesini yükseltmemelisin.\nKekelememelisin.
+56|Soğukkanlılığını kaybetmemelisin. Telaşlanmamalısın.\nTereddüt etmemelisin.
+57|Şu korkunç yüzlerine bak. Bu zavallı güruh\niçin ıstırap çekmeye değmez.
+58|H-Haklısın... Evet... Haklısın...
+59|Yine başladı...\nBunun derdi ne lan?
+60|Sanki...biriyle konuşuyor gibi.
+61|Biriyle mi? Sadece kendi kendine konuşuyor!\nHem neden ruj sürmüş lan!?
+62|Kehehe... Ne kadar yüksek sesle itiraz\nederseniz edin bu önemsiz bir mesele...
+63|İddialarınızı asla kabul etmeyeceğim.\nHiçbirini.
+64|Çünkü Angie'yi öldürdüğüme dair hiçbir\ndelil yok!
+65|Kehehe... Hayır, bunu kabul etmeyeceğim.
+66|Sadece gerçekleri, gerçek olayları kabul ederim.\nKurguyu, gizemi kabul etmem.
+67|Çıkarımlarınızı ya da tahminlerinizi...\nkabul etmem.
+68|İyi dedin... Aferin, Korekiyo.
+69|Evet...teşekkürler.
+70|Bleaaahhh! Tüylerimi diken diken ediyor lan!
+71|<CLT=cltMIND>Delil yok mu...?\nAngie'yi öldürdüğüne dair delil yok mu?
+72|Yanılıyorsun. Delil *var*.
+73|Ne? Böyle blöflerin işe yaramayacağının\nfarkındasın, değil mi?
+74|Angie'yi boş odada bayıltmak için\nkullanılan silah...
+75|O silah bize her şeyi anlatıyor, Kiyo!
+76|Grgh...!

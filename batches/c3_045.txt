@@ -1,0 +1,60 @@
+@ chap3_text_US
+## c03_017_258
+27|Böyle bağırınca sadece daha da korkak\ngörünüyorsun.
+28|Ooooohhh!\nŞ-Şimdi yaptın yapacağını!
+29|<CLT=cltMIND>Ahahaha, şimdiden bununla dalga\ngeçiliyor.
+## c03_100_157
+0|...Angie için dua edelim.
+1|Atua onun ruhunu cennetin kapılarına\ngötürsün diye...
+2|Atua...lütfen Angie'ye iyi bak!
+4|H-Hey... Neden böyle bitti?
+5|Angie'nin yanında...Atua yok muydu?
+6|Belli ki yokmuş.
+7|B-Bu doğru değil!\nAngie, Atua'nın hep yanımızda olduğunu söyledi!
+9|Bunu konuşacak vaktimiz yok!\nAtua'yı konuşacağımıza—
+10|Evet! Hangimizin suçlu olduğunu konuşup\nbu öldürme oyununu kazanmalıyız!
+11|D-Dur, bu...öldürme oyununun bir parçası mı?
+12|Başka ne olabilir ki? Angie'nin ölmüş olması\nsadece tek bir anlama gelebilir...
+13|Birimiz onu öldürdü.
+14|A-Ama...biri neden böyle korkunç bir şey\nyapsın!?
+15|Gerçekten öyle mi oldu...?
+17|Angie'yi öldüren suçlunun bizden biri\nolmaması mümkün ama—
+18|BLÖĞĞBLRBLÖĞĞBLRBLÖĞĞ!
+19|Ooo... Kusmukla ıslanmış bir giriş! Ne yenilikçi!\nVe kusmuk yine yeşil...
+20|Bu epey uğursuz bir işaret.
+21|Ihhhh... Neden bir cinayet daha işlendi?
+22|Bu ne iş, Monodam!? Herkesi anlaştıracağını\nsanıyordum!
+23|ENDİŞELENMEYİN... BUNU-ATLATMAK-HERKESİ-\nBİRBİRİNE-YAKINLAŞTIRACAK.
+24|ŞİMDİYE-KADAR-HEP-ÖYLE-OLDU, DEĞİL-Mİ?
+25|HER-SINIF-DURUŞMASIYLA-BAĞLARI-\nGÜÇLENİYOR, DEĞİL-Mİ?
+26|HERKESİ-YAKINLAŞTIRMAK-İÇİN-CİNAYETLER-\nGEREKLİ.
+27|Ihh... Ama nasıl...?
+28|O-HALDE...BAŞLAYALIM.
+29|DOSTÇA-BİR-SORUŞTURMA-YAPIN. SONRA\nDOSTÇA-BİR-SINIF-DURUŞMASI-YAPACAĞIZ.
+30|ÖNCE-BUNLARI-DAĞITMALIYIZ.
+31|Oh bak, Monokuma Dosyası. Onu ben\ndağıtmak istiyordum.
+32|Sen de yapmak istemedin mi, Monophanie?
+34|Bu arada, düşünüyordum da...şu öldürme ve\nölme işini bıraksanız iyi olur.
+35|Ölmek çok demode!\nYaşamak bugünlerin modası!
+36|...BLÖĞĞBLRBLÖĞĞBLRBLÖĞĞ!
+37|Ahhh! Yine yeşil kusmuk!\nBu gerçekten uğursuz!
+38|Şikâyet etmenin faydası olmadığına göre\nsoruşturmamıza başlasak iyi olur...
+39|Pekala, herkes...\nHepimiz ne yapmamız gerektiğini biliyoruz, değil mi?
+40|Evet. Yani üçüncü cinayete gelince hepimiz\ncesetlere epey alışmış olmalıyız.
+41|G-Gonta değil! Gonta'nın buna alışmasının\nimkânı yok!
+42|Güvenin bana, buna alışmak istemezsiniz...\nKimse buna alışmamalı...
+43|Nişişi... Çok hoş da bir suikastçının ağzından\nepey samimiyetsiz geliyor.
+45|...Soruşturmaya başlayalım. Başka bir\nseçeneğimiz yok zaten.
+47|<CLT=cltMIND>Ama yine de...tuhaf.
+48|<CLT=cltMIND>Bu acayip bir düzen...
+49|<CLT=cltMIND>Ölülerin heykelleri olan dört balmumu figür\nodada baş aşağı asılmış...
+50|<CLT=cltMIND>Ve ortada, bir kan gölü içinde\nAngie'nin cesedi.
+51|<CLT=cltMIND>Kesinlikle bir tür ritüel gibi\ngörünüyor.
+52|Pekala, kanka. Yardımcım olarak sana güveniyorum.\nBu kâbusu birlikte bitirelim.
+53|Evet...ama iyi misin, Kaito?
+54|Cidden bunu konuşacak vaktimiz\nyok...
+55|Burada ölmemizin imkânı yok...\nSuçluyu kesinlikle bulacağım.
+56|Suçlu... Angie'yi öldüren gerçekten...\naramızdan biri mi?
+57|Ne hissettiğini anlıyorum, Tsumugi, ama o eski\nbasmakalıp lafı her seferinde tekrarlamak zorunda mısın?
+58|Ah, hayır, öyle değil... Yani bu <CLT=cltSTRONG>nakil öğrencinin\n<CLT=cltNORMAL>işi olabilir mi?
+60|Angie <CLT=cltSTRONG>ölüleri diriltmek<CLT=cltNORMAL> için ritüeli bu\nodada hazırladı, değil mi?

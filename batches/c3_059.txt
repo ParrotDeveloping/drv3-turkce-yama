@@ -1,0 +1,59 @@
+@ chap3_text_US
+## c03_102_038
+147|<CLT=cltMIND>Kafam karışık hâlde duvar boyunca\nmuma geri yürüdüm.
+148|<CLT=cltMIND>Bir kibrit çakmayı başarıp mumu\nyeniden yaktım.
+149|Hey, neler oluyor? Gerçekten başarısız mı oldu?
+150|B-Bu olmamalı...\nSeans kusursuzdu...
+151|Angie gelmiyor mu?\nİçerideki hâlâ Tenko mu?
+153|...Tenko?
+154|Ah...ruh ona girene kadar konuşmaması\ngerektiğini söylemiştim...
+155|Nişişi... Emirlere iyi uyuyor.\nAma şimdilik onu çıkarsak nasıl olur?
+156|Dur...böyle kara sanatlar aynı şekilde\nbaşlatılıp bitirilmelidir.
+157|Büyü çemberinden nesneleri çıkaranlar,\nonları içeri getirenlerle aynı kişiler olmalı.
+158|Yoksa...ruh medyumun bedeninde\nkalabilir.
+159|Başarısız olduğuna göre etrafta oyalanan bir\nruh olduğunu sanmıyorum...ama neyse.
+160|<CLT=cltMIND>Kurulumda olduğu gibi Kiyo bize her şeyi\nnasıl toplayacağımızı tarif etti.
+161|<CLT=cltMIND>Her şeyi tam Kiyo'nun söylediği sırayla\nçıkarmaya dikkat ettik.
+162|Şimdi örtüyü kaldıracağım.
+163|<CLT=cltMIND>Kiyo kumaşı nazikçe tutup\nkenara çekti.
+164|Oh...?
+165|Bir şey...ters gidiyor...
+166|Nyeeeh!?
+167|<CLT=cltMIND>Himiko kafese doğru son hızla\nkoştu.
+168|Himiko! Sana basmamanı söylemiştim—
+169|<CLT=cltMIND>Ama dinlemiyordu.\nKafesin üstüne atladı ve...
+170|T-Tenkooo!!!
+171|<CLT=cltMIND>Çaresizliğin verdiği güçle Himiko kafesi\nkavradı, kaldırdı ve...
+173|K-Kim derdi ki...soruşturma sırasında bir\nkurban daha olacak...?
+174|Belki Monophanie'nin yeşil kusmuğu bu\ntrajediyi önceden haber veriyordu...!
+176|Ah, kusmuğun rengi artık normal!\nSanırım gerçekten bunu haber *veriyormuş*!
+177|H-HERKES...LÜTFEN-RUH-ÇAĞIRMA-\nODASINDA-TOPLANSIN...
+## c03_103_039
+0|<CLT=cltMIND>İkinci ceset bulundu anonsu\nçaldı...
+1|<CLT=cltMIND>Herkesin koşarak gelmesi uzun\nsürmedi.
+2|T-Tenko! C-Cidden mi!?
+3|B-Bu ne? Bu nasıl oldu?
+4|T-Tenko...! Gonta çok üzgün...\nGonta seni koruyamadı!
+6|...Shuichi, durumu açıkla.
+7|Ruh çağırma seansı yaptığınızı sanıyordum.\nNe oldu?
+8|B-Bilmiyorum...\nNe...oluyor...?
+9|Ben de şaşırdım! Bir soruşturma sırasında\ncinayet işleneceğini hiç düşünmemiştim!
+10|Ş-Şey, sanırım şimdilik...belki hemen\nsoruşturmaya başlamalısınız!?
+11|Ondan önce bir şeyi doğrulamak\nistiyorum...
+12|Angie'yi öldüren suçlu, Tenko'yu öldüren\nsuçludan farklı biri olabilir, değil mi?
+14|İki kişi tarafından iki cinayet işlenirse ne olur?\nYa iki Kara varsa?
+15|Sınıf Duruşması'nda ikisini de bulmamız\ngerekecek mi?
+16|Şimdi sen söyleyince güzel bir nokta.\nO durumda ne olurdu?
+17|Ha? N-Ne olurdu?\nMonodam...ne olurdu?
+18|N-NE-OLURDU...?
+19|Sen de neden kaybolmuş gibi görünüyorsun, Monodam!?\nİşleri Babam yerine sen yöneteceğini sanıyordum!
+20|BEN...BÖYLE-BİR-ŞEY-OLACAĞINI-HİÇ-\nBEKLEMİYORDUM...
+21|NE-YAPACAĞIMI-BİLMİYORUM!\nGERÇEKTEN! BİLMİYORUM!
+22|Off yaaa, hepsi darmadağın.
+23|Sınıf Duruşması'nın amacına karar veremezseniz\nneyi soruşturacağımızı bilemeyiz.
+24|B-Babam her zaman ne yapacağını bilir!\nOndan yardım istemeliyiz!
+25|Unuttun mu!? Babam bize yardım edecek\ndurumda değil!
+27|Ihhh... Babamın o hâle gelmesi tamamen\nbizim suçumuz...
+28|Ha? Hepsi senin suçun mu, Monophanie?
+29|Babacııım! İmdaaat! Kendi başımıza ne\nyapacağımızı bilmiyoruz!
+30|Aşkın gücünü kullanmalıyız! Bu onu\nnormale döndürür!

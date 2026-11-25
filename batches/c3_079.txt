@@ -1,0 +1,57 @@
+@ chap3_text_US
+## c03_211_000
+166|Ayrıca seans tamamen benim kontrolümde\nde değildi.
+167|Seansı yaptığımız odayı ben seçmedim.\n<CLT=cltSTRONG>Himiko<CLT=cltNORMAL> seçti...
+171|Ah...doğru.
+173|Ayrıca şüphelilerimizi sadece seansa\nkatılanlarla sınırlamamalıyız.
+174|Görüyorsunuz, boş odanın dışarıdan bir\n<CLT=cltSTRONG>giriş noktası<CLT=cltNORMAL> vardı.
+175|<CLT=cltMIND>Dışarıdan bir giriş noktası...\nŞundan bahsediyor olmalı...
+176|Orası...mı?
+177|...Neden bahsettiğini bilmiyorum.
+178|Soruşturma alanından dışarı\nçıkabiliyordun.
+180|İşaret taşı olabilir mi?
+181|İşaret taşı ve giriş noktası...\nNasıl ilişkililer?
+183|Demir...kafesten mi?
+184|Kehehe...\nNe hoş bir şaka, Shuichi...
+186|Tenko'nun altındaki döşeme tahtaları\ngevşekti.
+187|Suçlu içeri girmek için zeminin\naltından gitmiş olabilir.
+188|Tenko bütün seans boyunca onların üstündeydi.\nDöşeme tahtalarının kullanılması pek olası değil.
+189|O alanı kullanmadan girip çıkabileceğimiz\nbaşka bir yer vardı.
+191|Belki suçlu...Tenko'yu ele\ngeçirmiştir...
+192|H-Hey! Bütün o h-hayalet şeylerini\ngeride bıraktık sanıyordum!
+195|Ee? Neresi olduğunu biliyor musun, Shuichi?\nDedektifin ağzından duyalım.
+197|Suçlu dışarıdan içeri nasıl\ngirdi?
+198|<CLT=cltSTRONG>Zeminin altından<CLT=cltNORMAL> bahsediyorsun,\ndeğil mi?
+199|Ha? Zeminin altı mı?
+200|Evet, zeminin altında bir insanın hareket\nedebileceği bir sürünme boşluğu var...
+201|Bir de orayı yan odaya bağlayan bir\n<CLT=cltSTRONG>delik<CLT=cltNORMAL> vardı.
+202|Suçlu deliği kullandıysa seans odasına\ngirip çıkabilirdi.
+203|O ihtimali göz önüne alırsak <CLT=cltSTRONG>bir\nşüpheli daha<CLT=cltNORMAL> var.
+204|Bir şüpheli daha mı? Kim?
+205|Kehehe... Önümde beliriyor...
+206|Ooooh! Açıkça görebiliyorum!\nTenko'nun katilinin gerçek kimliği!
+## c03_212_000
+0|Oda o kadar karanlıkken birinin ışığa\nihtiyacı olurdu, değil mi?
+1|Yoksa bütün teorimi mi reddediyorsun?\nHer iki durumda da delilin yetersiz.
+3|Ne!? Sadece mumlarla mı? Gerçekten mi?\nSen öyle diyorsan Shuichi! Gonta sana güveniyor!
+4|Hayır...mum olamaz. Bunu destekleyen\nbir delil yok, değil mi?
+6|Tabii, zeminin altı dar ama bir kişinin hareket\nedebileceği kadar yer var!
+7|Özellikle de Keebo'nun el feneri varsa!
+11|<CLT=cltMIND>Biraz ışıkla zeminin altında hareket\nedebileceğin doğru...
+12|<CLT=cltMIND>Ama o odayı düşününce zeminin altında\nışık kullanmanın mümkün olduğunu sanmıyorum.
+14|<CLT=cltMIND>Ama bu mümkün mü?
+## c03_212_001
+0|Suçlu seans
+1|Suçlu seans sırasında gizlice içeri girdi...
+2|sırasında gizlice\niçeri girdi...
+3|zeminin altında\nsürünerek.
+4|zeminin altında sürünerek.
+5|Ama seans sırasında\nzifiri <CLT=size2>karanlıktı<CLT=size1><CLT=size2>　　　　<CLT=size1><CLT=size2>.
+6|Ama seans sırasında zifiri karanlıktı.
+7|<CLT=size2>Zeminin<CLT=size1> <CLT=size2>altındaysalar\n<CLT=size1>nasıl görebildiler\nki?
+8|Zeminin altındaysalar\nnasıl görebildiler ki?
+9|Çünkü <CLT=size2>zeminin\n<CLT=size2>altı<CLT=size1> <CLT=size2>karanlık\n<CLT=size2>değildi.
+10|Çünkü zeminin altı\nkaranlık değildi.
+11|Görüyorsunuz,
+12|Görüyorsunuz, kötü adamımızın bir ışığı vardı.
+13|<CLT=cltWEAK><CLT=size2>kötü adamımızın

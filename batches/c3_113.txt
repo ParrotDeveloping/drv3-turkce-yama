@@ -1,0 +1,70 @@
+@ chap3_text_US
+## c03_301_332
+106|Siz ikiniz olmadan...çok yalnızım!
+107|Ama...hayatta kalmalıyım!\nBen...henüz yanınıza gelemem!
+108|Ama...yalnızım!\nİkiniz olmadan çok yalnızım!
+109|Vaaaaaaaaaaaaaaaaaahhhhh!!!
+111|L-Lanet olsun!
+112|I...ıııı...
+113|<CLT=cltMIND>Himiko uzun süre\nağladı.
+114|<CLT=cltMIND>İçinde biriktirdiği bütün duyguları\nsalıverir gibi ağladı.
+115|<CLT=cltMIND>Farkına bile varmadan...\nSanki onun ağlamasına kapılmış gibi...
+116|<CLT=cltMIND>...biz de ağlamaya başladık.
+117|Vaaaaaaaaaaaaaahhhhh!!!
+118|<CLT=cltMIND>Döktüğümüz gözyaşları...\nTarif bile edemem.
+119|<CLT=cltMIND>Yaşadıklarımız ve gelecek olanlar\niçin ağlıyorduk...
+120|<CLT=cltMIND>Hüzün, nefret, hayal kırıklığı, anlaşmazlık,\nöfke, sevgi... Duygu dolu gözyaşları.
+121|<CLT=cltMIND>Ama en azından...\nteslimiyet gözyaşları değildi.
+122|<CLT=cltMIND>Bizi ileri iten gözyaşlarıydı.
+## c03_302_258
+0|<CLT=cltMIND>Bir süre sonra Himiko sonunda\nsakinleşti...
+1|<CLT=cltMIND>Ancak...
+2|Onu taşımak zor mu, Gonta?
+3|Hayır, sorun yok.
+4|Çok huzurlu uyuyor.
+5|Ağladıktan sonra yorgun düştü. Robotlar da\nyağlarını akıttıktan sonra iyi uyur, değil mi?
+6|Size defalarca yakıt kaynağı olarak yağ\nkullanmadığımı söyledim—
+7|Ama vay! Bu beni gerçekten şaşırttı!\nAğlamayı bırakır bırakmaz uyuyakaldı.
+8|Evet...ama böyle uyurken çok\nhuzurlu görünüyor...
+9|...Muhtemelen hepsini dışarı vurduktan sonra\ndaha iyi hissetti, sence de öyle değil mi?
+10|Evet... Umarım öyledir.
+11|O zaman Gonta, Himiko'yu odasına taşıyacak.
+12|Bwah-hahahahaha! Sırtına iyice\nodaklanmayı unutma, duydun mu!?
+13|Onun minicik sivrisinek ısırıklarının sana\nbatmasını hissetmek istiyorsan o odaklanmaya ihtiyacın olacak!
+14|Öyle bir şey yapmasının imkânı yok...\nSonuçta Gonta bir beyefendi.
+15|<CLT=cltMIND>Yurtlara dönerken birden\nfark ettim...
+16|<CLT=cltMIND>Kaito olduğu yerde\ndurmuştu.
+18|...Kaito, ne oldu?
+19|Hm? Oh... Bir şey yok.
+20|Sadece...biraz gece havası almak istedim.\nBeni dert etme. Siz önden gidin.
+21|Ah, emin misin?
+22|Neyse...bir daha böyle bir şey yapma,\ntamam mı?
+23|Korkunç şeylerden hoşlanmıyorsan daha önce\nsöylemeliydin. Hasta olduğunu sanmış—
+24|Benim için endişelendin mi?
+25|Evet...aptallığın için endişelendim.
+26|Hah! Hâlâ bana ısınmadın,\nha?
+27|Belki değil...ama aramızdaki duvarlar biraz\nyıkılıyormuş gibi hissediyorum, biliyor musun?
+28|Belki de o duvarlar onun düşmanlarıydı...
+29|Görünüşe göre artık beklemek\nistemiyor.
+30|Evet! Benim sayemde!
+31|...Evet, belki ama övünüyormuş gibi\nkonuşuyorsun, Kaito!
+32|Heh... Ama dediğim gibi, dönmeden önce\n...biraz hava alacağım.
+33|Siz önden gidebilirsiniz.
+34|Tabii...anladım.\nYarın görüşürüz.
+35|Evet, yarın görüşürüz!
+36|<CLT=cltMIND>Vedalaştıktan sonra yurt\nodama döndüm.
+37|<CLT=cltMIND>Kaito'da neler olduğunu fark\netmedim...
+40|... *öksürük*
+41|*öksürük* *öksürük*
+42|L-Lanet olsun...
+43|Ölmeye...vaktim yok...\nDaha uzaya bile gitmedim.
+44|Lanet olsun...\nBurada ölmemin imkânı yok!
+## c03_701_050
+0|Tanrım...\nHerkes aynı şeyi söylüyor.
+1|İkisi de birini <CLT=cltSTRONG>öldürdü<CLT=cltNORMAL> diye onları aynı\nkefeye koymak doğru değil.
+6|Kaede ile Kirumi...ikisi de birini öldürdü...\nAma bu onları <CLT=cltSTRONG>cani canavarlar<CLT=cltNORMAL> yapmaz...
+7|<CLT=cltMIND>Kaito ile baş başa sessizce biraz\nvakit geçirdim...
+## c03_701_051
+0|Oh, hey kanka. Ne var ne yok?
+5|Tabii...\nBir yere oturup konuşalım.
+6|<CLT=cltMIND>Tamamen uyuşuk hâldeki Kaito ile\nbiraz vakit geçirdim...

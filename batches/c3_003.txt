@@ -1,0 +1,57 @@
+@ chap3_text_US
+## c03_000_138
+6|<CLT=cltMIND>Kaidenin üstünde büyük ahşap bir köpek heykeli\nvar. Epey eski görünüyor.
+7|<CLT=cltMIND>Görünüşe göre <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltMIND> ruh çağırma\nseansında kullanılıyor...
+8|Pencere
+9|Kumaş
+10|Kafes
+11|<CLT=cltMIND>Cam vitrinde sergilenen bir sürü eşya var.\nAma çoğunu tanıyamıyorum.
+12|<CLT=cltMIND>Ne güzel bir katana...
+13|<CLT=cltMIND>Yaklaşık bir metre uzunluğunda gibi\nve kabzasında altın varak var.
+14|<CLT=cltMIND>Muhtemelen değerlidir...\nDokunmamalıyım.
+15|<CLT=cltMIND>Kitaplar ve parşömenlerle dolu...\nHepsi yıpranmış ve eski.
+16|<CLT=cltMIND>Bir milyon yılım olsa bile bunların\nhepsini okuyabileceğimi sanmıyorum...
+17|<CLT=cltMIND>Vitrinde bir kitap var.
+18|<CLT=cltMIND>Kitaplıklar kitaplarla doluydu ama\nsanırım bu özel.
+19|<CLT=cltMIND>Kiyo özellikle bununla ilgileniyordu...
+20|<CLT=cltMIND>El yazması bir kitap, bütün dünyadaki\ntek nüsha...
+21|<CLT=cltMIND>200 yıl önce yıkılan <CLT=cltSTRONG>Kafesli Köpek Köyü<CLT=cltMIND>'nün\ntarihi.
+22|<CLT=cltMIND>Fazla yaklaşmak istemiyorum...\nEtrafındaki <CLT=cltSTRONG><CLT=cltSTRONG>karanlık havayı<CLT=cltMIND><CLT=cltMIND> buradan hissedebiliyorum.
+## c03_000_147
+8|<CLT=cltMIND>Bu dolapta...eskiden çamaşır makineleri ve\ntemizlik malzemeleri vardı...
+9|<CLT=cltMIND>Ama Kirumi...\nartık burada değil.
+## c03_000_148
+7|<CLT=cltMIND>Bir süre su altından kaçış numarası\ngörmek istemiyorum...
+## c03_000_150
+6|<CLT=cltMIND>Yan yana dizilmiş üç siyah çanta var.\nHepsinin içinde silah mı var?
+7|<CLT=cltMIND>Burada bir sürü farklı silah\nvar...
+8|<CLT=cltMIND>Şu silahlara bak...
+9|<CLT=cltMIND>Hepsi havalı tüfek olsa bile\nolağanüstü bir manzara...
+## c03_000_151
+5|<CLT=cltMIND>Tahtadan yapılmış büyük bir bebek...\nAh, dur...bebek *mi*?
+6|<CLT=cltMIND>Bizi gözetleyip korumak için mi\nburada?
+7|<CLT=cltMIND>Tatami hasırları yeni.\nGüzel kokuyorlar...
+8|<CLT=cltMIND>Neon Tabela
+9|<CLT=cltMIND>Bu...bir sütun mu?\nBurada neden sütun var?
+10|<CLT=cltMIND>Zincirlerle havada asılı duran bir iskele\nvar.
+11|<CLT=cltMIND>Bir tür zıplama antrenmanı için mi?\nKung-fu filmi gibi...
+## c03_000_153
+6|<CLT=cltMIND>Angie'nin muhtemelen balmumu heykel yapmak\niçin kullandığı büyük bir balmumu yığını var.
+## c03_000_190
+1|<CLT=cltMIND>Simit burada değil...\nMonokuma kaldırmış mı?
+9|<CLT=cltMIND>Su seviyesi davayı çözmek için kullandığım\ndelillerden biriydi...
+10|<CLT=cltMIND>Burası bir depo.\nİçinde bir sürü havuz ekipmanı var.
+11|<CLT=cltMIND>Spor salonunun penceresi...
+12|<CLT=cltMIND>Bu pencere ile okul binasındaki pencere\nbirbirine bakıyor.
+13|<CLT=cltMIND>Eminim sadece tesadüf ama...\nbir yanım bunun kasıtlı olduğunu düşünüyor.
+14|<CLT=cltMIND>Okulun bütün pencereleri\nkapatılmış...
+15|<CLT=cltMIND>...Ryoma'nın laboratuvarındaki\nhariç.
+18|<CLT=cltMIND>Burada havuz kuralları asılı.\n
+19|Gece yüzmek yasaktır.
+20|<CLT=cltMIND>O tek kural Kirumi'nin aksi hâlde kusursuz\nolan suçunu bozdu...
+21|<CLT=cltMIND>Ama bunun için Monokuma'ya ya da\nMonoyavrulara teşekkür etmeye niyetim yok.
+## c03_000_251
+1|<CLT=cltMIND>Eşyayı taş heykelde kullanınca bir bina\nyükseldi...
+2|<CLT=cltMIND>Bu ne tür bir teknoloji?
+## c03_000_258
+1|<CLT=cltMIND>Havuz Girişi Zelda Düzeneği Bitkisi

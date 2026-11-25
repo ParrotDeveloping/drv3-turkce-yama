@@ -1,0 +1,34 @@
+@ chap3_text_US
+## c03_000_001
+6|<CLT=cltMIND>Erkekler tuvaleti var...\nKızlar tuvaletine girmeme gerek yok.
+7|<CLT=cltMIND>Bodrumda gizemli bir nesne olduğunu\nhatırlamıyorum...
+8|<CLT=cltMIND>Bu monitör özel yapım olmalı...
+9|<CLT=cltMIND>Bunu yapmak için neden bu kadar zahmete girsinler?\nBu bütçe nereden geliyor?
+## c03_000_002
+3|<CLT=cltMIND>Kirumi'nin son anları... Hayatı için koşmasının\ngörüntüsünü kafamdan atamıyorum.
+4|<CLT=cltMIND>Onu hâlâ duyabiliyorum...\nMeydan okuyan çığlığını.
+5|<CLT=cltMIND>Belki kaçmak o kadar da kötü değildir...\nBelki onunla yüzleşecek kadar güçlü değiliz.
+6|<CLT=cltMIND><CLT=cltSTRONG>Sona<CLT=cltMIND> kadar yaşayabilmek için...
+10|<CLT=cltMIND>Ama sadece görmek bile midemi bulandırıyor...
+## c03_000_005
+1|<CLT=cltMIND>...Kilitli.\nSanırım buraya giremem.
+2|<CLT=cltMIND>Bu ne...? Asılı bir parşömen gibi\nama boş.
+4|<CLT=cltMIND>Genelde kötü bir şey olunca çalışır...\nUmarım kapalı kalır.
+## c03_000_007
+1|<CLT=cltMIND>Himiko'nun gösterisinden kalan her şey tamamen\ngitmiş. Monokuma temizlemiş olmalı.
+2|<CLT=cltMIND>Ama...Ryoma'nın cesedinin görüntüsü...\nZihnimize kazındı. Asla unutmayacağız.
+## c03_000_010
+4|<CLT=cltMIND>Bu monitörler her yerde...\nGörmekten bıktım.
+## c03_000_015
+9|<CLT=cltMIND>Uzaktan kumandalı helikopter...\nDemek burada böyle şeyler bile var...
+15|Kimyasal Çözelti
+## c03_000_017
+6|<CLT=cltMIND>Bir mesaj veriyorlar.\nKaçmamıza izin vermeyecekler...
+## c03_000_018
+9|<CLT=cltMIND>O zaman Kaede ile tanışmak...çok...
+## c03_000_029
+6|<CLT=cltMIND>Odanın ortasında dev yeşil bir\nbilgisayar var.
+7|<CLT=cltMIND>Bu makine yeni bir dünya yaratabiliyor...\nBu ne demek olabilir?
+8|<CLT=cltMIND>Hazine sandığı boş...
+9|<CLT=cltMIND>Bize o anıyı veren <CLT=cltSTRONG>Hatıra Işığı<CLT=cltMIND>'nı\nburada bulmuştuk ama...
+10|<CLT=cltMIND>O anının göründüğünden fazlası olduğunu\nhissetmeden edemiyorum.

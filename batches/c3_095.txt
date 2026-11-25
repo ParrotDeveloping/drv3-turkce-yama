@@ -1,0 +1,60 @@
+@ chap3_text_US
+## c03_229_000
+124|Kısacası çemberin kendisi bu cinayetteki\nen önemli aletti.
+125|Bunu bilince büyü çemberini çizen kişi\nsuçlu olmalı!
+126|Ee, Kiyo?
+127|C-Cevap ver artık! Sen mi yaptın!?
+128|Kehe...kehehehe...
+130|...Bu kadar komik olan ne?
+131|Sadece düşünüyordum...
+132|Demek her Kara böyle hissetmiş.\nNe ilgi çekici bir deneyim.
+133|Ne? İlgi çekici bir deneyim mi?
+134|Ama iddia ettiğin gibi suçlu bensem döşeme\ntahtasına ben bastım, değil mi?
+135|O hâlde...anlat bakalım.
+136|O karanlık seans sırasında döşeme tahtasına\nnasıl basabildim?
+137|Anlıyorum... Bu sorun.
+138|Kehehe... Bu netleşmedikçe suçlu olduğumdan\nemin olamazsınız.
+139|Böyle köşeye sıkışmışken nasıl bu kadar\nsakin olabiliyorsun?
+140|Bunu zamanı gelince açıklayacağım.\nLütfen önce soruma cevap ver.
+141|<CLT=cltMIND>Suçlu karanlıkta bile tam o döşeme\ntahtasına bastı...
+142|<CLT=cltMIND>Ama nasıl? Tam bir karanlıkta nasıl\nhareket ettiler?
+143|<CLT=cltMIND>O kadar karanlık bir odada suçlunun doğru\ntahtayı bulduğunu hayal etmek zor.
+144|<CLT=cltMIND>Gerçi mumu söndürdükten sonra bile elimle\nduvar boyunca hareket edebildim—
+145|Bir dakika, belki...
+146|...Çözdün mü?
+147|<CLT=cltMIND>İşte bu... Suçlunun görmesine bile gerek\nyoktu. Şunu kullandılar...
+148|İşitme
+149|Suçlu işitme duyusunu kullandı!
+150|Şarkı ve basma sesi dışında başka bir\nses olduğunu sanmıyorum.
+152|Dokunma
+153|Koku
+154|Suçlu koku alma duyusunu kullandı!
+155|Ne-?\nKokan bir şey var mıydı?
+157|Altıncı his
+158|Belki suçlu maddi düzlemin ötesini gördü...\nAltıncı bir his...
+159|Böyle bir zamanda ne diyorsun?\nÖlmek mi istiyorsun?
+162|Bir dakika dedin ama hiçbir şey\nçözmedin, değil mi?
+164|<CLT=cltMIND>Suçlu karanlıkta tahterevalliyi nasıl\nbuldu?
+165|Suçlu <CLT=cltSTRONG>dokunma<CLT=cltNORMAL> duyusunu kullandı.\nGörmediler, hissettiler.
+166|Böylece karanlıkta yollarını bulabilirlerdi.\nBenim muma ulaştığım gibi!
+167|Tahterevalli <CLT=cltSTRONG>odanın ortasında<CLT=cltNORMAL> değil miydi?\nGonta duvara yakın olduğunu düşünmüyor.
+168|Yani muhtemelen hareket etmek için duvar\ndışında bir şey kullandılar, değil mi?
+169|Hm? Uzanılabilecek başka bir işaret\nvar mıydı?
+170|Elbette bunun cevabı "Öyle bir şey\nyoktu."
+171|<CLT=cltMIND>Hayır, bir şey olduğundan eminim.
+172|<CLT=cltMIND>Döşeme tahtasının yerini belirlemek için\nkullanabilecekleri bir işaret.
+173|<CLT=cltMIND>Olay yerinde olmalı.\nBiliyorum.
+## c03_231_000
+0|İşte bu! <CLT=cltSTRONG>Büyü çemberi<CLT=cltNORMAL>!\nBüyü çemberini kullandılar!
+1|Hatırladınız mı? Büyü çemberi <CLT=cltSTRONG>tuzla<CLT=cltNORMAL>\nçizilmişti.
+2|Suçlu karanlıkta yolunu bulmak için tuzun\ndokusunu kullandı.
+3|Anlıyorum... Yani Kiyo gevşek döşeme tahtasına\nulaşmak için büyü çemberini elleriyle takip etti.
+4|Ooh, anlıyorum. Büyü çemberini rehber olarak\nkullanmak için tuzla çizmişsin.
+6|Kehehe... İlginç bir düşünce.\nNe yazık ki tamamen yanlış.
+8|Belgeyi hatırlayın.\nBüyü çemberi neye benziyordu?
+9|Belgeye göre büyü çemberi odanın\nköşelerine ulaşmazdı.
+10|Ne olmuş yani?
+11|Oda karartılınca her birimiz odanın bir\nköşesindeydik, değil mi?
+12|Büyü çemberi bize ulaşmıyordu, yani onu\ntakip etmiş olamam, değil mi?
+13|Ama sen belgedeki büyü çemberinden\nbahsediyorsun!
+14|Bu senin çizdiğin çemberin aynı olduğu\nanlamına gelmez!

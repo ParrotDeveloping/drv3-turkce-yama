@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_001_150
+102|Tamamen ve kesinlikle yanlış!
+103|H-Hayır...hayır...hayır—
+104|Hayır hayır hayır olamaaaaaaaaaaaaaaz!!!
+106|Nyeh...yine kel oldu.
+107|Görünüşe göre şok onu kel yaptı...\nBu sefer...kalıcı olarak.
+108|ŞİMDİ, YENİ-MÜDÜRLER-OLARAK,\nSİZ-PİSLİKLER-İÇİN...
+109|HARİKA-BİR-ÖDÜLÜMÜZ-VAR!
+110|Ş-Şey... Bakalım bu seferki ödül\nneymiş...
+111|Ödül paketi olarak bir <CLT=cltSTRONG>Altın Çekiç<CLT=cltNORMAL>, bir <CLT=cltSTRONG>Sihirli\nAnahtar<CLT=cltNORMAL> ve bir <CLT=cltSTRONG>Ninja Parşömeni<CLT=cltNORMAL> veriyoruz!
+112|Vay...ne kadar alakasız bir sürü ıvır zıvır.\nY-Yani, bravo, bravo!
+113|SİZİNLE-ÇALIŞMAYI-DÖRT-GÖZLE-BEKLİYORUZ.\nUMARIM-HEPİMİZ...ANLAŞABİLİRİZ.
+114|Yine ıvır zıvır olacağını hissetmiştim...
+115|Off ya... Daha fazla ıvır zıvıra ihtiyacımız yoktu.\nZaten fazlasıyla vardı. Adı da Keebo.
+116|Bu sefer çok ileri gittin! Millet, böyle hoşgörüsüz\nbir dile izin veremeyiz!
+117|KAVGA-YOK.\nHERKES-ANLAŞMAK-ZORUNDA.
+118|BU-ÖDÜLÜ-YENİ-ALANLARI-BİRLİKTE-\nKEŞFETMEK-İÇİN-KULLANIN.
+119|Ayrıca bir yere bir <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>\ndaha sakladık.
+120|Umarım anılarınızın daha fazlasını geri\nkazandığınıza göre daha da yakınlaşırsınız.
+121|Tanrım, bu yavrular berbat.\nMonokuma çoook daha iyiydi.
+122|Lanet olsun... Bu robotların beni itip kakmasına\nizin vermeyecek kadar insanlık gururum var!
+123|Robotlar olmasaydı dünya daha iyi bir yer\nolurdu! Hepsi yok edilmeli!
+124|Hoşgörüsüz sözlerinizi kaydettim ve ilgili\nmercilere bildireceğim.
+125|Peki ne yapacağız? Bu ıvır zıvırı kullanırsak\nyeni yerler açabiliriz ama...
+126|Yaşasııın! Yeni bir alan hepimizin çok\ndaha fazla eğlenebileceği anlamına geliyor.
+127|O kadar eğleneceğimizi sanmıyorum...
+128|Ben daha çok <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'yla ilgileniyorum.\nBelki okulun sırrını hatırlarız.
+129|Öyleyse cinayet kızıyla sonra\nilgileniriz.
+130|Hey, kanka. Bunu yine sana bırakıyorum.\nİyi iş çıkar, tamam mı?
+131|T-Tamam... Anladım.
+132|Tehlikeli bir yer bulursan gel Gonta'yı al.\nGonta seni koruyacak.
+133|Nyeeeh...bütün bunlar bir yana, şu şeyle\nne yapacağız?
+135|Hmm...onu burada bırakalım.
+136|<CLT=cltMIND>Ah, sanırım geçen seferki gibi bu eşyaları\nokulun etrafında denemeliyim.
+137|Bunu yine sana bırakıyorum.\nİyi iş çıkar, tamam mı?
+138|Ah, şey, benim için sorun değil ama...
+139|Hm? Sorun değil ama...ne?
+140|Hayır, sadece...Maki hakkında konuşurken\n...gerçekten üzgün görünüyordun.
+141|Eh, evet...\nOnun bir <CLT=cltSTRONG>suikastçı<CLT=cltNORMAL> olduğuna inanamıyorum.
+142|Ben de inanamıyorum... Korkunç bir suikastçı\nolabilecek biri gibi görünmüyor...
+143|Hah! Korkunç, ha?
+144|Her hâlükârda Maki'yi bana bırak.\nO maskesini ben indireceğim.
+147|<CLT=cltMIND>...Uğraşmayacağım.
+154|<CLT=cltMIND>Bu ne...?
+157|<CLT=cltMIND>Maki bunların hepsini kullanmayı biliyor mu...?
+158|Vay...
+159|<CLT=cltMIND>Sıra sıra dizilmiş silahların sayısı karşısında\nhayranlıkla haykırdım. Gerçek olamazlar...
+160|<CLT=cltMIND>Hayır...tabii ki gerçek değiller.\nHavalı tüfekler.
+161|Ah, tabii ki...\nMonokuma bize *gerçek* silah vermez.
+162|<CLT=cltMIND>Exisal'lar güçlü olabilir ama gerçek\nsilahlarla isyan edersek...
+163|<CLT=cltMIND>Monokuma buna asla izin vermez.
+165|<CLT=cltMIND>Bu silahlar gerçek olsaydı...\nVe Kirumi burada olsaydı...
+166|<CLT=cltMIND>Kaçmak için hepimizi ortadan\nkaldırmış olabilirdi.

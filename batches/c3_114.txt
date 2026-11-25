@@ -1,0 +1,68 @@
+@ chap3_text_US
+## c03_701_051
+7|<CLT=cltMIND>Gerçekten iyi hissetmiyor olmalı.
+## c03_701_052
+0|Kaito Momota 3. Bölüm Serbest Etkinlik 3
+4|<CLT=cltSYSTEM>Kaito ile ne yapmak istersin?
+5|Etkinlik 3 Kaito Momota ile Vakit Geçirme
+## c03_701_053
+0|Kaito Momota 3. Bölüm Serbest Etkinlik 4
+4|<CLT=cltSYSTEM>Kaito ile ne yapmak istersin?
+5|Etkinlik 4 Kaito Momota ile Vakit Geçirme
+## c03_701_054
+0|Kaito Momota 3. Bölüm Serbest Etkinlik 5
+4|<CLT=cltSYSTEM>Kaito ile ne yapmak istersin?
+5|Etkinlik 5 Kaito Momota ile Vakit Geçirme
+## c03_704_050
+0|Oh, Shuichi!
+1|Tam zamanında! Gonta'nın sana sorması\ngereken bir şey var!
+6|Gonta ölmediğimizi biliyor...ama okul şenliği\neşyalarının ne için olduğunu bilmiyor...
+7|...Sahte bir cenaze mi düzenleyeceğiz?\nNeden bunu yapacağız?
+8|<CLT=cltMIND>Gonta'ya okul şenliğinin ne olduğunu\naçıklayarak biraz vakit geçirdim.
+## c03_704_051
+0|Shuichi, öğrenci konseyine katılmalısın!\nHerkese yardım etmek için Gonta ile çok çalış!
+5|Hehe... Gonta, Angie ve diğerlerinin Gonta'nın\nyardımına ihtiyaç duymasına çok mutlu.
+6|Gonta daha çok böcek videosu izleyip savaşma\nazmini doldurmalı!
+7|<CLT=cltMIND>Gonta ile böcekler hakkında bir\nbelgesel izledim...
+## c03_704_052
+0|Ölen herkes gerçekten hayattaysa...onları\nkurtarmalıyız! Ne olursa olsun!
+5|Gonta kalkan olacak! Gonta mızrak olacak!\nGonta herkesin neye ihtiyacı varsa o olacak!
+6|<CLT=cltMIND>Gonta'yı sakinleştirmeye çalışarak\nbiraz vakit geçirdim.
+## c03_704_053
+1|Şey...Gonta artık öğrenci konseyi üyesi...
+2|Angie, Gonta'ya iyi örnek olması gerektiğini söyledi.
+3|O yüzden Gonta seninle vakit geçiremez!\nÖzür dilerim!
+7|<CLT=cltSYSTEM>Gonta ile ne yapmak istersin?
+8|Etkinlik 4 Gonta Gokuhara ile Vakit Geçirme
+## c03_704_054
+0|...Özür dilerim!
+1|Gonta seninle vakit geçiremez...\nÇünkü Gonta öğrenci konseyi üyesi.
+2|Shuichi...öğrenci konseyine katılır mısın? Lütfen?
+3|Herkes katılırsa...hep birlikte Atua ile\nvakit geçirebiliriz.
+7|<CLT=cltSYSTEM>Gonta ile ne yapmak istersin?
+8|Etkinlik 5 Gonta Gokuhara ile Vakit Geçirme
+## c03_705_050
+0|Kaito'dan çoook hayal kırıklığına uğradım!\nKatil kızı neden bu kadar önemsiyor ki!?
+1|...Ah, belki de Maki onu öldürmesin diye\nona yaranmaya çalışıyordur.
+6|Tamaaaam! O zaman katil kızdan kendimizi\nkorumanın yollarını düşünelim!
+8|<CLT=cltMIND>Çekincelerime rağmen bugün Kokichi ile\nbiraz daha yakınlaştık...
+## c03_705_051
+0|Angie'nin hâkimiyete yükselişi...
+1|Sanki biri bütün hisselerimi elimden almış gibi...\nDeğersiz bir <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>'im...
+6|Eh, tarikatlar uzmanlık alanımın dışında ve\nben de buna başvurmayı sevmem.
+7|Ah, bu bir yalan değil, tamam mı?
+9|<CLT=cltMIND>Çekincelerime rağmen bugün Kokichi ile\nbiraz daha yakınlaştık...
+## c03_705_052
+0|Öyle bile olsa Angie'nin beyin yıkaması epey\netkileyici.
+1|Kendin dikkatli olmazsan sen de içine\nçekilebilirsin, biliyor musun?
+6|Rekabet etmek istiyorsan ellerindeki kartları\nbilmelisin!
+7|O zaman sana beyin yıkamanın püf\nnoktalarını öğreteyim.
+8|<CLT=cltMIND>Kokichi bir süre bana beyin yıkamayı\nöğretti ama yalan gibi görünüyordu...
+## c03_705_053
+0|Rögara bakmaya gittim ama moloz\nkaplıydı.
+1|Ama Gonta saf. Biraz dürtsek onu bizim\niçin kaldırır mı sence?
+6|Hm? Benimle vakit mi geçirmek istiyorsun?
+7|O zaman Rantaro <CLT=cltSTRONG>nakil öğrenci<CLT=cltNORMAL> olarak geri\ngelince ona sürpriz parti düşünelim!
+## c03_705_054
+0|Off yaaa, aptal öğrenci konseyi! Belki de onları\n"temizlemesi" için Maki'yi bulmalıyız!
+1|<CLT=cltMIND>Ne yapmalıyım? Böyle olsa da Kokichi ile\ntakılmalı mıyım?

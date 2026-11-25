@@ -1,0 +1,57 @@
+@ chap3_text_US
+## c03_006_007
+234|Angie öyle diyorsa muhtemelen\ndoğrudur...
+235|Yani...<CLT=cltSTRONG>ölüleri diriltebileceğine\n<CLT=cltNORMAL>inanıyor musun, Angie?
+236|Hmm...<CLT=cltSTRONG>diriltme ritüelinin<CLT=cltNORMAL> gerçekten\n<CLT=cltSTRONG>ölüleri hayata döndürebileceğini<CLT=cltNORMAL> sanmıyorum.
+237|Muhtemelen daha çok...<CLT=cltSTRONG>ölüleri bize\ngeri döndürmek<CLT=cltNORMAL> gibi bir şey.
+239|Bütün kurbanların cesetlerinin nasıl\ntemizlendiğini biliyorsunuz, değil mi?
+240|O kadar temiz ki sanki baştan hiç ceset\nyokmuş gibi? Yani belki...
+241|Baştan hiç ölmemişlerdir?
+242|<CLT=cltMIND>Ölmemişler...mi?
+243|Hayır, bu mümkün değil. Bütün cesetleri\nkendimiz inceledik—
+244|Ama, ama çok başarılı bir taklit\nolabilirdi!
+245|Taklit mi?
+248|Angie öyle diyorsa...\nDüpedüz katılmaya başlıyorum.
+249|Ben her zaman Angie'yi destekledim...
+250|Yaşasııın! Teşekkürler, herkes!
+251|Ne? Hayır, bir dakika!\nOnları kendi gözlerimle gördüm—
+252|Graaahhh! Angie'ye sesini yükseltme,\nseni kaba yoz!
+253|Hey, onların hayatta olmasını istemiyor musun,\nShuichi? Ölülerin yaşamasını istemiyor musun?
+254|İ-İstiyorum! Bunu istiyorum! Keşke hâlâ\nhayatta olsalar... Şu an bile bunu düşünüyorum.
+255|Ama ne kadar istersek isteyelim...
+257|Herkes hayattaysa okulda bir yerdeler\ndemektir, değil mi?
+258|Yani...belki biri avludaki mesajı\nyazmıştır?
+259|<CLT=cltMIND>Avludaki mesaj mı?
+260|Beni neden bu kadar sert reddediyorsun,\nShuichi?
+261|Ölenleri umursamıyor musun?\nBu kadar kalpsiz olduğunu fark etmemiştim.
+262|<CLT=cltMIND>Bu...doğru...değil.
+263|<CLT=cltMIND>Hâlâ onun...herkesin hayatta olmasını\nistiyorum.
+264|<CLT=cltMIND>Ama ne yaparsak yapalım onları...\ngeri getiremeyiz...
+265|H-Ha? Neden...herkes bu saçmalığı\ndinliyor lan?
+266|Buna kanmayan...bir tek ben miyim?\nKendimden de çok emindim oysa...
+267|Avludaki karalama mı?\nBundan neden şimdi bahsediyor!?
+268|Dev salaklardan fikir almam!
+269|<CLT=cltMIND>Angie'nin ne diyeceğini dinleyelim...
+270|<CLT=cltMIND>Avludaki karalama mı?
+279|Skor Tabelası
+## c03_006_100
+0|Oh, hey kanka!
+1|Günaydın!\nAnonsu duydun mu?
+2|Evet. Spor salonunda buluşmamız lazım,\ndeğil mi? Sabahın bu saatinde ne oluyor?
+3|Eh, sanırım gitmekten başka çaremiz yok.\nSen önden git, kanka.
+4|Ne? Gelmiyor musun?
+5|Yok, geliyorum. Sadece önce bir işi halletmem\nlazım, sonra orada buluşuruz.
+6|<CLT=cltMIND>Kaito, Maki'nin odasının kapısını gösterdi.\nSanırım onu getirecek.
+7|Herkesin orada olması lazım dediler,\ndeğil mi?
+8|Bazılarımız gelmezse ne olacağını\nkim bilir.
+10|<CLT=cltMIND>Dün geceki antrenman, şimdi de bu.\nKaito gerçekten Maki'yi dert ediniyor.
+11|<CLT=cltMIND>Herkesle anlaşmasına yardım edebilse\niyi olurdu.
+12|Sen önden git, kanka.\nHalletmem gereken bir iş var.
+13|Günaydın, Kiyo.\nSpor salonuna mı gidiyorsun?
+14|Ah, evet...tam şimdi gidiyordum.\nBugün biraz uyuya kaldım da.
+15|Kehehe... Tabii bunu yaptığım tek seferde\nçağrıldık, o yüzden biraz paniğe kapıldım.
+16|Normalde sabah 7.30'a kadar odamdan çıkmaya\nhazır olurum.
+17|O kadar erken mi? Ben genelde Monoyavruların\nanonsuyla uyanırım.
+18|Her sabah hazırlanmam çok uzun sürdüğü\niçin genelde sabah 6'da uyanırım.
+19|<CLT=cltMIND>Neden bu kadar uzun sürüyor?\nBir kızın sürdüğünden bile uzun değil mi?
+20|<CLT=cltMIND>Eh, Kiyo'nun epey karmaşık bir üniforması\nvar. Belki sebebi budur.

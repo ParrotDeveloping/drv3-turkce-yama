@@ -1,0 +1,75 @@
+@ chap3_text_US
+## c03_218_000
+10|<CLT=cltMIND>Orağı atacak gücü olmazdı...\nYalan söylemem lazım...
+13|<CLT=cltMIND>Bundan kurtulmak için intihar teorilerinin\nişe yaramayacağını düşündürmem lazım.
+## c03_218_001
+0|Şimdilik
+1|Şimdilik en iyi açıklama\nintihar gibi görünüyor.
+2|<CLT=size2>en iyi
+3|<CLT=size2>açıklama
+4|<CLT=size2>intihar<CLT=size1> gibi görünüyor.
+5|Planı
+6|Planı bizi de beraberinde götürmekti...
+7|<CLT=cltWEAK>bizi de <CLT=size2>beraberinde
+8|<CLT=size2>götürmekti<CLT=size1>...
+9|o yüzden gerçek <CLT=size3>niyetini
+10|o yüzden gerçek niyetini gizledi.
+11|<CLT=size2>gizledi<CLT=size1>.
+12|Tenko <CLT=size1.5>öyle<CLT=size1> biri <CLT=size1.5>değil<CLT=size1>!
+13|Tenko öyle biri değil!
+14|Ama <CLT=size2>Tenko<CLT=size1> gerçekten <CLT=size2>intihar ettiyse...
+15|Ama Tenko gerçekten intihar ettiyse...
+16|seans sırasında <CLT=size1>nasıl<CLT=size1>
+17|seans sırasında nasıl\nöldüğünü açıklardı.
+18|<CLT=size4>öldüğünü
+19|<CLT=size1>açıklardı.
+20|Orağı <CLT=size2>gizlice
+21|Orağı gizlice getirmiş olabilir...
+22|<CLT=cltWEAK><CLT=size2>getirmiş<CLT=size1> <CLT=size2>olabilir<CLT=cltNORMAL>...
+23|<CLT=size2>ve
+24|ve sonra kendini onunla bıçaklamış olabilir!
+25|<CLT=size2>sonra
+26|<CLT=size2>kendini bıçaklamış <CLT=size1>olabilir!
+27|Son olarak,
+28|Son olarak, kalan son gücüyle...
+29|<CLT=cltWEAK><CLT=size2>kalan
+30|<CLT=cltWEAK><CLT=size2>son gücüyle<CLT=cltNORMAL>...
+31|<CLT=size2>orağı
+32|orağı zeminin altına attı.
+33|<CLT=size2>zeminin
+34|<CLT=size2>altına
+35|attı.
+36|Bütün parçalar\nyerine oturuyor.
+37|Bütün parçalar yerine oturuyor.
+38|Mümkün.
+39|Bu bir yalan...
+40|Bizi de beraberinde\nmi götürecekti!?
+41|Ne şerefsizlik!
+42|Bunu kesin olarak söyleyebilir misin?
+43|Gonta'ya mantıklı geliyor...
+44|Ya da kıyafetlerinin altına sakladı.
+45|Düşünün...
+## c03_219_000
+0|Tenko orağı zeminin altına\natamazdı...
+1|...çünkü <CLT=cltSTRONG>anında öldü<CLT=cltNORMAL>.
+2|Anında mı?
+5|Eminim. Soruşturmam anında öldüğünü\nortaya koydu.
+6|Senin fikrin ne, Maki? Cinaaayette uzman\nolan birinden duymak isterim.
+9|...Haklısın. O önemli ayrıntıyı tamamen\nunutmuşum.
+10|Tenko anında öldü...
+12|Bir suikastçı olarak hedeflerimi hızla\nöldürmekte uzmanım.
+13|Tenko'nun anında öldürüldüğüne hiç\nşüphem yok.
+14|Nişişi... Gerçek bir katilin sözleri. Söylediği\nher şeye inanabileceğimizden epey eminim.
+16|<CLT=cltMIND>...Teşekkürler, Maki.
+17|Bunu nasıl unutursun, Maki Rulo?\nShuichi'den özür dilesen iyi olur!
+19|S-Sorun değil, Kaito, gerçekten.\nÖzür dilemeye gerek yok...
+20|Neyse, Tenko o kadar ani öldü ki orağı\nortadan kaldıramazdı.
+21|Bunu bilince kendini öldürdüğü teorisi\nhiç uymuyor, doğru mu?
+22|Tam düşündüğüm gibi...\nTenko intihar etmezdi...
+23|...Çok şükür, Himiko.
+24|Yani seans sırasında Tenko'yu kesinlikle\nbiri öldürdü.
+25|Nasıl öldürüldüğünü belirleyemediğimiz için\nintihar ettiği düşünülmüştü.
+26|Hayır! Bir yolu olmalı!\nBunu çözeceğiz!
+27|Katılımcılardan herhangi biri <CLT=cltSTRONG>seans sırasında\ntuhaf<CLT=cltNORMAL> bir şeye tanık oldu mu?
+28|Bir şey biliyorsanız lütfen söyleyin...\nBu gizemi çözmenin anahtarı olabilir.
+29|<CLT=cltMIND>Fena fikir değil... Seansta ne olduğunu\nhatırlamalıyız.

@@ -1,0 +1,52 @@
+@ chap3_text_US
+## c03_002_138
+10|Ölüleri meraktan çağırmak sadece\nbir küfür olurdu.
+11|Onlar ancak...uygun zamanda\nçağrılmalı.
+23|<CLT=cltMIND>Tuhaf bir gücü var...\nSadece bakmak bile beni ürpertiyor.
+24|B-Bu...!
+25|Ooh! Olabilir mi!? <CLT=cltSTRONG>Bunun<CLT=cltNORMAL> gerçekten var\nolduğunu hayal bile edemezdim!
+26|<CLT=cltMIND>Heyecandan titreyen Kiyo o tuhaf köpek\nheykeline uzandı...
+27|<CLT=cltMIND>ve kaidenin üstündeki beyaz kumaşı\nyavaşça kaldırdı.
+28|Ooh! Bir kafes bile var!\nBu mükemmel!
+29|Mükemmel mi? Ne için?\nHeykel ve kafes ne için?
+30|Kehehe... Hayatım boyunca gerçeğine\ndokunabileceğimi hiç düşünmemiştim.
+31|Bugün gerçekten çok önemli bir gün...
+32|<CLT=cltMIND>O kadar odaklanmış ki\ndinlemiyor bile.
+34|<CLT=cltMIND>Tuhaf bir gücü var...\nSadece bakmak bile beni ürpertiyor.
+36|<CLT=cltMIND>Kiyo epey odaklanmış görünüyor...
+40|<CLT=cltMIND>Bu vitrinde bir şey var...
+41|<CLT=cltMIND>Altın bir katana...\nNe kadar güzel.
+42|<CLT=cltMIND>Yer yer paslanmış ama yaklaşık bir metre\nuzunluğunda ve hâlâ keskin görünüyor.
+43|<CLT=cltMIND>Gerçek altın mı...?\nMuhtemelen değerlidir...\n
+44|Kehehe... O katanaya çekildin, görüyorum.\nAma sadece altın varakla kaplı.
+45|Ah, demek altından yapılmamış.
+46|Bununla birlikte...o katananın muazzam\nantropolojik değeri var.
+47|Bazı kırsal bölgelerde savaşlarda generalleri\nyenmek için kullanılan katanalara tanrı gibi tapılır...
+48|O da onlardan biri. Yayılması için gerekli\nson derece değerli bir kalıntı—
+49|Vay! Süper havalı bir katana!\nBir bakmak istiyorum!
+50|<CLT=cltMIND>Kokichi aniden aramızda belirdi ve\nkatanayı vitrinden kaptı.
+51|Dur, izinsiz dokunmamalısın—
+52|Merak etme, süper dikkatli olacağım!
+53|...Sana yalan söyler miyim!?
+54|<CLT=cltMIND>Kokichi, Kiyo'nun uyarısını tamamen\ngörmezden gelip kılıcı kınından çekti.
+55|İşte bu katana gerçek. Otantik görünsün\ndiye altın kaplama bile var!
+56|Hmm, anlıyorum... Cinayet silahı olarak\nda kullanılabilir.
+57|Kokichi...o son derece değerli bir kalıntı.\nLütfen ona bu kadar hafife alarak davranma, yoksa...
+58|...sinirlerini söküp çıkarırım.
+59|T-Tamam, anladım... Lütfen böyle korkunç\ntehditler savurma...
+60|<CLT=cltMIND>Kokichi kılıcı kınına geri sokup\nKiyo'ya verdi.
+61|Iyy! Ellerim yapış yapış oldu!\nO altın kaplama çok kolay dökülüyor!
+62|Ama sanırım onu otantik bir katana yapan\nda bu!
+63|Evet...çok eski, o yüzden altın varak\nkolayca dökülüyor.
+64|Her neyse, lütfen izinsiz bir şeye dokunma.\nBunların hepsi değerli kalıntılar.
+65|Bir daha yaparsan sinirlerini söküp çıkarırım.
+66|A-Anladım... Korkunç tehditlere hiç gerek\nyok...
+67|<CLT=cltMIND>...Demek Kiyo sinirlenince sesi\nböyle çıkıyor.
+68|<CLT=cltMIND>Bu vitrinde bir şey var...
+69|<CLT=cltMIND>Güzel, altın bir katana...\nYaklaşık bir metre uzunluğunda ve hâlâ keskin görünüyor.
+70|O katananın muazzam antropolojik\ndeğeri var.
+71|Bu yüzden ona saygıyla davranılmasını tercih\nederim. Ona bir şey *olursa*...
+72|...sinirlerini söküp çıkarırım.
+75|Bir milyon yılım olsa bile bunların\nhepsini okuyabileceğimi sanmıyorum...
+78|Bu...elle ciltlenmiş gibi görünüyor.
+79|Gerçekten olabilir mi!?

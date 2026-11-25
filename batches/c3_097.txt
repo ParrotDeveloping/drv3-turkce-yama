@@ -1,0 +1,59 @@
+@ chap3_text_US
+## c03_231_000
+79|Neyini!? Neden!?
+80|B-Bok bağırsak sağlığının ve bağırsak bakterisi\nkalitesinin harika bir göstergesidir!
+81|Ayrıca tatmin edici bir sıçış bir kadının doğal\ngüzelliği için harikalar yaratır, yani...
+82|G-Gördünüz mü! Hepinizin midesi bulandı! Bu yüzden\nplanımı size anlatmak istemedim!
+83|Kakandan bahsetmeyi kes!\nKimsenin umurunda değil!
+84|Kiyo...Tenko'yu sen öldürdün, değil mi?\nPes et de artık kabul et.
+86|Ee, Kiyo, bir itirazın varsa—
+87|Eh, bana bu seçeneği verdiğine göre\nkesinlikle itiraz edeceğim.
+88|Açıkçası önemsiz. Ama eğlenceli bir\noyalanma olabilir.
+89|<CLT=cltMIND>Önemsiz mi...?
+90|Şimdi yeteneklerine tanık olacağım,\nShuichi! Eğlendir beni!
+## c03_232_000
+0|Kafese hiç dokunmadım. Orağı hem yerleştirmek\nhem de geri almak imkânsızdı.
+1|Böyle boş deliller bu gerçeği değiştirmeye\nhiçbir şey yapmaz.
+3|<CLT=cltMIND>Kiyo'nun tavrı tedirgin edici.\nAma önce argümanına karşı çıkmalıyım!
+4|<CLT=cltMIND>Suçlunun Kiyo olduğundan eminim!
+5|<CLT=cltMIND>Beyaz kumaştan o sorumluydu—orağı almanın\nbir yolu olduğundan eminim...
+7|<CLT=cltMIND>O cinayet silahını almanın bir yolu\nvardı, bunu kanıtlayabilirim!
+## c03_232_001
+0|<CLT=size1.5>Suçlunun\nben\nolduğunu\niddia\nedeceksen...
+1|Suçlunun ben olduğunu iddia edeceksen...
+2|<CLT=size1.5>o zaman\ncinayet\nsilahı\nne\nolacak?
+3|o zaman cinayet silahı ne olacak?
+4|<CLT=size1.5>O\nkafesin\niçine\nkurulmuştu.
+5|O kafesin içine kurulmuştu.
+6|<CLT=size1.5>Bunu\nyapabilecek\ntek\nkişiler...
+7|Bunu yapabilecek tek kişiler...
+8|<CLT=size2>kafesi\ntaşıyan\nKokichi\nve\nShuichi.
+9|kafesi taşıyan Kokichi ve Shuichi.
+10|<CLT=size1.5>Yani\nşüphe\nonların\nüstüne\ndüşmeli.
+11|Yani şüphe onların üstüne düşmeli.
+12|Doğru, orağı oraya\n<CLT=size2>yerleştirebilirdik,
+13|Doğru, orağı oraya yerleştirebilirdik\nama sonra onu çıkaramazdık.
+14|ama sonra onu\n<CLT=size2>çıkaramazdık.
+15|Çünkü <CLT=size2>kafesi<CLT=size1> <CLT=size2>kaldıranlar\n<CLT=size1>biz değildik.
+16|Çünkü kafesi kaldıranlar\nbiz değildik.\nO Himiko'ydu.
+17|O <CLT=size2>Himiko'ydu.
+18|<CLT=size1.5>Orağı alabilecek tek kişi\nHimiko...
+19|Orağı alabilecek tek kişi Himiko...
+20|<CLT=size1.5>Ama orağı yerleştirebilecek tek kişiler\nKokichi ve Shuichi.
+21|Ama orağı yerleştirebilecek tek kişiler Kokichi ve Shuichi.
+22|<CLT=size1.5>Ama bu ikilemle
+23|Ama bu ikilemle ilgili olarak...
+24|<CLT=size1.5>ilgili olarak...
+25|<CLT=size1.5>Kafesi ne taşıdım
+26|Kafesi ne taşıdım ne de kaldırdım.
+27|<CLT=size1.5>ne de kaldırdım.
+28|<CLT=cltWEAK>Orağa <CLT=size1.5>dokunma
+29|Orağa dokunma fırsatım olmadı.
+30|<CLT=size1.5>fırsatım olmadı.
+31|<CLT=size1.5>Yani kısacası katil ben değilim.
+32|Yani kısacası katil ben değilim.
+## c03_233_000
+0|Orağı kurup sonra geri alabilecek tek\nkişi Kiyo.
+1|Bu, <CLT=cltSTRONG>kafesi beyaz kumaşla örterek<CLT=cltNORMAL>\nyapıldı!
+2|Kumaşı örterken orağı gizlice\nyerleştirebilirdin...
+3|...ve kumaşı kaldırırken sonradan\ngeri alabilirdin!

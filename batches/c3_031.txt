@@ -1,0 +1,66 @@
+@ chap3_text_US
+## c03_010_001
+0|Ah, Miu. Günaydın.
+1|Bu sabah sabah gevezelik de ne...?\nFena yorgunum...
+2|Bütün gece bilgisayarla mı uğraştın?
+3|Çünkü o şey inanılmaz! Ne kadar araştırırsam\no kadar heyecanlanıyorum!
+4|Ahhh, eminim bu gece de uyutmayacak!\nBöyle giderse bütün kasık kaslarımı koparabilirim!
+5|Heh! Hehehehehehe!
+7|<CLT=cltMIND>Miu...sana *ne oldu*?
+8|<CLT=cltMIND>Burası kızlar tuvaleti mi?\nTamam. Sadece kontrol ediyordum.
+## c03_010_100
+1|G-Günaydın...
+2|Yemekhaneye mi gidiyorsun?\nNişişi, ben de!
+3|Hiçbir şey yapamayacak kadar açım.
+4|Ama...şimdi üzgünüm.
+5|Kirumi ölünce onun lezzetli yemeklerini\nartık yiyemiyoruz...
+6|Vaaaaaaaaahhh!!! Annemin miso çorbasını\nyeniden tatmak için her şeyimi verirdim!
+7|Ah, Kirumi senin annen değil ama...
+8|Iı, evet? Bunu bilmediğimi mi sanıyorsun?
+10|Neyse, sonra görüşürüz!
+15|<CLT=cltMIND>Antrenman yapamayacak kadar kötü hissediyor...\nGerçekten iyi mi?
+16|<CLT=cltMIND>Depoda ilaç olduğundan eminim ama\ngerçekten ciddiyse...
+## c03_010_101
+0|İNSAN-HAYATININ-ANLAMI-NE?
+1|HİÇBİR-ŞEY-YAPAMAYAN-İŞE-YARAMAZ-\nBEBEKLER-OLARAK-DOĞUYORLAR...
+2|VE-70-YIL-SONRA-HİÇBİR-ŞEY-YAPAMAYAN-\nİŞE-YARAMAZ-YAŞLILAR-OLUYORLAR.
+3|SAÇSIZ, DİŞSİZ, BEZ-BAĞLAMIŞ...\nKENDİLERİNE-BAKAMAYAN...
+4|SONUNDA-HEPSİ-ÇOK-ANLAMSIZ.
+8|<CLT=cltMIND>Demek sabah anonsu buymuş, öyle mi?\nBiraz ürkütücüydü... Hiç hoşuma gitmedi.
+9|Sanırım yemekhaneye gideceğim.
+## c03_010_258
+0|Günaydın, Kiyo.
+1|Günaydın...\nSen de kahvaltıya mı gidiyorsun?
+2|Evet, geliyor musun?
+3|Elbette.
+4|Bugün ayrıca biraz araştırma yapıp\nlaboratuvarımı düzenlemeyi planlıyorum...
+5|Eğer yapabilirsen yardımını rica\nedebilir miyim?
+6|Laboratuvarını düzenlemek mi? O kitaplıktaki\nonca şeyle zor olmalı...
+7|Ah, hiç de değil...\nO kitaplık bir hazine dağı.
+8|Kafesli Köpek Köyü belgeleri dışında başka\nseansları anlatan şeyler de buldum.
+9|Ama en çok ilgilendiğim elbette hâlâ\n<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>!
+10|<CLT=cltMIND>Yine ruh çağırma seansı...
+11|Her neyse, çeşitli belgelerimi sıralamak\nistiyorum... Ee? Yardım edecek misin?
+12|E-Evet, tabii, vaktim olursa.
+13|Mükemmel. Lütfen ilk fırsatta uğra.\nO zaman...
+14|<CLT=cltMIND>Kiyo son zamanlarda durmadan ruh çağırma\nseanslarından bahsediyor.
+15|<CLT=cltMIND>Takıntı hâline getirmiş...
+16|Ah, günaydın, Maki.
+17|...Hey, iyi misin?
+18|İyi mi? Ne demek istiyorsun?
+19|...Bilmiyorsan dert etme.
+20|Ş-Şey, öyle deyince beni\nendişelendiriyorsun!
+21|Dün gece odama dönerken öğrenci konseyi\nbeni durdurdu.
+22|Bana...artık gece ortalıkta\ndolaşamayacağımı söylediler.
+23|Ne? Neden?\nKuralları çiğnemek değil ki, değil mi?
+24|Kirumi suçunu gece işlediği için\nolduğunu söylediler.
+25|Sonra da Angie her zamanki "Atua diyor ki"\nkonuşmasını yaptı.
+26|Atua...
+27|Angie'yi görmezden gelmemeliyiz. Özgürlüğümüzü\nkaybetmek şimdilik sorun değil gibi görünebilir ama yakında...
+28|...Neyse, Angie'nin benim söyleyeceğim hiçbir\nşeyle ilgilenmediğinden eminim.
+29|<CLT=cltMIND>Doğru...\nBu konuda bir şey yapmalıyız.
+30|<CLT=cltMIND>Öğrenci konseyi işleri böyle yönetirse\ngrupta bir çatlak oluşabilir.
+31|<CLT=cltMIND>Ve sonra geri dönemeyeceğimiz bir\nduruma düşeriz.
+32|<CLT=cltMIND>Ve ölüleri diriltmek de bir sorun\nolacak.
+## c03_011_010
+0|<CLT=cltMIND>Yemekhaneye girdiğim anda odayı dolduran\nöfkeli bir bağırış duydum.

@@ -1,0 +1,65 @@
+@ chap3_text_US
+## c03_016_100
+31|<CLT=cltMIND>Burası hakkında pek bir şey bilmiyorum...\nama kimse hakkında da pek bir şey bilmiyorum.
+32|<CLT=cltMIND>Bu iyi bir şey olabilir...\nya da kötü bir şey.
+33|ÖNCEKİ-HAYATIMDA...BİR-BALIKTIM.
+34|KIRSAL-BİR-KASABADAKİ-GÖLETTE-BÜYÜDÜM\nAMA...HEP-ŞEHRİN-HAYALİNİ-KURDUM.
+35|BİR-GÜN, AİLEM-YEM-YERKEN...\nŞEHRE-KAÇTIM.
+36|NEYSE-Kİ...BENİ-İNSAN-OKULUNA-GÖNDEREN-\nZENGİN-BİRİ-TARAFINDAN-YAKALANDIM.
+37|AMA-DİĞER-ÇOCUKLAR-BANA-ZORBALIK-ETTİ.
+38|BANA...SAÇMA-SEBEPLERLE-ZORBALIK-ETTİLER.
+39|KOKUM-YÜZÜNDEN...VE-SIRAMIN-ÜSTÜNDE-\nÇIRPINMAM-YÜZÜNDEN.
+40|VE-AĞZIMIN-SANKİ-ÖLÜYORMUŞUM-GİBİ-\nAÇILIP-KAPANMASI-YÜZÜNDEN.
+41|ÖNCEKİ-HAYATIMIN-TRAVMASI...\nBUGÜN-BİLE-PEŞİMİ-BIRAKMIYOR.
+42|BU-YÜZDEN-ZORBALIĞI-ASLA-\nAFFEDEMEM!
+43|ÖNCEKİ-HAYATIM-ÜZERİNE-YEMİN-EDERİM-Kİ-\nHERKESLE-ANLAŞACAĞIM!
+## c03_017_001
+0|Ne var? Tuvalete mi gitmen lazım?
+1|O zaman birlikte gidelim!\nSen burada bekle, Maki Rulo.
+2|Tabii ki beklerim.
+3|...Ama birlikte tuvalete gitmek için\nheyecanlanmanız iğrenç.
+4|Hey, Shuichi! Kendine gel!\nOrası kızlar tuvaleti!
+5|Ah ama Angie'nin orada olma ihtimali var, ha?
+6|...Dur. Gerçekten girmiyorsun, değil mi?
+7|H-Hayır, tabii ki hayır!
+8|Hadi kanka, önce onun laboratuvarına bakalım.\nOnu yine bulamazsak orada olmalı.
+9|E-Evet, doğru.
+## c03_017_003
+0|Maki Rulo'nun laboratuvarında işimiz yok,\ndeğil mi? Acele edip Angie'yi durduralım.
+1|...Bana tuhaf bir lakap takma.\nBir daha söylemeyeceğim.
+## c03_017_005
+0|Neden ayak sürüyorsun!?\nHadi artık girelim!
+1|Küçük numaramı hatırladın. Eh, sonuçta\n<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>sin!
+2|Acaba içerisi nasıl!\nÇok heyecanlıyım!
+3|İzinsiz girmek... Angie kızınca seni\nkollamayacağım, biliyorsun değil mi?
+4|Acele edip içeriye bakalım. Bir sorun\nyoksa...o zaman sorun yok.
+5|Nyeeeh? Yine mi siz?
+6|Himiko...senin burada ne işin var?\nBunca zaman nöbet mi tutuyordun?
+7|Öyle bir şey yapmam. Kulağa zahmetli\ngeliyor... Sadece Angie'ye bakmaya geldim.
+8|Ee, ne istiyorsunuz? Yine Angie'yi\ndurdurmaya geldiğinizi söylemeyin.
+10|<CLT=cltSTRONG>Ritüel<CLT=cltNORMAL> Monokuma'nın <CLT=cltSTRONG>motifi<CLT=cltNORMAL> olduğu için\nöylece olmasına *izin* vermemeliyiz.
+11|A-Aynen öyle! Korktuğumdan falan değil,\ntamam mı!?
+12|Ama burada olman iyi.
+13|Bu kapıyı öğrenci konseyi üyeleri dışında\nkimseye açmıyor, değil mi?
+14|O yüzden Angie'ye bizim için açmasını söyle.
+15|Nyeeeh...bu mümkün değil.
+16|Mümkün değil mi?
+17|Ritüelin nasıl gittiğini sormak istedim,\no yüzden ona sesleniyorum...
+18|Ama işine gerçekten dalmış olmalı...\nDışarı çıkmıyor.
+19|...Çıkmıyor mu? İçeride olduğundan\nemin misin?
+20|İçeride olmalı...\nHem bu kapı hem arka kapı kilitli.
+21|İki kapı da mı kilitli?
+22|<CLT=cltMIND>Kolu tutup çevirmeye\nçalıştım.
+23|<CLT=cltSYSTEM>*klik...klik...klik...klik...*
+24|Gerçekten kilitli.
+25|<CLT=cltMIND>Ama bu kapılar sadece içeriden\nkilitleniyor.
+26|<CLT=cltMIND>Yani içeride kesinlikle biri\nvar...
+27|...Bir cevap var mı?
+28|Aslında...yok.\nBelki uyuyordur.
+29|<CLT=cltMIND>Cevap yok mu?
+30|Himiko! Hemen içeri girmemiz lazım!
+31|Nyeeeh...? Neden?
+32|Ama bak, kontrol etmek istesek bile kilitli,\no yüzden yapamayız—
+33|Her şeyi duydum ve ben de magazin basınının\nyazdıklarına senin kadar şaşırdım!
+34|Belli ki hiçbir şey duymamışsın!
+35|Sen nereden çıktın...?

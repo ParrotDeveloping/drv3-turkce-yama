@@ -1,0 +1,69 @@
+@ chap3_text_US
+## c03_212_001
+14|<CLT=cltWEAK><CLT=size2>bir
+15|<CLT=cltWEAK><CLT=size2>ışığı<CLT=size1> <CLT=size2>vardı<CLT=cltNORMAL>.
+16|<CLT=size2>Işık mı?<CLT=size1> <CLT=cltAGREE>Mum<CLT=cltNORMAL> mu demek istiyorsun?
+17|Işık mı? Mum mu demek istiyorsun?
+18|Yani... Keebo'nun\n<CLT=size3>el feneri özelliği.
+19|Yani...\nKeebo'nun el feneri özelliği.
+20|<CLT=size3>Ha?
+21|Ha? Şimdi bir saniye...
+22|Şimdi bir saniye...
+23|Keebo o <CLT=size2>özelliği<CLT=size1> <CLT=size2>zeminin<CLT=size1>\n<CLT=size2>altına<CLT=size1> geçmek için\n<CLT=cltWEAK><CLT=size2>kullanmış<CLT=cltNORMAL> olabilir...
+24|Keebo o özelliği zeminin\naltına geçmek için kullanmış olabilir...
+25|ve seans sırasında <CLT=size2>boş odaya\n<CLT=size2>gizlice girmiş
+26|ve seans sırasında boş odaya gizlice girmiş olabilir!
+27|<CLT=size2>olabilir!
+28|<CLT=size2>Dedim ki,
+29|Dedim ki, bir saniye!
+30|<CLT=size2>bir<CLT=size1> <CLT=size2>saniye!
+31|Cinayetleri işlemek için\n<CLT=size2>robot özelliklerini\n<CLT=size1>kullandı!
+32|Cinayetleri işlemek için\nrobot özelliklerini\nkullandı!
+33|<CLT=size3>BİR
+34|BİR SANİYE!!!
+35|<CLT=size3>SANİYE!!!
+36|Zeminin altı da karanlık mı?
+37|Hiç ışık yoktu.
+38|Ne demek istiyorsun?
+39|Ne ışığı...?
+40|Bunun delili var mıydı?
+41|Keebo...?
+42|Keebo'nun öyle bir şey\nyapmasının imkânı yok!
+43|Kesinlikle yapabilecek\ndurumdaydı...
+44|Keebo'nun birini öldürmesi...
+45|Demek kötü bir robot...
+## c03_213_000
+0|Miu, Keebo'ya el feneri özelliğini sen\nverdin, doğru mu?
+1|...Fark etmedin mi?
+2|Neyi fark etmedim?
+3|<CLT=cltMIND>Bu davada Keebo'nun suçlu olduğuna\ninanmak zor.
+4|<CLT=cltMIND>Bu duruşmanın biri tarafından yönlendirilmediğine\ninanmak daha da zor...
+5|<CLT=cltMIND>O yüzden <CLT=cltSTRONG>yalan<CLT=cltMIND> söylemem gerekse bile...\nKeebo'yu savunmalıyım!
+6|Eklediğin el feneri özelliğinin\n<CLT=cltSTRONG>dezavantajı<CLT=cltNORMAL>.
+7|Açıkken o kadar parlak ki <CLT=cltSTRONG>Keebo bile\ngöremiyor<CLT=cltNORMAL>!
+8|Hmmm, anlıyorum...\nO kadar parlak, ha?
+9|...Dur, ne!? Benim gibi bir dahinin böyle acemi\nbir hata yapmasının imkânı yok!
+10|Ama...sen çok hata yaparsın...\nHem de çok...
+11|Hey! Herkesin önünde beni sikeceksen\nönce en azından bir yemek ısmarla!
+12|Göremiyorsa alanın ne kadar aydınlık olduğu\nönemli değil. Öyle hareket edemezdi.
+13|Yani Keebo zeminin altında\nolamazdı!
+14|B-Bu doğru mu, Keebo?\nShuichi'nin söylediği doğru mu?
+16|<CLT=cltMIND>Hadi, Keebo...\nLütfen, uyum sağla!
+18|<CLT=cltMIND>Keebo!
+19|I, şey... Yani...ıı...
+20|Çok özür dilerim! Hatırlamıyorum!\nGerçekten, özür dilerim!
+21|Ahh! Anladık artık!\nKapat şunu! Kör olacağız!
+22|Hatırlamıyor musun?\nBu ne demek oluyor?
+23|Eh, Shuichi...\nBeni aptal yerine koymaya çalışıyorsun, ha?
+24|Biraz makyaj yapayım, çünkü beni sikmeye\nkarar vermeden önce en azından güzel görünmek istiyorum!
+25|Ah, şey, b-bu ıı...
+26|Shuichi, çok özür dilerim!
+27|Lanet olsun! Bu cidden çok parlak!
+28|Bu kadar parlak olsaydı ışık <CLT=cltSTRONG>döşeme tahtalarının\naralıklarından<CLT=cltNORMAL> sızmaz mıydı?
+29|<CLT=cltMIND>Delik...
+30|Evet...suçlu zeminin altında ışık\nkullanamazdı. Keebo bile.
+31|Oh? Kullanamazlar mıydı...?
+32|Sonuçta oradaydık.\nBilirdik.
+33|Bulunduğumuz odanın köşesine yakın bir\ndelik vardı, hatırladınız mı?
+34|Zeminin altında birinin ışığı olsaydı\noradan sızardı.
+35|Ama...seansı yaptığımızda odanın zifiri\nkaranlık olduğundan epey eminim.

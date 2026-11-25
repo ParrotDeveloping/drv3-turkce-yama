@@ -1,0 +1,42 @@
+@ chap3_text_US
+## c03_100_157
+343|<CLT=cltSYSTEM>"Sonra gözlerinizi kapatıp bekleyin.\nBir süre sonra..."
+344|<CLT=cltSYSTEM>"sırtınıza hafifçe dokunulduğunu hissetmelisiniz.\nÖyleyse <CLT=cltSTRONG>ritüel<CLT=cltSYSTEM> başarılı olmuş demektir!"
+345|<CLT=cltSYSTEM>"Küller tek kullanımlıktır. Ritüel sadece bir\nkez yapılabilir, o yüzden akıllıca kullanın."
+346|<CLT=cltMIND>Demek <CLT=cltSTRONG>diriltme ritüelinin<CLT=cltMIND>\nadımları bunlar...
+347|Angie gerçekten bu saçmalığa inandı mı?
+348|Bununla kimseyi diriltemeyeceğin epey\nbelli...
+349|<CLT=cltMIND>Normal şartlar altında eminim\nöyledir...
+350|<CLT=cltMIND>Ama <CLT=cltSTRONG>burada<CLT=cltMIND> mı?\nHiçbir şeyi göz ardı edebileceğimizi sanmıyorum.
+351|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Necronomicon<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+352|<CLT=cltMIND><CLT=cltSTRONG>Motif<CLT=cltMIND> buydu...\nNecronomicon.
+353|<CLT=cltMIND>Angie bu kitapta yazan <CLT=cltSTRONG>ritüeli<CLT=cltMIND>\nyapmaya çalıştı.
+364|<CLT=cltMIND>Normal şartlar altında ölüleri\ndiriltmek imkânsız.
+366|<CLT=cltMIND>Angie'nin başından kan\ndamlıyor.
+367|<CLT=cltMIND>Monokuma Dosyası'na göre ensesinde\nbir bıçak yarası var...
+368|<CLT=cltMIND>...bir de alnında bir\nyırtık.
+369|Öldürücü darbe enseye tek bir bıçak\nsaplamasıydı... Büyük ihtimalle sinsi bir saldırı.
+370|O zaman alnındaki bu yarayı nasıl\nyorumluyorsun?
+371|Belki suçlu onu arkadan bıçaklamadan önce\nkafasına vurmuştur.
+372|Ama iki yarası birbirinden epey farklı.\nSuçlu saldırının ortasında silah mı değiştirdi?
+373|Sanırım buna gerek olmazdı...
+374|Ayrıca...alnındaki yara derin görünüyor\nama pek kanamıyor.
+375|<CLT=cltMIND>Bu iki yaranın olayı ne...?
+376|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Alın Yarası<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+378|Ne oldu, Maki?
+379|...Çekil.
+380|<CLT=cltMIND>Maki beni kenara itti, sonra Angie'nin\ncesedini omzundan kaldırdı.
+381|Bunun bedeninin altında buruşmuş hâlde\nne işi var?
+382|Bu koli bandı, değil mi? Koli bandının\nburada ne işi var?
+383|Bilmiyorum...ama davayla ilgili\nolmalı.
+384|Bak, banda yapışmış saçlar var.\nUzun saçlar... Angie'nin, değil mi?
+385|<CLT=cltMIND>Üstünde Angie'nin saçı olan kanlı koli bandı.\nBu ne anlama gelebilir?
+386|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kanlı Koli Bandı<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+387|Bunu fark etmene şaşırdım, Maki.\nBedeninin altında saklıydı...
+388|...Kısmen görünüyordu. Dedektif olarak\nbenden önce fark etmen gerekirdi.
+389|Ah, şey, doğru...
+390|Eh, öyle bile olsa... Sanırım hâlâ cesetlerin\nyanında olmaya alışıyorsun...
+391|O yüzden kendini fazla hırpalama.
+392|...Eh o zaman, iyi ki cesetlere alışkınsın,\nMaki.
+393|...Ha? Ölmek mi istiyorsun?
+394|Ö-Özür dilerim, şakaydı. Kendimi tutamadım.

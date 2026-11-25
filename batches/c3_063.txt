@@ -1,0 +1,46 @@
+@ chap3_text_US
+## c03_103_039
+193|Son olarak hep birlikte <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> şarkısını\nsöyledik. Seansın tamamlanmış olması gerekiyordu ama...
+202|Himiko kafese koştu ve onu\nkaldırdığı anda...
+206|Bana bırakın... Hepinizi aydınlatan\nyol gösterici ışık olacağım.
+208|Himiko! Hey, Himiko! Güçlü ol, Himiko!
+209|Gonta... Himiko'yu o kadar sarsarsan\nkırılacak!
+210|Ama konuşmuyor!\nSanki Himiko burada bile değil!
+211|Tenko yüzünden gerçekten şok olmuş olmalı...\nşimdilik onu rahat bırakalım...
+214|<CLT=cltMIND>Himiko...
+216|Bu döşeme tahtaları sana biraz sallantılı\ngelmiyor mu? Üstlerinde yürümek zor.
+217|Döşeme tahtaları çivilenmemiş, sadece\nkirişlerin üstüne konmuşlar.
+218|Gonta bana öyle söyledi. Biraz sallantılı\nolmalarının sebebi muhtemelen bu.
+219|Hmmm... Sadece üstüne konmuşlar.\nBu yüzden sallantılılar.
+220|Eh, tahtalar epey kalın ve sağlam.\nKolayca yerinden çıkacaklarını sanmıyorum.
+221|Ama biri bir döşeme tahtasını kaldırmak\nisteseydi kolayca yapabilirdi, değil mi?
+222|Evet, sanırım.
+223|Döşeme tahtaları sadece kirişlerin üstüne\nkonmuş... Bu yüzden sallantılılar.
+227|B-Ben...Tenko'yu şüpheli gösteren...şeyler\nsöyledim...ve şimdi bu...
+228|*burun çeker* Özür dilerim, Tenko!
+229|...Sonra ağla.
+231|Ağlamak Tenko'yu geri getirmez...ve iyice\nsoruşturmazsak biz de öleceğiz.
+232|Gerçeği bulup suçluyu saptamam lazım.\nTenko için...ve hepimiz için.
+234|Haklısın. Tenko pişmanlığı kalmasın diye\nbunu çözmemizi isterdi...
+235|Bu...özür dilemenin en iyi yolu olur.
+236|Düpedüz elimden gelenin en iyisini yapacağım.\nTenko için de...
+237|Bu soruşturma bitti, kapandı! Hepsi de Keebo'ya\nyeni özelliğini verdiğim için benim sayemde!
+238|Şimdi, Kaltak-Fu'nun katili belli ki...
+239|...en başta bu saçma seansa katılmaya yazılan\nsiz salak pisliklerden biri!
+240|Ah, hayır, öyle olması şart değil—
+241|Ha? Cidden mi? Bu seans açıkça onu çekip\nöldürmek için kurulmuştu.
+242|Odada olmayan biri onu nasıl\nöldürebilirdi?
+243|Yani Tenko'nun seans sırasında öldürüldüğüne\nmi inanıyorsun?
+244|Başka ihtimal yok, bok kafa!\nTanrım, ONU bile bilmiyor musun!?
+245|<CLT=cltMIND>Tenko'nun seans başlamadan önce\nhayatta olduğu doğru...
+249|<CLT=cltMIND>Tenko, Kiyo'ya cevap verdi, yani o noktada\nkesinlikle hayattaydı.
+250|<CLT=cltMIND>Ama mumlar yeniden yakılınca...
+251|<CLT=cltMIND>Çoktan öldürülmüştü.
+252|<CLT=cltMIND>Yani karanlıkta öldürüldü.\nEminim.
+253|<CLT=cltMIND>Mumlar söndürüldükten sonra Tenko tam\nolarak ne zaman öldürüldü?
+254|<CLT=cltMIND>Bu davanın önemli bir noktası\nolabilir.
+263|<CLT=cltMIND>Koridora geldiğimde...
+264|<CLT=cltMIND>...hayal edebileceğimden çok daha şaşırtıcı\nbir manzara gözlerimin önüne serildi.
+266|<CLT=cltMIND>Bu odada pencere yok, o yüzden mumlar\nolmadan zifiri karanlıktı.
+267|<CLT=cltMIND>Ama suçlu Tenko'yu tam bir karanlıkta\nnasıl öldürdü?
+268|<CLT=cltMIND>Duvarlara mumlar asılmış...

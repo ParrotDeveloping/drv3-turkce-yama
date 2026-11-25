@@ -1,0 +1,53 @@
+@ chap3_text_US
+## c03_006_007
+179|Ha? N-Neden?
+180|Çünkü sen ve Angie Himiko yüzünden\natışıyordunuz, değil mi?
+181|K-Kimin umurunda...?\nBen...sonunda Atua'nın ne kadar yüce olduğunu anladım...
+182|Doğru, doğru...\nNe konuşuyorduk biz?
+183|Ohhhh, şu <CLT=cltSTRONG>diriltme ritüeli<CLT=cltNORMAL>, değil mi?
+184|Bunu öğrenci konseyine bırakın. Kararı\nAtua verirse daha az külfetli olur.
+185|Daha az külfetli mi?
+186|Bu içimi rahatlattı... Atua'nın kararıysa\nkesinlikle doğrudur.
+187|Evet, Atua'nın yanılmasının imkânı yok.
+188|Evet, evet. Atua her zaman haklıdır.
+189|Ciddi misiniz? <CLT=cltSTRONG>Diriltme ritüeli<CLT=cltNORMAL>\napaçık bir tuzak.
+190|Nyahaha, sorun olmayacak. Herkes ayrılma\narzusunu bir kenara bıraktığı sürece.
+191|Kehehe... Söyleyeceğimiz hiçbir şeyi\ndinleyeceklerinden şüpheliyim.
+192|<CLT=cltMIND>Muhtemelen dinlemeyecekleri doğru ama\nen azından sen de yardım edebilirsin, Kaito...
+194|<CLT=cltMIND>Neyi var? Bunca zamandır\nsessiz.
+196|<CLT=cltMIND>Sonunda öğrenci konseyini\ndurduramadık.
+197|<CLT=cltMIND>Konuyu orada bırakıp herkes kendi\nyoluna gitti.
+198|Nişişi...işler biraz tuhaflaşıyor ama\nen azından sıkıcı değil.
+199|Avludaki yazı...
+200|Ah, eveeet! Onu tamamen unutmuştum!
+201|Atua... Acaba Angie'nin bahsettiği nasıl\nbir tanrı...
+202|Bu seni rahatsız ediyor mu? Bir antropolog\nolarak?
+203|Hayır, tanrılarla ilgilenmiyorum.\nAma onları yaratanlarla çok ilgileniyorum...
+204|Tanrıları yaratanlar insanlardır...\nve ben insanlıkla çok ilgileniyorum.
+205|İnsanların tanrıları neden ve hangi sebeplerle\nyarattığını bilmek istiyorum.
+206|O anlamda bu okul son derece\nilginç.
+207|Çünkü insanlar tanrıları büyük kriz\nzamanlarında yaratır...
+208|Kehehe... Belki burada da bir tanrı\nyaratılacak.
+210|<CLT=cltMIND>Angie'yi anlıyorum ama\nsen, Kiyo?
+211|Taklitler mi...?
+212|Doğrudan inceleyemediğimiz Ryoma dışında\nRantaro'nun cesedi çok gerçek görünüyordu.
+213|Kaede ile Kirumi de gözlerimizin önünde\n"<CLT=cltSTRONG>cezalandırıldı<CLT=cltNORMAL>"...
+214|Bir mankenin onların acısını taklit\nedebileceğini hayal edemiyorum.
+215|Ayrıca ölümlerinden hemen önce sahte bir\ncesetle değiştirilmiş olmaları pek olası değil.
+216|...Angie'nin ne diyeceğini dinleyelim.
+217|Monokuma ve Exisal'lar akıl almaz bilimsel\nilerlemelerin kanıtı...
+218|Yani son derece inandırıcı taklitler\nyaratmaları mümkün olabilir.
+219|Ne?\nBana bundan bahsetme.
+220|Ben...Angie'nin konuşmasını duymak istiyorum.
+221|Ben...Angie'yi destekliyorum.\nO...her şeyi yoluna koyacak.
+222|Bu diriltme ritüeli kulağa aptalca geliyor...
+223|Bunun için mi buraya sürüklendim? Sonuçta\nsizi görmezden gelmeliydim.
+224|<CLT=cltSTRONG>"Ölüleri bize geri döndürmek"<CLT=cltNORMAL> aynı şeyi\nsöylemenin farklı bir yolu.
+225|Rantaro'nun öldüğünü biliyoruz, Kaede ile\nKirumi'nin de gözümüzün önünde öldüğünü gördük.
+226|Hepimizin gördüğünü nasıl inkâr edebilirler?\nBunun ne kadar tuhaf olduğunu fark etmiyorlar mı?
+228|Angie'yi dinlemek *istememin* tuhaf\nolduğunu mu düşünüyorsun?
+229|Ne olmuş yani? Birlikte çalışabilmek için\nbaşkalarını dinlemek de önemli.
+230|Taklit miydiler!? A-Anlıyorum... Bunu hiç\naklıma getirmezdim!
+231|Angie söylüyorsa...ölü biri gerçekten geri\ngelebilir.
+232|Hey, hadi çabuk ona soralım.
+233|Evet...şimdiye kadarki bütün cesetler sahte\nolmalı. Aslında kimse ölmedi.

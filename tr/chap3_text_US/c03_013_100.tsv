@@ -6,12 +6,29 @@
 5	<CLT=cltMIND>...
 6	<CLT=cltSYSTEM>*tık*
 7	Oh, sen misin...
+8	Pardon ama şu an konuşacak havamda\ndeğilim. Sonra konuşuruz, tamam mı?
+9	Görüşürüz...
+10	<CLT=cltSYSTEM>*güm*
+11	<CLT=cltMIND>Kaito iyi mi acaba...?
 12	Ryoma...
+13	<CLT=cltMIND>Senin...kimsen yoktu.
+14	<CLT=cltMIND>O korkunç gerçeği öğrendin ve\nhayatını Kirumi'ye bıraktın.
+15	<CLT=cltMIND>Ama...ben...
+16	<CLT=cltMIND>Ryoma, bizimle birlikte savaşmak istiyordun,\ndeğil mi?
+17	<CLT=cltMIND>Bu yaşamak için yeterli bir sebep değil miydi?
+18	<CLT=cltMIND>Bizimle savaşabilirdin, birlikte savaşabilirdik...\no zaman yaşayabilirdin.
+19	<CLT=cltMIND>Biz...senin yaşama sebebin olamaz mıydık?
+20	...Belki de sadece kibirli davranıyorum.
 21	<CLT=cltSYSTEM>*tık...tık...*
+22	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 23	<CLT=cltMIND>Burası...Gonta'nın odası, ha?\nŞu an burada bir işim yok.
 24	<CLT=cltMIND>Burası Kokichi'nin odası ama...\nşu an burada bir işim yok.
 25	<CLT=cltMIND>Burası Kiyo'nun odası\nama şu an burada bir işim yok.
 26	<CLT=cltMIND>Burası Keebo'nun odası...\nŞu an burada bir işim yok.
+28	<CLT=cltMIND>Kirumi'nin son anları... Hayatı için koşmasının\ngörüntüsünü kafamdan atamıyorum.
+29	<CLT=cltMIND>Onu hâlâ duyabiliyorum...\nMeydan okuyan çığlığını.
+30	<CLT=cltMIND>Belki kaçmak o kadar da kötü değildir...\nBelki onunla yüzleşecek kadar güçlü değiliz.
+31	<CLT=cltMIND><CLT=cltSTRONG>Sona<CLT=cltMIND> kadar yaşayabilmek için...
 32	<CLT=cltMIND>Burası Himiko'nun odası.\nŞu an burada bir işim yok.
 33	<CLT=cltMIND>Demek burası Maki'nin odası...\nŞu an burada bir işim yok.
 34	<CLT=cltMIND>Burası Tenko'nun odası.\nŞu an burada bir işim yok.
@@ -21,4 +38,6 @@
 38	<CLT=cltMIND>...
 39	<CLT=cltSYSTEM>*tık*
 40	<CLT=cltSYSTEM>*tık...tık...*
+41	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 42	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+43	<CLT=cltMIND>Ama sadece görmek bile midemi bulandırıyor...

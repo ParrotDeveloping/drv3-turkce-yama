@@ -1,0 +1,70 @@
+@ chap3_text_US
+## c03_222_001
+13|Bu o kadar yüksek
+14|Bu o kadar yüksek bir gümbürtü çıkarmazdı!
+15|bir
+16|<CLT=size2>gümbürtü\nçıkarmazdı!
+17|Belki
+18|Belki ahşap heykel devrildi.
+19|<CLT=cltAGREE>ahşap heykel
+20|<CLT=cltAGREE><CLT=size2>devrildi<CLT=cltNORMAL>.
+21|Ama o heykel hâlâ\n<CLT=size2>kafesin<CLT=size1> <CLT=size2>üstündeydi!
+22|Ama o heykel hâlâ kafesin üstündeydi!
+23|<CLT=size2>Suçlu<CLT=size1> zeminin\n<CLT=size2>altında saklandı...
+24|Suçlu zeminin altında saklandı...
+26|sonra var gücüyle ayağa kalktı!
+27|<CLT=cltAGREE>var gücüyle <CLT=size2>ayağa kalktı<CLT=cltNORMAL><CLT=size1>!
+28|Ama zeminin altında\n<CLT=size2>kimse olmadığını\n<CLT=size1>zaten söylemiştik!
+29|Ama zeminin altında kimse\nolmadığını zaten söylemiştik!
+30|<CLT=size3>Biri<CLT=size1>
+31|Biri döşeme tahtasına\nbasıp geçmiş olmalı!
+32|döşeme tahtasına
+33|<CLT=cltAGREE>basıp geçmiş\nolmalı
+34|!
+35|Üstüne basınca yerinden çıkan bir döşeme\ntahtası <CLT=size2>tehlikeli!
+36|Basıp geçecek kadar gevşek bir döşeme\ntahtası tehlikeli!
+37|Tanrım, sanki buradaki topu <CLT=size2>kaçırmayan<CLT=size1>
+38|Tanrım, sanki buradaki topu kaçırmayan\ntek kişi benim!
+39|<CLT=size2>tek<CLT=size1> kişi
+40|benim!
+41|Bunu söyleyecek kadar <CLT=size2>toplarla<CLT=size1>\ntecrüben yok, Miu.
+42|Bunu söyleyecek kadar toplarla\ntecrüben yok, Miu.
+43|<CLT=size2>A...Aptal
+44|Gh!! A-Aptal...
+45|<CLT=size2>olma...
+46|Bilmiyor musun!?
+47|Bilmiyor musun!? Toplarla ben can ciğer arkadaşız!
+48|<CLT=cltAGREE><CLT=size1.5>Toplarla<CLT=size1> <CLT=size1.5>ben<CLT=size1> can ciğer <CLT=size1.5>arkadaşız!
+49|Hadi millet, birlikte çalışalım!
+50|Acaba o neydi.
+51|Epey büyük bir kuvvet mi?
+52|Bunu hayal etmek zor.
+53|Düştü mü?
+54|Ne gerçeküstü.
+55|Biri mi? Kim?
+56|Aman tanrım... İşte geliyor...
+57|Ha? Açık saçık bir şaka mı!?
+58|Bununla neden bu kadar
+59|gurur duyuyorsun!?
+## c03_223_000
+0|Kokichi haklı. Döşeme tahtası biri <CLT=cltSTRONG>üstüne\nbastığı<CLT=cltNORMAL> için yerinden çıktı.
+1|Ama döşeme tahtaları tam oturuyordu. Boş odaya\nilk gittiğimizde Gonta emin oldu!
+2|Odayı ilk gördüğümüzde, evet. Ama soruşturma\nsırasında yeniden baktığımda...
+3|Döşeme tahtalarını destekleyen kirişlerden\nbiri <CLT=cltSTRONG>kesilmişti<CLT=cltNORMAL>.
+4|Kesiği inceledikten sonra bilerek yapılmış\nolması gerektiği sonucuna vardım.
+5|Biri mi? Suçluyu diyorsun, değil mi?\nBunu neden yapsınlar?
+6|Suçlu kirişi keserek ne kazanmayı\numuyordu?
+7|<CLT=cltMIND>Ne kazanmayı umuyorlardı?\nSoru bu...
+8|<CLT=cltMIND>Bu davayı çözmek için kirişi ve döşeme\ntahtasını dikkatle düşünmem lazım.
+9|<CLT=cltMIND>Tenko'nun cesedi gevşek döşeme tahtasının\nbir ucundaydı...
+10|<CLT=cltMIND>Ve kesilen kiriş döşeme tahtasının\nöbür ucundaydı.
+11|<CLT=cltMIND>Desteksiz kısım kafesin dışındaydı,\nyani üstüne basılabilirdi...
+12|<CLT=cltMIND>Kirişlerden sadece biri kesilmişti.\nDiğer ikisi sağlamdı.
+13|<CLT=cltMIND>Biri tam Tenko'nun\naltındaydı...
+14|<CLT=cltMIND>Diğeri de ortadaydı, aşağı yukarı\nkafesin kenarının olduğu yerde.
+15|<CLT=cltMIND>Suçlu döşeme tahtasına basarak neyi\nbaşarmaya çalışıyordu?
+16|<CLT=cltMIND>Düşün... Hadi, düşün!
+## c03_225_000
+0|Doğru... Döşeme tahtası bir <CLT=cltSTRONG>tahterevalli<CLT=cltNORMAL>\ngibi kullanılmış olabilir.
+1|Nyeh? Tahterevalli mi?
+2|Döşeme tahtasının bir ucundaki kiriş\nkesilmişti.

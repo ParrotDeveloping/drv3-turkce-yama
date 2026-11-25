@@ -1,0 +1,58 @@
+@ chap3_text_US
+## c03_002_138
+125|<CLT=cltMIND>Ölülerle...konuşmak...
+126|<CLT=cltMIND>Mümkün olsaydı sanırım...\n<CLT=cltSTRONG>Onunla<CLT=cltMIND> bir kez daha konuşmak—
+127|Hayır. Hayır, istemiyorum.
+128|Ölülerle konuşmak mümkün olsa bile...\nsöyleyecek bir şeyim yok. Henüz değil.
+129|Söylemek isteyeceğim tek şey...\nKaçtık. Sonunda buradan çıktık...
+130|Kehehe...bu kararlılık çok güzel.\nBelki de haklısın.
+134|<CLT=cltMIND>Omurgamdan bir ürperti geçti.
+## c03_002_151
+0|<CLT=cltMIND>Vay, bu kocaman bir dojo...\nTatami hasırları yeni. Güzel kokuyorlar...
+1|Nyeeeh...ne baş belası...
+2|Burada mana yok...\nBenim tarzım bir yer değil...
+3|S-Sırtım ağrıyor...
+4|Bunu bir daha yaparsan...\nseni kesinlikle iğrenç bir kurbağaya çeviririm...
+5|Ama şu an...sırtımı iyileştirmek için bütün\nbüyümü kullanmam lazım...
+6|Gördün mü, burası *benim* laboratuvarım, pislik!
+7|N-Neden *kızgınsın*?
+8|O kadar mutluyum ki duygularımı tutamıyorum!\r\nHer yere işeyen heyecanlı bir köpek gibi!
+9|<CLT=cltMIND>Duygusal bir hız treni...\nHimiko'nun tam tersi.
+10|Vay, ne güzel bir dojo! Eminim burada\nidman maçları inanılmaz olur!
+11|Ama bir idman partneri olmadan—
+12|HAİYAAAAAAAAHHH!!!!!
+13|<CLT=cltSYSTEM>*güm!*
+14|AAAH! N-Neden yaptın bunu!?
+15|Ah! Ah! Ahhh!\nN-Neden beni fırlatıyorsun?
+16|<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> süper ciddi bir dövüş sanatı!\nAntrenman yapmak yerine doğrudan dövüşürüz!
+17|Şimdi, Himiko! Kalbe nişan al!
+18|Bununla mı *başlayacaksın*!?
+19|Hahaha! Sadece şaka yapıyorum!
+20|*Bu* mu şaka?\nNeden doğrudan gerçek dövüşe geçtik—
+21|Kendine pek güvenin yok, değil mi\nShuichi?
+23|Özgüvenin eksik...ve bu yüzden\ngücünden şüphe ediyorsun.
+24|Eskisinden daha kendinden emin görünüyorsun\nama hâlâ kendini sorguladığını anlayabiliyorum.
+25|...Ee!? Haklıyım, değil mi!? İdman partnerimin\nşüpheyle yüklü olduğunu anlayabilirim!
+26|...Haklı olabilirsin.
+27|O şüpheleri gidermede gerçekten işe yarayan\nne biliyor musun!? <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>!
+28|Çünkü Aikido her şeyden önce saf bir kalbe\ndeğer veren bir <CLT=cltSTRONG>Japon dövüş sanatıdır<CLT=cltNORMAL>!
+29|Peki ya sen, Himiko?
+31|Senin büyünü benim Neo-Aikido'mla birleştirirsek\nişleri zorla çözebiliriz!
+32|<CLT=cltMIND>Zorla mı? Bunun kalp saflığıyla\nilgili olduğunu sanıyordum...
+33|Nyeeeh...hiç egzersiz yapmak istemiyorum.\nÇok fazla—
+34|HAİYAAAAAAAAHHH!!!!!
+35|Nyeeeeeeeehhh...
+36|<CLT=cltSYSTEM>*güm!*
+37|Anlıyorum... Görünüşe göre duygularını göstermek\niçin hâlâ fazla utangaçsın, Himiko.
+38|Ne yazık. Kalbi en zengin olan\nsensin.
+39|<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> yapmalısın, Himiko! Bedenini\r\nçalıştırmak duygularını ifade etmene yardım eder.
+40|Şimdi gel benimle terle! Ve sonra birlikte\nduşa gireriz!
+41|Nyeeeh... S-Sırtım...
+42|Şu an seni büyümle iğrenç bir kurbağaya\nçevirmek istiyorum...
+43|Oh...kızgınsın. Kalbinde görebiliyorum.
+44|Onu ben bile görebiliyorum...
+45|Sana Aikido'nun sırrını söyleyeceğim.
+46|Aikido, birbirinin güçlü ve zayıf yanlarını\ngörmek için eğlencesine yarışmak değildir.
+47|Birlikte çalışarak ve zihnini, bedenini ve\nnefesini tam kullanan teknikler uygulayarak...
+48|...fiziksel ve zihinsel gelişimini ölçebilirsin.\nAikido'nun gerçek amacı budur.
+49|Aikido'da üstünlük için yarışmazsın.\nHatta Aikido'da hiç yarışmazsın.

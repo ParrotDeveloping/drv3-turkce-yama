@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_001_150
+167|<CLT=cltMIND>Halkı için...
+## c03_002_003
+1|Gonta? Ne oldu?
+2|Oh...özür dilerim. Gonta böcek gördüğünü sandı.
+3|Evet, bunu daha önce de söylemiştin...\nZar zor görebildiğin bir böcek mi?
+4|Evet...Gonta bazen onu görebiliyormuş gibi hissediyor.
+5|Ama Gonta onu zar zor görüyor...\nMuhtemelen hata.
+6|Çünkü Gonta burada böcek olmasını istiyor...\no yüzden Gonta tozu onlarla karıştırıyor.
+7|<CLT=cltMIND>...Gerçekten öyle mi?\nGonta bu hatayı birden fazla kez yapar mı?
+8|Neyse, tehlikeli bir alan bulursan gel Gonta'yı\nal. Gonta seni koruyacak!
+9|<CLT=cltMIND>İyi niyetli olduğunu biliyorum ama ondan kalkan\nolmasını istemekte tereddüt ediyorum...
+10|Tehlikeli bir alan bulursan gel Gonta'yı al.\nGonta seni koruyacak!
+11|B-Bakın! Burada gizli geçit var!
+12|İleri gideceksen Gonta önden gitsin!\nGonta tuzakları bile kontrol edebilir!
+13|Orman ailesi Gonta'ya tuzak bulmayı ve\netkisiz hâle getirmeyi öğretti!
+14|Sonunda yaptığım her şeyi sizin için\nyaptığımı anladınız mı?
+16|Eh, herkese Maki'nin tehlikeli bir katil olduğunu\nsöylemek için hayatımı riske attım, değil mi?
+17|Hazır lafı açılmışken şu an ne planlıyor\nolabileceğine dair hiçbir fikrim yok...
+18|Ama onu durdurmak için güçlerimizi birleştirmeliyiz!\nBir cinayet daha olmasını istemiyorum!
+20|Hep sizin için neyin en iyisi olduğunu\ndüşünüyorum.
+21|Çünkü her birinizi ayrı ayrı seviyorum!
+23|Yaşasın, artık ilerleyebiliriz!\nPekala, keşif vakti!
+24|Her insanın her yanı—çirkin yanları bile—\ngüzeldir. Güzelliğin sınırı yoktur.
+25|Kirumi... Onun da kendine has olağanüstü\nbir güzelliği vardı.
+26|Cesur ama hesaplı bir suç...\nGerçeğe karşı bir savaş...
+27|İnançları için başkalarını vahşice öldürmek...\nÇoğunluk için azınlığı duygusuzca feda etmek...
+28|Ve hayata bağlılığı ve yaşama\nkararlılığı!
+29|Kaçma girişimi o kadar çirkindi ki!\nAcınasıydı! Zavallıcaydı! Sefilceydi!
+30|Ama güzeldi! Bir insanda daha önce hiç\nböyle bir güzellik görmemiştim!
+33|<CLT=cltMIND>...Kiyo'nun neden bahsettiğine dair\nhiçbir fikrim yok.
+34|<CLT=cltMIND>Ama kendimce...Kirumi'nin son anları\nbenim de zihnime kazındı.
+35|Burada tanık olabildiğim insanlığın güzelliği...\nen çılgın hayallerimi aştı...
+36|Kehe...Kehehehe...\nİnsanlar ne kadar harika...
+37|*iç çeker* Her şey aynı anda oluyor...\nBenim için fazla...
+38|Ryoma'nın davası bir şoktu, sonra bir de Kirumi'nin\nülkeyi yönettiğini, Maki'nin suikastçı olduğunu öğrenmek...
+39|Benim gibi sıradan bir vatandaş yetişemiyor...
+40|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltMIND>'ın "sıradan"\nsayılabileceğinden emin değilim...
+41|Ama...sıradan bir vatandaş olduğuma seviniyorum.
+42|Kirumi'ninki kadar güçlü bir yaşama sebebim\nolsaydı...
+43|Ya da Ryoma gibi benim için önemli olan\nher şeyi kaybetseydim...
+44|Böyle bir şey olsaydı muhtemelen bir\nköşede sinip kalırdım.
+45|Kirumi'nin ya da Ryoma'nın yaptıklarının doğru\nya da yanlış olduğunu bir kenara bırakırsak...
+46|Bir şey yapabilmiş olmaları bile bence\ninanılmaz.
+47|Onlar gibi insanların burada ölmesi...\nHiç adil değil!
+48|Bu fazla adaletsiz... Neden bu öldürme\noyununu oynamaya zorlanıyoruz?
+49|Tanrım...keşke biri bir şey yapsa...
+50|Oh, sihirli anahtarla açıldı...\nDemek sonuçta sihirli bir kapıymış.
+51|Yeni bir alan açılırsa herkes için daha\nçok eğlence demek.
+52|Atua ile ben herkesin süper eğlenceli bir okul\nhayatı olsun diye iş birliği yapacağız.
+53|Atua her şeyi görür. Herkesin gerçekten\nne istediğini bile.
+54|Herkesin gerçekten ne istediğini mi?
+55|Aynen öyle! Atua beni hep gözetliyor!

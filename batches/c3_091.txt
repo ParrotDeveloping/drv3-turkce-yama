@@ -1,0 +1,63 @@
+@ chap3_text_US
+## c03_225_000
+61|Çünkü bu tahterevalli cinayeti yerin önceden\nhazırlanmasını gerektiriyordu.
+62|Döşeme tahtasının altındaki kirişi\nkeserek mi demek istiyorsun?
+63|O zaman suçlunun kurbanını hazırlanmış\nodaya çekmesi gerekirdi.
+64|Seans için o odayı bu yüzden seçtin,\ndeğil mi Himiko?
+67|Ah evet! Seansın yerini seçen\nHimiko'ydu!
+69|Muhtemelen seans planlarımı bir şekilde\nöğrendi.
+70|Seans hakkında epey açık konuşuyordun, Kiyo.\nLaboratuvarında talimatları bile vardı.
+71|Suçlumuz Himiko tahterevalli tuzağını\nönceden hazırladı...
+72|Sonra seansı düzenlememi bekledi ve\n<CLT=cltSTRONG>ortadaki odayı<CLT=cltNORMAL> önerdi.
+73|Seansı tam istediği yerde yapmamız için\nhepimizi yönlendirdi.
+74|Sonra Tenko'yu öldürdü.\nHepsi plana göre.
+75|B-Bu bir yalan, değil mi?\nHimiko...böyle bir şey mi yaptı?
+77|Sonunda Tenko'nun değer verdiği ve sevdiği\nHimiko trajik bir şekilde onu öldürdü...
+78|D-Dur! Bunu bilmiyoruz, değil mi!?
+79|Yanılıyor. Değil mi, Himiko!?\nHimiko, Tenko'yu asla öldürmez! Değil mi!?
+80|Tenko'yu...öldürmek mi...?
+81|Ben...Tenko'yu mu öldürdüm?
+83|Himiko...?
+86|<CLT=cltMIND>Ortadaki odayı kullanmanın Himiko'nun\nfikri olduğu doğru...
+87|<CLT=cltMIND>Ama bu Himiko'nun gerçekten Tenko'yu\nöldürdüğü anlamına mı geliyor?
+88|<CLT=cltMIND>...Böyle bir şey gerçekten\nolur mu...?
+89|<CLT=cltMIND>Bu kadar zalim bir şey...
+## c03_226_000
+0|Görünüşe göre ara bölüme geldik, bu da\nşunun vakti demek...
+1|Kurbanı Tahmin Et Yarışması!
+2|Kurban yarışması mı!? Suçlu yarışması değil mi!?
+3|Tek kurbanlar hâlâ bu uzayıp giden, sıkıcı\nsaçmalığı izleyen insanlar...
+4|Neden birden bu kadar karamsar\noldun?
+5|SORUN-YOK...\nEMİNİM-HERKES-MUTLUDUR.
+6|Nereden biliyorsun!? Bütün bu konuşmayı\natlıyor olabilirler, ne bilirsin!
+7|Dayanamıyorum! Artık dayanamıyorum!\nAsıl kurban benim! Beeen!
+8|*Sen* neden üzülüyorsun!?
+9|Asıl kurban benim! Bütün bu saçmalığa\nhep katlanmak zorunda kalan benim!
+11|Doğru cevap, Monodam!
+12|Neden!? Hiçbir şey söylemedi ki!
+13|Aynen öyle! Çünkü kurban yok.
+14|Evet... Bu öldürme oyununda öldürülsen\nbile kazanansın.
+15|Çünkü o zaman herkes yasını tutar ve ölümünden\nsonra tonla popülerlik kazanırsın!
+16|Ah, Babacım! Böyle perde arkası ayrıntıları\nifşa etmene gerek yok!
+17|Ölmek seni daha popüler mi yapıyor!?\nO zaman biz de yakında ölmeliyiz!
+19|Vuuuuuuu... Bu benim ürkütücü, korkunç bir\nhayalet taklidim...
+20|Ahhhhhh! Gerçek hayaletlerle sorunum yok\nama taklitleri fazla korkunç!
+21|MANTIK-HESAPLANAMIYOR...
+22|...Ha? Bir şey duydun mu?
+23|...Hayır? Hiçbir şey duymadım.
+25|Korkunç başka ne var biliyor musun? Tatlı çörekler.\nEvet! Lezzetli, lezzetli tatlı çörekler.
+26|O kadar yuvarlak, o kadar tatlı, o kadar lezzetli!
+27|...Bu hiç korkunç gelmiyor!
+28|BEN-DE-KORKUYORUM...\nARKADAŞLARIMI-KAYBETMEKTEN-KORKUYORUM.
+## c03_227_000
+1|Cevap ver bize, Himiko.
+2|Bizi tuzağına çekmek için ortadaki odayı\nseçtin, değil mi?
+3|Sonra o tuzağı Tenko'yu öldürmek için\nkullandın, değil mi?
+5|Ee, eşek dudak!?\nO karıyı sen mi öldürdün!?
+7|D-Dur... Bir hata olmalı.\nHimiko'nun suçlu olmasının imkânı yok.
+8|O zaman kendini savunması lazım.\nYoksa bu tartışma çıkmaza girer.
+9|Büyü kullanman gerekse de umurumda\ndeğil ama artık bir şey söyle.
+11|...Dinliyor musun bile?
+12|Hayır. Dinlemiyorum...
+14|Artık...umurumda değil...\nÇok yorgunum...
+15|Angie öldü... Tenko öldü...\nBen neden hayatta kalmak zorundaydım?

@@ -1,0 +1,64 @@
+@ chap3_text_US
+## c03_005_258
+53|Yanlış anlama. Reddedersem sonra bu\nkonuda başımın etini yer.
+54|Heh, demek anlıyorsun!
+55|...Onun gibi aptallarla başa çıkmanın tek yolu\npes edip başını sallamaya devam etmek.
+56|H-Hiç anlamamışsın!
+57|Neyse...hazırlansan iyi olur.\nKızsın diye sana acımayacağım.
+58|...Peki, önce ne yapıyoruz?
+59|Pekala! Önce 100 şınav!
+60|<CLT=cltMIND>Bir şekilde Maki de bize katıldı ve\nüçümüz birlikte antrenman yaptık.
+61|Hah...! Hah...! Hah...!
+62|F-Fena değil...Shuichi...\nGeliş...iyorsun!
+63|H-Hey Kaito...bugün kaytarmak yok, tamam mı?\nTekrarlarını sayıyorum!
+64|Heh, bugün alev alevim.\nRahatça 50 şınav çekebilirim!
+65|Yüz çekeceğimizi sanıyordum!
+66|Hey, ya sen, Maki?\nYüz senin için fazla zor olabilir, o yüzden-
+67|91, 92, 93, 94...
+68|Ne—!? Bu kadar hızlı mı!?
+69|100... Bitti.
+70|<CLT=cltMIND>Maki ayağa kalkıp ellerindeki tozu\nsilkti, tamamen sakindi.
+71|B-Bitirdin mi bile?
+72|N-Nefes nefese bile değilsin...\nSanırım daha önce antrenman yaptın, ha?
+73|Sen biraz fazla nefes nefese değil misin?\nKendimizi pek zorladığımız yok.
+74|B-Buraya gelmeden önce ısınma yaptım...\nZaten 500 şınav çektim, yani...
+75|<CLT=cltMIND>Kaito...\nUydurabildiğin en iyi yalan *bu* muydu?
+76|Neyse, bitirdim ve seninle antrenman yapmadığımı\nsöyleyemezsin. Odama dönüyorum.
+77|Tamam, yarın da antrenman yapıyoruz!\nOrada olsan iyi olur!
+79|<CLT=cltMIND>Maki, Kaito'yu görmezden gelip tek\nkelime etmeden gitti.
+80|Tanrım, neden bu kadar zorluk çıkarmak\nzorunda ki?
+81|Hey, Kaito...bütün bunları neden yaptın?\nOna yardım etmek için mi?
+82|Hm? Biri zayıfsa ona yardım edersin.\nAstronotlar için takım çalışması önemlidir.
+83|Biri zayıf ve acı çekiyorsa onu öylece\nbırakmanın imkânı yok!
+84|Zayıf ve acı çekiyor mu? *Maki* mi!?
+85|Eh, o anlamda sen de—
+86|Hayır...seninki biraz farklı.
+88|B-Bir şey yok! Neyse, devam edelim. Sen hâlâ\nşınavlarının ortasındaydın, değil mi?
+89|Sen de öyle.
+90|Dinlemiyor muydun? Buraya gelmeden önce\nzaten 500 şınav çektim.
+91|...İyi denemeydi, Kaito.
+92|<CLT=cltMIND>Kaito sonunda kaç şınav çektiğini\n"hatırlamadığını" söyledi...
+93|<CLT=cltMIND>Baştan başlamaya karar verdik ve 100'e\nulaştığımızda bitkin düşmüştük.
+## c03_006_001
+2|Shuichi...bu çağrı sana da huzursuz\nbir his vermiyor mu?
+3|Şey, evet...sanırım veriyor.
+4|Önceki olaylara bakılırsa...belki yeni bir\n<CLT=cltSTRONG>motif<CLT=cltNORMAL> açıklanacak?
+5|Zamanlama Yavrupad'leri aldığımız zamana\nbenziyor.
+6|Evet, bence öyle olabilir.
+7|Ama sorun yok! Bize ne tür bir motif\nhazırlanmış olursa olsun...
+8|Ona birlikte karşı koyabiliriz!
+10|Merak etme. Öldürme oyununun devam etmesine\nizin vermeyeceğiz!
+11|<CLT=cltMIND>Bu tuhaftı...\nKeebo alışılmadık derecede iyimser.
+12|<CLT=cltMIND>Devam etmesine "izin vermeyeceğiz"\nderken ne demek istedi?
+## c03_006_007
+1|<CLT=cltMIND>Rantaro'nun Sınıf Duruşması'ndan sonra\nkütüphaneye gittiğimizde de aynısıydı.
+2|<CLT=cltMIND>...Tertemiz.
+3|<CLT=cltMIND>Sanki hiçbir şey olmamış gibi.
+4|Ihh, vay be... Fena yorgunum.
+5|Bütün gece o bilgisayarı tamir ettim.
+6|Ah, 4. kattaki bilgisayara baktın mı?\nNe düşünüyorsun?
+7|Evet...daha yeni üzerinde çalışmaya başladım,\nbütün özelliklerini bilmiyorum ama...
+8|O şey...epey iyi. Yani o kadar yoğun ki\nuyumama izin vermiyor.
+10|Kehehe...kıskanıyor musun?
+11|...Elbette hayır. Bir bilgisayarı asla\nkıskanmam.
+12|Bilgisayarı kıskanan bir robot mu?\nDüpedüz mümkün görünüyor.

@@ -1,0 +1,47 @@
+@ chap3_text_US
+## c03_002_029
+16|Yanlış hatırlamıyorsam...o kadar inanılmaz ki\nonunla bir <CLT=cltSTRONG>yeni dünya<CLT=cltNORMAL> bile yaratabilirsin!
+17|"Yeni dünya" mı?
+18|Evet, yeni bir dünya! Bunu yeni bir dünya\nyaratmak için kullanabilirsin!
+19|...Dur, bunu ona söylememiz mi gerekiyordu?\nPlanı şimdiden unuttum.
+20|Kesinlikle fazla şey söyledin.
+21|Vaaaah! Biliyordum!
+22|Çok unutkansın, Monotaro! Neyi söyleyip neyi\nsöyleyemeyeceğini hatırlamaya çalışmalısın!
+24|...NEDEN-ONA-YARDIM-ETMEDİN, MONOPHANIE?
+26|FAZLA-ŞEY-SÖYLEDİĞİNİ-FARK-EDİNCE-ONA-\nYARDIM-EDEBİLİRDİN, DEĞİL-Mİ?
+27|PEKİ-NEDEN-ETMEDİN?
+28|ARKADAŞSINIZ, DEĞİL-Mİ?\nPEKİ-NEDEN-ONA-YARDIM-ETMEDİN?
+29|I-Iı...şey...ıı...
+30|ANLAŞAMAZSANIZ...\nCEZALANDIRILACAKSINIZ.
+31|SEN-DE, MONOTARO. ARKADAŞLAR-HER-ŞEYİ-\nPAYLAŞIR...CEZALARI-BİLE.
+32|Ne!? Geri tepti!
+33|<CLT=cltMIND>Bu makine yeni bir dünya yaratabiliyor...\nNeden bahsediyorlar?
+34|Bilgisayarlardan pek anlamam...Ne kadar araştırsam\nda anlayacağımı sanmıyorum.
+43|Bu makine yeni bir dünya yaratabiliyor...\nBu ne demek olabilir?
+44|<CLT=cltMIND>Bilgisayarlar hakkında bu kadar az şey\nbilirken hiç şansım olduğunu sanmıyorum.
+45|Sanırım...şimdilik bırakmaktan başka\nçarem yok.
+48|<CLT=cltMIND>Bilgisayarlar hakkında bildiğim bu azıcık\nşeyle hiç şansım olduğunu sanmıyorum.
+50|<CLT=cltMIND>Ah! Bir hazine sandığı!
+51|<CLT=cltMIND>Sandığı hevesle açtım ve...
+52|Bir tane buldum...\nBir <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>.
+53|<CLT=cltMIND>Bununla...burasının ne olduğunu, neden\nburada olduğumuzu öğrenebilirim...
+54|<CLT=cltMIND>Ama ondan önce...
+55|<CLT=cltMIND>İçinde <CLT=cltSTRONG>Hatıra Işığı<CLT=cltMIND> olan\nhazine sandığı bu.
+61|Oh! <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'nı buldun!
+62|Vaaay! O sıkıcı suratına rağmen epey\ngüvenilirsin! Buna saygı duyuyorum.
+64|Ben diğerlerini çağırırım. Sen onu yemekhaneye\ngetir, Shuichi.
+65|Neyse, ben gidiyorum! Görüşürüüüüz!
+66|<CLT=cltMIND>Durmadan konuştu, ben de araya tek kelime\nsokamadım. El sallayarak gitti.
+## c03_002_036
+5|<CLT=cltMIND>Köşedeki Delik
+## c03_002_138
+0|<CLT=cltMIND>Neredeyse bir müze ya da kütüphane gibi...\nKocaman...ve biraz ürkütücü...
+1|<CLT=cltMIND>Raflarda ve vitrinlerde çeşitli nesneler\nsaklanıyor. Bazıları çok nadir görünüyor.
+2|Görünüşe göre burası benim laboratuvarım.\n<CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL>'un laboratuvarı.
+3|O kadar harika ki yüzüm sevinçten büzülüyor.\nÜniversite laboratuvarları bile bu kadar donanımlı değil.
+4|<CLT=cltMIND>Ama...bütün bunları buraya kim getirdi?
+5|<CLT=cltMIND>Sanırım bunu düşünmenin anlamı yok.\nBuradaki hiçbir şey mantıklı değil.
+6|Nişişi... Kiyo'yu ilk defa bu kadar\nsinirli görüyorum.
+7|Sinirlenince korkunç oluyor. Sinirlerimi\nsöküp çıkarsa sanırım ağlarım!
+8|Bu gerçekten inanılmaz...\nÜniversite laboratuvarları bile bu kadar donanımlı değil.
+9|Bütün bunların bana ait olması bir araştırmacı\nolarak bende karmaşık duygular uyandırıyor.

@@ -1,0 +1,34 @@
+@ chap3_text_US
+## c03_000_031
+11|Durumu gözler önüne seriyor...
+## c03_000_036
+4|<CLT=cltMIND>Duvarlara mumlar asılmış...\nOdadaki tek ışık kaynağı onlar.
+5|<CLT=cltMIND>Bu odada pencere yok, yani mumları\nsöndürürsen zifiri karanlık olur.
+6|<CLT=cltMIND>Duvarlara mumlar asılmış...\nOdadaki tek ışık kaynağı onlar.
+7|<CLT=cltMIND>Bu odada pencere yok, yani mumları\nsöndürürsen zifiri karanlık olur.
+8|<CLT=cltMIND>Görünüşe göre bu döşeme tahtaları\n<CLT=cltSTRONG>kirişlerin<CLT=cltMIND> üstüne döşenmiş.
+9|<CLT=cltMIND>Belki de zeminin tamamen sağlam\nolmamasının sebebi bu...
+10|<CLT=cltMIND>Odanın köşesinde bir de delik var.\nOraya fazla yaklaşmamalıyım...
+11|Köşedeki Delik
+## c03_000_038
+4|0
+## c03_000_100
+6|<CLT=cltMIND>Senin...kimsen yoktu.
+7|<CLT=cltMIND>O korkunç gerçeği öğrendin ve\nhayatını Kirumi'ye bıraktın.
+8|<CLT=cltMIND>Ama...ben...
+9|<CLT=cltMIND>Ryoma, bizimle birlikte savaşmak istiyordun,\ndeğil mi?
+10|<CLT=cltMIND>Bu yaşamak için yeterli bir sebep değil miydi?
+11|<CLT=cltMIND>Bizimle savaşabilirdin, birlikte savaşabilirdik...\no zaman yaşayabilirdin.
+12|<CLT=cltMIND>Biz...senin yaşama sebebin olamaz mıydık?
+13|...Belki de sadece kibirli davranıyorum.
+15|<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
+## c03_000_101
+9|<CLT=cltMIND>Bunu yapmak için neden bu kadar zahmete\ngirmişler? Ne işe yarayabilir ki?
+## c03_000_132
+1|<CLT=cltMIND>Normale...mi dönmüş?\nMonokuma...her şeyi temizlemiş mi?
+2|<CLT=cltMIND>Tuhaf şekillerde çalışkan...
+7|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.\n
+11|<CLT=cltMIND>Keşke Ryoma'nın burada durduğunu\ngörebilseydim...
+## c03_000_136
+8|<CLT=cltMIND>Burada bir kitaplık var...\nBöceklerle ilgili kitaplarla dolu.
+10|<CLT=cltMIND>...Uzun bir süre başka bir böcek\ngörmek istemiyorum.

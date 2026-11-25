@@ -1,0 +1,70 @@
+@ chap3_text_US
+## c03_204_000
+3|O katana çok değerli bir kalıntı. Onu nasıl\nsilah olarak kullanabilirim ki?
+5|Kiyo'nun anahtarı olsa da olmasa da Angie\nonu yine de laboratuvarına alırdı!
+6|Ve oradan da onu yere yatırıp öylece\nöldürebilirdi!
+8|<CLT=cltMIND>Suçlu gerçekten Korekiyo mu?\nBu hikâye davanın gerçekleriyle uyuşuyor mu?
+9|<CLT=cltMIND>En azından odaya zorla girmesinin\nimkânı yoktu.
+11|<CLT=cltMIND>Baştan düşünmeliyiz...
+## c03_204_001
+0|Suçlu Angie'yi öldürmek için
+1|Suçlu Angie'yi öldürmek için bir katana kullandı!
+2|bir <CLT=size3>katana<CLT=size2> kullandı!
+3|Ve o <CLT=size2>bulundu<CLT=size1>
+4|Ve o Kiyo'nun araştırma laboratuvarında bulundu!
+5|<CLT=cltAGREE><CLT=size2>Kiyo'nun araştırma laboratuvarında<CLT=cltNORMAL>!
+6|Bu da seni, <CLT=size2>Kiyo,
+7|Bu da seni, Kiyo, otomatik olarak şüpheli yapıyor!
+8|otomatik olarak şüpheli yapıyor!
+9|Ama o <CLT=size2>katanayı<CLT=size1> <CLT=size2>herkes<CLT=size1>\n<CLT=size2>alabilirdi<CLT=size1>, değil mi?
+10|Ama o katanayı herkes\nalabilirdi, değil mi?
+11|Yani o
+12|Yani o paslı katana silahtı...
+13|<CLT=size2>paslı katana
+14|<CLT=size2>cinayet silahıydı...
+15|O şeyi umursayan <CLT=size2>tek kişi<CLT=size1>\nsendin, <CLT=size2>Kiyo!
+16|O şeyi umursayan tek kişi\nsendin, Kiyo!
+17|<CLT=size2>Ben<CLT=size1> bir katanayı <CLT=cltWEAK>umursamadım<CLT=cltNORMAL>...
+18|Ben bir katanayı umursamadım...
+19|Kabul et artık, seni
+20|Kabul et artık, seni bok yiyen solucan!
+21|bok
+22|yiyen
+23|solucan!
+24|<CLT=size2>Sen<CLT=size1> sınıfa
+25|Sen sınıfa gittin, zorla girdin...
+26|<CLT=size2>gittin,
+27|<CLT=cltWEAK><CLT=size2>zorla girdin<CLT=size1><CLT=cltNORMAL>...
+28|ve <CLT=size2>Angie'yi<CLT=size1>\n　\n　\n　\n　\n　\n　\nfena hâlde <CLT=size2>öldürdün!
+29|ve Angie'yi fena hâlde öldürdün!
+30|<CLT=size2>Hu evet!
+31|Hu evet! Ben lanet bir DAHİYİM!
+32|<CLT=size2>Ben<CLT=size1> lanet
+33|bir <CLT=size2>DAHİYİM!
+34|Köpek heykeli değil mi?
+35|Demir kafesi mi diyorsun?
+36|Hayır, öbür şey.
+37|Bu şüpheli...
+38|O kadar umursuyor muydu?
+39|Kafayı takmıştı!
+40|Çünkü o cinayet silahı!
+41|Ama kilitliydi, değil mi?
+42|O katanayla kolay olurdu!
+43|Gerçekten zorla mı girdi?
+## c03_205_000
+0|Hayır, Kiyo Angie'nin laboratuvarına\ngiremezdi.
+1|Değil mi, Tsumugi?
+2|Evet, Angie kendini araştırma laboratuvarına\nkapatmadan önce...
+3|<CLT=cltSTRONG>Öğrenci konseyi üyeleri<CLT=cltNORMAL> dışında kimseye\nkapıyı açmayacağını söylemişti.
+4|Ve Kiyo üye değil. Kapıyı ona\naçmazdı.
+5|Kiyo istese bile Angie'yi\nöldüremezdi!
+6|Zaten onu öldürmek gibi bir arzum\nyoktu.
+7|Yani Angie'yi kim öldürdüyse öğrenci konseyi\nüyelerinden biri olmalı, değil mi?
+8|B-Ben sizi doğru cevaba yönlendirmek için\nbiraz rol yapıyordum... Gerçekten bulduğunuza inanamıyorum...
+9|Oh! Ne kadar zekice!
+10|Onu görmezden gelebilirsin, Gonta...
+11|Geriye kalan öğrenci konseyi üyeleri\nGonta, Keebo, Tsumugi ve Himiko.
+12|Eh, Himiko olamaz.\nAngie ile can ciğerdi.
+13|Onların arkadaşlığına güveniyorum!\nSiz de güveniyorsunuz, değil miii!?
+15|...Onların arkadaşlığına bu kadar kolay\ngüvenebilir miyiz?
+16|Tabii ki! Onlara inanalım!

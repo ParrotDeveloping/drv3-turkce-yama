@@ -1,0 +1,60 @@
+@ chap3_text_US
+## c03_014_100
+18|Acınası ama...dünden beri pek yiyemiyorum\nda uyuyamıyorum da.
+19|Sanırım...biraz daha dinlenirsem\niyileşirim, biliyor musun?
+20|Evet...tabii, Kaito.\nNe yapman gerekiyorsa yap.
+21|Düşününce antrenman programımızı her\nhâlükârda değiştirmemiz gerekecekti...
+22|Öğrenci konseyi gece dışarıda olmanın yasak\nolduğunu söylemişti, değil mi?
+24|Hastaysan o başka. Ama antrenman programını\ndeğiştirmeni istemiyorum.
+25|Bunu yapmana...gerek yok.
+26|G-Gerçekten mi? Ama—
+27|Atlamak istemiyorum, o yüzden bugün sadece\nikimiz antrenman yapacağız.
+29|...İstemiyor musun?
+30|...Ölmek mi istiyorsun?
+31|Ö-Ölmek mi!?
+32|Ah, pardon... Eski bir alışkanlık.\nDuymamış gibi yap.
+33|<CLT=cltMIND>Böyle bir "alışkanlık" olduğunu bilmiyordum...
+34|Neyse...şimdi pes etmek istemiyorum.
+35|Sonunda onunla...nasıl yüzleşebileceğimi\ndüşünmeye başladım...
+36|O yüzden...tek başıma antrenman yapmam\ngerekiyorsa öyle olsun.
+38|...Belki sadece iyi hissetmediğin içindir ama\nbu gerçekten sana hiç benzemiyor, Kaito.
+39|Angie'ye itaat edeceğini hiç düşünmezdim.\nCanın ne isterse onu yaptığını sanıyordum.
+41|Shuichi, üzgünüm ama...iyileşene kadar\nantrenmanı sana bırakabilir miyim?
+42|Elbette, Kaito.
+43|<CLT=cltMIND>Kararlılıkla başımı salladım, sonra Maki'nin\npeşinden avluya yöneldim.
+## c03_014_101
+3|<CLT=cltMIND>Neyse...sanırım gece oldu.
+4|<CLT=cltMIND>Angie gece için sokağa çıkma yasağı koydu.\nAcaba antrenmana ne olacak.
+## c03_014_258
+1|Maki, Kaito hakkında...\nEndişelenmemelisin.
+2|Hasta olduğu için biraz güçsüz hissediyor,\neminim değildir—
+4|<CLT=cltMIND>Bedenim içgüdüsel olarak kaskatı kesildi.
+5|<CLT=cltMIND>Maki'nin gözleri...ve etrafını saran\nbütün hava...
+6|<CLT=cltMIND>tamamen değişmişti.
+7|<CLT=cltMIND>Bakışları hem yakıcı derecede sıcak\nhem de buz gibi soğuktu.
+8|<CLT=cltMIND>Özü buzdan ve ateştendi.
+9|M-Maki...?
+11|<CLT=cltMIND>Ama bakışları bana yönelik değildi.\nTam yanımdan geçiyordu.
+12|Ihh...ihhhh...!\nNe...yoğun...bir düşmanlık...!
+13|Demek gücün bu! Normal biri sadece o\nbakıştan bayılırdı!
+14|T-Tenko?
+16|Muhtemelen gitmemi istiyorsun, değil mi?\nAma...kaçmayacağım.
+18|Seninle kavga etmeye gelmedim...ve senin de\nsokağa çıkma yasağını uygulamaya geldiğini sanmıyorum.
+20|Aynen öyle, Maki! Buraya öğrenci konseyi\nüyesi olarak gelmedim...
+21|Senden bir iyilik istemeye geldim—kişisel\nbir iyilik.
+22|Bir iyilik mi? Bizden mi?
+23|Öğrenci konseyinden olduğunu sanmıyorum...\nBeyni yıkanmış gibi konuşmuyor.
+24|Evet...beynim hiç yıkanmadı.
+26|Beynin yıkanmadı... Yani öğrenci konseyine\nisteyerek mi katıldın?
+27|Bu kulağa...daha kötü geliyor.
+28|Tenko...neden bahsediyorsun?\nAtua'ya inandığını sanıyordum—
+29|Angie'nin tanrısına asla inanamam.
+31|Ben sadece Aikido'ya inanırım! O bende\nolduğu sürece hiçbir şey beni etkileyemez!
+32|Aikido zihinsel dayanıklılığa değer verir ve\nAikido hareketleri o dayanıklılığın yansımasıdır.
+33|Aikido sayesinde zihinsel dayanıklılığım Angie'nin\nbeyin yıkamasına yenik düşmeyecek kadar güçlü!
+34|Yani sadece beynin yıkanmış gibi mi yaptın?\nNeden öyle yaptın?
+35|Çünkü...Himiko için endişeleniyorsun,\ndeğil mi?
+36|Öğrenci konseyine katılmak için beynin\nyıkanmış gibi yaptın, değil mi?
+37|Bence...Himiko o kadar tembelleşti ki kendi\nbaşına düşünmekten vazgeçti...
+38|Bu yüzden Angie'ye bağımlı ama bence\nAngie tehlikeli.
+39|Öğrenci konseyi Angie'yi o kadar putlaştırıyor\nki ne kadar tehlikeli olduğunu görmüyorlar.

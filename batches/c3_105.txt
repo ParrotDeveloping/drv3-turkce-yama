@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_239_000
+77|Hımhımhım...bu mümkün değil.\nBence yanlış anladın.
+78|Özür dile. Hadi, özür dile.
+79|Özür dile, özür dile, özür dile...
+80|Hadi, özür dile. Özür dile, özür dile.\nÖzür dile özür dile özür dile özür dile.
+81|C-Cidden...neler oluyor lan?
+82|<CLT=cltMIND>Kiyo'ya neler olduğuna dair hiçbir\nfikrim yok...
+83|<CLT=cltMIND>Ama Angie'ye hangi silahı kullandığını\nbiliyorum! Bunu ona kanıtlamalıyım!
+## c03_241_000
+0|Kiyo, Angie'ye tahterevalli numarasında kullanılan\n<CLT=cltSTRONG>döşeme tahtasının<CLT=cltNORMAL> aynısıyla vurdu!
+1|Ihh...grgh!
+2|Anlıyoruuum. Peki döşeme tahtasının cinayet\nsilahı olduğunu nereden biliyorsun?
+3|Döşeme tahtasının alt yüzünde küçük bir\n<CLT=cltSTRONG>kurumuş kan<CLT=cltNORMAL> lekesi vardı.
+4|Angie'nin kanı mı?
+5|Suçlu Angie'ye tahtayla vurduğunda oraya\nsıçrayan kan.
+6|Ama o döşeme tahtasıyla vurulduğunun\ntek delili bu değil.
+7|Zeminin altındaki kan lekesini de düşünmek\nlazım. Orada olması için...
+8|...saldırı sırasında döşeme tahtasının\nyerinde olmaması gerekir.
+9|Güzel nokta. Döşeme tahtası yerinde olsaydı\nkanı altına sıçramazdı.
+10|Kiyo'nun daha önceki itirafı döşeme tahtasının\nkullanıldığının bir başka delili!
+11|N-Nasıl?
+12|Angie'ye vurmak için kullanılan silah tahterevalli\nnumarasındaki döşeme tahtasıysa...
+13|Bu suçlunun tahterevalliyi bildiği anlamına gelir.\nYani Tenko'yu ve Angie'yi aynı kişi öldürdü!
+14|Ah... Aaah...
+15|AAAAAAAAAAAAAAAAAAAAAAH!!!
+16|Bence Kiyo tahterevalliyi kurarken\ntahtayı elinde tutuyordu...
+17|...Angie içeri girdiğinde.
+18|Ve onu döşeme tahtasıyla bir anda yere serdi!
+19|Artık tek yapabileceğin kabul etmek.\nTenko'nun cinayetini zaten itiraf ettin.
+20|Demek doğru...\nGerçek...bu...
+21|I... Iıı... Iııhhh...
+22|Görünüşe göre sona yaklaştık.
+23|Pekala, Shuichi! Finali sana bırakıyorum!\nSalonu yıkıp geç!
+24|Shuichi...lütfen. Buna bir son ver...
+25|Angie ile Tenko'nun hatırına...\nBu Sınıf Duruşması'nı bitir!
+26|...Anlıyorum.
+27|Her şeyi bir kez daha inceleyeceğim!
+28|Kiyo...itiraf etmeni istiyorum!\nHayır...seni itirafa zorlayacağım!
+## c03_242_000
+0|<CLT=cltSTRONG>İlk cinayete<CLT=cltNORMAL> geri dönelim.
+1|Dün gece geç saatlerdi. Suçlu <CLT=cltSTRONG>4. kattaki\nboş odadaydı<CLT=cltNORMAL>.
+2|Suçlu planladığı <CLT=cltSTRONG>seans cinayetini<CLT=cltNORMAL>\nhazırlıyordu.
+3|<CLT=cltSTRONG>Döşeme tahtasını<CLT=cltNORMAL> tahterevalli olarak kullanmak için\nonu destekleyen <CLT=cltSTRONG>kirişi<CLT=cltNORMAL> kesmesi gerekiyordu.
+4|Plan <CLT=cltSTRONG>üç boş odanın<CLT=cltNORMAL> hepsinde aynı\nhazırlıkları yapmaktı.
+5|Bu şüpheyi suçludan uzaklaştırıp odayı\nkim seçerse ona yöneltecekti.
+6|Kirişleri kesmek için bir <CLT=cltSTRONG>testereye<CLT=cltNORMAL> ihtiyacı vardı.\nSanırım depodan bir tane aldı.
+7|Üç odadaki kirişlerin hepsini kesmeyi\nplanlıyorlardı.
+8|Ancak suçlu <CLT=cltSTRONG>ortadaki odada<CLT=cltNORMAL> çalışırken\nbeklenmedik bir şey oldu...
+9|<CLT=cltSTRONG>Angie<CLT=cltNORMAL> o odaya girdi ve suçlunun\nhazırlık yaptığını gördü.
+10|Ritüel için ateşe ihtiyacı vardı ve bir <CLT=cltSTRONG>mum<CLT=cltNORMAL>\nalmak için odaya gelmişti.
+11|O noktada suçlu kurulumu bitirmemişti ve\nsadece kirişleri kesiyordu.
+12|Angie bunun bir tür cinayet planıyla ilgili\nolduğu sonucuna varmamış olabilir.
+13|Ama artık Angie gördüğüne göre suçlu\ntahterevalli numarasını kullanamazdı.

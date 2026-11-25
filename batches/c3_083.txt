@@ -1,0 +1,71 @@
+@ chap3_text_US
+## c03_216_000
+7|<CLT=cltMIND>Tek yapmam gereken Miu'nun iddialarına\nkarşı çıkacak delili göstermek!
+## c03_216_001
+0|<CLT=size2>Tenko<CLT=size1>
+1|Tenko seanstan sonra öldü.
+2|<CLT=size2>seanstan<CLT=size1>
+3|<CLT=size2>sonra öldü.
+4|Örtü
+5|Örtü kaldırıldığında oldu!
+6|<CLT=size2>kaldırıldığında
+7|<CLT=size2>oldu!
+8|O,
+9|O, suçlunun seçtiği andı...
+10|suçlunun\n<CLT=size2>seçtiği
+11|<CLT=size2>andı...
+12|Tenko'yu kafesin\n<CLT=size2>içinden
+13|Tenko'yu kafesin içinden FENA bıçaklamak için!
+14|<CLT=size2>FENA
+15|<CLT=size2>bıçaklamak\niçin!
+16|<CLT=size2>İnce bıçağı\n<CLT=size1>kafesin <CLT=size2>aralıklarından
+17|İnce bıçağı kafesin\naralıklarından soktular!
+18|<CLT=size2>soktular!
+19|Ve o tertemiz\n<CLT=size2>beyaz örtü
+20|Ve o tertemiz beyaz örtü\nkan kırmızısına boyandı!
+21|<CLT=size2>kan\nkırmızısına\n<CLT=size1>boyandı!
+22|Ama <CLT=size2>silah<CLT=size1> bir <CLT=size2>oraktı.
+23|Ama silah bir oraktı.\nAralıklardan sadece bıçağı geçebilirdi.
+24|Aralıklardan sadece\n<CLT=size2>bıçağı<CLT=size1> <CLT=size2>geçebilirdi.
+25|<CLT=size2>Bıçağı\n<CLT=size2>yeter de artar!
+26|Bıçağı yeter de artar!
+27|<CLT=size2>Bıçağı
+28|Bıçağı kafesteki bir aralıktan sokarsan...
+29|kafesteki bir
+30|<CLT=size2>aralıktan\n<CLT=size1>sokarsan...
+31|Tenko'ya
+32|Tenko'ya ulaşacak kadar uzun olurdu!
+33|<CLT=size2>ulaşacak\n<CLT=size1>kadar
+34|<CLT=size2>uzun olurdu!
+35|<CLT=cltWEAK>Orada\n<CLT=size2>oturuyordu,
+36|Orada oturuyordu, boynu tamamen açıktaydı...
+37|<CLT=size2>boynu
+38|tamamen <CLT=size2>açıktaydı...
+39|kafesin <CLT=size2>aralıklarından\n<CLT=size2>o kadar uzak<CLT=size1> değildi!
+40|kafesin aralıklarından\no kadar uzak değildi!
+41|Bu durumda\n<CLT=size2>örtüyü\n<CLT=size1>kaldıran kişi\n<CLT=size2>suçlu...
+42|Bu durumda örtüyü\nkaldıran kişi suçlu...
+43|ve o da\n<CLT=size2>Kiyo'dan\nbaşkası değil!
+44|ve o da Kiyo'dan başkası değil!
+## c03_217_000
+0|Bir dakika, Tenko kafesin içinde\noturmuyordu.
+1|Alnı <CLT=cltSTRONG>işaret taşına<CLT=cltNORMAL> dayalı hâlde\n<CLT=cltSTRONG>eğilmişti<CLT=cltNORMAL>.
+2|Ve kafesin kendisi yaklaşık bir metre yüksekliğindeydi.
+3|Orağın bıçağı o pozisyondayken Tenko'ya\nulaşamayacak kadar kısaydı.
+4|O zaman...yine mi berbat ettim? Bu nasıl\nolabilir? Çok utanıyorum...
+5|Dert etme, Miu! Herkes zaten senin insan\nırkının yüz karası olduğunu biliyor!
+6|Evet! Dert etme!
+7|Hiiiiiii! Ne...ne utanç verici!
+8|Shuichi haklıysa Tenko'nun kafesin içinden\nöldürülmüş olması imkânsız.
+9|Kafesin içinde olduğu için seans sırasında\nöldürülmüş olamaz, değil mi?
+10|O zaman öldürülseydi kafesin üstündeki\nkumaş delinirdi.
+11|Ne seans sırasında ne de zeminin altından...\nO zaman imkânsız, değil mi?
+12|...Evet, yaşayan biri için.
+14|Nişişi... Ya Tenko'yu Angie'nin ruhu\nöldürdüyse?
+15|N-Neden bahsediyorsun!?\nB-B-Bu mümkün değil!
+16|Bunu bilemeyiz. Bazı şeyler bir insan için\nimkânsız ama bir ruh için değil.
+17|B-Böyle aptalca şeyler söyleme!\nS-S-Siktir et ruhları!
+18|...Kes şunu artık.
+20|Angie'nin ruhu...Tenko'yu mu öldürdü? N-Neden...?
+21|Himiko?
+22|Angie'nin ruhu Tenko'yu neden öldürsün?

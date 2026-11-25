@@ -1,25 +1,280 @@
 0	...
+1	<CLT=cltMIND>Rantaro'nun Sınıf Duruşması'ndan sonra\nkütüphaneye gittiğimizde de aynısıydı.
+2	<CLT=cltMIND>...Tertemiz.
+3	<CLT=cltMIND>Sanki hiçbir şey olmamış gibi.
+4	Ihh, vay be... Fena yorgunum.
+5	Bütün gece o bilgisayarı tamir ettim.
+6	Ah, 4. kattaki bilgisayara baktın mı?\nNe düşünüyorsun?
+7	Evet...daha yeni üzerinde çalışmaya başladım,\nbütün özelliklerini bilmiyorum ama...
+8	O şey...epey iyi. Yani o kadar yoğun ki\nuyumama izin vermiyor.
 9	...
+10	Kehehe...kıskanıyor musun?
+11	...Elbette hayır. Bir bilgisayarı asla\nkıskanmam.
+12	Bilgisayarı kıskanan bir robot mu?\nDüpedüz mümkün görünüyor.
+13	Hey millet, uyurgezer miyim ne?\n<CLT=cltSTRONG>Onun<CLT=cltNORMAL> burada ne işi var?
 14	...
+15	Ah, anladım! Halüsinasyon görüyorum! Maki'nin\ndaha önce söylediklerinden sonra burada olmasının imkânı yok!
+16	Böyle aptalca şeyler söyleme. Onunla hiç\nkonuşmazsan onu asla daha iyi tanıyamazsın!
+17	Belki herkes bunu tercih ediyordur!
+18	Belki herkes bu tehlikeli katilin bizden\nuzak durmasını tercih ediyordur!
+19	Tabii ben hiç tercih etmem!
+20	Kessen iyi olur!
+21	Haklı. Barışçıl bir akademi hayatında cinayete\nve ölüme yer yok.
+22	Nyeeeh...aynen Angie'nin dediği gibi.
+23	Evet...aynen Angie'nin dediği gibi.
 24	<CLT=cltMIND>Ha?
+25	Herkes! Bu ciddi!
+26	Olamaz... Duvarın öbür tarafında Devasa\nBöcek var, değil mi!?
+27	Hayır, o değil. Gonta buraya gelmeden önce\navluya gitti ve—
+28	Bize katlandığınız için teşekkürler!
+29	Hadiii, ne oldu? Bizi neden birden\nçağırdınız!?
+30	Onları çağıran bizdik!\nOnu da mı unuttun?
+31	MONOTARO-İÇİN...SONRA-ENDİŞELENELİM,\nŞİMDİ-<CLT=cltSTRONG>MOTİFİ<CLT=cltNORMAL>-SUNALIM.
+32	Demek sonuçta bir <CLT=cltSTRONG>motif<CLT=cltNORMAL>.
+33	Nyahaha! <CLT=cltSTRONG>Motif<CLT=cltNORMAL> ne olursa olsun artık\nöldürme oyunu oynamayacağız.
+34	D-Doğru! Artık hiçbir şeyden\nkorkmuyoruz!
+35	...Çünkü Atua bizimle.
 36	<CLT=cltMIND>...Ne?
+37	Ama bu sıradan bir <CLT=cltSTRONG>motif<CLT=cltNORMAL> değil. Bu <CLT=cltSTRONG>motif<CLT=cltNORMAL>\ndaha önce hiç görülmemiş bir korku uyandıracak.
+38	Daha önce hiç görülmemiş bir korku mu?
+39	DAHA-ÖNCE-GÖRÜLMEMİŞ-BİR-KORKUYLA-\nYÜZLEŞİRSENİZ...BİRLEŞMEKTEN-BAŞKA-ÇARENİZ-KALMAZ.
+40	ŞİMDİ, SİZİ-DEHŞETİN-DİPLERİNE-\nATACAK-MOTİF...
+41	...Onu birlikte sunacağız!
+42	Bu seferki motif bir <CLT=cltSTRONG>nakil öğrenci<CLT=cltNORMAL>!
+43	Evet! Yeni bir öğrenci geliyor!\nVe herhangi bir nakil öğrenci değil...
+44	Şimdiye kadar ölen dört kişiden birini\ndiriltebiliyorsunuz...
+45	...ve onu akademiye nakil öğrenci olarak\nyeniden kabul ediyorsunuz!
+46	...Eeeee?
+47	N-Nakil öğrenci mi...?
+48	Birini...diriltebiliyor muyuz?
+49	<CLT=cltSTRONG>Diriltme ritüelinin<CLT=cltNORMAL> talimatları\n<CLT=cltSTRONG>Necronomicon<CLT=cltNORMAL>'da yazıyor.
+50	Ritüeli yazıldığı gibi yaparak ölmüş bir\nkurbanı diriltebilirsiniz.
+51	Ama şimdiye kadar ölen dört kişiden sadece\nbiri <CLT=cltSTRONG>nakil öğrenci<CLT=cltNORMAL> olabilir.
+52	Kimi seçerseniz seçin, o kişi öldürme oyunu\ndöneminin bir parçası sayılacak.
+53	Yani teknik olarak dirilir dirilmez onu yine\nöldürebilirsiniz.
+54	Bilirsiniz...öyle kullanmak isterseniz.
+55	BU-MOTİFİN...ONLARI-BİRBİRİNE-\nYAKINLAŞTIRMASI-GEREKİYOR.
+56	O-Oh...ö-ö-özür dilerim! Eski alışkanlıklar\nişte...
+57	Monodam...Monotaro'yu affedelim.\nAffetmek arkadaşların yaptığı şeydir, bilirsin.
+58	MONOPHANIE...SEN-İYİSİN.
+59	AMA...ARKADAŞLIK-İYİ-OLMAKTAN-\nİBARET-DEĞİLDİR.
+60	ARKADAŞLAR-YANLIŞ-BİR-ŞEY-YAPINCA-\nBİRBİRLERİNİ-CEZALANDIRIR-DA.
+61	BU-YÜZDEN...MONOTARO'YU-SEN-\nCEZALANDIRACAKSIN.
+62	...Ne!? Ben mi!?
+63	Lütfen, hayır! Monophanie olmasın!
+64	O bakmıyorken hep onunla dalga geçiyorum!\nOnun tarafından cezalandırılmak istemiyorum!
+65	Peki, yapacağım!
 66	...
+67	<CLT=cltMIND>Hepimiz tamamen afallamıştık.
+68	<CLT=cltMIND>Bu akademi beni saçma durumlara\nhazırlamış gibi hissediyorum...
+69	<CLT=cltMIND>Ama az önce duyduğum şey şimdiye kadarki\nen saçma şeydi.
+70	N-Nakil öğrenci mi...?\nÖ-Ölüleri diriltmek mi...?
+71	B-Böyle aptalca bir şey söyleme! <CLT=cltSTRONG>Ölüleri\ndiriltmenin<CLT=cltNORMAL> mümkün olmasının imkânı yok!
+72	B-Bu olamaz...
+73	T-Tanrım... B-Bu bilim dışı saçmalık yığınına\nkim inanır ki lan?
+74	Bilimsel değeri yok diye inanmamak...\nsadece bilimsel bir toplumun kibridir.
+75	Bu ritüel...ya da daha doğrusu <CLT=cltSTRONG>diriltme töreni<CLT=cltNORMAL>,\ndünyanın dört bir yanındaki <CLT=cltSTRONG>cenaze törenlerinden<CLT=cltNORMAL> gelir.
+76	Gördünüz mü? Benzerler, değil mi? Ölüleri öbür\ndünyaya göndermek bir tür ritüeldir.
+77	Söylentiler ve efsaneler yoluyla o ritüel\nölüleri bu dünyaya döndürmenin bir yoluna dönüştü.
+78	<CLT=cltMIND>Bir ritüel...
 79	...
+80	Bundan durmadan bahsettiğine göre bunlara\ngerçekten inanıyorsun herhalde, ha Kiyo?
+81	Kehehe... Ne diyorsun?\nÖlülerin <CLT=cltSTRONG>diriltilmesinin<CLT=cltNORMAL> imkânı yok.
 82	...Ne?
+83	Şüphesiz ölülerin ruhları vardır ama\nhayata geri getirilemezler...
+84	Kırık cam onarılamayacağı gibi ölü et de\neski hâline getirilemez...
+85	Yani ruhlara inanıyorsun ama o ruhların\ndiriltilebileceğine inanmıyor musun?
+86	Kafa karıştırıcı görünüyor ama sorarsak bu\nkonuşmanın sonsuza kadar süreceğini biliyorum...
+87	K-Kiyo bile inanmıyorsa...ölüleri diriltmek\ndiye bir şey yoktur.
+88	Ve bu idealist yoz bile inanamıyorsa hiçbir\nmantıklı kız da inanmaz!
+89	Hmmm, öyle mi düşünüyorsun? Ölülerin hayata\ndönmesini tuhaf bulmuyorum.
+90	Hah-hahaha! Kaçık kaltak sonunda\nkonuşuyor!
+91	Ama ne yazık! Kimse senin saçma\ntarikatınla ilgilenmiyor!
+92	Hayır...dur. Angie'nin ne diyeceğini dinleyelim.
+93	Evet, Angie konuşmakta özgür.
+94	Nyahahaha, söyleyebilir miyim?\nYaşasııın! Tamam, söylüyorum.
+95	Çünkü...Atua bunu istiyor.
+96	<CLT=cltMIND>Bu konuşmayı hiç takip edemiyorum...
 97	...
+98	Ne oldu, Kaito?\nİyi görünmüyorsun...
+99	H-Hayır...bir şey yok.\nSadece...pek iyi hissetmiyorum.
+100	<CLT=cltMIND>Birdenbire mi?
+101	Ölüleri hayata geri getirmek mi...?\nGonta buna inanamıyor.
+102	Orman ailesi Gonta'ya öğretti...
+103	Doğan her şey ve ölen her şey...\nbüyük bir akışın parçası.
+104	Ve akış asla geri sarılmaz...
+105	Ölen her şey geri gelebilseydi Gonta\nmutlu olurdu...
+106	Ama Gonta bile olan bir şeyi geri almanın\nimkânı olmadığını biliyor...!
+107	Gonta, avluda yazan harfleri biliyorsun,\ndeğil mi?
+108	Evet...ama şimdi biraz farklı.
+109	Gonta buraya gelirken avludaki yazıyı\ngörmeye gitti...
+110	Ve bu sefer daha çok yazı vardı.
+111	Daha çok yazı mı?
+112	Gonta yazının ne demek olduğunu anlayamadı\nama belki...
+113	Belki ölülerden gelen bir mesajdır?
+114	Belki herkes bize "Hey! Hayattayız!" diyen\nbir mesaj bırakmıştır.
+115	Bir mesaj...ölen herkesten mi?
+116	Çünkü buradaki kimse yazmadı, değil mi?\nO zaman başka biri yazmış olmalı, değil mi?
+117	Okulda saklanan bir <CLT=cltSTRONG>ölünün<CLT=cltNORMAL> o mesajı\nyazdığını mı söylüyorsun?
+118	Yani...bu <CLT=cltSTRONG>ölülerden gelen bir\nmesaj<CLT=cltNORMAL> mı?
+119	D-Dur...<CLT=cltSTRONG>ölülerden gelen bir mesaj<CLT=cltNORMAL> mı!?\nBu ne lan...!?
 120	...
+121	Her hâlükârda bir arkadaşla yeniden\nbuluşmaktan daha ilahi bir şey yoktur.
+122	<CLT=cltMIND>Angie konuşurken Necronomicon'u\nyerden aldı.
+123	Angie...onunla ne yapmayı\nplanlıyorsun?
+124	Ritüeli...gerçekten yapmayı mı planlıyorsun?\nBunun bir <CLT=cltSTRONG>motif<CLT=cltNORMAL> olduğunu biliyorsun, değil mi?
+125	Ama belki de kullanması değil, görmezden\ngelmesi tehlikeli bir <CLT=cltSTRONG>motiftir<CLT=cltNORMAL>.
+126	Mesela belki ölenler aslında\nhayattadır...
+127	Ve ritüeli yapmazsak belki bu sefer\nkesin olarak öldürülürler?
+128	Hm, hayatta kalma ihtimali olan dört kişinin\nölmesine izin verirsek sorun olur.
+129	Nyahaha. Bunu bize söylediğin için çok akıllısın,\nGonta. O dört kişinin kurtarıcısısın.
 130	...Ha?
+131	<CLT=cltMIND>Angie her zamanki kocaman gülümsemesiyle\nGonta'ya yaklaştı ve...
+132	Hmmmmmm...
+133	...Ak!
+134	Çok çalışıyorsun, Gonta. Her zaman herkesi\ngüvende tutmaya çalışıyorsun.
+135	Kendini kaybettiğinde bile herkesi\ndüşünüyorsun, değil mi?
+136	Bunu biliyorum...çünkü Atua seni hep\ngözetliyor.
+137	H-Hep...Gonta'yı...gözetliyor mu?
+138	...Merak etme. Yalnız değilsin, Gonta.
+139	Atua seni gözetleyip güvende tutan nazik\nbir büyükanne gibi.
+140	Büyükanneler...iyidir...
+141	Nazik büyükanne mi? Atua'nın yakışıklı bir\nadam olduğunu söylediğini sanıyordum?
+142	Angie'nin Atua'sı kimin baktığına göre\ngörünüşünü değiştiriyor.
+143	Eh, bu hiç de şüpheli derecede işine\ngelmiyor tabii.
+144	Ah evet. Neden <CLT=cltSTRONG>öğrenci konseyimize<CLT=cltNORMAL>\nkatılmıyorsun, Gonta?
+145	Evet! <CLT=cltSTRONG>Öğrenci konseyinin<CLT=cltNORMAL> bir parçası olsan\nçok içimiz rahat ederdi, Gonta!
+146	Mhm...gücünü akademinin barışı için\nkullanacaksın.
+147	Nyahaha! Herkesin sana ne kadar ihtiyacı\nolduğunu görüyor musun, Gonta? Kesinlikle katılmalısın.
+148	...Gonta'ya ihtiyacınız mı var?
+149	Tamam! Gonta da <CLT=cltSTRONG>öğrenci konseyine<CLT=cltNORMAL> katılacak!
+150	D-Dur, bütün bunlardan önce, bu "<CLT=cltSTRONG>öğrenci\nkonseyi<CLT=cltNORMAL>" tam olarak ne?
+151	Bu yüzden mi tuhaf davranıyorsunuz—
+152	Dün gece Angie öldürme oyununu nasıl yok\nedebileceğimizi konuşmak için bizi çağırdı.
+153	Ben, Keebo...Tenko ve Tsumugi.
+154	Ve bir sonuca vardık!
+155	Bu, <CLT=cltSTRONG>başkanımız<CLT=cltNORMAL> Angie Yonaga ile\n<CLT=cltSTRONG>Ultimate Akademisi Öğrenci Konseyi<CLT=cltNORMAL>!
+156	...Ultimate Akademisi Öğrenci Konseyi mi?
+157	Hepimiz Başkan Angie'nin liderliği altında\nbir araya geldik!
+158	Programımız...öldürme oyununun topyekûn\nyok edilmesi.
+159	Nyeh... Öğrenci konseyimiz öldürme oyunundan\narınmış bir Ultimate Akademisi vaat ediyor.
+160	Öğrenci konseyi... Ve başkan Angie mi?
+161	Evet, farklı şeyler söyleyip durursak\naramızda uyum olamaz.
+162	Ah, kes sesini!
 163	Ne!?
+164	Eh, adı öğrenci konseyi ama bütün kararları\nAtua veriyor.
+165	Ama Angie, Atua ile konuşabildiği için konseye\nliderlik etmeye layık tek kişi o.
+166	Nyeh...doğru.
+167	Evet, ben de Angie'yi takip edeceğim.
+168	Nyahahaha! Teşekkürler, herkes!\nAtua da mutlu!
+169	Ah tanrım, beyinleri tamamen yıkanmış.
+170	Kehehe... Angie biz fark etmeden etkisini\nyaymış bile.
+171	Ama düşününce mantıklı. Burada bir tarikatın\noluşması için bütün şartlar var.
+172	Kaçınılamayan bir ölümün korkusu...\nTarikatlar ondan kaçma arzusundan doğar.
+173	Yani bu durumu okulu ele geçirip bizi\n"Atua"ya bağımlı yapmak için kullanıyor.
+174	"Kullanmak" bunu tarif etmenin kaba bir yolu.
+175	Başkan bu okulun barışını istiyor, biz de\nhepimiz onun yüce bilgeliğine katılıyoruz.
+176	Evet! Gonta kimsenin öğrenci konseyi hakkında\nkötü konuşmasına izin vermeyecek!
+177	Daha yeni katıldın lan, seni beyni\nyıkanmış aptal!
+178	Ama...Tenko'nun öğrenci konseyine katılmaya\nkarar vermesine şaşırdım.
+179	Ha? N-Neden?
+180	Çünkü sen ve Angie Himiko yüzünden\natışıyordunuz, değil mi?
+181	K-Kimin umurunda...?\nBen...sonunda Atua'nın ne kadar yüce olduğunu anladım...
+182	Doğru, doğru...\nNe konuşuyorduk biz?
+183	Ohhhh, şu <CLT=cltSTRONG>diriltme ritüeli<CLT=cltNORMAL>, değil mi?
+184	Bunu öğrenci konseyine bırakın. Kararı\nAtua verirse daha az külfetli olur.
+185	Daha az külfetli mi?
+186	Bu içimi rahatlattı... Atua'nın kararıysa\nkesinlikle doğrudur.
+187	Evet, Atua'nın yanılmasının imkânı yok.
+188	Evet, evet. Atua her zaman haklıdır.
+189	Ciddi misiniz? <CLT=cltSTRONG>Diriltme ritüeli<CLT=cltNORMAL>\napaçık bir tuzak.
+190	Nyahaha, sorun olmayacak. Herkes ayrılma\narzusunu bir kenara bıraktığı sürece.
+191	Kehehe... Söyleyeceğimiz hiçbir şeyi\ndinleyeceklerinden şüpheliyim.
+192	<CLT=cltMIND>Muhtemelen dinlemeyecekleri doğru ama\nen azından sen de yardım edebilirsin, Kaito...
 193	...
+194	<CLT=cltMIND>Neyi var? Bunca zamandır\nsessiz.
 195	...
+196	<CLT=cltMIND>Sonunda öğrenci konseyini\ndurduramadık.
+197	<CLT=cltMIND>Konuyu orada bırakıp herkes kendi\nyoluna gitti.
+198	Nişişi...işler biraz tuhaflaşıyor ama\nen azından sıkıcı değil.
+199	Avludaki yazı...
+200	Ah, eveeet! Onu tamamen unutmuştum!
+201	Atua... Acaba Angie'nin bahsettiği nasıl\nbir tanrı...
+202	Bu seni rahatsız ediyor mu? Bir antropolog\nolarak?
+203	Hayır, tanrılarla ilgilenmiyorum.\nAma onları yaratanlarla çok ilgileniyorum...
+204	Tanrıları yaratanlar insanlardır...\nve ben insanlıkla çok ilgileniyorum.
+205	İnsanların tanrıları neden ve hangi sebeplerle\nyarattığını bilmek istiyorum.
+206	O anlamda bu okul son derece\nilginç.
+207	Çünkü insanlar tanrıları büyük kriz\nzamanlarında yaratır...
+208	Kehehe... Belki burada da bir tanrı\nyaratılacak.
 209	...
+210	<CLT=cltMIND>Angie'yi anlıyorum ama\nsen, Kiyo?
+211	Taklitler mi...?
+212	Doğrudan inceleyemediğimiz Ryoma dışında\nRantaro'nun cesedi çok gerçek görünüyordu.
+213	Kaede ile Kirumi de gözlerimizin önünde\n"<CLT=cltSTRONG>cezalandırıldı<CLT=cltNORMAL>"...
+214	Bir mankenin onların acısını taklit\nedebileceğini hayal edemiyorum.
+215	Ayrıca ölümlerinden hemen önce sahte bir\ncesetle değiştirilmiş olmaları pek olası değil.
+216	...Angie'nin ne diyeceğini dinleyelim.
+217	Monokuma ve Exisal'lar akıl almaz bilimsel\nilerlemelerin kanıtı...
+218	Yani son derece inandırıcı taklitler\nyaratmaları mümkün olabilir.
+219	Ne?\nBana bundan bahsetme.
+220	Ben...Angie'nin konuşmasını duymak istiyorum.
+221	Ben...Angie'yi destekliyorum.\nO...her şeyi yoluna koyacak.
+222	Bu diriltme ritüeli kulağa aptalca geliyor...
+223	Bunun için mi buraya sürüklendim? Sonuçta\nsizi görmezden gelmeliydim.
+224	<CLT=cltSTRONG>"Ölüleri bize geri döndürmek"<CLT=cltNORMAL> aynı şeyi\nsöylemenin farklı bir yolu.
+225	Rantaro'nun öldüğünü biliyoruz, Kaede ile\nKirumi'nin de gözümüzün önünde öldüğünü gördük.
+226	Hepimizin gördüğünü nasıl inkâr edebilirler?\nBunun ne kadar tuhaf olduğunu fark etmiyorlar mı?
 227	N-Ne?
+228	Angie'yi dinlemek *istememin* tuhaf\nolduğunu mu düşünüyorsun?
+229	Ne olmuş yani? Birlikte çalışabilmek için\nbaşkalarını dinlemek de önemli.
+230	Taklit miydiler!? A-Anlıyorum... Bunu hiç\naklıma getirmezdim!
+231	Angie söylüyorsa...ölü biri gerçekten geri\ngelebilir.
+232	Hey, hadi çabuk ona soralım.
+233	Evet...şimdiye kadarki bütün cesetler sahte\nolmalı. Aslında kimse ölmedi.
+234	Angie öyle diyorsa muhtemelen\ndoğrudur...
+235	Yani...<CLT=cltSTRONG>ölüleri diriltebileceğine\n<CLT=cltNORMAL>inanıyor musun, Angie?
+236	Hmm...<CLT=cltSTRONG>diriltme ritüelinin<CLT=cltNORMAL> gerçekten\n<CLT=cltSTRONG>ölüleri hayata döndürebileceğini<CLT=cltNORMAL> sanmıyorum.
+237	Muhtemelen daha çok...<CLT=cltSTRONG>ölüleri bize\ngeri döndürmek<CLT=cltNORMAL> gibi bir şey.
 238	...Ne demek istiyorsun?
+239	Bütün kurbanların cesetlerinin nasıl\ntemizlendiğini biliyorsunuz, değil mi?
+240	O kadar temiz ki sanki baştan hiç ceset\nyokmuş gibi? Yani belki...
+241	Baştan hiç ölmemişlerdir?
+242	<CLT=cltMIND>Ölmemişler...mi?
+243	Hayır, bu mümkün değil. Bütün cesetleri\nkendimiz inceledik—
+244	Ama, ama çok başarılı bir taklit\nolabilirdi!
+245	Taklit mi?
+246	Monokuma ve Exisal'lar akıl almaz bilimsel\nilerlemelerin kanıtı...
+247	Yani son derece inandırıcı taklitler\nyaratmaları mümkün olabilir.
+248	Angie öyle diyorsa...\nDüpedüz katılmaya başlıyorum.
+249	Ben her zaman Angie'yi destekledim...
+250	Yaşasııın! Teşekkürler, herkes!
+251	Ne? Hayır, bir dakika!\nOnları kendi gözlerimle gördüm—
+252	Graaahhh! Angie'ye sesini yükseltme,\nseni kaba yoz!
+253	Hey, onların hayatta olmasını istemiyor musun,\nShuichi? Ölülerin yaşamasını istemiyor musun?
+254	İ-İstiyorum! Bunu istiyorum! Keşke hâlâ\nhayatta olsalar... Şu an bile bunu düşünüyorum.
+255	Ama ne kadar istersek isteyelim...
 256	Ah, bekleyin!
+257	Herkes hayattaysa okulda bir yerdeler\ndemektir, değil mi?
+258	Yani...belki biri avludaki mesajı\nyazmıştır?
+259	<CLT=cltMIND>Avludaki mesaj mı?
+260	Beni neden bu kadar sert reddediyorsun,\nShuichi?
+261	Ölenleri umursamıyor musun?\nBu kadar kalpsiz olduğunu fark etmemiştim.
+262	<CLT=cltMIND>Bu...doğru...değil.
+263	<CLT=cltMIND>Hâlâ onun...herkesin hayatta olmasını\nistiyorum.
+264	<CLT=cltMIND>Ama ne yaparsak yapalım onları...\ngeri getiremeyiz...
+265	H-Ha? Neden...herkes bu saçmalığı\ndinliyor lan?
+266	Buna kanmayan...bir tek ben miyim?\nKendimden de çok emindim oysa...
+267	Avludaki karalama mı?\nBundan neden şimdi bahsediyor!?
+268	Dev salaklardan fikir almam!
+269	<CLT=cltMIND>Angie'nin ne diyeceğini dinleyelim...
+270	<CLT=cltMIND>Avludaki karalama mı?
 271	Evet
 272	Hayır
 273	Emin olmadığın bir şey mi var?
 274	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
 275	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+276	<CLT=cltMIND>Ama sadece görmek bile midemi bulandırıyor...
 277	Basket Potası_Sağ
 278	Basket Potası_Sol
+279	Skor Tabelası

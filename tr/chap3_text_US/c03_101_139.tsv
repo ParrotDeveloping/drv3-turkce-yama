@@ -1,7 +1,94 @@
+0	<CLT=cltMIND>Yanlış hatırlamıyorsam altın varaklı\nkatana şuradan...
+1	Önce cinayette kullanılan katananın gerçekten\nburadan gelip gelmediğini doğrulamalıyız.
+2	Yine de...burada bir sürü tuhaf görünümlü\nşey var.
+3	İlk başta hepsinin işe yaramaz ıvır zıvır\nolduğunu sanmıştım ama sanırım değilmiş...
+4	...Pardon, bana aldırma.
+5	Önce cinayette kullanılan katananın gerçekten\nburadan gelip gelmediğini doğrulamalıyız.
+6	Ruh çağırma seansıyla sen ilgilen.
+7	Ben ipuçlarını yeniden incelemek için\nolay yerine döneceğim.
+8	<CLT=cltMIND>O katana hakkında daha çok şey\nöğrenmeliyim...
 9	Evet
 10	Hayır
 11	Emin olmadığın bir şey mi var?
 12	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+13	<CLT=cltMIND>O katana hakkında daha çok şey\nöğrenmeliyim...
+14	<CLT=cltMIND>O katana hakkında daha çok şey\nöğrenmeliyim...
 15	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+16	<CLT=cltMIND>Ama sadece görmek bile midemi bulandırıyor...
+17	<CLT=cltMIND>Sadece kını var!
+18	<CLT=cltMIND>Daha önce katana kınının\niçindeydi...
+19	Maki, altın varaklı katana kesinlikle buradan\ngelmiş. Eminim.
+20	Bu Kiyo'yu şüpheli yapmıyor mu?\nSonuçta burası onun araştırma laboratuvarı.
+21	Öyle olması şart değil. Herkes buraya\ngelip onu alabilirdi.
+22	...Haklısın. Herkes aynısını benim\nlaboratuvarımda da yapabilirdi.
+23	<CLT=cltSYSTEM>Monopad'inin Gerçek Mermileri bölümündeki\n"<CLT=cltSTRONG>Altın Varaklı Katana<CLT=cltSYSTEM>" güncellendi.
+24	Oh? Siz burada ne yapıyorsunuz?
+25	...*Senin* burada ne işin var? Seansa\nyardım etmen gerekmiyor muydu?
+26	Nişişi... Şu an çok iğrenmiş görünüyorsun.\nGerçi sanırım bu senin imza ifaden.
+27	Neyse, seans için gereken bir şeyi getirmeyi\nunuttum, onu almaya geri geldim.
+28	Seans için bir şey mi?
+29	Evet, şuradaki beyaz örtü.
+30	Ahşap köpek heykelini ve kafesi zaten getirdik\nama sanırım o örtü de lazım.
+31	Anlamıyorum... Neden bir kafese, ahşap bir köpek\nheykeline ve beyaz bir örtüye ihtiyacınız var?
+32	Hey, bana sorma! Bunlara neden ihtiyacımız\nolduğunu ben de bilmiyorum!
+33	Bu yüzden örtüyü almadan önce bu seans\nhakkında biraz araştırma yapayım dedim.
+34	...Çalışmak mı?
+35	Eeee, bakalım...
+36	<CLT=cltMIND>Kokichi etrafa bir göz attı ve...
+37	Eski, el yapımı bir kitap falanmış diye\nduydum...
+38	Oh, bu mu!?
+39	Evet, kapağında tam burada <CLT=cltSTRONG>Kafesli Köpek Köyü<CLT=cltNORMAL>\nyazıyor, o zaman bu olmalı.
+40	Bakalım... <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> seansı hakkında\nne diyor...?
+41	<CLT=cltMIND>Kokichi eline aldığı eski kitabın\nsayfalarını çevirdi.
+42	Oh, bu sayfa mı? Okuması zor ama burada\n<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>'tan bahsedildiğini görebiliyorum.
+43	Evet, Kiyo bu resimdekiyle aynı büyü\nçemberini çiziyor...
+44	Tamam, bakalım...\n<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>'u yapmak için...
+45	...ruh medyumu dahil beş kişi ve ışık\nolmayan karanlık bir yer lazım.
+46	Aynen Kiyo'nun dediği gibi...
+47	Önce <CLT=cltSTRONG>Kafesli Köpek Köyü<CLT=cltNORMAL>'nden kalan büyü\nçemberini yere çiz...
+48	Ruh medyumu çemberin ortasında diz çöküp\nkaplumbağa gibi kıvrılmalı...
+49	...ve alnını yerdeki bir taşa dayamalı.\nSonra diğer dört katılımcı...
+50	...demir kafesi ruh medyumunun üstüne\nkoyup beyaz bir örtüyle örtmeli...
+51	Ve son olarak Köpek Tanrı kafesin üstüne\nkonmalı.
+52	Ayrıca hazırlıklar sırasında büyü çemberine\nbasamayacağımızı söylüyor...
+53	"Köpek Tanrı" mı? Ahşap köpek heykelini\nmi kastediyorsun?
+54	Hazırlıklar tamamlanınca tam karanlık\nyaratmak için bütün ışıkları söndür...
+55	Dört katılımcı odanın birer köşesinde\ndurunca seans başlar.
+56	Ruh medyumu hariç dört katılımcı\n<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> şarkısını söyler...
+57	Şarkıdan sonra "<CLT=cltSTRONG>Kafesteki çocuk<CLT=cltNORMAL>..." diye\nsorup ruhun adını söyle.
+58	Ruh medyumu çağrılan ruhun sesiyle\ncevap verir...ve yazan bu kadar!
+59	Kulağa...karmaşık geliyor.
+60	Karmaşık planların sonunda işe yarama\nihtimali daha yüksek, öyle değil mi?
+61	İşe yarasa da yaramasa da...Kiyo bir süredir\nbu seansı yapmak istiyordu.
+62	O kopyalardan birini edinecek kadar şanslı\nolduğum için onu çoktan ezberledim.
+63	Kehehe... Ama gerçeğini göreceğimi hiç\ndüşünmemiştim... Ne kader cilvesi.
+64	Ah, evet. Her kelimesini ezberlediğini\nde söyledi.
+65	Muhtemelen kitabı bu yüzden burada bıraktı,\nçünkü seansı kitapsız yapabiliyor.
+66	Ama bu mümkün mü ki?\nAngie'nin hayaletiyle iletişim kurmak...?
+67	Nişişi... Bu kadar merak ediyorsan neden\nbize katılmıyorsun, Shuichi?
 68	Ha?
+69	Nasıl sonuçlandığını kendi gözlerinle\ngörmelisin.
+70	Hâlâ vakit var, biliyorsun değil mi? Seans\ndaha başlamadı bile.
+71	Belki onlara katılman daha iyi olur.
 72	Sence öyle mi...?
+73	Eh, ben gitmiyorum. Ruh çağırma seanslarına\ninanmıyorum.
+74	Ama inansan da inanmasan da dedektif olarak\nne olduğunu gözlemlemek için orada olmalısın.
+75	<CLT=cltMIND>Dedektif olarak, ha...
+76	Evet...Sanırım haklısın.
+77	Nişişi... İşte şimdi konuştun.
+78	Neyse, seni bekliyor olacağım! Üç boş\nodadan ortadakindeyiz.
+79	<CLT=cltMIND>Kokichi beni oyuna çağırıyormuş gibi\nkonuştu, sonra odadan çıktı.
+80	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+81	<CLT=cltMIND>Katana burada olmalıydı ama geriye\nsadece kını kalmış.
+82	<CLT=cltMIND>Cinayet silahı bu odadan getirildi,\nbundan eminim.
+83	<CLT=cltMIND>Sanırım katana tam burada, bu vitrinde\nsergileniyordu...
+84	<CLT=cltMIND>Kitaplar ve parşömenlerle dolu...\nHepsi yıpranmış ve eski.
+85	<CLT=cltMIND>Ama şimdi okuyacak vakit yok.
+86	<CLT=cltMIND>Bu kumaş...
+87	<CLT=cltMIND>Ah, anlıyorum. <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltMIND>'ta kafesi\nörten beyaz kumaş bu.
+88	<CLT=cltMIND>Sanırım kafesi çoktan odaya\ngötürdüler...
+89	<CLT=cltMIND>Bu büyük ihtimalle <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltMIND>'ta\nkafesi örten beyaz kumaş.
+90	<CLT=cltMIND>Sanırım kafesi çoktan odaya\ngötürdüler...
+91	<CLT=cltMIND><CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltMIND> kitabı\nhâlâ burada...
+92	<CLT=cltMIND>Kiyo onu o kadar çok okuduğunu söyledi ki\nezberden okuyabiliyormuş.
+93	<CLT=cltMIND>Sanırım seansı yapmak için ona\nihtiyacı yok.

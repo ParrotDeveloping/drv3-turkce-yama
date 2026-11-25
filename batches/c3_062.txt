@@ -1,0 +1,37 @@
+@ chap3_text_US
+## c03_103_039
+155|...büyü çemberinin içinde kaplumbağa gibi\nkonumlandırdık, başı işaret taşına değecek şekilde.
+156|Sonra Shuichi ile Kokichi kafesi Tenko'nun\nüstüne koydu...
+157|Ve ondan sonra ben beyaz kumaşı kafesin\nüstüne örttüm...
+158|Sonra dördümüz birlikte ahşap Köpek Tanrı\nheykelini kafesin üstüne koyduk.
+159|Ardından odanın dört köşesinde durduk.\nKokichi ile Shuichi mumları söndürdü.
+160|Son olarak hep birlikte <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> şarkısını\nsöyledik. Seansın tamamlanmış olması gerekiyordu ama...
+161|Ah, şimdi sen söyleyince şarkı sırasında\ntuhaf bir ses duyduğumu hatırlıyorum...
+163|Benim için de bir gizem. Belki birinin\ntökezlediğini düşünmüştüm...
+164|<CLT=cltMIND>Birinin tökezlemesi için epey yüksek bir\nsesti... Belki Kiyo bir şey biliyordur.
+166|Ah...ona seslendik ama cevap gelmedi.\nShuichi ile Kokichi'ye mumları yeniden yaktırdım.
+167|Ve sonra büyü çemberinin içindeki bütün\neşyaları ters sırayla çıkardık.
+168|Önce dördümüz birlikte Köpek Tanrı\nheykelini kaldırdık...
+169|Sonra ben beyaz kumaşı çıkardım.\nVe sonra...
+170|Himiko kafese koştu ve onu\nkaldırdığı anda—
+171|...O zaman Tenko kesinlikle seans sırasında\nöldürülmüş gibi görünüyor.
+172|Ama böyle bir karanlıkta zor olmaz mıydı?\nHem kafesin içindeydi, değil mi?
+173|O zaman ne zaman öldürüldü?
+174|Evet, sorun bu.
+175|Başka bir sorun daha var...
+176|O da seansın neden başarısız olduğu.\nBir türlü çözemiyorum...
+177|Belki biri köşesinden ayrılmıştır?\nYa da başka biri gizlice buraya mı girdi?
+178|Tabii ki, çünkü bu seans açıkça bir\nsahtekârlıktı.
+180|<CLT=cltMIND>Maki hiçbir zaman lafını sakınan biri\nolmadı.
+181|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Seans Sırasındaki Ses<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+182|Anlayamıyorum...\nSeansın neden başarısız olduğuna dair hiçbir fikrim yok...
+183|...Hâlâ bunu mu söylüyorsun?
+184|Neden seansı bir kez daha düşünmüyoruz?\nNeden başarısız olduğunu bilmek istiyorum.
+185|Ah, şey, belki daha çok ipucu buluruz.
+187|...büyü çemberinin içinde kaplumbağa gibi\nkonumlandırdık.
+188|Alnı üstüne dayansın diye yere bir işaret\ntaşı konmuştu.
+194|Seans sırasında duyduğum o tuhaf ses\nvardı. Acaba neydi...
+197|<CLT=cltMIND>Birinin tökezlemesi için epey yüksek\nbir sesti. Emin misin, Kiyo?
+198|Ona seslendik ama cevap gelmedi, o yüzden\nShuichi ile Kokichi'ye mumları yeniden yaktırdım.
+204|Ama böyle bir karanlıkta zor olurdu.\nHem kafesin içindeydi.
+205|Soru şu: Tenko tam olarak ne zaman\nöldürüldü?

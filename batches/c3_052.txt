@@ -1,0 +1,53 @@
+@ chap3_text_US
+## c03_100_157
+395|...Özür dilemene gerek yok.\nBen de şaka yapıyordum.
+396|<CLT=cltMIND>...Ama pek şaka gibi\ngelmedi.
+399|<CLT=cltMIND>bir de alnında bir\nyırtık.
+400|<CLT=cltMIND>Ölümcül yara boynundaki ama\nalnındakinin olayı ne?
+401|<CLT=cltMIND>Alnındaki yaranın derin olup pek\nkanamaması da kafama takılıyor.
+402|<CLT=cltMIND>Bir şey daha var...
+403|<CLT=cltMIND>Maki'nin cesedin altında bulduğu\nkoli bandı.
+404|<CLT=cltMIND>Neden tam da burada olsun ki?
+405|<CLT=cltMIND>Bantta Angie'nin saçı vardı.\nDavayla ilgili *olmalı*.
+406|<CLT=cltMIND>Angie'nin gövdesinden küçük bir\nkan gölü yayılmış.
+407|<CLT=cltMIND>Bu alnından olamaz.\nBu kan ensesinden.
+408|Bu kan kurumuş...
+409|Angie öldürülmeden birkaç saat önce dökülmüş\nolmalı. Belki daha fazla.
+410|Bu Monokuma Dosyası'nda yazan gece 2'deki\nölüm saatiyle uyuşuyor.
+411|<CLT=cltMIND>Angie'nin gövdesinden küçük bir\nkan gölü yayılmış.
+412|<CLT=cltMIND>Kan kurumuş.
+413|<CLT=cltMIND>Öldürüldüğünden beri birkaç saat\ngeçmiş olmalı.
+414|<CLT=cltMIND>Bu Monokuma Dosyası'nda yazan\nölüm saatiyle uyuşuyor.
+415|<CLT=cltMIND>Bir katana...Kaede'nin balmumu heykeline\nsaplanmış.
+416|Bunu kim yaptı...? Ve neden?
+417|...Bir bakayım.
+418|<CLT=cltMIND>Maki beni kenara itti, sonra katanayı\nkavrayıp heykelden çekip çıkardı.
+419|Ah, dur! Burası olay yeri, yapamazsın—
+420|Katanayı kontrol etmek istedin, değil mi? Eh,\nçekip çıkarmazsan bunu yapamazsın.
+421|E-Evet, doğru ama olay yerini\nkorumalıyız...
+423|<CLT=cltMIND>Maki itirazıma aldırmadan bir süre\nkatanaya baktı.
+424|Gerçek bir katana ama üstünde altın\nvarak var...
+425|E-Evet...sanırım <CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL>\nlaboratuvarında sergilenen o.
+426|...Hm, öyle mi?
+427|Ucundaki kan lekelerine bakılırsa bunun\ncinayet silahı olduğunu varsayabiliriz.
+428|Ağzı iyi kesmeyecek kadar paslı...ama\nsaplamak için yeterli olur.
+429|Ama neden cinayet silahı olarak *bunu*\nkullanmak için uğraşsınlar?
+430|Güzel soru. Benim laboratuvarıma gidip daha\nuygun bir silah alabilirlerdi...
+431|Belki Kiyo'nun laboratuvarı aynı katta olduğu\niçindir. Yakındaki bir şeyi kaptılar...?
+432|Acelesi olabilirdi.
+433|Ya da bunun gibi uzun bir silaha ihtiyaçları\nvardı.
+434|Uzun bir silah mı?
+435|Benim laboratuvarımda kılıç ya da bu uzunlukta\nbaşka bir silah yok.
+436|Ah, gerçekten mi?
+437|Monokuma nasıl öğrendi bilmiyorum ama işimde\nkılıç kullanmadığımı biliyor olmalı.
+438|İşe ilk başladığımda bir katanayla bir\ngörevi berbat etmiştim...
+439|O zamandan beri kılıç kullanmadım. Sorun değil,\nçünkü zaten taşıması zahmetli.
+440|<CLT=cltMIND>Sanırım tıpkı Angie'ninki gibi herkesin\nlaboratuvarı kişisel olarak ona uygun.
+441|<CLT=cltMIND>Ama bütün bunları nasıl bildiler...?
+442|Neyse...bu katananın altın varağı kolayca\ndökülüyor. Şimdi bütün elime bulaştı.
+443|Altın varağın bu kadar kolay dökülmesi için\nepey eski olmalı.
+444|Bunu neden daha önce söylemedin? Ellerim\nyapış yapış oldu... Sonra yıkamam lazım.
+445|<CLT=cltMIND>Maki beni azarladı, sonra Kaede'nin\nheykelinin önünde durdu.
+446|Katanayı bulduğumuz yere geri koyacağım...\nİzlemesi zorsa başını çevir.
+447|Ah... Teşekkürler.
+448|<CLT=cltMIND>Bakışlarımı kaçırdım ve Maki katanayı\nbalmumu heykele geri sapladı.

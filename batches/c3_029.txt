@@ -1,0 +1,72 @@
+@ chap3_text_US
+## c03_006_258
+46|<CLT=cltMIND>Böyle bir şey yapmak gerçekten doğru\nmu? Tenko beni öldürür...
+47|<CLT=cltMIND>Sanırım içinde bulunduğumuz durum bu.\nHerkesin arada bir molaya ihtiyacı var.
+49|Ah, günaydın. Sen de spor salonuna mı\ngidiyorsun, Shuichi?
+50|Evet, böyle bir çağrıyı kesinlikle\ngörmezden gelmek istemem.
+51|Değil mi? Hepimiz gelmezsek anlaşmadığımızı\nfalan düşünebilir...
+52|Önceden Monodam'ın aralarındaki en mantıklı\nolduğunu düşünüyordum ama...
+53|Anlaşma konusunda hastalıklı bir takıntısı var...\nBu yüzden diğer Monoyavruları bile öldürdü...
+54|Görünüşe göre aslında en tehlikelisi oymuş.\nTek yanlış adımda tam bir yandere oluyor...
+55|<CLT=cltMIND>...Neden bahsediyor?
+56|Ama şimdi durup konuşmanın sırası değil.\nSpor salonuna gitmemiz lazım.
+## c03_007_101
+0|...Vakit geldi.
+1|<CLT=cltMIND>Hadi gidelim, bir erkeğin fantezisinin peşinde!
+2|<CLT=cltMIND>Nakil öğrenciler, ölüleri diriltmek,\nAtua, öğrenci konseyi...
+3|<CLT=cltMIND>Bu sabah ne çok ağır konuşma\noldu.
+4|...Burada oturup şikâyet etmemeliyim.\nYapabileceğim bir şey olmalı.
+5|Bir şey bulmalıyım.
+## c03_007_190
+0|<CLT=cltMIND>Havuza yöneldim. Kalbimin emniyeti\nkapalıydı ve son hızla dalıyordum.
+1|<CLT=cltMIND>Ne inanılmaz bir manzara!\nFantezim bir süpernova gibi parlıyordu!
+2|Nyahaha! Çok büyükler, Tsumugi!\nDokunsam sorun olur mu?
+3|Ne? Yani...dokunursan\nutanç verici olur...
+4|Mrgrnyeh...
+5|Ne oldu, Himiko?
+6|H-Hiçbir şey...
+7|Zaten onları o kadar büyütmek büyü\nisrafı olurdu...
+8|...Ohhh, şimdi anladım!
+9|Merak etme! Güzel şekilliler!\nGüzellik zaten boyuttan çok daha iyidir!!!
+11|<CLT=cltMIND>Demek Angie'nin planladığı buymuş...\nöğrenci konseyi için bir parti.
+12|<CLT=cltMIND>Neyse...gördüm. Sonra hemen yaptığım\nşeyin ahlakını sorguladım.
+13|<CLT=cltMIND>Sadece sessiz kalmalıyım...\nİçimde tut, kendini topla!
+## c03_008_100
+7|Oh, sen misin Shuichi...
+8|Pardon, sadece...
+9|Şu an epey meşgulüm.\nSonra uğrayabilir misin?
+10|Pardon, dostum. Sonra görüşürüz.
+11|<CLT=cltSYSTEM>*güm*
+12|<CLT=cltMIND>Kaito pek iyi görünmüyordu...\nİyi mi acaba?
+## c03_008_101
+0|<CLT=cltMIND>Hâlâ vakit var...
+13|<CLT=cltMIND>Bunu sonsuza dek giymemizi mi planlıyorlar?\nSanırım bizi ayırt etmeyi kolaylaştırıyor...
+## c03_009_100
+1|Tekrar hoş geldin, Maki. Sonunda geldin.
+2|Biliyor musun Maki, gece ortalıkta\ndolaşmak doğru değil.
+3|Neden? Hiçbir okul kuralını çiğnemiyorum,\ndeğil mi?
+4|Nyahaha, Monokuma'nın kuralları önemli\ndeğil.
+5|Ama Kirumi'nin suçu gece işlendi,\ndeğil mi?
+6|Kimsenin gece dolaşmasına izin verilmeseydi\no dava olmazdı.
+7|Bu yüzden öğrenci konseyi bütün gece\naktivitelerini sınırlamaya çalışıyor.
+8|"Sınırlamak"... Yani kısacası özgürlüğümüzü\nelimizden almak istiyorsunuz, öyle mi?
+9|Nyahaha! Çok tuhafsın, Maki. Hangisi daha\nönemli—özgürlük mü, bir insanın hayatı mı?
+11|Hmm, herkesin burada huzurlu bir hayatı olsun\ndiye bütün endişe ve şüpheleri ortadan kaldırmalıyız.
+12|Çünkü Atua öyle diyor.
+13|Atua öyle diyor.
+14|Atua diyor ki...
+15|İnsanlar senden korkuyor Maki, o yüzden daha\ndikkatli olmanı tercih ederiz.
+16|Akademinin barışı için...
+22|Shuichi Saihara'nın odası
+23|Kaito Momota'nın odası
+24|Ryoma Hoshi'nin odası
+25|Rantaro Amami'nin odası
+26|Gonta Gokuhara'nın odası
+27|Kokichi Oma'nın odası
+28|Korekiyo Shinguji'nin odası
+29|K1-B0'ın odası
+30|Kirumi Tojo'nun odası
+31|Himiko Yumeno'nun odası
+32|Maki Harukawa'nın odası
+33|Tenko Chabashira'nın odası
+34|Tsumugi Shirogane'nin odası

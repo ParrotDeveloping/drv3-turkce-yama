@@ -1,36 +1,276 @@
+0	<CLT=cltMIND>Yemekhaneye girdiğim anda odayı dolduran\nöfkeli bir bağırış duydum.
+1	D-Dalga geçmeyi kesin!\nCanınız ne isterse onu yapamazsınız!
+2	Hmmm? Ama Atua'nın kutsaması bende.
+3	Evet! Atua'nın kutsaması bizde! Bundan bahsetmeyi\nkesmeyen her yozu da fırlatırım!
+4	Hm...öğrenci konseyi falan olduğunuzu iddia\nettiğinizi biliyorum ama bu fazla ileri gitmek, değil mi?
+5	Daha önce de söylediğimiz gibi bunların hepsi\nöldürme oyununu bitirip barışı korumak için.
+6	<CLT=cltMIND>Ne? Neler oluyor?
+7	Kaito, ne oldu?\nNe için kavga ediyorsunuz?
+8	Bunlar inanılmaz bir şey yaptı.
+9	Yeraltına inen rögar kapağını\nkapattılar!
+10	Rögar kapağını mı?
+11	Gonta rögar kapağının üstüne ağır kayalar koydu,\nböylece artık kimse kullanamaz.
+12	Büyümle yok edebilirdim ama bu sefer\nGonta'nın halletmesine karar verdim.
+13	Bunu...neden yaptınız?
+14	Çünkü rögar buradan ayrılma arzumuzu\nhatırlatıyor.
+15	Kaede'nin başına gelen gibi bir trajedinin\nyeniden olmasını istemiyoruz.
 16	...
+17	Aynen öyle, Angie! O yeraltı tünelini tamamen\nunutup yeni bir başlangıç yapmalıyız!
+18	Lanet olsun! Fikrimizi sormadan bile\ncanı ne isterse yapıyor!
+19	Herkesin fikrini almak kesinlikle önemli ama\nöyle yapsaydık hiçbir şey yapılamazdı.
+20	Bu yüzden sadece öğrenci konseyi başkanına\nitaat etmeye karar verdik!
+21	Angie ise doğru kararı verir! Sonuçta\nAtua'yı duyabiliyor!
+22	Vay be, umut yok. Onun gibi sıradan kızlar\nkonu tarikat olunca tam bir saf oluyor.
+23	Tsumugi, harika konuşman için teşekkürler.\nGerçekten çok etkilendim.
+24	Hmmmmmm...
 25	Ah...
+26	Beni hep desteklediğin için teşekkürler. Atua sade\nve basit hizmetin için sana gülümsüyor.
+27	Merak ediyordum...Atua'nın kırmızı gözleri ve\ngece kadar siyah saçları mı var?
+28	Atua'nın senin istediğin özellikleri var.
+29	Kırmızı gözlü, siyah saçlı bir tanrı... Ah,\nbeni ne havalı bir tanrı gözetliyor!
+30	Onunla ne zaman tanışabilirim!? Onunla bir\nan önce tanışmak istiyorum!
+31	Atua zamanın ötesinde var ama eminim çok\nyakında Onun varlığını hissedeceksin.
+32	Çok havalı! Atua çok havalı!
+33	...Böyle tarikatlar ters düşersen gerçekten\nçok sinir bozucu olabiliyor.
+34	Ama ama rögar kapatıldı diye neden bu\nkadar kızgınsınız?
+35	Kaçmak için kullanmak istediğiniz için mi?\nHâlâ buradan ayrılmaktan vazgeçmediniz mi?
+36	Vazgeçmediniz mi?
+37	Vazgeçmediniz mi?
+38	S-Sizin derdiniz ne lan!?
+39	Öğrenci konseyi bunu görmezden gelemez.\nGörünüşe göre kontrolümüzü sıkılaştırmalıyız.
+40	Sıkılaştırmak mı...? Bana gevşek mi diyorsun!?
+41	Dün geceden sonra bilgisayar odasındaydın,\ndeğil mi Miu?
+42	Ha? N-Ne olmuş yani!?
+43	Maki de öyle. Gece epey ilerleyene kadar\nodasına dönmedi.
+44	Shuichi...sen de, değil mi?
 45	E-Evet...
+46	Tanrım! Bu iyi değil! Hayatın darmadağınsa\nzihnin ve bedenin de öyle olur.
+47	Atua haklı... Öğrenci konseyi dışında herkesin\ngece dolaşmasını yasaklamalıyız.
 48	Ne?
+49	N-Ne!? Neyi nerede yaptığım hiç senin\nlanet işin değil!
+50	Hayır, herkes hâlâ ayrılmak istediği sürece\nbu kabul edilemez.
+51	Öğrenci konseyi neden kurallarınızdan muaf?\nBu açıkça adaletsiz, değil mi?
+52	Nyahaha! Öğrenci konseyi için endişelenmiyorum.\nOnlar artık ayrılmak istemiyor.
+53	Aynen öyle.\nZaten neden dışarı çıkmamız gereksin ki?
+54	Burada yiyeceğimiz, kıyafetimiz, barınağımız,\nharika arkadaşlarımız ve en önemlisi Atua var.
+55	Daha ne lazım?\nAçgözlü olmak iyi değil, biliyorsun değil mi?
+56	Nyahaha! Öğrenci konseyindeki herkes\nçok ilahi!
+57	A-Aptal olma! Bana burada kalıp hiçbir şey\nyapmamamı mı söylüyorsun!?
+58	Asla yapmam!\nDaha uzaya bile gitmedim!
 59	...
+60	...KAVGA-MI-EDİYORSUNUZ?
+61	S-Sanmıyorum! Bence belki de aslında\nkavga etmiyorlardır!
+62	E-Evet! Kavga ediyor olsalar bile dostça\nbir kavga gibi görünüyor!
+63	...Ne için geldiniz? Şu an meşgulüz.
+64	BİZ...BİRBİRİNİZE-DAHA-DA-\nYAKINLAŞMANIZI-İSTİYORUZ...
+65	O-YÜZDEN-BUNU-GETİRDİK...
+66	Hatıra Işığı mı!?
+67	Bu bizim "Yeni bir anıyı geri getirmek için\n<CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'nı kullan...
+68	...ve onun hakkında birbirinizle konuşarak\ndaha iyi arkadaş olun" planımızın parçası!
+69	Vay, *o kadar* uzun bir plan adını hatırlamak\niçin kafama fazla darbe aldım.
+70	Ah, şunu bir göreyim.
+71	AH—!
+72	<CLT=cltMIND>Angie birden <CLT=cltSTRONG>Hatıra Işığı<CLT=cltMIND>'nı\nelinden kaptı ve...
+73	<CLT=cltSYSTEM>*şangır!*
+74	<CLT=cltMIND>Onu yere fırlatıp amansızca üstünde\ntepindi!
+75	AH...AHHHHHHHHHH!
+76	Nyaha! Öğrenci konseyi artık <CLT=cltSTRONG>Hatıra Işıkları<CLT=cltNORMAL>'nı\nkullanmamaya karar verdi.
+77	Ne!? N-Neden!?
+78	Çünkü Hatıra Işıkları sadece <CLT=cltSTRONG>dış dünyayla\n<CLT=cltNORMAL>ilgili anılarımızı geri getiriyor.
+79	Ama artık o anılara ihtiyacımız yok.
+80	Artık <CLT=cltSTRONG>dış dünyaya<CLT=cltNORMAL> ait olmadığımızı\nfark ettik...
+81	Biz buraya, Ultimate Akademisi'ne aitiz...
+82	O-Olamaz...<CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'nı kullanmazsanız\nplanımız suya düşer...
+83	N-Ne yapacağız, Monodam!?
 84	...
+85	Hey! Kaçtı!
+86	Heyyyyy Monodaaaaam!\nBekleeeee!
 87	Nyahahaha! Hoşça kalın!
+88	A-Angie...ne yapıyorsun!?
+89	Cenaze ya da <CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> hakkında bir şey\nhatırlayabilirdik!
+90	Bütün bunları hatırlamak için bir sebep yok.\nDış dünyaya dönmüyoruz.
+91	...Evet. Artık anlamsız.
+92	S-Seni... Fazlasıyla ileri gittin!
+93	Öldürme oyununu durdurmak istesen bile\nfazlasıyla ileri gidiyorsun.
+94	Üzgünüm ama bunu Atua'ya söylemelisin.
+95	Tanrım, hiç üzgün olduğunu sanmıyorum. Peki,\n"<CLT=cltSTRONG>şu şey<CLT=cltNORMAL>" için bir planın var mı?
+96	<CLT=cltSTRONG>Diriltme ritüelini<CLT=cltNORMAL> mi diyorsun?\nAh, onun için bir planımız var!
 97	N-Ne!?
+98	Ne...planlıyorsun?
+99	Sadece gerekli bir önlem. Ne kadar çok arkadaşımız\nolursa hayatımız o kadar dolu olur.
+100	Gerekli bir önlem mi?
+101	Hmm... Ya Rantaro'nun ölümüne yol açan gibi\nbaşka bir süre sınırlı <CLT=cltSTRONG>motif<CLT=cltNORMAL> gelirse?
+102	...Her ihtimale karşı hazırda bir kurbanımız\nolması gerekmez mi?
+103	Yani...birinin ölmesi gerekirse dirilttiğimiz\nbirini mi gönüllü yapmalıyız diyorsun?
+104	Birini...sadece yeniden öldürmek için mi\ndirilteceksin?
+105	Kehehe... Öldürme oyununu durdurmak isteyen\nbiri için epey zalim planların var.
+106	Hayat her zaman eğlence ve gülümsemeden ibaret\nolamaz... Atua zor, hatta zalim kararlar vermek zorunda.
+107	Ama, ama! Huzurlu bir okul hayatı yaşayacaksak\nAtua'nın iradesine boyun eğmeliyiz.
+108	Atua'nın iradesi mutlaktır.
+109	Atua öyle diyorsa yapabileceğimiz bir\nşey yok.
+110	Nyeeeh...aynen Atua'nın dediği gibi.
 111	...
+112	C-Ciddi misiniz? O şeyin öldürme oyunu için\nbir motif olduğunu unuttunuz mu?
+113	<CLT=cltMIND>Kaito...sana ne oluyor?\nGittikçe daha kötü görünüyorsun...
+114	Buradan kaçma arzunuzu bir kenara attığınız\nsürece o <CLT=cltSTRONG>motif<CLT=cltNORMAL> bizi ilgilendirmez.
+115	Bu arada...kimi dirilteceksiniz?
+116	N-Ne biçim aptalca bir soru bu!?
+117	Hmm... Konuyu Atua ile görüştükten sonra\ndirilteceğimiz <CLT=cltSTRONG>nakil öğrenci<CLT=cltNORMAL>...
+118	...Rantaro Amami!
 119	Rantaro?
+120	Eh...Kaede ve Kirumi gibi hüküm giymiş\nkatilleri diriltemeyiz...
+121	Ryoma gibi motif videosunu paylaşmama\nkuralını çiğneyen suçluları da...
+122	Geriye öğrenci konseyinin işine yarayacak\ntek kişi olarak Rantaro kalıyor...
+123	<CLT=cltMIND>Doğru, <CLT=cltSTRONG>Ultimate Avı<CLT=cltMIND>'nı bilen tek\nkişi Rantaro'ydu...
+124	<CLT=cltMIND>Onu geri mi getirecekler?
 125	Hey, bir sorum var.\nBiraz tuhaf gelebilir ama...
 126	<CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> terimi\nkimseye bir şey ifade ediyor mu?
+127	<CLT=cltMIND>Hayır... Hayır, bu imkânsız!\nOlmayacak...
+128	<CLT=cltMIND>...O öldü.
+129	<CLT=cltMIND>Kaede...onu öldürdü.
+130	Aman, epey geç olmuş bile.\nArtık gitmeliyim.
+131	Atua'ya dua edip ritüelin hazırlıklarına\nbaşlamalıyım.
+132	Nyeeeh...haklısın.\nYakışıklı Atua'ya dua etme vakti.
+133	Pekala o zaman, gidelim.
 134	Nyahahaha! Hoşça kalın!
+135	<CLT=cltMIND>Angie önde, öğrenci konseyi\nodadan çıktı.
+136	Atua'nın iradesini yerine getiriyormuş gibi\ndavranıyor ama bu onun iradesi, değil mi?
+137	Öyle bile olsa şu an ona karşı gelemeyiz.\nAşırı inanç gerçekten ürkütücü.
+138	O zaman öğrenci konseyine karşı topyekûn savaş!\nAltıya altı! Bunu kazanabiliriz!
+139	Ayrıca suikastçı da bizim tarafımızda!\nOnları güzelce, çabucak öldürsün!
+140	Ah, hayır... Bunu barışçıl bir şekilde\nçözmeliyiz.
+141	Tabii, harika olur ama kimsenin bunu barışçıl\nbitirecek bir plan ortaya attığını duymuyorum.
+142	...Ya sen, Kaito? Bunca zamandır sessizsin.\nEminim harika fikirlerin vardır.
 143	...
+144	Ha? Bir şey mi dedin?
+145	Ah-ah... *Biri* dalıp gitmişti.
 146	...
+147	<CLT=cltMIND>Kaito...\nBir şeyler yolunda değil gibi.
+148	Kaito...ne oldu?\nİyi misin?
+149	O-Oh, bir şey yok.\nSadece biraz üşüyorum...
+150	Biraz tükürük sürersem daha iyi hissedersin.
+151	...Tam olarak neye tükürük süreceksin?
+152	N-Neyse...<CLT=cltSTRONG>ölüleri diriltmek\n<CLT=cltNORMAL>diye bir şey yok.
+153	B-Bunun imkânı yok...\nSadece mümkün değil—
+154	Lanet olsun...hayır.\nBu ürpertileri durduramıyorum!
 155	Ha?
+156	Pardon millet. Benim hatam.\nB-Ben odama dönüyorum.
+157	<CLT=cltMIND>Kaito titrek adımlarla odasına\ndönmek için çıktı.
+158	...O da neydi? Hastalanıyor mu?
+159	Az önce bütün o okült şeylerden bahsediyorduk.\nBelki ele geçirilmiştir...
+160	Hahaha! O herif için endişelenmeye\nbaşlıyorum!
+161	Bundan keyif alıyor gibisin...
+162	<CLT=cltMIND>Geri kalanımız yemekhaneden çıkıp\nodalarımıza döndük.
+163	Öğrenci konseyi konuştu! Bu karar\nherkesin iyiliği için!
+164	<CLT=cltMIND>Öğrenci konseyinin kararı...\nBu ne demek? Kaito buna mı üzülüyor?
+165	Ah-ooo! Sorun şimdiden başladı!\nEh, bunun olacağını biliyordum.
+166	Ah, evet. Öğrenci konseyine karşı bir savaş\nbaşlatmak istiyorsak...
+167	...<CLT=cltSTRONG>diriltme ritüelinden<CLT=cltNORMAL> sonrasına\nkadar beklemeliyiz.
+168	Kokichi...bu motife uymak mı\nistiyorsun?
+169	Çünkü kulağa eğlenceli geliyor! Sen de\n<CLT=cltSTRONG>diriltme ritüelini<CLT=cltNORMAL> görmek istemiyor musun!?
+170	Ah ama Angie, Rantaro'yu <CLT=cltSTRONG>nakil öğrenci\n<CLT=cltNORMAL>yapmak istiyor, ha?
+171	Onun hayata dönmesini istemiyorum.
 172	Neden?
+173	Çünkü...seni en çok seviyorum, Shuichi.\nHep seni düşünüyorum...
+174	Ve sen Kaede'nin hayata döndürülmesini\ntercih edersin, ha?
+175	B-Bu...
+176	Ne kadar takdire şayansın!\nBu yüzden seni desteklemek istiyorum!
+177	Ah dur, bu bir yalan!
 178	...
+179	Şimdi aklıma geldi, bir zamanlar yine bir ölüm\noyunu hakkında bir anime izlemiştim...
+180	Elebaşı öldürmeyi başlatmak için ilk kurban\nolarak bir aile üyesini feda etmişti.
+181	Bir aile üyesini mi feda etmiş?\nYani...öldürmüş mü?
+182	Evet, güç gösterisi olarak. Belki Rantaro'nun\nbaşına da bu gelmiştir...
+183	Ya Rantaro elebaşı için çalışıyorduysa?\nOnu geri getirmek kötü bir fikir olabilir.
+184	H-Hayır, bu aptalca! Rantaro elebaşı için\nçalışıyor olamazdı...
+185	<CLT=cltMIND>Ama...gerçekten imkânsız mı?
+186	<CLT=cltMIND>Rantaro'yu sadece kısa bir süre\ntanıdık.
+187	<CLT=cltMIND>Öldürme oyununa biraz <CLT=cltSTRONG>alışkın<CLT=cltMIND>\ngibi görünüyordu.
+188	Nişişi... Görünüşe göre ne demek istediğimi\nanlamaya başlıyorsun, Shuichi.
+189	Eh, ne dersek diyelim Angie muhtemelen <CLT=cltSTRONG>nakil\nöğrencinin<CLT=cltNORMAL> kim olacağı konusunda kararını vermiştir...
+190	Hayata dönerse o kadar! Dört gözle\nbeklemekten başka yapacak bir şey yok!
 191	...
+192	Eh, ne dersek diyelim Angie muhtemelen <CLT=cltSTRONG>nakil\nöğrencinin<CLT=cltNORMAL> kim olacağı konusunda kararını vermiştir...
+193	Hayata dönerse o kadar! Dört gözle\nbeklemekten başka yapacak bir şey yok!
+194	Bir tanrıya güvenmek kaçınılmazdır...\nAma bağımlılık sorunludur.
+195	Bağımlılık yozlaşmış bir zihnin özelliğidir.\nGerçekten güvenebileceğimiz tek şey...
+196	...aşktır!
+197	Böyle ürkütücü şeyler söyleyen erkekler, seninle\nkonuşmayı kesmeyen iş arkadaşlarından da beter.
+198	<CLT=cltMIND>O kavga neyle ilgiliydi?\nKaito'dan duymalıyım...
+199	Kendilerine öğrenci konseyi diyorlar ama\ngörünüşe göre bütün kararları "<CLT=cltSTRONG>Atua<CLT=cltNORMAL>" veriyor.
+200	Yani zaten öğrencilerin isteklerini pek\numursamıyorlar.
+201	Şu an kimse Angie'ye karşı gelemez.\nAma daha da endişe verici olan...
+202	Müritleri onun adını bahane ederek kendi\nbaşlarına hareket etmeye başlayabilir.
+203	...Bu da bir bakış açısı.
+204	Ha? Asık Surat Kaltak ile Ucube Gösterisi\nşimdi de anlayışlı mı olmaya başladı!?
+205	Şey, ıı, yani...ne demeye çalıştığınızı\nanlıyorum...
+206	Ama şu dangalak Kaito hiç takip\netmiyor! Ona açıklayın!
 207	...
 208	Kaito...?
+209	Hâlâ dalıp gitmiş.
+210	<CLT=cltMIND>Öyle görünüyor... Miu'nun ona sataşmasına\nbile tepki vermedi.
+211	Neyse, şimdilik o acınası rezilliği\nbir kenara bırakalım...
+212	Şu aptal kaltakçıkla inek memelerine\nher şeyi açıklayın.
+213	Ihh... Bana hakaret etti!
+214	...Böyle bir durum mutlak liderleri olan\ngruplarda yaygındır.
+215	Liderlerinin gözüne girmek için...\nYa da inançları için kendilerini feda etmek için...
+216	Müritler daha radikal eylemlere\ngirişmeye başlar.
+217	Yani...Angie'nin hükmünü daha rahat hâle\ngetirmek için bize baskı yapabilirler.
+218	Ha? Bize hükmetmek mi?
+219	B-Bu ileride bir sorun\nolabilir...
+220	Eh, bununla başlayacaklarından şüpheliyim...\nAma bu sadece zaman meselesi.
+221	Şu an kimse Angie'ye karşı gelemez ama\ndaha da endişe verici olan...
+222	Müritlerinin onun iradesiyle hareket etmeye\nbaşlaması.
+223	Eh, bununla başlayacaklarından şüpheliyim...\nAma bu sadece zaman meselesi.
+224	Bunu öldürme oyununu yok edip bu okula\nbarış getirmek için yapıyoruz.
+225	Sen de bunu istiyorsun, değil mi Shuichi?
+226	En önemli şey akademideki barış.\nBizim çalıştığımız şey bu.
+227	Bu sizin iyiliğiniz için de, biliyorsun değil mi?
+228	...Git Kaito'yu durdur. Birbirinize bağırmak\nhiçbir işe yaramaz.
+229	Sence iki tarafın da birbirini anlamasını\nsağlamanın bir yolu var mı?
 230	Ne?
+231	Daha önce sen söyledin, değil mi?
+232	Şu an...bilmiyorum. Ama böyle konuşarak hiçbir\nşeyin çözülmeyeceğini biliyorum.
+233	Öğrenci konseyi üyelerinin fikirlerini\ndeğiştireceğini sanmıyorum.
+234	Doğru ama...
+235	Bunun iki tarafı var... Neden birini\nöylece "ortadan kaldırmıyoruz"?
 236	...Ne?
 237	...
+238	<CLT=cltMIND>Maki... Angie...
+239	H-Hayır! Bunu yapamayız!\nOnları "ortadan kaldırmak" hiçbir şeyi çözmez!
+240	...Bunu zaten biliyorum. Sadece geldiğim\ndünyada bir seçenek.
+241	Sadece...bir düşün. O kadar.
+242	Maki...
 243	...
+244	Ölüleri diriltmek imkânsız.
+245	Öyle olmasa bile gerçekten geri gelmek\nisterler miydi?
+246	Sence geri gelip bu durumu yeniden yaşamak\nisterler mi?
 247	...Merak ediyorum.
+248	<CLT=cltMIND>Geri gelseler bile öldürme oyunu\ndevam ederdi.
+249	<CLT=cltMIND>Bir kez ölmüş olmaları bir şeye kalkışmayacakları\nanlamına gelmez...
+250	Ne!? Öğrenci konseyine karşı mı geliyorsun!?\nBeni seni fırlatmaya zorlama, Shuichi!
+251	Herkesin neden bu kadar kızdığını\nanlamıyorum...
+252	Bu, öldürme oyunu olmasın ve burada huzurlu\nbir hayatımız olsun diye...
+253	Herkes neden bu kadar üzgün? Atua'dan\nçoktan izin aldım!
+254	Siktir et Atua'nı! Fikirlerimizi dinlemeden kendi\nbaşına hareket etme! Özellikle benimkini!
+255	Geri döndükten sonra zaten feda edileceklerse\n<CLT=cltSTRONG>ölüleri diriltmeye<CLT=cltNORMAL> varım!
+256	Bir kez mi, iki kez mi, yüz kez mi öldükleri\nfark etmez...
+257	Benim yerime öldükleri sürece ölümleri\nboşa gitmiş olmaz!
 258	...
+259	N-Ne...? Neden bana öyle bakıyorsun?
+260	B-B-Bana yan gözle bakmaya kalkmadan önce\nbir ergenliğe gir bakalım!
+261	B-B-Bana yan gözle bakmaya kalkmadan önce\nbir ergenliğe gir bakalım!
+262	<CLT=cltMIND>Burada neler oluyor?\nKaito öğrenci konseyiyle mi kavga ediyor?
+263	<CLT=cltMIND>Kaito...\nBir şeyler yolunda değil gibi.
 264	Evet
 265	Hayır
 266	Emin olmadığın bir şey mi var?
 267	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
 268	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+269	<CLT=cltMIND>Ama sadece görmek bile midemi bulandırıyor...
 270	<CLT=cltSYSTEM>"Yemekhane Kuralları"
 271	<CLT=cltSYSTEM>"Yemekhanede bulduğunuz her\nyiyeceği yiyebilirsiniz."
 272	<CLT=cltSYSTEM>"Kullandığınız bütün çatal bıçak ve tabakların\nsorumluluğunu alın ve arkanızı toplayın."
 273	<CLT=cltSYSTEM>"Yemekhane gece vakti\nkilitlenecektir."
+274	<CLT=cltMIND>Burada neler oluyor?\nKaito öğrenci konseyiyle mi kavga ediyor?
+275	<CLT=cltMIND>Kaito...\nBir şeyler yolunda değil gibi.

@@ -3,9 +3,14 @@
 2	Emin olmadığın bir şey mi var?
 3	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
 4	<CLT=cltSYSTEM>*tık...tık...*
+5	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 6	<CLT=cltSYSTEM>*tık...tık...*
+7	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 8	...
 13	...
 15	<CLT=cltSYSTEM>*tık...tık...*
+16	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 26	<CLT=cltSYSTEM>*tık...tık...*
+27	<CLT=cltMIND>...Açılmıyor.\nSanırım kilitli.
 28	<CLT=cltMIND>Bizimle iletişim kurmak için bir ekran.\nEkranda hiçbir şey yok.
+29	<CLT=cltMIND>Genelde kötü bir şey olunca çalışır...\nUmarım kapalı kalır.

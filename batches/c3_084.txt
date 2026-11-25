@@ -1,0 +1,56 @@
+@ chap3_text_US
+## c03_217_000
+23|Ya Tenko, Angie'yi öldürdüyse ve sonra\nAngie'nin ruhu intikam için geri geldiyse—
+24|Dediğim gibi, bu imkânsız!\nRuhlar suçlu olamaz!
+25|O zaman suçlunun Tenko'yu bu imkânsız\nşartlar altında nasıl öldürdüğünü açıkla.
+26|Ş-Şey, ıı...
+27|Gördün mü? Açıklayamıyorsun, değil mi?\nBunu ancak bir ruh yapabilirdi—
+28|D-Dur, buldum! Ya suçlu kafesin içinde\nsaklanıyorduysa!?
+29|Oradaysalar seans sırasında Tenko'yu\nbıçaklayabilirlerdi!
+30|Hayır, kafeste başka biri olsaydı\nfark ederdik—
+31|Kaito'ya katılıyorum. Suçlu kafesin içinde\nolabilirdi.
+32|<CLT=cltMIND>...Öyle mi?
+33|Saçmalık. Kafeste suçlunun saklanacağı\nyer yoktu.
+34|Belki <CLT=cltSTRONG>suçlunun<CLT=cltNORMAL> zaten saklanmasına\ngerek yoktu.
+36|Ayrıca suçlu onu kafesin içinde herhangi\nbir zamanda öldürebilirdi.
+37|Sanırım neye varmak istediğimi biliyorsun, değil mi?
+38|<CLT=cltMIND>Bahsettiği\nkişi...
+39|Yoksa...Himiko'yu mu kastediyorsun?
+40|Neden benden şüpheleniyorsun?
+41|Tenko'yu asla öldürmem!
+42|<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+43|Yoksa...Angie'nin hayaletini mi?
+44|Böyle aptalca şeyler düşünmeyi keser\nmisin?
+45|D-Doğru! R-Ruhlar suçlu olamaz...\nbu öyle işlemez!
+47|Gerçekten bilmiyor musun? En azından senin\ngibi bir dedektifin çözebileceğini sanıyordum.
+49|...Yanlış. Tenko'yu kafesin içinde herhangi\nbir zamanda kim öldürebilirdi?
+50|Seni anlamıyorum.\nBir dedektif için gerçekten dar görüşlüsün.
+52|Tenko'yu kafesin içinden kim\nöldürebilirdi?
+53|Bence Maki <CLT=cltSTRONG>Tenko'nun<CLT=cltNORMAL> kendisini\nkastediyor.
+54|Nyeh!? Ne dedin!?
+55|Yani...Tenko'nun suçlu olduğunu mu söylüyorsun?
+56|...<CLT=cltSTRONG>İntihar<CLT=cltNORMAL> etti.
+57|İ-İntihar mı!?
+58|İntihar ettiyse çözemediğimiz pek çok şeyi\naçıklardı.
+59|Kafeste olmaya gönüllü oldu, sonra seans\nsırasında kendini bıçakladı.
+60|Odanın ne kadar karanlık olduğu önemli olmazdı.
+61|Ama bıçaklandığı orak zeminin altındaydı,\ndeğil mi?
+62|Tenko kendini bıçaklasaydı orak hâlâ\nkafesin içinde olmaz mıydı?
+63|A-Aman Tanrım! Miu gerçekten akıllıca\nbir şey söyledi!
+64|Belki de bu döşeme tahtasının neden\nkaldırıldığını açıklıyor.
+65|Kendini orakla bıçakladıktan sonra onu\nzeminin altına attı.
+66|Yani orağı ortadan kaldırmak için döşeme\ntahtasını mı kaldırdı...?
+67|Evet... Bu Gonta'ya mantıklı geliyor...
+68|B-Bana mantıklı gelmiyor!
+69|Tenko'nun intihar etmesi için bir sebep yok!
+70|Belki daha önceki teorimle o kadar da\nyanılmıyordum...
+71|Bilirsin, Tenko'nun Angie'yi öldürmesi hakkında?
+73|Çünkü Tenko ile Angie senin ilgin için\natışıyordu, değil mi?
+75|Tenko'nun birikmiş hayal kırıklığı onu böyle\nbir vahşet işlemeye itti...
+76|Vicdanı buna daha fazla dayanamadı,\no yüzden kendi hayatına son vermeye karar verdi.
+78|Ama...kendini öldürecekse neden seans\nsırasında yapsın?
+79|İntiharının gerçeğini gizlemek istedi.
+80|G-Gerçekten mi? Neden?
+81|Bir öldürme oyununda bunu gizlemek için\ntek bir sebep olabilir, değil mi?
+82|<CLT=cltSTRONG>Bizi de beraberinde götürmek<CLT=cltNORMAL>.
+83|Bizi de götürmek mi...?

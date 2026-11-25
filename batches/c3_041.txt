@@ -1,0 +1,63 @@
+@ chap3_text_US
+## c03_015_156
+75|<CLT=cltMIND>...Tıpatıp Kaede'ye benziyor.\nYüzü ve bedeni, gerçeği gibi görünüyor...
+## c03_016_005
+0|Gece oldu bile, o yüzden odalarınıza dönerken\nlütfen dikkatli olun.
+1|Ah, bir de...
+2|Tenko'nun öğrenci konseyine ihanet ettiğini\nsöylemek yanlış olmaz, değil mi?
+4|Sorun yok, sorun yok! Seni affediyorum çünkü Atua\nseni affediyor. Çok yumuşak kalplidir, bilirsin.
+5|Umarım kendini yeniden öğrenci konseyine adar\nve burayı cennetimiz yapmamıza yardım edersin.
+7|E-Evet...
+8|Nyeh? Neler oluyor?
+9|Shuichi ile Maki neden burada? Öğrenci konseyinde\ndeğiller. Hem gece oldu...
+10|H-Himiko!
+11|Ah, bir şey yok.
+12|Tenko sadece öğrenci konseyine ihanet etti ve\nfikrimi değiştirsinler diye bu ikisini getirdi.
+13|Nyeh!? Bize ihanet mi etti!?
+14|Kulağa büyük bir sorun gibi geliyor ama\n"bir şey yok" diyorsan...
+15|Angie, Atua seni gerçekten *seviyor*!
+16|Sen de Atua tarafından seviliyorsun, Himiko!
+17|K-Kes şunu...kızarmama sebep oluyorsun.
+18|Y-Yeter artık!!!
+19|<CLT=cltMIND>Tenko, Himiko'ya doğru yürüdü ve onu\nomuzlarından sıkıca tuttu.
+21|Lütfen kendine gel!\nSen bir büyücü değil misin?
+22|Canım yanıyor...bırak beni...
+23|Himiko, beyninin yıkandığını neden\ngöremiyorsun?
+24|Bunu bile göremiyorsan...\nhiç de gerçek bir büyücü değilsin!
+26|Kızgın mısın? Kızgınsan göster!
+27|Sinirlen! Üzül! Bana bağır!\nKarşılık ver artık! Bir şey yap!
+29|Tenko...şimdilik bırakalım...
+32|Ç-Çok özür dilerim!\nSana bağırdığıma inanamıyorum!
+33|Yorgun olmalısın, Tenko. Biraz dinlenmen\nen iyisi olur bence.
+34|Olur mu? O zamana kadar arkadaşımızı geri\nkarşılamak için hazırlıklarıma devam edeceğim.
+37|<CLT=cltMIND>Himiko, Tenko'nun gözlerine\nbakmadı.
+38|<CLT=cltMIND>Angie'nin laboratuvarından çıktıktan sonra\nüçümüz yurtlara döndük.
+## c03_016_100
+1|Tenko, iyi misin?
+2|VAAAAAAAAAAAAAAAHHHHHH!!!!!
+3|Himiko'ya o korkunç şeyleri söyledim ve şimdi\nne yapacağımı bilmiyoruuuum!
+4|Ahh... Benden asla nefret etmeyeceğini biliyorum\nama beni en iyi arkadaştan sadece arkadaşa düşürecek!
+5|En iyi arkadaş mıydınız...?
+6|Eh, en yakın tam sayıya yuvarlarsan temelde\nen iyi arkadaştık!
+7|<CLT=cltMIND>Bence biraz fazla yukarı\nyuvarlıyorsun...
+8|Ş-Şey, özür dilersen eminim\nanlayacaktır.
+9|Aynen öyle! Bu zor dönemi atlattıktan sonra\nyaşlı evli bir çift gibi olacağız!
+10|<CLT=cltMIND>Vay, ne hızlı toparlandı.
+11|Shuichi'nin sana nasıl özür dileneceğini\nöğretmesine izin vermelisin. Bunda çok iyidir.
+12|...Gerçekten mi? Bunu ilk defa\nduyuyorum.
+13|Merak etme! Himiko'dan kendi sözlerimle\nözür dileyeceğim!
+14|O zaman yarın görüşürüz!\nİyi geceler!
+15|<CLT=cltMIND>Mutlulukla el sallayan Tenko odasına döndü.
+16|Epey hızlı toparlandı... Sanırım endişelenmeme\ngerek yokmuş.
+17|Ah, endişelendin mi?
+18|...Ha? Benim endişelenmem tuhaf mı?
+21|<CLT=cltMIND>Yine o alışkanlık!
+22|<CLT=cltMIND>Eh, sanırım olumlu tarafı, yanımda daha\nçok kendisi gibi davranabiliyor.
+23|...Peki ya <CLT=cltSTRONG>ritüel<CLT=cltNORMAL>? Angie'yi ikna etmekten\nvazgeçtin mi?
+24|Vazgeçmek istemiyorum...ama fikrini değiştirmek\n...daha alışılmadık yöntemler gerektirebilir.
+25|Başka bir yol düşünmem lazım.
+26|Daha alışılmadık yöntemler... Anladım.\nBunu düşüneceğim.
+27|<CLT=cltMIND>Maki aceleyle odasına döndü.
+28|Demek Maki de düşünecek mi?\nBunu beklemiyordum...
+29|Ama sevindim.
+30|<CLT=cltMIND>Özellikle de artık Maki ile bazı şeyler\nhakkında daha çok konuşabildiğim için.

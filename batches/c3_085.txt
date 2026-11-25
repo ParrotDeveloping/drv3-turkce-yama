@@ -1,0 +1,56 @@
+@ chap3_text_US
+## c03_217_000
+84|Sınıf Duruşması'nda yanlış cevabı seçmemizi\nistedi...
+85|...böylece hepimizi alaşağı edebilecekti!\nOnunla birlikte ölmemizi istedi!
+86|Tamam, muhtemelen sadece Himiko'nun onunla\nölmesini istiyordu. Ama yine de...
+87|N-Ne diyorsun?\nTenko...öyle biri değildi.
+88|Bana şöyle dedi...
+89|Başını dik tut ve hayatına ileriye bakarak devam et!\n<CLT=cltSTRONG>Benimle ve diğer herkesle<CLT=cltNORMAL> hayatta kal!
+90|Ya bunların hepsi sadece bir yalansa?
+91|Yalan mı...?
+92|Dur! Tenko'nun son sözlerine inanmalıyız!
+93|Sınıf Duruşmalarının asıl dehşeti söylenen\nher şeye inanmaman gerektiğidir.
+94|Himiko, Tenko'nun asla öyle bir şey\nyapmayacağını söyledin...
+95|Ama nasıl bu kadar emin olabilirsin?\nBirbirinizi *gerçekten* tanıyor muydunuz?
+96|İnsanlar her türlü sırrı saklar, Maki gibi.\nSoğukkanlı bir katil olduğunu sakladı.
+97|Böyle bir durumda başkalarına tüm kalbimizle\ngüvenmemiz akıllıca mı?
+98|Tanrım...ne kadar saf bir herifsin.
+99|...Saf mı?
+100|Hepimiz insanız, biliyorsun değil mi? Tabii\nki bazı sırlarımız olacak.
+101|Önemli olan arkalarında bir kötü niyet olup\nolmadığı.
+102|İnsanlar sakladıkları sırların ne kadar kötü\nniyetli olduğu konusunda yalan söyleyebilir.
+103|Eh tabii ki. Başkalarının ne düşündüğünü\nkesin olarak bilmek imkânsız.
+104|Bu yüzden her şey kendine inanıp\ninanmamana bağlı!
+105|İhanete uğrarsan bu onların suçu değil!\nOnlara inandığın için senin suçun!
+106|Bu yüzden Maki Rulo'ya inandım!\nÇünkü ona inanmak istedim!
+107|Sırf havalı davranıyorsun diye antrenmanı\natlayabileceğin anlamına gelmez.
+108|H-Hey, hadi ama... Biraz fazla katı\ndavrandığını düşünmüyor musun?
+109|Eh, farklı geçmişlerden geliyoruz.\nO yüzden şimdilik anlaşamadığımızda anlaşalım.
+110|Bana daha önce kimse saf dememişti.\nHem de Kaito'dan mı? Cidden mi?
+112|İnanıp inanmamam...
+113|Kalbim...artık Tenko'ya ulaşamıyor...\nAma ona inanmak istiyorum...
+114|İntihar etmezdi!\nBizi de beraberinde götürmeye çalışmazdı!
+115|İnanmak istediğim şey bu!
+116|Ben de. Gonta, Tenko'nun intihar ettiğine\ninanamıyor.
+117|Ama Tenko intihar ettiyse bu bütün\nsorularımıza cevap olurdu.
+118|Tenko'ya inanmamızda ısrar ediyorsanız\nbunun için bir sebep sunun.
+119|<CLT=cltMIND>Geçerli bir sebep...
+120|Pekala...Size bir sebep vereceğim.
+121|...Bir sebep var mı?
+122|Evet, var. Bana güvenecek misin, Maki?
+123|Yanıldığım ortaya çıkarsa beni istediğin\nkadar suçlayabilirsin.
+124|Ama şimdilik...dedektifliğime güvenmeni\nistiyorum.
+126|<CLT=cltMIND>Tenko'nun kendini öldüreceğine inanmıyorum.\nSöylediği şey yüzünden...
+128|<CLT=cltMIND><CLT=cltSTRONG>"Sonra görüşürüz"<CLT=cltMIND> dedi.\nAniden fikrini değiştirdiğinden şüpheliyim.
+129|<CLT=cltMIND>Nasıl öldürüldüğünü bilmiyor olmamız\nintihar olduğu anlamına gelmez.
+130|<CLT=cltMIND>Bununla yetinmemeliyiz.\nVe düşünmeye devam edersek gerçeği bulacağız.
+131|<CLT=cltMIND>Ve bu da demek ki...\nTenko'ya inanmalıyız!
+132|<CLT=cltMIND>Hepsini inandıracağım!
+## c03_218_000
+0|Shuichi, bu bir delil mi? Yoksa duygularının\nseni ele geçirmesine mi izin veriyorsun?
+2|Orağı kıyafetlerinin altına saklamış\nolabilirdi.
+3|Katil kız öyle diyorsa inanırım!
+5|Onu zamanında atabilirdi, değil mi?
+6|Tabii ölümü anında olmadıysa,\nsanırım.
+8|<CLT=cltMIND>Herkes Tenko'nun intihar ettiğini\ndüşünüyor...
+9|<CLT=cltMIND>Ama sadece en kolay cevaba\ntutundukları için...

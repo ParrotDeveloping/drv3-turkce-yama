@@ -1,0 +1,54 @@
+@ chap3_text_US
+## c03_300_332
+97|O zaman...ikinci kurban...\nben olabilirdim?
+98|Tenko...benim yerime mi öldü?
+102|Himiko harika olurdu ama Tenko'nun gönüllü\nolması beni çok mutlu etti...
+103|Asil, samimi kalbi onu ablam için mükemmel\nbir arkadaş yaptı.
+104|Himiko'yu korumak için öğrenci konseyine\nbile sızdı.
+105|Ha? Sızmak mı? Gerçekten mi?
+106|Ama...sen nasıl...?
+107|Kehehe... Benim için belliydi.\nPek çok insanı inceledim.
+108|Evet! Bu okulun karanlığına tek başına\nkarşı durdu!
+109|Hepsi sevgili arkadaşı için!
+110|Bu beni çok etkiledi! Harika!\nAblam için mükemmel bir arkadaştı!
+111|Kehehe... Ondan neden hoşlanmadığını\nanlayamıyorum, Himiko.
+113|Gerçi...seni de eninde sonunda ablamın\narkadaşı yapmayı planlıyordum.
+114|N-Ne...? Bütün bunları şunun için mi—
+115|Vaaay, bütün bunları sadece öldürmek için yaptın.\nBu kadar ileri gitmen...epey etkileyici.
+116|<CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL>'la sadece birini öldürmek için\nkullanabilmek için ilgilendin, değil mi?
+117|Elbette bir antropolog olarak ilgimi çekti.\nAma ondan da öte...
+118|Ablam için öldürmek istedim!\nO ezici duyguyu inkâr edemem!
+120|Kaito, iyi misin?\nBiraz...solgun görünüyorsun...
+121|D-Dert etme...\nŞimdi Kiyo'ya odaklanalım.
+122|Yine de açıklamama izin verin.\nİkisini de öldürmeyi planlamamıştım.
+123|Buradan kaçtıktan sonra bol bol fırsatım\nolacağını biliyordum.
+124|Ama Angie hazırlık yaparken içeri girdi ve\nonu sonunda farklı bir şekilde öldürdüm.
+125|O yüzden bari başka birini de öldüreyim\ndiye düşündüm.
+126|Sonuçta hazırladığım seans numarasını\nöylece harcamak yazık olurdu.
+127|S-Sanki onu...sırf yapabildiğin için\nöldürmüş gibi konuşuyorsun...
+128|Hayır, sırf yapabildiğim için değil...\nAblama bir arkadaş daha gönderiyordum.
+129|Korekiyo, ne kadar düşünceli bir küçük\nkardeşsin. Ama açgözlü olmak kötüydü.
+130|Haklısın... Bu yüzden artık ablama 100\narkadaş gönderemiyorum.
+131|Şimdi anladınız mı? Korekiyo'nun suçunun\nşartları bunlardı.
+132|Ben...anlamıyorum. Bunların hepsini anlamak\nbenim için fazla imkânsız.
+133|D-Doğru... Ölü ablan için iki arkadaşı\nöldürmek mi!?
+134|Bu...yanlış! Bu çok yanlış!
+135|Kehehe... Ah, bu kadar sinirlenme.
+136|Ablamın ölümünden sonra öğrendiğim bir\nşey var...
+137|Ölüm sadece bir insanın şeklini değiştirir.\nRuh bir hayalet olarak yaşamaya devam eder.
+138|Doğru. Artık bir hayalet olsam da her zaman\nKorekiyo'nun yanındayım.
+139|Teşekkürler, Ablacığım...\nSeni seviyorum.
+140|K-Kes artık şunu!
+141|Söylediğin hiçbir şeyi anlamıyorum.\nHiçbir şeyin anlamı yok.
+142|Bu adil değil! Angie ile Tenko neden bu kadar\nadaletsiz bir şey yüzünden ölmek zorundaydı!?
+143|Çünkü <CLT=cltSTRONG>ölüm<CLT=cltNORMAL> adaletsizdir.
+145|Bütün ölümler <CLT=cltSTRONG>adaletsiz ölümlerdir<CLT=cltNORMAL>.
+146|Haber kanalları ölüm hakkında haber yaparken\nneden bu kadar yüksek reyting alıyor sence?
+147|Çünkü...herkes adaletsiz ölümleri sever.
+148|Eh, öyle bakarsan bütün bu öldürme oyunu\no felsefeyi somutlaştırıyor, değil mi?
+149|Öldürme oyunu oynamaya zorlanan yetenekli\nlise öğrencileri...
+150|Vay be! İnsanlar bunu izleseydi\nbayılırlardı!
+151|<CLT=cltMIND>İnsanlar bunu izleseydi mi...?
+152|Saçmalamayı kes! Bunu izlemekten ancak\nhasta pislikler zevk alır!
+153|Aynen! Bu öldürme oyununda olmasaydım\nizlerken çok eğlenirdim!
+154|Kehehe... Bu öldürme oyununun doğası\nhâlâ gizemlerle örtülü...
