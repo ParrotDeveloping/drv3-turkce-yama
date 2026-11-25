@@ -1,0 +1,59 @@
+@ chap5_text_US
+## c05_223_000
+26|Elektronik kilit mi?
+27|Evet, kapağı dışarıdan açamazsın.\nKokpite girmek imkânsız.
+28|Artık tatmin oldun mu?
+29|<CLT=cltMIND>...Az önce bana çok önemli bir\nşeyi netleştirdin, Maki.
+30|<CLT=cltMIND>Sonuçta bir şey biliyorsun\nve onu benden saklıyorsun!
+31|Exisal'ın kapağında elektronik kilit\nolduğunu nereden biliyorsun?
+33|...Çünkü soruşturma sırasında\nkontrol ettim.
+34|Bu doğru olamaz. Monokuma o kilitleri\nsadece bana söyledi.
+35|...Sadece sana mı?
+36|Anlıyorum. Eğer öyleyse...
+37|O zaman elektronik kilidi bilip bilmediğimi\nteyit etmek için yalan söyledin.
+38|...Evet, söyledim ve özür dilerim.
+39|Benden bir şey sakladığını düşündüm, Maki.\nŞüphemi teyit ediyordum.
+40|Şimdi lütfen. Bize doğruyu söyle.\nKapağı nereden biliyorsun?
+41|Monokuma sana açıklarken tesadüfen\nkulak misafiri oldum. O kadar.
+42|Yalan söylüyorsun, Maki.
+43|Kilitleri biliyorsun çünkü <CLT=cltSTRONG>kokpitlerden\nbirinin içinde<CLT=cltNORMAL> bulundun.
+44|Çok sinir bozucu... Ölmek mi istiyorsun?\nYalan söyleyen sensin!
+45|Ha? Bu şüpheli bir laf.\nAslında fail sen misin, Maki?
+47|Her iki durumda da elektronik kilit var,\nyani kapağı dışarıdan açamazsın.
+48|Bu yüzden kimse bir Exisal kullanarak\nhangara giremezdi.
+49|<CLT=cltMIND>Görünüşe göre... bunu asla kendi\nbaşına kabul etmeyecek.
+50|<CLT=cltMIND>Ağzını kapalı tutarak koruduğu\nönemli bir şey var.
+51|<CLT=cltMIND>Bu durumda üstüne gitmeye\ndevam etmeliyim.
+52|<CLT=cltMIND>Her kanıtı tek tek gözden geçirip\nne sakladığını bulmalıyım!
+53|<CLT=cltMIND>Yapabileceğim tek şey bu!
+54|Nyeeeh... Maki imkânsız diyor ama\nkapağı açmanın bir yolu var.
+55|Ah, sihrinle demek istiyorsun, değil mi?
+56|Artık öyle sönük bir şey söylemeyeceğim.\nSonsuza dek hayalperest kalamam...
+57|O kilit elektronik...\nYani bir <CLT=cltSTRONG>Elektro Çekiç<CLT=cltNORMAL> işe yaramaz mı?
+58|Bu bir Exisal'ı durdurup kapağını\naçmanı sağlar.
+59|Tabii ki... sihrim de bir seçenek.
+60|Sonuna kadar hayalperest, ha?
+61|Doğru, bir Elektro Çekiçle bu yöntem\nmümkün olabilir...
+62|Ama Elektro Çekiçler dün şarj oluyordu,\nyani bir Exisal'a binmek—
+63|Ah, dur! Elektro Çekiçlerin hepsi\nşarj olmuyordu!
+64|Dur, Elektro Çekiçlerin hepsi\nşarj olmuyordu!
+65|Biliyorum çünkü birini buldum.
+66|Monokuma'nın ve Exisal'ların yakınında\n<CLT=cltSTRONG>kullanılmış bir Elektro Çekiç<CLT=cltNORMAL> vardı.
+67|O Elektro Çekici üçüncü kişi mi\nkullandı!?
+68|Belki bir Exisal'ı devre dışı bırakmak için kullandı!
+69|Evet, bence öyle.
+70|Dün öğleden sonra onları gördüğümde\n<CLT=cltSTRONG>dört<CLT=cltNORMAL> Exisal vardı.
+71|Ama bu sabah sadece <CLT=cltSTRONG>üç<CLT=cltNORMAL> tane vardı.
+72|Ben de bunu fark ettim. Kayıp Exisal'ı\nbu üçüncü kişi mi aldı?
+73|Nii-hihi... Shuichi yaklaşıyor...
+74|Cevabı hemen şimdi söylesen nasıl olur?
+75|Kim yaptı? Bu üçüncü kişi kim?
+77|<CLT=cltMIND>Üçüncü kişinin\nkimliği...
+78|<CLT=cltMIND>Elektro Çekiç bize bir\nipucu veriyor.
+79|<CLT=cltMIND>Dün Kaito ile buluşmaya gittiğimde\nolay yerinde dört Exisal gördüm.
+80|<CLT=cltMIND>Bu sabah hangara girmeye çalışırken\nüç tane vardı.
+81|<CLT=cltMIND>Fail Elektro Çekici <CLT=cltSTRONG>dün öğleden sonra\nile bu sabah arasında<CLT=cltMIND> kullanmış olmalı.
+82|<CLT=cltMIND>İçimizde bunu yapabileceğini düşündüğüm\ntek bir kişi var...
+83|Kokichi...\nDemek baştan beri sendin...
+84|Ah, hadi amaaa.\nBen üçüncü kişiden bahsediyoruuum!
+85|Hatırlamaya çalış...

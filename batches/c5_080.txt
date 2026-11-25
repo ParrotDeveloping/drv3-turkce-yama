@@ -1,0 +1,58 @@
+@ chap5_text_US
+## c05_229_000
+238|Hey, bunların hepsini onlara söylemek\nbiraz haksızlık değil mi?
+239|Adaletin bununla hiçbir ilgisi yok.\nO bilgiyi tamamen inadına verdim.
+240|Beynin rolünü gasp edip oyunu ele\ngeçirmeye çalıştığın için sana inat!
+241|Neyse, boş ver. Hileli oynayan bir düşmanı\nyenmek zaten çok daha ilginç.
+242|N-Neler oluyor? Sanki onlar...\ngerçekten kavga ediyor gibi...
+243|Hiç şüphe yok.\nBeyin Kokichi değil.
+244|Bütün bu zaman boyunca sadece Kokichi'nin\nyalanlarıyla mı sürüklendik!?
+245|Beyin taklidi yaparak neyi başarmaya\nçalışıyordun, Kokichi?
+247|Nyeh! Şimdi de mi susacaksın!?\nBu çok sinir bozucu!
+248|O zaman beyin o değilse kim!?
+249|En başta bir beyin olduğundan neden\nbu kadar eminsin?
+252|Eh, bu bilmesi gerekenlerin bileceği bir şey\nve senin bilmene gerek yok.
+253|Ama ben bilmek istiyorum!
+254|<CLT=cltMIND><CLT=cltSTRONG>Gerçek beyin<CLT=cltMIND> Kokichi değil...\nKim olabilir?
+255|<CLT=cltMIND>Junko Enoshima olduğunu düşünüyordum\nama o olamaz.
+256|<CLT=cltMIND>O öldü. Onunla hiç temasımız\nolmadı.
+257|<CLT=cltMIND>Öyleyse... bunu kim yaptı?\nBu öldürme oyununu kim planladı?
+258|Neyse, bu konuşma raydan çıktı.\nİşleri tekrar yoluna koyalım.
+259|Bu sınıf duruşması beyni değil, failin\nkim olduğunu bulmak için.
+260|O yüzden, evet... Konuşmaya başlayın!
+261|Katılıyorum. Beynin kim olduğu ya da\nniyetimin ne olduğu için endişelenmeden önce...
+262|Faili bulalım!
+263|Ama Monokuma kim olduğunu bilmiyor.\nSonuçları nasıl doğrulayacak?
+264|Bunun için endişelenmemize gerek yok.\nKararı Monokuma'ya bırakalım.
+265|Ama... sınıf duruşmasını sen de yönetmelisin.\nYani hata yok, tamaaam mı?
+266|...Bana bir şey mi yaptırmaya çalışıyorsun?
+267|Bütün bu davaları çözmemizi izliyordun\nama artık seyirci olamazsın.
+268|Bundan sonra sınıf duruşmasına sen de\nkatılacaksın.
+270|O zaman bu sınıf duruşmasına devam edelim!\nMonokuma, sen de beynini kullanmalısın!
+271|Bu son sınıf duruşması olacak!\nBen Monokuma'ya karşı!
+272|Sen Monokuma'ya karşı mı?
+273|...Bir oyun oynadığımda kazanmak niyetindeyim.
+274|Ama bu oyunda kazanmak ne sayılır?\nDiğer oyuncuları yenmek mi?
+275|Hayır... oyunun beynini yenmek gerçek\nzaferdir.
+276|Ve ben böyle kazanacağım! Bu yüzden\nMonokuma'ya meydan okumaya karar verdim!
+277|Monokuma'yı sonuna kadar kandırabilirsem\nkazanan ben olurum!
+278|Sırf bir oyunu kazanabilmek için... bizi\nböyle peşinden mi sürüklüyorsun?
+279|Tahmin ettiğim gibi... Düşünce süreciniz\nher türlü mantığa aykırı.
+280|Ama dış dünya tamamen harabe olduğuna\ngöre elimizdeki tek eğlence bu oyun...
+281|En azından bu oyunun tadını sonuna kadar\nçıkarıp kazanmanın keyfini sürebilirim.
+282|Sen gerçekten bir Umutsuzluk Kalıntısısın...\nDüşünce tarzın tamamen kaotik.
+284|...Umutsuzluk Kalıntısı mı?
+285|Eh, neyse. Hadi başlayalım.
+286|Öğrenciler de Monokuma da failin kim\nolduğunu bilmiyorsa kazanan ben—
+287|Beni hafife alma.\nShuichi'yi ve diğerlerini de.
+289|Puhuhu... Oyunun kontrolünü ele geçirmeye\nçalışmak tam bir Umutsuzluk Kalıntısı'nın işi.
+290|Ama bu çocuklar Hope's Peak Akademisi'nden\ngeriye kalan her şey.
+291|Bunu senin için kolaylaştıracaklarını\nsanıyorsan bir daha düşün!
+292|Sen kimin tarafını tut—
+293|Taraf mı? Belli değil mi!?
+294|...Monokuma ekibinize katıldı.
+295|Nyeh!? Seni kim davet etti!?
+296|Şimdi güçlerimizi birleştirip bu davanın\nardındaki gerçeği çözelim!
+297|Eh, zaten bunu yapacaktık...
+298|Monokuma'yı görmezden gelelim. Hareketleri\nhep anlaşılmazdır.
+299|Evet! Sadece davaya odaklanalım!

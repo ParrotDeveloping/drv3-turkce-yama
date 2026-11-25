@@ -1,0 +1,56 @@
+@ chap5_text_US
+## c05_016_101
+13|Siz çocuklar bilmiyor olabilirsiniz ama benim gibi\nyüzde yüz pamuklu bir maskot için umut... Şey...
+14|Umutla dolup taşan gençlerin sırf hayatta\nkalmak için birbirini öldürdüğünü görme düşüncesi.
+15|Umutlarının sönüp gitmesini izlemek... Bundan\ndaha çok umutsuzluk veren bir şey yoktur...
+16|Sevgili öğrencilerim, insanlığın umudunu taşıyan...\nBirbirine ihanet eden, aldatan ve öldüren...
+17|Bu beni... ah çok üzüyor...
+18|Ah, herkesin kan ve gözyaşına bulanmış\numutsuz yüzlerini görmeyi ne çok özlüyorum...
+20|Yaptım işte.
+23|<CLT=cltMIND>Monokuma'nın o boş anonsundan sonra\nyataktan fırladım.
+24|Tamam... başlıyoruz.\nÖnce yemekhaneye.
+25|<CLT=cltMIND>Şarj olmuş Elektro Çekici kapıp\nodamdan koşarak çıktım.
+## c05_017_001
+0|<CLT=cltMIND>Burası kızlar tuvaleti. Ben erkeğim, oraya giremem!
+## c05_017_220
+2|<CLT=cltSYSTEM>*ding dong, dong ding...*
+3|Puhuhu... Puhuhuhuhuhuhu...
+5|Herkes lütfen Exisal hangarında toplansın!
+6|Ah-hahahahahahahaha! Öldürme oyunu\ndurmadan devam ediyor!
+7|Umutsuzluk henüz bitmedi!
+## c05_017_287
+0|<CLT=cltMIND>Herkes çoktan hangara gitmiş olmalı...\nGeç kalmamalıyım.
+1|...Kokichi bizi henüz fark etmedi.\nGelin, başlayalım.
+2|Acele et, Shuichi!
+3|B-Bu doruk noktasındaki son savaş!\nSihrimi gösterme zamanı!
+4|Yavaş olma! Gençsen hızlı hareket\netmelisin!
+5|...Geç kaldın. Sensiz başlamak\nüzereydik.
+6|Ne bekliyorsun!? Acele et de panele\nElektro Çekiçle vur!
+7|Yolda üç Exisal'ı gördün mü?\nNedense hareket etmiyorlardı...
+8|Neyse, bu hangarın içinde iki tane daha\nvar, o yüzden dikkatli olalım.
+9|Shuichi, acele et! İçeri girmeden önce\nbariyeri devre dışı bırakmalıyız!
+10|<CLT=cltMIND>Exisal'larla sonra ilgilenirim.\nŞimdilik ilerlemeye devam etmeliyim.
+11|Buna vakit yok!\nKontrol paneline vur lütfen!
+19|Shuichi, nereye gidiyorsun!?\nVaktimiz yok, biliyor musun!?
+20|Ha?\nBu... bir Elektro Çekiç mi?
+21|<CLT=cltMIND>Burada neden bir Elektro Çekiç var?
+22|<CLT=cltMIND>...Hayır, ayrıntılar sonra.\nİlerlemeye devam etmeliyim.
+23|<CLT=cltMIND>Bu Elektro Çekiç huzursuz edici...\nama ilerlemeye devam etmeliyim.
+24|Ne yapıyorsun, Shuichi?\nKaito'yu kurtarmalıyız!
+25|<CLT=cltMIND>Şimdi Kaito'ya seslenmek tehlikeli.\nKokichi bizi bulursa bütün bunlar boşa gider.
+26|Acele et, Shuichi! Yoksa Kokichi bizi fark edecek!
+27|Tamam...\nKontrol paneline bununla vurursam...
+28|<CLT=cltMIND>Elektro Çekici kaldırırken birden\nfark ettim ki...
+30|<CLT=cltMIND>Kontrol paneli sanki keskin bir şeyle\nhasar görmüş gibi izlerle kaplıydı...
+31|Shuichi, ne yapıyorsun? Acele et.
+32|Ö-Özür dilerim. Tamam!
+33|<CLT=cltMIND>Şimdi düşünecek vakit yok.
+34|<CLT=cltMIND>Kontrol paneline nişan alıp olabildiğince\nsert bir şekilde indirdim.
+35|Elektrikli bariyer kapandı!
+37|<CLT=cltMIND>Hepimiz aynı anda kepenge koştuk.
+38|Artık Kokichi'nin istediğini yapmasına\nizin vermeyeceğiz!
+39|Hazır olsan iyi olur! İşte bu!
+40|<CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL> burada ve şimdi sona eriyor!
+41|<CLT=cltMIND>Kepengi açtıktan sonra ellerimizde Elektro\nÇekiçlerle hangara daldık...
+42|<CLT=cltMIND>...buna son vermek için.
+43|<CLT=cltMIND>Bu öldürme oyununa son vermek için.

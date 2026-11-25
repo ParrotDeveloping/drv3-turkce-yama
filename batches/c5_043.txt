@@ -1,0 +1,46 @@
+@ chap5_text_US
+## c05_100_220
+261|<CLT=cltMIND>Şey... fail bu cinayeti planlıyorduysa\nbunun ona bir faydası olmazdı.
+283|Exisal_Yeşil
+284|Exisal_Pembe
+285|Exisal_Sarı
+286|Exisal_Mavi
+287|<CLT=cltMIND>Hangarın tam ortasında bir\nExisal var...
+288|<CLT=cltMIND>Kapağı da açık.\nKokpit açıkta.
+289|Demek içeriden böyle görünüyor, ha?\nKüçük... ama bir kişiye yetecek kadar büyük.
+290|Ha? Kapak açık mı?
+291|Ne tuhaf. Elektronik kilidi kapatıp kapağı\nsadece Monoyavrular açabilir.
+292|Kapağı sadece Monoyavrular mı açabilir?
+293|Normalde Exisal'ları kullanabilenler\nsadece Monoyavrulardır.
+294|Anahtar kelime "normalde".
+295|Ama o Elektro Çekiç denen şey yüzünden\nelektronik kilit tamamen bozuldu.
+296|...Bunu başka birine söyledin mi?
+297|Hayır. Kimse de bana sormadı.
+298|Ve sorulsaydı bile zaten sizin için\nalakasız bir bilgi olurdu.
+299|<CLT=cltMIND>Kapakta sadece Monoyavruların devre dışı\nbırakabileceği bir elektronik kilit...
+300|<CLT=cltMIND>Exisal'ları sadece Monoyavruların kontrol\nedebilmesinin sebebi bu olmalı.
+301|<CLT=cltMIND>Ama... kilidi devre dışı bırakabilirsen...
+302|Exisal'ı kontrol edebilirsin...
+303|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kapağın Elektronik Kilidi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+307|Ama kapağın elektronik kilidini sadece\nMonoyavrular devre dışı bırakabilir.
+308|Yani Exisal'ları sadece onlar kontrol edebilir.
+309|<CLT=cltMIND>Ama öte yandan...
+310|<CLT=cltMIND>Kilidi devre dışı bırakabilirsen...\nExisal'ı kontrol edebilirsin.
+313|<CLT=cltMIND>Presin içinden bir kol çıkıyor.\nBu... kesinlikle...
+314|<CLT=cltMIND>Kaito'nun ceketinin kolu.
+315|<CLT=cltMIND>Bu durumda... kurban kesinlikle...
+317|<CLT=cltMIND>Yapmak istemiyorum... ama cesedi incelemek\niçin presi kaldırmalıyım.
+318|<CLT=cltMIND>Presin içinden bir kol çıkıyor.\nKesinlikle Kaito'nun ceketinin kolu.
+320|Hayır... bu henüz kesinleşmedi.\nDaha fazla incelemem lazım.
+321|<CLT=cltMIND>Görünüşe göre... hidrolik presten çıkan\nsol kol.
+322|<CLT=cltMIND>Sadece kol dışarı çıkıyor.\nKurbanın vücudunun hiçbir kısmı görünmüyor...
+323|<CLT=cltMIND>Tamamen mi ezildiler?\nSadece kol kalacak şekilde?
+325|<CLT=cltMIND>Kolda... tek, küçük bir delik\nvar.
+326|Koldaki bir delik...\nBu ne olabilir?
+327|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kaito'nun Ceketi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+332|<CLT=cltMIND>Yakından bakınca kolda tek,\nküçük bir delik var.
+334|<CLT=cltMIND>Belirleyebildiğim... bu kadar. Cesedi\ninceleyemediğim için pek ipucum yok.
+335|Başka yerlerde daha fazla ipucu bulmalıyım.
+336|<CLT=cltMIND>Bu ne? Bir kan lekesi mi?
+337|<CLT=cltMIND>Prese doğru giden soluk bir kan izi var.\nSanki sürüklenmiş gibi bir iz...
+338|<CLT=cltMIND>Banyodan geliyor gibi\ngörünüyor.

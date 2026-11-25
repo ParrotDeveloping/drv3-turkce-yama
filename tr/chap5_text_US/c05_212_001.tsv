@@ -1,3 +1,40 @@
 0	<CLT=size2>yalan
 1	Suçlu ben değilim!
 2	suçlu
+3	<CLT=size2>fail değilim!
+4	<CLT=size2>Evet,
+5	Evet, tamamen katılıyorum!
+6	Tamamen\n<CLT=size2>katılıyorum!
+7	<CLT=size2>Ben sadece
+8	Ben sadece çantayı taşıdım...
+9	<CLT=cltWEAK>çantayı\ntaşıdım<CLT=cltNORMAL>...
+10	Evet,\nevet!
+11	Evet, evet! Bu da doğru!
+12	Bu da <CLT=size2>doğru<CLT=size1>!
+13	Ve ben
+14	Ve ben arbaleti kullanmadım bile...
+15	<CLT=cltAGREE>arbaleti kullanmadım\n<CLT=cltNORMAL>bile...
+16	<CLT=size2>Hı-hı!\n<CLT=size1>Bir başka
+17	Hı-hı! Bir başka doğru ifade!
+18	<CLT=size2>doğru<CLT=size1>\nifade!
+19	Ve <CLT=size2>hepsi bu!
+20	Ve hepsi bu! Hangarda başka hiçbir şey yapmadım!
+21	<CLT=cltAGREE>Hangarda <CLT=size2>başka hiçbir
+22	<CLT=cltAGREE><CLT=size2>şey yapmadım<CLT=size1>!
+23	<CLT=size2>Yüzde\n<CLT=size1>yüz
+24	Yüzde yüz tamamen doğru!
+25	<CLT=size2>tamamen doğru!
+26	Bütün bunlar neden\nbu kadar <CLT=size2>şüpheli...?
+27	Bütün bunlar neden\nbu kadar şüpheli...?
+28	<CLT=size3>Nyeeeh!
+29	Nyeeeh! Çünkü Kokichi susmuyor!
+30	Çünkü <CLT=size2>Kokichi\nsusmuyor!
+31	<CLT=size2>Kafamdan çık,\n<CLT=size1>Kokichi!
+32	Kafamdan çık, Kokichi!
+33	Ama... arbaleti\nsen getirdin...?
+34	Çantayı mı taşıdın...?
+35	Ama neden...?
+36	O zaman neden\nsendeydi?
+37	Başka bir şey...?
+38	Bu pek olası görünmüyor...
+39	Evet!\nHepsi benim suçum!

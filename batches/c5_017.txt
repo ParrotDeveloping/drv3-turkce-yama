@@ -1,0 +1,56 @@
+@ chap5_text_US
+## c05_010_007
+128|Siz arkadaşlarınızın size ihanet etme\nkorkusuna yenilmezsiniz, değil mi?
+129|Birlikte savaşma kararlılığınızı gösterdiniz\nve az önceki tavsiyemi görmezden geldiniz.
+130|...Ve sırf bu teoriyi test etmek için hepimizi\nöldüreceğin konusunda yalan mı söyledin?
+131|Evet, bu yüzden elinizden gelenin en\niyisini yapmanızı istiyorum.
+132|Saçmalamayı kes! Ne diyorsun sen!?\nMuhtemelen Miu ile konuştuğun konusunda da yalan söyledin—
+133|Ah, bu arada, Miu'nun yaptığı tek şey\nElektro Çekiçler değildi...
+134|Bunu da yaptı.
+135|O bombayı da mı?
+136|Nii-hihi... Ama *tam olarak* bir bomba değil.\nAdı <CLT=cltSTRONG>Elektro Bomba<CLT=cltNORMAL> olsa bile...
+137|Elektromanyetik dalgalara müdahale eden\nparçacıklar saçarak elektronik sinyalleri bozuyor.
+138|İki saat boyunca 50 metre içindeki tüm\nelektronik cihazlar tamamen devre dışı kalıyor.
+139|Hiç kalıntı bırakmadığı için her türlü\ngizli faaliyet için de mükemmel.
+140|Bu icat olağanüstü! Ama bende sadece\nüç tane var...
+141|O yüzden dikkatli kullanmalıyım. Siz\nElektro Çekiçlerle yetinmek zorundasınız.
+142|Yetinmek mi...? Böyle şüpheli görünen\nçekiçleri kullanmaya hiç niyetimiz yok.
+143|Emin misiniz? Bu Elektro Çekiçleri sadece\nMonokuma'ya karşı değil...
+144|...o yeraltı tünelinden geçmek için de\nkullanabilirsiniz.
+145|Yeraltı tüneli mi?
+146|Oradaki elektronik tuzakları yok etmek için\nElektro Çekiçleri kullanabilirsiniz.
+147|B-Bu... doğru mu!?
+148|Ah? Sonunda bana inanmaya mı başlıyorsunuz?
+149|Ama dikkatli olun. Elektro Çekiçlerin\npili epey çabuk bitiyor.
+150|Yani bir Exisal'a karşı kullanırsanız tek\nvuruşta şarjı biter, anladınız mı?
+151|Pil bitince tamamen şarj olması 24 saat\nsürüyor, o yüzden buna dikkat edin.
+152|Neyseee, açıklamam bitti, o yüzden Elektro\nÇekiçleri size teslim ediyorum...
+153|Konuşup tartışmanızı size bırakıyorum.\nArtık karışmayacağım da.
+154|K-Karışmayacak mısın...?
+155|Uzaktan izleyeceğim... ya da öyle bir şey.\nZaten etrafta olmamı istemiyorsunuz.
+156|B-Bekle, yine kaçmadan önce...\nSana sormam gereken bir şey var.
+157|Avludaki o yazı neydi?
+158|Gonta'nın bulduğu o mesaj.\n"Bu dünya benim" yazıyordu sanırım.
+159|Onu sen mi yazdın?
+160|Ve yazdıysan... neden?
+161|Hm, o ne? Hiçbir fikrim yok.
+162|A-Aptalı oynama! Üstünde senin adın var!\nYapan sen olmalısın!
+163|Ama öyle bir mesaj yazmaktan hiçbir\nkazancım olmaz, değil mi?
+164|Bu sadece <CLT=cltSTRONG>beyin<CLT=typeNORMAL> olduğumdan\nşüphelenmenize yol açar.
+165|Beyin mi?
+166|Evet... "Bu dünya benim. Kokichi Oma"\nbeni beyin gibi gösterir...
+167|Ah, biliyorum! Bunların hepsi Monokuma'nın işi.\nBirbirimizden şüphelenmemizi sağlamaya çalışıyor!
+168|Ama merak etmeyin.\nBu öldürme oyununu gerçekten bitirmek—
+169|<CLT=cltMIND>Birden karanlık bir gölge şimşek\nhızıyla aramıza girdi...
+171|Bize doğruyu söyle. Ne planlıyorsun?
+172|D-Dediğim gibi, sadece bu öldürme\noyununu bitirmek istiyorum, o kadar...
+173|Bize doğruyu söylemezsen\nseni kırarım.
+175|Maki Rulo, kes şunu! Kesmezsen\nöldürülürsün!
+176|Bu öldürme oyununu oynayamayız dedim!\nMonokuma'nın istediği tam olarak bu!
+178|<CLT=cltMIND>Maki bıraktı ve Kokichi'nin bedeni\nyere yığıldı.
+179|Hay Allah... ç-çok kötüsün. Bir arkadaşa\nböyle bir şeyi nasıl yaparsın?
+180|...Arkadaş mı? Hayal et.
+181|S-Siz öyle düşünmeyebilirsiniz\nama ben... hepinizi arkadaşım olarak görüyorum...
+182|B-Bu yüzden... geri döneceğim.
+183|Artık karışmayacağım... O yüzden lütfen...\ninandığınız yolda yürümeye devam edin.
+184|<CLT=cltMIND>Kokichi kendini toparlayıp sendeleyerek\nçıkışa yürüdü.

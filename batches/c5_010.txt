@@ -1,0 +1,69 @@
+@ chap5_text_US
+## c05_002_287
+52|İçerideki kontrol panelini kullanarak alarm sistemini\nve elektrikli bariyeri yeniden açabilirsiniz...
+53|...ya da sadece buradaki kontrol panelini kullanın. Ya da\nhiçbir şey yapmayın, bariyer ve alarm kapalı kalır.
+54|Pekala o zaman, iyi yolculuklar!
+55|<CLT=cltMIND>...Bizi bu sıkı korunan alana\nöylece aldı. Oyunu ne?
+60|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.\nSanırım bunlara hiçbir zaman alışamayacağım.
+61|<CLT=cltMIND>Acil durum ışıkları yanıyor.\nAlarm sisteminin bir parçası.
+## c05_003_002
+1|<CLT=cltMIND>Çok uğraştım, Kaede...\nUğraştım, onları korumaya çalıştım...
+## c05_003_010
+0|Herkes burada mı!? Millet, bu ciddi!
+1|Evet, <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı buldun,\ndeğil mi? Hadi kullanalım artık!
+2|Ah... pardon. <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> değil...
+3|...Değil mi? Açıkçası bütün bunların onunla\nilgili olduğunu sanıyordum.
+4|O zaman neden hepimizi buraya çağırdın!?\nTuvalete gitmem lazımdı!
+5|Ben... epey ciddi bir şey buldum.\nHerkese hemen söylemem gerektiğini düşündüm...
+6|<CLT=cltMIND>Epey ciddi mi?
+8|Hey... Kokichi'yi gören oldu mu?
+9|H-Hayır, görmedim ama...
+10|Anlıyorum... Nereye gitmiş olabilir?
+15|Bir kez daha ne kadar az kişi kaldığımızı\nhatırlıyorum...
+16|Eskiden hepimizin toplanması epey zaman\nalırdı. Ama artık öyle değil...
+17|Acele edip şunu bitirelim.\nT-Tuvalete gitmem lazım.
+18|Tsumugi'nin bahsettiği bu ciddi şeyin\nne olduğunu bilmiyorum...
+19|Ama görünüşe göre henüz kimse <CLT=cltSTRONG>Geri\nDönüş Işığı<CLT=cltNORMAL> bulamadı.
+20|Peki ne buldun?
+21|Gonta'nın avluda bulduğu o harfler...\nYine üstlerine yenileri eklenmiş.
+22|Avludaki harfler mi?
+23|Görünüşe göre mesaj artık tamamlanmış.\nSonunda okuyabiliyoruz.
+24|Ve şöyle yazıyor...
+25|"Bu dünya benim..."
+26|"Bu dünya benim. Kokichi Oma"
+27|Orada yazan bu.
+28|...Bu dünya benim mi?
+29|N-Neler oluyor?\nKokichi'nin adı neden—
+30|Heh, demek anlamı buymuş. Hepsi Kokichi'nin\nbir şakasıymış.
+31|...Şaka mı?
+32|Sırf bizimle dalga geçmek için o mesaja\nekleme yapıp durmuş.
+33|Cidden... ne kadar sorunlu bir herif.
+34|Nyeeeh... anlıyorum. Bu kesinlikle Kokichi'nin\nyapacağı bir şey gibi.
+35|<CLT=cltMIND>Bu doğru ama...\nmesele sadece bu mu?
+36|<CLT=cltMIND>Gonta yazıyı ilk bulduğunda\nsadece şunu yazıyordu...
+37|<CLT=cltMIND>"bu dü"
+38|<CLT=cltMIND>Zamanla daha fazla harf eklendi.
+39|<CLT=cltMIND>Sonunda şöyle oldu...
+40|<CLT=cltMIND>"Bu dünya benim.\nKokichi Oma"
+41|<CLT=cltMIND>Bunu gerçekten sadece Kokichi'nin\nşakalarına bağlayabilir miyiz?
+42|Neyse, Kokichi kimin umurunda. Daha önemlisi,\n<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> ne olacak?
+43|Görünüşe göre henüz kimse bulamadı.
+44|Belki... bu da Kokichi'nin suçudur?\nMuhtemelen önce o bulup sakladı.
+45|Hm, bu mümkün.
+46|Bir şey yapıp onu bulmalıyız—
+47|Hayır, onunla uğraşmaya gerek yok...
+48|Onun gibi herifleri idare etmenin en iyi yolu\ngörmezden gelmek. O yüzden bırakalım onu.
+49|Öyle diyorsun ama aramızda en çok\nkızan sendin.
+50|Hayır... az önce düşündüğüm\nbir şey vardı.
+51|Düşündüğün mü?
+52|Size söylemek için henüz biraz erken\nama...
+53|Neyse, bana bırakın. Sizin endişelenmenize\ngerek yok.
+54|Her şeyi çözeceğim.
+55|Neyi çözeceksin...?
+56|Yani, sizi buradan çıkaracağım.
+57|<CLT=cltMIND>Kaito... bizi buradan mı çıkaracak?
+58|Nyeeeh, yine o pervasız özgüven.
+59|Pervasız mı?
+60|Heh, hiç anlamıyorsunuz.\nHay Allah, kahramanlar hep yanlış anlaşılır.
+61|Kahraman ya da her neyse, önemli değil...\nSadece aşırıya kaçma.
+62|Evet, bana bırak!

@@ -1,0 +1,52 @@
+@ chap5_text_US
+## c05_100_220
+160|<CLT=cltMIND>Pekala, buradaki her bir kanıtı\ntek tek inceleyeceğim!
+161|N-Ne? Ben... şu an seninle konuşmak\nistemiyorum, tamam mı?
+162|Şu anki halinle... Kaito'nun ölümüne inanamadığın\niçin insanları suçlamaya başlayabilirsin...
+163|H-Hayır, öyle değil...
+164|Bahanelerini duymak istemiyorum!\nYa da başka bir şeyi! Sadece benimle konuşma!
+165|Beni rahatsız etmeye devam edersen...
+166|Sihrimle saçını afro yaparım!
+167|<CLT=cltMIND>Çok inatçı...\nArtık her şeyden bu kadar mı şüpheleniyor?
+168|<CLT=cltMIND>Yoksa... kimseyle konuşmak istememesinin\nbir sebebi mi var?
+169|Seninle konuşmak istemiyorum! Beni rahatsız\netmeye devam edersen Patlama Büyümü kullanırım!
+172|...Kaç kez sorarsan sor seninle\ninceleme yapmayacağım.
+173|Ama Maki, bir sonuca varmak için çok\nerken olduğunu düşünmüyor musun...?
+176|Buna gerçekten inanıyorsan o zaman...\nkendi yönteminle incelemelisin.
+177|Ben de... aynısını yapıp kendi yöntemimle inceleyeceğim.
+180|<CLT=cltMIND>Kaito'nun ölümünü neden böyle\nkolayca kabul ediyorsun?
+184|Bu seferki Monokuma Dosyası'nda...\nneredeyse hiç bilgi yok.
+185|Evet, bize pek faydası olmayacak.
+186|O kadar işe yaramaz ki muhtemelen onu bize\nvermek için zahmete bile girmemeliydi...
+187|Sorun yok, sorun yok.
+188|Bir maskotun cinayet mahallinde ortaya çıkması\nrahatlama ve iç huzuru getirir.
+189|Vah! Ortaya çıktı!
+190|Ne ilgi meraklısı...
+191|Tabii ki ilgi istiyorum!\nBen maskotum, Allah aşkına...
+192|Ve yine de şuradaki Sıradan Tsumugi'den\ndaha az ortaya çıktım.
+193|Olabildiğince sık ortaya çıkmazsam yanıltıcı\nreklam olur, biliyor musunuz?
+194|R-Reklam mı? Ne reklamı?
+195|...Görmezden gel.\nSadece soruşturmaya odaklanalım.
+197|Bu Monokuma Dosyası'nda yeterli bilgi yok...\nÖlüm sebebini de ölüm saatini de bilmiyoruz.
+198|Fail muhtemelen Kokichi ama... sınıf\nduruşması için endişeleniyorum.
+205|<CLT=cltMIND>Öncekiyle aynı görünüyor...\nMuhtemelen davayla ilgili değil.
+207|<CLT=cltMIND>Bir süredir kullanılmamış gibi\ngörünüyor. Hiç ipucu göremiyorum.
+209|<CLT=cltMIND>Şimdi düşününce...
+211|<CLT=cltMIND>Kaito'nun hapsedildiği yer\nburası.
+212|<CLT=cltMIND>Kaito burada bir çeşit ipucu\nbırakmış olabilir—
+213|Ah, hayır... hiçbir şey "bırakmadı"...\nÖlmemiş olabilir...
+214|<CLT=cltMIND>Neyse... içeriyi incelemeliyim.
+215|Hidrolik Pres Kalkışı
+216|<CLT=cltMIND>Hidrolik pres aşağıda.\nVe etrafta kan var.
+217|<CLT=cltMIND>Bu hidrolik pres bu düğmelerle\nkontrol ediliyor.
+218|<CLT=cltMIND>Bunu hidrolik presi kaldırmak için kullanırsak\ncesede bakabilmeliyiz...
+219|Ama ben... bunu... pek yapmak istemiyorum...
+222|<CLT=cltMIND>Ama güç kablosu kesilmiş.\nPres hareket etmiyor.
+223|<CLT=cltMIND>Bu durumda... cesede\nbakamayacağız.
+224|<CLT=cltMIND>Bu kontroller hidrolik presi hareket ettiriyor.\nYukarı çıkabiliyor, aşağı inebiliyor ve durabiliyor.
+225|<CLT=cltMIND>"Yukarı" düğmesini kullanarak presi kaldırıp\ncesede bakabilmeliyim...
+226|...Kim olursa olsun ezilmiş bir ceset\ngörmek istemiyorum...
+227|ama yapmak zorundayım.
+228|Ben... bilmek zorundayım.
+229|<CLT=cltMIND>Kararımı verdim, bir nefes aldım\nve düğmeye bastım.
+231|...Ha? Hareket etmiyor mu?

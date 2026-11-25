@@ -1,0 +1,53 @@
+@ chap5_text_US
+## c05_014_010
+23|Kokichi'nin anılarımızı silme konusunda\nçok kasıtlı davrandığından şüpheleniyorum...
+24|Çünkü Hope's Peak Akademisi'ni hatırladığımıza\ngöre artık yeni bir güç kazandık.
+25|Hm, Kokichi <CLT=cltSTRONG>umudun<CLT=cltNORMAL> gücünü uyandırmamızdan\nkorkuyordu.
+27|Hadi yapalım, Shuichi! Kaito'yu kurtaralım\nve Kokichi'yi durduralım!
+29|<CLT=cltMIND>Bu... bir Geri Dönüş Işığı mı?\nMaki'de neden var?
+30|<CLT=cltMIND>Bunu Maki'ye sormalıyım.
+42|Maki... onu neden sende?
+43|Bu sabah yemekhaneye gittiğimde masanın\nüstündeydi.
+44|Öylece... orada mı duruyordu?
+45|Muhtemelen Kokichi oraya koymuştur...
+46|Belki... gerçeği teyit etmek için?
+47|O Geri Dönüş Işığı'nı kullanırsak onun hikâyesini\ndoğrulayan anıları geri kazanabiliriz...
+48|Yani Kokichi'nin bize söylediği <CLT=cltSTRONG>gerçeği<CLT=typeNORMAL> teyit\netmek için <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=typeNORMAL>'nı mı kullanacağız...
+49|Hiçbir şeyi teyit etmemize gerek yok...\nDış dünyayı... kendi gözlerimizle gördük...
+51|Rahatça... ölmek mi istiyorsun?\nSana yardım edebilirim ama...
+52|Önce bu Geri Dönüş Işığı'na bakmalıyız.
+54|Bunu neden yapmak zorundayız?
+55|Şu an yapabileceğimiz tek şey bu.
+56|Öleceksek elimizden gelen her şeyi yapsak\niyi olur. Böylece hiç pişmanlığımız olmaz.
+57|Ve... tehlikeli olsa bile artık önemi\nolmaz, değil mi?
+58|Her iki durumda da kaybedecek bir şeyimiz yok...\nHiç umudumuz kalmadı.
+59|O yüzden yapabileceğimizi yapalım.
+61|Peki, tamam... İşler şu ankinden daha\nkötü olamaz.
+62|Peki beni öldürdüğünde... uykuya\ndalıyormuşum gibi mi olacak?
+63|...O zaman karar verildi. Keebo, Shuichi...\nsizin için sorun var mı?
+64|Evet... Pekala o zaman.
+66|<CLT=cltMIND>Ve böylece oldukça zahmetsizce\nkarar verildi.
+67|<CLT=cltMIND>Birden bir Geri Dönüş Işığı ortaya çıktı.\nBundan daha bariz ve şüpheli bir şey olamazdı.
+68|<CLT=cltMIND>Ama ruhumuz zaten kırılmış olduğu için\nkaybedecek hiçbir şeyimiz yoktu...
+69|Tamam... açıyorum.
+70|<CLT=cltMIND>Maki <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND>'nı açtı.
+71|<CLT=cltMIND>Ve o anda...
+72|<CLT=cltMIND>Dünya—
+73|<CLT=cltMIND>Alt üst oldu—
+74|<CLT=cltMIND>İçi dışına çıktı—
+75|<CLT=cltMIND>İşte... İşte bu!
+76|<CLT=cltMIND>Hatırlıyorum!
+77|<CLT=cltMIND>Her şey... birbirine... bağlı...
+78|<CLT=cltMIND>Ve biz... unutmuştuk...
+79|<CLT=cltMIND><CLT=cltSTRONG>Her şeyin birbirine bağlı olduğunu<CLT=cltMIND>\nunutmuştuk!
+80|<CLT=cltMIND>Her şey <CLT=cltSTRONG>o akademide<CLT=cltMIND> başladı...
+81|<CLT=cltMIND>Çeşitli alanlarda en yetenekli öğrencileri\nyetiştiren, devlet destekli bir okul...
+82|<CLT=cltSTRONG>Hope's Peak Akademisi<CLT=cltMIND>.
+83|<CLT=cltMIND>Ve o okulu paramparça eden olay...\ndünyayı değiştirdi.
+84|<CLT=cltMIND>İnsanlık tarihinin en büyük, en korkunç,\nen trajik olayı.\n
+85|<CLT=cltMIND>Dünya çapında bir terör ve savaş dalgası başlattı.\nİnsanlığın gerçek <CLT=cltSTRONG>umutsuzluğu<CLT=cltMIND>.
+86|<CLT=cltMIND>Korkunç şiddet sonucunda dünyanın\nyarısı yok oldu.
+87|<CLT=cltMIND>Ve o trajediye tek bir liseli kız\nsebep oldu.
+88|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Umutsuzluk<CLT=cltMIND>, Junko Enoshima.
+89|<CLT=cltMIND>Dünyayı umutsuzluğa boyamak için\nher yolu kullandı.
+90|<CLT=cltMIND>Hope's Peak Akademisi'nin 78. sınıfının\nöldürme oyunu da aynı şekildeydi.

@@ -1,15 +1,67 @@
 0	...
 1	...
+2	<CLT=cltMIND>Kaito hâlâ gözlerime bakmıyor...
+3	<CLT=cltMIND>Onunla konuşmak garip olacak.
+4	Merdivenlerden inerken beni sırtında\ntaşısan nasıl olur?
+5	<CLT=cltMIND>Hâlâ bunu mu söylüyor?
+6	Sırf oyun parkına benzeyen bir oda için\nbize o kadar merdiven çıkarttılar...
+7	Büyük bir vakit kaybı gibi geliyor ama\nişe yarar bir şey var mı diye bakalım.
 8	<CLT=cltMIND>Buralarda biraz daha araştırma yapacağım.
 9	Evet
 10	Hayır
 11	Emin olmadığın bir şey mi var?
 12	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+13	Bu inanılmaz...\nBir uzay gemisinin kokpitine benziyor.
+14	Epey havalı! Araştırma laboratuvarım\niçin mükemmel!
+15	Bunu kullanabiliyor musun? Yani, muhtemelen\nsadece bir simülatör ama...
+16	Evet... bu makineyi hiç görmedim ama\nbuna benzer bir şeyle eğitim aldım...
+17	Neyse, sanırım her şey yoluna girer!
+18	Ne pervasız bir özgüven... Senin kullandığın\nhiçbir araca binmek istemem.
+19	Ama vay be. Bu gerçekten bir simülatör mü?\nFazla ayrıntılı gibi geliyor...
+20	Yok, gerçek olmasının imkânı yok.\nYani neyi çalıştıracak ki?
+21	<CLT=cltMIND>O anda...
+22	Hey. Gelip şuna bakın.
+23	Ha? Bir sorun mu var?
+24	Bunu arkada buldum...
+25	Bu ne? Bir dosya mı?
+26	Gofer Projesi mi!?
+27	<CLT=cltMIND>Dünyanın dört bir yanından ülkeler göktaşı\nsavunma planı oluşturmak için birlikte çalıştı.
+28	<CLT=cltMIND>Ama hiçbirimiz bunun ayrıntılarını\nhatırlayamıyoruz.
+29	Yani bu dosyada proje hakkında\nbilgi mi var...?
+30	Peki ne yazıyor!?
+31	D-Durun, okuyacağım...
+32	Bakalım...
 33	<CLT=cltMIND>Gofer Projesi.
 34	<CLT=cltMIND>İnsanlığı uzaydan yağan felaketten\nkurtarmak için son umut.
 35	<CLT=cltMIND>Bu zorunlu projenin yükünü taşıyanlar\n<CLT=cltSTRONG>olağanüstü yetenekli kızlar ve erkekler<CLT=cltMIND>.
+36	<CLT=cltMIND>Gofer Projesi'nin amacı bu.
 37	...
+38	Ş-Şey... ya gerisi?\nNe yazıyor!?
+39	Bizi merakta bırakma! Söyle artık!
+40	Gerisi karalanmış,\ndaha fazlasını okuyamıyorum.
 41	Nyeh!? Ne dedin!?
+42	Bunu Monokuma mı yaptı!?\nKahretsin, bizimle oynuyor!
+43	Sizce şu <CLT=cltSTRONG>olağanüstü yetenekli kızlar\nve erkekler<CLT=cltNORMAL> kısmı...
+44	...bizi mi kastediyor?
+45	Peki <CLT=cltSTRONG>geleceğin umut tohumları<CLT=cltNORMAL> ne anlama gelebilir?
+46	Ve bu <CLT=cltSTRONG>yeni dünya<CLT=cltNORMAL> olayı ne?
+47	Bu... Nuh'un Gemisi gibi.
+48	Ha? Nuh'un Gemisi mi?
+49	Şey... Nuh'un Gemisi gofer ağacından yapılmıştı.
+50	Ne? A-Ah evet! Haklısın!
+51	Tabii ki bu sadece Kutsal Kitap'tan bir hikâye.\nAma özellikle o ismi seçmek...
+52	Bağlantılı gibi görünüyor...
+53	<CLT=cltMIND>Ama bütün bunların akademiyle ne\nilgisi var? Bizimle?
+54	Çık, bunların hiçbiri mantıklı değil.
+55	Sıradaki <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı bulursak\nbununla ilgili bir şey hatırlayabiliriz...
+56	Sen söyleyince... nerede o?\nBu laboratuvarda değil gibi...
+57	Yani başka bir yerde olmalı!\nÖnce onu aramalıyız.
+58	Haklısın... Burası artık bizim için işe yaramaz.
+59	Bunu duymamış gibi yapacağım...\nÇünkü <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı bulmalıyız!
+60	<CLT=cltMIND>Bir <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND>...\nSon umudumuz.
+61	<CLT=cltMIND>Ama o Monokuma'nın yarattığı\nbir şey...
+62	<CLT=cltMIND>Monokuma'nın dokunduğu bir şeye\nbağımlı olmak istemiyorum.
+63	<CLT=cltMIND>Ama yapabileceğimiz bir şey yok.\nAnılarımızı geri getirmenin başka yolu yok.
 64	<CLT=cltMIND>Bir uzay gemisinin kokpitine benziyor...\nTabii ki sadece bir simülatör.
 65	<CLT=cltMIND>Asıl kafamı kurcalayan şey Maki'nin\nlaboratuvarında bulduğum şey...
 66	Bu belge Gofer Projesi hakkında\nbilgi içeriyor.
@@ -22,7 +74,28 @@
 73	<CLT=cltMIND><CLT=cltSTRONG>"Olağanüstü yetenekli kızlar ve erkekler"<CLT=cltMIND>...\nBu biz miyiz?
 74	<CLT=cltMIND><CLT=cltSTRONG>Geleceğin umut tohumları<CLT=cltMIND> mı?\n<CLT=cltSTRONG>Yeni bir dünya bulmak<CLT=cltMIND> mı...?
 75	<CLT=cltMIND>Sanki... Nuh'un Gemisi gibi.
+76	<CLT=cltMIND>Bunun Ultimate Akademi ile ne ilgisi var?
+77	<CLT=cltMIND>Büyük bir makine, belki bir\nplanetaryum için.
+78	<CLT=cltMIND>Bununla tavana yıldız yansıtabilirsin.\nEpey bir tesis.
+79	<CLT=cltMIND>Bir pencere var...\nOkulu ve avluyu görebiliyorum.
+80	Epey yüksek... Ama sanırım merdivenin\nboyundan bu belli.
+81	Görünüşe göre burası en üst kat.
+82	Yani benim odam en tepede mi!?
+83	Evet, ne olmuş?
 84	<CLT=cltMIND>Pencere okul binasına ve avluya\nbakıyor.
 85	<CLT=cltMIND>Yukarıda bir şey yok...\nGörünüşe göre burası en üst kat.
+86	<CLT=cltMIND>Bir pencere var...\nOkulu ve avluyu görebiliyorum.
+87	Epey yüksek... Ama sanırım merdivenin\nboyundan bu belli.
+88	Görünüşe göre burası en üst kat.
+89	Yani benim odam en tepede mi!?
+90	Evet, ne olmuş?
 91	<CLT=cltMIND>Pencere okul binasına ve avluya\nbakıyor.
 92	<CLT=cltMIND>Yukarıda bir şey yok...\nGörünüşe göre burası en üst kat.
+93	Ah! İşte buradasın, Shuichi!
+94	Yemekhaneye gelebilir misin?\nTsumugi hepimizin orada buluşmasını istiyor.
+95	Ha? Tsumugi mi?
+96	Bir şey bulduğunu söyledi. Sanırım bir\n<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> buldu.
+97	Her neyse, lütfen acele et!\nBen önden gidiyorum!
+98	<CLT=cltMIND>Demek sonunda bulduk...
+99	<CLT=cltMIND>Sıradaki <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND>.\nBu sefer neyi hatırlayacağız?
+100	Yemekhaneye gitmeliyim.

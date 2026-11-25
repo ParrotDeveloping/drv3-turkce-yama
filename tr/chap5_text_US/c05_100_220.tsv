@@ -1,27 +1,352 @@
+0	Bu ne? Neler oluyor!?
+1	<CLT=cltMIND>Kaos ve delilik...
+2	<CLT=cltMIND>Karmaşa ve kargaşa...
+3	<CLT=cltMIND>Sakin kalamadım, içimde\ntutamadım...
+4	<CLT=cltMIND>Fazlasıyla umutsuzluk vericiydi.
+5	N-Ne!? O kan mı!?
+6	Ceset bulunma anonsu...\nYani... o presin içinde biri mi var?
+7	K-Kim...?
+8	Hangarda sadece Kokichi ve Kaito vardı.\nOnlardan biri olmalı.
 9	...Ne?
+10	<CLT=cltMIND>Kokichi ya da Kaito... ölü mü?
+11	Ah! Bakın!
+12	O kıyafetler!
+13	Onlar... Kaito'nun...
+14	O zaman... o hidrolik presin içindeki...
 15	...
+16	H-Hayır... bu mümkün değil—
+17	Puhuhu. Görünüşe göre sınıf duruşmasında\nçözmeniz gereken bir sürü düğüm var.
+18	Ne de olsa öldürme oyunu tamamen bununla ilgili!
+19	Ve böylece şimdi Monokuma Dosyası'nı\ndağıtacağım!
+20	Bundan sıkıldığınızı söylemeyin!\nÇünkü işler ilginçleşmek üzere!
+21	Umarım bu soruşturmaya da bütün\nkalbinizi ve ruhunuzu katarsınız!
+22	D-Dur bir dakika! İncelememiz mi gerekiyor...?\nYani öldürme oyunu devam mı edecek!?
+23	<CLT=cltMIND>Öldürme oyunu... devam mı edecek?
+24	Öldürme oyunu devam ediyorsa ve Monokuma\nhâlâ hareket ediyorsa o zaman...
+25	Bu, beyin olan Kokichi'nin hâlâ hayatta\nolduğu anlamına geliyor.
 26	Ah!
+27	Kokichi hâlâ hayattaysa o zaman\norada ölü olan kişi...
 28	K-Kaito!?
+29	Hayır... bu mümkün değil!\nBir hata olmalı!
+30	Kaito'nun ölmesinin imkânı yok!\nBu bir yalan olmalı!
+31	<CLT=cltMIND>Cesede doğru koşmaya kalktığımda...
+32	...Sakin ol.
+33	<CLT=cltMIND>Maki'nin eli beni durdurdu.
+34	Sakin... olmak mı...?
+35	Bunu nasıl söylersin, Maki!?\nKaito—
+36	Zaten çok fazla ölüm gördüm.\nHem iyi hem kötü insanların ölümünü...
+37	Artık beni rahatsız etmiyor.
+38	Seni *rahatsız etmiyor mu*!?\nNe diyorsun sen—
+39	Daha önemlisi... Kokichi nerede?
+40	Doğru... onu hiçbir yerde göremiyorum.\nBu hangarda bir yerde olmalı—
+41	Kaçtı! Onu hemen yakalamalıyız!\nBelli ki fail o!
+42	Ayrılıp onu arayalım!\nAramadık yer bırakmayalım!
+43	Saklambaçta ne kadar iyi olursa olsun\nbu sefer kaçmasına izin veremeyiz—
+44	...Bekle.
+45	Henüz... gidemeyiz.
+46	O cesedin Kaito olduğunu *kesin*\nolarak bilmiyoruz.
+47	Henüz bütün ihtimalleri\nincelemedik.
+48	Kaito değilse orada ölen kim?
+49	...Kokichi mi diyorsun? O zaman öldürme\noyunu neden hâlâ devam ediyor?
 50	...
+51	Ve Kaito hayattaysa neden henüz kendini\ngöstermedi?
+52	Yani... fail olduğu için mi saklandığını\nsöylüyorsun?
+53	Böyle aptalca bir şey söyleme!
+54	Kaito'nun fail olması ölü olmasından da\nimkânsız!
+55	Zaten Kaito'nun Kokichi'yi öldürebileceğini\nsanmıyorum. Yaralıydı, hatırladın mı?
+56	Ve rakibi, öldürme oyununun beyni,\nExisal'ları istediği gibi kontrol edebiliyordu.
+57	Kaito hasta ve yaralıyken böyle birini\nnasıl öldürebilirdi ki?
+58	Bilmiyorum, ben sadece...\nSadece mümkün olduğunu söylüyorum...
+59	Ah, ve öldürülen Kokichi olsa bile bu\nfailin Kaito olduğu anlamına gelmez.
+60	Y-Yani fail içimizden biri mi\ndemek oluyor!?
+61	Dur! Bu imkânsız!
+62	K-Kaito'nun ölümü ne kadar şok edici olursa\nolsun bizim şüpheli olduğumuzu söylemek çok fazla!
 63	...
+64	<CLT=cltMIND>Ne demek istediklerini anlıyorum. İlk\nkanıtlar Kaito'nun öldüğünü gösteriyor...
+65	<CLT=cltMIND>Ama ben... buna inanamıyorum.\nYa da belki... inanmak istemiyorum.
+66	<CLT=cltMIND>Kaito'nun öldüğüne... inanamıyorum.
+67	...İnceleyelim.
+68	Burada gerçeği kendi ellerimizle bulmalıyız.\nVe o gerçeği duruşmada ortaya çıkarmalıyız.
+69	Yani... öldürme oyununa devam etmek mi istiyorsun?
+70	Her iki durumda da bir sınıf duruşması\nyapılacak... incelemeliyiz.
+71	Umut mu umutsuzluk mu bulacağımızı bilmiyorum...\nama gerçeği bulmalıyız.
+72	Her şey orada başlıyor.
+73	Baştan aşağı etkileyici bir\ndedektifsin.
+74	Sadece gerçeğe değil, ondan da öte\nbir şeye ulaşabilirsin.
+75	<CLT=cltMIND>Doğru... bunu yapmak zorundayım.
+76	<CLT=cltMIND>Kaito'ya verdiğim sözü tutmak için...
+77	Haklısın... Sınıf duruşması zaten yapılacaksa\nincelemeliyiz.
+78	Nyeeeh... Ama cevabı zaten biliyoruz.
+79	Ama burada ölemeyiz. Umut için...\nyaşamaya karar verdik.
 80	...
+81	Benim asıl endişem Kokichi'nin nasıl\ntepki vereceği...
+82	...onu fail olmakla suçlarsak.
+83	Aptalı oynayıp kaçarsa...\nYapabileceğimiz hiçbir şey olmaz.
+84	Hayır. Öyle düşünmüyorum. Junko Enoshima\nöldürme oyunu kurallarına çok değer verirdi...
+85	Yani <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL> ona tapıyorsa\nbunları görmezden geleceklerini sanmıyorum.
+86	O zaman onunla başa çıkmak kolay olacak.
+87	Sınıf duruşmasında ona oy vermemiz\nyeterli.
+88	Nyeeeh! Bu doğru!
 89	...
+90	<CLT=cltMIND>Diğerlerini anlıyorum...\nAma neden Maki?
+91	<CLT=cltMIND>Kaito'nun ölümünü neden bu kadar\nkolay kabul ediyor...?
+92	Pekala o zaman, Monokuma Dosyası'nı gözden\ngeçirelim. Senin için sorun var mı, Shuichi?
 93	E-Evet...
+94	<CLT=cltMIND>Ceset Exisal hangarında\nbulundu.
+95	<CLT=cltMIND>Kurban hidrolik pres tarafından ezilmiş\nve kimliği belirlenemiyor.
+96	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma Dosyası 5<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+97	Nyeeeh! Bu kadar mı? Bize hiçbir şey\nsöylemiyor!
+98	Kurbanın kimliği bilinmiyor mu...?\nBunu bile söylemiyor mu?
+99	Önemli değil. Kurbanın ve failin kim\nolduğunu zaten biliyoruz.
+100	Kaito'yu öldüren fail... kesinlikle\nKokichi.
+101	Dur, Maki.\nBuna karar vermek için hâlâ çok erken.
+102	Kanıtların Kokichi'nin hayatta olduğunu\ngösterdiği doğru ama...
+103	Kaito bana şunu söyledi...
+104	Sen merak etme!\nBütün bunlar için bir şey yapacağım!
+105	Bu bir söz!
+106	Hepiniz bu kadar sıkı çalışıyorsunuz,\nben öylece oturup rahatlayamam!
+107	Kaito'nun verdiği söze inanmak istiyorum.\nBuna benimle birlikte inanmanı istiyorum—
+108	...Seninle inceleme yapmayı reddediyorum.
+109	Ha? Ne? Neden?
+110	Şu an sakin değilsin. Şu an Kaito gibi\ndavranıyorsun... Gonta'nın sınıf duruşmasındaki gibi.
+111	O zaman da böyleydi, değil mi?
+112	Umutsuzlukla sadece <CLT=cltSTRONG>inançla<CLT=typeNORMAL> savaşamazsın.\nO kadar basit değil.
+113	<CLT=cltMIND>Maki bana arkasını döndü... ve gitti.
 114	Maki...
 115	...
+116	Buradaki havada bir şey var, kendimi...\ntuhaf hissettiriyor...
+117	Suçlu Elektro Bomba mı yoksa bir şekilde\narıza mı yapıyorum bilmiyorum...
+118	Ama biraz kendimi kötü hissetmeye başlıyorum.
+119	Ben hiç tuhaf hissetmiyorum...
+120	Elektro Bomba yüzünden olmalı.\nNe de olsa Keebo bir elektrikli ev aleti.
+121	B-Bana ev aleti deme!
+122	Söylüyorum... Ev aletleri gidip dışarıda\ndinlenmeli.
+123	G-Gerçekten iyiyim ama... sanırım şimdilik\ndışarıda inceleme yapacağım.
+124	<CLT=cltMIND>Keebo biraz sağa sola sallanarak\nhangardan çıktı.
+125	O zaman... sanırım ben de incelemeye başlayacağım.
+126	Ah, tek başına iyi olacak mısın?\nİstersen seninle gelebilirim—
+127	H-Hayır... endişelenmene gerek yok.\nTek başıma iyi olurum.
+128	Ceset o haldeyse kimsenin onu kurcalaması\nkonusunda endişelenmemize gerek yok...
+129	Yani hepimizin tek başına inceleme\nyapması sorun olmamalı...
+130	<CLT=cltMIND>Himiko aceleyle gitti.
+131	Acaba... Himiko şüpheleniyor mu...?
+132	...Kimden şüpheleniyor?
+133	Herkesten...
+134	Çünkü... ne kadar az kişi kalırsak fail\nolabilecek o kadar az kişi olur, değil mi?
+135	Tabii ki belli ki Kokichi. Ama... senin dediğin\ngibi başka bir ihtimal de olabilir...
+136	Belki düşündüğü budur...?
+137	<CLT=cltMIND>O ihtimali öneren bendim...
+138	<CLT=cltMIND>Fail Kokichi ya da Kaito değil,\nüçüncü bir kişi olabilir...
+139	<CLT=cltMIND>Herkes fail olabilir...
+140	Bütün bunlardan önce umuda doğru birleşmiştik\nama şimdi dağıldık...
+141	Kokichi'nin Kaito'yu öldürmesinin sebebi... bu olabilir mi?
+142	Uyumumuzu bozmak için...
+143	Çünkü öyle değilse... Kaito'yu öldürmek için\nne sebebi olabilir ki?
+144	Belki bu sınıf duruşması da bunun\niçin olacak.
+145	Kokichi'nin bu sınıf duruşmasını yapmasının\nsebebi bizi ayırmak olabilir.
+146	<CLT=cltMIND>Bizi ayırmak...
+147	Sonuçta hepimiz Kaito'nun etrafında toplanmıştık.\nBizi bir arada tutan oydu.
+148	Kaito'yu bu yüzden öldürdüyse tamamen\nonun tuzağına düştük demektir...
 149	...
+150	<CLT=cltMIND>Bunların hepsi Kokichi'nin bizi ayırma\nplanının bir parçası...
+151	<CLT=cltMIND>Tam olarak istediği bu...
+152	<CLT=cltMIND>Dağıldık. Soruşturmada kimseyi\nişbirliği yapmaya ikna edemiyorum...
+153	<CLT=cltMIND>Ve elimizde pek fazla bilgi\nyok.
+154	<CLT=cltMIND>Monokuma Dosyası biraz yardımcı oldu\nama bu sefer yetmiyor...
+155	...Söylenip durmanın anlamı yok.\nSadece yapmam lazım.
+156	<CLT=cltMIND>Başlama vakti.
+157	<CLT=cltMIND>Bu gizemi çözüp ardındaki gerçeği\nbulmak için...
+158	<CLT=cltMIND>Soruşturmaya başlıyorum!
+159	<CLT=cltMIND>Buradan başlayacağım.
+160	<CLT=cltMIND>Pekala, buradaki her bir kanıtı\ntek tek inceleyeceğim!
+161	N-Ne? Ben... şu an seninle konuşmak\nistemiyorum, tamam mı?
+162	Şu anki halinle... Kaito'nun ölümüne inanamadığın\niçin insanları suçlamaya başlayabilirsin...
+163	H-Hayır, öyle değil...
+164	Bahanelerini duymak istemiyorum!\nYa da başka bir şeyi! Sadece benimle konuşma!
+165	Beni rahatsız etmeye devam edersen...
+166	Sihrimle saçını afro yaparım!
+167	<CLT=cltMIND>Çok inatçı...\nArtık her şeyden bu kadar mı şüpheleniyor?
+168	<CLT=cltMIND>Yoksa... kimseyle konuşmak istememesinin\nbir sebebi mi var?
+169	Seninle konuşmak istemiyorum! Beni rahatsız\netmeye devam edersen Patlama Büyümü kullanırım!
+170	<CLT=cltMIND>Çok inatçı...\nArtık her şeyden bu kadar mı şüpheleniyor?
+171	<CLT=cltMIND>Yoksa... kimseyle konuşmak istememesinin\nbir sebebi mi var?
+172	...Kaç kez sorarsan sor seninle\ninceleme yapmayacağım.
+173	Ama Maki, bir sonuca varmak için çok\nerken olduğunu düşünmüyor musun...?
 174	...
+175	Maki!
+176	Buna gerçekten inanıyorsan o zaman...\nkendi yönteminle incelemelisin.
+177	Ben de... aynısını yapıp kendi yöntemimle inceleyeceğim.
 178	...
 179	<CLT=cltMIND>Maki...
+180	<CLT=cltMIND>Kaito'nun ölümünü neden böyle\nkolayca kabul ediyorsun?
 181	...
 182	<CLT=cltMIND>Maki...
+183	<CLT=cltMIND>Kaito'nun ölümünü neden böyle\nkolayca kabul ediyorsun?
+184	Bu seferki Monokuma Dosyası'nda...\nneredeyse hiç bilgi yok.
+185	Evet, bize pek faydası olmayacak.
+186	O kadar işe yaramaz ki muhtemelen onu bize\nvermek için zahmete bile girmemeliydi...
+187	Sorun yok, sorun yok.
+188	Bir maskotun cinayet mahallinde ortaya çıkması\nrahatlama ve iç huzuru getirir.
+189	Vah! Ortaya çıktı!
+190	Ne ilgi meraklısı...
+191	Tabii ki ilgi istiyorum!\nBen maskotum, Allah aşkına...
+192	Ve yine de şuradaki Sıradan Tsumugi'den\ndaha az ortaya çıktım.
+193	Olabildiğince sık ortaya çıkmazsam yanıltıcı\nreklam olur, biliyor musunuz?
+194	R-Reklam mı? Ne reklamı?
+195	...Görmezden gel.\nSadece soruşturmaya odaklanalım.
 196	E-Evet...
+197	Bu Monokuma Dosyası'nda yeterli bilgi yok...\nÖlüm sebebini de ölüm saatini de bilmiyoruz.
+198	Fail muhtemelen Kokichi ama... sınıf\nduruşması için endişeleniyorum.
 199	<CLT=cltMIND>Sanırım burada hâlâ araştırılacak\nşeyler var...
 200	Evet
 201	Hayır
 202	Emin olmadığın bir şey mi var?
 203	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+204	<CLT=cltMIND>Exisal'ları boyamak için kullanılan bir makineye benziyor.\nBiraz tiner kokuyor...
+205	<CLT=cltMIND>Öncekiyle aynı görünüyor...\nMuhtemelen davayla ilgili değil.
+206	<CLT=cltMIND>Bir oto yıkamaya benziyor.\nSanırım Exisal'ları temizlemek için.
+207	<CLT=cltMIND>Bir süredir kullanılmamış gibi\ngörünüyor. Hiç ipucu göremiyorum.
 208	<CLT=cltMIND>Burası banyo.
+209	<CLT=cltMIND>Şimdi düşününce...
+210	Hayır, ben bu banyoya kilitlendim ama\nKokichi o kapının hemen dışında.
+211	<CLT=cltMIND>Kaito'nun hapsedildiği yer\nburası.
+212	<CLT=cltMIND>Kaito burada bir çeşit ipucu\nbırakmış olabilir—
+213	Ah, hayır... hiçbir şey "bırakmadı"...\nÖlmemiş olabilir...
+214	<CLT=cltMIND>Neyse... içeriyi incelemeliyim.
+215	Hidrolik Pres Kalkışı
+216	<CLT=cltMIND>Hidrolik pres aşağıda.\nVe etrafta kan var.
+217	<CLT=cltMIND>Bu hidrolik pres bu düğmelerle\nkontrol ediliyor.
+218	<CLT=cltMIND>Bunu hidrolik presi kaldırmak için kullanırsak\ncesede bakabilmeliyiz...
+219	Ama ben... bunu... pek yapmak istemiyorum...
+220	<CLT=cltMIND>Hidrolik pres aşağıda.\nVe etrafta kan var.
+221	<CLT=cltMIND>Bunu hidrolik presi kaldırmak için kullanırsak\ncesede bakabilmeliyiz...
+222	<CLT=cltMIND>Ama güç kablosu kesilmiş.\nPres hareket etmiyor.
+223	<CLT=cltMIND>Bu durumda... cesede\nbakamayacağız.
+224	<CLT=cltMIND>Bu kontroller hidrolik presi hareket ettiriyor.\nYukarı çıkabiliyor, aşağı inebiliyor ve durabiliyor.
+225	<CLT=cltMIND>"Yukarı" düğmesini kullanarak presi kaldırıp\ncesede bakabilmeliyim...
+226	...Kim olursa olsun ezilmiş bir ceset\ngörmek istemiyorum...
+227	ama yapmak zorundayım.
+228	Ben... bilmek zorundayım.
+229	<CLT=cltMIND>Kararımı verdim, bir nefes aldım\nve düğmeye bastım.
 230	...
+231	...Ha? Hareket etmiyor mu?
+232	<CLT=cltMIND>Düğmeye birkaç kez daha bastım\nama pres yine de hareket etmedi.
+233	Tuhaf... geçen sefer bastığımda hareket etmişti.
+234	<CLT=cltMIND>Presin etrafına baktıktan sonra\nşunu buldum...
+235	Güç kablosu kesilmiş!
+236	<CLT=cltMIND>Anlıyorum... Güç olmadığı için hidrolik\npres hareket etmiyor.
+237	Bu tesadüf olamaz.\nGüç kablosu bilerek kesilmiş...
+238	Bu failin işi olmalı.
+239	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Hidrolik Pres<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+240	<CLT=cltMIND>Bu durumda... cesede\nbakamayacağız.
+241	<CLT=cltMIND>Açıkçası biraz rahatladım ama bunu\nyüksek sesle söylememeliyim.
+242	Kontrollere bir kez daha bakmalıyım.\nBurada bir ipucu olmalı...
+243	<CLT=cltMIND>Kontrol düğmelerine ek olarak bir\n"Acil Durdurma" düğmesi var.
+244	<CLT=cltMIND>Bunu kullansaydın pres anında\ndururdu...
+245	Şey... fail bu cinayeti planlıyorduysa\nbunun ona bir faydası olmazdı.
+246	<CLT=cltMIND>Beni daha çok endişelendiren...\n<CLT=cltSTRONG>güvenlik fonksiyonu<CLT=cltMIND>.
+247	<CLT=cltMIND>Doğru... bu hidrolik presin bir güvenlik\nfonksiyonu olması gerekiyordu.
+248	<CLT=cltMIND>Kızılötesi sensör canlı bir şey algılarsa\npres otomatik olarak durur.
+249	<CLT=cltMIND>Şey... Keebo daha önce denediğinde\ndurmamıştı...
+250	<CLT=cltMIND>Sensör bir insan algılasaydı güvenlik\npresi otomatik olarak durdurmalıydı.
+251	Otomatik olarak durmak, ha...?
+252	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Güvenlik Fonksiyonu<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+253	<CLT=cltMIND>Presi kaldırmak için düğmeye\nbasabilmeliyim ama...
+254	<CLT=cltMIND>güç kablosu kesilmiş.
+255	<CLT=cltMIND>Güç olmadan presin kendisi hareket\netmiyor.
+256	<CLT=cltMIND>Bunun bilerek yapıldığından\neminim.
+257	<CLT=cltMIND>Bu failin işi olmalı...
+258	<CLT=cltMIND>Bu durumda... cesede\nbakamayacağız.
+259	<CLT=cltMIND>Kontrol düğmelerine ek olarak bir\n"Acil Durdurma" düğmesi var.
+260	<CLT=cltMIND>Bunu kullansaydın pres anında\ndururdu...
+261	<CLT=cltMIND>Şey... fail bu cinayeti planlıyorduysa\nbunun ona bir faydası olmazdı.
+262	<CLT=cltMIND>Beni daha çok endişelendiren...\n<CLT=cltSTRONG>güvenlik fonksiyonu<CLT=cltMIND>.
+263	<CLT=cltMIND>Doğru... bu hidrolik presin bir güvenlik\nfonksiyonu olması gerekiyordu.
+264	<CLT=cltMIND>Kızılötesi sensör canlı bir şey algılarsa\npres otomatik olarak durur.
+265	<CLT=cltMIND>Şey... Keebo daha önce denediğinde\ndurmamıştı...
+266	<CLT=cltMIND>Sensör bir insan algılasaydı güvenlik\npresi otomatik olarak durdurmalıydı.
+267	Otomatik olarak durmak, ha...?
+268	<CLT=cltMIND>Kırmızı Exisal tamamen hareketsiz...
+269	Shuichi, orası tehlikeli... O şeye yaklaşırsan\nparamparça olabilirsin.
+270	Hayır... artık hareket etmemeli.\nMonoyavrular ya da Kokichi olmadan olmaz.
+271	Nyeeeh... yani sadece bir hurda yığını.
+272	Hay Allah, beni öyle korkutma!
+273	Belki de bu hurda yığınını sihrimle\nparçalamalıyım!!!
+274	Ah, ama... sanırım Kokichi hayattaysa onu\nher an kumandayla hareket ettirebilir...
+275	Iyyy! N-Neden bunu daha önce söylemedin!?
+276	<CLT=cltMIND>Tabii Kokichi *hayattaysa*...
+277	<CLT=cltMIND>Ama... Kokichi'nin Exisal'lar için\nkullandığı o uzaktan kumanda...
+278	<CLT=cltMIND>Tam olarak ne? Beyin olduğu için mi\nonda var?
+279	<CLT=cltMIND>Exisal kendi bölmesinde tamamen\nhareketsiz duruyor
+280	<CLT=cltMIND>Kokichi hâlâ hayattaysa onu kumandayla\nharekete geçirebilir...
+281	<CLT=cltMIND>Ama... Kokichi'nin Exisal'lar için\nkullandığı o uzaktan kumanda...
+282	<CLT=cltMIND>Tam olarak ne? Beyin olduğu için mi\nonda var?
+283	Exisal_Yeşil
+284	Exisal_Pembe
+285	Exisal_Sarı
+286	Exisal_Mavi
+287	<CLT=cltMIND>Hangarın tam ortasında bir\nExisal var...
+288	<CLT=cltMIND>Kapağı da açık.\nKokpit açıkta.
+289	Demek içeriden böyle görünüyor, ha?\nKüçük... ama bir kişiye yetecek kadar büyük.
+290	Ha? Kapak açık mı?
+291	Ne tuhaf. Elektronik kilidi kapatıp kapağı\nsadece Monoyavrular açabilir.
+292	Kapağı sadece Monoyavrular mı açabilir?
+293	Normalde Exisal'ları kullanabilenler\nsadece Monoyavrulardır.
+294	Anahtar kelime "normalde".
+295	Ama o Elektro Çekiç denen şey yüzünden\nelektronik kilit tamamen bozuldu.
+296	...Bunu başka birine söyledin mi?
+297	Hayır. Kimse de bana sormadı.
+298	Ve sorulsaydı bile zaten sizin için\nalakasız bir bilgi olurdu.
+299	<CLT=cltMIND>Kapakta sadece Monoyavruların devre dışı\nbırakabileceği bir elektronik kilit...
+300	<CLT=cltMIND>Exisal'ları sadece Monoyavruların kontrol\nedebilmesinin sebebi bu olmalı.
+301	<CLT=cltMIND>Ama... kilidi devre dışı bırakabilirsen...
+302	Exisal'ı kontrol edebilirsin...
+303	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kapağın Elektronik Kilidi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+304	<CLT=cltMIND>Hangarın tam ortasında bir\nExisal var...
+305	<CLT=cltMIND>Kapağı da açık.\nKokpit açıkta.
+306	<CLT=cltMIND>Demek içeriden böyle görünüyor, ha?\nKüçük... ama bir kişiye yetecek kadar büyük.
+307	Ama kapağın elektronik kilidini sadece\nMonoyavrular devre dışı bırakabilir.
+308	Yani Exisal'ları sadece onlar kontrol edebilir.
+309	<CLT=cltMIND>Ama öte yandan...
+310	<CLT=cltMIND>Kilidi devre dışı bırakabilirsen...\nExisal'ı kontrol edebilirsin.
+311	<CLT=cltMIND>Alarm sistemini ve elektrikli bariyeri\nkontrol eden bir panel.
+312	<CLT=cltMIND>Yine de onları tekrar açmak için\nbir sebep göremiyorum...
+313	<CLT=cltMIND>Presin içinden bir kol çıkıyor.\nBu... kesinlikle...
+314	<CLT=cltMIND>Kaito'nun ceketinin kolu.
+315	<CLT=cltMIND>Bu durumda... kurban kesinlikle...
 316	...
+317	<CLT=cltMIND>Yapmak istemiyorum... ama cesedi incelemek\niçin presi kaldırmalıyım.
+318	<CLT=cltMIND>Presin içinden bir kol çıkıyor.\nKesinlikle Kaito'nun ceketinin kolu.
+319	<CLT=cltMIND>Bu durumda... kurban kesinlikle...
+320	Hayır... bu henüz kesinleşmedi.\nDaha fazla incelemem lazım.
+321	<CLT=cltMIND>Görünüşe göre... hidrolik presten çıkan\nsol kol.
+322	<CLT=cltMIND>Sadece kol dışarı çıkıyor.\nKurbanın vücudunun hiçbir kısmı görünmüyor...
+323	<CLT=cltMIND>Tamamen mi ezildiler?\nSadece kol kalacak şekilde?
 324	Hm? Bu ne...?
+325	<CLT=cltMIND>Kolda... tek, küçük bir delik\nvar.
+326	Koldaki bir delik...\nBu ne olabilir?
+327	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kaito'nun Ceketi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+328	<CLT=cltMIND>Presin içinden bir kol çıkıyor.\nKesinlikle Kaito'nun ceketinin kolu.
+329	<CLT=cltMIND>Görünüşe göre... hidrolik presten çıkan\nsol kol.
+330	<CLT=cltMIND>Sadece kol dışarı çıkıyor.\nKurbanın vücudunun hiçbir kısmı görünmüyor...
+331	<CLT=cltMIND>Tamamen mi ezildiler?\nSadece kol kalacak şekilde?
+332	<CLT=cltMIND>Yakından bakınca kolda tek,\nküçük bir delik var.
+333	Koldaki bir delik...\nBu ne olabilir?
+334	<CLT=cltMIND>Belirleyebildiğim... bu kadar. Cesedi\ninceleyemediğim için pek ipucum yok.
+335	Başka yerlerde daha fazla ipucu bulmalıyım.
+336	<CLT=cltMIND>Bu ne? Bir kan lekesi mi?
+337	<CLT=cltMIND>Prese doğru giden soluk bir kan izi var.\nSanki sürüklenmiş gibi bir iz...
+338	<CLT=cltMIND>Banyodan geliyor gibi\ngörünüyor.
+339	Bu kan lekesi banyodan prese bir şeyin\nsürüklendiğini gösteriyor...
+340	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Sürüklenme İzli Kan Lekesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+341	<CLT=cltMIND>Prese doğru giden soluk bir kan izi var.\nSanki sürüklenmiş gibi bir iz...
+342	<CLT=cltMIND>Banyodan geliyor gibi\ngörünüyor.
+343	Bu kan lekesi banyodan prese bir şeyin\nsürüklendiğini gösteriyor...
+344	<CLT=cltMIND>Sanırım hidrolik presten çıkarabileceğim\nbilgiler aşağı yukarı bu kadar...
+345	<CLT=cltMIND>Cesede bakamadığım için elimde\npek fazla ipucu yok.
+346	Başka yerlerde daha fazla ipucu bulmalıyım.
+347	<CLT=cltMIND>Hangarda inceleyebileceğim şeyler\naşağı yukarı bu kadar.
+348	<CLT=cltMIND>Hâlâ sorular var...\nGerçek hâlâ çok uzakta.
+349	<CLT=cltMIND>Kurbanın kim olduğunu hâlâ\nçıkaramıyorum...
+350	Daha fazla ipucuna ihtiyacım var.\nBaşka alanları incelemeliyim.
+351	<CLT=cltMIND>Hangarın etrafındaki alanlarla\nbaşlamalıyım.

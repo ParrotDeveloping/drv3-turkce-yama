@@ -1,0 +1,66 @@
+@ chap5_text_US
+## c05_015_251
+4|Ama... insanlığın son umudu olduğumuzu ve\nburasının bir uzay gemisi olduğunu kim hayal ederdi.
+5|Bu doğru değil! Bütün sihir temasını gerçekten\nöylece çöpe mi atacaklar?
+6|Ah... en başta bir "sihir teması"\nvar mıydı ki?
+7|Ama... insanlığın son umudu olduğumuzu ve\nburasının bir uzay gemisi olduğunu kim hayal ederdi.
+8|Şimdiye kadar çok güçlü bir sihir temamız vardı...\nNe oldu ona?
+9|Sakinleşemediğin için mi odandan\nçıktın?
+11|Ben de öyleydim. Yerimde duramadım.
+12|Bu sabah yataktan kalkacak iradeyi zar zor\nbuldum... Hepsi Maki sayesinde.
+13|Neredeyse inanamıyorum...
+14|Başta çok tsundere olan Maki şimdi\nbizi peşinden sürükleyen kişi...
+15|Ama muhtemelen Kaito'nun etkisi yüzünden.
+16|Ha? Neden öyle düşünüyorsun?
+17|Ha? Neden mi? Sadece bakarak anlayabilirsin...
+18|Maki, Kaito'yla ilgileniyor.
+19|Yoksa şu an yaptığı gibi bütüüün\nzaman boyunca hangarı izlemezdi.
+20|Ah, e-evet, sanırım bu doğru...
+21|Ha? Şok mu oldun? Siz ters bir aşk\nüçgeni durumunda mıydınız?
+22|H-Hayır! Hiç de öyle değil!
+23|Vay! Seni böyle şok etmek istememiştim.\nHehe, sadece Maki konusunda seninle dalga geçmek istedim.
+25|Hope's Peak Akademisi'ndeyken böyle eğlenip\nbirbirimize takılır mıydık?
+26|Şey, farklı sınıflardaydık ama eminim\nböyle arkadaşlarımız vardı...
+27|O zamana geri dönemesek bile dünyada\nhâlâ umut var...
+28|Sonuna kadar özgüvenle yaşamaya devam\nedeceğim.
+29|Bu... Hope's Peak Akademisi'nin son\nöğrencilerinden biri olarak yeminim.
+30|Dünyada hâlâ umut var... Sonuna kadar\nözgüvenle yaşayacağım.
+## c05_015_287
+1|<CLT=cltMIND>Şimdilik ona dokunmayacağım.\nKokichi'yi kışkırtmak istemem.
+2|Bir pencere var...\nBanyo penceresi mi?
+3|Oradan içeriyi görebilir miyim...?
+4|<CLT=cltMIND>Küçük pencereden içeri baktım...
+5|<CLT=cltMIND>Ve öbür tarafta bir siluet gördüm.
+7|Burada ne yapıyorsun?
+9|Bağırma, aptal! Kokichi bizi duyar!
+10|Ah... Yakınlarda mı?
+11|Hayır, ben bu banyoya kilitlendim ama\nKokichi o kapının hemen dışında.
+12|Seni burada görürse kötü olur.\nExisal'lar onunla.
+13|Evet, bu doğru...
+14|Dur, peki... burada ne yapıyorsun?
+15|Burada ne mi yapıyorum?\nTabii ki seni kurtarıyorum.
+16|Ne? Tek başına mı?
+17|Hayır, sadece burayı keşfediyorum.\nYarın sabah...
+18|...hepimiz seni kurtarmaya geleceğiz.
+19|Hepiniz mi?
+20|Maki'nin fikriydi.
+21|Açıkçası ben... pes etmiştim.\nHepimiz pes etmiştik.
+22|Ama Maki değil. Seni geri almak için\nelinden gelen her şeyi yaptı.
+23|...Çünkü sana inanıyor, Kaito.
+24|İşler ne kadar kötüye giderse gitsin asla\npes etmeyeceğini biliyor.
+25|E-Evet! Tabii ki! Ben Kaito Momota'yım,\nYıldızların Işığı!
+26|Dünya sona ermiş ve insanlık yok olmuş olsa\nbile pes edemem!
+27|Kahraman bu kadar kolay pes etseydi\nberbat bir hikâye olurdu!
+28|Evet, doğru, Kaito.
+29|Sen merak etme!\nBütün bunlar için bir şey yapacağım!
+30|Bu bir söz!
+31|Hepiniz bu kadar sıkı çalışıyorsunuz,\nben öylece oturup rahatlayamam!
+33|<CLT=cltMIND>Ona sormak istediğim... bir şey var...\nAşırı özgüvenli olması ya da rol yapması umurumda değil...
+34|<CLT=cltMIND>Sadece onun "Merak etme, her şey\nyoluna girecek" dediğini duymak istiyorum.
+35|Sadece... beni kurtarmak istemenize sevindim\nama güvende kalın, tamam mı?
+36|Elektro Çekicin olsa bile bir Exisal'a\nyaklaşmak tehlikeli.
+37|Anlaşıldı.
+38|Ah, bu arada... iyi hissediyor musun?\nYaranın dışında tabii ki.
+39|Ben mi?
+40|Evet... tabii ki. Bir şey yok.
+41|Neyse, Kokichi yakında dönmeli,\nsohbetimizi bitirsek iyi olur.

@@ -1,0 +1,69 @@
+@ chap5_text_US
+## c05_301_266
+60|<CLT=cltMIND>Bu yüzden... yaşayacağım.
+61|<CLT=cltMIND>Ölen herkes için yaşamak istiyorum.
+62|<CLT=cltMIND>Umutsuzluk beni yenemez.\nNe olursa olsun dayanıp hayatta kalacağım.
+64|<CLT=cltMIND>Teşekkürler... Kaito.
+68|Eh, benim endişelenecek bir şeyim\nyok.
+69|Çünkü, yani... ben Kaito Momota'yım!\nYıldızların Işığı!
+70|Hey! Haksızlık bu, Kaito!
+72|Keebo'ya ne oldu?\nNereye gittiğini biliyor musun?
+73|Keebo mu?\nAh, bilmiyorum...
+74|Nyeh...\nO herif ne yapıyor ki?
+75|Bir robotun gerçekten antrenman yapması\ngerektiğini sanmıyorum...
+76|Ama geri kalanımız burada.\nBiraz onun da gelmesini isterdim...
+78|Sessiz...
+79|Fazla sessiz...
+80|Ama yine de bu sessizlik epey ferahlatıcı.
+81|Eskiden iç sesimi kusursuz bir netlikle\nduyardım...
+82|Beni <CLT=cltSTRONG>umudun<CLT=typeNORMAL> gücüyle doldururdu...\nDoğru yolda yönlendirirdi...
+83|...Artık onu duyamıyorum.
+84|Şimdi tek duyduğum... sessizlik.
+85|O sessizlik iradenin artık bana ait\nolduğu anlamına geliyor.
+86|Seçebileceğimiz tek şey <CLT=cltSTRONG>umutsuzluk<CLT=typeNORMAL> olsa bile...
+87|<CLT=cltSTRONG>Umut<CLT=typeNORMAL> artık var olmasa bile...
+88|Asla umutsuzluğa teslim olmayacağım!
+89|Ben... ben bunu bitireceğim.
+90|Ne olursa olsun bunu bitmeye\nzorlayacağım.
+91|Bu okul, bu Yetenekli Gençler için Ultimate\nAkademi, umutsuzluğa batmış durumda...
+92|...Ve ben onu yok edeceğim.
+## c05_301_334
+3|Keebo, iyi misin!? Korurken o enkaz\nsana çarptı-
+4|B-Ben... iyiyim.\nDaha önemlisi...
+5|Ghghghgh...!
+6|Ne oldu, Monokuma!?\nKaito kazandı diye mi üzgünsün!?
+7|Ee? Kaito kazandı da ne demek?
+8|Cezan bitmeden öldü.
+9|Kaito senin idamından ölmedi!
+10|D-Doğru!\nKaito senin tarafından öldürülmedi!
+11|Bu... Kaito'nun zaferi.
+12|Vah! Kaybettik!
+13|Hıh... Bilerek mi yaptı bilmiyorum ama\nkesinlikle inatçı bir eşek gibi gitti.
+14|Neyse, boş ver! Öldürme oyununun sonu\ndeğil ya! O yüzden sorun yok!
+15|Bu... bitmedi mi?
+16|Aynen öyle! Ne sandın!
+17|Okul yönetmeliklerinde yazmıyor mu?
+18|Öldürme oyunu tek bir kara eller ya da\niki lekesiz kalana kadar devam edecek.
+19|Okul yönetmelikleri... Yani yönetmeliklere\nuyacaksın, öyle mi?
+20|Kurallar istemenin tek sebebi bunu\n<CLT=cltSTRONG>birilerine göstermen<CLT=cltNORMAL>!
+21|...Ben sadece eğlenceli bir öldürme oyunu istiyorum\nama kendi fikrine sahip olmakta kesinlikle özgürsün.
+23|Bu... yeter!\nSaçmalıkların yeter artık, Monokuma!
+24|Kaito'ya söz verdim!\nBu öldürme oyununu bitireceğim!
+25|Ve Kaito'nun ölümüne anlam vermek için\nsözümü *tutacağıma* yemin ediyorum!
+26|Evet! Başka kimsenin ölmesine izin\nvermeyeceğiz!
+27|O oyunu artık kim oynar ki!?\nZaten bitti!
+29|Hmm... Bu gerginliği bıçakla kesebilirsin.\nHerkes ne hakkında konuşuyor ki zaten?
+30|Son perdeye denk gelmiş gibiyiz.\nNeler olduğunu hiç bilmiyorum!
+31|Hey Babalık! Bizi bilgilendir!\nSana yardım etmek istiyoruz!
+32|Ah! Monosuke iyi davranıyor!\nPuan toplamak için yağ çekiyor!
+33|Ohhhh, siz minik sevimli yavruların\nyanında kendimi tutamıyorum.
+34|Toplanın çocuklar. Kaçırdıklarınızı size\nanlatarak koca bir ay geçireceğim.
+35|Koca bir ay mı!? Bu bütün bölümden\ndaha uzun sürmez mi!?
+37|Sizi sarılıp öpücüklere boğarken\nhepsini anlatacağım!
+38|Siz çocuklar önden gidip beni\nevde bekleyin.
+39|Tamam! Hoşça kal, ayıcık!
+40|Hm? Neden geride kaldım? Çünkü bu kadar\nsıkı çalıştığınız için hepinize ödül vermek istiyorum.
+41|İstemiyoruz!\nGit buradan!
+42|Bu arada... bu öldürme oyununun\ndurdurulabileceği fikrine nereden kapıldınız bilmiyorum.
+43|Bir <CLT=cltSTRONG>katılımcının<CLT=typeNORMAL> bu öldürme oyununu\nbitirmek için yapabileceği hiçbir şey yok.
+44|Asla! Hayatta olmaz! Bu oyun uzun bir\nsüre durmadan devam edecek!

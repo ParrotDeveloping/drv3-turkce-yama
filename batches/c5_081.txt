@@ -1,0 +1,55 @@
+@ chap5_text_US
+## c05_229_000
+300|Hey! Sessiz ol da seni görmezden gelebilelim!
+301|Şimdi, nereden başlamalıyız? Kokichi'nin\nneyin peşinde olduğunu zaten belirledik...
+302|Zaten konuşmaya devam edecek, değil mi?
+303|Benim deneyimime göre ne zaman yeni bir\ngerçek öğrensen...
+304|...onunla birlikte başka bir şey de öğrenirsin.
+305|Evet, onu arayalım!
+306|Ona çok çabuk ısındın...\nSanırım ikiniz de robotsunuz *gerçekten*.
+307|<CLT=cltMIND>Demek bir gerçek daha ortaya çıkıyor...\n<CLT=cltSTRONG>O kanıt<CLT=cltMIND> artık daha mantıklı.
+308|<CLT=cltMIND>Kafamın almadığı\n<CLT=cltSTRONG>kanıt<CLT=cltMIND>.
+309|Kokichi bunu baştan planladıysa... o zaman\no ilk kanıt şüpheli, değil mi?
+311|Onu zaten biliyorum. Bilmediğim şeyin\nkanıtına ihtiyacımız var.
+313|Monokuma failin kim olduğunu bilmiyorsa\nhangi kanıtın tekrar analiz edilmesi gerekiyor?
+314|Kaito'nun hidrolik pres tarafından ezildiği\nvideoyu tartışalım.
+315|Kokichi o videoyu kurban olmadığını\nkanıtlamak için çektiğini söyledi.
+316|Ama Kokichi'nin Monokuma'yı yanıltmaya\nçalıştığını biliyoruz, peki ya video?
+317|Ne de olsa seni mahkûm eden bir kanıt\nsunmak epey tuhaf.
+318|O zaman Kokichi bana nasıl bir hata\nyaptırmaya çalışıyordu?
+319|Belki ölüm sebebi bilinmesin diye Kaito'yu\nhidrolik preste ezmiştir?
+320|Ama tek amaç bu olsaydı onu kaydetmeye\ngerek olmazdı.
+321|Ezilmiş cesedi bulmak yeterli olurdu.\nBize filmi göstermeye gerek yoktu.
+322|Bu doğru.
+323|Sanırım sonunda ortama uyum sağlıyorsun.\nDaha da sevimli olursan sana sarılacağım!
+325|Cesedin ezildiğini bize göstermek için bu kadar\nzahmete girmenin bir sebebi olmalı.
+326|Aslında hiçbir sebebi yok.\nSadece çarpık kişiliğim.
+327|<CLT=cltMIND>Yine yalan söylüyorsun, Kokichi.\nDeliliğinin bir yöntemi var.
+328|<CLT=cltMIND>Monokuma'nın hata yapmasını istediysen\no zaman bize videoyu göstermen...
+329|<CLT=cltMIND>Monokuma'yı kandırmaya çalışmakla\nbir ilgisi olmalı.
+330|<CLT=cltMIND>Cinayetin videosunu çekip kurbanın\nkimliğini gizli tutmak...
+331|<CLT=cltMIND>Neyi gösteriyor?\nNeyi göstermiyor?
+## c05_231_000
+0|...<CLT=cltSTRONG>Kurbanı<CLT=cltNORMAL>.
+2|<CLT=cltMIND>Bu mümkün mü ki?
+3|<CLT=cltMIND>Hayır, bu sonraki bir soru.\nŞimdilik bildiğimiz...
+4|Kaito'nun ölüm anını gösterirsen tabii ki\nöldüğüne inanmamıza yol açar.
+5|Cesedi kesin olarak tanımlayamasak bile\nkurbanın Kaito olduğuna inanırdık.
+6|Ve Kokichi'nin amaçladığı <CLT=cltSTRONG>hata<CLT=cltNORMAL> tam\nolarak bu olabilir.
+7|B-Bu kurbanların yer değiştirdiği anlamına mı geliyor!?
+8|Nyeh!? Yer mi değiştirmiş!?
+9|O zaman hidrolik pres tarafından ezilen\nbaşka bir ceset miydi?
+11|Başka bir cesedi nereden bulacak ki!?
+12|Önceki bir kurbanın cesedini yeniden\nkullanırsan seçecek bolca ceset olmalı—
+13|Bilinmeyen bir ceset olsaydı kurbanın\nyer değiştirdiğini tahmin edebilirdik...
+14|Ah-hahaha, ama ne yazık!\nKurbanları değiştirmek imkânsızdı!
+15|Görüntüler cesedin ezildiğini\ngösterdi...
+16|Görüntülerin neresinde kurbanı\ndeğiştirebilirlerdi ki?
+17|Ve görüntülerle hiçbir şekilde oynanmadığını\nzaten belirledik.
+18|Kamerada hiçbir düzenleme fonksiyonu yok;\nsadece oynat, kaydet ve duraklat.
+19|Monokuma da görüntüleri düzenlemek için\nbilgisayar kullanılmadığını söyledi, hatırladın mı?
+20|Kahretsin! Ben ve koca ağzım!
+21|Yani kurbanı değiştirmek mümkün\nolmazdı.
+22|Ayrıca kurban değiştiyse bu Kaito'nun hâlâ\nhayatta olduğu anlamına gelir.
+23|Bunu zaten çoook kez tartıştık.\nBunun olma ihtimali imkâns—
+24|...Mümkün olabilir.

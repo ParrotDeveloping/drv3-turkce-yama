@@ -1,3 +1,62 @@
 0	Burası da ne...?
+1	Bir bilimkurgu filminin setindeymişim gibi\nhissediyorum. Her an bir robot çıkabilir...
 2	...
+3	<CLT=cltMIND>Söylemek istediğimi tutmak için\ntüm gücümü harcadım.
+4	Burası... şimdiye kadar gördüğümüz diğer\nyerlerden farklı.
+5	Ve bu labirent gibi koridor... Belki çıktığı\nbinayı korumak içindir?
+6	Hadi, Shuichi. İleri gitmekten başka\ngidecek yönümüz yok.
+7	İç sesim bana şunu söylüyor...\n"Umut ileri gider."
+8	<CLT=cltMIND>Bu alanı dikkatlice incelemeliyim.
+9	<CLT=cltMIND>Elektro Çekiç
+10	<CLT=cltMIND>Alarm sistemini ve elektrikli bariyeri\nkontrol eden bir panel.
+11	<CLT=cltMIND>Yine de onları tekrar açmak için\nbir sebep göremiyorum...
+12	<CLT=cltMIND>Bu ne?\nBu kepenk çok büyük...
+13	...İyi korunuyor gibi görünüyor.
+14	Bu... elektrikli bir bariyer. Etkinken\nkepengi kaldıramayız.
+15	Bu kadar sıkı korunuyorsa içeride\nbir sır olmalı.
+16	Bu bir ihtimal. Girebilir miyiz diye\ninceleyelim.
+17	B-Bekle, tehlikeli! Yapma—
+18	<CLT=cltMIND>Uyarımı bitiremeden Keebo kepenge\nyaklaştı ve...
+19	N-Ne oluyor!?
+20	Keebo, uzaklaş—
+21	Aman! Cık cık cık! Sakın alarmı\nçalıştırmayın şimdi!
+22	Hadi, hadi, çekilin de şu alarmı\nkapatayım.
+23	Hay Allah! Daha dikkatli olmalısınız!
+24	Dikkatli mi? O alarm ne içindi?\nÇok yüksekti...
+25	Ah, o alarm sistemi.
+26	Kepengin üstündeki <CLT=cltSTRONG>hareket sensörlü\nalarmı<CLT=cltNORMAL> görüyor musunuz?
+27	Onu kapatmak için bir <CLT=cltSTRONG>alarm\nkumandası<CLT=cltNORMAL> kullanmanız lazım.
+28	Sistemi kapatmadan kepenge yaklaşırsanız\nsüper yüksek bir alarm çalar.
+29	...Neden tam da burada bir alarm\nsistemi var?
+30	Puhuhu... Burası o kadar önemli ki güçlendirilmiş\ngüvenliğe ihtiyacı var.
+31	Madem buradayım, o elektrikli bariyeri\nde açıklayayım...
+32	Kapatmak için kepengin yanındaki kontrol\npaneline 59 haneli bir kod girmelisiniz.
+33	Kodu söyleyeceğim ama sadece bir kez.\nO yüzden ezberlediğinizden emin olun.
+34	5039348578573629405692858\n11037959390029298778848—
+35	Dur... Yavaş lütfen!\n503... Gerisi neydi?
+36	Sadece üç rakam mı!? Hadi ama, robot!\nDaha iyisini yapabileceğini biliyorum!
+37	<CLT=cltMIND>Elektrikli bariyer ve alarm sistemi.\nEpey sıkı bir güvenlik...
+38	<CLT=cltMIND>Bu kadar sıkı neyi koruyorlar?\nİçeride ne olabilir...?
+39	Dediğim gibi, burası çok önemli bir yer.
+40	Şey... eskiden önemliydi ama o çok uzun\nzaman önceydi. Artık sadece anlamsız.
+41	Anlamsız mı?
+42	Evet, anlamsız. O yüzden size alarm\nkumandasını da verebilirim.
+43	Kepengin üstündeki <CLT=cltSTRONG>hareket sensörlü\nalarmı<CLT=cltNORMAL> kapatmak için kullanabilirsiniz...
+44	<CLT=cltSYSTEM>*bip bip*
+45	Gördünüz mü? Alarm sistemini kapattı, değil mi?
+46	Şimdi kontrol panelini kullanarak elektrikli\nbariyeri kapatın, içeri girebilirsiniz.
+47	Şey... Az önce söylediğin kodu tekrar\nedebilir misin?
+48	Ha? Ne sinir bozucu. Ama ilk ziyaretiniz\nolduğu için bu seferlik sizi içeri alayım.
+49	<CLT=cltMIND>Monokuma kontrol paneline yürüdü,\nrakamları hızla tuşladı ve...
+50	<CLT=cltSYSTEM>*biiiiip!*
+51	Tamam, şimdi sadece kepengi elle kaldırmanız\nlazım, içeri girebilirsiniz.
+52	İçerideki kontrol panelini kullanarak alarm sistemini\nve elektrikli bariyeri yeniden açabilirsiniz...
+53	...ya da sadece buradaki kontrol panelini kullanın. Ya da\nhiçbir şey yapmayın, bariyer ve alarm kapalı kalır.
+54	Pekala o zaman, iyi yolculuklar!
+55	<CLT=cltMIND>...Bizi bu sıkı korunan alana\nöylece aldı. Oyunu ne?
+56	Hadi, Shuichi. İleri gitmekten başka\ngidecek yönümüz yok.
+57	İç sesim bana şunu söylüyor...\n"Umut ileri gider."
 58	Evet...haklısın.
+59	<CLT=cltMIND>Banyo Penceresi
+60	<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.\nSanırım bunlara hiçbir zaman alışamayacağım.
+61	<CLT=cltMIND>Acil durum ışıkları yanıyor.\nAlarm sisteminin bir parçası.

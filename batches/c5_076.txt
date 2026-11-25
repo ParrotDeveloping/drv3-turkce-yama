@@ -1,0 +1,71 @@
+@ chap5_text_US
+## c05_228_001
+0|<CLT=size2>Hangara\n<CLT=size2>girmeye<CLT=size1> çalıştım...
+1|Hangara girmeye çalıştım...
+2|ve kontrol panelini <CLT=size2><CLT=cltWEAK>bıçağımla
+3|ve kontrol panelini bıçağımla\nyok etmeye çalıştım.
+4|<CLT=size2>yok etmeye
+5|<CLT=size2>çalıştım
+6|<CLT=cltWEAK><CLT=size2>bıçağımla.
+7|O sırada\n<CLT=cltWEAK><CLT=size2>alarm sistemi\n<CLT=size1>çalmadı<CLT=cltNORMAL>.
+8|O sırada alarm sistemi çalmadı.
+9|Ama <CLT=cltWEAK><CLT=size2>eğer
+10|Ama kepenge yaklaşsaydın...
+11|<CLT=cltWEAK><CLT=size2>kepenge
+12|<CLT=cltWEAK><CLT=size2>yaklaşsaydın
+13|<CLT=cltWEAK><CLT=size1>...<CLT=cltNORMAL>
+14|<CLT=size2>alarm\n<CLT=size1>yüzde yüz
+15|alarm yüzde yüz kesinlikle\nçalışırdı.
+16|<CLT=cltWEAK><CLT=size2>kesinlikle<CLT=size1> <CLT=size2>çalışırdı<CLT=cltNORMAL>.
+17|Belki sadece <CLT=size2>bozuktu...?
+18|Belki sadece bozuktu...?
+19|Belki de
+20|Belki de özel bir ayara getirilmişti?
+21|<CLT=cltWEAK><CLT=size2>özel <CLT=size1>bir
+22|<CLT=cltWEAK><CLT=size2>ayara
+23|<CLT=cltWEAK>getirilmişti<CLT=cltNORMAL>?
+24|Ya da belki <CLT=size2>Maki
+25|Ya da belki Maki yalan söylüyordur.
+26|<CLT=size3>yalan söylüyordur...
+27|Kontrol panelini <CLT=size2>gerçekten<CLT=size1>\n<CLT=size2>bıçakla
+28|Kontrol panelini gerçekten\nbıçakla kırmaya çalıştın mı?
+29|<CLT=size2>kırmaya çalıştın mı?
+30|Artık <CLT=size2>yalan<CLT=size1> <CLT=size2>söylemeyeceğim...
+31|Artık yalan söylemeyeceğim...
+32|Öyle mi? Öyle mi yaptın?
+33|........................
+34|Çalsaydı duyardık!
+35|Neden çalmadı?
+36|Gerçekten yaklaştı mı?
+37|Emin... misin?
+38|Özel bir ayar epey\nbelirsiz...
+39|O ses tonundan hoşlanmadım!
+## c05_229_000
+0|Alarm sistemini devre dışı bırakmanın bir yolu var.\nBir <CLT=cltSTRONG>Elektro Bomba<CLT=cltNORMAL> onu kapatır.
+1|Ama Maki'nin sadece bir bombası vardı ve\nonu bu sabahki baskında kullandı...
+2|O zaman birini kullanmış olabilecek tek\ndiğer kişi Kokichi, değil mi?
+3|Haaa? Neden bir Elektro Bomba kullanayım?
+4|Alarmı kapatmak için hiçbir sebebim yoktu, değil mi?\nÖyle yapsam dezavantajlı duruma düşerdim.
+5|Sanırım öyle... Kokichi'nin alarmı neden\nkapatmak isteyeceğine dair bir sebep bulamıyorum.
+6|<CLT=cltMIND>Ama alarm sisteminin etkisiz hale\ngetirildiğini biliyoruz. Öyle olmak zorundaydı.
+7|<CLT=cltMIND>Bu durumda...
+8|Buldum! Alarm sistemini devre dışı bırakmak\nasıl amaç değildi!
+10|<CLT=cltMIND>Kokichi'nin Elektro Bomba kullanmasının\nasıl amacı...
+11|Uzaktan kumandayı devre dışı bırakmak
+12|Belki Kokichi uzaktan kumandayı devre\ndışı bırakmaya çalışıyordu.
+13|Sebep buysa sadece Kokichi dezavantajlı\nduruma düşerdi, değil mi?
+14|Exisal'lara karşı çok dikkatliydik...
+16|Keebo'yu uzak tutmak
+17|Belki Keebo'yla bir ilgisi vardır?\nElektro Bombanın ona zarar verdiğini hatırlıyorum...
+18|Kendimi iyi hissetmememin sebebi Elektro\nBomba olabilir...
+19|Ama bu robot olduğum için değildi!\nGördüğünüz gibi alerjik bir reaksiyon geçirdim!
+21|Presin güvenlik fonksiyonunu devre dışı bırakmak
+23|Sence Elektro Bomba hangarın içindeki\nelektronik bir cihazı mı devre dışı bıraktı...?
+26|Presin güvenlik fonksiyonunu devre dışı\nbırakmak içindi!
+27|Güvenlik fonksiyonunu... devre dışı bırakmak mı?
+28|Elektro Bomba sadece alarm sistemini\nkapatmazdı...
+29|...<CLT=cltSTRONG>hidrolik presin güvenlik fonksiyonunu<CLT=cltNORMAL>\nda devre dışı bırakırdı!
+30|Bu doğru ama... bunu neden yapsın ki?
+31|Birinin bunu yapmak istemesi için sadece\ntek bir sebep var...
+32|Ama haklıysam bu, bunu tamamen yanlış\ndüşündüğümüz anlamına geliyor!
+33|Tamamen yanlış mı...?

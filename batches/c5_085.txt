@@ -1,0 +1,62 @@
+@ chap5_text_US
+## c05_237_000
+85|Hangarda sadece iki kişi vardı...\nKaito... ve Kokichi...
+87|Hangardaki diğer kişi
+89|Shuichi...\nKaito kimle yer değiştirdi?
+91|<CLT=cltMIND>Hidrolik preste yer değiştiren\niki kişi...
+92|<CLT=cltMIND>Eski bir ceset değilse\nancak şu olabilir...
+94|...Ne oldu, Shuichi?\nKaito kimle yer değiştirdi?
+95|Maki... sanırım burada çok önemli\nbir şeyi kaçırdım...
+96|...Önemli bir şey mi?
+97|<CLT=cltMIND>Zaman çizelgesini doğru anladıysam o\nsırada hangarda sadece iki kişi vardı.
+98|<CLT=cltMIND>Bu da önceden bir şeye karar\nverilmiş olması gerektiği anlamına geliyor...
+99|<CLT=cltMIND>Bunu netleştirmeliyim.\nBu sefer hiçbir şeyin kaçmasına izin veremem!
+## c05_239_000
+0|Bunu gözden kaçırdığıma inanamıyorum!
+2|Cesetler yer değiştirdiği sırada hangarda\nsadece iki kişi vardı.
+3|Bu da demek oluyor ki... <CLT=cltSTRONG>birlikte çalışıyorlardı<CLT=cltNORMAL>.
+4|Ha? Birlikte mi çalışıyorlardı...?
+5|Değişime karışan sadece iki kişi\n<CLT=cltSTRONG>kurban... ve faildi<CLT=cltNORMAL>.
+6|Fail kamerayı ve hidrolik presi kullanıyordu,\nkurban ise içinde yatıyordu.
+7|Pres ve kamera durduğu sırada yer\ndeğiştirdilerse...
+8|...o zaman kamerayı ve presi tekrar açan\nkişi asıl kurbandı.
+9|Basitçe söylemek gerekirse, iki kişi de presi\nve kamerayı farklı zamanlarda kullandı.
+10|Kurban ve fail <CLT=cltSTRONG>önceden işbirliği\nyapmaya<CLT=cltNORMAL> anlaşmadıkça imkânsız bir hile!
+11|Kurban ve fail işbirliği mi yaptı?\nBu... mümkün mü ki?
+12|Kulağa tuhaf geliyor ama belki de\nbütün mesele buydu.
+13|O kadar kafa karıştırıcı bir suç işlemek ki\nMonokuma bile kandırılsın.
+14|Hay Allah, bu fail tam bir pislik.
+15|...Ee, kimin yaptığını anladın mı?
+17|<CLT=cltMIND>Davanın faili...
+18|<CLT=cltMIND>Dedektifliğim beni yanıltmadıysa\nfail o Exisal'ın içinde...
+20|<CLT=cltMIND>Ancak o olabilir.
+21|<CLT=cltMIND>Değişimden önceki olası kurban\nbelli ki Kaito'ydu...
+22|Kurban ve fail yer değiştirdiyse videonun\nbaşındaki kurban ölmedi.
+26|Hayır, hayır, o değil.
+27|Yine de kurbanın failin işbirliği yapması\nepey cesurca.
+29|Exisal'ın içinde kim var?
+30|Videoda gördüğümüz görünürdeki kurban\nKaito'ydu. Bu da demek oluyor ki...
+31|...hidrolik presi ve kamerayı... başta\nKokichi kullanıyordu.
+32|İkisi pres durduğu sırada yer\ndeğiştirdiyse...
+33|...o zaman hidrolik presi tekrar çalıştırıp\nKokichi'yi ezen fail...
+34|...<CLT=cltSTRONG>Kaito<CLT=cltNORMAL> olmalı!
+36|Yani... o Exisal'ın içindeki kişi\nKokichi değil...
+37|Kaito olmalı!
+40|Yani bu davanın faili...
+41|Kaito Momota... Ultimate Dedektif'in çıkardığı\nsonuç bu, değil mi?
+42|Fail Kaito mu? Ne...? Şaka\nyapıyorsun, değil mi? Ciddi olamazsın...
+43|Ben de inanmak istemiyorum... ama bunların\nhiçbirinin mantıklı olmasının tek yolu bu.
+44|Dedektifliğim beni failin Kaito olduğu\nsonucuna götürdü.
+46|...Bu doğru mu?\nKaito... gerçekten orada mı?
+48|Hey, cevap ver bize!\nGerçekten Kaito'ysan o zaman—
+49|Fail benim.
+51|Kaito'nun hâlâ hayatta olmasının\nhiçbir imkânı yok...
+52|Çünkü fail benim.
+53|B-Bekle, sen mi? Ama demedin mi—
+54|Kendi gözlerimle gördüm.
+55|Kokichi, Kaito'dan çaldığı panzehri\niçti...
+56|Kaito'nun öldüğüne hiç şüphe yok. Ve benim\nzehirli okum yüzünden öldü.
+57|Ama bize Kaito'yu öldürmek istemediğini\nsöyledin ve—
+58|Evet, asla istemedim. Onu öldürmediğime\ninanmak istedim.
+59|Ama... gerçek başka şey söylüyor. Sonunda\nsadece gerçeklerden kaçıyordum.
+60|H-Ha? Anlamıyorum...

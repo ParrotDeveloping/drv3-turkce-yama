@@ -1,0 +1,61 @@
+@ chap5_text_US
+## c05_000_001
+1|<CLT=cltMIND>Tuvaletleri kim temizliyor acaba...\nHep tertemizler.
+## c05_000_006
+0|<CLT=cltMIND>Rantaro'nun Laboratuvarı...\nYeteneğini merak ediyorum ama...
+1|<CLT=cltMIND>Artık çok geç.\nBunun artık bir önemi yok.
+## c05_000_014
+4|<CLT=cltMIND>Bu anonslara uymak kendimi bir hikâyedeki\nkarakter gibi hissettiriyor...
+## c05_000_026
+8|<CLT=cltMIND>Kaede'nin izlemek istediğini söylediği film...\n<CLT=cltSTRONG>Denizdeki Piyanist<CLT=cltMIND>.
+## c05_000_029
+1|<CLT=cltMIND>Miu'nun cesedi gitmiş...
+2|<CLT=cltMIND>O ve Gonta... gitti.
+7|<CLT=cltMIND>Bu bilgisayar burada olmasaydı...\nMiu asla bir cinayet planlamazdı.
+8|<CLT=cltMIND>Böyle düşünmemem gerektiğini biliyorum\nama elimde değil...
+## c05_000_045
+0|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör. Sanırım bunlara hiçbir zaman alışamayacağım.
+## c05_000_100
+10|<CLT=cltMIND>Çok iyi kalpliydin...
+11|<CLT=cltMIND>Kendi tuhaf yönteminle bize hep\nyardım etmeye çalıştın.
+12|<CLT=cltMIND>Ama ben... seni feda ettim...
+14|<CLT=cltMIND>Keşfettiğin <CLT=cltSTRONG>dış dünyanın\nsırrı<CLT=cltMIND>...
+15|<CLT=cltMIND>Korkunç bir gerçek.\nBizi ondan kurtarmak için öldürmeye razıydın...
+16|<CLT=cltMIND>Kokichi'nin bunu öylece bırakacağını sanmam.\nBir şey planlıyor olmalı...
+17|<CLT=cltMIND>...Dikkatli olmalıyım.
+18|<CLT=cltMIND>Kokichi ne yapıyor?\nNerede?
+19|<CLT=cltMIND>Öldürme oyununu kazanmak istiyor...\nBize acı çektirmek istiyor.
+20|<CLT=cltMIND>Saklanıp ne planlıyor?
+34|Miu...
+35|<CLT=cltMIND>En sonunda bile çok baş\nbelasıydın.
+36|<CLT=cltMIND>Ama yine de... ölmek zorunda değildin.\nBöyle ölmeyi hak etmedin, Miu...
+## c05_000_101
+4|<CLT=cltMIND>Bu yatakta daha kaç gece uyumam gerekecek?\nBundan... çok bıktım!
+## c05_000_130
+4|<CLT=cltMIND>Demek zehir bu öldürme oyununda\nsonunda bir rol oynadı...
+5|<CLT=cltMIND>Miu onu sadece oyalama olarak kullandı\nama bir dahaki sefere...
+6|<CLT=cltMIND>...Hayır! Bir dahaki sefer olamaz!\nBundan bıktım!
+10|<CLT=cltMIND>İlk birkaç dosyada sadece sanatçı çizimleri\nvar ama diğerlerinde fotoğraflar...
+## c05_000_131
+16|<CLT=cltMIND>Bunun Ultimate Akademi ile ne ilgisi var?
+17|<CLT=cltMIND>Büyük bir makine, belki bir\nplanetaryum için.
+18|<CLT=cltMIND>Bununla tavana yıldız\nyansıtabilirsin.
+## c05_000_136
+5|<CLT=cltMIND>Gonta bu örneklere öyle sınırsız bir sevinçle\nbakardı ki. Gittiğine inanamıyorum...
+6|<CLT=cltMIND>Burada böceklerle ilgili kitaplarla dolu\nbir kitaplık var.
+7|<CLT=cltMIND>Bazı kitaplar açık bırakılmış.\nGonta okumanın ortasında mıydı...?
+## c05_000_138
+11|Çarşaf
+12|Sepet
+## c05_000_151
+13|<CLT=cltMIND>Bir kung-fu filmi gibi...\nama eminim Tenko bunu yapabilirdi.
+## c05_000_220
+4|<CLT=cltMIND>Exisal'ları boyamak için kullanılan bir makineye benziyor.\nBiraz tiner kokuyor...
+5|<CLT=cltMIND>Bir oto yıkamaya benziyor.\nSanırım Exisal'ları temizlemek için.
+6|<CLT=cltMIND>Bu devasa, güçlü bir hidrolik pres.\nBelki Exisal'ları imha etmek için.
+7|<CLT=cltMIND>Bu hidrolik preste kızılötesi bir\nsensör var...
+8|<CLT=cltMIND>Presin canlıları ezmesini önleyen bir\ngüvenlik fonksiyonu.
+9|Hidrolik Pres İnişi
+10|<CLT=cltMIND>"Yukarı", "Aşağı", "Acil Durdurma"...\nBu düğmeler hidrolik presi çalıştırıyor.
+11|<CLT=cltMIND>Beş Exisal'ın hepsi şu an burada duruyor.\nHiç hareket etmiyorlar...
+12|<CLT=cltMIND>Exisal'lar artık hareket etmeyecek mi?\nArtık bize karşı kullanılmayacaklar mı?

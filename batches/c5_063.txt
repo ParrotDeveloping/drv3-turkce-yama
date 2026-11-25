@@ -1,0 +1,74 @@
+@ chap5_text_US
+## c05_212_001
+24|Yüzde yüz tamamen doğru!
+25|<CLT=size2>tamamen doğru!
+26|Bütün bunlar neden\nbu kadar <CLT=size2>şüpheli...?
+27|Bütün bunlar neden\nbu kadar şüpheli...?
+28|<CLT=size3>Nyeeeh!
+29|Nyeeeh! Çünkü Kokichi susmuyor!
+30|Çünkü <CLT=size2>Kokichi\nsusmuyor!
+31|<CLT=size2>Kafamdan çık,\n<CLT=size1>Kokichi!
+32|Kafamdan çık, Kokichi!
+33|Ama... arbaleti\nsen getirdin...?
+34|Çantayı mı taşıdın...?
+35|Ama neden...?
+36|O zaman neden\nsendeydi?
+37|Başka bir şey...?
+38|Bu pek olası görünmüyor...
+39|Evet!\nHepsi benim suçum!
+## c05_213_000
+0|Himiko'nun arbaleti kullandığını sanmıyorum.\nDaha doğrusu... <CLT=cltSTRONG>kullanamazdı<CLT=cltNORMAL>.
+1|Kullanamaz mıydı? Neden?
+2|Bu çantanın içindeki arbalet <CLT=cltSTRONG>sökülmüştü<CLT=cltNORMAL>.
+3|Kaito ve ben arbaleti birleştirmeyi Maki'den\nöğrendik, yani biz yapabilirdik.
+4|Ama gerekli eğitimi almamış birinin onu\nbirleştirebileceğine inanmıyorum.
+5|Şey... ya Maki Himiko'ya arbaleti nasıl\nbirleştireceğini öğrettiyse?
+6|B-Bana bunu öğretmedi!\nDeğil mi, Maki!?
+8|N-Ne oldu?\nÖnceki şey için mi... kızgınsın?
+10|Ö-Özür dilerim... Benden şüpheleneceklerini\ndüşündüm, o yüzden... yalan söyledim.
+11|Yalanın için Maki'yi suçluyorsan ahlakını\ngerçekten sorgulamam gerek, Himiko!
+12|Bunu söylemeye senin hakkın olduğunu\nsanmıyorum...
+13|Özür dilerim, Maki...\nLütfen... onlara doğruyu söyler misin?
+14|Peki... Yalan söylemeyeceğim.
+15|Himiko'ya arbaleti birleştirmeyi öğretmedim.\nOnu kullanamazdı.
+16|Gördünüz mü! Söylemiştim!\nTam dediğim gibi!
+17|Benden şüphelenen herkes hemen şimdi\nözür dilemeli!
+18|O kadar çabuk değişti ki...\nSanırım boynum tutuldu...
+19|O zaman... arbaleti hangara neden\ngötürdün, Himiko?
+20|Benden... istendi.
+21|<CLT=cltMIND>İstendi mi...?
+22|<CLT=cltMIND>Belki isteyen kişi...
+24|Kokichi'ydi, değil mi?
+25|Ne!? Sanki Kokichi'nin istediği bir şeyi\nyaparmışım gibi!
+26|Kokichi arbaleti nasıl birleştireceğini\nbile bilmiyor, değil mi?
+30|Maki'ydi, değil mi?
+31|Ha? Neden böyle bir şey isteyeyim?
+34|Keebo'ydu, değil mi?
+35|Ha...? Ben sadece taşıdığını gördüm...\nOndan taşımasını hiç istemedim.
+36|Keebo onu yapamaz, o yüzden bence\nbu doğru değil...
+39|Benden sadece istendi...\nDoğruyu söylüyorum...
+40|Lütfen, Shuichi...\nHerkese açıklayabilir misin?
+42|<CLT=cltMIND>Himiko'dan arbaleti getirmesini\nisteyen kişi...
+43|<CLT=cltSTRONG>Kaito<CLT=cltNORMAL> muydu?
+44|Ha? Kaito mu?
+45|Hangara bir arbalet getirilmesini sadece\nKaito ya da Kokichi isterdi.
+46|Kaito arbaleti nasıl birleştireceğini bildiği\niçin onu kesinlikle kullanabilirdi.
+47|Bunu bilince... Himiko'dan başka birinin\nistediğini hayal edemiyorum.
+48|Kokichi'nin isteği üzerine getireceğini\nsanmıyorum...
+49|Tabii ki hayır!\nKokichi'yi neden dinleyeyim ki?
+50|Çünkü benden hoşlandığını biliyorum.
+51|Yok öyle bir şey! Senden nefret ediyorum!
+52|Ama ben senden hoşlanıyorum.
+54|Hey! Himiko'nun kalbiyle oynama!
+55|<CLT=cltMIND>Ama Kaito'nun bunu Himiko'dan\nistediğini düşünmek...
+56|<CLT=cltMIND>Belki Kaito dün verdiğimiz sözü\ntutmaya çalışıyordur...
+60|Ama bunu neden sır olarak tutuyordun,\nHimiko?
+61|Şey, Kaito... benden bunu sır olarak\ntutmamı istemişti...
+62|Sonra Kaito öldü ve... korktum.\nSıradakinin ben olacağımı düşündüm.
+63|Sırf bu yüzden suçu Maki'ye atmaya\nçalıştığın için en kötüsü sensin!
+64|Maki, bu aptal maymuna insanların gerçek\ndehşetini öğret!
+65|Hoşlandığın kişiye zorbalık yapma!
+66|Bu ilkokuldaki aşka zorbalık yapmanın\nçok ötesinde...
+67|Himiko, Kaito senden bunu tam olarak ne\nzaman istedi?
+68|Şeyy... Sanırım dün akşam\nsıralarındaydı.
+69|Kokichi'yle savaşmak konusunda o kadar\ngergindim ki uyuyamadım...

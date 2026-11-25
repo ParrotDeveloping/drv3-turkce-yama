@@ -1,0 +1,49 @@
+@ chap5_text_US
+## c05_243_000
+13|<CLT=cltMIND>O zaman Kaito neden hâlâ bana\nkarşı savaşıyor?
+14|<CLT=cltMIND>Bu Monokuma'yla mı ilgili? Yoksa\nbunun başka bir yönü mü var?
+15|Her şeyin kesinleştiğini iddia ediyorsun, o kadar.\nHiç kanıtın yok, değil mi?
+17|Hepiniz cesedin hidrolik pres bir anlığına\ndurduğunda değiştiğini düşünüyorsunuz...
+18|...ama sonuçta bu sadece bir varsayım.\nOnu destekleyecek hiçbir kanıt yok.
+19|Yani ters düşünce tarzımızı tersine çevirirsek\nmuhtemelen hiçbir şey yapmadım, değil mi?
+20|Ceset değiştirmenin hiç olmamış ve Kaito'nun\nölmüş olması tamamen mümkün.
+21|*Sadece* mümkün değil, asıl gerçek bu...
+22|Şey... cesetlerin değiştirildiğine dair\nhiçbir kanıt olmadığı doğru...
+23|Hayır, Shuichi'nin çıkarımına güvenmeliyiz!\nEminim her şey yoluna girecek!
+24|Öğrendiğim bu duygu... sanırım buna\n"inanç" diyorsunuz. Şu an hissettiğim bu.
+25|Doğru... Shuichi'ye inanmalıyız.
+26|Eh, benim için fark etmez.\nAma yanlış bilirseniz...
+27|...<CLT=cltSTRONG>Monokuma'yla<CLT=cltNORMAL> uğraşmak zorunda kalırsınız.
+29|Bu Oylama Vakti'nin sonucu ne olacak?
+30|Monokuma hata yaparsa kimseyi idam\nedemez, değil mi?
+31|O zaman zafer benim olur.\nVe bu bütün öldürme oyununu mahveder.
+32|<CLT=cltMIND>Mahvetmek mi...?
+33|<CLT=cltMIND>Anlıyorum... demek amacın bu!
+34|<CLT=cltMIND>Öldürme oyununun kendisini\nmahvetmek istiyorsun!
+35|<CLT=cltMIND>Kaito'nun bunca zamandır bu kadar\ninatçı olmasının sebebi bu...
+36|<CLT=cltMIND>Ama... mahvetmek derken tam\nolarak neyi kastediyor?
+37|<CLT=cltMIND>Monokuma kurallara istediğini yapabilir.\nÖyle bir şeyi nasıl "mahvedersin"?
+38|<CLT=cltMIND>Bunun anlamı ne olurdu...?
+39|Hadi, Monokuma. Oylamayı başlat artık.
+40|Evet, evet, geliyorum. Hay Allah...\nOylama Vakti'ne geçelim mi?
+41|Beklentilerini karşılayamadığım için üzgünüm\nama hata yapmayacağımdan epey eminim.
+42|Çünkü yanımda Ultimate Dedektif'in su\ngeçirmez mantığı var.
+44|<CLT=cltMIND>...Artık biliyorum.\nBütün gerçeği ve nedenini.
+45|<CLT=cltMIND>Kendi mantığıma inanıyorum...\nVe... Kaito'ya inanıyorum...
+46|<CLT=cltMIND>Bu noktadan sonra mesele mantık değil!\nNe kadar ileri gitmeye razı olduğum!
+47|<CLT=cltMIND>Sana inanıyorum, Kaito.\nBir dedektif olarak değil... Shuichi Saihara olarak.
+48|Ah... bir şey söyleyebilir miyim? Oy vermeden\nönce <CLT=cltSTRONG>son bir konuşma<CLT=cltNORMAL> yapmak istiyorum.
+49|...Hm? Son bir konuşma mı?
+50|Konuşacak... daha fazla şey mi var?
+51|Gördüğünüz gibi, oy vermeden önce...\r\nsöylemem gereken bir şey var.
+52|Sadece hepinizin dinlemesine ihtiyacım var...
+## c05_244_000
+0|Tartışacak ne kaldı? Acele edip oylamayı\nbaşlatalım artık.
+1|<CLT=cltMIND>Monokuma failin kim olduğunu bilmiyor...\nBenim çıkarımlarıma güveniyor.\n<CLT=cltNORMAL>
+2|<CLT=cltMIND>Yani... bunu yapmak zorundayım...\nKaito'ya inanıyorum!
+3|<CLT=cltMIND>Kaito oyunu mahvetmeye çalışıyor.\nBu yüzden gerçeği saklıyor.
+4|<CLT=cltMIND>Tam olarak nedenini bilmiyorum ama\nbunun için hayatını ortaya koyuyor.
+5|<CLT=cltMIND>Yani ona güvenmek için...\ntek yol bu.
+6|<CLT=cltMIND>Şimdiye kadar belirlediğimiz her şey...\nYa hepsini tersine çevirirsem?
+7|<CLT=cltMIND>Yalan söyleyeceğim...\nKokichi'nin ölmediğini söyleyeceğim...
+12|<CLT=cltMIND>Evet, yalan söylemem lazım...

@@ -1,0 +1,89 @@
+@ chap5_text_US
+## c05_216_001
+0|Arbalet\n<CLT=size2>ateşlendiğinde...
+1|Arbalet ateşlendiğinde...
+2|ne <CLT=size2>oluyordu ki!?
+3|ne oluyordu ki!?
+4|Sanki sorman gerekiyormuş gibi!\n<CLT=size2>Oradaydın!
+5|Sanki sorman gerekiyormuş gibi! Oradaydın!
+6|Ar
+7|Arbalet önce Kaito'nun elindeydi...
+8|ba
+9|let önce
+10|<CLT=cltWEAK>Kaito'nun elindeydi<CLT=cltNORMAL>...
+11|<CLT=size2>Kokichi'ye<CLT=size1> ilk
+12|Kokichi'ye ilk atışı da muhtemelen o yaptı.
+13|<CLT=size1.5>atışı<CLT=size1> da
+14|muhtemelen <CLT=size2>o<CLT=size1> yaptı.
+15|Sonra <CLT=size2>Kokichi
+16|Sonra Kokichi Kaito'yu etkisiz bırakıp\narbaleti aldı...
+17|<CLT=size2>Kaito'yu etkisiz bırakıp
+18|<CLT=cltWEAK><CLT=size2>arbaleti<CLT=size1> aldı...
+19|ve <CLT=size2>karşılık verdi.
+20|ve karşılık verdi.
+21|<CLT=size2>Arbaleti
+22|Arbaleti Kaito'dan almadım...
+23|<CLT=size2>Kaito'dan<CLT=size1> almadım...
+24|<CLT=size2>Gizlice
+25|Gizlice başka bir tane getirdim!
+26|<CLT=size2>başka bir tane getirdim!
+27|Ama <CLT=cltWEAK>sadece <CLT=size2>bir
+28|Ama sadece bir arbalet alındı.
+29|<CLT=cltWEAK><CLT=size2>arbalet
+30|alındı.
+31|<CLT=size2>Diğer ikisi<CLT=size1> hâlâ\n<CLT=size2>araştırma laboratuvarımda.
+32|Diğer ikisi hâlâ\naraştırma laboratuvarımda.
+33|Yine de
+34|Yine de sadece bir ok atıldı...
+35|<CLT=cltWEAK>sadece <CLT=size2>bir ok<CLT=size1>
+36|atıldı...
+37|O zaman nasıl
+38|O zaman ikisi birbirini nasıl vurdu?
+39|<CLT=size2>ikisi birbirini
+40|<CLT=size2>vurdu?
+41|Bu arada,\n<CLT=cltWEAK><CLT=size2>arbalet atışları\nçok<CLT=cltNORMAL><CLT=size1> acıtır.
+42|Bu arada, arbalet atışları çoook acıtır.
+43|<CLT=size2>Yaram\n<CLT=size1>hâlâ\nfena
+44|Yaram hâlâ fena halde sızlıyor.
+45|<CLT=size2>halde\nsızlıyor
+46|...
+47|Ne sinir bozucu...
+48|Hiçbir şeyi açıklığa\nkavuşturmuyorsun...
+49|Evet! Arbalet bendeydi; ben,\nYıldızların Işığı Kaito Momota'da!
+50|Evet! Tam olarak öyle!
+51|Bunu gerçekten berbat ettim...
+52|Kes sesini artık!
+53|Gizlice mi...?\nBu mümkün mü ki?
+54|arbalet
+55|Kahretsin!\nİfade verdi!
+57|Ha? Sadece bir tane mi?
+58|Ne oluyor...?
+59|Sonuçta sadece bir\nok mu vardı?
+60|O zaman seni acından\nkurtarayım mı?
+## c05_217_000
+0|Dur, Himiko... <CLT=cltSTRONG>bir ok<CLT=cltNORMAL> derken ne demek istiyorsun?
+1|Nyeh? Şey, Kaito'ya sadece bir ok\nverdim, yani...
+3|Emin misin?
+4|Tabii ki! Bunu yanlış bilmemin\nimkânı yok!
+5|Peki o zaman, bu tuhaf çünkü...
+6|...banyoda <CLT=cltSTRONG>üç ok<CLT=cltNORMAL> vardı,\nhatırlıyor musun?
+7|Nyeh!? Üç mü!? Ona sadece bir tane verdiğimi biliyorum!
+8|Kaito bile ona sadece bir tane getirmemi söyledi.\nKavgadan kaçınmak istediğini söyledi.
+9|<CLT=cltMIND>Olay yerinde üç ok vardı ama Himiko\nsadece bir tane getirdiğini söyledi.
+10|<CLT=cltMIND>Burada neler oluyor?
+11|Şey... Belki Kokichi'nin sakladığı\nbirkaç tane vardı?
+12|Atacak bir arbaleti yokken Kokichi'nin\nneden iki oku olsun ki?
+13|Ama olay yerinden üç ok bulunduğunu\nkesin olarak biliyoruz...
+14|...ve üç okta da kan vardı.
+15|Ve toplamda kıyafetlerinde üç\ndelik vardı.
+16|Yani birbirlerine üç ok attıklarını\nkesin olarak biliyoruz...
+17|<CLT=cltMIND>O zaman o oklar nereden geldi?\nHimiko'nun yalan söylediğini sanmıyorum...
+18|<CLT=cltMIND>Bunun henüz düşünmediğimiz bir\nyönü olmalı...
+19|<CLT=cltMIND>Ne...?\nNe olmuş olabilir?
+20|<CLT=cltMIND>Düşün!
+21|<CLT=cltMIND>Düşünmeliyim!
+## c05_219_000
+0|Yoksa... fazladan okları <CLT=cltSTRONG>üçüncü bir\nkişi<CLT=cltNORMAL> mi getirdi?
+1|Üçüncü bir kişi mi? Yani Kokichi ya da\nHimiko dışında biri mi?
+2|Gerçi bu sadece bir tahmin. Üçüncü bir\nkişinin var olmasının imkânı yok.
+3|Üçüncü bir kişi var olsaydı neden\niki ok getirsin ki?

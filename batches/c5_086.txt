@@ -1,0 +1,64 @@
+@ chap5_text_US
+## c05_239_000
+62|<CLT=cltMIND>Maki, sen...?
+63|<CLT=cltMIND>Kaito'yu mu korumaya çalışıyorsun?
+64|<CLT=cltMIND>Fail oysa kurtulmasına yardım\netmeye mi çalışıyorsun?
+65|Sadece bir panzehir vardı, yani benim zehirli\nokumdan ölmüş olması daha olası.
+66|Gerçek bu...
+67|Henüz karar verilmedi. Onu hidrolik presle\nde öldürmüş olabilirim.
+68|Her iki durumda da iki seçenek var.\nMonokuma cevabı biliyor, değil miii?
+69|...Ha? Sadece bu seçenekler mi var?
+70|Sanırım işler böyle sonuçlandı...
+71|Hayır, olamaz!\nO Exisal'ın içindeki kişi—
+72|O Kaito değil!\nKokichi'nin panzehri içtiğini gördüm!
+73|Hiç şüphe yok...\nKaito öldü...
+74|Ben... Kaito'yu öldürdüm...
+75|Kesinlikle... hiç şüphe yok.\nGerçek... bu.
+76|<CLT=cltMIND>Ah, ben de öyle düşünmüştüm.\nMaki Kaito'yu korumaya çalışıyor.
+77|<CLT=cltMIND>Nasıl hissettiğini anlıyorum\nama fail Kaito'ysa...
+78|<CLT=cltMIND>Kokichi'nin planına neden\nrazı oldu?
+80|<CLT=cltMIND>Kaito'nun bu kadar bencilce bir şey\nyapacağını hayal edemiyorum...
+81|<CLT=cltMIND>Bunun bir sebebi olmalı.\nBuna gerçekten inanıyorum...
+82|<CLT=cltMIND>Ama o gerçeği ortaya çıkarmadan önce\nbunun özüne inmeliyim...
+83|Ama Maki... Kokichi'nin panzehri içtiğini\nkesin olarak bilmiyorsun.
+85|Önünde içtiğini gördün ama gerçekten\niçtiğini doğrulayamadın.
+86|Yani belki... başka bir ihtimal vardır.
+87|Ne... diyorsun sen?
+88|İmkânsız... Bu... imkânsız...
+89|Başka bir ihtimal yok!\nKaito'yu ben öldürdüm!
+## c05_241_000
+0|Kokichi panzehri sadece <CLT=cltSTRONG>içiyormuş gibi yaptı<CLT=cltNORMAL>!\nAslında içmedi!
+1|İçiyormuş... gibi mi yaptı?
+2|Panzehri içmek onun <CLT=cltSTRONG>yalanının<CLT=cltNORMAL>\nbir parçasıydı.
+3|Maki pencereden ancak bir yere kadar görebildi.\nKokichi'nin içtiğini doğrulamadı.
+4|Bence Kokichi bunu biliyordu ve sadece\npanzehri içiyormuş gibi yaptı.
+5|Maki gittikten sonra panzehri Kaito'ya\nverdi.
+6|Bütün bunların yapılmış olma ihtimali\nyüksek...
+7|...Kaito'yu işbirliği yapmaya ikna etmek için.
+8|İşbirliği yapmaya mı?
+10|Değiştirme hilesi kurbanın ve failin\nbirlikte çalışmasını gerektiriyordu.
+11|Kaito'nun işbirliği Kokichi'nin planı için\nzorunluydu.
+12|Ancak Kokichi'nin Kaito'yu kolayca ikna\nedebileceğini sanmıyorum...
+13|Elinde bir koz lazımdı. Kaito'ya panzehri...\nişbirliği karşılığında verdi.
+14|Kendi hayatı karşılığında demek istiyorsun.
+15|Kaito'nun başka çaresi yoktu, Kokichi\nhayatını kurtardıktan sonra işbirliği yapmak zorundaydı.
+16|Kaito'nun karakteri böyle ve Kokichi\nbunu biliyordu.
+17|Gururunu panzehirle birlikte yuttu ve\nKokichi'nin planına katılmayı kabul etti.
+18|Ama bu planı Kokichi yapmadı mı?\nÖlürse bunun ona ne faydası var ki!?
+19|Bence bunların hepsi Kokichi'nin bizi\nşaşırtma planının bir parçasıydı.
+20|Birinin kendi cinayetini planlayacağını\ndüşünmezsin.
+21|Sırf bu gizemi yaratmak için... hayatından\nvazgeçecek kadar ileri mi gitti?
+22|Böyle kötü bir şeyi ancak Kokichi\ndüşünebilirdi.
+23|Planını uygulamak için ölmeyi başka kim\nkabul ederdi ki?
+24|O deli... Neden o kadar ileri gitsin ki?
+25|Eminim Kokichi ne olursa olsun beni kendi\noyunumda yenmeye kararlıydı.
+27|Ama ne yazık! Shuichi gerçeği çözdü!
+28|...Gerçek mi? Bunun bir sanrı olmadığına emin misin?
+29|Sanrı mı?
+30|Öldüğümü düşünmenizi sağlayan, tamamen\nhedeften sapmış bir sanrı...
+31|Ama ne düşündüğünüz kimin umurunda?\nBu benimle Monokuma arasında.
+32|Bu oyundaki <CLT=cltSTRONG>figüranların<CLT=cltNORMAL> doğru bilip\nbilmemesi zerre umurumda değil.
+33|F-Figüran mı?
+34|Figüran olmak bana uyar!
+36|Sadece figüransak yanlış bilsek bile\nöldürülm—
+37|Hayır, yine de hepinizi öldürürdüm.\nKokichi'nin sözlerini ağzıma tıkma.

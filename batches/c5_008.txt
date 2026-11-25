@@ -1,0 +1,62 @@
+@ chap5_text_US
+## c05_002_220
+65|...Hadi deneyelim.
+66|...Hm? Neyi deneyelim?
+67|<CLT=cltMIND>Ben şaşkınlıkla orada dururken Keebo\nbirden presin altına girdi.
+68|...Shuichi, lütfen!
+69|Lütfen ne!?
+70|Pres bir <CLT=cltSTRONG>insan<CLT=cltNORMAL> algıladığında duruyorsa\nbeni algılarsa ne olacak?
+71|Hadi öğrenelim!
+72|Emin misin?\nSensörün çalışıp çalışmayacağını bilmiyorum...
+73|Merak etme. Herhangi bir tehlike sezersem\nyoldan çekilirim.
+74|Sadece gerçekten denemek istiyorum. Denemezsem\nöldüğümde huzur içinde paslanamam.
+75|<CLT=cltMIND>...Bu konuda fikrini\ndeğiştirmeyecek.
+76|...Tamam, yapalım. Ama tehlikeli olursa\noradan çık, tamam mı?
+77|Elbette! Şimdi, lütfen...\nÇalıştır şunu!
+78|<CLT=cltMIND>Keebo'nun hevesine ikna olup\ndüğmeye bastım.
+80|K-Kıl payı kurtuldum!
+81|E-Evet, öyle! Bunu neden yaptın!?
+82|Neden "Zorla Durdur" düğmesine\nbasmadın, Shuichi!?
+83|<CLT=cltMIND>Bu *benim* suçum değil!
+84|Ama... en azından artık biliyoruz.
+85|Görünüşe göre insan olarak değil sadece\nmakine olarak algılanıyorum.
+86|Yani, bu hidrolik pres tarafından...
+87|Ah... evet...
+91|Görünüşe göre insan olarak değil sadece\nmakine olarak algılanıyorum.
+94|<CLT=cltMIND>Bu ne?\nBuradaki makineyi bu mu çalıştırıyor?
+95|Ah, bu kontrol paneli...
+96|Bu büyük ihtimalle alarm sisteminin ve\nelektrikli bariyerin kontrol paneli.
+97|Evet, öyle görünüyor.
+98|Ama bariyeri tekrar açmak için bir sebep\nyok, o yüzden dokunmamalıyız.
+99|Bunu onu devre dışı bırakmak için gereken\n59 haneli kodu ezbere bilmediğim için mi söylüyorsun?
+100|Çünkü bütün robotlar üç haneden fazlasını\nezberleyebilir, ima ettiğin bu mu?
+101|H-Hayır...?
+104|<CLT=cltMIND>Buradaki her şeyi inceledim.
+105|<CLT=cltMIND>Burası kesinlikle Exisal'lar için bir\nhangar ama hepsi devre dışı.
+106|<CLT=cltMIND>Monokuma haklı olabilir...\nburanın artık hiçbir amacı yok.
+107|Hey, Shuichi! İşte buradasın.\nSeni arıyordum!
+108|Hey, yemekhaneye gel. Tsumugi herkesin\norada buluşmasını istediğini söylüyor.
+110|Bir şey bulduğunu söyledi. Muhtemelen\n<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>.
+111|Neyse, olabildiğince çabuk gel.\nBen önden gidiyorum.
+## c05_002_251
+0|Monokuma'nın verdiği anahtarlarla açılabilecek\npek fazla kapı kalmadı, değil mi?
+1|O duvarda bir kapı var. Belki\ngirebiliriz?
+2|Kapının yanında anahtar deliğine benzeyen\nbir şey var.
+3|Ama sadece iki "son" anahtarımız var...
+4|Bir <CLT=cltSTRONG>Hırsız Anahtarı<CLT=cltNORMAL> ve bir <CLT=cltSTRONG>Sihirli Anahtar<CLT=cltNORMAL>\nolsa daha iyi olurdu...
+5|Ha? Neden?
+6|Ah, dert etme. Sadece kendi kendime\nkonuşuyordum.
+7|Ama... bu kaç kez oldu artık?
+9|Sınıf duruşması bitiyor, Monokuma'nın ödüllerini\nalıyoruz, sonra yeni bir alan arıyoruz...
+10|Bilirsin... aynı akış tekrar tekrar.
+11|Ve bütün cinayetlerin keşfettiğimiz alanlarda\nolmaya devam etmesi...
+12|Bir şey bulmasak daha iyi olur diye\nbiraz düşündüm...
+13|Ama... bu akademinin gizemini çözmek için...
+14|gerçeği hatırlamak için <CLT=cltSTRONG>Geri Dönüş Işıkları<CLT=cltNORMAL>'nı\nkullanmak zorunda kalacağız.
+15|Tabii ki... bunu da yapmamız gerektiğini biliyorum...
+17|Tamam. Bunu dert etmeyi\nbırakacağım.
+18|Gonta ve diğer herkes için yaşamalıyız...\nve buradan kaçmalıyız.
+19|Evet... doğru.
+20|Tamam, o zaman sıradan bir şekilde okula\nbakınacağım. Bir şey bulursam haber veririm.
+27|<CLT=cltMIND>Tenko şu an Kokichi ile nasıl\nbaşa çıkardı acaba...
+28|<CLT=cltMIND>Miu... En sonunda bile baştan\nsona sorundun.

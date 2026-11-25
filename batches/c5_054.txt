@@ -1,0 +1,75 @@
+@ chap5_text_US
+## c05_203_000
+11|<CLT=cltMIND>Ama neden? Anlaştığımızı\nsanıyordum...
+12|<CLT=cltMIND>Kaito'nun hâlâ hayatta olduğuna\n...inanmak isteyeceğini sanıyordum.
+13|<CLT=cltMIND>Her iki durumda da görünüşe göre Maki\nKaito'nun kıyafetlerine takılmış.
+14|<CLT=cltMIND>Bu durumda o kanıta güvenmenin\nkusurunu göstermeliyim.
+15|<CLT=cltMIND>Bunu yaparsam... bence fark edecek.\nKaito'nun hayatta olma ihtimali var.
+16|Aslında hidrolik preste bulunan kıyafetlerle\nilgili kafamı kurcalayan bir şey var.
+17|Nyeh? Onların nesi?
+18|<CLT=cltMIND>O kıyafetlerde tuhaf bir\nşey var...
+19|Kıyafetin sahibi
+20|O kıyafetler gerçekten Kaito'ya\nmı aitti?
+21|Kolundan Kaito'nun kıyafeti olduğunu anlayabiliriz.\nBaşka kimse o rengi giymiyordu.
+23|Ceketin kolu
+24|Kıyafetteki kan lekesi
+25|Kan lekesi hakkında...
+26|Kurban Kaito olduğuna göre bu onun kanı\nolmalı. Başka ne ihtimal var ki?
+29|Nyeh?\nNe oldu?
+32|Hidrolik presten neden <CLT=cltSTRONG>sadece kol<CLT=cltNORMAL>\ndışarı çıkıyordu?
+33|Kaito pres tarafından ezilseydi kolun\nboş olmaması gerekirdi...
+34|Kolun içinde bir kol da\nolmalıydı.
+35|Yani boş bir kol bulmamız\nşunu göstermeli—
+36|<CLT=cltMIND>Ha!?
+37|Bunu sana açıklamak için zahmete girmem\ngerekiyorsa sandığımdan da aptalsın.
+38|Bunu bile göremiyorsan sessiz ol.\nYoksa sadece beni sinir ediyorsun.
+## c05_204_000
+0|Ne dedin?
+1|Onunla bunca zaman geçirdikten sonra\nonun hakkında hâlâ hiçbir şey bilmiyorsun.
+3|<CLT=cltMIND>Maki... her zamankinden de daha\ncani görünüyorsun.
+4|<CLT=cltMIND>Bu tartışmada iyi iş çıkarmalıyım,\nyoksa gerçekten beni öldürecek gibi!
+5|<CLT=cltMIND>Maki'nin iddiası sağlam görünüyor\nama öyle olmadığını biliyorum.
+6|<CLT=cltMIND>Presten çıkan *sol* koldu!\nOna bunu anlatmalıyım!
+8|<CLT=cltMIND>Yanılıyor, bu kanıta dayanarak Kaito'nun\nöldüğü sonucuna varamayız!
+13|<CLT=cltMIND>Onu geri itmeye bu kadar yaklaşmıştım!\nBu sefer yapacağım... yapabileceğimi biliyorum! <CLT=cltNORMAL>
+## c05_204_001
+0|Hidrolik presten
+1|Hidrolik presten çıkan\nceket kolu...
+2|<CLT=size2>çıkan<CLT=size1> ceket
+3|<CLT=size2>kolu...
+4|epey\n<CLT=size2>şey\n<CLT=size1>anlatıyor.
+5|epey şey anlatıyor.
+6|<CLT=size2>Kaito'dan
+7|Kaito'dan başka biri...
+8|<CLT=size2>başka
+9|biri...
+10|<CLT=size2>olamazdı.
+11|olamazdı.
+12|<CLT=size2>Bunu
+13|Bunu göremiyorsan...
+14|göremiyorsan
+15|...
+16|yeterince dikkatli <CLT=size2>bakmamışsın\ndemektir<CLT=size1>.
+17|yeterince dikkatli bakmamışsın demektir.
+18|Yeterince dikkatli <CLT=size2>bakmamış mıyım?
+19|Yeterince dikkatli bakmamış mıyım?\nNe demek istiyorsun?
+20|Ne demek <CLT=size2>istiyorsun?
+21|O her zaman
+22|O her zaman oldukça\ntuhaf bir şekilde giyinirdi.
+23|<CLT=size2>oldukça<CLT=size1> tuhaf
+24|bir <CLT=size2>şekilde
+25|giyinirdi.
+26|Kollarını
+27|Kollarını asla ceketinin\nkollarından geçirmezdi.
+28|<CLT=cltWEAK><CLT=size2>asla<CLT=size1> ceketinin <CLT=size2>kollarından
+29|geçirmezdi.
+30|Yani hidrolik
+31|Yani hidrolik pres onu\nezdiğinde...
+32|<CLT=size2>pres
+33|onu <CLT=size2>ezdiğinde<CLT=size1>...
+34|<CLT=size2>dışarıda<CLT=size1> kalan
+35|dışarıda kalan tek şey ceketinin koluydu.
+36|<CLT=size2>tek<CLT=size1> şey
+37|<CLT=size2>ceketinin
+38|<CLT=size2>koluydu.
+39|Anladıysan\n<CLT=size2>artık\nsessiz\nol\nbari.

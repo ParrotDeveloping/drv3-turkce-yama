@@ -1,0 +1,64 @@
+@ chap5_text_US
+## c05_709_053
+1|<CLT=cltMIND>Himiko, titriyorsun…\nİyi misin?
+5|<CLT=cltSYSTEM>Ne yapmalıyım?\nBir süre Himiko ile takılayım mı?
+6|Titremiyorum! Sihrimi şarj ediyorum!\nHeyecandan... titremek gibi bir şey!
+7|<CLT=cltMIND>Titreyen Himiko'yu cesaretlendirerek\nbiraz vakit geçirdim...
+## c05_710_050
+0|Kendine kahraman diyerek havalı\ngörünmeye çalışıyor...
+1|...ama ne zaman pervasız bir şey yapsa\narkasını toplamak bize kalıyor.
+6|Ona göz kulak olmalısın, tamam mı?\nYardımcısı olarak senin işin bu.
+7|<CLT=cltMIND>Hayır, onun yardımcısı değilim...\nSadece... şu an onunla konuşmak zor...
+## c05_710_051
+1|<CLT=cltSTRONG>Gofer Projesi<CLT=cltNORMAL> belgeleri Kaito'nun\naraştırma laboratuvarında neden vardı?
+5|<CLT=cltSYSTEM>Bir süre Maki ile takılayım mı?
+6|Monokuma onları oraya bir sebeple koymuş\nolmalı... İçimde kötü bir his var...
+7|Hey, kaçırdığımız başka bir şey var mı...?\nTekrar bakmalıyız.
+8|<CLT=cltMIND>Maki ile Kaito'nun laboratuvarını bir\nkez daha inceledik...
+## c05_710_052
+0|Kaito bir süredir spor salonuyla okul\nbinası arasında gidip geliyor.
+1|Sanırım bu gece için hazırlanmak istiyor. Ama\nyardım etmeyi teklif ettiğimde beni geri çevirdi.
+2|...Ona aşırıya kaçmamasını söyledim ama\nbeni hiç dinlemiyor.
+6|<CLT=cltSYSTEM>...Ne yapmalıyım?\nMaki'nin keyfi yok gibi görünüyor...
+7|Evet... her zamanki gibi dağınıklığını\nbize toplatacak...
+8|O zaman hazırlıkları ona bırakalım.
+## c05_710_053
+0|Bu gece, ha...?
+1|Ne olacağını bilmiyorum ama elimden\ngeleni yapacağım.
+5|<CLT=cltSYSTEM>Bir süre Maki ile takılayım mı?
+6|O zaman biraz esneme hareketi yapalım.
+7|...İhtiyacın olacak.
+8|<CLT=cltMIND>Maki'nin önderliğinde biraz\nantrenman yaptık...
+## c05_712_050
+0|Kahraman olmak yalnızlıktır...
+1|Klasik bir konu! Çok güçlü oldukları için\nyalnız olan kahramanlar bile var.
+6|Bütün bu karmaşayı tek yumrukla temizleyebilecek\nbir kahramanı bekliyorum!
+7|<CLT=cltMIND>Tsumugi bana en sevdiği kahramandan\ntutkuyla bahsetti...
+## c05_712_051
+0|Gonta gittiğine göre... araştırma laboratuvarındaki\nbütün böceklere ne olacak acaba.
+1|Onlarla başa çıkabileceğimizi sanmıyorum...
+6|Kendimi kötü hissettiriyor ama onları\nkendi hallerine bırakalım...
+7|Gonta kızar mı acaba...
+8|<CLT=cltMIND>Tsumugi ile sessizce biraz vakit geçirdim...
+## c05_712_052
+0|İçimizde savaşabilecek tek kişi Maki kaldı...\nGerçekten iyi olacak mı acaba.
+5|Ö-Özür dilerim... bu kadar olumsuz olduğum için.
+6|Bu daha önce hiç olmadığı gibi bir fırsat!\nYararlı olmak için elimden geleni yapacağım!
+## c05_712_053
+0|Hey, Monokuma muhtemelen planımızı\nbiliyordur, değil mi?
+1|O zaman neden bizi durdurmaya çalışmıyor...?\nBelki bize biraz alan tanıyordur?
+6|Ah... bunu düşününce\nendişeleniyorum...
+7|N-Neden aklımızı dağıtmak için burada\nkarışık meyve suyu içmiyoruz?
+8|<CLT=cltMIND>Tsumugi'nin laboratuvarında özel\nkokteyllerinden birini denedim...
+## c05_999_250
+1|<CLT=cltMIND>Bir <CLT=cltSTRONG>ceset bulunma anonsu<CLT=cltMIND>...\n<CLT=cltSTRONG>beynin<CLT=cltMIND> hâlâ hayatta olduğu anlamına geliyor...
+2|<CLT=cltMIND>Ama... hâlâ... Kaito'nun...\nöldüğüne... inanmıyorum.
+3|<CLT=cltMIND>Anonsların artık anlamı yok.\nHer şey... bitti.
+5|<CLT=cltMIND>Demek bütün o anonsların ardında\naslında Kokichi varmış.
+9|<CLT=cltMIND>Herkes yemekhanede olmalı...\nBen de gitmeliyim.
+10|<CLT=cltMIND>Maki beni davet etti... <CLT=cltSTRONG>Ultimate\nSuikastçı'nın laboratuvarına<CLT=cltMIND> gitmeliyim.
+12|<CLT=cltMIND>Neyse... spor salonuna gitmeliyim.\nEminim herkes orada toplanmıştır.
+13|<CLT=cltMIND>Herkes yeraltı geçidine gitti.\nAcele edip onlarla buluşmalıyım.
+14|<CLT=cltMIND>Şimdilik yemekhaneye gitmeliyim...
+15|<CLT=cltMIND>Kaito'nun nasıl olduğuna bakmalıyım...
+17|<CLT=cltMIND>Önce yemekhaneye gitmeliyim!\nHerkes orada olmalı.

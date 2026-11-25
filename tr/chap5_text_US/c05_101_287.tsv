@@ -1,3 +1,185 @@
+0	<CLT=cltMIND>Alarm sistemi kapalı.\nHâlâ Elektro Bombanın etkisinde olmalı.
+1	Burayı iyice incelemeliyim...\nBuralarda bir ipucu olmalı.
+2	Of... Sanırım kendimi biraz daha iyi\nhissetmeye başlıyorum.
+3	Seni endişelendirdiğim için özür dilerim, Shuichi.
+4	Ah, biraz endişelenmiştim...\nDaha iyi hissetmene sevindim.
+5	<CLT=cltMIND>Keebo'ya sormam gereken bir şey\nvardı.
+6	Hey, Keebo. Bu sabah hangara girmeden\nönce demiştin ki...
+7	O yüzden dün gece hangara gidip onunla\nkonuşmaya çalıştım.
+8	Onunla... tek başına mı konuşmaya çalıştın?
+9	Özür dilerim... Kaito'yu barışçıl bir şekilde\nserbest bırakmasının daha iyi olacağını düşündüm...
+10	Nasıl geçti?
+11	Beklediğim gibi geçti...\nHiç cevap gelmedi.
+12	Ama birkaç şeye tanık oldum.
+13	Birkaç şeye tanık olduğunu söylemiştin.\nTam olarak ne gördün?
+14	Ah, evet. Acelemiz olduğu için size sadece\nExisal'ın hangara döndüğünü söyledim...
+15	Evet, Exisal'ların alarm sisteminden ve\nbariyerden geçip hangara girebildiğini söylemiştin.
+16	Böyle bir şey olacağını hiç hayal etmemiştim,\no yüzden daha önce bahsetmedim...
+17	Ama Exisal'ı görmeden önce hangara doğru\ngiden <CLT=cltSTRONG>birini<CLT=typeNORMAL> gördüm.
+18	<CLT=cltSTRONG>Birini<CLT=typeNORMAL> mi gördün?
+19	Gördüğüm... Himiko'ydu.
+20	Laboratuvarımda Kokichi'yi ikna etmek için\nne yazmam gerektiğini düşünüyordum...
+21	O sırada onun elinde bir şey tutarak\nhangara doğru yürüdüğünü gördüm...
+22	Sanırım siyah bir çantaydı.
+23	Siyah bir çanta mı?
+24	O zaman bir şeyleri incelemek ya da Kokichi'ye\nyalvarmak için oraya gittiğini varsaydım.
+25	Ve sonra geri geldiği için pek\nüzerinde durmadım...
+26	Ama... bu sabahki tepkisini gördükten sonra\nbiraz şüphelenmeye başladım.
+27	N-Ne? Ne... gördün?
+28	Sanki... saklayacak bir şeyi varmış gibi davranıyordu.\nOndan şüphelenmek istediğimden değil...
+29	Doğru, şüpheli...
+30	Onun geri geldiğini de gördüğünü söyledin...
+31	O sırada çantayı tutuyor muydu?
+32	Şimdi düşününce... tutmuyordu.
+33	<CLT=cltMIND>Yani gelirken elindeydi ama\ngiderken değil...
+34	<CLT=cltMIND>Kesinlikle öyle. Himiko'nun taşıdığı\no siyah çanta—
+35	Bu arada, bu biraz konu dışı, Shuichi,\nama...
+36	Ha? Ne oldu?
+37	Kendimi iyi hissetmememin sebebi Elektro\nBomba olabilir.
+38	Ama bunun sebebi elektromanyetik parçacıklardı,\nrobot olmam değil...
+39	Yani yaşadığım şey saman nezlesi gibi bir\nalerjik reaksiyona benziyordu...
+40	Yani bir insanı da aynı şekilde etkileyebilirdi!\nRobot olmamın bununla hiçbir ilgisi yoktu!
+41	Ah, doğru... öyle olmalı.
+42	<CLT=cltMIND>Demek Himiko'nun söylediği o şey onu\nrahatsız etmiş. Gerçekten biraz fazla hassas...
 43	<CLT=cltSYSTEM>"<CLT=cltSTRONG>K1-B0'ın İfadesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+44	Dün gece Exisal'ın hangara girdiğini\ngörmeden önce...
+45	Himiko'nun hangara doğru gittiğini gördüm.
+46	Laboratuvarımda Kokichi'yi ikna etmek için\nne yazmam gerektiğini düşünürken...
+47	Onun elinde siyah bir çantaya benzeyen bir\nşey tutarak hangara gittiğini gördüm.
+48	Siyah bir çanta mı?
+49	O zaman bir şeyleri incelemek ya da Kokichi'ye\nyalvarmak için oraya gittiğini varsaydım.
+50	Ve sonra geri geldiği için pek\nüzerinde durmadım...
+51	Ama... bu sabahki tepkisini gördükten sonra\nbiraz şüphelenmeye başladım.
+52	N-Ne? Ne... gördün?
+53	Sanki... saklayacak bir şeyi varmış gibi davranıyordu.\nOndan şüphelenmek istediğimden değil...
+54	Doğru, şüpheli...
+55	<CLT=cltMIND>Ve Himiko geri gelirken siyah\nçanta yanında değildi...
+56	<CLT=cltMIND>İçeri girerken kesinlikle yanındaydı\nama eli boş çıktı.
+57	<CLT=cltMIND>Keebo'nun gördüğü siyah çanta...\nkesinlikle...
+58	<CLT=cltMIND>İçeriyi iyice inceledim.\nŞimdi hangarın etrafına bakmalıyım.
+59	<CLT=cltMIND>Exisal'ların olduğu yere bir kez\ndaha bakmalıyım.
+60	<CLT=cltMIND>Burada bir Elektro Çekiç var...\nAma neden?
+61	<CLT=cltMIND>Burada neden bir Elektro Çekiç\nolsun ki?
+62	<CLT=cltMIND>Ve şarjı bitmiş.\nKullanılmış olmalı.
+63	<CLT=cltMIND>Ama ne için kullanılmış...?
+64	Ama dikkatli olun. Elektro Çekicin pili\nepey çabuk bitiyor.
+65	Yani bir Exisal'a karşı kullanırsanız tek\nvuruşta şarjı biter, anladınız mı?
+66	Elektro Çekicin gücü biterse tekrar şarj\nolması 24 saat sürüyor...
+67	<CLT=cltMIND>Bunu kesin olarak biliyoruz...
+68	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kullanılmış Elektro Çekiç<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+69	<CLT=cltMIND>Dün gördüğüm manzarayı hatırlıyorum...
+70	<CLT=cltMIND>Nedense Monokuma'yı koruyan\nExisal'lar.
+71	<CLT=cltMIND>Kokichi beyin olduğunu söyledi, Exisal'ların\n*onun* etrafında olması gerekirdi.
+72	<CLT=cltMIND>O zaman neden hâlâ Monokuma'yı\nkoruyorlardı? Hem de dört tanesi...
+73	Sanırım Kokichi'yi düşünmeye o kadar dalmıştım\nki Monokuma'yı görmezden geldim...
+74	Dikkat edin! Dinleyin! Kulak verin diyorum!
+75	Monokuma mı!?
+76	Sadece... dün gece senin bu tarafa\ngeldiğini fark ettim, Shuichi.
 77	Ha...?
+78	Puhuhu... Epey sinsi davranıyordun,\ndeğil mi?
+79	Video dükkânının yetişkin filmleri bölümüne\nsızmaya çalışan bir ergen gibi.
+80	Ama gizlice dolaşmana gerek yoktu, çünkü\nExisal'lar sana saldırmazdı.
+81	...Ne diyorsun?\nGizlice dolaşmamıza gerek yok muydu—
+82	Çünkü herkes yetişkin filmi kiralamaya geliyor,\nyani bir bakıma oraya giden herkes aynı—
+83	H-Hayır, *o* değil!\nExisal'ların bize saldırmamasını kastettim.
+84	Ah, o sırada Exisal'lar otomatik pilottaydı\nve sadece beni gözetlemeye yönlendirilmişti.
+85	Monoyavrular onları kullanmak için etrafta\nolmadığından hareketleri artık daha kısıtlı.
+86	Otomatik pilot mu? Yani... Kokichi'deki\nuzaktan kumandayı mı kastediyorsun?
+87	...Evet, aşağı yukarı öyle.
+88	<CLT=cltMIND>Demek Exisal'lar Kokichi'nin uzaktan\nkumandasıyla kontrol ediliyordu...
+89	<CLT=cltMIND>ama Monokuma'ya mı odaklanıyorlardı?
+90	...Bunları bana neden anlatıyorsun?
+91	Bu seni kontrol eden kişiyi dezavantajlı\nduruma düşürüyor.
+92	Ama ondan bahsetmiyoruz...\nBundan bahsediyoruz.
+93	Birini dezavantajlı duruma düşürse bile sınıf\nduruşması her zaman adil olmalı.
+94	Bu bilgiyi benimle paylaşan kişi bunu sizinle\npaylaşmaya istekli görünmüyordu...
+95	O yüzden onun yerine sen paylaş! Böylece\nbütün katılımcılar için adil olur!
+96	<CLT=cltMIND>Demek benden başka biri daha\nbunu biliyor...
+97	<CLT=cltMIND>Bu bilgiyi neden paylaşmasınlar ki?
+98	Tamaaam! Size söyleyebileceklerim bu kadar!
+99	Bu arada, film kiralamak çok eski moda.\nYasadışı indirmek çok daha heyecanlı...
+100	Seks sırasında nefesini tutarken büyük av\navcısına yakalanmamaya çalışmak gibi!
+101	<CLT=cltMIND>Exisal'larla ilgili bu bilgi bu davayı\nçözmek için bir ipucu olabilir...
+102	<CLT=cltMIND>Bunu hatırlamalıyım.
+103	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma'yı Koruyan Exisal'lar<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+104	<CLT=cltMIND>Burada neden bir Elektro Çekiç\nolsun ki?
+105	<CLT=cltMIND>Ve şarjı bitmiş.\nKullanılmış olmalı.
+106	<CLT=cltMIND>Ama ne için kullanılmış...?
+107	Ama dikkatli olun. Elektro Çekicin pili\nepey çabuk bitiyor.
+108	Yani bir Exisal'a karşı kullanırsanız tek\nvuruşta şarjı biter, anladınız mı?
+109	Elektro Çekicin gücü biterse tekrar şarj\nolması 24 saat sürüyor...
+110	<CLT=cltMIND>Bunu kesin olarak biliyoruz...
+111	Dün gördüğüm manzarayı hatırlıyorum...
+112	<CLT=cltMIND>Demek Exisal'lar Kokichi'nin uzaktan\nkumandasıyla kontrol ediliyordu...
+113	<CLT=cltMIND>ama Monokuma'ya mı odaklanıyorlardı?
+114	<CLT=cltMIND>Kokichi uzaktan kumandayla Exisal'ları\nkontrol edebiliyor...
+115	<CLT=cltMIND>Ama Monokuma'nın bunları bana neden\nsöylediğini anlamıyorum.
+116	<CLT=cltMIND>Ama başka birinde bu bilgi vardı\nve bunu kendine sakladı.
+117	<CLT=cltMIND>Monokuma böyle dedi...
+118	<CLT=cltMIND>Benden başka biri biliyor ve\nsöylemiyor.
+119	<CLT=cltMIND>O kişi... bu davaya karışmış\nolabilir mi?
+120	<CLT=cltMIND>Burası banyo penceresi.
+121	<CLT=cltMIND>Bu hangarın tek penceresi ve\niçinden geçmek mümkün değil.
+122	Yani bu hangara girmenin tek yolu\nkepenk.
+123	<CLT=cltMIND>Burası banyo penceresi.
+124	<CLT=cltMIND>Bu hangarın tek penceresi ve\niçinden geçmek mümkün değil.
+125	<CLT=cltMIND>Yani bu hangara girmenin tek yolu\nkepenk.
+126	<CLT=cltMIND>Hangarın kepengi...
+127	<CLT=cltMIND>Burada bir güvenlik alarmı var.
+128	<CLT=cltMIND>Kepenge yaklaşmak için alarm kumandasıyla\nonu devre dışı bırakmalısın.
+129	<CLT=cltMIND>Kumanda olmadan kepenge\nyaklaşırsan...
+130	<CLT=cltMIND>Bütün akademide yüksek bir alarm\nçalar.
+131	<CLT=cltMIND>Sensörü ve alarmı devre dışı bırakmak için\nbir Elektro Bomba kullanmak zorunda kaldık.
+132	<CLT=cltMIND>Hangara böyle girdik.
+133	Nii-hihi... Ama *tam olarak* bir bomba değil.\nAdı <CLT=cltSTRONG>Elektro Bomba<CLT=cltNORMAL> olsa bile...
+134	Elektromanyetik dalgalara müdahale eden\nparçacıklar saçarak elektronik sinyalleri bozuyor.
+135	İki saat boyunca 50 metre içindeki tüm\nelektronik cihazlar tamamen devre dışı kalıyor.
+136	Hiç kalıntı bırakmadığı için her türlü\ngizli faaliyet için de mükemmel.
+137	Bu icat olağanüstü! Ama bende sadece\nüç tane var...
+138	O yüzden dikkatli kullanmalıyım. Siz\nElektro Çekiçlerle yetinmek zorundasınız.
+139	<CLT=cltMIND>Şimdi düşününce...\ntoplam üç Elektro Bomba vardı.
+140	<CLT=cltMIND>Birini Maki çaldı,\npeki ya diğer ikisi?
+141	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Elektro Bomba<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+142	<CLT=cltMIND>Burada bir sensörlü alarm var.
+143	<CLT=cltMIND>Kepenge yaklaşmak için alarm kumandasıyla\nonu devre dışı bırakmalısın.
+144	<CLT=cltMIND>Kumanda olmadan kepenge\nyaklaşırsan...
+145	<CLT=cltMIND>Bütün akademide yüksek bir alarm\nçalar.
+146	<CLT=cltMIND>Sensörü ve alarmı devre dışı bırakmak için\nbir Elektro Bomba kullanmak zorunda kaldık.
+147	<CLT=cltMIND>Hangara böyle girdik.
+148	<CLT=cltMIND>Şimdi düşününce...\ntoplam üç Elektro Bomba vardı.
+149	<CLT=cltMIND>Birini Maki çaldı,\npeki ya diğer ikisi?
+150	<CLT=cltMIND>Bu, hangarı koruyan elektrikli bariyeri\nkontrol eden kontrol paneli.
+151	<CLT=cltMIND>Ona Elektro Çekiçle vurduk,\nyani şu an çalışmıyor.
+152	Doğru...\nBuradaki izler ne?
+153	<CLT=cltMIND>Keskin bir şeyle vurulmuş gibi\ngörünüyor. Bunlar ne olabilir?
+154	Ah, dur... buna en başta nasıl hasar\nverebildiler ki?
+155	Kontrol paneline yaklaşmak alarmın\nçalmasına sebep olmalı.
+156	Yaklaşmadan önce bile alarmı\nkapatman gerekiyor...
+157	<CLT=cltMIND>Peki bunu yapan kişi kontrol paneline\nnasıl yaklaştı?
+158	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Hangarın Ön Kepengi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+159	<CLT=cltMIND>Bu, hangarı koruyan elektrikli bariyeri\nkontrol eden kontrol paneli.
+160	<CLT=cltMIND>Ona Elektro Çekiçle vurduk,\nyani şu an çalışmıyor.
+161	Doğru, merak ediyordum...\nBuradaki izler ne?
+162	<CLT=cltMIND>Keskin bir şeyle vurulmuş gibi\ngörünüyor. Bunlar ne olabilir?
+163	Ah, dur... buna en başta nasıl hasar\nverebildiler ki?
+164	Kontrol paneline yaklaşmak alarmın\nçalmasına sebep olmalı.
+165	Yaklaşmadan önce bile alarmı\nkapatman gerekiyor...
+166	<CLT=cltMIND>Peki bunu yapan kişi kontrol paneline\nnasıl yaklaştı?
 167	<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
+168	<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.\nSanırım bunlara hiçbir zaman alışamayacağım.
+169	<CLT=cltMIND>Exisal hiçbir hareket belirtisi\ngöstermiyor.
+170	<CLT=cltMIND>Kokichi hayattaysa uzaktan kumandasıyla\nonları istediği gibi hareket ettirebilir.
+171	<CLT=cltMIND>Ama... Kokichi'nin Exisal'lar için\nkullandığı o uzaktan kumanda...
+172	<CLT=cltMIND>Tam olarak ne? Beyin olduğu için mi\nonda var?
+173	<CLT=cltMIND>Burada tam olarak neye tanık oldum...?
+174	<CLT=cltMIND>Exisal'ların Kokichi'nin uzaktan kumandasıyla\nkontrol edildiğini kesin olarak biliyorum...
+175	<CLT=cltMIND>Ama neden Monokuma'ya odaklanıyorlardı?
+176	<CLT=cltMIND>Hangarda kafamı kurcalayan şeyler\naşağı yukarı bu kadar...
+177	Ama hâlâ yeterli ipucum yok...\nDaha fazlası olmalı.
+178	<CLT=cltMIND>İpucu çıkabilecek diğer\nyerler...
+179	Maki'nin laboratuvarı... ve benim laboratuvarım...
+180	<CLT=cltMIND>Banyodaki arbalet,\nzehir şişesi...
+181	<CLT=cltMIND>Bu izleri incelemeliyim.
+182	Monokuma'yı koruyan üç Exisal'ı da\nincelemeliyim.
+183	En başta onu neden\nkoruyorlardı?
+184	Bu da davayla ilgili\nolabilir.

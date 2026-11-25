@@ -1,0 +1,54 @@
+@ chap5_text_US
+## c05_103_220
+102|<CLT=cltMIND>Demek içeriden böyle görünüyor.\nKüçük ama bir kişiye yetecek kadar büyük.
+116|<CLT=cltMIND>Presin içinden bir kol çıkıyor.\nKesinlikle... Kaito'nun ceketinin kolu.
+121|Koldaki küçük bir delik...\nBuna ne sebep olmuş olabilir?
+122|<CLT=cltMIND>Kaç kez incelersem inceleyeyim...\nbildiğim aşağı yukarı bu kadar.
+128|Bunu yakından incelemeliyim...
+132|<CLT=cltMIND>Faydası yok...\nÖzellikle şüpheli bir şey görünmüyor.
+134|Puhuhuhu... Vakti geldi.
+135|Doğru! <CLT=cltSTRONG>Umut<CLT=typeNORMAL> ile <CLT=cltSTRONG>umutsuzluğun<CLT=typeNORMAL> kafa kafaya\ngeldiği sınıf duruşması vakti!
+136|Lütfen avludaki Yargı Tapınağı'na gidip\nduruşma alanına inin.
+137|Herkes orada olmalı, anladınız mı!?
+138|Gelmeyen herkes hızla ve kalıcı olarak\ncezalandırılacak!
+139|Ah-hahahahaha! Bu sefer sizi ne tür bir\numutsuzluk bekliyor acaba?
+140|"Herkes" orada olmalı...
+141|<CLT=cltMIND>Bu demek oluyor ki... Kokichi ya da Kaito...\nKim hayattaysa orada olacak.
+142|Duruşmada... kurbanın kim olduğunu öğreneceğiz.
+## c05_103_287
+26|Bu kontrol paneline yaklaşmak için alarm\nsistemini kapatman gerekiyor...
+29|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.\nŞu an buna vaktim yok...
+## c05_104_269
+0|Herkes bu değil... değil mi?
+1|...Kaito ve Kokichi burada değil.
+2|...Eminim Kokichi çoktan oradadır.
+3|Öldürme oyununun beyni olarak\ngelmemizi bekliyor.
+5|Bunu... henüz bilmiyoruz.\nKaito'nun hayatta olma ihtimali hâlâ var.
+6|...Kes şunu. Ölmek mi istiyorsun?
+8|Bu <CLT=cltSTRONG>umut<CLT=typeNORMAL> ile <CLT=cltSTRONG>umutsuzluk<CLT=typeNORMAL> arasında bir savaş.\nSenin gibi bir zayıflık gösterirsem...
+9|...<CLT=cltSTRONG>umutsuzluğa<CLT=typeNORMAL> yenileceğimi biliyorum.
+10|<CLT=cltMIND>Umutsuzluğa yenilmek...
+11|Altımız katılacağız ve bu sınıf duruşmasından\nsonra birimiz ölecek...
+12|O zaman sadece beşimiz kalacak. Sadece... beş...
+13|D-Doğru... Biz... geriye kalan tek kişileriz...
+14|Ama <CLT=cltSTRONG>umutsuzluğa<CLT=typeNORMAL> yenilemeyiz. Geleceğimiz\nolmasa bile kazanmalıyız.
+15|Bu... bu sınıf duruşmasının asıl amacı.
+16|Neyi feda etmem gerekirse gereksin\nKokichi'yi yeneceğim.
+17|<CLT=cltMIND>Neyi feda etmesi gerekirse\ngereksin mi?
+18|<CLT=cltMIND>Bundan emin misin, Maki?
+19|<CLT=cltMIND>"<CLT=cltSTRONG>Umut<CLT=cltMIND>" dediğin bu mu?
+21|<CLT=cltMIND><CLT=cltSTRONG>Umutsuzluğa<CLT=cltMIND> yenilemeyeceğimizi biliyorum.
+22|<CLT=cltMIND>Ama... bir şeyler yanlış.\nBir şey doğru gelmiyor.
+23|<CLT=cltMIND>Böyle bir zamanda Kaito ne derdi\nacaba.
+24|<CLT=cltMIND>Bize ne derdi?
+25|<CLT=cltMIND>Kaito olsaydı...
+27|Kokichi ne planlıyor olursa olsun\nkaybetmemizin imkânı yok.
+28|...Ne de olsa biz Hope's Peak Akademisi'nin\nöğrencileriyiz.
+29|B-Ben iyiyim. Bütün zaman boyunca tetikte olacağım.
+30|Şu an <CLT=cltSTRONG>umudun<CLT=cltNORMAL> ve sihrin birleşik\ngücüyle doluyum!
+31|Neyi feda etmem gerekirse gereksin Kokichi'yi\nyeneceğim. Kaybedemeyiz...
+32|Shuichi... inanmak istemediğini anlıyorum\nama...
+33|Kaito... artık burada değil.
+36|<CLT=cltMIND>...Umut nedir?
+46|<CLT=cltMIND>Birbirimize tek kelime etmedik.
+47|<CLT=cltMIND>Mezar gibi bir sessizlik içinde o açık\nkapılardan içeri adım attık.

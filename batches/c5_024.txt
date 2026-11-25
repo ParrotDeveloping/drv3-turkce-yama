@@ -1,0 +1,63 @@
+@ chap5_text_US
+## c05_012_354
+266|B-Bunu da mı hesapladın?
+267|Üzgünüm, Kaito. Senin minik beynin\nbenimkinden çok farklı.
+269|Bana öyle bakmaaa. Beni yumruklamak da\nhiçbir şeyi çözmez, biliyor musun?
+270|Ölüleri diriltemezsin... ve Dünya'yı\neski haline döndüremezsin.
+271|...Değil miii?
+272|B-Bu böyle olsa bile...
+273|Seni yumruklamazsam bunu atlatamam!
+274|Kaito, dur!
+275|<CLT=cltMIND>Kaito koşmadan önce onu durdurmaya\nçalıştım ama...
+276|<CLT=cltMIND>Onu zamanında yakalayamadım.
+277|Aaaaaaaaaaaaahhhhhhh!!!
+278|Hay Allah... aptallığın önce biraz acı\nçekmeden iyileşmiyor.
+279|Dur!!!
+280|<CLT=cltMIND>Ama Maki'nin çığlığı boşunaydı.
+281|<CLT=cltMIND>Gözlerimizin önünde Kaito Exisal'a\nsaldırdı...
+282|<CLT=cltMIND>ve yere çalındı. Exisal'ın elinden bir\nbez bebek gibi sarkıyordu.
+284|...Merak etmeyin. Ölmedi.
+285|Ama artık biliyorsunuz, değil mi?\nBeyin olan bana karşı gelmenin faydası yok.
+286|Nii-hihi... Bu Exisal'lar aslında bizi\nkorumak için yapılmış makinelerdi.
+287|Diğer gezegenlerde ortaya çıkabilecek her\ntehlikeden bizi korumak için yapıldılar.
+288|Ama şimdi sizin için bu kadar büyük bir tehdit\nolmaları bence çok komik.
+290|Kaito'yu... ver...
+291|Maki?
+292|...Kaito'yu geri ver!
+293|<CLT=cltMIND>Gözlerinden ölüm saçarak Maki Kokichi'ye\ndik dik baktı ve ona doğru ilerledi.
+294|Hayır, Maki! Yapsan bile—
+295|...Bırak. Ölmek mi istiyorsun?
+296|Maki!
+297|Ben... bırakmayacağım! Beni öldürsen bile\nbırakamam!
+298|Lütfen, Maki...
+301|Aferin, Bay <CLT=cltSTRONG>Ultimate Dedektif<CLT=typeNORMAL>.\nAkıllıca bir karardı, Shuichi.
+302|Ama yeteneğin artık işe yaramaz.
+303|Öldürme oyununun gizemi, dış dünyanın sırrı,\nbeynin kimliği...
+304|Hepsi çözüldü! Artık bir dedektife ihtiyacımız\nyok! Bu gerçek <CLT=cltSTRONG>son<CLT=typeNORMAL>!
+305|S-Son mu...?
+306|Son buysa o zaman şimdi ne\nyapacağız!?
+307|E-Eğer dünya yok olduysa... ve biz...\nhayatta kalan son insanlarsak...
+308|Bundan sonra ne yapacağız!?
+309|İstediğinizi... yapmaya ne dersiniz?
+311|Bütün bunları başlatanın ben olduğumu biliyorum\nama artık sıkıldım... o yüzden kusura bakmayın millet.
+312|Bu yüzden gerçeği açıklamak istedim.\nYüzlerinizde tam bir umutsuzluk görmek istedim.
+313|Evet! Artık tamamen tatmin oldum, yani\nistediğinizi yapmakta özgürsünüz!
+314|D-Dur. Bütün bunları başlatan sendin...\nBu çok sorumsuzca...
+315|Birlikte intihar edebilir ya da\nbirbirinizi öldürebilirsiniz...
+316|Ya da fikrinizi değiştirip burada\nkalabilirsiniz! Bunu da yapabilirsiniz!
+317|Okulun <CLT=cltSTRONG>bariyeri<CLT=typeNORMAL> sayesinde bolca\noksijen var.
+318|Nii-hihi... Ne de olsa <CLT=cltSTRONG>Gofer Projesi<CLT=typeNORMAL>'nin\nGemi'si. İnsanlığın son umudu olması gerekiyor.
+319|Ah, ama biliyor muydunuz? Bariyerin öbür\ntarafındaki gökyüzü gerçek değil...
+320|Bu sadece Gemi'nin işlevlerinden biri. Bir uzay\ngemisinde olduğumuzu unutmamıza yardım etmek için.
+321|Neyse, öldürme oyunu bitti.\nArtık istediğinizi yapabilirsiniz.
+322|Ben... ne yapacağımı bilmiyorum...
+324|...Kaito'yla ne yapmayı planlıyorsun?
+325|Ah, sadece biraz sakinleşmesini istiyorum.
+326|Onun gibi kanı kaynayan aptallar baş belasıdır...
+327|Sonuçlarını düşünmeden istediklerini\nyaparlar.
+328|Sadece o olsa idare ederim. Ama hepinizi işin\niçine çekerse bu tamamen bir baş ağrısı...
+329|Ayrıca onu serbest bırakırsam öldürme oyunu\ntekrar başlayabilir.
+330|Neyseee, Shuichi. Exisal hangarının alarm\nkumandasını geri alabilir miyim?
+332|Orasının Kaito'yu tutmak için mükemmel\nbir yer olacağını düşünüyordum.
+333|...Ona verme, Shuichi.
+334|Ver onu, Shuichi.

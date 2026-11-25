@@ -1,0 +1,58 @@
+@ chap5_text_US
+## c05_003_010
+64|<CLT=cltMIND>Belki Kaito'nun özgüveninin temeli yok...
+65|<CLT=cltMIND>Ama böyle bir zamanda kendinden bu kadar\nemin birinin olması biraz rahatlatıcı.
+66|<CLT=cltMIND>Bir kahraman...\nGerçekten öyle olabilir.
+67|<CLT=cltMIND><CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND>'nı bulamadık,\no yüzden hepimiz yemekhaneden ayrıldık...
+68|<CLT=cltMIND>Ve odalarımıza döndük.
+69|<CLT=cltMIND>Tsumugi ciddi bir şey olduğunu söyledi.\nOna sormalıyım.
+78|<CLT=cltMIND>Tsumugi ile konuşmalıyım.
+## c05_004_101
+0|<CLT=cltMIND>Bugün hâlâ biraz vakit var...
+1|Peki... ne yapmalıyım?
+10|<CLT=cltMIND>Hâlâ biraz vakit var...\nFırsatım varken biraz dinlenmeliyim.
+## c05_004_220
+11|<CLT=cltMIND>Beş Exisal'ın hepsi burada saklanıyor.\nHiçbir hareket belirtisi yok...
+24|Kaito'nun kolluğu
+26|Kopuk güç kablosu
+## c05_005_100
+5|<CLT=cltMIND>Faydası yok...\nOna ne diyeceğimi bile bilmiyorum.
+## c05_006_001
+0|<CLT=cltMIND>...Belki cinsiyet değiştirdikten sonra. Gerçi şimdilik öyle bir planım yok.
+## c05_006_100
+5|<CLT=cltMIND>Eminim çoktan Maki'nin laboratuvarına\ngitmiştir. Ben de gitmeliyim.
+22|<CLT=cltMIND>Maki beni davet etti... <CLT=cltSTRONG>Ultimate\nSuikastçı'nın laboratuvarına<CLT=cltMIND> gitmeliyim.
+## c05_006_101
+0|Öhöm! Bu, Ultimate Akademi'nin bir\nanonsudur.
+1|Saat şu an akşam 10.\n<CLT=cltSTRONG>Gece vakti<CLT=cltNORMAL> resmen başlamıştır.
+2|Katiller, işte saldırma fırsatınız!\nKurbanlar, başınız sağ olsun!
+3|Bu gece bebek gibi mi uyuyacaksınız?\nYoksa ebedi uykuya mı?
+4|Her iki durumda da tatlı rüyalar!
+5|<CLT=cltMIND>...Gece vakti.
+6|<CLT=cltMIND>Normalde antrenman yapıyor *olurdum*...
+9|<CLT=cltMIND>Bu saatte kim olabilir?
+14|...Bir dakikan var mı?
+15|Maki? Ne oldu?
+16|Kaito az önce benden... araştırma laboratuvarımı\nona göstermemi istedi.
+17|Ha? Laboratuvarını mı?
+18|Hayır cevabını kabul etmeyeceğini bildiğim\niçin göstereyim bari...
+19|...O yüzden sen de gelmelisin.
+20|<CLT=cltMIND>Gitmemi mi istiyor?
+22|<CLT=cltMIND>Maki beni davet etti, yani... gitmeliyim.
+## c05_006_150
+0|Ah, geç kaldığım için özür dilerim...
+2|A-Ah... demek sen de geldin...
+6|<CLT=cltMIND>Sessizlik.
+8|<CLT=cltMIND>Acı veren sessizlikten tamamen sıkılmış\ngibi Maki bir konuşma başlattı.
+9|Neden birden araştırma laboratuvarımı\ngörmek istedin, Kaito?
+10|Şey... sadece burada ne tür silahlar\nolduğunu görmek istedim.
+11|Ne? Silahlarımı neden görmek isteyesin—
+12|Ama vay be! Burada bir ton şey var!\nHepsini kullanabiliyor musun, Maki Rulo?
+13|Evet, aşağı yukarı...
+14|Ama kılıç ya da katana yok, değil mi?
+15|Hiçbir türde kılıç kullanmam. Bir görevi\nkatanayla berbat ettikten sonra hiç.
+16|...Gerçekten hatırlamışsın.
+17|Tabii ki! Yardımcılarımın başarısızlıklarının\nsorumluluğunu aldığımı söylemedim mi?
+18|Her neyse, silahların kadınlara pek\nyakıştığını düşünmüyorum.
+19|Ama burada Japon ya da Batı, hiçbir\ntürde kılıç yok, değil mi?
+21|Hmm... Anlıyorum...

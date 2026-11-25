@@ -1,0 +1,57 @@
+@ chap5_text_US
+## c05_229_000
+34|<CLT=cltMIND>Bu davanın hangi yönü yeni kanıtla\nçelişiyor?
+35|Öldürme oyununun beyni
+36|Belki beyin Kokichi değildir...
+37|Nyeh? Bu neden değişsin ki?
+39|Kaito'nun ölüm sebebi
+40|Ölüm videosunun güvenilirliği
+41|Belki bomba ölüm videosunu bir\nşekilde etkilemiştir.
+42|Bomba iletişimi engelliyor...\nVideo kamerayı etkilediğini sanmıyorum...
+45|Hidrolik presteki güvenlik fonksiyonu\ncanlı organizmaları algılamak için...
+46|Belki bir şekilde etkisiz hale getirilmiştir?
+48|<CLT=cltMIND>Güvenlik fonksiyonu kapalı olsaydı hangi\nkanıt sorgulanır hale gelirdi?
+49|...<CLT=cltSTRONG>Kaito'nun ölüm sebebi<CLT=cltNORMAL>.
+51|Elektro Bomba Maki panzehri ulaştırmaya\nçalışırken kullanıldıysa...
+52|Belki Kaito zehirden ölmedi.\nTamamen başka bir şey olabilir.
+53|<CLT=cltMIND>Evet, ölüm sebebi artık şu\nolabilir...
+54|Mesela...?
+56|Bu zehirli okun yerine düşünmemiz\ngereken bir ölüm sebebi mi...?
+58|Zehirli ok dışında diğer olası ölüm\nsebebi ne?
+59|<CLT=cltSTRONG>Hidrolik pres<CLT=cltNORMAL>! Kaito sonuçta pres\ntarafından öldürülmüş olabilir!
+60|Ne!? Öyle mi olabilir!?
+61|Güvenlik kapalıysa pres Kaito'yu o hâlâ\nhayattayken ezebilirdi.
+62|Panzehri attıktan hemen sonra kepengi\naçmaya çalıştım...
+63|Yani... Kaito hâlâ hayatta olmalıydı!
+64|Ve ondan sonra hidrolik pres tarafından\nezildiyse ölüm sebebimiz bu!
+65|Eğer öyleyse Kaito'yu öldüren kişinin Maki\nolmadığı anlamına gelir...
+66|Hidrolik presi çalıştıran kişi olur...\n<CLT=cltSTRONG>Kokichi<CLT=cltNORMAL>!
+68|Anlıyorum... çok etkileyici. Hidrolik pres\nölüm sebebi *olabilirdi*.
+69|Ama bu... sadece bir ihtimal.
+71|Kaito'yu presle öldürmüş olmam mümkün\nama bilmenin hiçbir yolu yok.
+72|Kaito'nun ölüm sebebi ya <CLT=cltSTRONG>zehirli ok<CLT=cltNORMAL>\nya da <CLT=cltSTRONG>hidrolik pres<CLT=cltNORMAL> olabilir.
+73|İki sebep de mümkün ama bunu asla\nbelirleyemeyeceksiniz...
+74|...ne olursa olsun.
+75|Ne olursa olsun mu?
+76|B-Bu doğru değil! Muhtemelen bu gizemi\nde çözebiliriz!
+79|<CLT=cltMIND>Kaito'nun gerçek ölüm sebebini belirlemek\ngerçekten mümkün mü?
+80|Mümkün
+81|<CLT=cltMIND>...Hayır, ölüm sebebini kesin olarak\nbelirleyen hiçbir kanıt yok.
+82|Ha? Ş-Shuichi?\nOlamaz...
+83|<CLT=cltMIND>Ben de kabul etmek istemiyorum...\nİnanmak istemiyorum ama...\n<CLT=cltNORMAL>
+84|Mümkün değil
+86|N-Ne oldu?\nBir şey söyle!
+88|<CLT=cltMIND>Kaito'nun ölüm sebebi zehirli ok muydu yoksa\nhidrolik pres mi? Bunu anlamak mümkün mü?
+89|Kabul etmekten nefret ediyorum ama Kokichi haklı.\nÖlüm sebebini kanıtlamanın hiçbir yolu yok.
+91|Cesede bakamazsınız ve hiçbir kesin\nkanıtınız yok...
+92|Buradan sonra daha fazlasını çıkaramazsınız.\nNe olduğunu bilmenin hiçbir yolu yok.
+93|...Ama ben biliyorum, çünkü bizzat işin içindeydim.
+95|Demek yapmaya çalıştığın buydu...
+96|Çözülemeyen bir cinayet işlemeye çalışıyordun!
+97|Nii-hihi... Sonunda anladın mı?\nEvet, planım buydu.
+98|Bu cinayet davasının hilesi bilinmeyen\nkurban değil...
+99|Aksine, <CLT=cltSTRONG>bilinemeyen fail<CLT=cltNORMAL>!
+100|Benden başka kimse anlamıyor!\nCevabı sadece *ben* biliyorum!
+101|Burada artık çıkarım yapacak yer yok!\nFaili kendi sezginizle seçin!
+102|S-Sezgi mi?
+103|Nii-hihi... Zorlanıyor musunuz?\nEminim robotların sezgisi yoktur, değil mi?

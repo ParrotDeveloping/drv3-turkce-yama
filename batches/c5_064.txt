@@ -1,0 +1,58 @@
+@ chap5_text_US
+## c05_213_000
+70|Ben de hangarın yakınında yürüyüşe çıktım\nve Kaito bana orada seslendi.
+71|İrkildim, biraz altıma kaçırdım, sonra\nbenden ona bir arbalet getirmemi istedi.
+72|Şey... o kısım, ıı...\nBiliyor musun? Boş ver.
+73|Yani Kaito arbalet istediyse Kokichi'yi\nöldürecek miydi?
+74|Hayır, Kokichi'yi etkisiz hale getirmek için olduğunu\nsöyledi. Yoksa ona yardım etmezdim.
+75|Kaito'ya güvenip Maki'nin laboratuvarından\nbir arbalet aldım.
+76|Himiko'yu o zaman gördüm.
+77|Ama arbalet eline geçtikten sonra\nKaito ne yaptı?
+78|Bilmiyorum. Sadece ona arbaleti verdim,\nsonra hemen yurtlara döndüm.
+79|Muhtemelen Kaito Kokichi'ye saldırmaya çalıştı,\nama arbalet elinden alındı...
+80|ve sonra Kokichi karşılık verip Kaito'yu vurdu.\nOlayların bu sırası mantıklı görünüyor.
+81|Hayır, biraz farklı oldu.\nHem Kaito hem Kokichi arbaletle ateş etti.
+82|<CLT=cltMIND>Ve bunun kanıtı var...
+83|)
+84|Belki kan lekesi Kokichi'nindir...
+85|Hangi kanın kime ait olduğunu söyleyemeyiz.\nHiçbirimiz adli tıp işi yapamaz.
+86|Belki yaraları görebilseydik bir\ntahminde bulunabilirdik...
+89|Kaito arbaletle ateş ettikten sonra Kokichi\nonu elinden alıp karşılık verdi...
+90|Bu tamamen bir varsayım.
+91|Kokichi kendini gösterse doğrulayabilirdik.\nAma Exisal'dan çıkmayacağına göre...
+94|Banyoda üç ok vardı, belki biriyle\nKaito ateş etmiştir...
+95|Ancak üç oku da Kokichi'nin atmış\nolması da mümkün.
+96|Yaraları kontrol edecek bir ceset olmadan\nok sayısı bize pek yardımcı olmuyor...
+98|Ee? Bir şey söylemeyecek\nmiydin?
+100|Bunun Kaito'nun arbaletle ateş ettiğini iddia\netmek için uygun bir gerekçe olduğunu sanmıyorum...
+101|Kaito'nun kıyafetlerinde ok deliği vardı, yani\nKokichi'nin onu vurduğunu düşünmek daha akla yatkın.
+103|Kaito'nun Kokichi'yi arbaletle vurduğunu\nhangi kanıt gösteriyor?
+104|Kokichi'nin kıyafetlerini bulduğumuzda sırtında\nve kolunda <CLT=cltSTRONG>delikler<CLT=cltNORMAL> olduğunu hatırlayın.
+105|Kaito'nun ceketinde bulunan delikle\naynı türden bir delik.
+106|Yani Kokichi de arbaletle mi vuruldu?
+107|O zaman onu vuran Kaito'ydu, değil mi?
+108|Hmmm, emin değiiilim.\nÖyle bir şey hatırlamıyoruuum.
+109|Vurulup vurulmadığını hatırlamıyor\nmusun...?
+110|Birbirlerini arbaletle vurduklarına hiç\nşüphe yok ama—
+111|Önemi yok.
+113|Arada ne olduğunun önemi yok.\nSonuçta Kokichi Kaito'yu öldürdü.
+115|<CLT=cltMIND>Maki tuhaf davranıyor...
+116|<CLT=cltMIND>Ama neden?\nBir şey mi biliyor?
+117|<CLT=cltMIND>Öyleyse... ne biliyor?
+118|Belki Maki haklıdır. Ortada ne olduğunun\nönemi yok.
+119|Çünkü sonuçta Kokichi'nin Kaito'yu\nöldürdüğüne hiç şüphe yok.
+120|O zaman acele edip oy verelim—
+121|Hayır, çok erken. Hâlâ gizemler var—
+122|Kimin umurunda? Failin kim olduğunu\nzaten biliyoruz.
+123|Bundan emin misiniz?
+125|Ne? Şimdi de o mu katılıyor?
+126|Bu duruşmayı yöneten olarak birinin gizemlerin\nönemli olmadığını söylemesi beni rahatsız ediyor.
+127|Genel eğlence değerini etkiliyor, o yüzden\nsizi bir şeyleri çoook iyi düşünmeye teşvik ediyorum.
+128|Ne de olsa hâlâ önemli olan bazı\ngizemler olmalı...
+129|Mesela, <CLT=cltSTRONG>Kokichi gerçekten o Exisal'ın\niçinde mi<CLT=cltNORMAL>? Bunun gibi şeyler...
+132|Ne diyorsun sen? O tartışmayı bir\nsüre önce bitirdik.
+133|Öldürme oyunu hâlâ devam ettiğine göre\nKokichi hâlâ hayatta olmalı.
+134|Sesi bile Exisal'dan geliyor ve\nher şey.
+135|Ama az önce onun Kaito'nun sesiyle\nkonuştuğunu duymadık mı?
+136|Evet, ona güvenmeyin. Ne de olsa bu\nExisal'ın bir ses değiştiricisi var.
+137|<CLT=cltMIND>...Neyi var?

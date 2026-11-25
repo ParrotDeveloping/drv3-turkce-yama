@@ -1,0 +1,59 @@
+@ chap5_text_US
+## c05_104_269
+48|<CLT=cltMIND>Dış dünya hakkında bildiklerimizden sonra\nyaşama isteğimizi kaybetmiştik.
+49|<CLT=cltMIND>Ama bir şekilde... o umutsuzluğa rağmen\nyaşamak için yeni bir sebep bulmuştuk.
+50|<CLT=cltMIND><CLT=cltSTRONG>Umut ile umutsuzluk arasındaki savaşı<CLT=cltMIND> kazanmak.
+51|<CLT=cltMIND>Ama şimdi...\nNe biliyoruz?
+52|<CLT=cltMIND>Artık <CLT=cltSTRONG>umudun<CLT=cltMIND> bizim için ne anlama\ngeldiğini bilmiyoruz.
+53|<CLT=cltMIND><CLT=cltSTRONG>Umut<CLT=cltMIND> nedir...?\nTaşıdığın bir yük mü?
+54|<CLT=cltMIND>Bu düşünceler zihnimi delerken\nbirden durdum.
+55|<CLT=cltMIND>Artık böyle şeyleri düşünemem.
+56|<CLT=cltMIND>Düşünmem gereken tek şey...\nhayatta kalmak.
+## c05_104_334
+0|Ahhh, böyle bir savaş beni eski günlere götürüyor...\nNe de olsa umut ve umutsuzluk doğal düşmanlardır.
+1|Evet, bu gerçekten muhteşem bir tema.
+2|Puhuhu... Ancak saygın kurgu eserlerinin\nbu kadar muhteşem temaları olur.
+3|Neyse... Kokichi nerede? Neden burada değil?
+4|<CLT=cltMIND>Maki haklıydı. <CLT=cltSTRONG>Burada olması\ngereken<CLT=cltMIND> kişi... burada değil.
+5|Şey... duruşma başlayınca söylerim.
+6|N-Neler oluyor? Şimdi ne\nplanlıyorsun?
+7|Kokichi'nin ne planladığının önemi yok.
+8|Bu umut ile umutsuzluk arasındaki son savaş!\nHer şey burada bitiyor!
+9|Kokichi kuralları istediği kadar çarpıtıp\nçiğneyebilir ama biz asla pes etmeyeceğiz!
+10|Umut... asla umutsuzluğa boyun eğmeyecek!
+11|Aman Tanrım... Hiçbir kural çiğnenmedi.\nBen varken olmaz, biliyor musunuz?
+12|Her neyse... Acele et de başlat.
+13|Bu sınıf duruşmasıyla bitireceğiz. Ne olursa\nolsun <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL>'nı yeneceğiz.
+14|...O yüzden hazırlan.
+15|Evet, evet, anladım. Şimdi başlayalım.
+16|Eşit miktarda yaşam ve ölümü karıştırın, bir tutam\nyalan ve gerçek ekleyin, çatışma ateşinde pişirin...
+17|Ve altın rengi olup köpürmeye başladığında\nkarşınızda gerçekten nefis bir sınıf duruşması olur!
+18|<CLT=cltMIND>Ve bir kez daha bir sınıf duruşmasıyla\nyüzleştik.
+19|<CLT=cltMIND>Ölen... Kaito muydu yoksa Kokichi mi?
+20|<CLT=cltMIND>Kesin bir şey söyleyemem...\nama hâlâ inanıyorum.
+21|<CLT=cltMIND>...Kaito bu kadar kolay ölmez.
+22|<CLT=cltMIND>Buna neden bu kadar güçlü\ninandığımı... bilmiyorum...
+23|<CLT=cltMIND>Ama bunu kanıtlamak için savaşacağım.
+24|<CLT=cltMIND>Herkesle birlikte savaşacağım.
+25|<CLT=cltMIND>Bu gerçeğin öbür tarafındaki <CLT=cltSTRONG>umudu<CLT=cltMIND>\nyakalamak için...
+27|<CLT=cltMIND>Bu gerçek ve yalanlar duruşmasında\nsavaşacağım!
+## c05_201_000
+3|Kara eller *dışında* herkesi cezalandıracağım ve\no kişi mezun ola—
+4|Mezuniyet burada anlamsız...\nBunu zaten biliyoruz...
+5|Artık senin kurallarına ihtiyacımız yok!\nYaşamak için kendi sebeplerimizi bulacağız!
+6|Ve hayatta kalmak için ne gerekiyorsa yapacağız!
+7|Vay! Gerçekten konuşan bir robot! Daha\nönce hiç görmemiştim!
+8|Cidden mi!?
+9|Kokichi'ye ne oldu?\nNeden burada değil?
+10|Ah, o suratı yapma, katil.\nBu davanın bazı özel koşulları var.
+11|Özel koşullar mı?
+12|Çünkü bu cinayette kurbanın kimliği\ntamamen bilinmiyor!
+13|Bu koşullar göz önüne alınınca...
+14|Bu sınıf duruşmasını kurban hâlâ\nkimliği bilinmezken başlatmaya karar verdim!
+15|Ne de olsa böyle nadir bir fırsatı boşa\nharcamak yazık olurdu!
+16|Bu mümkün mü? Herkesin sınıf duruşmasına\nkatılması gerektiğini sanıyordum.
+17|Merak etmeyin. Hâlâ hayatta olan kişi\nperde arkasında sırasını bekliyor.
+18|Hepsi genel prodüksiyonun bir parçası.\nNeyse, bu duruşmayı başlatalım!
+19|Sanırım duruşmayı bu koşullarda başlatmaktan\nbaşka çaremiz yok...
+20|Konuşacak ne var ki? Kara eller beyin olan\n<CLT=cltSTRONG>Kokichi<CLT=cltNORMAL>.
+21|Evet, benim de aklıma gelen\ntek şey bu.

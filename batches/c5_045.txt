@@ -1,0 +1,48 @@
+@ chap5_text_US
+## c05_101_287
+55|<CLT=cltMIND>Ve Himiko geri gelirken siyah\nçanta yanında değildi...
+56|<CLT=cltMIND>İçeri girerken kesinlikle yanındaydı\nama eli boş çıktı.
+57|<CLT=cltMIND>Keebo'nun gördüğü siyah çanta...\nkesinlikle...
+58|<CLT=cltMIND>İçeriyi iyice inceledim.\nŞimdi hangarın etrafına bakmalıyım.
+59|<CLT=cltMIND>Exisal'ların olduğu yere bir kez\ndaha bakmalıyım.
+60|<CLT=cltMIND>Burada bir Elektro Çekiç var...\nAma neden?
+61|<CLT=cltMIND>Burada neden bir Elektro Çekiç\nolsun ki?
+62|<CLT=cltMIND>Ve şarjı bitmiş.\nKullanılmış olmalı.
+63|<CLT=cltMIND>Ama ne için kullanılmış...?
+64|Ama dikkatli olun. Elektro Çekicin pili\nepey çabuk bitiyor.
+66|Elektro Çekicin gücü biterse tekrar şarj\nolması 24 saat sürüyor...
+67|<CLT=cltMIND>Bunu kesin olarak biliyoruz...
+68|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kullanılmış Elektro Çekiç<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+69|<CLT=cltMIND>Dün gördüğüm manzarayı hatırlıyorum...
+70|<CLT=cltMIND>Nedense Monokuma'yı koruyan\nExisal'lar.
+71|<CLT=cltMIND>Kokichi beyin olduğunu söyledi, Exisal'ların\n*onun* etrafında olması gerekirdi.
+72|<CLT=cltMIND>O zaman neden hâlâ Monokuma'yı\nkoruyorlardı? Hem de dört tanesi...
+73|Sanırım Kokichi'yi düşünmeye o kadar dalmıştım\nki Monokuma'yı görmezden geldim...
+74|Dikkat edin! Dinleyin! Kulak verin diyorum!
+76|Sadece... dün gece senin bu tarafa\ngeldiğini fark ettim, Shuichi.
+78|Puhuhu... Epey sinsi davranıyordun,\ndeğil mi?
+79|Video dükkânının yetişkin filmleri bölümüne\nsızmaya çalışan bir ergen gibi.
+80|Ama gizlice dolaşmana gerek yoktu, çünkü\nExisal'lar sana saldırmazdı.
+81|...Ne diyorsun?\nGizlice dolaşmamıza gerek yok muydu—
+82|Çünkü herkes yetişkin filmi kiralamaya geliyor,\nyani bir bakıma oraya giden herkes aynı—
+83|H-Hayır, *o* değil!\nExisal'ların bize saldırmamasını kastettim.
+84|Ah, o sırada Exisal'lar otomatik pilottaydı\nve sadece beni gözetlemeye yönlendirilmişti.
+85|Monoyavrular onları kullanmak için etrafta\nolmadığından hareketleri artık daha kısıtlı.
+86|Otomatik pilot mu? Yani... Kokichi'deki\nuzaktan kumandayı mı kastediyorsun?
+87|...Evet, aşağı yukarı öyle.
+88|<CLT=cltMIND>Demek Exisal'lar Kokichi'nin uzaktan\nkumandasıyla kontrol ediliyordu...
+89|<CLT=cltMIND>ama Monokuma'ya mı odaklanıyorlardı?
+90|...Bunları bana neden anlatıyorsun?
+91|Bu seni kontrol eden kişiyi dezavantajlı\nduruma düşürüyor.
+92|Ama ondan bahsetmiyoruz...\nBundan bahsediyoruz.
+93|Birini dezavantajlı duruma düşürse bile sınıf\nduruşması her zaman adil olmalı.
+94|Bu bilgiyi benimle paylaşan kişi bunu sizinle\npaylaşmaya istekli görünmüyordu...
+95|O yüzden onun yerine sen paylaş! Böylece\nbütün katılımcılar için adil olur!
+96|<CLT=cltMIND>Demek benden başka biri daha\nbunu biliyor...
+97|<CLT=cltMIND>Bu bilgiyi neden paylaşmasınlar ki?
+98|Tamaaam! Size söyleyebileceklerim bu kadar!
+99|Bu arada, film kiralamak çok eski moda.\nYasadışı indirmek çok daha heyecanlı...
+100|Seks sırasında nefesini tutarken büyük av\navcısına yakalanmamaya çalışmak gibi!
+101|<CLT=cltMIND>Exisal'larla ilgili bu bilgi bu davayı\nçözmek için bir ipucu olabilir...
+102|<CLT=cltMIND>Bunu hatırlamalıyım.
+103|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma'yı Koruyan Exisal'lar<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.

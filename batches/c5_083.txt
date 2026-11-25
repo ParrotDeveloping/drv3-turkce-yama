@@ -1,0 +1,68 @@
+@ chap5_text_US
+## c05_232_001
+24|O videoda bana bir\ntuhaflık varmış gibi geldi...
+25|<CLT=cltAGREE><CLT=size2>Hidrolik\n<CLT=size2>pres
+26|Hidrolik pres kısa bir an\ndurduğunda.
+27|kısa bir an <CLT=cltAGREE><CLT=size2>durduğunda<CLT=cltNORMAL><CLT=size1>.
+28|<CLT=size2>Yoksa<CLT=size1>...
+29|Yoksa...
+30|<CLT=size2>video<CLT=size1>
+31|video başka bir yerde mi çekildi!?
+32|<CLT=cltAGREE><CLT=size2>başka bir
+33|<CLT=cltAGREE><CLT=size2>yerde<CLT=size1> mi <CLT=cltAGREE>çekildi<CLT=cltNORMAL>!?
+34|Başka <CLT=size2>parlak fikri olan?
+35|Başka parlak fikri olan?
+36|Hadi,\nmillet!\nKonuşun!
+37|Hadi, millet! Konuşun!
+38|Öyle bir şey yok.
+39|Bence bir şeyin peşinde!
+40|Gayet iyi uyum sağladığını görüyorum!
+41|Sadece oynatma, kaydetme\nve duraklatma mı vardı?
+42|Kostümcülerin ayrıntılara gözü vardır!
+43|Bir kostümcüden\niyi bir argüman!
+44|Sen söyleyince bir şey\nşüpheli görünüyor...
+45|Arıza mı yaptı?
+46|Yakından bakarsan gerçekten duruyor...
+47|Bu kesinlikle mümkün!
+48|Başka bir yer neresi?
+49|Biri bir şey söylesin...
+50|Ahhh! Bu çok tatlııı!
+## c05_233_000
+0|Keebo bir şeyin peşinde! <CLT=cltSTRONG>Hidrolik presin bir\nsaniyeliğine durması<CLT=cltNORMAL> tuhaf değil mi!?
+1|Çünkü Keebo ile ben o hidrolik presi ilk\nincelediğimizde...
+2|Evet, doğru! Hidrolik pres durmadan\ninmeye devam etti!
+3|Ama videoda...
+4|Hidrolik pres cesedi ezmeden hemen önce...\nkısa bir an durdu mu!?
+5|Ama... neden dursun ki?
+6|<CLT=cltMIND>Pres neden durdu?\nAklıma gelen tek bir sebep var.
+## c05_235_000
+0|Hidrolik presi durdurmanın tek yolu\n"<CLT=cltSTRONG>Zorla Durdur<CLT=cltNORMAL>" düğmesi.
+1|Hangarda bir Elektro Bomba patladı, bu da\ngüvenlik fonksiyonunu bozmuş olmalı...
+2|Biri "Zorla Durdur" düğmesini kullanmadıkça\nhidrolik presi durdurmanın hiçbir yolu yoktu.
+3|Biri derken... Kokichi'yi kastediyorsun,\ndeğil mi? Orada sadece o vardı.
+5|Hm, aslında... belki yanlışlıkla basmışımdır?\nPek hatırlamıyorum...
+6|Ne olmuş peki?
+7|Pres sadece bir saniyeliğine durdu. Bu kadar\nkısa sürede kurbanı değiştiremezsin, değil mi?
+9|Bir de kamera çekerken cesetlerin nasıl\nyer değiştirdiği sorusu var.
+10|Bu açıkça kameraya yakalanırdı.
+11|<CLT=cltMIND>Kamera çekerken...
+12|Ah, anlıyorum. Duran sadece pres\ndeğildi...
+13|...Ee? Ha? Ne demek istiyorsun?
+14|<CLT=cltSTRONG>Hidrolik presi<CLT=cltNORMAL> durdurduğun anda başka bir\nşeyi de durdurursan...
+15|<CLT=cltMIND>Evet, şimdi görüyorum. Cesetler\nböyle yer değiştirdi!
+16|<CLT=cltMIND>Onu durdursaydın cesetleri kolayca\ndeğiştirebilirdin...
+## c05_237_000
+0|Fail <CLT=cltSTRONG>video kamerayı<CLT=cltNORMAL> hidrolik presle\naynı anda durdurdu.
+1|Sonra kamera kapalıyken hidrolik presin\naltındaki cesedi değiştirdi.
+2|Ceset değiştirildikten sonra pres ve\nkamera aynı anda başlatıldı.
+3|Yani sanki pres bir anlığına durmuş\ngibi görünüyor.
+4|Bütün zaman boyunca söylediğim buydu!
+5|Bunu ne zaman söyledin ki?
+6|Demek aynı anda durdular...\nKameranın konumu da bana tuhaf gelmişti...
+7|Ama şimdi anladım. Oraya kurulmasaydı\nhile işe yaramazdı.
+9|Az önce tarif ettiğimiz hilenin işe yaraması\niçin kameranın tam olarak kurulması gerekiyordu.
+10|<CLT=cltMIND>Bunu netleştirelim.\nKamera nereye kurulmuştu...?
+11|Şuraya kurulmuştu...
+12|Orada olsaydı açı yanlış olurdu ve\npresi kontrol edemezdin.
+14|Belki presin hemen yanına\nkurulmuştur?
+15|Bu epey yakın bir açı olurdu ama oradan\ndüğmeye basamazdın.

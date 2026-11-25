@@ -1,0 +1,49 @@
+@ chap5_text_US
+## c05_102_130
+46|Tamam... bu odayı iyice inceledim.
+47|<CLT=cltMIND>Kaito'nun ölmediğini gösteren hiçbir\nkanıt bulamadım...
+48|<CLT=cltMIND>Aksine, *Kokichi'nin* ölmediğini gösteren\nbolca kanıt var.
+49|<CLT=cltMIND>Monokuma hâlâ ortalıkta dolaşıyor\nve öldürme oyunu bitmedi.
+50|<CLT=cltMIND>Ve... Kaito'nun kıyafetleri hidrolik\npresin içindeydi...
+51|<CLT=cltMIND>Bu da demek oluyor ki... kurban kesinlikle...
+52|Hayır, böyle düşünmek için çok erken.\nBiraz daha incelersem bir şey bulacağım.
+53|<CLT=cltMIND>Hâlâ vakit var...\nHangara geri dönmeliyim.
+54|<CLT=cltMIND>Belki bir şeyi kaçırdım...\nTekrar bakmalıyım.
+## c05_102_150
+0|<CLT=cltMIND>Burada hatırladığımdan daha az silah\nvarmış gibi geliyor...
+4|<CLT=cltMIND>Çünkü onlar Kaito'daydı...
+10|<CLT=cltMIND>Tahmin ettiğim gibi burada hangardakiyle\naynı iki siyah çanta var.
+11|<CLT=cltMIND>Arbalet çantaları. Arbaletler içinde\nama sökülmüş halde.
+12|Sökülmedikçe çantaya sığmıyor bile\ngibi görünüyorlar.
+13|<CLT=cltMIND>Ama iki tane var...\nDaha önce Kaito ile buradayken...
+14|<CLT=cltMIND>Üç tane vardı.
+15|<CLT=cltMIND>Ve Kaito'nun yanında arbalet\nolmadığından eminim...
+16|Bu durumda... hangardaki arbalet\nburadan gelmiş *olmalı*.
+17|<CLT=cltMIND>Bu da biri onu buradan hangara\ngetirmiş olmalı demek.
+18|<CLT=cltMIND>Ama... arbaleti birleştirmek\noldukça zor.
+19|<CLT=cltMIND>Maki öğretmedikçe bunu yapabileceğini\nsanmıyorum.
+20|Bunu sonra daha çok düşünürüm, şimdilik\ninceleme yapmam lazım.
+21|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Arbalet<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümünde güncellendi.
+24|Sökülmedikçe çantaya sığmıyor bile\ngibi görünüyor.
+25|<CLT=cltMIND>İki çanta var... Ama Kaito ile buraya en son\ngeldiğimizde üç tane vardı.
+30|<CLT=cltMIND>Nasıl yapıldığı gösterilmedikçe bunu\nyapabileceğini sanmıyorum.
+31|Bunu sonra daha çok düşünürüm.\nŞimdilik daha fazla incelemeliyim.
+## c05_102_251
+1|<CLT=cltMIND>Hepimiz tekrar buluşmadan önce\nincelememi bitirmeliyim.
+2|<CLT=cltMIND>Kimin öldüğünü bilmeliyim...\nKara ellerin kim olduğunu bilmeliyim...
+3|<CLT=cltMIND>Hangarın etrafında incelenecek başka\nbir şey yok.
+4|<CLT=cltMIND>Daha fazla ipucu aramalıyım.
+5|<CLT=cltMIND>Bu heykelin davayla hiçbir ilgisi\nyok...
+6|<CLT=cltMIND>Bu... davayla ilgili değil.
+7|<CLT=cltMIND>Bunun bir ipucu olduğunu sanmıyorum...
+## c05_102_266
+0|<CLT=cltMIND>Taş anıtın davayla bir ilgisi olduğunu\nsanmıyorum. Ona dokunmamalıyım.
+3|Gerçi bunun davayla bir ilgisi\nolduğunu sanmıyorum.
+## c05_103_219
+0|Keebo, neye bakıyorsun?
+1|Şuna bir bak.
+2|Bunlar... Kokichi'nin kıyafetleri mi?
+3|<CLT=cltMIND>Sırılsıklam ve buruşuk ama bunların\nKokichi'nin olduğuna hiç şüphe yok.
+4|Bunu nerede buldun? Banyoyu incelerken\nbunu görmemiştim.
+5|Ve neden sırılsıklam?
+6|Şey... klozet tıkanmış gibiydi, ben de\nelimi giderin içine soktum...

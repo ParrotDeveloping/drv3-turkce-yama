@@ -1,0 +1,8 @@
+@ chap5_text_US
+## c05_999_250
+18|<CLT=cltMIND>Herkes hangarda olmalı.\nBen de gitmeliyim.
+19|<CLT=cltMIND>Yaşamak için... Yaşamak için bir sebep bulmak için...\nherkesin ölümü boşuna olmasın diye.
+20|<CLT=cltMIND>Kokichi'yi durdurup <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltMIND>'na\nson vermemiz gerekiyordu...
+21|<CLT=cltMIND>O zaman neden...?\nBu neden oldu...?
+22|<CLT=cltMIND>...Bunun davayla hiçbir ilgisi yok.
+23|<CLT=cltMIND>İnceleme için sınırlı vaktim var.\nDikkatimin dağılmasına izin veremem.

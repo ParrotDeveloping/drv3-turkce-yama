@@ -1,0 +1,68 @@
+@ chap5_text_US
+## c05_207_000
+129|Muhtemelen tuvaleti gelmiştir.\nNeyseee, Kaito'nun vurulmasına gelince...
+130|Ölüm sebebi buysa onu arbaletle kimin\nvurduğunu merak ediyorum.
+131|Eh, ben zaten biliyorum!\nAma söylemeyeceğiiim!
+132|O sadece... bizimle oynuyor...
+133|O zaman ona oyun vaktinin bittiğini gösterelim.
+134|Ona Hope's Peak Akademisi öğrencilerinin asla\numutsuzluğa boyun eğmeyeceğini gösterelim!
+136|Umut mu...? Umutsuzluk mu...?
+## c05_208_000
+0|Kaito arbaletle vuruldu, değil mi?\nBunu sen bile söyledin!
+2|Kaito hangara kapatılmıştı. Kokichi dışında\nkimseyle temas kuramazdı.
+3|Bu durumda Kokichi dışında Kaito'yu kim\nöldürmüş olabilir ki?
+5|Alarm sistemi yüzünden kepenge\nyaklaşamadık.
+6|Yaklaşabilsek bile elektrikli bariyer\ntarafından durdurulurduk.
+8|<CLT=cltMIND>Kaito orada olmalıydı ama cinayet\nsilahı bir arbaletti...
+9|<CLT=cltMIND>Dışarıdan bile...\niçerideki bir hedefe ateş edebilirdin!
+11|<CLT=cltMIND>Bunu bildiğimize göre cinayeti\ngözümüzde canlandırabilmeliyiz...
+## c05_208_001
+0|<CLT=size2>Kai
+1|Kaito'yu arbaletle kim vurdu acaba...
+2|to'yu
+3|kim
+4|<CLT=cltWEAK>arbaletle vurdu acaba<CLT=cltNORMAL>...
+5|Ne gizem, değil mi millet?
+6|Ne gizem, değil mi millet?
+7|Senden <CLT=size2>başka kim<CLT=size1>\nyapmış olabilir?
+8|Senden başka kim\nyapmış olabilir?
+9|Kaito'yu vurmak\niçin <CLT=size2>atış\n<CLT=size1>yapılması gerekirdi...
+10|Kaito'yu vurmak için atış yapılması gerekirdi...
+11|<CLT=cltWEAK><CLT=size6>han
+12|hangarın içinden.
+13|<CLT=cltWEAK><CLT=size6>gar
+14|<CLT=cltWEAK><CLT=size3>ın içinden<CLT=size1><CLT=cltNORMAL>.
+15|<CLT=size2>Hangara<CLT=size1> <CLT=size2>giremedik<CLT=size1>!
+16|Hangara giremedik!
+17|<CLT=cltWEAK>Alarm\n<CLT=size2>sistemi
+18|Alarm sistemi ve elektrikli bariyer yoldaydı!
+19|<CLT=cltWEAK>ve\nelektrikli\n<CLT=size2>bariyer
+20|<CLT=cltWEAK>yoldaydı<CLT=cltNORMAL>!
+21|Hangara\n<CLT=size2>giremediysek<CLT=size1>...
+22|Hangara giremediysek...
+23|ve <CLT=size2>Kokichi<CLT=size1> oradaysa\no zaman <CLT=size2>kesinlikle<CLT=size1> odur.
+24|ve Kokichi oradaysa\no zaman kesinlikle odur.
+25|<CLT=size2>Anlıyorum,\n<CLT=size1>demek <CLT=size2>fail<CLT=size1> <CLT=size2>benim!
+26|Anlıyorum, demek fail benim!
+27|Cadı!
+28|Arsız velet...
+29|Nyeeeh!
+30|Oyun vakti bitti!
+31|Umutsuzluğa teslim olmayacağım!
+33|BariyerBariyerBariyerBariyerBariyer
+34|Doğru!
+## c05_209_000
+0|Hangara girmeden bile arbaletle\nisabetli bir atış yapmak mümkündü.
+1|Hangarın banyosunda bir <CLT=cltSTRONG>pencere<CLT=cltNORMAL>\nvardı.
+2|Belki girmek mümkün değildi ama\npencereden ateş edebilirdin.
+3|Ve Kaito'nun banyoya kapatıldığını\nhatırlayın.
+4|Yani Kaito'yu pencereden vurdularsa onu\nhangarda öldürebilirlerdi.
+5|Bu da cinayet şüphelileri listesinin ben\ndahil altı kişiye çıktığı anlamına geliyor!
+7|Ama... açıkça söylemek gerekirse bu demek...
+8|Görünüşe göre Shuichi birimizi fail yapmak\nistiyor. Öyle mi?
+9|...Bir dedektif bunu mu yapar?
+11|Dedektifler arkadaşları olsalar bile hep\ninsanları suçlar mı?
+12|...Öyle görünüyor. Önceki sınıf duruşmasında\nda Kaito'dan şüphelenmiştin.
+13|Arkadaşlarından hep şüpheleniyorsun.
+15|N-Ne oldu, Maki?\nBiraz gergin gibisin...
+17|Umutsuzluk Kalıntıları'nı yeneceğimizi söylediğimizde\n*biri* yolumuza çıktı.

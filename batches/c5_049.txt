@@ -1,0 +1,56 @@
+@ chap5_text_US
+## c05_103_219
+7|...ve bu kıyafetleri çıkardım. Görünüşe göre\ntamamen sifonla gönderilememişler.
+8|<CLT=cltMIND>Tamamen sifonla gönderilememiş...
+9|Bu kıyafetler en başta neden\nklozetteydi ki?
+10|Evet, bu çok cesurcaydı. Ve onun sayesinde\nönemli bir ipucu bulmayı başardım.
+11|Şimdi Shuichi... lütfen istediğin kadar\nincele!
+13|<CLT=cltMIND>Klozeti tıkamak, ha...?\nAma şimdi tereddüt etmenin zamanı değil.
+14|Çok cesur davrandığım için önemli bir\nipucu bulmayı başardım.
+21|<CLT=cltMIND>Bu havalandırma için küçük bir pencere.
+22|<CLT=cltMIND>Bu önceki pencere.
+23|<CLT=cltMIND>Yaklaşık 20 santim genişliğinde\nve sonuna kadar açılmıyor.
+24|<CLT=cltMIND>Bir insanın oradan geçmesi\nmümkün değil...
+25|<CLT=cltMIND>Ama belki bir <CLT=cltSTRONG>nesne<CLT=cltMIND> geçebilir.
+26|Burada özellikle tuhaf bir şey yok\nama bir kez daha incelemek istiyorum.
+30|<CLT=cltMIND>Faydası yok.\nBurada ipucu yok.
+31|<CLT=cltMIND>Bu arbalet Maki'nin laboratuvarındakilerden biri.
+32|<CLT=cltMIND>Yani... biri onu buraya getirmiş.
+33|<CLT=cltMIND>Bu büyük siyah çanta...
+34|<CLT=cltMIND>Bu Maki'nin laboratuvarındakilerden biri.
+37|<CLT=cltMIND>...Bu ne anlama geliyor?\nBunu tekrar incelemeliyim.
+42|<CLT=cltMIND>Burada küçük bir şişe var.\nBoş görünüyor.
+45|<CLT=cltMIND>Mutlaka <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltMIND>'in\nlaboratuvarından gelmiş olmayabilir...
+46|<CLT=cltMIND>Ama <CLT=cltSTRONG>Strike-9 Zehri<CLT=cltMIND> şişesinde daha az olması\nve masadaki <CLT=cltSTRONG>panzehirlerle<CLT=cltMIND>...
+47|<CLT=cltMIND>Kesinlikle alakasız olamaz.
+48|<CLT=cltMIND>Kokichi'nin banyoda bulunan kıyafetleri.
+49|<CLT=cltMIND>Klozette bulunduysa biri onları sifonla\ngöndermeye çalışmış olmalı.
+50|<CLT=cltMIND>Ama bunu kim yapar ki?
+51|Bir sorun mu var?\nLütfen, incele.
+52|Ah! T-Tamam!
+53|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Dedektif<CLT=cltMIND>\nburada duramaz!
+54|<CLT=cltMIND>Bu önemli bir ipucu *olmalı*...
+55|...Tamam!
+56|<CLT=cltMIND>Kararımı verip Kokichi'nin sırılsıklam\nkıyafetlerini kaptım...
+57|<CLT=cltMIND>ve açtım.
+59|<CLT=cltMIND>Sırtında küçük bir delik var.
+60|<CLT=cltMIND>Ve kolunda da küçük bir delik.
+61|<CLT=cltMIND>Bu Kaito'nun kolundakiyle aşağı yukarı\naynı boyutta.
+62|<CLT=cltMIND>Deliklerin etrafında da kan\nizleri var.
+63|<CLT=cltMIND>Bu ne anlama geliyor?
+64|<CLT=cltMIND>Saldırıya uğradığı anlamına gelebilir.
+65|<CLT=cltMIND>Bu durumda...
+67|<CLT=cltMIND>Hidrolik preste ezilenin Kokichi\nolma ihtimali var!
+68|Ah, Keebo, teşekkürler! Teşekkürler!\nBu çok önemli bir ipucu!
+69|Ah, yardım edebildiğime sevindim ama o elini\nsıkmayı reddetmek zorundayım.
+70|Ah... senin ellerin de temiz değil ama.
+71|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kokichi'nin Kıyafetleri<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+72|<CLT=cltMIND>Ama hidrolik preste ezilen\nKokichi'yse...
+73|<CLT=cltMIND>Kaito nereye gitti?\nNeden kendini göstermiyor?
+74|<CLT=cltMIND>Ve beyin öldüyse bu oyun neden\nhâlâ devam ediyor?
+76|Şey... Bu garipse Shuichi, çıkıp sana\nbiraz yalnız kalma fırsatı verebilirim...
+77|Sen... bunu mu dert ediyorsun?
+78|<CLT=cltMIND>Keebo ve ben lavaboda ellerimizi\nyıkadık...
+79|<CLT=cltMIND>...ve banyodan çıktık.
+81|<CLT=cltMIND>Bence Keebo haklı. Biri bu kıyafetleri\nklozetten sifonla göndermeye çalışmış.
+82|<CLT=cltMIND>Bu durumda bunu kim yaptı?

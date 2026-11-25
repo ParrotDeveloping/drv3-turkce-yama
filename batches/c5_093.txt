@@ -1,0 +1,55 @@
+@ chap5_text_US
+## c05_300_334
+64|<CLT=cltMIND><CLT=cltSTRONG>Gerçek beynin<CLT=cltMIND> fazlasıyla\nişine geliyor.
+65|O <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=typeNORMAL>'ndan haberim yoktu.\nSanırım bu da sizin için başka bir gizem.
+66|Neyse, dediğim gibi...
+67|O zaman bu <CLT=cltSTRONG>gerçek beyin<CLT=typeNORMAL> kim!?
+68|K-Kim bilir... Ben de bilmiyorum...
+69|Ama önemli değil... kaybedemeyiz...\nBu oyun... kazanmadıkça anlamsız.
+70|Bu yüzden... özel bir plan düşündüm...
+71|Kaybetmenin eşiğindeyken...
+72|...planım kazanmama yardım edecek!
+73|Pek anlamadım ama bu <CLT=cltSTRONG>beyni\nşaşırtma planı<CLT=typeNORMAL> mı?\n
+74|Şey, o kadar da zor değil...\nKaito... senden istediğim...
+75|...beni öldürmen.
+76|Ne-!?
+77|Plan... kurbanın bilinmediği bir dava\nyaratmaktı.
+78|Ve sonra Monokuma'yı <CLT=cltSTRONG>kurbanın ben olduğuma<CLT=typeNORMAL>\ninandırıp hata yapmasını sağlamak.
+79|Kara ellerin ya Maki Rulo ya da\nKokichi olduğuna hükmederse...
+80|O zaman kendimi gösterecektim ve\nMonokuma'nın kararı geçersiz olacaktı.
+81|Ve Monokuma'nın kararı geçersiz olursa\nöldürme oyunu biterdi.
+82|En çok merak ettiğim şey bu.\nBiteceğini neden düşünüyorsun?
+83|Evet, bunu ben de Kokichi'ye\nsordum.
+84|Monokuma kara ellerin kim olduğunda hata\nyapsa neden umursasın ki?
+85|Ve... şöyle dedi.
+86|Monokuma da olsa <CLT=cltSTRONG>gerçek beyin<CLT=typeNORMAL> de olsa\nkuralları istedikleri gibi çiğneyemezler...
+87|Öyle haksızlık yapmak... yasak...
+89|Ölüm oyunları <CLT=cltSTRONG>izlenmek<CLT=typeNORMAL> için yapılır.
+90|Kimse <CLT=cltSTRONG>izlemeseydi<CLT=typeNORMAL> kurallar konusunda bu\nkadar titiz olmak için bir sebep olmazdı...
+91|En başta bunu bir oyun yapmanın hiçbir\nanlamı olmazdı...
+92|Ama Monokuma kurallar ve oyunu ilginç\nhale getirmek konusunda hep titiz davrandı.
+93|Bu yüzden Sanal Dünya'da planıma\nrazı oldu...
+94|Bu da Monokuma'nın birinin bizi izlediğinin\nfarkında olduğu anlamına geliyor...
+95|Bu durumda... bu ölüm oyununun birine\ngösterildiğinden hiç şüphem yok.
+96|Yani... bu bir çeşit şov mu!?
+97|Ama kim izliyor olabilir ki? Hayatta kalan\ntek insanlar biziz, değil mi?
+98|Doğru! Bunu hatırlamamızın sebebi bile\n<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=typeNORMAL>!
+99|Ama Kokichi haklı olabilirdi. Kimse izlemiyorsa\nneden bir ölüm oyunu olsun ki?
+100|İlk başta bundan emin değildim ama bu sınıf\nduruşmasından sonra hiç şüphe yok.
+101|Monokuma istediğini yapamaz.\nOyunun kurallarına bağlı.
+102|Bu yüzden faili yanlış bilmeyi göze alamazdı.\nBu yüzden Shuichi'ye güvendi.
+103|Tıpkı Kokichi'nin dediği gibi! Bu oyunun kuralları\nbu kadar önemliyse biri izliyor.
+104|<CLT=cltMIND>Bir ölüm oyunu izlenmek\niçin yapılır...
+105|<CLT=cltMIND>Bu doğruysa o zaman... kim?
+106|<CLT=cltMIND>Bunu... kim izliyor?
+107|Bu da ne demek, Monokuma!?
+108|Bu öldürme oyunu gerçekten birileri\niçin bir şov mu!?
+110|Nyeh!? Neden söylemiyorsun!?\nDuruşma sırasında arkadaştık!
+111|...Açıkçası benimle işbirliği yapmanıza\nsadece sevindim.
+112|İnsanlar yardım etmeyi sever. Yardım eli uzatmak\niçin her fırsata atlarlar.
+113|O zaman başka bir soru—
+114|Sen gerçekte kimsin? Bir <CLT=cltSTRONG>Umutsuzluk Kalıntısı<CLT=typeNORMAL>\nolan Kokichi beyin değilse...
+115|O zaman <CLT=cltSTRONG>gerçek beyin<CLT=typeNORMAL> kim? Onun gibi başka\nbir <CLT=cltSTRONG>Umutsuzluk Kalıntısı<CLT=typeNORMAL> mı?
+116|Böyle mükemmel bir "Devam Edecek"\nmerak noktasında ağzımdan baklayı çıkarmam!
+117|S-Sen... çok tatlısın!
+119|Kokichi'nin planını anlıyorum ama... onunla\nçalışmayı neden kabul ettin, Kaito?

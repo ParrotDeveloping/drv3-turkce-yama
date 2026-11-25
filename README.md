@@ -14,8 +14,9 @@ Steam (Windows) sürümü için hayran yapımı Türkçe çeviri.
 | Bölüm 2 | ✅ |
 | Bölüm 3 | ✅ |
 | Bölüm 4 | ✅ |
-| Bölüm 5 | 🔄 sırada |
-| Bölüm 6, Epilog | ⏳ |
+| Bölüm 5 | ✅ |
+| Bölüm 6 | ⏳ (sırada) |
+| Epilog | ⏳ |
 | Ainori / Galeri / diğer | ⏳ |
 
 ## Klasörler

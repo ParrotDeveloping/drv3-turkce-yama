@@ -1,0 +1,63 @@
+@ chap5_text_US
+## c05_002_219
+4|<CLT=cltMIND>Burada asla olmayacağımızı düşünüyorlardıysa\nneden banyo yapsınlar?
+5|Bu... yanıldığım anlamına mı geliyor?
+6|<CLT=cltMIND>Neyse, burada kafamı kurcalayan bir\nşey yok, geri döneyim.
+## c05_002_220
+0|<CLT=cltMIND>Ah! Şurada! Bu...
+1|Bir Exisal mi!?
+2|Beşi de burada!\nÇok tehlikeli! Kaçalım!
+3|...Bir saniye.
+4|Hareket etmiyorlar. Bize tepki vermiyorlar\nve ışıkları kapalı...
+5|Ah, sen söyleyince... haklısın.\nNe oluyor acaba.
+6|Ah-hahaha! Şaşırdınız mı? Burası aslında\nExisal hangarı!
+7|Evet, Exisal'ların saklandığı yer burası!
+8|<CLT=cltMIND>Exisal'ları saklamak için bir tesis mi?
+9|Kimse kurcalamasın diye değerli Exisal'ları\nburada koruyordum...
+10|Ama... *iç çekiş*... artık anlamı yok.
+11|Monoyavrular gittiği için mi?\nArtık kimse Exisal'ları kontrol edemiyor.
+12|Ne!? Artık kimse onları kontrol edemiyor mu!?
+13|...Yanılıyor muyum?
+14|Ah, az önceki tepkimi dert etmeyin.
+15|Biraz abartılı bir tepkinin sizi savunmaya\ngeçireceğini düşündüm.
+16|Bu ne demek!?
+17|Hadi hadi! Bu kadar sinirlenme! Makine\nolabilirsin ama şeytan modeli değilsin!
+19|<CLT=cltMIND>Devre dışı bırakılmış Exisal'lar...
+20|<CLT=cltMIND>Monoyavrular gittiğine göre bu hangar\nartık <CLT=cltSTRONG>anlamsız<CLT=cltMIND> mı?
+21|<CLT=cltMIND>Bu doğruysa... artık bizi tehdit\neden hiçbir şey yok mu?
+22|Bu hangar <CLT=cltSTRONG>anlamsız<CLT=cltNORMAL>, ha?
+23|Eminim Miu burası için bir amaç\nbulurdu.
+24|Exisal'ları söküp daha ayrıntılı incelemek\nonu heyecanlandırırdı.
+25|Bunu güvenle söyleyebilirim çünkü hareketleri\nhafıza bankamda kayıtlı.
+26|Makineler ve teknoloji söz konusu olduğunda\nMiu... çok içtendi.
+27|İçinin derinliklerinde sakladığı doğal\nbir masumiyeti vardı.
+28|Makineler ve teknoloji söz konusu olduğunda\nMiu... çok içtendi.
+29|İçinin derinliklerinde sakladığı doğal\nbir masumiyeti vardı.
+30|Hep sadece bir makine olarak algılandığımdan\nşüphelenmişimdir...
+31|Ama bu şüphenin gözlerimin önünde\ndoğrulanması oldukça sarsıcı...
+32|Bu pres için sadece bir makine olabilirim... ama\neminim başka testler insanlığımı doğrular!
+33|<CLT=cltMIND>Burayı biraz daha inceleyeceğim.
+38|<CLT=cltMIND>Bu devasa makinenin birkaç hareketli\nkolu var. Ne için kullanılıyor?
+39|...Bu makine muhtemelen Exisal'ları boyamak\niçin kullanılıyor.
+40|Ah, doğru...\nGerçekten biraz tiner kokuyor.
+41|Yani bu makineyi kendime yeni bir görünüm\nkazandırmak için kullanabilirim.
+42|Yeni bir görünüme ihtiyacın olduğunu sanmıyorum.\nOlduğun gibi harikasın, Keebo!
+43|Eh, tabii ki öyleyim!
+44|<CLT=cltMIND>...O zaman neden açtın konuyu?
+45|<CLT=cltMIND>Bu devasa makinenin birkaç\nhareketli kolu var.
+47|<CLT=cltMIND>Bir oto yıkamaya benziyor.\nExisal'ları temizlemek için mi?
+48|...Rahat görünüyor.
+49|...Rahat mı, ha?
+51|<CLT=cltMIND>Bu kapı ne...?
+52|<CLT=cltMIND>Bu devasa, güçlü bir makine...
+53|...Bu hidrolik pres muhtemelen hizmet dışı\nkalan Exisal'ları hurdaya çıkarmak için kullanılıyor.
+54|Hurdaya mı?
+55|Evet, Exisal'lar bile dev bir metal levha\ntarafından ezilmeye dayanamaz.
+57|Ayrıca görünüşe göre hidrolik presi şuradaki\nkontrol panelinden kumanda edebilirsin.
+58|Bir <CLT=cltSTRONG>yukarı ve aşağı düğmesi<CLT=cltNORMAL> ve bir\n<CLT=cltSTRONG>acil durdurma düğmesi<CLT=cltNORMAL> var.
+59|Burada bir <CLT=cltSTRONG>güvenlik uyarısı<CLT=cltNORMAL> yazıyor.
+60|Hidrolik preste kızılötesi bir sensör var.\nCanlı bir varlık algıladığında...
+61|güvenlik nedeniyle otomatik olarak duruyor.
+62|Biri yanlışlıkla presin içine girerse\nmakine durur.
+63|Ne düşünüyorsun, Shuichi?
+64|...Güvenlik fonksiyonu hakkında mı?\nBen... bilmiyorum—

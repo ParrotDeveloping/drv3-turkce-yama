@@ -1,0 +1,80 @@
+@ chap5_text_US
+## c05_244_001
+0|Pekala, bunu <CLT=size2>netleştirelim.
+1|Pekala, bunu netleştirelim.
+3|O Exisal'ın içinde kim var?
+4|<CLT=size2>içinde kim var
+5|o <CLT=size2>Exisal'ın?
+6|<CLT=size2>Hm?\n<CLT=size1>Kaito, değil mi?
+7|Hm? Kaito, değil mi?
+8|<CLT=size2>Sen öyle dedin,<CLT=size1> değil mi?
+9|Sen öyle dedin, değil mi?
+10|<CLT=cltWEAK>Ölen <CLT=size2>Kokichi<CLT=size1>'ydi<CLT=cltNORMAL>.
+11|Ölen Kokichi'ydi.
+12|Ve <CLT=size2>fail<CLT=size1> de orada duran\n<CLT=size2>Kaito.
+13|Ve fail de orada duran\nKaito.
+14|Bu <CLT=size2>doğru değil mi?
+15|Bu doğru değil mi?
+16|<CLT=size2>Ah-haha!\nTabii ki değil!
+17|Ah-haha!\nTabii ki değil!
+18|Ben <CLT=size2>asla<CLT=size1> ölmem!
+19|Ben asla ölmem!
+20|Ben <CLT=size2>Shuichi'ye<CLT=size1> güveniyorum!
+21|Ben Shuichi'ye güveniyorum!
+22|Ha? Neyi netleştirelim?
+23|Kaito yaptı, değil mi?
+25|Son tartışma mı?
+26|Bu ne demek?
+27|Zaten karar vermemiş miydik?
+29|Ultimate Dedektif asla\n*yanılmaz*!
+## c05_245_000
+0|Kokichi, özür dilerim.\nArtık senin için... yalan söyleyemem...
+2|Ne demek... yalan?
+3|Neden "Kokichi" dedin?\nExisal'ın içindeki—
+4|Hepinizden çok özür dilerim.\nHepinizi kandırdım.
+6|Gerçek şu ki... ezilmiş cesedi bulduktan\nsonra... Kokichi'yi gördüm.
+7|Nyeh!? Kokichi'yi mi gördün!?
+9|Evet. Beni tehdit etti, dediğini yapmazsam\nhepimizi öldüreceğini söyledi.
+10|Duruşma daha ilginç olsun diye gördüklerim\nhakkında yalan söylememi istedi...
+11|Ama artık yapamam!\nBöyle yalan söylemeye devam edemem!
+12|Doğruyu söylemeliyim...
+13|Kokichi ölmedi! Hayatta!
+14|D-Dur! Bunu söylemek için neden şimdiye\nkadar bekledin!?
+15|Çok özür dilerim, Keebo, ama... bu doğru.
+16|<CLT=cltMIND>Gerçekten...
+17|<CLT=cltMIND>Gerçekten özür dilerim.\nAma tek yol bu.
+18|<CLT=cltMIND>Kaito Monokuma'yı kandırmaya çalışıyor...\nSınıf duruşmasını mahvetmeye çalışıyor.
+19|<CLT=cltMIND>Kaito bunu yapmak için hayatını riske\natıyorsa ben de onun yanında dururum.
+20|<CLT=cltMIND>Kaito'ya inanıyorum!\nYapmaya çalıştığı şeye inanacağım!
+21|<CLT=cltMIND>Bunu bize zarar vermek için yapmıyor...\nEminim hepimizi kurtarmaya çalışıyor.
+23|<CLT=cltMIND>Monokuma benim dedektifliğime güvenmek\nistiyorsa peki... ben de yalan söylerim.
+24|Millet, lütfen... Kaito'ya oy vermeyin.
+25|Hiç şüphe yok. Kokichi o Exisal'ın\niçinde! Fail o!
+27|Hey Shuichi... Ne planladığını\nbilmiyorum...
+28|Ama bana kalırsa siz hiç de\nfigüran değilsiniz.
+29|Yanılırsanız cezanızı şampiyonlar gibi\nçekmek zorunda kalırsınız! Anladınız mı!?
+31|...Yanılmıyorum.
+32|Kaito'ya oy veremeyiz!
+33|Kes şunu! Yeter.
+35|Bu... bitti.
+36|Siz yanılır ve Monokuma doğru\nbilirse...
+37|O zaman hepiniz cezalandırılırsınız.
+38|Bunun olmasına asla izin\nveremem.
+39|O yüzden... sorun yok.\nBunu bitirelim.
+40|K-Kaito!
+41|Yani... gerçekten sen miydin?
+42|Sizi kandırdığım için kusura bakmayın.\nHer şeyi açıklayacağım.
+43|Ama ondan önce Oylama Vakti.
+44|Tamam, yanlış yapmayın!\nKesinlikle fail benim, anladınız mı!?
+45|Kokichi'yi öldüren benim!
+46|Kaito, hayır!
+47|Her şeyi çözmen tam sana göre,\nShuichi. Gerçekten bambaşkasın.
+48|O yüzden tek yapman gereken akıl yürütmene\ninanmak. Dedektifler bunu yapar.
+50|Hey, Monokuma! Acele edip şu oylamayı\nbaşlatalım!
+51|Puhuhu... Güzel söyledin.\nO zaman başlayalım.
+## c05_300_334
+0|Eh, fail itiraf edecekse sanırım\naptallar bile bunu berbat edemez...
+1|Kokichi Oma'yı öldüren kara eller\nKaito Momota! Hepiniz doğru bildiniz!
+4|Demek hepiniz doğru bildiniz, ha? Shuichi\nve Maki Rulo bile bana oy verdi...
+5|Ne rahatlama! Eh, yanılmayacağınızı\nbiliyordum.
+7|Ama vay be, bütün zaman boyunca Kokichi\ngibi davranmak zordu.

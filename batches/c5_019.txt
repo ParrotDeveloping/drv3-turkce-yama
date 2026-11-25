@@ -1,0 +1,63 @@
+@ chap5_text_US
+## c05_010_266
+9|Hm? Dur, öyle mi deniyordu?
+10|Neyse, boş ver. Her neyse, ben önden\ngidiyorum.
+## c05_011_001
+0|<CLT=cltMIND>Burası kızlar tuvaleti.\nİçeride kimse yokken girmemeliyim...
+1|<CLT=cltMIND>...Gerçi içeride biri *olsaydı*\nsanırım daha kötü olurdu.
+## c05_011_268
+0|Keebo? Ne oldu? Aşağı inmeyecek\nmisin?
+1|...Shuichi, senden bir ricam var. Bu çekiç\nelektronik makineleri devre dışı bırakıyor, değil mi?
+2|Seni de devre dışı bırakacağından\nmı endişeleniyorsun?
+3|N-Neden, tabii ki merak ediyorum!
+4|Sonuç, Miu'nun beni nasıl algıladığını\nkesin olarak ortaya koyacak.
+5|Bunu test etmenin... iyi fikir olduğunu sanmıyorum.\nHidrolik presi hatırlıyor musun?
+6|Hem çok enerji harcadığı söyleniyor,\nboşa harcamamalıyız.
+7|Boşa mı, ha...
+8|Anlıyorum, boşa olurdu.\nEvet, israf etmemeliyiz.
+10|<CLT=cltMIND>Hıh. Demek robotlar da surat asıyor...
+## c05_011_353
+0|Tamam, başlayalım.
+1|G-Gerçekten iyi olacak mıyız?
+2|N-N-Neden korkuyorsun?\nTabii ki iyi olacak... değil mi?
+3|Sen de tedirgin görünüyorsun, Himiko...
+4|Heh, endişelenmeye gerek yok! Tabii ki\nbiraz tehlikeli olacak ama...
+5|Burada bunca <CLT=cltSTRONG>Ultimate<CLT=typeNORMAL> var! Hepimiz\nbirlikte çalışırsak her şey yoluna girer!
+6|...O sözler...
+7|Evet... sonunda Kaede'nin dileğini yerine getirebiliriz.
+11|Evet... birlikte söz vermiştik.
+12|Buradan çıkmak için birlikte çalışma...\nve arkadaş olma sözümüz...
+13|O sözü yerine getirmenin zamanı şimdi.
+14|Ben sizi destekleyeceğim!
+15|Sen de yapmalısın.
+16|<CLT=cltMIND>Doğru... Tam olarak doğru.\nKaede'ye verdiğim sözü tutmak için...
+17|<CLT=cltMIND>Asla pes etmeyeceğim!\nPes edemem!
+18|Konuşacak vaktimiz yok...\nHadi gidelim.
+19|Ne olursa olsun Kaede'ye verdiğimiz sözü\ntutalım.
+20|Sözümüzü tutalım... ki kaybettiğimiz\narkadaşlarımızın yasını tutabilelim.
+21|Desteği bana bırakın! Sonunda ağzımdan sihirli\nponponlar çıkarmanın zamanı geldi!
+22|Tek yapabileceğimiz ilerlemek.
+23|Bu çekicin Kokichi'nin tuzağı mı yoksa gerçek\nmi olduğunu kullanana kadar bilemeyiz.
+24|Bu çekiçleri yapan gerçekten Miu'ysa...\nve gerçekten işe yarıyorlarsa...
+25|O zaman bu da bir <CLT=cltSTRONG>Ultimate<CLT=typeNORMAL>'ın gücü.
+26|Bir kostümcünün ne yardımı olur bilmiyorum\nama... Kaede'ye verdiğim sözü tutmak istiyorum.
+27|Bu yüzden karar verdim! İlerlemeye\nhazırım!
+28|<CLT=cltMIND>Kaede'ye verdiğim sözü tutmak için o\nyeraltı geçidini aşmalıyım!
+33|<CLT=cltMIND>Bu kadar geldim...\nİnanmaktan başka çarem yok.
+34|<CLT=cltMIND>Miu'nun icat ettiği çekiçle...\nyapabileceğimizi biliyorum.
+35|<CLT=cltMIND>...Buna inanmak zorundayım.
+36|<CLT=cltMIND>Tünele adım atarken bunu kendi\nkendime tekrarlayıp durdum.
+## c05_012_354
+0|<CLT=cltMIND>Sonunda tünelden çıkmayı\nbaşardık.
+1|<CLT=cltMIND>O kadar uzundu ki sonu yok\nsandık...
+2|<CLT=cltMIND>Ama gerçekten bir sonu vardı.
+3|<CLT=cltMIND>Ve sonunda şu vardı...
+5|Öyle görünüyor. Şuraya bakın.
+6|Ah! Bir kapı! O kapının öbür\ntarafında...
+7|Evet! Muhtemelen dış dünya!
+8|Nyeeeh! Başardııık! Sonunda kaçabiliriz!
+9|...Umutlanmayın. Burasının gerçekten dış\ndünya olup olmadığını bilmeliyiz.
+10|H-Haklısın... Dış dünyanın şu an neye\nbenzediğini bilmiyoruz.
+11|Heh, sorun yok! Monokuma muhtemelen\nsadece bize yalan söylüyordu!
+12|Bu akademinin üstündeki gökyüzü normal,\nyani göktaşları muhtemelen gitmiştir.
+13|Dışarıda her şey yolunda.

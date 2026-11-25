@@ -1,0 +1,69 @@
+@ chap5_text_US
+## c05_007_010
+60|Sen de katılacaksın, değil mi Shuichi?
+61|...E-Evet. Tabii.
+62|Demek hepimiz hemfikiriz... O zaman karar verildi.
+63|Hadi yapalım! Monokuma'yı döve döve\nun ufak edeceğiz!
+64|Evet! Ona neyden yapıldığımızı gösterelim!
+65|Sihrimi kullanmama bile gerek kalmayacak!
+66|Hayır... bence sihir kullanabiliyorsan\nzamanı şimdi...
+67|Peki ne zaman başlamak istiyorsunuz?\nHemen başlamak bana uyar...
+68|Eh, acele etme. Çünkü...\nbu son savaş olacak.
+69|Hazırlıklı olduğumuzdan emin olmalıyız.
+70|Ne için hazırlıklı...?
+71|Tabii ki savaş için hazırlıklı!\nNeyse, onu sizin için ben hallederim.
+72|Yani hazırlık yapabiliyorsun ama arkanı\ntoplayamıyorsun, öyle mi?
+73|Eh, bunu açan ben olduğuma göre en azından\nhazırlıkları ben yapmalıyım...
+74|O yüzden sizin sadece zihinsel olarak\nhazırlanmanız lazım.
+75|Savaş bu gece olacak! Gece olunca\nspor salonunda buluşalım!
+76|<CLT=cltMIND>Ondan sonra kahvaltı edip son\nsavaşımıza hazırlandık.
+77|<CLT=cltMIND>Şimdilik ayrılıp odalarımıza\ndöndük.
+78|Kaito'nun ne çılgınca bir şey söyleyeceğini\nbilmesem de onu dinlemeliyiz.
+79|Kokichi de...\nAma Kaito ne planlıyor...?
+80|Onu dinleyip öğrenelim.
+82|Kaito ile konuştuğundan emin ol.
+83|Kokichi nereye gitti acaba...
+84|Tek başınaysa... kim bilir ne\npeşindedir...
+## c05_007_100
+5|<CLT=cltMIND>Kaito ile barışmalıyım...\nMaki'nin hatırı için de.
+25|<CLT=cltMIND>Maki'nin bizim için endişelenmesi...
+## c05_007_101
+0|<CLT=cltMIND>Her zamanki gibi...\nsorunlarla çevriliyiz.
+1|<CLT=cltMIND>Bu akademi gizemlerle dolu ve\nKokichi için endişeleniyorum...
+2|<CLT=cltMIND>Bir de Kaito ile aramdaki...\no şey var...
+3|Onunla barışmalıyım...\nBizim için... ve Maki için.
+4|<CLT=cltMIND>Bunu düşünürken uyuyakaldım...
+7|*öksürük, öksürük*... *öksürük, öksürük*!
+9|K-Kahretsin...
+10|N-Neden...? Neden... şimdi?
+11|Neden... ben?
+12|Kahretsin... Vaktim... tükeniyor.
+13|Böyle ölemem...\nBurada ölmeye... hayatta niyetim yok...
+14|Ben... ben hâlâ... uzaya... g-gitmedim...
+15|Kahretsin...
+16|Pervasızlık güzel bir şeydir.
+17|O kadar güzel ki bir tişörtün üstüne\n"Pervasız Güzellik" yazdırmak istiyorum.
+18|Çünkü hayaller pervasızlıktan\nyapılır.
+19|Sınırlarını hiç umursamadan son hızla\nkoşmanı sağlayan şey odur.
+20|Her şeyden heyecan duymanı sağlayan şey odur.
+21|Bazıları aptalca der ama yeni olayların\nyaşanmasına sebep olan şey pervasızlıktır.
+22|O yüzden hâlâ hayattayken hayatını seni\nölümsüz kılacak kadar pervasızca yaşa.
+23|Ve nefret edenler sana gülerse bırak gülsünler.\nSadece senin gibi pervasız güzelliği takdir etmiyorlar.
+24|Öhöm! Bu, Ultimate Akademi'nin bir\nanonsudur!
+25|Uyanın çocuklar! Öldürme oyunu için\nmuhteşem bir gün daha!
+26|O yüzden dışarı çıkın, cinayet dürtülerinizi\nkucaklayın ve harika bir gün geçirin!
+27|<CLT=cltMIND>Eminim herkes yemekhanede toplanmıştır.\nBen de gitmeliyim.
+## c05_007_266
+0|Ah, Shuichi! Günaydın!
+2|<CLT=cltMIND>Himiko'nun bu kadar enerjik olmasına\nhâlâ alışamadım.
+3|Görünüşe göre bugün de herkes\nyemekhanede toplanmış.
+4|Buraya geldiğimden beri epey düzenli\nbir programım var.
+5|Benim de... Artık her sabah kahvaltı\nbile ediyorum.
+6|Buradan çıktıktan sonra da bu programı\nsürdürsem iyi olur muhtemelen.
+7|Öyle yaparsam muhtemelen büyü güçlerimi\ndaha da zenginleştirir.
+8|Daha önemlisi... bu program yüzünden olabilir\nama... sanırım biraz büyüdüler...
+9|Bu şekilde onları daha da büyüteceğim...\nO zaman kimse bana "memesiz" diyemeyecek!
+10|...Himiko?
+11|Nyeh? H-Hiçbir şey. Ben gidiyorum artık!
+## c05_008_101
+0|<CLT=cltMIND>Monokuma ile bir savaş...\nBunun bizim şansımız olduğu doğru ama...

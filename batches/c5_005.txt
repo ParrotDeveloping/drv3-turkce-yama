@@ -1,0 +1,60 @@
+@ chap5_text_US
+## c05_002_006
+36|<CLT=cltMIND>Tehlikeyi sezip aceleyle kapıdan\ngeri çekildim ve sonra...
+37|<CLT=cltMIND>Patladı!
+38|<CLT=cltMIND>Bir tuzak mı?\nBu tehlikeliydi...
+39|Gerçekten yaralanabilirdim...
+40|<CLT=cltMIND>Anahtar... hâlâ burada.\nBaşka bir şey için kullanılabilir mi?
+41|Ah! İşte buradasın, Shuichi!
+42|Yemekhaneye gelebilir misin?\nTsumugi hepimizin orada buluşmasını istiyor.
+43|Ha? Tsumugi mi?
+44|Bir şey bulduğunu söyledi. Sanırım bir\n<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> buldu.
+45|Her neyse, lütfen acele et!\nBen önden gidiyorum!
+46|<CLT=cltMIND>Demek sonunda bulduk...
+47|<CLT=cltMIND>Sıradaki <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND>.\nBu sefer neyi hatırlayacağız?
+48|Yemekhaneye gitmeliyim.
+## c05_002_042
+2|<CLT=cltMIND>Kaito hâlâ gözlerime bakmıyor...
+3|<CLT=cltMIND>Onunla konuşmak garip olacak.
+4|Hay Allah... Görünüşe göre Kaito sana hâlâ\nkırgın.
+5|Kendini toparlaması lazım ama sen de onun\nduygularını düşünmelisin, Shuichi.
+6|Gonta'ya olanlar... Kimse duygularını tek bir\ngecede toparlayamaz.
+7|Kapı açıldı!\nSihrim sayesinde!
+8|Ah, aslında bende anahtar var...
+9|Sihrim sayesinde!
+11|<CLT=cltMIND>Bu konuşmayı uzun zamandır\nyapmamıştık...
+12|Kokichi nerede acaba... Saklanabileceği\nyer sayısı sınırlı.
+13|Emin değilim. Yakalanmamak için sürekli\nhareket ediyor olabilir.
+14|İnsanların acısından bu kadar zevk alıyorsa\no herif gerçekten çarpık...
+16|Ama ben de ondan iyi değilim. Geçimimi\ninsanların hayatını alarak sağlıyorum.
+17|Öyle söyleme, Maki Rulo.\nGeçmişteki kendinle yüzleşiyorsun.
+18|Kokichi'nin aksine. O değişmeyi denemek bile\nistemiyor. Verebileceğin en kötü karar bu.
+20|I-Iı, evet... yani...
+24|Kokichi kesinlikle bir sorun ama önce\netrafı aramalıyız.
+25|Bir <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> bulunca kendini\ngösterecekmiş gibi geliyor...
+26|O önemli görünen kapının kilidi sonunda açıldı...
+27|Pek bir şey beklemiyorum ama yine de\niçinde ne olduğuna bakmalıyız.
+29|<CLT=cltMIND>Kilidi açık...\nTamam, gidelim.
+## c05_002_045
+0|<CLT=cltMIND>Döner bir merdiven görüyorum...\nEpey uzun görünüyor.
+1|<CLT=cltMIND>Bu merdiven nereye çıkıyor?
+2|<CLT=cltMIND>O merdivenden çıkmalıyım...
+3|<CLT=cltMIND>Bu da mı bir <CLT=cltSTRONG>Ultimate laboratuvarı<CLT=cltMIND>?\nO zaman bu kesinlikle...
+4|Sonunda, görünüşe göre burası benim araştırma laboratuvarım!
+5|Kaito!?
+6|Nyeeeh... o merdivenler çok uzun ve zahmetliydi.\nYoruldum... Biri beni sırtında taşısın.
+7|Sırf <CLT=cltSTRONG>Ultimate Astronot<CLT=cltNORMAL>'un laboratuvarı için\nmi bize bu kadar merdiven çıkarttılar?
+8|"Sırf" da ne demek? Burası ana sahne ve\nsonunda ortaya çıktı!
+9|Y-Yoruldum... Hey... biri... beni sırtında\ntaşısın.
+10|Neyse, içeri girelim. İçeride yararlı bir şey\nolabilir... muhtemelen.
+11|"Muhtemelen" de ne demek!?\nSüper önemli şeylerle dolu olmalı!
+12|Hey! Kimse beni sırtında taşımayacak mı!?
+13|Kes sesini! Seni sırtımda taşımayacağım!
+14|Ah, o zaman içeri girelim...
+16|<CLT=cltMIND>Bu epey uzun bir merdiven.\nNereye çıkıyor?
+17|Of... sonunda tepeye vardım.
+18|<CLT=cltMIND>...Sanki orada bir şey var gibi.\nDikkatli olmak en iyisi.
+## c05_002_131
+4|Merdivenlerden inerken beni sırtında\ntaşısan nasıl olur?
+5|<CLT=cltMIND>Hâlâ bunu mu söylüyor?
+6|Sırf oyun parkına benzeyen bir oda için\nbize o kadar merdiven çıkarttılar...

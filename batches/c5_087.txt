@@ -1,0 +1,46 @@
+@ chap5_text_US
+## c05_241_000
+38|Ne—!? Ama neden!?\nBizimle o kadar dostça davranıyordun ki!
+39|Monokuma doğru bilirse herkesin\nhayatını alır, değil mi?
+40|Ama Monokuma yanlış bilirse herkesin\nhayatını almaya hakkı olmaz.
+41|Monokuma failin kim olduğunu bilmiyorsa\nbu öldürme oyunu artık işleyemez.
+42|<CLT=cltMIND>Artık işleyemez...
+44|Kaito... sana inanıyorum.
+46|<CLT=cltMIND>Bu plana işbirliği yapıyorsan...\nbir sebebin olmalı.
+47|<CLT=cltMIND>O sebebi belirlemek için gerçeği\nortaya çıkarmalıyım!
+48|Hâlâ failin Kaito olduğunu düşünüyorum. Böyle\ndüşününce bütün parçalar yerine oturuyor.
+49|Size gerçeği göstereceğim...\nİnkâr edemeyeceğiniz gerçeği!
+## c05_242_000
+0|<CLT=cltSTRONG>Kokichi ve failin<CLT=cltNORMAL> birlikte yarattığı\nhilenin üzerinden geçelim...
+1|Dün gece Keebo laboratuvarının penceresinden\n<CLT=cltSTRONG>Himiko'yu<CLT=cltNORMAL> gördü.
+2|Bir <CLT=cltSTRONG>siyah çanta<CLT=cltNORMAL> taşıyordu ve\n<CLT=cltSTRONG>Exisal hangarına gidiyordu<CLT=cltNORMAL>.
+3|Hangara varınca çantayı <CLT=cltSTRONG>banyo penceresinden<CLT=cltNORMAL>\nbirine uzattı.
+4|O <CLT=cltSTRONG>biri<CLT=cltNORMAL>...\nbu davanın faili!
+5|Banyoya kilitli olan fail Himiko'dan ona\n<CLT=cltSTRONG>belirli bir silah<CLT=cltNORMAL> getirmesini istemişti.
+6|Maki'nin laboratuvarından <CLT=cltSTRONG>sökülmüş bir arbalet<CLT=cltNORMAL>.
+7|Fail arbaleti Kokichi'ye meydan okumak\niçin kullanacaktı.
+8|Biraz zaman geçti ve <CLT=cltSTRONG>Maki<CLT=cltNORMAL> hangara\ndoğru yola çıktı.
+9|Kokichi'yi öldürüp banyoya kapatılan faili\nkurtarmak için hangara gidiyordu.
+10|Ancak hangarda girmesini engelleyen bir\n<CLT=cltSTRONG>elektrikli bariyer<CLT=cltNORMAL> vardı.
+11|Neyse ki bariyeri... bir bakıma aşmak için\nbir <CLT=cltSTRONG>Elektro Çekici<CLT=cltNORMAL> vardı.
+12|Elektro Çekicini bir <CLT=cltSTRONG>Exisal'ı<CLT=cltNORMAL> devre dışı\nbırakmak için kullanıp <CLT=cltSTRONG>içine bindi<CLT=cltNORMAL>.
+13|Exisal'ların bariyeri aşabildiğini biliyordu...\nbu yüzden birinin içine girdi!
+14|O sıralarda fail ve Kokichi\nyüzleşmeye başladı.
+15|Kokichi onu kontrol ederken fail arbaletle\nona pusu kurdu.
+16|Ama failin Kokichi'yi öldürmek gibi bir niyeti\nyoktu, sadece onu etkisiz hale getirmek istedi.
+17|Bu yüzden fail Kokichi'nin <CLT=cltSTRONG>sağ koluna<CLT=cltNORMAL>\nnişan aldı.
+18|Onu gerçekten öldürmek isteseydi hayati\nbir yerinden vururdu.
+19|Kokichi okla sendeledi ve fail hemen\nüstüne atladı.
+20|Kokichi'ye <CLT=cltSTRONG>kumandayla<CLT=cltNORMAL> bir Exisal çağırma\nfırsatı vermek istemedi.
+21|Kavga ederken ikisini de hazırlıksız\nyakalayan bir şey oldu.
+22|Hangarın kepengi açıldı ve içeri bir\nExisal girdi!
+23|Kokichi kesinlikle bir Exisal'ın araya\ngirmesini beklemiyordu.
+24|Exisal'ı kontrol etmeye çalışarak\nkumandasını çıkardı...
+25|Ama Maki kokpitten atlayıp Kokichi'yi\narbaletiyle vurdu.
+26|Ok Kokichi'nin tam <CLT=cltSTRONG>sırtına<CLT=cltNORMAL> isabet etti.\nVe normal bir ok değildi.
+27|Ucu laboratuvarımdaki <CLT=cltSTRONG>Strike-9 Zehri<CLT=cltNORMAL>\ndenen öldürücü bir zehirle kaplıydı.
+28|Zehir yavaş öldürür. Görünüşe göre Maki\nKokichi'nin ölmeden önce itiraf etmesini istedi.
+29|Ama damarlarında zehir varken bile Kokichi\nyalanlarını örmeye devam etti.
+30|Yeterince dayandıktan sonra Maki başka bir\nzehirli okla işini bitirmeye çalıştı...
+31|...ama bu sefer hazırlıksız yakalanan\nMaki oldu.
+32|Maki'nin kara eller olmasını engellemek için\nfail bedeniyle <CLT=cltSTRONG>Kokichi'yi korudu<CLT=cltNORMAL>.

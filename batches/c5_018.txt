@@ -1,0 +1,62 @@
+@ chap5_text_US
+## c05_010_007
+185|<CLT=cltMIND>Elektro Çekiçleri geride\nbıraktı.
+186|...N-Ne yapmalıyız?
+187|Çekiçler konusunda mı?\nKesinlikle bir şekilde tuzaklıdırlar...
+188|Ama bakınca kesinlikle Miu'nun yaptığı\nbir şeye benziyor.
+189|Her iki durumda da söylediği hiçbir şeye\ninanmayı reddediyorum.
+191|Ama biliyor musunuz... yalan değilse bu bizim\nkaçmak için tek şansımız değil mi!?
+193|Bu Elektro Çekiçleri kullanırsak belki\nyeraltı geçidinden geçebiliriz...
+194|O zaman neden denemiyoruz?
+195|Yani... Kokichi'nin önerdiğini gerçekten\nyapmak mı?
+196|Ne yaparsak yapalım tehlikeli olacak.\nAma gerçekten Kokichi'ye inanacak mısın?
+197|Amacımız herkesle birlikte kaçmak, değil mi?
+198|Bunu yapabilme şansımız varsa\no şansı kullanmalıyız.
+199|Yeterince... vaktimiz yok...
+200|...Vakit mi?
+201|E-Evet... Monokuma'yla.\nYani yakında yolumuza çıkacak.
+202|Doğru, belirgin bir hareket yapmadığı şu an\nbizim en iyi şansımız...
+203|O zaman bu çekiçlerle yeraltı geçidini deneyelim.\nDış dünyaya ulaşacağız!
+204|Haklısın... kaçabilirsek <CLT=cltSTRONG>dış dünyanın\nsırrını<CLT=typeNORMAL> kendimiz öğreniriz.
+205|Gerçi bunun yalan mı doğru mu olduğunu\nbilmiyoruz.
+206|<CLT=cltMIND><CLT=cltSTRONG>Dış dünyanın sırrı<CLT=cltMIND>...\nGonta'nın bahsettiği <CLT=cltSTRONG>umutsuzluk<CLT=cltMIND>...
+207|<CLT=cltMIND>Bu bir yalan mıydı?\nGerçek mi?
+208|<CLT=cltMIND>Çıkmalıyız.
+209|...Haklısın. Denemeliyiz.
+210|Evet, elimizde sadece bu var!
+211|Hem <CLT=cltSTRONG>dış dünyanın sırrı<CLT=typeNORMAL> sadece bir\nyalan da olabilir!
+212|Her iki durumda da en azından denemeliyiz.\nHiç pişmanlığımız olmasın diye.
+213|Sen ne yapmak istiyorsun, Maki?
+215|O çekiç bir tuzaksa o pisliği gerçekten\nöldüreceğim—
+216|Onu öldüremezsin. Sadece yumrukla.
+217|...Biliyorum. Sadece onu döve döve\nkan revan içinde bırakacağım.
+218|A-Anlıyorum. Diğer herkes yapacaksa...\nanlıyorum.
+219|O zaman yeraltı geçidi için tekrar\nhazırlanacağım!
+220|Evet! İşte bu!
+221|<CLT=cltMIND>Ancak... Monokuma'nın bu kadar sessiz\nolması hâlâ beni endişelendiriyor...
+222|<CLT=cltMIND>Sabah anonsundan beri kendini hiç\ngöstermedi. Nerede?
+223|<CLT=cltMIND>Sanırım bunun için endişelenmenin anlamı yok.\nİlerlemeye odaklanmak istiyorsam olmaz.
+224|<CLT=cltMIND>Yapabileceğim tek şey bu...\nİlerlemeye devam etmek.
+225|Tamam! Hadi gidelim! Bu sefer o yeraltı\ngeçidinden kesinlikle kaçacağız!
+226|<CLT=cltMIND>Kaito zafer naraları attı ve hepimiz\nElektro Çekiçlerimizi kaptık.
+227|Evet, gidelim!
+228|Ben sizi destekleyeceğim...
+229|Himiko, sen de gelmelisin!
+231|<CLT=cltMIND>Spor salonundan yüksek bir moralle\nayrıldık.
+232|Ben de gitmeliyim. Yeraltı geçidine\ngitmeliyim.
+233|<CLT=cltMIND>Son Elektro Çekici alıp spor\nsalonundan çıktım.
+234|<CLT=cltMIND>Kaito'nun getirdiği silahlar.
+235|<CLT=cltMIND>...*Bunların* Ultimate Anti-Monokuma\nSilahları olduğunu sanmıyorum.
+## c05_010_101
+2|<CLT=cltMIND>Monokuma... burada değil mi?\nO *neydi* öyle...?
+3|...Plan bozuldu mu?
+4|<CLT=cltMIND>Spor salonuna gitmeliyim, eminim\nherkes orada toplanmıştır...
+## c05_010_266
+0|Ah, Shuichi... Spor salonuna mı gidiyorsun?
+1|Evet, öyle.
+2|Miu'nun bu konuda çok heyecanlandığını\nduyduğumu hatırlıyorum ama...
+3|Keebo'nun araştırma laboratuvarında onu geliştirecek\nbir sürü parça var, değil mi?
+4|Onları kullansa kavgalarda Maki'ye bu\nkadar bağımlı olmak zorunda kalmazdık.
+6|Keebo fazla "bilimkurgu" bir şey istemediğini\nsöyledi, yani...
+7|Ama bu durumda belki artık bunu aşması\ngerekiyordur...
+8|Neyse, onu hiçbir şeye zorlamamalıyız.\nBirinin moe'su diğerinin çöpüdür.

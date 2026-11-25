@@ -1,0 +1,65 @@
+@ chap5_text_US
+## c05_223_000
+86|Siz hangara baskın yaptığınızda\nElektro Çekici olmayan biri...
+87|Şimdi, o kimdi bakalım?
+89|Belki... Keebo...?
+90|Hayır, ben değildim. Bu sabahki plan için\nşarj ediyordum.
+91|Şarj edilmeyen çekiç var\nmıydı...?
+93|Yoksa... Himiko mu?
+94|Ben değilim! Öyle yapsaydım çekici\nplanımız için kullanamazdım!
+95|Herkesin kendi Elektro Çekicini getirmesi\ngerekiyordu, hatırladın mı?
+97|Tsumugi olamaz... değil mi?
+98|Hayır, ben değildim. Bu sabah Elektro\nÇekicim yanımdaydı, değil mi?
+99|Dün kullansaydım bu sabah şarjlı\nolmazdı, değil mi?
+101|Ne oldu, Shuichi?\nSöylemekten mi korkuyorsun?
+103|Shuichi, gerçekten doğru kişinin\no olduğunu mu düşünüyorsun?
+108|Exisal'ı Elektro Çekiçle devre dışı bırakıp\nhangara kim girdi?
+109|Maki... aradığımız üçüncü kişi\nsensin, değil mi?
+110|Ne!? Maki mi!?
+113|Kokichi'nin ne dediğini hatırlayın...
+116|Elektro Çekicin pili bittikten sonra 24 saat\nboyunca şarj edilmesi gerekiyor.
+117|O çekiç dün öğleden sonra kullanıldı, yani\nbu sabah kullanılmış olamaz.
+118|Ah, doğru. Bu sabah hepimiz yemekhanede\ntoplandığımızda...
+123|Elektro Çekici olmayan tek kişi\nMaki'ydi, değil mi?
+125|Bunu bilince, bulduğum Elektro Çekiç\nancak Maki'ye ait olabilirdi.
+126|Ve bu beni Maki'nin üçüncü kişi olması\ngerektiği sonucuna götürüyor.
+128|Ayrıca arbaleti nasıl birleştireceğini biliyor\nve sonra onu laboratuvarına geri götürebilirdi.
+129|Kaito'nunkinden farklı bir arbalet\ngetirdin, değil mi?
+131|Maki laboratuvarından iki ok ve kendi\narbaletini aldı...
+132|...Exisal'ı Elektro Çekiçle devre dışı bırakıp\nhangara sızdı.
+133|Şimdi sadece ondan sonra ne olduğunu\nbulmamız gerekiyor—
+134|Bunu... neden yapıyorsun?
+136|Neden... yoluma çıkıyorsun?
+137|Yoluna mı çıkıyorum? Maki, ne—
+138|Evet, üçüncü kişi benim.
+140|Bir Exisal'la hangara girip arbaletle\nateş ettiğimi kabul ediyorum.
+141|Ama kimseyi öldürmedim!\nFail ben değilim!
+## c05_224_000
+0|Exisal ve Elektro Çekiç konusunda\nhaklısın...
+1|Ama ne olmuş?
+3|Ha? Daha önce hiç silah kullanmadın,\no zaman nereden bileceksin?
+4|O kadar sığ bir yaranın ölümcül olabileceğini\ndüşünmek gülünç.
+6|<CLT=cltMIND>Faydası yok, beni hiç dinlemiyor.\nAma burada geri adım atamam.
+7|<CLT=cltMIND>Maki'nin fail olduğunu düşünmek\nistemiyorum... Ona inanmak istiyorum.
+8|<CLT=cltMIND>Belki yara ölümcül görünmüyor ama\nonu öldürücü yapmanın bir yolu var...
+10|<CLT=cltMIND>Ama kendini savunmak için\nçabalama şekli...
+## c05_224_001
+0|<CLT=size2>...Haklısın.
+1|...Haklısın.
+2|<CLT=size2>Elektro
+3|Elektro Çekici kullandım...
+4|Çekici
+5|<CLT=size2>kullandım...
+6|Ve <CLT=size2>hangara<CLT=size1> <CLT=size2>girmek
+7|Ve hangara girmek için Exisal'ı da kullandım...
+8|<CLT=cltWEAK>için <CLT=size2>Exisal'ı
+9|da kullandım...
+10|Ayrıca
+11|Ayrıca orada arbaletle ateş ettim.
+12|orada
+13|<CLT=size2>arbaletle<CLT=size1> ateş ettim.
+14|Ancak <CLT=size2>fail\n<CLT=size1>ben <CLT=size2>değilim.
+15|Ancak fail ben değilim.
+16|Çünkü\n<CLT=size2>arbalet<CLT=size1> cinayet\nsilahı <CLT=size2>değil<CLT=size1>.
+17|Çünkü arbalet cinayet\nsilahı değil.
+18|<CLT=size2>Arbalet<CLT=size1> cinayet\n<CLT=size2>silahı değil mi?

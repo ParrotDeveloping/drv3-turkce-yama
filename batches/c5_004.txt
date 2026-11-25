@@ -1,0 +1,64 @@
+@ chap5_text_US
+## c05_001_010
+102|Ama yalnız olmaya alışkınım. Eskiden\nbaştan sona yalnızdım...
+103|Neyse, işte bu seferki ödülünüz!
+104|İki anahtar alıyorsunuz! Bu <CLT=cltSTRONG>son gerçek\nanahtar<CLT=cltNORMAL>, bu da <CLT=cltSTRONG>gerçek son anahtar<CLT=cltNORMAL>!
+105|E-Eee, farkı ne!?
+106|Şimdi gidip bu anahtarların açacağı\nalanları bulun.
+107|Sonra görüşürüz! Bay-onara!
+108|Peki bu yeni alan konusunda ne yapalım?
+109|Bence Kokichi'yi aramaktansa o yeni alanı\naramaya öncelik vermeliyiz.
+110|Muhtemelen bir <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> içeriyor ve\nyeni gerçekler keşfedebiliriz.
+111|Yani insanların düşük öncelikli olduğunu söylüyorsun...\nKansız, gözyaşsız bir makine adama tipik.
+112|Böyle şakalar yapacak kadar yakın\nolduğumuzdan... emin değilim.
+113|...Sen ne yapmak istiyorsun, Kaito?
+114|Kokichi için endişeleniyorum ama... Sürekli\nonun için endişelenmenin anlamı yok.
+115|Tamam! İlk önceliğimiz bu akademinin gizemini\nçözmek! İnceleyelim!
+116|Tamam... Ah, şunu ben tutayım...
+117|Ah... doğru...
+118|<CLT=cltMIND>Kaito gözlerime bakmadan anahtarı\navucuma bıraktı.
+119|Kaito? Shuichi? Ne oldu?\nBugün ikiniz de farklı görünüyorsunuz.
+120|...Ortamı oku, Keebo.\nSorun yok, hadi gidelim artık.
+121|<CLT=cltMIND>Ayrılıp aramaya başladık.
+## c05_002_001
+0|<CLT=cltMIND>Kızlar tuvaleti. Oraya girersem\nhem sapık *hem de* ölü olurum.
+## c05_002_002
+1|<CLT=cltMIND>Çok uğraştım, Kaede...\nOnları... korumaya çalıştım...
+2|<CLT=cltMIND>Nasıl bu hale geldi...?
+5|<CLT=cltMIND>Sadece yedimiz kaldı.\nYarıdan az...
+## c05_002_003
+1|<CLT=cltMIND>Gonta'nın dediği gibi dış dünya\ncehennemse...
+2|<CLT=cltMIND>O zaman... yaşamak için ne sebebimiz var?
+3|<CLT=cltMIND>...Hayır, doğru olamaz.\nOlamaz... değil mi?
+## c05_002_005
+4|<CLT=cltMIND>Ölümle ilişkimiz...
+5|<CLT=cltMIND>Gonta'nın ve Miu'nun ölümleriyle\nnasıl başa çıkacağız?
+7|<CLT=cltMIND>Angie... Sen, Gonta ve Miu bir yerde\nbirlikteyseniz...
+8|<CLT=cltMIND>Umarım gülümsüyorsunuzdur.
+## c05_002_006
+4|<CLT=cltMIND>Bu kapının görünüşüne bakılırsa...\nbir <CLT=cltSTRONG>Ultimate laboratuvarı<CLT=cltMIND> olmalı.
+5|<CLT=cltMIND>...Bu kimin laboratuvarı?
+6|<CLT=cltMIND>Henüz laboratuvarı olmayan çok az\nkişi kaldı...
+7|İçeri bakmalıyım.
+8|<CLT=cltMIND>Kolu çevirdiğimde...
+10|Ha? Açılmıyor...
+11|Ah, o araştırma laboratuvarı sahibi öldüğü\niçin kapalı!
+12|...Sahibi öldü mü?
+13|Kurallara göre, bir öğrenci <CLT=cltSTRONG>Ultimate araştırma\nlaboratuvarı<CLT=cltNORMAL> açılmadan önce ölürse...
+14|...o laboratuvar kapalı kalır.
+15|Bunu ilk defa duyuyorum!
+16|Çünkü bundan ilk defa\nbahsediyorum.
+17|<CLT=cltMIND>...Monokuma'ya şikâyet etmenin anlamı yok.\nBu onun akademisi.
+18|<CLT=cltMIND>Neyse...\nBu laboratuvar ölen birine aitse...
+19|Bu... Rantaro'nun laboratuvarı mı?
+20|Ne hayal kırıklığı. Laboratuvarına girseydiniz\nyeteneğinin ne olduğunu öğrenirdiniz.
+21|Puhuhu... Yeteneğini şimdi öğrenseydiniz\nepey dramatik bir gelişme olurdu!
+22|B-Bu ne demek?
+23|Evet, bu ne demek?
+24|Böyle beklenmedik bir gelişme ancak bunun\ngibi gerçek bir öldürme oyununda olabilir.
+25|Neyse, ne israf. O aptalın onu öldürdüğüne\ninanamıyorum.
+27|<CLT=cltMIND>Rantaro'nun laboratuvarı...\nYeteneğini merak ediyorum ama...
+28|<CLT=cltMIND>Artık çok geç.
+33|Ha? Anahtar oturuyor... ama dönmüyor.
+34|<CLT=cltSYSTEM>*tik, tik, tik, tik!*
+35|...Tıkırtı mı?

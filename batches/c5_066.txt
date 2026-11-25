@@ -1,0 +1,67 @@
+@ chap5_text_US
+## c05_214_000
+27|Kaito'nun hayatta olmasına neden\nbu kadar karşısın!?
+## c05_214_001
+0|Bence\nExisal'ın içindeki\n<CLT=cltWEAK>Kaito<CLT=cltNORMAL>!
+2|<CLT=cltWEAK>Exisal'dan<CLT=cltNORMAL> çıkmadıkça\nbunu doğrulayamayız.
+3|Exisal'dan çıkmadıkça\nbunu doğrulayamayız.
+6|Ama <CLT=cltWEAK>yaralı<CLT=cltNORMAL>\nolduğu için\nExisal'dan\nçıkamayacağını söyledi.
+8|Kaito'nun <CLT=cltWEAK>yarasını<CLT=cltNORMAL>\nbilen herkes\nbu iddiada\nbulunabilir.
+9|Kaito'nun yarasını bilen herkes\nbu iddiada bulunabilir.
+10|Yara
+11|Yara
+12|Kaito yerine\nKokichi'nin\n<CLT=cltWEAK>ezilmiş<CLT=cltNORMAL>\nolması mümkün mü?
+14|Görüntüleri izledin\nmi? <CLT=cltWEAK>Ezilen<CLT=cltNORMAL>\nKaito'ydu.
+15|Görüntüleri izledin mi? Ezilen\nKaito'ydu.
+16|Ezilmek
+17|Ezilmek
+18|Ama Kokichi'nin\ngömleğinde bir\n<CLT=cltWEAK>ok deliği<CLT=cltNORMAL> vardı.
+20|Kaito'nun kıyafetlerinde de\n<CLT=cltWEAK>ok delikleri<CLT=cltNORMAL> vardı!
+21|Kaito'nun kıyafetlerinde de ok delikleri vardı!
+22|Ok Delikleri
+23|Ok Delikleri
+24|Kaito'nun hâlâ\nhayatta olduğuna ve\n<CLT=cltWEAK>beyni<CLT=cltNORMAL> yendiğine\ninanmak istiyorum ama...
+26|<CLT=cltWEAK>Beyin<CLT=cltNORMAL>\nhâlâ hayatta...\no Exisal'ın içinde.
+27|Beyin hâlâ\nhayatta... o Exisal'ın\niçinde.
+30|Kaito'nun\n<CLT=cltWEAK>hayatta<CLT=cltNORMAL> olmasına\nneden bu kadar karşısın!?
+31|Kaito'nun hayatta olmasına neden\nbu kadar karşısın!?
+32|Çünkü kanıtlar\nKaito'nun hâlâ\n<CLT=cltWEAK>hayatta<CLT=cltNORMAL> olduğu\niddiasını desteklemiyor!
+33|Çünkü kanıtlar Kaito'nun hâlâ hayatta\nolduğu iddiasını desteklemiyor!
+34|Hayatta
+35|Hayatta
+## c05_215_000
+0|Buna... inanmak istemiyorum...\nBir bakıma hâlâ inanamıyorum...
+1|Ama kanıtlar... Kanıtlar ölenin Kaito\nolması gerektiğini gösteriyor.
+2|Bundan nefret ediyorum... Çok nefret ediyorum\nama gerçek bu.
+4|Anlıyorum. Vardığın sonuç buysa, Shuichi,\no zaman hiç hata olmamalı.
+5|O zaman buradaki...
+6|Heh, görünüşe göre fazla oyun\noynadım.
+7|Çoook pardon! Sadece küçük bir şakaydı!
+8|N-Ne hastalıklı bir şaka!
+9|Hâlâ bir pisliksin...
+10|Doğru ve onu affedemem... ama yine de sakin\nkalmalı, mantıklı olmalıyız.
+11|Çünkü Kaito'nun ölümünün gerçeğine\nulaşmamız lazım.
+12|E-E-E-Evet! Sakin ol ve devam et!
+13|Bunu neden sen söylüyorsun!?\nVe bunun neresi sakindi!?
+14|Konuya dönelim... Neden <CLT=cltSTRONG>arbaleti<CLT=cltNORMAL>\nbiraz daha yakından incelemiyoruz?
+15|Bence daha fazla yalana kanmamak için\nbütün gerçekleri netleştirmeliyiz.
+16|Katılıyorum ama...\nSen ne düşünüyorsun, Maki?
+19|Tama-am! O zaman onu tartışalım!
+20|Neden her şeyin başındaymış gibi\ndavranıyorsun?
+21|Diyelim ki Kaito ile ben birbirimizi\narbaletle vurduk...
+22|...o zaman bunu çözmenin en verimli yolu\nolayların bir zaman çizelgesini oluşturmak!
+23|Hey! Dedim ki, neden sen—
+24|Tamamdır o zaman! Tartışma başlasııın!
+## c05_216_000
+0|Himiko arbaleti Kaito'ya verdi, değil mi?\nYani ilk onda vardı!
+2|Kaito'nun kıyafetlerinde ok delikleri var...
+3|Kokichi'nin arbaleti alıp onu vurduğunu\nvarsaymak mantıklı değil mi?
+5|Araştırma laboratuvarımda sadece üç\narbalet vardı.
+6|Diğer ikisi hâlâ orada olduğuna göre\nsadece birinin alındığı anlamına geliyor.
+8|Ha?\nAma ona sadece bir ok verdim...
+9|Peki söylediğimin nesi yanlış?
+11|Yok yok! Arbalet okları çoook acıtır!\nGerçi Shuichi bunu bilemez...
+13|<CLT=cltMIND>...Sadece bir ok mu?
+14|<CLT=cltMIND>Bu bendeki bilgiyle açıkça\nçelişiyor!
+15|<CLT=cltMIND>...Ne?\nAz önceki neydi?
+16|<CLT=cltMIND>Bu bendeki bilgiye aykırı gibi\ngeliyor.

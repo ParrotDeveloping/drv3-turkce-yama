@@ -1,0 +1,31 @@
+@ chap5_text_US
+## c05_015_100
+6|Kaito'yu kurtaralım ve birlikte Kokichi'yi durduralım!\nBu yeni umudumuzun başlangıcı!
+12|<CLT=cltMIND>Farklı sınıflarda olsak da hepimiz\nHope's Peak Akademisi öğrencileriydik.
+13|<CLT=cltMIND>Ama her şeyi unuttuk... ve öldürme\noyununu oynamaya zorlandık...
+14|<CLT=cltMIND>Ama... artık bitti. Kokichi'yi ve Kalıntıları\ndurdurarak buna son vereceğiz.
+18|<CLT=cltMIND>Gonta...
+19|<CLT=cltMIND>Sonunda acını anlıyorum.\nİçinde taşıdığın umutsuzluğu anlıyorum.
+20|<CLT=cltMIND>Bir umut sembolü olduğunu... bilseydin\nbelki yardım edebilirdik...
+22|<CLT=cltMIND>Kokichi...\nArtık istediğin olmayacak!
+35|<CLT=cltMIND>Miu... zihnin, ruhun öldürme oyunu\ntarafından ezildi...
+36|<CLT=cltMIND>Ama icatların sayesinde <CLT=cltSTRONG>umutsuzluğa<CLT=cltMIND>\nkarşı savaşabiliyoruz!
+37|<CLT=cltMIND>Yani sen bile... bir umut sembolüsün!
+## c05_015_101
+0|Önce Elektro Çekici şarj etmemiz lazım...
+1|<CLT=cltMIND>Ama öylece bekleyip durmamalıyım.
+2|<CLT=cltMIND>Kaybedilen zamanı telafi etmeliyim...
+3|<CLT=cltMIND>Yapabileceğim bir şey olmalı.
+8|<CLT=cltMIND>Hayır, bu doğru değil...\nYapabileceğim bir şey olmalı.
+9|...Doğru, bölgeyi keşfetmeliyim.
+10|<CLT=cltMIND>Planı uygulamadan önce olay yerine\nbakmak iyi bir fikir olur.
+11|<CLT=cltMIND>Ve... Kaito için endişeleniyorum.
+12|<CLT=cltMIND>Yaralı ve... hasta...
+13|<CLT=cltMIND>Eminim onun için endişelenmemi\nistemiyordur ama... mecburum.
+14|Tamam, gideceğim.
+23|<CLT=cltMIND>Bunu yarın kullanacağız.\nBenimkinin şarj olduğundan emin olmalıyım.
+## c05_015_251
+0|Nyeeeh, şu an o kadar motivasyonum var ki!\nElektro Çekicin şarj olmasını bekleyemiyorum!
+1|S-Sakin ol, Himiko!
+2|Bütün enerjini şimdi harcarsan gerçekten\nihtiyacın olduğunda hiç kalmaz.
+3|Nyeh? Anlıyorum. Bu da doğru.

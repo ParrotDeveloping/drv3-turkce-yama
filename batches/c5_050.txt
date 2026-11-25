@@ -1,0 +1,49 @@
+@ chap5_text_US
+## c05_103_219
+83|<CLT=cltMIND>Bu kıyafetlerin sırtında küçük\nbir delik var...
+89|<CLT=cltMIND>O zaman Kokichi'nin pres tarafından\nezilmiş olma ihtimali var.
+93|<CLT=cltMIND>Banyonun ortasında bir kan gölü ve\nkapıya kadar bir iz var.
+94|Bu kan lekesinden ne çıkarabilirim?\nTekrar incelemeliyim.
+## c05_103_220
+0|Ah, Shuichi! Benimle gelebilir misin?
+1|Bir sorun mu var?
+2|Banyoda tuhaf bir şey buldum!\nLütfen, acele et!
+3|<CLT=cltMIND>Hızla bağırıp banyoya\nkoştu.
+4|Neden bahsediyorsun, Keebo?
+5|Banyodan çıktığımıza göre çok daha fazla\ndüşünebiliriz!
+7|Vaktimiz doldu...
+8|Duruşma alanına gidelim. Kokichi'yle\nhesaplaşmamız lazım.
+9|Keebo seni arıyordu, biliyor musun?\nAcele et de banyoya git.
+10|Bir robotla banyoda ne yapacağını\nsormayacağım...
+11|<CLT=cltMIND>Himiko'nun aklında ne var...?
+12|Sen de Keebo da artık daha ferah görünüyorsunuz.
+13|Erkekler tuvaletinde birbirinizi ferahlatmak...\nŞimdi bile kendinizi tutamıyorsunuz, ha?
+16|<CLT=cltMIND>Bunların hepsi Himiko'nun hayal gücü ama\nşu an buna değinmek bile istemiyorum.
+17|V-Vakit geldi... O zaman ben önden gidiyorum.
+20|<CLT=cltMIND>Kaito'nun öldüğüne inanmak senin için\nneden bu kadar kolay?
+22|Hey... sınıf duruşmasının başlamasına az kaldı,\ndeğil mi? Kimse Kokichi'yi bulamadı mı?
+23|Bilmem ki...\nKimseden bir şey duymadım.
+24|Nereye gitti acaba...
+25|<CLT=cltMIND>Kayboldu mu?\nHâlâ hangarda olamaz...
+26|<CLT=cltMIND>Ya da... orada, altında...
+27|Shuichi... sence ölen\nKokichi miydi?
+29|Yani... yüzün öyle düşünmek istediğini söylüyor.
+30|Ama bence bu düpedüz imkânsız.
+31|Kokichi en başından beri hepimizi\nyönlendiriyor...
+32|Öyle birinin Kaito tarafından öldürülebileceğine\ninanamıyorum.
+34|Ah! Tabii ki Kokichi'ye iltifat etmek ya da\nKaito'yla dalga geçmek istemiyorum!
+35|...Biliyorum.\nMuhtemelen haklısın.
+36|<CLT=cltMIND>Tsumugi'nin haklı olduğu bir nokta var.
+37|<CLT=cltMIND>Kokichi'nin öldüğü sonucuna varmak için\nhâlâ yeterli ipucum yok.
+38|<CLT=cltMIND>Ama birinin ölmüş olduğundan\neminim.
+39|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kokichi'nin Ortadan Kaybolması<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+40|Kokichi'ye iltifat etmek ya da Kaito hakkında\nkötü bir şey söylemek istemiyorum...
+41|Ama Kokichi bütün zaman boyunca bizi\nyönlendiriyordu, biliyor musun?
+43|Bu... çoktan başlıyor.
+44|Hepimiz... Yani Kokichi de gelecek.
+50|<CLT=cltMIND>Avludaki <CLT=cltSTRONG>Yargı Tapınağı<CLT=cltMIND>'na\ngitmeliyim.
+52|<CLT=cltMIND>Faydası yok. Kaç kez incelersem\ninceleyeyim daha fazla ipucu bulamıyorum.
+55|<CLT=cltMIND>...Bunda şüpheli bir şey yok.
+59|<CLT=cltMIND>Hidrolik presin etrafında çok\nkan var...
+63|<CLT=cltMIND>Herhangi bir yakın inceleme yapmak\nzor olacak...
+80|Şu an gözüme çarpan şeyler bunlar.\nAma bakmaya devam etmeliyim.

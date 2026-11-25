@@ -1,0 +1,61 @@
+@ chap5_text_US
+## c05_000_220
+21|Yeşil Exisal (Olay Sonrası)
+22|<CLT=cltMIND>Alarm sistemini ve elektrikli bariyeri\nkontrol eden bir panel.
+23|<CLT=cltMIND>Yine de onları tekrar açmak için\nbir sebep göremiyorum...
+24|Kaito'nun Kolluğu
+25|Kan Lekesi
+26|Kopuk Güç Kablosu
+## c05_000_251
+4|<CLT=cltMIND>Demek anahtar buymuş...
+## c05_000_269
+7|<CLT=cltMIND><CLT=cltSTRONG>Sona<CLT=cltMIND> biraz daha yaklaştığımızı\nsanmıştım...
+8|<CLT=cltMIND>Ama hâlâ debeleniyoruz.\nKaranlıkta dolaşıyoruz.
+9|<CLT=cltMIND>Ve hayatta kalmak için verilen o çaresiz savaş...
+10|<CLT=cltMIND>bu öldürme oyununu besliyor.\nTıpkı Kokichi gibi...
+## c05_000_287
+0|<CLT=cltMIND>Altın Çekiç
+3|<CLT=cltMIND>Banyo Penceresi
+5|<CLT=cltMIND>Sanırım bunlara hiçbir zaman alışamayacağım.
+6|<CLT=cltMIND>Alarm sistemi Monokuma tarafından\ndevre dışı bırakılmış.
+## c05_001_010
+0|Hüü-hüü-hüü-hüüüü... *burun çekme*\nSevimli Monoyavrularım...
+1|Minik Monotaro... Minik Monophanie...\nMinik Monodam... Ve diğerleri...
+2|Ah, neden ölmek zorundaydınız!?\nHayatlarınızın yeri doldurulamazdı!
+3|Hüü-hüü-hüü! Kederim yeni yağmış kar\ngibi birikiyor!
+4|*burun çekme* Onlara söyledim; hayatınızın tadını\nçıkarın, çünkü sadece bir şansınız var...
+5|Ve bir kere bitince yerini hiçbir şey tutamaz!\nAh, neden hayatlarını hafife aldılar!?
+6|Hayatlarını önemseselerdi sevgimi kazanmak\niçin daha çok çalışırlardı!
+7|Hepsi onların suçu! Ebeveynleri onları sevmeyen\nçocukların başına hep kötü şeyler gelir!
+8|*burun çekme* Ama... ne kadar çok düşünürsem...
+9|O çocuklar neden var oldu ki?
+10|Yeri doldurulamaz hayat da ne ki zaten?
+11|<CLT=cltMIND>Gonta'nın kara eller ilan edildiği\ngünün ertesi sabahı...
+12|<CLT=cltMIND>Her zamanki gibi yemekhanede toplandık.
+14|<CLT=cltMIND>Her zamanki gibi mi...?
+15|<CLT=cltMIND>Hayır, bu nasıl olabilir?\nDün olan her şeyden sonra...
+16|<CLT=cltMIND>Böyle karanlık bir zamanda bile içimizden biri\nhâlâ neşeliydi, hepimizi neşelendirmeye çalışıyordu...
+17|Hay Allah, aptal olmayın millet.\nÖlmemin imkânı yok, biliyor musunuz?
+18|Çünkü ben Kaito Momota'yım!\nYıldızların Işığı!
+19|Gerçekten iyi misin...?
+20|Söylüyorum ya! Gayet iyiyim!
+21|Dün kendimi pek iyi hissetmiyordum ama\niyi bir gece uykusundan sonra tamamen iyileştim.
+22|Artık yüzde yüz iyiyim!
+23|Ama... o kadar kan tükürdükten sonra bu kadar\nçabuk iyileşmenin imkânı yok—
+24|Söyledim ya, değil mi? Sadece çok öksürüp\nboğazımı biraz kestim, o kadar.
+25|Kendini çok zorlamadığına emin misin?\nYa da kronik bir hastalıktan muzdarip olmadığına—
+26|Aptal olma! Kronik bir hastalığım olsaydı\nastronot eğitiminde hiç şansım olmazdı!
+27|Cidden, çok endişeleniyorsunuz.\nSırf hepiniz beni sevdiğiniz ve kendinizi tutamadığınız—
+28|...Tabii ki endişeleniriz.
+30|Benim hatam... Ama ciddiyim. Artık benim\niçin endişelenmenize gerek yok...
+31|Kendimi iyi hissetmediğimi size söylemeliydim.\nSizi boşuna endişelendirdim.
+33|T-Tamam... bana öyle dik dik bakma.
+34|Tekrar kötü hissetmeye başlarsam bana\nyardım etmenizi isterim, tamam mı?
+35|Bu halledildiğine göre, yiyelim!\nEvet, hadi millet! Hepimiz yiyelim!
+36|<CLT=cltMIND>Kaito neşeyle konuştu, sonra\nyemeğini almaya gitti.
+37|<CLT=cltMIND>...Gerçekten hiçbir sorun yok mu?
+38|<CLT=cltMIND>Dün gördüklerimden sonra...\nnasıl hiçbir şey yokmuş gibi davranabilirim...?
+39|Kaito'nun sözlerine rağmen her ihtimale karşı\nmuhtemelen tıbbi müdahale görmeli...
+40|Artık buradan çıkmamız için başka bir\nsebebimiz daha var.
+41|Ve üstüne üstlük... bunu hızlı yapmamız lazım.
+42|Kaçmak güzel de...\nPeki dışarısı *neye* benziyor?

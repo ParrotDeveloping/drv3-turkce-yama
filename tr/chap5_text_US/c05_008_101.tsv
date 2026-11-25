@@ -1,3 +1,9 @@
+0	<CLT=cltMIND>Monokuma ile bir savaş...\nBunun bizim şansımız olduğu doğru ama...
+1	<CLT=cltMIND>Bu huzursuzluk hissi de ne...?
+2	<CLT=cltMIND>...Çünkü Monokuma muhtemelen bizden\niki adım önde.
+3	<CLT=cltMIND>...Ve Kokichi de.
+4	<CLT=cltMIND>Bunu öylece görmezden geleceğini sanmıyorum.\nBir şey planlıyor olmalı.
+5	<CLT=cltMIND>Dikkatli olmalıyız...
 6	Evet
 7	Hayır
 8	Emin olmadığın bir şey mi var?
@@ -6,6 +12,7 @@
 11	Hayır
 12	Emin olmadığın bir şey mi var?
 13	<CLT=cltSYSTEM>Yatakta dinlenmek ister misin?\nDinlenirsen Serbest Zaman biter.
+14	<CLT=cltMIND>Hâlâ biraz vakit var...\nFırsatım varken biraz dinlenmeliyim.
 15	<CLT=cltMIND>Epey büyük bir lamba.\nOdayı iyi aydınlatıyor...
 16	<CLT=cltMIND>Dolabım benimkinin aynısı olan\nüniformalarla dolu...
 17	<CLT=cltMIND>Bütün bunları sadece bir ölüm oyunu için mi\nyaptılar? Amaçları ne...?

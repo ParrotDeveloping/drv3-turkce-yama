@@ -1,0 +1,60 @@
+@ chap5_text_US
+## c05_227_000
+110|Kaito, Maki'nin lekesiz olmasını istedi.\nArkadaşı olarak ona yardım etmek zorunda hissettim.
+111|Onunla... dalga geçmeye nasıl cüret edersin!
+112|Kendine arkadaş mı diyorsun...?\nAcı çekmemizi izlemekten zevk aldın!
+113|Seni... kahrolası pislik!
+114|Ooohh, Maki çok korkuuunç.\nİyi ki bu Exisal'ın içindeyim.
+115|Bedenimle dışarıda olsaydım Maki beni\nçoktan öldürürdü eminim.
+117|Peki... şimdi herkesin planı ne?
+118|Gerçek ortaya çıktığına göre kime\noy vereceksiniz?
+119|Bana oy verebilirsiniz ama verirseniz\nhep birlikte öleceğiz.
+120|Ya da Maki'ye oy verin ve yaşayın.
+121|Eh, hangisini istiyorsanız seçin.\nBenim için fark etmez.
+122|Neden...? Neden bu kadar sakinsin?\nSenin hayatın da buna bağlı!
+123|Kimin umurunda? Seçin artık.\nHadi, kime oy vereceksiniz?
+124|Hayır, henüz oy veremeyiz.
+125|...Gerçeğin tamamına sahip değiliz.
+126|Bu dava bitmedi!
+128|Bize her şeyi anlattığın için teşekkürler, Maki.\nSenin sayende sonunda anlıyorum...
+129|İfadende <CLT=cltSTRONG>saklı başka bir gerçek<CLT=cltNORMAL>\ndaha var.
+130|...Saklı bir gerçek mi?
+132|Çünkü bize verdiğin ifadede yanlış\nbir şey var.
+133|<CLT=cltMIND>Maki'nin ifadesinde uymayan\nkısım...
+134|Kaito'nun Kokichi'yi koruması
+135|Kaito'nun Kokichi'yi koruduğu kısım...
+136|Kaito'nun davranışlarından şüphe mi edeceksin?
+138|Kontrol panelinin hasar görmesi
+139|Maki'nin kara eller olması
+140|Maki'nin kara eller olduğu kısım...
+141|Kaito'nun benim attığım zehirli oktan\nöldüğüne hiç şüphe yok.
+143|Kokichi'nin panzehri içmesi
+144|Kokichi gerçekten panzehri içti mi?
+145|Bunu yaptığını gördüm, şüphe yok.
+148|Peki bu saklı diğer gerçek ne?
+151|Maki kontrol panelini kırıp hangara girmek\niçin bıçak kullanmaya çalıştığını söyledi...
+152|Ama bu mantıklı değil çünkü kepenkte\nbir <CLT=cltSTRONG>alarm sistemi<CLT=cltNORMAL> var.
+153|Ah evet! Biri kepenge yaklaşsaydı alarm\nçalmalıydı!
+154|O sırada fark edemeyecek kadar odaklanmıştım.\nAma sen söyleyince tuhaf gerçekten.
+155|Belki sensör onu sadece kaçırmıştır?
+156|Yok, oradaki güvenlik o kadar özensiz değil.
+157|Şüpheli biri kepenge yaklaşsaydı alarm\nhiç şüphesiz çalardı.
+158|O zaman alarm neden çalmadı...?
+159|Dediğim gibi, bu bitmedi. Bulunması\ngereken <CLT=cltSTRONG>saklı bir gerçek<CLT=cltNORMAL> hâlâ var.
+160|<CLT=cltMIND>Doğru, bütün bu tuhaflıkların ardında\nbir çeşit sebep olmalı.
+161|<CLT=cltMIND>O sebebi bulmak saklı gerçeği\nbulmamıza yardım edecek!
+## c05_228_000
+0|Bıçağımla kırmaya çalıştığım doğru ama\nalarmın çalmadığı da doğru.
+1|O sırada böyle küçük bir ayrıntıyı fark\nedecek durumda değildim...
+3|Maki'nin yalan söylediğini sanmıyorum.
+4|Alarmın bütün okulda duyulacak kadar\nyüksek olduğunda hemfikiriz, değil mi?
+6|Kontrol paneli kepengin yanındaydı, değil mi?
+7|Yani kontrol paneline yaklaşmak kepenge\nyaklaşmak demek.
+9|Hayır, yüzde yüz çalmalıydı. Birlikte gittiğimizde\nMonokuma böyle dedi, değil mi?
+10|O zaman bile çalmadıysa...\nHangi ihtimalleri düşünebiliriz?
+12|Bunu ben önerdim ama... ne tür özel bir\nayarı olacağını bile bilmiyorum.
+13|Belki sorun alarmın kendisiyle\nilgili değildi...
+15|<CLT=cltMIND>Maki hangara girmeye çalışırken\nalarm neden çalmadı?
+16|<CLT=cltMIND>Alarm sisteminin kendisi düzgün\nçalışıyor gibiydi...
+17|<CLT=cltMIND>Ama belki her zaman\ntetiklenmiyordur...
+19|<CLT=cltMIND>O zaman bundan ne öğrenebiliriz...?

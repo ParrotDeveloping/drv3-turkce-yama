@@ -1,0 +1,51 @@
+@ chap5_text_US
+## c05_014_010
+134|Bir kişi... dışında.
+135|Kokichi Oma... bu öldürme oyununun ardındaki\nbeyin... örgütünün gerçek kimliği...
+136|Onlar <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL>'ydı.
+137|Doğru. <CLT=cltSTRONG>Gofer Projesi<CLT=cltNORMAL>'ni yok etmeye\nçalışan tarikat örgütü.
+138|Lideri Kokichi ise <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltNORMAL>'nı\no kontrol ediyor demektir.
+139|Hepimizin içinde... <CLT=cltSTRONG>Ultimate Umutsuzluk<CLT=cltNORMAL>'a\nen yakın olan o!
+140|Çok açık... Böyle bir öldürme oyununu ancak\n<CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL> yapabilirdi.
+141|Sınıf duruşmaları... Monokuma... Hope's Peak\nAkademisi öğrencileri...
+142|Hepsi tıpkı Junko Enoshima'nın öldürme\noyunu gibi.
+143|O öldürme oyununu ancak Ultimate\nUmutsuzluk'a tapan biri kopyalardı.
+144|Bu da demek oluyor ki bu öldürme oyunu da\ntıpkı öncekiler gibi...
+145|Umut ile umutsuzluk arasında bir savaş.
+146|<CLT=cltMIND>Umudu kapkara umutsuzluğa batıran\nbir öldürme oyunu.
+147|Bekle... bir dakika.
+148|Bu kadar önemli bir öldürme oyunuysa\nKokichi neden onu bıraktı?
+149|Bu da <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL>'nın yapacağı\nbir şey. Junko Enoshima'ya hayranlar, değil mi?
+150|Bizi umutsuzluğa düşürmek için ayrıntılı bir\nplan yaptı ama o plandan <CLT=cltSTRONG>sıkıldı<CLT=typeNORMAL>...
+151|Planının mahvolmasının umutsuzluğunu hissetmek\nistemek... İşte sana <CLT=cltSTRONG>Ultimate Umutsuzluk<CLT=typeNORMAL>.
+153|...Ne oldu, Maki?
+154|Bir şey yok... Sadece ikna olmadım...
+155|Gerçi muhtemelen... sorun yok.\nBüyük bir şey değil.
+156|...Emin misin?
+157|Sonunda gerçeği öğrendik ama hâlâ\nhiçbir şey yapamıyoruz...
+158|Bu akademiden çıksak bile dış dünya\nhâlâ yok olmuş durumda.
+159|Bizim için... hiç umut kalmadı.
+160|Hayır! Sadece o umut biz olmalıyız!
+161|Ha? Birden ne oldu sana?
+162|Bütün umut kaybolduysa o umut olmak\nbize düşüyor!
+163|Ne de olsa biz Hope's Peak Akademisi'nin\nöğrencileriyiz, değil mi!?
+164|Umut ile umutsuzluk arasındaki savaştan sağ\nkurtulan 16 kişiden geriye kalanlar biziz!
+165|Şimdi pes edersek <CLT=cltSTRONG>umut<CLT=typeNORMAL> tarafında savaşan\nherkes boşuna savaşmış olur!
+166|Boşuna... savaşmış...
+167|İç sesim... bana bunu söylüyor.
+168|Ne olursa olsun <CLT=cltSTRONG>umudu<CLT=typeNORMAL> terk edemem.\nPes edemem...
+169|Evet, beni buna teşvik ediyor.
+170|O yüzden umutsuzluğa düşmeyeceğim! Azıcık bile\nolsa <CLT=cltSTRONG>umutla<CLT=typeNORMAL> ilerleyeceğim!
+172|Şu an hayatlarımızın bir anlamı olup olmadığını\ndüşünmenin hiçbir faydası yok...
+173|Çünkü hayatta olduğumuz sürece o anlamı\nkendimiz belirleyecek güce hâlâ sahibiz...
+174|Bence <CLT=cltSTRONG>umut<CLT=typeNORMAL> bu!
+175|<CLT=cltSTRONG>Umut<CLT=typeNORMAL> bu...\nAnlıyorum... Evet, haklısın...
+176|Biz, umudun sembolü olarak yeniden inşa edilen\nyeni <CLT=cltSTRONG>Hope's Peak Akademisi<CLT=cltNORMAL>'nin öğrencileriyiz...
+177|Biz, Hope's Peak öğrencileri, pes edersek dünya\ngerçekten umutsuzluğa gömülür!
+178|Anladım! Sonunda her şey irade meselesi!\nSonuna kadar yaşayacağım ve asla pes etmeyeceğim!
+179|O yok olmuş dünyada hiçbir şey\nyapamayacağız...
+180|Ama imkânsızı mümkün kılmak\nsihrin özüdür!
+181|Zahmetli ama buna değecek! Yaşayacağım!\nYüz milyon yıl daha yaşayacağım!
+182|<CLT=cltMIND>Siz...
+183|...Haklısınız. Hadi yapalım.
+184|Birlikte savaşalım!\nUmutsuzluğa karşı!

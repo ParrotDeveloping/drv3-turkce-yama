@@ -1,0 +1,66 @@
+@ chap5_text_US
+## c05_012_354
+91|Görünüşe göre bu kilit elektronik olarak kontrol\nediliyor, yani açmak için Elektro Çekici kullanabiliriz.
+92|Tamam! Bu kontrol panelini çekiçlerle\nyok edip bu kocaman aptal kapıyı açalım...
+93|Sonra her şey bitecek! Bu akademiye ve bu\nöldürme oyununa veda edebileceğiz!
+94|Sonunda... bu ölüm oyunu bitecek.
+95|Evet, sonunda normal hayatlarımıza dönebiliriz.
+96|<CLT=cltMIND>Normal hayatlar...
+97|<CLT=cltMIND>Bu kapının ötesinde normal, huzurlu,\nsıkıcı hayatlarımız var...
+98|<CLT=cltMIND>Evimize dönebileceğiz...\nO normal hayatlara...
+99|<CLT=cltMIND><CLT=cltSTRONG>Dış dünyanın sırrı<CLT=cltMIND> *o kadar*\nkorkunç olamaz... değil mi?
+100|Hadi! Sonunda bu yalanlar akademisinden\nmezun olma zamanı!
+101|<CLT=cltMIND>Bununla Kaito Elektro Çekici\nsavurdu ve...
+102|Hraaaaaaaahhhh!!!
+103|<CLT=cltMIND>Kontrol paneline indirdi!
+104|<CLT=cltSYSTEM>Kilit devre dışı...
+105|Yaşasın! Kapının kilidi açıldı!
+106|Şimdi sadece bu kapıyı açmamız lazım!\nHep birlikte çalışalım!
+107|Evet! Yapabiliriz!
+108|Sonunda... Sonunda çıkabiliriz!
+109|<CLT=cltMIND>Hepimiz kapıya koştuk.
+110|<CLT=cltMIND>Ve kendi ellerimizle,\nkendi gücümüzle...
+111|<CLT=cltMIND>O kapıyı açtık.
+112|<CLT=cltMIND>Geleceğe açılan kapımızı.
+113|<CLT=cltMIND>Umut... ve umutsuzluk dolu bir gelecek.
+117|Neler oluyor? Bu ne—
+118|Ugh...! N-Nefes alamıyorum!
+120|<CLT=cltMIND>B-Ben... nefes... alamıyorum!
+122|<CLT=cltMIND>......
+123|<CLT=cltMIND>.........
+124|<CLT=cltMIND>............
+125|<CLT=cltSYSTEM>"Kapı... şimdi... kilitlendi."
+126|<CLT=cltMIND>Bilincimiz zar zor yerindeyken kafamızın\niçinde bir ses duyduk...
+128|<CLT=cltMIND>Ne oldu?
+129|Tebrikler! Öldürme oyununu bitirdiniz!
+130|K-Kokichi...?
+131|İyi misiniz? Kendinizi toparlayın.\nBurada ölseniz hiç komik olmazdı, biliyor musunuz?
+132|...Hayatlarınız insanlık için çok değerli.
+133|Ne? İnsanlık mı...?
+134|Pekala o zaman, eğlence şimdi başlıyor.\nSonunda her şeyi açıklama zamanı.
+135|<CLT=cltMIND>Başım dönerek kafamı salladım...
+136|<CLT=cltMIND>Yer altımda dönüyordu ama ayağa\nkalkmayı başardım.
+137|<CLT=cltMIND>Ve aynı anda...
+138|*hıçkırık* N-Ne... neydi o az önce?
+139|N-Neler oluyor? O kapının öbür\ntarafında...
+140|Biz... nerede ki?
+141|N-Neler... oluyor böyle?
+142|Günaaaydın millet!\nNasıl hissediyorsunuz?
+143|Berbat mı?
+144|Tabii ki öylesiniz! Çünkü artık <CLT=cltSTRONG>dış\ndünyanın gerçeğini<CLT=typeNORMAL> biliyorsunuz!
+145|Dış dünyanın... gerçeği mi...?
+146|Gördünüz, değil mi? O kadar çaresizce özlediğiniz\n<CLT=cltSTRONG>dış dünya<CLT=typeNORMAL>... yok!
+147|Ne demek... yok?
+148|Bilmek istiyor musunuz?\nO zaman söyleyeyim.
+149|Yalan söylemekten biraz sıkıldım, o yüzden\nşimdi söyleyeceğim her şey doğru olacak, tamam mı?
+150|Her şey <CLT=cltSTRONG>o umutsuzluk<CLT=typeNORMAL> gökten\ndüşmeye başladığında başladı.
+151|Dünya'ya yağan sayısız göktaşından\nkaçmanın hiçbir yolu yoktu...
+152|Bütün ulusların liderleri dünyanın sonundan\nkaçamayacağımızı anladı—
+153|D-Dur! Dünyanın sonu mu...?\nNe diyorsun s—
+154|Hay Allaaah! Bir daha sözümü kesmesen iyi\nolur, yoksa hiçbir şey söylemem, anladın mı?
+156|Keebo... onun söyleyeceklerini\ndinlemeliyiz...
+158|Nii-hihi. Kaldığımız yerden devam edelim...
+159|Bütün ulusların liderleri insan ırkının\nyok olmasını önlemek istedi...
+160|Bu yüzden bir <CLT=cltSTRONG>plan<CLT=typeNORMAL> uygulamaya karar verdiler.
+161|<CLT=cltSTRONG>Gofer Projesi<CLT=typeNORMAL>.
+162|Yetenekli insanları dünyanın sonundan kaçmalarına\nyardım etmek için bir uzay gemisine koyma planı...

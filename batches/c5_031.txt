@@ -1,0 +1,57 @@
+@ chap5_text_US
+## c05_014_010
+244|Nyeh, beklendiği gibi! Kleptomanin ve\nkorkunç bakışın birinci sınıf!
+246|K-Korkunç bakış kısmı şakaydı...\nYani... bana o kadar korkunç bakmayı keser misin...?
+247|Aferin, Maki! O Elektro Bombayı hangara\ngirmek için kullanabiliriz!
+248|Sadece bu değil, bütün iletişimi de\ndevre dışı bırakacak.
+249|Buna Kokichi'nin Exisal'lar için kullandığı\nuzaktan kumanda da dahil *olmalı*.
+250|Elektro Bombayı kepengin önünde kullanırsak\nbütün hangarı etkilemeli.
+251|O zaman Kokichi çırılçıplak kalmış gibi olur!\nTek yapabileceği kasığını tutup kaçmak olur!
+252|Ama içeriden yine de bir Exisal'ı kontrol\nedebilir...
+253|Çırılçıplak mı!?
+254|Hayır, giyinik olacağından epey eminim.
+255|O zaman Exisal'lara karşı önlem olarak Elektro\nÇekiçleri getirmeliyiz.
+256|Nyeeeh, kahretsin... Benimkini şarj etmeden\nöylece bir kenara bırakmıştım.
+257|Ah... pardon ama ben de...
+258|Bir Elektro Çekicin şarj olması 24 saat sürüyor,\no yüzden yarın sabaha kadar beklememiz gerekecek.
+259|...Yarın sabaha kadar mı bekleyeceğiz?\nHangar ne olacak?
+260|Şey... pek başka seçeneğimiz yok, değil mi?\nElektro Çekiçler olmadan imkânsız.
+261|Maki... gereğinden bir dakika bile fazla\nbeklemek istemediğini biliyorum...
+262|ama bunu yarına kadar denememeliyiz.\nHerkes hazır olduğunda.
+264|Peki, öyle yapacağız o zaman... Bu sefer\nonu kesinlikle öldüreceğiz.
+265|<CLT=cltMIND>Öldürmek mi...?
+266|Hayır, Maki, yapamazsın! Bir <CLT=cltSTRONG>Umutsuzluk\nKalıntısı<CLT=cltNORMAL> olsa bile bu—
+267|Ama onu öldürürsek her şey biter.\nBaşka seçeneğimiz yok.
+268|Bu yüzden... onu öldüreceğim.
+269|Ama yapamazsın...
+270|Nasıl hissettiğini anlıyorum, Maki...\nAma onu öldürdükten sonra kötü hissederdik.
+271|Bize bu kadar acı çektiren öldürme\noyunundan hiçbir farkı olmazdı.
+272|Evet. Bu, <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL>'nın\nya da Kira'nın yapacağı türden bir şey.
+273|Ama... Kaito öldürmenin yanlış olduğunu söylemişti... hatırladın mı?
+274|Yani... yapamayız...
+276|...Peki. Herkes öyle düşünüyorsa o zaman\nsizi dinleyeceğim.
+277|Ama tehlikeli bir şey olacakmış gibi\ngörünürse onu kesinlikle öldürürüm.
+278|V-Vay, Maki aslında güvenilir mi...?
+279|Hayır, o tehlikeli. Kızgın bir Maki Rulo'dan\ndaha tehlikeli bir şey yoktur.
+280|Maki Rulo fazla ısınırsa dilini\nyakabilirsin!
+282|O-O gözleri... gördün mü? Avına bakan\nbir yırtıcı gibiydi.
+283|Ah, bunu hak etmiş olabilirsin, Himiko...
+284|<CLT=cltMIND>Ama... bunun oldukça... beklenmedik\nolduğu doğru.
+285|<CLT=cltMIND>Tekrar tek bir bütün olarak bir arada\nduracağımızı düşünmemiştim.
+286|<CLT=cltMIND>Ve bu... Maki sayesinde.
+287|<CLT=cltMIND>Biz kendimize acıyarak hareketsiz\nkalırken o plan yapıyordu...
+288|<CLT=cltMIND>Sanırım bu Kaito sayesinde de\nolabilir...
+289|<CLT=cltMIND>Kaito onun için endişelendiği için elinden\ngelenin en iyisini yapacağına söz vermişti...
+290|<CLT=cltMIND>Ah, tabii ki bunu söylesem yine bana\nölmek isteyip istemediğimi sorardı.
+291|...*Sen* neye bakıyorsun?
+292|Ah! Ö-Özür dilerim...
+294|...Elimizden geleni yapalım. O zaman üçümüz...\ntekrar birlikte antrenman yapabiliriz.
+297|<CLT=cltMIND>Yarın sabah Exisal hangarına girmek\niçin planımızı kesinleştirdik.
+298|<CLT=cltMIND>O zamana kadar Elektro Çekiçlerin şarj\nolmasını bekleyip hazırlıkları bitirecektik.
+299|<CLT=cltMIND>Odaklanmış ve kararlı bir şekilde ayrıldık.
+## c05_015_100
+1|Ne olursa olsun Kaito'yu kurtarmalıyız...
+2|Umutsuzluğu yenip kendimize yeni bir\numut bulacaksak...
+3|Eminim onun yanımızda olmasına ihtiyacımız olacak.
+4|...Evet, haklısın.
+5|Hepimizin tekrar birlikte çalışması\nKaito sayesinde!

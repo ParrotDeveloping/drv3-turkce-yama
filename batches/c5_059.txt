@@ -1,0 +1,56 @@
+@ chap5_text_US
+## c05_207_000
+58|<CLT=cltMIND>Onu hidrolik presin etrafında\nbir yerde buldum...
+59|Banyoda bir arbalet vardı.\nBelki kurban orada öldürülmüştür?
+60|O zaman cesedin hidrolik prese taşındığına\ndair kanıt olmalıydı.
+61|Herhangi bir kanıt var mıydı?
+63|Banyoda üç ok vardı.\nBelki kurban orada öldürülmüştür?
+67|Banyoda boş bir şişe\nvardı...
+68|etiketinde "zehir" yazıyordu.
+69|Çeşitli zehirler var ve hepsi mutlaka\nöldürücü değil...
+71|Büyük konuşup şimdi sessiz mi kaldın?\n...İğrendim senden.
+73|Ee? Bu neyi kanıtlıyor?
+74|Kaito başka bir yolla öldürüldüyse\ncesedi prese taşınmış olurdu...
+75|Alerjimin daha ayrıntılı incelememe engel\nolması talihsizlik...
+77|Hangi ipucu ölüm sebebinin hidrolik pres\ntarafından ezilmek olmadığını gösteriyor?
+78|Hangarda bir cesedin sürüklendiğini gösteren\nsürüklenme izli bir <CLT=cltSTRONG>kan lekesi<CLT=cltNORMAL> vardı.
+79|Kan lekesi banyodan ta prese\nkadar gidiyor.
+80|Ah! Orası Kaito'nun tutulduğu tuvaletti,\ndeğil mi!?
+81|Banyonun içinde de kan lekeleri\nbulundu. Bu tesadüf olamaz.
+82|Yani Kaito tuvalette öldürüldü, sonra\nprese sürüklenip ezildi mi!?
+83|...Tabii o kan lekesi Kaito'nunsa.
+85|Kaito'nun banyoda öldürüldüğünü sadece\ntahmin ettik...
+86|Cesedi ezildiği için Kaito'nun başka bir\nşekilde ölüp ölmediğini asla bilemeyiz.
+87|<CLT=cltMIND>Cesedi inceleyemeyebiliriz\nama...
+88|<CLT=cltMIND>bir ölüm sebebine işaret eden\nkanıtımız var.
+89|Kaito... bir şeyle öldürüldü...
+90|Hmm... Ölüm sebebi farklıysa belki\nbir şekilde Kaito'yla ilgilidir.
+92|Kaito'nun kıyafetlerine yakından bakmak\nbize ölüm sebebini verecek.
+93|Doğru... İpucu aramak için elimizdeki\ntek iz Kaito'nun kolu...
+94|Gerçi pek bir şey değil...
+95|Kolunda bulunabilecek başka ipuçları\nvar mıydı?
+97|Belki bu kan lekesi bize ölüm\nsebebini söyleyebilir...
+98|Ne yazık ki sadece Kaito'nun kanına bakarak\nölüm sebebini belirleyemeyiz.
+101|...Gördün mü? Bilmenin hiçbir yolu yok.
+103|Hangi kanıt ölüm sebebiyle\nbağlantılı?
+104|Kaito'nun ceketinin kolundaki <CLT=cltSTRONG>küçük delik<CLT=cltNORMAL>\nölüm sebebinin anahtarı.
+105|K-Küçük delik mi...?
+106|Yok, yok, yok! O deliğin bir silahla\nilgisi olmasının imkânı yok!
+107|Seni "Aldığın Her Şey Ertesi Gün\nİndirime Girer" laneti ile çarparım!
+108|Himiko, ne oldu? Neden birden\npanikledin?
+109|Şey... Panik yapmıyorum...
+110|Sadece... silahın o kadar küçük olmasının\nimkânsız olduğunu söylüyorum.
+111|<CLT=cltMIND>Hayır... imkânsız değil.\nSana gösterebilirim.
+112|<CLT=cltMIND>Kaito'nun kolunda o küçük deliği\nbırakan silah...
+113|Banyodaki oklar...
+114|Sadece bir okla ne yapabilirsin ki!?\nOnu onunla bıçakladıklarını mı söylüyorsun?
+116|Gerçekten düşünürsen öyle bir silahın\nvar olmasının imkânı yok, d-değil mi?
+118|O-Onunla delik açmalarının imkânı\nyok!
+119|Hıh!
+121|Kaito'nun kolunda küçük deliği hangi\nsilah bıraktı?
+122|Bence silah banyoda bulunan\narbaletti.
+124|Bir arbalet oku kesinlikle o kadar küçük\nbir delik bırakır.
+125|O zaman Kaito'nun o arbaletle vurulduğu\nsonucuna varabilir miyiz?
+126|Öyleyse o arbalet Kaito'yu öldürmek için\nkullanılan asıl cinayet silahı olabilir—
+127|A-Anlıyorum! Cinayet silahının arbalet\nolması çok şaşırtıcı!
+128|Cidden, Himiko... neyin var?

@@ -1,0 +1,58 @@
+@ chap5_text_US
+## c05_229_000
+104|Ama bu konuda yapabileceğiniz hiçbir şey yok.\nDuruşma böyle gidiyor işte.
+105|Peki... fail kim? Maki mi ben mi...?
+106|Kara eller ile lekesizlerin karşı karşıya geldiği\nkalp çarptıran heyecan! İşte... OYLAMA VAKTİ!!!
+107|Hey! O benim repliğim! Oylama Vakti'ne\nkarar veren benim!
+108|Ah, hadi ama... Kimse gerçeği çözemeyecek.\nHadi oy verelim artık.
+109|Bu sorun olmaz, değil mi Monokuma?\nÇünkü failin kim olduğunu biliyorsun, değil mi?
+110|...Her zaman bildiğin gibi.
+113|E-Evet... tabii ki...
+114|Nyeh? Bu nasıl bir tepki?
+115|F-Fail mi diyorsun?\nAh, e-evet... T-Tabii ki biliyorum...
+116|Hm? Neden bu kadar telaşlı görünüyorsun?
+117|T-Telaşlı mı? Ben mi? Hahahaha!\nNe diyorsun sen?
+118|<CLT=cltMIND>...Monokuma'ya şu an\nne oluyor...?
+119|Monokuma... sen de mi failin kim olduğunu\nbilmiyorsun!?
+120|Ha!? Bilmiyorum da ne demek!?\nIı, neyi bilmiyormuşum, ha!?
+121|...Bilmiyorsun, değil mi?
+123|Bu ne demek!? Monokuma failin kim\nolduğunu neden bilmiyor!?
+124|<CLT=cltMIND>Monokuma da... failin kim olduğunu\nbilmiyor mu?
+125|<CLT=cltMIND>Monokuma bilmiyorsa bu bize bu dava\nhakkında ne söylüyor...?
+126|<CLT=cltMIND>Dur... <CLT=cltSTRONG>bu dava<CLT=cltMIND> mı?
+127|Evet, işte bu! Demek Kokichi'nin <CLT=cltSTRONG>asıl\namacı<CLT=cltNORMAL> buydu!
+129|Kokichi sadece bizim çözemeyeceğimiz bir\ncinayet işlemeye çalışmıyordu...
+130|<CLT=cltSTRONG>Monokuma'nın da çözemeyeceği bir\ncinayet işlemeye<CLT=cltNORMAL> çalışıyordu!
+131|...Monokuma'nın çözemeyeceği bir cinayet mi?
+133|Ama bunun anlamı ne? Monokuma'yı\nkontrol eden Kokichi!
+134|Ama bu davanın kaç unsurunun açıklığa\nkavuşacağını bir düşünün.
+135|Bu davadan önce Monokuma her suçun\nayrıntılarını hep biliyordu, değil mi?
+136|Bu da bizi izlemenin bir yolunu\nkullandığı anlamına gelmeli...
+137|Belki fark etmeyelim diye stratejik olarak\nyerleştirilmiş gizli kameralar vardır...
+138|Kesin bir şey söyleyemem ama bir\nşekilde gözetliyor olmalı.
+139|Kokichi muhtemelen Elektro Bombayı onu\nher neyse bozmak için kullandı.
+140|Elektro Bomba herhangi bir kameranın kablosuz\nolarak görüntü göndermesini *engellerdi*.
+141|Yani gözetleme kameralarının nereye\nsaklandığının bir önemi olmazdı.
+142|Dediğim gibi, bunun anlamı ne!?\nMonokuma'yı kontrol eden Kokichi!
+143|Bunu kesin olarak belirlemeden önce bir\nşeyi netleştirmek istiyorum.
+144|Amaç Monokuma'yı şaşırtacak bir suç\nyaratmaksa Exisal'lar...
+145|Evet... Exisal'lar Monokuma'yı korumuyordu,\naslında...
+146|Ona saldırıyorlardı
+147|Ona saldırıyorlardı
+148|Hayır... Exisal'ları gördüğümde saldırmıyorlardı.
+149|Ayrıca Monokuma da Exisal'lar da\nKokichi tarafından kontrol ediliyor!
+150|Yani Monokuma'ya saldırmalarının\nimkânı yok!
+152|Ona zorbalık yapıyorlardı
+153|M-Monokuma'ya zorbalık yapıyorlardı...
+154|Zorbalık mı...? Bana öyle görünmedi.
+158|Onu izliyorlardı
+159|Ona hayranlık duyuyorlardı
+160|<CLT=cltMIND>...Öyle olmasının imkânı yok.
+161|Monokuma'yı çevrelemişlerdi... ve onu\nkorumuyorlarsa o zaman...
+164|Ona zarar veriyor gibi görünmedikleri için\nonu koruduklarını varsaydım ama...
+166|<CLT=cltMIND>Avluda Monokuma'nın etrafındaki\ndört Exisal...
+167|Monokuma'yı <CLT=cltSTRONG>izliyorlardı<CLT=cltNORMAL>.
+168|İzliyorlar mıydı!?
+169|Evet. Soruşturma sırasında Monokuma'nın\nne dediğini hatırlıyor musunuz?
+171|Onu korumalar gibi koruyor olsalardı\nona dönük olmazlardı.
+172|Etrafı tarıyor, bizi izliyor\nolurlardı.

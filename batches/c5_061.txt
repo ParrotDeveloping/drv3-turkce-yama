@@ -1,0 +1,71 @@
+@ chap5_text_US
+## c05_209_000
+18|Hayır, anlamıyorsun,\nben öyle yapmaya çalışmıyorum—
+19|Yoluma ne kadar çıkarsan çık Kokichi'yi\nkesinlikle yeneceğim.
+20|Umutsuzluğun kaçmasına izin vermeyeceğim...\nKazanmasına izin vermeyeceğim...
+21|Hadi hadi! Bu sıkıcı kavgayı bırakıp pek\nde sıkıcı olmayan duruşmaya devam edelim!
+22|Yani hepimiz cinayeti sadece benim değil\nherkesin işleyebileceğinde hemfikiriz, değil mi?
+23|B-Bu doğru olabilir ama...\nBen... pencereyi bilmiyordum...
+24|Ben de...
+25|Gerçekten, Himiko. Neyin var? Küçük deliklerden\nbahsettiğimizden beri tuhafsın.
+26|N-Ne!? Sen de mi benim küçük deliğimin peşindesin!?
+27|Gördün mü? İşte bu kesinlikle tuhaf.
+28|Şöyle bakın; failin herkes olabilmesi\nherkesin şüpheli olduğu anlamına gelmez.
+29|Bunu arbaleti bilen herkese\nindirgeyebiliriz.
+30|Ben arbaletlerden hiç haberdar değildim!
+31|Y-Yani şüpheli değilim!\nB-Beni düşünmenizin imkânı yok—
+32|Himiko'nun dün gece hangara gitmesi\nbeni endişelendiriyor.
+34|Vay, gerçekten mi?\nHangara mı gittin, Himiko?
+35|Evet, gitti. Onu kesinlikle gördüm.
+36|B-Beni mi izliyordun?
+37|Dün gece hangara gitmen\nfazlasıyla şüpheli...
+38|Tamam, o zaman fail Himiko!
+39|B-Bekle! Ben olduğumu söyleme!\nMaki benden daha şüpheli!
+41|O-O-O arbalet senin araştırma\nlaboratuvarından geldi, değil mi?
+42|O arbaleti istediğin zaman\nalabilirdin!
+43|Gerçi araştırma laboratuvarına herkes\ngidebilirdi. Tek şüpheli o değil.
+44|O-Onu bilemem!\nO... k-kesinlikle en şüphelisi!
+46|B-Bana o korkunç suratı yapsan bile...\nk-korkmayacağım...
+47|Çünkü panik yapmaya başlarsan failin\nsen olduğunu anlarız!
+48|Fail ben değilim dedim! Yemin ederim!
+49|Ş-Şüpheli olan Kokichi! M-Maki de!\nİkisi de fail!
+50|Ben neden şüpheliyim? Araştırma\nlaboratuvarıma herkes girebilirdi.
+51|Evet, şüpheli olduğumu kabul ediyorum!\nTama-am! Belki de fail benim!
+52|Fail olmadığıma yemin ederim!
+53|Belki de fail benim!
+54|Fail olmamın hiçbir imkânı yok.
+## c05_210_000
+0|E-"Eli boş" derken göğsümü tuttuğumdan\nbahsettiğimi sanmayın!
+1|Neyse, elimde hiçbir şey yoktu\nve beni kimse görmedi!
+4|Sadece sihrimi yenilemeye gittim!\nHiçbir şey geri getirmedim!
+6|Kokichi'nin beyin olduğunu görmüyor musunuz?\nOnu laboratuvarımdan kolayca alabilirdi.
+8|<CLT=cltMIND>Himiko'nun ifadesi açıkça şüpheli.\nOradan başlamak daha iyi olabilir.
+9|<CLT=cltMIND>İfadesindeki tutarsızlıklara bakmalıyız.\nOrada bir yerde bir yalan var.
+## c05_210_001
+0|Bir numaralı\n<CLT=size2>şüpheli\n<CLT=size1>benim, çünkü hangardaydım!
+1|Bir numaralı şüpheli benim,\nçünkü hangardaydım!
+2|<CLT=size2>Fail<CLT=size1> <CLT=size2>sensen...
+3|Fail sensen...
+4|o zaman arbaleti\naçıkla.
+5|o zaman arbaleti açıkla.
+6|O şeyin hiç
+7|O şeyin hiç önemi yok...
+8|<CLT=size2>önemi<CLT=size1> yok...
+9|Bir numaralı
+10|Bir numaralı şüpheli benim!
+11|şüpheli <CLT=size2>benim!
+12|Kaito'yu <CLT=size2>vuran\n<CLT=size2>benim!
+13|Kaito'yu vuran benim!
+14|Sen hep şüphelisin!
+15|...O zaman arbaleti açıkla!
+## c05_210_002
+0|Hangara gittim ama...
+1|Hangara gittim ama...
+2|Sadece
+3|sihrimi
+4|Sadece sihrimi yeniliyordum!
+5|<CLT=size2>yeniliyordum<CLT=size1>!
+6|Sihrini\n<CLT=size2>yenilemek\n<CLT=size1>de ne\ndemek?
+7|Sihrini yenilemek de ne demek?
+8|Oralarda iyi bir\n<CLT=size2>sihir\nkaynağı\n<CLT=size1>var.
+9|Oralarda iyi bir sihir kaynağı var.

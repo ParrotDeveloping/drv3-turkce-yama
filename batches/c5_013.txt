@@ -1,0 +1,68 @@
+@ chap5_text_US
+## c05_006_266
+16|Gonta'nın daha önce söylediği... bir\nşeyi hatırladım.
+17|Gonta ne demişti?
+18|Hatırlıyor musun...? Kirumi'nin duruşmasından sonra...
+19|<CLT=cltMIND>Şimdi o söyleyince...
+23|Sadece düşünüyordum da... yıldızlar\ngerçekten güzel.
+24|Genelde onlara bakmadığım için farkı\nanlayamıyorum ama... güzeller.
+25|Bu hissi unutmuştum...
+26|Olan bütün o korkunç şeylerle...\nhep yere bakıyordum...
+27|...Gonta'ya teşekkür etmem lazım.
+29|Hey, bana katılmak ister misin, Shuichi?
+30|Ah, pardon, halletmem gereken... bir\nşey var...
+31|Anlıyorum. Neyse, ben burada biraz daha\nkalacağım.
+32|Burada biraz daha yıldızları izleyerek\nkalacağım...
+## c05_007_010
+0|<CLT=cltMIND>Kokichi burada değil.\nGerçi olsaydı ortalık tamamen karışırdı...
+1|Ne düşünüyorsun?
+3|Kokichi için endişeleniyorsun, değil mi?\nHepimiz de endişeleniyoruz...
+4|Onu her yerde aradım ama hiçbir yerde\nbulamadım.
+5|Tahmin edildiği gibi saklambaç ustası.
+6|Tek başına... kaçmış olamaz, değil mi?
+7|Hayır. Monokuma burada olduğu sürece bunun\nmümkün olduğunu sanmıyorum—
+8|Dediğim gibi, onu unutun.\nNeyse...
+9|Dinleyin millet. Size bir şey\nsöylemem lazım.
+10|<CLT=cltMIND>Kaito'nun bir fikri mi var...?
+11|<CLT=cltMIND>Şu an Kaito ile aram biraz garip\nama dinlemeliyim...
+12|Fikrin ne, Kaito?
+13|Hm? A-Ah, evet...
+14|<CLT=cltMIND>Kaito hiç inceliksizce gözlerini benden\nkaçırıp etrafa baktı.
+15|Görünüşe göre Monokuma burada değil.\nGerçi olsa da umurumda olmazdı.
+16|<CLT=cltMIND>Kaito bize döndü, ifadesi birden\nciddileşti.
+17|Dün size söylemedim mi?\nSizi buradan çıkaracağım.
+18|Ama bunu yapmak için yardımınıza ihtiyacım var.
+19|O yüzden lütfen! Bana yardım edin!
+21|Size yardım edebilmem için hepinizin\nbenimle çalışmasına ihtiyacım var.
+22|D-Dur... Ne diyorsun sen?
+23|Seninle çalışmak mı? Ne demek istiyorsun?
+24|Benimle birlikte Monokuma'ya karşı savaşın.
+25|Monokuma'ya karşı... savaşmak mı?
+26|Şimdi en iyi şansımız...
+27|Monoyavrular gittiği için onu koruyan\nExisal'lar hareket edemiyor...
+28|Şimdi bir araya gelip Monokuma'nın canına\nokumanın tam zamanı!
+29|<CLT=cltMIND>Monokuma'ya karşı savaşmak mı...?
+30|<CLT=cltMIND>Anlıyorum... Kaito'nun silah aramasının\nsebebi bu olmalı.
+31|Ama... Monokuma'nın muhtemelen daha çok yedeği\nvar. Kaç tanesini yensek de boşuna olmaz mı?
+32|O zaman tek yapmamız gereken hiç\nkalmayana kadar tek tek yok etmek!
+33|A-Ama... Monokuma'nın elinde başka neler\nolduğunu bilmiyoruz...
+34|Exisal'lar olmasa bile bu akademi\nhâlâ onun kontrolünde...
+35|O zaman... işlerin şimdiki halinden memnun musun?
+36|Bu öldürme oyununa gerçekten devam etmek mi\nistiyorsunuz!? Buna razı mısınız!?
+38|Şu an işleri değiştirmenin tek yolu...\nsavaşmak.
+39|Bu öldürme oyununa son vermek istiyorsanız\nsavaşmalıyız.
+40|Şimdi ayağa kalkmazsak ne zaman!?
+41|Ama savaşabilecek kimse yok...\nGonta ya da Tenko gibi—
+42|O zaman onların yerine ben savaşırım.
+44|Bir suikastçının bunu söylemeyeceğini biliyorum\nama bütün bu öldürmelerden bıktım.
+47|Hadi yapalım.
+48|Ha? Keebo, sen de mi?
+49|Kendimi kaybolmuş hissettiğimde bana yol\ngösteren iç sesim yine konuştu...
+50|"Şimdi ayağa kalkıp savaşma zamanı" dedi.
+51|Tehlikeli bir yol olabilir ama gelecekteki\nkurbanları önleyecekse...
+52|O zaman Monokuma ile savaşmaya karar verdim!
+54|Bu sözleri bekliyordum.\nPekala... gücümü sana ödünç vereceğim.
+55|Ha? Gerçekten bunu mu bekliyordun?
+56|Ben... daha fazla arkadaş kaybetmek istemiyorum.\nKendini kaybetmekten bile daha acı verici...
+57|Bu yüzden savaşacağım!\nMonokuma'dan korkmuyorum!
+59|Tamam o zaman... ben de. Öldürme\noyununun böyle devam etmesine izin veremeyiz.

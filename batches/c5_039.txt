@@ -1,0 +1,62 @@
+@ chap5_text_US
+## c05_100_220
+30|Kaito'nun ölmesinin imkânı yok!\nBu bir yalan olmalı!
+31|<CLT=cltMIND>Cesede doğru koşmaya kalktığımda...
+32|...Sakin ol.
+33|<CLT=cltMIND>Maki'nin eli beni durdurdu.
+34|Sakin... olmak mı...?
+35|Bunu nasıl söylersin, Maki!?\nKaito—
+36|Zaten çok fazla ölüm gördüm.\nHem iyi hem kötü insanların ölümünü...
+37|Artık beni rahatsız etmiyor.
+38|Seni *rahatsız etmiyor mu*!?\nNe diyorsun sen—
+39|Daha önemlisi... Kokichi nerede?
+40|Doğru... onu hiçbir yerde göremiyorum.\nBu hangarda bir yerde olmalı—
+41|Kaçtı! Onu hemen yakalamalıyız!\nBelli ki fail o!
+42|Ayrılıp onu arayalım!\nAramadık yer bırakmayalım!
+43|Saklambaçta ne kadar iyi olursa olsun\nbu sefer kaçmasına izin veremeyiz—
+44|...Bekle.
+45|Henüz... gidemeyiz.
+46|O cesedin Kaito olduğunu *kesin*\nolarak bilmiyoruz.
+47|Henüz bütün ihtimalleri\nincelemedik.
+48|Kaito değilse orada ölen kim?
+49|...Kokichi mi diyorsun? O zaman öldürme\noyunu neden hâlâ devam ediyor?
+51|Ve Kaito hayattaysa neden henüz kendini\ngöstermedi?
+52|Yani... fail olduğu için mi saklandığını\nsöylüyorsun?
+53|Böyle aptalca bir şey söyleme!
+54|Kaito'nun fail olması ölü olmasından da\nimkânsız!
+55|Zaten Kaito'nun Kokichi'yi öldürebileceğini\nsanmıyorum. Yaralıydı, hatırladın mı?
+56|Ve rakibi, öldürme oyununun beyni,\nExisal'ları istediği gibi kontrol edebiliyordu.
+57|Kaito hasta ve yaralıyken böyle birini\nnasıl öldürebilirdi ki?
+58|Bilmiyorum, ben sadece...\nSadece mümkün olduğunu söylüyorum...
+59|Ah, ve öldürülen Kokichi olsa bile bu\nfailin Kaito olduğu anlamına gelmez.
+60|Y-Yani fail içimizden biri mi\ndemek oluyor!?
+61|Dur! Bu imkânsız!
+62|K-Kaito'nun ölümü ne kadar şok edici olursa\nolsun bizim şüpheli olduğumuzu söylemek çok fazla!
+64|<CLT=cltMIND>Ne demek istediklerini anlıyorum. İlk\nkanıtlar Kaito'nun öldüğünü gösteriyor...
+65|<CLT=cltMIND>Ama ben... buna inanamıyorum.\nYa da belki... inanmak istemiyorum.
+66|<CLT=cltMIND>Kaito'nun öldüğüne... inanamıyorum.
+67|...İnceleyelim.
+68|Burada gerçeği kendi ellerimizle bulmalıyız.\nVe o gerçeği duruşmada ortaya çıkarmalıyız.
+69|Yani... öldürme oyununa devam etmek mi istiyorsun?
+70|Her iki durumda da bir sınıf duruşması\nyapılacak... incelemeliyiz.
+71|Umut mu umutsuzluk mu bulacağımızı bilmiyorum...\nama gerçeği bulmalıyız.
+72|Her şey orada başlıyor.
+73|Baştan aşağı etkileyici bir\ndedektifsin.
+75|<CLT=cltMIND>Doğru... bunu yapmak zorundayım.
+76|<CLT=cltMIND>Kaito'ya verdiğim sözü tutmak için...
+77|Haklısın... Sınıf duruşması zaten yapılacaksa\nincelemeliyiz.
+78|Nyeeeh... Ama cevabı zaten biliyoruz.
+79|Ama burada ölemeyiz. Umut için...\nyaşamaya karar verdik.
+81|Benim asıl endişem Kokichi'nin nasıl\ntepki vereceği...
+82|...onu fail olmakla suçlarsak.
+83|Aptalı oynayıp kaçarsa...\nYapabileceğimiz hiçbir şey olmaz.
+84|Hayır. Öyle düşünmüyorum. Junko Enoshima\nöldürme oyunu kurallarına çok değer verirdi...
+85|Yani <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL> ona tapıyorsa\nbunları görmezden geleceklerini sanmıyorum.
+86|O zaman onunla başa çıkmak kolay olacak.
+87|Sınıf duruşmasında ona oy vermemiz\nyeterli.
+88|Nyeeeh! Bu doğru!
+90|<CLT=cltMIND>Diğerlerini anlıyorum...\nAma neden Maki?
+91|<CLT=cltMIND>Kaito'nun ölümünü neden bu kadar\nkolay kabul ediyor...?
+92|Pekala o zaman, Monokuma Dosyası'nı gözden\ngeçirelim. Senin için sorun var mı, Shuichi?
+94|<CLT=cltMIND>Ceset Exisal hangarında\nbulundu.
+95|<CLT=cltMIND>Kurban hidrolik pres tarafından ezilmiş\nve kimliği belirlenemiyor.

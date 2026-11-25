@@ -1,0 +1,63 @@
+@ chap5_text_US
+## c05_300_334
+120|Kokichi'yi öldürmeyi neden kabul ettin?
+121|Hayatını kurtardığı için mi? Onu sadece...\ngörmezden gelmeliydin.
+122|Zaten ölmesi daha iyiydi...
+123|Böyle sinir bozucu bir herifi görmezden\ngelmek biraz zordu.
+125|Hay Allah... Bu kötü planını ne kadar\nönceden planladı acaba.
+126|E-Evet ama... seni öldürmek...
+127|Ne diyorsun sen!?\nSeni öldürmemi mi istiyorsun!?
+128|Böyle tepki vereceğini düşünmüştüm...
+129|Ama... bundan emin misin?
+130|Çünkü bu zehir beni öldürürse Maki\nkara eller olur.
+131|Ve suçu çok kolay ortaya çıkar.
+132|O olursa Maki ile ben boşuna ölmüş\nolurduk, değil mi?
+133|Ki bu tam da <CLT=cltSTRONG>gerçek beynin<CLT=typeNORMAL> beklediği şey...
+134|Ne-!
+135|Kahretsin... bu kirli oyun!\nDemek panzehri bana bu yüzden verdin...
+136|Nii-hihi... Ben <CLT=cltSTRONG>Ultimate Yüce\nLider<CLT=typeNORMAL>'im. İnemeyeceğim hiçbir seviye yok.
+137|...Kendimi feda etmem gerekse bile.
+139|Neyse... bu bizim şansımız...\nBu öldürme oyununu bitirme şansımız.
+140|Bu yüzden... kazanıp bu öldürme oyununu\nmahvedebilmemiz için beni öldürmelisin...
+141|<CLT=cltSTRONG>Gerçek beyni<CLT=typeNORMAL> ve izleyen\nherkesi...
+142|...tam bir <CLT=cltSTRONG>umutsuzluğa<CLT=typeNORMAL> düşüreceğiz!
+143|O zaman ölen herkes huzur içinde yatabilir!\nAh-hahahahahaha!!!
+144|...Ah, kahretsin. Yakında öleceğim...\nArtık başlayabilir miyiz?
+145|Cidden delisin, dostum.
+146|Nii-hihi... Ama biliyor musun...
+147|Ben... sıkıcı değildim, değil mi?
+148|O zaman... beni kullanarak sana şantaj mı yaptı!?
+149|Hayır. "Bu öldürme oyununu mahvetmek"\nsözlerini duyunca planını kabul ettim.
+150|Deliydi ama bu ona çılgınca planlar\nbulma imkânı veriyordu...
+151|Ve Monokuma'ya karşı şansımız olması için\nçılgınca bir plana ihtiyacımız vardı.
+152|O şansa oynadım.\nBaşka seçeneğim yoktu...
+153|Çünkü... vaktim tükendi.
+154|Vakit...
+155|Kaito... Sağlığını mı kastediyorsun...?
+156|Ama iyi olduğunu söylemiştin! Artık bunun için\nendişelenmememi söylemiştin—
+157|Ah, benim hatam. O bir yalandı.
+158|Y-Yalan mı...?
+159|Haha, evet, epey kötü.\nAçıkçası sadece konuşurken bile sınırdayım.
+160|H-Hayır... olamaz...
+161|Ama bunun nasıl olduğunu merak ediyorum.\nHiç hatırlamıyorum.
+162|<CLT=cltSTRONG>Anılarıma<CLT=typeNORMAL> göre eğitimim için yapılan\nsağlık muayenesinde iyiydim...
+163|<CLT=cltMIND>Sağlık muayenesinde iyiydiyse\no zaman bu demek oluyor ki...
+164|Bu... virüs olabilir.
+165|Virüs mü?
+166|Gezegenimizin çökmesine sebep\nolan salgınlardan biri.
+167|Göktaşlarının taşıdığı ve dünyaya yayılan\nbir virüs.
+168|Hope's Peak Akademisi gezegenin geri kalanıyla\nbirlikte yok olma tehlikesindeydi.
+169|Bu kadar yol gelip bu kadar umutsuzluğu\nyenmiş olmamıza rağmen...
+170|bir anda neredeyse yok olduk.
+171|Bunun virüsle bir ilgisi\nolmalı.
+172|Kaito o <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı kullanmadı,\no yüzden hatırlamıyor olabilir...
+173|Ama bağışık olmamız gerekmiyor muydu?\nYakalanmadığımız için seçilmiştik-
+174|Belki Gofer Projesi için seçildiğinde\nvirüs uykudaydı...
+175|Bütün zaman boyunca enfekte olabilirdin ve\nçok yakın zamana kadar belirti göstermedin.
+176|N-Ne!?
+177|Kaito... virüse mi yakalanmış!?\nAma bu nasıl olabilir!?
+178|Neden bahsettiğinizi bilmiyorum ama...\nsanırım işim epey bitik, ha?
+179|Eh, bunun geleceğini biliyordum.\nBu yüzden Kokichi'nin planını kabul ettim.
+181|Ama biliyor musunuz, planı öğrendiğimde\nepey harika olduğunu düşündüm.
+182|Kokichi bana bütün bir taslak bıraktı.\nOkuyunca kafayı yedim.
+183|Epey iyi bir plandı. Monokuma'yı\nkandırabileceğimizi düşündüm.

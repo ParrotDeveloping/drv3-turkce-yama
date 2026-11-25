@@ -1,0 +1,53 @@
+@ chap5_text_US
+## c05_017_287
+44|<CLT=cltMIND>Bu umutsuzluğa son vermek için—
+47|Acele et, panele vur!
+48|Herkes burada. Hemen başlayalım.
+49|B-Ben hazırım!
+50|Maki, Elektro Bombayla hazır\nmısın?
+51|...Kiminle konuştuğunu sanıyorsun?
+52|El bombasına benziyor ama düğmeye bastıktan\nsonra patlaması biraz gecikiyor.
+53|Bunu kepengin önüne yuvarladığımızda\nalarm sistemini devre dışı bırakmalı.
+54|...Bu başarısız olmayacak.
+55|Elektro Bombanın etki alanı 50 metre\nve iki saat sürüyor...
+56|Kokichi'nin uzaktan kumandası devre dışı kalırsa\nExisal'lara karşı şansımız olur.
+57|Kokichi'yi Exisal'a binmeden önce\ndurduralım.
+58|Ama en kötüsüne hazır olun.\nElektro Çekiçleri kullanmamız gerekebilir.
+59|O Exisal'a binerse...\nonu bu çekiçle durduracağım.
+62|Ne oldu, Maki Rulo? Hepimiz... başlamaya\nhazırız, biliyor musun?
+63|...Evet, tamam.
+64|O zaman... gidelim.
+65|<CLT=cltMIND>Maki Elektro Bombayı tetikledi, sonra\nkepengin önüne yuvarladı.
+67|Alarm sistemi devre dışı! Artık kontrol\npaneline yaklaşabiliriz!
+68|...Shuichi, onur senin olsun mu!?
+69|Tamam, bana bırakın!
+72|<CLT=cltMIND>Monokuma... burada değil...\nExisal'lar tarafından korunuyor olmalıydı.
+73|<CLT=cltMIND>Ve... Exisal'lar...
+74|<CLT=cltMIND>Hareket edecek gibi görünmüyorlar...\nNeler oluyor?
+75|<CLT=cltMIND>Ve sadece üç tane var.
+76|<CLT=cltMIND>Hangarda iki tane daha olmalı...
+77|Tıpkı Keebo'nun dediği gibi... Sadece iki tane\nolduğu için kendimizi şanslı saymalıyız.
+78|<CLT=cltMIND>Beşi de burada olsaydı planı uygulamak\nimkânsız olurdu.
+79|Tamam... ilerlemeye devam edelim.
+## c05_100_219
+0|<CLT=cltMIND>Burada hâlâ incelemem gereken\nbazı şeyler var.
+5|<CLT=cltMIND>Havalandırma için küçük bir pencere.\nBu...
+6|<CLT=cltMIND>önceki pencerenin aynısı.
+7|<CLT=cltMIND>Küçük bir pencere ve sonuna kadar\naçılmıyor.
+8|<CLT=cltMIND>Kimse buradan sığamaz...
+9|Hm, sanırım biri sığabilseydi Kaito\nçoktan kaçmış olurdu.
+10|<CLT=cltMIND>Belki bir insan için fazla küçük ama\nbir <CLT=cltSTRONG>nesne<CLT=cltMIND> sığabilir.
+11|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Banyo Penceresi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+17|<CLT=cltMIND>Bir arbalet mi...?\nBu...
+18|<CLT=cltMIND>Maki'nin laboratuvarındaki arbaletlerden\nbiri...
+19|<CLT=cltMIND>Bu neden burada...?
+20|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Arbalet<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+21|<CLT=cltMIND>Maki'nin laboratuvarındaki bir arbalet\nburada neden var?
+22|<CLT=cltMIND>Ah! Bu çanta...
+24|<CLT=cltMIND>Konuşmadan kaçar gibi Kaito\nuzaktaki rafa yöneldi...
+26|<CLT=cltMIND>Bu önceki çanta... değil mi?
+27|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Büyük Siyah Çanta<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+28|<CLT=cltMIND>Bu çanta...
+33|<CLT=cltMIND>Banyonun zemininde oklar\nvar...
+34|<CLT=cltMIND>Toplam üç tane.\nVe... hepsinde kan var.
+35|Bu ne...?\nBurada ne oldu?

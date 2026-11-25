@@ -1,0 +1,65 @@
+@ chap5_text_US
+## c05_008_101
+1|<CLT=cltMIND>Bu huzursuzluk hissi de ne...?
+2|<CLT=cltMIND>...Çünkü Monokuma muhtemelen bizden\niki adım önde.
+3|<CLT=cltMIND>...Ve Kokichi de.
+4|<CLT=cltMIND>Bunu öylece görmezden geleceğini sanmıyorum.\nBir şey planlıyor olmalı.
+5|<CLT=cltMIND>Dikkatli olmalıyız...
+## c05_008_287
+4|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.\nOnu görmeye hiç alışabileceğimi sanmıyorum.
+## c05_009_101
+1|...Ne yapmalıyım?
+## c05_010_007
+0|Tamam, herkes burada.\nUmarım hepiniz hazırsınızdır.
+1|O-Onlar silah mı...?
+2|Demek dün Monokuma'ya karşı kullanacak silah\nbulmak için laboratuvarıma gittin.
+3|Evet, doğru.
+4|Neyse, başlayalım!\nHazır olsanız iyi olur!
+5|Ah... ölmeye hazır demek istemedin, değil mi?
+6|Ne? Hayır! Tabii ki savaşıp kazanmaya\nhazır demek istedim!
+7|Savaşıp... kazanmaya hazır...
+8|Evet. Ona bir sürü kez meydan okuduk\nama hiç işe yaramadı, değil mi?
+9|Çünkü... pes ettik.
+10|Ama bu sefer pes edemeyiz!\nÇünkü bu son şansımız!
+11|Monokuma'yı dövüp bu saçma öldürme\noyununu bitireceğiz—
+12|Ne tesadüf, ben de bu öldürme oyununu\nbitirmeyi planlıyordum.
+13|<CLT=cltMIND>O sesi duyunca hepimiz bir anda\ngeri döndük...
+14|<CLT=cltMIND>Ve <CLT=cltSTRONG>onu<CLT=cltMIND> önümüzde\ndururken gördük.
+16|Biliyor musunuz... ben de bu öldürme oyununu\nolabildiğince çabuk nasıl bitireceğimi düşünüyordum.
+17|Seni küçük—! Ne yapıyorsun—!
+18|Ben olsam kımıldamazdım. En azından bu\nufaklığın avı olmak istemiyorsanız.
+20|...O bir bomba mı?
+21|B-B-Bomba mı!?
+22|Evet, tam olarak o.\nYani...
+23|Paramparça olmak istemiyorsanız size\nsöyleyeceğim şeyi dinlemelisiniz.
+25|Dur, size ne söyleyecektim?
+26|S-Söyleyen sendin!
+27|Seni küçük—! O bombayla ne\nyapacaksın!?
+28|Ah, eveeet. Size amacımı söyleyecektim.
+29|Kurallarda <CLT=cltSTRONG>öldürme oyununun sadece iki kişi\nkalana kadar devam edeceğinin<CLT=cltNORMAL> yazdığını biliyorsunuz, değil mi?
+30|Ama <CLT=cltSTRONG>kaç kişiyi öldürebileceğin<CLT=cltNORMAL> hakkında\nhiçbir şey söylenmemişti, değil mi?
+32|O zaman herkese bir sorum var...
+33|Benimle kim hayatta kalmak ister?\nSadece ikimiz.
+34|O-Olamaz... Sen...
+35|O bombayla hepimizi öldürmeyi mi\nplanlıyorsun!?
+36|O zaman öldürme oyununu bitirme\nyöntemin...
+37|Belki benim ve, şey, başka bir kişinin dışında\nherkesi öldürmeliyim diye düşündüm!
+38|Herkesi öldürmek mi!?
+39|Öyle yaparsam öldürme oyununu bitirip yine\nde okul kurallarına uyabilirim, değil mi?
+40|...Peki o zaman, kim yaşamak ister?
+41|İlk gelen alır! Üç deyince elini ilk\nkaldıran kazanır!
+42|S-Saçmalamayı kes! Kim böyle bir\nplana razı olur ki!?
+43|Beni yok etmekle tehdit etsen bile senin\ntarafından yönlendirilmeye hiç niyetim yok.
+44|B-Ölmekten korkuyorum... Ama seninle hayatta\nkalmaktan iyi bir şey çıkmaz.
+45|Ben de... Gonta'ya böyle bir şey yapan\nbiriyle hayatta kalmak istemiyorum.
+46|...Seni öldürmeyi tercih ederim.
+48|Kokichi... hiç anlamıyorsun.\nİstediğini yapmayacağız—
+49|Vaaay, ne sürpriz. Bunun *tam olarak*\ntahmin ettiğim gibi gideceğini düşünmemiştim.
+51|Ah-haha, herkesi öldürme konusunda yalan söyledim!\nSadece kararlılığınızı test etmek istedim!
+52|Kararlılık mı!?
+53|Bu öldürme oyununu bitirmek için yeterince\nkararlı olup olmadığınızı görmek istedim.
+54|O zaman birlikte çalışalım! <CLT=cltSTRONG>Ultimate Anti-Monokuma\nSilahları<CLT=typeNORMAL>'nı kullanabiliriz!
+55|<CLT=cltMIND>Ultimate Anti-Monokuma Silahları mı?
+56|Öldürme oyununu bitirmeye yeterince kararlı mı?\nBunu senden duyacağımı hiç düşünmemiştim!
+57|Sizin böyle olacağınızı biliyordum...
+58|Artık <CLT=cltSTRONG>Ultimate Anti-Monokuma Silahları<CLT=cltNORMAL>'nı\nkesinlikle size emanet edebilirim!

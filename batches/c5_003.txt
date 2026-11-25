@@ -1,0 +1,58 @@
+@ chap5_text_US
+## c05_001_010
+43|<CLT=cltSTRONG>Dış dünyanın sırrının<CLT=cltNORMAL> ne olduğunu\nda hâlâ bilmiyoruz...
+44|Gonta bize ne olduğunu söylemedi çünkü bize\n<CLT=cltSTRONG>ölmek isteyeceğimiz kadar umutsuzluk<CLT=cltNORMAL> verirdi.
+45|E-Eğer bu doğruysa bu akademinin dışında\nne olabilir ki?
+46|<CLT=cltMIND>Kaito elleri yemekle dolu halde\nmasaya döndü.
+47|Sadece düşünerek bunu çözemeyiz,\no yüzden beyin gücünü harcamanın anlamı yok.
+48|Ama öylece düşünmemezlik—
+49|Tabii, dış dünyanın Monokuma yüzünden\nberbat durumda olma ihtimali var.
+50|Ama bizi bunun için endişelendirmek Monokuma'nın\nistediği şey. Bize baskı yapmak için kullanıyor.
+51|Kokichi ve Gonta o baskı altında çöktü.\nDış dünya muhtemelen iyidir.
+52|Çok optometristsin... Bana da pembe\ngözlük yazabilir misin?
+53|...Sanırım "optimist" demek istedin.
+54|Her neyse, bu dışarı çıkınca düşünülecek\nbir şey, o yüzden şimdi ona odaklanın.
+55|...Bir dedektif olarak bu konudaki\ndüşüncelerin ne, Shuichi?
+56|B-Birkaç teori düşündüm\nama kesin bir şey söyleyemem...
+57|Eh, bu anlaşılır.\nNeredeyse hiç ipucu yok.
+59|<CLT=cltMIND>Dünkü olaydan beri Kaito\ngözlerimin içine bakmıyor.
+60|<CLT=cltMIND>Hâlâ kızgın olmalı.
+61|<CLT=cltMIND>Ama... başka çarem yoktu...\nBaşka seçeneğim yoktu...
+62|<CLT=cltMIND>Çıkarımım... yanlış değildi.
+63|<CLT=cltMIND>Gonta'yı fail olarak belirlemeseydim\nhepimiz ölmüş olurduk.
+64|<CLT=cltMIND>Geri kalanımızın hayatta kalması için\nGonta'nın feda edilmesi gerekiyordu...
+65|<CLT=cltMIND>Yapabileceğim hiçbir şey yoktu...
+66|Kaçmaktan bahsetmemize sevindim ama...\n*o* nereye gitti?
+67|Kokichi...
+69|<CLT=cltMIND>Kaito adını söylediği anda\naramızda gergin bir hava esti.
+70|Ben... onu görmedim. Görsem bile\nkaçan ben olurdum...
+71|Ben de görmedim. Sanki tamamen yok\nolmuş gibi.
+72|Görünüşe göre saklambaçta gerçekten iyi,\no yüzden muhtemelen bir yerde saklanıyordur...
+73|O... kişiyi... öylece bırakamayız.\nO... biraz fazla tehlikeli.
+74|Hayır... biraz değil... Çünkü o...
+75|Bizim acı çekmemizi izlemekten zevk alıyor.
+76|Acı çektiğimizi gördüğünde yüzünden\neğlendiği okunuyor.
+77|Normal değil... Belli ki onda bir\nsorun var.
+78|Bu öldürme oyununda olmasaydık onu\nçoktan suikastla öldürmüştüm...
+79|İronik... Bu oyunun kuralları aslında\nöldürmeyi zorlaştırıyor.
+80|Maki Rulo... bu iyi değil. Bu öldürme oyununu\noynamak tam da Monokuma'nın istediği şey.
+81|...Biliyorum.
+82|Nyeh? Maki Rulo, Maki'nin lakabı mı?\nGüzel bir lakap.
+83|İnsanın içinden onu soya sosu ve acı hardalla\nısırmak geliyor! Değil mi, Maki Rulo!?
+85|Ö-Özür dilerim... Sanırım henüz ne kadar\nyakın olduğumuzu bilmiyorum...
+86|Hey, bir şey yapmazsak sıradaki\nKokichi tarafından öldürülürüz!
+87|Eminim şu an bile bir yerde saklanıp\nbize karşı plan kuruyordur.
+88|Hayır, aslında... şu an güvendeyiz.
+89|Kokichi bize amacının öldürme oyununu\nkazanmak olduğunu söyledi.
+90|Onu bu kadar açıkça suçlayacak bir\ncinayeti göze almaz.
+91|Ama bize başka bir şekilde acı çektirmeyi\nplanlıyor olabilir. Gonta'yı kullandığı gibi...
+92|Neyse, onu bir an önce bulmalıyız—
+93|İşte buradayım!
+94|Nyeeeh! Monokuma mı!?
+95|*Senin* burada ne işin var?
+96|Puhuhu. Tabii ki sizinle\nişim var.
+97|Bizim "<CLT=cltSTRONG>ödülümüz<CLT=cltNORMAL>", değil mi? Çabuk\nver şunu.
+98|Baş üstüüüne!
+99|...Fazlasıyla uysal davranıyorsun.
+100|Tabii ki. Tek başıma ve sayıca azken\nsizi reddedemem.
+101|...Sayıca az mı?

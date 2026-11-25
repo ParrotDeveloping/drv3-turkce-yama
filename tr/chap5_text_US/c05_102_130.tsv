@@ -1,6 +1,55 @@
+0	<CLT=cltMIND>Hangardaki o zehir şişesi...\nBuradan geldiğini doğrulamalıyım.
+1	<CLT=cltMIND>Burada hâlâ incelemem gereken\nbazı şeyler var.
 2	Evet
 3	Hayır
 4	Emin olmadığın bir şey mi var?
 5	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+6	<CLT=cltMIND>Burada dizili birkaç zehir şişesi\nvar...
+7	<CLT=cltMIND>Bu laboratuvarın dışında hiç zehir\ngörmedim, yani...
+8	<CLT=cltMIND>Bulduğum küçük zehir şişesi\nburadan gelmiş olmalı.
 9	...Hm?
+10	<CLT=cltMIND>Bu şişede... diğerlerinden biraz\ndaha az sıvı var...
+11	<CLT=cltMIND>Etikette "<CLT=cltSTRONG>Strike-9<CLT=cltMIND>" zehri yazıyor.
+12	<CLT=cltMIND>Bu zehrin yayılması biraz zaman alıyor\nama az bir miktarı bile...
+13	Öldürücü olabilir.
+14	<CLT=cltMIND>Bu şişede sebepsiz yere daha az\nmiktar olduğunu sanmıyorum.
+15	<CLT=cltMIND>Bu bir ipucu olmalı.
+16	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Zehir<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+17	<CLT=cltMIND>Burada dizili birkaç zehir şişesi\nvar...
+18	<CLT=cltMIND>Bu laboratuvarın dışında hiç zehir\ngörmedim, yani...
+19	<CLT=cltMIND>Hangarda bulunan zehir şişesi\nburadan gelmiş olmalı.
+20	<CLT=cltMIND>Bu şişede biraz daha az sıvı var...
+21	<CLT=cltMIND>Etikette "<CLT=cltSTRONG>Strike-9<CLT=cltMIND>" zehri yazıyor.
+22	<CLT=cltMIND>Bu zehrin yayılması biraz zaman alıyor\nama az bir miktarı bile...
+23	Öldürücü olabilir.
+24	<CLT=cltMIND>Bu şişede sebepsiz yere daha az\nmiktar olduğunu sanmıyorum.
+25	<CLT=cltMIND>Bu bir ipucu olmalı.
 26	<CLT=cltMIND>Okumam için dizilmiş dava dosyaları.
+27	<CLT=cltMIND>Onlarda tuhaf bir şey yok.\nİlgili gibi görünmüyorlar.
+28	<CLT=cltMIND>Masanın üstünde bir sürü şişe\nvar...
+29	<CLT=cltMIND>Biri mi çıkardı?
+30	<CLT=cltMIND>Bu şişelerde "<CLT=cltSTRONG>panzehir<CLT=cltMIND>" yazıyor.
+31	Panzehir mi, ha? Bunların burada\nolduğunu bilmiyordum...
+32	<CLT=cltMIND>Etiketlere göre her şişe sadece\nbir doz.
+33	<CLT=cltMIND>Ve her biri sadece belirli bir zehre karşı işe yarıyor.
+34	Eh, sanırım mantıklı.
+35	Bir sürü farklı türde zehir var, yani\npanzehirler için de bu doğru olmalı.
+36	<CLT=cltMIND>Masanın üstünde bir sürü şişe var.\nBiri mi çıkardı?
+37	<CLT=cltMIND>Bu şişelerde "<CLT=cltSTRONG>panzehir<CLT=cltMIND>" yazıyor.
+38	<CLT=cltMIND>Etiketlere göre her şişe sadece\nbir doz.
+39	<CLT=cltMIND>Ve her biri sadece belirli bir zehre karşı işe yarıyor.
+40	Eh, sanırım mantıklı.
+41	Bir sürü farklı türde zehir var, yani\npanzehirler için de bu doğru olmalı.
+42	<CLT=cltSTRONG>Strike-9 Zehri<CLT=cltMIND> ve <CLT=cltSTRONG>panzehirler<CLT=cltMIND>.\nBu huzursuz edici...
+43	<CLT=cltMIND>...Bu panzehirlerin hiçbiri Strike-9\nzehri için değil.
+44	<CLT=cltMIND>Hepsi farklı zehirler için.
+45	<CLT=cltMIND>Bu ne anlama gelebilir?
+46	Tamam... bu odayı iyice inceledim.
+47	<CLT=cltMIND>Kaito'nun ölmediğini gösteren hiçbir\nkanıt bulamadım...
+48	<CLT=cltMIND>Aksine, *Kokichi'nin* ölmediğini gösteren\nbolca kanıt var.
+49	<CLT=cltMIND>Monokuma hâlâ ortalıkta dolaşıyor\nve öldürme oyunu bitmedi.
+50	<CLT=cltMIND>Ve... Kaito'nun kıyafetleri hidrolik\npresin içindeydi...
+51	<CLT=cltMIND>Bu da demek oluyor ki... kurban kesinlikle...
+52	Hayır, böyle düşünmek için çok erken.\nBiraz daha incelersem bir şey bulacağım.
+53	<CLT=cltMIND>Hâlâ vakit var...\nHangara geri dönmeliyim.
+54	<CLT=cltMIND>Belki bir şeyi kaçırdım...\nTekrar bakmalıyım.

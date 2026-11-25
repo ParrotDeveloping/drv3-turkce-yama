@@ -1,0 +1,67 @@
+@ chap5_text_US
+## c05_231_000
+26|Değişimi mümkün kılan bir hile olabilir.\nSadece henüz fark etmedik...
+27|Ooohh, peki o hile ne?
+29|Gördün mü, bilmiyorsun, değil mi?\nİmkânsız olduğunu zaten söyledim—
+30|Maki yanılmıyor. Bunun yapılabileceği\nbir yol var...
+31|O yüzden burada öylece pes edemeyiz!
+33|Hey, Shuichi...\nBen de bunu daha çok düşüneceğim...
+34|Yani... kurbanın yer değiştirip\ndeğiştirmediğini doğrulayabilir misin?
+35|Kaito'nun... hayatta olup olmadığını?
+37|Kaito'yu öldürmüş olma düşüncesinden\nhoşlanmıyorum...
+38|Bunu... istemiyorum.
+39|Tamam o zaman, Maki Rulo'nun bahsettiği\nihtimalden konuşalım.
+40|Himiko, ona bir daha öyle dersen—
+41|...Evet, lütfen.
+42|Ah... Iı... Tamam.
+43|O zaman hep birlikte konuşalım!
+44|<CLT=cltMIND>Birlikte...
+48|Evet... eminim bir şey çözeriz.
+49|Hay Allah, inatçı bir grupsunuz.\nHiçbir hile yok.
+50|Bu muhtemelen başka bir yalan.
+51|Ancak kurbanlar yer değiştirdiyse bu\ngörüntülerin <CLT=cltSTRONG>değiştirildiği<CLT=cltNORMAL> anlamına gelir.
+52|Görüntülerin düzenlenmediğini bildiğimize\ngöre nasıl değiştirilmiş olabilir?
+53|Bunu çözebilirsek belki nasıl yer\ndeğiştirdiklerini anlarız.
+54|O videoda bir hile olduğunu baştan\nberi biliyordum!
+55|Kokichi yaptı, yani yüzde yüz şüpheli!
+56|<CLT=cltMIND>O videodaki bir hile...
+57|<CLT=cltMIND>Ne olabilir?\nOnun nesi şüpheli?
+## c05_232_000
+0|Düzenlemenin imkânsız olduğunu zaten söyledim!
+1|Kamerada düzenleme fonksiyonu yok ve bir\nbilgisayara bağlandığına dair hiçbir kanıt yok!
+3|Katılıyorsun, değil mi Shuichi? O açıdan\nher şeyi iyi göremiyorsun.
+4|Ama... bunun bize nasıl yardımı olacak bilmiyorum...
+6|Sen de öyle düşünüyorsun, değil mi Shuichi!?
+7|Hidrolik pres ben altında yatarken durmadı.\nAma Kaito için durdu...
+8|Bu açıkça robofobi! O bağnaz hidrolik presi\nasla affetmeyeceğim!
+10|Mümkün değil. Görüntülere dikkat ettin,\ndeğil mi?
+12|<CLT=cltMIND>Bu tuhaf. Hidrolik pres neden bir\nsaniyeliğine durdu?
+13|<CLT=cltMIND>Kafa kafaya verirsek bir umut\nbulabiliriz...
+14|<CLT=cltMIND>Umutsuzluğa düşmeyeceğiz!
+15|<CLT=cltMIND>Sanki biri bize ipucu veren bir\nşey söyledi...
+19|<CLT=cltMIND>Kafa kafaya verirsek en küçük umudu\nbile bulabiliriz...
+## c05_232_001
+0|O videoda\nbir <CLT=size2>hile<CLT=size1>\nolmalı!
+1|O videoda bir hile\nolmalı!
+2|Hepinizin
+3|Hepinizin çözmesi gereken de bu!
+4|<CLT=size2>çözmesi gereken de bu!
+5|Hiçbir <CLT=size2>hile yok.
+6|Hiçbir hile yok.
+7|Kontrol edebilirsiniz ama
+8|Kontrol edebilirsiniz ama o kamerada düzenleme fonksiyonu yok.
+9|<CLT=cltWEAK><CLT=size2>o
+10|<CLT=cltWEAK><CLT=size2>kamerada
+11|<CLT=cltWEAK><CLT=size2>düzen
+12|<CLT=cltWEAK><CLT=size2>leme
+13|<CLT=cltWEAK><CLT=size2>fonksiyonu<CLT=cltNORMAL>\n<CLT=size2>yok.
+14|O kameranın\nyerleşimi\n<CLT=size2>herhangi biriniz<CLT=size1>\nmize <CLT=size2>şüpheli<CLT=size1> geldi mi?
+15|O kameranın yerleşimi herhangi\nbirinize şüpheli geldi mi?
+16|Çekim <CLT=cltAGREE><CLT=size2>açısı
+17|Çekim açısı doğal değil\ngibiydi, sizce de öyle değil mi?
+18|<CLT=cltAGREE><CLT=size2>doğal değil<CLT=cltNORMAL><CLT=size1> gibiydi, sizce?
+19|O videodaki <CLT=size2>kişi...
+20|O videodaki kişi...
+21|Gerçekten <CLT=size2>Kaito muydu?
+22|Gerçekten Kaito muydu?
+23|O videoda bana bir\n<CLT=size2>tuhaflık<CLT=size1> varmış gibi geldi...

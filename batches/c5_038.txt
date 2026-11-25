@@ -1,0 +1,50 @@
+@ chap5_text_US
+## c05_100_219
+36|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Üç Ok<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+40|<CLT=cltMIND>Banyonun köşesinde küçük bir şişe var.\nBoş...
+41|...Bunu daha önce görmüş gibiyim.
+42|<CLT=cltMIND>Etiketin her yeri kan içinde,\ntamamen okuyamıyorum...
+43|<CLT=cltMIND>ama "<CLT=cltSTRONG>zehir<CLT=cltMIND>" kelimesini görebiliyorum.
+44|<CLT=cltMIND>Ve eğer <CLT=cltSTRONG>zehirse<CLT=cltMIND>\nbu şişe kesinlikle...
+45|...<CLT=cltSTRONG>benim laboratuvarımdan<CLT=typeNORMAL> alınmış.
+46|<CLT=cltMIND>Bunu buraya kimin getirdiğini bilmiyorum...
+47|<CLT=cltMIND>ama bu davayla kesinlikle bir\nilgisi var.
+48|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Küçük Boş Şişe<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+56|<CLT=cltMIND>Bir kan lekesi...
+57|<CLT=cltMIND>Odanın ortasında bir kan gölü ve oradan\nkapıya kadar sürüklenme izi.
+58|Bu ne anlama gelebilir...?
+59|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Banyodaki Kan Lekesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+62|Tamam... banyoyu incelemeyi\nbitirdim.
+63|<CLT=cltMIND>Sandığımdan daha çok ipucu vardı.\nVe biri özellikle endişe verici...
+64|<CLT=cltMIND>Maki'nin laboratuvarındaki arbalet\nneden burada?
+65|<CLT=cltMIND>Ve kanlı üç ok...
+66|<CLT=cltMIND>O oklar kesinlikle arbalet için, ama\nneden üçü de kanlı?
+67|<CLT=cltMIND>Ve o zehir şişesi ne için\nkullanılmış olabilir?
+68|Hâlâ bilmediğim o kadar çok şey var ki...\nBu dava zorlu olacak gibi görünüyor.
+## c05_100_220
+0|Bu ne? Neler oluyor!?
+1|<CLT=cltMIND>Kaos ve delilik...
+2|<CLT=cltMIND>Karmaşa ve kargaşa...
+3|<CLT=cltMIND>Sakin kalamadım, içimde\ntutamadım...
+4|<CLT=cltMIND>Fazlasıyla umutsuzluk vericiydi.
+5|N-Ne!? O kan mı!?
+6|Ceset bulunma anonsu...\nYani... o presin içinde biri mi var?
+7|K-Kim...?
+8|Hangarda sadece Kokichi ve Kaito vardı.\nOnlardan biri olmalı.
+10|<CLT=cltMIND>Kokichi ya da Kaito... ölü mü?
+11|Ah! Bakın!
+12|O kıyafetler!
+13|Onlar... Kaito'nun...
+14|O zaman... o hidrolik presin içindeki...
+16|H-Hayır... bu mümkün değil—
+17|Puhuhu. Görünüşe göre sınıf duruşmasında\nçözmeniz gereken bir sürü düğüm var.
+18|Ne de olsa öldürme oyunu tamamen bununla ilgili!
+19|Ve böylece şimdi Monokuma Dosyası'nı\ndağıtacağım!
+20|Bundan sıkıldığınızı söylemeyin!\nÇünkü işler ilginçleşmek üzere!
+21|Umarım bu soruşturmaya da bütün\nkalbinizi ve ruhunuzu katarsınız!
+22|D-Dur bir dakika! İncelememiz mi gerekiyor...?\nYani öldürme oyunu devam mı edecek!?
+23|<CLT=cltMIND>Öldürme oyunu... devam mı edecek?
+24|Öldürme oyunu devam ediyorsa ve Monokuma\nhâlâ hareket ediyorsa o zaman...
+25|Bu, beyin olan Kokichi'nin hâlâ hayatta\nolduğu anlamına geliyor.
+27|Kokichi hâlâ hayattaysa o zaman\norada ölü olan kişi...
+29|Hayır... bu mümkün değil!\nBir hata olmalı!

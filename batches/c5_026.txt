@@ -1,0 +1,68 @@
+@ chap5_text_US
+## c05_013_101
+22|<CLT=cltMIND>Yaşamaya devam etmek için... bir sebep yok.
+23|<CLT=cltMIND>Yaşamak için bir sebep yok.
+24|<CLT=cltMIND>Yaşamak için bir sebep yok. Yaşamak için\nbir sebep yok. Yaşamak için bir sebep yok.
+26|<CLT=cltMIND>Bu bir son söz.\nGeriye kalan tek şey... vakit geçirmek.
+27|<CLT=cltMIND>...Ne sıkıcı bir hikâye.
+28|<CLT=cltMIND>Artık yapabileceğim hiçbir şey yok.
+31|<CLT=cltMIND>Merak ediyorum...
+32|<CLT=cltMIND>diğerleri ne yapıyor...
+38|<CLT=cltMIND>Merak ediyorum...\nKaito ne yapıyor...
+39|Doğru...\nAcaba... Kaito iyi mi...?
+40|O... iyi mi...?
+42|<CLT=cltMIND>Faydası yok.
+43|<CLT=cltMIND>Zihnim... çalışmıyor...\nVe bedenim...
+45|Hayatın anlamını arıyorsan zaten\nyanlış yapıyorsun.
+46|Hayatının bir <CLT=cltSTRONG>anlama<CLT=typeNORMAL> ihtiyacı yok.\nSadece bir <CLT=cltSTRONG>amaca<CLT=typeNORMAL> ihtiyacı var.
+47|Başka bir deyişle, sadece uğruna yaşayacak\nbir şeye ihtiyacın var.
+48|Sevdiklerinle vakit geçirmek ya da hayallerinin\npeşinden koşmak için yaşayabilirsin...
+49|Lezzetli yemekler yemek ya da oyun oynamak\niçin bile yaşayabilirsin...
+50|İnsanların çoğu uğruna yaşayacak bir şeyleri\nolduğu sürece idare edebilir.
+51|Yaşama sebebinin Danganronpa olduğunu\nsöylersen bundan mutlu olamazdım.
+52|Puhuhu... Sizinle iş yapmak gerçek\nbir zevkti.
+56|<CLT=cltMIND>Sabah olmuş...
+58|<CLT=cltMIND>Ne kadar zamandır böyleyim...?
+59|<CLT=cltMIND>Kalkmalıyım...\nYoksa bir daha hiç kalkamayabilirim.
+60|<CLT=cltMIND>Ben...
+62|<CLT=cltMIND>Umurumda değil.\nSadece kendimi öldür—
+63|<CLT=cltSYSTEM>*ding dong... ding dong!*
+65|<CLT=cltMIND>Kapı zilini duyunca bedenim refleks\nolarak tepki verdi.
+66|...Ah.
+67|<CLT=cltMIND>Yataktan kalkabilmeme biraz şaşırarak\nkapıya gittim.
+68|Kim olabilir...?
+69|<CLT=cltMIND>Kim olabilir...?
+74|<CLT=cltMIND>Uzun zamandır ilk kez ayağa kalkıp\nkapıya tedirgin bir şekilde yürüdüm.
+75|<CLT=cltMIND>Yavaşça açtım ve...
+76|Berbat görünüyorsun...
+77|M-Maki?
+78|Git bir duş falan al.\nYüzüne iyi gelecek herhangi bir şey.
+79|Diğer herkesle birlikte yemekhanede olacağım.
+80|...Herkes mi?
+81|...Bekliyor olacağım, o yüzden acele et.
+82|<CLT=cltMIND>Maki kısaca konuşup gitti.
+83|<CLT=cltMIND>Herkes yemekhanede mi bekliyor?
+84|Sanırım... gitmeliyim.
+85|<CLT=cltMIND>Aceleyle sıcak bir duş alıp\nodamdan çıktım.
+## c05_014_010
+0|<CLT=cltMIND>Kokichi ve Kaito dışında herkes\nyemekhanedeydi.
+1|<CLT=cltMIND>Ama zihinsel olarak gerçekten orada değillerdi.\nGözlerindeki hayat sönmüştü.
+2|...Buradaki herkes berbat görünüyor.
+3|Öyle mi? Ben bile mi berbat görünüyorum?
+4|Şey... senin yüzün hep öyle görünür.
+5|Ne hakkında konuşuyoruz...?
+6|Nasıl ölmek istediğimizi tartışıyoruz, değil mi?
+8|Acı çekmeden gitmek istiyorum...\nMaki... bunun için bir şey yapabilir misin?
+9|Olur... ama ondan önce şuna bir bakın.
+10|Bu... bir Geri Dönüş Işığı mı?
+12|Böyle vahim bir durumda bile robofobi\nhâlâ devam ediyor...
+13|Kokichi'nin <CLT=cltSTRONG>umutsuzluğunun<CLT=cltNORMAL> sonunda\nkazanmasına izin vermeyeceğim...
+14|Hope's Peak Akademisi öğrencileri olarak\nbirleşip umutsuzluğa karşı savaşmalıyız!
+15|Beni durdurma... sadece ölmek istiyorum.
+16|Tenko... bu durumda ölmeyi seçsem\nmuhtemelen kızmazdı...
+17|Kokichi'yi, bir <CLT=cltSTRONG>Umutsuzluk Kalıntısı<CLT=cltNORMAL>'nı durdurmazsak\nbu umutsuzluk asla bitmeyecek...
+18|Ama öyle bir şey benim sihrim için çocuk\noyuncağı! Sihrim <CLT=cltSTRONG>umutla<CLT=cltNORMAL> dolup taşıyor!
+19|Alarm sistemini ve elektrikli bariyeri\nkapattıktan sonra bana bırakın!
+20|Geri Dönüş Işığı... Ama artık her şeyi\nöğrendiğimize göre...
+21|Bunun... hiçbir anlamı yok...
+22|Hope's Peak Akademisi'nin öğrencisi olduğumu\nnasıl unuttum...?

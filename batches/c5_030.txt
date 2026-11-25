@@ -1,0 +1,54 @@
+@ chap5_text_US
+## c05_014_010
+185|Evet! Umutsuzluğa teslim olmadan birlikte\ndurduğumuz sürece yeni bir umut bulacağız!
+186|<CLT=cltMIND>Hepimiz bir arada durduk.
+187|<CLT=cltMIND>Her birimiz <CLT=cltSTRONG>umudun<CLT=cltMIND> gücünün içimizde akıp\nbedenlerimizi harekete geçirdiğini hissettik.
+188|<CLT=cltMIND>Bu akademide doğan umut, kökleri\nderinlere inen bir hayat ağacı...
+189|<CLT=cltMIND>Her birimize destek\noluyordu.
+190|Nyeeeh... Motivasyon bütün vücudumda\ndolaşıyor.
+191|Hiii hi hi hi!\nİşte <CLT=cltSTRONG>umudun<CLT=typeNORMAL> gücü bu!
+192|Böyle bir kahkahayla bir büyücüden çok\nkötü bir cadı gibi görünüyorsun.
+193|Kokichi o <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=typeNORMAL>'nı pes\nedelim diye bırakmış olabilir...
+194|Ama planı buysa başarısız oldu.
+195|<CLT=cltMIND>Doğru... Kokichi'nin planı bir yerde\nters gitmiş gibi görünüyor.
+196|<CLT=cltMIND>Bize <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND> verebilecek\ntek kişi... Kokichi.
+197|Ah, peki... şimdi planımız ne?\nKokichi konusunda ne yapacağız?
+198|Adı Anılmaması Gereken'i, <CLT=cltSTRONG>Umutsuzluk\nKalıntısı<CLT=typeNORMAL>'nı durdurmalıyız, yoksa bu umutsuzluk asla bitmez.
+199|Kaito'yu da... kurtarmalıyız.
+201|Aptalca derecede pozitif. Böyle bir zamanda\nihtiyacımız olan tam da onun gibi biri.
+202|Kaito yanımızda bizi cesaretlendirirse\ngeriye kalan tek insanlar biz olsak bile...
+203|...bence yine de yeni bir umut bulabiliriz.
+204|<CLT=cltMIND>Evet... tam olarak doğru.
+205|<CLT=cltMIND>Biliyordum... böyle bir durumda bile\nbir şey düşünürdü!
+206|Sorun şu ki... Kokichi ve Kaito *nerede*?
+207|Exisal hangarındalar.
+208|İkisi de mi?
+209|Kokichi Kaito'nun oraya kapatılacağını\nsöylemişti ama...
+210|Tesadüfen... dün gece Kokichi'nin hangardan\nçıktığını gördüm.
+211|Tesadüfen mi? Gerçekten mi?
+212|Eminim aslında Kaito için endişelendin ve\nbütün gün hangarı izledin.
+214|<CLT=cltMIND>...Görünüşe göre öyleymiş.
+215|Kaito için endişelendiğimden falan değil.\nSadece... yapacak başka bir şeyim yoktu.
+216|Ayrıca... başkalarını izlemeye alışkınım,\no yüzden hiç zahmet olmadı.
+217|Suikastçıların hedeflerini izleyip onları\nöldürmenin yollarını düşünmesi önemlidir—
+218|Dur, dur. Tam duygusallaşıyorduk,\nsen her şeyi kanlı yapmak zorunda mıydın.
+219|Exisal hangarında olduklarını biliyoruz ama\nonları nasıl çıkaracağız?
+220|Hangarda biri kepenge yaklaşırsa çalacak\nbir alarm sistemi var.
+221|Üstüne üstlük o alarm sistemini kapatacak\nalarm kumandası Kokichi'de.
+222|Bir de elektrikli bariyer var, değil mi?\nOnun için de bir şey yapman lazım.
+223|Evet ama... kontrol paneline yaklaşmak\nbile alarmı çalıştırır...
+224|Nyeeeh... Daha baştan bir sürü sorun.\nNe yapmalıyız?
+225|Sorun olmaz. Alarm sistemini ve elektrikli\nbariyeri nasıl durduracağımı biliyorum sanırım.
+226|<CLT=cltMIND>Bir... fikri mi var?
+227|Alarm sistemini ve bariyeri nasıl\ngeçmeyi planlıyorsun?
+228|Elektro Çekiçle.
+229|Onunla kontrol paneline vurursan elektrikli\nbariyeri devre dışı bırakmalı.
+230|Aynısını dış dünyaya açılan çıkıştaki\nelektronik kilide de yaptık.
+231|Ama... alarm sisteminde aynı şekilde\nişe yaramaz, değil mi?
+232|Elektro Çekici kullanacak kadar yaklaşamadan\nalarm çalar...
+233|O zaman bunu kullanacağız.
+234|Ah, bu...?
+238|Hiç kalıntı bırakmadığı için her türlü\ngizli faaliyet için de mükemmel.
+241|N-Neden o sende, Maki? Sadece üç tane vardı\nve hepsinin Kokichi'de olduğunu sanıyordum—
+242|Cebinden çaldım.
+243|...O sırada.

@@ -1,0 +1,66 @@
+@ chap5_text_US
+## c05_300_334
+255|Hayır, Kaito, yapamam!\nÖlmene izin veremem, Kaito!
+256|Hasta olman umurumda değil! Ölüyor olman\numurumda değil! Monokuma'nın sana dokunmasına izin vermem!
+258|...Puhu.
+259|Puhuhuhuhuhuhu.
+260|Puhuhuhuhuhuhuhuhuhuhuhuhuhuhuhu.
+261|N-Ne bu kadar komik...?
+262|Ah, sadece hayatı düşünüyorum... ve ne\nkadar eşsiz olduğunu. Anlıyor musunuz?
+264|Bir hayat bittiğinde ona en yakın olanlar yas tutar.\nAma o hayatı bir şekilde geri dönüştürebilseydin...
+265|O zaman ona en yakın olanların artık yas\ntutmasına gerek kalmazdı, değil mi?
+266|Hayatı geri dönüştürebilseydik dünya umutla\ndolardı. Demek istediğim bu.
+267|Ne diyorsun sen—
+268|Tamam, çocuklar! Büyük dönüşünüzün vakti geldi!
+269|Uyanın, ayıcıklar! Güçlerimiz birleşince\nbiz Monoyavrularız!
+271|Ben Monotaro! Nasıl okursan oku, nasıl\nyazarsan yaz, nasıl dersen de, yine Monotaro!
+272|Ne oluyor-!? Bu tamamen bir yalan!
+273|Ne oluyor lan? Eskiden siz enayilerden\ndaha fazla olduğuna yemin edebilirdim!
+274|Ne bileyim lan! Hadi Monodam'ı yok edelim!\nBu zavallı moralimi siktiğimin bozuyor!
+276|N-Ne oluyor!? Bütün Monoyavrular\ntamamen yok edilmemiş miydi!?
+277|O <CLT=cltSTRONG>eski<CLT=typeNORMAL> Monoyavrular yok edildi.\nBu Monoyavrular <CLT=cltSTRONG>en yeni model<CLT=typeNORMAL>.
+278|Hâlâ fabrika ayarlarındalar, yani bir bakıma\ntamamen yeni karakterler gibiler...
+279|Ama kimin umurunda!? Yavrularım geri\ndöndüğüne göre artık yalnız ve mutsuz değilim!
+280|Onları... öyle bir hevesle mi geri\ngetirdin?
+281|Sizin de yeriniz aynı şekilde doldurulabilir.\nBelki Monoyavrular kadar değil...
+282|Ama bu öldürme oyununa katılacak başka\ninsanlar bulmak sandığınızdan daha kolay.
+283|<CLT=cltMIND>Başka insanlar bulmak mı?
+284|Neler olduğu ya da bunların ne anlama geldiği\nhakkında hiçbir fikrim yok ama doğru!
+285|Aynen öyle! Siktiğimin sevimlisiyiz falan!\nTabii Monodam hariç!
+287|Ah, bunun başka ne anlama geldiğini biliyor musunuz?
+288|Monoyavrular geri döndüğüne göre beni\nkoruyan Exisal maiyetim de geri geldi.
+289|Hâlâ bana karşı gelmek istiyor musunuz?
+290|B-Bu kötü!\nExisal'lar tekrar ondaysa-
+292|Önemli değil... Kaito'yu öldürmene izin\nvermeyeceğim. Sonuna kadar... savaşacağım...
+293|D-Dur... Exisal'larla savaşsan bile\nsadece öldürülürsün, kahretsin!
+294|Uzaktan kumanda ve son Elektro Bomba\npreste ezildi.
+295|Hayır, pes etmeyeceğim.
+296|Maki Rulo!\nYeter art-
+297|Daha önce hiç böyle hissetmemiştim!
+298|Hep öldürmek için savaştım ama... ilk kez\nbirini korumak için savaşıyorum!
+300|Ve... daha önce hiç...
+301|..."Maki Rulo" gibi bir lakap da\nalmamıştım.
+302|Sen...
+303|Ve daha önce hiç...
+304|...senin kadar inatçı biriyle tanışmamıştım...
+306|Ve... daha önce hiç...
+307|...birine âşık olmamıştım.
+308|Maki Rulo!
+310|Ben... bunun bitmesini istemiyorum.\nSadece... istemiyorum...
+311|Bu yüzden Kaito'yu öldürmene izin vermeyeceğim!\nKesinlikle izin vermeyeceğim!
+313|Maki Rulo... Özür dilerim...\nama bu bir seçenek değil.
+314|Sandığın kadar çok vaktim\nkalmadı...
+315|Sadece ayakta kalmak için... savaşıyorum.
+316|A-Ama ben...
+317|Hey, Maki Rulo. Sana daha önce sormuştum...\nDüşmanın ne?
+318|Eskiden... kendinden çok nefret ediyordun.\nKendini azıcık bile sevmiyordun...
+319|Ve başkalarından uzak durmaya çalışmanın\nsebebi bu değil miydi?
+320|Arkadaşlarının olmayı hak etmediğine\nkarar vermiştin, değil mi?
+321|Düşmanın buydu.
+322|Ama artık değil, ha?\nArtık iyisin!
+323|Benim gibi bir herife âşık oldun!\nArtık kendini sevmeyi öğrenebilirsin!
+325|U-Ugh... uuugh...
+326|Hey, hey... ağlama. Beni son bir\ngülümsemeyle uğurlayamaz mısın?
+327|Siz de. Hiç gözyaşına izin vermeyeceğim.\nBeni coşkuyla uğurlayın.
+329|Tamam... Kaito.\nBen... ağlamayacağım.
+330|B-Ben de! Tutacağım!

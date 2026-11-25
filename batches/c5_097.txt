@@ -1,0 +1,76 @@
+@ chap5_text_US
+## c05_300_334
+331|Evet! Dayanacağım!
+332|Ağlayamam. İstesem bile...
+333|Hey, beklettiğim için pardon, Monokuma.\nArtık başlayabilirsin.
+334|Olur!
+335|Vay be! İlk Ceza Vaktim!\nDaha önce hiç görmemiştim!
+336|Ama Monokuma'yı kontrol eden gerçek\nbeyne sadece şunu söyleyeyim...
+337|Hazır olsan iyi olur!\nArkadaşlarım sana yenilmeyecek!
+339|Hepsi bu.
+340|Gerisini size bırakıyorum!\nBu saçma öldürme oyununu bitirin!
+341|Bitireceğiz. O yüzden lütfen... endişelenme.
+342|Ve Shuichi...\nAsla unutma, yalnız değilsin.
+343|Arkadaşların var. Her şeyi tek başına\nyapmaya çalışma, tamam mı?
+344|...Evet, Kaito. Tamam.
+345|Unutma! İmkânsız mümkündür!\nTek yapman gereken onu mümkün kılmak!
+346|Evet! Teşekkürler, Kaito!
+348|Maki Rulo... Daha ne kadar ağlayacaksın?\nGülümse-
+349|Y-Yapamıyorum...\nBu imkânsız... Yapamıyorum...
+350|Haha... tabii ki... Seni böyle ağlattığım\niçin özür dilerim.
+351|Ugh... U-Uuuugh...
+352|Pekala o zaman! Bunu coşkuyla bitirelim!
+353|Yıldızların Işığı'na yakışan özel\nbir ceza!
+354|Bana söylemene gerek yok! Başlamak için\nheyecanlıyım!
+355|Öyle mi? Siktir git o zaman!\nSenin istediğin gibi ölmeyeceğim!
+356|İşte... CEZA VAKTİ!!!
+## c05_301_266
+0|<CLT=cltMIND>O gece daha sonra...
+1|<CLT=cltMIND>Kendimi avludaki o noktada\ndururken buldum.
+2|<CLT=cltMIND>Kaito ile birlikte antrenman\nyaptığımız yer...
+3|<CLT=cltMIND>Kalbim... ezilmiş gibiydi. Bütün kayıp, suçluluk\nve çaresizlik... göğsüme çöküyordu.
+4|<CLT=cltMIND>Ama yine de ben...\norada durdum.
+6|...Ne yapıyorsun?
+7|Ah, Maki...
+8|...Demek sen de geldin.
+11|Maki... özür dilerim.
+12|Ne için?
+13|Kaito'yu köşeye sıkıştıran\nbendim...
+14|Tıpkı Kaede gibi, ben... benim için önemli\nolan herkese sonunda ihanet ediyorum...
+15|Hepsi benim suçum.
+17|...Yalnız mı hissediyorsun?
+19|Kaito gittiğine göre... yalnız mısın?
+21|Evet... yalnızım.
+22|Ben... o kadar yalnız ve o kadar üzgün\nhissediyorum ki... ne yapacağımı bilmiyorum...
+23|Şu an hâlâ hayatta olmamın tek sebebi\nKaito.
+24|O benim arkadaşım olmasaydı\nben...
+25|...Ben de.
+26|En son ne zaman bu kadar çok ağladığımı\nhatırlamıyorum. Ne kadar oldu acaba...
+27|Ama artık ağlamayacağım.
+28|Üzgünüm ama... Kaito'ya minnettarım.
+29|Minnettar mı?
+30|Evet. Ona üzgün ya da yalnız olmak\nyerine...
+31|...ona minnettar olduğumu söylemek istiyorum.
+33|Bu yüzden... artık ağlamayacağım.\nKendime acıyıp durmayacağım.
+34|Ona yaptığı her şeyi ne kadar takdir\nettiğimi göstermek istiyorum.
+36|Evet, sanırım benim için de aynı.\nBen de minnettarlığımı göstermek istiyorum.
+37|Eminim hayatını kaybeden arkadaşlarımız...\nbizi perişan görmek istemezler.
+38|...Teşekkürler.
+40|Ah, demek sonuçta buradaydınız.
+41|Tam düşündüğüm gibi.
+42|Sizi bulmak için büyü yaptığım için\nburada olacağınızı biliyordum.
+43|Tsumugi? Himiko?
+44|Şey... Sakıncası yoksa antrenmanınıza\nkatılabilir miyiz?
+46|Bu öldürme oyununu birlikte bitirebilmemiz\niçin hepinizi sıfırdan eğiteceğim.
+47|Bunu... birlikte mi bitireceğiz?
+48|Himiko ve ben Kaito'ya söz verdik.
+49|Evet. Söz verdiğimiz şeyi yapıp bu öldürme\noyununu bitirmek için birlikte çalışacağız.
+50|<CLT=cltSTRONG>Umutsuzluğa<CLT=typeNORMAL> yenilmeyi göze alamayız!
+52|Evet... Kesinlikle.
+53|<CLT=cltMIND>Monokuma hiçbir yerde <CLT=cltSTRONG>umut<CLT=cltMIND>\nolmadığını söyledi...
+54|<CLT=cltMIND>Ama yanılıyor.\n<CLT=cltSTRONG>Umut<CLT=cltMIND> var.
+55|<CLT=cltMIND>Arkadaşlarım benim <CLT=cltSTRONG>umudum<CLT=cltMIND>.
+56|<CLT=cltMIND>Kaito en güzelini söyledi...\nYalnız değilim.
+57|<CLT=cltMIND>Doğru. Arkadaşlarım var.
+58|<CLT=cltMIND>Sadece buradaki arkadaşlarım değil,\nölen arkadaşlarım da...
+59|<CLT=cltMIND>Hepsi bize kendi <CLT=cltSTRONG>umutlarını<CLT=cltMIND>\nverdi.

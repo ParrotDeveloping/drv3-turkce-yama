@@ -1,0 +1,64 @@
+@ chap5_text_US
+## c05_204_001
+40|Anladıysan artık\nsessiz ol bari.
+41|Yoksa\n<CLT=size2>yolumuza\n<CLT=size1>çıkıyorsun.
+42|Yoksa yolumuza\nçıkıyorsun.
+## c05_205_000
+0|Evet, doğru, Kaito kolunu asla kolluktan\ngeçirmezdi...
+1|...ama bu sadece <CLT=cltSTRONG>sağ koluydu<CLT=cltNORMAL>.\nSol kolunu normal giyerdi.
+2|Ve presin dışında bulduğumuz da\n<CLT=cltSTRONG>sol koldu<CLT=cltNORMAL>.
+3|Kaito'nun ceketini nasıl giydiğini bilince\nbu epey tuhaf, değil mi?
+4|O zaman belki iki kolu da kolluklardan\ngeçmemişti.
+6|Bu bir ihtimal... Sonuçta senin akıl\nyürütmen delik deşik.
+7|Yoluma çıkmayı bırak.\nKokichi'yi yenmeliyim.
+8|<CLT=cltMIND>Maki... Gerçekte neler oluyor?
+9|<CLT=cltMIND>Kaito'nun kesinlikle öldüğüne\nkarar vermiş gibisin.
+10|<CLT=cltMIND>Ama bunu neden yapasın?
+11|Ama Maki'nin dediği gibi...\nKurban Kaito olmalı.
+12|Çünkü beyin Kokichi ölseydi öldürme\noyunu biterdi.
+14|Monokuma, acele et de Kokichi'yi buraya getir.\nKurbanın kim olduğunu zaten biliyoruz.
+15|Ha? Şimdiden mi? Çok erken olmadığına emin misin?
+16|Tartışmamızın konusu o olduğuna göre\nşüphelinin artık burada olması lazım.
+17|Anlaşıldı. Sanırım onu şimdi getireyim.
+18|Hey Bay Şüpheli! Sıran geldi!
+19|Bir <CLT=cltSTRONG>Exisal<CLT=cltNORMAL> mı!?
+20|N-Ne!? Burada neden bir Exisal var!?
+21|Haha, eyvah! Benim hatam. Görünüşe göre\nsizi korkuttum, ha?
+22|<CLT=cltMIND>...Bu ne?
+23|Bu... <CLT=cltSTRONG>Kaito<CLT=cltNORMAL>'nun sesi mi!?
+25|Bir sürü şey oluyordu, ben de bir Exisal'ın\niçine saklanıp biraz uyuyakaldım.
+26|Haha, bu yüzden bu kadar geç kaldım!\nNeyse, neler oluyor millet?
+27|D-Dur. O zaman ölen\nKaito değil—
+28|Aptaaal! O sadece bir yalandı!
+29|Ah-haha, öldüğümü mü sandınız!?\nAsla! Hayatta olmaaaz!
+30|K-<CLT=cltSTRONG>Kokichi<CLT=cltNORMAL> mi!?
+31|"Ölene kadar yaşayacağım!\nAğlamak yerine güleceğim!"
+32|Vay, bu çok eski! Kaç yaşındasın sen!?
+33|Ben de öyle düşünmüştüm... Şu anki görünüşün\nsenin gibi aşağılık bir pisliğe yakışıyor.
+34|Nii-hihi... Beni utandırıyorsun!\nBenim için bu kadar sinirleniyorsun.
+36|Bu gerçekten sen misin, Kokichi!?
+37|Aynen öyle, kafadarım!
+38|Cidden, kaç yaşındasın sen!?
+39|O zaman neden orada saklanıyorsun?\nKendini göster!
+40|Ah, bu daha çok kendimi korumak için. Huysuz\nHanım kendimi gösterirsem beni öldürür.
+42|Nasıl hissettiğinizi anlıyorum. Böyle\nolduğum için inanamıyorsunuz, değil mi?
+43|Nii-hihi... Ben de öyle düşünmüştüm.\nBu durumda <CLT=cltSTRONG>kanıt<CLT=cltNORMAL> getirdim!
+44|...Kanıt mı?
+45|Tadaaa! <CLT=cltSTRONG>Video kamera<CLT=cltNORMAL>!
+46|Depodaydı ama her ihtimale karşı\nhangara getirdim.
+47|Vay be, akıllıca bir hamleydi! Bunun sayesinde\nherkes net görebilsin diye kaydettim.
+48|<CLT=cltSTRONG>Kurbanın öldüğü anı<CLT=cltNORMAL>...
+49|Nyeh!? N-Ne dedin!?
+50|Tamamdır o zaman! Bu şok edici anı izleyelim!
+51|Heeey, Monokuma! Video kamerayı\nmonitöre bağlayabilir misin?
+52|Anlaşıldı!
+53|<CLT=cltMIND>Monokuma kamerayı Exisal'dan alıp\nmahkeme salonunun monitörüne bağladı...
+54|<CLT=cltMIND>ve kaydı bize oynattı.
+58|B-Bu korkunç! Neden...\nböyle bir şey...?
+60|B-Ben parmaklarımın arasından gördüm...\nKaito'nun... ezildiği anı...
+61|Ben... şey... *öğğk*
+62|Bu arada, bu görüntülerle hiçbir şekilde\noynanmadığını eklemek isterim!
+63|Bu video kamerada sadece temel\nfonksiyonlar var...
+64|Sadece Oynat, Kaydet ve Duraklat düğmeleri,\nyani çektikten sonra düzenleyemezsin.
+65|Ve tabii ki düzenlemek için bilgisayara\nda yüklemedim.
+66|Değil miii, Monokuma?

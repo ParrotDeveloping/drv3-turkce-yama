@@ -1,0 +1,54 @@
+@ chap5_text_US
+## c05_012_354
+211|<CLT=cltSTRONG>Dış dünyanın gerçeği<CLT=typeNORMAL> bu.
+212|Sizin dönecek bir yeriniz yok, veletler.\nBu yüzden dışarı çıkmak anlamsız.
+213|<CLT=cltSTRONG>Dış dünya<CLT=typeNORMAL> artık yooook!
+214|Yok... mu?
+215|Dünya ve insanlar çağlar önce yok oldu.\n<CLT=cltSTRONG>İnsanlığın hayatta kalan son 16 kişisi<CLT=typeNORMAL> dışında.
+216|...Eh, insanlığın hayatta kalan son *7* kişisi.
+217|B-Bu bir yalan! Bu... kesinlikle bir yalan!
+218|Artık yalan söylemeyeceğimi söyledim.\nYalan söylemekten yoruldum, biliyor musun?
+219|Neyse, itiraf etmem lazım... Az önce bahsettiğim\no tarikatı biliyorsunuz? Lideri... benim.
+221|Bu da demek oluyor ki... Monokuma'yı Gemi'ye\ngizlice sokan <CLT=cltSTRONG>beyin<CLT=typeNORMAL>...
+222|Beniiiim!!!
+223|Kokichi... Beyin sen misin!?
+224|<CLT=cltSTRONG>Gofer Projesi<CLT=typeNORMAL>'ni sadece ezmek istemedim,\nmümkün olan en kötü şekilde mahvetmek istedim...
+225|Ben de bir plan buldum!
+226|<CLT=cltSTRONG>İnsanlığın hayatta kalan son 16 kişisinin<CLT=typeNORMAL>\nbirbirini öldürmesinden daha kötü ne olabilir ki!?
+227|Ne...? S-Sen...!
+228|Bu yalan! Hepsi yalan olmalı!
+229|Ah, şimdi mi yalan söylememi istiyorsunuz?\nAma bana hep bunu yapmamamı söylerdiniz.
+230|Nii-hihi... Size *benim* <CLT=cltSTRONG>beyin<CLT=typeNORMAL> olduğumun\nreddedilemez kanıtını... göstereceğim!
+231|<CLT=cltMIND>Kokichi cebinden uzaktan kumandaya benzeyen\nbir şey çıkarıp onunla oynadı.
+232|<CLT=cltMIND>Ve bir dakika sonra...
+233|E-Exisal'lar mı!?
+234|Neler oluyor!? Exisal'ları sadece Monoyavruların\nkontrol edebildiğini sanıyordum!
+235|Eh, ben farklıyım. Beyin ben olduğum için\nbu okuldaki her şeyi ben kontrol ediyorum.
+236|Nii-hihi... Ana kumanda bende olduğu sürece\nbütün Exisal'lar benim emrimle hareket eder.
+237|Yani... gerçekten beyin sen misin?
+238|B-Başından beri hep şüpheliydin...\nAma beynin sen olması...
+240|Bana inanmıyor gibi görünüyorsun, Shuichi.
+241|Senden çok hayal kırıklığına uğradım. Sana\nkocaman bir ipucu bile verdim ama yine de anlamadın.
+242|Ne zaman çözeceğinizi görmek için büyük\nbir heyecanla bekliyordum.
+243|İpucu mu...? O mesajı bunun için mi bıraktın...?
+244|Ama sanırım o değerli ipucu boşa gitti.\nHepsi siz veletler birbirinize güvendiğiniz için.
+246|Söylemiştiiim. Birbirinizden daha çok\nşüphelenmeliydiniz.
+247|Beynin ben olduğumu daha önce fark edebilirdiniz\nve daha az kurban olabilirdi.
+248|Aslında Kaede en başta <CLT=cltSTRONG>beyni<CLT=typeNORMAL> öldürmeye\nçalışmakla doğru fikre sahipti...
+249|Ne yazık ama. Keşke beni o zaman öldürseydi,\nöldürme oyunu biterdi.
+250|Ne demek istiyorsun...?
+251|Öldürme oyununun gerçeği bu. Ee?\nPek de sıkıcı olmadı, değil mi?
+252|<CLT=cltSTRONG>İnsanlığın hayatta kalan son 16 kişisiyle<CLT=typeNORMAL>\nbir öldürme oyunu düzenlemek herkesin harcı değil, biliyor musunuz?
+253|B-Bunun gerçek mi... olduğunu söylüyorsun? Bütün\nbu zaman boyunca sen mi bizi yönlendiriyordun!?
+254|Ah? Kızdın mı?\nPeki buna ne yapacaksın?
+255|Kes sesini! Tabii ki kızgınım!
+256|Exisal'lar senin tarafında diye kazandığını\nsanma!
+257|Çünkü bizde Elektro Çekiçler var—
+258|N-Ne? Neler oluyor?
+259|Ah, tipik Kaito. Sanırım işler senin\nistediğin gibi gitmiyor.
+260|Şansıma şarjın bitti!
+261|E-Elektro... Çekiç...?
+262|<CLT=cltMIND>O anda Elektro Çekici kapandı.\nVe sadece Kaito'nunki değil...
+263|<CLT=cltMIND>Bütün Elektro Çekiçler aynı anda kapandı.
+264|Söylemiştim, değil mi? Sorun şarjının\nepey çabuk bitmesi.
+265|Ama hesapladığımdan uzun dayandı, o yüzden\naslında biraz gerilmeye başlamıştım!

@@ -1,0 +1,61 @@
+@ chap5_text_US
+## c05_010_007
+59|<CLT=cltMIND>Çekiçlerden mi... bahsediyor?
+60|Kokichi'nin sessiz kalacağını beklemiyordum...
+61|Ama ikimiz dışında herkesi öldürmek korkunç bir fikir!
+62|Bunu gerçekten de yapabilir.
+63|Dikkatli ol, Shuichi.
+64|O-Onun... nesi var?
+65|Ne düşündüğü hakkında... hiçbir fikrim yok.\nGerçekten insan mı ki?
+66|Bunu gördükten sonra... Keebo ondan daha\ninsan görünüyor!
+68|O pislik... Daha ne kadar saçmalamaya\ndevam edecek?
+69|K-Kokichi'nin söylediği her şey kalplerimize\nmüthiş bir yük bindiriyor!
+78|Ultimate Anti-Monokuma Silahları...\nÇekiçlerden mi bahsediyorsun?
+79|Kes şunu! Onu dinlemek için hiçbir sebep\nyok, millet!
+80|Hadi amaaa! En azından beni dinleyiiin.\nBu aynı zamanda Miu'nun bir hatırası.
+81|Miu'nun... hatırası mı?
+82|Evet, adları <CLT=cltSTRONG>Elektro Çekiç<CLT=cltNORMAL> ve\nMiu'dan icat etmesini istediğim bir şey...
+83|Temas ettiği her elektronik makineyi devre\ndışı bırakan epey inanılmaz bir icat.
+84|Elektronik makineleri... devre dışı mı bırakıyor?
+85|Nii-hihi... eminim buna Keebo da dahil.\nMonokuma'ya karşı işe yaramalılar, değil mi?
+86|Ha? Monokuma'ya karşı işe mi yarar?
+87|Hey, Monokuma ile savaşacağımızı nereden\nbildin—
+88|Ah! Şey, bunu konuştuğunuzu duyduğumda\ntesadüfen yemekhanede saklanıyordum!
+89|Orada saklanıyor olman bunun tesadüf\nolmadığı anlamına gelir!
+90|Ama Monokuma ile savaşmak istediğinizi\nduyunca çok sevindim.
+91|Çünkü baştan beri planım buydu... Bu öldürme\noyununu böyle bitirmek istiyorum.
+92|Ve bu yüzden Miu'dan bunu yapmasını istedim.\nMonokuma'yı ve Monoyavruları yenmek için.
+93|...Yalan söyleme. Bütün zaman boyunca bu\nöldürme oyununa takıntılıydın.
+94|Bu gerçekten Miu'nun yaptığı bir şey mi?\nBunda da yalan söylemiyor musun?
+95|Haaa? Bundan da mı şüpheleneceksin?
+96|Tabii ki... şimdiye kadar bize yaptığın her\nşeyi unuttun mu?
+97|Evet, unuttum.
+98|Nyeeeh! Buna inanmamızı nasıl beklersin!?
+99|Bu mantıklı değil...\nO silahı Miu yaptıysa neden...?
+100|...Birini öldürmek yerine neden *onu*\nkullanmadı?
+101|Evet! Monokuma'ya karşı savaşacak silahlar\nvarsa hep birlikte savaşmalıydık!
+102|...Bu tamamen sizin suçunuz.
+103|Bizim suçumuz mu?
+104|Miu'ya da söyledim, biliyor musunuz?\nBunu icat etmesini istediğim sıralarda.
+105|Ona Monokuma'ya karşı savaşmamız\ngerektiğini söyledim. Ama o—
+106|...Ugh, ne baş belası.\nBunu neden tekrar yapmak zorundayım?
+107|Söylenmeyi kes. Senin gibi kimsenin dokunmayacağı\nçirkin bir kaltak zaten ancak buna yarar.
+108|Ha? Ah, tamam.
+109|Ama bu çok heyecanlı! Bu bitince muhtemelen\nMonokuma'yı yenebiliriz, değil mi?
+110|Özellikle de hepimiz güçlerimizi birleştirirsek!
+111|Aptal olma...\nYapacaksan... kendin yap.
+112|Hmmm?
+113|Birlikte çalışmaya söz versek de önemi yok...\nYine biri bize ihanet eder...
+114|İhanet edip... birimizi öldürür...
+116|Hem bu silah bir şey değiştirmez. Onu kullanamadan\nbir Exisal tarafından öldürülürüz.
+117|Ben sadece... istendiği için icat ettim.\nMonokuma'ya karşı gelmeye hiç niyetim yok...
+118|Onu yenmemizin imkânı yok...\nVe... zaten burada ölmeyi göze alamam...
+119|Hele de dünyayı değiştirecek bir şey\nicat etmem gerekirken!
+120|O-O yüzden... Monokuma'ya karşı gelmek istiyorsan\nkendin yap.
+121|Ama işe yararsa... gelip bana yardım et, tamam mı?\nTeşekkür etmek için her şeyi, her şeyi yaparım...
+122|"Yine biri bize ihanet eder..."\nBöyle demişti...
+123|Eh, o zamanlar Exisal'lar hâlâ hareket\nediyordu, o yüzden onu suçlamıyorum ama...
+124|Size... güvenmekten korkuyordu.
+125|İhanet korkusu ona galip geldi. Bu yüzden...\nbu öldürme oyununda ellerini kana buladı.
+126|O aptal...
+127|Ama siz farklısınız.

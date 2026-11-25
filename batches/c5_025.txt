@@ -1,0 +1,52 @@
+@ chap5_text_US
+## c05_012_354
+335|Ona verme!!!
+336|...Vermezsen ne olacağını biliyorsun,\ndeğil mi?
+337|Bu okul benim!\nKral benim!
+338|Ben, Kokichi Oma, Yetenekli Gençler için Ultimate\nAkademi'nin <CLT=cltSTRONG>beyni<CLT=typeNORMAL> ve kralıyım!
+339|Evet! "Bu dünya benim!"
+341|...Özür dilerim, Maki.
+343|<CLT=cltMIND>Maki'nin gözlerine bakamadım.\nKokichi'ye istediğini verdim.
+344|Nii-hihi... Teşekkürler.
+346|<CLT=cltMIND>Kokichi anahtarı alırken kötü ama masum\ngülümsemesi yüzünde kaldı.
+347|<CLT=cltMIND>Ve sonra öylece gitti.
+348|<CLT=cltMIND>Bütün gizemi bizim için çözdü...\nve gitti.
+349|<CLT=cltMIND>Bizi orada gerçekle baş başa bıraktı.\n<CLT=cltSTRONG>Umutsuzluğumuzun<CLT=cltMIND> gerçeğiyle.
+352|<CLT=cltMIND>Bütün gerçek ortaya çıktı.\nSonuç.
+353|<CLT=cltMIND>Bu son.
+354|<CLT=cltMIND>"<CLT=cltSTRONG>Dış dünya<CLT=cltMIND>" diye bir şey yok.\nHayatta kalan tek insanlar biziz.
+355|<CLT=cltMIND>Dışarı çıkmaya çalışmak anlamsızdı.\nVe bunun için öldürme oyununu oynadık.
+356|<CLT=cltMIND>Hepsi anlamsızdı.
+357|<CLT=cltMIND>...Sonuç bu.
+358|S-Saçmalık... O zaman... diğerleri\nne için öldü...?
+359|Ha... haha... hahah... Demek Gonta'nın\nhissettiği umutsuzluk buydu...
+360|İnsanı ölmek istettiren bir umutsuzluk...\nBu... gerçekten tam da böyle...
+361|Böyle olacaksa çok daha önce\nölseydim daha iyiydi!
+363|O zaman... artık her şey bitti.
+364|<CLT=cltMIND>...Bu doğru. Bu her şeyin sonu.\nHikâyemiz burada bitiyor.
+365|<CLT=cltMIND>Artık ölüm olmayacak, öldürme oyunu\nolmayacak. Hepsi anlamsız.
+366|<CLT=cltMIND>...Gerçek şu ki...
+367|<CLT=cltMIND>hepimiz çok uzun zaman önce\nölmeliydik.
+## c05_013_100
+5|<CLT=cltMIND>Hepsi öldü... ama neden? Ne için?
+8|<CLT=cltMIND>Demek beyin Kokichi'ymiş...\nAma bunun artık bize ne faydası var?
+11|Herkes yemekhanede mi...?\nBen de gitmeliyim... sanırım...
+## c05_013_101
+1|<CLT=cltMIND>Odama nasıl döndüğümü bile\nhatırlamıyorum.
+2|<CLT=cltMIND>Ama farkına varmadan bedenimi yatakta,\nuyuşmuş halde hissettim.
+4|<CLT=cltMIND>Uyumak istemiyordum.
+5|<CLT=cltMIND>Sadece umutsuzluktan kaçmak istiyordum.\nAma uyku yine de geldi.
+6|Cep telefonunda biriyle konuştuğunuzda\ngerçek sesini duymadığınızı biliyor muydunuz?
+7|Siz iletişim kurarken onun sesi sentetik\nbir sese dönüştürülüyor.
+8|Sesini çeşitli dalga biçimi kalıplarına\nayırarak...
+9|Telefon bu kalıpları yeniden birleştirip konuşanın\nsesinin özelliklerini yeniden yaratıyor.
+10|Bu, aramayı mümkün kılmak için gönderilmesi\ngereken ses verisi miktarını azaltıyor.
+11|Ayrıca, kar helvasının çilek, kavun ve limon gibi\naromalı şuruplarını bilirsiniz, değil mi?
+12|Hepsinin tadı aynı. Tek fark koku ve\ngıda boyası.
+13|Sizce bu gerçekler yalan mı?\nBu gerçeklerin yalan olduğunu inkâr ediyor musunuz?
+14|Puhuhu. Bütün yalanlar baştan reddedilseydi\ndünya nasıl olurdu?
+15|Eminim çok yalnız bir dünya olurdu.\nDünyayı döndüren yalanlardır.
+18|<CLT=cltMIND>Monokuma artık burada olmamalı.\nSabah anonslarının artık bir anlamı yok.
+19|<CLT=cltMIND>Demek... gerçekten bitti.
+20|<CLT=cltMIND>Bu öldürme oyununun artık\nbir anlamı yok.
+21|<CLT=cltMIND>Çünkü dışarı çıkmak için bir\nsebep yok.

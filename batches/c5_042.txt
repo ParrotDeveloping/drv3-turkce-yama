@@ -1,0 +1,40 @@
+@ chap5_text_US
+## c05_100_220
+232|<CLT=cltMIND>Düğmeye birkaç kez daha bastım\nama pres yine de hareket etmedi.
+233|Tuhaf... geçen sefer bastığımda hareket etmişti.
+234|<CLT=cltMIND>Presin etrafına baktıktan sonra\nşunu buldum...
+235|Güç kablosu kesilmiş!
+236|<CLT=cltMIND>Anlıyorum... Güç olmadığı için hidrolik\npres hareket etmiyor.
+237|Bu tesadüf olamaz.\nGüç kablosu bilerek kesilmiş...
+238|Bu failin işi olmalı.
+239|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Hidrolik Pres<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+241|<CLT=cltMIND>Açıkçası biraz rahatladım ama bunu\nyüksek sesle söylememeliyim.
+242|Kontrollere bir kez daha bakmalıyım.\nBurada bir ipucu olmalı...
+243|<CLT=cltMIND>Kontrol düğmelerine ek olarak bir\n"Acil Durdurma" düğmesi var.
+244|<CLT=cltMIND>Bunu kullansaydın pres anında\ndururdu...
+245|Şey... fail bu cinayeti planlıyorduysa\nbunun ona bir faydası olmazdı.
+246|<CLT=cltMIND>Beni daha çok endişelendiren...\n<CLT=cltSTRONG>güvenlik fonksiyonu<CLT=cltMIND>.
+247|<CLT=cltMIND>Doğru... bu hidrolik presin bir güvenlik\nfonksiyonu olması gerekiyordu.
+248|<CLT=cltMIND>Kızılötesi sensör canlı bir şey algılarsa\npres otomatik olarak durur.
+249|<CLT=cltMIND>Şey... Keebo daha önce denediğinde\ndurmamıştı...
+250|<CLT=cltMIND>Sensör bir insan algılasaydı güvenlik\npresi otomatik olarak durdurmalıydı.
+251|Otomatik olarak durmak, ha...?
+252|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Güvenlik Fonksiyonu<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+253|<CLT=cltMIND>Presi kaldırmak için düğmeye\nbasabilmeliyim ama...
+254|<CLT=cltMIND>güç kablosu kesilmiş.
+255|<CLT=cltMIND>Güç olmadan presin kendisi hareket\netmiyor.
+256|<CLT=cltMIND>Bunun bilerek yapıldığından\neminim.
+257|<CLT=cltMIND>Bu failin işi olmalı...
+268|<CLT=cltMIND>Kırmızı Exisal tamamen hareketsiz...
+269|Shuichi, orası tehlikeli... O şeye yaklaşırsan\nparamparça olabilirsin.
+270|Hayır... artık hareket etmemeli.\nMonoyavrular ya da Kokichi olmadan olmaz.
+271|Nyeeeh... yani sadece bir hurda yığını.
+272|Hay Allah, beni öyle korkutma!
+273|Belki de bu hurda yığınını sihrimle\nparçalamalıyım!!!
+274|Ah, ama... sanırım Kokichi hayattaysa onu\nher an kumandayla hareket ettirebilir...
+275|Iyyy! N-Neden bunu daha önce söylemedin!?
+276|<CLT=cltMIND>Tabii Kokichi *hayattaysa*...
+277|<CLT=cltMIND>Ama... Kokichi'nin Exisal'lar için\nkullandığı o uzaktan kumanda...
+278|<CLT=cltMIND>Tam olarak ne? Beyin olduğu için mi\nonda var?
+279|<CLT=cltMIND>Exisal kendi bölmesinde tamamen\nhareketsiz duruyor
+280|<CLT=cltMIND>Kokichi hâlâ hayattaysa onu kumandayla\nharekete geçirebilir...

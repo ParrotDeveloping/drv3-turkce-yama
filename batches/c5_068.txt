@@ -1,0 +1,59 @@
+@ chap5_text_US
+## c05_219_000
+4|Arbaleti olan tek kişi Kaito'ydu.\nOna verdiğimden emin oldum...
+5|Kaito sadece bir oka ihtiyacı olduğunu söyledi.\nBelli ki kavga istemiyordu.
+7|Yani diğer iki ok Kaito için değildi...
+8|onları <CLT=cltSTRONG>üçüncü kişi<CLT=cltNORMAL> kendisi\nkullanmak içindi.
+9|Yani üçüncü kişi okları pencereden\nuzatmadı...
+10|Onun yerine hangara girip arbaletle\nkendisi mi ateş etti?
+11|İmkânsız. Hangarın etrafında bir alarm\nsistemi ve elektrikli bariyer vardı.
+12|Evet. O hangar tamamen kapalı\nolmalıydı, değil mi?
+13|<CLT=cltMIND>Tamamen kapalı mıydı?\nAma bunu doğrulayabilir miyiz?
+14|<CLT=cltMIND>Başka bir yol olabilirmiş gibi geliyor.\nHenüz çözmediğimiz bir yol.
+15|<CLT=cltMIND>Bir şeyi gözden kaçırıyorum...\nDüşün, düşün...
+16|<CLT=cltMIND>Üçüncü kişi hangara girmek için\nhangi yöntemi kullandı?
+## c05_221_000
+0|İşte bu... <CLT=cltSTRONG>Exisal<CLT=cltNORMAL>! Hangara girmek için\nExisal kullanılabilirdi!
+1|Alarm sistemi ve elektrikli bariyer yüzünden\ngiremedik...
+2|...ama bu Exisal'ların hiçbiri için sorun\nolmamalıydı, değil mi?
+3|Yani hangara girmek isteseydin tek\nyapman gereken bir Exisal kullanmaktı!
+4|Dün gece hangara bir Exisal'ın girdiğini gördüm...
+5|Yani onu bu üçüncü kişi mi kullanıyordu?
+6|Bu arada, Monokuma ile bir şeyi\nteyit etmek istiyorum.
+7|Bir Exisal'ın içinde biri olsaydı alarm\nyine de çalar mıydı?
+8|Şey, bunu sır olarak saklamaya çalışmıyordum\nama hangarın ayrıntılarıyla ilgili olduğu için...
+9|...sanırım size söyleyebilirim.
+10|Alarm sisteminin ve elektrikli bariyerin bir\nExisal'a tepki vermemesi mantıklı.
+11|Ne de olsa hangar Exisal'ların saklanması\ngereken yer.
+12|Bir Exisal her gelip gittiğinde güvenliği\nkapatmak zahmetli olurdu, biliyor musunuz?
+13|Yani biri bir Exisal'ın içinde olsa bile\ngüvenlik sistemi onu yakalamaz.
+14|Çünkü her park ettiğinde Exisal'dan inmek\nzahmetli olurdu.
+15|Yani Shuichi'nin dediği gibi mi? Üçüncü bir kişi\nbir Exisal'a binip hangara girdi mi?
+16|Ama... bir Exisal'ı herkes kullanabilir mi?
+17|...Ee, Kokichi?
+18|Şaşırtıcı derecede kolay. İki elini, iki ayağını\nve iki meme ucunu kullanırsan yapabilirsin.
+19|Meme uçları da mı!?
+20|Neyse, bu üçüncü kişi bir Exisal'ı ele\ngeçirip hangara sızdı.
+21|Diğer iki oku da aynı kişi yanında\ngetirmiş olmalı!
+22|Söyledim ya, bu imkânsız.
+23|<CLT=cltMIND>...Ha?
+24|Bir Exisal kullanarak güvenlikten geçmenin\nimkânı yok. Bu... mümkün değil...
+25|Ne? Mümkün değil mi...?
+27|<CLT=cltMIND>Maki... ne diyorsun\nsen?
+28|<CLT=cltMIND>Ne düşünüyorsun?\nNe biliyorsun?
+29|<CLT=cltMIND>Neden saklamaya çalışıyorsun?\nNeden...?
+30|<CLT=cltMIND>Neden bana söylemiyorsun?
+## c05_222_000
+0|Exisal hangara girmek için alarm sisteminden\nve elektrikli bariyerden geçti...
+1|Az önce bunu söyledim, değil mi?
+3|Az önce dört Exisal'ın Monokuma'yı\nkoruduğunu söylememiş miydin?
+4|Söylediğin bir şeyden geri dönme.
+6|Haaa? Bir Exisal'ı uzaktan kumandayla kontrol\nedebileceğini herkese gösterdiğimi sanıyordum.
+8|Elektro Çekicin enerjisi dün bitti ve şarj\nolması için 24 saat gerekiyordu...
+9|Hangara girmek için çekicin dünden beri\nşarj oluyor olması lazımdı, değil mi?
+11|Hareket eden bir Exisal'a binmek imkânsız.
+12|Onları uzaktan kumandayla kontrol\nedebilen biri değilsen tabii.
+14|<CLT=cltMIND>İmkânsız değil.
+15|<CLT=cltMIND>Bir Exisal'ı indirmek için bir Elektro\nÇekice ihtiyacın var...
+16|<CLT=cltMIND>Ve kullanıldığına dair\nkanıt olurdu!
+18|<CLT=cltMIND>Bir Exisal'ı durdurmanın bir yolu var.\nOnlara göstermeliyim!

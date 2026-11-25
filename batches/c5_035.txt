@@ -1,0 +1,39 @@
+@ chap5_text_US
+## c05_015_287
+89|<CLT=cltMIND>Doğru hatırlıyorsam... orada küçük\npencereli bir banyo var.
+## c05_016_010
+26|Ama birkaç şeye tanık oldum.
+27|N-Ne? Neye... tanık oldun?
+28|Onu sonra konuşabiliriz. Şimdilik planımızla\nilgili gördüklerimi paylaşacağım.
+29|Shuichi Monokuma'yı koruyor gibi görünen\ndört Exisal görmüş...
+30|Ben de onlardan birinin hangara girdiğini gördüm.
+31|Sadece biri mi?
+32|Evet, yeşil Exisal.
+33|Yeşil olan...\nOnun Monokuma'yı koruduğunu gördüğümden eminim...
+34|İzlerken görünmemeye dikkat\nettim.
+35|Ne alarm sistemi ne de elektrikli bariyer\nExisal'ın varlığına tepki verdi.
+36|Bu, alarm sisteminin ve elektrikli bariyerin\nExisal'lar üzerinde çalışmadığı anlamına mı geliyor?
+37|Exisal'ların saklandığı yer olduğu düşünülürse\nbu güvenli bir varsayım gibi görünüyor.
+38|Neyse, hangarda iki Exisal var.\nDikkatli olmalıyız.
+39|Sadece bir şansımız var.
+40|Tek Elektro Bombamız bu olduğu için\nıskalamayı göze alamayız.
+41|Tam olarak doğru.
+42|Pekala o zaman! Bu sefer gerçekten yola çıkıyoruz!
+43|Hadi gidelim! Ne olursa olsun bu öldürme\noyununu kesin olarak bitirmeliyiz!
+44|<CLT=cltMIND>Enerjik ve motive bir şekilde grup birbiri\nardına yemekhaneden koşarak çıktı.
+## c05_016_100
+4|<CLT=cltMIND>Kaito... dayan!\nSeni kurtaracağız!
+5|<CLT=cltMIND>Şimdi... <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltMIND>'na\nson vereceğiz...
+6|<CLT=cltMIND>Yaşamak için sebebimiz var... ve ölen herkes\niçin ilerlemeye devam edeceğiz!
+## c05_016_101
+0|Ortalıkta dolaşmanın anlamı yok...\nOdamda kalıp dinlenmeliyim.
+1|<CLT=cltMIND>Son savaş için doğru zihin durumuna\ngirmeye çalıştım...
+2|<CLT=cltMIND>Bunun üzerine düşünürken...
+3|<CLT=cltMIND>farkına varmadan gece olmuştu.
+6|Şafakta gidiyoruz.
+7|<CLT=cltMIND>Artık tereddüt etmeyeceğim.\nKaito bana öğretti...
+8|Yapmak zorundayım.\nYaşamak için, yaşamak için bir sebep bulmak için...
+9|Savaşacağım.
+10|<CLT=cltMIND>O geceyi bu düşünce kalbimin derinliklerine\nyerleşmiş halde geçirdim.
+11|...Panik yapmayın. Sadece sakin olun ve dinleyin.
+12|Eh, bu Monokuma Tiyatrosu bölümünü\nizliyorsanız artık çok geç.

@@ -1,0 +1,75 @@
+@ chap5_text_US
+## c05_205_000
+128|Kokichi değilse fail içimizden biri\nolmalı...
+129|İçimizden biri mi?
+130|Bu mümkün değil!
+131|Hayır, öyle demedim! Sadece Kokichi'ye\ngüvenmenin tehlikeli olduğunu söylüyordum—
+132|Nii-hihi... Shuichi çok güvensiz...
+133|Ama tam olarak Shuichi'nin dediği gibi!\nAslında fail ben değilim!
+134|<CLT=cltMIND>...Cidden mi?
+135|N-Ne? Ama bu daha önce söylediğinle\nçelişiyor.
+136|Evet, o bir <CLT=cltSTRONG>yalandı<CLT=cltNORMAL>.\nPardon! Yine yalan söyledim.
+137|Bu davanın gerçek faili kendini saklamakta\nsüper kötü, ben de yardım edebilirim diye düşündüm...
+138|Görüntüleri kullanarak failmişim gibi yaptım!\nOyunu da daha ilginç hale getirdi!
+139|C-Ciddi misin?
+140|Nyeeeh! Gerçek ne, yalan ne!?\nArtık bilmiyorum!
+141|Sorun yok... Çünkü fail Kokichi.
+142|Kaito'yu o öldürdü... Bizi ne kadar\nkandırırsa kandırsın fikrimizi değiştirmez.
+143|Görüntüler onun yaptığını gösteriyor!\nTek seçenek Kokichi olmalı!
+144|<CLT=cltMIND>Tek seçenek mi?
+145|<CLT=cltMIND>Bu gerçekten doğru mu?\nBunu öylece böyle mi bırakacağız?
+## c05_206_000
+0|İnanmak istemediğini biliyorum ama o\nmakine tarafından öldürüldü...
+1|Başka bir ihtimal olduğunu\nsanmıyorum...
+2|<CLT=cltMIND>Bir hata yaptım...\nTekrar düşünmem lazım!<CLT=cltNORMAL>
+3|Hidrolik presi çalıştıran düğme\nhangarın içindeydi.
+4|Bu yüzden fail cinayet işlendiğinde\nhangarda olan biri olmalı!
+6|Kaito'dan başka kim oradaydı? Kepenkte\nalarm ve elektrikli bariyer vardı.
+7|Başka kimse giremezdi.\nGeriye sadece Kokichi kalıyor.
+9|<CLT=cltMIND>Kokichi, Kaito'yu hidrolik presle öldürdü.\nŞu anki ortak görüş bu.
+10|<CLT=cltMIND>Ama gerçek bu olmayabilir.\nYa zaten ölüyse...?
+12|<CLT=cltMIND>Ama bu mümkün\nmü ki?
+## c05_206_001
+0|<CLT=size2>Kokichi'nin
+1|Kokichi'nin fail olduğuna\nhiç şüphe yok.
+2|<CLT=size2>fail<CLT=size1> olduğuna
+3|hiç <CLT=size2>şüphe<CLT=size1> yok.
+4|Hepimiz az önceki <CLT=size2>görüntüleri<CLT=size1> <CLT=size2>gördük<CLT=size1>, değil mi?
+5|Hepimiz az önceki görüntüleri gördük, değil mi?
+6|<CLT=cltWEAK><CLT=size2>Kaito
+7|Kaito ezilerek öldü...
+8|<CLT=cltWEAK><CLT=size2>ezilerek
+9|<CLT=cltWEAK><CLT=size2>öldü<CLT=cltNORMAL>...
+10|<CLT=cltWEAK><CLT=size2>Kaito
+11|Ne <CLT=size2>korkunç<CLT=size1> bir video.
+12|Ne korkunç bir video.
+13|O suçu kim işlediyse...
+14|O suçu kim işlediyse...
+15|hangarda <CLT=cltWEAK><CLT=size2>Kaito
+16|hangarda Kaito'yla birlikteydi.
+17|<CLT=cltWEAK>'yla <CLT=size2>birlikteydi<CLT=cltNORMAL>.
+18|Bu da geriye <CLT=cltWEAK><CLT=size2>sadece Kokichi'yi<CLT=cltNORMAL> <CLT=size1>bırakıyor.
+19|Bu da geriye sadece Kokichi'yi bırakıyor.
+20|O zaman <CLT=size2>fail...
+21|O zaman fail...
+22|<CLT=size2>Kokichi Oma,
+23|Kokichi Oma, bütün bu öldürme\noyununun beyni...
+24|bütün bu <CLT=size2>öldürme\n<CLT=size2>oyununun<CLT=size1> beyni...
+25|Ve
+26|Ve Kaito'nun katili!
+27|<CLT=size2>Kai
+28|<CLT=size2>to'nun
+29| 
+30|<CLT=size2>katili!
+31|Çok vahşiydi...
+32|Kurban Kaito'ydu...
+33|Ezik!
+34|Doğru.
+35|Hiç şüphe yok...
+36|Nyeh!\nSonuçta Kokichi!
+## c05_207_000
+0|Hâlâ... inanmıyorum...\nO video gerçek mi?
+1|Kaito pres tarafından öldürülmüş gibi\n*görünsün* diye düzenlenmiş olabilir.
+2|Aynen öyle!
+3|Bu Yıldızların Işığı'nın bu kadar\nkolay ölmesinin imkânı yok!
+4|K-Yine mi Kaito!?

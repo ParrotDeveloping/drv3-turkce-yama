@@ -1,0 +1,69 @@
+@ chap5_text_US
+## c05_005_101
+0|<CLT=cltMIND>Hâlâ biraz vakit var...
+1|Ne yapmalıyım?
+## c05_006_150
+24|Silahlarımı neden görmek istediğini\naçıklar mısın?
+25|Bu sabah söylemedim mi?\nBir plan kurdum.
+26|Ah! Şuradaki siyah çantada ne var?
+27|<CLT=cltMIND>Konuşmadan kaçar gibi Kaito\nuzaktaki kitaplığa yöneldi...
+28|İçinde ne var? Bir çeşit silah mı?
+29|...Bilmek istiyorsan neden açmıyorsun?
+30|Hmm... Bakalım...
+31|<CLT=cltMIND>Ve sonra Kaito siyah çantadan\nbir şey çıkardı...
+32|Bu ne? Bir sürü parça mı?
+33|Sökülmüş bir arbalet.
+34|Hmm, yani birleştirince arbalet\noluyorlar. İlginç görünüyor.
+35|Hey, Maki Rulo... nasıl birleştirildiğini\nbana öğretebilir misin?
+36|Olur... sorun değil.
+37|Bunu... ve bunu birleştir...
+38|Şey... böyle mi?
+39|Ve sonra o diğer parçayı ters\nyönde tak...
+40|...Ah, dur. Yanlış.
+41|Ah, benim hatam. Bu tarafa gidiyor.
+42|Hı-hı. Sonra sıradaki—
+44|<CLT=cltMIND>O ikisini izlerken aklıma benzer\nbir sahnenin anısı geldi.
+45|<CLT=cltMIND>Maki talimat verirken Kaito'nun\nzorlanması...
+46|<CLT=cltMIND>Sonunda arbaleti birleştirmeyi\nbaşardılar.
+47|Vay, ben yaptığım için ekstra havalı\nbir arbalet oldu!
+48|Kimin yaptığının bir önemi yok ama...
+49|Biraz karmaşık gibi... ama bir dahaki sefere\ntek başıma yapabilirim sanırım.
+50|...Shuichi, sen de öğrenmek ister misin?
+51|Ah, hayır, gerek yok...\nZaten izleyerek biraz anladım.
+52|O zaman kaldıralım. Adımları tersine\nyaparak kolayca sökebilirsin.
+53|Dur, ben mi yapmak zorundayım!?
+54|Başka kim yapacak?
+55|Evet... ö-özür dilerim...\nYine... kendimi pek iyi hissetmiyorum...
+57|Görünüşe göre yüzde yüz değilim!\nO yüzden önden dönüyorum!
+58|Hey!
+59|<CLT=cltMIND>Maki'nin onu durdurmaya çalışmasını\ngörmezden gelip Kaito odadan kaçtı.
+61|Toplayan biri olmadığını biliyordum ama berbat\nbir yalanla kaçacağını hiç düşünmemiştim...
+62|...Ne sinir bozucu. O en kötüsü.
+63|Ah, şey, Kaito böyle işte...
+64|...Sen de en kötüsüsün.
+66|Seni neden davet ettiğimi biliyorsundur, değil mi?
+67|E-Evet... biliyorum. Kaito ile benim\nbarışmamızı sağlamaya çalışıyordun.
+68|Senden nefret ettiğinden falan değil.\nSadece inat ediyor.
+69|Ama... ona ne diyeceğimi bilmiyorum.
+70|B-Başka çarem yoktu! Gonta... Bir şey\nyapmasaydım herkes ölecekti...
+71|Ben... bunun için özür dilemenin doğru\nolacağını düşünmüyorum...
+73|Özür dilerim, Maki.\nSadece... daha çok zamana ihtiyacım var...
+74|*iç çekiş* İkinizin bu kadar ilgi\nisteyeceğinizi fark etmemiştim.
+76|<CLT=cltMIND>Ama o söyleyince\nben de fark etmemiştim.
+77|<CLT=cltMIND>Fark etmemiştim... Maki'nin bizim için\nbu kadar endişeleneceğini.
+80|<CLT=cltMIND>Sonunda arbaleti söken\nben oldum.
+81|<CLT=cltMIND>Bitirdikten sonra odama\ndöndüm.
+## c05_006_266
+0|Gece oldu, Shuichi. Bu saatte dışarıda\nne yapıyorsun?
+1|Ben... Maki ile buluşmaya söz verdim.
+3|Şey, sokağa çıkma yasağını katı bir şekilde\nuygulamaya niyetim yok...
+4|Belki öğrenci konseyindeki zamanımdan kalma\neski bir alışkanlık ama sormam gerektiğini hissettim.
+6|Bu sadece birkaç gün önceydi.
+7|Angie ile öğrenci konseyini kurmamızın\nüzerinden asırlar geçmiş gibi...
+8|<CLT=cltMIND>...O zamandan beri çok şey oldu.\nBir an bile rahatlayamadık.
+9|Her neyse, lütfen dikkatli ol.
+10|Gece vakti dışarıda olmak başka bir\ncinayete yol açabilir.
+11|Özellikle de şimdi, Kokichi'nin nerede\nolduğunu bilmiyorken.
+12|Haklısın. Dikkatli olacağım.
+14|Tsumugi? Neden gökyüzüne\nbakıyorsun?
+15|Ah, Shuichi. Ben... sadece biraz\nyıldızlara bakıyordum.

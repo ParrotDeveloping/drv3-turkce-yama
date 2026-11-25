@@ -1,0 +1,61 @@
+@ chap5_text_US
+## c05_201_000
+22|Kesin bir karar vermek için çok erken.\nKurbanın Kaito olduğunu bile bilmiyoruz...
+23|Bunu daha ne kadar söyleyeceksin?\nKurban Kaito... Konu kapandı.
+24|Ama kesinlikle emin olmalıyız.\nKurbanın kimliğini kesin olarak belirlemezsek...
+25|...diğer kişi asla kendini göstermez,\ndeğil mi?
+26|Bir şüpheliyi belirlemeden önce kurbanın\nkim olduğunu belirlemeliyiz.
+27|Neden bu kadar bariz bir şey hakkında\nkonuşuyoruz ki? Ne zahmet...
+29|<CLT=cltMIND>Herkes kurbanın Kaito olduğunu düşünüyor\nama benim şüphelerim var...
+30|<CLT=cltMIND>Kaito'nun hâlâ hayatta olma\nihtimali var...
+31|<CLT=cltMIND>Davayı tartışmaya devam edersek\neminim gerçeği göreceğiz!
+## c05_202_000
+0|Kaito bütün zaman boyunca Kokichi tarafından\nesir tutuluyordu, değil mi?
+1|Tamamen Kokichi'nin insafına\nkalmıştı...
+3|Görünen tek şey koldu ama\nkesinlikle Kaito'nundu.
+5|Kokichi ölseydi cesedini... ya da en azından\ncesedinden bir iz bulurduk.
+6|Ona ait hiçbir şey bulmadık...\nAma Kaito'nun kıyafetlerini bulduk.
+7|...Bu yüzden kurban Kaito olmalı.
+9|<CLT=cltMIND>Kurbanı ya da hayatta kalanı doğrulamamızı\nsağlayan hiçbir kanıt yok.
+10|<CLT=cltMIND>Ve Kokichi'nin kurban olduğuna dair\nhiç kanıt yok değil.
+12|<CLT=cltMIND>Kurbanın kim olduğunu ilan etmek\niçin çok erken!
+## c05_202_001
+0|Kurban\n<CLT=size2>Kaito<CLT=size1> olmalı.
+1|Kurban\nKaito olmalı.
+2|<CLT=size2>Kaito<CLT=size1>, <CLT=size2>Kokichi<CLT=size1> tarafından\n<CLT=cltWEAK><CLT=size2>esir alınmıştı<CLT=cltNORMAL><CLT=size1>...
+3|Kaito, Kokichi tarafından esir alınmıştı...
+4|yani onu istediği\nzaman <CLT=size2>öldürebilirdi
+5|yani onu istediği zaman öldürebilirdi.
+6|<CLT=size1>istediği zaman.
+7|Ve\n<CLT=size2>hidrolik
+8|Ve hidrolik presin içinde onun kıyafetleri vardı!
+9|<CLT=size2>presin<CLT=size1> içinde
+10|<CLT=cltWEAK>onun kıyafetleri<CLT=cltNORMAL> vardı!
+11|Kokichi kurban\nolamaz çünkü\nbunun için\n<CLT=cltWEAK>hiç kanıt yok<CLT=cltNORMAL>...
+12|Kokichi kurban olamaz çünkü\nbunun için hiç kanıt yok...
+13|yani\nkurban\nKaito olmalı.
+14|yani kurban Kaito olmalı.
+15|Ve <CLT=size2>fail\n<CLT=size1>de <CLT=size2>Kokichi<CLT=size1> olmalı!
+16|Ve fail de Kokichi olmalı!
+17|Bugün gerçekten\n<CLT=size2>iyi birini\n<CLT=size1>kaybettik...
+18|Bugün gerçekten iyi birini kaybettik...
+19|<CLT=size2>Kazing!<CLT=size1>
+20|Kazing!\n...Keşke büyücüler diriltme büyüsü yapabilseydi.
+21|<CLT=size2>...keşke büyücüler\n<CLT=size1>diriltme büyüsü yapabilseydi.
+23|Kaito olmalı.
+24|Ne de olsa banyoya kapatılmıştı.
+25|Onlar Kaito'nun kıyafetleriydi.
+26|Ha? Kanıt yok mu...?
+27|Beynin öldürülmesinin imkânı yok!
+28|Iı... Ölümü henüz\nkesinleşmedi...
+## c05_203_000
+0|Kokichi'nin kurban olduğunu gösteren kanıtım\nvar! Hangarda *bunu* buldum!
+1|Nyeh! Bu <CLT=cltSTRONG>Kokichi'nin ceketi<CLT=cltNORMAL> mi!?
+2|Evet. Ve şuraya bakın, kolunda\nkan lekeleri var.
+3|Bu Kokichi'nin <CLT=cltSTRONG>dışarıdan yaralandığını<CLT=cltNORMAL>\ngösterir, değil mi?
+4|Kokichi yaralanmış mı?
+5|Bunların klozetten sifonla gönderilmiş olması\nbir suçun kanıtı olduklarını gösteriyor.
+6|...Ne olmuş? Kaito'nun kıyafetleri hidrolik\npresin içindeydi.
+7|O kanıt elimizde olduğu sürece öldürülenin\nKaito olduğuna şüphe yok.
+8|E-Evet, doğru... O reddedilemez\nkanıt denen şeylerden biri.
+10|<CLT=cltMIND>Hangarda cesedi bulduğundan beri Maki\nonun Kaito'nun olduğunda ısrar ediyor...

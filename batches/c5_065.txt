@@ -1,0 +1,58 @@
+@ chap5_text_US
+## c05_213_000
+138|Hah! Onun sayesinde kimse Kokichi\ntaklidi yaptığımı fark etmiyor!
+139|Ama artık değil!\nBeklettiğim için pardon millet!
+140|Yıldızların Işığı geldi!\nBu sefer gerçekten!
+141|N-Ne? Neler oluyor?
+142|Söyledim ya, ben Kaito'yum. Sadece\nKokichi taklidi yapıyordum, o kadar.
+143|Biraz karışık bir durum var,\no yüzden pek seçeneğim yoktu...
+144|Sizi öyle kandırdığım için özür dilerim.\nBenim hatam!
+145|Ha? Yani içerideki sonuçta Kaito mu!?
+146|...Aptal olma. Daha kaç kez onun\ntarafından kandırılacaksın?
+147|O, Kaito taklidi yapan Kokichi.
+148|Hey dur bakalım, Maki Rulo.\nBana inanmıyor musun?
+149|Bana... *asla*... öyle deme!
+150|Hop! Sakin ol!\nGerçekten Kokichi olduğumu mu sanıyorsun?
+151|Yani, sanırım anlıyorum. Şu an buradan\npek çıkamadığım için özür dilerim.
+152|Neden?
+153|Kokichi'den aldığım yara yüzünden\nhareket edemiyorum...
+154|O kadar kötü ki ayakta bile duramıyorum.\nBu yüzden bu Exisal'ın içindeyim.
+155|Ö-Öyle mi...?
+156|Ama bana inanmazsanız\nilerleyemeyiz...
+157|O yüzden sıra sende, Shuichi!
+158|Ne!? Ben mi!?
+159|Herkese ölenin ben olmadığımı\naçıkla!
+161|<CLT=cltMIND>Demek Kaito sonuçta hayatta...
+162|<CLT=cltMIND>Hayır... belki... bu sadece inanmak\nistediğim şey. Gerçekten doğru mu?
+163|<CLT=cltMIND>Kanıtlar hangi hikâyeyi anlatıyor?
+164|<CLT=cltMIND>O hikâye kurbanın Kaito ya da\nKokichi olmasıyla mı bitiyor?
+165|<CLT=cltMIND>Bu soruya mantıklı bir cevap\nvermeliyim, hem de yakında.
+166|<CLT=cltMIND>...Gerçekten yüz çeviremem.
+168|<CLT=cltMIND>Şu an elimizdeki kanıtların çoğu...\nkurbanın Kaito olduğunu gösteriyor!
+169|Hm? Ne oldu, Shuichi?\nSadece özgüvenle söylemen lazım!
+170|<CLT=cltMIND>Gerçekten yüz çeviremem!\n<CLT=cltNORMAL>
+175|<CLT=cltMIND>Bu davanın kurbanı...
+176|<CLT=cltMIND>Deniyorum, gerçekten deniyorum ama\nKaito'dan başka kimseyi düşünemiyorum...
+177|<CLT=cltMIND>Elimizdeki kanıtların çoğu Kaito'yu\ngösteriyor...
+178|Hey, ne oldu, Shuichi?
+179|Acele edip herkese neden ölmediğimi\nsöyle! Kolay olmalı!
+180|Hayır... söylemeyeceğim. Çünkü sen Kaito değilsin.
+181|Kaito çoktan öldü!
+182|Puhuhuhu! Güzel, güzel! Bu şimdiden\ndaha eğlenceli!
+183|Şimdi Ultimate Akademi gururla kendi\n<CLT=cltSTRONG>dönüşfenomenal duruşma alanını<CLT=cltNORMAL> sunar!
+184|Tamam! Elimizden gelenin en iyisini verelim!
+## c05_214_000
+0|O Kokichi!
+1|O Kaito!
+2|<CLT=cltMIND>Kanıtlara göre öldürülen kişi\nKaito olmalı...
+3|<CLT=cltMIND>Bunu onlara kabul ettirmeliyim,\nyoksa ilerleyemeyiz!
+4|<CLT=cltMIND>Ben de Kaito'nun hayatta olduğuna\ninanmak istiyorum...
+5|<CLT=cltMIND>Ama o video kesin.\nKarşı koyacak hiçbir şeyimiz yok.
+6|<CLT=cltMIND>Kahrolası Exisal...\nKafamızı neden böyle karıştırsın ki?
+7|Bence Exisal'ın içindeki\nKaito!
+9|<CLT=cltMIND>Gerçeğe ulaşmak için...\nBunu kabul etmeliyiz.
+10|<CLT=cltMIND>Kaito... öldü.
+11|Ama yaralı olduğu için Exisal'dan\nçıkamayacağını söyledi.
+15|Kaito yerine Kokichi'nin ezilmiş olması\nmümkün mü?
+19|Ama Kokichi'nin gömleğinde bir ok\ndeliği vardı.
+23|Kaito'nun hâlâ hayatta olduğuna ve beyni\nyendiğine inanmak istiyorum ama...

@@ -1,0 +1,44 @@
+@ chap5_text_US
+## c05_101_287
+125|<CLT=cltMIND>Yani bu hangara girmenin tek yolu\nkepenk.
+170|<CLT=cltMIND>Kokichi hayattaysa uzaktan kumandasıyla\nonları istediği gibi hareket ettirebilir.
+173|<CLT=cltMIND>Burada tam olarak neye tanık oldum...?
+174|<CLT=cltMIND>Exisal'ların Kokichi'nin uzaktan kumandasıyla\nkontrol edildiğini kesin olarak biliyorum...
+175|<CLT=cltMIND>Ama neden Monokuma'ya odaklanıyorlardı?
+176|<CLT=cltMIND>Hangarda kafamı kurcalayan şeyler\naşağı yukarı bu kadar...
+177|Ama hâlâ yeterli ipucum yok...\nDaha fazlası olmalı.
+178|<CLT=cltMIND>İpucu çıkabilecek diğer\nyerler...
+179|Maki'nin laboratuvarı... ve benim laboratuvarım...
+180|<CLT=cltMIND>Banyodaki arbalet,\nzehir şişesi...
+181|<CLT=cltMIND>Bu izleri incelemeliyim.
+182|Monokuma'yı koruyan üç Exisal'ı da\nincelemeliyim.
+183|En başta onu neden\nkoruyorlardı?
+184|Bu da davayla ilgili\nolabilir.
+## c05_102_130
+0|<CLT=cltMIND>Hangardaki o zehir şişesi...\nBuradan geldiğini doğrulamalıyım.
+6|<CLT=cltMIND>Burada dizili birkaç zehir şişesi\nvar...
+7|<CLT=cltMIND>Bu laboratuvarın dışında hiç zehir\ngörmedim, yani...
+8|<CLT=cltMIND>Bulduğum küçük zehir şişesi\nburadan gelmiş olmalı.
+10|<CLT=cltMIND>Bu şişede... diğerlerinden biraz\ndaha az sıvı var...
+11|<CLT=cltMIND>Etikette "<CLT=cltSTRONG>Strike-9<CLT=cltMIND>" zehri yazıyor.
+12|<CLT=cltMIND>Bu zehrin yayılması biraz zaman alıyor\nama az bir miktarı bile...
+13|Öldürücü olabilir.
+14|<CLT=cltMIND>Bu şişede sebepsiz yere daha az\nmiktar olduğunu sanmıyorum.
+15|<CLT=cltMIND>Bu bir ipucu olmalı.
+16|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Zehir<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+19|<CLT=cltMIND>Hangarda bulunan zehir şişesi\nburadan gelmiş olmalı.
+20|<CLT=cltMIND>Bu şişede biraz daha az sıvı var...
+27|<CLT=cltMIND>Onlarda tuhaf bir şey yok.\nİlgili gibi görünmüyorlar.
+28|<CLT=cltMIND>Masanın üstünde bir sürü şişe\nvar...
+29|<CLT=cltMIND>Biri mi çıkardı?
+30|<CLT=cltMIND>Bu şişelerde "<CLT=cltSTRONG>panzehir<CLT=cltMIND>" yazıyor.
+31|Panzehir mi, ha? Bunların burada\nolduğunu bilmiyordum...
+32|<CLT=cltMIND>Etiketlere göre her şişe sadece\nbir doz.
+33|<CLT=cltMIND>Ve her biri sadece belirli bir zehre karşı işe yarıyor.
+34|Eh, sanırım mantıklı.
+35|Bir sürü farklı türde zehir var, yani\npanzehirler için de bu doğru olmalı.
+36|<CLT=cltMIND>Masanın üstünde bir sürü şişe var.\nBiri mi çıkardı?
+42|<CLT=cltSTRONG>Strike-9 Zehri<CLT=cltMIND> ve <CLT=cltSTRONG>panzehirler<CLT=cltMIND>.\nBu huzursuz edici...
+43|<CLT=cltMIND>...Bu panzehirlerin hiçbiri Strike-9\nzehri için değil.
+44|<CLT=cltMIND>Hepsi farklı zehirler için.
+45|<CLT=cltMIND>Bu ne anlama gelebilir?

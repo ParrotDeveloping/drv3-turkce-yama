@@ -1,0 +1,60 @@
+@ chap5_text_US
+## c05_002_131
+7|Büyük bir vakit kaybı gibi geliyor ama\nişe yarar bir şey var mı diye bakalım.
+13|Bu inanılmaz...\nBir uzay gemisinin kokpitine benziyor.
+14|Epey havalı! Araştırma laboratuvarım\niçin mükemmel!
+15|Bunu kullanabiliyor musun? Yani, muhtemelen\nsadece bir simülatör ama...
+16|Evet... bu makineyi hiç görmedim ama\nbuna benzer bir şeyle eğitim aldım...
+17|Neyse, sanırım her şey yoluna girer!
+18|Ne pervasız bir özgüven... Senin kullandığın\nhiçbir araca binmek istemem.
+19|Ama vay be. Bu gerçekten bir simülatör mü?\nFazla ayrıntılı gibi geliyor...
+20|Yok, gerçek olmasının imkânı yok.\nYani neyi çalıştıracak ki?
+21|<CLT=cltMIND>O anda...
+22|Hey. Gelip şuna bakın.
+23|Ha? Bir sorun mu var?
+24|Bunu arkada buldum...
+25|Bu ne? Bir dosya mı?
+26|Gofer Projesi mi!?
+27|<CLT=cltMIND>Dünyanın dört bir yanından ülkeler göktaşı\nsavunma planı oluşturmak için birlikte çalıştı.
+28|<CLT=cltMIND>Ama hiçbirimiz bunun ayrıntılarını\nhatırlayamıyoruz.
+29|Yani bu dosyada proje hakkında\nbilgi mi var...?
+30|Peki ne yazıyor!?
+31|D-Durun, okuyacağım...
+32|Bakalım...
+36|<CLT=cltMIND>Gofer Projesi'nin amacı bu.
+38|Ş-Şey... ya gerisi?\nNe yazıyor!?
+39|Bizi merakta bırakma! Söyle artık!
+40|Gerisi karalanmış,\ndaha fazlasını okuyamıyorum.
+42|Bunu Monokuma mı yaptı!?\nKahretsin, bizimle oynuyor!
+43|Sizce şu <CLT=cltSTRONG>olağanüstü yetenekli kızlar\nve erkekler<CLT=cltNORMAL> kısmı...
+44|...bizi mi kastediyor?
+45|Peki <CLT=cltSTRONG>geleceğin umut tohumları<CLT=cltNORMAL> ne anlama gelebilir?
+46|Ve bu <CLT=cltSTRONG>yeni dünya<CLT=cltNORMAL> olayı ne?
+47|Bu... Nuh'un Gemisi gibi.
+48|Ha? Nuh'un Gemisi mi?
+49|Şey... Nuh'un Gemisi gofer ağacından yapılmıştı.
+50|Ne? A-Ah evet! Haklısın!
+51|Tabii ki bu sadece Kutsal Kitap'tan bir hikâye.\nAma özellikle o ismi seçmek...
+52|Bağlantılı gibi görünüyor...
+53|<CLT=cltMIND>Ama bütün bunların akademiyle ne\nilgisi var? Bizimle?
+54|Çık, bunların hiçbiri mantıklı değil.
+55|Sıradaki <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı bulursak\nbununla ilgili bir şey hatırlayabiliriz...
+56|Sen söyleyince... nerede o?\nBu laboratuvarda değil gibi...
+57|Yani başka bir yerde olmalı!\nÖnce onu aramalıyız.
+58|Haklısın... Burası artık bizim için işe yaramaz.
+59|Bunu duymamış gibi yapacağım...\nÇünkü <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı bulmalıyız!
+60|<CLT=cltMIND>Bir <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND>...\nSon umudumuz.
+61|<CLT=cltMIND>Ama o Monokuma'nın yarattığı\nbir şey...
+62|<CLT=cltMIND>Monokuma'nın dokunduğu bir şeye\nbağımlı olmak istemiyorum.
+63|<CLT=cltMIND>Ama yapabileceğimiz bir şey yok.\nAnılarımızı geri getirmenin başka yolu yok.
+78|<CLT=cltMIND>Bununla tavana yıldız yansıtabilirsin.\nEpey bir tesis.
+79|<CLT=cltMIND>Bir pencere var...\nOkulu ve avluyu görebiliyorum.
+80|Epey yüksek... Ama sanırım merdivenin\nboyundan bu belli.
+81|Görünüşe göre burası en üst kat.
+82|Yani benim odam en tepede mi!?
+83|Evet, ne olmuş?
+## c05_002_219
+0|<CLT=cltMIND>Burası... bir banyo. Uzun zamandır\nkullanılmamış gibi görünüyor.
+1|Sanırım mantıklı, eminim uzun zamandır buraya\ngiren ilk kişi benim...\n
+2|Monokuma ve Monoyavruların kesinlikle\ntuvalete ihtiyacı yok.
+3|<CLT=cltMIND>Ama o zaman... burada neden bir banyo\nvar ki?

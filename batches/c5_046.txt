@@ -1,0 +1,34 @@
+@ chap5_text_US
+## c05_101_287
+111|Dün gördüğüm manzarayı hatırlıyorum...
+114|<CLT=cltMIND>Kokichi uzaktan kumandayla Exisal'ları\nkontrol edebiliyor...
+115|<CLT=cltMIND>Ama Monokuma'nın bunları bana neden\nsöylediğini anlamıyorum.
+116|<CLT=cltMIND>Ama başka birinde bu bilgi vardı\nve bunu kendine sakladı.
+117|<CLT=cltMIND>Monokuma böyle dedi...
+118|<CLT=cltMIND>Benden başka biri biliyor ve\nsöylemiyor.
+119|<CLT=cltMIND>O kişi... bu davaya karışmış\nolabilir mi?
+120|<CLT=cltMIND>Burası banyo penceresi.
+121|<CLT=cltMIND>Bu hangarın tek penceresi ve\niçinden geçmek mümkün değil.
+122|Yani bu hangara girmenin tek yolu\nkepenk.
+126|<CLT=cltMIND>Hangarın kepengi...
+127|<CLT=cltMIND>Burada bir güvenlik alarmı var.
+128|<CLT=cltMIND>Kepenge yaklaşmak için alarm kumandasıyla\nonu devre dışı bırakmalısın.
+129|<CLT=cltMIND>Kumanda olmadan kepenge\nyaklaşırsan...
+130|<CLT=cltMIND>Bütün akademide yüksek bir alarm\nçalar.
+131|<CLT=cltMIND>Sensörü ve alarmı devre dışı bırakmak için\nbir Elektro Bomba kullanmak zorunda kaldık.
+132|<CLT=cltMIND>Hangara böyle girdik.
+139|<CLT=cltMIND>Şimdi düşününce...\ntoplam üç Elektro Bomba vardı.
+140|<CLT=cltMIND>Birini Maki çaldı,\npeki ya diğer ikisi?
+141|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Elektro Bomba<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+142|<CLT=cltMIND>Burada bir sensörlü alarm var.
+150|<CLT=cltMIND>Bu, hangarı koruyan elektrikli bariyeri\nkontrol eden kontrol paneli.
+151|<CLT=cltMIND>Ona Elektro Çekiçle vurduk,\nyani şu an çalışmıyor.
+152|Doğru...\nBuradaki izler ne?
+153|<CLT=cltMIND>Keskin bir şeyle vurulmuş gibi\ngörünüyor. Bunlar ne olabilir?
+154|Ah, dur... buna en başta nasıl hasar\nverebildiler ki?
+155|Kontrol paneline yaklaşmak alarmın\nçalmasına sebep olmalı.
+156|Yaklaşmadan önce bile alarmı\nkapatman gerekiyor...
+157|<CLT=cltMIND>Peki bunu yapan kişi kontrol paneline\nnasıl yaklaştı?
+158|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Hangarın Ön Kepengi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+161|Doğru, merak ediyordum...\nBuradaki izler ne?
+169|<CLT=cltMIND>Exisal hiçbir hareket belirtisi\ngöstermiyor.
