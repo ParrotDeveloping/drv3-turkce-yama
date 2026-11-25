@@ -1,0 +1,71 @@
+@ chap2_text_US
+## c02_300_331
+308|Sen...tanıdığım en iğrenç\naşağılık mahluksun.
+309|Ne yapmaya çalışacağımı tam olarak biliyordun\nama yine de açıklamama izin verdin.
+310|Dur, az önce söylediği doğru muydu!?
+311|Sen...Gonta'yı kandırmaya mı çalıştın!?\nHerkesi kandırmaya mı!?
+312|Cidden mi!? Seni arkadan bıçaklayan orospu!
+313|Yeter! O sadece kendi yolunca hayatta\nkalmaya çalışıyordu.
+314|Bunun için kimse onu suçlayamaz!
+315|Doğru... Hayatta kalmalıyım...
+316|Çünkü...bütün bir milletin yükünü\nomuzlarımda taşıyorum.
+317|Bu kadar kolay vazgeçseydim Ryoma'yı\nöldürmezdim.
+318|Bu istek, bu milletin her vatandaşına sevinç\ngetirene kadar yerine gelmiş olmayacak...
+319|O yüzden ne olursa olsun ölemem!
+320|Bu yüzden Ryoma'yı öldürdüm!\nŞu an bile pes etmeyi reddediyorum!
+321|Kirumi...?
+322|Hâlâ pes etmeyi reddediyorsun.\nPeki...ne yapmayı düşünüyorsun?
+323|Yaşamayı düşünüyorum...
+324|Hayatta kalmalıyım...ne pahasına olursa olsun...
+325|Kendimi alçaltmam gerekiyorsa öyle olsun!\nHayatta kalmak için pislik içer, leş yerim!
+326|Hayatta kalmak için her şeyi—HER ŞEYİ!—yaparım!
+327|<CLT=cltMIND>Çığlık attı...\nve koşmaya başladı.
+328|AAAAAAAAHHHHHHHHHH!!!!!
+329|<CLT=cltMIND>Gördüğüme inanamıyordum.
+330|<CLT=cltMIND>Tamamen onursuz bir\nkaçıştı.
+331|Kaçmalıyım! Burada ölmeyeceğim!
+332|Puhuhuhuhu! Buradan çıkmana izin\nvermemin imkânı yok!
+333|AAAAAAAAAAAAAHHHHHHHHH!!!!!
+334|<CLT=cltMIND>Çirkin, çiğ ve vahşiydi...\nSadece olabildiğince hızlı koştu.
+335|<CLT=cltMIND>...Sesimin seslendiğini duydum.
+336|K-Kaç...
+337|Kaç! Kaç, Kirumi!!!
+338|Lütfen kaaaç!!!
+339|Kaç! Lütfen acele et!
+340|Acele et! Kaç!
+341|Dediğim gibi...gitmene izin vermiyorum.
+342|Lütfen! Kaaaaaç!!!
+343|Yaşayacağım! Böyle bir cehennem çukurunda\nölmeyi reddediyorum!
+344|Pekala, <CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL> Kirumi Tojo için\nözel bir ceza hazırladım!
+345|Milletim için! Halkım için!
+346|Elimizdeki her şeyi verelim!\nVe...CEZA VAKTİ!!!
+347|ÖLMEYECEĞİİİİİİİİİM!!!!!
+350|Bir sorun mu var?
+351|<CLT=cltSYSTEM>Alandan çıkılsın mı?
+## c02_301_331
+1|...BLÖĞBLRBLÖĞBLRBLÖĞ!
+2|N-Neden Monodam...?\nMonosuke'yi neden öldürdün...?
+3|...BLÖĞBLRBLÖĞBLRBLÖĞ!
+4|KUSMAN-GEREKİYORSA...ÇIKAR.\nSONRASINDA-ÇOK-DAHA-İYİ-HİSSEDECEKSİN.
+5|MONOSUKE... MONOKID'DEN-HİÇBİR-\nFARKI-YOKTU.
+6|ANLAŞMAMIZIN...ÖNÜNDE-ENGEL-\nOLUYORDU.
+7|ONA-İHTİYACIMIZ-YOK.
+8|O-Ona ihtiyacımız yok mu...?
+9|GERİYE-KALAN-BİRKAÇ-MONOYAVRU...\nANLAŞMAK-ZORUNDA.
+10|NE-OLURSA-OLSUN...\nHER-ZAMAN-ANLAŞMAK-ZORUNDAYIZ.
+11|BABAM-BİLE-ANLAŞMAMIZI-\nENGELLEYEMEZ.
+12|KENDİ-İYİLİĞİNİ-BİLİYORSA-\nENGELLEMEZ.
+14|BU-AKADEMİ-BİZE-AİT...\n<CLT=cltSTRONG>MONOYAVRU-ÇAĞI<CLT=cltNORMAL>-ŞİMDİ-BAŞLIYOR.
+15|...HA-HA-HA-HA.
+16|...BLÖĞBLRBLÖĞBLRBLÖĞBLRBLÖĞ!
+17|B-Benimle o asi ses tonuyla konuşmaya\nnasıl cüret edersin, delikanlı...
+18|Ve yine de bu bunalımlı tavrın\nçok tatlı!
+19|Küçük ekibinin bir üye küçülmesi\nçok tatlı!
+20|Evet, küçüldü! Hiç de büyümüyorsun,\nbiliyorsun değil mi!?
+21|Ahhh... Dayanılmaz derecede tatlı...
+22|Bütün bu tatlılık bana hapşıracakmışım\ngibi hissettiriyor...
+23|Hap...hap...hap...
+24|Hapşı-çirkin kaltak!
+25|Sen kime çirkin kaltak diyorsun!?
+26|Önemli değil!\nŞimdi onun sırası değil!
+27|Ghhh... Kirumi!

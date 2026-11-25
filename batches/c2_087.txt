@@ -1,0 +1,57 @@
+@ chap2_text_US
+## c02_209_000
+11|Ryoma'nın cesedi merdivende saklanmış\nolamaz.
+12|Ya yakalanmamak için Ryoma'nın cesediyle\nbirlikte o boşluğa sıkıştılarsa!?
+13|O noktada ona tanık olmamızdan\nendişelenmesine gerek yoktu.
+14|Çünkü bütün sahne bir perdenin arkasına\ngizlenmişti. Gonta dışında herkese, tabii.
+15|O zaman suçlu cesetle birlikte merdivenin\niçine saklanmayı asla düşünmezdi.
+16|Cesedi taşıdıktan *sonra* merdivene girmek çok\ndaha hızlı ve daha mantıklı görünüyor!
+17|Yani...Ryoma'nın cesedi merdivende\nsaklanmamış mı?
+18|Biri şu lanet cesedin nerede saklandığını\nsöylese iyi olur, yoksa boğaz kesmeye başlayacağım!
+19|<CLT=cltMIND>Ryoma'nın cesedi nerede saklandı...?\nBunu netleştirmemiz lazım.
+20|<CLT=cltMIND>Merdivenin içinde olmadığı belli.\nAma nerede?
+## c02_210_000
+0|Ama doğru, değil mi?
+1|Siz lanet bakirler beni dinliyor musunuz!?\nCeset merdivende değilse neredeydi!?
+3|Araştırırken gizli kapı falan bulmadık,\ndeğil mi?
+5|...Gerçekten görsel efekt var mıydı?\nÖyle bir şey görmedim.
+7|Katılmana sevindim...\nAma nasıl ayrılmış olabilirler?
+8|Belki etrafta bu amaçla kullanılmış\nolabilecek bir şey vardı...?
+10|<CLT=cltMIND>Aynı tankta olmasına rağmen neden\npiranalar tarafından yenmedi?
+11|<CLT=cltMIND>Bence Kiyo ayrılmadan bahsederken\nbir şeyin peşindeydi...
+12|<CLT=cltMIND>Aynı tankta olmasına rağmen neden\npiranalar tarafından yenmedi?
+13|<CLT=cltMIND>Olay yerinde bunu açıklayabilecek\nbir delil vardı!
+14|<CLT=cltMIND>Aynı tankta olmasına rağmen neden\npiranalar tarafından yenmedi?
+15|<CLT=cltMIND>Olay yerinde bunu açıklayabilecek\nbir delil vardı!
+## c02_210_001
+0|Ryoma'nın cesedini <CLT=size2>nerede\n<CLT=size2>saklıyordunuz!?
+1|Ryoma'nın cesedini nerede saklıyordunuz!?
+2|Aslında <CLT=size2>merdivende\n<CLT=size1>değildi,<CLT=size2> değil mi?
+3|Aslında merdivende değildi, değil mi?
+4|Sonuçta <CLT=cltAGREE>orada sadece <CLT=size2>Himiko'ya
+5|Sonuçta orada sadece\nHimiko'ya yetecek kadar yer vardı.
+6|<CLT=cltAGREE><CLT=size2>yetecek kadar yer vardı<CLT=cltNORMAL>.
+8|Peki ya perdenin arkası!?
+9|peki ya
+10|<CLT=size2>perdenin
+11|<CLT=size2>arkası!?
+12|Oradan <CLT=cltAGREE>tanka <CLT=size2>girmenin<CLT=size1>
+13|Oradan tanka girmenin bir yolu olsaydı...
+14|<CLT=cltAGREE>bir <CLT=size2>yolu<CLT=cltNORMAL><CLT=size1> olsaydı...
+15|o zaman
+16|o zaman makul olurdu.
+17|<CLT=size2>makul olurdu.
+18|Ya da belki <CLT=size2>ceset<CLT=size1> baştan beri <CLT=size2>tanktaydı<CLT=size1>...
+19|Ya da belki ceset baştan beri tanktaydı...
+20|ama biz <CLT=size2>göremedik!
+21|ama biz göremedik!
+22|İmkânsız. Bunu başarmak
+23|İmkânsız. Bunu başarmak için birinci sınıf görsel efektler gerekir.
+24|<CLT=size2>birinci sınıf<CLT=size1>\ngörsel efektler
+25|için gerekir.
+26|<CLT=cltAGREE><CLT=size2>birinci sınıf\n<CLT=size1>görsel efektler
+27|Peki ya
+28|Peki ya piranaların olduğu tank?
+29|<CLT=size2>piranaların<CLT=size1> olduğu
+30|<CLT=size2>tank?
+31|Olmaz. Oraya bir\n<CLT=size2>ceset<CLT=size1> koysaydın...

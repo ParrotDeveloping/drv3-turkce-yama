@@ -1,0 +1,51 @@
+@ chap2_text_US
+## c02_213_000
+29|<CLT=cltMIND>Kokichi'ye göre bir kişi şüpheliler\narasından çıkarılabilir...
+30|<CLT=cltMIND>Gördüğü <CLT=cltSTRONG>siluetten<CLT=cltMIND> bahsediyor olmalı.\nO kişinin kesinlikle bir mazereti olurdu...
+31|<CLT=cltMIND>Onun kim olduğunu\nnetleştirmemiz lazım.
+32|<CLT=cltMIND>Bunun anahtarı Kokichi, Gonta ve Miu'nun\nifadelerinde yatıyor.
+33|<CLT=cltMIND>Bildiklerimize göre Kokichi'nin gördüğü\no siluet şu olmalı...
+36|Bence...Kaito şüpheliler arasından\nçıkarılabilir.
+37|İyi dedin, Shuichi!\nİşte benim yardımcım!
+38|Non, non! Mazereti yokken Kaito'yu şüpheliler\nlistesinden nasıl çıkarırsın?
+41|Bence...Maki şüpheliler arasından\nçıkarılabilir.
+42|O sırada Maki kendi araştırma laboratuvarında\ntek başına değil miydi?
+43|Muhtemelen onu şüpheliler listesinden\nçıkarmamalıyız...
+46|Ne bekliyorsun, Shuichi!?
+47|Herkesin ifadelerini hatırla, cevap\nnet olmalı!
+49|<CLT=cltMIND>Şüpheliler arasından çıkarılabilecek\nkişi...
+50|Kokichi, bahsettiğin kişi...\n<CLT=cltSTRONG>Miu<CLT=cltNORMAL>, değil mi?
+51|Neee—!? Miu mu!?
+52|Evet, onu listeden çıkarabilirsin.\nAslında bir mazereti var.
+53|İşte bu! Yiyin bunu, inekler!
+54|Bir saniye! Ne zamandan beri bir\nmazereti var!?
+55|Herkesin ifadesini karşılaştırırsan başka\nbir ihtimal yok.
+56|Ah evet... Kirumi bana nutuk atarken tuhaf\nbir şey gördüm.
+60|...Yarı çıplak dolaşan bir kız mı?
+61|Azgın teşhirci Miu'dan başka kim\nolabilir ki?
+62|B-Böyle hemen sonuca atlayamayız...\nSadece bir gölge gördü, değil mi?
+63|Kadın iç çamaşırıyla dolaşan herhangi biri\nolabilirdi! Ben bile!
+64|O bambaşka bir mesele olurdu...
+65|Hayır, Miu. Şüphesiz...\nMiu ile Gonta'nın ifadeleri bunu kanıtlıyor.
+71|Anlıyorum, anlıyorum... Görünüşe göre Gonta\ngözlerinin pasını silmiş, hı?
+72|Ne!? Neden iç çamaşırınlaydın lan,\nMiu!?
+73|Ş-Şey çünkü, bilirsin...\nEpey dolgunum, o yüzden...
+74|Kıyafetlerimi çıkarırsam Gonta bana dokunamayacak\nkadar şaşkına döner diye düşündüm!
+75|Heh, heh, heh! Benim hikâyem bu ve\nbundan şaşmıyorum, hamamböcekleri!
+76|Neyse, bence Gonta süper utandığı için\nkanı iki kafasına birden hücum etti!
+77|Miu iç çamaşırıylaydı...\nve Gonta...tuhaf hissetti...
+78|O yüzden...Gonta kaçtı...
+79|Eh, tanrıça gibi bir vücudun varsa onu\nsergilemek istemen çok doğal!
+80|Oğlanlara sürekli külotumu gösteririm!
+81|Yani gerçekten *sürekli*!
+82|O yüzden rica ederim, Gonta! Bir sonraki\nkendini rahatlatma seansında beni düşün!
+83|Çoğu anlaşılmaz saçmalıklardı ama görünüşe\ngöre Miu'nun gerçek bir mazereti var.
+84|Evet. Biraz sürdü ama en azından herkesin\nmazeretlerini netleştirdik...
+85|Bu olayları yeniden hatırlamamız gerekirse\ndiye bunların hepsini aklımızda tutmalıyız.
+86|<CLT=cltSYSTEM><CLT=cltSTRONG>Dünkü Mazeretler<CLT=cltSYSTEM> Monopad'e\nkaydedildi.
+87|Geriye...mazereti olmayan tek kişiler\nolarak Kaito ile Maki kalıyor.
+88|O zaman biri suçlu olmalı!\nAma hangisi, acaba?
+89|İğne iğne, ucu düğme!\nSuçluyu yakala, kim olursa—
+90|D-Dur bir dakika! Hemen karar verme!
+92|<CLT=cltMIND>İki baş şüpheli...\nKaito ile Maki...
+93|<CLT=cltMIND>Ama...içimden bir şey...\nKaito'yu suçlamak istemiyor.

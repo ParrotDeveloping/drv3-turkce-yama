@@ -1,0 +1,46 @@
+@ chap2_text_US
+## c02_102_134
+6|<CLT=cltSTRONG>Ultimate Mahkum Araştırma Laboratuvarı<CLT=cltNORMAL>...
+8|Pekala, sıradaki yere!\nBurada kalmanın anlamı yok!
+16|<CLT=cltMIND>Bu pencereyi...ne sarmaşık, ne dikenli\ntel, ne de parmaklık kapatıyor.
+17|<CLT=cltMIND>Bir de havuz alanından görebildiğim\no pencere vardı...
+18|<CLT=cltMIND>Muhtemelen o pencere bu.\nEmin olmak için açmalıyım.
+19|Tam şüphelendiğim gibi...
+20|Havuzdan görülen pencere Ryoma'nın\nlaboratuvarının penceresiymiş.
+21|Hıh, havuz demek...
+22|Hm? Bir dakika. 3. kattayız,\nyani epey yüksekteyiz, değil mi?
+23|Tam doğru yaparsan buradan doğrudan\nhavuza atlayabilirsin bence.
+24|Evet...ve gece dışında her zaman\nyüzebilirsin.
+25|Bu okul kurallarında da havuz alanındaki\nkurallarda da yazıyordu.
+26|Anlıyorum... Eh, ben yüzmek istemiyorum,\no yüzden beni pek ilgilendirmiyor.
+27|Bir saniye, bu ne?
+29|Bak, pencere çerçevesinde tuhaf\nçizikler var.
+30|Haklısın...burada belirgin aşınmalar var.
+31|<CLT=cltMIND>Bu izler...spor salonunun pencere\nçerçevesindekilere benziyor.
+32|<CLT=cltMIND>Bu izlerin pencereyi normal açıp\nkapamaktan kaynaklanmadığından eminim.
+33|<CLT=cltMIND>Bu pencere çerçevesi de sağlam...\nSpor salonununki de öyleydi.
+34|<CLT=cltMIND>Üzerine çok ağırlık binse bile\ndayanacak gibi görünüyor.
+35|Şimdi anladın. Değil mi, Shuichi?
+37|Böyle süper, ultra önemli bir ipucunu fark\netmem ne kadar muhteşem...
+38|Yıldızların Işığı Kaito Momota için\nbunlar sıradan işler!!!
+39|<CLT=cltMIND>Yani ben de epey önemli bir ipucu buldum...\nama bunu söylemeyeceğim.
+40|<CLT=cltSYSTEM>Monopad'inin Gerçek Mermileri bölümündeki\n"<CLT=cltSTRONG>İzli Pencere Çerçevesi<CLT=cltSYSTEM>" güncellendi.
+41|<CLT=cltMIND>Bu pencereyi...ne sarmaşık, ne dikenli\ntel, ne de parmaklık kapatıyor.
+42|<CLT=cltMIND>Ve bu pencere kesinlikle havuz alanından\ngördüğüm pencere.
+43|<CLT=cltMIND>3. katta olduğu için epey yüksek ama\nburadan havuza atlanabilir.
+44|<CLT=cltMIND>Ama kurallara göre gece havuza\ngirilemez.
+45|Bu pencereyle ilgili en önemli\nkeşif...
+46|Pencere çerçevesindeki tuhaf çizikler!
+47|Onu ben buldum, o yüzden süper, ultra önemli\nbir ipucu olduğuna şüphe yok!
+48|E-Evet...\nBu önemli bir ipucu...
+49|<CLT=cltMIND>Bu izler...spor salonunun pencere\nçerçevesindekilere benziyor.
+50|<CLT=cltMIND>Bu izlerin pencereyi normal açıp\nkapamaktan kaynaklanmadığından eminim.
+51|<CLT=cltMIND>Bu pencere çerçevesi de sağlam...\nSpor salonununki de öyleydi.
+52|<CLT=cltMIND>Üzerine çok ağırlık binse bile\ndayanacak gibi görünüyor.
+53|<CLT=cltMIND>Bu pencereyi...ne sarmaşık, ne dikenli\ntel, ne de parmaklık kapatıyor.
+54|<CLT=cltMIND>Yoksa...?
+55|<CLT=cltMIND>Havuz alanından görebildiğim\no pencere vardı...
+56|<CLT=cltMIND>Bu o olabilir.\nAçıp kontrol edeceğim.
+57|Evet, kesinlikle bu!
+58|Havuz alanından gördüğüm pencere Ryoma'nın\nlaboratuvarının penceresi.
+59|3. kat yüksek ama iyi nişan alırlarsa\nhavuza ulaşabilirler...

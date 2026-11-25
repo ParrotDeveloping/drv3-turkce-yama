@@ -1,0 +1,54 @@
+@ chap2_text_US
+## c02_102_191
+123|Buralarda simidi almak için kullanılabilecek\nbir sırık falan yok.
+124|Su seviyesi o kadar düşük ki yaklaştırmayı\nbaşarsan bile simidi tutamazsın.
+125|O zaman neden atlayıp eliyle çıkarmamış\nki?
+126|Oh! Doğru ya! Suya giremezlerdi!
+127|<CLT=cltMIND>Suya giremezlerdi...\nEvet, sanırım öyle de düşünülebilir.
+128|Eh, burada sonsuza kadar kalamayız, değil mi?\nGidip diğer yerlere bakalım.
+129|Kaybedecek vakit yok!\nÖyle değil mi, yardımcı!?
+130|Evet, tabii.
+## c02_102_254
+0|<CLT=cltMIND>Bu anıtın davayla bir ilgisi yok gibi.\nŞimdilik onu rahat bırakacağım.
+1|Havuz Girişi, Zelda Düzeneği Bitkisi.
+3|Ama bu davayla hiç ilgili olduğunu sanmıyorum.
+## c02_104_257
+0|...Herkes hazır mı?
+1|Başka seçeneğimiz yok ki, değil mi?
+2|Kehehe... Çabuk kavrıyorsun.\nSanki Monokuma seni eğitmiş gibi.
+3|Endişelenecek bi' şeyimiz yok. Değil mi, pislikler?\nSuçluyu bulacağız, değil mi?
+4|Elbette endişelenmemize gerek yok. Bu sefer\nbaş şüpheli süper belli.
+5|...Değil miii, Himiko?
+7|Himiko'ya zorbalık etmeye nasıl cüret edersin, yoz\nherif! Aikido darbesiyle kafanı uçurmamı mı istiyorsun!?
+8|Bu...artık Aikido bile değil, değil mi?
+9|Bu mesele <CLT=cltSTRONG>zamanı gelince<CLT=cltNORMAL> konuşulacak.\nTartışmalarınızı o zamana saklayın.
+10|Evet, buna Sınıf Duruşması'nda bir son\nverelim.
+11|Evet...haklısın.
+12|Shuichi...oraya gitmeden önce sana kahramandan\nyardımcıya bir tavsiye vereyim.
+13|Pes etmek istiyorsan önce elinden gelen\nher şeyi yaptıktan sonra pes et!
+14|Dur, hayır. Bu da olmadı...\nTamam! Pes edersen seni affetmem!
+15|Anladın mı?
+16|Evet...anladım, Kaito.
+17|<CLT=cltMIND>Haklı...pes edemem.\nKaede'ye söz verdim.
+18|Gonta...arkadaşlarından şüphelenmek istemiyor...
+19|Bu dava çooook kolay olacak. Özellikle de\nbaş şüpheli bu kadar belliyken.
+20|...Değil miii, Himiko?
+22|Erkeklerin ilgisini çekmek için hoşlandıkları kızlara\nsataştığını duydum! Demek Kokichi, Himiko'dan hoşlanıyor!
+23|Ha!? Nereden bildin!?
+24|Aslında neden Sınıf Duruşması'na odaklanıp\nbu konuşmayı sonraya saklamıyoruz?
+25|Nişişi... Bu iş sonuçta o kadar da sıkıcı\nolmadı.
+27|Bu cinayet de Monokuma'nın <CLT=cltSTRONG>motifi<CLT=cltNORMAL>\nyüzünden tetiklenmedi mi?
+28|Yani...suçlunun çaresizce yaşamak istemesinin\nbir sebebi var, değil mi?
+29|Ve kurban olan Ryoma'nın...yaşamak için\nhiçbir sebebi yoktu, doğru mu?
+30|Ne ima ediyorsun?
+31|Yaşamak için bir sebebin olduğu için öldürmek...\nYaşamak için bir sebebin olmadığı için ölmek...
+32|Acaba hangisi...doğru?
+33|Bunu fazla düşünüyorsun...\nCanlılar yaşamalıdır, o kadar.
+34|Neyse, bize ne olursa olsun\nyaşamalıyız!
+35|Evet... Yaşamak için bir sebebe pek gerek yok.\nO sadece pastanın üstündeki krema.
+36|<CLT=cltMIND>Yaşamak için bir sebep...
+37|Bu şartlar altında yine burada toplanacağımızı\nhesaplamamıştım...
+38|Kaede bizi şu an görse ne derdi\nacaba...?
+39|Bu mesele zamanı gelince konuşulacak.\nTartışmalarımızı o zamana saklamalıyız.
+40|Nyeh... Nyeeeh...
+41|B-Bu koca şey kocaman bir vibratör gibi\nt-titriyor!

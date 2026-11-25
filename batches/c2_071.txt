@@ -1,0 +1,51 @@
+@ chap2_text_US
+## c02_102_134
+60|Ama Monokuma gece havuza girilemeyeceğini\nsöylemişti, değil mi?
+61|Biri okul kurallarını çiğnerse bütün\nkampüste bir siren çalar...
+62|Ve o kişi Exisal'lar tarafından paramparçaaaa\nedilir!
+63|O-O kadar ileri mi gidersin?
+64|Eh, şimdiye kadar siren çalmadı.\nYani kimsenin paramparça edilmesi gerekmedi...
+65|...henüz. Puhuhu.
+66|Bu henüz olmadığına göre...gece spor salonunda\nya da havuzda kimse yoktu diyebilir miyiz?
+67|...Eh, en azından canlı kimse yoktu.
+68|Neden "canlı kimse" dedi?
+69|Bence ölü birinin "kuralları çiğnemiş"\nsayılmayacağını ima ediyordu.
+70|Yani gece spor salonunda ya da havuzda bir\nceset bulunmuş olması mümkün...
+71|Yani Ryoma öldürüldükten sonra spor salonuna\ntaşınmış olabilir mi?
+72|Ama bak, içeri giremiyorsan cesedini oraya\ntaşımanın hiçbir anlamı yok.
+73|Ah, *hiçbir* anlamı olmadığını söylemek\nne kadar doğru bilmiyorum...
+77|Evet... Sanki bir şey sürtünmüş gibi.
+82|Şimdi anladın, değil mi Shuichi?
+92|Biri okul kurallarını çiğnerse bütün\nkampüste bir siren çalar...
+93|Ve o kişi Exisal'lar tarafından paramparçaaaa\nedilir!
+94|O-O kadar ileri mi gidersin?
+95|Eh, şimdiye kadar siren çalmadı.\nYani kimsenin paramparça edilmesi gerekmedi...
+96|...henüz. Puhuhu.
+97|Bu henüz olmadığına göre...gece spor salonunda\nya da havuzda kimse yoktu diyebilir miyiz?
+98|...Eh, en azından canlı kimse yoktu.
+99|"Canlı kimse" demesinin sebebi...
+100|...ölü biri olsaydı okul kurallarını\nçiğnemiş olmayacağını ima etmesiydi.
+101|Yani gece bir cesedin havuza ya da spor\nsalonuna girmesi sorun olmazdı...
+102|Ryoma öldürüldükten sonra spor salonuna\ntaşınmış olabilir, değil mi?
+103|Ama bak, içeri giremiyorsan cesedini oraya\ntaşımanın hiçbir anlamı yok.
+104|Ah, *hiçbir* anlamı olmadığını söylemek\nne kadar doğru bilmiyorum...
+105|Neyse!\nBu keşfe odaklanmamız lazım!
+106|Pencere çerçevesindeki tuhaf çizikler...
+107|Onları ben buldum, o yüzden süper, ultra önemli\nbir ipucu olduklarına şüphe yok!
+111|<CLT=cltMIND>Bu pencere çerçevesi de sağlam...
+112|<CLT=cltMIND>Spor salonununki de öyleydi.
+114|<CLT=cltMIND>İşte oradalar... Kelepçeler.
+115|Bak, Kaito.\nDuvarda asılı kelepçeler.
+116|Oh, tanktakilere benziyorlar.\nYoksa, *aynılar* mı?
+117|Bence öyle...\nŞuraya bak.
+118|Gördün mü? Bir askı boş. Bulduğumuz\nkelepçeler burada asılı olmalı.
+119|<CLT=cltMIND>Yani suçlu kesinlikle\nburadaydı...
+120|<CLT=cltSYSTEM>Monopad'inin Gerçek Mermileri bölümündeki\n"<CLT=cltSTRONG>Çizik Kelepçeler<CLT=cltSYSTEM>" güncellendi.
+121|<CLT=cltMIND>Bir askı boş kalmış...\nKelepçeler buradan gelmiş olmalı.
+122|<CLT=cltMIND>Yani suçlu kesinlikle\nburadaydı...
+123|<CLT=cltMIND>Epey büyük bir taş lavabo.\nİçine bir sürü su doldurabilirsin...
+124|Hm? Bu ne...?
+125|Taşta çizikler...\nsanki bir şey sürtünmüş gibi.
+126|Haklısın... Bunları ne yapmış?
+127|Bu çizik izleri açıkça doğal değil.\nBir tür metal tarafından yapılmış olmalılar.
+128|Bu *gerçekten* ilginç...

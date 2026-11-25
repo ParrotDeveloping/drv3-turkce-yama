@@ -1,0 +1,60 @@
+@ chap2_text_US
+## c02_015_010
+151|<CLT=cltMIND>Tenko'nun dediği gibi...\nHimiko ile Angie tuhaf davranıyordu.
+152|<CLT=cltMIND>Muhtemelen en iyisi onlara doğrudan\nsormak.
+163|<CLT=cltMIND>Tenko'nun dediği gibi...\nHimiko ile Angie tuhaf davranıyordu.
+164|<CLT=cltMIND>Muhtemelen en iyisi onlara doğrudan\nsormak.
+## c02_015_101
+0|<CLT=cltMIND>Kokichi ile Gonta...
+1|<CLT=cltMIND>Angie ile Himiko...
+2|<CLT=cltMIND>Ve...Ryoma.\nMaki de.
+3|<CLT=cltMIND>Herkes darmadağın...\nAma onları öylece bırakmamalıyım.
+4|<CLT=cltMIND>Yapabileceğim bir şey olmalı...\nEvet, bu konuda bir şeyler yapacağım!
+## c02_016_001
+0|Serbest Zaman 5\nŞimdilik böyle devam et.
+1|*Angie ile Himiko orada değil (Spor Salonu).
+2|*Spor salonunun kapısı "Personel Harici Girilmez"\nyazan büyülü tılsımlarla mühürlü.
+## c02_016_042
+1|<CLT=cltMIND>Spor salonuna açılan kapıya küçük\ntılsımlar asılmış.
+2|<CLT=cltMIND>Doğru ya, büyü gösterisinin spor\nsalonunda olacağını söylemişlerdi...
+3|<CLT=cltMIND>Sanırım hazırlık yaparlarken kimsenin\ngirmesine izin yok.
+4|<CLT=cltMIND>Spor salonuna açılan kapıya küçük\ntılsımlar asılmış.
+5|<CLT=cltMIND>Sanırım büyü gösterisini hazırlarlarken\nkimsenin girmesine izin yok.
+## c02_016_101
+0|<CLT=cltMIND>Kumarhaneye gitmeliyim.\nMiu'ya söz verdim sonuçta...
+1|<CLT=cltMIND>Kokichi ile Gonta...
+2|<CLT=cltMIND>Angie ile Himiko...
+3|<CLT=cltMIND>Ve...Ryoma.\nMaki de.
+4|<CLT=cltMIND>Herkes darmadağın...\nAma onları öylece bırakmamalıyım.
+5|<CLT=cltMIND>Yapabileceğim bir şey olmalı...\nEvet, bu konuda bir şeyler yapacağım!
+## c02_016_147
+4|<CLT=cltMIND>Burada bir sürü çamaşır makinesi var...
+## c02_016_241
+88|Bekle, Shuichi!
+89|Ha? Kokichi?\nVe...Kiyo ile Ryoma?
+90|Görünüşe göre bu tüysüz bakir bizi\ngizlice dinliyormuş.
+91|Nişişi... Kötü bir yüce lider olarak büyük ikramiyeyi\nkazanmanı izleme fırsatını kaçıramam!
+92|Ryoma ile ben de yeni geldik.
+93|Burası epey şüpheli...\nİyice araştırsak iyi olur.
+94|Eee, ne oldu? Shuichi'nin madalyasıyla gizli\nbir oyun oynayabiliyoruz, değil mi?
+95|Ne? O kuralı kim uydurdu?
+96|Sen, salak!? Başka kim olabilir ki!?
+97|Ama ben değildim.
+98|D-Dalga geçmeyi kes lan!
+99|Aptal numarası yapmıyorum! Asla yalan söylemem!\nÇünkü ayılar yalan söylemez!
+100|Pek ikna edici değil...
+101|Her şeyden önce, o madalya sadece Monoyavrular\niçin yaptığım özel bir biblo.
+102|Sizde olması için bir sebep yok.\nİstersen slot makinesine at.
+103|<CLT=cltMIND>Yani özel bir eşya olması gerekirken\nyine de kullanabiliyor muyuz?
+104|Neeeeee!? Yani yanlış bilgi mi aldım!?
+105|Tipik işe yaramaz Miu... Böyle yanlış bir bilgiyle\nkandırılmak tam da sana göre.
+106|Hıngggh!
+107|Eh, sadece yanlış bilgiyse sorun değil.\nZaten buraya gelme sebebim o değildi...
+108|Oh!? Siz burada ne yapıyorsunuz?
+109|Ah, Kaito?
+110|Senin burada ne işin var Kaito? Kumarı sonsuza\ndek bıraktığına yemin ettiğini sanıyordum.
+111|D-Dur bir dakika! Buraya kumar oynamaya\ngeldiğimi nereden çıkardın!?
+112|Buraya başka bir sebeple gelinir\nmi ki?
+113|Hayır, yanılıyorsun!\nBuraya kumar oynamaya gelmedim!
+114|Sadece Yıldızların Işığı Kaito Momota'nın\niçgüdülerinin neden yanıldığını anlamıyorum!
+115|Yani bu sefer kazanacağından emin misin?

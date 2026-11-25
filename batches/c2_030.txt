@@ -1,0 +1,54 @@
+@ chap2_text_US
+## c02_009_010
+77|Neyse, iş birliği yapmayacağımı söylediğime\ngöre sizin gibi ezikler ile görünemem...
+78|Hadi, Gonta. Gidelim.
+79|Ne? Gonta da mı!?
+80|Herkese <CLT=cltSTRONG>motif videolarını<CLT=cltNORMAL> değiş tokuş ettirmenin\nbir yolunu düşüneceğimize söz vermiştik, hatırladın mı?
+81|Neyse Kirumi, acıkınca sana haber veririm.
+82|D-Dur! Gonta söz mü verdi!?
+83|Gonta, onun yalan söylediğini neden\nanlayamıyorsun?
+84|Dalga geçmeyi bırak... "Kendi iyiliğimiz"\nmiymiş? Tabii canım. Yalanlarından bıktım.
+85|İşimiz bitti mi? O zaman ben gidiyorum.
+86|Kirumi, akşam yemeğimi sonra getir.
+87|Ben de gidiyorum...
+88|Bekle, Ryoma!
+89|Unutma. Hepimiz buradan sağ çıkmak için\nmücadele ediyoruz.
+90|O yüzden yolumuza çıkma...
+91|Yolunuza çıkmaya hiç niyetim yok.\nÖyle havasız bir şeyi asla yapmam.
+92|Kirumi, sonra odamı temizlemeni\nrica edebilir miyim?
+93|Kirumi'ye çok fazla yükleniyorsunuz.
+94|Benim için sorun değil... Başkalarına hizmet\netmek her hizmetçinin gerçek arzusudur.
+95|Ama insanları şımartmamalısın!\nÖzellikle de yozlaşmış erkekleri!
+96|Demek acı çekmemizin bir numaralı sebebi\niş birliğimizmiş, öyle mi?
+97|Kehehe... Acaba bu nasıl sonuçlanacak...?\nBüyük bir ilgiyle gözlemleyeceğim...
+98|Ah, ve Kirumi, gözlemlerimi senin kaydetmeni\nistiyorum. Düzgün yapacağına güveniyorum.
+99|Hah-hahaha! Senin gibi bir avuç eziğin\nyanında takılacak değilim herhalde!
+100|Gidip bir sıçayım, biraz da uyuyayım! Kirumi,\nbenim için bir icat düşün, tamam mı!?
+101|Vay be... Herkes Kirumi'ye daha ne kadar\nyüklenecek?
+102|İş yüküm ciddi biçimde arttı...\nBu daha taktiksel bir yaklaşım gerektiriyor.
+103|Hadi ama, onları şımartamazsın! Nankör\nasalaklara dönüşürler!
+105|...Dur, ne oldu Himiko?\nAcıktın mı?
+106|O zaman birlikte yiyelim mi!?\nKirumi, bir işkembe güveci lütfen!
+107|Tenko...ona daha fazla iş çıkarıyorsun...
+109|Ne oldu Himiko?\nİşkembe güveci sevmez misin?
+110|Anlamıyorsun Tenko. Himiko aç değil.
+111|Biliyorum, çünkü yüce Atua bende.
+112|Neyse! Hadi işkembe güvecinin tadını\nçıkaralım!
+113|Tanrım, çok dikkatsizsin Tenko.
+114|<CLT=cltMIND>Sonunda geride kalanlar olarak kahvaltıya\ntuhaf bir dokunuşla işkembe güveci yedik.
+115|<CLT=cltMIND>Ayrıca <CLT=cltSTRONG>motifleri<CLT=cltMIND> birbirimize\ngöstermeyeceğimize söz verdik.
+120|<CLT=cltMIND>Tuhaf şekilli bir monitör...
+121|<CLT=cltMIND>Bu yemekhane kurallarına benziyor.
+125|<CLT=cltMIND>Buradan dışarı çıkılabilir gibi duruyor...\nama tamamen kapatılmış...
+## c02_009_100
+0|<CLT=cltMIND>Önce Kaito'nun odasına bakmalıyım!
+5|<CLT=cltMIND>Titreyen ellerle kapı zilini çaldım...
+9|Cevap yok.\nÇoktan çıktı mı?
+10|<CLT=cltMIND>O zaman yemekhanede olmalı.\nOraya bakayım.
+11|<CLT=cltMIND>Önce Kaito'nun odasına bakmalıyım!
+15|<CLT=cltMIND>Bu Kaito'nun odası değil!\nHadi, sakin ol, kendini topla...
+16|<CLT=cltMIND>Kaito odasında değil gibi.\nYemekhaneye gitmeliyim!
+## c02_009_101
+0|Ihh... Çok fazla...kahvaltı...
+1|<CLT=cltMIND>Neyse...\nHep birlikte nasıl çalışabiliriz?
+2|<CLT=cltMIND>Keşke tek başıma bir şey yapabilsem\nama bu imkânsız...

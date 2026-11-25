@@ -1,0 +1,50 @@
+@ chap2_text_US
+## c02_102_133
+20|Biri onu köşeye çekmeliydi.\nÖyle yerde durması tehlikeli...
+21|<CLT=cltSTRONG>O ünlü<CLT=cltNORMAL> Ryoma Hoshi'nin yaşama isteği\nolmadan ortalıkta dolaştığına inanamıyorum...
+22|O kadar sinirlendim ki ona fazla\nsert davrandım.
+23|Ama şimdi pişman olmak işe yaramaz.\nYapabileceğim bir şey yok...
+32|Bu odanın bana tuhaf gelmesinin sebebi\nfileymiş.\n
+33|<CLT=cltMIND>Bu odanın bana tuhaf gelmesinin sebebi\nfileymiş.
+34|<CLT=cltMIND>Geçen sefer geldiğimde de böyle\nmiydi...?
+35|Kaito...bu kablonun tenis filesini asmak için\nolduğunu söylemiştin, değil mi?
+37|Fileyi havada tutan kablo bu.
+38|İşte bu. Bu odanın bana tuhaf gelmesinin\nsebebi fileymiş.\n
+39|Geçen sefer geldiğimde tenis filesi\nasılıydı.
+40|Ama şimdi kablo sökülmüş.
+41|Yani biri kabloyu mu sökmüş?\nBunu neden yapsın ki?
+43|Kaito, bana yardım eder misin?
+44|Bu kablonun ne kadar uzun olduğunu ölçmek\nistiyorum.
+45|Gerek yok. Yaklaşık 15 metre uzunluğunda.
+47|Oh, ortaokula kadar tenis kulübündeydim,\no yüzden kablonun uzunluğunu biliyorum.
+48|Tenis kulübünde miydin?
+49|Bu yüzden...Ryoma'nın öyle davranması\nbeni bu kadar sinirlendirdi...
+50|Ryoma'yı...önceden tanıyor muydun?
+51|Hiç tanışmadım ama hakkında çok şey duydum.
+52|Yani bugünlerde tenis oynamış olup onu\nduymamış kimse yok.
+53|Ortaokuldan beri bir tenis efsanesiydi.\nTenis oynayan her çocuk için bir kahraman gibiydi.
+54|Ve sonra...sonunda onunla tanışabildiğimde\nkorkağın teki olmuştu...
+55|O kadar sinirlendim ki ona fazla\nsert davrandım.
+56|Ama şimdi pişman olmak işe yaramaz.\nYapabileceğim bir şey yok...
+58|Peki kablonun uzunluğunda şüpheli olan ne?\nBir şey mi kafana takıldı?
+59|Hayır, özel bir şey yok... Sadece kontrol\nediyordum.
+60|Hmm, demek dedektifler küçük ayrıntılara\ntakılırmış, ha?
+61|Genç geline kusur bulan baskıcı bir\nkaynana gibi!
+62|*Bu* nasıl bir benzetme?
+63|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Tenis Filesi Kablosu<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+64|<CLT=cltMIND>Bu kablo tenis filesini asmak için\nkullanılıyor. Ama söküldüğü için...
+65|<CLT=cltMIND>file öylece yerde duruyor.
+66|<CLT=cltMIND>Bu odanın bana tuhaf gelmesinin sebebi\nfileymiş.
+67|<CLT=cltMIND>Geçen sefer buraya geldiğimde\nfile asılıydı.
+68|<CLT=cltMIND>Ama şimdi kablo sökülmüş...\nve biri onu kasıtlı olarak sökmüş.
+69|<CLT=cltMIND>Ama bunu neden yapsınlar?
+71|<CLT=cltMIND>Demek kablo yaklaşık 15 metre uzunluğunda.\nBunu aklımda tutmalıyım.
+72|<CLT=cltMIND>Pekala...bütün alanı aradım.\nBir sonrakine geçmeliyim.
+73|<CLT=cltMIND>Hâlâ aranacak başka yerler\nvar.
+## c02_102_134
+0|Buraya ilk defa giriyorum.
+1|<CLT=cltMIND>Bir duş odası ama <CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltMIND>'nin\nlaboratuvarından çok...
+2|...<CLT=cltSTRONG>Ultimate Mahkum<CLT=cltNORMAL>'un laboratuvarı gibi.
+3|Sence bilerek mi böyle yapılmış?\nDuşu sadece bunun için mi yeniden düzenlemişler?
+4|Evet...Bence öyle.
+5|Tanrım...Monokuma'nın zevki berbat.\nEh, bunu zaten biliyorduk.

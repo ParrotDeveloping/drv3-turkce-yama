@@ -1,0 +1,40 @@
+@ chap2_text_US
+## c02_101_009
+476|<CLT=cltMIND>Bu davayla ilgili olabilir...\nAklımda tutmalıyım.
+477|<CLT=cltMIND>Sahnede durup yukarı baktığımda pirana\ntankı tam tepemdeydi.
+478|<CLT=cltMIND>Sayaç sıfıra ulaşınca tabanı açılacak\nşekilde kurulmuştu.
+479|<CLT=cltMIND>Tabanı şu an açık ve tank\nboş.
+480|<CLT=cltMIND>Kapağı varmış gibi görünmüyor...\nİçinden doğrudan tavanı görebiliyorum.
+481|<CLT=cltMIND>Ve sadece ön yüzü cam.\nDiğer yüzleri tahtadan.
+482|<CLT=cltMIND>Yani pirana tankının kapağı yoktu ve\nsadece ön yüzü camdandı.
+483|Ah evet. O tank Himiko'nun araştırma\nlaboratuvarındandı.
+484|Hey Kaito, gösteri için malzeme taşımaya\nyardım ettin, değil mi?
+485|Evet. Ben, Keebo, Himiko ve Angie.\nEpey zahmetliydi.
+486|Ama...ben sadece taşımaya yardım ettim.\nOraya nasıl astıklarını merak ediyorum.
+487|Su ve piranalarla dolu ağır bir tanktı.\nKaldırmak kolay olamazdı.
+488|Görünüşe göre spor salonunun ışık barı\nburaya bağlı.
+489|Ah, Kirumi.
+490|Sahnenin yanındaki kontrol paneli ışık barını\nindirip kaldırmaya yarıyor.
+491|Görünüşe göre ışık barını indirmişler, pirana\ntankını ona bağlamışlar, sonra yeniden kaldırmışlar.
+492|Hmm, ışık barlarının böyle bir tankı\nkaldıracak kadar sağlam olduğunu bilmiyordum.
+493|Ağır nesneleri kaldırmak için yapıldığından\nmuhtemelen epey sağlamdır.
+494|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Pirana Tankı<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+495|<CLT=cltMIND>Sahnede durup yukarı baktığımda pirana\ntankı tam tepemdeydi.
+496|<CLT=cltMIND>Sayaç sıfıra ulaşınca tabanı açılacak\nşekilde kurulmuştu.
+497|<CLT=cltMIND>Tabanı şu an açık ve tank\nboş.
+498|<CLT=cltMIND>Kapağı varmış gibi görünmüyor...\nİçinden doğrudan tavanı görebiliyorum.
+499|<CLT=cltMIND>Ve sadece ön yüzü cam.\nDiğer yüzleri tahtadan.
+500|<CLT=cltMIND>Yani pirana tankının kapağı yoktu ve\nsadece ön yüzü camdandı.
+501|O tank Himiko'nun araştırma laboratuvarındandı.
+502|Gösteri için bütün ekipmanı ben, Keebo,\nHimiko ve Angie getirdik.
+503|O zaman sanırım pirana tankını oraya kaldırmak\niçin spor salonunun ışık barını kullandılar.
+504|Evet, sahnenin yanındaki kontrol paneli ışık\nbarını indirip kaldırmaya yarıyor.
+505|Işık barını indirip pirana tankını ona bağlamış,\nsonra yeniden kaldırmış olmalılar.
+506|Hmm, ışık barlarının böyle bir tankı\nkaldıracak kadar sağlam olduğunu bilmiyordum.
+507|Ağır nesneleri kaldırmak için yapıldığından\nmuhtemelen epey sağlamdır.
+508|<CLT=cltMIND>Arkadan bakınca tuhaf bir şey yok.\nBüyüklüğü dışında normal bir tank.
+509|Tankın bütün yüzleri özel bir tür camdan\nyapılmış gibi. Gizli kapı göremiyorum...
+510|Kehehe... Çok gizemli. Acaba Himiko tanktan\nnasıl kaçtı?
+511|Eh, kolayca çözebilseydik büyü numarası\nolmazdı.
+512|Himiko'nun izlediği yolu çözersek Ryoma'nın\noraya nasıl girdiğini de bulacağımıza inanıyorum.
+513|<CLT=cltMIND>Doğru... Aynı yolu kullanmış olmaları\nihtimali yüksek.

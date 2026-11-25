@@ -1,0 +1,50 @@
+@ chap2_text_US
+## c02_101_009
+279|Bu...ne?
+280|Sahne ışıklarının kontrol paneli.\nIşık barını indirip kaldırmaya yarıyor.
+282|<CLT=cltMIND>Sahne ışıklarının kontrol paneli...\nBu ışık barını indirip kaldırıyor.
+284|<CLT=cltMIND>Bu, kaçış numarasının geri sayımını\nyapan sayaç...
+285|<CLT=cltMIND>Fark etmemiştim...aynı zamanda Ryoma'nın\ncesedini ortaya çıkaran bir sayaçmış.
+286|<CLT=cltMIND>Ryoma'nın cesedi artık bir iskeletten ibaret.\nEski hâlinin gölgesi bile değil...
+287|Tch...bu da ne böyle?\nHey, bu gerçekten Ryoma mı?
+288|<CLT=cltSTRONG>Olduğu anı<CLT=cltNORMAL> görmedim,\no yüzden inanamıyorum...
+289|...Eminim.
+290|Gösteriyi izleyen herkes buna tanık\noldu.
+291|Ryoma'nın...sadece kemiklere dönüşmesini\ngördük.
+292|Böyle korkunç bir şekilde öldüğüne inanamıyorum.
+293|Su o kadar hızlı kanla doldu ki çok şükür\nolanların hepsini görmedik...
+294|Ama bu iskelet şüphesiz Ryoma'nın.
+295|Tanrım, ölmek istediğini biliyorum ama\ngerçekten gidip yapması gerekmiyordu.
+296|Hayır...Bence öyle değil, Kaito.
+297|Ryoma ölmeye çalışmıyordu.\nKendisi de öyle söyledi.
+298|Bizi...yaşamak isteyenleri kıskanıyordu.
+299|Ha? Kıskanıyordu ne demek?
+300|Ryoma'nın bize katılmak istediğinden eminim.\nBu yüzden yaşamak için bir sebebe ihtiyacı vardı.
+301|Bizimle aynı hisleri paylaşabilmek, devam\netmek için o sebebe sahip olabilmek için.
+302|Bizimle yan yana savaşmak için...
+304|O zaman...gerçek bir aptalmış. Yaşamak için\nbir sebebin olmasa ne olur ki?
+305|Yaşama sebebin güzel yemek ya da\narkadaşların gibi basit bir şey olamaz mı?
+306|Lanet olsun! O aptal!
+308|<CLT=cltMIND>Ryoma'nın cesedi artık bir iskeletten ibaret.\nEski hâlinin gölgesi bile değil...
+309|<CLT=cltMIND>Hiç şüphe yok...
+310|<CLT=cltMIND>Bu...Ryoma.
+311|<CLT=cltMIND>Gözlerimizin önünde iskelete dönüştü...
+312|<CLT=cltMIND>Ama...Ryoma ölmek istemiyordu.\nBize katılmak istediğinden eminim.
+313|<CLT=cltMIND>Kendisi de öyle söyledi...\nYaşamak isteyen bizleri kıskanıyordu.
+314|Bu perdede şüpheli bir şey\nvar mı...?
+315|Kafama takılıyordu... O perde ne\niçindi?
+316|Su tankını gizlemek içindi.
+317|Himiko kaçış numarasını yaparken görmemizi\nengellemek için kapalıydı.
+318|Oh, demek öyleymiş!\nO zaman bir tür ipucu mu?
+319|Hm... Sanmıyorum...\nŞüpheli bir şey görmüyorum.
+320|<CLT=cltMIND>Bu perde Himiko'nun kaçış numarasını\ngörmemizi engellemek için kapatılmıştı.
+321|<CLT=cltMIND>Şüpheli bir şey görmüyorum.
+322|<CLT=cltMIND>Kaçış numarasındaki büyük su tankı. Camı\nkırık, durumu kötü.
+331|<CLT=cltMIND>Tankın içinde ilginç bir şey\nbulamadım.
+332|<CLT=cltMIND>Ryoma'nın eşyalarının hepsi bir arada.\nKıyafetleri, Monopad'i, oda anahtarı...
+333|İşte bu! Bu anahtarı kullanırsak Ryoma'nın\nodasını araştırabiliriz!
+334|Hm? Odasında araştırılacak ne var?
+335|<CLT=cltSTRONG>Motif videosu<CLT=cltNORMAL>.
+336|Ryoma'da kimin videosu olduğunu\nöğrenmeliyiz.
+337|Yani...Ryoma'nın o video yüzünden\nöldürüldüğünü mü düşünüyorsun?
+338|Kesin bir şey diyemem...ama her ihtimale\nkarşı kontrol etmeliyiz.

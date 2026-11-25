@@ -1,0 +1,53 @@
+@ chap2_text_US
+## c02_100_009
+60|Soruşturmaya falan başlamamız\ngerekmiyor mu?
+61|Pekalaaa! Bu sefer suçluyu kesin yakalayacağım!\nÇabuk şu şeyi verin!
+62|Monokuma Dosyası'nı diyorsun, değil mi!?
+63|Bu sefer ölüm sebebini de ben araştırdım,\ngönlünüzce okuyun.
+64|Oh! Bu biraz alakasız ama harika bir\niş fikrim var!
+65|...Evet, bu tamamen alakasız.
+66|Bu Monokuma Dosyası'yla bir cenaze\nhizmetleri işi kuralım!
+67|Cenazelerde ölüm sebebini sormaya başlayınca\nortamın nasıl tuhaflaştığını bilirsin, değil mi?
+68|Monokuma Dosyası dağıtırsak en kötü ölümler\nbile katılanları kıkırdatır!
+69|...Ee, Babacım? Ne dersin?
+70|Çok tatlısın be!
+71|...Ha? Tatlı mı?
+72|Dosyaları dağıtış şeklin çok tatlı.\nNeden şöyle yanıma gelmiyorsun...?
+73|Hiiiiii! Babam beni baştan aşağı yalayacak!
+74|Ha? Babam bütün sevgisini Monosuke'ye\nyağdırıyor.
+75|Hmmm... Sence Monosuke haklı olabilir mi?
+76|Belki de Babam bizi artık yeterince düşmanca\nve tehditkâr olmadığımız için sevmiyordur?
+78|Sanırım ben de Monosuke'nin yolundan\ngideceğim.
+80|Her neyse...soruşturmaya başlayalım.
+81|Soruşturma... Demek gerçekten yeniden\nbaşlayacak.
+82|İnanamıyorum... Birimiz Ryoma'yı öldürdü...
+83|<CLT=cltMIND>Aramızdan biri...
+84|Artık yeter... Gonta arkadaşlarını soruşturmak\nistemiyor... Arkadaşlarından şüphelenmek istemiyor...
+85|O zaman yapma.\nBen de soruşturmayacağım.
+87|Bir kişi eksik olsa da sorun olmaz, bir çocuk\nbakıcısının da pek faydası olacağını sanmam.
+88|Bekle, Maki!
+89|<CLT=cltMIND>Onu durdurmaya çalıştım ama Maki\narkasına bile bakmadan yürümeye devam etti.
+90|O kaltağın derdi ne lan!?\nCidden soruşturmayacak mı!?
+91|Bu...epey sorumsuzca görünüyor.
+92|Muhtemelen başka birinin halledeceğini\nvarsayıyor...sanırım yanılıyor da sayılmaz.
+93|<CLT=cltMIND>Ama bunu neden şimdi söylesin?\nRantaro'nun soruşturmasına katılmıştı...
+94|<CLT=cltMIND>Gerçi Maki son zamanlarda tuhaf\ndavranıyordu.
+95|<CLT=cltMIND>Bütün gününü laboratuvarında geçirdiğini\nsöylediler. Orada ne yapıyor ki?
+96|Neyse, Maki ile sonra konuşurum.\nŞimdilik soruşturmaya başlamalıyız.
+97|Bunu yapmak zorunda olmamıza fena\nsinirleniyorum ama hayatta kalmanın tek yolu bu.
+98|Evet! Ben de elimden gelenin en iyisini yapacağım!
+99|Gonta ile ben herkesin güvenini yeniden\nkazanmak için özellikle çok çalışmalıyız!
+100|Oh, evet... Haklısın.
+101|Ama soruşturmamıza bile gerek yok.\nSuçlunun kim olduğu gayet belli.
+103|Ryoma belli bir küçük büyücü kızın gösterisi\nsırasında öldürüldü, değil mi?
+104|Nyeh...?
+105|Yani bence o <CLT=cltSTRONG>küçük büyücü kızdan<CLT=cltNORMAL>\nbiraz daha şüphelenmemiz lazım...
+106|Nyeh!?
+107|Ammaaa...o kadar şüpheli ki şüpheli\ndeğilmiş gibi görünüyor.
+108|Nyeh...?
+109|Ama öte yandan kendini şüpheli değilmiş gibi\ngösterdi, yani artık süper şüpheli!
+110|Tanrım, kes sesini artık! Himiko'nun saf\nkalbiyle oynamaya nasıl cüret edersin!?
+111|Az önce Himiko dedin, değil mi?\nAma ben onun adını hiç anmadım.
+112|Aaahh!!! Kes sesini, kes sesini! Himiko\nöyle bir şeyi asla yapmaz!
+113|Onu en iyi ben tanırım! Değil mi, Himiko!?
+115|Burası bana katıldığın kısım!

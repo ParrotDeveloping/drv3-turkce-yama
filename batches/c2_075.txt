@@ -1,0 +1,47 @@
+@ chap2_text_US
+## c02_102_191
+21|<CLT=cltMIND>Bu havuzun ekipman kulübesi.\nHer ihtimale karşı içine bir bakayım.
+22|<CLT=cltMIND>Ha? Bu...?
+23|<CLT=cltMIND>Elektrikli hava pompası mı?
+24|<CLT=cltMIND>Anlıyorum... Bununla büyük bir simidi\nkolayca şişirebilirsin.
+25|İncelemeye değer başka bir şey yok gibi.
+26|<CLT=cltMIND>Bu havuzun alet kulübesi.\nŞurada...
+27|<CLT=cltMIND>elektrikli bir hava pompası var. Onunla\nbüyük bir simidi kolayca şişirebilirsin.
+28|İncelemeye değer başka bir şey yok gibi.
+29|<CLT=cltMIND>Spor salonunun penceresi şuradan görünüyor...
+30|Spor salonunda sahnenin üstünden\naraştırdığımız pencere bu.
+31|Yani...epey yüksek. Sadece bir seyyar\nmerdivenle uzanamazsın.
+32|Katılıyorum... Merdiven sahnenin üstündeyken\nbile pencereye zar zor yetişiyordu.
+33|Öyleyse birinin oradan geçmesi zor\nolmuş olabilir...
+34|Evet, haklı olabilirsin.
+35|<CLT=cltMIND>Şuradaki pencere spor salonunun penceresi.\nGerçekten çok yüksek...
+36|<CLT=cltMIND>Merdivenle bile buradan uzanılabilecek\ngibi görünmüyor.
+37|<CLT=cltMIND>Birinin oradan girip çıkması\nzor olurdu.
+38|<CLT=cltMIND>Bu, Ryoma'nın laboratuvarındaki duş\nodasının penceresi.
+39|<CLT=cltMIND>Büyük bir atlama tahtası.\nTatil köyünde görülecek bir şeye benziyor...
+40|<CLT=cltMIND>Hiçbir şeyi değişmemiş.
+45|<CLT=cltMIND>Havuz kurallarında kafama takılan\nbir şey var. Şöyle diyor...
+46|Oh! Havuza atlamak yasak!\nÖzellikle gece!
+47|Vay! Sen nereden çıktın!?
+48|Yani atlamanın kendisi sorun değil. Bir arabanın\nya da trenin önüne atlamak istersen o senin bileceğin iş.
+49|Ama havuz gece yasak.\nGördün mü? "<CLT=cltSTRONG>Gece yüzmek yasaktır<CLT=cltNORMAL>."
+50|Bu bir ihlal olur, değil mi?
+56|Durum buysa...gece spor salonunda ya da\nhavuzda kimse yoktu diyebilir miyiz?
+58|<CLT=cltMIND>Gece yüzmek yasak...\nBu davada rol oynayabilir.
+59|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Havuz Kuralları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+60|<CLT=cltMIND>Havuz kurallarında kafama takılan\nbir şey var. Şöyle diyor...
+61|Havuza atlamak yasak!\nTekrar ediyorum, havuza atlamak yasak!
+62|Özellikle gece!\nÖzellikle gece!
+63|Vay! Yine geldi!
+64|Biri okul kurallarını çiğnerse...\nBiri okul kurallarını çiğnerse...
+65|Bütün kampüste bir siren çalar...\nBütün kampüste bir siren çalar...
+66|Ve o kişi!\nVe o kişi!
+67|Paramparça edilir!\nParamparça edilir!
+68|Exisal'lar tarafından!\nExisal'lar tarafından!
+69|Kes sesini artık! Anladık!\nTekrar etmene gerek yok!
+70|Hiç siren çalmadı...\nVe kimse "paramparça edilmedi"...
+71|O zaman gece spor salonunda ya da\nhavuzda kimse yoktu diyebilir miyiz?
+72|...Eh, en azından canlı kimse yoktu.\n...Eh, en azından canlı kimse yoktu.
+73|<CLT=cltMIND>Gece yüzmek yasak...\nBu davada rol oynayabilir.
+74|<CLT=cltMIND>Araştırmam gereken başka bir şey var.
+75|<CLT=cltMIND>Havuzda bir simit yüzüyor!\nBüyük, sağlam, kauçuk bir simide benziyor.

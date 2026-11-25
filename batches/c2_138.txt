@@ -1,0 +1,65 @@
+@ chap2_text_US
+## c02_713_050
+7|<CLT=cltMIND>Angie'nin Atua'ya dua etmesini izleyerek\nbiraz vakit geçirdim...
+## c02_713_051
+0|Ne var ne yok, Shuichi? Bir şeye mi ihtiyacın var?
+5|Tamam! Zaten sıkılıyordum.
+6|<CLT=cltMIND>Angie ile biraz vakit geçirdim...
+## c02_713_052
+0|Anlıyorum.
+1|Çünkü Atua bana bu okul için neyin gerekli\nolduğunu söylüyor.
+6|Başın dertte mi, Shuichi? O zaman birlikte\nAtua'ya dua edelim!
+7|<CLT=cltMIND>Angie ile biraz vakit geçirdim...
+## c02_713_053
+0|Hmmm? Ne var ne yok, Shuichi?
+1|Sadece Himiko ile laflıyorum.
+6|Yanımda olmak mı istiyorsun?
+7|Hmmm...tamam o zaman, Atua seninle vakit\ngeçirebileceğimi söylüyor.
+8|<CLT=cltMIND>Angie ile biraz vakit geçirdim...
+## c02_713_054
+0|Angie Yonaga 2. Bölüm Serbest Etkinlik 5
+5|Etkinlik 5 Angie Yonaga ile Vakit Geçirme
+6|<CLT=cltMIND>Angie ile biraz vakit geçirdim...
+## c02_714_050
+0|Şu <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'nın olayı ne\nlan?
+1|Işıkla birinin hafızasıyla öylece\noynayamazsın...
+5|<CLT=cltMIND>Bir süre Miu ile takılayım mı?
+6|Monokuma yapabiliyorsa muhteşem dahi kız\nMiu Iruma da yapabilir!
+7|Kendim bir tane yapacağım!
+8|<CLT=cltMIND>Miu'ya bir <CLT=cltSTRONG>Hatıra Işığı<CLT=cltMIND> yapmasında\nyardım ederek biraz vakit geçirdim...
+9|<CLT=cltMIND>Bir şekilde Miu ile biraz daha\nyakınlaştım...
+## c02_714_051
+0|Ha? Ne? Ne istiyorsun?
+1|Fena meşgulüm! Oyun arkadaşın olmamı istiyorsan\nköpek numaraları falan yap!
+5|<CLT=cltMIND>Bir süre Miu ile takılayım mı?\nSormak pek güvenli olmasa da...
+6|Hah-haha! Cidden mi!? Gerçekten yapacak\nmısın!? Vay be, bunu görmem lazım!
+7|<CLT=cltMIND>Sonunda Miu için gerçekten köpek gibi\nnumaralar yaptım...
+8|<CLT=cltMIND>Bir şekilde Miu ile biraz daha\nyakınlaştım...
+## c02_714_052
+0|Ne istiyorsun lan!? Senin gibi bir çapulcuyla\nneden takılayım ki lan!?
+4|<CLT=cltMIND>Bir süre Miu ile takılayım mı?\nSormak pek güvenli olmasa da...
+5|Ha!? Senin gibi çapulcular tuzlanıp\nyenmeli!
+6|Ama...sormaya cesaretin olduğuna göre\nseninle takılırım herhalde!
+8|<CLT=cltMIND>Bir şekilde Miu ile biraz daha\nyakınlaştım...
+## c02_714_053
+0|Gahhh, odaklanamıyorum! Ve odaklanamazsam\nicatlarıma hâkim olamam!
+1|Anladın mı!? Odaklanmam tarihin akışını\nbelirleyebilir!
+5|<CLT=cltMIND>Bir süre Miu ile takılayım mı?\nSormak pek güvenli olmasa da...
+6|Çalışmaya devam etmem anlamsız, o yüzden\nmola verip seninle vakit geçireceğim!
+8|<CLT=cltMIND>Bir şekilde Miu ile biraz daha\nyakınlaştım...
+## c02_714_054
+0|B-Bir büyü gösterisini görmek için\nheyecanlanmamın asla imkânı yok!
+1|O küçük bücürün sahnede gösteri yapmasını\nizlemek kesin beni sıkıntıdan öldürecek!
+5|<CLT=cltMIND>Yine de biraz heyecanlı görünüyor...\nBir süre Miu ile takılayım mı?\n
+6|Dediğim gibi, beni heyecanlandırmıyor! Sadece\nizleyip bitirmek istiyorum!
+7|<CLT=cltMIND>Gösteriyi sabırsızlıkla bekleyip sürekli\nkıpırdanan Miu ile biraz vakit geçirdim.
+8|<CLT=cltMIND>Bir şekilde Miu ile biraz daha\nyakınlaştım...
+## c02_900_000
+0|Ne!? Hepsini buldun mu!?
+1|Hepsini toplamak için bu kadar uğraştığına\ninanamıyorum... Beni o kadar çok mu seviyorsun?
+2|Anlıyorum, anlıyorum! Eh, durum buysa...
+3|O zaman seni bütün yüz ifadesi\nrepertuvarımı göstererek ödüllendireceğim!
+4|Yah!
+5|Hah!
+6|Ho ho!
+8|Bıktım artık...

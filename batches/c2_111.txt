@@ -1,0 +1,50 @@
+@ chap2_text_US
+## c02_227_000
+53|O yöntemle suçlu Ryoma'nın laboratuvarından\nhavuza defalarca gidip gelmiş olmalı...
+54|Bu yüzden suç hepimiz uyurken, gece\nişlendi.
+55|Ama suçlu suçu işlerken kullandığı ipi\ngeri almakta bu kadar dikkatliyse...
+56|Simidi neden havuzda bıraktı?
+57|Bence bu bir\nkazaydı.
+58|Kaza mı?
+59|Evet. Suçlu simidi indirirken yanlışlıkla\ndüşürdü.
+60|O zaman suçlu onu neden havuzda\nbıraktı?
+61|<CLT=cltMIND>Suçlunun onu havuzda bırakmasının\nsebebi belli...
+62|Sudan hoşlanmıyor
+63|Suçlu yüzme\nbilmiyor!
+64|Suçlunun kim olduğunu hâlâ bilmiyoruz,\no yüzden rastgele saçmalama!
+66|Vakit yoktu
+67|Suçlunun simidi toplayacak kadar\nvakti yoktu!
+68|Suç gece işlendi!\nTabii ki yeterince vakitleri vardı!
+70|Geceydi
+71|Fark etmediler
+72|Simidi düşürdüklerini fark\netmediler!
+73|Mantığın yanıltıcı. Suçlu böyle bir şeyi\nnasıl fark etmez...?
+76|Titiz suçlumuzun o simidi geride bırakması\nimkânsız...
+77|Belki de mantığın hatalıdır?
+79|<CLT=cltMIND>Suçlunun onu havuzda bırakmasının\nsebebi belli...
+80|Almak isteseler bile alamazlardı.\nÇünkü bu <CLT=cltSTRONG>gece<CLT=cltNORMAL> oldu.
+81|Anlıyorum, gece <CLT=cltSTRONG>yüzmek yasak<CLT=cltNORMAL>\nolduğu için simidi alamadılar.
+82|Ama ipi kullanarak onu çekip\nçıkaramazlar mıydı?
+83|Her zaman değil... Bakın, o havuzdaki su\nseviyesi o kadar düşük ki...
+84|Biri ipi kullanarak simidi çekmeye\nçalışsa bile...
+85|İpin yapacağı dik açı bunu neredeyse\nimkânsız hâle getirirdi.
+86|Sırık kullansalar farklı olurdu ama ipin\nişe yaramasının imkânı yok.
+87|Simit havuz kenarına daha yakın olsa bile\nsu, simidi çekmek için hâlâ çok alçak.
+88|Kulağa çok zahmetli geliyor...\nNeden orada bıraktıklarını anlıyorum.
+89|Evet, çok uzun sürerdi. Ve biri görseydi\nyakalanırlardı.
+90|Hah! Ne biçim sakar dangalak bir simidi\ndüşürüp geri alamaz ki!?
+91|Söyleyeyim, bu suçlu tam bir lanet\namatör!
+92|Hayır, aslında. O tek hata dışında\nbu kusursuz bir suçtu.
+93|Maki gece Ryoma ile hiç buluşmasaydı\nbizim için son olabilirdi.
+94|Eh, Maki'nin doğruyu söyleyip söylemediğini\nhâlâ bilmiyorum...
+95|...Kes sesini.
+96|Şahsen bu suçluyu ürkütücü derecede\ntitiz buluyorum.
+97|Ne cesur, ne güzel bir plan! Teleferik\nolduğunu hayal bile etmemiştim!
+98|Aaah! Bu harika derecede zalim suçluya karşı\nkalbimde saygı filizlenmeye başladı.
+99|Aptal mısın sen!?\nSuçluya saygı duyma!
+100|<CLT=cltMIND>Hayır, suçlunun zekâsına saygı duymak\nbu davayı çözmekte çok önemli...
+101|<CLT=cltMIND>Çok yaklaştık...\nGerçeğe sadece bir adım kaldı...
+102|Şimdi sadece suçlunun kim olduğunu\nçözmemiz lazım!
+103|Elbette. Yoksa bu gizemi çözmenin\nanlamı olmazdı.
+104|Peki kim?
+105|Hıh. Görünüşe göre ana etkinliği başlatma\nsırası bende...

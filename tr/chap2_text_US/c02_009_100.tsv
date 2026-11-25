@@ -1,10 +1,17 @@
+0	<CLT=cltMIND>Önce Kaito'nun odasına bakmalıyım!
 1	Evet
 2	Hayır
 3	Emin olmadığın bir şey mi var?
 4	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+5	<CLT=cltMIND>Titreyen ellerle kapı zilini çaldım...
 6	<CLT=cltSYSTEM>*ding dong*
 7	<CLT=cltMIND>...
 8	<CLT=cltMIND>...
+9	Cevap yok.\nÇoktan çıktı mı?
+10	<CLT=cltMIND>O zaman yemekhanede olmalı.\nOraya bakayım.
+11	<CLT=cltMIND>Önce Kaito'nun odasına bakmalıyım!
 12	<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
 13	<CLT=cltMIND>Gerçekten her yerdeler...\nKontrolleri altında olduğumuzu bilmemizi istiyorlar.
 14	<CLT=cltMIND>Ama bizi gözetlemek için herhangi bir\ngözetim donanımı yok.
+15	<CLT=cltMIND>Bu Kaito'nun odası değil!\nHadi, sakin ol, kendini topla...
+16	<CLT=cltMIND>Kaito odasında değil gibi.\nYemekhaneye gitmeliyim!

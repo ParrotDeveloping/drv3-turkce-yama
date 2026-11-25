@@ -1,0 +1,65 @@
+@ chap2_text_US
+## c02_220_001
+21|Uyan <CLT=cltWEAK><CLT=size2>tek<CLT=size1> yer\n<CLT=size2>havuz<CLT=cltNORMAL>!
+22|Uyan tek yer havuz!
+23|<CLT=size4>Büyü
+24|Büyü kullansan bile başka yolu yok!
+25|<CLT=size4>kullansan
+26|<CLT=size4>bile
+27|<CLT=size2>başka
+28|yolu yok!
+29|Eh, o zaman <CLT=size2>havuz<CLT=size1> <CLT=size2>olmalı<CLT=size1>!
+30|Eh, o zaman havuz olmalı!
+31|Yok, o
+32|Yok, o küçük bok tuvalette boğuldu!
+33|<CLT=size1>küçük
+34|<CLT=size3>bok
+35|<CLT=size1>tuvalette
+36|
+37|<CLT=size3>boğuldu!
+38|Kapa çeneni, <CLT=size2>gürültücü domuz.
+39|Kapa çeneni, gürültücü domuz.
+40|Nnnngh!
+41|Nnnngh! D-D-Domuz mu!!!!?
+42|<CLT=cltAGREE><CLT=size4>D-
+43|<CLT=cltAGREE><CLT=size4>D-
+44|<CLT=cltAGREE><CLT=size4>D<CLT=size1>omuz
+45|<CLT=cltAGREE><CLT=size4>!?
+47|Ama bütün odaların kilidi var.
+49|Tuvalet...
+50|İğrenç...
+51|Saçmalık! Ben yapabilirdim!
+52|Hatırladığım kadarıyla havuz...
+53|Gerçek büyü mü?
+54|Hayır! Tuvalet işte, lanet olsun!
+55|Tanrım. Tuvaletlere takıntılı mısın?
+56|Bunu izlemek zor...
+## c02_221_000
+0|Cinayet mahalli havuz olamazdı. Ryoma\n<CLT=cltSTRONG>gece<CLT=cltNORMAL> öldürüldü.
+1|<CLT=cltSTRONG>Gece yüzmek yasak<CLT=cltNORMAL>, yani\ncanlı biri suya giremezdi.
+2|Evet! Ölü beden sorun değil çünkü sadece bir\nnesne. Ama canlı biri havuza girseydi...
+3|Sanırım ağlayabilirdim!
+4|İstediğin kadar yüksek sesle ağla. Seninle ağlarım.\nGeceyi birlikte ağlayarak geçirebiliriz...
+5|Ve ertesi sabah sessizce çıkıp gitmeden önce\naynana rujla "elveda" yazarım.
+6|Sen gittikten sonra benim için ne kadar\nönemli olduğunu ancak anlarım...
+7|Bu kadar kasvetli olmayı kesin! Bu yıl Jets'in\nyılı! Siktir et Patriots'u!
+8|Neyse...havuzda boğulmuş olmasının imkânsız\nolduğu sonucuna varabiliriz.
+9|Havuz değilse Ryoma nerede öldürüldü? Suyun\ndepolanabileceği başka bir yer var mı?
+10|<CLT=cltMIND>Ryoma nerede öldürüldü?\nBir tür ipucu olduğunu biliyorum...
+11|Tankta bulunan kelepçeler...\nRyoma'nın laboratuvarındandı.
+12|Kelepçeler her yere götürülebilir. Olay yerini\nbelirlemek için daha güçlü bir delil lazım bence...
+14|Havuzda bulunan o siyah kumaş parçası\nvardı. Muhtemelen Ryoma'nın kıyafeti...
+15|Az önce havuzda öldürülmediğini\nsöyledin.
+16|Sözlerini bu kadar kolay geri almana\nizin vermem!
+18|Ryoma'nın laboratuvarındaki tenis filesinin\nkablosu sökülmüştü...
+19|Bunun Ryoma'nın boğulmuş cesediyle ne ilgisi var!?\nOtur, kapa çeneni ve kendi kablonu çek!
+21|Neden bu kadar sessizsin? Bunca zaman\nbiliyormuş gibi mi yapıyordun?
+23|Ne demek istediğine dair hiçbir fikrim yok. Böyle\nkafa karıştırıcı argümanlar sadece sonunu getirir.
+25|Ryoma'nın nerede öldürüldüğünü hangi\nipucu gösteriyor?
+26|Ryoma'nın laboratuvarındaki lavabo.\nÜzerinde belirgin çizik izleri vardı.
+27|...Lavabodaki çizik izleri mi?
+28|Ve o çiziklere şunun sebep olduğuna\ninanıyorum...
+29|Kare cam levha.\nO da çizilmişti, doğru mu?
+30|Ama o benim laboratuvarımdandı.\nRyoma'nın lavabosunda ne işi olsun?
+32|Pencere çerçevesinin lavaboya\nsürtünmesi.
+33|Pencere çerçevesi mi...? Lavaboda mı?\nBu nasıl olacak ki...?

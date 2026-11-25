@@ -1,0 +1,64 @@
+@ chap2_text_US
+## c02_206_001
+22|D-Dur bir <CLT=size2>saniye,\nb-bana<CLT=size1> <CLT=size2>yumruk<CLT=size1> atmadan önce...
+23|D-Dur bir saniye,\nb-bana yumruk atmadan önce...\nYapmadığından neden bu kadar eminsin?
+24|Yapmadığından neden <CLT=size2>bu kadar eminsin<CLT=size1>?
+25|<CLT=size2>Çünkü!
+26|Çünkü! Tanktaki bir kapaktan kaçsaydı...
+27|Tanktaki
+28|bir kapaktan
+29|<CLT=size2>kaçsaydı...
+30|<CLT=size2>su da
+31|su da onunla birlikte fışkırırdı!
+32|onunla
+33|<CLT=size1>birlikte <CLT=size2>fışkırırdı
+34|<CLT=size2>işte!
+35|Her\n　\n　\n　
+36|Her yer su olurdu!
+37|<CLT=cltWEAK>yer\nsu
+38|　\n　\n　\nolurdu!
+39|<CLT=size2>Bunun
+40|Bunun hiç büyüyle alakası olmazdı!
+41|hiç
+42|<CLT=size2>büyüyle
+43|alakası <CLT=size2>olmazdı!
+44|Bütün\n<CLT=size2>numara\n<CLT=size1>　\n　\n　
+45|Bütün numara mahvolurdu!
+46|　\n　\n　\nmahvolurdu!
+47|Bu da hallolduğuna göre\nsana\n<CLT=size2>yumruk<CLT=size1> atacağım!
+48|Bu da hallolduğuna göre sana yumruk atacağım!
+## c02_207_000
+0|Odanın suyla dolmamasının bir sebebi\nvardı...
+1|Su tankına bitişik olan\n<CLT=cltSTRONG>merdiven<CLT=cltNORMAL>.
+2|Merdivenin nasıl konumlandığını\nhatırlamaya çalışın...
+3|Tankın kaçış kapağıyla tam olarak\nhizalanmıştı.
+4|Yani su tankı <CLT=cltSTRONG>merdivenin içine<CLT=cltNORMAL>\nbağlıydı.
+5|Merdivenin içi...\nCeset merdivenin *içinde* miydi!?
+6|Bunu bilince Himiko'nun su altından nasıl\nkaçtığı açıkça ortaya çıkıyor.
+7|Gösteri sırasında tankı bir perde\nörtüyordu...
+8|...bu da Himiko'nun kapaktan fark edilmeden\nmerdivene girmesini sağladı.
+9|Dışarı taşan su da doğrudan merdivenin\niçine akardı.
+10|Peki merdivenden nasıl çıkılıyor?
+11|Merdivenin de bize ters yöne bakan\nbir kaçış kapağı var.
+12|Su merdivenden boşalmayacak şekilde\nyerleştirilmiş.
+13|Bu durumda kişi merdivenden çıkıp suyu\niçeride bırakabilir.
+14|Ancak o kişi sırılsıklam olurdu, yani geride\n*bir* iz kalması gerekir...
+15|Bu da merdivenin etrafında neden bir\n<CLT=cltSTRONG>su birikintisi<CLT=cltNORMAL> olduğunu açıklar...
+16|Yani Himiko merdivenden çıkınca ıslak\nkıyafetleri her yere su damlatmış!
+17|Haha, kaltak! Sırılsıklam hâlde suçüstü\nyakalandın!
+19|Himiko'nun tepkisine bakılırsa tam\non ikiden vurdun!
+20|Ama...Himiko su tankından çıktığında\nkıyafetlerinin ıslak olması gerekirdi...
+21|İşte!\nMuhteşem Su Altından Kaç-
+22|Kıyafetleri kesinlikle ıslak değildi.
+23|E-Elbette. Çünkü Su Altından Kaçış'ım bir\nnumara değildi... B-Bir büyüydü.
+24|<CLT=cltMIND>Hayır, kıyafetlerinin ıslak olmamasının\nbüyüyle hiçbir ilgisi yoktu...
+25|Hiç suya girmedi
+26|Himiko baştan hiç suya\ngirmedi.
+27|Ha? Daha önce öyle demiyordun...
+29|Çabucak kurulandı
+30|Kıyafetleri ıslak olmasın diye\nkendini kuruladı.
+31|Bunu destekleyecek delilin var mı?\nSaç kurutma makinesi falan mı buldun?
+32|Öyle bile olsa kıyafetlerini tamamen\nkurutmaya yetecek kadar vakti olmazdı.
+34|Üniformasını değiştirdi
+35|Şey...
+36|Büyüm hakkında yalan söylemeyin...\nHepsi büyüydü... Gerçekten...

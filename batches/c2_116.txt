@@ -1,0 +1,59 @@
+@ chap2_text_US
+## c02_231_000
+20|<CLT=cltMIND>Ya... Ya yanılıyorsam?\nKirumi masum mu...?
+21|<CLT=cltMIND>Hayır, ben... Yine yanılıyorum—
+22|Hey, Kirumi... Bahsettiğin bu "<CLT=cltSTRONG>herkes<CLT=cltNORMAL>"\ntam olarak kim?
+23|<CLT=cltMIND>...Kaito?
+24|Sadece...bu konuda içimde tuhaf bir his var.
+25|"Herkes" dediğinde sanki bizden\nbahsetmiyormuşsun gibi geldi...
+26|Sanki...burada olmayan birinden\nbahsediyormuşsun gibi.
+27|...Burada olmayan biri mi?
+29|Akademinin dışındaki biri mi?
+30|Hey... Sence Kirumi kendi <CLT=cltSTRONG>motif\nvideosunu<CLT=cltNORMAL> görmüş müdür?
+31|Ha!? Motif videosunu mu!?
+32|Önemli birinin tehlikede olduğunu gördün...\no yüzden cinayet işledin, değil mi?
+33|Bu...doğru mu?
+35|Böyle bir karmaşa yarattığım için\nçok özür dilerim...
+36|Bu yüzden hepinizin gereksiz bir şey\nvarsaymasına yol açtım.
+37|...Gereksiz mi?
+38|Yanıldığımı mı söylüyorsun?\nBahsettiğin bu "<CLT=cltSTRONG>herkes<CLT=cltNORMAL>"—
+39|Elbette hepiniz.
+40|Gerçekten mi? Atua'ya yemin eder misin?
+41|Evet, gerçekten...
+42|O yüzden lütfen bana inanın.\nSuçlu ben değilim.
+43|Bana ne olacağı umurumda değil ama\nhiçbirinizin ölmesine izin vermeyeceğim.
+44|Çünkü Kaede'ye söz verdim.
+45|Hepimizin birlikte kaçmasını diledi.
+47|Ultimate Hizmetçi olarak görevlerimi\nyerine getirmek istiyorum.
+48|Herkese hizmet etmek istiyorum.
+49|O yüzden lütfen bana inanın! İnanmalısınız!
+50|Kirumi!
+51|Hmmm... Kirumi'nin suçlu olduğundan tamamen\nemin miyiz? Belki başka biridir?
+52|Kokichi'nin suçlu olmadığından emin miyiz!?
+53|Ah-hahahahaha! Ne kaba.
+54|G-Gonta...Kirumi'nin...Ryoma'yı öldüreceğine\ninanamıyor...
+55|Kirumi'nin kahvaltıları en iyisiydi.\nBize hep çok iyi davrandı.
+56|Gerçekten bir anne gibi...
+57|Belki de güvenimizi kazandıktan sonra\nsaldırma fırsatını gördü...
+58|Sen gerçekten kafayı yemişsin...
+59|Tepeden tırnağa kafayı yemişsin!\nKıyafetlerinin üstünden bile anlıyorum!
+61|Shuichi, lütfen benden suçlu olarak\nşüphelenmeyi bir daha düşün.
+62|Benden sadece dün gece spor salonunda\nolduğum için şüpheleniyorsun, doğru mu?
+63|Ama bu yetersiz kanıtla beni suçlu\nilan edemezsin.
+64|Maki ile Kaito'nun spor salonuna gitmiş olması\nda hâlâ mümkün. Mazeretleri yok.
+65|Himiko'ya yardım ediyormuş gibi yapıp gizlice\ncinayeti hazırlamış olabilirler.
+66|Öyle deyince...\nMümkün gibi görünüyor.
+67|Kirumi'yi sadece mazeretlerimize dayanarak\nsuçlayamayız.
+68|Millet, belki...Kirumi'den şüphelenmek yanlış!
+69|Evet, belki bir kez daha düşünmeliyiz—
+70|Ben...bir söz verdim.
+71|Ultimate Dedektif olarak gerçeği aramaya\nsöz verdim.
+72|Kaede'ye söz verdim!\nO yüzden şimdi geri dönmeyeceğim!
+73|<CLT=cltMIND>Korkuyorlar... Arkadaşlarından birini cinayetle\nsuçlamak zorunda kalmaktan korkuyorlar.
+74|<CLT=cltMIND>O yüzden iş bana düşüyor... Yapmalıyım.\nDedektifliğimle bunu kanıtlayacağım!
+75|Yani hâlâ suçlunun ben olduğuma mı\ninanıyorsun?
+76|Ama benim olduğumu gösteren hiçbir delil\nyok—
+77|Hayır, var. Suçlu olduğuna dair kanıtım\nvar.
+78|Cesedi taşımak için teleferiğin kullanıldığını\nbelirlediğimizde fark ettim.
+79|Cesedi o derme çatma teleferikle taşıyan\ngerçekten Kirumi'yse...
+80|O zaman <CLT=cltSTRONG>son ipucu<CLT=cltNORMAL> da yerine oturuyor.

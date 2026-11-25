@@ -1,0 +1,66 @@
+@ chap2_text_US
+## c02_211_000
+151|Şunu da söyleyeyim...
+152|Suç akşam 8 ile 10 arasında işlendi ve ben\no sırada spor salonundaydım.
+153|<CLT=cltMIND>...Hm...
+154|Ama orada sadece beş dakika kadar kaldım.
+155|Bunu neden söylüyorsun ki? İpi kendi\nboynuna geçiriyorsun, biliyorsun değil mi?
+156|Beş saniye bile olsa umurumda değil! Spor\nsalonunda yalnız olman fazlasıyla şüpheli!
+157|Bence suçlu buradaki temizlikçi kadın!\nRyoma'yı sen öldürdün, değil mi!?
+158|S-Söylemek için çok erken. Herkesin ne\ndiyeceğini dinlemeliyiz, değil mi?
+159|Siktir et onu!
+160|Ama Miu, suçun işlendiği sırada senin de\nmazeretin yok, değil mi?
+161|B-Benim şüpheli olduğumu mu düşünüyorsun?\nBen...spor salonunun nerede olduğunu bile bilmiyorum.
+162|Böyle bariz yalanlar söylemek seni daha\nşüpheli yapmıyor mu, Miu?
+163|Mazereti olmayan diğer ikisi Kaito ile Maki.\nİfadelerinizi dinleyelim.
+164|Bütün zaman araştırma laboratuvarımdaydım.\nSpor salonuna gitmedim.
+165|Ama bu kanıtlanamaz, değil mi?
+167|Peki ya Kaito? Bıyık, keçi sakalı gibi ürkütücü\nyüz kılları ancak katillerde çıkar.
+168|N-Ne!? Keçi sakalım ürkütücü değil!\nBana göz alıcı bir ünlü havası veriyor!
+169|Neyse, o dördünden suçlu mazereti\nolmayan kişi olmalı!
+170|...Özür dilerim ama bu şartlar altında sizden\nşüphelenmekten başka çaremiz yok.
+171|Kimden şüpheleniyoruz!? Suçlu kim!?
+172|Durun! Neden benden şüpheleniyorsunuz!?\nBaştan beri yardım ediyorum!
+173|Ah dur, şimdi hatırladım...\nBenim...bir mazeretim var!
+174|Şüpheli olup olmadığımı duruşma\nilerledikçe göreceksiniz.
+175|Suçlu ben değilim!
+176|Suçlu ben değilim.
+177|Suçlu ben olamam!
+## c02_212_000
+0|Oh! Beni orada gördün mü, Shuichi!?\nNe güvenilir bir yardımcı!
+1|Ne!? Sen de mi, Shuichi!?
+2|İkiniz de iğrenç, yozlaşmış birer\nsapıksınız!
+4|Kirumi bütün zaman boyunca spor\nsalonundaydı, değil mi?
+5|...Bu delilin yeterli bir kanıt olduğuna\ninanmıyorum.
+7|<CLT=cltMIND>Kaede'nin yaptığı gibi herkesin ifadelerini\nayıklamam lazım...
+8|<CLT=cltMIND>Keebo'nun söylediği bir şey dikkatimi\nçekti...
+9|<CLT=cltMIND>Kaede'nin yaptığı gibi herkesin ifadelerini\nayıklamam lazım...
+10|<CLT=cltMIND>Sakin olmam lazım...\nHer seferinde birine odaklan...
+11|<CLT=cltMIND>Kaede'nin yaptığı gibi herkesin ifadelerini\nayıklamam lazım...
+12|<CLT=cltMIND>Sakin olmam lazım...\nHer seferinde birine odaklan...
+## c02_212_001
+0|<CLT=size2>Benim<CLT=size1> bir\n<CLT=size2>mazeretim<CLT=size1> var!
+2|<CLT=size2>Mazeretin<CLT=size1> ne?
+3|Mazeretin ne?
+4|<CLT=size2>Gonta'dan<CLT=size1>\n<CLT=size2>kaçarken<CLT=size1>...
+5|Gonta'dan kaçarken...
+6|İşler biraz...
+7|İşler biraz...kızıştı,\nne demek istediğimi anlarsan.
+8|<CLT=size2>kı
+9|<CLT=size2>zış
+10|<CLT=size2>tı
+11|<CLT=size2>,
+12|ne demek istediğimi anlarsan.
+13|Maki'nin mazereti ne?
+14|Maki'nin mazereti ne?
+15|<CLT=size2>Kimseyle<CLT=size1> <CLT=size2>karşılaşmadım.
+16|Kimseyle karşılaşmadım.
+17|Bütün zaman
+18|Bütün zaman araştırma laboratuvarımdaydım.
+19|araştırma laboratuvarımdaydım.
+20|Muhtemelen başka bir yalan!
+21|Gonta utandı...
+## c02_212_002
+0|Spor <CLT=size2>salonunda\n<CLT=size1>sadece
+1|Spor salonunda sadece yaklaşık...
+2|<CLT=size2>yalnızdım<CLT=size1>\nyaklaşık...

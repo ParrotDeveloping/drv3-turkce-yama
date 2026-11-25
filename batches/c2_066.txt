@@ -1,0 +1,51 @@
+@ chap2_text_US
+## c02_102_003
+14|<CLT=cltMIND>Demek ben yakalandıktan sonra da Ryoma\nhâlâ ortalıkta koşuşturuyormuş...
+15|Ayrıca 30 dakika önce Miu, Gonta'dan kaçarken\nRyoma'yı görmüş.
+16|O zaman Gonta'nın ifadesi oldukça\ngüvenilir.
+17|Evet... En azından Ryoma'nın <CLT=cltSTRONG>dün akşam\n8 civarına kadar<CLT=cltNORMAL> hayatta olduğunu biliyoruz.
+18|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Ryoma'nın Görülmesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+20|Yani en azından Ryoma'nın <CLT=cltSTRONG>dün akşam\r\n8 civarına kadar<CLT=cltNORMAL> hayatta olduğunu biliyoruz.
+22|Maki...burada ne yapıyorsun?
+24|Daha önce...soruşturmaya yardım etmeyeceğini\nsöyledin. Ciddi miydin?
+25|Ben yardım etmesem de sorun olmaz, değil mi?
+26|Dedektif sensin, ben değilim. Yoksa bu davayı\ntek başına çözemeyeceğini mi düşünüyorsun?
+27|B-Bu tamamen farklı, bu—
+28|Hahaha! Bu epey sert!\nAma yardımcım canını dişine takıp çalışıyor!
+29|...Yardımcı mı?
+30|Evet! Shuichi artık benim yardımcım!
+31|Tam tersi olması...gerekmez mi?\nYardımcı aptal olan olmalı.
+32|A-Aptal olan mı? Ben daha çok bilim adamı\ntipiyim...o yüzden bu işler pek bana göre değil.
+33|...Bilim adamı olmak soruşturmada\nişe yaramaz mı?
+34|Daha önemlisi...neden bunca zamandır\nburadasın? Bir sebebi var mı?
+35|Sana ne?
+36|Çünkü kafama takılıyor...
+37|Bu oda açıldığından beri hep\nburadasın.
+38|Sanki...nöbet tutuyorsun.\nBaşka kimsenin girmediğinden emin oluyorsun.
+40|Bu...bir sorgu mu?
+41|Ah, hayır, yapmaya çalıştığım şey o değil...\nSadece benimle konuşmanı istiyorum, Maki.
+42|Bunun davayla bir ilgisi yoksa lütfen\nbana söyle.
+44|İstemiyorsan bize yardım etmek zorunda\nolmadığın doğru.
+45|Ama en azından soruşturmamızla iş birliği\nyapmalısın...
+46|Çünkü hepimizin hayatı söz konusu.
+47|İş birliği yapsam bile hiçbir faydam\nolmazdı.
+48|Çünkü...son birkaç gündür buradayım.
+49|Yurduma sadece geceleri duş almak için\ndöndüm. Dün gece dahil.
+50|O zaman şunu sorabilirim...\nDün gece Gonta'yı hiç gördün mü?
+51|Gonta dün gece hepimizi yakalamaya\nçalışarak etrafı arıyordu.
+52|Yakalanmaktan nasıl kurtuldun?
+53|Gonta uğradı ama bir şekilde onu\nkovmayı başardım.
+54|Tek yaptığım ona şunu söylemekti...
+55|"Bana elini sürersen kendi dilinde boğularak\r\nölürsün." O kadar.
+56|Gonta da bundan korkup kaçtı mı? Eh,\nsanırım bir kıza karşı kendini tutardı.
+57|<CLT=cltMIND>Maki'nin ifadesini dinlerken aklımda\nbir soru büyüdü...
+58|<CLT=cltMIND>Maki neden buradan ayrılmayı bu kadar\nistemiyordu?
+59|<CLT=cltMIND>Bunun için ne sebebi vardı?
+60|İşimiz bitti mi? Benimle konuşarak vaktini\nboşa harcıyorsun. Hiçbir şey bilmiyorum.
+61|Tamam, ben işimi bitirdim.
+62|Ha? Bitirdin mi?
+63|Eh, mazereti biraz zayıf ama Ryoma'yı\nonun öldürdüğünü sanmıyorum.
+64|İçgüdülerim bana öyle söylüyor.
+66|Ama bir şey hatırlarsan Shuichi'ye\nsöylemeyi unutma, tamam mı?
+67|O benim yardımcım, biliyorsun değil mi?\nEpey iyidir.
+69|<CLT=cltMIND>Sonunda Maki'den alabildiğimiz tek şey\nbaştan beri burada olduğuydu.

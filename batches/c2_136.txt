@@ -1,0 +1,70 @@
+@ chap2_text_US
+## c02_709_051
+1|Sanırım o <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL> büyüme\nkötü bir etki yaptı...
+6|Tam zamanında. Büyümü yenilemek için yaşam\ngücünden biraz çekeceğim.
+7|Merak etme, seni öldürmeyeceğim.\nSonuçta kara büyücü değilim.
+8|<CLT=cltMIND>Himiko ile biraz vakit geçirdim...
+## c02_709_052
+0|<CLT=cltSTRONG>Hayatımızdaki en önemli insanların\n<CLT=cltNORMAL>videoları, ha?
+1|Hayır, bir şey yok...\nBoşver...
+6|Nyeeeh...\nNe istersen yap...
+7|<CLT=cltMIND>Özellikle tembellik etse de Himiko ile\nbiraz vakit geçirdim.
+## c02_709_053
+0|Nyeh, ne?\nSen de mi benimle konuşmak istiyorsun?
+1|Angie durmadan benimle konuşuyor...
+6|Nyeeeh...\nBüyüme o kadar mı ilgilisin?
+7|Eh, gerçekten o kadar ilgiliysen sanırım\nsana biraz anlatabilirim...
+8|<CLT=cltMIND>Himiko bir süre bana numaralarını\nanlattı— Ah! "Büyülerini"...
+## c02_709_054
+0|Himiko Yumeno 2. Bölüm Serbest Etkinlik 5
+4|<CLT=cltSYSTEM>Himiko ile ne yapmak istersin?
+5|Etkinlik 5 Himiko Yumeno ile Vakit Geçirme
+6|<CLT=cltMIND>Himiko ile biraz vakit geçirdim...
+## c02_710_050
+0|Sana söylediğimi unuttun mu? Bir dedektif\niçin hafızan berbat.
+1|...Bir daha buraya gelme.
+2|Ah, ö-özür dilerim...
+6|<CLT=cltSYSTEM>Maki ile ne yapmak istersin?
+7|Etkinlik 1 Maki Harukawa ile Vakit Geçirme
+8|<CLT=cltMIND>Maki ile biraz vakit geçirdim...
+## c02_710_051
+0|...Canının yanmasını mı istiyorsun?
+1|Ah, hayır, ben...
+2|O zaman bir daha buraya gelme.
+6|<CLT=cltSYSTEM>Maki ile ne yapmak istersin?
+7|Etkinlik 1 Maki Harukawa ile Vakit Geçirme
+8|<CLT=cltMIND>Maki ile biraz vakit geçirdim...
+## c02_710_052
+1|Kaç kere gelirsen gel, seni içeri\nalmayacağım ve dışarı çıkmayacağım.
+2|A-Anlıyorum...
+6|<CLT=cltSYSTEM>Maki ile ne yapmak istersin?
+7|Etkinlik 3 Maki Harukawa ile Vakit Geçirme
+8|<CLT=cltMIND>Maki ile biraz vakit geçirdim...
+## c02_710_053
+0|...Sana söyleyecek bir şeyim yok. Git.
+1|<CLT=cltMIND>Yapabileceğim bir şey yok...
+5|<CLT=cltSYSTEM>Maki ile ne yapmak istersin?
+6|Etkinlik 4 Maki Harukawa ile Vakit Geçirme
+7|<CLT=cltMIND>Maki ile biraz vakit geçirdim...
+## c02_710_054
+1|Kim olursa olsun kimseyi geçirmiyorum.\nŞimdi, hoşça kal.
+2|<CLT=cltMIND>Maki bunca zamandır burada...\nGerçekten kimsenin girmesini istemiyor olmalı.
+6|<CLT=cltSYSTEM>Maki ile ne yapmak istersin?
+7|Etkinlik 5 Maki Harukawa ile Vakit Geçirme
+8|<CLT=cltMIND>Maki ile biraz vakit geçirdim...
+## c02_711_050
+0|Hmmmmmm...\nIhhhhhh...
+1|Boşuna! Hiçbir şey hatırlayamıyorum!\n<CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> da ne böyle!?
+5|<CLT=cltMIND>Bir süre Tenko ile takılayım mı?
+6|Bunu tartışalım! Birbirimizle konuşursak\nbelki yeni bir şey öğrenebiliriz!
+7|Gerçi zaten bir yozdan iyi bir şey\nbeklemiyorum!
+8|<CLT=cltMIND>Tenko ile bir süre <CLT=cltSTRONG>Ultimate Avı<CLT=cltMIND>\nhakkında düşündük...
+## c02_711_051
+0|Oh, sen misin, Shuichi.\nBenden bir şey mi istedin?
+4|<CLT=cltMIND>Bir süre Tenko ile takılayım mı?
+5|Koşuya çıkmayı düşünüyordum!
+6|Sıkıldıysan birlikte yapalım!
+7|<CLT=cltMIND>Tenko ile avluda koşuya çıktık.
+## c02_711_052
+0|Bütün güveçler arasında en sevdiğim işkembe\ngüveci!
+1|İşkembe en iyisi! Yer yemez enerjiye\ndönüştüğünü hissedebiliyorum!

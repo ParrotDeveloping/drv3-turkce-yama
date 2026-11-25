@@ -1,0 +1,44 @@
+@ chap2_text_US
+## c02_233_000
+0|O kumaş parçası...Kirumi'nin <CLT=cltSTRONG>siyah\neldiveninden<CLT=cltNORMAL> geldi!
+1|Ah...!
+2|Kirumi'nin eldiveni mi?
+3|Suçlu ipi elleriyle tutarak inişini\nyavaşlatıyorsa...
+4|çok fazla <CLT=cltSTRONG>sürtünme<CLT=cltNORMAL> olurdu.\nİp yanığına yol açmaya fazlasıyla yeterdi.
+5|Ama suçlumuz akıllıydı. Yanmadılar\nçünkü çıplak elle değillerdi.
+6|Evet! Suçlunun eldiveni vardı!\nBiri sürtünmeden parçalandı ve...
+7|Ve...havuza mı düştü?
+8|Hatırladığım kadarıyla siyah eldiven giyen\ntek kişi Kirumi, değil mi?
+9|Şu an elindeki eldivenler...\nSanırım yurdundan, değil mi?
+10|Odalarımızdaki yedek üniformalar şu an\ngiydiğimiz kumaştan yapılmış.
+11|Kumaş parçasını eldiveninle karşılaştırarak\nteorimi test edebiliriz.
+12|Gh...grgh...
+13|...Ee, Kirumi?
+14|Havuzda bulduğumuz siyah kumaşı eldivenlerinle\nkarşılaştırmamıza izin verecek misin?
+15|I-Iıı...!
+16|Ha? Ne oldu?\nNeden bu kadar terliyorsun?
+17|Kirumi...ne oldu?
+18|Hrghhhh...uuuuhhhhhh...!
+19|<CLT=cltMIND>Sonuçta...ben de onlar gibiyim.\nGerçeği ortaya çıkarmaktan korkuyorum.
+20|<CLT=cltMIND>Çünkü bu birinin feda edilmesi gerektiği\nanlamına geliyor. Ama Kaede de korkuyordu...
+21|<CLT=cltMIND>Bunun onu durdurmasına izin vermedi.\nHer şeyi sonuna kadar düşündü.
+22|<CLT=cltMIND>Gerçekle yüzleştim, ondan şüphelendim,\ndüşünmeye devam ettim, ilerlemeye devam ettim...
+23|<CLT=cltMIND>Beni buraya getirdi.\nVe ondan yüz çevirmeyeceğim.
+24|Size gerçeği göstereceğim.
+## c02_234_000
+0|Kurbanın cesedi bu sabah <CLT=cltSTRONG>Himiko'nun Su Altından\nKaçış Gösterisi<CLT=cltNORMAL> sırasında bulundu.
+1|Tankta <CLT=cltSTRONG>piranaları<CLT=cltNORMAL> görünce Himiko'nun\nkaçışının başarısız olduğunu düşündük.
+2|Elbette hepsi gösterinin bir parçasıydı.\nHimiko'nun kaçışı kusursuz geçti.
+3|Ama Angie tankın önündeki perdeyi\naçtığında...
+4|etrafında piranalar kaynaşan Ryoma'yı\ngördük!
+5|Hiçbirimiz tepki veremeden piranalar\nRyoma'nın bedenini yiyip bitirdi.
+6|Ve geriye sadece <CLT=cltSTRONG>kemikleri<CLT=cltNORMAL>\nve taktığı <CLT=cltSTRONG>kelepçeler<CLT=cltNORMAL> kaldı...
+7|O dehşet verici manzara suçlunun kendi çarpık\nbüyü numarasının <CLT=cltSTRONG>son dokunuşuydu<CLT=cltNORMAL>.
+8|Suçlu cinayetin zamanını ve yerini <CLT=cltSTRONG>gizledi<CLT=cltNORMAL>\nve bu sırada Himiko'yu işin içine çekti.
+9|Aslında suç dün gece, saat 20.55\ncivarında başladı.
+10|<CLT=cltSTRONG>Spor salonunda<CLT=cltNORMAL> gösteriye hazırlanırken\nsuçlunun yalnız kalma fırsatı oldu.
+11|İşte o zaman suçlu <CLT=cltSTRONG>pirana tankına<CLT=cltNORMAL>\nuzanmak için <CLT=cltSTRONG>merdiveni<CLT=cltNORMAL> kullandı...
+12|ve tankın içine koymak için <CLT=cltSTRONG>cam\nkapağı<CLT=cltNORMAL> çıkardı.
+13|Onu piranaları tankın bir tarafına zorlamak\niçin <CLT=cltSTRONG>bölme<CLT=cltNORMAL> olarak kullandı.
+14|Sonra suçlu spor salonundaki sahne\nkanadından <CLT=cltSTRONG>ipi<CLT=cltNORMAL> aldı...
+15|Ve merdiveni bir kez daha kullandı, bu sefer\n<CLT=cltSTRONG>spor salonunun penceresine<CLT=cltNORMAL> tırmanmak için.

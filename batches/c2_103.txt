@@ -1,0 +1,51 @@
+@ chap2_text_US
+## c02_219_000
+13|Soruşturma sırasında denedin, Shuichi.\nO merdiven pencereye yetişti, değil mi?
+14|Yani suçlunun bunu başarmak için cesedi\npencereden sokması yeterliydi, değil mi?
+15|<CLT=cltMIND>Hayır, o yöntemin mümkün olduğunu\nsanmıyorum. Çünkü...
+16|Merdiven taşınamaz
+17|Bence merdiven taşınamaz.
+18|Ha? Merdiveni taşımak kolaydı.\nSahnede kullandık, hatırladın mı?
+20|Taşımak için vakit yoktu
+21|Bence merdiveni kaldırmak için\nyeterli vakit yoktu...
+22|Merdiveni gece herhangi bir zamanda\ntaşıyamazlar mıydı?
+23|Bence suçlunun yeterince vakti vardı.
+25|Merdiven pencereye yetişmez
+27|Merdivenle bile baştan imkânsız olurdu,\ndeğil mi?
+28|Cesedin pencereden tanka atıldığı argümanı\ntamamen yanlış.
+30|<CLT=cltMIND>Merdiven bu suçta öyle kullanılamazdı.\nBunu kanıtlayabilirim...
+31|Merdivenin pencereye yetişmesinin tek\nsebebi sahnenin üstünde olmasıydı.
+32|Merdiveni havuz tarafında kullansaydın\npencereye tam yetişmezdi.
+33|Merdiven sahnenin üstündeyken bile\npencereye zar zor yetişiyordu.
+34|Ve spor salonunun havuz tarafında sahne\nkadar yüksek hiçbir şey yok.
+35|Son olarak merdiven spor salonunda\nbulundu, doğru mu?
+36|Suçlu merdiveni havuz tarafında kullansaydı\nonu spor salonunda bulmazdık.
+37|Ve merdiveni pencereden geri de atamazlardı\nçünkü çok ağır.
+38|O zaman Gonta o hayvani gücüyle merdiveni\nya da cesedi ya da...bir şeyi fırlattı!
+39|Beyefendiler ceset fırlatmaz!\nMerdiven de!
+40|Ceset zaten pirana tankına atılmış\nolamazdı.
+41|Cam levha kaymasın diye dikkatle\nyerleştirilmesi gerekirdi.
+42|Anladın mı, kas kafa!? Sana tonla steroid\nversek bile imkânsız olurdu!
+43|Özür dilerim. Haklısın.
+44|Özür dilemene gerek yoktu, Gonta...
+45|Suçlunun cesedi pencereden nasıl\ntaşıdığı...
+46|Ha! Bunu bile bilmiyor musunuz!?\nNe kadar kalın kafalısınız!
+47|O zaman cevabı biliyor musun?
+48|Elbette.
+49|Söyle onlara, Shuichi!\nGerçekle hepsini uçur!
+50|Ah...ben, şey...aslında henüz\nbilmiyorum...
+52|Suçlu cesedi kesinlikle pencereden taşıdı\nama nasıl olduğunu bilmiyorum...
+53|C-Cidden mi?
+54|Oh olsun! O kadar burnu havada davrandıktan\nsonra kendini rezil ettin!
+55|Erkekler susup cezalarını çekmeli!
+56|N-Ne yapacağız, Shuichi!?\nBunu çözmemiz lazım yoksa işimiz biter!
+57|Hey, bir şey yapmalısın, Shuichi!
+58|B-Biliyorum...bir şey yapmalıyım ama...
+59|<CLT=cltMIND>Ne yapacağımı bilmiyorum,\nhenüz çözemedim...
+61|<CLT=cltMIND>Lanet olsun...gerçekten yeterince\niyi değil miyim...?
+62|<CLT=cltMIND>Öyle miyim...? Dedektif olarak hiçbir işe\nyaramıyor muyum? B-Bunu yapamam, yapamam—
+63|Bence cesedin pirana tankına nasıl girdiği\npek önemli değil.
+65|Gonta önemli olduğunu düşünüyor. Çözmezsek\nsuçlunun numarasını bilemeyiz—
+66|Konudan sapıyoruz. Nasıl yapıldığı önemli\ndeğil, kimin yaptığı önemli.
+67|Cesedi nerede bulduğumuza\nodaklanmamalıyız.
+68|Onun yerine <CLT=cltSTRONG>nerede öldürüldüğüne<CLT=cltNORMAL>\nodaklanmalıyız.

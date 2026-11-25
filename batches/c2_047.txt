@@ -1,0 +1,55 @@
+@ chap2_text_US
+## c02_019_136
+83|Buradan kaçar kaçmaz Usta'nın yanına dönüp\nçalışmalarıma devam edeceğim!
+85|Buradan kaçar kaçmaz Usta'nın yanına dönüp\nçalışmalarıma devam edeceğim!
+86|Ööf... Demek gerçekten gidip Yavrupad'leri\ngetirdi...
+87|Nyahahaha! Ne ilahi bir zamandı!
+88|Benim adam sürüngenlerle dolu.\nBu kadar böcek beni hiç rahatsız etmez.
+89|Shuichi, nereye gidiyorsun?\nAna etkinlik başlamak üzere.
+96|<CLT=cltMIND>Bu sadece bir numune...\nÖlü olduğunu biliyorum ama...
+98|<CLT=cltMIND>Kitapların içinde bile varlar!
+100|<CLT=cltMIND>Çok uzun bir süre başka bir böcek\ngörmek istemiyorum...
+101|Shuichi, nereye gidiyorsun?\nAna etkinlik başlamak üzere.
+## c02_020_101
+0|Gece yarısı olmak üzere.\nYarın yoğun bir gün, biraz uyumalıyım.
+1|<CLT=cltMIND>Kendimi yatağa bıraktım ve\nçabucak uykuya daldım.
+2|Bir mucizeye ihtiyacım var!
+3|...Dua edersiniz, değil mi? Çalışırken,\nyaşarken, kumar oynarken.
+4|Ama mucizeler her gün olur.
+5|Mesela dünyanın var olma ihtimalinin\nne olduğunu biliyor musunuz?
+6|Bir hurdalıktan geçen kasırganın çalışan\nbir araba monte etmesiyle aynı ihtimal.
+7|İşte bu bir mucize!
+8|Bu yüzden dünyada hayatta olmamız bir\nmucize!
+9|Her gün her türlü mucize olur.\nHayat küçük mucizelerden oluşur.
+10|Ama ne zaman bir mucize olsa, kadere,\nkısmete ya da her neyse ona yoruluyor.
+11|Yenilerini ummak yerine çoktan gerçekleşmiş\nmucizeler için şükredin.
+12|Bunu yaparsanız mucizelerin tadını\nçıkarabilirsiniz, değil mi?
+14|Bu, Ultimate Akademisi'nden resmi bir\nduyurudur! Saat 8 oldu, uyanın!
+15|Oh, gitti! Monosuke çok sabırsız!
+16|Son zamanlarda huysuz, o yüzden\nsabırsızlaşıyor.
+17|Ben...sabırsız erkeklerden hoşlanmam!
+18|BEN...MONOSUKE-İLE-ANLAŞMAK-İSTİYORUM.
+19|Biraz erken ama gece anonsunu da\nşimdiden yapayım!
+20|Sonra saat akşam 10 olacak!
+21|Çok erken! Sabırsızlığın zamanı ve\nmekânı bükmeye çalışıyor!
+22|...Hoşça kalın, ayıcıklar.
+23|Bugün Himiko'nun büyü gösterisi günü...
+24|<CLT=cltMIND>Ama dünkü böcek fiyaskosu, şimdi de bu mu?\nBöyle şeylere gerçekten vaktimiz var mı?
+25|Neyse, sanırım bu kadar düşünmemeliyim.\nŞimdilik spor salonuna gideyim.
+## c02_020_502
+0|<CLT=cltMIND>Odadan çıktıktan sonra bile boğuk vızıltıyı\nve Kokichi'nin çığlıklarını duyabiliyordum.
+1|Yarın sabaha ceset olabiliriz...
+2|Bununla şaka yapma...ya olursa?\nDüpedüz mümkün.
+3|Peki bu Yavrupad'leri asıl sahiplerine\nnasıl geri vereceğiz?
+4|Hmmm, keşke Monoyavrular burada olsaydı.\nEminim bize yardım ederlerdi.
+6|...Oh, sadece sen misin?
+7|DİĞERLERİ-UYUYOR... BİR-ŞEYE-İHTİYACINIZ-\nVARSA, BEN-YARDIM-EDEBİLİRİM.
+8|Ah, şey...Yavrupad'lerle ilgili...\nKokichi onları bize getirdi ve...
+9|BENİM-YAPMAM-GEREKEN...ONLARI-\nGERİ-VERMEK.
+10|HER-BİRİNİ...KENDİ-ODANIZA-GERİ-\nGÖTÜRECEĞİM...PİSLİKLER.
+11|Ah...gitti.\nEh, bu ani oldu.
+12|Ama aralarından muhtemelen ona\ngüvenebiliriz, değil mi?
+13|Yurtlarımıza dönelim mi? Gece çoktan\nbaşladı.
+14|Nyahahaha, doğru! Yarın büyü\ngösterimiz var.
+15|Bütün bunlar yüzünden prova yapamadık ama\neminim ilahi bir gösteri olacak.
+16|İzlemeye gelmenizi bekliyor olacağız!

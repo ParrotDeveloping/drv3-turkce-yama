@@ -1,0 +1,50 @@
+@ chap2_text_US
+## c02_101_009
+32|Önceki Monokuma Dosyası'nda Rantaro'nun\n<CLT=cltSTRONG>ölüm saati<CLT=cltNORMAL> yazıyordu, değil mi?
+38|Ama bu seferki Monokuma Dosyası'nda\n<CLT=cltSTRONG>ölüm saati<CLT=cltNORMAL> yazmıyor.
+39|Monokuma hata mı yaptı!?
+40|Hayır...bu kasıtlıydı.
+41|Monokuma bize suçluyu ele verecek hiçbir\nbilgi vermeyeceğini söylemişti.
+42|Bu şekilde düşününce...
+43|Bu bilginin suçlu için çok ağır bir delil\nolacağı anlamına geliyor.
+44|Yani bu davanın anahtarı\n<CLT=cltSTRONG>ölüm saati<CLT=cltNORMAL>!
+45|Hah, işte bu!\nİyi bir yardımcı seçtiğimi biliyordum!
+46|<CLT=cltMIND>Monokuma Dosyası'nda gözüme takılan\nbir şey daha var...
+47|<CLT=cltMIND>Ryoma'nın ölüm sebebi.
+48|<CLT=cltMIND><CLT=cltSTRONG>Boğulma<CLT=cltMIND> yazıyor...\nAma eğer öyleyse...
+49|<CLT=cltMIND>Davayı oradan çözebiliriz\nbelki...
+50|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma Dosyası 2<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+51|Pekala. Monokuma Dosyası'nı bitirdiğimize\ngöre soruşturmaya başlayabiliriz.
+52|Yeni yardımcıma ilk emrim...
+53|Her yeri araştır ve bizi suçluya götürecek\nipuçları bul!
+54|<CLT=cltMIND>Beklediğim gibi epey\nbuyurgan...
+55|Yeni yardımcıma ilk emrim...
+56|Her yeri araştır ve ipuçları bul!\nHiçbir şeyi gözden kaçırma, anladın mı?
+57|Bakmamız gereken diğer yerler...
+58|Önce havuz alanı.\nSonra Ryoma'nın yurt odası.
+59|Sonra <CLT=cltSTRONG>Ultimate Tenisçi Araştırma Laboratuvarı<CLT=cltNORMAL>...
+60|Ve son olarak <CLT=cltSTRONG>Ultimate Sihirbaz Araştırma\nLaboratuvarı<CLT=cltNORMAL>.
+61|Önümüzde epey iş var!\nHadi işe koyul, Shuichi!
+62|Burada bir şey var mı?
+63|Hayır, buna aradıktan sonra karar verelim!\nGöze çarpan her şeyi araştır!
+64|Hey, burayı daha ne kadar araştıracaksın?\nHâlâ suçluyu bulmamız lazım, biliyorsun değil mi?
+65|Gonta onu kurtarabilirdi...\nHayır, Gonta onu kurtarmalıydı...!
+66|Gonta...ne oldu?
+67|Piranalar Ryoma'ya saldırdığında...\nGonta tanka dalsaydı...
+68|O zaman...Gonta Ryoma'ya yardım edebilirdi. Ama\nGonta korktu. Bir şey yapamayacak kadar korktu.
+69|Özür dilerim! Gonta gerçekten çok üzgün!
+70|Bir erkek bu kadar kolay özür dilememeli...
+71|Hem atlasaydın bile seni de yerlerdi.
+72|Ayrıca Monokuma Dosyası'nda okuduğuma göre\nzaten onu kurtaramazdın, Gonta.
+73|Ha? Gerçekten mi? Monokuma Dosyası'nda\nöyle mi yazıyor?
+74|Monokuma Dosyası'nı daha okumadın mı?
+75|Hayır...Gonta pek anlamadı... Gonta yardım\nedecek kadar akıllı değil...
+76|Ne diyorsun sen!? Özür dilemeye vaktin varsa\ndosyayı okumaya da vaktin var!
+77|Yardım edemeyeceğini düşünüyorsan edebilene\nkadar çalış! Senin yapabileceğin şey bu!
+78|Aynen öyle, Gonta!\nÇok büyük yardımın dokunuyor!
+79|Sonuçta sadece *senin* bildiğin bazı\nbilgiler var.
+80|Sadece...Gonta'nın bildiği bilgiler mi?
+81|Hatırlıyor musun? Gösteri sırasında\nsahneye çıkmıştın, değil mi?
+82|Bu, piranalar düşmeden yaklaşık...\n20 saniye önceydi, değil mi?
+83|E-Evet... Çünkü Gonta Himiko için endişelendi...
+84|Tankın içini gördün mü?\nHimiko'yu ya da Ryoma'yı gördün mü?

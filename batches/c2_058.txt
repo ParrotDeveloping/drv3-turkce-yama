@@ -1,0 +1,47 @@
+@ chap2_text_US
+## c02_101_009
+181|Evet! Hazırlıklara dün başladık.\nBir sürü kişi yardım etti.
+182|Mesela Himiko'nun araştırma laboratuvarından\nağır tankı ve merdiveni taşırken...
+183|Keebo ile ben onlara yardım ettik.
+184|Tankın makarası vardı ama çok büyük\nolduğu için yine de epey zahmetliydi.
+185|Dikişten nefret ettiğim için de perdeleri\ndikmesini Kirumi'den istedim.
+186|Yani kısacası gösterinin başarılı olması\ntamamen Atua sayesinde.
+187|Hayır, hepimiz sayesinde.
+188|<CLT=cltMIND>Gerçekten...başarılı mıydı?
+189|Bu arada, piranalar senin fikrin\nmiydi?
+190|Su Altından Kaçış Gösterisi tek başına sıradan\nbir büyü gösterisinden farksız.
+191|Piranaları kullanırsak gösterinin daha heyecanlı\nve ilahi olacağını düşündüm.
+192|Atua bana öyle söyledi.
+193|<CLT=cltMIND>Demek Atua öyle tavsiyeler de\nveriyor, ha?
+194|Peki pirana tankı ve sayaç...\nOnlar Himiko'nun laboratuvarındandı, değil mi?
+195|Evet, evet. Pirana tanklarının kılavuzuna göre\nsayaçla senkronize çalışıyor...
+196|Sayaç sıfırlanınca pirana tankının tabanı\notomatik olarak açılıyor.
+197|<CLT=cltMIND>Anlıyorum. Yani ekipmanın çoğu\nHimiko'nun laboratuvarından gelmiş.
+198|Ve tam hazırlıkları bitirip mola\nvermek üzereyken...
+199|Gonta bizi yakaladı, o yüzden hiç prova\nyapamadık. Nyahahaha!
+200|Gonta bizi bıraktığında gece olmuştu bile,\no yüzden spor salonuna dönemedik.
+201|Ah evet, gece spor salonuna girilemiyor.
+202|O yüzden bugün sabah anonsundan önce\nspor salonuna gelmeye karar verdik.
+203|Himiko ile ben spor salonunun açılmasını bekliyorduk.\nOhh, sahnenin sağlam olmasına çok rahatladım.
+204|<CLT=cltMIND>Yani o ikisi gelmeden kimse spor\nsalonuna gizlice giremezdi...
+205|Ne oldu Shuichi? Bu kafa karıştırıcı olay\nyüzünden mi endişelisin?
+206|Merak etme, her şey yoluna girecek.
+208|Atua konuştu... Endişelenecek hiçbir\nşeyin yok.
+209|Endişelenecek bir şey yok mu?
+210|Hiçbir şey Atua'nın gözünden kaçamaz.\nSuçlu bile.
+211|Nyahahaha! Atua gerçekten hesaba katılması\ngereken ilahi bir güç!
+212|<CLT=cltMIND>Angie gittikçe daha...ürkütücü\nkonuşmaya başlıyor.
+213|Bütün sanat işlerinden ben sorumluydum.\nSahneyi bile ben yapıp boyadım.
+214|Ama Su Altından Kaçış'ın numarasını bilmiyorum\nçünkü Himiko sadece "<CLT=cltSTRONG>büyü<CLT=cltNORMAL>" dedi.
+216|Bu arada, piranalar senin fikrin\nmiydi?
+217|Su Altından Kaçış Gösterisi tek başına sıradan\nbir büyü gösterisinden farksız.
+218|Piranaları kullanırsak gösterinin daha heyecanlı\nve ilahi olacağını düşündüm.
+219|Atua bana öyle söyledi.
+221|<CLT=cltMIND>Ah, neyse, Atua'yı bir kenara\nbırakırsak...
+222|<CLT=cltMIND>Yanlış hatırlamıyorsam pirana tankı da\nsayaç da Himiko'nun laboratuvarındaydı.
+223|<CLT=cltMIND>Yani ekipmanın çoğu oradan\ngelmiş.
+224|Ve tam hazırlıkları bitirip mola\nvermek üzereyken...
+225|Gonta bizi yakaladı, o yüzden hiç prova\nyapamadık. Nyahahaha!
+226|<CLT=cltMIND>Ve Böceklerle Tanışma Buluşması'ndan\ngece başladıktan çok sonra çıkabildik.
+227|O yüzden bugün sabah anonsundan önce\nspor salonuna gelmeye karar verdik.
+228|Himiko ile ben spor salonunun açılmasını bekliyorduk.\nOhh, sahnenin sağlam olmasına çok rahatladım.

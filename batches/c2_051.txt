@@ -1,0 +1,57 @@
+@ chap2_text_US
+## c02_022_008
+113|Ah, bunu yapamazsın! Daha gösterinin\nortasındayız!
+114|A-Ama...Gonta bir şey yapmazsa Himiko\npiranalara yem olacak—
+116|Şey... On saniyeden az kaldı...
+117|Numarayı mahvetse de umurumda değil, çık\nartık! Bu stres kalbime iyi gelmiyor!
+118|Himikooooooooo!!!
+119|<CLT=cltMIND>Sayaç sıfıra vurduğu anda\nzil çaldı...
+120|<CLT=cltMIND>Ve sonra...
+121|<CLT=cltMIND>Asılı tankın tabanı açıldı ve içindeki\nbulanık su ile karanlık şekiller...
+122|<CLT=cltMIND>doğruca Himiko'nun yüzdüğü su\ntankına düştü!
+123|Ha? Haaa?
+124|Bakın! Piranalar!
+125|Ç-Çabuk! Perdeler!\nPerdeleri açın artık!
+126|Tamam. Şimdi açıyorum!
+127|<CLT=cltMIND>Angie perdeleri araladığında...
+128|<CLT=cltMIND>inanılmaz bir manzarayla karşılaştık.
+129|<CLT=cltMIND>Hepimizin bunu idrak etmesi bile\nbirkaç saniye sürdü.
+130|<CLT=cltMIND>Ama belki de idrak etmeye\nçalışmıyorduk.
+131|<CLT=cltMIND>Belki de kabullenmek istemiyorduk.
+132|Bu arada, sana bir şey sorabilir miyim Angie?
+133|Hmmm, ne?
+134|Ş-Şey... Himiko ile yalnızken neler\nkonuşuyorsunuz?
+135|Oh, normal şeyler işte...
+136|Yemek, tatlılar, tırnaklarımız ve Atua'nın\nbanyo suyunu indirimli almanın yolları.
+137|Sonuncusu hiç normal değil!
+138|<CLT=cltMIND>Angie...epey baş edilmesi zor biri olabiliyor.\nAcaba Himiko onunla başa çıkabiliyor mu...
+139|Bu düşündüğümden çok daha büyük.\nSıradan, gündelik bir sahne hayal etmiştim.
+140|Sanırım benim sıradan kafamdaki bütün\ndüşünceler düpedüz...sıradan.
+141|Tenko, titriyorsun.
+142|Sana defalarca Atua'nın bütün yarattıklarını\nsevdiğini söyledim.
+143|Bütün yarattıkları da ne demek!?\nBu fazlasıyla çok sevgi!
+144|Ya Monokuma, ha?\nAtua onu da seviyor mu?
+145|Elbette. Bu yüzden sevgimizin ona ulaşması\niçin biz de Monokuma'yı sevmeliyiz.
+146|Kes sesini artık!
+147|Robotlar sevgi hissedemez! Hiçbir duygu\nhissedemezler!
+148|Ve yine de...bunu söylediğinde göğsümde\ntuhaf bir acı hissettim...
+149|Biliyor musun, son zamanlarda alt\nbedenimdeki eklemlerde tuhaf ağrılar var.
+150|Bu...gut hastalığının belirtisi değil mi?
+151|B-Bu alet de ne...!? Daha önce böyle\nbi' şey hiç görmedim...!
+152|Hınggh... Heyecanlanıyorum...\nGerçekten, gerçekten heyecanlanıyorum...!
+153|<CLT=cltMIND>Himiko o kadar gergindi ki titriyordu...\nBu gösteriyi gerçekten başarabilecek mi?
+154|<CLT=cltMIND>Burada bir merdiven var...\nAcaba gösteriyi kurmak için mi kullanıldı?
+155|<CLT=cltMIND>Bu bir sayaç.
+156|<CLT=cltMIND>Bu büyü numarasının bir süre\nsınırı olacağı anlamına mı geliyor?
+157|<CLT=cltMIND>Burada kocaman bir perde asılı...\nBu ne tür bir büyü numarası için?
+158|<CLT=cltMIND>Bir su tankı mı...?
+159|<CLT=cltMIND>İçinde balık var gibi.\nBu da numaranın bir parçası mı?
+## c02_022_009
+0|İşte!\nMuhteşem Su Altından Kaçış—
+1|<CLT=cltSYSTEM>*ding dong, dong ding*
+4|Herkes lütfen spor salonunda toplansın!
+5|Nyeh? Ceset mi...?\nSpor salonunda mı?
+6|<CLT=cltMIND>Sonra Himiko dönüp su tankına\nbaktığında...
+## c02_100_009
+0|<CLT=cltMIND>Ultimate Akademisi'nde ikinci kez\nceset bulundu anonsu yankılandı.
+1|<CLT=cltMIND>Büyü gösterisinde olmayanlar anonsu\nduyunca koşarak geldi...

@@ -1,24 +1,272 @@
+0	Hayır, bence Kirumi doğruyu söylüyor.\nKokichi'nin anlattıkları bunu kanıtlıyor.
+1	Giriş salonuna vardığım anda Kirumi\nbeni fark etti.
+2	Bu, Gonta'nın laboratuvarından çıktıktan hemen\nsonraydı...yani tam akşam 9 civarı.
+3	Bir iş çevirip çevirmediğimi sorarak bana\nsağdan soldan sorular yağdırmaya başladı.
+4	Durmadan konuştu...sonunda gece başlayınca,\nakşam 10'da beni bıraktı.
+5	...Koca bir saat mi?
+6	Eh, sadece ilk yarım saati nutuktu,\nöbür yarısında kovalamaca oynadık.
+7	Kokichi, Kirumi ile akşam 9'da karşılaştı ve\ngece başlayana kadar birlikteydiler.
+8	Gonta, Himiko ile Angie'yi yakalamak için\nsaat 9'a beş kala spor salonuna gitti.
+9	Gonta'nın laboratuvarından çıktıktan sonra\nKirumi'ye rastladım.
+10	Kirumi'nin saat 9'a beş kalaya kadar spor\nsalonunda kaldığından eminim.
+11	Bu bilgi bize önceden söylenebilirdi.
+12	Pardon! Unuttum! Duruşmayı daha ilginç yapmak\niçin kesinlikle sır olarak saklamadım!
+13	Unuttun mu...? Yine bir yalan söylüyor\nolman çok daha makul görünüyor.
+14	Robotların aksine biz et yığınları anılarımızı\nsabit diskimizden çekip çıkaramayız.
+15	Bunun beni kırması mı gerekiyordu?\nMantıksızlığın beni acımayla dolduruyor...
+16	Suçlu bensem bu Ryoma'yı beş dakika\niçinde öldürdüğüm anlamına gelir...
+17	...onu spor salonuna taşıyıp pirana tankına\nsakladığım. Bu pek olası görünmüyor.
+18	Ryoma'yı spor salonuna çağırıp orada\nöldürdüysen taşımana gerek kalmazdı.
+19	Tek yapman gereken onu pirana tankına\nsaklamak olurdu.
+20	Gonta, Angie'yi yakalamak için spor\nsalonuna doğru yola çıkmıştı.
+21	Bundan faydalanıp Ryoma'yı spor salonunda\nbuluşmaya çağırdığımı mı iddia ediyorsun?
+22	Hmmm...bu epey zor olurdu. Muhtemelen\nbaşka ihtimallere bakmalıyız.
+23	Belki Kirumi ile ben konuşurken biri\nspor salonuna gizlice girdi.
+24	Bunu ancak mazereti olmayan diğer üç\nkişi yapabilirdi.
+25	Miu, Kaito ve Maki!
+26	Gahhhhh! Beni de mi katıyorsun!?
+27	Ama aslında şüpheliler listesinden\nçıkarabileceğimiz bir kişi var.
+28	Değil mi? Hiç şüpheli olmayan bir kişi var!\nKim olduğunu söyle artık!
+29	<CLT=cltMIND>Kokichi'ye göre bir kişi şüpheliler\narasından çıkarılabilir...
+30	<CLT=cltMIND>Gördüğü <CLT=cltSTRONG>siluetten<CLT=cltMIND> bahsediyor olmalı.\nO kişinin kesinlikle bir mazereti olurdu...
+31	<CLT=cltMIND>Onun kim olduğunu\nnetleştirmemiz lazım.
+32	<CLT=cltMIND>Bunun anahtarı Kokichi, Gonta ve Miu'nun\nifadelerinde yatıyor.
+33	<CLT=cltMIND>Bildiklerimize göre Kokichi'nin gördüğü\no siluet şu olmalı...
 34	Miu Iruma
 35	Kaito Momota
+36	Bence...Kaito şüpheliler arasından\nçıkarılabilir.
+37	İyi dedin, Shuichi!\nİşte benim yardımcım!
+38	Non, non! Mazereti yokken Kaito'yu şüpheliler\nlistesinden nasıl çıkarırsın?
+39	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 40	Maki Harukawa
+41	Bence...Maki şüpheliler arasından\nçıkarılabilir.
+42	O sırada Maki kendi araştırma laboratuvarında\ntek başına değil miydi?
+43	Muhtemelen onu şüpheliler listesinden\nçıkarmamalıyız...
+44	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 45	...
+46	Ne bekliyorsun, Shuichi!?
+47	Herkesin ifadelerini hatırla, cevap\nnet olmalı!
+48	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+49	<CLT=cltMIND>Şüpheliler arasından çıkarılabilecek\nkişi...
+50	Kokichi, bahsettiğin kişi...\n<CLT=cltSTRONG>Miu<CLT=cltNORMAL>, değil mi?
+51	Neee—!? Miu mu!?
+52	Evet, onu listeden çıkarabilirsin.\nAslında bir mazereti var.
+53	İşte bu! Yiyin bunu, inekler!
+54	Bir saniye! Ne zamandan beri bir\nmazereti var!?
+55	Herkesin ifadesini karşılaştırırsan başka\nbir ihtimal yok.
+56	Ah evet... Kirumi bana nutuk atarken tuhaf\nbir şey gördüm.
+57	...Tuhaf bir şey mi?
+58	Yarı çıplak bir kızın iç çamaşırıyla avluda\ndolaştığını gördüm.
+59	Kim olduğunu seçemeyecek kadar karanlıktı\nama bir süre dolaştığını gördüm.
+60	...Yarı çıplak dolaşan bir kız mı?
+61	Azgın teşhirci Miu'dan başka kim\nolabilir ki?
+62	B-Böyle hemen sonuca atlayamayız...\nSadece bir gölge gördü, değil mi?
+63	Kadın iç çamaşırıyla dolaşan herhangi biri\nolabilirdi! Ben bile!
+64	O bambaşka bir mesele olurdu...
+65	Hayır, Miu. Şüphesiz...\nMiu ile Gonta'nın ifadeleri bunu kanıtlıyor.
+66	Oh, Gonta Miu'yu gördü ama...Gonta'nın yüzü\nkıpkırmızı oldu. O yüzden...Gonta onu getiremedi.
+67	Yüzün mü kızardı? Yani onun peşine\nkızgın kızgın düştün, değil mi?
+68	Hayır, şey, o kendi...neydi adı?\n"Gizli kadın silahı" mı? Kullandı ve sonra—
+69	Hm? O-Oh...ş-şey...yani...
+70	Ben, şey...gizli kadın silahımı...kullanmak\nzorunda kaldım... V-Ve bu kadarıyla kalsın...
+71	Anlıyorum, anlıyorum... Görünüşe göre Gonta\ngözlerinin pasını silmiş, hı?
+72	Ne!? Neden iç çamaşırınlaydın lan,\nMiu!?
+73	Ş-Şey çünkü, bilirsin...\nEpey dolgunum, o yüzden...
+74	Kıyafetlerimi çıkarırsam Gonta bana dokunamayacak\nkadar şaşkına döner diye düşündüm!
+75	Heh, heh, heh! Benim hikâyem bu ve\nbundan şaşmıyorum, hamamböcekleri!
+76	Neyse, bence Gonta süper utandığı için\nkanı iki kafasına birden hücum etti!
+77	Miu iç çamaşırıylaydı...\nve Gonta...tuhaf hissetti...
+78	O yüzden...Gonta kaçtı...
+79	Eh, tanrıça gibi bir vücudun varsa onu\nsergilemek istemen çok doğal!
+80	Oğlanlara sürekli külotumu gösteririm!
+81	Yani gerçekten *sürekli*!
+82	O yüzden rica ederim, Gonta! Bir sonraki\nkendini rahatlatma seansında beni düşün!
+83	Çoğu anlaşılmaz saçmalıklardı ama görünüşe\ngöre Miu'nun gerçek bir mazereti var.
+84	Evet. Biraz sürdü ama en azından herkesin\nmazeretlerini netleştirdik...
+85	Bu olayları yeniden hatırlamamız gerekirse\ndiye bunların hepsini aklımızda tutmalıyız.
+86	<CLT=cltSYSTEM><CLT=cltSTRONG>Dünkü Mazeretler<CLT=cltSYSTEM> Monopad'e\nkaydedildi.
+87	Geriye...mazereti olmayan tek kişiler\nolarak Kaito ile Maki kalıyor.
+88	O zaman biri suçlu olmalı!\nAma hangisi, acaba?
+89	İğne iğne, ucu düğme!\nSuçluyu yakala, kim olursa—
+90	D-Dur bir dakika! Hemen karar verme!
 91	...
+92	<CLT=cltMIND>İki baş şüpheli...\nKaito ile Maki...
+93	<CLT=cltMIND>Ama...içimden bir şey...\nKaito'yu suçlamak istemiyor.
+94	<CLT=cltMIND>Kaito'ya inanmak istiyorum...\nSuçlu olduğu kanıtlanana kadar ona güveneceğim.
+95	Şey, belki olayların sırasını belirlemeliyiz?\nSuçlu şey—
+96	Hayır, daha eğlenceli bir şey yapmalıyız...\nve mükemmel bir fikrim var.
 97	<CLT=cltMIND>...Ne?
+98	İki kişiye indirdik ve bu ikisinden biri\nsuçlu, değil mi?
+99	Rastgele birbirimizi suçlamak zorunda olmadığımıza\ngöre <CLT=cltSTRONG>gerçeği<CLT=cltNORMAL> bulmak çok daha kolaylaştı.
+100	O zaman gerçeği daha etkili bir yöntemle\nbulalım.
+101	Peki bu etkili yöntem ne?
+102	Biri suçluysa masum olan suçlunun kim olduğunu\nbilmeli. Değil mi?
+103	Çünkü suçlu olmadığını biliyorsan diğer\nkişiyi suçlayabilirsin.
+104	Evet, bu doğru.
+105	Yani aramızda <CLT=cltSTRONG>suçlunun kim olduğunu\nkesinlikle bilen<CLT=cltNORMAL> bir kişi var!
+106	Bilen o kişiye...\nBizi ikna etmek için elinden geleni yap! Daha çok çalış!
+107	Daha çok mu çalış?
+108	İkisi masumiyetleri için tartışsın!\nSuçlumuza böyle karar vereceğiz!
+109	Ö-Öyle yapsak bile suçu birbirlerine\natıp durmazlar mı?
+110	Eeeee?
 111	Ha?
+112	İş birliğinden ve takım çalışmasından\nbahsedip duruyorsunuz ama hepiniz korkuyorsunuz.
+113	Başkalarını parmakla göstermekten korkuyorsunuz,\no yüzden "<CLT=cltSTRONG>güven<CLT=cltNORMAL>" kelimesinin arkasına saklanıyorsunuz.
+114	Hepiniz birbirinizin duygularını dert edinirken\nsuçluyu nasıl bulmayı bekliyorsunuz?
+115	Bir yalancıyı ifşa etmeyi planlıyorsanız\nonu psikolojik olarak köşeye sıkıştırmalısınız...
+116	Ancak o zaman bir aldatma katmanının altına\nsaklanan yalancı benliğini gösterir!
 117	...
+118	Yalancıyı bulmak istiyorsak iki şüphelinin\nbirbirine karşı tartışmasını öneriyorum.
+119	Artık anlamsız çıkarımlar yok! Tek ihtiyacımız\nhayatları için savaşmaları!
+120	O zaman hiç-sıkıcı-olmayan-ama-süper-eğlenceli\nbir tartışma düzenleyelim!
+121	Bir çelişki bulduğumuzda suçluyu yalanlarında\nyakalayacağız!
+122	Suçluyu hata yapana kadar korkutacağız!\nGerçek bir Sınıf Duruşması böyle işler.
+123	Değil mi, Monokuma?
+124	Puhuhu... Böyle bir gelişme ortamı\nbiraz şenlendirirdi.
+125	Evet, kesinlikle katılıyorum.
+126	Monokuma'ya mı katılıyorsun!?\nSen kimin tarafındasın!?
+127	Sizin tarafınızdayım!\nBen de ölmek istemiyorum, biliyorsunuz!
+128	Bu yüzden bunu ciddiye almamız lazım!\nYalancıyı ortaya çıkaracak hararetli bir tartışma!
+129	...Peki buna nasıl başlamamızı bekliyorsun?
+130	Başlamak için yardıma ihtiyacınız varsa\nilk konuyu ben verebilirim.
+131	İlk konumuz...bu! Taa-daaaa!
+132	<CLT=cltSTRONG>Yavrupad<CLT=cltNORMAL> mı...?
+133	Herhangi bir Yavrupad değil! Son kurbanımız\n<CLT=cltSTRONG>Ryoma<CLT=cltNORMAL>'ya verilen Yavrupad!
+134	Soruşturmaya başladığımızda onu ödünç almak\niçin doğruca odasına gittim.
+135	Yani videoyu odasından alan suçlu değilmiş.\nSenmişsin.
+136	Ve onu tam da bu fırsat için ortaya\nçıkarmamın sebebi...
+137	...bu ikisinden birinin Ryoma'nın motif videosu\nolması! Tan-tan-taaan!
+138	Bu ikisinden birinde mi...?
 139	...
 140	...
+141	Ve bunu çözmemiz için bu <CLT=cltSTRONG>motif<CLT=cltNORMAL> videosunun\nkime ait olduğunu bilmemiz lazım!
+142	Tahmin edin bakalım!\nRyoma'da kimin motif videosu vardı?
+143	<CLT=cltMIND>Ryoma'daki motif videosu...\nKaito'nun muydu, Maki'nin mi...?
+144	<CLT=cltMIND>Cevabı...bilmem\ngerekiyor...
 145	Kaito Momota
+146	<CLT=cltMIND>Hayır, Kaito'nun motif videosu\n*bendeydi*...
+147	<CLT=cltMIND>Kaito'nun olmadığından\neminim.
+148	Neeeee? Kimse bilmiyor mu?
+149	Ultimate Dedektif bile mi?\nOff yaaa, bu tamamen hayal kırıklığı.
+150	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 151	Maki Harukawa
+152	Hiçbiri
+153	Yoksa...hiçbiri mi?
+154	Ha? Cevabın BU kadar sıkıcı olacağını\nbilseydim hiç sormazdım.
+155	Unuttun mu? Bu motif videosu ya Kaito'nun\nya da Maki'nin.
+156	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 157	...
+158	Neeeee? Kimse bilmiyor mu?
+159	Ultimate Dedektif bile mi?\nOff yaaa, bu tamamen hayal kırıklığı.
+160	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+161	<CLT=cltMIND>Ryoma'daki motif videosu...\nKaito'nun muydu, Maki'nin mi...?
+162	<CLT=cltSTRONG>Maki<CLT=cltNORMAL>'nin motif videosuydu, değil mi?
+163	Vay, nasıl tahmin ettin?
+164	Oh! Biliyorum, biliyorum! Çünkü *sendeki*\nmotif videosu Kaito'ya ait!
+165	Eleme yöntemi yine kazandı!\nBariz cevap Maki'ydi, değil mi?
+166	Doğru mu bu...Shuichi?
+167	E-Evet...haklısın.
+168	...Ee, ne olmuş?
+169	Ryoma'da benim motif videom vardı diye\nben suçlu olmam.
+170	Nişişi... Sonunda bir şey söyledin.\nBir tartışma böyle olmalı.
+171	Motif videosunu sadece seni konuşturmak\niçin açtım.
+172	...Efendim?
+173	Taaa-mam! Parti başladığına göre seni ve\nKaito'yu tartışmaya hazırlayalım!
+174	Unutmayın, suçlu siz değilseniz diğeri\nsuçludur. Anlaşıldı mı?
+175	Bu ekstrem ölüm tartışmasına başlayalım! Birbirinizin\nyalanlarını yırtın! Birbirinizi paramparça edin!
+176	B-Bir dakika, ne yapmaya\nçalışıyor—
+177	Dalga geçmeyi kes! Kimin suçlu olduğunu\ntartışmamıza gerek yok!
+178	Ben suçlu değilim!\nO kesin...
+179	Yani...
+180	Kaito, dur! Belki Kokichi yanılıyordur!\nBelki o—
+181	Ama Maki de suçlu değil!
 182	...Ha?
 183	...Ne?
 184	...
+185	Ha? Gerçekten mi? İkinizin de suçlu\nolmadığını mı söylüyorsun?
+186	O zaman bütün bu tartışmanın ne anlamı\nkal—
+187	Kimin umurunda!? Tek bildiğim ne benim\nne de Maki'nin suçlu olduğu!
+188	Bu sadece bir önsezi!
+189	Ö...Önsezi mi!?
+190	Ciddi misin? Hepimizin hayatının söz konusu\nolduğunu biliyorsun, değil mi?
+191	Ve hayatlarımızı sadece bir önseziye\nmi bağlıyorsun!?
+192	Hıh... Anlamıyorsun.\nBu sıradan bir önsezi değil...
+193	Bu, Yıldızların Işığı Kaito Momota'nın\nta kendisinden resmi bir önsezi!
+194	N-Ne...?
+195	Ne kadar mantıksız... Bunu anlamak\nKokichi'nin maskaralıklarından bile zor.
+196	Hiç ciddi değilsin!\n*O kadar* aptal olamazsın, değil mi?
+197	Hayır, gerçekten o kadar aptal olabilir.
+198	Lanet aptal!
+199	Atua'nın belası aptal!
+200	Hey! Bana aptal demeyin! Neyse, ben de\nMaki de suçlu değiliz!
+201	Buna hiç şüphe yok!\nMaki'ye inanıyorum!
+202	...Ne dedin?
+203	Ona inanıyor musun? Ama...neye\ndayanarak?
+204	Ha? Hiçbir şeye dayandırmam gerekmiyor.\nİpuçları nereyi gösterirse göstersin...
+205	Sonuçta önemli olan tek şey neye\ninandığım! Değil mi!?
+206	İnanıp inanmadığım!\nİnanmak *isteyip* istemediğim!
+207	Önemli olan tek şey bu!
+208	Yani...hiçbir delilin yok.
+209	Sadece temelsiz bir tahmin.
+210	A-Ama...onu çok iyi anlıyorum!\nÇünkü ben de Himiko'ya inanmak istiyorum!
+211	<CLT=cltMIND>İnanmak istemek, ha?\nEvet...Sanırım bunu anlıyorum.
+212	Birine inanmak istemek güzel bir\ndavranış, evet...
+213	Ancak Sınıf Duruşması'nda yeri olmayan\nbir duygu.
+214	Sonuçta o bir aptal...
+215	Aptal olmak sorun değil! İnsanlara\ninandığın sürece!
+216	Millet! Bana aptal demeyin dedim!\nGerçekten duygularımı incitiyor!
 217	...
+218	<CLT=cltMIND>Heh...doğru.\nSınıf Duruşması bununla ilgili değil.
+219	<CLT=cltMIND>Mantıklı düşünmen gerekiyor,\nduygularını işin içine katamazsın...
+220	<CLT=cltMIND>...Bu saçmalık,\ntam bir saçmalık.
+221	<CLT=cltMIND>Ama öte yandan...\nbu saçmalık daha önce beni kurtarmıştı, değil mi?
+222	Neden? Neden bana güveniyorsun, Kaito?\nSuçlu olma ihtimalim var—
+223	Sana inanmak istediğim için inanıyorum.\nBundan başka bir sebebe ihtiyacım var mı?
 224	...Ne?
+225	Sen de Kaede'ye bu yüzden inanmadın mı?
+226	Yani tabii, sonunda ihanete\nuğrayabilirim ama...
+227	Bunu dert edersem inanmak istediğim\ninsanlara inanamam!
+228	<CLT=cltMIND>Mantığıma güvenebiliyorsam...belki\nKaito'nun hislerine de güvenmeliyim.
+229	<CLT=cltMIND>Evet...\nSonunda her şey yoluna girer. O yüzden...
+230	...Ben de Maki'ye inanacağım.
 231	...Ne?
+232	İşte bizim Kaito, değil mi?\nBizi kalbimizle düşündürüyor...
+233	Off yaa, sen de mi? Ultimate Dedektif birine\nkanıtsız nasıl inanır?
+234	Ama Maki'yi ya da Kaito'yu bu suça bağlayan\nbir kanıt da yok.
+235	Suçu kanıtlanana kadar herkes masumdur.\nŞimdilik masumlar.
+236	Aynen öyle, Shuichi!\nİyi bir yardımcı seçtiğimi biliyordum!
+237	Şey, bu arada, Ultimate Dedektif olabilirim\nama...daha eğitimdeyim.
+238	Bunu...sana söylemiştim, değil mi? Sadece bir\nçırağım, gerçek bir dedektif değilim.
 239	...
+240	İkisinden de şüphelenmeden gerçeğe nasıl\nyaklaşmayı planlıyorsun?
+241	Aksini gösteren bir delilin yoksa bu ikisi\nşüpheli olarak kal—
+242	Yani tek yapmam gereken durumu tersine\nçevirmek, değil mi?
 243	Ha?
+244	Beni savundu diye o aptala bir borcum\nvar falan değil...
+245	Ama o umutsuz aptal beni biraz\ncesaretlendirmiş olabilir.
+246	Cidden! Yeter artık!\nBana aptal demeyi kesin!
+247	Ne demeye çalışıyorsun, Maki?
+248	Bir şey söylemek istemiyordum ama sonsuza\nkadar sessiz kalamam.
+249	...O yüzden söyleyeceğim.
+250	Oh? Neyi söyleyeceksin?
+251	Dün gece Ryoma ile buluştum.
 252	<CLT=cltMIND>...Ne?
+253	Ryoma ile...gece mi!?
+254	Yani Ryoma gece hâlâ hayatta mıydı!?
+255	Suçun akşam 8 ile 10 arasında işlendiğini\nsanıyordum?
+256	Ama bu yanlış, çünkü gece Ryoma ile\nbuluştum.
+257	Bu doğruysa sadece Kaito ile Maki'den\nşüphelenmek için bir dayanağımız kalmaz...
+258	D-Doğru. Herkes onlardan şüphelendi.\nÇünkü o saatler için mazeretleri yoktu.
+259	Yani ben ve Maki artık şüpheli\ndeğiliz!
+260	Dalga geçmeyi kes! O saçmalığı yutacak\nkadar aptal olduğumu mu sanıyorsun!?
+261	Evet, bu fazla işine gelir gibi görünüyor.
+262	Ama Maki bunu söylemek için neden şimdiye\nkadar bekledi?
+263	Ah-hahahaha! Gayet belli!\nMaki o kadar çaresiz ki <CLT=cltSTRONG>yalan<CLT=cltNORMAL> söylemek zorunda!
+264	<CLT=cltMIND>Bu...bir yalan mıydı?
+265	<CLT=cltMIND>Maki bize yalan mı söyledi...?
 266	...
+267	<CLT=cltMIND>Doğru, elimizde bütün gerçekler\nyok...
+268	<CLT=cltMIND>Ama Maki bunu neden tam da şimdi\nsöylesin ki...?
 269	...
+270	<CLT=cltMIND>Masumiyetine güveniyorsam ifadesine\nde inanmalıyım.
+271	<CLT=cltMIND>Ama...inanmalı mıyım?

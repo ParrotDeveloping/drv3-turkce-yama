@@ -1,0 +1,55 @@
+@ chap2_text_US
+## c02_215_000
+36|Ne oldu lan, Kaka-ichi?\nSöylemek istediğin bi' şey mi var!?
+39|Kimin motif videosunun kimde olduğunu kim biliyor?
+40|O da...<CLT=cltSTRONG>Kokichi<CLT=cltNORMAL>.
+42|Nişişi... Artık herkes kendi motif videosunu\nizleyebilir!
+43|Demek motif videolarını gördün.\nRyoma'ya onunkinin Maki'de olduğunu sen mi söyledin?
+45|Erkekler bu kadar sessizleşince ya bir yalanda\nyakalanmışlardır ya da pis şeyler düşünüyorlardır...
+46|Sonra ne oldu, Maki? Ryoma senden motif\nvideosunu istedikten sonra.
+47|Ryoma'ya odamdan alabileceğini söyledim.\nOdamı kilitlemem.
+48|Vay Maki, bu süper dikkatsizce. Uykunda biri\nseni öldürür diye korkmuyor musun?
+50|Ve sonra ne oldu?
+51|Ondan sonra ne olduğunu bilmiyorum. Motif\nvideosunu görüp görmediğinden bile emin değilim.
+52|Bana sorduğunda karşılığında benim motif\nvideomu göstereceğini söyledi...
+53|Ama ilgilenmedim, o yüzden reddettim.\nVe hepsi bu kadar.
+54|Yani Ryoma'nın motif videosunu görüp görmediğini\nbile bilmiyor musun? Ne saçmalık.
+55|Maki gece Ryoma ile buluştuysa bu onun\no sırada hâlâ hayatta olduğunu kanıtlar...
+56|Yani 8'den 10'a mazeretimiz olmasa bile\nMaki ile ben şüpheli değiliz!
+57|*Eğer* o hikâye doğruysa...
+58|...Doğru.
+59|O zaman bunu söylemek için neden şimdiye\nkadar bekledin?
+60|Şimdiye kadar bir şey söylemedim çünkü\nşüphelenilmeye hiç havamda değildim.
+61|Şüphelenilmek mi? Ne için?
+62|Kirumi daha önce söyledi.
+63|Görünüşe göre Ryoma ile ben birbirimizin\nmotif videosuna sahipmişiz...
+64|Bu epey şüpheli, değil mi? O yüzden şüphe\nçekmemek için bundan bahsetmek istemedim.
+65|Havanda olmadığın için mi bir şey\nsöylemedin?
+66|Havanda olmadığın için bu bilgiyi saklamak\nepey bencilce.
+67|Neyse, fark etmez.\nHer hâlükârda Maki'ye inanalım.
+68|Evet, evet. İnananlar kurtulacak.
+69|Hayır, beklememiz lazım.\nDoğrulanması gereken daha çok şey var—
+70|O zaman neden Kokichi'ye sormuyoruz?
+71|Ha? Şimdi ne?
+72|Soruma hiç cevap vermedin.
+73|Ryoma'ya motif videosunun Maki'de olduğunu\nsöyleyen sen miydin?
+74|Bu gerçekten önemli mi?
+75|Evet, önemli.\nÇünkü Ryoma'ya Kokichi söylediyse...
+76|Ryoma'nın gece Maki'yi ziyaret etmiş\nolması daha olası hâle gelir.
+77|Anlıyorum... Kokichi'nin cevabı Maki'nin\nifadesini doğrulamaya yardımcı olabilir.
+78|Şimdi neden senin maskaralığını değil de\ngerçeği istediğimi anladın.
+79|Ee, Kokichi? Ryoma'ya sen mi söyledin?
+81|Daha önce sen söyledin.\n"Ölmek istemiyorum," değil mi?
+82|Gerçekten ölmek istemiyorsan bize\ngerçeği söylesen iyi olur.
+83|İşte dramatik dönüş...\nŞimdi Maki'nin baskısı altında olan benim!
+84|Tamaaaam, doğru.\nRyoma'ya ben söyledim.
+85|Tam düşündüğüm gibi.
+86|Ama bu kötü bir şey değil, değil mi?\nBilmek istedi, ben de söyledim.
+87|Herkesin motif videosunu gördün mü?
+88|Hayır, daha değil. Bir film gösterimi partisi\nfalan düzenleyene kadar bekleyecektim.
+89|Sadece sonradan herkese geri verebilmek için\nkimin kimde olduğuna baktım.
+90|Hmm...Anlıyorum.
+91|Neyse, Ryoma'ya bunu Kokichi söylediyse\nMaki'yi görmeye gitmiş olmalı!
+92|Yani Maki doğruyu söylüyor!\nRyoma gece hayattaydı!
+93|Hayır, bundan henüz bu kadar emin olamayız.
+94|Ryoma ile Maki buluşmuş olsa bile bu dün\ngece olduğu anlamına gelmez.

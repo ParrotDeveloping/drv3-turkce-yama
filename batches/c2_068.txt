@@ -1,0 +1,50 @@
+@ chap2_text_US
+## c02_102_103
+25|O zaman Keebo'ya katılmıştım ama düşününce...\nfikrimi değiştirdim.
+26|Hem...tek başımıza izlemekten çekiniyorsak\nhep birlikte izleyebilirdik.
+27|Birlikte mi izlemek?
+28|Evet...toplanıp bütün videoları izlemeliydik.\nHerkesin motiflerini paylaşmalıydık.
+29|Tek başına kaldıramayacağın bir şey bile\nherkesle birlikte mümkün olurdu.
+30|<CLT=cltSTRONG>İş birliği<CLT=cltNORMAL> budur, değil mi?
+31|Bu...Kokichi'nin yapmaya çalıştığı şeydi.
+33|Kokichi bizi bir tür motif videosu izleme\npartisine katılmaya zorlamaya çalışıyordu.
+34|Bu yüzden bizi aynı odaya zorla soktu.
+35|Sence bu onun "<CLT=cltSTRONG>iş birliği<CLT=cltNORMAL>" yöntemi miydi?\nSen de aynı şekilde mi düşünüyorsun?
+36|H-Hayır...istediği buysa bize\nsorabilirdi.
+37|Normal biri öyle yapardı ama mesele şu ki\no normal *değil*.
+38|Belki iş birliği yapmamızı istiyordu ama bunu\nkesin bilmenin yolu yok. Bize asla söylemez.
+39|<CLT=cltMIND>Doğru... Kokichi'nin ne düşündüğünü\nbilmek imkânsız.
+40|<CLT=cltMIND>Ama...sanırım bu sefer gerçekten bizim\nlehimize hareket ediyor *olabilirdi*.
+41|Kokichi normal değil işte...\nTanrım, ne baş belası.
+42|Neyse, Kokichi'yi boşver. Soruşturmaya\nodaklanmamız lazım. Devam edelim!
+49|<CLT=cltMIND>Normal bir yatak.\nBenim odamdakine benziyor.
+50|Burada Yavrupad'i göremiyorum...\nOlağan dışı başka bir şey de yok.
+51|<CLT=cltMIND>Demek buradaki lamba da büyük...\ntıpkı benim odamdaki gibi.
+52|<CLT=cltMIND>Her ihtimale karşı burayı da\naraştırmalıyım.
+53|<CLT=cltMIND>Dolabı açınca Ryoma'nın giydiğinin aynısı\nolan birkaç takım kıyafet buldum.
+54|Tıpkı benim odam gibi...
+55|Evet, benim dolabım da böyle. Sadece\nüniformalarımla tıka basa dolu.
+56|Gerçekten mi?\nHerkes için aynı olmalı...
+57|Burada Yavrupad yok, demek ki suçlu\nalmış olmalı!
+58|<CLT=cltMIND>Ryoma'nın dolabında birbirinin aynısı\nbirkaç üniforma vardı.
+59|Şüpheli bir şey göremiyorum...
+60|Burada Yavrupad yok, demek ki suçlu\nalmış olmalı!
+## c02_102_133
+0|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Tenisçi laboratuvarı<CLT=cltMIND>...\nHaklıysam...
+1|<CLT=cltMIND>tankta bulunan kelepçeler buradan\ngelmiş.
+2|<CLT=cltMIND>Ve kelepçeler buradan geldiyse...\nsuçlu da burada bulunmuş demektir.
+3|<CLT=cltMIND>Geride bir delil izi bırakmış\nolabilirler...
+4|Bu oda...önceki gelişimizden biraz farklı.\nBir...tuhaflık var.
+6|Ah, bir şey yok...\nNeyse, kelepçeleri çözelim.
+7|<CLT=cltMIND>Önce o sorunu halletmeliyiz...
+8|Ee, nereye gitmeli—
+9|Uff!
+10|<CLT=cltMIND>Duş odasından çıkarken Kaito tökezleyip\nyere düştü.
+11|Bu da ne lan!? Bacağıma bir şey takıldı!
+12|Ah, bir kablo gibi görünüyor...
+13|Bu tenis filesi için mi? Yahu, bunu buraya\nkim bıraktıysa köşeye koymalıydı.
+15|<CLT=cltMIND>Dur... Tenis filesi mi?
+16|Anlıyorum...\nDemek bu oda bu yüzden tuhaf geliyormuş.
+17|<CLT=cltMIND>Bunu ayrıntılı araştırmalıyım.
+18|Yani tanktaki kelepçelerin buradan\ngeldiğini düşünüyorsun, değil mi?
+19|Hadi bakalım.

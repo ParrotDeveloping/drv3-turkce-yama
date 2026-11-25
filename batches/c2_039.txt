@@ -1,0 +1,49 @@
+@ chap2_text_US
+## c02_015_010
+103|Söyle onlara, Himiko.
+104|Mutluluktan patlamalarını sağla.
+105|Nyeeeh, heyecandan patlayın!\nSonunda oluyor...
+106|<CLT=cltSTRONG>Muhteşem Himiko'nun Büyü Gösterisi<CLT=cltNORMAL>\nsonunda açılıyor!
+107|Büyü gösterisi mi...?
+108|Merak etmeyin, giriş ücretsiz. Yani aslında\ngiriş ücreti gülümsemeleriniz olacak sanırım.
+110|Yıllar boyunca gösterim kalbi kırık pek çok\ninsana gülümseme hediye etti...
+111|Şimdi güçlerimi gösterme vakti.
+112|Çarpık kalplerinizi iyileştirebilecek tek şey\nbenim büyüm.
+113|Ama şu anki çıkmazımızda sihirbazlık\nnumaraları yapmak epey mantıksız—
+114|Nyeeeh, konsantrasyonumu bozma.\nArtık ortamı okumayı öğrenmelisin.
+115|Ve...ona büyü gösterisi denir çünkü büyü\nyaparım. Numara değil.
+116|S-Siktir et büyü gösterini. O saçmalık\nbeni hiç heyecanlandırmıyor.
+117|Fazlasıyla heyecanlanmışsın!
+118|Nyeeeh, gösteri <CLT=cltSTRONG>yarın sabah<CLT=cltNORMAL> açılıyor. Sabah\nanonsundan sonra spor salonuna gelin.
+119|Heyecanlanıp gösteriyi büyük bir\nmastürbasyonla bekleseniz iyi olur!
+120|Herhalde "motivasyonla" demek istedin? Yoksa\nbu gösterinin doğasını mı yanlış anladım...?
+121|Himiko ile ben hazırlıklara başlayacağız,\ndiğerlerinden de yardım istemem gerekiyor...
+122|Yardımınıza güveniyorum.\nNyahahaha, bay-onara!
+123|Nyeeeh...elveda.
+124|<CLT=cltMIND>Kimse tepki veremeden gösterilerini duyuran\nHimiko ile Angie yemekhaneden çıktı.
+125|H-Himiko... Ona ne oldu...?
+126|Kehehe... Bu kadar yoğun bir inanç\nepey ürkütücü olabiliyor.
+127|Endişeye gerek olmayabilir. Bunun <CLT=cltSTRONG>motif\nvideolarımızla<CLT=cltNORMAL> ilgisi yok gibi görünüyor.
+128|Tek derdin bu mu?
+129|Elbette. Monokuma'nın <CLT=cltSTRONG>motiflerini<CLT=cltNORMAL>\nhafife alamayız.
+130|Ama...burada olmayanlar birbirlerine videolarını\ngösteriyor olabilir, değil mi?
+131|Kokichi, Gonta ve Ryoma'yı mı diyorsun!?
+132|Hayır...Öyle olduğunu sanmıyorum.
+133|Üç kişi bile olsa birbirlerinin motif videolarına\nsahip olma ihtimalleri düşük.
+134|Birinin kendi videosunu görmeden karşılığında\nbir motif videosu göstermesi pek olası değil.
+135|O yüzden böyle küçük bir grupta video değiş\ntokuşu olacağını sanmıyorum.
+136|Anlıyorum... Doğru.
+137|Heh, fena değil!\nİşte <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL> bu!
+138|Ah, e-evet...
+139|Sanırım bekleyip ne olacağını görmemiz gerekecek.\nAynısı Angie ile Himiko için de geçerli.
+140|Ahhh...! H-Himiko'yu...geri verin...!
+141|Şimdilik biraz kahvaltı yapalım mı?\nHerkes için yemek hazırladım.
+142|Elbette, şu an burada olmayanlara da\nyemeklerini götüreceğim.
+143|Ona gerek yok!\nOnların porsiyonlarını ben yerim!
+144|Ooooaaaaahhhhhh!!!
+145|Kaito! Kendini çok zorlama...
+146|<CLT=cltMIND>Tıka basa doymuş Kaito'yu odasına\ngötürdükten sonra kendi odama döndüm.
+147|Kokichi ile Gonta ne çeviriyor?
+148|Aman Tanrım! O bakirler sonunda o kadar\nbirikti ki birbirlerine mi saldırdılar!?
+149|Bu kötü! Fena bağımlı olacaklar!
+150|Bakirler ilk seferlerinde en zayıf hâldedir!\nBoşalmaları hiç uzun sürmez!

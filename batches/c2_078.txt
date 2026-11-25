@@ -1,0 +1,53 @@
+@ chap2_text_US
+## c02_104_257
+42|H-Himiko korkuyor! Zavallı küçük şey!
+43|Nyeh! Nyeeeeeeh!
+44|B-Bu t-t-titreşim m-mükemmel...!
+45|H-Himiko'ya yozlaşmış bir erkek gibi\nbakmayı kes!
+46|...Pardon ama hiçbir şey bilmiyorum.
+47|Bir çocuk bakıcısının cinayet davası çözmeye\nyardım edebileceğini düşünüyorsanız...hepimiz yandık.
+48|Himiko...suçlu DEĞİL.\nOlamaz, asla.
+49|Himiko'yu herkesten iyi tanırım!\nBütün sırlarını bilirim!
+50|Cinsiyetini bilirim! Saç rengini bilirim!\nBoyunu bile bilirim!
+51|<CLT=cltMIND>Bunların hiçbiri sır değil...
+52|Himiko o kadar şüpheli ki dikkat dağıtmak\niçin konmuş bir yem olmalı, değil mi?
+53|Ama gerçeği çözmeye nereden başlayacağımı\nbile bilmiyorum...
+54|Ahh... Daha çok tıkla-ve-oyna macera\noyunu oynamalıydım...
+55|Nyahahaha! Endişelenecek hiçbir şeyimiz yok!
+56|Atua her şeyi görür. İlahi çıkarımı bu gizemi\nhemen çözecek!
+57|Hey, Salak Dedektif! Olası bir suçluyu\nsaptadın, değil mi!?
+62|<CLT=cltMIND>Geri dönemem...\nİlerlemeye devam etmeliyim!
+64|<CLT=cltSYSTEM>*gümbür, gümbür!*
+65|<CLT=cltMIND>Kapı, kahramanları savaşa uğurlarcasına\ntörensel bir şekilde önümüzde belirdi.
+66|<CLT=cltMIND>Bir duraksamanın ardından...hepimiz\nkapıya doğru adım attık.
+67|<CLT=cltMIND>Sessizdik.\nTek duyabildiğim titrek nefeslerimizdi.
+68|<CLT=cltMIND>Kapıdan geçtiğimiz anda...
+69|<CLT=cltMIND>Yeniden başladı.
+70|<CLT=cltMIND>Normalde sarsıntıya aldırmazdım...
+71|<CLT=cltMIND>Ama şu an ona karşı özellikle\nhassasım.
+72|<CLT=cltMIND>Daha da derine indikçe her birimiz o\ntitreşimi bütün bedenimizde hissettik.
+73|<CLT=cltMIND>Ayaklarım sağlam basmasaydı ben de\nkesinlikle düşerdim.
+74|<CLT=cltMIND>Nefesim gittikçe düzensizleşiyor, kalbim\ngittikçe daha sert çarpıyordu...
+75|<CLT=cltMIND>Tam gerginlikten bayılacağımı\ndüşündüğüm anda—
+76|<CLT=cltMIND>Asansör durdu.
+77|<CLT=cltMIND>Ama bu son değildi, hayır.
+78|<CLT=cltMIND>Daha yeni başlıyordu.
+## c02_104_331
+0|Hoş geldiniz! Umutsuzca bir kez daha\ngeldiniz!
+1|Hm? Burası çok harika olduğu için mi\nyine gelmek istediniz?
+2|Harika değil mi? Burayı yapmak için o kadar\nemek verdim ki bir anıt olmalı.
+3|Aslında bu duruşma salonunu Exisal'ları\nkullanarak yapan bizdik...
+4|Ama Babam bütün övgüyü üstüne aldı!
+5|AMA-BEN...BABAM-TARAFINDAN-KÖLE-\nOLARAK...KULLANILMAKTAN-MUTLUYUM.
+6|...Siz aptallar bu yardakçılık işine\ncidden kendinizi kaptırmışsınız.
+7|Siz o kadar tatlısınız ki sizi iliğinize kadar\nçalıştırmadan edemiyorum.
+8|Bu duruşma salonuna epey özenli ayrıntılar\nkatmışsın. Neredeyse gösteriş için gibi.
+9|Gösteriş için, ha? Bunu ifade etmenin\nilginç bir yolu.
+10|Bu sadece gösteriş için mi? Bunu dışarıdaki\ninsanlara mı gösteriyorsun ve—
+11|Puhuhu. O insanlar artık bizimle değil,\no yüzden onları dert etmenize gerek yok.
+12|Anladınız mı? Bizimle değiller. Yani artık\naramızda değiller, ne demek istediğimi anladınız mı?
+13|Yani...dünyada kalan bir tek siz\n13 kişisiniz.
+14|Şimdi bana hayatlarınız için nasıl pazarlık\nedeceğinizi gösterin!
+16|<CLT=cltMIND>Ve sonra...Sınıf Duruşması başladı.
+17|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltMIND> Ryoma Hoshi...
+18|<CLT=cltMIND>Eski şanından düştükten sonra bize\nyaşamak için hiçbir sebebi olmadığını söylemişti...

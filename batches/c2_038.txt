@@ -1,0 +1,53 @@
+@ chap2_text_US
+## c02_015_010
+45|Cinayet ihtimali sürdüğü müddetçe o videoları\nizlememeliyiz.
+46|Görüyorum ki bize katılıyorsun, Kirumi.
+47|Fikrini böyle söylediğini nadiren\nduyuyorum.
+48|Bunu Kaede'nin son isteğini korumak için\nyapıyorum.
+49|İsteği hepimizin yaşamasıydı ve bu yolun\no isteği yerine getireceğine inanıyorum.
+50|Hayatta kalmak uğruna geri çekilmeyi seçmekte\nutanılacak bir şey yoktur.
+52|Hayatta kalmak uğruna geri çekilmeyi seçmekte\nutanılacak bir şey yoktur.
+53|İlahi bir mesaj...
+54|Bence onun Atua'sının ne dediğini doğrulamak\nen iyisi olur...
+57|Yakışıklı bir tanrım var...\nYakışıklı bir tanrı beni koruyor...
+58|O yüzden hiçbir şeyden korkmama gerek yok...
+59|Ö-Öyle deme! Bu süper büyük bir\nölüm bayrağı!
+60|<CLT=cltMIND>...Ölüm bayrağı mı?
+61|Angie, Himiko ile ne yapıyor...?\nNeler oluyor...?
+62|Ş-Şey, yani, kıskanmıyorum falan!
+63|Himiko'ya karşı hislerim tamamen temiz\nve saf!
+64|Siz yozlaşmış erkeklerin pis, kaba,\nkirli hisleri gibi değil!
+65|Maki <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltNORMAL>'na\nkapanıp kaldı, değil mi?
+66|İçine dalıp gidecek kadar harika bir\nlaboratuvar mı acaba?
+67|Ama...çocuk bakıcıları için bir laboratuvarda ne\ntür şeyler olabilir, hayal bile edemiyorum...
+68|Çocuk olamaz ama...
+69|Lisenin ilk yılında anne olmak...\nbu düşünülemez bile.
+70|Olamaz... Sanki bir tarikata düşmüş gibi,\ndeğil mi?
+71|Kendine büyücü diyen Himiko'nun bu hâle\ngelmesi...
+72|Yoksa... Büyü yapmak için koruyucu bir\ntanrın mı olması gerekiyor?
+73|Yoksa o sadece ilahi büyüler için mi?\nHimiko daha çok kara büyü tipi gibi.
+74|Onun için bir iblis lazım. Eh, iblislere inanıyorsan\ntanrılara da inanırsın, değil mi?
+75|Ah, pardon. Bunların hepsi düpedüz\nönemsiz. Sadece merak ettim...
+76|Daha önemlisi...Angie'nin ilahi mesajlarını\nbiz de duyabilsek daha iyi olmaz mı?
+79|Angie...\nBu "ilahi mesajlar" ne?
+80|Atua bu akademinin de dış dünyayla aynı\ngünahlardan muzdarip olduğunu söylüyor.
+81|Hepiniz mutsuzsunuz çünkü açgözlülüğünüz\nbirbirinize düşman gibi davranmanıza yol açıyor.
+82|Atua konuştu... Buradan çıkma arzunuz\n<CLT=cltSTRONG>açgözlülüğünüzü<CLT=cltNORMAL> daha da kötüleştiriyor.
+83|Açgözlülük mü?
+84|O yüzden o günahkâr açgözlülüğü bir kenara\natıp buradaki yeni hayatımıza sevinmeliyiz.
+85|Sen... Yani hayatımızın geri kalanını burada\nyaşamamız gerektiğini mi söylüyorsun?
+86|Hayır, hayııır, yanlış.
+87|Sadece sonsuza dek burada yaşamak yetmez.\nHayatlarımız ilahi bir amaçla da dolu olmalı.
+88|Yani...
+89|Bu akademiyi yeryüzünde bir cennete\nçevirmeliyiz!
+90|<CLT=cltMIND>Ne...?
+91|Böylece...çıkma arzumuz yok olur ve\ncinayetler sona erer.
+92|Sen...şu an ciddi misin?
+93|Burası hepimize barınak, yiyecek, kıyafet ve\nharika arkadaşlar sağlıyor!
+94|Daha ne isteyebilirsin ki?\nAçgözlülüğüne teslim olma.
+96|Himiko, bu saçmalığı duyuyor musun!?\nKendine gel!
+97|Atua'nın ilahi mesajları asla yanılmaz.
+99|Himiko iyi bir kız ve hızlı öğreniyor.
+100|Birlikte gerçekten ilahi bir plan hazırladık.
+101|Nyahahaha! Burada dolu dolu bir hayat yaşamamıza\nyardım edecek gelmiş geçmiş en iyi plan!
+102|En iyi plan mı?

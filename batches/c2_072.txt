@@ -1,0 +1,47 @@
+@ chap2_text_US
+## c02_102_134
+129|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Çizik Lavabo<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+131|<CLT=cltMIND>Üstünde sanki bir şeyle sürtülmüş\ngibi küçük çizikler var.
+132|<CLT=cltMIND>Bu çizik izleri açıkça doğal değil.\nBir tür metal tarafından yapılmış olmalılar.
+133|<CLT=cltMIND>Bu *gerçekten* ilginç...
+135|<CLT=cltMIND>Buraya tankta bulunan kelepçelerle\nilgili şüphemi doğrulamaya geldik...
+136|<CLT=cltMIND>ama beklediğimden çok daha önemli\nipuçları bulduk.
+137|<CLT=cltMIND>Burasının Ryoma'nın kendi laboratuvarı\nolduğu gerçeğiyle birlikte...
+138|<CLT=cltMIND>Tesadüf olamayacak kadar çok dikkat çekici nokta\nvar. Önemli bir delil olmalı.
+139|Bir şey çözmüş gibisin...\nDaha kendinden emin görünüyorsun.
+140|Pekala! O zaman sıradaki yere!\nBurada kalmanın anlamı yok.
+141|Doğru.
+## c02_102_149
+0|Hmm, demek Himiko'nun araştırma laboratuvarı bu.\nNeyi araştıracaktık, hatırlat?
+1|Himiko'nun büyü gösterisinde kullandığı numarayı.\n...Nasıl işlediğini çözmem lazım.
+2|Eh, öyle diyorsun ama ya numarası ya da düzeneği\nolmayan gerçek bir <CLT=cltSTRONG>büyüyse<CLT=cltNORMAL>?
+3|...Eh, o bir sorun olurdu.
+4|<CLT=cltMIND>Ama mesele sadece numara\ndeğil...
+5|<CLT=cltMIND>Şu herife birkaç soru sormam lazım.
+6|Davayı çözmek için bile olsa Himiko'nun\nnumaralarını ifşa etmek...
+7|Eh, işleri biraz...sıkıcı yapıyor.
+8|Ha? Kaito, sen büyüye inanmak isteyen\ntiplerden misin?
+9|Ooh! Kaito, Himiko'nun <CLT=cltSTRONG>büyüsüne<CLT=cltNORMAL> inanıyor!
+10|Demek istediğim o değil.
+11|Sadece numaralarının insanları gülümseten\nbir <CLT=cltSTRONG>büyü<CLT=cltNORMAL> gibi olduğunu düşünüyordum.
+12|Ah, evet. Sanırım öyle de düşünebilirsin...
+13|Hem bu tıpkı uzaya gitme hayalim gibi!
+14|Samanyolu'nu boydan boya geçebileceğime\ninanıyorum! Uzaylılarla tanışacağıma inanıyorum!
+15|Böyle düşüncelerle uzayda uçmak gerçek\nmacera ruhudur!
+16|Ah, demek öyle...
+17|Kaito, bu...
+18|...duyduğum en aptalca şey! İdealist hayallerin\nbu duruma hiçbir faydası olmaz!
+19|Hey! Kime aptal diyorsun!?
+20|Ah, b-bağırmana gerek yok...
+21|Bunun gerçek bir <CLT=cltSTRONG>büyü<CLT=cltNORMAL> olmadığını biliyorum.\nNeyse, soruşturmaya başlayalım!
+22|Hey, Shuichi.\nBana bir şey sormak mı istedin?
+23|Bilmek istediğin heeeer şeyi söylerim.\nSonuçta en sevdiğim sensin.
+24|<CLT=cltMIND>Öyle deyince tam tersini kastediyor\ngibi geliyor. Beni geriyor...
+25|Aslında evet. Dün Gonta tarafından\nkaçırıldığımız zamanla ilgili.
+26|<CLT=cltSTRONG>Motif videolarımızı<CLT=cltNORMAL> çalmak için gizlice\nodalarımıza girdin, değil mi?
+27|Ama yaptığın *tek* şey bu muydu?\nEpey geç döndün.
+28|Anlıyorum... Dün geceki mazeretimi bilmek\nistiyorsun. Sorulacak güzel bir soru.
+29|Spor salonu gece yasak, yani Ryoma muhtemelen\nondan önce ya da sonra öldürüldü...
+30|Bu da dün geceyi çok şüpheli yapıyor,\nçünkü herkes kendi işine bakıyordu.
+31|Peki o sırada sen ne yapıyordun?
+32|Dün gece dışarıdayken neler olduğunu adım\nadım anlatsam daha kolay olur.

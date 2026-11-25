@@ -1,0 +1,50 @@
+@ chap2_text_US
+## c02_101_009
+514|<CLT=cltMIND>Ryoma'nın tanka nasıl *girdiğini*\nortaya çıkarmak için...
+515|<CLT=cltMIND>Himiko'nun tanktan nasıl *çıktığını*\nortaya çıkarmam lazım.
+520|<CLT=cltMIND>Doğru... Ryoma'nın tanka nasıl girdiğini\nortaya çıkarmam lazım...
+521|<CLT=cltMIND>Görünüşe göre Himiko'nun su altından kaçış\nnumarasını çözmem gerekiyor...
+522|<CLT=cltMIND>Sanırım...şimdilik araştırmamız gereken\nher şeyi araştırdık.
+523|Eh, soruşturmamız bitti...\nPeki suçlu kim?
+524|Henüz...kesin bir şey söyleyemem.\nAraştırmam gereken başka yerler var.
+525|Ne!? Hâlâ bilmiyor musun? Dedektifliğin\nbu kadar...zahmetli olacağını hiç düşünmezdim.
+526|Peki başka nereleri araştırmamız lazım?
+527|Önce spor salonunun yanındaki havuz.
+528|Sahnenin üstündeki pencereyle birbirine\nbağlılar, oraya bakmamız lazım.
+529|Ondan sonra Ryoma'nın odasına gidip hangi\n<CLT=cltSTRONG>motif videosuna<CLT=cltNORMAL> sahip olduğunu öğrenmek istiyorum.
+530|Sonra da <CLT=cltSTRONG>Ultimate Tenisçi laboratuvarını<CLT=cltNORMAL>\naraştırmak istiyorum.
+531|Su tankında bulduğumuz kelepçelerin muhtemelen\noradan geldiği sonucuna vardım.
+532|Hepsi bu mu?
+533|Son olarak da <CLT=cltSTRONG>Ultimate Sihirbaz laboratuvarı<CLT=cltNORMAL>.\nHimiko'nun numarası hakkında daha çok şey bilmek istiyorum...
+534|Oraya gidersek eminim bir tür ipucu\nolacaktır.
+535|Yani daha yapacak çok işimiz var, ha?
+536|Bol şans, Shuichi! Sonuçta burada bütün ağır\nişi sen yapacaksın!
+537|Ah...doğru.
+538|"Doğru" da ne demek!?\nİşe yaramaz olduğumu mu söylüyorsun!?
+539|<CLT=cltMIND>...Buna verilecek doğru bir cevap var mı?
+540|<CLT=cltMIND>Sahneyle ilgili neredeyse her şeyi\naraştırdım...
+541|<CLT=cltMIND>Ama numaranın nasıl yapıldığını\nhâlâ bilmiyorum.
+543|Hadi, gidelim.
+544|Ah, dur! Kaito!
+## c02_102_001
+0|Hm? Tuvalet mi?
+1|Eh, bütün soruşturma boyunca tutmana gerek\nyok. Çabuk git de bitir şu işi!
+2|Hey, hey, hey! Aklını mı kaçırdın!?\nNereye gittiğini sanıyorsun?
+3|Yoksa orada ipucu olabileceğini mi\nsöylüyorsun?
+4|Ah...Orada ipucu olduğunu sanmıyorum...
+5|Eh, tabii ki! Oyalanacak vakit yok!\nHadi gidelim!
+## c02_102_003
+0|Ha? *Senin* burada ne işin var, Kirumi?
+1|Hepimiz en az bir kişi daha yanımızdayken\nsoruşturma yapmaya karar vermiştik, değil mi?
+2|<CLT=cltMIND>Konuşurken Maki'ye doğru bir göz attı.
+3|Ah...demek Maki ile kalıyorsun.
+4|İyi düşünmüşsün! Hey, duruşma bitince\nbana masaj yapabilir misin?
+5|Elbette... Madem buradasın Shuichi, sana\nbir soru sorabilir miyim?
+6|Ölüm saati verilmediği için onu belirlemek\namacıyla herkesi sorguluyorum.
+7|Ryoma'yı en son ne zaman canlı gördün?
+8|Dün Gonta tarafından kaçırılmadan hemen\nönce...akşam altı civarında.
+9|Ben onu en son çok daha önce gördüm.\nAslında dün onu hiç görmedim.
+10|O zaman senin için sorun yok Kaito. Önemli olan\nbirinin onu en son ne zaman canlı gördüğü.
+11|Birinin Ryoma'yı en son canlı\ngördüğü zaman...
+12|Onu en son canlı gören, <CLT=cltSTRONG>dün akşam 8\ncivarında<CLT=cltNORMAL> Gonta'ydı.
+13|Ryoma, <CLT=cltSTRONG>Shukuchi Yöntemi<CLT=cltNORMAL>'ni kullanarak\nonun tarafından yakalanmaktan kurtulmuş.

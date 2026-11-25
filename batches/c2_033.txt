@@ -1,0 +1,55 @@
+@ chap2_text_US
+## c02_013_101
+0|Ahhh...Çok yorgunum...
+1|<CLT=cltMIND>Uzun zamandır ilk defa spor yaptım...\nTamamen bitkinim.
+2|<CLT=cltMIND>Ama...güzel bir yorgunluk.
+3|Pekala, şimdilik...uyku.
+4|<CLT=cltMIND>O gece kafamı kurcalayan hiçbir düşünce\nyoktu. Başım yastığa değer değmez...
+5|<CLT=cltMIND>Derin, dinlendirici bir uykuya daldım.
+6|<CLT=cltMIND>O zamanlar henüz fark etmemiştim...
+7|<CLT=cltMIND>Burada birine güvenmenin ne kadar\ndehşet verici olabileceğini...
+9|Neye bakıyorsunuz?\nSiz...kimsiniz?
+10|Muhtemelen "Bu öldürme oyunu bitmek bilmiyor.\nBiri artık ölsün." diye düşünüyorsunuz.
+11|Öyle düşünüyorsunuz, değil mi?\nVay be, ne kafayı yemiş tiplersiniz.
+12|Ama ben de aynısını hissediyorum.\nTanrım, neden kimse ölmüyor?
+13|İnsanların yaşayıp ölmesini izlemek\ngerçekten en iyi eğlence.
+14|Bazıları "Sence hayat nedir?" der.\nAçıkçası hayat değersizdir.
+15|Ölünce çabucak unutulursun, çünkü dışarıda\nyerini alacak tonla kişi var.
+16|Ama ölüm oyununda ölürsen herkes kim olduğunu\nbilir. Bu bile başlı başına bir mutluluktur.
+17|Puhuhu... Sıradaki mutluluğu kim bulacak?\nKalbim heyecandan güm güm atıyor.
+18|...Uyanın bakalım, ayıcıklar.
+19|Hımm, hımm... Bu, Ultimate Akademisi'nden\nresmi bir duyurudur...
+20|Nam, nam... Saat şu an sabah 8.\nUyanma vakti...hımm, hımm...
+21|Ne yiyorsun sen!?
+22|...SORUN-YOK.
+23|Ne sorun yok!?
+24|SAAT-ŞU-AN-SABAH-8... HERKES-UYANSIN.\nÖLDÜYSENİZ-BOŞVERİN.
+25|BUGÜN-HEPİMİZ-OLUMLU-VE-HEYECANLI-\nOLALIM...
+27|Ah... Her yerim ağrıyor...
+28|<CLT=cltMIND>Kaslarım spordan hâlâ ağrıyordu.\nAma bu sayede...
+29|Güzel bir gece uykusu çektim...\nuzun zamandır ilk defa.
+30|<CLT=cltMIND>Belki de buraya geldiğimden beri ilk tam\ngece uykum. Yani ağrı bir bakıma hoştu.
+31|...Pekala. Kahvaltı.
+32|<CLT=cltMIND>İyi bir kahvaltı yapmak günlük\nrutinimin bir parçası oldu.
+42|<CLT=cltMIND>Neden hepsi aynı üniforma?\nBuraya günlük kıyafet de koyabilirlerdi...
+43|<CLT=cltMIND>Kaito'nun <CLT=cltSTRONG>motif videosu<CLT=cltMIND> bunun içinde ama...
+44|<CLT=cltMIND>Kimin motifinin kimde olduğunu söylemeyeceğimize\n<CLT=cltSTRONG>söz<CLT=cltMIND> verdik.
+## c02_013_254
+0|Oh, iyi. Geldin.
+1|Ne oldu Kaito?\nBeni neden birden buraya çağırdın?
+2|Bak, astronot adayı seçildiğimden beri\nher gün antrenman yaptım ama...
+3|Burada hiç antrenman yapmadım.\nBöyle giderse güçsüzleşeceğim, o yüzden...
+4|Bana katıl, Shuichi.
+5|Ne? Neden ben?
+6|Fark etmez, başlayalım!\nCeketini çıkar!
+7|Dur, neden—!?
+8|Şikâyet edeceğine 50 şınav çek!
+9|<CLT=cltMIND>Nasıl olduğunu bilmiyorum,\nama bir de baktım ki...
+10|<CLT=cltMIND>Gecenin bir yarısı avluda Kaito'yla\nşınav çekiyordum.
+11|*nefes nefese* Hıgh... Hıgh...\nNeden...bunu...yapmak zorundayım?
+12|Şimdi kafanı kullanmanın sırası değil!\nŞimdi vücudunu çalıştırma vakti!
+13|*nefes nefese* Hıgh... Ahhh...
+14|Ne oldu?\nŞimdiden yavaşladın mı?
+15|Ben...hiç...şınav çekmem...\n*nefes nefese* Kollarım...pes ediyor...
+16|Hey! Öyle deme! İmkânsız diye bir şey\nyoktur! Tek yapman gereken onu başarmak!
+17|<CLT=cltMIND>Ne...? Bu mantığın hiçbir anlamı yok!

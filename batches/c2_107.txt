@@ -1,0 +1,52 @@
+@ chap2_text_US
+## c02_221_000
+88|Kelepçelerin bir numarası vardı.
+89|Neeeee? Atua bile neden bahsettiğini\nbilmiyor.
+91|Duşta gizli bir geçit vardı.
+92|Oradaki duşlar gayet normaldi.\nKontrol ettik, hatırladın mı?
+94|Lavaboda gizli bir geçit vardı.
+95|Hadi ama dostum! Olay yeri diye aklına\nne gelirse söyleyemezsin.
+97|Kıyafet yığınının altında gizli bir\ngeçit vardı.
+98|İlginç olurdu ama hiç böyle bir hapisten\nkaçış planı duymadım.
+101|Hey, hey... Kestirme nerede?
+103|Ryoma'nın laboratuvarıyla spor salonunu\nhangi kestirme bağlıyordu?
+104|Kestirme Ryoma'nın laboratuvarındaki <CLT=cltSTRONG>pencere<CLT=cltNORMAL>.
+105|Pencere mi?
+106|Doğru. Bu okuldaki pencerelerin hiçbiri\naçılmıyor...
+107|Ryoma'nın laboratuvarındaki hariç.
+108|Üstelik o pencere havuza bakıyordu. Spor\nsalonunu tam karşıdan görebiliyordun.
+109|Sence suçlu Ryoma'nın cesedini laboratuvar\npenceresinden havuz alanına mı attı!?
+110|Sonra da cesedi spor salonunun penceresinden\npirana tankına atmış olabilir...
+111|Nasıl ama!? Görev tamamlandı!
+112|Açıklaman daha önce tartıştığımız bazı\nşeylerle çelişiyor.
+113|Spor salonunun penceresine havuz tarafından\nmerdivenle bile uzanılamayacak kadar yüksekti.
+114|Doğru! Özür dilerim! Bunun üzerine düşünmek\niçin bir yolculuğa çıkmalıyım!
+115|Cesedin spor salonuna nasıl atıldığını\nbilmediğimiz için hep çıkmaza giriyoruz...
+116|Nişişi... Eh, bu bize suç hakkında pek\nbir bilgi vermedi.
+118|<CLT=cltMIND>Pek sayılmaz...\nÇok önemli bilgiler öğrendik.
+119|<CLT=cltMIND>Olay yerinin Ryoma'nın laboratuvarı olduğundan\nemin olduğuma göre dava netleşiyor.
+120|<CLT=cltMIND>Cesedin olay yerinden bulunduğu yere\nnasıl geldiğini belirlemek için...
+121|<CLT=cltMIND>üçüncü kattaki pencereden spor salonuna\nnasıl gidileceğini çözmem lazım.
+122|<CLT=cltMIND>Pekala o zaman. Olası yöntemleri\nanaliz edip en olasısını bulmalıyım!
+## c02_223_000
+0|Buldum! Ryoma'nın cesedi laboratuvarından spor\nsalonuna <CLT=cltSTRONG>doğrudan<CLT=cltNORMAL> taşındı!
+1|Doğrudan mı? Cesedi pencereden pencereye\nattıklarını söyleme sakın.
+2|Yani bir cesetten bahsediyoruz.\nBeyzbol topu atmak gibi değil, biliyorsun değil mi?
+3|Hayır, atıldığını sanmıyorum.\nAma belki başka bir yolla...
+4|Başka bir yol derken?\nTaşımanın başka bir yolu yok—
+5|Suçlu bir tür <CLT=cltSTRONG>ekipman<CLT=cltNORMAL> kullanmış\nolmalı.
+6|Ha? Ekipman mı?
+7|Bu ekipmanla iki pencereyi birbirine bağlayıp\ncesedi spor salonuna taşıyabilirler.
+8|<CLT=cltMIND><CLT=cltSTRONG>Pencereleri bağlayacak ekipman<CLT=cltMIND>...\nSanırım cesedin yakınında bulunmuştu...
+9|Ah, şey, belki...şu...şey?
+10|Ha? Ne şey?
+12|Belki...tankı bir şekilde kullandılar?
+13|Bu bir cesedi taşımak için gerçekçi bir yol\ngibi görünmüyor.
+15|Belki suçlu merdiveni kullanmıştır?
+16|Spor salonu penceresiyle Ryoma'nın laboratuvar\npenceresini bağlayacak kadar uzun değil.
+18|Ah, şey, belki...büyü gösterisindeki\nsayacı kullandılar?
+19|Ciddi misin...?
+21|Büyü gösterisinde kullanılan sahne.\nSahneyi pencerelerin arasına koyarsan...
+22|Bunun sığmasının imkânı yok.
+24|Belki tanktaki suyu\nkullandılar...?
+25|Aptallığını kendi vaktinde yap.

@@ -1,0 +1,47 @@
+@ chap2_text_US
+## c02_102_191
+76|Tahmin edeyim...birkaç aptal arkasını\ntoplamamış.
+77|Bize bakma.
+78|Sudan hoşlanmam. Meyve suyunu tercih ederim.
+79|Pamuğumuz su emince ağırlaşıyoruz.\nKilo vermeyi kâbusa çeviriyor!
+80|BEN...HERKESLE-SUDA-OYNAMAK-\nİSTİYORUM. KULAĞA...EĞLENCELİ-GELİYOR.
+81|Biliyor musunuz...Monodam haklı olabilir.\nŞimdi biraz havuza girmek istiyorum.
+82|Evet! Kilo vermek kimin umurunda!?
+83|Aptallar! Biz buraya oynamaya gelmedik! Bu\npislikleri cehennemin dibine göndermeye geldik!
+84|Biz Monoyavrularız! Etraftaki en kötü, en pis,\nen zalim maskotlar!
+85|Anlamazsanız hepinizi havuza kendim\natarım!
+86|Ahhhhh! Lütfen yapmaaaa!
+87|MONOSUKE, LÜTFEN-DUR...\nHEPİMİZ-ANLAŞAMAZ-MIYIZ?
+88|A-Anlaşamazsak Monokid gibi olacağımı\nmı söylüyorsun...?
+90|Yani...simidi oraya koyan Monoyavrular\ndeğil, bizden biri miydi?
+91|Neyse, fark etmez. Simit muhtemelen\ndavayla ilgili değil.
+92|<CLT=cltMIND>Davayla ilgili değil mi?\nSadece oynamak için olsaydı...
+93|<CLT=cltMIND>neden ona bir ip bağlı?\nBu ne için olabilir?
+94|<CLT=cltMIND>Bu ilginç...
+95|<CLT=cltMIND>Havuzda bir simit yüzüyor.\nBüyük, sağlam, kauçuk bir simide benziyor.
+96|<CLT=cltMIND>Ama ona bir ip bağlı...\nBu ne için olabilir?
+97|<CLT=cltMIND>Bu ilginç...
+98|<CLT=cltMIND>Ha? Havuzda yüzen başka bir şey\ndaha var...
+99|Küçük bir kumaş parçasına...benziyor.
+100|Sadece çöp, değil mi?\nEndişelenecek bir şey yok.
+101|Biz suçluyu arıyoruz!\nÇöp toplayacak vaktimiz yok!
+102|Ah, evet ama...
+103|<CLT=cltMIND>Belki sadece önsezim ama\nbeni rahatsız ediyor.
+105|<CLT=cltMIND>Bazen ona güvenmeyi öğrenmeliyim.\n<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltMIND> olarak önsezime...
+106|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Siyah Kumaş Parçası<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+107|<CLT=cltMIND>Havuzda küçük bir kumaş parçası\nyüzüyor...
+108|O küçük çöp parçası seni gerçekten bu kadar\nrahatsız ediyor mu?
+109|Dinle! Biz suçluyu arıyoruz!\nÇöp toplayacak vaktimiz yok!
+110|Ah, evet ama...
+111|<CLT=cltMIND>Belki sadece önsezim ama\nbeni rahatsız ediyor.
+112|<CLT=cltMIND>Bu bina okul binası. Demek ki o\npencere bir yere açılıyor.
+113|<CLT=cltMIND>Pencerelerin çoğu kapatılmış ama\no normal görünüyor...
+114|<CLT=cltMIND>O pencere hangi odanın...?\nBu dikkat çekici bir nokta.
+115|Hey, Shuichi... Bu havuzun gerçekten\ndavayla bir ilgisi var mı?
+116|Bunun için epey gaza geldik ama burada hiç\nipucu yok gibi görünüyor...
+117|Eh, o simit hâlâ kafama takılıyor...
+118|Bize ne söylediğini bilmiyorum ama bu\ndavayla ilgili olduğunu hissediyorum.
+119|Ama bak...o simit davayla ilgiliyse\nsuçlu epey dikkatsizmiş...
+120|Davayla ilgiliyse neden ortadan\nkaldırmadılar?
+121|Öylece ortada bırakmak...\nsence de düpedüz dikkatsizlik değil mi?
+122|Hayır...kaldırmak isteseler bile\nkaldıramazlardı.

@@ -1,0 +1,40 @@
+@ chap2_text_US
+## c02_101_009
+339|<CLT=cltMIND>Gerçi...onda *benim* videom da\nolabilirdi.
+340|<CLT=cltMIND>Öyleyse ben de şüpheli\nolabilirim...
+341|<CLT=cltMIND>Neyse, şimdi bunu düşünmenin anlamı yok.
+346|<CLT=cltMIND>Gerçi...onda *benim* videom da\nolabilirdi.
+347|<CLT=cltMIND>Öyleyse ben de şüpheli\nolabilirim...
+348|<CLT=cltMIND>Neyse, şimdi bunu düşünmenin anlamı yok.
+349|<CLT=cltMIND>Kelepçe mi...?\nBurada neden kelepçe var?
+350|<CLT=cltMIND>Hâlâ kilitli...\nVe üzerlerinde küçük çizikler var.
+351|<CLT=cltMIND>Kelepçeler paslanmaz çelik gibi görünüyor,\no yüzden çizilmesi çok zor değil.
+352|<CLT=cltMIND>Sert ya da keskin bir şeye\nsürtünmüş olmalılar.
+353|O kelepçeler ne?\nTankın içinde mi vardı?
+354|Ama depoda hiç kelepçe görmedim.\nNereden geldiler?
+355|<CLT=cltMIND>Doğru, depoda hiç yoktu.\nO zaman nereden geldiler?
+356|<CLT=cltMIND>Depoda değilse kelepçe olabilecek\nbaşka bir yer...
+357|<CLT=cltMIND>Yoksa...o bir mahkum mu?
+358|<CLT=cltMIND>Ryoma'nın laboratuvarı sadece <CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltMIND>\niçin değil, <CLT=cltSTRONG>Ultimate Mahkum<CLT=cltMIND> içindi de...
+359|<CLT=cltMIND>Yani belki laboratuvarında onunla\nilgili şeyler de vardı.
+360|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Çizik Kelepçeler<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+361|<CLT=cltMIND>Kelepçe mi...?\nBurada neden kelepçe var?
+362|<CLT=cltMIND>Hâlâ kilitli...\nVe üzerlerinde küçük çizikler var.
+363|<CLT=cltMIND>Kelepçeler paslanmaz çelik gibi görünüyor,\no yüzden çizilmesi çok zor değil.
+364|<CLT=cltMIND>Sert ya da keskin bir şeye\nsürtünmüş olmalılar.
+365|<CLT=cltMIND>Nereden geldiler? Depoda hiç\nyoktu... Ah, dur...
+366|<CLT=cltMIND>Ryoma'nın laboratuvarı sadece <CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltMIND>\niçin değil, <CLT=cltSTRONG>Ultimate Mahkum<CLT=cltMIND> içindi de...
+367|<CLT=cltMIND>Yani belki laboratuvarında onunla\nilgili şeyler de vardı.
+368|<CLT=cltMIND>Hm? Su tankının dibinde kare\nbir cam levha var...
+369|<CLT=cltMIND>Kırık bir parçaya benzemiyor. Diğer\nparçalar bundan çok daha düzensiz.
+370|<CLT=cltMIND>Kırılan su tankından böyle kusursuz kare\nbir cam çıkması neredeyse imkânsız.
+371|<CLT=cltMIND>O zaman bu levha tam olarak\nne?
+372|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kare Cam Levha<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+373|<CLT=cltMIND>Su tankının dibinde kare bir cam\nlevha var.
+374|<CLT=cltMIND>Kırık bir parçaya benzemiyor.\nDiğer parçalar bundan çok daha düzensiz.
+375|<CLT=cltMIND>Kırılan su tankından böyle kusursuz kare\nbir cam çıkması neredeyse imkânsız.
+376|<CLT=cltMIND>O zaman bu levha tam olarak\nne?
+377|<CLT=cltMIND>Kırılan cam su tankının parçaları\nbir yere yığılmış.
+378|<CLT=cltMIND>Bir sürü minik parça var...
+379|<CLT=cltMIND>Gonta ile Tenko, Keebo'yu cama fırlatırken\nhiç de çekinmemişler.
+380|<CLT=cltMIND>Bir kova...piranalarla dolu.

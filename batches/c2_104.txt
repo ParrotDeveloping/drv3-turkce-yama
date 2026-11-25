@@ -1,0 +1,56 @@
+@ chap2_text_US
+## c02_219_000
+69|Nerede öldürüldüğü mü?
+70|Onun yerine cinayet mahalline odaklansak\ndaha verimli olmaz mı?
+71|Evet...işte bu!
+72|Cesedin nerede bulunduğuna o kadar\ntakıldık ki...
+73|aslında cinayetin nerede işlendiğini\ndüşünmemiz gerekiyordu!
+74|Cinayet mahallinde suçluyla ilgili kesinlikle\ndaha çok ipucu olurdu.
+75|Bunu neden kimse daha önce fark etmedi?\nHa, ne tuhaf.
+76|Belki de suçlu konuşmayı o konudan\nuzaklaştırdı.
+77|O-O zaman...suçlu bu odadaki biri!
+78|<CLT=cltMIND>Bunu hatırlamak önemli... Buradaki herkes\ngerçeği bulmamızı *istiyor* değil.
+79|<CLT=cltMIND>Birimiz bu duruşmayı sabote etmeye\nçalışıyor...
+80|O zaman suçlunun kim olduğunu bulmak için\nolay yerini tartışalım.
+81|Bir robot için fena fikir değil. En son\nböyle iyi bir fikir duyduğumda...
+82|...Nino soğuktan kurtulmak için köprünün\naltına onunla taşınmamı söylemişti.
+83|Köprü Altında Himikawa mı!?
+84|<CLT=cltMIND>Her şeyin nerede başladığını belirleyebilirsek\nnasıl bittiğini de belirleyebiliriz.
+85|<CLT=cltMIND>Evet, pes etmek için çok erken.\nDuruşma daha yeni başladı!
+86|...Teşekkürler, Maki. Faydalı bir tespitti.
+87|Bunu fark etmediğine inanamıyorum. Sanırım\nhâlâ çırak olmanın sebebi bu.
+## c02_220_000
+0|Ryoma'nın boğularak öldüğünü kesin olarak\nbiliyoruz. Monokuma Dosyası'nda da öyle yazıyordu.
+2|Nyeh? Bol suyun olduğu tek yer havuz,\ndeğil mi?
+3|O zaman neden havuz olamaz?
+5|Sen de onun işe yaramaz, gürültücü bir\ndomuz olduğunu düşünüyorsun, değil mi Shuichi?
+6|Gh... Shuichi bile bana karşı birleşiyor!\n*hıçkırık, hıçkırık*
+7|Tamam, bu kadar dalga yeter.\nTartışmaya dönelim.
+9|<CLT=cltMIND>Ölüm sebebi kesin.\nRyoma suda boğuldu.
+10|<CLT=cltMIND>Ancak...onu havuzda boğmanın mümkün\nolduğunu sanmıyorum...
+11|<CLT=cltMIND>Ölüm sebebi kesin.\nRyoma suda boğuldu.
+12|<CLT=cltMIND>Havuz bariz cevap gibi görünüyor ama\nşüphelerim var...
+13|<CLT=cltMIND>Ölüm sebebi kesin.\nRyoma suda boğuldu.
+14|<CLT=cltMIND>Havuz bariz cevap gibi görünüyor ama\nşüphelerim var...
+## c02_220_001
+0|Önce
+1|Önce olay yerini belirleyelim.
+2|<CLT=size2>olay yerini
+3|<CLT=size2>belirleyelim.
+4|<CLT=size2>Yurt odası<CLT=size1> değil miydi?
+5|Yurt odası değil miydi?
+6|Ryoma odasında
+7|Ryoma odasında dinlenirken\nsaldırıya uğradı.
+8|<CLT=size2>dinlenirken
+9|<CLT=size2>saldırıya<CLT=size1>\nuğradı.
+10|Ama <CLT=size2>ölüm<CLT=size1> <CLT=size2>sebebi\n<CLT=size2><CLT=cltWEAK>boğulmaydı<CLT=cltNORMAL>.
+11|Ama ölüm sebebi boğulmaydı.
+12|<CLT=size2>Odasında<CLT=size1> <CLT=size2>yeterince su biriktirebilecek\n<CLT=size2>hiçbir şey<CLT=size1> yok.
+13|Odasında yeterince su biriktirebilecek\nhiçbir şey yok.
+14|Tuvaleti
+15|Tuvaleti var ama, değil mi!?
+16|<CLT=size4>var ama,<CLT=size1> değil mi!?
+17|Tuvalette boğulmak mı? <CLT=size2>İmkânsızsız!
+18|Tuvalette boğulmak mı? İmkânsızsız!
+19|<CLT=size2>Suyun<CLT=size1> <CLT=size2>depolandığı<CLT=size1> yerleri düşünmeliyiz!
+20|Suyun depolandığı yerleri düşünmeliyiz!

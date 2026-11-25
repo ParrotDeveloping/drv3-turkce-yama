@@ -1,0 +1,66 @@
+@ chap2_text_US
+## c02_230_001
+2|<CLT=size3>ip\n<CLT=size1>ve bölme olsaydı...
+3|<CLT=cltWEAK>Sanırım\n<CLT=size2>beş dakika
+4|Sanırım beş dakika yeterli olabilir.
+5|<CLT=size2>yeterli\nolabilir.
+6|Bunu kabul ediyorum. Ancak...
+7|Bunu kabul ediyorum. Ancak...
+8|Argümanının <CLT=size2>özü<CLT=size1>
+9|Argümanının özü bir tahminden ibaret.
+10|<CLT=size2>bir tahminden<CLT=size1>
+11|<CLT=size2>ibaret.
+12|Gerçekleri
+13|Gerçekleri yanlış yönlendirilmiş anlatına uymaya zorlamaya devam ediyorsun.
+14|<CLT=size2>yanlış\n<CLT=size1>yönlendirilmiş
+15|anlatına\nuymaya
+16|<CLT=size2>zorluyorsun\nhâlâ.
+17|Argümanının <CLT=size2>özünün<CLT=size1>\n<CLT=size3>hatalı<CLT=size1>\nolduğunu düşününce...
+18|Argümanının özünün hatalı olduğunu düşününce...
+19|<CLT=size2>\nbütün\ndavan<CLT=size1>
+20|bütün davan çöküyor!
+21|<CLT=size2>çöküyor!
+22|Argümanın özü...\n<CLT=size2>derken ne demek istiyorsun?
+23|Argümanın özü derken ne demek istiyorsun?\nNasıl sadece bir tahmin?
+24|Nasıl sadece bir <CLT=size2>tahmin?
+25|<CLT=size2>İpten bahsediyorum.
+26|İpten bahsediyorum.
+27|<CLT=size2>Evet,
+28|Evet, o iple...
+29|o <CLT=size2>iple...
+30|üçüncü kat
+31|üçüncü kat penceresinden spor salonu penceresine ulaşmak mümkün.
+32|<CLT=size2>\npenceresinden\nspor salonu\npenceresine
+33|ulaşmak\n<CLT=size2>mümkün.
+34|<CLT=cltWEAK>Ama bunun olduğunu\n<CLT=size2>gösteren
+35|Ama bunun olduğunu gösteren hiçbir delil yok!
+36|hiçbir delil\nyok!
+37|<CLT=size2>Başka\nbir\ndeyişle,
+38|Başka bir deyişle, bu sadece bir tahmin.
+39|bu sadece bir
+40|<CLT=size2>tahmin.
+41|Sonra da <CLT=size2>\nsen<CLT=size1> o tahmine
+42|Sonra da sen o tahmine varsayımlar ve dedikodular ekliyorsun...
+43|varsayımlar\nve dedikodular\nekliyorsun...
+44|Bu bir\n<CLT=size2>aldatmacadan\n<CLT=size1>başka bir şey değil!
+45|Bu bir aldatmacadan başka bir şey değil!
+## c02_231_000
+0|Delilim var! Spor salonundaki ve laboratuvardaki\npencere çerçevelerinde kalan <CLT=cltSTRONG>aşınmalar<CLT=cltNORMAL>!
+1|O çizikler ip pencere çerçevesine\nbağlandığında mı oluştu?
+2|İpi çerçeveye bağlamak tek başına bu\nkadar hasara yol açmazdı.
+3|Çerçevelere bağlanan ip ciddi bir\nağırlık taşımış olmalı.
+4|Çerçeveler kırılmadı ama belirgin\nizler kaldı.
+5|O çizikler cesedi pencere pervazına taşımak\niçin bir ip kullandığının kanıtı.
+7|Oh? Ne oldu, Kirumi?
+8|Ne oldu, ne oldu, ne oldu!?\nHey, ne oldu? Hey, hey, hey, hey, hey!?
+9|K-Kirumi susuyor çünkü...\nçünkü öyle mi oldu?
+10|Lütfen bize cevap ver, Kirumi!\nShuichi bunu senin iyiliğin için yapıyor—
+11|Benim iyiliğim içinse...\npes etmek çok daha kolay olurdu...
+12|Ama buna izin veremem!\nÇünkü bunu <CLT=cltSTRONG>herkes için<CLT=cltNORMAL> yapmak zorundayım!
+13|<CLT=cltMIND>Herkes için mi...?
+14|Benim...bir görevim ve sorumluluğum var...\nHerkese hizmet edip onları korumalıyım...
+15|O yüzden teslim olmayı reddediyorum!\nYaparsam beni affetmezler!
+16|<CLT=cltMIND>Ne? Bu da nereden\nçıktı!?
+17|<CLT=cltMIND>Tepkisi...samimi\ngörünüyor.
+18|<CLT=cltMIND>Peki "herkes" derken ne\nkastetti?
+19|<CLT=cltMIND>Bunu hepimizin iyiliği için mi\nyapıyor...?

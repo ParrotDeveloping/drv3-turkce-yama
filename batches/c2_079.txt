@@ -1,0 +1,53 @@
+@ chap2_text_US
+## c02_104_331
+19|<CLT=cltMIND>Ama yine de...bizimle yan yana savaşmak\nistediğini söyledi. Bizimle buradan çıkmak.
+20|<CLT=cltMIND>Bunun için yaşamak için bir sebep\nbulmaya çalışıyordu.
+21|<CLT=cltMIND>Biraz sert olabilirdi...\nama hiç de soğuk biri değildi.
+22|<CLT=cltMIND>Ve onu öldüren kişi...
+23|<CLT=cltMIND>...şu an burada.
+24|<CLT=cltMIND>Bunun bir yalan olduğuna inanmak istiyorum.\nBuna hiç inanmak istemiyorum.
+26|<CLT=cltMIND>Gerçeği bulacağım yer burasıysa...\nartık gözlerimi kaçırmayacağım.
+27|<CLT=cltMIND>Bu...onun bana emanet ettiği dilek.
+28|<CLT=cltMIND>Gerçeği *bulacağım*.\nBuradan herkesle birlikte çıkmak için. Hayatta.
+29|<CLT=cltMIND>Hayatta kalacağım.
+30|<CLT=cltMIND>Burada ölemem.\n<CLT=cltSTRONG>Ona<CLT=cltMIND> verdiğim sözü tutmak için...
+31|<CLT=cltMIND>Savaşacağım.
+32|<CLT=cltMIND>Bu gerçekler ve yalanlar duruşmasında\nhayatım için savaşacağım!
+## c02_201_000
+5|Şimdi şu çılgın, müthiş, çılgınca-müthiş-\nmi-müthiş duruşmayı başlatalım!
+6|Sanırım en şüphelinin kim olduğunu\nhepimiz biliyoruz! O—
+7|Herkes, güçlerimizi birleştirip birlikte\nçalışalım!
+8|Şey... En şüpheli kişi—
+9|Şimdi bana enerjinizi verin, herkes!\nSuçluyu yakalayabilmemiz için!
+10|Cinayet büyü gösterisi sırasında işlendiğine\ngöre suçlu ancak—
+11|HAİYAAAAAAAAHHH!!! Bugün formumun zirvesindeyim!
+12|Tenko! Neden sözümü kesiyorsun? Lafımın\nüstüne konuşursan iyi bir duruşma yapamayız.
+13|Ha? Sözünü kesmiyorum ki.
+14|Söyleyeceğin şey muhtemelen zaten değersizdir,\nçünkü erkeklerin tek konuştuğu şey S-E—
+15|...<CLT=cltSTRONG>Himiko<CLT=cltNORMAL> şüpheli görünüyor.
+17|Hey! Angie, Himiko'yu nasıl suçlarsın!?
+18|Sen onun arkadaşı değil misin!?
+19|Şey... Ben sadece Atua'nın bana söylediğini\nsöylüyorum.
+20|İlahi bilgisini bize hayatta kalmanın yolunu\ngöstermek için kullanıyor...
+21|...Ona şükretseniz iyi olur, yoksa kutsal\ngazabını üstünüze yağdırır.
+22|Siktir et Atua'yı!\nO herif bana dişini geçiremez!
+23|Himiko'yu ben koruyacağım!
+24|Ama her şey Himiko'nun en şüpheli olduğunu\ngösteriyor.
+25|Ryoma, Himiko'nun büyü gösterisi sırasında öldü.
+26|Cesedinin su tankında ortaya çıkması kaçış\nnumarasının bir rolü olduğunu düşündürüyor.
+27|Himiko'dan şüphelenmemiz çok doğal.\nNumarayı yapan oydu.
+28|H-Hayır, yanlış...\nSu Altından Kaçış...bir numara değildi.
+29|O bir...büyüydü!
+30|İnkâr etmen gereken kısım o değil!\nSuçlu olmadığını söylemen lazım.
+31|Büyü, ha? Çok havalı...\nNe gizemli bir mucize.
+32|Şimdi, Ryoma'yı sen mi öldürdün Himiko?\nAtua itirafını dinleyecek.
+33|D-Durun!\nBunların hiçbirinin doğru olmasına imkân yok!
+34|Ama doğru. Himiko, Ryoma'yı öldürmek için\nSu Altından Kaçış numarasını kullandı.
+35|Ama Himiko'nun numarayı nasıl yaptığına dair\nhâlâ hiçbir fikrim yok...
+36|N-Numara yok...\nO...gerçekten büyüydü.
+37|Biliyor musunuz, belki de gerçekten *büyü*—
+38|Ah, kes şunu. Numaranı şimdi açıklamazsan\nseni suçlu olarak oylarız.
+39|Himiko'ya sataşmayı kesin! Onun gibi minicik\ntatlı bir çiçek kimseyi öldüremez!
+40|Onu savunmak istediğini anlıyorum ama\nbu biraz abartı olabilir...
+41|<CLT=cltMIND>Beklediğim gibi diğerleri Himiko'dan\nşüpheleniyor...
+42|<CLT=cltMIND>Ama benim şüphelerim var...

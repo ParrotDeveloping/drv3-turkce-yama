@@ -1,0 +1,50 @@
+@ chap2_text_US
+## c02_102_149
+86|Sonunda yurtlara gidip herkesin videolarını\ntopladım.
+88|<CLT=cltMIND>O zaman ondan on bire kadar...\nmazereti yok.
+93|Senin burada ne işin var, Tsumugi?
+94|Ha? Eh, araştırıyorum. Sıradan olduğumu biliyorum\nama araştırdığım düpedüz ortada.
+95|Ah...öyle mi?
+96|Ee? İpucu buldun mu?
+97|Hâlâ...onu düşünüyorum.
+98|Sadece düşünerek ipucu ortaya\nçıkarabileceğini...sanmıyorum...
+99|Iıı, hayır... Aslında hâlâ hiçbir şey\nbulamadım.
+100|O zaman işe koyul!\nİpuçları etrafa bakarak bulunur!
+101|Ama bence şu herifi yalnız bırakmak\ndüpedüz kötü bir fikir...
+102|<CLT=cltMIND>Tsumugi, Kokichi'ye anlamlı\nbir bakış attı.
+103|O yüzden onu düpedüz gözetlemeye\nkarar verdim.
+104|Böylece benim gibi sıradan biri bile\nyardım edebilir.
+105|Bence şu herifi yalnız bırakmak düpedüz\nkötü bir fikir.
+106|O yüzden onu düpedüz gözetleyeceğim.
+107|Pek önemli değil ama adını söylememen onu\nkötü bir büyücü gibi gösteriyor.
+116|<CLT=cltMIND>Kocaman bir su tankı. Himiko'nun gösterisinde\nkullanılana benziyor...
+117|Himiko'nun gösteride kullandığı tankın aynısı\ngibi. Sanırım bu yedeği.
+118|Tankı buradan taşırken Himiko bana ve\nKeebo'ya böyle söylemişti...
+119|O zaman belki *bu* tankı araştırırsak\nnumaranın sırrını öğrenebiliriz...
+120|<CLT=cltMIND>Cesaretlenerek tankın etrafında\nyürümeye başladım.
+121|<CLT=cltMIND>Şalter ya da düzenek olabilecek\nherhangi bir şey arıyordum...
+122|Hm? Bu ne?
+123|<CLT=cltMIND>Tankın üst kısmına yakın açılan bir bölme\nvar. Ama neden orada açılıyor?
+124|<CLT=cltMIND>Ah, dur.\nBelki de rastgele değildir...
+125|<CLT=cltMIND>Bu bölme...burada açılmak\n*zorundaydı*.
+126|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Su Tankı Numarası<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+127|<CLT=cltMIND>Kocaman bir su tankı.
+128|<CLT=cltMIND> Himiko'nun gösterisinde kullanılana\nbenziyor. Belki bu yedeğidir.
+129|<CLT=cltMIND>Tankın üst kısmına yakın açılan bir bölme\nvar. Ama neden orada açılıyor?
+130|<CLT=cltMIND>Ah, dur.\nBelki de rastgele değildir...
+131|<CLT=cltMIND>Bu bölme...burada açılmak\n*zorundaydı*.
+134|<CLT=cltMIND>Bu da büyü numaralarında mı kullanılıyor?\nDaha önce büyü gösterilerinde görmüştüm...
+135|<CLT=cltMIND>Bunun...davayla hiçbir ilgisi yok.
+138|<CLT=cltMIND>Bunun...davayla hiçbir ilgisi yok.
+140|<CLT=cltMIND>Bunun...davayla hiçbir ilgisi yok.
+## c02_102_191
+0|Burada sonsuza kadar kalamayız.\nGidip başka yerleri araştıralım.
+1|Tembellik edecek vaktimiz yok!\nÖyle değil mi, yardımcı!?
+3|Hmm, demek havuz bu...\nPek okul havuzuna benzemiyor.
+4|Yani spor salonunda sahnenin üstünde araştırdığımız\npencere buraya açılıyor, değil mi?
+5|Suçlu muhtemelen buradan girip çıktı!\nPekala! Her köşeyi bucağı araştır!
+6|<CLT=cltMIND>...Sen kendin yapmayacak mısın?
+7|Yani spor salonunda sahnenin üstünde araştırdığımız\npencere buraya açılıyor, değil mi?
+8|Suçlu muhtemelen buradan girip çıktı!\nPekala! Her köşeyi bucağı araştır!
+14|Buraya kadar geldim...\nHer yere bakmalıyım.
+20|<CLT=cltMIND>Su seviyesi değişmemiş...\nama içinde yüzen bir şey görüyorum.

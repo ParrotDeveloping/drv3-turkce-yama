@@ -1,0 +1,57 @@
+@ chap2_text_US
+## c02_008_101
+60|<CLT=cltMIND>Hediye bu olabilir mi...?
+61|<CLT=cltMIND>Uyumadan önce masanın üstünde\nyoktu...
+62|<CLT=cltMIND>Hediye bu olabilir mi...?
+63|<CLT=cltMIND>Uyumadan önce masanın üstünde\nyoktu...
+64|<CLT=cltMIND>Hediye bu olabilir mi...?
+65|<CLT=cltMIND>Uyumadan önce masanın üstünde\nyoktu...
+66|<CLT=cltMIND>Hediye bu olabilir mi...?
+67|<CLT=cltMIND>Uyumadan önce masanın üstünde\nyoktu...
+68|<CLT=cltMIND>Bu ne zaman buraya geldi?\nMonopad'e benziyor ama değil.
+69|<CLT=cltMIND>Arkasında küçük harflerle <CLT=cltSTRONG>"Yavrupad"<CLT=cltMIND>\nyazıyor.
+70|...Yavrupad mı?
+71|<CLT=cltMIND>Ekrana dokununca cihaz canlandı ve\nbir video oynamaya başladı.
+72|Pekala! Yoğun istek üzerine yeniden\nkarşınızda: <CLT=cltSTRONG>motif videosu<CLT=cltNORMAL>!
+73|<CLT=cltSTRONG>Hayatındaki en önemli kişi<CLT=cltNORMAL> kim?\nVe şimdi, lafı uzatmadan...
+74|Kaito...?
+75|<CLT=cltSTRONG>Ultimate Astronot<CLT=cltNORMAL> Kaito Momota...
+76|Olağanüstü yeteneği sayesinde bu genç adam\nşimdiden astronot adayı! Vay be!
+77|Ekibimiz onun büyükanne ve büyükbabasıyla\nözel bir röportaj yapmayı başardı.
+78|Torunlarını çok özlüyorlar ve ona sağ salim\ngeri dönmesini umuyorlar.
+79|Ama sadece benim sözüme güvenmeyin!\nBir de kaynağından dinleyelim!
+80|Kaito... Sen yaşadığın sürece başka\nhiçbir şeye ihtiyacım yok...
+81|Ne olursa olsun yaşamalısın.\nAsla ama asla pes etmemelisin.
+82|Lütfen...yaşa. Bizim için de.
+83|Tek dilekleri...Kaito'nun yaşaması.
+84|Kaito büyükanne ve büyükbabasının dileğini\nyerine getirebilecek mi?
+85|Ah, evet...\nBir şey daha...
+86|Bu röportaj biter bitmez bu moruklar\ntalihsiz bir kaza geçirdi...
+87|Ne kazası mı? Sır! Kendin öğren.\nPuhuhuhuhuhu...
+88|Bu...neydi?
+89|<CLT=cltSTRONG>Motif videosu<CLT=cltNORMAL>... Bu da Monokuma'nın\n<CLT=cltSTRONG>motiflerinden<CLT=cltNORMAL> biri mi?
+90|Öyle olsa bile...Kaito'nun <CLT=cltSTRONG>motifi<CLT=cltNORMAL>\nneden bende?
+91|Ah, bunları sonra düşünürüm!\nAcele edip Kaito'ya söylemeliyim!
+92|<CLT=cltMIND>Kaito'yu bulmak için koridora\nfırladım.
+## c02_009_010
+0|<CLT=cltMIND>Hm...Kaito burada da mı yok?
+1|Hey, Kaito'yu gören var mı!?
+2|Panik içinde görünüyorsun.\nYanılmıyorsam Yavrupad yüzünden.
+4|Bir tek sana gelmedi, Shuichi.
+5|Hepimize geldi.
+6|Hepimize "motif videoları" verilmiş.\nAma karıştırılmışlar.
+7|Karıştırılmış mı?
+8|Uyandığımda odamda bir Yavrupad vardı ama\niçindeki video benim değildi bile—
+9|Tsumugi, bunu herkes burada olunca\nkonuşalım.
+10|Ah, pardon... Haklısın.
+11|Herkes burada olunca derken?
+12|Kaito ve Keebo, planlarımızı konuşabilmemiz\niçin diğerlerini toplamaya gitti.
+13|O zaman herkesi bekleyelim mi? O zamana kadar\nhepinize masaj yapabilirim—
+14|Beklediğiniz için teşekkürler! Diğer herkesi\ntopladık!
+15|Aman Tanrım...tam da Kirumi'nin meşhur\nmasajlarından birini deneyecektim ki...
+16|N-Ne demek istiyorsun? Sen de mi ortamı\nokuyamadığımı ima ediyorsun?
+17|Ee, ne oldu? Bizi neden buraya sürükledin?
+18|Söylemedim mi?\nYavrupad'ler hakkında.
+19|Monokuma bize yeni bir motif verdi.\nBunu konuşmamak olmaz.
+20|Şu başka bir Monopad'e benzeyen şey mi?\nO bir <CLT=cltSTRONG>motif<CLT=cltNORMAL> miydi?
+21|Maki, Yavrupad'deki videoyu daha\nizlemedin mi!?

@@ -1,4 +1,10 @@
+0	...Benden bir isteğin mi vardı?
+1	Miu'ya icadında yardım etmem\nplanlanmıştı.
+2	Beklemekte sakınca görmezsen isteğini\nsonrasında yerine getirebilirim elbette.
 3	Evet
 4	Hayır
 5	Emin olmadığın bir şey mi var?
+6	<CLT=cltMIND>Bir süre Kirumi ile takılayım mı?
+7	Evet... İcadında ona yardım etmeden önce\nbiraz dinlenmeliyim.
+8	<CLT=cltMIND>Kirumi ile birlikte mola verdik.
 9	<CLT=cltMIND>Kirumi'yle bugün biraz daha yakınlaştık.

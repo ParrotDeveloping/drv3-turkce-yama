@@ -1,0 +1,53 @@
+@ chap2_text_US
+## c02_231_000
+81|Son ipucu mu...?
+82|Kirumi'nin suçlu olduğunu kanıtlayan\nkesin delil.
+83|Shuichi, beni suçlu olarak göstermeye neden\nbu kadar can attığını söyler misin lütfen?
+84|Herkesi korumak istemiyor musun!?
+85|Bunu herkesi korumak istediğim *için*\nyapıyorum!
+87|O zaman yanılıyorsun!\nÇıkarımın tamamen yanlış!
+88|Sözlerin artık beni ikna etmeyecek.\nGerçeği bilirken etmez.
+89|Ne gerçeği!? Tek umursadığın kendi mantığın!\nBaşkalarını dinlemiyorsun bile!
+90|Herkesin hayatını kendini beğenmiş bir veledin\nçıkarımına bağlayamam!
+91|Sen kimseyi kurtaramazsın!!!
+93|<CLT=cltMIND>Artık şüphe yok...\nHaklı olduğumdan eminim!
+94|<CLT=cltMIND>Herkese onun suçlu olduğunu\nkanıtlayan delili sunacağım.
+95|<CLT=cltMIND>Pencere çerçevelerindeki izler bunu\n*kimin* yaptığını göstermiyor...
+96|<CLT=cltMIND>Ama sadece Kirumi'nin bırakabileceği bir\ndelil var! Onlara göstereceğim!
+97|...Görünüşe göre hem söyleyecek söz hem de\ndelil bulamıyorsun.
+98|Bu suçlu olmadığımı apaçık ortaya\nkoymalı!
+100|<CLT=cltMIND>Hayır, dünkü mazeretler yeterli\nolmayacak...
+101|<CLT=cltMIND>Kirumi'yi ifşa edecek somut bir\ndelile ihtiyacım var!
+102|...Görünüşe göre hem söyleyecek söz hem de\ndelil bulamıyorsun.
+103|Bu suçlu olmadığımı apaçık ortaya\nkoymalı!
+105|Söyleyecek söz bulamıyorsun...
+106|Bu beklenen bir şey!\nÇünkü yanılıyorsun!
+107|Sen kimseyi kurtaramazsın!
+109|<CLT=cltMIND>Bunun...delil olarak işe yarayacağını\nsanmıyorum...
+110|<CLT=cltMIND>Gece geride bıraktığı bir şey\nolmalı...
+111|Sözde son ipucun hiçbir şeyi kanıtlamayan\nsefil bir başarısızlık...
+112|Herkesi korumaya yemin ettim...ve yoluma\nçıkmana izin vermeyeceğim!!!
+114|Kirumi'yi hangi delil suçluyor?
+115|Havuzdaki <CLT=cltSTRONG>siyah kumaş parçası<CLT=cltNORMAL>!\nSuçlu olduğunu kanıtlayan son ipucu bu!
+116|...Gh!
+117|Bir süredir kafama takılıyordu...\nNe olduğunu çözemiyordum.
+118|İlk başta sadece çöp sandım ama tamamen\ngöz ardı edemedim.
+119|Sınıf Duruşması buraya kadar geldiğine\ngöre...artık kesin olarak biliyorum.
+120|Bu yapbozun önemli bir parçası.
+121|Çünkü tıpkı simit gibi...suçlunun ortadan\nkaldıramadığı bir delil.
+122|H-Ha? Neden?
+123|Teleferikle simidi laboratuvardan spor\nsalonuna kaydırabilirdin...
+124|...Ama onu nasıl kontrol ederdin?
+125|Kaymaya devam edip pencereye çarpsaydı\nbu hız cesedi fırlatırdı.
+126|Bunu önlemek için suçlunun hızı ayarlamanın\nbir yoluna ihtiyacı vardı.
+127|Mesela...suçlu sürtünme için ellerini\nkullanmış olabilir.
+128|E-Evet, ne olmuş!?
+129|Hâlâ yanılıyorsun!\nMantığın hatalı!!!
+130|Kirumi...neden giderek daha tutarsız\noluyorsun?
+131|Kehehe... Gerçeğe karşı savaşmaya çalışmakta\nmutlak bir güzellik var.
+132|Ne "gerçeği"?
+133|O siyah kumaş sadece çöp! Sadece onunla\nsuçlu olduğumu kanıtlayamazsın!
+134|Hayır, sadece çöp değil!\nSuçlu olduğunun kanıtı!
+135|...Gh!
+136|<CLT=cltMIND>O siyah kumaşın buna nasıl uyduğunu\nbulmak her şeyin anahtarı.
+137|<CLT=cltMIND>Şimdi hepsini netleştireceğim!

@@ -1,0 +1,62 @@
+@ chap2_text_US
+## c02_999_001
+0|<CLT=cltMIND>Sanırım havuz alanı için bu kadar...\nHâlâ araştırmam gereken başka yerler var.
+## c02_999_002
+0|Yahu! Buldum seni, Shuichi!
+1|Burada olduğunu bilmiyordum! Her yerde\nseni arıyordum!
+2|Ah, Angie! El feneri hakkında bir şey\nöğrenebildin mi?
+3|Evet, sonunda çözdüm.
+4|Görünüşe göre Atua bir açıklama için spor\nsalonunda toplanmamızı istiyor.
+5|Şimdi dinlenecek vaktin yok.\nBay-onara!
+6|<CLT=cltMIND>Bize açıklamayı "Atua" yapacaksa\ntahminimce çözemedi.
+7|<CLT=cltMIND>Ama her hâlükârda...\n<CLT=cltSTRONG>spor salonuna<CLT=cltMIND> gitmeliyim.
+## c02_999_003
+0|Ah, hey... Ne yapıyorsunuz?
+1|Atua'ya dua ediyoruz, elbette.
+2|Atua'ya dua ediyoruz.
+3|Haaaaa!? Sen de mi, Himiko!?
+4|Nyeeeh...böyle dua ettiğim sürece enerjimi\ngereksiz şeylere harcamam gerekmiyor.
+5|Ne olursa olsun, önümde ne dert olursa\nolsun kalbim sakin olacak...
+6|Anlıyorum... Bu bir kaçış.
+7|Hayır... O sadece Atua ile konuşmak için\ngerçeklikten vazgeçti.
+8|*Bu* kaçış zaten.
+9|Gerçekten mi!? Bunu bilmiyordum!
+10|Hey, Angie! Himiko'nun beynini ne zaman yıkadın!?
+11|Nyahahaha! Aksine, onun beyin yıkamasını\nçözdüm.
+12|Hm...Atua'nın varlığını hissetmediğim\nzamanlarda beynim yıkanmıştı...
+13|Kehehe... Görünüşe göre çok geç.
+14|Himiko, lütfen kendine gel!\nGerçekle yüzleşmelisin!
+15|Heeey! Himiko! Himikooooo!
+16|D-Dur... Sözümü kesince sakin\nkalbimi bozuyorsun...
+17|B-Ben...içinde bulunduğum bu kâbus gibi\ngerçekliği hatırladım...
+18|B-Bütün güvensizliklerimi ve yalnızlığımı...\nö-ölmek istememe yol açan acıyı...
+19|Tanrım, Tenko. Himiko dua ederken\nsözünü kesme.
+20|<CLT=cltMIND>Sonra her zamanki gibi gülümseyen\nAngie, Himiko'nun yanına gitti ve...
+21|Hmmmmmmm...
+23|Anlıyorum, Himiko... Aslında korkmuyorsun.\nSadece üzgünsün, değil mi?
+24|Hayal kırıklığı, kaygı ve endişe hissediyorsun\nama içini dökecek kimsen yok, değil mi?
+25|...Sorun değil. Yalnız değilsin, Himiko.
+26|Seni dikkatle gözeten yakışıklı bir\ntanrı tanıyorum.
+27|Y...yakışıklı bir tanrı mı?
+28|Nyeeeh...ne gizemli bir mucize.\nArtık korkmuyorum.
+29|Ahhh, ne harika. Hepsi o yakışıklı tanrı\nsayesinde.
+30|Ha!? Ne yakışıklı tanrısı!?
+31|Dur. Himiko, yakışıklı erkeklerden mi\nhoşlanıyorsun!? Neden ben olamıyorum!?
+32|Yoksa sen...<CLT=cltSTRONG>öbür takımda mı oynuyorsun<CLT=cltNORMAL>?
+34|N-Neden bahsediyorsun?\nÖyle bir şey değil!
+35|Hey, Angie!\nHimiko'ya ne yaptın?
+36|Haaaa? Ne mi yaptım?
+37|Bir şey mi yaptım? Yaptım mı? Ne yaptım?
+38|Ah, evet, evet. Atua bana konuştu.\nMesajını herkese ileteceğim.
+39|Bu konuşma nereye gidiyor!?
+40|<CLT=cltMIND>Neyse... Atua'nın mesajı neydi?\nBeni biraz endişelendiriyor...
+## c02_999_004
+0|<CLT=cltMIND>Pekala, su tankının etrafında görmek\nistediğim her şey bu kadar.
+## c02_999_005
+0|<CLT=cltMIND>Sahnede araştırmak istediğim her şeyi\naraştırdım...
+1|Hm? İşimiz bitti mi?\nO zaman gidelim.
+2|Evet, tamam.
+## c02_999_006
+0|<CLT=cltMIND>Sahnenin arkasında araştırmak istediğim\nher şeyi araştırdım...
+1|<CLT=cltMIND>ama büyü numarası hakkında hâlâ\nanlamadığım çok şey var.
+2|Hey, ona daha ne kadar bakıp duracaksın?\nSuçluyu bulmamız lazım, biliyorsun değil mi?

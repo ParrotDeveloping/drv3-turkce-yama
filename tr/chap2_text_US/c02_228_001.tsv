@@ -1,2 +1,46 @@
+0	<CLT=size2>Ben, elbette,\n<CLT=size2>suçlu<CLT=size1> değilim.
+1	Ben, elbette, suçlu değilim.
+2	<CLT=size1>Suç<CLT=size1> <CLT=size2>gece<CLT=size1> işlendi...
+3	Suç gece işlendi...
+4	ve <CLT=size2>senin<CLT=size1>
+5	Ve senin mazeretin yok, değil mi?
+6	<CLT=size2>mazeretin<CLT=size1> yok, değil mi?
+7	Gece\n<CLT=size2>için\n<CLT=size1>bir\n<CLT=size2>mazeret mi?
+8	Gece için bir mazeret mi?
+9	Sanırım\n<CLT=size2><CLT=cltWEAK>çoğumuzun<CLT=size1>\n<CLT=size2>öyle bir\nmazereti yok<CLT=cltNORMAL>.
+10	Sanırım çoğumuzun öyle bir mazereti yok.
+11	<CLT=size2>B-Benim elimde
+12	B-Benim elimde senin suçlu olduğunu kanıtlayan delil var...
+13	<CLT=cltAGREE><CLT=size2>senin suçlu\nolduğunu kanıtlayan
+14	<CLT=size2>d-delil var...
+15	Böyle bir saçmalığa
+16	Böyle bir saçmalığa kanacağımızı mı sanıyorsun?
+17	kanacağımızı\n<CLT=size2>mı sanıyorsun?
+18	<CLT=size2>Numara<CLT=size1> işlemek için
+19	Numara işlemek için karmaşık düzeneklere\ndayanıyordu...
+20	<CLT=size2>karmaşık düzeneklere<CLT=size1> dayanıyordu...
+21	Ama <CLT=cltAGREE><CLT=size2>senin gibi<CLT=size1> biri
+22	Ama senin gibi biri bunu başaracak kadar becerikli olabilir.
+23	<CLT=cltAGREE>bunu\n<CLT=size2>başaracak\n<CLT=size2>kadar\n<CLT=cltNORMAL><CLT=size1>becerikli olabilir.
+24	<CLT=size2>Saçma.
+25	Saçma. Bunu herkes yapabilirdi.
+26	Bunu <CLT=cltWEAK><CLT=size2>herkes<CLT=size1> <CLT=size2>yapabilirdi<CLT=cltNORMAL>.
+27	<CLT=size2>Kirumi<CLT=size1> zayıf ve\n<CLT=size2>güzel bir vücudu var...
+28	Kirumi zayıf ve güzel bir vücudu var...
+29	Ryoma ile bir simidi\n<CLT=cltAGREE><CLT=size2>rahatça paylaşabilirlerdi<CLT=cltNORMAL><CLT=size1>!
+30	Ryoma ile bir simidi rahatça paylaşabilirlerdi!
+31	Belki Gonta hariç\n<CLT=size3>hepimiz<CLT=size1> yapabilirdik.
+32	Belki Gonta hariç hepimiz yapabilirdik.
 33	Gerçekten mi...?
+34	Ne kadar şüpheli!
+35	Bu bir yalan!
+36	Gonta buna inanmıyor...
 37	Hm...
+38	Evet! Bir mazeret ver bize!
+39	Haklı bir yanı var...
+40	Öyle mi?
+41	O kekemelik hiç ikna edici değil...
+42	Kirumi'nin becerisi var...
+43	Gerçekten herkes için mümkün mü?
+44	Ben de öyleyim!
+45	Ben de bunu yapabilirim!

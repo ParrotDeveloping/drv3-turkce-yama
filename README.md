@@ -11,8 +11,9 @@ Steam (Windows) sürümü için hayran yapımı Türkçe çeviri.
 | Menüler / arayüz | ✅ |
 | Prolog (Bölüm 0) | ✅ |
 | Bölüm 1 | ✅ |
-| Bölüm 2 | 🔄 devam ediyor |
-| Bölüm 3–6, Epilog | ⏳ |
+| Bölüm 2 | ✅ |
+| Bölüm 3 | 🔄 sırada |
+| Bölüm 4–6, Epilog | ⏳ |
 | Ainori / Galeri / diğer | ⏳ |
 
 ## Klasörler

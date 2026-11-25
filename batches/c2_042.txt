@@ -1,0 +1,56 @@
+@ chap2_text_US
+## c02_016_241
+167|Nişişi... Çok saftın, Kaito.
+169|K-Kaito...
+170|Ryoma yine kazandııı! Çok yazııık!
+171|Bwah-hahaha! Oh olsun! Neden bir de\nöbür elinle çekmeyi denemiyorsun!?
+172|Sadece şans bu kadar tutarlı sonuçlar\nvermez, Ryoma.
+173|Eh, elbette. Sadece şanslı olsaydım kortta\nyenilmez olmazdım.
+174|Biliyor musun Kaito... Kumar konusunda hiç\nyeteneğin yok!
+175|K-Kapa çeneni! Benim yeteneklerim\nuzaya göre!
+176|O yüzden kumarda işe yaramıyor!\nOnları bunun için harcayamam!
+177|Bu yüzden artık kumar oynamıyorum!
+178|Evet, bence en iyisi bu...
+179|<CLT=cltMIND>Bir hayli moralsiz olan Kaito'yu odasına\ngötürdüm, sonra kendi odama döndüm.
+## c02_017_101
+0|<CLT=cltMIND>Hâlâ biraz vakit var—
+1|<CLT=cltSYSTEM>*ding dong...*
+2|<CLT=cltMIND>Ha? Herhalde Kaito ama...\nşimdiden antrenmana mı geldi?
+3|<CLT=cltMIND>Gece antrenman yapmayacak mıydık?\nBiraz erken...
+4|<CLT=cltMIND>Kaito'nun gelmesi için biraz erken\ngibi geliyor...
+9|<CLT=cltMIND>Sonra, kapıyı açtığım anda...
+10|Ş-Shuichi, kaç!
+11|Ha!? Ne oldu!?
+12|Öyle durma, kaç!\nÇabuk! <CLT=cltSTRONG>O<CLT=cltNORMAL> geliyor!
+13|Kim geliyor?
+14|Gh!?
+15|<CLT=cltMIND>Kaito koridora bir göz attı ve anında\nkorkudan kaskatı kesildi.
+16|Lanet olsun...geldi bile!\nÇabuk, Shuichi! Kaç!
+17|İkimiz de bundan sağ çıkarsak...\nYine antrenman yapalım.
+18|Ah! Kaito!
+19|<CLT=cltMIND>Kaito bu uğursuz uyarıyı yaptıktan sonra\nyıldırım hızıyla kaçtı.
+20|N-Ne!? <CLT=cltSTRONG>Kimden<CLT=cltNORMAL> bahsediyorsun?
+21|Kaito'yu neyin bu kadar korkuttuğunu görmek\niçin kapının aralığından baktım.
+23|<CLT=cltMIND>Bu...Gonta, değil mi?\nBiraz...farklı görünüyor...
+25|<CLT=cltMIND>Görünüşe göre odaları tek tek kontrol ediyor.\nBirazdan benim kapıma gelecek...
+26|Ne çevirdiğini bilmiyorum ama muhtemelen\nburada olmamak daha iyi...
+27|<CLT=cltMIND>Gonta'nın dikkatini çekmemeye özen göstererek\nkoridorda sessizce parmak uçlarımda ilerledim.
+28|<CLT=cltMIND>Gizlice avluya doğru yol aldım.
+34|<CLT=cltMIND>Bunların hepsini kim, nasıl hazırladı?\nBize neden bu kadar yedek üniforma verildi?
+## c02_017_254
+0|<CLT=cltMIND>Bu da neydi böyle?\nGonta ne yapmaya çalışıyordu?
+1|Görünüşe bakılırsa sen de Gonta'dan\nkaçtın.
+2|Ryoma!
+3|Nedenini bilmiyorum ama... Öfkeye kapılmış ve\nherkesi yakalamaya çalışıyor gibi.
+4|Hıh, son hızla üstüme koşuyordu.
+5|Kendini üstüne attı ama sen kaçmayı başardın\nmı? Bu inanılmaz...
+6|Evet, Shukuchi Yöntemi'ni kullandım. Tenis\ngünlerimden bir teknik. Bir tür ışınlanma adımı.
+7|Tabii o günlerden beri biraz paslandım\nama...
+8|Gonta'nın daha çok yolu var...\nBöyle beni yakalayamaz.
+9|<CLT=cltMIND>Shukuchi... Ryoma zamanında inanılmaz\nbir oyuncu olmalı.
+10|Bu arada...özür dilerim.
+11|"Yaşamak için bir sebebim yok" gibi\nhavasız bir şey söylediğim için.
+12|Ah, hayır, özür dilemene gerek yok...
+13|Açık olalım diye söylüyorum. Hayatımı ziyan\nedecek kadar aptal değilim.
+14|Öyle bir şeyi...sadece seni kıskandığım\niçin söyledim.
+15|Kıskandın mı?

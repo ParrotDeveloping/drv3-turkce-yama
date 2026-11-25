@@ -1,0 +1,55 @@
+@ chap2_text_US
+## c02_020_502
+17|Hıh! "Bekliyor olacağız" diyor.\nGösteri Himiko'nun, senin değil.
+18|Sanırım sorun yok...
+19|<CLT=cltMIND>Şimdi aklıma geldi, bugün Kaito ile\nantrenman yapamadım.
+20|<CLT=cltMIND>Ah, yazık. Ama yarın gece\nyapabiliriz.
+21|<CLT=cltMIND>Onu bir daha hiç görmeyecek\ndeğilim ya.
+22|<CLT=cltMIND>Bütün o kargaşadan yorgun düşmüş hâlde\nkendimizi odalarımıza sürükledik.
+## c02_021_001
+0|Ah, Keebo. Günaydın.
+1|Günaydın, Shuichi.
+2|Bugün nasıl hissediyorsun? Dün geceki\nolaylar yüzünden hâlâ ağrın var mı?
+3|Ah, iyiyim. Asıl *sen* iyi misin?
+4|Evet, iyiyim. Kayıt özelliğimde kullandığım\nelektriği yeniden şarj ettim.
+5|Yine de...
+6|Sonunda özelliklerimi herkese yardım etmek için\nkullanabildiğim için çok mutluyum!
+7|<CLT=cltMIND>Keebo'nun kayıt özelliği... Pek devrim niteliğinde\nbir teknoloji değil ama gerçekten çok işe yaradı.
+8|Evet, teşekkürler Keebo. <CLT=cltSTRONG>Ultimate Robot<CLT=cltNORMAL>\nunvanını gerçekten hak ettin.
+9|Ah, gerçekten önemli değildi. Herhangi bir konuda\nyardımıma ihtiyacın olursa çekinmeden sor.
+10|Ahaha...\nEvet, kesinlikle sorarım.
+11|Ee...büyü gösterisi birazdan başlıyor, değil mi?
+12|Herkes muhtemelen spor salonunda toplanmıştır\nbile. Biz de gitsek iyi olur.
+## c02_021_042
+0|Ah, Kirumi. Günaydın.
+1|Günaydın. Herkes gösteri için çoktan\ntoplandı.
+2|Ah, öyle mi?\nSanırım herkes dört gözle bekliyor.
+3|Özellikle Miu çok heyecanlı görünüyor...\nGözleri bir çocuğunki gibi parlıyordu.
+4|<CLT=cltMIND>O kadar heyecanlı demek, ha?\nEh, heyecanlı olmadığımı söylesem yalan olur.
+5|Bu arada...görünüşe göre dün gece bazı\nakıl almaz olaylar yaşanmış.
+6|Evet, Kokichi, Gonta'yı kandırıp <CLT=cltSTRONG>motif videosu\nizleme<CLT=cltNORMAL> planına alet etti.
+7|Ama Keebo sayesinde durdurduk.\nSorun yok.
+8|Anlıyorum...demek Kokichi gerçekten bize\nkarşı çıkmaya niyetli.
+9|...Neyse, içeri girelim.\nHerkes bekliyor.
+## c02_021_254
+0|Günaydın, Tsumugi.
+2|İyi misin...?\nBiraz hasta görünüyorsun...
+3|Evet, sadece...o böceklerin vızıltısı hâlâ\nkafamda...
+4|Yattıktan sonra bile duymaya devam ettim...\no yüzden pek uyuyamadım...
+5|Ah, zor olmuş olmalı.
+6|Gonta duysa üzülür ama...\nböcekleri artık daha da az seviyorum.
+7|Gonta'nın laboratuvarı dışında böcek\nolmadığına seviniyorum...
+8|Yoksa...var mı?
+9|Eh, Gonta bir keresinde gerçekten minicik bir\nböcek gördüğünü sandığını söylemişti...
+10|Ah evet, öyle demişti!
+11|Ama Gonta'nın 32/10 görme gücüyle bile\nancak zar zor görebilmişti, değil mi?
+12|Yani...düpedüz yanılmış olması mümkün\ndeğil mi?
+13|Hayır, aslında...gerçekten yanılmış olmasını\numuyorum...
+14|Aaah, böceklerden bıktım... Dün geceyi unutup\nbüyü gösterisinin tadını çıkaracağım.
+16|Gösteri spor salonunda, değil mi?\nBen önden gidiyorum.
+20|Kumarhane Kapısı Altıgen Anahtar Düzeneği (Açık)
+## c02_022_008
+0|<CLT=cltMIND>Vay...\nBu düşündüğümden bile güzel.
+1|Büyü gösterimize hoş geldin!\nNe dersin? İlahi değil mi!?
+2|Evet, öyle... Gerçek bir sahne kuracağınızı\ndüşünmemiştim. Hepsini Himiko ile siz mi yaptınız?
+3|Hayır, hayır. Sadece iki kişiyle bu imkânsız\nolurdu. Başkalarından yardım aldım.

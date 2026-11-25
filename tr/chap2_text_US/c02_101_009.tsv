@@ -1,24 +1,545 @@
+0	Hey, Shuichi, bir saniyen var mı?
+1	Hm? Ne oldu?
+2	Soruşturmaya başlamadan önce sana\nsöylemem gereken bir şey var...
+3	Bundan sonra benim yardımcımsın!
+4	...Yardımcın mı?
+5	Ben daha çok bilim adamı tipiyim, o yüzden\nsoruşturmalara pek uygun değilim.
+6	<CLT=cltMIND>Ama...bu bir soruşturma için iyi\nbir özellik...
+7	Ayrıca Yıldızların Işığı Kaito Momota'ya yakışan\ntek sahne evrenin kendisi.
+8	O yüzden ayrıntıları sana bırakıyorum.\nBaşarıma giden yolu sen döşe!
+9	Ah ama bir "yardımcı" olarak ne yapacağımı\nbilmiyorum...
+10	Merak etme. Bütün zor kararları ben veririm,\nsen sadece dediğimi yapacaksın.
+11	<CLT=cltMIND>O...kararları tek başına vermeye\nbayılıyor, değil mi?
+12	Yani...
+13	Bütün sorumluluğu ben alırım. Benim yardımcım\nolduğuna göre endişelenecek bir şey yok.
 14	Ha?
+15	Pekala, başlayalım!\nÖnce Monokuma Dosyası'na bakmalıyız!
+16	E-Evet, doğru.
+17	<CLT=cltMIND>Kaito'nun beni böyle yardımcısı\nyapması... Yoksa...?
+18	Ben...korkuyorum.\nKorkmamaya çalışıyorum ama korkuyorum.
+19	Gerçeği ortaya çıkarırsam gelecek acıyı ve\nhüznü düşünmeden duramıyorum.
+20	Korktuğum şey bu...
+21	<CLT=cltMIND>Bana yardım etmeye mi çalışıyor?
+22	Hey, ne oldu?\nHadi Monokuma Dosyası'na bakalım artık.
+23	Ah, doğru.
+24	<CLT=cltMIND>Kaito'nun isteği üzerine Monokuma\nDosyası'nı inceledim.
+25	<CLT=cltMIND>Kurban <CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltMIND>\nRyoma Hoshi...
+26	<CLT=cltMIND>Ceset spor salonunda bulundu.
+27	<CLT=cltMIND>Ölüm sebebi boğulma. Cesedi sadece kemikleri\nkalana kadar piranalar tarafından yenildi.
+28	<CLT=cltMIND>Şu an başka bir yaralanma tespit\nedilemiyor.
+29	Ne? Burada öncekinden daha az şey yazıyor.\nBunun hakkında içimde kötü bir his var...
+30	<CLT=cltSTRONG>Ölüm saati<CLT=cltNORMAL> burada yazmıyor...
 31	Hm?
+32	Önceki Monokuma Dosyası'nda Rantaro'nun\n<CLT=cltSTRONG>ölüm saati<CLT=cltNORMAL> yazıyordu, değil mi?
 33	<CLT=cltMIND>Kurban Rantaro Amami...\n<CLT=cltSTRONG>Ultimate<CLT=cltMIND> yeteneğinin ne olduğu yazmıyor...
 34	<CLT=cltMIND>Kurbanın cesedi kütüphanede\nbulundu.
 35	<CLT=cltSTRONG>Tahmini ölüm saati 21:10.<CLT=cltMIND>
 36	<CLT=cltMIND>Kurban kafatasının arkasına künt bir\ndarbe almış...
 37	<CLT=cltMIND>bunun sonucunda kafatası kırıkları yaşayıp\nanında ölmüş. Başka yara tespit edilmemiş.
+38	Ama bu seferki Monokuma Dosyası'nda\n<CLT=cltSTRONG>ölüm saati<CLT=cltNORMAL> yazmıyor.
+39	Monokuma hata mı yaptı!?
+40	Hayır...bu kasıtlıydı.
+41	Monokuma bize suçluyu ele verecek hiçbir\nbilgi vermeyeceğini söylemişti.
+42	Bu şekilde düşününce...
+43	Bu bilginin suçlu için çok ağır bir delil\nolacağı anlamına geliyor.
+44	Yani bu davanın anahtarı\n<CLT=cltSTRONG>ölüm saati<CLT=cltNORMAL>!
+45	Hah, işte bu!\nİyi bir yardımcı seçtiğimi biliyordum!
+46	<CLT=cltMIND>Monokuma Dosyası'nda gözüme takılan\nbir şey daha var...
+47	<CLT=cltMIND>Ryoma'nın ölüm sebebi.
+48	<CLT=cltMIND><CLT=cltSTRONG>Boğulma<CLT=cltMIND> yazıyor...\nAma eğer öyleyse...
+49	<CLT=cltMIND>Davayı oradan çözebiliriz\nbelki...
+50	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma Dosyası 2<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+51	Pekala. Monokuma Dosyası'nı bitirdiğimize\ngöre soruşturmaya başlayabiliriz.
+52	Yeni yardımcıma ilk emrim...
+53	Her yeri araştır ve bizi suçluya götürecek\nipuçları bul!
+54	<CLT=cltMIND>Beklediğim gibi epey\nbuyurgan...
+55	Yeni yardımcıma ilk emrim...
+56	Her yeri araştır ve ipuçları bul!\nHiçbir şeyi gözden kaçırma, anladın mı?
+57	Bakmamız gereken diğer yerler...
+58	Önce havuz alanı.\nSonra Ryoma'nın yurt odası.
+59	Sonra <CLT=cltSTRONG>Ultimate Tenisçi Araştırma Laboratuvarı<CLT=cltNORMAL>...
+60	Ve son olarak <CLT=cltSTRONG>Ultimate Sihirbaz Araştırma\nLaboratuvarı<CLT=cltNORMAL>.
+61	Önümüzde epey iş var!\nHadi işe koyul, Shuichi!
+62	Burada bir şey var mı?
+63	Hayır, buna aradıktan sonra karar verelim!\nGöze çarpan her şeyi araştır!
+64	Hey, burayı daha ne kadar araştıracaksın?\nHâlâ suçluyu bulmamız lazım, biliyorsun değil mi?
+65	Gonta onu kurtarabilirdi...\nHayır, Gonta onu kurtarmalıydı...!
+66	Gonta...ne oldu?
+67	Piranalar Ryoma'ya saldırdığında...\nGonta tanka dalsaydı...
+68	O zaman...Gonta Ryoma'ya yardım edebilirdi. Ama\nGonta korktu. Bir şey yapamayacak kadar korktu.
+69	Özür dilerim! Gonta gerçekten çok üzgün!
+70	Bir erkek bu kadar kolay özür dilememeli...
+71	Hem atlasaydın bile seni de yerlerdi.
+72	Ayrıca Monokuma Dosyası'nda okuduğuma göre\nzaten onu kurtaramazdın, Gonta.
+73	Ha? Gerçekten mi? Monokuma Dosyası'nda\nöyle mi yazıyor?
+74	Monokuma Dosyası'nı daha okumadın mı?
+75	Hayır...Gonta pek anlamadı... Gonta yardım\nedecek kadar akıllı değil...
+76	Ne diyorsun sen!? Özür dilemeye vaktin varsa\ndosyayı okumaya da vaktin var!
+77	Yardım edemeyeceğini düşünüyorsan edebilene\nkadar çalış! Senin yapabileceğin şey bu!
+78	Aynen öyle, Gonta!\nÇok büyük yardımın dokunuyor!
+79	Sonuçta sadece *senin* bildiğin bazı\nbilgiler var.
+80	Sadece...Gonta'nın bildiği bilgiler mi?
+81	Hatırlıyor musun? Gösteri sırasında\nsahneye çıkmıştın, değil mi?
+82	Bu, piranalar düşmeden yaklaşık...\n20 saniye önceydi, değil mi?
+83	E-Evet... Çünkü Gonta Himiko için endişelendi...
+84	Tankın içini gördün mü?\nHimiko'yu ya da Ryoma'yı gördün mü?
+85	Hayır, Gonta tankta kimseyi görmedi.\nGonta biraz şaşırdı...
+86	Ah, bunu yapamazsın! Daha gösterinin\nortasındayız!
+87	A-Ama...Gonta bir şey yapmazsa Himiko\npiranalara yem olacak—
 88	...Ha?
+89	Ama...piranalar düşüp perdeler açıldığında\nRyoma tanktaydı, değil mi?
+90	Evet, doğru...
+91	O zaman Ryoma oraya ne zaman girdi?\nBunun olduğunu görmedin mi?
+92	Gonta bilmiyor...
+93	Piranalar düşünce herkes Ryoma'yı tankta\ngördü. Ondan sonra...
+94	Ö-Özür dilerim! Gonta tankı daha dikkatli\nizlemeliydi!
+95	Dediğim gibi, bir erkek bu kadar kolay\nözür dilememeli!
+96	E-Evet. Haklısın...
+97	Ama...bu bir sorun...\nŞimdi daha da çıkmaza girdim.
+98	Himiko'nun ortadan kaybolması Su Altından\nKaçış Gösterisi'nin bir parçası olsa bile...
+99	Ryoma tanka nasıl girdi?\nBu da Himiko'nun numarasının bir parçası mıydı?
+100	<CLT=cltMIND>Bu gizemin davanın önemli bir noktası\nolacağından eminim...
+101	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Gonta'nın İfadesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+102	Gonta sahneye çıkınca tankta kimseyi\ngörmedi.
+103	O yüzden Gonta biraz şaşırdı...
+104	Ama...piranalar düşüp perdeler açıldığında\nRyoma tanktaydı, değil mi?
+105	Peki Ryoma oraya ne zaman girdi?
+106	Himiko'nun ortadan kaybolması Su Altından\nKaçış Gösterisi'nin bir parçası olsa bile...
+107	Ryoma tanka nasıl girdi?\nBu da Himiko'nun numarasının bir parçası mıydı?
+108	<CLT=cltMIND>Bu gizemin davanın önemli bir noktası\nolacağından eminim...
+109	Himiko'nun bu oyunu zorlaştırmasına seviniyorum.\nArtık hiç de sıkılmayacağım.
+110	Bu gizemi çözmek için sıkı çalışma vakti!\nHazır ol suçlu, çünkü geliyoruuum!
+111	Gösteri cinayet için kullanıldığına göre\nHimiko'nun numarasını da araştırmalıyız.
+112	Belki burada ipuçları vardır?
+113	Böyle eğlenceli bir gösteride böyle zalim bir\ncinayet işleneceğini asla hayal edemezdim...
+114	Kehehe... Suçlu neden böyle barbarca bir şey\nyaptı? Paniğe kapılmamızı mı görmek istedi?
+115	Tek sebebin bu olduğunu sanmıyorum.\nBaşka bir sebebi vardı.
+116	Ve o sebep bir şekilde Himiko'nun büyü\ngösterisiyle ilgili olmalı...
+117	Yani suçlu Himiko'nun numarasını biliyordu\nve bundan faydalandı, öyle mi?
+118	<CLT=cltMIND>Eğer öyleyse Himiko birine söyledi mi?\nNumaranın gerçek bir <CLT=cltSTRONG>büyü<CLT=cltMIND> olduğunu düşünen birine?
+119	Gösteri kullanıldığına göre numarayı da\naraştırmalıyız.
+120	<CLT=cltMIND>Kiyo neredeyse kendi kendine mırıldandı,\nsonra sahnenin arkasına yürüdü.
+121	Kuliste araştırılacak bir şey var mı?
+122	...Onu takip edelim. Zaten bütün alanı\naraştırmalıyız.
+123	<CLT=cltMIND>Kiyo'yu kulise kadar takip ettik.
+124	Himiko'nun kaçış numarasını açığa\nçıkarırsak...
+125	Ryoma'nın tanka nasıl girdiğini de\nbelirleyebileceğimizi düşünüyorum.
+126	Ama Himiko'ya göre bu, numarası ya da düzeneği\nolmayan <CLT=cltSTRONG>"gerçek bir büyüydü"<CLT=cltNORMAL>...
+127	Nasıl sorarsak soralım muhtemelen bize söylemez.\nGerçeği kendimiz ayırt etmemiz gerekecek.\n
+128	Bu amaçla sahnenin arka tarafını bir kez\ndaha araştıracağım...
+129	Pek çok bilinmeyen olsa da önce açığa\nkavuşturmamız gereken şey...
+130	...Ryoma ne zaman öldürüldü?
+131	Eh, gösterinin ortasında, belli ki.
+132	Suçlu Himiko'nun numarasının nasıl işlediğini\nbiliyordu ve Ryoma'yı öldürmek için bundan faydalandı.
+133	Yani gösteriyi izleyen herkes şüpheli\ndeğil.
+134	...Kaito, sen de gösteriye gelmedin,\ndeğil mi?
+135	H-Hayır ama yine de şüpheli değilim. Bir sözü\nunuttum...o yüzden sadece kahvaltı ediyordum.
+136	Anladın mı!? Şüpheli değilim!
+137	Bu açıklamanın beni nasıl ikna etmesi\ngerektiğini anlamıyorum.
+138	<CLT=cltMIND>Keebo'nun haklı bir yanı var...
+139	Pek çok bilinmeyen olsa da önce açığa\nkavuşturmamız gereken şey...
+140	...Ryoma ne zaman öldürüldü?
+141	<CLT=cltMIND>Doğru, bunu kesinlikle netleştirmemiz\nlazım.
+142	Gösteriyi kurmaya yardım ediyordun, değil mi\nKirumi? Numara hakkında bir şey duydun mu?
+143	Hayır, tek kelime duymadım.
+144	Ayrıca yardımım afişi ve perdeleri\ndikmekten ibaretti.
+145	O yüzden numarasının ayrıntılarını bilmiyorum.
 146	Anlıyorum...
+147	Sadece afişleri ve perdeyi diktim, o yüzden\nnumarasının ayrıntılarını bilmiyorum.
+148	Nyeeeh...büyümün herkesi gülümsetmesi\ngerekiyordu...
+149	E-Endişelenme! Herkes gülümsüyor *zaten*!
+150	<CLT=cltMIND>Ah...şu an hiçbirimizin\ngülümseyebileceğini sanmıyorum.
+151	Himiko...? Uygunsa su altından kaçış numaran\nhakkında konuşmaya hazır mısın?
+152	Bu gizemi çözeceksek numaranın nasıl\nişlediğini anlamamız lazım...
+153	Su Altından Kaçış Gösterisi'nin bir püf noktası\nyok. O bir büyüydü...
+154	Hâlâ bunu mu söylüyorsun?\nNe durumda olduğumuzu anlıyor musun?
+155	S-Siz beni ne kadar tehdit ederseniz edin\ncevabım değişmeyecek. O bir...büyüydü...
+156	A-Ama—
+157	Tamam, süreniz doldu! Soru-cevap kısmı\nsona erdi!
+158	Tabii <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'mun volkanik gazabını\ntatmak istemiyorsanız!
+159	Vay be...bu koruma idol etkinliklerindeki\ngüvenlikten bile sıkı.
+160	Siz beni ne kadar tehdit ederseniz edin\ncevabım değişmeyecek. O bir...büyüydü...
+161	Hımhım... Bütün uyarılarıma rağmen hâlâ\nHimiko'yu rahatsız etmek istiyorsun, ha?
+162	O yozlaşmış suratını yere çakmamı fena\nistiyor olmalısın!
+163	Bu boşuna, Shuichi.\nKapı dışarı edilmeden gidelim.
+164	Himiko büyü diyorsa büyüdür!\nAnladın mı!?
+165	Himiko'ya zorbalık eden her yozlaşmış\nerkeği <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'mla yok edeceğim!
+166	<CLT=cltMIND>Ama büyü numarasını anlamazsak\nduruşmadan nasıl sağ çıkabiliriz?
+167	Himiko numaranın nasıl işlediğini söylemezse\nRyoma'nın nasıl öldürüldüğünü bilemeyiz, değil mi?
+168	Ama bu hâliyle...\nOnu nasıl ikna edeceğiz?
+169	Oh! Ya şöyleyse...
+170	Ryoma, Himiko'nun ustasının eski çırağıydı\nve ondan intikam almaya yemin etti...
+171	Ve onun gösterisini sabote etmek için kendine\nbenzeyen birini öldürdü!
+172	...Ya da öyle bir şey.\nDaha önce olmuştur muhtemelen!
+173	Ama...sanırım böyle bir ortamda öyle bir\nşey pek olası değil...
+174	<CLT=cltMIND>Ah, doğru. Angie'ye sahneyi\nsormamız lazım.
+175	Hey, Angie. Sahne hakkında sana birkaç\nsoru sormak istiyordum...
+176	Evet, bütün sanat işlerinden ben sorumluydum.\nSahneyi bile ben yapıp boyadım.
+177	O zaman Himiko'nun numarası hakkında bir şey\nbiliyor musun? Nasıl işlediğini mesela?
+178	Hayır, numarayı bilmiyorum.\nHimiko sadece "<CLT=cltSTRONG>büyü<CLT=cltNORMAL>" dedi.
+179	<CLT=cltMIND>Anlıyorum...\nSanırım sırrı Angie'ye de söylemedi.
+180	Ah, bu arada...hazırlıklarda size yardım\netmeleri için başkalarından da rica ettin, değil mi?
+181	Evet! Hazırlıklara dün başladık.\nBir sürü kişi yardım etti.
+182	Mesela Himiko'nun araştırma laboratuvarından\nağır tankı ve merdiveni taşırken...
+183	Keebo ile ben onlara yardım ettik.
+184	Tankın makarası vardı ama çok büyük\nolduğu için yine de epey zahmetliydi.
+185	Dikişten nefret ettiğim için de perdeleri\ndikmesini Kirumi'den istedim.
+186	Yani kısacası gösterinin başarılı olması\ntamamen Atua sayesinde.
+187	Hayır, hepimiz sayesinde.
+188	<CLT=cltMIND>Gerçekten...başarılı mıydı?
+189	Bu arada, piranalar senin fikrin\nmiydi?
+190	Su Altından Kaçış Gösterisi tek başına sıradan\nbir büyü gösterisinden farksız.
+191	Piranaları kullanırsak gösterinin daha heyecanlı\nve ilahi olacağını düşündüm.
+192	Atua bana öyle söyledi.
+193	<CLT=cltMIND>Demek Atua öyle tavsiyeler de\nveriyor, ha?
+194	Peki pirana tankı ve sayaç...\nOnlar Himiko'nun laboratuvarındandı, değil mi?
+195	Evet, evet. Pirana tanklarının kılavuzuna göre\nsayaçla senkronize çalışıyor...
+196	Sayaç sıfırlanınca pirana tankının tabanı\notomatik olarak açılıyor.
+197	<CLT=cltMIND>Anlıyorum. Yani ekipmanın çoğu\nHimiko'nun laboratuvarından gelmiş.
+198	Ve tam hazırlıkları bitirip mola\nvermek üzereyken...
+199	Gonta bizi yakaladı, o yüzden hiç prova\nyapamadık. Nyahahaha!
+200	Gonta bizi bıraktığında gece olmuştu bile,\no yüzden spor salonuna dönemedik.
+201	Ah evet, gece spor salonuna girilemiyor.
+202	O yüzden bugün sabah anonsundan önce\nspor salonuna gelmeye karar verdik.
+203	Himiko ile ben spor salonunun açılmasını bekliyorduk.\nOhh, sahnenin sağlam olmasına çok rahatladım.
+204	<CLT=cltMIND>Yani o ikisi gelmeden kimse spor\nsalonuna gizlice giremezdi...
+205	Ne oldu Shuichi? Bu kafa karıştırıcı olay\nyüzünden mi endişelisin?
+206	Merak etme, her şey yoluna girecek.
 207	...Ne?
+208	Atua konuştu... Endişelenecek hiçbir\nşeyin yok.
+209	Endişelenecek bir şey yok mu?
+210	Hiçbir şey Atua'nın gözünden kaçamaz.\nSuçlu bile.
+211	Nyahahaha! Atua gerçekten hesaba katılması\ngereken ilahi bir güç!
+212	<CLT=cltMIND>Angie gittikçe daha...ürkütücü\nkonuşmaya başlıyor.
+213	Bütün sanat işlerinden ben sorumluydum.\nSahneyi bile ben yapıp boyadım.
+214	Ama Su Altından Kaçış'ın numarasını bilmiyorum\nçünkü Himiko sadece "<CLT=cltSTRONG>büyü<CLT=cltNORMAL>" dedi.
 215	<CLT=cltMIND>
+216	Bu arada, piranalar senin fikrin\nmiydi?
+217	Su Altından Kaçış Gösterisi tek başına sıradan\nbir büyü gösterisinden farksız.
+218	Piranaları kullanırsak gösterinin daha heyecanlı\nve ilahi olacağını düşündüm.
+219	Atua bana öyle söyledi.
 220	<CLT=cltMIND>
+221	<CLT=cltMIND>Ah, neyse, Atua'yı bir kenara\nbırakırsak...
+222	<CLT=cltMIND>Yanlış hatırlamıyorsam pirana tankı da\nsayaç da Himiko'nun laboratuvarındaydı.
+223	<CLT=cltMIND>Yani ekipmanın çoğu oradan\ngelmiş.
+224	Ve tam hazırlıkları bitirip mola\nvermek üzereyken...
+225	Gonta bizi yakaladı, o yüzden hiç prova\nyapamadık. Nyahahaha!
+226	<CLT=cltMIND>Ve Böceklerle Tanışma Buluşması'ndan\ngece başladıktan çok sonra çıkabildik.
+227	O yüzden bugün sabah anonsundan önce\nspor salonuna gelmeye karar verdik.
+228	Himiko ile ben spor salonunun açılmasını bekliyorduk.\nOhh, sahnenin sağlam olmasına çok rahatladım.
+229	<CLT=cltMIND>Yani o ikisi gelmeden kimse spor\nsalonuna gizlice giremezdi...
+230	Hey, balgam topu! Bana söylemen gereken\nbi' şey var!
+231	<CLT=cltMIND>...Birinden bir şey istemenin pek\nkibar bir yolu değil bu.
+232	Olayla alakası yok ama...dün gece Gonta'nın\nsizi yakaladığını duydum?
+233	O neyin nesiydi lan? Ben kaçıyordum, o yüzden\nne olduğuna dair hiçbir fikrim yok.
+234	Oh, evet. Bana da anlat. Ben de kaçıyordum,\no yüzden hâlâ ne olduğunu bilmiyorum.
+235	<CLT=cltMIND>Miu, Gonta'dan nasıl kaçtı?\nOnunla dövüşecek kadar güçlü değil ki...
+236	Hadi çabuk, seni sümüklü pislik!
+237	Ş-Şey...Gonta'nın bizi kaçırması için\nkandırıldığını söyleyebiliriz sanırım.
+238	İlk yakalananlar Keebo, Kiyo, Tsumugi,\nTenko ve bendik.
+239	Himiko ile Angie sonra getirildi.
+240	Spor salonundan, değil mi?
+241	Aynen. Kokichi de ondan sonra, akşam\n9 civarında odadan çıktı...
+242	Yani ondan yaklaşık beş dakika önce\ngetirilmiş olmalılar.
+243	Hepimiz Gonta'nın Böceklerle Tanışma\nBuluşması'na katılmaya zorlandık.
+244	Gece başladıktan yaklaşık bir saat sonra,\nsaat 11 civarında serbest bırakıldık.
+245	Yani akşam 9'dan 11'e kadar oradaki\nherkesin bir mazereti vardı.
+246	Mazereti olmayanlar da ben, Kirumi,\nMaki ve...Ryoma.
+247	Hah-hahaha! Önceki olay sayesinde mazeretin\nne olduğunu öğrenmişsin bakıyorum!
+248	Ama bu "<CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltNORMAL>"\nsaçmalığı da ne lan!? Hah-hahaha!
+249	Bu arada, Miu...\nGonta'dan nasıl kaçabildin?
+250	Hm? O-Oh...ş-şey...yani...
+251	Ben, şey...gizli kadın silahımı...kullanmak\nzorunda kaldım... V-Ve bu kadarıyla kalsın...
+252	..."Gizli kadın silahı" mı?
+253	Hah-hahahaha!
+254	Ah, hey, "gizli kadın silahı" ne—
+255	Hah-hahahaha!\nHah-hahahahahaha!
+256	<CLT=cltMIND>Gülüp geçiştirmeye mi çalışıyor...?
+257	Shuichi, onu kendi hâline bırakalım.\nOnu dinlemek seni sadece yorar.
+258	Muhtemelen haklısın... Gerçeği ondan Sınıf\nDuruşması'nda almak belki daha iyi.
+259	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+260	Hah-hahahaha!\nHah-hahahahahaha!
+261	<CLT=cltMIND>Her şeyi gülüp geçiştirecek,\ndeğil mi?
+262	Shuichi, onu kendi hâline bırakalım.\nOnu dinlemek seni sadece yorar.
+263	Muhtemelen haklısın... Gerçeği ondan Sınıf\nDuruşması'nda almak belki daha iyi.
+264	<CLT=cltMIND>Sanırım burada hâlâ araştırılacak\nşeyler var...
 265	Evet
 266	Hayır
 267	Emin olmadığın bir şey mi var?
 268	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+269	<CLT=cltMIND>Sahneyi araştırmalıyım.\nOrada bir ipucu olduğundan eminim.
+270	<CLT=cltMIND>Kaçış numarasındaki büyük su tankı. Camı\nkırık—durumu kötü.
+271	Camı kırmanız gerçekten şart mıydı?\nArtık her yer sırılsıklam.
+272	Eh, Ryoma'nın cesedini orada bıraksaydık\nsoruşturma yapamazdık...
+273	Sanırım bütün tankı bir kovayla boşaltmak\nçok fazla zaman alırdı.
+274	Epey temizlik gerekti...\nama en azından artık tankı araştırabiliriz.
+275	Buralarda bir ipucu olabilir.\nDaha yakından bakmalıyım.
 276	Evet, haklısın.
+277	<CLT=cltMIND>Camı kırdığımız için tankta pek\nbir şey kalmamış.
+278	<CLT=cltMIND>Ama etrafı iyice araştırmalıyım.\nMutlaka bir şey vardır.
+279	Bu...ne?
+280	Sahne ışıklarının kontrol paneli.\nIşık barını indirip kaldırmaya yarıyor.
 281	Ah, anlıyorum...
+282	<CLT=cltMIND>Sahne ışıklarının kontrol paneli...\nBu ışık barını indirip kaldırıyor.
+283	<CLT=cltMIND>Burada bir merdiven var...\nAcaba gösteriyi kurmak için mi kullanıldı?
+284	<CLT=cltMIND>Bu, kaçış numarasının geri sayımını\nyapan sayaç...
+285	<CLT=cltMIND>Fark etmemiştim...aynı zamanda Ryoma'nın\ncesedini ortaya çıkaran bir sayaçmış.
+286	<CLT=cltMIND>Ryoma'nın cesedi artık bir iskeletten ibaret.\nEski hâlinin gölgesi bile değil...
+287	Tch...bu da ne böyle?\nHey, bu gerçekten Ryoma mı?
+288	<CLT=cltSTRONG>Olduğu anı<CLT=cltNORMAL> görmedim,\no yüzden inanamıyorum...
+289	...Eminim.
+290	Gösteriyi izleyen herkes buna tanık\noldu.
+291	Ryoma'nın...sadece kemiklere dönüşmesini\ngördük.
+292	Böyle korkunç bir şekilde öldüğüne inanamıyorum.
+293	Su o kadar hızlı kanla doldu ki çok şükür\nolanların hepsini görmedik...
+294	Ama bu iskelet şüphesiz Ryoma'nın.
+295	Tanrım, ölmek istediğini biliyorum ama\ngerçekten gidip yapması gerekmiyordu.
+296	Hayır...Bence öyle değil, Kaito.
+297	Ryoma ölmeye çalışmıyordu.\nKendisi de öyle söyledi.
+298	Bizi...yaşamak isteyenleri kıskanıyordu.
+299	Ha? Kıskanıyordu ne demek?
+300	Ryoma'nın bize katılmak istediğinden eminim.\nBu yüzden yaşamak için bir sebebe ihtiyacı vardı.
+301	Bizimle aynı hisleri paylaşabilmek, devam\netmek için o sebebe sahip olabilmek için.
+302	Bizimle yan yana savaşmak için...
 303	...
+304	O zaman...gerçek bir aptalmış. Yaşamak için\nbir sebebin olmasa ne olur ki?
+305	Yaşama sebebin güzel yemek ya da\narkadaşların gibi basit bir şey olamaz mı?
+306	Lanet olsun! O aptal!
 307	...
+308	<CLT=cltMIND>Ryoma'nın cesedi artık bir iskeletten ibaret.\nEski hâlinin gölgesi bile değil...
+309	<CLT=cltMIND>Hiç şüphe yok...
+310	<CLT=cltMIND>Bu...Ryoma.
+311	<CLT=cltMIND>Gözlerimizin önünde iskelete dönüştü...
+312	<CLT=cltMIND>Ama...Ryoma ölmek istemiyordu.\nBize katılmak istediğinden eminim.
+313	<CLT=cltMIND>Kendisi de öyle söyledi...\nYaşamak isteyen bizleri kıskanıyordu.
+314	Bu perdede şüpheli bir şey\nvar mı...?
+315	Kafama takılıyordu... O perde ne\niçindi?
+316	Su tankını gizlemek içindi.
+317	Himiko kaçış numarasını yaparken görmemizi\nengellemek için kapalıydı.
+318	Oh, demek öyleymiş!\nO zaman bir tür ipucu mu?
+319	Hm... Sanmıyorum...\nŞüpheli bir şey görmüyorum.
+320	<CLT=cltMIND>Bu perde Himiko'nun kaçış numarasını\ngörmemizi engellemek için kapatılmıştı.
+321	<CLT=cltMIND>Şüpheli bir şey görmüyorum.
+322	<CLT=cltMIND>Kaçış numarasındaki büyük su tankı. Camı\nkırık, durumu kötü.
+323	Camı kırmanız gerçekten şart mıydı?\nArtık her yer sırılsıklam.
+324	Eh, Ryoma'nın cesedini orada bıraksaydık\nsoruşturma yapamazdık...
+325	Sanırım bütün tankı bir kovayla boşaltmak\nçok fazla zaman alırdı.
+326	Epey temizlik gerekti...\nama en azından artık tankı araştırabiliriz.
+327	Buralarda bir ipucu olabilir.\nDaha yakından bakmalıyım.
 328	Evet, haklısın.
+329	<CLT=cltMIND>Camı kırdığımız için tankta pek\nbir şey kalmamış.
+330	<CLT=cltMIND>Ama etrafı iyice araştırmalıyım.\nMutlaka bir şey vardır.
+331	<CLT=cltMIND>Tankın içinde ilginç bir şey\nbulamadım.
+332	<CLT=cltMIND>Ryoma'nın eşyalarının hepsi bir arada.\nKıyafetleri, Monopad'i, oda anahtarı...
+333	İşte bu! Bu anahtarı kullanırsak Ryoma'nın\nodasını araştırabiliriz!
+334	Hm? Odasında araştırılacak ne var?
+335	<CLT=cltSTRONG>Motif videosu<CLT=cltNORMAL>.
+336	Ryoma'da kimin videosu olduğunu\nöğrenmeliyiz.
+337	Yani...Ryoma'nın o video yüzünden\nöldürüldüğünü mü düşünüyorsun?
+338	Kesin bir şey diyemem...ama her ihtimale\nkarşı kontrol etmeliyiz.
+339	<CLT=cltMIND>Gerçi...onda *benim* videom da\nolabilirdi.
+340	<CLT=cltMIND>Öyleyse ben de şüpheli\nolabilirim...
+341	<CLT=cltMIND>Neyse, şimdi bunu düşünmenin anlamı yok.
+342	<CLT=cltMIND>Ryoma'nın eşyalarının hepsi bir arada.\nKıyafetleri, Monopad'i, oda anahtarı...
+343	İşte bu! Bu anahtarı kullanırsak Ryoma'nın\nodasını araştırabiliriz!
+344	<CLT=cltSTRONG>Motif videosu<CLT=cltNORMAL>.
+345	Ryoma'da kimin videosu olduğunu\nöğrenmeliyiz.
+346	<CLT=cltMIND>Gerçi...onda *benim* videom da\nolabilirdi.
+347	<CLT=cltMIND>Öyleyse ben de şüpheli\nolabilirim...
+348	<CLT=cltMIND>Neyse, şimdi bunu düşünmenin anlamı yok.
+349	<CLT=cltMIND>Kelepçe mi...?\nBurada neden kelepçe var?
+350	<CLT=cltMIND>Hâlâ kilitli...\nVe üzerlerinde küçük çizikler var.
+351	<CLT=cltMIND>Kelepçeler paslanmaz çelik gibi görünüyor,\no yüzden çizilmesi çok zor değil.
+352	<CLT=cltMIND>Sert ya da keskin bir şeye\nsürtünmüş olmalılar.
+353	O kelepçeler ne?\nTankın içinde mi vardı?
+354	Ama depoda hiç kelepçe görmedim.\nNereden geldiler?
+355	<CLT=cltMIND>Doğru, depoda hiç yoktu.\nO zaman nereden geldiler?
+356	<CLT=cltMIND>Depoda değilse kelepçe olabilecek\nbaşka bir yer...
+357	<CLT=cltMIND>Yoksa...o bir mahkum mu?
+358	<CLT=cltMIND>Ryoma'nın laboratuvarı sadece <CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltMIND>\niçin değil, <CLT=cltSTRONG>Ultimate Mahkum<CLT=cltMIND> içindi de...
+359	<CLT=cltMIND>Yani belki laboratuvarında onunla\nilgili şeyler de vardı.
+360	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Çizik Kelepçeler<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+361	<CLT=cltMIND>Kelepçe mi...?\nBurada neden kelepçe var?
+362	<CLT=cltMIND>Hâlâ kilitli...\nVe üzerlerinde küçük çizikler var.
+363	<CLT=cltMIND>Kelepçeler paslanmaz çelik gibi görünüyor,\no yüzden çizilmesi çok zor değil.
+364	<CLT=cltMIND>Sert ya da keskin bir şeye\nsürtünmüş olmalılar.
+365	<CLT=cltMIND>Nereden geldiler? Depoda hiç\nyoktu... Ah, dur...
+366	<CLT=cltMIND>Ryoma'nın laboratuvarı sadece <CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltMIND>\niçin değil, <CLT=cltSTRONG>Ultimate Mahkum<CLT=cltMIND> içindi de...
+367	<CLT=cltMIND>Yani belki laboratuvarında onunla\nilgili şeyler de vardı.
+368	<CLT=cltMIND>Hm? Su tankının dibinde kare\nbir cam levha var...
+369	<CLT=cltMIND>Kırık bir parçaya benzemiyor. Diğer\nparçalar bundan çok daha düzensiz.
+370	<CLT=cltMIND>Kırılan su tankından böyle kusursuz kare\nbir cam çıkması neredeyse imkânsız.
+371	<CLT=cltMIND>O zaman bu levha tam olarak\nne?
+372	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kare Cam Levha<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+373	<CLT=cltMIND>Su tankının dibinde kare bir cam\nlevha var.
+374	<CLT=cltMIND>Kırık bir parçaya benzemiyor.\nDiğer parçalar bundan çok daha düzensiz.
+375	<CLT=cltMIND>Kırılan su tankından böyle kusursuz kare\nbir cam çıkması neredeyse imkânsız.
+376	<CLT=cltMIND>O zaman bu levha tam olarak\nne?
+377	<CLT=cltMIND>Kırılan cam su tankının parçaları\nbir yere yığılmış.
+378	<CLT=cltMIND>Bir sürü minik parça var...
+379	<CLT=cltMIND>Gonta ile Tenko, Keebo'yu cama fırlatırken\nhiç de çekinmemişler.
+380	<CLT=cltMIND>Bir kova...piranalarla dolu.
+381	<CLT=cltMIND>Gonta bütün piranaları toplayıp buraya\nkoyduğunu söyledi.
+382	<CLT=cltMIND>Gonta'nın bunu çıplak elleriyle yaptığına\ninanamıyorum... Ah, dur, inanabiliyorum.
+383	Ryoma'nın onların midesinde olduğunu\ndüşününce yemek bile istemiyorum...
+384	...Onları yemeyi neden düşünesin\nki zaten?
+385	Nyahahaha! Atua'nın yarattığı bu dünyada\nsadece güçlüler hayatta kalabilir.
+386	Yapabileceğimiz en az şey Ryoma'nın ruhu için\ndua etmek, ta ki Atua'nın krallığına girene dek.
+387	Bu hâliyle oraya gerçekten gidebilir mi?
+388	O piranalar gerçekten mucizevi bir gizemdi.\nBelki o videoların arkasında da Atua vardır...
+389	...Neden bahsediyorsun?
+390	Gösteri başlar başlamaz fark ettim...
+391	Sanki bugün dün hazırlık yaparken\nolduğundan daha çok pirana vardı.
+392	Daha çok pirana mı?
+393	Ne yani, bir gecede çoğaldılar mı? Bu kadar\nhızlı üremelerinin imkânı yok.
+394	Ama, ama düne göre...piranalar o tanka\nsüper sıkış tıkış doluşmuş gibiydi.
+395	<CLT=cltMIND>Ah, demek daha sıkış tıkış\ngörünüyorlardı...
+396	Su çok bulanıktı, o yüzden kaç tane fazla\npirana olduğunu anlayamadım...
+397	Ama neyse, süper süper süper süper\nsüper sıkış tıkıştı.
+398	Süper süper süper süper süper sıkış tıkış.
+399	Tanrım, anladık.
+400	<CLT=cltMIND>Dünden daha çok pirana...\nBunda bir şey olabilir.
+401	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Sıkış Tıkış Piranalar<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+402	<CLT=cltMIND>Bir kova...piranalarla dolu.
+403	<CLT=cltMIND>Gonta bütün piranaları toplayıp buraya\nkoyduğunu söyledi.
+404	Gösteri başlar başlamaz fark ettim...
+405	Sanki bugün dün hazırlık yaparken\nolduğundan daha çok pirana vardı.
+406	Ama, ama düne göre...piranalar o tanka\nsüper sıkış tıkış doluşmuş gibiydi.
+407	Su çok bulanıktı, o yüzden kaç tane fazla\npirana olduğunu anlayamadım...
+408	Ama neyse, süper süper süper süper\nsüper sıkış tıkıştı.
+409	Süper süper süper süper süper sıkış tıkış.
+410	Dediğim gibi, anladık.
+411	<CLT=cltMIND>Dünden daha çok pirana...\nBunda bir şey olabilir.
+412	<CLT=cltMIND>Bu epey uzun bir ip...\nNe için kullanılmış?
+413	Hmm, tahminimce yaklaşık 20 metre uzunluğunda.
+414	Sadece bakarak anlayabiliyor musun?
+415	İplerden iyi anlarım. Bir zamanlar...kullanımlarının\nolağan olduğu bir köyü ziyaret etmiştim.
+416	Kehehe... Ayrılma vaktim geldiğinde köyün\nkadınları kalmam için yalvarmıştı...
+417	<CLT=cltMIND>...Bu beni derinden rahatsız ediyor ama\nsoruşturmaya odaklanmam lazım.
+418	<CLT=cltMIND>Neyse, bu ip ne?\nDavayla ilgili olabilir mi?
+419	<CLT=cltMIND>Çok uzun bir ip...
+420	<CLT=cltMIND>Kiyo yaklaşık 20 metre uzunluğunda\nolduğunu söyledi.
+421	<CLT=cltMIND>Neyse, bu ip ne?\nDavayla ilgili olabilir mi?
+422	<CLT=cltMIND>Ne...?\nMerdivenin arkasında bir su birikintisi var...
+423	<CLT=cltMIND>Bu, tankı kırdığımızda oluşan bir birikinti değil...\nEtrafındaki zemin tamamen kuru.
+424	<CLT=cltMIND>Belki de...ıslak biri burada bir şey\nyapıyordu...
+425	Islak kıyafetlerini mi değiştiriyordu?
 426	<CLT=cltMIND>
+427	<CLT=cltMIND>Ama su tankından merdivenin arkasındaki\nbu boşluğa nasıl gelinir ki?
 428	<CLT=cltMIND>
+429	<CLT=cltMIND>Bu, su altından kaçış numarasını anlamak\niçin hayati bir ipucu olabilir...
+430	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Islak Merdiven<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+431	<CLT=cltMIND>Merdivenin arkasında bir su birikintisi var.
+432	<CLT=cltMIND>Bu, tankı kırdığımızda oluşan bir birikinti değil...\nEtrafındaki zemin tamamen kuru.
+433	<CLT=cltMIND>Belki de...ıslak biri burada bir şey\nyapıyordu...
+434	<CLT=cltMIND>Bu merdiven sahnenin tepesine\nçıkıyor.
+435	<CLT=cltMIND>İlk bakışta...özellikle şüpheli bir\nşey yok.
+436	<CLT=cltMIND>Bir numarası olabilir ama bunu\nsadece bir sihirbaz bilir.
+437	<CLT=cltMIND>Bu merdiven sahnenin tepesine\nçıkıyor.
+438	<CLT=cltMIND>Yakından bakınca yan tarafında bazı\nyerlerin ıslak olduğunu görüyorum...
+439	<CLT=cltMIND>Bu, yanındaki su birikintisiyle\nilgili olabilir.
+440	<CLT=cltMIND>Üstünü bir perde örtüyor ama sanırım\nöbür tarafında bir pencere var.
+441	Ne oldu? O pencereye bakmak mı\nistiyorsun?
+442	Ah, evet ama—
+443	Oh, uzanamayacak kadar yüksek, ha?
+444	Evet, epey yüksek...\nPirana tankından bile yüksek.
+445	<CLT=cltMIND>Pirana tankından yüksek...
+446	Doğru ya! Sahnenin yanında bir merdiven\nvardı! Gidip getireyim!
+447	<CLT=cltMIND>Kaito hızla sahneye yöneldi.
+448	<CLT=cltMIND>Sahnenin yanında duran seyyar merdiveni\nomzunda taşıyarak geri döndü.
+449	Ama bak...merdiveni getirmesi gereken\nyardımcı olmamalı mıydı?
+450	Ah, e-evet, sanırım öyle... Teşekkürler.
+451	<CLT=cltMIND>Seyyar merdiveni sahnenin üstüne kurduktan\nsonra basamaklarını tırmandım...
+452	Bununla pencereye ancak zar zor\nuzanabiliyorsun. Bir de perdeyi açarsan...
+453	Ah, pencere açık!
+454	Pencere açıksa suçlu onu mu\nkullandı?
+455	<CLT=cltMIND>Suçlu bu pencereden girip çıkmış\nolabilir...
+456	Peki pencerenin öbür tarafında\nne var?
+457	Pek bir şey göremiyorum...ama sanırım havuz.
+458	Havuz mu, ha? Burada bir yerde havuz\nolduğunu duymuştum.
+459	Pekala! Sonra gidip bakalım! Suçlu\nmuhtemelen oradan geçti!
+460	Ah, dur... Bu ne...?
 461	Hm? Ne oldu?
+462	Bir şey yok, sadece pencere çerçevesinde\nizler varmış gibi görünüyor...
+463	<CLT=cltMIND>Pencere çerçevesinde bir şeyle çizilmiş\ngibi belirgin aşınmalar var...
+464	<CLT=cltMIND>Bu davayla ilgili olabilir...\nAklımda tutmalıyım.
+465	<CLT=cltSYSTEM>"<CLT=cltSTRONG>İzli Pencere Çerçevesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+466	<CLT=cltMIND>Seyyar merdivenden sahneye\nindim.
+467	Pencereyi araştırman bitti mi?\nO zaman gidip merdiveni yerine koyayım.
+468	Evet, çok iyi olur.\nTeşekkürler, Kaito.
+469	Bunu yardımcının yapması gerekmez mi!?
+470	<CLT=cltMIND>Şikâyet etti...\nama yine de merdiveni benim için yerine koydu.
+471	Az önce gördük biliyorum ama...\npencere açıktı, değil mi?
+472	Evet, öbür tarafında da havuz var,\ndeğil mi?
+473	Sonra gidip bakalım! Suçlu spor salonuna\noradan girip çıkmış olmalı.
+474	<CLT=cltMIND>Ve buna ek olarak...
+475	<CLT=cltMIND>Pencere çerçevesinde bir şeyle çizilmiş\ngibi belirgin aşınmalar var...
+476	<CLT=cltMIND>Bu davayla ilgili olabilir...\nAklımda tutmalıyım.
+477	<CLT=cltMIND>Sahnede durup yukarı baktığımda pirana\ntankı tam tepemdeydi.
+478	<CLT=cltMIND>Sayaç sıfıra ulaşınca tabanı açılacak\nşekilde kurulmuştu.
+479	<CLT=cltMIND>Tabanı şu an açık ve tank\nboş.
+480	<CLT=cltMIND>Kapağı varmış gibi görünmüyor...\nİçinden doğrudan tavanı görebiliyorum.
+481	<CLT=cltMIND>Ve sadece ön yüzü cam.\nDiğer yüzleri tahtadan.
+482	<CLT=cltMIND>Yani pirana tankının kapağı yoktu ve\nsadece ön yüzü camdandı.
+483	Ah evet. O tank Himiko'nun araştırma\nlaboratuvarındandı.
+484	Hey Kaito, gösteri için malzeme taşımaya\nyardım ettin, değil mi?
+485	Evet. Ben, Keebo, Himiko ve Angie.\nEpey zahmetliydi.
+486	Ama...ben sadece taşımaya yardım ettim.\nOraya nasıl astıklarını merak ediyorum.
+487	Su ve piranalarla dolu ağır bir tanktı.\nKaldırmak kolay olamazdı.
+488	Görünüşe göre spor salonunun ışık barı\nburaya bağlı.
+489	Ah, Kirumi.
+490	Sahnenin yanındaki kontrol paneli ışık barını\nindirip kaldırmaya yarıyor.
+491	Görünüşe göre ışık barını indirmişler, pirana\ntankını ona bağlamışlar, sonra yeniden kaldırmışlar.
+492	Hmm, ışık barlarının böyle bir tankı\nkaldıracak kadar sağlam olduğunu bilmiyordum.
+493	Ağır nesneleri kaldırmak için yapıldığından\nmuhtemelen epey sağlamdır.
+494	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Pirana Tankı<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+495	<CLT=cltMIND>Sahnede durup yukarı baktığımda pirana\ntankı tam tepemdeydi.
+496	<CLT=cltMIND>Sayaç sıfıra ulaşınca tabanı açılacak\nşekilde kurulmuştu.
+497	<CLT=cltMIND>Tabanı şu an açık ve tank\nboş.
+498	<CLT=cltMIND>Kapağı varmış gibi görünmüyor...\nİçinden doğrudan tavanı görebiliyorum.
+499	<CLT=cltMIND>Ve sadece ön yüzü cam.\nDiğer yüzleri tahtadan.
+500	<CLT=cltMIND>Yani pirana tankının kapağı yoktu ve\nsadece ön yüzü camdandı.
+501	O tank Himiko'nun araştırma laboratuvarındandı.
+502	Gösteri için bütün ekipmanı ben, Keebo,\nHimiko ve Angie getirdik.
+503	O zaman sanırım pirana tankını oraya kaldırmak\niçin spor salonunun ışık barını kullandılar.
+504	Evet, sahnenin yanındaki kontrol paneli ışık\nbarını indirip kaldırmaya yarıyor.
+505	Işık barını indirip pirana tankını ona bağlamış,\nsonra yeniden kaldırmış olmalılar.
+506	Hmm, ışık barlarının böyle bir tankı\nkaldıracak kadar sağlam olduğunu bilmiyordum.
+507	Ağır nesneleri kaldırmak için yapıldığından\nmuhtemelen epey sağlamdır.
+508	<CLT=cltMIND>Arkadan bakınca tuhaf bir şey yok.\nBüyüklüğü dışında normal bir tank.
+509	Tankın bütün yüzleri özel bir tür camdan\nyapılmış gibi. Gizli kapı göremiyorum...
+510	Kehehe... Çok gizemli. Acaba Himiko tanktan\nnasıl kaçtı?
+511	Eh, kolayca çözebilseydik büyü numarası\nolmazdı.
+512	Himiko'nun izlediği yolu çözersek Ryoma'nın\noraya nasıl girdiğini de bulacağımıza inanıyorum.
+513	<CLT=cltMIND>Doğru... Aynı yolu kullanmış olmaları\nihtimali yüksek.
+514	<CLT=cltMIND>Ryoma'nın tanka nasıl *girdiğini*\nortaya çıkarmak için...
+515	<CLT=cltMIND>Himiko'nun tanktan nasıl *çıktığını*\nortaya çıkarmam lazım.
+516	<CLT=cltMIND>Arkadan bakınca tuhaf bir şey yok.\nBüyüklüğü dışında normal bir tank.
+517	Tankın bütün yüzleri özel bir tür camdan\nyapılmış gibi. Gizli kapı göremiyorum...
+518	Kehehe... Çok gizemli. Acaba Himiko tanktan\nnasıl kaçtı?
+519	Himiko'nun izlediği yolu çözersek Ryoma'nın\noraya nasıl girdiğini de bulacağımıza inanıyorum.
+520	<CLT=cltMIND>Doğru... Ryoma'nın tanka nasıl girdiğini\nortaya çıkarmam lazım...
+521	<CLT=cltMIND>Görünüşe göre Himiko'nun su altından kaçış\nnumarasını çözmem gerekiyor...
+522	<CLT=cltMIND>Sanırım...şimdilik araştırmamız gereken\nher şeyi araştırdık.
+523	Eh, soruşturmamız bitti...\nPeki suçlu kim?
+524	Henüz...kesin bir şey söyleyemem.\nAraştırmam gereken başka yerler var.
+525	Ne!? Hâlâ bilmiyor musun? Dedektifliğin\nbu kadar...zahmetli olacağını hiç düşünmezdim.
+526	Peki başka nereleri araştırmamız lazım?
+527	Önce spor salonunun yanındaki havuz.
+528	Sahnenin üstündeki pencereyle birbirine\nbağlılar, oraya bakmamız lazım.
+529	Ondan sonra Ryoma'nın odasına gidip hangi\n<CLT=cltSTRONG>motif videosuna<CLT=cltNORMAL> sahip olduğunu öğrenmek istiyorum.
+530	Sonra da <CLT=cltSTRONG>Ultimate Tenisçi laboratuvarını<CLT=cltNORMAL>\naraştırmak istiyorum.
+531	Su tankında bulduğumuz kelepçelerin muhtemelen\noradan geldiği sonucuna vardım.
+532	Hepsi bu mu?
+533	Son olarak da <CLT=cltSTRONG>Ultimate Sihirbaz laboratuvarı<CLT=cltNORMAL>.\nHimiko'nun numarası hakkında daha çok şey bilmek istiyorum...
+534	Oraya gidersek eminim bir tür ipucu\nolacaktır.
+535	Yani daha yapacak çok işimiz var, ha?
+536	Bol şans, Shuichi! Sonuçta burada bütün ağır\nişi sen yapacaksın!
+537	Ah...doğru.
+538	"Doğru" da ne demek!?\nİşe yaramaz olduğumu mu söylüyorsun!?
+539	<CLT=cltMIND>...Buna verilecek doğru bir cevap var mı?
+540	<CLT=cltMIND>Sahneyle ilgili neredeyse her şeyi\naraştırdım...
+541	<CLT=cltMIND>Ama numaranın nasıl yapıldığını\nhâlâ bilmiyorum.
+542	Hey, burayı daha ne kadar araştıracaksın?\nHâlâ suçluyu bulmamız lazım, biliyorsun değil mi?
+543	Hadi, gidelim.
+544	Ah, dur! Kaito!

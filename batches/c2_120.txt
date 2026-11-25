@@ -1,0 +1,55 @@
+@ chap2_text_US
+## c02_234_000
+51|Böylece suçlu iki önemli delili geride bırakmak\nzorunda kaldı—<CLT=cltSTRONG>kumaşı<CLT=cltNORMAL> ve <CLT=cltSTRONG>simidi<CLT=cltNORMAL>.
+52|<CLT=cltSTRONG>Gece yüzme yasağı<CLT=cltNORMAL> yüzünden\ndelilleri geri alamadılar.
+53|Ve bütün hikâye bu.\nYanılıyor muyum, <CLT=cltSTRONG>Ultimate Hizmetçi Kirumi Tojo<CLT=cltNORMAL>!?
+54|Sudaki metal kelepçeler
+55|Pirana tankının kapağı
+56|İpi taşıdı
+57|Spor salonu pencere çerçevesi ve ip
+58|Kelepçelenmiş kurban
+59|Kauçuk simit
+60|Asılı simit
+61|Eldivendeki sürtünme
+62|Tankta kaynaşan piranalar
+63|Held Panel Hint Not Set 9
+64|Held Panel Hint Not Set 10
+65|Piranaların yemediği metalden\nyapılmış delil.
+66|Pirana tankında bölme olarak ne\nkullanıldı?
+67|Suçlunun spor salonundan aldığı\nince ve uzun eşya.
+68|İp spor salonunda nereye bağlandı?
+69|Cinayetten önce kurbanın bileklerine\nne takıldı?
+70|Havuzdan ne alındı?
+71|Ceset teleferikte ne ile\ntaşındı?
+72|Frene basmak beklenenden\nzordu.
+73|Ceset nereye\ntaşındı?
+74|Answer panel hint unset 9
+75|Answer panel hint unset 10
+## c02_235_000
+0|Kirumi...vardığım sonuç bu.\nİtirazın var mı?
+2|Bu çok, çok talihsiz, Shuichi.
+3|Hizmetçilik gururum aldığım her isteği\nyerine getirmemi gerektiriyor.
+4|Ama böyle bitmesi...
+5|Yani...kabul ediyor musun?
+6|Kirumi...!
+7|Ama neden kendi eldivenlerini kullandın?\nDepoda bolca olmalıydı—
+8|Hiç yoktu. Olsaydı belli ki onları\nkullanırdı.
+9|Tanrım, Monokuma eldiven dışında her şeyi\nsağlamış. Bu epey sadistçe.
+10|Ama onun sayesinde en azından oyun\nçok daha ilginç oldu...
+12|Yani...karar verildi.
+13|Bu davaya biri—adını vermeyeceğim!—koca\nağzını açtığı anda karar verilmişti.
+14|B-Bunu bilmiyoruz... Belki asıl suçlu\nkimsenin beklemediği biridir...
+15|DOĞRU.\nENDİŞELENMEYE-GEREK-YOK.
+16|Ah Monodam, hasta çocuğuna bakan bir\nanne gibisin.
+17|Pekala, hadi başlayalım!
+18|Karalar ile lekesizlerin sonunda karşı karşıya\ngeldiği o kalp çarptıran heyecan...
+## c02_237_000
+0|Pekala, görünüşe göre oylama bitti.\nSonucu görelim.
+## c02_270_000
+0|<CLT=cltSYSTEM>Bir görüntüyü çıkarman gereken sahnelerde\n<CLT=cltSTRONG>Zihin Mayını<CLT=cltSYSTEM> başlar!
+1|<CLT=cltSYSTEM>Bu modda amaç <CLT=cltSTRONG>cevabı<CLT=cltSYSTEM>\n<CLT=cltSTRONG>kazıp çıkarmak<CLT=cltSYSTEM>.
+2|<CLT=cltSYSTEM>Başlangıçta cevap tamamen\n<CLT=cltSTRONG>parçalarla kaplı<CLT=cltSYSTEM> olacak.
+3|<CLT=cltSYSTEM>İmleci <PAD=【Ｌ３】> çubuğuyla hareket ettir ve\n<PAD=【○】> tuşuyla <CLT=cltSTRONG>parçaları sil<CLT=cltSYSTEM>.
+4|<CLT=cltSYSTEM>Parçalar <CLT=cltSTRONG>aynı renkten iki ya da daha\nfazlası birleşince<CLT=cltSYSTEM> silinir.
+5|<CLT=cltSYSTEM>Sonra <CLT=cltSTRONG>bitişik parçaların<CLT=cltSYSTEM> rengi şu sırayla\n<CLT=cltSTRONG>değişir<CLT=cltSYSTEM>: <CLT=cltSTRONG>beyaz, pembe, sarı, beyaz<CLT=cltSYSTEM>...
+6|<CLT=cltSYSTEM>Doğru yaparsan bir nesnenin üstündeki\n<CLT=cltSTRONG>bütün parçaları<CLT=cltSYSTEM> kaldırabilirsin.

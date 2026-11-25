@@ -1,0 +1,46 @@
+@ chap2_text_US
+## c02_101_009
+230|Hey, balgam topu! Bana söylemen gereken\nbi' şey var!
+231|<CLT=cltMIND>...Birinden bir şey istemenin pek\nkibar bir yolu değil bu.
+232|Olayla alakası yok ama...dün gece Gonta'nın\nsizi yakaladığını duydum?
+233|O neyin nesiydi lan? Ben kaçıyordum, o yüzden\nne olduğuna dair hiçbir fikrim yok.
+234|Oh, evet. Bana da anlat. Ben de kaçıyordum,\no yüzden hâlâ ne olduğunu bilmiyorum.
+235|<CLT=cltMIND>Miu, Gonta'dan nasıl kaçtı?\nOnunla dövüşecek kadar güçlü değil ki...
+236|Hadi çabuk, seni sümüklü pislik!
+237|Ş-Şey...Gonta'nın bizi kaçırması için\nkandırıldığını söyleyebiliriz sanırım.
+238|İlk yakalananlar Keebo, Kiyo, Tsumugi,\nTenko ve bendik.
+239|Himiko ile Angie sonra getirildi.
+240|Spor salonundan, değil mi?
+241|Aynen. Kokichi de ondan sonra, akşam\n9 civarında odadan çıktı...
+242|Yani ondan yaklaşık beş dakika önce\ngetirilmiş olmalılar.
+243|Hepimiz Gonta'nın Böceklerle Tanışma\nBuluşması'na katılmaya zorlandık.
+244|Gece başladıktan yaklaşık bir saat sonra,\nsaat 11 civarında serbest bırakıldık.
+245|Yani akşam 9'dan 11'e kadar oradaki\nherkesin bir mazereti vardı.
+246|Mazereti olmayanlar da ben, Kirumi,\nMaki ve...Ryoma.
+247|Hah-hahaha! Önceki olay sayesinde mazeretin\nne olduğunu öğrenmişsin bakıyorum!
+248|Ama bu "<CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltNORMAL>"\nsaçmalığı da ne lan!? Hah-hahaha!
+249|Bu arada, Miu...\nGonta'dan nasıl kaçabildin?
+250|Hm? O-Oh...ş-şey...yani...
+251|Ben, şey...gizli kadın silahımı...kullanmak\nzorunda kaldım... V-Ve bu kadarıyla kalsın...
+252|..."Gizli kadın silahı" mı?
+253|Hah-hahahaha!
+254|Ah, hey, "gizli kadın silahı" ne—
+255|Hah-hahahaha!\nHah-hahahahahaha!
+256|<CLT=cltMIND>Gülüp geçiştirmeye mi çalışıyor...?
+257|Shuichi, onu kendi hâline bırakalım.\nOnu dinlemek seni sadece yorar.
+258|Muhtemelen haklısın... Gerçeği ondan Sınıf\nDuruşması'nda almak belki daha iyi.
+259|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+260|Hah-hahahaha!\nHah-hahahahahaha!
+261|<CLT=cltMIND>Her şeyi gülüp geçiştirecek,\ndeğil mi?
+262|Shuichi, onu kendi hâline bırakalım.\nOnu dinlemek seni sadece yorar.
+263|Muhtemelen haklısın... Gerçeği ondan Sınıf\nDuruşması'nda almak belki daha iyi.
+264|<CLT=cltMIND>Sanırım burada hâlâ araştırılacak\nşeyler var...
+269|<CLT=cltMIND>Sahneyi araştırmalıyım.\nOrada bir ipucu olduğundan eminim.
+270|<CLT=cltMIND>Kaçış numarasındaki büyük su tankı. Camı\nkırık—durumu kötü.
+271|Camı kırmanız gerçekten şart mıydı?\nArtık her yer sırılsıklam.
+272|Eh, Ryoma'nın cesedini orada bıraksaydık\nsoruşturma yapamazdık...
+273|Sanırım bütün tankı bir kovayla boşaltmak\nçok fazla zaman alırdı.
+274|Epey temizlik gerekti...\nama en azından artık tankı araştırabiliriz.
+275|Buralarda bir ipucu olabilir.\nDaha yakından bakmalıyım.
+277|<CLT=cltMIND>Camı kırdığımız için tankta pek\nbir şey kalmamış.
+278|<CLT=cltMIND>Ama etrafı iyice araştırmalıyım.\nMutlaka bir şey vardır.

@@ -1,0 +1,63 @@
+@ chap2_text_US
+## c02_009_101
+3|<CLT=cltMIND>Bir hata yaparsam Kaede'deki gibi\nher şey yeniden olur—
+4|...Yine yaptım.\nBu düşünceleri kafamdan atamıyorum!
+5|<CLT=cltMIND>Öylece durup hiçbir şey yapmadan\nbekleyemem! Ona...söz verdim!
+## c02_009_254
+0|Keebo! Kai'yu gördün—
+1|Tam zamanında geldin, Shuichi! Ben de seni\nçağırmaya geliyordum!
+2|Öyle mi?
+3|Herkes yemekhanede toplanıyor.\nLütfen hemen gel.
+4|Ben diğerlerini çağırmaya gidiyorum.
+5|<CLT=cltMIND>Herkes mi...?\nVideolarla mı ilgili?
+6|<CLT=cltMIND>Yemekhaneye gitmeliyim!\nKaito orada olmalı!
+## c02_010_001
+0|Serbest Zaman 3\nŞimdilik böyle devam et.
+1|*Maki her zaman laboratuvarının önünde
+## c02_010_101
+1|<CLT=cltMIND>Neyse... Görünüşe göre herkes\nkendi bildiğini yapmak istiyor...
+2|<CLT=cltMIND>Grup olarak daha iyi birlikte çalışmak\niçin ne yapabiliriz?
+4|<CLT=cltMIND>Bir hata yaparsam Kaede'deki gibi\nher şey yeniden olur—
+5|...Yine yaptım.\nBu düşünceleri kafamdan atamıyorum!
+6|<CLT=cltMIND>Öylece durup hiçbir şey yapmadan\nbekleyemem! Ona...söz verdim!
+20|<CLT=cltMIND>Neden hep üniforma...?\nEn azından birkaç günlük kıyafet verebilirlerdi.
+21|<CLT=cltMIND>Kaito'nun <CLT=cltSTRONG>motif videosu<CLT=cltMIND> bunun içinde...
+22|<CLT=cltMIND>Kimin motifinin kimde olduğunu birbirimize\nsöylemeyeceğimize <CLT=cltSTRONG>söz<CLT=cltMIND> verdik.
+## c02_011_001
+0|Serbest Zaman 4\nŞimdilik böyle devam et.
+1|*Maki her zaman laboratuvarının önünde
+## c02_011_031
+6|<CLT=cltMIND>Sanki bize kaçmamıza izin\nvermeyeceklerini söylüyorlar.
+## c02_011_101
+0|Hâlâ biraz vakit var...
+1|Öylece oturup hiçbir şey yapmadan duramam.
+14|<CLT=cltMIND>Neden hep üniforma...?\nEn azından birkaç günlük kıyafet verebilirlerdi.
+15|<CLT=cltMIND>Kaito'nun <CLT=cltSTRONG>motif videosu<CLT=cltMIND> bunun içinde...
+16|<CLT=cltMIND>Kimin motifinin kimde olduğunu birbirimize\nsöylemeyeceğimize <CLT=cltSTRONG>söz<CLT=cltMIND> verdik.
+## c02_011_148
+3|<CLT=cltSYSTEM>Çıkmak istiyor musun?
+## c02_011_251
+1|<CLT=cltMIND>Siber Alan
+## c02_012_101
+0|Bu, Ultimate Akademisi'nden resmi bir\nduyurudur... Saat şu an akşam 10.
+1|Yemekhanedeki özel <CLT=cltSTRONG>Monoyavru Mutfağı<CLT=cltNORMAL>'nın\ngece yarısı spesiyali şuuuuudur...
+2|Tavuklu, yumurtalı, acı kimchili bir pilav\nkasesi hazırlıyorum! Sadece 1.000 kalori!
+3|Yapması kolay! Kızarmış tavukla yumurtayı\npilavla pişir, üstüne kimchi koy...
+4|Ah! Mayonezi de unutma...
+5|İŞTE BU KADAR. AFİYET OLSUN.
+7|Bu sadece Monoyavrular için!\nSizinle paylaşmıyoz ha!
+8|Bam! Mutfak kaosum nasıl ama!?
+10|<CLT=cltMIND>...Öldürmekle tehdit etseler bile o yağlı\nyemeği yemezdim.
+11|Neyse...gece olmuş bile, ha?
+12|<CLT=cltMIND>Gece olunca...\nbir şeyler düşünmeye başlıyorum...
+13|<CLT=cltMIND>Kaede'yi kurtarmanın gerçekten bir yolu\nyok muydu? Kendime böyle sorular soruyorum...
+14|<CLT=cltMIND>Çünkü nasıl düşünürsem düşüneyim...\nona olanlar benim suçum—
+15|Ha? Biri mi geldi?\nKapı zili çalıyor...
+16|<CLT=cltMIND>Biri mi geldi?
+21|Hey, bir saniye benimle takıl.
+22|Ha? Şimdi mi...? Ama...gece oldu...
+23|Gece dolaşmayı yasaklayan bir kural\nyok, değil mi?
+24|Avluda bekliyor olacağım.
+25|Ah, d-dur!
+26|<CLT=cltMIND>Ama Kaito dinlemiyordu.\nDönüp hızla uzaklaştı.
+27|Gecenin bu saatinde avlu mu?\nNe istiyor ki...?

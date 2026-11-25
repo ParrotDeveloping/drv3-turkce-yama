@@ -1,0 +1,70 @@
+@ chap2_text_US
+## c02_208_000
+14|<CLT=cltMIND>O sırada birinin su tankının içine\nbaktığını hatırlıyorum...
+16|<CLT=cltMIND>Önemli bir noktayı unutuyormuşum\ngibi hissediyorum...
+18|<CLT=cltMIND>Önemli bir noktayı unutuyormuşum\ngibi hissediyorum...
+## c02_208_001
+0|<CLT=size2>Ryoma'nın<CLT=size1> cesediyle\n<CLT=size2>yer değiştirebilecek<CLT=size1> <CLT=size2>tek<CLT=size1> kişi...
+1|Ryoma'nın cesediyle yer değiştirebilecek tek kişi...
+2|<CLT=cltWEAK><CLT=size2>Himiko'nun kendisi<CLT=cltNORMAL>.
+3|Himiko'nun kendisi.
+4|<CLT=size2>Himiko<CLT=size1> <CLT=size2>tanktan<CLT=size1>\n<CLT=size2>kaçarken...
+5|Himiko tanktan kaçarken...
+6|<CLT=size2>merdivende<CLT=size1> saklı <CLT=size2>cesedi<CLT=size1> <CLT=cltWEAK><CLT=size2>dışarı çekti<CLT=cltNORMAL><CLT=size1>...
+7|merdivende saklı cesedi dışarı çekti...
+8|ve onunla öylece <CLT=size2>yer değiştirdi<CLT=size1>.
+9|ve onunla öylece yer değiştirdi.
+10|Yani <CLT=size2>bunun<CLT=size1>\n<CLT=size2>　\n　
+11|Yani bunun olduğunu gördüğünü mü söylüyorsun!?
+12|<CLT=size2>　\n　\nolduğunu gördüğünü<CLT=size1> mü söylüyorsun!?
+13|Bunu <CLT=size2>kimse<CLT=size1> <CLT=size2>göremezdi<CLT=size1>.
+14|Bunu kimse göremezdi.
+15|Bu, gösterinin
+16|Bu, gösterinin ortasında olmuş olurdu...
+17|ortasında <CLT=size1>olmuş<CLT=size1> olurdu...
+18|<CLT=size1>tank<CLT=size1> bir <CLT=size1>perdeyle
+19|tank bir perdeyle örtülüyken.
+20|<CLT=size2>örtülüyken<CLT=size1>.
+21|Yani kısacası,
+22|Yani kısacası, kimse bir şey görmedi.
+23|<CLT=cltWEAK><CLT=size2>kimse
+24|<CLT=cltWEAK>bir şey <CLT=size2>görmedi<CLT=cltNORMAL>.
+25|<CLT=size2>B-Ben<CLT=size1>
+26|B-Ben yapmadım! Yemin ederim!
+28|<CLT=size2>yapmadım!
+29|Yemin
+30|<CLT=size2>ederim!
+31|Ryoma'nın <CLT=size2>cesedi<CLT=size1>\n<CLT=size2>merdivende<CLT=size1> <CLT=size2>değildi...
+32|Ryoma'nın cesedi merdivende değildi...
+33|Oh, <CLT=size1>yalan söylemeyi <CLT=size3>kes!
+34|Oh, yalan söylemeyi kes! Seni eşek dudaklı dolandırıcı!
+35|<CLT=size1>Seni eşek dudaklı\n<CLT=size3>dolandırıcı!
+36|<CLT=cltAGREE>Yalan söylemiyor!
+37|Yalan söylemiyor!
+38|O <CLT=size1>bir\n<CLT=size2>dolandırıcı<CLT=size1> değil
+39|O bir dolandırıcı değil ve eşek dudakları yok!
+40|ve onun\n<CLT=size2>eşek<CLT=size1>
+41|dudakları\n<CLT=size2>yok!
+42|Bu doğru olabilir...
+43|Emin misin?
+44|Mm-hm, mm-hm...
+45|Ha? Merdivene girmek mi?
+46|Neden bu kadar sinirlisin, Tenko?
+47|Yani herhangi biri olabilir mi?
+48|Keşke içini görebilsek...
+49|Ter döküyor!
+50|Ah, anlattığımız hikâyeler...
+51|Siktiğimin yalancısı!
+52|Eşek dudaklı mı...?
+## c02_209_000
+0|Biri tankın içini gördü!\nO da <CLT=cltSTRONG>Gonta'ydı<CLT=cltNORMAL>!
+1|Gonta sahneye çıkmış ve tankın içine\nyukarıdan bakıyordu.
+2|Değil mi, Gonta?
+3|E-Evet...Gonta tankın içine baktı.\nAma...içeride kimseyi görmedi.
+4|...İçeride kimse yok muydu?
+5|Evet, kimse.\nSanırım o ipucu işe yaramaz, ha?
+6|Hayır, aslında harika bir ipucu.\nÇünkü...
+7|Ryoma'nın cesedi merdivenin içinde\nsaklandıysa...
+8|Himiko'nun içeri girmeden önce onu dışarı\nçekmesi gerekirdi.
+9|Merdivende ikisinin birden sığacağı kadar\nkesinlikle yer yoktu.
+10|Ama bu, Gonta baktığında tank boşsa\nşu demek...

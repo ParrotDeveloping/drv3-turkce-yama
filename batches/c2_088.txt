@@ -1,0 +1,58 @@
+@ chap2_text_US
+## c02_210_001
+32|Olmaz. Oraya bir ceset koysaydın...
+33|biz görmeden çok <CLT=size2>önce<CLT=size1>\n<CLT=size2>piranalar<CLT=size1> onu <CLT=size3>yerdi<CLT=size1>!
+34|biz görmeden çok önce\npiranalar onu yerdi!
+35|Ama <CLT=cltAGREE><CLT=size2>cesetle<CLT=size1>
+36|Ama cesetle piranalar ayrılmışsa...
+37|<CLT=cltAGREE><CLT=size2>piranalar<CLT=size1>
+38|<CLT=cltAGREE><CLT=size2>ayrılmışsa<CLT=cltNORMAL>...
+39|O zaman <CLT=size2>yenmezdi,<CLT=size1>\ndoğru mu?
+40|O zaman yenmezdi, doğru mu?
+41|Gerçekten de nerede...
+42|Merdiven epey dar...
+43|Oh? Orada bulundun mu?
+44|Vuruş!
+45|...Ve ıska!
+46|İmkânsız.
+47|Göz boyama mı o zaman?
+48|Optik kamuflaj!
+49|Ama piranalar toktu...
+50|Ondan sonra yendi!
+51|Ayrılmış mı...?
+52|Bu mümkün mü?
+## c02_211_000
+0|Kiyo'nun hipotezi doğru. Ceset ile\npiranalar <CLT=cltSTRONG>ayrılmıştı<CLT=cltNORMAL>!
+1|Bu, tankta bulunan <CLT=cltSTRONG>kare cam levha<CLT=cltNORMAL>\nkullanılarak yapıldı!
+2|Kehehe... Tam düşündüğüm gibi.
+3|O cam levhayı bölme olarak kullanarak tankta\ngüvenli bir alan oluşturulabilirdi.
+4|Ceset de piranalardan ayrı olarak işte\nböyle bir alanda saklanabilirdi.
+5|Yani Ryoma'nın cesedi baştan beri pirana\ntankında saklanıyormuş!
+6|Yani Ryoma'nın cesedi piranalarla birlikte\nsu tankına mı düştü!?
+7|Gonta biliyordu!
+8|Ne oldu, Gonta?
+9|Piranalar düşerken Gonta sahnenin üstündeydi!
+10|Bu yüzden Gonta başka kimsenin göremediği\nbir şey gördü...
+11|Piranalar düşünce Gonta onlarla birlikte su\ntankına büyük bir şeyin düştüğünü gördü.
+17|Biliyor musunuz, şimdi Gonta düşününce...\nGonta Ryoma'nın cesedini görmüş olabilir.
+18|Piranalar tanktan düşünce daha büyük\nbir şeyin de düştüğünü görür gibi oldum.
+19|Alttaki su tankı tamamen camdan\nyapılmış, doğru mu?
+20|Camın içinden ne olduğu görülebilir.\nTankta gerçekten bir ceset saklanabilir mi?
+21|Bulanık suda bile cam bir tanktaki ölü\nbir beden yine de görünürdü!
+22|Tabii cesedi gizlemek için <CLT=cltSTRONG>belli bir\nşey<CLT=cltNORMAL> kullanılmadıysa.
+23|...Belli bir şey mi?
+24|Cam levhanın cesedi piranalardan ayırmak için\nkullanıldığında hepimiz hemfikiriz, değil mi?
+25|Eh, bu yöntemin bir de <CLT=cltSTRONG>cesedi gözden\ngizleme<CLT=cltNORMAL> gibi ek bir faydası var.
+26|Nyeh? Bir ceset öyle nasıl gizlenebilir ki?
+27|<CLT=cltMIND>Suçlu cesedi pirana tankında nasıl\ngizleyebildi...?
+28|Camın kendisi bir örtü\nişlevi gördü.
+29|Ha? Cam şeffaf değil mi?
+30|Şeffaf bir şeyin arkasına ceset nasıl\nsaklanır? Gonta anlamıyor...
+32|Pirana tankının...bir numarası\nvar...
+33|O numaranın açıklamasını senden\nbekliyorduk...
+35|Söyleyecek söz bulamıyor gibisin. Belki de\nsonuçta cesedi saklamak imkânsızdı.
+37|Ceset tankta nasıl saklandı?\nAyrıntılı açıklamanı bekliyoruz.
+39|Cesedi gözden gizleyen tam olarak\nneydi?
+40|...<CLT=cltSTRONG>Piranalardı<CLT=cltNORMAL>.\nCesedi piranalar gizliyordu.
+41|Ha!? Piranalar mı!?
+42|Doğru. Angie'nin soruşturma sırasında\nne dediğini hatırlıyor musunuz?

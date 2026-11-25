@@ -1,0 +1,52 @@
+@ chap2_text_US
+## c02_016_241
+116|Kaito, kendine güvenmek iyidir ama her şeyde\nher zaman yanılıyorsan değil.
+117|Haaa!? Geri al o lafı!
+118|Kaito Momota'nın içgüdülerini hafife almaya\ncüret etme! Sana meydan okuyorum, Kokichi!
+119|Nişişi... Meydan okumanı kabul ediyorum.
+120|Ne kadar kolay yönlendiriliyor...
+121|Kehehe... Ne kadar basit. Ateşe koşan\nbir pervane gibi.
+123|<CLT=cltMIND>Kaito, Kokichi, Korekiyo,\nRyoma ve ben...
+124|<CLT=cltMIND>Beşimiz de jetonlarımızı kullanıp\nslot makinelerinde yarıştık.
+125|<CLT=cltMIND>Farkına bile varmadan işin içine\nçekilmiştim... Ah, kimin umurunda?
+126|Dur, ben neden kenara itiliyorum!?
+127|Slot makinelerine hile yapıp maçı adil\nolmaktan çıkarabilirsin.
+128|Ne—!? O-O-Öyle bir şeyi asla yapmam lan!
+129|Hıh... Yapacağın yüzünden okunuyor.
+130|Pekala, başlayalım!
+131|<CLT=cltMIND>Yarışma göz açıp kapayıncaya kadar bitti.
+132|N-Ne? Neden? Ama ben...Yıldızların Işığı\nKaito Momota'yım!
+133|<CLT=cltMIND>Kaito ezici bir farkla kaybetti.
+134|Vaaaaay! Bu çok müthişti, Ryoma!
+135|Böyle bir şeyde kazanmak övünülecek\nbir şey değil.
+136|<CLT=cltMIND>Her şeye rağmen Ryoma ezici\nbir farkla kazandı.
+137|Hey, bir numaran falan mı var?
+138|Öyle bir şey yok.\nSanırım sadece yeteneğim var.
+139|Ne yani, şanslı mısın!?\nBu sadece batıl inanç!
+140|Bu yorumu görmezden gelemem. Şansı batıl\ninanç alemine havale etmeyin.
+141|Ooohh! Kokichi hislerim karıncalanıyor!\nKiyo bir antropoloji dersi vermek üzere!
+142|Örneğin bazı kelimelerin ya da ifadelerin zorlu\nbir işe "nazar değdirdiği" söylenir.
+143|Bu, Japonların sözcüklerin gücü anlamına gelen\n"kotodama" kavramıyla derinden bağlantılıdır.
+144|Daha sert devam etmemi istiyorsan "yeşil",\ndurmamı istiyorsan "kırmızı" demek gibi mi!?
+145|Lütfen sessiz ol...
+146|N-Ne...? Sadece havayı biraz yumuşatmaya\nçalışıyorum...
+147|Kotodama, kelimelerin gerçekliğin kendisini\netkileyebilecek bir güç taşıdığı inancıdır.
+148|Olumlu sözler söylemek talihe, olumsuz sözler\nise talihsizliğe yol açar.
+149|Evet, bir cümleyi kulağa uğursuz gelmeyecek\nşekilde yeniden söylemek gibi.
+150|Evet. Zorlu bir işle karşı karşıya olan biri olumsuz\nsözler duyarsa bunu uğursuzluk sayabilir.
+151|O uğursuzluk hissi de odaklanmasını ya da\nmotivasyonunu etkileyebilir, değil mi?
+152|Anlıyorum... O zaman belki de onları etkileyen\nbatıl inanca duydukları inançtır.
+153|Ben böyle saçma şeylerin beni etkilemesine\nizin vermem...
+154|Sadece yeteneklerime güvendiğim için\nkazanırım. Gereken tek şey bu.
+155|Evet...ve kelimeler birine bu güveni verme\nya da ondan çalma gücüne sahiptir.
+156|Kelimeler güçlüdür. Gerçek de yalan da bir silahtan\nçıkan mermi kadar güçlü ateşlenebilir.
+157|A-Anlıyorum...\nSanırım şansı hafife almamak lazım.
+158|Hey, Ryoma... Maçtan önce yaptığın\nritüellerin falan yok muydu?
+159|Eh, şimdi sen söyleyince...
+160|Maç oynarken korta sağ ayağımla girersem\niyi geçerdi.
+161|Ben de bu slot makinesinde aynı şeyi\nyaptım...
+162|Hıh, ama o kadar.
+163|Hehehe! Bahse girerim raketin de sağa\nyatıyordur!
+164|Lütfen sessiz ol...sonsuza dek.
+165|B-Bana öyle bakmayı kes...\nSadece şakaydı...
+166|Pekala!\nO zaman ben de bir deneyeyim!

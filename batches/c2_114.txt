@@ -1,0 +1,48 @@
+@ chap2_text_US
+## c02_229_000
+13|Doğru, anlamına gelmez. Ama...<CLT=cltSTRONG>merdivenden\ninen birinin sesini<CLT=cltNORMAL> duymadım.
+14|Bu da çıkan kişinin <CLT=cltSTRONG>odasının 1. katta<CLT=cltNORMAL>\nolduğu anlamına gelmeli.
+15|2. kattaki hiç kimse o gece yurttan\nçıkmadı.
+16|Yani 2. kattaki herkesin mazereti mi var?\nSadece bununla suçluyu belirleyemezsin.
+17|Aksine, 2. katı elediğimizde suçlunun\nkim olduğunu biliriz.
+18|Çünkü teleferiği hazırlamak spor salonunda\nvakit geçirmeyi gerektiriyordu...
+19|suçlunun büyü gösterisinin kurulmasına\nyardım etmiş olması son derece olası.
+20|Kısacası...Himiko, Angie, Kaito ya da Kirumi.
+21|Anlıyorum... Yani dördü arasında odası yurdun\n1. katında olan tek kişi...
+22|Evet. Sadece Kirumi.
+24|<CLT=cltMIND>Pek zarif değildi ama <CLT=cltSTRONG>yalanım<CLT=cltMIND>\nkesinlikle inandırıcıydı. Yutacaklar mı?
+25|Hmm, bir ses duydun demek, ha?\nEh, ben de bir sürü saçmalık duyuyorum.
+26|Ama ne yazık ki senin için, Kirumi...\nSüren doldu.
+27|Bütün bunları kurabilecek tek kişinin\nsen olduğunu zaten biliyoruz.
+28|Değil miiii, Shuichi?
+29|<CLT=cltMIND>...Eh, bu beklenmedik bir\nyardım oldu.
+30|Doğru... Bu cinayeti hazırlayabilecek\ntek kişi Kirumi.
+31|Hayır...bu cinayeti hazırlayabilecek\ntek kişi Kirumi.
+32|Eh, en azından spor salonundaki\nhazırlıkları.
+33|Peki neden buna inanıyorsun?
+34|Suçlu cesedi tanka koymadan önce bazı\nadımların atılması gerekiyordu.
+35|İpi spor salonu penceresine bağlamak ve pirana\ntankına bir bölme yerleştirmek gibi!
+36|Doğru. Ryoma'nın cesedi spor salonuna\npencereden girdi ama bu hazırlık gerektiriyordu.
+37|Bu ancak Kirumi gece başlamadan önce spor\nsalonunda yalnızken yapılabilirdi.
+38|Ama Kirumi spor salonunda sadece beş dakika\nkadar yalnız kaldı.
+39|Bütün cinayet için yeterli değil ama kurmak\niçin yeterli.
+40|İpi pencere çerçevesine bağlayıp levhayı pirana\ntankına koymaya yetecek kadar vakit.
+41|Ne demek istediğini anlıyorum ama sizi temin\nederim ki bu sadece...
+42|...küçük hayal gücünüzün bir parçası!\nNihilizmden doğmuş boş bir teori!
+## c02_230_000
+0|Beş dakika içinde hazırlık yapmış olabileceğimi\nkabul ediyorum ama bunun önemi yok.
+1|Daha temel gerçeklere odaklanmalıyız.
+3|Bu ipi kullandığımı nasıl kanıtlıyor?\nNe demek istediğini anlamıyorum.
+5|<CLT=cltMIND>Çok ikna edici, Kirumi...\nSenden de bu beklenirdi.
+6|<CLT=cltMIND>Ama geri adım atmayacağım!\n
+7|<CLT=cltMIND>Bu birlikte vardığımız sonuç.\nSadece bir tahmin değil...
+8|<CLT=cltMIND>İpin kullanıldığına dair somut bir delilim\nvar. Şimdi kanıtlayacağım!
+9|<CLT=cltMIND>Bu birlikte vardığımız sonuç.\nSadece bir tahmin değil...
+10|<CLT=cltMIND>Delil benim tarafımda ve\nona göstereceğim!
+11|<CLT=cltMIND>Bu birlikte vardığımız sonuç.\nSadece bir tahmin değil...
+12|<CLT=cltMIND>Delil benim tarafımda ve\nona göstereceğim!
+15|<CLT=cltMIND>Onları geri itmeye çok yaklaşmıştım!\nBu sefer yapacağım...yapabileceğimi biliyorum! <CLT=cltNORMAL>
+16|<CLT=cltMIND>Çok yaklaşmıştım! Yapamadım,\ngeri itiliyorum! <CLT=cltNORMAL>
+## c02_230_001
+0|<CLT=size2>Sadece
+1|Sadece ip ve bölme olsaydı...

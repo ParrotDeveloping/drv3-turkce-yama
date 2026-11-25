@@ -1,0 +1,57 @@
+@ chap2_text_US
+## c02_213_000
+265|<CLT=cltMIND>Maki bize yalan mı söyledi...?
+267|<CLT=cltMIND>Doğru, elimizde bütün gerçekler\nyok...
+268|<CLT=cltMIND>Ama Maki bunu neden tam da şimdi\nsöylesin ki...?
+270|<CLT=cltMIND>Masumiyetine güveniyorsam ifadesine\nde inanmalıyım.
+271|<CLT=cltMIND>Ama...inanmalı mıyım?
+## c02_214_000
+2|B-Bir saniye! Ne sonucu!?\nOylama Vakti daha gelmedi!
+3|Geldi ama! Hatırlamıyor musun, Monosuke!?
+4|Hayır, gelmedi! Hatırlamayan sensin,\nMonotaro!
+5|Off ya, haklısın.\nBen de amma unutkanım.
+6|Vay be...Bu kadar küçük bir yalan için\nhepinizin bu kadar köpüreceğini beklemiyordum.
+7|Siz çocuklar epey saf, ha?
+8|Neyse, bu duruşmayı atlayıp doğrudan\n3. Bölüm'e geçelim!
+9|B-Bir saniye!\nDaha suçluyu bilmiyoruz!
+10|Evet! Rantaro'yu kim öldürdü!?
+11|O 1. Bölüm'ün davasıydı!\nNasıl bu kadar unutkan olabilirsin!?
+13|Şok edici bir gerçek daha ortaya çıktı.
+14|KARE-BİR'E-DÖNDÜK.
+15|...Kare mi kazandı?
+16|Kare kazansaydı rakibi tarafından\nyutulmazdı!
+17|O berbat filmden sonra başka çareleri\nkalmamıştı!
+18|Vay! Bu ne demek!?
+19|Başka bir anlamsız tartışmaya karışmak\nistemediği anlamına geliyor. Bunun gibi...
+## c02_215_000
+0|Maki'nin söylediği hiçbir şeyi dinlememeliyiz.\nDaha fazla yalan saçacak.
+1|Ama ondan daha fazla ayrıntı istemezsek\nkesin olarak nasıl bileceğiz?
+2|Sana söyledim, gerek yok...\nYalancılardan nefret ederim! Yalancı, yalancı!
+3|Bunu sen mi söylüyorsun...
+4|Maki, o yalancı küçük yozu görmezden gel!\nSenin söyleyeceklerini dinleyeceğiz!
+5|Dün gece yarısından...biraz sonra olmalı.\nAraştırma laboratuvarıma geldi.
+6|Aldığım motif videosunu ona göstermemi\nistedi.
+7|Motif videosu mu?
+8|Ryoma bunu sormaya geldiyse onun motif\nvideosu sende miydi?
+9|Hatırladığım kadarıyla Ryoma'da Maki'nin\nmotif videosu vardı, doğru mu?
+10|Yani sen ve Ryoma birbirinizin motif\nvideosunu mu aldınız?
+11|Belki... Aslında bana geleni kontrol\netmedim, o yüzden bilmiyorum.
+12|Maki daha önce Yavrupad'ine bakmadığını\nitiraf etmişti.
+13|O zaman Ryoma, Maki'de kendi motif videosu\nolduğunu neden düşündü?
+14|Rastgele sorarak dolaşsaydı Maki'den\nbaşkalarına da sorardı.
+15|Bana hiç sormadı! Muhtemelen size de hiç\nsormadı, değil mi!?
+16|O zaman...Ryoma'ya Yavrupad'ini kim\nsöyledi?
+17|<CLT=cltMIND>Ryoma'ya kendi motif videosunun\nMaki'de olduğunu kim söyledi...?
+18|<CLT=cltMIND>Hangi pedin kimde olduğunu bilen\nbiri olmalı.
+19|<CLT=cltMIND>Ben sadece Kaito'nunkinin bende olduğunu\nbiliyorum... Diğerleri hakkında hiçbir şey bilmiyorum.
+20|Ne oldu lan, Kaka-ichi?\nAklında bi' şey mi var!?
+21|Videolar, ha? Pis videolar düşünmediğine\nemin misin?
+23|...Himiko?\nKimin kimde olduğunu biliyor musun?
+24|Büyümü öyle şeyler için kullanmam.\n...Ama gerçekten istersem kullanabilirim.
+26|...Maki?\nBelki kimin kimde olduğunu biliyorsundur.
+27|Bilmemin imkânı yok.
+28|Bana soran tek kişi Ryoma'ydı.\nKendi motif videoma bile bakmadım.
+30|...Angie?\nBelki kimin kimde olduğunu biliyorsundur.
+31|Hmmm, Atua bilir ama şu an\nOnun şekerleme vakti.
+33|Hey, hey! Sen bilirsin, değil mi Shuichi?\nSöyle artık.
+35|<CLT=cltMIND>...Hayır, bileceklerini\nsanmıyorum...

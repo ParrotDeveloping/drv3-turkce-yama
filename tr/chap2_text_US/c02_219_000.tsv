@@ -1,5 +1,89 @@
+0	Gece spor salonuna girilemeyeceği doğru.\nAma bir ceset girebilirdi.
+1	Suçlunun cesedi pencereden taşıdığından\neminim!
+2	O pencere pirana tankından yüksek ve\nepey yakın...
+3	Perdeler kapalı olabilir ama pencere bütün\nsoruşturma boyunca açıktı.
+4	Yani cesedi pencereden pirana tankına koymak\nkesinlikle mümkündü...
+5	Ancak pirana tankını bölen levhanın da\nönceden yerleştirildiğinden eminim.
+6	O kesinlikle içeri atılamazdı.\nDikkatle yerleştirilmesi gerekirdi.
+7	Suçlu cesedi pencerenin dışından\natsa bile...
+8	Pencere çok yüksek.\nYerden uzanılamaz.
+9	Ryoma ufaktı...\nGonta onu kolayca fırlatabilirdi.
+10	Evet ama...Gonta öyle yapmaz!\nBeyefendiler ceset fırlatmaz!
+11	Beyefendi olmanın bununla hiçbir ilgisi yok!
+12	Biliyorum! Spor salonundaki seyyar\nmerdiveni kullandılar!
+13	Soruşturma sırasında denedin, Shuichi.\nO merdiven pencereye yetişti, değil mi?
+14	Yani suçlunun bunu başarmak için cesedi\npencereden sokması yeterliydi, değil mi?
+15	<CLT=cltMIND>Hayır, o yöntemin mümkün olduğunu\nsanmıyorum. Çünkü...
+16	Merdiven taşınamaz
+17	Bence merdiven taşınamaz.
+18	Ha? Merdiveni taşımak kolaydı.\nSahnede kullandık, hatırladın mı?
+19	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+20	Taşımak için vakit yoktu
+21	Bence merdiveni kaldırmak için\nyeterli vakit yoktu...
+22	Merdiveni gece herhangi bir zamanda\ntaşıyamazlar mıydı?
+23	Bence suçlunun yeterince vakti vardı.
+24	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+25	Merdiven pencereye yetişmez
 26	...
+27	Merdivenle bile baştan imkânsız olurdu,\ndeğil mi?
+28	Cesedin pencereden tanka atıldığı argümanı\ntamamen yanlış.
+29	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+30	<CLT=cltMIND>Merdiven bu suçta öyle kullanılamazdı.\nBunu kanıtlayabilirim...
+31	Merdivenin pencereye yetişmesinin tek\nsebebi sahnenin üstünde olmasıydı.
+32	Merdiveni havuz tarafında kullansaydın\npencereye tam yetişmezdi.
+33	Merdiven sahnenin üstündeyken bile\npencereye zar zor yetişiyordu.
+34	Ve spor salonunun havuz tarafında sahne\nkadar yüksek hiçbir şey yok.
+35	Son olarak merdiven spor salonunda\nbulundu, doğru mu?
+36	Suçlu merdiveni havuz tarafında kullansaydı\nonu spor salonunda bulmazdık.
+37	Ve merdiveni pencereden geri de atamazlardı\nçünkü çok ağır.
+38	O zaman Gonta o hayvani gücüyle merdiveni\nya da cesedi ya da...bir şeyi fırlattı!
+39	Beyefendiler ceset fırlatmaz!\nMerdiven de!
+40	Ceset zaten pirana tankına atılmış\nolamazdı.
+41	Cam levha kaymasın diye dikkatle\nyerleştirilmesi gerekirdi.
+42	Anladın mı, kas kafa!? Sana tonla steroid\nversek bile imkânsız olurdu!
+43	Özür dilerim. Haklısın.
+44	Özür dilemene gerek yoktu, Gonta...
+45	Suçlunun cesedi pencereden nasıl\ntaşıdığı...
+46	Ha! Bunu bile bilmiyor musunuz!?\nNe kadar kalın kafalısınız!
+47	O zaman cevabı biliyor musun?
+48	Elbette.
+49	Söyle onlara, Shuichi!\nGerçekle hepsini uçur!
+50	Ah...ben, şey...aslında henüz\nbilmiyorum...
 51	N-Ne!?
+52	Suçlu cesedi kesinlikle pencereden taşıdı\nama nasıl olduğunu bilmiyorum...
+53	C-Cidden mi?
+54	Oh olsun! O kadar burnu havada davrandıktan\nsonra kendini rezil ettin!
+55	Erkekler susup cezalarını çekmeli!
+56	N-Ne yapacağız, Shuichi!?\nBunu çözmemiz lazım yoksa işimiz biter!
+57	Hey, bir şey yapmalısın, Shuichi!
+58	B-Biliyorum...bir şey yapmalıyım ama...
+59	<CLT=cltMIND>Ne yapacağımı bilmiyorum,\nhenüz çözemedim...
 60	...
+61	<CLT=cltMIND>Lanet olsun...gerçekten yeterince\niyi değil miyim...?
+62	<CLT=cltMIND>Öyle miyim...? Dedektif olarak hiçbir işe\nyaramıyor muyum? B-Bunu yapamam, yapamam—
+63	Bence cesedin pirana tankına nasıl girdiği\npek önemli değil.
 64	<CLT=cltMIND>...Ne?
+65	Gonta önemli olduğunu düşünüyor. Çözmezsek\nsuçlunun numarasını bilemeyiz—
+66	Konudan sapıyoruz. Nasıl yapıldığı önemli\ndeğil, kimin yaptığı önemli.
+67	Cesedi nerede bulduğumuza\nodaklanmamalıyız.
+68	Onun yerine <CLT=cltSTRONG>nerede öldürüldüğüne<CLT=cltNORMAL>\nodaklanmalıyız.
+69	Nerede öldürüldüğü mü?
+70	Onun yerine cinayet mahalline odaklansak\ndaha verimli olmaz mı?
+71	Evet...işte bu!
+72	Cesedin nerede bulunduğuna o kadar\ntakıldık ki...
+73	aslında cinayetin nerede işlendiğini\ndüşünmemiz gerekiyordu!
+74	Cinayet mahallinde suçluyla ilgili kesinlikle\ndaha çok ipucu olurdu.
+75	Bunu neden kimse daha önce fark etmedi?\nHa, ne tuhaf.
+76	Belki de suçlu konuşmayı o konudan\nuzaklaştırdı.
+77	O-O zaman...suçlu bu odadaki biri!
+78	<CLT=cltMIND>Bunu hatırlamak önemli... Buradaki herkes\ngerçeği bulmamızı *istiyor* değil.
+79	<CLT=cltMIND>Birimiz bu duruşmayı sabote etmeye\nçalışıyor...
+80	O zaman suçlunun kim olduğunu bulmak için\nolay yerini tartışalım.
+81	Bir robot için fena fikir değil. En son\nböyle iyi bir fikir duyduğumda...
+82	...Nino soğuktan kurtulmak için köprünün\naltına onunla taşınmamı söylemişti.
+83	Köprü Altında Himikawa mı!?
+84	<CLT=cltMIND>Her şeyin nerede başladığını belirleyebilirsek\nnasıl bittiğini de belirleyebiliriz.
+85	<CLT=cltMIND>Evet, pes etmek için çok erken.\nDuruşma daha yeni başladı!
+86	...Teşekkürler, Maki. Faydalı bir tespitti.
+87	Bunu fark etmediğine inanamıyorum. Sanırım\nhâlâ çırak olmanın sebebi bu.
 88	...

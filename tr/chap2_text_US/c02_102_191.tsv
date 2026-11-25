@@ -1,16 +1,131 @@
+0	Burada sonsuza kadar kalamayız.\nGidip başka yerleri araştıralım.
+1	Tembellik edecek vaktimiz yok!\nÖyle değil mi, yardımcı!?
 2	Evet, haklısın.
+3	Hmm, demek havuz bu...\nPek okul havuzuna benzemiyor.
+4	Yani spor salonunda sahnenin üstünde araştırdığımız\npencere buraya açılıyor, değil mi?
+5	Suçlu muhtemelen buradan girip çıktı!\nPekala! Her köşeyi bucağı araştır!
+6	<CLT=cltMIND>...Sen kendin yapmayacak mısın?
+7	Yani spor salonunda sahnenin üstünde araştırdığımız\npencere buraya açılıyor, değil mi?
+8	Suçlu muhtemelen buradan girip çıktı!\nPekala! Her köşeyi bucağı araştır!
+9	<CLT=cltMIND>Sanırım burada hâlâ araştırılacak\nşeyler var...
 10	Evet
 11	Hayır
 12	Emin olmadığın bir şey mi var?
 13	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+14	Buraya kadar geldim...\nHer yere bakmalıyım.
 15	<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
 16	<CLT=cltMIND>Gerçekten her yerdeler...\nKontrolleri altında olduğumuzu bilmemizi istiyorlar.
 17	<CLT=cltMIND>Ama bizi gözetlemek için herhangi bir\ngözetim donanımı yok.
 18	<CLT=cltMIND>Bu normal bir okul havuzuna benzemiyor...\ndaha çok bir tatil köyündeki havuz gibi.
 19	<CLT=cltMIND>Havuz derin ama tamamen dolu değil.\nYine de yüzmek için bol su var.
+20	<CLT=cltMIND>Su seviyesi değişmemiş...\nama içinde yüzen bir şey görüyorum.
+21	<CLT=cltMIND>Bu havuzun ekipman kulübesi.\nHer ihtimale karşı içine bir bakayım.
+22	<CLT=cltMIND>Ha? Bu...?
+23	<CLT=cltMIND>Elektrikli hava pompası mı?
+24	<CLT=cltMIND>Anlıyorum... Bununla büyük bir simidi\nkolayca şişirebilirsin.
+25	İncelemeye değer başka bir şey yok gibi.
+26	<CLT=cltMIND>Bu havuzun alet kulübesi.\nŞurada...
+27	<CLT=cltMIND>elektrikli bir hava pompası var. Onunla\nbüyük bir simidi kolayca şişirebilirsin.
+28	İncelemeye değer başka bir şey yok gibi.
+29	<CLT=cltMIND>Spor salonunun penceresi şuradan görünüyor...
+30	Spor salonunda sahnenin üstünden\naraştırdığımız pencere bu.
+31	Yani...epey yüksek. Sadece bir seyyar\nmerdivenle uzanamazsın.
+32	Katılıyorum... Merdiven sahnenin üstündeyken\nbile pencereye zar zor yetişiyordu.
+33	Öyleyse birinin oradan geçmesi zor\nolmuş olabilir...
+34	Evet, haklı olabilirsin.
+35	<CLT=cltMIND>Şuradaki pencere spor salonunun penceresi.\nGerçekten çok yüksek...
+36	<CLT=cltMIND>Merdivenle bile buradan uzanılabilecek\ngibi görünmüyor.
+37	<CLT=cltMIND>Birinin oradan girip çıkması\nzor olurdu.
+38	<CLT=cltMIND>Bu, Ryoma'nın laboratuvarındaki duş\nodasının penceresi.
+39	<CLT=cltMIND>Büyük bir atlama tahtası.\nTatil köyünde görülecek bir şeye benziyor...
+40	<CLT=cltMIND>Hiçbir şeyi değişmemiş.
 41	<CLT=cltMIND>Burada bazı havuz kuralları asılı.\nTuhaf bulduğum bir tane var...
 42	<CLT=cltMIND>Burada bazı teknik özellikler de\nyazıyor...
 43	<CLT=cltMIND>Havuz 25 metre uzunluğunda\nve 12 metre genişliğinde...
 44	<CLT=cltMIND>Havuz kenarı her iki uçta 4 metre,\nsağ ve sol kenarlar da 2,5'er metre...
+45	<CLT=cltMIND>Havuz kurallarında kafama takılan\nbir şey var. Şöyle diyor...
+46	Oh! Havuza atlamak yasak!\nÖzellikle gece!
+47	Vay! Sen nereden çıktın!?
+48	Yani atlamanın kendisi sorun değil. Bir arabanın\nya da trenin önüne atlamak istersen o senin bileceğin iş.
+49	Ama havuz gece yasak.\nGördün mü? "<CLT=cltSTRONG>Gece yüzmek yasaktır<CLT=cltNORMAL>."
+50	Bu bir ihlal olur, değil mi?
+51	Biri okul kurallarını çiğnerse bütün\nkampüste bir siren çalar...
+52	Ve o kişi Exisal'lar tarafından paramparçaaaa\nedilir!
+53	O-O kadar ileri mi gidersin?
+54	Eh, şimdiye kadar siren çalmadı.\nYani kimsenin paramparça edilmesi gerekmedi...
+55	...henüz. Puhuhu.
+56	Durum buysa...gece spor salonunda ya da\nhavuzda kimse yoktu diyebilir miyiz?
+57	...Eh, en azından canlı kimse yoktu.
+58	<CLT=cltMIND>Gece yüzmek yasak...\nBu davada rol oynayabilir.
+59	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Havuz Kuralları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+60	<CLT=cltMIND>Havuz kurallarında kafama takılan\nbir şey var. Şöyle diyor...
+61	Havuza atlamak yasak!\nTekrar ediyorum, havuza atlamak yasak!
+62	Özellikle gece!\nÖzellikle gece!
+63	Vay! Yine geldi!
+64	Biri okul kurallarını çiğnerse...\nBiri okul kurallarını çiğnerse...
+65	Bütün kampüste bir siren çalar...\nBütün kampüste bir siren çalar...
+66	Ve o kişi!\nVe o kişi!
+67	Paramparça edilir!\nParamparça edilir!
+68	Exisal'lar tarafından!\nExisal'lar tarafından!
+69	Kes sesini artık! Anladık!\nTekrar etmene gerek yok!
+70	Hiç siren çalmadı...\nVe kimse "paramparça edilmedi"...
+71	O zaman gece spor salonunda ya da\nhavuzda kimse yoktu diyebilir miyiz?
+72	...Eh, en azından canlı kimse yoktu.\n...Eh, en azından canlı kimse yoktu.
+73	<CLT=cltMIND>Gece yüzmek yasak...\nBu davada rol oynayabilir.
+74	<CLT=cltMIND>Araştırmam gereken başka bir şey var.
+75	<CLT=cltMIND>Havuzda bir simit yüzüyor!\nBüyük, sağlam, kauçuk bir simide benziyor.
+76	Tahmin edeyim...birkaç aptal arkasını\ntoplamamış.
+77	Bize bakma.
+78	Sudan hoşlanmam. Meyve suyunu tercih ederim.
+79	Pamuğumuz su emince ağırlaşıyoruz.\nKilo vermeyi kâbusa çeviriyor!
+80	BEN...HERKESLE-SUDA-OYNAMAK-\nİSTİYORUM. KULAĞA...EĞLENCELİ-GELİYOR.
+81	Biliyor musunuz...Monodam haklı olabilir.\nŞimdi biraz havuza girmek istiyorum.
+82	Evet! Kilo vermek kimin umurunda!?
+83	Aptallar! Biz buraya oynamaya gelmedik! Bu\npislikleri cehennemin dibine göndermeye geldik!
+84	Biz Monoyavrularız! Etraftaki en kötü, en pis,\nen zalim maskotlar!
+85	Anlamazsanız hepinizi havuza kendim\natarım!
+86	Ahhhhh! Lütfen yapmaaaa!
+87	MONOSUKE, LÜTFEN-DUR...\nHEPİMİZ-ANLAŞAMAZ-MIYIZ?
+88	A-Anlaşamazsak Monokid gibi olacağımı\nmı söylüyorsun...?
 89	...
+90	Yani...simidi oraya koyan Monoyavrular\ndeğil, bizden biri miydi?
+91	Neyse, fark etmez. Simit muhtemelen\ndavayla ilgili değil.
+92	<CLT=cltMIND>Davayla ilgili değil mi?\nSadece oynamak için olsaydı...
+93	<CLT=cltMIND>neden ona bir ip bağlı?\nBu ne için olabilir?
+94	<CLT=cltMIND>Bu ilginç...
+95	<CLT=cltMIND>Havuzda bir simit yüzüyor.\nBüyük, sağlam, kauçuk bir simide benziyor.
+96	<CLT=cltMIND>Ama ona bir ip bağlı...\nBu ne için olabilir?
+97	<CLT=cltMIND>Bu ilginç...
+98	<CLT=cltMIND>Ha? Havuzda yüzen başka bir şey\ndaha var...
+99	Küçük bir kumaş parçasına...benziyor.
+100	Sadece çöp, değil mi?\nEndişelenecek bir şey yok.
+101	Biz suçluyu arıyoruz!\nÇöp toplayacak vaktimiz yok!
+102	Ah, evet ama...
+103	<CLT=cltMIND>Belki sadece önsezim ama\nbeni rahatsız ediyor.
 104	<CLT=cltMIND>...
+105	<CLT=cltMIND>Bazen ona güvenmeyi öğrenmeliyim.\n<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltMIND> olarak önsezime...
+106	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Siyah Kumaş Parçası<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+107	<CLT=cltMIND>Havuzda küçük bir kumaş parçası\nyüzüyor...
+108	O küçük çöp parçası seni gerçekten bu kadar\nrahatsız ediyor mu?
+109	Dinle! Biz suçluyu arıyoruz!\nÇöp toplayacak vaktimiz yok!
+110	Ah, evet ama...
+111	<CLT=cltMIND>Belki sadece önsezim ama\nbeni rahatsız ediyor.
+112	<CLT=cltMIND>Bu bina okul binası. Demek ki o\npencere bir yere açılıyor.
+113	<CLT=cltMIND>Pencerelerin çoğu kapatılmış ama\no normal görünüyor...
+114	<CLT=cltMIND>O pencere hangi odanın...?\nBu dikkat çekici bir nokta.
+115	Hey, Shuichi... Bu havuzun gerçekten\ndavayla bir ilgisi var mı?
+116	Bunun için epey gaza geldik ama burada hiç\nipucu yok gibi görünüyor...
+117	Eh, o simit hâlâ kafama takılıyor...
+118	Bize ne söylediğini bilmiyorum ama bu\ndavayla ilgili olduğunu hissediyorum.
+119	Ama bak...o simit davayla ilgiliyse\nsuçlu epey dikkatsizmiş...
+120	Davayla ilgiliyse neden ortadan\nkaldırmadılar?
+121	Öylece ortada bırakmak...\nsence de düpedüz dikkatsizlik değil mi?
+122	Hayır...kaldırmak isteseler bile\nkaldıramazlardı.
+123	Buralarda simidi almak için kullanılabilecek\nbir sırık falan yok.
+124	Su seviyesi o kadar düşük ki yaklaştırmayı\nbaşarsan bile simidi tutamazsın.
+125	O zaman neden atlayıp eliyle çıkarmamış\nki?
+126	Oh! Doğru ya! Suya giremezlerdi!
+127	<CLT=cltMIND>Suya giremezlerdi...\nEvet, sanırım öyle de düşünülebilir.
+128	Eh, burada sonsuza kadar kalamayız, değil mi?\nGidip diğer yerlere bakalım.
+129	Kaybedecek vakit yok!\nÖyle değil mi, yardımcı!?
+130	Evet, tabii.

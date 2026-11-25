@@ -1,0 +1,64 @@
+@ chap2_text_US
+## c02_705_053
+6|Ha? Benimle mi? Benim için sorun değil...\nama Gonta ne olacak?
+7|Shuichi istediği buysa...
+8|O zaman Gonta beyefendi gibi kenara çekilir!
+9|Tamam! O zaman Gonta'nın teklifini kabul edelim!
+## c02_705_054
+0|Günaaaydın, Shuichi!
+1|Nişişi... Sabah selamını asla\nkaçırmam.
+2|Selamlaşmak, kötü bir örgüt için bile her\nilişkinin önemli bir parçasıdır.
+7|Evet, tabii. Eh, plan değişikliği, Gonta.\nSonra görüşürüz!
+8|Ha...? Ama strateji toplantısı ne olacak?
+9|Oh, merak etme!
+10|Herkesin <CLT=cltSTRONG>motiflerini<CLT=cltNORMAL> birbirine göstermesi için\nçoktan bir plan düşündüm!
+11|Gerçekten mi!?
+12|Ama iş birliğine ihtiyacım olacak, Gonta,\no yüzden sana güveniyorum.
+13|T-Tamam! Gonta'ya bırak!
+14|<CLT=cltMIND>O ikisi ne planlıyor olabilir...?\nİçimde kötü bir his var...
+15|<CLT=cltMIND>Kokichi'yi aptalca bir şey yapmamaya ikna\netmek için biraz vakit harcadım.
+## c02_706_050
+0|Yaşama isteği yok, hı?
+1|İnsanlar hayata tutunur...\nGüzelliklerinin kaynağı da budur...
+5|<CLT=cltMIND>Bir süre Kiyo ile takılayım mı?
+6|Acaba Ryoma ne tür bir cehennem yaşadı...\nÇok merak ediyorum...
+## c02_706_051
+0|Rantaro ile gerçekten konuşmak istiyorsan\nhemen bir ruh çağırma seansı hazırlarım.
+1|İhtiyacımıza uygun birkaç tane var.\nHmm...acaba hangisi en iyisi olur...
+5|<CLT=cltMIND>Bir süre Kiyo ile takılayım mı?
+6|Ruh çağırma seanslarına ilgin var mı?
+7|Kehehe...\nO zaman sana hepsini anlatayım.
+8|<CLT=cltMIND>Kiyo bir süre bana ruh çağırma\nseanslarını anlattı...
+## c02_706_052
+0|Buraya geldiğimizden beri merakım sürekli\nkamçılanıyor...
+1|Sen de bana güzellik gösterdin...
+2|Acın ve kararlılığın...\nkalbime kazındı...
+6|<CLT=cltMIND>Bir süre Kiyo ile takılayım mı?
+7|Öyle bir noktaya geldi ki o kadar çok notum\nvar ki onları tek başıma düzenleyemiyorum...
+8|Bana yardım eder misin?
+9|<CLT=cltMIND>Kiyo ile bir süre araştırma notlarını\ndüzenledik.
+## c02_706_053
+0|Kirumi'nin laboratuvarına girmekten\nkendimi alamıyorum...
+1|O oda öylesine görkemli ki...\nAblama göstermek isterdim...
+5|<CLT=cltMIND>Bir süre Kiyo ile takılayım mı?
+6|Senin de Viktorya dönemine ilgin var,\ndeğil mi Shuichi?
+7|Sonuçta dedektiflerin ve hayalet hırsızların\ndönemi...gerçi sadece kurguda.
+8|Ah ama bir de o ünlü seri katil vardı.\nBelki ona daha çok ilgin vardır?
+## c02_706_054
+0|Bu kadar aşırıya götürülmüş inanç...\ndünyanın her yerinde trajedilere yol açtı.
+1|Umarım başımıza böyle bir trajedi gelmez.
+5|<CLT=cltMIND>Bir süre Kiyo ile takılayım mı?
+6|Ah, elbette... Trajedi tarihini birlikte\ntartışalım...
+## c02_707_050
+0|...Shuichi, boş vaktin varsa benimle\ngeçirmek ister misin?
+1|Sana sormak istediğim bir şey var.
+5|<CLT=cltMIND>Bir süre Keebo ile takılayım mı?
+6|Teşekkürler!
+7|Aslında ergen olmanın nasıl bir şey olduğunu\nanlatabileceğini umuyordum.
+8|İnsan ergenliği deneyimini daha iyi anlayabilmek\niçin pek çok örneğe ihtiyacım var.
+9|<CLT=cltMIND>Keebo ile biraz "ergen vakti" geçirdim...
+## c02_707_051
+0|Bu okulda kapatılmış bir alan\nvar.
+1|Görünüşe göre başka gizli odalar da\nvar.
+5|<CLT=cltMIND>Bir süre Keebo ile takılayım mı?
+6|Pekala, o zaman okulu birlikte\nkeşfedelim.

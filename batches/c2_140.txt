@@ -1,0 +1,52 @@
+@ chap2_text_US
+## c02_999_007
+0|Soruşturmaktan sıkıldınız mı bile? Oh, bir\nsüredir sıkılıyor muydunuz?
+1|Eh, böyle işte. Soruşturmalar o kadar da\neğlenceli değildir, bilirsiniz.
+2|Ama ana etkinliğe geçmeden önce gerekli\nbir adım...
+3|İnternette o mükemmel porno videoyu\naramak gibi!
+4|Hatta bazıları aramanın en iyi kısım olduğunu\ndüşünür. Tuhaf, değil mi? Neyse...
+5|Sınıf Duruşması birazdan başlıyor! Lütfen avludaki\n<CLT=cltSTRONG>Yargı Tapınağı<CLT=cltNORMAL>'nda toplanın!
+6|Puhuhuhuhu, sonra görüşürüz!
+7|Görünüşe göre vakit geldi, kanka.
+10|Hey, şimdi neden bu kadar endişeli görünüyorsun!?
+11|Merak etme! Yapabilirsin.\nSana inanıyorum.
+12|<CLT=cltMIND>Bana inanıyor mu...?
+13|Neden? Neden bana güveniyorsun, Kaito?\nSuçlu olma ihtimalim var—
+20|Shuichi, daha gençiz... İlk içkimi içmeden ya da\nuzaya gitmeden ölemem!
+21|Şimdi kendini toparlamayacaksan ne zaman!?\nElindeki tek şey şimdi!
+23|Evet, Kaito. Biliyorum.
+24|Evet, görmek istediğim ifade buydu.\nHeh, işte benim yardımcım.
+25|<CLT=cltMIND>Haklı...\nSadece yapmam lazım.
+26|<CLT=cltMIND>Kendime inanmalıyım.\nBunu yapabileceğime *inanmalıyım*.
+28|<CLT=cltMIND>Birlikte hayatta kalacağız.
+29|<CLT=cltMIND>Belki tam olarak anlamıyorum,\nbelki bir sebebim yok—
+32|<CLT=cltMIND>Hayır! Yaşamak istiyorum!
+33|<CLT=cltMIND>Uzun bir hayat yaşamak istiyorum!\nÖlmek istemiyorum!
+34|<CLT=cltMIND>Böyle bir yerde ölemem!\nAsla!
+## c02_999_250
+0|Hey, ne yapıyorsun?\nDiğer herkes yemekhanede.
+1|Gitmemiz lazım.
+2|<CLT=cltMIND>Burada gizemli bir nesne olduğunu\nhatırlamıyorum. Başka yere bakayım.
+3|<CLT=cltMIND>Şimdilik spor salonuna gideceğim.
+4|<CLT=cltMIND>Kaito muhtemelen yemekhanede.\nAcele edip onunla orada buluşmalıyım.
+5|<CLT=cltMIND>Kaito avluda beklediğini söyledi...\nAma tam olarak nerede?
+6|<CLT=cltMIND>Önce biraz kahvaltı yapmalıyım...\nYemekhaneye gitmeliyim.
+7|<CLT=cltMIND>Büyü gösterisi spor salonunda olacaktı,\ndeğil mi? Gidip izlemeliyim.
+8|Ne oldu?\nBunun davayla ilgisi yok, değil mi?
+9|Sınıf Duruşması'nın ne zaman başlayacağını\nbilmiyoruz. Öylece yürüyüşe çıkamayız.
+10|Ah, doğru.
+11|<CLT=cltMIND>Avludaki <CLT=cltSTRONG>Yargı Tapınağı<CLT=cltMIND>'na\ngitmeliyim...
+12|Merak etme! Yapabilirsin.\nSana inanıyorum!
+13|Şimdi <CLT=cltSTRONG>Yargı Tapınağı<CLT=cltNORMAL>'na gidelim.
+## c02_999_354
+0|<CLT=cltMIND>Varmıştık.
+1|<CLT=cltMIND>Sonsuz gibi görünen o korkunç tünelden\ngeçtikten sonra sonunda ulaştık...
+6|G-Gerçekten mi!? Ciddi misin!?\nBu kapının öbür tarafı dış dünya mı?
+10|<CLT=cltMIND>Başardık. Gerçekten başardık.\nSonunda çıkabiliriz!
+11|<CLT=cltMIND>Biz <CLT=cltSTRONG>Ultimate<CLT=cltMIND>'ler birlikte çalıştık ve\nburaya kadar geldik!
+12|Sonunda... Sonunda, Kaede, dileğini\ngerçekleştirebildim.
+13|<CLT=cltMIND>Buradan çıkıp herkesle\narkadaş olacağım.
+14|<CLT=cltMIND>Bazılarımız için çok geç...\nAma diğer herkes için değil...
+15|Hm, görünüşe göre Shuichi kendi kafasında\nkendini gaza getiriyor...
+16|Pekala o zaman, kapıyı açayım!
+21|Bu...da...ne?

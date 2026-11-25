@@ -1,0 +1,53 @@
+@ chap2_text_US
+## c02_227_000
+106|...ama yardımcım şu an coşmuş durumda,\no yüzden bunu ona bırakacağım.
+107|Hm? Ah, tamam.
+108|Kendin bilmediğin için her şeyi\nShuichi'ye yıkıyorsun.
+109|Ee, Shuichi? Suçlunun kim olduğunu\nbiliyor musun bile?
+110|<CLT=cltMIND>Evet...Suçlunun kim olduğuna dair\niyi bir fikrim var...
+112|Hey, Shuichi.\nYine mi tereddüt ediyorsun?
+114|Hadi dostum. Buna gerek yok.\nDediğim gibi, sen benim yardımcımsın.
+115|Yardımcımın yaptığı her hatanın\nsorumluluğunu ben alırım.
+116|O yüzden inandığım o yeteneklerini kullan...\nve gerçeği boğazlarına tık!
+117|Sen...dedektiflik yeteneklerime inanıyor musun?
+118|Aynen öyle! Hepsini sana bırakıyorum,\nShuichi!
+120|<CLT=cltMIND>Evet...dedektifliğime inanmam\nlazım...
+121|<CLT=cltMIND>Bütün bu düzeneğin spor salonunda çok\nönceden hazırlanmış olması gerekirdi...
+122|<CLT=cltMIND>Bunu bilmek şüpheliler listesini\ndaraltıyor.
+123|<CLT=cltMIND>Kaito değildi...ama birinin spor salonuna\ngittiğini söylediğini hatırlıyorum.
+124|Ne oldu?\nOnlara inandığın mantığı göster sadece!
+126|Kokichi...sen yaptın, değil mi?
+127|Hayır! Kirumi ile Miu'nun ifadeleri sayesinde\nmazeretim epey sağlam.
+128|Ama bana sorarsan bence spor salonuna\ngiden kişi şüpheli.
+130|<CLT=cltMIND>...Hayır, Maki'ye güvenmeye\nkarar verdim.
+131|<CLT=cltMIND>Birinin spor salonuna gittiğine dair\nifade verdiğini biliyorum...
+133|Ee, suçlu kim!?\nHadi, Shuichi!?
+135|...Sessizliğin çok şey söylüyor. Sanırım sen\nde cevabı bilmiyorsun, Shuichi.
+136|Merak etme, Shuichi!\nSorumluluğu ben alırım! Söyle onlara!
+138|Ah-ah! Bir sorun mu var?
+139|Herkesin mazeretlerini hatırla. Sence o kişi\ngerçekten spor salonunda düzeneği kurdu mu?
+141|Suçlu kim?
+142|Doğrulamam gereken bir şey daha var...\nama baş şüpheli <CLT=cltSTRONG>Kirumi<CLT=cltNORMAL>.
+143|Ben mi...?
+144|N-Ne!? K-Kirumi mi!?
+145|Ohhhh... Demek suçlu Kirumi.
+146|Bu henüz kesin değil.\nÖnce onun ifadesini dinleyelim.
+147|Bu doğru mu, Kirumi?
+148|Benden şüphelenebileceğinize inanamıyorum...
+149|Öyleyse bunu inkâr etmek zorundayım.\nYanlış seçimi yapmanıza izin vermeyeceğim.
+150|...Yanlış seçim mi?
+151|Ben olduğuma gerçekten inanıyorsanız o kararın\narkasında durmaya hazır mısınız?
+152|Suçlamalarınızı bütün gücümle çürüteceğim...\nherkesin iyiliği için.
+## c02_228_000
+0|Evet, gece için mazeretim yok ama diğerlerinin\nde mazereti yok.
+1|Bu mantık benden şüphelenmeyi haklı çıkarmak\niçin fazla yüzeysel.
+3|İ-İşte bu! Kanıt bu!\nGöster ona, Shuichi!
+4|Bu delil tam olarak neyi kanıtlıyor?
+5|Bundan daha iyisini yapabilirsin, değil mi?
+7|Böyle bir şeyi yapacak beceriye sahip\nolduğumu düşünmeniz beni onurlandırır.
+8|Ama düzeneklerin kendisi baştan yanlışsa\nbecerimin hiçbir önemi yok.
+10|Tam olarak ne demek istiyorsun?
+11|Becerim bu tartışmada herhangi bir şeyin delili\nolamayacak kadar yoruma açık.
+13|Ryoma'nın cesediyle simide binmemin mümkün\nolduğunu varsayalım...ne olmuş yani?
+14|Makul biçimde uygulanmış temelsiz bir teori\nyine de temelsizdir.
+16|<CLT=cltMIND>Kirumi'yi kendini ele vermeye zorlamak için\nmantığımın sağlam olması lazım.

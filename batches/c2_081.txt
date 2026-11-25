@@ -1,0 +1,51 @@
+@ chap2_text_US
+## c02_203_000
+4|Himiko, neden bu kadar şaşırmış görünüyorsun?
+5|Bekle, Shuichi! Neden kurtarıcı şövalye\nrolüyle Himiko'nun kalbini çalmaya çalışıyorsun!?
+6|Bilgin olsun, Himiko beni çoktan biricik\nruh eşi olarak seçti!
+7|<CLT=cltMIND>Bu...kesinlikle benim niyetim\ndeğildi...
+8|Ama o numara gerçekten "büyü"yse suçlu\nolduğuna inanmaya daha da meyilliyim.
+9|Gizemli mucizeler yaratabiliyorsan Ryoma ile\nkolayca yer değiştiremez miydin?
+10|N-Ne...!?
+11|H-Hayır, durun... Ryoma piranalar tarafından\nöldürülmüş olamaz...
+12|Çünkü gösterimde kullandığım piranalar özeldi.\n<CLT=cltSTRONG>Sadece ölü et yerler<CLT=cltNORMAL>.
+13|Sadece...ölü et mi?
+14|...Bu yeni bir bilgi.
+15|Ne—!? Gerçeği söylesin diye Himiko'ya iyi\ndavranıyormuş gibi mi yapıyorsun!?
+16|Ah, hayır, öyle değil...
+17|<CLT=cltMIND>Ama...Himiko'nun bilgisi işe yaradı.\nRyoma piranalar tarafından öldürülmedi.
+18|<CLT=cltMIND>Elimizde bunu kanıtlayan bir delil\ndaha var...
+19|Haaa? Piranalar olmadığına emin misin?\nRyoma'nın kemiğe dönüştüğünü gördük!
+20|Kesin piranaların ısırıklarından öldü,\ndeğil mi?
+21|Hayır, Ryoma'nın ölümüne piranalar\nsebep olmadı.
+22|Monokuma Dosyası'nda <CLT=cltSTRONG>ölüm sebebinin\nboğulma<CLT=cltNORMAL> olduğu yazıyor.
+23|Yani piranalar değilmiş.\nBoğulmuş.
+24|Ooooh, anlıyorum. Monokuma Dosyası'na daha\nbakmadım, o yüzden bu benim için yeni.
+25|S-Seni yalancı küçük velet! Yalan söylemek\nseni yozlaşmış bir erkeğe dönüştürür!
+26|Hehe, ne olmuş yani?
+27|Ryoma boğuldu, Himiko onunla yer değiştirdi,\nsonra da piranalar onu yedi. Değil mi?
+28|Hayır, Himiko'nun tanktan kaçmak için\nsadece 60 saniyesi vardı...
+29|Gösterinin başında yer değiştirmiş olsalar bile\nbirini boğmak için bu süre yetersiz.
+30|Öyleyse ne zaman boğuldu?
+31|<CLT=cltMIND>Ryoma ne zaman boğuldu?\nBelli ki...
+32|Gösteri başlamadan önce
+33|Gösteri sırasında
+34|Gösteri sırasında değil miydi?
+35|Daha önce de belirttiğim gibi bu kadar kısa\nbir sürede boğulmuş olamaz.
+36|<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+37|Piranalar düştükten sonra
+38|Belki de piranalar tanka düştükten\nsonraydı.
+39|O noktada hâlâ hayatta olsaydı\nkaçmaya çalışırdı.
+40|<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+42|Söylemek istediğin bir şey var mı?\nVarsa söylesen iyi olur.
+43|<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+44|<CLT=cltMIND>Ryoma'nın ne zaman boğulduğuna gelince...
+45|Ryoma <CLT=cltSTRONG>gösteri başlamadan önce<CLT=cltNORMAL>\nçoktan boğulmuştu.
+46|Kehehe... Katılıyorum.
+47|Piranalar tarafından yenmeden önce sudan\nkaçmak için hiçbir girişimde bulunmadı.
+48|Daha doğrusu hiç kımıldamadı.
+49|Evet... O noktada çoktan ölüler\narasına katılmıştı.
+50|Yani suçlu onu tankta ortaya çıkarana kadar\ncesedi saklanmış olabilir mi?
+51|Saklanmış mı...nerede?
+52|Suçlunun cesedi tankın yakınında saklayıp\nsonra gösteri sırasında ortaya çıkarması gerekirdi.
+53|Söylemesi kolay!

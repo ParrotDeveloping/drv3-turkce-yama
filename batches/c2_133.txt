@@ -1,0 +1,65 @@
+@ chap2_text_US
+## c02_702_054
+7|Evet, belki şu anki hâlinle vakit\ngeçirirsem...
+8|Hayır...böyle düşünüyorsam daha çok\nyolum var...
+## c02_704_050
+0|Hayatta kalmaya çalışmamak bile...\nBu mümkün mü?
+1|Çünkü herkesin onu kaybedince üzülecek\nbiri var...
+5|<CLT=cltMIND>Bir süre Gonta ile takılayım mı?
+6|T-Tamam! Teşekkürler, Shuichi!
+7|Gonta böcek araştırmak istiyor!\nKütüphaneye birlikte gidelim!
+8|<CLT=cltMIND>Gonta ile bir süre kütüphanede\nkitap okuduk.
+## c02_704_051
+0|Kirumi'nin yemekleri süper lezzetli!
+1|Lezzetli yemek vücuda iyi gelir... Gonta,\nKirumi'ye teşekkür etmeyi unutmamalı.
+5|<CLT=cltMIND>Bir süre Gonta ile takılayım mı?
+6|Tamam! Spor yapıp sonra lezzetli akşam\nyemeği yiyelim!
+7|<CLT=cltMIND>Gonta ile birlikte güzel bir spor yaptık.
+## c02_704_052
+0|Oh! Shuichi!
+1|Herkese <CLT=cltSTRONG>motif<CLT=cltNORMAL> değiş tokuşu yaptırmanın bir\nyolunu düşünmek için Gonta'ya yardıma mı geldin?
+5|<CLT=cltMIND>Bir süre Gonta ile takılayım mı?
+6|Ha? Gonta ile vakit mi geçirmek istiyorsun?\nAma Kokichi Gonta'yı çoktan davet etti...
+7|Ah, sorun değil. Sonra takılalım.
+8|T-Tamam! O zaman ne yapalım, Shuichi?
+9|<CLT=cltMIND>Gonta ile biraz vakit geçirdim...
+## c02_704_053
+0|Oh Shuichi...
+1|Kokichi anlaşılması zor şeyler söylüyor...\nGonta'nın uykusunu getiriyor...
+5|<CLT=cltMIND>Bir süre Gonta ile takılayım mı?
+6|T-Tamam. Gonta, Shuichi ile vakit\ngeçirmeyi seviyor ama...
+7|Evet, evet, anladım! Burada istenmiyorum!\nUmurumda değil, ne istiyorsanız yapın!
+8|Ö-Özür dilerim, Kokichi.\nGonta seni sonra görmeye gelecek...
+9|Ne yapalım, Shuichi? Gonta mola vermek\nistiyor gibi...
+10|<CLT=cltMIND>Gonta ile hak edilmiş bir mola verdik.
+## c02_704_054
+0|Hey, Shuichi. Diğerleri yemekhanede\ntoplanıyor, değil mi?
+1|Gonta gitmeyi düşünüyor...ama Kokichi Gonta ile\nstrateji toplantısı yapmak istediğini söylüyor...
+5|<CLT=cltMIND>Bir süre Gonta ile takılayım mı?
+6|Oh ama...
+7|Hm? Gonta'yı mı istiyorsun, Shuichi? Benim için\nsorun değil, al götür onu, tamam mı?
+8|Ö-Öyle konuşma!\nG-Gonta eşya değil!
+9|Ee...ne yapalım?\nSen seç, Shuichi.
+10|<CLT=cltMIND>Gonta ile biraz vakit geçirdim...
+## c02_705_050
+0|Ah! Beni korkuttun! Bir an Kaito beni\nyakaladı sandım!
+4|<CLT=cltMIND>Bir süre Kokichi ile takılayım mı?
+5|Kaito hâlâ beni arıyor mu? Ondan birlikte\nkaçalım, tamam mı Shuichi?
+6|<CLT=cltMIND>Nedense sonunda Kaito'dan birlikte\nkaçtık...
+## c02_705_051
+0|Herkes tamamen yanlış anlıyor!
+1|Sadece siz fazla yumuşamayın diye kötü\nadamı oynuyorum, biliyor musun?
+5|<CLT=cltMIND>Bir süre Kokichi ile takılayım mı?
+6|Shuichi, sen beni anlıyorsun!\n*burun çeker* O kadar mutluyum ki ağlıyorum!
+7|<CLT=cltMIND>O gözyaşlarının sahte olduğunu bilsem de\nKokichi ile biraz vakit geçirdim.
+## c02_705_052
+0|Ha? Ne yapıyorsun, Shuichi?
+1|Oh, benim tarafıma mı geçiyorsun? Sen de\n<CLT=cltSTRONG>motif videolarını<CLT=cltNORMAL> görmek istiyorsun, değil mi?
+5|<CLT=cltMIND>Bir süre Kokichi ile takılayım mı?
+6|Benimle takılmak mı istiyorsun? Hm, ama şu an\nGonta ile strateji toplantısı yapıyorum.
+7|Oh, o zaman...Gonta strateji toplantısını\nsonra yapabilir.
+8|Oh, gerçekten mi? Tamam, o zaman Shuichi\nile takılırım!
+9|<CLT=cltMIND>Kokichi ile biraz vakit geçirdim...
+## c02_705_053
+0|Birbirimizin motif videolarını saklamamız\nsence de tuhaf değil mi?
+1|Bu yozlaşmaya dayanamıyorum!

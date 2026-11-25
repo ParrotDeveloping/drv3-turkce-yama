@@ -1,0 +1,52 @@
+@ chap2_text_US
+## c02_014_254
+59|Kumara hiç ilgim yok...ve böyle bir eşyadan\nda haberim yok.
+60|A-Anlıyorum...\nBir şey dediğim için pardon...
+61|<CLT=cltMIND>...Gitti işte.
+62|<CLT=cltMIND>Miu reddedilince şaşırtıcı derecede normal oluyor.\nHep böyle davranmalı...
+63|<CLT=cltMIND>Ama öte yandan...sanırım bu da\ntuhaf olurdu.
+68|<CLT=cltMIND>Kumarhane Alanı Kapısı Altıgen Anahtar Düzeneği (Kapalı)
+69|<CLT=cltMIND>Kumarhane Alanı Kapısı Altıgen Anahtar Düzeneği (Açık)
+## c02_015_010
+0|Hesaplarıma göre bugün herkes\ntoplanmamış.
+1|Bunu görmek için hesap yapmaya\ngerek yok ki...
+2|Tanrım, diğerleri ne yapıyor?
+3|Görünüşe göre Maki bütün vaktini <CLT=cltSTRONG>Ultimate\nAraştırma Laboratuvarı<CLT=cltNORMAL>'nda geçirmeyi seçmiş.
+4|İçeride ne yaptığından emin değilim ama\nçıkmaya hiç niyeti yok.
+5|<CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>'nın araştırma\nlaboratuvarında ne işi olabilir ki?
+6|Belki içeride gizlice baktığı bir sürü\nçocuk saklıyordur!
+7|Ne? Sokakta yavru büyüten başıboş bir\nköpek değil ki...
+8|Ayrıca Kokichi ile Gonta'yı birlikte gizli gizli\ndolaşırken gördüm.
+9|İki bakirin gizli gizli dolaşması bana\nhiç iyi bir haber gibi gelmiyor!
+10|Ah, buraya gelirken Ryoma'yı gördüm ama\nbugün gelmeyeceğini söyledi...
+11|Anlıyorum... Kafası yerine gelene kadar\no adama burada ihtiyacımız yok.
+12|Tch... <CLT=cltSTRONG>O ünlü<CLT=cltNORMAL> Ryoma Hoshi nasıl\nbu hâle geldi!?
+13|<CLT=cltMIND>Ne?\n<CLT=cltSTRONG>"O ünlü"<CLT=cltMIND> Ryoma Hoshi mi...?
+14|Neyse, devam edelim...
+15|O ikisi...ne yapıyor?\nO da ne?
+18|Hey, kanka! Dün gece iyi uyudun mu?
+19|Ah, evet! Gerçekten teşekkürler, Kaito.\nKaslarım hâlâ ağrıyor...
+20|Ben de öyle düşünmüştüm! Dinç görünüyorsun!
+21|Ha? Shuichi'ye kanka mı dedin?\nNe zaman kanka oldunuz?
+22|Önemli bir şey değil!\nSadece Shuichi'yi çalıştırıyorum, o kadar.
+23|Erkek aşkı mı!? İğrenç! Sanırım bakirler\nbirbirini mıknatıs gibi çekiyor!
+24|H-Hayır... Stand kullanıcısı falan\ndeğiller ki.
+25|Ee...Himiko ile Angie ne yapıyor?\nDua mı ediyorlar?
+26|Konuşma nasıl buraya geldi?
+27|Tanrım, kızların sohbetleri hep böyle.\nO kadar çok konu değiştiriyorlar ki yetişemiyorum.
+28|<CLT=cltMIND>Şu an bu pek önemli değil,\nKaito...
+29|Bu epey tuhaf...Angie her zamanki gibi ama\nHimiko da dua ediyor gibi.
+30|Neler oluyor olabilir?
+31|Kehehe... Gerçekten etkileyici bir\nbeyin yıkama.
+32|Görünüşe göre <CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltNORMAL> olmak\nAngie'nin tek yeteneği değil.
+33|Himiko epey tuhaf davranıyor. Ne yaptığını\ntam olarak anlamıyorum...
+34|Neler oluyor...?
+35|Angie...Himiko'ya bir şey mi yaptı?
+36|Hm? Sadece beyin yıkamasını çözdüm, o kadar.
+37|Ama...Himiko açıkça tuhaf davranıyor.
+38|Bu çok kaba. Tuhaf davranmıyorum.\nBu benim gerçek benliğim...
+39|Sanırım Atua'nın sözleri robotlara ulaşamıyor...
+40|Ne—! Yine robotfobik davranıyorsun!
+41|Sorun yok! Atua insana benzeyen robotlara\nşefkat duyar!
+43|Himiko açıkça tuhaf davranıyor.\nAngie ona ne yaptı?
+44|Hiçbirimiz <CLT=cltSTRONG>motif videolarımızı<CLT=cltNORMAL> başkasıyla\ndeğiş tokuş etmedik, doğru mu?

@@ -1,0 +1,47 @@
+@ chap2_text_US
+## c02_102_149
+33|Shuichi, sen kendine geldikten sonra Gonta,\nHimiko ile Angie'yi getirdi...
+34|Bu akşam 9'a yaklaşık beş dakika vardı.
+35|Hemen ardından Gonta'nın laboratuvarından\nçıkıp yurtlara yöneldim.
+36|Bir saat içinde—gece başlarken—dönerim\ndiye düşündüm ama bir şey oldu...
+37|Bir şey mi oldu?
+38|Giriş salonuna vardığım anda Kirumi\nbeni fark etti.
+39|Bu, Gonta'nın laboratuvarından çıktıktan hemen\nsonraydı...yani tam akşam 9 civarı.
+40|Bir iş çevirip çevirmediğimi sorarak bana\nsağdan soldan sorular yağdırmaya başladı.
+41|Sonra davranışlarımı eleştirmeye, görgümle ve\nilişkilerimle ilgili bana nutuk atmaya başladı...
+42|İnanabiliyor musun? Yani kendini ne sanıyor—\nannem falan mı!?
+43|Daha önce Kirumi'den "annen olmasını"\nisteyen sen değil miydin?
+44|Durmadan konuştu...sonunda gece başlayınca,\nakşam 10'da beni bıraktı.
+45|...Koca bir saat mi?
+46|Eh, sadece ilk yarım saati nutuktu,\nöbür yarısında kovalamaca oynadık.
+47|Beni sıkmaya başlamıştı, o yüzden dönüp\ngitmeye kalktım ve sonra...
+48|Orada dur... Konuşmamız daha\nbitmedi.
+49|Seni dinlemek zorunda değilim! <CLT=cltSTRONG>Ultimate Yüce\nLider<CLT=cltNORMAL>'e nutuk atmaya layık değilsin!
+50|Hadi, Hizmetçi Hanım! Yakalayabilirsen yakala!
+51|Bu...bir istek mi?
+52|Ve sonra...sanırım Kirumi kovalamacayı\nsüper ciddiye almaya karar verdi...
+53|Elimden geleni yaptım ama sonunda akşam\n10'dan biraz önce beni yakaladı.
+54|Sonra yine nutuk atmaya başladı ve gece\nbaşlayınca beni bıraktı.
+55|Peki o seni kovalarken bile mazeretleriniz\ngeçerli mi?
+56|Birbirimize bir sürü kez rastladık,\no yüzden evet, geçerli olmalı.
+57|<CLT=cltMIND>O zaman akşam 9'dan geceye kadar\nhem Kokichi'nin hem Kirumi'nin mazereti var.
+58|Kirumi beni bıraktıktan sonra sonunda\nyurtlara gidip herkesin videolarını topladım.
+59|Ama Gonta'nın laboratuvarına döndüğümde\nsaat 11 olmuştu bile.
+60|<CLT=cltMIND>O zaman ondan on bire kadar\nmazereti yok!
+61|Ah evet... Kirumi bana nutuk atarken tuhaf\nbir şey gördüm.
+62|...Tuhaf bir şey mi?
+63|Yarı çıplak bir kızın iç çamaşırıyla avluda\ndolaştığını gördüm.
+64|Kim olduğunu seçemeyecek kadar karanlıktı\nama bir süre dolaştığını gördüm.
+65|Acaba kimdi...
+66|<CLT=cltMIND>İç çamaşırlı bir kız mı?\nBu ne diyor böyle?
+67|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kokichi'nin İfadesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+68|Bu arada...dün Gonta seni yakalamadı,\ndeğil mi Kaito?
+69|Neredeydin? Ve ne yapıyordun?
+70|Bütün zaman boyunca kaçıyordum. Tuvaletlerde,\nyatak odalarında, okulun her yerinde saklandım...
+73|Hm? Dün geceki mazeretimi yine mi\nduymak istiyorsun?
+74|Senin için Shuichi, istediğin kadar anlatırım!\nSonuçta en sevdiğim sensin!
+77|Shuichi, sen kendine geldikten sonra Gonta,\nHimiko ile Angie'yi getirdi...
+78|Bu akşam 9'a yaklaşık beş dakika vardı.
+79|Hemen ardından Gonta'nın laboratuvarından\nçıkıp yurtlara yöneldim.
+80|Bir saat içinde—gece başlarken—dönerim\ndiye düşündüm ama bir şey oldu...
+81|Giriş salonuna vardığım anda Kirumi\nbeni fark etti.

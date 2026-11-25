@@ -1,0 +1,49 @@
+@ chap2_text_US
+## c02_225_000
+4|<CLT=cltMIND>Hayır, kesinlikle vardı... Suçlu cesedi ip\nboyunca taşımak için onu kullandı...
+## c02_227_000
+0|<CLT=cltSTRONG>Simit<CLT=cltNORMAL>! Havuzda yüzerken bulduğumuz\nkauçuk simit!
+1|Simit mi?
+2|Havuzda bulduğumuz, bir tarafına ip\nbağlı simidi hatırlıyor musunuz?
+3|Belki ip aslında iki tarafa da\nbağlıydı.
+4|Suçlu simidi pencereleri bağlayan ipe\nasarak bir teleferik yaptı.
+5|Ve 3. kat penceresi daha yüksekte olduğu için\nyer çekimi simidi ileri itmiş olurdu.
+6|Simit ayrıca sağlam kauçuktan yapılmış.\nİki kişiyi taşıyabilirdi.
+7|Suçlu ipleri ve simidi kullanarak ilkel\nbir teleferik kurdu...
+8|ve onu kendisini ve Ryoma'nın cesedini\nlaboratuvardan spor salonuna taşımak için kullandı.
+9|Spor salonu penceresine gelince suçlu\ncesedi taşımak için simidin üstünde durdu.
+10|Ya o, ya da suçlu ayağını pencere\npervazına koydu.
+11|Böylesi daha dengeli olur ve cesetle\ndaha dikkatli uğraşmalarını sağlardı.
+12|Son olarak ipi pencere çerçevesinden\nçözüp olay yerinden ayrıldılar.
+13|Eh... Öyle deyince kesinlikle mümkün\ngibi görünüyor...
+14|Ama vay! Teleferik!
+15|Suçlunun ayağını pencere pervazına koyduğunu\nmu söylüyorsun? Bu <CLT=cltSTRONG>okul kurallarına aykırı<CLT=cltNORMAL> değil mi?
+16|Spor salonuna girmek sayılırdı,\ndeğil mi?
+17|Geçen sefer bize bu soru sorulduğunda\n<CLT=cltSTRONG>sorun olmadığına<CLT=cltNORMAL> karar vermiştik.
+18|Vücudunu pencereden içeri sokmak doğrudan\nelenmek ama pervaza basmak—
+19|Dur, geçen sefer size kim sordu?
+21|Suçlunun planının ayrıntılarını doğrulamak\niçin size gelmiş olması epey mümkün...
+23|...A-Ah lanet olsuuuun!
+24|Ağzından baklayı çıkardın.
+25|Baklayı mı!? Monosuke çenesini açıp\nkoca bir bakla mı yuttu!?
+26|K-Kesin şunu! Siz ikiniz böyle panik yapmaya\ndevam ederseniz bunu şakaya vuramam!
+27|Nyahahahahaha! Demek ağzından kaçırdığın\nşey aslında gerçek!
+29|B-Babacım?
+31|Ah-ah... Babam artık sana kızgın.
+33|Bana bakma. Hep kendini büyük patron\ngibi gösterirsen olacağı bu.
+34|DURUN... MONOSUKE'YE-ZORBALIK-ETMEYİN.
+36|BİRBİRİMİZİ-SUÇLAMAK-YOK-ARTIK.\nHERKES-HATA-YAPAR.
+37|HEPİMİZİN-ANLAŞMASINI-İSTİYORUM.
+39|Monodam haklı.
+40|Monosuke, Monodam'a teşekkür etsen iyi olur!\nDaha az kibir, daha çok şükür, anladın mı!?
+42|Off ya, duruşma tam eğlenceli olmaya başlamıştı.\nNeden o gaf ile mahvetmek zorundaydın?
+43|Ama sanırım artık Shuichi'nin mantığının\ntam isabet olduğunu biliyoruz.
+44|Yani suçlu cesedi taşımak için gerçekten\nteleferik mi kullandı!?
+45|Evet, cesetle birlikte pencereden pencereye\ngitmek için teleferiği kullandılar.
+46|Teleferik cinayeti...!\nBu ne çılgın bir bok böyle!
+47|Ama düzenek bu kadar karmaşıksa hepsini\ntoplamak zor olmaz mıydı?
+48|Her zaman değil.
+49|Tek yapılması gereken teleferiği kullandıktan\nsonra ipi pencereden çözmek.
+50|Sonra Ryoma'nın laboratuvarına dönünce\nipi o taraftan geri alabilirdi.
+51|İpi havuz penceresinden spor salonuna\natmak da son adım olurdu.
+52|Anlıyorum, anlıyorum! İp pencereden atıldı.\nBu yüzden onu orada bulduk.

@@ -1,0 +1,56 @@
+@ chap2_text_US
+## c02_215_000
+95|...Yani hâlâ benden şüpheleniyor musun?
+96|Bunun hâlâ bir ihtimal olabileceğini söylüyorum.
+97|Suçlu olma ihtimalin küçük de olsa hâlâ varsa\nsana tamamen güvenemem.
+98|Çünkü herkesin hayatı söz konusu.
+99|O-O zaman...hangisi?\nYalan mı? Yoksa y-yalan değil mi?
+100|Yalan söylemiyor!\nSadece ona bakarak anlayamıyor musunuz!?
+101|Bu kadar kolay olsaydı çoktan bitirmiştik.\nHayır, burası yalanlar ve ihanetler dünyası.
+102|Himiko, böyle iç karartıcı şeyler söylediğini\nduymak kalbimi kırıyor!
+103|Maki'nin ifadesini şüpheli buluyorum.\nOnun için fazla...işine gelir.
+104|Buna...karar vermek zor.
+105|Maki yalan söylüyor! Daha önce de dediğim gibi,\nbenim gibi bir yalancı kendi türünü tanır!
+106|Yalan söylemiyorum. Ryoma ile gerçekten\ngece buluştum.
+107|...Doğruyu söylüyorum.
+109|<CLT=cltMIND>Yalan mı...yoksa gerçek mi?
+110|<CLT=cltMIND>Dönüm noktası bu...\nBu davanın kaderini değiştirecek.
+111|<CLT=cltMIND>Ve ben... Kaito'ya inanacağımı söyledim!\nBu da Maki'ye inanmak demek!
+112|<CLT=cltMIND>Ve *bu* da...bunu yapmam gerektiği\nanlamına geliyor. Herkesi aynı noktada buluşturmalıyım...
+113|<CLT=cltMIND>Bu tartışmanın gidişatını değiştirmeliyim!\nTıpkı Kaede'nin yaptığı gibi!
+## c02_216_000
+0|Ryoma'yı gördüğünü açıklamak için neden\nşimdiye kadar bekledin?
+1|O bilgiyi kendine saklamak için bir sebep\nyoktu. Tabii yalan söylemiyorsan...
+3|Anlamıyorum. Yani Maki o gece kimseyle\nbuluşmadı mı?
+4|Kimseyle buluşmadıysa Ryoma ile de\nkesinlikle buluşmamıştır.
+6|<CLT=cltMIND>Şimdi ikisinin buluştuğunu söyleyemem,\nbu fazla bariz bir yalan olur...
+7|<CLT=cltMIND>O zaman Maki'nin yalnız olduğunun\nyalan olduğuna onları ikna edebilirsem...
+8|<CLT=cltMIND>Şimdi ikisinin buluştuğunu söyleyemem,\nbu fazla bariz bir yalan olur...
+9|<CLT=cltMIND>O zaman Maki'nin biriyle buluştuğuna\nonları ikna edebilirsem...
+10|<CLT=cltMIND>Şimdi ikisinin buluştuğunu söyleyemem,\nbu fazla bariz bir yalan olur...
+11|<CLT=cltMIND>O zaman Maki'nin biriyle buluştuğuna\nonları ikna edebilirsem...
+## c02_216_001
+0|<CLT=size2>Ryoma ile<CLT=size1> <CLT=size2>buluştum
+1|Ryoma ile önceki gece buluştum.
+2|<CLT=size2>önceki<CLT=size1> gece.
+3|Ne\n<CLT=size2>büyük<CLT=size1> bir <CLT=size2>saçmalık!
+4|Ne büyük bir saçmalık!
+5|Maki gece <CLT=size2>sadece Ryoma'yı<CLT=size1> mı <CLT=size2>gördü?
+6|Maki gece sadece Ryoma'yı mı gördü?
+7|Evet.\nBaşka\nkimseyle\nbuluşmadım.
+8|Evet. Başka kimseyle buluşmadım.
+9|O ikisini <CLT=cltAGREE><CLT=size2>birlikte
+10|O ikisini birlikte gören oldu mu!!?
+11|<CLT=cltAGREE>gören<CLT=size1><CLT=cltNORMAL> oldu mu!?
+12|Öyle biri olsaydı\n<CLT=size2>çoktan ortaya çıkardı.
+13|Öyle biri olsaydı çoktan ortaya çıkardı.
+14|Bu buluşmanın <CLT=size2>gerçekleştiğini\n<CLT=size1>kimse <CLT=cltWEAK><CLT=size2>kanıtlayamıyorsa<CLT=size1>...
+15|Bu buluşmanın gerçekleştiğini kimse kanıtlayamıyorsa...
+16|korkarım\nifadene <CLT=size2>inanmak<CLT=size1> için\n<CLT=size2>hiçbir sebep<CLT=size1>\n<CLT=size2>yok.
+17|korkarım ifadene inanmak için hiçbir sebep yok.
+18|Beklendiği gibi,
+19|Beklendiği gibi, Maki bize yalan söylüyor.
+20|<CLT=size2>Maki
+21|bize <CLT=size2>yalan<CLT=size1> söylüyor.
+22|<CLT=size2>İddianı kanıtlayamıyorsan...
+23|İddianı kanıtlayamıyorsan...

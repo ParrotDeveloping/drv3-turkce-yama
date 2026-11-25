@@ -1,0 +1,54 @@
+@ chap2_text_US
+## c02_022_008
+4|Kaito ile Keebo, Himiko'nun araştırma\nlaboratuvarından ekipman taşımaya yardım etti...
+5|Sahneyi ben tasarladım, perdeleri de Kirumi\ndikti.
+6|Herkes çok iyi...\nBütün övgüyü Atua hak ediyor.
+7|Ah...üzerinde çalışan herkesin övgüyü\nhak etmesi gerekmez mi?
+8|Ah, şey, senden yardım istemedim çünkü ne\nişe yarayacağını bilmiyordum.
+9|...Bunu gerçekten söylemen gerekiyor muydu?
+10|Neyse, sen yerine geç. Hazırlıkları bitirince\nhemen başlayacağız.
+11|Hazırlıkları bitirince mi? Hâlâ hazır değil misiniz?
+12|Gösterinin yıldızının sinirlerini\nyatıştırması lazım...
+13|<CLT=cltMIND>Gösterinin yıldızının zihinsel\nhazırlığa mı ihtiyacı var?
+14|*titrer*...*sarsılır*...*ürperir*
+15|<CLT=cltMIND>Yaprak gibi titriyor!
+16|Gonta dün için çok üzgün...\nGonta neden öyle davrandığını bilmiyor...
+17|Gonta çok kabaydı... Gonta'nın kendine gerçek\nbeyefendi demesi için daha çok yol var.
+18|S-Senin suçun değil... Seni kandıran\nKokichi'nin suçu.
+19|Yine de bence yaptığın şey hakkında ciddi\nciddi düşünmen lazım!
+20|Saf kafan seni eninde sonunda hayatta\nyanlış yola sokacak!
+21|...Gonta bir dahaki sefere daha dikkatli olacak.
+22|Ee...Kokichi'ye ne oldu?
+23|Böceklerle Tanışma Buluşması'ndan sonra\nKokichi'nin ağzı köpürdü, sonra bayıldı...
+24|Ah, anlıyorum...\nO zaman gösteriye yetişemeyebilir.
+25|Gonta dün için çok üzgün!\nGonta olanlar hakkında düşünecek!
+26|Yukarıdaki tanktaki o balıklar...\nOnlar gerçekten...?
+27|Bu kadar tehlikeli bir şey kullanmak doğru mu?
+28|Epey profesyonel görünümlü bir sahne.
+29|Ancak Himiko'nun ne kadar huzursuz olduğu\ndüşünülürse...
+30|<CLT=cltSTRONG>Ultimate Sihirbaz<CLT=cltNORMAL>'ın becerisine kendi gözlerimizle\ntanık olamayabiliriz.
+31|Ne talihsizlik.
+32|Hazırlıkları zamanında tamamlamayı başardık.\nUmarım herkes gösterinin tadını çıkarır.
+33|Sen de mi yardım ettin, Kirumi?\nDikişleri sen mi yaptın?
+34|Sana verilen her işi tamamlıyorsun, değil mi?\n<CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL> olman boşuna değil...
+35|Ama şu an sen de herkes gibi bir seyircisin.\nO yüzden gösterinin tadını çıkaralım.
+36|Evet...Ben de tam olarak bunu yapacağım.
+37|Bugün seyircilerden biri olacağım ve bu\ngösterinin tadını çıkaracağım.
+38|Himiko, biraz...gergin misin?
+39|S-S-S-Sadece birazcık!
+40|<CLT=cltMIND>Kesinlikle birazcık gibi\ngörünmüyor.
+41|Ç-Çünkü...bugün yapacağım büyü Ekstrem Su\nBüyüsü, Su Altından Kaçış Gösterisi.
+42|D-Daha önce hiç başarıyla yapamadım...\nEpey zor, o yüzden biraz gerginim.
+43|Daha önce hiç mi yapamadın?
+44|V-Ve...bugün...heyecanı artırmak\niçin...
+45|Bir süre sınırı var...
+46|Süre sınırı içinde tanktan kaçamazsam\niçine piranalar atılacak...
+47|Püre olacağım.
+48|Püre mi!?
+49|<CLT=cltMIND>Bu biraz tehlikeli görünüyor...
+50|<CLT=cltMIND>Su bulanık, o yüzden pek net göremiyorum...\nama etrafta yüzen balıklar görüyorum.
+51|<CLT=cltMIND>Bunların hepsi pirana, ha?\nNormal piranalara benzemiyorlar...
+52|O piranalar...benim araştırma laboratuvarımdaydı.\nAngie gösteride kullanmamız gerektiğini söyledi.
+53|D-Dur, piranalar fazlasıyla tehlikeli...
+54|Ah, Tenko...
+55|Himiko, lütfen bir daha düşün! Bunlar pirana!\nLazanyaya hiç benzemiyorlar!

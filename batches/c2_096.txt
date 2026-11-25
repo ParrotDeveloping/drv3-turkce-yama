@@ -1,0 +1,52 @@
+@ chap2_text_US
+## c02_213_000
+202|...Ne dedin?
+210|A-Ama...onu çok iyi anlıyorum!\nÇünkü ben de Himiko'ya inanmak istiyorum!
+211|<CLT=cltMIND>İnanmak istemek, ha?\nEvet...Sanırım bunu anlıyorum.
+212|Birine inanmak istemek güzel bir\ndavranış, evet...
+213|Ancak Sınıf Duruşması'nda yeri olmayan\nbir duygu.
+214|Sonuçta o bir aptal...
+215|Aptal olmak sorun değil! İnsanlara\ninandığın sürece!
+216|Millet! Bana aptal demeyin dedim!\nGerçekten duygularımı incitiyor!
+218|<CLT=cltMIND>Heh...doğru.\nSınıf Duruşması bununla ilgili değil.
+219|<CLT=cltMIND>Mantıklı düşünmen gerekiyor,\nduygularını işin içine katamazsın...
+220|<CLT=cltMIND>...Bu saçmalık,\ntam bir saçmalık.
+221|<CLT=cltMIND>Ama öte yandan...\nbu saçmalık daha önce beni kurtarmıştı, değil mi?
+222|Neden? Neden bana güveniyorsun, Kaito?\nSuçlu olma ihtimalim var—
+223|Sana inanmak istediğim için inanıyorum.\nBundan başka bir sebebe ihtiyacım var mı?
+225|Sen de Kaede'ye bu yüzden inanmadın mı?
+226|Yani tabii, sonunda ihanete\nuğrayabilirim ama...
+227|Bunu dert edersem inanmak istediğim\ninsanlara inanamam!
+228|<CLT=cltMIND>Mantığıma güvenebiliyorsam...belki\nKaito'nun hislerine de güvenmeliyim.
+229|<CLT=cltMIND>Evet...\nSonunda her şey yoluna girer. O yüzden...
+230|...Ben de Maki'ye inanacağım.
+232|İşte bizim Kaito, değil mi?\nBizi kalbimizle düşündürüyor...
+233|Off yaa, sen de mi? Ultimate Dedektif birine\nkanıtsız nasıl inanır?
+234|Ama Maki'yi ya da Kaito'yu bu suça bağlayan\nbir kanıt da yok.
+235|Suçu kanıtlanana kadar herkes masumdur.\nŞimdilik masumlar.
+236|Aynen öyle, Shuichi!\nİyi bir yardımcı seçtiğimi biliyordum!
+237|Şey, bu arada, Ultimate Dedektif olabilirim\nama...daha eğitimdeyim.
+238|Bunu...sana söylemiştim, değil mi? Sadece bir\nçırağım, gerçek bir dedektif değilim.
+240|İkisinden de şüphelenmeden gerçeğe nasıl\nyaklaşmayı planlıyorsun?
+241|Aksini gösteren bir delilin yoksa bu ikisi\nşüpheli olarak kal—
+242|Yani tek yapmam gereken durumu tersine\nçevirmek, değil mi?
+244|Beni savundu diye o aptala bir borcum\nvar falan değil...
+245|Ama o umutsuz aptal beni biraz\ncesaretlendirmiş olabilir.
+246|Cidden! Yeter artık!\nBana aptal demeyi kesin!
+247|Ne demeye çalışıyorsun, Maki?
+248|Bir şey söylemek istemiyordum ama sonsuza\nkadar sessiz kalamam.
+249|...O yüzden söyleyeceğim.
+250|Oh? Neyi söyleyeceksin?
+251|Dün gece Ryoma ile buluştum.
+253|Ryoma ile...gece mi!?
+254|Yani Ryoma gece hâlâ hayatta mıydı!?
+255|Suçun akşam 8 ile 10 arasında işlendiğini\nsanıyordum?
+256|Ama bu yanlış, çünkü gece Ryoma ile\nbuluştum.
+257|Bu doğruysa sadece Kaito ile Maki'den\nşüphelenmek için bir dayanağımız kalmaz...
+258|D-Doğru. Herkes onlardan şüphelendi.\nÇünkü o saatler için mazeretleri yoktu.
+259|Yani ben ve Maki artık şüpheli\ndeğiliz!
+260|Dalga geçmeyi kes! O saçmalığı yutacak\nkadar aptal olduğumu mu sanıyorsun!?
+261|Evet, bu fazla işine gelir gibi görünüyor.
+262|Ama Maki bunu söylemek için neden şimdiye\nkadar bekledi?
+263|Ah-hahahaha! Gayet belli!\nMaki o kadar çaresiz ki <CLT=cltSTRONG>yalan<CLT=cltNORMAL> söylemek zorunda!
+264|<CLT=cltMIND>Bu...bir yalan mıydı?

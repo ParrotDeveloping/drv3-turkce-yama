@@ -1,0 +1,51 @@
+@ chap2_text_US
+## c02_100_009
+116|Himiko, en azından Su Altından Kaçış\nGösterisi'nin püf noktasını söyleyebilir misin?
+117|Numaranın nasıl işlediğini bilirsek suçlunun\nnasıl öldürdüğünü çözmeye çalışabiliriz—
+118|Bu mümkün değil...
+119|Mümkün değil mi? Neden?
+120|Su Altından Kaçış'ın bir püf noktası yok.\nÇünkü o benim büyümdü...
+121|Hah-hahaha! O eşek dudaklı bücür bunu daha\nne kadar söylemeye devam edecek!?
+122|Himiko...suçluyu bulabilmemiz için düpedüz\nsenin yardımına ihtiyacımız var...
+123|Nyeeeh...ne dersen de cevabım\ndeğişmeyecek.
+124|Büyümün püf noktası yok.\nÇünkü...o büyü.
+125|O saçmalığı daha ne kadar sürdüreceksin?\nDinle, suçluyu yakalayamazsak biz—
+126|Y-Yeter! Himiko büyü diyorsa büyüdür!
+127|Fuaaaahhh! Himiko'ya zorbalık eden her yozlaşmış\nerkeği <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'mla yok edeceğim!
+128|B-Ben ona zorbalık etmiyorum.\nBu kadar inatçı olması onun suçu...
+129|Eh, söylemek istemiyorsan sorun değil.\nKendim öğrenirim.
+130|Aslında bu epey eğlenceli geliyor!
+131|Bu gizemi çözmek için önce Himiko'nun Su Altından\nKaçış Gösterisi'nin püf noktasını öğrenmeliyiz...
+132|Bu konuda başka seçeneğimiz yok.
+133|<CLT=cltMIND>Haklı...başka seçeneğimiz yok.
+134|<CLT=cltMIND>Ryoma'yı öldüren suçluyu bulmaktan\nbaşka çaremiz yok.
+135|<CLT=cltMIND>Bu soruşturma hepimizin hayatını kurtarmak için...\nçünkü Sınıf Duruşması'nda hayatımızı ortaya koyuyoruz!
+## c02_101_009
+0|Hey, Shuichi, bir saniyen var mı?
+1|Hm? Ne oldu?
+2|Soruşturmaya başlamadan önce sana\nsöylemem gereken bir şey var...
+3|Bundan sonra benim yardımcımsın!
+4|...Yardımcın mı?
+5|Ben daha çok bilim adamı tipiyim, o yüzden\nsoruşturmalara pek uygun değilim.
+6|<CLT=cltMIND>Ama...bu bir soruşturma için iyi\nbir özellik...
+7|Ayrıca Yıldızların Işığı Kaito Momota'ya yakışan\ntek sahne evrenin kendisi.
+8|O yüzden ayrıntıları sana bırakıyorum.\nBaşarıma giden yolu sen döşe!
+9|Ah ama bir "yardımcı" olarak ne yapacağımı\nbilmiyorum...
+10|Merak etme. Bütün zor kararları ben veririm,\nsen sadece dediğimi yapacaksın.
+11|<CLT=cltMIND>O...kararları tek başına vermeye\nbayılıyor, değil mi?
+12|Yani...
+13|Bütün sorumluluğu ben alırım. Benim yardımcım\nolduğuna göre endişelenecek bir şey yok.
+15|Pekala, başlayalım!\nÖnce Monokuma Dosyası'na bakmalıyız!
+16|E-Evet, doğru.
+17|<CLT=cltMIND>Kaito'nun beni böyle yardımcısı\nyapması... Yoksa...?
+19|Gerçeği ortaya çıkarırsam gelecek acıyı ve\nhüznü düşünmeden duramıyorum.
+21|<CLT=cltMIND>Bana yardım etmeye mi çalışıyor?
+22|Hey, ne oldu?\nHadi Monokuma Dosyası'na bakalım artık.
+23|Ah, doğru.
+24|<CLT=cltMIND>Kaito'nun isteği üzerine Monokuma\nDosyası'nı inceledim.
+25|<CLT=cltMIND>Kurban <CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltMIND>\nRyoma Hoshi...
+26|<CLT=cltMIND>Ceset spor salonunda bulundu.
+27|<CLT=cltMIND>Ölüm sebebi boğulma. Cesedi sadece kemikleri\nkalana kadar piranalar tarafından yenildi.
+28|<CLT=cltMIND>Şu an başka bir yaralanma tespit\nedilemiyor.
+29|Ne? Burada öncekinden daha az şey yazıyor.\nBunun hakkında içimde kötü bir his var...
+30|<CLT=cltSTRONG>Ölüm saati<CLT=cltNORMAL> burada yazmıyor...

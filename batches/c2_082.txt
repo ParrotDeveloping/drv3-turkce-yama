@@ -1,0 +1,55 @@
+@ chap2_text_US
+## c02_203_000
+54|Sahnede suçlunun cesedi saklayabileceği\nbir yer var mıydı?
+55|Oh, dur. Su Altından Kaçış numarasını Himiko\nyaptığına göre o bilmeli.
+56|Himiko...neden bize açıklamıyorsun\nki?
+57|Çünkü o bir büyü.
+59|Kes sesini.
+60|Kehehe... Himiko rolüne bağlı. Ama hayal\nsatanlar çoğu zaman yalancıdır.
+61|N-Neden herkes hâlâ Himiko'ya sataşıyor!?\nHepiniz sarhoş bir babanın saçmalıklarından betersiniz!
+62|Bırakalım içini döksün. Sonuçta evin\nreisi olmak zor iş.
+63|Vay be...cesedin nerede saklandığını bulmak\niçin numaranın nasıl işlediğini çözmeliyiz.
+64|Ama Himiko gösterisini nasıl yaptığını\nbize söylemek istemiyor.
+65|O zaman Himiko'nun numarasının ardındaki\nsırrı birlikte ortaya çıkaralım!
+66|Yani...gerçek büyü değil mi?
+67|Hayır, gerçek büyüydü.
+68|Büüüyüü... Büüüüüyüü... Büüüüüüüüyüü!
+69|Olamaaaz! Himiko'nun laneti!\nLanetleri gerçekten çok güçlü!!!
+70|Büyü sözleri genelde bundan biraz daha,\nşey...karmaşık olmaz mı?
+71|<CLT=cltMIND>...Neyse, önce Himiko'nun numarayı\nnasıl yaptığını belirlememiz lazım.
+72|<CLT=cltMIND>Bunu çözemezsek bu dava bir\nyere varmaz.
+## c02_204_000
+0|Bir düzenek kullanılmış olmalı. Yoksa\nkaçış gösterisi imkânsız olurdu.
+2|...Bu neyi kanıtlıyor?
+3|Sadece fikrimi ortaya attım. Bana katılmak\nzorunda değilsin.
+4|O kadar tehlikeli bir numaranın bir tür\nkaçış kapağı olacağını varsaydım sadece.
+6|İki Himiko... İkizli bir büyü numarası mı?\nDaha önce yapıldı mı ki...?
+7|Ah ama elbette ben cosplay'imle bunu\nyapamam, hatırladınız mı?
+9|<CLT=cltMIND>Doğru ya, Himiko'nun laboratuvarında\nbenzer bir su tankı vardı...
+10|<CLT=cltMIND>O tankta bir kaçış kapağı vardı.\nNumara böyle yapılmış olmalı!
+11|<CLT=cltMIND>Doğru ya, Himiko'nun laboratuvarında\nbenzer bir su tankı vardı...
+12|<CLT=cltMIND>Soruşturmamı doğru hatırlıyorsam\ntankın bir numarası vardı...
+13|<CLT=cltMIND>Doğru ya, Himiko'nun laboratuvarında\nbenzer bir su tankı vardı...
+14|<CLT=cltMIND>Soruşturmamı doğru hatırlıyorsam\ntankın bir numarası vardı...
+## c02_204_001
+0|<CLT=size4>Himiko<CLT=size3> su
+1|Himiko su tankından nasıl kaçtı...?
+2|<CLT=size4>tankından
+3|<CLT=size4>nasıl<CLT=size2>
+4|<CLT=size2>kaçtı<CLT=size3>...?
+5|Belki sadece <CLT=size2>tırmanıp çıktı\n<CLT=size1>ve <CLT=size2>kimse<CLT=size1> fark etmedi.
+6|Belki sadece tırmanıp çıktı ve kimse fark etmedi.
+7|Yok, <CLT=size2>kesinlikle<CLT=size1>\nyakalanırdı.
+8|Yok, kesinlikle yakalanırdı.
+9|Belki <CLT=cltWEAK><CLT=size2>sahneye<CLT=size1>
+10|Belki sahneye bir düzenek kurulmuştu.
+11|<CLT=cltNORMAL>bir <CLT=size2>düzenek kurulmuştu.
+12|<CLT=size2>Tankı örten\n<CLT=size1>perde<CLT=size2> kesinlikle\n<CLT=size1>şüpheliydi.
+13|Tankı örten perde kesinlikle\nşüpheliydi.
+14|Peki ya <CLT=size2>tankta\n<CLT=size1>bulduğumuz o kare\n<CLT=size2>cam levha<CLT=size1>?
+15|Peki ya tankta bulduğumuz o kare\ncam levha?
+16|<CLT=size1>Belki<CLT=size1> <CLT=size2>tankın<CLT=size1>
+17|Belki tankın gizli bir kapağı vardı?
+18|bir
+19|<CLT=cltAGREE><CLT=size2>gizli kapağı<CLT=cltNORMAL> vardı?
+20|Gerçek bir <CLT=size2>büyü olmalı!

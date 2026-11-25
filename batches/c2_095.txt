@@ -1,0 +1,61 @@
+@ chap2_text_US
+## c02_213_000
+142|Tahmin edin bakalım!\nRyoma'da kimin motif videosu vardı?
+143|<CLT=cltMIND>Ryoma'daki motif videosu...\nKaito'nun muydu, Maki'nin mi...?
+144|<CLT=cltMIND>Cevabı...bilmem\ngerekiyor...
+146|<CLT=cltMIND>Hayır, Kaito'nun motif videosu\n*bendeydi*...
+147|<CLT=cltMIND>Kaito'nun olmadığından\neminim.
+148|Neeeee? Kimse bilmiyor mu?
+149|Ultimate Dedektif bile mi?\nOff yaaa, bu tamamen hayal kırıklığı.
+152|Hiçbiri
+153|Yoksa...hiçbiri mi?
+154|Ha? Cevabın BU kadar sıkıcı olacağını\nbilseydim hiç sormazdım.
+155|Unuttun mu? Bu motif videosu ya Kaito'nun\nya da Maki'nin.
+158|Neeeee? Kimse bilmiyor mu?
+159|Ultimate Dedektif bile mi?\nOff yaaa, bu tamamen hayal kırıklığı.
+161|<CLT=cltMIND>Ryoma'daki motif videosu...\nKaito'nun muydu, Maki'nin mi...?
+162|<CLT=cltSTRONG>Maki<CLT=cltNORMAL>'nin motif videosuydu, değil mi?
+163|Vay, nasıl tahmin ettin?
+164|Oh! Biliyorum, biliyorum! Çünkü *sendeki*\nmotif videosu Kaito'ya ait!
+165|Eleme yöntemi yine kazandı!\nBariz cevap Maki'ydi, değil mi?
+166|Doğru mu bu...Shuichi?
+167|E-Evet...haklısın.
+168|...Ee, ne olmuş?
+169|Ryoma'da benim motif videom vardı diye\nben suçlu olmam.
+170|Nişişi... Sonunda bir şey söyledin.\nBir tartışma böyle olmalı.
+171|Motif videosunu sadece seni konuşturmak\niçin açtım.
+172|...Efendim?
+173|Taaa-mam! Parti başladığına göre seni ve\nKaito'yu tartışmaya hazırlayalım!
+174|Unutmayın, suçlu siz değilseniz diğeri\nsuçludur. Anlaşıldı mı?
+175|Bu ekstrem ölüm tartışmasına başlayalım! Birbirinizin\nyalanlarını yırtın! Birbirinizi paramparça edin!
+176|B-Bir dakika, ne yapmaya\nçalışıyor—
+177|Dalga geçmeyi kes! Kimin suçlu olduğunu\ntartışmamıza gerek yok!
+178|Ben suçlu değilim!\nO kesin...
+179|Yani...
+180|Kaito, dur! Belki Kokichi yanılıyordur!\nBelki o—
+181|Ama Maki de suçlu değil!
+185|Ha? Gerçekten mi? İkinizin de suçlu\nolmadığını mı söylüyorsun?
+186|O zaman bütün bu tartışmanın ne anlamı\nkal—
+187|Kimin umurunda!? Tek bildiğim ne benim\nne de Maki'nin suçlu olduğu!
+188|Bu sadece bir önsezi!
+189|Ö...Önsezi mi!?
+190|Ciddi misin? Hepimizin hayatının söz konusu\nolduğunu biliyorsun, değil mi?
+191|Ve hayatlarımızı sadece bir önseziye\nmi bağlıyorsun!?
+192|Hıh... Anlamıyorsun.\nBu sıradan bir önsezi değil...
+193|Bu, Yıldızların Işığı Kaito Momota'nın\nta kendisinden resmi bir önsezi!
+194|N-Ne...?
+195|Ne kadar mantıksız... Bunu anlamak\nKokichi'nin maskaralıklarından bile zor.
+196|Hiç ciddi değilsin!\n*O kadar* aptal olamazsın, değil mi?
+197|Hayır, gerçekten o kadar aptal olabilir.
+198|Lanet aptal!
+199|Atua'nın belası aptal!
+200|Hey! Bana aptal demeyin! Neyse, ben de\nMaki de suçlu değiliz!
+201|Buna hiç şüphe yok!\nMaki'ye inanıyorum!
+202|...Ne yapıyorsun?
+203|Ona inanıyor musun? Ama...neye\ndayanarak?
+204|Ha? Hiçbir şeye dayandırmam gerekmiyor.\nİpuçları nereyi gösterirse göstersin...
+205|Sonuçta önemli olan tek şey neye\ninandığım! Değil mi!?
+206|İnanıp inanmadığım!\nİnanmak *isteyip* istemediğim!
+207|Önemli olan tek şey bu!
+208|Yani...hiçbir delilin yok.
+209|Sadece temelsiz bir tahmin.

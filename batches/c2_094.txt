@@ -1,0 +1,45 @@
+@ chap2_text_US
+## c02_213_000
+94|<CLT=cltMIND>Kaito'ya inanmak istiyorum...\nSuçlu olduğu kanıtlanana kadar ona güveneceğim.
+95|Şey, belki olayların sırasını belirlemeliyiz?\nSuçlu şey—
+96|Hayır, daha eğlenceli bir şey yapmalıyız...\nve mükemmel bir fikrim var.
+98|İki kişiye indirdik ve bu ikisinden biri\nsuçlu, değil mi?
+99|Rastgele birbirimizi suçlamak zorunda olmadığımıza\ngöre <CLT=cltSTRONG>gerçeği<CLT=cltNORMAL> bulmak çok daha kolaylaştı.
+100|O zaman gerçeği daha etkili bir yöntemle\nbulalım.
+101|Peki bu etkili yöntem ne?
+102|Biri suçluysa masum olan suçlunun kim olduğunu\nbilmeli. Değil mi?
+103|Çünkü suçlu olmadığını biliyorsan diğer\nkişiyi suçlayabilirsin.
+104|Evet, bu doğru.
+105|Yani aramızda <CLT=cltSTRONG>suçlunun kim olduğunu\nkesinlikle bilen<CLT=cltNORMAL> bir kişi var!
+106|Bilen o kişiye...\nBizi ikna etmek için elinden geleni yap! Daha çok çalış!
+107|Daha çok mu çalış?
+108|İkisi masumiyetleri için tartışsın!\nSuçlumuza böyle karar vereceğiz!
+109|Ö-Öyle yapsak bile suçu birbirlerine\natıp durmazlar mı?
+110|Eeeee?
+112|İş birliğinden ve takım çalışmasından\nbahsedip duruyorsunuz ama hepiniz korkuyorsunuz.
+113|Başkalarını parmakla göstermekten korkuyorsunuz,\no yüzden "<CLT=cltSTRONG>güven<CLT=cltNORMAL>" kelimesinin arkasına saklanıyorsunuz.
+114|Hepiniz birbirinizin duygularını dert edinirken\nsuçluyu nasıl bulmayı bekliyorsunuz?
+115|Bir yalancıyı ifşa etmeyi planlıyorsanız\nonu psikolojik olarak köşeye sıkıştırmalısınız...
+116|Ancak o zaman bir aldatma katmanının altına\nsaklanan yalancı benliğini gösterir!
+118|Yalancıyı bulmak istiyorsak iki şüphelinin\nbirbirine karşı tartışmasını öneriyorum.
+119|Artık anlamsız çıkarımlar yok! Tek ihtiyacımız\nhayatları için savaşmaları!
+120|O zaman hiç-sıkıcı-olmayan-ama-süper-eğlenceli\nbir tartışma düzenleyelim!
+121|Bir çelişki bulduğumuzda suçluyu yalanlarında\nyakalayacağız!
+122|Suçluyu hata yapana kadar korkutacağız!\nGerçek bir Sınıf Duruşması böyle işler.
+123|Değil mi, Monokuma?
+124|Puhuhu... Böyle bir gelişme ortamı\nbiraz şenlendirirdi.
+125|Evet, kesinlikle katılıyorum.
+126|Monokuma'ya mı katılıyorsun!?\nSen kimin tarafındasın!?
+127|Sizin tarafınızdayım!\nBen de ölmek istemiyorum, biliyorsunuz!
+128|Bu yüzden bunu ciddiye almamız lazım!\nYalancıyı ortaya çıkaracak hararetli bir tartışma!
+129|...Peki buna nasıl başlamamızı bekliyorsun?
+130|Başlamak için yardıma ihtiyacınız varsa\nilk konuyu ben verebilirim.
+131|İlk konumuz...bu! Taa-daaaa!
+132|<CLT=cltSTRONG>Yavrupad<CLT=cltNORMAL> mı...?
+133|Herhangi bir Yavrupad değil! Son kurbanımız\n<CLT=cltSTRONG>Ryoma<CLT=cltNORMAL>'ya verilen Yavrupad!
+134|Soruşturmaya başladığımızda onu ödünç almak\niçin doğruca odasına gittim.
+135|Yani videoyu odasından alan suçlu değilmiş.\nSenmişsin.
+136|Ve onu tam da bu fırsat için ortaya\nçıkarmamın sebebi...
+137|...bu ikisinden birinin Ryoma'nın motif videosu\nolması! Tan-tan-taaan!
+138|Bu ikisinden birinde mi...?
+141|Ve bunu çözmemiz için bu <CLT=cltSTRONG>motif<CLT=cltNORMAL> videosunun\nkime ait olduğunu bilmemiz lazım!

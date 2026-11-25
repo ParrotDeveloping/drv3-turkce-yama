@@ -1,0 +1,47 @@
+@ chap2_text_US
+## c02_101_009
+133|Yani gösteriyi izleyen herkes şüpheli\ndeğil.
+134|...Kaito, sen de gösteriye gelmedin,\ndeğil mi?
+135|H-Hayır ama yine de şüpheli değilim. Bir sözü\nunuttum...o yüzden sadece kahvaltı ediyordum.
+136|Anladın mı!? Şüpheli değilim!
+137|Bu açıklamanın beni nasıl ikna etmesi\ngerektiğini anlamıyorum.
+138|<CLT=cltMIND>Keebo'nun haklı bir yanı var...
+141|<CLT=cltMIND>Doğru, bunu kesinlikle netleştirmemiz\nlazım.
+142|Gösteriyi kurmaya yardım ediyordun, değil mi\nKirumi? Numara hakkında bir şey duydun mu?
+143|Hayır, tek kelime duymadım.
+144|Ayrıca yardımım afişi ve perdeleri\ndikmekten ibaretti.
+145|O yüzden numarasının ayrıntılarını bilmiyorum.
+147|Sadece afişleri ve perdeyi diktim, o yüzden\nnumarasının ayrıntılarını bilmiyorum.
+148|Nyeeeh...büyümün herkesi gülümsetmesi\ngerekiyordu...
+149|E-Endişelenme! Herkes gülümsüyor *zaten*!
+150|<CLT=cltMIND>Ah...şu an hiçbirimizin\ngülümseyebileceğini sanmıyorum.
+151|Himiko...? Uygunsa su altından kaçış numaran\nhakkında konuşmaya hazır mısın?
+152|Bu gizemi çözeceksek numaranın nasıl\nişlediğini anlamamız lazım...
+153|Su Altından Kaçış Gösterisi'nin bir püf noktası\nyok. O bir büyüydü...
+154|Hâlâ bunu mu söylüyorsun?\nNe durumda olduğumuzu anlıyor musun?
+155|S-Siz beni ne kadar tehdit ederseniz edin\ncevabım değişmeyecek. O bir...büyüydü...
+156|A-Ama—
+157|Tamam, süreniz doldu! Soru-cevap kısmı\nsona erdi!
+158|Tabii <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'mun volkanik gazabını\ntatmak istemiyorsanız!
+159|Vay be...bu koruma idol etkinliklerindeki\ngüvenlikten bile sıkı.
+160|Siz beni ne kadar tehdit ederseniz edin\ncevabım değişmeyecek. O bir...büyüydü...
+161|Hımhım... Bütün uyarılarıma rağmen hâlâ\nHimiko'yu rahatsız etmek istiyorsun, ha?
+162|O yozlaşmış suratını yere çakmamı fena\nistiyor olmalısın!
+163|Bu boşuna, Shuichi.\nKapı dışarı edilmeden gidelim.
+164|Himiko büyü diyorsa büyüdür!\nAnladın mı!?
+165|Himiko'ya zorbalık eden her yozlaşmış\nerkeği <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'mla yok edeceğim!
+166|<CLT=cltMIND>Ama büyü numarasını anlamazsak\nduruşmadan nasıl sağ çıkabiliriz?
+167|Himiko numaranın nasıl işlediğini söylemezse\nRyoma'nın nasıl öldürüldüğünü bilemeyiz, değil mi?
+168|Ama bu hâliyle...\nOnu nasıl ikna edeceğiz?
+169|Oh! Ya şöyleyse...
+170|Ryoma, Himiko'nun ustasının eski çırağıydı\nve ondan intikam almaya yemin etti...
+171|Ve onun gösterisini sabote etmek için kendine\nbenzeyen birini öldürdü!
+172|...Ya da öyle bir şey.\nDaha önce olmuştur muhtemelen!
+173|Ama...sanırım böyle bir ortamda öyle bir\nşey pek olası değil...
+174|<CLT=cltMIND>Ah, doğru. Angie'ye sahneyi\nsormamız lazım.
+175|Hey, Angie. Sahne hakkında sana birkaç\nsoru sormak istiyordum...
+176|Evet, bütün sanat işlerinden ben sorumluydum.\nSahneyi bile ben yapıp boyadım.
+177|O zaman Himiko'nun numarası hakkında bir şey\nbiliyor musun? Nasıl işlediğini mesela?
+178|Hayır, numarayı bilmiyorum.\nHimiko sadece "<CLT=cltSTRONG>büyü<CLT=cltNORMAL>" dedi.
+179|<CLT=cltMIND>Anlıyorum...\nSanırım sırrı Angie'ye de söylemedi.
+180|Ah, bu arada...hazırlıklarda size yardım\netmeleri için başkalarından da rica ettin, değil mi?

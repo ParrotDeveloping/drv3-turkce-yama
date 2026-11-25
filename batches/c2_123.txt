@@ -1,0 +1,52 @@
+@ chap2_text_US
+## c02_300_331
+1|Ryoma Hoshi'yi öldüren Kara, <CLT=cltSTRONG>Ultimate\nHizmetçi<CLT=cltNORMAL> Kirumi Tojo!
+2|Yaşasıııın! Bravo, bravo!
+3|Of! Çok şükür Sınıf Duruşması'nı yine\natlatmayı başardık!
+4|B-Bunda hiç de iyi bir şey\nyok...!
+5|*hıçkırık, burun çekme...* N-Neden...\nNeden Kirumi olmak zorundaydı...?
+6|Gerçekten bu sonuç beklenmedikti.
+7|Bu konuda nasıl bu kadar sakin olabiliyorsun...?
+8|Ama...Gonta inanamıyor...\nKirumi çok yardımseverdi...herkese...
+9|Aynı Kirumi...suçlu da mı!?
+11|Hey, hey, bize ne zamandır yalan söylüyordun?
+12|Bize bu kadar iyi bakmanın sebebi bu muydu...?\nHerkesi kandırabilmek için mi?
+13|Yani o benim annem değil mi!?
+14|O hiçbir zaman senin lanet annen değildi!
+15|Hey, Kirumi. Söyle bana...\nNeden?
+16|Hep etrafındaki herkesi düşünürdün...\nBirini nasıl öldürebildin?
+17|Puhuhu... İnsanlar her zaman bencil, kendini\nmerkeze koyan yaratıklar olmuştur.
+18|Bu yüzden insanlardan nefret ediyorum!
+19|Yuva dediğimiz ormanları yakıyorlar!\nİçtiğimiz nehirleri kirletiyorlar!
+20|İnsanları asla affetmeyeceğim!
+21|Ama bu onları yok etmek için gerçekten bir\nsebep mi? Bazı insanlar gerçekten çok iyi!
+22|Kes sesini, kes sesini, kes sesini!\nYeter artık yorumlarınız!
+23|Ee, Kirumi? Bize karşı hislerin de başka\nbir yalan mıydı sadece?
+24|H-Hayır! Olamaz! Öyle olmadığını söyle!\nO...da mı başka bir yalandı?
+25|Hiç...sanmıyorum...\nHâlâ Kirumi'nin bizi önemsediğine inanıyorum.
+26|...Peki sen nereden biliyorsun?
+27|Kesin bir şey söyleyemem ama bu duruşmanın\nonun için ıstırap verici olduğunu hissedebiliyorum.
+28|Kesin bir şey söyleyemezsin, hı?\nBir dedektifin söyleyeceği şey bu.
+29|Kirumi...üzgün müsün...
+30|<CLT=cltSTRONG>senin için önemli olan insanlar\n<CLT=cltNORMAL>yüzünden?
+31|<CLT=cltSTRONG>Motif videosundaki<CLT=cltNORMAL> gibi mi?\nYani Kirumi sonuçta kendisininkini izledi mi?
+32|Daha önce Kirumi bir <CLT=cltSTRONG>isteği kabul ettiğinden<CLT=cltNORMAL>\nbahsetmişti...
+33|Belki de <CLT=cltSTRONG>o istek<CLT=cltNORMAL> onun <CLT=cltSTRONG>motif videosundaki\n<CLT=cltNORMAL>önemli birinden gelmiştir?
+35|...Kendini savunmak için söyleyecek bir\nşeyin yok mu?
+36|Hayır, öyle değil. Sadece...kayboldum.
+37|Çünkü bunu neden yaptığımı söylersem az önce\nyaptığınız şeyden pişman olacaksınız.
+38|<CLT=cltMIND>Pişman mı...?
+39|Söyle artık. Yoksa...bu sonucu kabul\nedemeyiz.
+40|Lütfen, Kirumi...söyle bize.
+41|Seni çok önemsiyorum...ve diğerlerinin de\nseni önemsediğini biliyorum...
+42|O yüzden lütfen...!
+44|...Pekala o zaman. Madem hepiniz bilmeyi\nbu kadar istiyorsunuz...
+45|Bunu son bir istek olarak kabul edip size\nher şeyi anlatacağım.
+46|Artık yalan yok o zaman. Bize gerçeği söylesen\niyi olur, lütfen ve teşekkürler.
+47|Evet, anlıyorum...
+48|Mantığınız tamamen doğruydu.\nRyoma'yı öldürmemin sebebi...
+49|...<CLT=cltSTRONG>motif videomda<CLT=cltNORMAL> gördüklerimdi.
+50|Düşündüğüm gibi.\nVideonu gerçekten izlemişsin.
+51|Yani biri anlaşmayı bozup <CLT=cltSTRONG>motif videonu<CLT=cltNORMAL>\nsana mı verdi?
+52|Pekala, itiraf edin! Hanginiz yaptı? Sizseniz\ngözlerinizi kapatıp elinizi kaldırın!
+53|El kaldıran kişi neden gözlerini\nkapatsın ki...?

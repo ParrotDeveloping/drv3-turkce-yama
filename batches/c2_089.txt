@@ -1,0 +1,52 @@
+@ chap2_text_US
+## c02_211_000
+45|*O kadar* mı arttılar!?\nPiranaların tavşan gibi siktiğini bilmiyordum!
+46|Öyle görünüyordu ama piranaların asıl\nsayısı artmış değildi.
+47|Cam levha tankı neredeyse ikiye bölüyordu,\ndeğil mi?
+48|Piranalar sıkışınca daha fazlaymış gibi\ngöründüler.
+49|Piranalar ne kadar sıkışık olursa arkalarını\ngörmek o kadar zorlaşır.
+50|Bu yüzden tankta saklanan cesedi görmek\nzordu.
+51|O cam levha...pirana tankının\nkapağıydı.
+52|O kapağı çıkarmak çok kolaydı, bölme olarak\nkullanmalarına şaşmamalı.
+53|Vay, bu gereksiz ayrıntı için çok sağ ol!
+54|Ne diyorsun sen!? O ayrıntı süper\nişe yaradı!
+55|Evet, kapak biraz büyük görünüyor. Ama\nçapraz koyarsan tam oturur...
+56|Aferin, Himiko!\nAçıklaman harikaydı!
+57|Bu kadar delille cesedin kesinlikle pirana\ntankında olduğu anlaşılıyor.
+58|Tebrikler, Himiko! Artık kimsenin senden\nşüphelenmesi için bir sebep yok!
+59|Nyeh...? Gerçekten mi?
+60|Evet! Çünkü cesetle yer değiştirmediysen\nonu öldürmüş olamazsın!
+61|Bu sadece artık başka şüphelilerimiz olduğu\nanlamına geliyor. Henüz tamamen aklanmadın.
+62|Tamam, ama yine de çok daha iyi!!!
+63|Bu harika bir haber, Himiko!\nAtua senin için mutlu.
+64|Özür dile, Angie! Sen ve Atua'n hemen şimdi\nHimiko'dan özür dileseniz iyi olur!
+65|Atua uyuyor. Hepiniz Ondan şüphelendiğiniz\niçin kızgın kızgın yattı...
+66|Ne kadar küçük hesaplı bir tanrı!
+67|Hayır, sorun değil...\nAngie'ye kızmamalıyız...
+68|Bu Sınıf Duruşması'na kızmalıyız...\nBu öldürme oyununa...
+69|Ooooh, Himiko!\nSenin o tatlı, iyi kalbin yok mu!
+70|Atua öyle dedi, en azından.
+72|Ama yakışıklı tanrının kızgın kızgın\nyatması çok yazık...
+73|Himiko'nun beyni hâlâ yıkanmış!
+74|A-Ama henüz pes etmiyorum!\nBu çocuk oyuncağı olacak!
+75|Harika, şimdi ne yapacağız!?\nBaşa döndük!
+76|Peki neden başa döndük?
+77|Çünkü hâlâ herhangi birimiz suçlu olabilir! Tanrım!\nSalaklar okulundan mı atıldın!?
+78|Hayııır! Herkes değil! Henüz mazereti\nolmayanlara indirgeyebiliriz.
+79|...Ha? Ne mazereti?
+80|Senin gibi aptal bir fahişe domuzun anlamayacağını\ntahmin etmeliydim, açıklayayım...
+81|Sen kime aptal domuz diyorsun!?
+82|Bu kadar delil varsa cesedin pirana tankında\nsaklandığından hiç şüphe yok.
+83|Ama birinin bu kadar kısıtlı sürede cesedi\noraya yerleştirmesi epey zor...
+84|<CLT=cltMIND>Kokichi haklı bir noktaya\nparmak basıyor.
+85|<CLT=cltMIND>Suçlunun bu sahneyi kurabileceği\ntek bir zaman var...
+86|Dün, geceden önce
+87|Dün, gece
+88|Dün gece mi yapıldı?
+89|Bzzzt! Yanlış cevap!
+90|Okul kuralları kadar temel bir şeyi\nhatırlayamıyorsan hiçbir işe yaramazsın!
+92|Bu sabah gösteriden önce
+93|Bu sabah gösteriden önce mi\nyapıldı?
+94|Hayır! Yanlıııış!
+95|Bu sabah kursalardı biri onları suçüstü\nyakalardı.
+98|Ha? Shuichi bile bilmiyor mu? Doğru cevabı\ndaraltmak epey kolay olmalı.

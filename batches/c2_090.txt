@@ -1,0 +1,48 @@
+@ chap2_text_US
+## c02_211_000
+99|Ultimate Dedektif'in yapabileceğinin en iyisi bu mu?\nOff yaaa, şu an kendimi kandırılmış hissediyorum.
+102|Dün, gece başlamadan önce yapıldı.
+103|Ding ding ding!\nUltimate Dedektif yine bildi!
+104|B-Bir dakika... Dün geceden önce olduğunu\nnereden biliyorsun?
+105|Bana salakça sorular sormayı kes! Eleme\nyöntemiyle çözülebilirdi!
+106|Tanrım...peki! Ufacık, bezelye beyinli\nkaltakçığa açıklayayım!
+107|K-Kaltakçık mı!?
+108|Birincisi, spor salonu gece kapalıydı,\nyani kimse giremezdi.
+109|Çünkü gece spor salonuna girmeye kalkarsan\nöttürür!
+110|Kıçını mı öttürür?
+111|Hayır, alarmı diyor!
+112|Gece geçti, sabah oldu.\nAma gösteriden önce cesedi saklamak...
+113|Nyahahaha! İmkânsız!
+114|Himiko ile ben sabah anonsundan önce spor\nsalonunun önünde bekliyorduk.
+115|Geriye tek bir ihtimal kalıyor—<CLT=cltSTRONG>dün\ngece<CLT=cltNORMAL> başlamadan önce yapıldı.
+116|Bunu anlamayan herkes şuradaki fahişe\nkaltakçık kadar aptaldır!
+117|Ahh... Ahhhh...!
+118|Yani suçlu Ryoma'nın cesedini dün gece\nbaşlamadan önce pirana tankına mı koydu?
+119|Yani o da bu zaman diliminde\nöldürüldü.
+120|Yaşasın! Artık suçun ne zaman işlendiğini\nbiliyoruz, değil mi?
+121|Ben hâlâ pek anlamadım ama. Ölüm saatini\nbiraz daha daraltabilir miyiz?
+122|<CLT=cltMIND>Bilginin kaynağını göz önüne alırsak\neminim daha da daraltabiliriz.
+123|Ryoma, Böceklerle Tanışma Buluşması'nda\nbulundu mu?
+124|Hayır, Ryoma orada değildi.
+125|Gonta'nın yakaladığı kimsenin Ryoma'yı\ngördüğünü sanmıyorum.
+127|Şüpheli bir şey gördün mü,\nKokichi?
+128|Hm? Evet, şüpheli bir kadın gördüm ama bunun\nRyoma'yla bir ilgisi olmadığına eminim.
+130|Pekala! Yardımcımın parlama vakti!\nOnlara neler yapabildiğini göster!
+132|Bunun Ryoma'nın ölümüne giden olayların\nzaman çizelgesine nasıl uyduğunu hayal bile edemiyorum...
+134|Ryoma'nın ne zaman öldürüldüğünü\nbelirlemeye hangi ipucu yardım ediyor?
+135|Ryoma'yı en son kimin canlı gördüğünü bulursak\nölüm saatini daraltabiliriz.
+136|Kirumi, herkese onu en son ne zaman\ngördüklerini soruyordun, değil mi?
+137|Evet, Ryoma'yı en son gören Gonta'ydı.
+138|Ne? Gerçekten mi!?
+139|Peki Gonta Ryoma'yı en son ne zaman\ngördü!?
+140|Hmmm... Gonta herkesi "<CLT=cltSTRONG>Böceklerle Tanışma\nBuluşması<CLT=cltNORMAL>"na davet ederken, yani...
+141|...Gonta belki <CLT=cltSTRONG>akşam 8<CLT=cltNORMAL> civarı olduğunu düşünüyor?
+142|En son akşam 8'de görüldüyse ve gece resmen\nbaşlamadan önce öldürüldüyse...
+143|O zaman suçun akşam 8 ile 10 arasında\nişlendiğini varsayabiliriz.
+144|Yani tek yapmamız gereken...o zaman dilimi\niçin mazereti olmayan birini bulmak, değil mi?
+145|Yeterince basit. Sonuçta çoğumuz o sırada\nGonta tarafından...alıkonuluyorduk.
+146|Yanlış hatırlamıyorsam...Ryoma dışında\norada olmayanlar...
+147|Dördümüz olur—ben, Kaito, Miu\nve bir de...Maki.
+148|Vay, Kirumi. Aleyhine olsa bile gerçeği\nsöylüyorsun.
+149|Bunu herkes için yapıyorum. Gerçeği ortaya çıkarmak\nbenim görevim, benden şüphelenilmesi umurumda değil.
+150|Aah! Ne güzel! Fedakârlık ruhun\nfazlasıyla güzel!

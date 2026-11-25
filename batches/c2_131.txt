@@ -1,0 +1,56 @@
+@ chap2_text_US
+## c02_301_331
+73|<CLT=cltMIND>Ve böylece 2. Sınıf Duruşması\nbizim için sona erdi.
+74|<CLT=cltMIND>Pirus zaferi.\nYine de bir arkadaşımızı kaybetmiştik.
+75|<CLT=cltMIND>Kaito'nun bahsettiği <CLT=cltSTRONG>son<CLT=cltMIND> ne ve\nona nasıl ulaşacağız?
+76|<CLT=cltMIND>Bilmiyorum. Hâlâ bilmiyorum.
+80|<CLT=cltSYSTEM>Alandan ayrılmak istiyor musun?
+## c02_302_254
+0|<CLT=cltMIND>Duruşma salonundan döndüğümüzde\netrafı çoktan karanlık sarmıştı.
+1|Şimdilik...dinlenmeliyiz. Bana en mantıklı\nyol bu gibi görünüyor.
+2|Evet... Bütün gün tam gaz gittiğim için\nbeynimin suyu çekildi.
+3|Sanki kullanacak bir beynin varmış gibi!
+4|Neyse, bu öldürme oyunu bitti!\nDevam etmesine izin vermeyeceğim!
+5|Her şey yoluna girecek. Atua'yı dinlediğimiz\nsürece hepimiz iyi olacağız.
+7|Ne oldu, Gonta?\nNeden gökyüzüne bakıyorsun?
+8|Sadece...bütün bu kötü şeyler olurken bile\nyıldızlar hep çok güzel.
+9|Ama buradaki yıldızlar farklı.\nGonta'nın alıştığı yıldızlar değil.
+10|Farklı mı? Yani...yıldızların\nkonumunu mu diyorsun?
+11|Evet... Gonta bakıyor ama hatırladığı\nyıldızı bulamıyor.
+12|Ama...neden? Uzak bir yere mi\ngötürüldük?
+13|<CLT=cltMIND>Uzak bir yere mi...?
+14|Hey, hadi artık hepimiz dönelim.\nBittim ben.
+16|Ah, bir dakika.\nSize bir şey söylemem lazım.
+17|Şimdi ne var?\nDediğim gibi, bittim ben.
+18|Hadi ama, çok sürmeyecek,\no yüzden söyleyeceklerimi dinleyin.
+19|Pekala o zaman? Söylemen gereken ne?
+20|Herkes bana bir tür takıntılı yalancıymışım\ngibi davranıyor...
+21|Ama bu saçmalık! Grubumuzda benden çok\ndaha kötü bir yalancı var!
+22|Senden daha kötü bir yalancı mı?
+24|...Maki'den bahsediyorum.
+26|Maki'nin yalancı olması ne demek?
+27|Maki bunu Sınıf Duruşması sırasında itiraf etti,\nhatırladınız mı?
+28|Ryoma ondan <CLT=cltSTRONG>motif videosunu<CLT=cltNORMAL> göstermesini istedi\nçünkü yaşamak için bir sebep arıyordu.
+29|Ama hikâyenin tamamı bu değildi...\nRyoma sana şantaj yapıyordu, değil mi Maki?
+30|Ş-Şantaj mı?
+31|Ryoma tesadüfen Maki'nin <CLT=cltSTRONG>gerçek\nkimliğini<CLT=cltNORMAL> keşfetmişti.
+32|O yüzden bunu ona şantaj yapmak için kullandı.\nEminim şöyle bir şey dedi...
+33|"Bana <CLT=cltSTRONG>motif videomu<CLT=cltNORMAL> göstermezsen herkese\naslında ne olduğunu söylerim."
+34|Bu yüzden Maki onun Ryoma ile buluştuğunu\nbilmemizi istemedi.
+35|<CLT=cltSTRONG>Gerçek kimliğini<CLT=cltNORMAL> gizli tutmak istedi!\nBu yüzden son dakikaya kadar sessiz kaldı!
+36|S-Seni... Şimdi de ne saçmalık uyduruyorsun?\nMaki'nin <CLT=cltSTRONG>gerçek kimliği<CLT=cltNORMAL> mi? Ne-
+37|Nişişi, Maki'nin <CLT=cltSTRONG>gerçek kimliğini<CLT=cltNORMAL>\nbaştan beri biliyordum.
+38|...!
+39|<CLT=cltMIND>Bir an Maki'nin ortadan kaybolduğunu\nsandım...
+40|<CLT=cltMIND>O kadar hızlı hareket etti ki...
+42|B-Biliyor musun...b-bu ilginç bir\ng-gelişme...
+43|A-Ama...beni gerçekten...herkesin önünde\nö-öldürür müsün...?
+44|H-Hey, Maki! Neler oluyor lan?
+45|E-Evet...muhtemelen şu an boynumu...\nbir dal gibi kırabilirsin...
+46|Ama bu...senin tarzın değil...\nS-Sen...gölgelerden öldürmeyi tercih edersin...
+47|Değil mi...<CLT=cltSTRONG>Ultimate Suikastçı<CLT=cltNORMAL> Hanım?
+48|Okul Binası - 1. Kat
+50|Yurtlar (Salon)
+51|Miu Iruma'nın Laboratuvarı
+53|Antrenman Alanı
+56|Yargı Tapınağı

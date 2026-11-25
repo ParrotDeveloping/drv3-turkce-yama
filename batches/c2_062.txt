@@ -1,0 +1,46 @@
+@ chap2_text_US
+## c02_101_009
+381|<CLT=cltMIND>Gonta bütün piranaları toplayıp buraya\nkoyduğunu söyledi.
+382|<CLT=cltMIND>Gonta'nın bunu çıplak elleriyle yaptığına\ninanamıyorum... Ah, dur, inanabiliyorum.
+383|Ryoma'nın onların midesinde olduğunu\ndüşününce yemek bile istemiyorum...
+384|...Onları yemeyi neden düşünesin\nki zaten?
+385|Nyahahaha! Atua'nın yarattığı bu dünyada\nsadece güçlüler hayatta kalabilir.
+386|Yapabileceğimiz en az şey Ryoma'nın ruhu için\ndua etmek, ta ki Atua'nın krallığına girene dek.
+387|Bu hâliyle oraya gerçekten gidebilir mi?
+388|O piranalar gerçekten mucizevi bir gizemdi.\nBelki o videoların arkasında da Atua vardır...
+389|...Neden bahsediyorsun?
+390|Gösteri başlar başlamaz fark ettim...
+391|Sanki bugün dün hazırlık yaparken\nolduğundan daha çok pirana vardı.
+392|Daha çok pirana mı?
+393|Ne yani, bir gecede çoğaldılar mı? Bu kadar\nhızlı üremelerinin imkânı yok.
+394|Ama, ama düne göre...piranalar o tanka\nsüper sıkış tıkış doluşmuş gibiydi.
+395|<CLT=cltMIND>Ah, demek daha sıkış tıkış\ngörünüyorlardı...
+396|Su çok bulanıktı, o yüzden kaç tane fazla\npirana olduğunu anlayamadım...
+397|Ama neyse, süper süper süper süper\nsüper sıkış tıkıştı.
+398|Süper süper süper süper süper sıkış tıkış.
+399|Tanrım, anladık.
+400|<CLT=cltMIND>Dünden daha çok pirana...\nBunda bir şey olabilir.
+401|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Sıkış Tıkış Piranalar<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+403|<CLT=cltMIND>Gonta bütün piranaları toplayıp buraya\nkoyduğunu söyledi.
+404|Gösteri başlar başlamaz fark ettim...
+405|Sanki bugün dün hazırlık yaparken\nolduğundan daha çok pirana vardı.
+406|Ama, ama düne göre...piranalar o tanka\nsüper sıkış tıkış doluşmuş gibiydi.
+407|Su çok bulanıktı, o yüzden kaç tane fazla\npirana olduğunu anlayamadım...
+408|Ama neyse, süper süper süper süper\nsüper sıkış tıkıştı.
+409|Süper süper süper süper süper sıkış tıkış.
+410|Dediğim gibi, anladık.
+411|<CLT=cltMIND>Dünden daha çok pirana...\nBunda bir şey olabilir.
+412|<CLT=cltMIND>Bu epey uzun bir ip...\nNe için kullanılmış?
+413|Hmm, tahminimce yaklaşık 20 metre uzunluğunda.
+414|Sadece bakarak anlayabiliyor musun?
+415|İplerden iyi anlarım. Bir zamanlar...kullanımlarının\nolağan olduğu bir köyü ziyaret etmiştim.
+416|Kehehe... Ayrılma vaktim geldiğinde köyün\nkadınları kalmam için yalvarmıştı...
+417|<CLT=cltMIND>...Bu beni derinden rahatsız ediyor ama\nsoruşturmaya odaklanmam lazım.
+418|<CLT=cltMIND>Neyse, bu ip ne?\nDavayla ilgili olabilir mi?
+419|<CLT=cltMIND>Çok uzun bir ip...
+420|<CLT=cltMIND>Kiyo yaklaşık 20 metre uzunluğunda\nolduğunu söyledi.
+421|<CLT=cltMIND>Neyse, bu ip ne?\nDavayla ilgili olabilir mi?
+422|<CLT=cltMIND>Ne...?\nMerdivenin arkasında bir su birikintisi var...
+423|<CLT=cltMIND>Bu, tankı kırdığımızda oluşan bir birikinti değil...\nEtrafındaki zemin tamamen kuru.
+424|<CLT=cltMIND>Belki de...ıslak biri burada bir şey\nyapıyordu...
+425|Islak kıyafetlerini mi değiştiriyordu?

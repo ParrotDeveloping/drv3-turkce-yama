@@ -1,0 +1,48 @@
+@ chap2_text_US
+## c02_221_000
+35|Çiziklere daha yakından baksaydım onlara sebep\nolan malzemeyi belirleyebilirdim...
+36|Çiziklerde özel bir şey olduğunu sanmıyorum.\nBaşka yere baksak?
+38|Tenis filesi kablosu sökülmüştü.\nBelki onun bir ilgisi vardır...
+39|Bir kabloyla lavabo çizilmez! Ama kırbaçlar ve\nzincirler, o başka...
+41|Bir sebebi olmalı.\nÇabuk söyle bize.
+43|Lavabodaki çizik izlerine bunun sebep olduğunu\nmu düşünüyorsun? Ne demeye çalıştığını anlamıyorum.
+45|Ryoma lavaboda boğulduysa çiziklere\nne sebep oldu?
+46|...<CLT=cltSTRONG>Kelepçeler<CLT=cltNORMAL>.\nOnlar da çizilmişti, doğru mu?
+47|Ah evet. Bir şeye sürtünmüş gibi\ngörünüyorlardı.
+48|Bir de kelepçelerin Ryoma'nın laboratuvarından\nolduğu gerçeği var.
+49|Lavabodaki izler aynı odadaki kelepçelerden\ngeldi.
+50|Çiziklerin boyutu ve şekli kelepçelerle\nuyumlu. Eminim.
+51|Hmmm... O kelepçeler laboratuvardan su\ntankına nasıl geldi?
+52|Çünkü Ryoma onları takıyordu, değil mi?
+53|Evet, Ryoma tankta göründüğünde sadece\nkısa bir an görünseler de...
+54|O sırada kelepçeleri taktığından\neminim.
+55|Kelepçeler, piranalar Ryoma'yı yedikten\nsonra geride kaldı.
+56|Yani suçlu Ryoma'yı kelepçeleyip laboratuvarının\nlavabosunda boğdu.
+57|Ryoma epey lezzetli olmalı. Bütün vücudunu\nkemirip bitirdiler—kolları, bacakları, beyni...
+58|İğrenç şeyler söylemeyi kes,\nduymak istemiyorum!
+59|Yağlı kısımlarıyla o çıtır doku tam kıvamında.\nSonra ısırınca fışkırıyor—
+60|DUR, LÜTFEN DUR!!!
+61|Ama...suçlu Ryoma'yı nasıl kelepçeledi?
+62|Shukuchi Yöntemi ile kaçabilirdi.\nBiri pusu kurmadıysa tabii?
+63|Kelepçelemeden önce onu bayıltmış\nolmaları mümkün...
+64|Kehehe... Gerçi artık kemikten başka bir şey\nolmadığına göre bundan emin olmamız imkânsız.
+65|Pusuya düşürüldüğünden şüpheliyim.\nSuçlunun Ryoma'yı şununla yakaladığına eminim...
+67|Ah pardon, benim gibi zavallıya aldırmayın.\nSadece kendi kendime konuşuyorum.
+68|Kendi kendine konuşurken yemek yiyormuş\ngibi yap ve ağzın kapalı çiğne.
+69|Yoksa ağzına fıstık ezmeli kalamar dolar.\nO kadar iğrenç ki gülersin!
+70|Yani hepimiz Ryoma'nın laboratuvarındaki\nlavaboda boğulduğunda hemfikiriz, değil mi?
+71|O lavabo bunu yapacak kadar su alırdı,\nkesinlikle.
+72|Pekala, karar verdim! Olay yeri Ryoma'nın\nlanet araştırma laboratuvarı!
+73|Ama suçlu cesedini oradan spor salonuna\nnasıl taşıdı?
+74|Ryoma'nın laboratuvarı akademinin 3. katında\ndeğil mi?
+75|Aslında hiç de uzak değil.
+76|Gerçi belki şöyle demek daha doğru...\nbir <CLT=cltSTRONG>kestirme<CLT=cltNORMAL> var.
+77|Kestirme mi vardı...?
+78|<CLT=cltMIND>Suçlu Ryoma'nın laboratuvarıyla spor\nsalonu arasında hangi kestirmeyi kullandı?
+79|Ah...orası mı?
+80|Ha...? Ne diyorsun...\nbirdenbire?
+81|Bilerek mi belirsiz konuşuyorsun? "Orası"\nderken...*orayı* mı kastediyorsun?
+82|Benimle flört mü ediyorsun, bakir?
+84|Monitör spor salonuna bağlıydı.
+85|Monitörden girip çıkmak gerçekten gizemli\nbir mucize olurdu!
+86|Ama bu bilim yasalarına aykırı,\nyani imkânsız!

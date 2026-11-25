@@ -1,0 +1,51 @@
+@ chap2_text_US
+## c02_018_136
+80|Evet, evet. Bir robotu dinleyecek vaktim yok.
+81|Bakalım...şu an tam akşam 9.\nGece olmadan dönerim.
+82|Hadi bakalım! O zamana kadar böceklerle\niyi eğlenceler!
+83|<CLT=cltMIND>Kokichi sonra sınıftan çıktı.
+84|Kehehe... Görünüşe göre Kokichi'nin\ntuzağına düştük.
+85|N-Ne yapmalıyız? Böyle giderse sonu motif\nvideosu izleme partisine dönecek.
+86|B-Benim <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'m da Gonta'nın\ninsanüstü gücüne denk değil...
+87|...Kokichi döndüğünde hâlâ bir\nşansımız var.
+88|O zaman bununla ben ilgileneceğim.\nHerkes lütfen o zamana kadar dayansın.
+89|D-Dayanmak mı—
+90|Tamam! Şimdi eğlenceli mi eğlenceli\n"<CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltNORMAL>" başlıyor!
+91|<CLT=cltMIND>İlk uyandığımda...\nKokichi bana burasının cehennem olduğunu söylemişti.
+92|<CLT=cltMIND>Görünüşe göre bu bir yalan değilmiş.
+93|<CLT=cltMIND>O inanılmaz örneklerin her biri dinçlik\nve canlılık saçıyordu.
+94|<CLT=cltMIND>Ve tam da göründükleri kadar\ndinçtiler.
+95|<CLT=cltMIND>Kaçış yolumuz kapalıyken tek yapabildiğimiz\nodada panik içinde koşuşturmaktı.
+96|<CLT=cltSYSTEM>*ding dong, bing bong...*
+97|<CLT=cltMIND>Gece anonsu çaldı.\nAma bizi kurtarmadı.
+98|<CLT=cltMIND><CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltMIND>\namansızca devam etti.
+99|Ne oldu, Kokichi!?\nGece olmadan döneceğini söylemiştin!
+100|Ahhhh! Olamaz! Himiko böceklerin altında\ndiri diri gömülüyor!
+101|H-Himiko! Dayan!
+102|Ne kadar bağırırsan ağzına o kadar çok\nböcek gir—PÖH! PÖH!
+103|<CLT=cltMIND>Sonunda, vücutlarımız tamamen tükenmiş\nve uyku neredeyse üstümüze çökmüşken...
+104|Kokichi ile Gonta'nın hepimizi bu odada\ntoplamaktaki asıl amacı ne?
+105|Gonta'nın bizi yakalamaya kendi başına\nasla karar vereceğini sanmıyorum.
+106|Kokichi, Gonta'nın saflığından yararlanarak\nneyi başarmaya çalışıyor?
+107|Ne olursa olsun, insanları kullanma konusundaki\numursamaz tavrını affedemem!
+108|Neo-Aikido'mla bile Gonta'yı\ndurduramadım...
+109|Gücü benim Neo-Aikido'mdan çok daha üstün!
+110|Neden...bu oda olmak zorundaydı?\nTüylerimi ürpertiyor...
+111|Dediğim gibi, kaçmaya çalışırsan Gonta seni\nyine yakalar, biliyorsun değil mi?
+117|<CLT=cltMIND>Şu an ekranda hiçbir şey yok ama\nsadece bakmak bile midemi bulandırıyor.
+125|Dediğim gibi, kaçmaya çalışırsan Gonta seni\nyine yakalar, biliyorsun değil mi?
+## c02_019_136
+0|<CLT=cltMIND>Sonunda geri geldi...
+1|Iyyy! Her yer böcek dolu!\nNe iğrenç—yani, ne güzel!
+2|Oh, geri geldin, Kokichi!\nGel, eğleniyoruz!
+3|Çok eğleneceğiz!
+4|Biliyor musun, bunu *çok* istesem de...\nbelki de bugünlük bu kadar demeliyiz, hı?
+5|Böcekler çok yorgun görünüyor, bir beyefendi de\nher şeyi kararında yapmayı bilir, değil mi?
+6|Oh...Gonta anladı...
+7|O zaman sen ortalığı topla, ben de diğerleriyle\nişimi halledeyim.
+8|<CLT=cltMIND>Kokichi'nin elleri birkaç\nYavrupad'le doluydu.
+9|Ee? Herkes böceklerle tanışıp kaynaşırken\neğlendi mi?
+10|Ah...e-evet, sanırım eğlendim...?
+11|Güzel! Artık herkes böcekleri seviyor!
+12|Çok yakında daha çok böcek yumurtadan çıkacak!\nYeni böceklerle tanışıp eğlenelim!
+14|Çok yakında daha çok böcek yumurtadan çıkacak!\nYeni böceklerle tanışıp eğlenelim!

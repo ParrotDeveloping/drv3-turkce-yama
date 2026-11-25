@@ -1,0 +1,47 @@
+@ chap2_text_US
+## c02_101_009
+427|<CLT=cltMIND>Ama su tankından merdivenin arkasındaki\nbu boşluğa nasıl gelinir ki?
+429|<CLT=cltMIND>Bu, su altından kaçış numarasını anlamak\niçin hayati bir ipucu olabilir...
+430|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Islak Merdiven<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+431|<CLT=cltMIND>Merdivenin arkasında bir su birikintisi var.
+434|<CLT=cltMIND>Bu merdiven sahnenin tepesine\nçıkıyor.
+435|<CLT=cltMIND>İlk bakışta...özellikle şüpheli bir\nşey yok.
+436|<CLT=cltMIND>Bir numarası olabilir ama bunu\nsadece bir sihirbaz bilir.
+437|<CLT=cltMIND>Bu merdiven sahnenin tepesine\nçıkıyor.
+438|<CLT=cltMIND>Yakından bakınca yan tarafında bazı\nyerlerin ıslak olduğunu görüyorum...
+439|<CLT=cltMIND>Bu, yanındaki su birikintisiyle\nilgili olabilir.
+440|<CLT=cltMIND>Üstünü bir perde örtüyor ama sanırım\nöbür tarafında bir pencere var.
+441|Ne oldu? O pencereye bakmak mı\nistiyorsun?
+442|Ah, evet ama—
+443|Oh, uzanamayacak kadar yüksek, ha?
+444|Evet, epey yüksek...\nPirana tankından bile yüksek.
+445|<CLT=cltMIND>Pirana tankından yüksek...
+446|Doğru ya! Sahnenin yanında bir merdiven\nvardı! Gidip getireyim!
+447|<CLT=cltMIND>Kaito hızla sahneye yöneldi.
+448|<CLT=cltMIND>Sahnenin yanında duran seyyar merdiveni\nomzunda taşıyarak geri döndü.
+449|Ama bak...merdiveni getirmesi gereken\nyardımcı olmamalı mıydı?
+450|Ah, e-evet, sanırım öyle... Teşekkürler.
+451|<CLT=cltMIND>Seyyar merdiveni sahnenin üstüne kurduktan\nsonra basamaklarını tırmandım...
+452|Bununla pencereye ancak zar zor\nuzanabiliyorsun. Bir de perdeyi açarsan...
+453|Ah, pencere açık!
+454|Pencere açıksa suçlu onu mu\nkullandı?
+455|<CLT=cltMIND>Suçlu bu pencereden girip çıkmış\nolabilir...
+456|Peki pencerenin öbür tarafında\nne var?
+457|Pek bir şey göremiyorum...ama sanırım havuz.
+458|Havuz mu, ha? Burada bir yerde havuz\nolduğunu duymuştum.
+459|Pekala! Sonra gidip bakalım! Suçlu\nmuhtemelen oradan geçti!
+460|Ah, dur... Bu ne...?
+462|Bir şey yok, sadece pencere çerçevesinde\nizler varmış gibi görünüyor...
+463|<CLT=cltMIND>Pencere çerçevesinde bir şeyle çizilmiş\ngibi belirgin aşınmalar var...
+464|<CLT=cltMIND>Bu davayla ilgili olabilir...\nAklımda tutmalıyım.
+465|<CLT=cltSYSTEM>"<CLT=cltSTRONG>İzli Pencere Çerçevesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+466|<CLT=cltMIND>Seyyar merdivenden sahneye\nindim.
+467|Pencereyi araştırman bitti mi?\nO zaman gidip merdiveni yerine koyayım.
+468|Evet, çok iyi olur.\nTeşekkürler, Kaito.
+469|Bunu yardımcının yapması gerekmez mi!?
+470|<CLT=cltMIND>Şikâyet etti...\nama yine de merdiveni benim için yerine koydu.
+471|Az önce gördük biliyorum ama...\npencere açıktı, değil mi?
+472|Evet, öbür tarafında da havuz var,\ndeğil mi?
+473|Sonra gidip bakalım! Suçlu spor salonuna\noradan girip çıkmış olmalı.
+474|<CLT=cltMIND>Ve buna ek olarak...
+475|<CLT=cltMIND>Pencere çerçevesinde bir şeyle çizilmiş\ngibi belirgin aşınmalar var...

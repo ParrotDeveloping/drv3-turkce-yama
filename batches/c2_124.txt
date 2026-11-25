@@ -1,0 +1,49 @@
+@ chap2_text_US
+## c02_300_331
+54|Buna gerek yok. <CLT=cltSTRONG>Motif videomu<CLT=cltNORMAL> kimseyle\ndeğiş tokuş etmedim.
+55|Ha? Kimseyle değiş tokuş etmediysen <CLT=cltSTRONG>motif\nvideonu<CLT=cltNORMAL> nasıl gördün?
+56|Belki de...Kirumi'ye kendi\n<CLT=cltSTRONG>motif videosu<CLT=cltNORMAL> gelmişti...
+57|Ha? Yani baştan beri kendi <CLT=cltSTRONG>motif\nvideosu<CLT=cltNORMAL> onda mıydı?
+58|Doğru... <CLT=cltSTRONG>Motif videom<CLT=cltNORMAL> benden, yani videonun\nasıl alıcısından başka kimsede değildi.
+59|Nedenini...hiç bilmiyorum.
+60|B-Bu imkânsız!\nMonokuma, neler oluyor lan!?
+61|Hmmm? Biliyor musunuz, bunu daha önce açmak\nistiyordum çünkü bir süredir kafama takılıyor...
+62|Videoların karıştırılmasıyla ilgili bütün bu\nkonuşmalar... Tam olarak ne demek oluyor?
+63|Nyeh...aptalı oynama. Bütün <CLT=cltSTRONG>motif\nvideolarını<CLT=cltNORMAL> karıştıran sendin.
+64|...Hayır, ben karıştırmadım.
+66|Iıııı...
+68|Oh? Bunu sormamam mı gerekiyordu?\nSiz yavrular yine mi bir şeyi berbat ettiniz, hımm?
+69|"Gerekmiyor" mu?
+70|H-Hepsi Monophanie'nin suçu! İsimlere bakmadan\nonları dağıttı!
+71|Neeeee!? Bilmiyordum! Monotaro da isimleri\nkontrol etmeliydi!
+72|Bir dakika! Ben video dağıttığımı bile\nhatırlamıyorum!
+73|BENİM-HATAMDI.
+75|ÖZÜR-DİLERİM.\nDAHA-DİKKATLİ-OLMALIYDIM.
+76|H-Hayır, Monodam...\nSenin suçun değil.
+77|Hepimizin suçu!\nBen de özür dilerim!
+78|Ah, görünüşe göre yanlış anlamışım.
+79|Baştan beri planın videoları yeniden\ndağıtmak olduğunu tamamen unutmuşum.
+80|B-Babacım!
+81|Hiç de sizin suçunuz değil, çocuklar.\nUnuttuğum için benim suçum.
+82|Babaaaaa!
+83|ÇOK-ŞÜKÜR.
+84|B-Bu yapış yapış, iç ısıtan saçmalık\nda ne lan!?
+85|Hepiniz aptalsınız! Siz salak ayılarla <CLT=cltSTRONG>iyi\ngeçinmekten<CLT=cltNORMAL> bıktım!
+87|Bu kadar soruna yol açtığım için özür dilerim.\nLütfen sıkıcı sohbetinize devam edin.
+88|Anlıyorum... Monoyavrular <CLT=cltSTRONG>motif videolarını\n<CLT=cltNORMAL>sadece rastgele dağıtmışlar...
+89|Kendi videomun bana gelmesi...sadece\nkötü şanstı.
+90|...Yani sana neden verildiğini bilmeden\nöylece izledin mi?
+91|Videonda ne vardı?
+93|...Ee? Bize her şeyi anlatacağına söz verdin.
+94|Size gerçeği bütünüyle anlatacağım ama...\nherkesin inanacağından şüpheliyim.
+95|Öyleyse neden hep birlikte <CLT=cltSTRONG>motif\nvideosunu<CLT=cltNORMAL> izlemiyoruz?
+96|Evet, bu çok daha iyi olur!\nBabam yine sıkılmadan acele edelim!
+97|Ne kadar titizsiniz... Yine de sanırım\nböylesi daha iyi.
+98|Belki gerçeğe kendi gözlerinizle tanık\nolursanız inanması daha kolay olur.
+99|<CLT=cltMIND>Kirumi konuştuktan sonra Monoyavrular\nvideoyu oynatmaya başladı.
+102|<CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL> Kirumi Tojo.
+103|Siyaset ve finans dünyasından müşterileriyle bu elit\nhizmetçi her isteği yerine getirmesiyle ünlü.
+104|Kaderin belirlendiği bir gün...
+105|En nüfuzlu müşterilerinden biri olan başbakan\ntarafından aniden çağrıldı.
+106|Başbakanın son derece önemli bir isteği\nvardı.
+107|<CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL> yeteneğini ülkesine\nhizmet etmek için kullanmasını istedi.

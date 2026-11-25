@@ -1,0 +1,47 @@
+@ chap2_text_US
+## c02_217_000
+49|Şey...spor salonu gece kilitli, yani ertesi\nsabah olmalı ama...
+50|Bu mümkün değil. Himiko ile ben spor\nsalonundaydık, hatırladınız mı?
+51|Yani cesedin pirana tankına tıkıldığını\ndüşünerek sıçtık mı!?
+52|Sanmıyorum. Bunun olduğunu kanıtlayan\ndelillerimiz var.
+53|O zaman suçlu cesedi pirana tankına\nne zaman attı?
+54|<CLT=cltMIND>Ryoma'nın cesedi pirana tankına\nne zaman konuldu...?
+55|<CLT=cltMIND>Maki gece yarısı civarında Ryoma ile\nbirlikteydi, yani geceden önce olamaz.
+56|<CLT=cltMIND>Ertesi sabah da olamadıysa geriye\nkalan...
+57|Yapabilecekleri tek zaman <CLT=cltSTRONG>gece<CLT=cltNORMAL>,\nha?
+58|Spor salonunun gece açık olmadığını unuttun\nmu, sik peyniri?
+59|S-Sik peyniri mi!?
+60|Ama tek ihtimal bu, çünkü sabah biz\nzaten spor salonundaydık.
+61|Siz fark etmeden yanınızdan geçip gitmiş\nolabilirler...
+62|Kimse yanımdan geçip gidemez! Her yerde\n"Uyuklayan Büyücü" olarak tanınırım!
+63|Bir nöbetçi için ne berbat bir unvan!
+64|Görmediğinden emin misin? Gece spor\nsalonuna girilemez.
+65|Himiko görürdü! Iska geçebilir ama gözünü\nher zaman toptan ayırmaz!
+66|...Beyzbol bile oynamıyorum.
+67|Ama okul kurallarına karşı gelemeyiz, değil mi?\nCeset muhtemelen sabah taşındı.
+68|Sakin olun, herkes! Gonta eminim\nanlaşmazlığı konuşursak—
+69|...Anlaşmazlık mı?
+70|Ne!? Anlaşmazlık mı!? Yani yine ikiye\nmi bölündünüz!?
+71|O zaman Ultimate Akademi gururla sunar, kendine\nözgü <CLT=cltSTRONG>dönüşfenomenal duruşma alanı<CLT=cltNORMAL>!
+72|Yaşasın! Bunu bekliyorduk!
+73|Tanrım... O çılgın şeyi yine mi\nyapmamız lazım?
+74|<CLT=cltMIND>Görünüşe göre bu konuda\nfikirlerimiz bölünmüş...
+75|<CLT=cltMIND>ama delillere odaklanırsak gerçekler\nnetleşecek.
+76|<CLT=cltMIND>Tek yapmam gereken onlara gösterip\nkabul etmelerini sağlamak.
+77|<CLT=cltMIND>Şimdi gerçeği görmelerini sağlayamazsam\nyalanım boşa gitmiş olur...
+78|<CLT=cltMIND>...Başaracağım.
+## c02_218_000
+0|Ertesi sabah!
+1|Gece!
+2|<CLT=cltMIND>Olay yerini düşününce cesedin tanka\nsabah konulduğunu sanmıyorum.
+3|<CLT=cltMIND>Görüşlerimizin tutarlı olduğundan\nemin olmalıyız!
+4|<CLT=cltMIND>Benim tarafımdaki herkesin konuşup\nkarşı argümanlar sunmasını sağlamalıyım!
+5|<CLT=cltMIND>Anonstan bahseden bir tek\nTsumugi...
+6|<CLT=cltMIND>Önce en basit ifadelere odaklanmalı,\nsonra ona göre tartışmalıyız.
+7|Suçlu cesedi sabah anonsundan hemen\nönce mi taşıdı?
+8|<CLT=cltMIND>Tutarlı olmadığımızda pozisyonumuz zayıf\ngörünür. Birlikte çalışmalıyız!
+9|<CLT=cltMIND>Ryoma'nın cesedi tanka gece konuldu.\nBu noktayı savunmalıyız!
+10|Suçluyu sadece gözden kaçırmış olman\nmümkün değil mi?
+11|<CLT=cltMIND>Tutarlı olmadığımızda pozisyonumuz zayıf\ngörünür. Birlikte çalışmalıyız!
+12|<CLT=cltMIND>Ryoma'nın cesedi tanka gece konuldu.\nBu noktayı savunmalıyız!
+13|Unutmayın, kurallara göre gece spor\nsalonuna girilemez!

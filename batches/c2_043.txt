@@ -1,0 +1,57 @@
+@ chap2_text_US
+## c02_017_254
+16|Hayata daha sıkı bağlı olsaydım ben de\nsizinle birlikte elimden geleni yapabilirdim—
+18|<CLT=cltMIND>Ryoma birden eğilip\nsaklandı.
+19|<CLT=cltMIND>Ryoma'yı neyin korkuttuğuna baktığımda\nşunu gördüm...
+20|İşte buradasın...\nHey, nereye gidiyorsun?
+21|Ha? Gonta...?
+22|Pardon, Shuichi, ama ben kaçıyorum...\nHâlâ yapmam gereken şeyler var.
+23|Hayır! Gonta gitmene izin veremez!\nÜzgünüm ama...senin iyiliğin için!
+24|<CLT=cltMIND>Gonta kontrolden çıkmış bir tren gibi\nüstümüze koştu ve sonra...
+25|<CLT=cltMIND>Bilincimi kaybettim.
+26|<CLT=cltMIND>Darbeyi hissetmedim bile, çığlık atacak\nvaktim olmadı. Dünyam karardı.
+27|<CLT=cltMIND>Ve bu zifiri karanlık dünyada\nkendi kendime düşündüm...
+28|<CLT=cltMIND>Demek böyle bir şeymiş...ölmek.
+30|Henüz ölemem!
+31|Ah!?
+32|Okul Binası - 1. Kat
+35|Miu'nun Araştırma Laboratuvarı
+37|Antrenman Sahası
+38|Arka Bahçe (Doğu)
+39|Arka Bahçe (Batı)
+42|Aşk Oteli
+## c02_018_136
+0|Günaaaydın, uykucu!\nSonunda uyandın, Shuichi.
+2|Ha? Ne...?
+3|Nişişi, şimdi de "Ben kimim?" ve\n"Neredeyim?" diye mi soracaksın?
+4|Eh, kesinlikle Shuichi Saihara'sın.\nBurası da...
+5|Hmmm...sanırım cehennem.
+6|Cehennem mi...?
+7|<CLT=cltMIND>Kafam karışık hâlde başımı salladım.\nEtrafa baktım...
+8|B-Burası...?
+9|Oh, uyandın mı? Burası <CLT=cltSTRONG>Ultimate\nBöcekbilimci<CLT=cltNORMAL>'nin araştırma laboratuvarı.
+10|<CLT=cltSTRONG>Ultimate Böcekbilimci<CLT=cltNORMAL>'nin laboratuvarı mı?\nNeden...?
+11|Ah, hatırladım!\nGonta bana saldırdı ve sonra...
+12|Aynısı geri kalanımız için de geçerli. Hepimizi\nGonta yakaladı...ve buraya getirdi.
+13|Ama bayılan bir tek Shuichi oldu.
+14|Gonta bunun için özür diledi.
+15|Görünüşe göre seni yakalamaya çalışırken\nzamanında yavaşlayamamış.
+16|Bu da ne böyle...?\nGonta bunu neden yaptı?
+17|Şu...şu herif yüzünden.\nO...o herif tarafından kışkırtıldı.
+18|<CLT=cltMIND>Gözlerim Tsumugi'nin işaret ettiği\nyere kaydı...
+19|Kaçmaya çalışmanın faydası yok.\nGonta sizi yine yakalar.
+20|Bu senin işin mi, Kokichi?\nGonta'ya bizi kaçırttın mı?
+21|Nişişi... Çok saf düşünüyor.
+22|Böceklerden nefret eden herkesin onlardan\nkurtulmaya çalıştığını söyler söylemez...
+23|...ağlamaya başladı ve size böcekleri\nsevdireceğini söyledi...ya da öyle bir şey.
+24|Ve bu yüzden hepimiz buradayız! Zorunlu\n<CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltNORMAL>'na hoş geldiniz!
+25|Ah, ismi Gonta buldu, beğenmediyseniz\nşikâyetlerinizi ona iletin!
+26|Berbatsın... Gonta'yı kandırdın.
+27|Harika değil mi!? Böyle...kötüüüü bir şeyi ancak\nbenim gibi kötü bir yüce lider yapabilir!
+28|Kokichi...bunu neden yapıyorsun?
+29|Oh, bütün videolarımızla kendimize küçük\nbir izleme partisi verebiliriz diye düşündüm.
+30|Hepiniz buradayken <CLT=cltSTRONG>motif videolarımızı<CLT=cltNORMAL>\ndeğiş tokuş etmek hiç de zor olmaz...
+31|Ben de videolarınızı görmek istiyorum, hepsini\nbirlikte art arda izleriz diye düşündüm!
+32|B-Bunu yaparsan ne olacağını biliyor\nmusun?
+33|Hmmm... Herkes kendi <CLT=cltSTRONG>motifini<CLT=cltNORMAL> öğrenir ve\nbir cinayet işlenmesi daha olası olur?
+34|Ama ben Zalim zorlukta oynamayı severim. Ayrıca\nRPG'lerde savaşlardan <CLT=cltSTRONG>kaçmam<CLT=cltNORMAL> da!

@@ -1,9 +1,30 @@
+0	Ryoma'nın oda anahtarını getirdin, değil mi?
+1	İzinsiz girmek doğru gelmiyor ama artık\nizin veremez ki.
+2	Ryoma'nın odasını araştırmamız bitti...\nBurada başka işimiz yok, değil mi?
+3	<CLT=cltMIND>Burada hâlâ araştırmam gereken\nbir şey var...
 4	Evet
 5	Hayır
 6	Emin olmadığın bir şey mi var?
 7	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+8	<CLT=cltMIND>Bu benim odam ama...\nşimdi dinlenmenin sırası değil.
+9	<CLT=cltMIND>Bu Kaito'nun odası.\nŞimdi uğrayacak vaktim yok...
 10	<CLT=cltMIND>Rantaro...
+11	<CLT=cltMIND>Sana olanlardan sonra, Ryoma...\nBu nasıl olabilir!?
+12	<CLT=cltMIND>Bu...Gonta'nın odası, ha?\nDavayla bağlantılı olduğunu sanmıyorum.
+13	<CLT=cltMIND>Bu Kokichi'nin odası ama...\ndavayla bağlantılı olduğunu sanmıyorum.
+14	<CLT=cltMIND>Bu Kiyo'nun odası\nama davayla bağlantılı olduğunu sanmıyorum.
+15	<CLT=cltMIND>Bu Keebo'nun odası...\nDavayla bağlantılı olduğunu sanmıyorum.
+16	<CLT=cltMIND>Yanlış hatırlamıyorsam bu Kirumi'nin odası.\nDavayla bağlantılı olduğunu sanmıyorum.
+17	<CLT=cltMIND>Bu Himiko'nun odası.\nDavayla bağlantılı olduğunu sanmıyorum.
+18	<CLT=cltMIND>Demek bu Maki'nin odası...\nDavayla bağlantılı olduğunu sanmıyorum.
+19	<CLT=cltMIND>Bu Tenko'nun odası.\nDavayla bağlantılı olduğunu sanmıyorum.
+20	<CLT=cltMIND>Bu...Tsumugi'nin odası.\nDavayla bağlantılı olduğunu sanmıyorum.
+21	<CLT=cltMIND>Bu Angie'nin odası ama...\ndavayla bağlantılı olduğunu sanmıyorum.
+22	<CLT=cltMIND>Bu Miu'nun odası\nama davayla bağlantılı olduğunu sanmıyorum.
 23	...
+24	<CLT=cltMIND>Kaede... Dileğin...buradan birlikte\nçıkacağımıza dair verdiğimiz söz...
+25	<CLT=cltMIND>Sana söz verdim...ama...
+26	Shuichi, sonra düşünelim.\nÖnce Ryoma'nın davasıyla ilgilenmemiz lazım.
 27	Ah, doğru...
 28	<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
 29	<CLT=cltMIND>Çok hantal...\nAcaba Monokuma böyle şeylerden mi hoşlanıyor.

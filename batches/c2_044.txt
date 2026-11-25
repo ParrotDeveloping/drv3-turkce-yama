@@ -1,0 +1,46 @@
+@ chap2_text_US
+## c02_018_136
+35|Bu öldürme oyununu kazanmak istiyorum! O yüzden\nondan kaçmayacağım, onu ezip geçeceğim!
+36|Böylesi çoook daha az sıkıcı olur, değil mi?
+37|Bu da ne demek oluyor lan!?
+38|Sizi uyarmaya çalıştım... Birbirimizle <CLT=cltSTRONG>iş birliği\nyapmamamız<CLT=cltNORMAL> gerektiğini söylemiştim.
+39|Ayrıca madem bunu yapacağım, eğlenip\nsonuna kadar gitmem lazım.
+40|<CLT=cltSTRONG>Ölüm oyunu<CLT=cltNORMAL> oynama fikri seni heyecanlandırmıyorsa\nasla kazanamazsın. Anladın mı?
+41|<CLT=cltMIND>Garip bir şekilde, bunu söylerken\ngülümsemesinde hiçbir kötülük sezemedim.
+42|<CLT=cltMIND>Oynaşan bir çocuk gibi masum bir\ngülümsemeydi.
+43|<CLT=cltMIND>Ama belki de...\nbu da başka bir <CLT=cltSTRONG>yalandır<CLT=cltMIND>.
+44|Beklediğiniz için teşekkürler!\nGonta, Himiko ile Angie'yi getirdi!
+45|Ha? Himiko ile Angie de mi?
+46|Offf ya... Tam da mola verecektim.\nBütün hazırlıkları yeni bitirmiştim...
+47|Nyeeeh... Bu da ne demek oluyor?
+48|Himiko, iyi misin? Tükürüğüm yaraların\ndaha hızlı iyileşmesini sağlar.
+49|Yüzün acıyor mu? Yüzüne tükürüp daha iyi\nhissetmeni sağlamamı ister misin?
+51|Hey, Gonta... Spor salonundan sadece\nbunları mı getirdin?
+52|Oh... Kirumi spor salonunda ama Gonta'ya\nçok meşgul olduğunu söyledi...
+53|Hm...? Ve sen de...öylece bıraktın mı?
+54|Atua, Kirumi'nin kendisinden istenen her\n<CLT=cltSTRONG>isteği<CLT=cltNORMAL> yerine getirdiğini söylüyor. Bir anne gibi.
+55|Ah, o anne değil ama...\nDur, ne isteği?
+56|Perdeleri dikmesini istedim. Gonta'nın bile\nonu rahatsız edebileceğini sanmıyorum.
+57|Üzgünüm... Gonta bile Kirumi'yi yenecek\nkadar güçlü değil...
+58|Hmmm, eh, sanırım en azından biriniz\n<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> denmeyi hak ediyor...
+59|Neyse, onun için yapacak bir şey yok...\nDiğerleri hâlâ bir yerde saklanıyor mu?
+60|Oh, Gonta Miu'yu gördü ama...Gonta'nın yüzü\nkıpkırmızı oldu. O yüzden...Gonta onu getiremedi.
+61|Yüzün mü kızardı? Yani onun peşine\nkızgın kızgın düştün, değil mi?
+62|Hayır, şey, o kendi...neydi adı?\n"Gizli kadın silahı" mı? Kullandı ve sonra—
+63|Neyse, bu kadar insan yeter, değil mi?\n"<CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltNORMAL>" harika başladı!
+64|Evet, tabii. Bu kadarı yeter. Zaten ana\netkinliğe geçmeliyiz.
+65|Gonta, kanma!
+66|Seni sadece hepimizi kaçırmak için kullandı!
+67|Ha!? Gerçekten mi!?
+68|Hayııır, bu <CLT=cltSTRONG>Böceklerle Tanışma Buluşması<CLT=cltNORMAL> için.\nBöcekleri senden bile çok seviyorum, Gonta.
+69|...Oh? Gonta'dan da mı çok? İnanılmaz...\nBöcekleri o kadar çok mu seviyorsun...!?
+70|Görünüşe göre...daha fazla tartışmak\nboşuna bir çaba.
+71|Şimdi, Gonta... Hadi onlara böceklerin\nne kadar harika olduğunu öğret.
+72|Halletmem gereken bir iş var ama döneceğim.\nGitmelerine izin verme, tamam mı?
+73|Gitmeye çalışırlarsa onlara böceklerin neden\nbu kadar harika olduğunu iyice göstermen lazım.
+74|...Mm-hm, anladım.
+75|D-Dur, gidiyor musun!?
+76|Elbette. Birinin <CLT=cltSTRONG>malları<CLT=cltNORMAL> almak için\nodalarınıza girmesi lazım.
+77|Nişişi... Kilit açmak benim gibi kötü bir yüce\nlider için çocuk oyuncağı.
+78|Ne? Bir kızın odasına izinsiz mi\ngireceksin?
+79|Görünüşe göre bununla benim ilgilenmem gerek.\n<CLT=cltSTRONG>Yeteneğimle<CLT=cltNORMAL> Kokichi, seni durduracağım—
