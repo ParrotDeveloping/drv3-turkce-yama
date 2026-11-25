@@ -1,0 +1,65 @@
+@ chap4_text_US
+## c04_300_333
+120|Çünkü Gonta <CLT=cltSTRONG>dış dünyanın sırrını<CLT=cltNORMAL>\nhatırlayınca Gonta düşündü ki...
+121|...ölmek... daha kolay olurdu.
+123|Herkesin başta ne dediğini hatırlıyor musunuz?\nBu akademinin cehennem olduğunu?
+124|Gonta... katılıyor.
+125|Öğrencileri öldürme oyununun parçası olmaya\nzorlayan akademi cehennemdir.
+126|O yüzden herkes buradan kaçmak istediğini\ndüşünüyor, değil mi?
+127|Ama... dışarısı da cehennemse ne yapacağız?
+128|Ne demek istiyorsun, Gonta?
+129|İçerisi cehennem! Dışarısı cehennem! Gonta ve\narkadaşları ne için yaşamalı!?
+130|Ve ölen herkes...\nNe için öldüler!?
+131|<CLT=cltMIND>Dışarısı cehennem... içerisi cehennem...
+132|Ve sonra Kokichi Gonta'ya söyledi...
+133|Herkesi cehennemden kurtarmanın en iyi yolu,\nhâlâ bilmiyorlarken acılarına son vermek.
+134|Ve böyle pis işi yapabilecek tek kişi...\nGonta.
+135|Doğru... Herkesi kurtarmanın tek yolu\nonları bu cehennemden kurtarmak.
+136|Gonta pis işi bizim için üstlendi.
+137|Sınıf duruşmasından sağ çıksaydı bu\ncehennemde tek başına yaşayacaktı...
+138|Gonta o rolü bizim için üstlendi!\nOna daha çok minnettar olmamız gerekmez mi!?
+139|Bir dakika!\nNeler olduğunu hâlâ anlamıyorum!
+140|Hangi <CLT=cltSTRONG>dış dünyadan<CLT=cltNORMAL> bahsediyorsunuz?\nDışarısı cehennem mi? Ne demek istiyorsunuz?
+141|Kokichi ve Gonta ne gördü?\nBiz... neyi unuttuk...?
+143|Acele et de söyle. Yoksa anlayamayacağız.
+144|Gonta, seni böyle bir şey yapmaya\nne itti!?
+146|Cevap ver, Gonta!
+147|Özür dilerim! Gonta söyleyemez!
+148|Söyleyemez misin!? Neden!?
+149|Ç-Çünkü... Gonta söylerse o zaman...\nherkes Gonta gibi olur...
+150|Herkes... umutsuzluğa düşer.
+151|Umutsuzluk mu!?
+152|Ben... biliyorum...\nİnsanı ölmek istettiren bir umutsuzluk...
+153|İnsanı herkesin acısına son vermek\nistettiren bir umutsuzluk...
+154|Nazik Gonta'nın size böyle bir umutsuzluğu\nkendi ağzıyla anlatacağını mı sandınız?
+155|Ama şimdi başladığımızdan daha fazla\nbir şey bilmiyoruz...
+156|Artık Gonta ile Öldürme Oyunu Avcıları'nı\nnasıl kurduğumuzu biliyorsunuz, değil mi?
+157|O zaman... bu davadaki her şeyi kabul\nedemez misiniz? Gerisini hayal edebilirsiniz, değil mi?
+158|Ben... Miu'nun planını kullanıp\nona karşı çevirdim...
+159|Gonta'yı gözlerden uzakta... Miu ile\nbuluşacağımız yerde sakladım.
+160|O-Olamaz...\nGonta... asla...
+161|Cesedi şapel duvarına kaydırmanın Gonta'nın\nfikri olduğunu bilmelisiniz.
+162|Ne? Gonta'nın fikri mi?
+163|Gonta çatıya çıkmadan önce tesadüfen\ngördü ki...
+164|...Miu duvardan geçiyordu.
+165|Gonta Kokichi'ye söyledi, o da geri kalan\nher şeyi düşündü...
+166|Gonta bana o fırsatı verdi.\nBence... epey iyi bir ekip olduk.
+167|İyi mi!? Bunun nesi iyi!?\nSen en kötüsüsün!
+168|...Bütün hikâye bu.\nOlan her şey... bu.
+169|Yani sonuçta... bize <CLT=cltSTRONG>dış dünyanın\nsırrını<CLT=cltNORMAL> söylemeyi planlamıyorsun...
+171|Özür dilerim! Gonta bunu söyleyemez!
+172|Şey, yani, bu hikâyeyi duyunca Kokichi\ntarafından kandırılmışsın gibi geliyor.
+173|Ama... Gonta Miu'yu öldürdü...\nGonta gerçekten yaptı...
+174|Özür dilerim! Herkes... Gonta çok özür diler!
+175|G-Gonta!
+176|Ama... Gonta'nın herkesi kurtarma planı başarısız oldu...
+177|Gonta kimseyi kurtarmadı...\nGonta sadece herkese daha çok acı çektirdi...
+178|Gonta... aptal! Çok aptal!\nGonta kendine nasıl centilmen diyebilir!?
+179|*hıçkırık*... *hıçkırık*...
+180|Millet... lütfen onu affedin.
+181|Gonta bizi öldürme günahını üstlenerek\nhepimizi umutsuzluktan kurtarmaya çalıştı.
+182|Ama... siz gerçeğe uzandınız.\nVe Gonta'nın planı başarısız oldu.
+183|Hiçbir şey bilmeden ölseydiniz hepiniz\nkurtulabilirdiniz...
+184|Yani gerçek için savaşmanın yanlış\nolduğunu mu söylüyorsun!?
+185|Evet, öyleydi.\nEn azından Gonta ve ben öyle düşünüyoruz.
+186|Hepiniz cahil olarak ölmeliydiniz...

@@ -1,0 +1,68 @@
+@ chap4_text_US
+## c04_707_053
+8|<CLT=cltMIND>Robofobik olmaktan kaçınmak zordu,\nama zaman yeterince çabuk geçti...
+## c04_707_054
+0|Miu'nun kendini bilgisayar odasına\nkapattığını fark ettim.
+5|B-Bilgisayarı kıskanmıyorum.\nBu... tabii ki saçma olurdu.
+6|Sadece bahsettiği o diğer dünyayla bir\nilgisi var mı merak ediyorum...
+## c04_709_050
+0|Konserve ton balığı... Şimdi düşününce\ncanım çekti...
+1|İyi bir ton balığı olmasına bile gerek yok!\nİçine biraz yunus karışmış olsa da olur!
+6|O zaman yemekhanede konserve ton balığı\narayalım! Sihrimle sana ipucu veririm!
+7|<CLT=cltMIND>Hiç ton balığı bulamadık...
+8|<CLT=cltMIND>Sonunda depoda bulduğumuz balık\ncipslerini yiyerek sohbet ettik.
+## c04_709_051
+0|Kimse daha fazla kurban istemiyor...\nBelki Gonta bunu anlamıyordur?
+1|Biz kurtulsak da Gonta kendini kaybederse\nbunun bir anlamı olmaz.
+6|Kontrolden çıkmasın diye sihrimi kullanıp\nona göz kulak olmalıyım.
+7|Shuichi, bir şey yapmıyorsan\nyardım etmelisin...
+8|<CLT=cltMIND>Himiko sihir kullanacağını söyledi ama\nsonunda sadece Gonta'yı gizlice takip ettik...
+## c04_709_052
+0|Ah, Shuichi. Tam zamanında.\nBana katılmak ister misin?
+5|Hm, güzel cevap. O zaman sihir aletlerimin\nbakımına yardım edeceksin.
+6|<CLT=cltMIND>Himiko ile sihirbazlık numaraları için\nmalzeme toplayarak biraz vakit geçirdim—
+7|<CLT=cltMIND>Ah, yani... *sihri* için.
+## c04_709_053
+0|Yapabileceğim bir şey var.\nSihrimle sana destek olacağım.
+5|Hıh, bana bırak.\nSihrimle hiçbir şey imkânsız değil!
+6|Ama benim büyü güçlerimin bile bir sınırı\nvar... Bunu anladığından emin ol.
+## c04_709_054
+0|Nyeh...? Benimle konuşman falan\nmı lazım?
+5|Sıkıldın mı? Benimle gelebilirsin.
+6|Yorgunum... Şimdi dinlenmezsem bu geceye\nkadar dayanamam...
+7|<CLT=cltMIND>Pozitif olmaktan yorgun düşen Himiko ile\ndinlenerek biraz vakit geçirdim.
+## c04_710_050
+0|Her şeyi bulduğumuzda hepsinin birbirine\nbağlanacağını düşünüyorum.
+1|Kokichi'ye katılmak istemiyorum ama...\nkesinlikle öyle hissettiriyor.
+6|Bir dedektif olarak fikrin ne? Dağınık\nanılarımızın bir anlam ifade edeceğini düşünüyor musun?
+7|<CLT=cltMIND>Maki ile anılarımız hakkında konuşarak\nbiraz vakit geçirdim.
+## c04_710_051
+0|Miu neden bahsediyordu acaba... Öldürme\noyunu olmayan bir dünyadan bahsetti.
+1|Ama dış dünyaya gitmekten bahsetmiyor\ngibiydi...
+6|Neyse, ondan geldiğine göre muhtemelen\nsaçmalıktır...
+## c04_710_052
+0|...Kokichi gerçekten kara eller olmayı\nmı planlıyor?
+1|Belki onu araştırma laboratuvarına almak\nkonusunda daha dikkatli olmalısın.
+2|Orada bir sürü zehir var, o yüzden...
+6|<CLT=cltMIND>Ne yapmalıyım?\nBir süre Maki ile takılayım mı?
+7|...Biri bir şey almış mı diye araştırma\nlaboratuvarına bakmaya gidelim mi?
+8|Ayrıca biri denerse diye nöbet tutabiliriz.
+9|<CLT=cltMIND>Laboratuvarımda Maki ile biraz\nvakit geçirdim.
+## c04_710_053
+0|Sadece benim yapabileceğim bir şey...
+1|...Aklıma tek bir şey geliyor.
+6|...Ne diyeceğini biliyorum.\nAma... gerçek bu.
+7|Tabii ki yapabileceğim... başka şeyleri\nde düşüneceğim.
+## c04_710_054
+0|...Monokuma'nın henüz bize bir şey\nyapmamış olması biraz tuhaf.
+1|Ayrıca Kokichi'nin aldığı motif <CLT=cltSTRONG>kart anahtarı<CLT=cltNORMAL>\nda bir yerlerde...
+6|Hiçbir şey olmazsa sorun yok ama...\nBelki sadece fazla düşünüyorumdur.
+## c04_712_050
+0|Gizemli bir virüsün yayılmasından kaynaklanan biyolojik\ntehlike... İnsanları bilinmeyen bir hastalıkla enfekte eden...
+1|Şimdilik sanırım şifalı ot stoklayacağım...
+6|Doğal iyileşmeyi uyarıyorlar ve her derde\ndeva. Tehlikeli derecede etkililer.
+7|Nasıl yapıldıkları ya da nasıl kullanıldıkları\nbile bir gizem...
+8|...Ah, pardon. Oyunlardan bahsediyordum.
+## c04_712_051
+0|Gonta iyi mi acaba.
+1|Onu yalnız bıraksak bir Exisal ile tek başına\nsavaşmaya kalkacak gibi görünüyordu...

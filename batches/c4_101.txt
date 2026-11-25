@@ -1,0 +1,54 @@
+@ chap4_text_US
+## c04_300_333
+65|Bununla ne demek istiyorsun?\nBen... hiç anlamıyorum!
+66|...Hay Allah, Gonta her zamanki gibi açıklamada\nkötü. Sanırım yardım etmem gerekecek.
+67|Yani, o zaman ne olduğunu\nhatırlıyorsanız.
+70|<CLT=cltMIND>Kokichi çevik vücudunu kullanarak\nkart anahtarı Monokuma'dan kaptı.
+71|Kart anahtar...\nYani kullandın mı?
+72|Yorulmadan uğraştıktan sonra sonunda kart\nanahtarın kapısını buldum. Açtıktan sonra...
+73|...<CLT=cltSTRONG>dış dünyayı<CLT=cltNORMAL> gördüm.
+74|...Dış dünyayı mı?
+75|Monokuma'nın <CLT=cltSTRONG>motifi<CLT=cltNORMAL> bu muydu?
+76|Ama dış dünyayı görmek neden bir\n<CLT=cltSTRONG>motif<CLT=cltNORMAL> olsun ki?
+77|Birazdan anlatacağım ama...\nMiu'nun planını o zaman öğrendim.
+78|Ve aklıma geldi... İkisini birleştirirsem\nherkesi kurtarabilirdim.
+79|Herkesi kurtarmak mı...? Ne demek istiyorsun?
+80|Hey, önce söylediğim her şeyi\ndinlemelisin.
+81|Neyse, işte o zaman Monokuma ile anlaştım.\nÖldürme oyununu şenlendirirsem...
+82|...<CLT=cltSTRONG>dış dünyayı<CLT=cltNORMAL> tekrar <CLT=cltSTRONG>motif<CLT=cltNORMAL>\nolarak kullanmama izin verecekti.
+83|Tekrar mı...?
+84|Ben de bir şey diyeyim!
+85|Kokichi'nin kaptığı <CLT=cltSTRONG>motif kart anahtarı<CLT=cltNORMAL>\n<CLT=cltSTRONG>dış dünyayı görme hakkıydı<CLT=cltNORMAL>.
+86|Ama dış dünyayı görmesine rağmen onu\nöldürme oyunu için kullanmaya çalışmadı...
+87|Bu beni hayal kırıklığına uğrattı ama sonra\nKokichi <CLT=cltSTRONG>motifi<CLT=cltNORMAL> yeniden kullanmamızı önerdi.
+88|<CLT=cltSTRONG>Dış dünyayı görme hakkını<CLT=cltNORMAL> bir kez\ndaha geri getirmemiz gerektiğini söyledi.
+89|Ben de o fikirle devam etmeye karar verdim...
+90|Böylece bir <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'na <CLT=cltSTRONG>dış dünyanın\nanılarını<CLT=cltNORMAL> yükleyip simülasyona koydum.
+91|Dış dünyanın anıları...\nGeri Dönüş Işığı'nda mı?
+92|Sanal Dünya'daki <CLT=cltSTRONG>dış dünyanın sırrı<CLT=cltNORMAL>\n<CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> hakkında mıydı?
+93|Ve eğer <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL> ise...
+94|bu <CLT=cltSTRONG>dış dünyanın sırrının<CLT=cltNORMAL> unuttuğumuz\nanılarımızın bir parçası olduğu anlamına gelir.
+95|Ne diyorsun sen...?
+96|Ama dış dünyayla ilgili herhangi bir şey\nneden <CLT=cltSTRONG>motif<CLT=cltNORMAL> olsun ki?
+97|Burada... neler oluyor?
+98|Haaa, hatırlayamıyor musunuz?\nTama-am, peeki.
+99|Motifi sonra konuşalım.\nÖnce bu davayı bitirmeliyiz.
+100|Monokuma <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'nı simülatöre\nsakladı ama ben nerede saklandığını biliyordum...
+101|...ve Sanal Dünya'da onu Gonta'ya\ngösterdim.
+102|Hey! Nerede saklandığını bile mi\nbiliyordun!? Bu haksızlık!
+103|Hop, ben sadece koydum.\n"Sakladım" diye bir şey hiç demedim.
+104|Biri sorsaydı nerede olduğunu seve seve\nsöylerdim.
+105|B-Bunun için biraz geç!
+106|Demek Gonta <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>'na\nmaruz kaldı!
+107|Evet, Kokichi ve Gonta birlikte gittiğinde...
+108|Kokichi... Gonta'yı tek başına bir yere\nmi çekmeye çalışıyordu?
+109|<CLT=cltSTRONG>Dış dünyanın sırrını<CLT=cltNORMAL> emanet ettiğim\ntek kişi Gonta'ydı.
+110|Ondan sonra Gonta... konağın yakınındaki\normana götürüldü.
+111|Ve orada... Gonta <CLT=cltSTRONG>dış dünyanın\nsırrını<CLT=cltNORMAL> hatırladı...
+112|Ama bu... Gonta'nın ne yapacağı konusunda\nkafasını daha da karıştırdı...
+113|Gonta herkesi kurtarmak için ne yapabilir...?\nGonta hiçbir şey düşünemedi...
+114|Ben de ona söyledim.
+115|Herkesi kurtarmak istiyorsa herkesi\nçektiği acıdan kurtarmalı.
+116|Başka bir deyişle... merhamet öldürmesi.
+118|Gonta... kandırıldı mı!?
+119|Hayır, kandırılmadın.

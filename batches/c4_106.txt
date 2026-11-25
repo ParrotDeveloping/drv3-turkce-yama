@@ -1,0 +1,73 @@
+@ chap4_text_US
+## c04_704_050
+0|Gonta herkese yararlı olmak için...\nne yapabilir?
+1|Gonta yeraltı geçidinde... herkesi\nkoruyabileceğini düşünmüştü!
+6|Gonta... artık dayanamıyor! Gonta başka\nkimseyi kaybetmek istemiyor!
+7|<CLT=cltMIND>Gonta'yı teselli ederek biraz vakit geçirdim...
+## c04_704_051
+0|Miu bizi öldürme oyunu olmayan bir dünyaya\ngötüreceğini söyledi, değil mi?
+1|Miu buradan çıkış yolu mu buldu? Neden\nbize söylemiyor?
+6|Miu'nun belki bir planı var...
+7|Gonta planlarda iyi değil... Onun yerine Gonta\nkaçarken herkesi koruyacak!
+## c04_704_052
+1|Gonta geçen gün minik böcek gördüğünü biliyor...\nNeden bugün çıkmıyor...?
+6|Ah! Gonta böcek yemi kurmalı!
+7|Shuichi, Gonta'nın yem yapmasına yardım edebilir misin?
+8|<CLT=cltMIND>Gonta ile böcek avlayarak biraz\nvakit geçirdim...
+9|<CLT=cltMIND>Hiç yakalayamadık...\nBelki Gonta hayal görüyordur?
+## c04_704_053
+0|Selam, Shuichi! Gonta bugün sana nasıl yardım edebilir?
+5|Tamam! Gonta da seninle vakit geçirmek istiyor!
+6|Gonta herkese yardım etmek için yapabileceği şeyleri\ndüşünmesine yardım edersen mutlu olur...
+## c04_704_054
+0|Nrgh... Gonta yorgun... Gonta çok düşünüyor...
+5|Dinlenmek de önemli...
+6|Gonta herkesin ona ihtiyacı olduğunda\nişe yaramaz olmadığından emin olmalı!
+7|<CLT=cltMIND>Gonta ile rahatlatıcı bir mola verdim...
+## c04_705_050
+0|Motif <CLT=cltSTRONG>kart anahtarının<CLT=cltNORMAL> kapısını bulamamam\nyazık... Çok sıkı aradım hem de...
+5|Hayır, pes etmek için çok erken! Onun yerine\ndedektif sezgine güveneceğim!
+6|<CLT=cltMIND>Kokichi kart anahtarı kullanacak yer bulmaya\nçalışarak beni bütün binada sürükledi.
+7|<CLT=cltMIND>Kahretsin... Hiçbir şey.
+## c04_705_051
+0|Ah...\nKaito az kalsın beni döve döve öldürüyordu...
+5|...Gerçiii, bu kadar çabuk ölmeyi\nplanlamıyorum, biliyor musun?
+6|Kurban... ya da fail olduğumda...\nbir sürü hile kuracağım...
+7|Herkes bolca eğlensin diye...
+## c04_705_052
+0|Öldürme oyunu olmayan bir dünya...
+1|Bunu kim istedi ki!? Bu ilginç oyunla\nçok eğleniyoruz!
+7|O nohut beyinli kaltak ne planlıyor?\nGereksiz bir şey yapacak, değil mi?
+## c04_705_053
+0|Hey, Shuichi bu. Yardımcı olabilir miyim?
+5|Haaa? Kahvaltı toplantısı mı?\nGitmek zorunda mıyım?
+6|Otoriter ve sinir bozucu bir kaynana gibisin.\nBütün dedektifler böyle mi?
+## c04_705_054
+0|Kaito'ya rastladım, sonunda bana nutuk\nçekti.
+1|Kaçmanın bir yolunu düşünmemi söyledi...
+2|Ama aklıma gelen tek fikir kendim kara eller\nolmak. Bu herkesi eğlendirirdi.
+8|Nii-hihi, yalan söylüyorum!\nBana öyle korkunç bir surat yapma!
+9|Al, sakız ister misin? Son tanem ama\nçoook istiyorsan veririm!
+## c04_707_050
+0|Dünyayı bombalayan göktaşları...\nBu "<CLT=cltSTRONG>Gofer Projesi<CLT=cltNORMAL>"...
+1|Böyle önemli olayları unuttuğumuza\ninanamıyorum...
+6|Kütüphaneye gitmek ister misin?
+7|Belki dünyanın durumunu açıklayan\nbelgeler vardır...
+8|<CLT=cltMIND>Keebo ile bize ipucu verebilecek bir\nkitap arayarak biraz vakit geçirdim.
+## c04_707_051
+0|Gonta'nın nasıl hissettiğini anlıyorum... Ben de\ndaha fazla kurban olsun istemiyorum...
+5|Monokuma'nın bizim için yeni bir <CLT=cltSTRONG>motif<CLT=cltNORMAL>\nhazırlayacağından hiç şüphem yok...
+6|Ama kazanmamızın tek yolu hiç olmadığı\nkadar birbirimize kenetlenmek.
+7|<CLT=cltMIND>Keebo ile tutkulu bir sohbet ettik.
+## c04_707_052
+0|Görünüşe göre diğer herkese uygun bir\nlaboratuvar verilmiş...
+1|Peki neden benim laboratuvarımın bilimkurgu teması var!?
+2|Bu muhtemelen yine robofobi...
+7|Krgh... Bundan pek rahatsız olmamış gibisin...
+8|Shuichi, bazen çok duyarsız olabiliyorsun...
+9|<CLT=cltMIND>...Öyle miyim?
+## c04_707_053
+0|Hepimizin hayatta kalmasını sağlamak için\nher birimiz ne yapabiliriz...?
+1|Hepimizin <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yetenekleri var.\nYapabileceğimiz bir şey *olmalı*.
+6|Tabii ki! Her birimizin ne yapabileceğini\ndüşünelim!
+7|<CLT=cltMIND>Keebo ile her birimizin ne yapabileceğini\ntartışarak biraz vakit geçirdik.

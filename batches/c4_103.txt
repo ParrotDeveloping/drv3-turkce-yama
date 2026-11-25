@@ -1,0 +1,69 @@
+@ chap4_text_US
+## c04_300_333
+187|Gonta bunun için Miu'yu bile öldürdü, biliyor musunuz?
+188|Yeter artık saçmalıkların!\nOna öldürten sendin!
+189|Hayır! Gonta kötü!
+190|Çünkü Gonta birini öldürdü!\nGonta katil! Bu doğru!
+191|Evet... Gonta herkese acı çektirdi.\nBu doğru...
+192|Özür dilerim! Gonta herkesi hayal kırıklığına uğrattığı için özür diler...
+193|Gonta aptal olduğu için özür diler! Gonta herkese\nacı çektirdiği için özür diler! Gonta çok özür diler!
+194|A-Anladık... Artık özür dilemene...\ngerek yok...
+195|Muhtemelen hepiniz pis işi Gonta'nın değil\nbenim üstlenmem gerektiğini düşünüyorsunuz, değil mi?
+196|Herkes... benden nefret ediyor...\no yüzden kötü adam rolü bana çok uygun...
+197|Evet, zaten biliyorum!\nBenim sorumluluğum olmalıydı!
+198|Ama... Miu'nun beni hedef aldığını fark\nettiğimde kendi kendime düşündüm ki...
+199|...Sanal Dünya'da karşılık vermemi engelleyecek\nbir yolu zaten olmalı.
+200|Ve aslında haklıydın. Seni sadece bir dokunuşla\nfelç edebilecek şekilde ayarlamıştı.
+201|Bu yüzden Gonta'dan istemek zorunda kaldım!\nYapabilseydim kendim yapardım!
+202|Tamam ama... Her şeyi Gonta'nın üstüne\nyıkmana gerek yoktu-
+203|Durun! Sorun yok!
+204|Millet, lütfen...\nArtık... Kokichi'yi suçlamayın...
+205|Lütfen...
+206|Gonta... sen...!
+207|N-Ne kadar iyi olabilirsin, Gonta?\nGerçekten de... bazen aptalsın...
+208|H-Haklısın... Gonta gibi aptal biri\nasla centilmen olamaz—
+209|Hey, eee... bitti mi artık?
+211|Kısır döngüde konuşmaya başladınız, o yüzden\nheyecanlı kısma geçelim.
+212|Evet! Merakla beklenen Ceza Vakti!
+213|Bekle! Onu cezalandıracaksan o zaman\nlütfen... beni de cezalandır.
+214|Kokichi...?
+215|Buna hazırım!\nGonta'yı idam edeceksen o zaman ben—
+216|Sorun yok, Kokichi. Lütfen Gonta'nın herkes\niçin... kendini feda etmesine izin ver.
+217|Gonta'nın artık... yapabileceği tek şey bu...
+218|Sadece Gonta'ya söz ver... herkes birbirini\naffedip arkadaş olacak. Tamam mı?
+220|...Tamam, söz veriyorum.
+221|Pekala! <CLT=cltSTRONG>Ultimate Böcekbilimci<CLT=cltNORMAL>\nGonta Gokuhara'yı cezalandırma vakti—
+222|Ah, be... Eminim cezasında bir sürü\niğrenç, pis böcek olacak.
+223|Ugh... gh...!
+224|Doğru ya! Pis şeylerden hoşlanmıyorsun!
+225|H-Hayır... o değil...
+226|G-Geliyor...
+227|Ne!? Şimdiden mi!?
+228|Sancılar... hızlanıyor...\nH-Her an...
+229|Çabuk, elimi tut!
+230|Onun için özel bir ceza hazırladım!
+231|U-Ugh...!
+232|B-Bekle, lütfen! Bunu istemiyorum!\nGitme, Gonta!
+233|Ağlama, Kokichi...\nGonta... iyi...
+234|Evet... Gonta ağlamıyor...\nGonta... gerçekten korkmuyor...
+236|Gonta üzgün! Gonta üzgün... herkesi\nkoruyamadı!
+237|Gonta, sen...!\nSen de... ağlayamazsın!
+238|Pekala o zaman, elimizden gelenin en iyisini verelim!\nİşte... CEZA VAKTİİİ!
+239|Gonta hepinizi seviyor...!
+240|Gonta çok özür diler... aptal olduğu için!
+## c04_301_333
+0|Puhuhu! Şaşırdınız mı? Ne sürpriz, değil mi?
+1|B-Bunu ben bile beklemiyordum!\nBütün minik yavrularım yok edildi!
+2|Vaaaaah! Çok üzücü! O kadar sevimlilik\nboşa gitti!
+3|Ne diyorsun sen!?\nBundan sorumlu olan sensin!
+4|K-Kendi çocuklarına neden böyle bir\nşey yaparsın ki!?
+5|Çünkü son zamanlarda birbirleriyle çok\nsamimi olup beni ihmal ediyorlardı.
+6|Gah! Bu "ebeveynlik" işine asla\nalışamayacağım!
+7|B-Bu mu... sebebi?
+8|Artık önemi yok.\nOna ilgi gösterecek vaktimiz yok.
+9|Neyse, sessizce çekilip ölen çocuklarımın\nyasını tutacağım! Görüşürüz!
+10|*hıçkırık*... *hıçkırık*...
+11|Vaaaaaaaaaaaah!\nGoooontaaa!
+12|Kahretsin!\nNeden böyle oldu!?
+14|Hey, Kokichi... neden şimdi söylemiyorsun?\n<CLT=cltSTRONG>Dış dünyanın sırrı<CLT=cltNORMAL> ne?
+15|Bilmezsek anlayamayız ya da\nkabullenemeyiz.

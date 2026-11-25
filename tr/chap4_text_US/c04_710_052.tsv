@@ -1,4 +1,11 @@
+0	...Kokichi gerçekten kara eller olmayı\nmı planlıyor?
+1	Belki onu araştırma laboratuvarına almak\nkonusunda daha dikkatli olmalısın.
+2	Orada bir sürü zehir var, o yüzden...
 3	Evet
 4	Hayır
 5	Emin olmadığın bir şey mi var?
+6	<CLT=cltMIND>Ne yapmalıyım?\nBir süre Maki ile takılayım mı?
+7	...Biri bir şey almış mı diye araştırma\nlaboratuvarına bakmaya gidelim mi?
+8	Ayrıca biri denerse diye nöbet tutabiliriz.
+9	<CLT=cltMIND>Laboratuvarımda Maki ile biraz\nvakit geçirdim.
 10	<CLT=cltMIND>Maki'yle bugün biraz daha yakınlaştık.
