@@ -1,0 +1,672 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>In an instant...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>We were standing in the other world.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Yes...\nWe were there.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "This...is...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "So this...is the Virtual World?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "It seems like...it's completely different \nfrom what we were told...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "These graphics are really disappointing! How's\nthis supposed to be better than the real world!?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "These avatars are really disappointing, too!\nI wanted to have the face of a supermodel!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I thought you liked your face...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I still have a robot body. I must admit, I was\nsecretly expecting more...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>So you were hoping for a\nchange, Keebo?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "But...it feels weird. I can move this avatar\nlike I could my own body, right?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "And with this body, I don't have to worry\nabout all that stuff...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "What stuff?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Uh...no, it's nothing.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...I want to go back.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Th-That was quick...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Ooohh, so this is the Virtual World.\nI see, I see.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "And this is my avatar.\nMm-hm, mm-hm. I get it now.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Ouch!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "What did you do that for!?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Ooh, so that hurt.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Oh, well, now that you mention it...I felt\ngenuine pain just now...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "That's pretty impressive. If you felt pain,\nthen that means our senses are connected.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...Our senses are connected?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "This place is so great, I come here all the\ntime. It's way better than the real world!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "What the heck are you talking about, \nyou fraud!?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Heeeeeeeeeee!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "This is totally different from what you said.\nPlus, this avatar has disappointing graphics.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Y-Your looks are nothing to write home about.\nTrust me, you look a billion times better now.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "What!?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Anyway...what do you mean our senses are\nconnected? I need an explanation.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "H-Huh? Didn't I tell you?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ouch!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "It means that this goes way beyond the realm of\nvirtual reality! We are *actually* connected!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "We get it, so stop hitting me!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "No can do! Even if they are avatars, I could\nnever hit a *person*!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "E-Even here...I can't escape your robophobia!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...How are our senses set up?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "When your avatar receives any sensory input,\nelectrical signals are sent to your brain.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Your brain then interprets those signals as if\nit experienced that sensory input for real.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "So even if we're not really being punched,\nthe brain senses pain cuz of those signals...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "And since it won't leave any bruises,\nyou can hit all you want!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "That's a bully's twisted logic.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Hey! Why our bodies like this!?\nThis Himiko's magic!?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Well...there's a lot of things going on right\nnow, but you don't have to worry, Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "So...how exactly are we supposed to find\nthe <CLT=cltSTRONG>secret of the outside world<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "We don't even know where to start looking.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "First, we need to learn more about this\nworld. Is there a map available?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Yeah, I've got a map, but first I gotta give\nyou a quick warning about this world.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Huh? A warning? You need to be quicker \non the draw with stuff like that.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "I-I'm plenty quick on the draw! But not too\nquick, cuz then you can't pull out in time!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Shut up...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>I wonder what the rules\nfor this place could be...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Information from our five senses here\nis sent to our real bodies...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "But it seems like information from our real\nbodies isn't sent to our consciousness here.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "If that's the case, then...it's fine, but...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "We gotta make sure we know how this world \nworks. Let's go after Miu and check the map.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "So this is \"<CLT=cltSTRONG>Ver-chewal World<CLT=cltNORMAL>\"...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "But how we even get here?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Gonta not feel anyone pick him up.\nAnd we got here so fast...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Ah, well, it's like Tsumugi said,\nyou don't have to worry...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "N-No! If Gonta not strong, Gonta no can\nprotect everyone!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Hey, who Gonta gotta talk to get strong\nagain!?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I honestly thought it'd be more like an MMO...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "But if our senses are connected, then that\nmeans it's just another reality.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "You guys better not cheat by logging out alone!\nWe have to find the <CLT=cltSTRONG>secret of the outside world<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I never thought it'd be possible to link\nour real-world senses with our avatars...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "And I never thought a robot had a <CLT=cltSTRONG>consciousness<CLT=cltNORMAL>\nto begin with...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "...And I thought you would say that.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "We're receiving too much information after\nthe fact... I feel somewhat deceived...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "But if the <CLT=cltSTRONG>secret of the outside world<CLT=cltNORMAL> is\nreally here, we can't turn back now.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "On top of the graphics and our senses, \nnow there are even more warnings...?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "This really *is* fraud!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Oh yeah! I forgot to say something \nreally important!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Unfortunately, it seems like I can't \nuse my magic here.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "So don't rely on me like usual, okay?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>...I don't recall ever relying\non you in the past.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Unfortunately, it seems like I can't \nuse my magic here.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "So don't rely on me like usual, okay?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>...I don't recall ever relying\non you in the past.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "...Hurry up with this conversation.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "I want to find the <CLT=cltSTRONG>secret of the outside world<CLT=cltNORMAL>\nand head back to the real world already.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "I'm not as strong in this world...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "I'm guessing...because it's programmed like\nthat for the <CLT=cltSTRONG>killing game simulator<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "They want to see what kind of killing game\nit'll be when no one has their special talent.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "...That's probably the reason.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "The graphics here... There are old-school \ngames with better graphics than this...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "If they were gonna go retro, they should've\ngone all the way and had it be all blocky...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Objects won't break...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "That may seem convenient at first, but I feel\nlike it's going to end up being a problem.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "So, what do you have to tell us, Miu?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Well, it's not that big of a deal, but there is\na special rule to this world...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "...Objects here are unbreakable.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Hm? Objects don't break?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "In the Virtual World, there are no rules that\ngovern whether <CLT=cltSTRONG>objects can break<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "So any object, no matter what it is, can\nnever be broken.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "For example, if you stretch a rubber band\nfar enough, it'll eventually tear, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "But here, the rubber band would stop stretching\nat a certain point, and just not tear at all.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "For the same reason, your avatars can't get\ninjured. You'll still feel pain, though.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "See? I told ya it's not a big deal!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "What are you talking about!? That's a really big\ndeal! You gotta tell us stuff like that before!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Heeeeeeeeeeeee! S-Sorry!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "B-But...that's the only special thing! In every\nother sense, the physics here are the same—",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "...Oh, wait. That's right... There's a special\nthing about the avatars, too...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "There's still more!? Spit it out already!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Heeeeeeeeee! I'm sorry, I'm sorry!",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "And what's special about the avatars?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "To make things fair...everyone's avatar in this\nworld has the same averaged physical strength...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Does that mean there is no discernable\ndifference in our physical abilities?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "So in this Virtual World, I'm just \nas strong as Gonta?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "What!? Gonta weaker!?\nThat also cuz of Himiko's magic!?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "N-No! If Gonta not strong, Gonta no can\nprotect everyone!",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "I-It's not my fault. That's...just how \nthis world is.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "...Are those the only things\ndifferent about this world, Miu?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Y-Yeah...that's everything.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "By the way, how do we log out from this world?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "O-Oh yeah, that's right...\nI need to tell you that.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "If you ever wanna log out, you just need\nto use that phone over there.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Just pick it up and say your name.\nThat simple enough for you shitheads?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Also, that phone is fixed and can't be\nremoved from that room.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Which means, you have to use this room\nto log in and log out.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Whenever you log in, you'll always appear\nin this room.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Hmm...okay, got it.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "You guys better not cheat by logging out alone!\nWe have to find the <CLT=cltSTRONG>secret of the outside world<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Yeah, we got it. So where's this map?",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "The map is posted on the wall outside of\nthis room. Follow me.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>What *is* this phone?\nWhat does it connect to?",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "<CLT=cltMIND>We use this phone to log out...",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>You log out by picking up the\nphone and speaking your name.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>The phone isn't portable, so you can\nonly log out from this spot.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>I suppose Miu is the only source\nof information about this place...",
+  "tr": ""
+ }
+]

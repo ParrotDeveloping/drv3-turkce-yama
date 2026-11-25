@@ -1,0 +1,69 @@
+@ chap1_text_US
+## c01_708_050
+8|<CLT=cltMIND>Kirumi'yle avluda yürüyüş yaparak biraz\nvakit geçirdim...
+9|<CLT=cltMIND>Kirumi'yle bugün biraz daha yakınlaştık.
+## c01_708_051
+0|Herhangi bir şeyden memnun değilsen lütfen\nbana söyle. Sana elimden gelen en iyi şekilde hizmet ederim.
+5|...Aradığın eğlence mi?
+6|Anlaşıldı. Seni eğlendirmek için gücüm\nyettiğince her şeyi yapacağım.
+7|<CLT=cltMIND>Kirumi tarafından eğlendirilerek biraz vakit geçirdim...\nBiraz yoruldum...
+8|<CLT=cltMIND>Kirumi'yle bugün biraz daha yakınlaştık.
+## c01_708_052
+0|Mutfak malzemeyle dolu, o yüzden herkese\ndoyurucu yemekler hazırlayabilirim.
+5|Malzemeleri Monokuma mı sağlıyor?\nÇabuk bozulanları bile mi?
+6|<CLT=cltMIND>Kirumi'yle yemek pişirme hakkında sohbet\nederek biraz vakit geçirdim...
+7|<CLT=cltMIND>Kirumi'yle bugün biraz daha yakınlaştık.
+## c01_708_053
+0|Süre sınırı yakında dolacak...
+1|İlk hamleyi kim yapacak...?\nArtık her şey olabilir...
+6|...Ben herkese hizmet etmek için buradayım.
+7|O yüzden biri hayatta kalmak isterse\no isteği yerine getireceğim.
+8|<CLT=cltMIND>Kirumi'yle biraz vakit geçirdim...
+9|<CLT=cltMIND>Kirumi'yle bugün biraz daha yakınlaştık.
+## c01_709_000
+0|<CLT=cltMIND>Himiko'ya hediye verme işlemi.
+4|<CLT=cltSYSTEM>Himiko'ya bir hediye vermek ister misin?
+9|Himiko Yumeno'nun sevgi seviyesi ARTTI
+10|Himiko Yumeno'nun sevgi seviyesi AZALDI
+14|<CLT=cltSYSTEM>Himiko'ya hediye vermek istemediğinden\nemin misin?
+## c01_709_001
+0|Hey, Himiko.\nSana söylemem gereken bir şey var.
+1|Nyeeeh...?\nHayır, dinlemiyorum...
+2|Bana cevap verdin, yani zaten\ndinliyorsun.
+3|Nyeeeh...
+5|<CLT=cltMIND>Başından beri böyle...sorun yaratacak\nderecede aşırı tembel.
+6|Hey, böyle tembel olmaya devam edersen\nhayattaki bütün eğlenceli şeyleri kaçırırsın.
+7|Eğlenceli şeylere ihtiyacım yok...\nSadece bütün hayatım boyunca hiçbir şey yapmamak istiyorum.
+8|Buna yaşamak denmez! Abartmalısın\ndemiyorum ama...
+9|en azından tembelliğini herkesin önünde\ngizlemeye çalış.
+10|Nyeeeh... Bu zahmetli...
+12|Kütüphanede kitap okuyalım!
+13|Yürüyüşe çıkalım!
+14|Oyun Odası'nda oyun oynayalım!
+16|<CLT=cltMIND>Faydası yok... Bir şey önermezsem\nkıpırdamayacak.
+17|O zaman kütüphanede kitap okuyalım!
+18|Kütüphane mi...?
+19|<CLT=cltMIND>Ah! İlgilenmiş gibi!
+20|Merdivenden inmek zahmetli...\nKitapları bana getir.
+21|<CLT=cltMIND>Ne!?
+22|A-Ama ne tür kitaplardan hoşlandığını\nbilmiyorum, o yüzden birlikte gidelim.
+23|Herhangi bir kitap olur... Okumak zahmetli,\no yüzden sadece onları yiyeceğim.
+24|Ne o, keçi misin!?
+25|O zaman yürüyüşe çıkalım!
+26|Yürüyüş dünyadaki en büyük zahmet...\nSadece...sebepsiz yere ortalıkta dolaşmak...
+27|Ama eğlenceli kısmı da bu. Anlamsız şeylerde\nanlam bulabilirsin.
+28|Ben bir büyücüyüm, filozof değil,\no yüzden beni rahat bırak...
+29|Tanrım, seni düşünmeye zorlayacak\ndeğilim ya!
+30|Oyun Odası'nda oyun oynayalım!
+31|Nyeh? Oyun mu...?
+32|Evet! Orada bir bilardo masası gördüm\ngaliba, onu deneyelim.
+33|Daha önce hiç oynamadım...
+34|Sorun değil, merak etme!\nKuralları sana öğretirim!
+35|Kural ezberlemek zahmetli...
+36|<CLT=cltMIND>Tanrım, tabii ki öyle diyecekti.
+37|Nyeeeh... Konuşmak bile zahmetli...
+38|*iç çeker* Şimdiye kadar hayatını nasıl\nyaşadın?
+39|Büyüyle, tabii ki.\nBütün sorunlar büyüyle çözülebilir.
+40|O zaman bizi buradan çıkarmak için\nbüyünü kullanabilir misin?
+41|Ş-Şey, gelgitler hâlâ uygun değil. Çok yazık\nama büyüm bir süre bize yardım edemez.
+42|Gelgitin büyüyle ne ilgisi var?

@@ -1,0 +1,74 @@
+@ game_resident_US
+## D-Menu
+0|Mantık Zorluğu
+1|Aksiyon Zorluğu
+2|Sadece hikâyenin tadını çıkarmak isteyenler için.
+3|Biraz meydan okuma için normal zorluk.
+4|Daha sert cezalar ve daha çok seçenek, ama ödüller de daha fazla!
+5|Sadece hikâyenin tadını çıkarmak isteyenler için daha az aksiyon.
+6|Tam kararında aksiyonla normal zorluk.
+7|Heyecanlı, kaotik aksiyon, ama ödüller de daha fazla!
+8|Nazik
+9|Normal
+10|Acımasız
+11|Tamam
+12|Zorluğu seç ve oyunu başlat.
+13|Zorluğu seç ve duruşma hazırlığına dön.
+14|Yeni oyun seçersen devam eden Evrenler Arası\nAşk verileri kaybolacak.\nDevam edilsin mi?
+15|Bölümün başından başla
+16|Ölümcül Yaşam'dan başla
+17|Sınıf Duruşması'ndan başla
+18|En iyi sonuçları gör
+19|Hikâyenin tadını bölümün başından çıkar.
+20|Hikâyenin tadını soruşturmadan itibaren çıkar.
+21|Hikâyenin tadını Sınıf Duruşması'ndan itibaren çıkar.
+22|Sınıf Duruşmalarındaki en iyi sonuçlarını gör.
+23|Lütfen başlanacak bölümü seç.
+24|Kaldığın yerden devam edilsin mi?
+25|Prolog
+26|1. Bölüm
+27|2. Bölüm
+28|3. Bölüm
+29|4. Bölüm
+30|5. Bölüm
+31|6. Bölüm
+32|Epilog
+33|SON
+34|Okul Hayatı
+35|Okul Hayatı: Günlük Yaşam
+36|Okul Hayatı: Günlük Yaşam (Serbest Zaman)
+37|Okul Hayatı: Ölümcül Yaşam
+38|Okul Hayatı: Ölümcül Yaşam (Soruşturma)
+39|Okul Hayatı: Sınıf Duruşması (Sonuç)
+40|Kayıt Noktası
+41|Sınıf Duruşması
+42|Sınıf Duruşması (Hazırlık)
+43|Sınıf Duruşması (Ara)
+44|※
+45|Kaydedilmemiş veriler kaybolacak.\nAna ekrana dönülsün mü?
+46|Kilidi açmak için <DIG=●> Monocoin gerekiyor.\nKilit açılsın mı?
+47|<DIG=●> Monocoin daha gerekiyor.
+48|Kayıt verisi güncellendi.\nKaydedilsin mi?
+49|Olay Galerisi
+50|Video Galerisi
+51|Çizim Galerisi
+52|Müzik Galerisi
+53|MonoMono Makinesi
+54|Kumarhane
+55|Yakınlık Olayları
+56|Ana menüye dön
+57|Arayüzü gizle
+58|Atılan Monocoin
+59|???
+60|Serbest Zaman'dan başla
+61|Hikâyenin tadını Serbest Zaman'dan itibaren çıkar.
+62|Demo sürümünün kayıt verisini yüklersen\nözel bir ödülün kilidi açılır.\nDemo kayıt verisi yüklensin mi?
+63|Demo sürümünü oynadığın için teşekkür olarak\nşunları alacaksın:\n・333 Monocoin\n・"Tırnak Fırçası" Hediyesi\n・"Makineli Tüfek" Yeteneği
+64|Demo sürümünü oynadığın için teşekkür olarak\nşunları alacaksın:\n・333 Monocoin\n・"Tırnak Fırçası" Hediyesi\n・"Dipten Atış" Yeteneği
+65|Demo kayıt verisi yüklenmedi.
+66|Demo kayıt verisi
+200|Oyun yüklenirken bu mod seçilemez.
+201|Oyun yüklenirken 2. Bölüm oynanamaz.
+202|Önceki kayıt verisi şu ankinden daha yeni bir\nsürüme ait. Bu veri oynanamaz.
+203|Önceki oyun verisi şu ankinden daha yeni bir\nsürüme ait. Bu veri oynanamaz.
+204|Oyundan çıkılıyor.\nEmin misin?

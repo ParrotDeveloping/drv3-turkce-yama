@@ -1,0 +1,277 @@
+[
+ {
+  "id": 0,
+  "en": "Hey Shuichi. What's wrong?\nYou look so serious...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Is something bothering you?\nWe can talk about it if you want.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I'm just...worried, Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Worried? What about?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "About what you said before. That you're\nthe <CLT=cltSTRONG>Ultimate Useless Older Brother<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "I told you...to forget about that.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I'm sorry, but I can't.\nWhat did you mean by that?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Rantaro?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...Who cares about that?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hey, do you want to talk about my\ntalent? I still can't remember what it is!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I can tell you more about my\nhobbies, if you'd like to hear.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>...There's that smile again.\nIt's a warning. He doesn't want me to push.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Y-Yeah, of course...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Thank you!\nIt really helps a lot, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "You said traveling was your hobby, right?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Yeah. Before I was brought here,\nI was traveling in Northern Europe.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Northern Europe? I imagine it's\nsomething like a fairy tale.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Haha, yeah...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "The cityscapes are gorgeous, but the nature\nis the best part. Right out of a story book.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Although, the people... They seem friendly, but\nwhen you get down to it, they're pretty aloof.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "If the environment is harsh, perhaps the\nculture developed that way as well.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Yeah, something like that. Like there was\none time I was trying to get some information...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "I was suspected of being an informant\nor something. Almost got taken out.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Huh? By \"taken out\"...\nhe couldn't possibly mean...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "But South America? That's where you have\nto watch out. There are a lot of shady areas.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "But it's not all bad. You can get whatever you\nwant, if you're willing to take some risks.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Take some risks...?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Oh, don't ask. If I told you,\nyour life would be in danger.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "...Why do you have so much\ndangerous information, Rantaro?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Welp, that's just how\nthings played out.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>Just how it played out, huh?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Rantaro...I feel like you and I have\na very different definition of \"travel.\"",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Really? What do you think\nof by \"travel\"?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "I think about relaxing and touring\nscenic locations...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Hey, I go sightseeing too. I travel\nto see *everything*, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "I suppose that includes all of that\n\"danger\" you mentioned earlier...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "...Ah!\nMaybe that's it!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "What's it?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Your <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> talent!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "You disguise yourself as a high school\nstudent traveling around the world...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Maybe...you're the <CLT=cltSTRONG>Ultimate Spy <CLT=cltNORMAL>\nor something like that?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "A spy, huh?\nHm, no, I don't think so...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "I mean, if I were a spy, I wouldn't have told\nyou my identity. Or gotten caught like this.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Besides, I couldn't be anything cool\nlike that, look at me. I'm just a regular guy.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Rantaro is always smiling.\nIt's a gentle, friendly smile.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Something wrong?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "No, it's nothing.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>But right now, I feel like\nthat smile is a wall...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltSYSTEM>Rantaro's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with him.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>Rantaro and I parted ways,\nand I returned to my room.",
+  "tr": ""
+ }
+]

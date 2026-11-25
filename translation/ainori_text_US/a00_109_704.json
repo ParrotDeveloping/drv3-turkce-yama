@@ -1,0 +1,287 @@
+[
+ {
+  "id": 0,
+  "en": "Himiko. There's something I have to\ntell you, no matter what happens.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Wh-What? D-Don't tell me \nyou fell for me!?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "N-No! It's not that!\nIt's something about your master.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Nyeh...my master?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Yes. I was thinking about\nyour story...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Perhaps your master is training in secret,\nso that he can perform with you again.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Himiko's face didn't change.\nShe must be thinking the same thing.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Maybe just hoping...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Yes, I'm sure of it",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...I'm sorry I said that. I wasn't thinking",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "That's what I think",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "You...might be right...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Yes, I'm sure of it.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "How can you be so sure?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Do detectives have magic to \nread people's souls?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Himiko's expression brightened,\njust a little bit.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Haha, I wonder! Don't worry, I'll\nrefrain from using that magic.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Nyeh, you're right...\nI don't need it either.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "...I'm sorry I said that. I wasn't thinking.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "If you're gonna apologize for it, then \nit'd be better if you just never said it...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I thought I was...butting in on\nsomething private.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "You're worried about that now?\nOutside of a crisis, you're kinda dumb.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>Ah...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "That's what I think.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Why did you say it like that? I mean, \nI guess it sounds detective-y...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>I guess...I could have\nworded it a little better.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Well whatever... \nI don't care if you make assumptions.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I can't even find my master \nusing my magic.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "That's probably because he doesn't \nwant me to find him.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Like you said...maybe there's a reason. \nMaybe he's training in secret...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I thought of that, too.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "That's why you're focused on\nimproving your magic.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Nyeh?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Your master is polishing up his magic\ntoo, Himiko. To perform with you again.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "That's why...you need to continue\nworking hard as a magician.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Magic tricks are what connect\nyou to your master.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>That must be why she's never too\nlazy to do magic.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...Am I wrong?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...You're wrong.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Huh!?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "It's not magic tricks, it's real magic!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ah! Sorry!\nYou're right, real magic!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "That's right.\nGeez, when will you get it?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Well, anyway, we have to get out of here\nsoon! So you can perform together!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Hm, you're right... I'm gonna be \nmore positive and work harder.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I'll support you with my magic.\nYou can rely on me, okay?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Alright, Himiko. Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>Himiko and I are both focused\non the same goal. Getting out of here.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>It's because of our bond that\nwe can stand together like this...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>If I put my trust in this bond,\nI know we can overcome anything!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltSYSTEM>Himiko's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltSYSTEM>You've learned a new skill,\n<CLT=cltSTRONG>Abracadabra<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>Himiko and I parted ways,\nand I returned to my room.",
+  "tr": ""
+ }
+]

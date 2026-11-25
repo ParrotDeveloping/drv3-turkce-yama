@@ -1,0 +1,337 @@
+[
+ {
+  "id": 0,
+  "en": "The close friend you mentioned before...\nI'm sure she's thinking about you.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "...Maki?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "She's not here anymore.\nShe died.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "What!? Died?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "After I finished training, I went to see her.\nShe died in a car accident saving a child.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Oh no...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...I was shocked.\nWhy did I endure all that training then?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "But...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "She probably died happy saving someone.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "And the memories of her I keep inside me\nhave kept me alive till now.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Even the whole orphanage.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "That's why...I'll do everything I can to\nprotect that place.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I see...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...You look like you want to say something.\nYour face is gross, so spit it out already.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I was thinking about what I can do.\nWhat I can do for you, Maki.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Huh, for me?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Maki, you're a normal girl at heart.\nI want you to live a normal life...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I was thinking that...you could leave\nbeing an assassin behind.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Perhaps...I could use my detective skills to\ninvestigate the assassin cult?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "That's impossible.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...You sound awfully sure.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "The world isn't as simple as you think.\nIt needs assassins to do the dirty work.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "That's the way the world works, huh?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Maybe, but...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "But Maki, are you okay with that?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Who the hell do you think you are? Don't\nyou think you're being presumptuous?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "That's the way the world works, huh?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Why don't you know this already?\nYou're an <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> too...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Don't you know you can't do anything\nwith just mere words?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>I know, but you're carrying\nall of this by yourself, Maki...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Maybe, but...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "But? You think so too, but you're gonna\npush the responsibility on someone else?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "That's just like Kaito.\nIs that guy rubbing off on you?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...I suppose that could be.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "One Kaito is difficult, but two is too much.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>You say that...\nbut I can see your smile.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "But Maki, are you okay with that?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Your question is unreasonable...\nHow do I even answer that?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...I'm sorry.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Shuichi...\nJust do your best as a detective...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Why don't you try to find solutions to problems\nwhere it won't have to lead to murder?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "The people I assassinate aren't killed for\nsimple reasons.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "It happens because certain complications\noccur, and can only be settled with murder.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "You can...try to reduce the complications.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>Maki pouted stubbornly and\nturned her head.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "And if that happens, I guess I'll have\nto quit being an assassin...maybe.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "No one else can do this.\nYou're the only one who can do it, okay?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>Even with her head turned, I\ncould see a smile on her lips.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>So this is how Maki\nshows her thanks.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>Of course, I realize the\nsituation isn't that simple.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Well, you are Kaito's sidekick,\nso I shouldn't expect that much from you.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...That goes for you too, right?\nAren't you kind of his sidekick too?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "...Oh, you just had to say that.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Maki faced me with a sly grin.\nI grinned back.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>I didn't think it was possible.\nThe two of us, smiling together.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>But I know...it's because Maki and\nI share a special bond.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>And I swear on that bond,\nwe will escape together!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>Maki's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltSYSTEM>You've learned a new skill,\n<CLT=cltSTRONG>Financing<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>Maki and I parted ways,\nand I returned to my room.",
+  "tr": ""
+ }
+]

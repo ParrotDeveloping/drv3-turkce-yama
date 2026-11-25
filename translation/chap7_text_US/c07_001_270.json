@@ -1,0 +1,627 @@
+[
+ {
+  "id": 0,
+  "en": "Are you okay...?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...Yeah, somehow.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I-I'm sort of stuck here!\nSomeone...help me out!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Himiko! Careful...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Nyeh...I'm saved...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "We made it...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Hey, how were we saved?\nWhy are we still alive?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Ah... Yeah, why are we alive...?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I wonder...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>The killing game is over...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>The class trials are over...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>And the fictional world...is over.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>So then...where are we?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Another fictional world\nafter the fiction has ended?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>What's left for us here?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>We were silent for a long while,\nstaring into \"<CLT=cltSTRONG>the other side<CLT=cltMIND>.\"",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>Where we continued to hope...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>And they continued to torture us...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>outside world<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>53 times, hope moved forward.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>53 times, the suffering continued.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>The world on the other side of\nthe fiction, <CLT=cltSTRONG>the real world<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "So, what do we do now?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "We didn't think of a plan for what to do after.\nI thought that was the end of us back there.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "But we survived.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...And that's the truth.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "It seems as though we don't really have a\nchoice...we can't stay here anymore.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "But...I don't get it.\nSeriously, how are we still alive?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "When this world destroyed itself,\nI thought we would go down with it.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Keebo probably saved us.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "He made sure we didn't die.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "But why...would he do that?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "There's no point in us escaping to the outside\nworld... We're just fictional characters...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Did Keebo save us...because he was acting on\nwhat the <CLT=cltSTRONG>outside world wanted<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Then maybe...\nthis is what the <CLT=cltSTRONG>outside world wanted<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Nyeh? For us to live?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "That's right. In addition to ending all this...\n<CLT=cltSTRONG>The outside world<CLT=cltNORMAL> wanted us to live...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "I suppose...<CLT=cltSTRONG>the outside world<CLT=cltNORMAL>\nwanted this lie to become the truth.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "So, come on, everyone. Let's head outside.\nWith confidence.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "The outside world is waiting.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "To the outside world, huh?\nI wonder what kind of world it is.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "A peaceful world with no fighting and no \ndespair. That's what Tsumugi said, right?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Yeah. Ah...if she wasn't lying.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Nyeh!? It might be a lie!?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Remember...the last thing Tsumugi said?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "My plan was such a flawless <CLT=cltSTRONG>copy<CLT=typeNORMAL>,\nit even failed right at the end...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "So I should be able to hold my head up \nhigh as a <CLT=cltSTRONG>cosplaycat criminal<CLT=typeNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "She said <CLT=cltSTRONG>\"copy\"<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "That means she must have been\n<CLT=cltSTRONG>copying<CLT=cltNORMAL> someone, right?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "What does that mean?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "What indeed...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "What!? You don't know!?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Ah, well, I have some theories.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Perhaps <CLT=cltSTRONG>Hope's Peak Academy<CLT=cltNORMAL> and the\n<CLT=cltSTRONG>Remnants of Despair<CLT=cltNORMAL> really exist.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Maybe Tsumugi was just basing\nher performance on them.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "So Tsumugi lied about this whole world being\njust fiction?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Wh-What!? A surprise ending!?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "No, I don't really know for sure. She might have\nbeen lying when she said <CLT=cltSTRONG>\"copy.\"<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "But if she were telling the truth, then...it would\nmake sense that <CLT=cltSTRONG>that<CLT=cltNORMAL> was a lie.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "What do you mean, <CLT=cltSTRONG>\"that\"<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "What Tsumugi showed us...\nThe way we were when...we first arrived.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "H-Huh? Wh-What am I wearing?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Mm-hm! Looking good! Now you look more\nlike <CLT=cltSTRONG>Ultimates<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSTRONG>Ultimates<CLT=cltNORMAL>...? Really?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Next up, the <CLT=cltSTRONG>memory<CLT=cltNORMAL> youse all been\nwaiting for.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Hell yeah! Get ready! Once the seal is broken,\nwe'll be in the <CLT=cltSTRONG>domain of the killing game<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>K-Killing game...?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "You mean...we were selected!?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "We got picked!?\nReally!? Alright!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Wh-Whoa, really!?\nI'm selected for <CLT=cltSTRONG>it<CLT=cltNORMAL>, too!?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I still don't believe it. I can't believe that any\nof us would volunteer for this.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "We forgot everything about our old selves \nafter that first Flashback Light, didn't we?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "That's what Tsumugi said, but...\nsomething's been bugging me about that.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Even if we were obsessed with this killing game,\nI still can't believe we would participate in it.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "I just... I don't believe it.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Ah, but...\nI don't really have any logic behind that...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "One of Kaito's hunches, huh?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Anyway, there's no way for us to check when\nwe all applied to the Academy, right?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "What? We can't check?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "So in the end...we still don't know what\nwas true or not...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "The fictional world ends here, and the\nreal world lies out there.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Perhaps just beyond here is the truth...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "But, maybe it isn't...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Maybe it's all still fiction \nin that world, or...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Maybe Danganronpa still continues \nin that world, or...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Or maybe the outside world is the same\nas this world.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "It might be a world...filled with lies.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Well...if we can get out from here,\nwe'll know for sure.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Yeah...but I feel like...there's not too much\nmeaning in truth and lies...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Nyeh? What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "I mean that...even if something\nis a lie, even if it's fiction...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "If it has the power to change the world,\nthen it must contain some kind of truth.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Aren't we proof of that?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "In this fictional world, we overcame\nall these fictional struggles...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "But those things changed us.\nAnd we were able to change the world.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "So it doesn't really matter where\nthe truth ends and where the lies begin.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "If <CLT=cltSTRONG>lies<CLT=cltNORMAL> can change the world\njust as well as the <CLT=cltSTRONG>truth<CLT=cltNORMAL> can...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Then lies...are just another way\nof telling the truth.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Some lies can lead the world to hope...\nSome truths can lead the world to despair...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "So I don't think anyone can really say which\nis more <CLT=cltSTRONG>right<CLT=cltNORMAL> in the end.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "I guess it's not important whether it's \na truth or lie. Just what it leads to...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Yeah. That's what I believe.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "We stand with one foot in fiction,\nand one foot in reality...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Then, we need to see for ourselves whether this\nfictional world has changed the outside world.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "And what we can do from this point on...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "You're right. We can't stay in this \nfictional world forever. It's already over.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "We gotta take all the experience we earned\nin this world and go on to the next.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Yeah. Let's go.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "We'll see what this world gained, and what it\nlost, and all the rest.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Let's find out, together.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>To the other side of this world...",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>To the other side of fiction...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>Let's find out, together.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>It's what we could accomplish.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>The story lives on.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>I'm sure, even now...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>Even on the other side... \nIt lives on there, as well.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>And thus, the story lives on.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>Was this lie able to change something?",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>Was this lie able to change someone?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>Was this lie...able to change the world?",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>If it was able to change\neven the smallest thing...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>...Then the story isn't over.",
+  "tr": ""
+ }
+]

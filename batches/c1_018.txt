@@ -1,0 +1,75 @@
+@ chap1_text_US
+## c01_010_116
+6|<CLT=cltMIND>O anda odamın diyafonu\nçaldı.
+7|Hey, ne hakkında konuşmak istiyordun?
+8|K-Kütüphanede seninle konuşmak istiyorum.\nBenimle gelir misin, lütfen?
+9|<CLT=cltMIND>Diyafon muydu o...?
+14|<CLT=cltMIND>Diyafon... Kapıda biri mi var?
+15|<CLT=cltMIND>Gözyaşlarımı hemen silip kapıyı\naçtım...
+16|Kaede...iyi misin?
+17|Ah, Shuichi... Şey...ne demek istiyorsun?
+18|Merak ettiğin buysa üzgün değilim.
+19|Kaede...bu senin suçun değil.
+21|Yeraltı geçidi bir tuzaktı.
+22|Birlikte çalışabileceğimizi *düşünmemizi*\nsağlayıp sonra umutlarımızı ezmek için bir tuzak.
+23|B-Bunu biliyorum ama...sadece herkesle\nbirlikte kaçmak istedim.
+25|A-Ama artık sorun yok...\nHer şey bitti, değil mi...?
+26|...Kaede, ne hissettiğini biliyorum.\nSana inanıyorum.
+27|Ne? Bana inanıyor musun?
+28|Sana söylemem gereken bir şey var.\nBenimle kütüphaneye gelir misin?
+29|<CLT=cltMIND>Kütüphane mi?\nShuichi'ye birden ne oldu?
+## c01_011_001
+0|Selam, ikiniz. Bir sorun mu var?
+1|Hayır, sorun yok...
+2|...Hey, Rantaro.
+3|Bütün bunların arkasında biri olduğunu\nsöylemiştin, değil mi? Monokuma'nın sadece bir kukla olduğunu.
+4|Söylemiştim.\nAma biliyor musun? Sadece bir sezgi.
+5|Gerçi her şey öyle sonuçlansa\nhiç şikâyet etmezdim.
+6|Ve gitti...
+8|Nyeeeh... Hey, siz...\nBeni bu konuşmadan kurtarın...
+9|Ne oldu, Himiko!? Daha konuşmamız\nbitmedi, değil mi!?
+10|Tenko, ne yapıyorsun?
+11|Himiko'dan büyü hakkında daha çok şey\nöğrenmeyi umuyordum!
+12|Büyüyü kesinlikle Neo-Aikido'ya katmak\nistiyorum!
+13|Lütfen söyle, Himiko! Genelde nasıl bir\neğitim yapıyorsun!?
+14|Bundan bahsetmenin beni yorduğunu söyledim.
+15|O zaman yorulmaman için sırtına masaj\nyaparım!
+16|Başını kucağıma koymana da\nitiraz etmem.
+17|Kes şunu. Bu tuhaf...
+18|Yorulunca söyle!\nSeni taşırım, Himiko!
+19|Tuhaf dedim... Beni rahat bırak...
+20|...Kaede, kütüphaneye gitmeliyiz.
+21|...Kaede, kütüphaneye gitmeliyiz.
+22|...Kaede, kütüphaneye gitmeliyiz.
+23|...Kaede, kütüphaneye gitmeliyiz.
+24|...Kaede, kütüphaneye gitmeliyiz.
+25|Şey, Kaede? Orası erkekler tuvaleti...\nOrada...bir işin mi var?
+26|A-Ah, pardon!\nBenim hatam!
+27|Ah, seni...beklememi mi istiyorsun?
+28|H-Hayır, sorun yok!\nPardon, hadi gidelim!
+29|...Kaede, kütüphaneye gitmeliyiz.
+31|...Kaede, kütüphaneye gitmeliyiz.
+## c01_011_004
+0|...Kaede, kütüphaneye gitmeliyiz.
+1|...Kaede, kütüphaneye gitmeliyiz.
+3|...Kaede, kütüphaneye gitmeliyiz.
+4|<CLT=cltMIND>Keşke evimde de böyle büyük bir televizyon olsaydı.\nKaçtıktan sonra babamdan bir tane isteyeceğim.
+## c01_011_100
+0|Eee, ne hakkında konuşmak istiyordun?
+1|...Kütüphanede konuşmak istiyorum.\nBenimle gelir misin, lütfen?
+2|Kirumi, burada ne yapıyorsun?
+3|Hizmetime ihtiyacı olan biri yanıma gelene\nkadar bekliyorum.
+4|Ha? Yani sadece bekliyor musun?
+5|Kirumi, sen bizim hizmetçimiz değilsin...\nBunu yapmak zorunda değilsin.
+6|Dediğim gibi...tek arzum başkalarının\narzularını yerine getirmek.
+7|Kaçana kadar herkese hizmet etmeyi düşünüyorum.
+8|İkinizin de benden bir isteği olursa lütfen\nçekinmeden söyleyin.
+9|T-Tamam. Şimdilik bir şeye ihtiyacım yok.
+10|Ah, sanırım benim de yok...
+11|Anlıyorum...
+12|<CLT=cltMIND>Ultimate Hizmetçi çok etkileyici...\nO kadar titiz ki...
+13|İsteğinizi söyleyin, hemen\nilgileneyim.
+18|Ah, orası...benim odam...
+19|...Kütüphanede konuşmak istiyorum.
+20|...Kaede, kütüphaneye gitmeliyiz.
+21|...Kaede, kütüphaneye gitmeliyiz.

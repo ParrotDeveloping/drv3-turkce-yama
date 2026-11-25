@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>It's...back to normal?\nDid Monokuma...clean everything up?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>He's diligent in odd ways...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>This looks like a shower room.\n...I don't have to take a shower right now.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I wish I could have seen Ryoma\nstanding here...",
+  "tr": ""
+ }
+]

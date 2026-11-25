@@ -1,0 +1,55 @@
+@ chap2_text_US
+## c02_003_240
+12|<CLT=cltSYSTEM>Kumarhanede çeşitli oyunlar oynamak için özel\n<CLT=cltSTRONG>kumarhane jetonları<CLT=cltSYSTEM> kullanabilirsin.
+13|<CLT=cltSYSTEM>Monojetonları <CLT=cltSTRONG>kasada<CLT=cltSYSTEM> kumarhane\njetonlarıyla değiştirebilirsin.
+14|<CLT=cltSYSTEM>Bir kez değiştirince geri değiştirilemezler!\nO yüzden ne yaptığını bil!
+15|<CLT=cltSYSTEM>Şu an kaç jetonun olduğunu\ngörebiliyor olmalısın...
+16|<CLT=cltSYSTEM>Biriktirdiğin jetonları <CLT=cltSTRONG>ödül takas tezgâhında<CLT=cltSYSTEM>\n<CLT=cltSTRONG>muhteşem ödüllerle<CLT=cltSYSTEM> değiştirebilirsin.
+17|<CLT=cltSYSTEM>Sürekli yeni ödüller geliyor,\no yüzden dört gözle bekle!
+18|<CLT=cltSYSTEM>Bodrumda denemen için oyunlar var!\nHaydi bakalım!
+19|<CLT=cltSYSTEM>Hadi oynayalım!
+## c02_003_241
+0|Ah! Bak, Shuichi!
+1|<CLT=cltMIND>Kaito bağırdı ve önündeki jeton\nhazinesini gösterdi.
+2|Vay! O jeton dağını nereden\nbuldun!?
+3|Büyük ikramiyeyi vurdum!\nSadece bir jetondan bu kadar kazandım!
+4|Bütün bunlar tek bir jetondan mı?\nBu inanılmaz!
+5|Hehe! Yıldızların Işığı için sıradan bir gün!\nSezgilerim beni genelde zafere taşır!
+6|Aferin, kovboy! Ne müthiş bir şansın\nvar!
+7|Vay! B-Böyle birden ortaya fırlama!
+8|Kusura bakma! Şans serinin cazibesiyle\nburaya geldim!
+9|Güzel ganimet. O jetonları gerçekten muhteşem\nbir şeyle değiştirebilirsin!
+10|<CLT=cltMIND>Hangi karakteri oynuyor bu!?
+11|Gerçi sadece burada geçerliler...
+12|Ama daha çok kazanırsan buradaki en iyi\nhazineye ulaşabilirsin!
+13|Heh! Bunu duyduktan sonra benim için\ngeri dönüş yok!
+14|Ama...şu an elinde olanları\ndeğiştirebilirsin...
+15|Ne diyorsun? Onun meydan okumasını kabul\netmezsem gerçek bir erkek değilim!
+16|Ayrıca Yıldızların Işığı olarak sezgilerimin\nyanılmasının imkânı yok!
+17|İşte bu, kovboy! Adamsın!
+18|<CLT=cltMIND>Ve böylece Kaito'nun çöküşünün üzücü\nhikâyesi başladı...
+19|Aaaaargh! Kahretsin! Yine mi!
+20|Ne oldu, kovboy...?
+21|Jetonlarının yarısına düştün. Şimdi bırakıp\ngitmek en iyisi olmaz mı...?
+22|Sadece yarısı! Hepsini geri kazanacağım!\nİzle de gör!
+23|<CLT=cltMIND>Kaito jetonları birbiri ardına attı\nama bir türlü kazanamadı...
+24|B-Bu...son jetonum!
+25|İşte burada muhteşem geri dönüşümü\nyapacağım! İzle de gör!
+26|<CLT=cltMIND>Kaito son jetonunu yuvaya attı ve\nkararlı bir bakışla kolu çekti...
+29|İşte buradaaaa!!!
+32|Ah...aaah...aaaaaaaaah...
+33|Ne yazık! Sezgilerin tamamen yanıldı,\nKaito!
+34|Of be, bu kumarhaneyi yaptığıma sevindim! Enayilerin\nher şeyini kaybetmesini izlemek çok komik!
+35|Ah-hahahahaha!
+36|Kahretsin! Bana tuzak kuruldu!\nKeşke kazançtayken dursaydım...
+37|<CLT=cltMIND>Her şeyini kumarda kaybeden insanlardan\nbunu çok sık duyarsın...
+38|<CLT=cltMIND>Biraz daha kazanabileceklerini düşünürler\nve sonunda kendilerini mahvederler.
+39|K-Kumarı sonsuza kadar bırakacağım!\nBuna bahse girebilirsin!
+40|<CLT=cltMIND>...Bu da o insanların tipik olarak\nsöylediği bir şey.
+41|K-Kumarı sonsuza kadar bırakacağım!\nBuna bahse girebilirsin!
+42|<CLT=cltMIND>...Bu da o insanların tipik olarak\nsöylediği bir şey.
+64|<CLT=cltMIND>Belki biraz oynarım...?
+80|<CLT=cltSYSTEM>SALMON FISHING!\nSomon Gecesi
+81|<CLT=cltSYSTEM>Bu gece somonlar sağdan soldan gelir.\nOnları bulmak için Monokuma Gözü'nü kullan.
+82|<CLT=cltSYSTEM>Monokuma'nın arzuladığı rengi avla.\nMonodam bonus ama mayınlara dikkat.
+84|Bu epey şiirsel bir açıklamaydı...

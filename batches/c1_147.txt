@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_711_002
+32|Benim silahım <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>!\nVe hiç de gizli değil!
+33|Demek istediğim bu değil... Yani tutkulu\nenerjin bir silah.
+34|Tutkulu enerjim, ha? İnsanların başını\nağrıttığı söylenmişti bana *gerçekten*!
+35|Benimle dalga geçildiğini sanıyordum! Ama\nmeğer bunca zaman övülüyormuşum!
+36|<CLT=cltMIND>Ş-Şey...bence bu konuşmayı burada\nbitirmeliyiz.
+37|Harika bir vücudun var.
+38|Ne diyorsun sen!? Bir sosis köpeği gibi kısa\nuzuvlarım ve uzun bir gövdem var!
+39|...Bunu duyan biri alay ettiğini düşünüp\ngücenebilir...
+40|Ne!? Kimseyi gücendirmek istemem!\nTanrım, kelimeler bazen korkutucu...
+41|Neyse, bence sen gerçekten çok çekici bir kızsın...
+42|Belki Aikido sanatçısı olarak kendi işini\nyapabilirsin? Eminim yapabilirsin!
+43|Ooooohhh!!! Aikido sanatçısı!\nBunu hiç düşünmemiştim!
+44|Kulağa harika geliyor! Yeteneğimi <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'nun\ndaha çok tanınmasına yardım etmek için kullanabilirim!
+45|Doğru! Hem kim bilir, belki çok popüler olup\nköşeyi dönersin!
+46|Bana bambaşka bir bakış açısı kazandırdın!\nÇok duygulandım! Teşekkürler, Kaede!
+47|<CLT=cltMIND>Tenko'nun bir seyirci önünde Neo-Aikido\ngösterisi yapması...
+48|<CLT=cltMIND>Kaçınca o hayaline sarılabilir...ve hepimiz\nkendi hayallerimize sarılabiliriz!
+50|<CLT=cltMIND>Tenko'dan ayrıldıktan sonra odama\ndöndüm.
+## c01_711_050
+0|Bu durumla ilgili her şey tam bir gizem...\nama bildiğim bir şey var.
+1|Bu berbat ölüm oyununu kuran kesinlikle\nyoz bir erkek!
+5|<CLT=cltMIND>Tenko'yla vakit geçireyim mi?
+6|Bütün erkekler iliklerine kadar çürük!
+7|Ama en azından buradaki yozlar için\nNeo-Aikido'mla bir şey yapabilirim!
+8|<CLT=cltMIND>Oğlanları dövmeye hazır görünen Tenko'yu\nsakinleştirerek biraz vakit geçirdim...
+9|<CLT=cltMIND>Tenko'yla bugün biraz daha yakınlaştık.
+## c01_711_051
+0|Bu okulda bir şey eksik ve sonunda\nne olduğunu çözdüm!
+1|Bir dövüş sanatları dojosu! Ne biçim okulda\ndojo olmaz!? Yani, hadi ama!
+5|<CLT=cltMIND>Tenko'yla vakit geçireyim mi?
+6|Bir yerde bir dojo olmalı!\nHadi birlikte arayalım!
+7|<CLT=cltMIND>Tenko'yla okulda dojo arayarak biraz\nvakit geçirdim...
+8|<CLT=cltMIND>Tenko'yla bugün biraz daha yakınlaştık.
+## c01_711_052
+0|Kaede, pek iyi görünmüyorsun!\nÇok fazla düşünüyorsun!
+1|Mola vermek için mükemmel bir zaman!\nBenimle egzersiz yapmak ister misin?
+5|<CLT=cltMIND>Tenko'yla vakit geçireyim mi?
+6|Tamam! O zaman spor salonuna gidelim!
+7|<CLT=cltMIND>Spor salonunda Tenko'nun koçluğunda esneme\nhareketleri yaparak biraz vakit geçirdim...
+8|<CLT=cltMIND>Tenko'yla bugün biraz daha yakınlaştık.
+## c01_711_053
+0|Süre sınırı yakında dolacak...\nBu da demek oluyor ki...
+1|Çaresizlik içinde bu yoz erkekler çıldırıp\nortalığı birbirine katacak!
+2|Parlama zamanım geldi! Bu yozları\nyakından takip edeceğim!
+6|<CLT=cltMIND>Bence ortalığı birbirine katacak olan Tenko...\nOnunla vakit geçireyim mi?
+7|Evet! Hepsiyle birlikte kapışalım!
+8|<CLT=cltMIND>Sonunda Tenko'yla onun ortalığı birbirine\nkatmasını engellemeye çalışarak vakit geçirdim...
+9|<CLT=cltMIND>Tenko'yla bugün biraz daha yakınlaştık.
+## c01_712_000
+0|<CLT=cltMIND>Tsumugi'ye hediye verme işlemi.
+4|<CLT=cltSYSTEM>Tsumugi'ye bir hediye vermek ister misin?
+9|Tsumugi Shirogane'nin sevgi seviyesi ARTTI
+10|Tsumugi Shirogane'nin sevgi seviyesi AZALDI
+14|<CLT=cltSYSTEM>Tsumugi'ye hediye vermek istemediğinden\nemin misin?
+## c01_712_001
+0|Hey, Tsumugi.\nCosplay hakkında pek bir şey bilmiyorum...

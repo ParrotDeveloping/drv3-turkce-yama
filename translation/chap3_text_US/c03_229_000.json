@@ -1,0 +1,872 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>If implicating Himiko was the plan, then\ndisrupting that plan might teach us something.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>For that reason...I have to lie!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Tsumugi is correct. I believe Himiko\nwas being <CLT=cltSTRONG>set up<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Himiko only picked that room because Kiyo\nwanted it <CLT=cltSTRONG>as dark as possible<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "No...in order for The Caged Child to succeed, \nthe room must be as dark as possible.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "My lab has windows, so even with the\nlights off, it is still not dark enough.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Then...what about the empty rooms?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Even if Himiko did choose an empty room \nbecause of what Kiyo said...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Are you saying she chose the middle room\nby pure coincidence?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "The culprit gambled on the middle room\nbeing picked through coincidence?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "That seems highly improbable.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Ah, that is true...\nThe culprit wouldn't have left that to chance.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>But maybe they didn't.\nPerhaps they manipulated Himiko somehow.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "However...there are three empty rooms.\nWhich one shall we use?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Um...the middle room. The middle \nroom's always best for stuff like this.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "No more...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I told you...it's too much of a pain.\nJust do the voting or whatever...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Himiko...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I'm pretty sure it didn't matter which room\nHimiko chose...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "It's getting kinda boring, so I'll explain.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "She didn't choose the middle by coincidence.\nEach room was the same to begin with.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Each room...same?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Remember what Gonta said earlier? Maybe the\nculprit placed traps in all the rooms?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Well...that was correct! Before the trial,\nI hurt myself checking all the rooms.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Ah! That's right!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I guess...there was no crosspiece supporting\nthis floorboard, so I kinda...stepped through...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Ah-haha, what bad luck...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Kokichi found another <CLT=cltSTRONG>loose floorboard<CLT=cltNORMAL>\nin one of the other rooms!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "It's just like Gonta said. Each room\nwas the same. They were all trapped.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "What? Is that true!?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Kokichi will tell you.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I was waaay too careless!\nEh, wait. What are you talking about?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I guess...there was no crosspiece supporting\nthis floorboard, so I kinda...stepped through...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ah-haha, what bad luck...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "While you were in the room next to the crime\nscene, you found a <CLT=cltSTRONG>loose floorboard<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Well...I didn't find it so much as I\nstepped through it and tripped.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Whaaa—! Hold on! There was also a \nloose floorboard in the next room?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "So the culprit prepared a trap in <CLT=cltSTRONG>all three\nempty rooms<CLT=cltNORMAL>, not just the middle one.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "If the culprit set traps in all the rooms, then\nthey wouldn't need to select a room themselves.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "So the real trap was for someone else\nto pick a room and take the blame!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I see... We were caught in the\nculprit's trap all along.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Especially you!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "But now there's no reason to suspect\nHimiko! Right!?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Himiko...do you remember what Tenko told you?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Keep your chin up and live life facing forward! \nSurvive with me and everyone else!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "...Please.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSTRONG>\"Live life facing forward.\"<CLT=cltNORMAL>\nShe said that to you, right?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "If you give up on living...\nyou'd be betraying her memory.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "We're...all trying to\nkeep our promises to the dead.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "This trial... It's not just for our lives,\nit's for everyone who's died as well.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "That's why we can't give up!\nThis is our responsibility! We live on!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "You're...right.\nYeah... That's right...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "If I gave up here, I wouldn't be able\nto face Angie or Tenko...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "That's right!\nSo let's do our best!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Nyeeeeeeh! Alright! I'm not gonna say\nit's a pain anymore!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I won't give up! I'll fight alongside \neveryone and survive!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Do not say \"everyone.\" After all, the\nblackened is still among us.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Geez. There you go killing \nthe mood like usual.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "But damn! Well said, Shuichi!\nThat's what I'd expect from my soul bro!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Your...\"soul bro\"?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Well anyway, do you think the blackened\nthis time has some sort of superpower?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...What are you talking about?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Well, as a self-proclaimed expert\nof stepping through floorboards...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Isn't it weird that no one stepped through\nthat floorboard before the culprit used it?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Ah... That is a good point.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "It must've been barrier magic!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Well...that's one possibility... But I\nthink it might've been something else.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>Why did no one step on the floorboard\nuntil it was used for the murder...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>...Ah! That's it!\nThat must be the reason!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "The culprit put the cage somewhere\nthat it wouldn't be touched by us!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Non, non. We carried that iron cage with\nour sweat and tears!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Don't be mean, Shuichi.\nYou're really gonna ignore all my hard work?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Was the crosspiece supporting the\nfloorboard the whole time?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Maybe the culprit removed the crosspiece\nright before stomping on the floorboard.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Hmmm, you think so? It would've been smarter\nif they made sure no one stepped on it.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "If the culprit adds more to the plan, \nthen it'll become easier to screw up.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Umm... It's kind of hard to imagine\nif you didn't participate in the seance...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "You were part of the seance, right\nShuichi? Do you remember anything?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "That doesn't seem like it's related...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Shuichi, when you were preparing the \nseance, was there a spot you didn't step?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "That could've been where the \nfloorboard trap was hidden.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Why did no one step on the floorboard\nuntil the culprit used it in the murder?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "It's because of the <CLT=cltSTRONG>magic circle<CLT=cltNORMAL>\nat the scene of the crime.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Also, it's dark in here, so be sure \nto watch your step.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "If the magic circle is broken,\nnot only will the seance fail...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "But it may also unleash a curse.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Before we began the seance, we were\nwarned not to step on the circle.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "The floorboard in question was within the\ncircle. That's why no one stepped on it.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "So the magic circle's purpose was to keep\nus away from the whole trick.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "That was part of the culprit's plans, too?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "<CLT=cltMIND>That's right!\nIf that's the case, then the culprit...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltMIND>There's no doubt in my mind.\nThey're the one who killed Tenko.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>Only one person had the\nopportunity and the motive.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Himiko...\nIt really was y—",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "You know it's not me!\nThis is no time to mess around!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "I already know who the culprit is, but I wanna\nhear it from Mister Detective himself!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Obviously...you know already, right?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "It can't be that person, can it, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Think about the magic circle and its purpose.\nWhoever drew it is suspicious, right?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Who killed Tenko?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Kiyo...was it you?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Hmm? Whatever are you\ntalking about?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "I'm talking about Tenko's murder.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Huh? Kiyo?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Why do you suspect me?",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Because you were the one who\ndrew the magic circle.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "The circle kept us from discovering\nthe seesaw trick...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "But that's not all it was for.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "In order to make the murder succeed...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "...variables, like Tenko's position and the\nplacement of the cage, needed to be defined.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "And those variables were defined by using\nthe magic circle.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "In short, the circle itself was the most\nimportant tool in this murder.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Knowing that, the person who drew\nthe magic circle has to be the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Well, Kiyo?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "A-Answer already! Did you do it!?",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Kehe...kehehehe...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Kehehehehehehehehe...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "...What is so funny?",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "I was just thinking...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "So this is how each blackened must have felt.\nWhat an intriguing experience this is.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "What? An intriguing experience?",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "But if I am the culprit as you claim,\nthen I stomped on the floorboard, yes?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "So...do tell.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "How could I have stomped on the\nfloorboard during that darkened seance?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "I see... That is problem.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Kehehe... Unless that is made clear,\nyou cannot be certain I am the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "How can you be so calm when you're\nbacked into a corner like this?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "I will explain that in due time.\nPlease answer my question first.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "<CLT=cltMIND>The culprit stepped on that exact\nfloorboard, even in the darkness...",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltMIND>But how? How did they\nmove around in total darkness?",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "<CLT=cltMIND>In a room that dark, it's hard to imagine\nthe culprit found the right board.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "<CLT=cltMIND>Although, even after I put out the candle,\nI could move along the wall with my hand—",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Wait a minute, maybe...",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "...Did you figure it out?",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>That's it... The culprit didn't\neven have to see at all. They used...",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Hearing",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "The culprit used their hearing!",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "I don't think there were any other\nsounds besides the song and the stomp.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Touch",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Smell",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "The culprit used their sense of smell!",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Wha-?\nWas there anything that smelled?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "Sixth sense",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Perhaps the culprit saw beyond the\nmaterial plane... A sixth sense...",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "What are you saying at a time like this?\nDo you want to die?",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "You said wait, but you don't have anything\nfigured out, do you?",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "<CLT=cltMIND>How did the culprit find\nthe seesaw in the darkness?",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "The culprit used <CLT=cltSTRONG>touch<CLT=cltNORMAL>.\nThey didn't see, they felt.",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "That way, they could get around in the dark.\nLike how I got to the candle!",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "Wasn't seesaw in <CLT=cltSTRONG>middle of room<CLT=cltNORMAL>?\nGonta doesn't think it was near wall.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "So they probably used something\nbesides the wall to move then, right?",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Hm? Were there any other markers within\nreach?",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Of course the answer to that is,\n\"There was nothing of the sort.\"",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>No, I'm sure there was something.",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "<CLT=cltMIND>A landmark they could have used\nto determine where the floorboard was.",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "<CLT=cltMIND>It must have been at the scene.\nI know it.",
+  "tr": ""
+ }
+]

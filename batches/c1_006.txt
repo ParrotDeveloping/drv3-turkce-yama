@@ -1,0 +1,66 @@
+@ chap1_text_US
+## c01_001_007
+57|O zaman bu duvarların içine en başta\nnasıl girdik?
+58|...Ah, iyi bir nokta.
+59|Demek ki bir yerlerde bir açıklık olmalı!\nSadece onu bulmamız lazım!
+60|Bizi buraya hapseden kişi birbirimizle\nsavaşmamızı istiyor...
+61|...O yüzden onlara buna izin\nvermeyeceğimizi gösterelim!
+62|Birbirimizle savaşmayacağız!\nBirlikte çalışacağız! Tamam mı!?
+64|Neden sessizsiniz...?\nYanlış bir şey mi söyledim?
+65|Aksine.
+66|Davanı öyle veciz bir özgüvenle ortaya\nkoydun ki dilimiz tutuldu.
+67|Heh... Ben de aynı şeyi söyleyecektim, \nama sen benden önce davrandın...
+68|Kesinlikle haklısın!\nBu kadar kolay pes edemeyiz!
+69|Ayrılıp çıkışı bulmaya çalışalım!
+70|Ohhhh! Atua bize güç ver!
+71|İtiraf etmeliyim, ruhuna hayranım.
+72|Ah, bekleyin!
+73|Nyeh...? Ne oldu? Tam da \nbaşlamak üzereydik.
+74|Şey... Belki çok önemli değil ama...
+75|Gonta daha önce bir rögar buldu. Çimlerde,\nokul binasının arkasında.
+76|Rögar mı?
+77|Gonta içine baktı. Büyük, yeraltı geçidi gördü.\nBelki çıkış diye düşündü...
+78|...Özür. Muhtemelen o kadar basit değil.
+79|B-Böyle önemli şeylerden çok daha\nçabuk bahsetmelisin!
+80|Gontaiçinebaktı! Büyükyeraltıgeçidigördü!\nBelkiçıkışdiyedüşündü!
+81|Dur, öyle değil! Çok hızlı konuşuyorsun!
+82|Kazan dairesi okul binasının arkasında.\nGonta'nın iddiasını hemen doğrulamalıyız.
+83|Gonta, lütfen yol göster.
+84|Tamam! Herkes Gonta'yı takip etsin!
+85|<CLT=cltMIND>Gonta önderliğinde aceleyle spor\nsalonundan çıktık.
+86|<CLT=cltMIND>Tam onların peşinden gitmek üzereyken...
+87|...Kaede, az önce epey havalıydın.
+88|Ha? Ne?
+89|Havayı tamamen değiştirme şeklin.\nGörünüşe göre herkes sana hayran.
+90|B-Bana hayran mı? Hadi ama, bu saçma.\nBen...sadece içimden geldiği gibi konuştum.
+91|Demek bu sende doğal olarak var.\nBu daha da havalı.
+92|Kazanmak için gerekenler sende var...
+93|Ne...?
+94|Sadece düşünüyordum da, az önce söylediklerin\nbunu yöneteni fena kızdırmıştır.
+95|Kesinlikle el ele tutuşup birlikte\nçalışmamızı istemiyorlar...
+96|...Senin peşine düşecekler, Kaede.\nEllerindeki her şeyle.
+97|Senin için biraz endişeleniyorum.\nÇok...dobrasın.
+98|...Ve gitti. O adam biraz daha az\ngizemli konuşsa iyi olurdu.
+99|Ah, belki bir uyarıdır?\nBen öyle düşünüyorum en azından...
+100|İrade sahibi olmak burada başını\nçok belaya sokabilir...
+102|Ah, ö-özür dilerim... Böyle bir zamanda bu\nkadar olumsuz konuşmak istememiştim.
+103|...Sorun değil. Bunu sadece endişelendiğin\niçin söyledin, değil mi?
+104|Evet... Rantaro bir muamma.\nO da <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneğini unutmuş...
+105|Bu gerçekten...unutulabilecek bir şey mi?
+106|Neyse, şu an bunu düşünmenin anlamı yok.\nO rögara gitmeliyiz.
+107|Ah, haklısın...
+108|Muhtemelen böyle şeyleri düşünerek\nzaman kaybetmemeliyiz...
+109|Evet, diğerlerine yetişelim.
+## c01_002_001
+0|<CLT=cltMIND>Erkekler tuvaletinde bir işim\nyok...
+## c01_002_042
+0|<CLT=cltSYSTEM>*tık...tık...*
+1|<CLT=cltMIND>Kilitli.\nSanırım giremem.
+2|<CLT=cltMIND>Üstünde...Antik Pasaport yazıyor...\nAcaba bir anlamı var mı?
+## c01_003_252
+0|Görünüşe göre hepimiz buradayız. \nEee, nerede bu rögar?
+1|Şey... Şurada, çimlerde.
+2|Demek burada çim bile var...
+3|Ah, köklere dikkat edin, millet...
+4|Demek böyle bir yerde bir rögar \nsaklıymış, ha?
+5|Eh, Yıldızların Işığı Kaito Momota'nın \ngözünden hiçbir şey kaçmaz!

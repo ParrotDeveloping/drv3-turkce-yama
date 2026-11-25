@@ -1,0 +1,697 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Upon entering the classroom, a wave of\nanxiety suddenly overwhelmed me.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>My heart felt like it would beat out\nof my chest at any moment.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "...Let's keep the door open a little.\nSo we can see anyone going to the basement.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Ah...Kaede?\nAbout the...security sensor receiver...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Could you hold on to it, please? I just feel\nlike...you'd be better suited for that than me.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Ah, there's a power switch on it.\nMake sure you don't turn it off by accident.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "No...you hold on to it, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "You're the one who came up with this plan...\nAnd...I trust you.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Also, Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "You just said <CLT=cltSTRONG>I'm better than you<CLT=cltNORMAL> at something.\nWhy do you say things like that, anyway?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I guess it's good that we have some time left,\nbecause I wanted to talk to you about that.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Talk to me...?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "It's probably none of my business, but...\nI think you should be more confident.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Especially since the <CLT=cltSTRONG>Ultimate Initiative<CLT=cltNORMAL> selected\nyou as the <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "No, really, I...shouldn't be the <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>.\nI'm not...even a real detective.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...I didn't even really want\nto be a detective.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "My uncle runs a detective business...\nI would sometimes help out, as an apprentice.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "It was usually just...cheating couples...\nbackground checks...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "But one day, I came across a murder\ncase, completely by chance...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I solved it before the police did. They\ncalled me the \"<CLT=cltSTRONG>boy detective<CLT=cltNORMAL>.\"",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "That's when I got scouted by the <CLT=cltSTRONG>Ultimate\nInitiative<CLT=cltNORMAL>... Though I only solved one case...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Even so, it's still amazing that you solved a\nmurder case. Most people can't do that.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...I wonder.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I wonder if, ah...\nit was really a good thing I solved that case.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "The look on his face when we caught him...\nI can still see it, even now.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "He stared at me...like he hated me more\nthan anything else in the world.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Later, I heard that...he murdered the\nvictim to get revenge for his family.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "The victim was abusive... They drove\nthe culprit's relative to suicide.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "People told me...the culprit was right to\ndo what he did. The victim deserved it.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "But I led the police right to him...\nOf course he hated me...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "It's not like you took sides... You uncovered\nthe truth—that's what detectives do, right?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Yeah...I uncovered the truth.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Which makes it my fault.\nAnd I'm still suffering the consequences.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Ever since that one...stupid case...\nI've been so afraid of uncovering the truth.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...I'll never forget those eyes. The hatred...\nThe way they...stared into me...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Ah, anyway...that's why I have trouble\nlooking people in the eyes sometimes...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>So that's why he wears that hat...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...I'm not a real detective, Kaede. What kind of\nstupid detective is afraid of finding the truth?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Right then, I noticed Shuichi's hands\nwere trembling.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>I gently reached out and held his hand.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Kaede...?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I wish there was a piano here. I would \nplay you a song to help you cheer up!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Hmm...a pretty song to play for you...\nOh, like \"Clair de Lune\" by Debussy!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "It's a soothing song that calms your heart,\nlike the moon's reflection on water...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "You noticed, huh?\nYeah... I'm shaking, too.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "But...I'd be a mess if you weren't here.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I wouldn't have been able to do anything...\nI would've been so lost...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "I'm glad you're here with me, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "With you by my side, I feel like I can\nstand up to anything.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "You give me the courage I need to\ntake on the mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "So, please...be more confident.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I believe in you, so you should definitely\nbelieve in yourself!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...Okay. I'll try.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I don't know if I can, but I'll try...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Yup, *that's* a promise.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>After letting go of his hand, I quickly\nchanged the subject.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Also, I think you would look way cooler\nif you didn't wear that hat.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Wh-What are you talking about?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "What? I'm serious here.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Once we're out of here, I want you to show\nme what you look like without the hat, okay?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Geez...I just wanna see everyone smile.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "I love seeing the expressions people make\nwhen they're enjoying themselves.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "That's why I play piano...\nTo see the smiles on everyone's faces.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "And that's why we need to expose the\nmastermind and end this dumb killing game!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "So we can smile with everyone else!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>After our serious talk, we talked about\nthis and that to kill some time.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>We did all we could...and prepared for whatever\nhappened next. I was nervous, of course...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>But all we could do was wait for\nthe moment to arrive.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>As the time limit drew closer and closer...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>And then suddenly...the moment arrived.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Wh-What is this weird music?\nIs it coming from that monitor?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Maybe it's a warning that we need to start\nkilling. The time limit is almost up...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Th-They need to stop screwing with us!\nHow much suffering do they want from us!?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Wait, Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "I hear people talking...in the hallway...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Huh? People talking?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>I focused my attention on the hallway...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>I could hear a group of boys and girls\ntalking.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>I tried my best to listen while I peered\nthrough the gap of the classroom door—",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>I saw seven boys and girls head down\nthe stairs.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Kaito, Gonta, Maki...\nTenko, Angie, Himiko and...Rantaro, too?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>The seven continued to walk down the\nstairs.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "What's a big group like that planning to do...?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>Rantaro was with them, too.\nDidn't he say he would end this game?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "It's almost nighttime, right? If they're all\nheading to the basement right now...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Could the mastermind be with them, too?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Kaito, Gonta, Maki, Tenko, Angie, Himiko,\nand Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "One of them is the mastermind?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "It is unusual...for such a big group\nto all go to the basement.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "They're not planning on going to the library,\nare they? That would be bad...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "They'll scare off the mastermind from using\nthe bookcase and ruin the plan.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "I'm going to check out the basement!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "I'll come with you!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "No! You stay and keep watch, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>With that, Shuichi dashed out of\nthe classroom.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Huh? Why am I all alone now...?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>Realizing I was alone, all the fear and anxiety\nI was trying to hide rushed back into me.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Ah, geez!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "<CLT=cltMIND>I couldn't keep still, so I grabbed the broom\nfrom the corner of the classroom...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>I started cleaning for no reason at all.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>I had to move my body.\nThe anxiety was getting to me.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Shuichi...\nPlease come back already...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>I continued to distract myself with cleaning\nuntil Shuichi finally came back.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...Kaede? Why are you sweeping...?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Huh? O-Oh, no reason...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Anyway, what about the people down\nin the basement?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Everything is okay.\nThey all went to the Game Room.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>The Game Room? Why there?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "...There's only one hour until the time limit.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Yeah, it's almost time...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "I'm sure that the mastermind will\nmake their move soon.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "If Monokuma is going to show up when time\nruns out, the mastermind will go to the library—",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>Then, it happened so suddenly.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Ah!",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>My heart nearly leapt out of my chest as the\nreceiver in Shuichi's hand suddenly went off.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Sh-Shuichi, the receiver!",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Someone moved the bookcase!\nHurry, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltMIND>Shuichi sprinted out of the classroom with the\ndetermination of a true <CLT=cltSTRONG>Ultimate Detective<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "W-Wait for me!",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "<CLT=cltMIND>I dropped everything I was holding and\nran after Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>I could feel my heart beating\nfaster and faster.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "<CLT=cltMIND>I was so nervous, my head felt like it was\npounding with every heartbeat.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>Seems like a good time to have a talk\nwith Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>A blackboard that's also an LCD screen, huh?\nI find this more off-putting than cool...",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>It's wrapped with barbed wire...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "<CLT=cltMIND>Why do they need to block it when we can\nalready leave the school?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>Teacher's Desk",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "<CLT=cltMIND>Seems like a good time to have a talk\nwith Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "<CLT=cltMIND>There's a vent that connects to the library\nfrom here. I didn't even notice that...",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Plants are growing inside the bathroom...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Other than that, it's just a normal bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ }
+]

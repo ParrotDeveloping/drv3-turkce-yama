@@ -1,0 +1,527 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>This is a lot more spacious than I thought.\nYou can move pretty easily on all fours.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Let's look around for clues.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "It'd look pretty stupid if we found no clues\nafter crawling around in this dusty place.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>I think there are still things\nto investigate here...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Blood dripping from the gaps\nin the floorboards...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Fresh blood.\nThis is definitely Tenko's.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>There's a bloodstain on the ground\nunderneath the loose floorboard.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>But that's pretty far from where\nTenko's blood is dripping down...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>It's under the same floorboard...\njust at different ends.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Why is there blood here?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Hey, the back of this floorboard has blood\non it, too.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "You're right...there's a little bit of blood\non the underside of this floorboard.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Did Tenko's blood spatter here when she\ngot killed?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I wonder... I can't really be sure yet.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "But these bloodstains here are\ncompletely dry.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>There must be some reason these\nparticular stains are dry...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Dried Blood Under the Floor<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Loose Floorboard<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>There's a bloodstain on the ground\nunderneath the loose floorboard.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>It's a good distance from the spot\nwhere Tenko's blood pooled.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>Why is there a bloodstain here?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>There's also blood on the underside\nof this floorboard.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Was this also from when Tenko\nwas killed? I don't know...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>But these bloodstains are\ncompletely dry.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>What could that mean...?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>Some of the wood has corroded and is broken\noff, so you can see into the next room...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "This is...the wall of the empty room, right?\nLooks like there's wood along the wall...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "This part has rotted away.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "It looks like natural rot...\nThis hole wasn't made intentionally.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "But I can get into the next room through\nhere.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "If I remember correctly, the room next door\nis also empty, right?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Then the culprit could've gone from room to room\nby moving under here instead of using the hallway.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "True, but it would have been difficult\nmoving around under the floor.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "We did alright because we had a light.\nWithout that, it'd be pitch-black.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "That might make it impossible\nto move around in there.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Then they could've used a light, like we're doing\nright now.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "True...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>They used a light to move around\nunder the floor? Is that possible?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Part of the wood has rotted away.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>It looks like natural rot.\nThis hole wasn't made intentionally.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>This is near the wall to the room next door.\nYou could get there through this space.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>So, you could go from room to room\nunder the floor...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>But it would be completely dark.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Without some kind of light to guide you,\nit wouldn't be possible to move around.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Could the culprit have brought a light\nwith them under the floor?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>There's a sickle here!\nAnd there's blood all over it!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "The blood on this sickle is fresh...\nThis is it. This is the murder weapon!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "This...came from my research lab.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "It did?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "A sickle can be used to assassinate a target.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "It can be thrown without losing any lethality,\nand you can hide it under your clothes, too.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "If she was attacked with this, she wouldn't\nstand a chance. The blade is about six inches...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "And since Tenko was in the cage, she wouldn't\nhave been able to defend herself.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "But even if this *is* our murder weapon...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "How did the culprit attack Tenko in the cage?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "The blade could fit through the gaps in\nthe cage, but could it reach her neck?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "The cage is three feet high... If you were to\nstab into it with a six-inch blade...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Well, it would depend on Tenko's posture...\nbut I don't think it's impossible.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>Then her posture is the question...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Hey... If the weapon is down here, the culprit\nmust've thrown it away, right?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Perhaps after killing Tenko, the culprit threw\nthe sickle under the floor in the dark.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Or, they could have been under the floor the\nentire time. Either of those is possible.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Sickle Under the Floor<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>A bloody sickle has been dropped here.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>The blood is still wet. It must be the\nweapon used to kill Tenko.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>This weapon was from Maki's lab.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>The blade is about six inches,\ndeadly in a fight.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>But how did the culprit attack Tenko\nin the cage with the sickle?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>The blade might fit through the gaps in\nthe cage, but could it reach Tenko's neck?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>The cage is about three feet tall, so\nsticking a six-inch blade in that...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>It would all depend on her body position\ninside the cage.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>In addition to all that...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>If we assume the weapon is down here\nbecause the culprit threw it here...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>Then either the culprit threw the sickle\ndown here in the dark after the murder...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>or the culprit was under the\nfloor the whole time.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>Which could it be...?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Ah, look! Part of the crosspiece that supports\nthe floorboard is cut off.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "It's near the loose floorboard, and the portion\nmissing is about the same width, too.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "And from what I can see of it...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "It wasn't broken off naturally.\nThis was cut by someone.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "There should be saws in the warehouse,\nso they could have used that...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "The question is, why?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Another crosspiece is supporting the floorboard,\nso it might not fall if this portion is missing...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "So what purpose did this serve?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>The floorboard underneath Tenko's body is loose,\nand the crosspiece supporting it has been cut...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>If the culprit did all of this...then why?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Crosspiece Under the Floor<CLT=cltSYSTEM>\" has been added\nto the Truth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>A piece has been cut out of the crosspiece\nthat is supporting the loose floorboard...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>And from what I can see of it...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>It wasn't broken off naturally.\nIt must have been cut by someone.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>There should be saws in the warehouse,\nso assuming they used that...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>Why would they do all this?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>The floorboard Tenko's body is on is loose,\nand the crosspiece under it is cut off...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>If the culprit did all of this...then why?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "<CLT=cltMIND>The fact that Tenko's body is on top of\nthe loose floorboard can't be coincidence.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "<CLT=cltMIND>I think we've finished investigating here.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Maki, you want to head back up?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Glad you asked... I was starting to get fed up\nwith all this dust.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>After Maki and I crawled out from under\nthe floor, we put the floorboards back...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>And returned to our investigation.",
+  "tr": ""
+ }
+]

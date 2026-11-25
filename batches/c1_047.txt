@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_039_017
+38|...O gözleri asla unutmayacağım. Nefreti...\nBana...nasıl baktıklarını...
+39|Ah, neyse...bu yüzden bazen insanların\ngözlerine bakmakta zorlanıyorum...
+40|<CLT=cltMIND>Demek o şapkayı bu yüzden takıyor...
+41|...Ben gerçek bir dedektif değilim, Kaede. Ne tür\naptal bir dedektif gerçeği bulmaktan korkar?
+42|<CLT=cltMIND>Tam o anda Shuichi'nin ellerinin\ntitrediğini fark ettim.
+43|<CLT=cltMIND>Nazikçe uzanıp elini tuttum.
+44|Kaede...?
+45|Keşke burada bir piyano olsaydı. Neşelenmen\niçin sana bir şarkı çalardım!
+46|Hmm...sana çalacak güzel bir şarkı...\nAh, mesela Debussy'nin "Clair de Lune"u!
+47|Kalbini yatıştıran sakinleştirici bir şarkı,\ntıpkı ayın sudaki yansıması gibi...
+49|Fark ettin, ha?\nEvet... Ben de titriyorum.
+50|Ama...sen burada olmasaydın darmadağın olurdum.
+51|Hiçbir şey yapamazdım...\nTamamen kaybolmuş olurdum...
+52|Burada benimle olduğun için mutluyum, Shuichi.
+53|Sen yanımdayken her şeye karşı\ndurabilirmişim gibi hissediyorum.
+54|Beyinle yüzleşmek için ihtiyacım olan\ncesareti bana sen veriyorsun.
+55|O yüzden, lütfen...daha özgüvenli ol.
+56|Ben sana inanıyorum, o yüzden sen de\nkesinlikle kendine inanmalısın!
+58|...Tamam. Deneyeceğim.
+59|Yapabilir miyim bilmiyorum ama deneyeceğim...
+60|Evet, *bu* bir söz.
+61|<CLT=cltMIND>Elini bıraktıktan sonra hemen konuyu\ndeğiştirdim.
+62|Ayrıca bence o şapkayı takmasan çok daha\nhavalı görünürdün.
+63|N-Neden bahsediyorsun sen?
+64|Ne? Ciddiyim.
+65|Buradan çıkınca şapkasız nasıl göründüğünü\nbana göstermeni istiyorum, tamam mı?
+67|Tanrım...sadece herkesin gülümsediğini görmek istiyorum.
+68|İnsanların eğlenirken takındığı ifadeleri\ngörmeye bayılıyorum.
+69|Bu yüzden piyano çalıyorum...\nHerkesin yüzündeki gülümsemeyi görmek için.
+70|Ve bu yüzden beyni ortaya çıkarıp bu aptal\nölüm oyununa son vermeliyiz!
+71|Böylece herkesle birlikte gülümseyebiliriz!
+72|<CLT=cltMIND>Ciddi konuşmamızdan sonra vakit geçirmek\niçin ondan bundan konuştuk.
+73|<CLT=cltMIND>Elimizden geleni yaptık...ve ne olursa olsun\nhazırlandık. Tabii ki gergindim...
+74|<CLT=cltMIND>Ama tek yapabileceğimiz o anın gelmesini\nbeklemekti.
+75|<CLT=cltMIND>Süre sınırı giderek yaklaşırken...
+76|<CLT=cltMIND>Ve sonra birden...o an geldi.
+77|B-Bu tuhaf müzik de ne?\nŞu ekrandan mı geliyor?
+78|Belki öldürmeye başlamamız gerektiğine dair bir\nuyarıdır. Süre neredeyse doldu...
+79|B-Bizimle oynamayı bırakmaları lazım!\nBize daha ne kadar acı çektirmek istiyorlar!?
+80|Dur, Kaede...
+82|Koridorda...konuşan insanlar duyuyorum...
+83|Ha? Konuşan insanlar mı?
+84|<CLT=cltMIND>Dikkatimi koridora verdim...
+85|<CLT=cltMIND>Bir grup erkek ve kızın konuştuğunu\nduyabiliyordum.
+86|<CLT=cltMIND>Sınıf kapısının aralığından bakarken\nelimden geldiğince dinlemeye çalıştım—
+87|<CLT=cltMIND>Yedi erkek ve kızın merdivenlerden\naşağı indiğini gördüm.
+88|Kaito, Gonta, Maki...\nTenko, Angie, Himiko ve...Rantaro da mı?
+89|<CLT=cltMIND>Yedi kişi merdivenlerden inmeye\ndevam etti.
+90|Böyle büyük bir grup ne yapmayı planlıyor...?
+91|<CLT=cltMIND>Rantaro da onlarla birlikteydi.\nBu oyuna son vereceğini söylememiş miydi?
+92|Neredeyse gece vakti, değil mi? Şu an\nhepsi bodruma iniyorsa...
+93|Beyin de onlarla birlikte olabilir mi?
+94|Kaito, Gonta, Maki, Tenko, Angie, Himiko\nve Rantaro...
+95|Beyin onlardan biri mi?
+96|Böyle büyük bir grubun bodruma inmesi...\nolağan dışı.
+97|Kütüphaneye gitmeyi planlamıyorlar,\ndeğil mi? Bu kötü olurdu...

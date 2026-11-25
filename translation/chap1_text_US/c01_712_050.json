@@ -1,0 +1,42 @@
+[
+ {
+  "id": 0,
+  "en": "I thought about it a lot, but...the only answer\nI came up with is that nothing can be done...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I spend time with Tsumugi?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yeah... Being by myself makes me feel \njust plain lonely...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I spent some time walking in the courtyard\nwith Tsumugi...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Tsumugi and I grew a little closer today.",
+  "tr": ""
+ }
+]

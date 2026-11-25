@@ -1,0 +1,72 @@
+@ chap2_text_US
+## c02_000_001
+0|Lab B
+1|<CLT=cltMIND>Burası kızlar tuvaleti.\nBen erkeğim, oraya giremem!
+2|<CLT=cltMIND>Sadece bir monitör. İncelesem bile şüpheli\nbir şey bulacağımı sanmıyorum...
+3|<CLT=cltMIND>Belki burada bizi izleyen bir kamera\nvardır... Belki de yoktur.
+## c02_000_002
+0|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
+1|<CLT=cltMIND>Çok hantal...\nAcaba Monokuma böyle şeylerden mi hoşlanıyor.
+## c02_000_003
+0|Kaito'nun Laboratuvarı
+1|3K Lab A
+2|3K Lab B
+3|Maki nöbet tutuyor; içeri giremem.
+4|Gah-hahahahahahaha!
+6|Kaede Akamatsu'nun Laboratuvarı
+9|1K
+10|3K
+11|<CLT=cltMIND>Kapıya benziyor...\nYa da belki sadece sanattır?
+12|Yine de...bu bir video oyunundan\nçıkmış gibi görünüyor...
+13|<CLT=cltMIND>Sadece bir monitör. İncelesem bile şüpheli\nbir şey bulacağımı sanmıyorum...
+14|<CLT=cltMIND>Belki burada bizi izleyen bir kamera\nvardır... Belki de yoktur.
+## c02_000_004
+0|<CLT=cltMIND>Düşündüğüm gibi, sadece biraz açılıyor.\nOyun Odası'ndan girmem gerekecek.
+1|<CLT=cltMIND>Demek gülle buraya yuvarlandı...\nRantaro'nun hayatını alan...silah...
+2|<CLT=cltMIND>Sadece bir monitör. İncelesem bile şüpheli\nbir şey bulacağımı sanmıyorum...
+3|<CLT=cltMIND>Belki burada bizi izleyen bir kamera\nvardır... Belki de yoktur.
+4|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
+5|<CLT=cltMIND>Gerçekten her yerdeler...\nKontrolleri altında olduğumuzu bilmemizi istiyorlar.
+6|<CLT=cltMIND>Ama bizi gözetlemek için herhangi bir\ngözetim donanımı yok.
+## c02_000_007
+4|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
+5|<CLT=cltMIND>Çok hantal...\nAcaba Monokuma böyle şeylerden mi hoşlanıyor.
+## c02_000_010
+4|<CLT=cltMIND>Sadece bir monitör. İncelesem bile şüpheli\nbir şey bulacağımı sanmıyorum...
+5|<CLT=cltMIND>Belki burada bizi izleyen bir kamera\nvardır... Belki de yoktur.
+## c02_000_014
+4|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
+5|<CLT=cltMIND>Çok hantal...\nAcaba Monokuma böyle şeylerden mi hoşlanıyor.
+9|5
+10|6
+11|7
+12|8
+13|9
+## c02_000_015
+5|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
+6|<CLT=cltMIND>Çok hantal...\nAcaba Monokuma böyle şeylerden mi hoşlanıyor.
+8|<CLT=cltMIND>Keşke o zaman fark\netseydim...
+9|<CLT=cltMIND>Uzaktan kumandalı helikopter...\nDemek burada böyle şeyler bile var...
+10|<CLT=cltMIND>Yüksek atlama çıtası...\n...Pek işe yarar görünmüyor.
+11|<CLT=cltMIND>Burada bir minder var.
+12|<CLT=cltMIND>Bunu spor salonunun deposunda tutabilirlerdi.\nNeden burada?
+13|<CLT=cltMIND>Burada engeller var... Onları kullanma\nfırsatımız olacağını hiç sanmam.
+## c02_000_017
+4|<CLT=cltMIND>Ne alışılmadık bir kara tahta...
+5|<CLT=cltMIND>Dikenli telle kapatılmış...
+6|<CLT=cltMIND>Mesaj veriyorlar. Kaçmamıza izin vermeyecekler...
+9|<CLT=cltMIND>Kaede...
+10|<CLT=cltMIND>Sadece bir monitör. İncelesem bile şüpheli\nbir şey bulacağımı sanmıyorum...
+11|<CLT=cltMIND>Belki burada bizi izleyen bir kamera\nvardır... Belki de yoktur.
+## c02_000_018
+4|<CLT=cltMIND>Ne alışılmadık bir kara tahta...
+5|<CLT=cltMIND>Dikenli telle kapatılmış...
+6|<CLT=cltMIND>Mesaj veriyorlar. Kaçmamıza izin vermeyecekler...
+8|<CLT=cltMIND>...Bunlar Kaede'yle benim içinde\nolduğumuz dolaplar.
+9|<CLT=cltMIND>Kaede'yle tanışmak...beni öyle...
+11|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.
+12|<CLT=cltMIND>Çok hantal...\nAcaba Monokuma böyle şeylerden mi hoşlanıyor.
+## c02_000_019
+1|<CLT=cltMIND>Normale...döndü mü?
+2|<CLT=cltMIND>Monokuma...her şeyi temizledi mi?
+7|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.

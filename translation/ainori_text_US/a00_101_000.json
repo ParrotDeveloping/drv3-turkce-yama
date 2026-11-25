@@ -1,0 +1,337 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give Kaito a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Huh? You're giving this to me?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Th-Thanks, it's just...unexpected for \nyou to give me something like this.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Hey...we can still pretend it was\njust a joke, so put that away.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Hey...we can still pretend it was\njust a joke, so put that away.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "H-Hold up...don't put that near me.\nYou got it?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Why do you even have such a weird \nthing!? Toss it in the garbage!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Hey...we can still pretend it was\njust a joke, so put that away.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "H-Hold up...don't put that near me.\nYou got it?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Why do you even have such a weird \nthing!? Toss it in the garbage!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Hey...we can still pretend it was\njust a joke, so put that away.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Are you kidding me? What am I \nsupposed to do with this?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "What's up with you?\nThis isn't like you, man!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Did you really think I'd like something \nlike this? C'mon, man...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Are you making fun of me?\nNah you wouldn't, but...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Are you kidding me? What am I \nsupposed to do with this?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "What's up with you?\nThis isn't like you, man!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Did you really think I'd like something \nlike this? C'mon, man...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Are you making fun of me?\nNah you wouldn't, but...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Are you kidding me? What am I \nsupposed to do with this?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "What's up with you?\nThis isn't like you, man!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "You've got a bunch of stuff, huh?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "You're not just trying to unload \nsome garbage on me, right?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Huh? What's this? \nWhere'd you get it?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Well, if it's a gift from you, \nthen I'll totally accept it.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Are you kidding me? What am I \nsupposed to do with this?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "What's up with you?\nThis isn't like you, man!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "You've got a bunch of stuff, huh?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "You're not just trying to unload \nsome garbage on me, right?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Huh? What's this? \nWhere'd you get it?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Well, if it's a gift from you, \nthen I'll totally accept it.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Are you kidding me? What am I \nsupposed to do with this?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "What's up with you?\nThis isn't like you, man!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "You've got a bunch of stuff, huh?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "You're not just trying to unload \nsome garbage on me, right?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Huh? What's this? \nWhere'd you get it?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Well, if it's a gift from you, \nthen I'll totally accept it.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Are you kidding me? What am I \nsupposed to do with this?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "What's up with you?\nThis isn't like you, man!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "You've got a bunch of stuff, huh?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You're not just trying to unload \nsome garbage on me, right?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Huh? What's this? \nWhere'd you get it?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Well, if it's a gift from you, \nthen I'll totally accept it.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Are you giving this to me?\nHaha, you know me so well!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Alright! As thanks for this cool gift, \nI'll tell you a cool story!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Oh, that's pretty interesting.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "This is almost the perfect gift for a Luminary\nof the Stars! You're on the right path.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Are you giving this to me?\nHaha, you know me so well!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Alright! As thanks for this cool gift, \nI'll tell you a cool story!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Oh, that's pretty interesting.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "This is almost the perfect gift for a Luminary\nof the Stars! You're on the right path.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Oh, nice! This gift's a real bullseye!\nYour thoughts hit me dead center!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Alright! Since you gave it to me, \nI'll teach you all about this thing!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "A-Are you serious!? I didn't think you\ncould even find this around here!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Kaede...this makes me so happy!\nGimme a hug!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Oh, nice! This gift's a real bullseye!\nYour thoughts hit me dead center!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Alright! Since you gave it to me, \nI'll teach you all about this thing!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "A-Are you serious!? I didn't think you\ncould even find this around here!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "As expected...no, great job!\nI'm so happy!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Okay, I won't give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "No, I want to give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Kaito a present?",
+  "tr": ""
+ }
+]

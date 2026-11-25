@@ -1,0 +1,267 @@
+[
+ {
+  "id": 0,
+  "en": "Good morning, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Oh... Hey, bro!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Perfect timing.\nCan I get your opinion on something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Huh? For what?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Well, it's about our training...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Like I said before, my training is based\non a systematic method.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "But, I feel like something's missing...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "You do...?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>We've only done sit-ups and\npush-ups so far...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Even if I don't need it myself, \nin order for you two to grow...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I feel like we should add something like martial\narts or some kind of mental training...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Now that you mention it,\nI do have a practice sword...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Oh! Good idea! Practicing with those\nwill be a great training exercise.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Alright! Let's not wait till night! We're gonna\ndo this special training as soon as possible!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Would you like to go with Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Ah, I'm actually okay...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Hey! You were the one who suggested it!\nChanging your mind is really unmanly, y'know!?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "B-But, I don't know if it's a good idea to\nswing a sword around, even a fake one...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Oh, yeah...that's true.\nIn that case...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Let's do zen meditation...\nWe'll meditate on what we should do.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Well, let's go to breakfast for now.\nI'll go on ahead.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>Zen meditation in the courtyard?\nThat might be tough on the legs...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Alright, I got it.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "It's decided! I'll bring Maki Roll, so let's \nmeet at the usual place!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "But first, breakfast.\nI'll see ya there!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "We'll meditate on what we should do.\nBut let's eat first.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I'll go on ahead. Don't be late, bro!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Yeah!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Heyyyy! Come ouuuut!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Where you hiding! Come talk to Gonta!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Gonta? What's wrong?\nAre you looking for someone?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Oh! Good morning, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Gonta not looking for person.\nGonta looking for tiny bug.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Ah, yes, I was wondering about that.\nHave you found any?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Well...Gonta no can find him.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Gonta see him lots of times, so Gonta\npretty sure it not mistake...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I see...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "But Gonta happy Shuichi love bugs so much!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Huh?\nAh, um, I don't like bugs *that* much...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "What!? You hate bugs, Shuichi!?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "N-No! I love them, Gonta!\nI said that before, right?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Oh yeah. You good person, so of course\nyou like bugs.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Alright! Gonta go find tiny bug for Shuichi!\nNo matter what it take!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Look forward to it!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Ah...I still get chills thinking about\nthe <CLT=cltSTRONG>Insect Meet and Greet<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>When I used the item, the vine suddenly\nwithered... How does that work?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Pool Entranc Zelda Gimmick Plant",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>So this is the key to the gate...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)",
+  "tr": ""
+ }
+]

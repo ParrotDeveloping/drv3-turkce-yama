@@ -1,0 +1,65 @@
+@ chap0_text_US
+## c00_008_250
+80|Ay!
+81|Shuichi...başkalarını motive etmekte pek iyi\ndeğilimdir... Ama bir duvar yüzünden pes edemeyiz.
+82|Bir yerden girdik, demek ki bir çıkış\nda olmalı!
+83|<CLT=cltSTRONG>Şimdi<CLT=cltNORMAL> kaçamayabiliriz ama eninde\nsonunda bir şekilde kaçacağız...
+84|Hepimiz buradan çıkmak istiyorsak herkesin\nişbirliği yapması lazım!
+85|<CLT=cltMIND>Evet, doğru.\nPes etmek için çok erken.
+86|<CLT=cltMIND>Çok erken.
+87|Tanrım... Bu koca duvarı nasıl\nyapmışlar ki?
+88|Cidden...hiç anlamıyorum.
+89|Şimdi ne olacak acaba...\nKaçamazsak o zaman—
+90|Ne o, şikâyet mi ediyorsun?
+92|Şikâyet edip söylenmeyi bırak, \nyoksa alışkanlık haline gelir.
+93|Hem bu kafes evrenin genişliğinin \nyanında hiçbir şey!
+94|Ha? Evren mi?
+95|Hay aksi, kendimi henüz tanıtmadım.\nBenim hatam.
+96|Ben Kaito Momota, Yıldızların Işığı! Ağlayan\nçocuklar bile <CLT=cltSTRONG>Ultimate Astronot<CLT=cltNORMAL>'a bayılır!
+97|Nasıl ama!? Ben bir astronotum!\nHavalı değil mi!?
+98|E-Evet... Hiç uzaya gitmedim, o yüzden\npek bir şey bilmiyorum...
+99|Haha! Tabii ki!\nOraya herkes çıkamaz!
+100|Astronot olabilirim ama...\naslında hâlâ eğitimdeyim.
+101|Ah, anlıyorum. Demek hâlâ stajyersin...
+102|Ama sınavı geçen ilk genç benim!
+103|Yani normalde sınava girebilmek için \nüniversite diploması gerekiyor.
+104|Ha? O zaman sınava nasıl girdin?
+105|Epey becerikli bir arkadaşım vardı...\nBenim için bazı belgeler sahteletti.
+106|Bu yasa dışı!
+107|Evet, sonunda yakalandım.\nBaşım fena halde belaya girmişti!
+108|Ama yukarıdakiler beni sevdi ve yine de kabul\nettiler. Tabii sınavı da parlak bir şekilde geçtim.
+109|B-Bu çok pervasızca...
+110|Bazen hayallerini gerçeğe dönüştürmek için \nbiraz pervasız olmak gerekir!
+111|Üniversiteden sonrasını bekleyemem! \nUzaya olabildiğince hızlı gitmek istiyorum!
+112|...Sende epey...enerji var.
+113|Evet, herkes bana imkânsız dedi ama \nhiç pes etmedim! Bir an bile!
+114|Çünkü...sınırları kendin koymadıkça \nsınır diye bir şey yoktur!
+115|Aşamayacağın duvar yoktur!\nŞu duvar için de aynısı geçerli!
+116|Peki bir fikrin var mı?
+118|M-Mesele o değil!
+119|<CLT=cltMIND>Şey...hayır, mesele *tam olarak* o.\nTanrım, bu adam amma büyük konuşuyor.
+120|<CLT=cltSYSTEM>Kaito'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+121|Aşamayacağın duvar yoktur!\nÇıkış yolunu sonra düşünürüz!
+122|O yüzden şikâyet ettiğini ya da söylendiğini\nduymayayım!
+123|<CLT=cltMIND>Bence çıkış yolunu düşünmenin tam\nzamanı *şimdi*...
+124|<CLT=cltMIND>Dışarıya bakmalıyız.\nBir yerlerde bir çıkış olmalı!
+125|<CLT=cltMIND>Okul binasına buradan girilebilir gibi\ngörünüyor ama kapatılmış...
+128|Sanırım öyle...
+131|Sanırım öyle...
+132|Bu bir kapı, değil mi?
+133|Öyle görünüyor...\nAma devasa!
+134|Evet, dev bir şatoda falan göreceğin\nbir kapıya benziyor.
+135|Bu kapı nereye çıkıyor olabilir...?
+136|Bunun ötesinde ne var acaba.\nBelki çıkış?
+137|Bu...tuhaf anıt da ne?
+138|Anıtlar genelde önemli bir kişiyi ya da\nen azından ilham verici bir sözü tasvir eder...
+139|Bir okulda böyle bir şey bulmak\nkesinlikle tuhaf...
+140|Şuradaki bir kapı mı?
+141|Bitkiler yolu kapatıyor...\nGeçebileceğimizi sanmıyorum.
+142|Tanrım, her yerdeler! Bir şey yapamaz\nmıyız? Ya bir çıkışı kapatıyorlarsa!?
+143|...Çıkış olduğunu sanmıyorum.\nMuhtemelen başka bir binaya açılıyordur.
+144|B-Biliyorum...ama yine de mümkün\nolabilir, değil mi...?
+145|Peki, bu ne...?
+146|Şeyy, bir tür çıkıntıya benziyor...\nNe olursa olsun önemli görünüyor.
+147|Sence yanındaki o büyük kapıyla bir\nbağlantısı olabilir mi?
+148|Belki... Ama kesin bir şey söyleyemeyiz.

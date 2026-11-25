@@ -1,0 +1,48 @@
+@ game_resident_US
+## A-MapListNameAscii
+1|Koridor 1. Kat
+2|Koridor 2. Kat
+3|Koridor 3. Kat
+4|Koridor Bodrum
+5|Koridor 4. Kat
+6|Koridor 5. Kat
+14|Ogrenci Dukkani
+27|Gizli Oda
+28|Gizli Oda
+29|Gizli Gecit
+42|Koridor 1. Kat
+43|Koridor 1. Kat
+44|Koridor 2. Kat
+45|Doner Merdiven
+46|Koridor 6. Kat
+50|Koridor Bodrum
+51|Koridor 1. Kat
+52|Koridor 1. Kat
+53|Koridor 2. Kat
+54|Koridor 3. Kat
+55|Koridor 4. Kat
+56|Koridor 5. Kat
+57|Koridor 6. Kat
+134|Ultimate Mahkum Laboratuvari
+222|Exisal Hangari - Banyo
+223|Exisal Hangari - Banyo
+240|Kumarhane 1. Kat
+241|Kumarhane Bodrum
+252|Kazan Dairesi
+260|Kazan Dairesi
+264|Kazan Dairesi
+268|Kazan Dairesi
+272|Kazan Dairesi
+281|Avlu - Gece Mekani
+282|Avlu - Gece Mekani
+283|Avlu - Gece Mekani
+284|Avlu - Gece Mekani
+285|Avlu - Gece Mekani
+286|Avlu - Gece Mekani
+350|Yeralti Gecidi
+351|Yeralti Gecidi
+352|Yeralti Gecidi
+353|Yeralti Gecidi
+400|Giris Cikis Odasi
+950|Koridor 1. Kat
+955|Yurt Banyosu

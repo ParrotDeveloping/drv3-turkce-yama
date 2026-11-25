@@ -1,0 +1,802 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Keebo said that he saw something odd\nwhile fighting in the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>I should be able to see the\nentire courtyard from here.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "This must be what he was talking about...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Alright, let's see if I can find something...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Himiko? How did you get out of\nthe hidden room?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "The hidden door in the\nlibrary was destroyed...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "We were so worried about you!\nYou were trapped in there...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Nyeh? You don't understand how I \nescaped from there?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...No?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Hmhmhm, I see...you don't get it...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "You don't know how I escaped...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Then I shall tell you! I escaped from \nthat sealed room with my magic!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...Himiko. Now is not the time for—",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Eeeeeek!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Himiko! Are you okay?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Th-That was a close one!\nI almost died!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I told you...now's not the time...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "G-Got it. I'll tell you...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I definitely used my magic, but another thing\nthat helped me escape that sealed room...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...was the girls bathroom on the 1st floor\nof the school building.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "The bathroom?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Do you wanna go there with me?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I-I'm not inviting you to go to the bathroom\nwith me! Don't start getting weird thoughts!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Ah, no, I know that...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>The girls bathroom on the 1st floor? What\ndoes that have to do with the hidden room?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>There doesn't appear to be any new clues,\nother than the <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Alright...I'll head to the bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "The reason I was able to escape that room was\nbecause of the bathroom on the 1st floor.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Come with me...to the bathroom...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "But if you do anything stupid, I'll change \nyou into a girl with my magic!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Ah...you don't have to worry about that.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>This is the room Keebo was talking about.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>I should investigate here.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>It might be for the best to just\nblow up anything in the way...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>That sound...was that from\nthis locker?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>I should check...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>How did Himiko escape?\nI should ask her about it.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Someone wrote on the blackboard...\nWhen did that happen?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>It's strange, but I don't think this\nis what Keebo was talking about.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>\"Please take the Flashback Light\nfrom the Reception Area..\"",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>That's all it says on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>Still...I had no idea this blackboard\nhad a screen like this.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>The blackboard went back to normal.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>There must be a switch somewhere\nto operate the desk...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>but I don't see anything like that\naround here.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>The desk is turned...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>There's nothing particularly strange.\nI don't believe this is what Keebo meant.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>The sound I heard...came from\nthe locker, right?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>There must be a switch somwhere\nto operate the desk...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>but I don't see a switch.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>This is the room Keebo was talking about.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>I should investigate here.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>It might be for the best to just\nblow up anything in the way...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>That sound...was that from\nthis locker?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>I should check...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>How did Himiko escape?\nI should ask her about it.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>The locker seems intact...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>but I don't think this is what\nKeebo was talking about.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "The sound I heard definitely came\nfrom inside this locker.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I'll open it...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Ah, a Flashback Light!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>This is new...\nIt just got here.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Just as I suspected... You can make\nFlashback Lights with that desk.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>I don't know why it was hidden\nin a normal-looking classroom...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>but there must be a switch\nhidden somewhere.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>Flipping that switch will cause this\ndesk to activate.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>I'm sure Keebo saw all this when\nthe room was destroyed...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>But what interests me is exactly how\nthese <CLT=cltSTRONG>Flashback Lights<CLT=cltMIND> are made.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>There's only one truth...\nThere should only be *one* true memory...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>But this clearly allows you to choose. Why?\nAnd there's no indication of which are real.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Is there more than one truth...?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "What is the truth...and what are the lies?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Flashback Light Settings<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>Right at that moment, the\nclassroom door suddenly burst open.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltSYSTEM>*woosh!*",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "There you are, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "H-Himiko!?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>...Huh? The classroom changed\nback to normal?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>So when the door opens...the classroom\n<CLT=cltSTRONG>reverts back to normal<CLT=cltMIND>?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>I can assume that was done in order\nto obfuscate the room's purpose.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>The person operating all of this\ndid *not* want us to see it.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>And if they're that cautious of us...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Clues to the Mastermind<CLT=cltSYSTEM>\" has been updated in\nthe Truth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "I don't know what you're thinking, \nShuichi, but...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Be happier that I survived! I was able to make\na spectacular escape from that sealed room!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Ah, right!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>How did Himiko escape when the entrance\nwas blocked by rubble?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Nyeeeh!? That's a <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Y-Yes, but we shouldn't use it...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Wh-Why!?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "We might still be forgetting something \nimportant!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "All these little things we keep remembering...\nWe might be able to get everything back at once!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "To be honest, all these flashbacks \nare making me feel bad...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "If we can get them all out of the way \nat the same time, I'd prefer that!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "I know how you feel, Himiko...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>But I'm concerned about the settings\non these <CLT=cltSTRONG>Flashback Lights<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>There should only be *one* truth, but\nthese settings allow you to choose. Why?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>And there's no indication of which are real.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Hm, I see. Looks like you're thinking \nof something, right?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "I guess it's up to me to save your honor.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "It's the least I could do for the <CLT=cltSTRONG>Ultimate \nDetective<CLT=cltNORMAL> for saving me so much.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Y-Yeah... Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>A Flashback Light freshly made\nusing the desk.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>There's something strange about how\nthey're made, though...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>There should only be *one* truth, but\nthese settings allow you to choose. Why?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>And there's no indication of which are real.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>Is there more than one truth...?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>What is the truth...and what are the lies?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>That sound...was that from\nthis locker?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>I should check...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>The keyboard on the surface is gone now.\nIt appears to be a normal desk.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>There must be some kind of switch\nthat activates it...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>but I can't find anything like that.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>What is this desk...?\nThere's a keyboard floating above it.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>Is this connected to a computer?",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "This must be the <CLT=cltSTRONG>\"something odd\"<CLT=typeNORMAL>\nKeebo was talking about.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>When I touched the keyboard...",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltSYSTEM>*clunk!*",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "That sound...",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "It came from that locker...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "<CLT=cltMIND>That sound...was that from\nthis locker?",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>I should check...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "<CLT=cltMIND>The keyboard on the surface is gone now.\nIt appears to be a normal desk.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>There must be some kind of switch\nthat activates it...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>but I can't find anything like that.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "\"Flashback Light Setup\"...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Setup? Like settings?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>Seeking answers, I pressed\nthe <CLT=cltSTRONG>Enter key<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "<CLT=cltMIND>I should look through this...",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "<CLT=cltMIND>It seems...you're supposed to choose\nsomething. I'll scroll through...",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>Unlocking new memory...?",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "<CLT=cltMIND>Do these settings create\nnew <CLT=cltMIND>Flashback Lights<CLT=cltMIND>?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "<CLT=cltMIND>To test my deduction, I selected\none of the categories.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "<CLT=cltMIND>This category is for <CLT=cltSTRONG>unlocking new memories<CLT=cltMIND>.\nIt looks different than the others...",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltMIND>\"Select the subject you wish to remember\"...",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "<CLT=cltMIND>So there are still some memories\nwe haven't remembered yet?",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "If we can remember something new...\nthat would definitely be a clue.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "...Alright, let's try it.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "<CLT=cltMIND>I wonder what kind of memory it is.\nI'll start with <CLT=cltSTRONG>\"The Survivors.\"",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>I wonder what kind of memory it is.\nI'll start with <CLT=cltSTRONG>\"The Survivors.\"",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "<CLT=cltMIND>I wonder what kind of memory it is.\nI'll start with <CLT=cltSTRONG>\"The Survivors.\"",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Hm? Select the subject you\nwish to remember?",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "<CLT=cltMIND>What does it mean by \"select\"?\nThese are all <CLT=cltSTRONG>memories we forgot<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltMIND>*All* of these should be <CLT=cltMIND>true events<CLT=cltMIND>.\nSo why...would you be able to select one?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "<CLT=cltMIND>And these categories...there are several\ninconsistencies about the survivors.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "<CLT=cltMIND>Do I...have to select the correct one?",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "I suppose I'll choose, \"The survivors on\na different planet.\"",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "If that's true...there's more hope for us.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltMIND>I suppose I'll choose, \"The survivors on\na different planet.\"",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "<CLT=cltMIND>I suppose I'm meant to\nselect <CLT=cltSTRONG>\"Yes\"<CLT=cltMIND> here...",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Alright... I'll press it.",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "<CLT=cltMIND>I'll press <CLT=cltSTRONG>\"Yes\"<CLT=cltMIND> for now.",
+  "tr": ""
+ }
+]

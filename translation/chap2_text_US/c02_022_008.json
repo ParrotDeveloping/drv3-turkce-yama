@@ -1,0 +1,802 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Whoa...\nThis is even nicer than I thought it'd be.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Welcome to our magic show!\nWhaddaya think? Isn't it divine!?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yeah, it is... I didn't think you would have a real\nstage set up. Did you and Himiko do all this?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No, no. This would've been impossible with\njust two people. I got others to help us.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Kaito and Keebo helped carry equipment\nfrom Himiko's research lab...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I designed the stage but Kirumi sewed the\ncurtains.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Everyone is so nice...\nAtua deserves all the credit.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Ah...shouldn't everyone who worked\non it get the credit?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Oh, well, I didn't ask you to help because I\ndidn't know what you'd be useful for.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...Did you really have to say that?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Anyway, just sit tight. Once we're done\npreparing, we'll start right away.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Done preparing? You're not ready yet?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "The star of the show needs to settle her\nnerves...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>The star of the show\nrequires mental preparations?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "*shudder*...*tremble*...*quiver*",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>She's shaking like a leaf!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Gonta so sorry about yesterday...\nGonta not know why he act that way...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Gonta too forceful... Still have long way\nbefore Gonta call himself true gentleman.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I-It's not your fault... It's Kokichi's fault \nfor tricking you.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Even so, I think you need to seriously\nreflect on what you did!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Your gullible mind will eventually lead you\ndown the wrong path in life!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...Gonta be more careful next time.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "So...what happened to Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "After Insect Meet and Greet, Kokichi's mouth\nstart to bubble, then he pass out...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Ah, I see...\nHe might not make it to the show, then.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Gonta so sorry about yesterday!\nGonta reflect on what happen!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Those fish in the tank above...\nAre those truly...?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Is it alright to use something so dangerous?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "This is quite a professional-looking set.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "However, considering how unsettled Himiko\nis...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "We might not get to witness for ourselves\nthe skill of the <CLT=cltSTRONG>Ultimate Magician<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "How unfortunate.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "We managed to complete the preparations\nin time. I hope everyone enjoys the show.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "You helped out too, Kirumi?\nDid you do the sewing?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "You complete every task you're given, don't you?\nNo wonder you're the <CLT=cltSTRONG>Ultimate Maid<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "But right now, you're just an audience member\nlike everyone else. So let's enjoy the show.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Yes...I shall do just that.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Today, I will be a member of the audience\nand enjoy this performance.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Himiko are you a bit...nervous?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "J-J-J-Just a little bit!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Certainly doesn't look like\njust a little bit.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "C-Cuz...the magic I'll be performing today is the\nExtreme Water Magic, Underwater Escape Act.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I-I've never successfully cast it before...\nIt's pretty difficult, so I'm a little nervous.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You've never cast it before?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "A-And...today...in order to raise \nthe stakes...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "There's a time limit...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "If I don't escape from the tank within the time\nlimit, piranhas will be dropped in...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I'll be pureed.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Pureed!?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>This is looking a little dangerous...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>The water is cloudy, so I can't see very\nclearly...but I do see fish swimming around.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>Those are all piranhas, huh?\nThey don't look like normal piranhas...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Those piranhas...were in my research lab.\nAngie said we should use them for the show.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "W-Wait, piranhas are way too dangerous...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Ah, Tenko...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Himiko, please reconsider! They're piranhas!\nThey're nothing like lasagna!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "N-No need to worry. I'll instantly kill \nall the piranhas...with my magic.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "You're going to kill them?\nI thought this was an escape trick...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Himiko...are you serious?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "There's...no way I can stop now.\nSince Atua's watching the show and all.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "There's no such thing as Atua!\nAngie has brainwashed you!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "You don't believe in my magic?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "W-Well...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I can do it... I'm a skilled young girl...\nCuz...I'm a mage...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>She psyched herself up and headed\nstraight to the water tank.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "O-Of course...I believe in your magic...\nYou're...my precious friend...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Tenko...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Ready, Himiko? Did you say your prayers\nand use the bathroom?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Nyeeeh... I said my prayers and went pee.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Nyahahahaha!\nThen let's get the show started!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>It's starting already?\nBut not everyone is here yet...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>Maki, Kokichi, Ryoma...and Kaito\naren't here...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>What happened to Kaito?\nI thought he'd be here for sure...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>I wonder if something happened...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Thank you, Atua, for being with us today.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Boo! Booooooo!!!\nYou're supposed to thank us first!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Nyahaha! I present to you the mysterious,\nthe miraculous, <CLT=cltSTRONG>The Amazing Himiko<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "N...Nyeh... Th-The magic I will perform \ntoday is the Extreme Water Magic...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "U-U-Underwater...Escape Act...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "If you would please turn your attention\nto the water tank in front of you!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "When the timer above the stage starts,\nHimiko will enter the water tank.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Once she's in the tank, her assistant—me!—will\ndraw the curtain in front of the tank.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "After 60 seconds have passed on the timer...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "A separate, suspended tank will open and drop\nin a <CLT=cltSTRONG>school of piranhas<CLT=cltNORMAL>! Oh my goodness!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "After the piranhas have fallen, and the\ncurtain is opened...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "If, by some miracle, Himiko has been gobbled\nup, please give a big round of applause!",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Juuuust kidding! It's a joke!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "...I'm concerned about Himiko. She is not\nresponding properly to Angie's jokes.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Gonta worry...\nGonta have bad feeling...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Ughhh...Atua...!\nPlease protect Himi—",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "...Wait, what am I doing praying to Atua!?\nThat's Angie's schtick!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Well, I guess you could pray to some other god.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Nyeeeh... Well then, let's begin...\nThe Amazing Himiko's Magic Show!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>In her typical high-pitched voice, Himiko made\nher announcement and started the timer.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>Then, she took a breath and\ndove into the water tank!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>*splash!*",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Okay! I'm closing the curtain!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "<CLT=cltMIND>Angie closed the curtains, obscuring\nthe water tank from view.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltMIND>We stared silently, waiting.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>I clenched my fists nervously,\nmy palms damp with sweat...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Himiko is still not out...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "She went in mere moments ago.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "W-Well, do you think she's alright?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Uhh... Gonta starting to worry.\nShould we do something?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Sh-She still hasn't come out!\nAre you sure she's okay!?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "G-Gonta can't take it anymore!",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>Gonta cried out, leaped out of\nhis seat, and...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Wait...Gonta!?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>ran up onto the stage!",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Aw, you can't do that! We're still in\nthe middle of the show!",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "B-But...if Gonta do nothing, Himiko get\neaten by piranhas—",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Um... Less than ten seconds remain...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "I don't care if it ruins the trick, just come \nout! This stress is bad for my heart!",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Himikooooooooo!!!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>Right when the timer hit zero,\nthe buzzer went off...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>And then...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>The bottom of the suspended tank swung open,\nand the murky water and shadowy shapes inside...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>fell straight into the water tank\nHimiko was swimming in!",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Huh? Huhhh?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Look! The piranhas!",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "H-Hurry! The curtains!\nOpen the curtains already!",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Got it. I'm opening it now!",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "<CLT=cltMIND>When Angie pulled apart the curtains...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "<CLT=cltMIND>we witnessed an unbelievable sight.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>It took a few moments for all\nof us to even process it.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "<CLT=cltMIND>But then again, perhaps we\nweren't trying to process it.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>Perhaps we didn't want to acknowledge it.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "By the way, can I ask you something, Angie?",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Hmmm, what?",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "U-Um... When you're alone with Himiko,\nwhat do you guys talk about?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Oh, just normal things...",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Food, sweets, our nails, and how to get\nAtua's bath water at a discounted rate.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "That last one's not normal at all!",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>Angie...can be quite the handful.\nI wonder if Himiko can handle her...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "This is way bigger than I thought.\nI imagined a plain, everyday stage.",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "I guess all the thoughts in my \nplain old head are just plain...plain.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Tenko, you're trembling.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "I've told you many times that Atua loves\nall His creations.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "What do you mean, all his creations!?\nThat's way too much love!",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "What about Monokuma, huh?\nDoes Atua love him, too?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Of course. So we must love Monokuma,\nso that our love will reach him.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Shaddup already!",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Robots can't feel love! They can't feel any\nemotions at all!",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "And yet...I felt a strange pain in my chest\nafter you just said that...",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Y'know, lately I've been havin' weird pains in\nmy joints in my lower body.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Isn't that...a symptom of gout?",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Wh-What is this device...!? I've never seen\nsomethin' like this before...!",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Hnghhh... I'm gettin' excited...\nReally, really excited...!",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "<CLT=cltMIND>Himiko was so nervous she was shaking...\nCan she really pull off this show?",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "<CLT=cltMIND>There's a ladder here...\nI wonder if it was used to set up the show.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "<CLT=cltMIND>This is a timer.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltMIND>Does that mean this magic trick\nwill have a time limit?",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "<CLT=cltMIND>There's a huge curtain hanging here...\nWhat kind of magic trick is this for?",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "<CLT=cltMIND>A water tank...?",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "<CLT=cltMIND>It looks like there's fish inside.\nIs this part of the trick too?",
+  "tr": ""
+ }
+]

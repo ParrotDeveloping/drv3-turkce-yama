@@ -1,0 +1,387 @@
+[
+ {
+  "id": 0,
+  "en": "K-Kaede! And...Rantaro?\nKirumi? Ryoma?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I made them! Don't they look lifelike?\nAren't they just divine?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "You made them...?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Yep, they're my very own handcrafted wax\neffigies.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Wax effigies? Why?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Why? For the resurrection ritual, of course.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Umm, according to the <CLT=cltSTRONG>Necronomicon<CLT=cltNORMAL>, we need\nan effigy of the deceased to perform the <CLT=cltSTRONG>ritual<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "So I went ahead and made these.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Simple dolls probably would've been better, but\nonce I got to work, Atua took possession of me.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Nyahaha! And before I knew it, I had made these!\nWhat do you think? Aren't they amazing?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "You do such cruel things so innocently.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Hm? What?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "It's incredible...\nFor a second, I thought they were real.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Yeah...just like the real thing.\nBut...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "You try persuading her first. Detectives are\ngood at talking, right?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>I feel like she might have some\nmisconceptions about detectives...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>But I know Maki isn't very good at\npersuading people. So it's up to me.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "The fact that Angie can do things like this\nwithout a care is what makes her so dangerous.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Please! You have to stop Angie!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Angie...could you please reconsider?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "...I see, I see. Reconsider what, exactly?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "The <CLT=cltSTRONG>ritual<CLT=cltNORMAL> that you're\ntrying to do.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I don't think you understand how\nbad that might be.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Remember that this was Monokuma's <CLT=cltSTRONG>motive<CLT=cltNORMAL>.\nIf he *wants* us to do it, it can't be good.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "But the dead can't really come back to life.\nSo the people who died must still be alive—",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "No, Angie. That's not possible.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "The bodies were not fakes. I'm positive.\nEspecially after seeing the wax effigies.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "The effigies were nearly perfect, but the real\nbodies still had <CLT=cltSTRONG>traces of a soul<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltSTRONG>A soul<CLT=cltNORMAL> desperate to live,\nstruggling, fighting for life...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "That's something that can never be replicated.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "No matter what technology you have,\nyou can't fake a soul.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Ryoma, Kirumi, Rantaro...and Kaede...are dead.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "...I agree. I have no doubts that their\n<CLT=cltSTRONG>deaths were real<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Trust me, I've seen my fair share of dead\nbodies.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I see, I see... If that's what Maki says then\nmaybe they really are dead.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Then...if we do the ritual, will we actually\nresurrect the dead?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "What a miraculous mystery.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...What are you saying? Someone who has\ndied can't be resurrected.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Hm? But that's not what Atua says.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "He says that if we do the ritual, everyone who\nhas died up till now will come back.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "So...if those four really are dead, then the\n<CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL> will surely work.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Nyahahaha! That must be right!\nCuz Atua is never wrong!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You're...not gonna stop this, are you?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Of course not! This is Atua's will!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "This is your will, not Atua's.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Nuh-uh, it's Atua's.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Atua told me that our friends will come back\nto life if we do this ritual.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "So we have to do it. We can't defy a direct\ncommand from Atua.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Or else...we'll get punished, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "You're probably still worried about the <CLT=cltSTRONG>motive<CLT=cltNORMAL>,\nShuichi, but it's okay.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Atua has spoken... Nothing bad will happen as\nlong as you put aside all thoughts of escape.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Is that so? Then there's no point\ntalking anymore.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Hmm, are we done talking now? Cuz I'm\nstill busy preparing for the ritual.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "If you're gonna slow me down, I'll turn you into\na wax effigy! Nyahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Tenko, let's go back for now.\nI think we may need another plan...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "O-Okay...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>After failing to persuade Angie,\nwe reluctantly left the lab.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>We have to find some way\nto persuade her.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>Lump of wax",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>We have to find some way\nto persuade her.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>We have to find some way\nto persuade her.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>It really looks like Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>But...actually—",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>The more I look at it, the more it\nlooks like Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>But...actually—",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>It looks exactly like Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>But...actually—",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>...It looks exactly like Kaede.\nThe face and body, it looks like the real thing...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>But...actually—",
+  "tr": ""
+ }
+]

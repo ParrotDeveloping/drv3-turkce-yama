@@ -1,0 +1,65 @@
+@ chap1_text_US
+## c01_009_010
+75|Muhtemelen bu ayrıcalığı sadece bu amaçla \nyarattı.
+76|Değil mi? Eminim havadaki bu gerginliğe\ndayanamıyorsunuz, değil mi? O yüzden öldürmek daha iyi!
+77|N-Ne...? Sen...
+78|Görünüşe göre bizi bu ölüm oyununa katılmaya\nzorlamakta oldukça ciddisin.
+79|Tam olarak amacın ne?
+80|Amacının önemi yok!\nİstediğini yapmasına göz yummaktan bıktım!
+81|Yeter artık!!!
+82|<CLT=cltMIND>Kaito onu yakalamak için Monokuma'ya\natıldı ama...
+83|Hah işte! Görünüşe göre bir gönüllümüz\nvar!
+84|Sonunda Exisal'ların zamanı geldi!
+85|Babişko'ya el sürmenize izin vermeyeceğiz!\nBabişko'nun her gün gülümsemesini istiyoruz!
+86|Dikkat edin pislikler! Bizimle uğraşınca\nişte böyle olur!
+87|N-Ne...? Ne yapmayı \nplanlıyorsunuz?
+88|L-Lütfen, yapmayın!
+89|Kaç, Kaito!
+90|<CLT=cltMIND>O anda tehditkâr mekanik sesler duyduk.\nExisal'lar saldırıya geçti...
+91|<CLT=cltSYSTEM>*çatırt!*
+92|<CLT=cltMIND>Ezilen metalin sesi bütün yemekhanede\nyankılandı...
+93|<CLT=cltMIND>Ve sonra, son bir hırıltı...
+94|GRRRRRRRAAHHHHHHHHHH!
+96|B-Babacığım!?
+97|Vaaahhh! Babişko bir hurda yığınına\ndönüştü!
+98|B-Bu bir şekilde Monodam'ın suçu!
+100|B-Bu da ne...?\nNeler oluyor...?
+101|Neler olduğundan emin değilim ama...\nMonokuma paramparça olmuş.
+102|O-Oh olsun ona!\nHak ettiğini buldu!
+103|Hemen kutlamayın. Eminim birazdan ortaya\nçıkacak bir yedeği vardır.
+104|Y-Yedeği yok! Hayatı böyle\nküçümseme!
+106|Babacığım hayattayken biz yavrulara\nhep şunu söylerdi...
+107|...hayatın kıymetini bilmeliyiz çünkü kar\ntaneleri gibiyiz—her yönüyle eşsiz.
+108|Sadece bir tane varsa bu Monokuma'nın\nöldüğü anlamına mı geliyor?
+109|Zavallı Babişko! En azından onu tam bir\nonurla gömelim!
+110|Evet. Lezzeti içinde kalsın diye onu kısık\nateşte ağır ağır pişireceğiz.
+111|Hazır başlamışken...içine biraz havuç ve\npatates de atalım.
+112|Ooo, belki biraz artık köri de ekleriz?\nHani şu tatlı olanından—en sevdiğim!
+113|Yanına ekstra büyük bir porsiyon pilav\nda istersin, değil mi?
+114|Artık yeni müdürler biz olduğumuza göre\ndaha güçlü olmak için daha çok yemeliyiz.
+115|Ş-Şey... Neler oluyor?
+116|Hmm... Artık her şey tam bir karmaşa.\nAma son boss yoksa...
+117|...demek ki bu ölüm oyunu\niptal oldu!
+118|Ha!? İptal mi!?
+119|Sanmıyorum. Monokuma sadece bir robot.\nOnu kontrol eden biri olmalı.
+120|Ah-haha, bu kadar kuruntulu olma!\nHer şey kesinlikle bitti artık!
+121|Beyin ortadan kalkınca bu oyuna devam\netmek neredeyse imkânsız.
+122|Yani...biz kazandık!
+123|Yaşasın! Başardık! Nyahahaha!
+124|Yani artık tehlikede değil miyiz?
+125|Ah, o zaman burada bizi alacak servis\notobüsünü mü bekleyeceğiz, yoksa...?
+126|B-Bir dakika!\nBunu henüz bilmiyoruz—
+127|Kaede, havayı bozmayı kes! Herkes dün\nyaptığın şeye hâlâ kızgın!
+128|A-Ama öyle demek istememiştim—
+129|Yoksa...bize yaptırmak istediğin bir şey \ndaha mı var, Kaede?
+130|Sakın o yeraltı geçidine yine girmek\nistediğini söyleme!?
+131|...Sus. İmkânsız olduğunu biliyoruz.
+133|Ö-Özür dilerim...
+134|Neyse, görünüşe göre burada işimiz bitti.\nOh be, ne rahatlama.
+136|<CLT=cltMIND>Kokichi konuşmasını bitirince\nhepimiz ayrı yollara dağıldık...
+137|<CLT=cltMIND>Ben de odama dönmeye karar verdim.
+## c01_010_116
+1|<CLT=cltMIND>Nedenini bilmiyorum ama odama\ngirince...
+3|<CLT=cltMIND>...kendimi tutamayıp ağlamaya başladım.
+4|H-Ha? Neden?
+5|<CLT=cltSYSTEM>*ding dong*

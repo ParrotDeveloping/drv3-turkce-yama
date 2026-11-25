@@ -1,0 +1,412 @@
+[
+ {
+  "id": 0,
+  "en": "Logic Difficulty",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Action Difficulty",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "For those who just want to enjoy the story.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Normal difficulty for a little bit of a challenge.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Harsher penalties and more choices, but more rewards too!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Less action for those who just want to enjoy the story.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Normal difficulty with just the right amount of action.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Thrilling, chaotic action, but more rewards too!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Kind",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Normal",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Mean",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "OK",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Select difficulty and start the game.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Select difficulty and return to trial preparation.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "If you select a new game, Love Across the\nUniverse data in progress will be lost.\nContinue?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Start from beginning of the chapter",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Start from Deadly Life",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Start from Class Trial",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Check best results",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Enjoy the story from the beginning of the chapter.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Enjoy the story from the investigation.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Enjoy the story from the Class Trial.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "View your best results from the Class Trials.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Please select the chapter to begin.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Continue from where you left off?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Prologue",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Chapter 1",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Chapter 2",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Chapter 3",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Chapter 4",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Chapter 5",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Chapter 6",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Epilogue",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "END",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "School Life",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "School Life: Daily Life",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "School Life: Daily Life (Free Time)",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "School Life: Deadly Life",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "School Life: Deadly Life (Investigation)",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "School Life: Class Trial (Conclusion)",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Save Point",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Class Trial",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Class Trial (Preparation)",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Class Trial (Intermission)",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "※",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Any data that has not been saved will be lost.\nReturn to title?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<DIG=●> Monocoins are required to unlock.\nUnlock?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "You need <DIG=●> more Monocoins.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Save data has been updated.\nSave?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Event Gallery",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Movie Gallery",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Artwork Gallery",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "BGM Gallery",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "MonoMono Machine",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Casino",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Intimacy Event",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Return to main menu",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Hide UI",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Monocoins inserted",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Start from Free Time",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Enjoy the story from Free Time.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "If you load save data from the Demo version,\nyou will unlock a special reward.\nLoad Demo version save data?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "As a thank you for playing the Demo version,\nyou will receive:\n・333 Monocoins\n・\"Nail Brush\" Present\n・\"Machine Gun\" Skill",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "As a thank you for playing the Demo version,\nyou will receive:\n・333 Monocoins\n・\"Nail Brush\" Present\n・\"Point Blank\" Skill",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Demo version save data was not loaded.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Demo version save data",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Save data will be uploaded to the \nPlayStation™Network. Please do not\nturn off the power or shut off \nthe network connection.\nStart the upload?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Save data will be downloaded from the \nPlayStation™Network. Please do not\nturn off the power or shut off \nthe network connection.\nStart the upload?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Save data upload complete.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Save data upload failed.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Save data download complete.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Save data download failed.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Cannot find uploaded data.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Reading save data from another user. \nCannot upload data.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "The PlayStation™Network is busy. \nPlease wait and try again.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Save data download is complete.\nIf you end the game without saving,\nthe downloaded save data will be lost.\nDo you want to save the downloaded save data?",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "Cannot select this mode while game is installing.",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "Cannot play Ch. 2 while game is installing.",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "Previous save data is from a newer version\nthan current data. Cannot play this data.",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "Previous game data is from a new version\nthan current data. Cannot play this data.",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "Ending game.\nIs that okay? ",
+  "tr": ""
+ }
+]

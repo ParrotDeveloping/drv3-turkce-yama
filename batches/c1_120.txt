@@ -1,0 +1,62 @@
+@ chap1_text_US
+## c01_301_330
+124|Artık gidebilir miyiz? Burada kalmak bizi\nsadece daha çok bunaltır.
+125|Kehehe... İyi söyledin. \nYürekten katılıyorum.
+127|Özür dilerim, siz bensiz\ngidin...
+128|...Neden? Böyle bir yerde kalmak\nistemen için bir sebep mi var?
+129|Bir süre yalnız kalmak istiyorum.\nSadece biraz.
+130|Ama seni burada tek başına \nbırakamayız—
+131|Tsumugi, belki şimdilik ona biraz yalnız\nkalma fırsatı vermemiz en iyisi olur...
+132|Ah...tamam. Sanırım...
+133|Shuichi...kendini yiyip bitirme, tamam mı?
+134|Evet! Duygularının sıfırlama düğmesine bas,\nhemen mutlu ve neşeli hissedersin!
+135|Biraz duyarsız olmak hayatta kalmak için\nönemli. İnsanı intihar düşüncelerinden uzak tutar.
+136|Gonta da geri dönecek... Yardıma ihtiyacın\nolursa Gonta'ya söyle, tamam mı?
+137|<CLT=cltMIND>Herkes teker teker\nasansöre bindi.
+138|<CLT=cltMIND>Biri hariç...
+140|Shuichi...Kaede'yi ne kadar iyi\ntanıyordun, bilmiyorum...
+141|Ama neden onun <CLT=cltSTRONG>Ultimate Laboratuvarına<CLT=cltNORMAL>\ngitmeyi denemiyorsun?
+143|Odayı Monokuma hazırladı, o yüzden orada onu\nhatırlatacak pek bir şey yoktur muhtemelen...
+144|Ama...en azından sevdiği bir sürü küçük\nşey olmalı.
+145|Kaede'nin...sevdiği şeyler mi...?
+146|Anladın mı? Bu berbat histen kurtulmanın\ntek bir yolu var.
+147|Burada tek başına oturursan kimse seni\nteselli edemez.
+148|Sana biri yardım edecekse o da...anılarındaki\no olacak.
+149|<CLT=cltMIND>Bu sözlerle\nasansöre bindi.
+151|<CLT=cltMIND>Farkına varmadan\nayağa kalkmıştım.
+152|<CLT=cltMIND>Öylece yürümeye başladım\nve şuraya gidiyordum...
+153|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in Araştırma Laboratuvarı.
+## c01_302_155
+1|<CLT=cltMIND>Burada anılar olacak\ndeğildi ya...
+2|<CLT=cltMIND>Ama bunlar onun gerçekten tutkuyla\nbağlı olduğu şeyler.
+3|<CLT=cltMIND>Ve şimdilik bu yeterli.
+4|<CLT=cltMIND>Ne muhteşem bir piyano...
+5|<CLT=cltMIND>Onu çalarken dinlemek isterdim...\nsadece bir kez bile olsa.
+6|Ah, aklıma geldi...\nKaede'nin bahsettiği <CLT=cltSTRONG>şarkı<CLT=cltNORMAL>...
+7|...Tabii ya! Burada bir yerde\nolmalı!
+8|<CLT=cltMIND>CD raflarının önünde durup her birini\nbaştan sona dikkatle aradım.
+9|<CLT=cltMIND>Burada...bir yerde olmalı...\nNerede...?
+12|...İşte burada! Bu o.
+13|<CLT=cltMIND>CD'yi raftan aldım ve köşedeki\nçalara yerleştirdim.
+14|<CLT=cltMIND>Kısa süre sonra yumuşak bir melodi\nsınıfı doldurmuştu.
+15|<CLT=cltMIND>Bedenim gevşedi,\ntamamen müziğe sarıldım.
+16|<CLT=cltMIND>Tuhaf bir histi...\nsesin bedenime sızması.
+18|<CLT=cltMIND>Çok geçmeden gözlerimi\nkapamaya başladım...
+32|Evet...deneyeceğim.\nYapabilir miyim bilmiyorum ama...
+33|Hayır...yapacağım!
+34|Kendime inanmalıyım...
+35|Artık korkmayacağım.\nGerçekle yüzleşeceğim...herkes için.
+36|Pes etmeyeceğim...\nSenin için, Kaede...
+37|Söz veriyorum.
+38|Kalbimin derinliklerinden\nsana söz veriyorum, Kaede.
+39|Evet, bu bizim sözümüz.\nHer şeyi sana bırakıyorum, Shuichi.
+40|...Hoşça kal.
+## c01_402_001
+14|Bahse girerim\n<CLT=size2>neden bahsettiğimi<CLT=size1> biliyorsun.
+## c01_700_000
+0|Kesinlikle!
+1|Pek değil...
+3|<CLT=cltSYSTEM>Shuichi'ye bir hediye vermek ister misin?
+4|...Ö-Özür dilerim...\nSenden bir hediye bile olsa kabul edemem.
+5|Gerçekten çok özür dilerim...\nBeni mutlu etmeye çalıştığını biliyorum...
+6|Ama böyle bir zamanda bana bir şey vermen...\nBunu yapacağına inanamıyorum.

@@ -1,0 +1,64 @@
+@ chap1_text_US
+## c01_210_001
+9|GI Oda'nın
+10|kapısı...
+11|birbiriyle aynı
+12|birbiriyle aynı hizada.
+13|hizada.
+14|Arada hiçbir
+15|Arada hiçbir engel yok...
+16|<CLT=cltWEAK>hiçbir engel<CLT=cltNORMAL> <CLT=size1>yok...
+17|Biri <CLT=size2>kütüphanenin\n<CLT=size1> <CLT=size2>arka kapısını açarsa...
+18|Biri kütüphanenin\narka kapısını açarsa...
+19|bir gülle
+20|bir gülle fırlatıp\ntam isabet ettirebilir.
+21|<CLT=size2>fırlatıp<CLT=size1> 
+22|tam isabet ettirebilir.
+23|<CLT=size2>Sıradan bir insanın<CLT=size1>\nbu atışı yapmasının imkânı yok.
+24|Sıradan bir insanın\nbu atışı yapmasının imkânı yok.
+25|Ama <CLT=size2>Gonta'nınki<CLT=size1> gibi\n<CLT=size2>insanüstü bir güçle<CLT=size1> durum farklı.
+26|Ama Gonta'nınki gibi\ninsanüstü bir güçle durum farklı.
+27|Sonra kütüphanenin <CLT=size2>arka\n<CLT=size1>kapısını <CLT=size2>kapatmak<CLT=size1> 
+28|Sonra kütüphanenin arka kapısını\nkapatmak için de kullandığı şey...
+29|<CLT=size2>için de\n<CLT=size1>kullandığı şey...
+30|yine
+31|yine rulo yapılmış projeksiyon perdesiydi.
+32|<CLT=size2><CLT=cltWEAK>rulo yapılmış
+33|<CLT=size2><CLT=cltWEAK>projeksiyon
+34|<CLT=size2><CLT=cltWEAK>perdesiydi<CLT=cltNORMAL> yine<CLT=size1>.
+35|Gördünüüüz mü, işte\nbu kadar basit!
+36|Gördünüüüz mü, işte\nbu kadar basit!
+## c01_211_000
+0|Gonta'nın o atışı Görsel-İşitsel Oda'dan\nyapması imkânsız olurdu!
+1|Çünkü Rantaro ile Gonta arasında bir\n<CLT=cltSTRONG>engel<CLT=cltNORMAL> vardı!
+2|Engel mi?
+3|<CLT=cltSTRONG>Hareketli kitaplık<CLT=cltNORMAL>... Rantaro öldürüldüğünde\naçık olmalıydı.
+4|Evet, kanıtımız bu. O öldürüldüğünde\nkitaplık kapısı açıktı.
+5|Hepimiz kütüphaneye girdiğimizde o\nkitaplık kapısı hâlâ ardına kadar açıktı!
+6|Shuichi bunu az önce sadece iddia etti...\nKanıtlamanı isterim.
+8|Bu fotoğrafta. İşte, bakın.
+9|Şey...bu fotoğrafın söz konusu kitaplığı\ngösterdiğini sanmıyorum...?
+11|Bu fotoğrafta. İşte, bakın.
+12|Şey...bu fotoğrafın söz konusu kitaplığı\ngösterdiğini sanmıyorum...?
+14|Sakin ol, Kaede...\nBunu kanıtlayan bir fotoğraf olduğunu biliyorum.
+16|Bu kanıt olarak mı sunuluyor? Ne demek\nistediğine dair en ufak fikrim yok.
+18|Rantaro öldürüldüğünde kitaplığın açık\nolduğunu ne kanıtlıyor?
+19|Bu fotoğrafta. İşte, bakın.
+20|Bu <CLT=cltSTRONG>iki fotoğraf<CLT=cltNORMAL> <CLT=cltSTRONG>hareketli kitaplığa bakan\nkamera<CLT=cltNORMAL> tarafından çekildi.
+21|Bu fotoğraflar Rantaro öldürülmeden\nhemen önce çekildi.
+22|Kitaplık kapısı burada <CLT=cltSTRONG>tamamen açık<CLT=cltNORMAL>,\nsonra da otomatik olarak kapanıyor.
+23|Yani biz kütüphaneye girdiğimizde kapı\nçoktan kendiliğinden kapanmıştı.
+24|Rantaro öldürülmeden önce kitaplık\nkapısı açıktı.
+25|Gonta gülleyi fırlatmış olsa bile onun\nyerine kitaplığa çarpardı!
+26|Anlıyorum... Eh, bu o teorinin kitabını\nepey kapatıyor o zaman.
+27|Bu doğruysa Gonta'nın suçlu olma\nihtimali yok.
+28|Neeeee? Bunu neden bu kadar karmaşık\nhâle getiriyorsun? Suçlu ol işte artık!
+29|Ö-Özür dilerim!
+30|Bence özür dilemene gerek yok.
+31|Evet, doğru!\nBir erkek bu kadar kolay özür dilememeli!
+32|Özür dilemesi gereken benim.\nSeni suçladığım için özür dilerim, Gonta.
+33|Hayır, Gonta anlıyor.\nÇünkü...suçluyu bulmalıyız.
+34|İyi dedin! Yoz bir erkek için aslında\nepey makulsün!
+35|Iyy, bu duygusal saçmalıktan nefret ediyorum.
+36|Neden ki? Herkesin böyle anlaşması\ngüzel bir şey.
+37|Aptal mısın neysin? İnsanların güzel vakit\ngeçirmesine dayanamıyorum!

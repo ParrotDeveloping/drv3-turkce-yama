@@ -1,0 +1,55 @@
+@ chap1_text_US
+## c01_209_000
+34|Görsel-İşitsel Oda'daki <CLT=cltSTRONG>belli bir eşyayı<CLT=cltNORMAL>\nkullanırsanız mümkün olur.
+35|<CLT=cltMIND>Görsel-İşitsel Oda'daki belli bir eşya mı...?
+36|Şeyy... Şu şeyi mi...kastediyorsun?
+37|Neyi kastettiğini anlamıyorum.\nLütfen görüşünü daha açık belirt.
+38|Bir kol sığabiliyorsa...daha uzun ve ince\nbir şey de kesinlikle sığar, değil mi?
+40|Hoparlör mü? Belki bir şekilde sesi\nkullanmışlardır...?
+41|Bu...imkânsız görünüyor...
+42|Ama ince bir çubukla sürgülü kapıdan uzanıp\narka kapıyı açabilirsin.
+43|Ama o kadar işe yarar bir şey hazırda\nvar mıydı ki...?
+45|Projektör mü acaba? Yansıttığı görüntüyü\nbir şekilde kullanmışlardır...?
+46|Bu...imkânsız görünüyor...
+47|Ama ince bir çubukla sürgülü kapıdan uzanıp\narka kapıyı açabilirsin.
+48|Ama o kadar işe yarar bir şey hazırda\nvar mıydı ki...?
+50|Şeyy... Belki bir monitörü kullanarak,\nıı...
+51|Bu imkânsız olurdu, çünkü monitörler\nsabit olarak monte edilmiş.
+52|Bir kol sığabiliyorsa...daha uzun ve ince\nbir şey de kesinlikle sığar, değil mi?
+54|Şey, Gonta bir kanepeyi taşıyacak kadar\ngüçlü, yani...
+55|Bir kanepenin o aralıktan sığabileceğini\ngerçekten düşünüyor musun?
+56|Söz konusu eşya daha ince olsaydı kapıyı\naçmak mümkün olurdu.
+58|Belki Gonta sürgülü kapıyı kaba kuvvetle\nzorla açmıştır?
+59|Hayır... Kapının tamamen açıldığına dair\nhiçbir kanıt yok.
+60|Ama...bu hiç açılmadığı anlamına gelmez.\nİnce bir şey sığmış olabilir.
+61|Bence Kirumi Görsel-İşitsel Oda'daki\nbir şeyden bahsediyor...
+63|Müzik setini kullansak?\nŞey gibi kullanmış olabilir, ıı...
+64|Bu...imkânsız görünüyor...
+65|Ama ince bir çubukla sürgülü kapıdan uzanıp\narka kapıyı açabilirsin.
+66|Ama o kadar işe yarar bir şey hazırda\nvar mıydı ki...?
+68|Ya posterleri bir şekilde birleştirip kapıya\nuzanacak bir sırık yapsan?
+69|Yeterince geniş ve uzun olurdu...\nAma yeterince sağlam olmazdı.
+70|Gerçi o odada çok daha iyi bir\nalternatif var...
+71|Anlıyorum... Ben de o yönde düşünüyordum\nama Kirumi haklı...
+72|Kaede, soruşturma sırasında dikkatimizi\nneyin çektiğini hatırlıyor musun?
+74|Hoparlör mü? Belki bir şekilde sesi\nkullanmışlardır...?
+75|Bu...imkânsız görünüyor...
+76|Ama ince bir çubukla sürgülü kapıdan uzanıp\narka kapıyı açabilirsin.
+77|Ama o kadar işe yarar bir şey hazırda\nvar mıydı ki...?
+79|Şeyy...
+80|Söylemek istediğin bir şey var mı?\nVarsa lütfen açıkça söyle.
+82|Kütüphanenin arka girişini açmak için\nhangi eşya kullanılmış olabilir?
+83|<CLT=cltSTRONG>Projeksiyon perdesi<CLT=cltNORMAL> mi...?
+84|Doğru. Perdeyi rulo yaparsan uzun bir\nsırık elde edebilirsin.
+85|Onunla kütüphanenin kapısına uzanmak\nmümkün olur.
+86|Rulo yapılmış perdeyle kütüphanenin arka\nkapısına uzanırsan...
+87|...onu açabilirsin.
+88|Perdenin kendisi epey ağır ama...bu Gonta\niçin sorun olmazdı.
+89|Evet... Gonta için sorun değil.
+90|Aman... Ne dürüst.
+91|Ama kütüphanenin kapısını açarsan\nkamera fotoğrafını çeker.
+92|A-Aslında kamera sadece kapı açılınca\ntetiklenmezdi.
+93|Shuichi ile Kaede'nin fotoğrafları da\nöyleydi.
+94|Deklanşör ancak biri odaya ayak\nbastığında çalıştı.
+95|Tamam, yani kütüphanenin kapısını açmak\nmümkündü, ama bu bizi nereye götürüyor?
+96|Gonta yine de Görsel-İşitsel Oda'dan\nkütüphaneye gidemezdi.

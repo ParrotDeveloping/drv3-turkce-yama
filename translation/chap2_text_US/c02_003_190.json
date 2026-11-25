@@ -1,0 +1,562 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>This doesn't look like a normal school pool...\nmore like a pool at a resort.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>There isn't that much water in it...\nAren't pools usually filled up more?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Whoooa! I've always dreamed of swimming\nin a fancy pool like some big-shot celebrity!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Too bad I don't know how to swim.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>...Then I suppose that dream\nis pretty far away.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "It's not necessarily a dream of mine... But\nswimming with everyone does sound fun.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "If I tried to swim, I would just sink.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>...And that one is even farther.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I wonder if the day will ever come when\nI can swim with everyone...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Keebo! I was wondering...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "If you fell off a boat and sank to the\nbottom...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "...would you be stuck living under the sea,\nbeneath a rock or in a pineapple!?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "No, I believe that before you'd get too deep,\nyour body would be crushed by the pressure...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Please don't say such scary things, both\nof you! Or I'll never set foot on a boat!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "If I ever get the chance to ride a boat, I will\nwear a state-of-the-art floatation device.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "If there's a fancy pool here, then there must\nbe swimsuits here, too!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Huh? Are you positive?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Of course! There'd be no point having\nthis pool here otherwise!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Well, I suppose that's true, but...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "So where are the swimsuits? I only saw\nextra school uniforms back at the dorm.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>That's true, all the closets seem\nto contain is spare uniforms...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "If there were any swimsuits...\nI suppose they'd be in the warehouse.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "H-How scandalous! They're in a place that\ndegenerate males have easy access to!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "I...don't really think that's a problem...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Oh, I get it!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Degenerates only care about used swimsuits,\nor ones that girls are wearing, don't they!?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "If that's the case, then the swimsuits in the\nwarehouse are definitely safe!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I wonder if they are in the warehouse though.\nI should look for them later.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>But, Tenko...you can't swim...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>There's still something bothering me...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>There's still something bothering me...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>This doesn't look like a normal school pool...\nmore like a pool at a resort.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>There isn't that much water in it...\n",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>This doesn't look like a normal school pool...\nmore like a pool at a resort.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>The pool is deep, but it isn't filled\nup all the way. Still, plenty of water to swim in.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "This looks like...a storage room?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I peeked inside and discovered all manner\nof pool supplies in here.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "It is fully stocked with kickboards, water polo\nballs, and even sturdy rubber inner tubes.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Perhaps I can float in water if I inflate them\nand attach them all over my body.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Ah, I think you would look like that\ntire company's mascot...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>This is a storage room.\nThere's a bunch of pool equipment inside...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>That window must be the gym's window.\nIt looks like the one that was in the gym.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>I suppose that means the gym\nand the pool area are connected.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "It's pretty standard for a school to have the\ngym and the pool area near each other.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "But I think the pool can be moved to a much\nlarger area!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "There's plenty of land in the courtyard!\nWhat about there!?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "I...don't know?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>That window must be the gym's window.\nIt looks like the one that was in the gym.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>I suppose that means the gym\nand the pool area are connected.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "There's so much unused land in the\ncourtyard...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Why did they build the pool here!?\nWhat's up with that!?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Uh, I...still don't know?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>This window...must be one\nof the school building's.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>I remember all of the windows being\nsealed off, but...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>This window in particular looks like a\nnormal window. What room does it belong to?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Grrrrr! Anyone could peep through that\nwindow!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Peep? Who would do that?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I heard degenerate males get more turned on by\ngirls in swimsuits than by girls who are naked!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "And they go bonkers over the bloomers we wear\nover our panties that we wear over our privates!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "What are girls supposed to do against the\nfilthy desires of degenerate males!?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Ah, I think you may be...overreacting a little...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Oh, Keebo! Are you a degenerate male or a girl!?\nWhich is it!?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Good question... I've honestly never thought\nabout it before.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Really? How interesting...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>I suppose I did just assume he\nwas a...he. But Keebo is a robot, so...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>This window...must be one\nof the school building's.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>I remember all of the windows being\nsealed off, but...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>This window in particular looks like a\nnormal window. What room does it belong to?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Grrrrr! You look pretty eager to check\nthe window...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "You're thinking about peeping, aren't you!?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "N-No! I would never do anything like that!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>It's a large diving board.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>This is also something you would\nfind at a resort...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>Some pool rules are posted here.\nThere's one that I find peculiar...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "So swimming is prohibited at nighttime...?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "That's right. No one's allowed to swim\nduring nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "It'd be terrible if someone died due to an\nunfortunate nighttime swimming accident.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "We need youse to die in the killing game!",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "You can visit the pool at nighttime, but even\ntouching the water is against the rules.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Oh...I guess I'll add it to the existing\nregulations, just in case.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltSYSTEM>School regulations have been updated.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Ah, anyway, why is the pool's water level\nso low? It's barely enough to swim—",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "What the hell are you sayin'!? Ya got gapin'\nholes instead of eyes or somethin'!?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "There's enough water to swim. It only looks\nshallow because the pool is so deep.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "And someone would be more likely to\ndrown if we filled it up all the way.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "So that's that!",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>...They put a lot of thought\ninto some strange things.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "...WONDERFUL-EXPLANATION-EVERYONE.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "...What? Really? Oh I'm so happy to hear\nyou say that.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Did you forget that he killed Monokid!\nYou should hate his guts!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Screw Monokid! I always hated him!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "He was violent, vulgar, rude to shop clerks,\nand had a soft spot for abandoned kitties!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Why'd that sound like praise near the end?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>...Anyway, no swimming at nighttime.\nThat's okay, I wasn't planning on swimming...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>There are also some specifications\nwritten here...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>The pool is 82 feet in length\nand is 39 feet wide...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>The poolside is 13 feet on each end,\nand the left and right sides are 8 feet each...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>Some pool rules are posted here.\nThere's one that I find peculiar...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Swimming is prohibited during nighttime.\nWell, I don't really want to swim anyway.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>There are also some specifications\nwritten here...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>The pool is 82 feet in length\nand is 39 feet wide...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>The poolside is 13 feet on each end,\nand the left and right sides are 8 feet each...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>I wish I had such detailed answers\nto my more important questions...",
+  "tr": ""
+ }
+]

@@ -1,0 +1,617 @@
+[
+ {
+  "id": 0,
+  "en": "The pool could not have been the scene of\nthe murder. Ryoma was killed at <CLT=cltSTRONG>nighttime<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSTRONG>No swimming is allowed at nighttime<CLT=cltNORMAL>,\nso a living person could not have gone in.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yep! A dead body is fine cuz it's just an object.\nBut if a living person entered the pool...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I think I might cry!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Cry as loud as you want. I'll cry with you.\nWe can spend the night together, crying...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "And the morning after, I'll write \"goodbye\" on\nyour mirror in lipstick before I quietly leave.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Only after you leave do I realize how\nmuch you really mean to me...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Quit bein' so gloomy! This is the year of\nthe Jets! Fuck the Patriots!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Anyway...we can conclude it's impossible \nfor him to have drowned in the pool.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Where was Ryoma killed if not pool? Is there\nother place where water can be stored?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Where was Ryoma killed?\nI know there's some kind of clue...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "The handcuffs found in the tank...\nThey were from Ryoma's lab.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Handcuffs can be taken anywhere. I think we need\nstronger evidence to determine the crime scene...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "There was that piece of black fabric found\nin the pool. Possibly Ryoma's clothing...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "You just said he wasn't killed\nin the pool.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I won't let you take back \nyour words that easily!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "The cable from the tennis net in\nRyoma's lab was pulled out...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "What's that gotta do with Ryoma's drowned body!?\nSit down, shut up, and pull your own cable!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Why are you so quiet? Were you just pretending \nto know this whole time?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I've no clue what you mean. Such confusing \narguments will only bring about your doom.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "What clue shows where\nRyoma was killed?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "The sink in Ryoma's lab. There were\ndistinct scratch marks on it.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...Scratch marks on the sink?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "And I believe those scratches\nwere caused by...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "The square glass pane.\nIt was scratched as well, correct?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "But that was from my lab.\nWhy would it be in Ryoma's sink?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "The window frame scraping\nagainst the sink.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "The window frame...? In the sink?\nHow would that even work...?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "If I got a closer look at the scratches, I can\ndetermine the material that caused them...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "I don't think there's anything special about\nthe scratches. What if we look elsewhere?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "The tennis net cable was removed.\nPerhaps that was involved...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "You can't scratch up a sink with a cable!\nNow, whips and chains on the other hand...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "There must be a reason.\nJust hurry up and tell us.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You think that caused the scratch marks on the\nsink? I have no idea what you're trying to say.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "If Ryoma was drowned in the sink,\nwhat made the scratches?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...the <CLT=cltSTRONG>handcuffs<CLT=cltNORMAL>.\nThey were scratched as well, correct?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Oh yeah. It sorta looked like they'd\nbeen scraped against something.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "There's also the fact that the handcuffs\nwere from Ryoma's lab.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "The marks on the sink came from the\nhandcuffs in the same room.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "The size and shape of the scratches are\nconsistent with the handcuffs. I'm sure.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Hmmm... How did those handcuffs get from the\nlab to the water tank?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Because Ryoma was wearing them, right?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Yes, though they were only visible for a brief\nmoment when Ryoma appeared in the tank...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "I am certain he was wearing the handcuffs\nat the time.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "The handcuffs were left after the\npiranhas devoured Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "So the culprit handcuffed Ryoma and\ndrowned him in his lab's sink.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Ryoma must've been pretty yummy. They chomped\nup his entire body—arms, legs, brain...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Stop saying disgusting things,\nI don't wanna hear it!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "That crunchy texture with the fatty parts just \nright. Then, when they bite down, it gushes—",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "STOP, PLEASE STOP!!!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "But...how did culprit handcuff Ryoma?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "He coulda used Shukuchi Method to get\naway. Unless someone ambush him?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "It's possible they knocked him out\nbefore handcuffing him...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Kehehe... Though there's no way we can \nbe sure, now that he's naught but bones.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I doubt he was ambushed.\nI'm pretty sure the culprit got Ryoma by...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Oh whoops, don't pay attention to little ol' me.\nI'm just talking to myself.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "When you talk to yourself, pretend you're\neating and chew with your mouth closed.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Otherwise, you'll get a mouthful of peanut\nbutter squid. It's so disgusting, you'll laugh!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "So we all agree Ryoma was drowned in\nthe sink in his lab, right?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "That sink coulda held enough\nwater to do it, for sure.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Alright, I'm calling it! The crime scene is\nRyoma's fuckin' research lab!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "But how did the culprit carry his body\nto the gym from there?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Isn't Ryoma's lab on the 3rd floor of\nthe academy?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "It's actually not far at all.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Although, perhaps it's more accurate\nto say...there's a <CLT=cltSTRONG>shortcut<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Was there a shortcut...?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>What shortcut between Ryoma's lab\nand the gym did the culprit use?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Ah...there?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Eh...? What are you saying...\nall of a sudden?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Are you bein' vague on purpose? When you say\n\"there,\" do you mean...*there*?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Are you flirtin' with me, virgin?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "The monitor was connected to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Entering and leaving through the monitor\nwould be a mysterious miracle, indeed!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "But that goes against the laws of science,\nso it's impossible!",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "There was some trick to the handcuffs.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Whaaaat? Even Atua doesn't know\nwhat you're talking about.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "There was a hidden passage\nin the shower.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "The showers there were pretty normal. \nWe checked them, remember?",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "There was a hidden passage\nin the sink.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "C'mon, man! You can't just say whatever \nyou want just cuz it's a crime scene.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "There was a hidden passage\nunder the pile of clothes.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "That'd be interesting, but I've never \nheard of a prison break plan like that.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Hey, hey... Where's the shortcut?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "What shortcut connected Ryoma's lab\nand the gym?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "The shortcut is the <CLT=cltSTRONG>window<CLT=cltNORMAL> in Ryoma's lab.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "The window?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "That's right. None of the windows\nin this school open...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "except the one in Ryoma's lab.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "And on top of that, the window faced the\npool. You could see the gym straight across.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Do you think the culprit dropped Ryoma's body\ninto the pool area from the lab window!?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Then they could've thrown the body into the\npiranha tank through the gym window...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "How's that!? Mission complete!",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Your explanation contradicts some things we \ndiscussed earlier.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "The gym window was too high to reach from the\npool side, even if one used the ladder.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "That's right! I apologize! I must go\non a journey to reflect on this!",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "We keep hitting dead ends, since we don't\nknow how the body was thrown into the gym...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Nee-heehee... Well, that didn't really give us \nany info about the crime.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>Not necessarily...\nWe learned a lot of important information.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>Now that I'm sure the scene of the crime\nwas Ryoma's lab, the case is becoming clearer.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>To determine how the body got from the\ncrime scene to where it was found...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>I have to figure out how to get from the\nthird floor window to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>Alright then. I have to analyze the\npossible methods and find the most likely!",
+  "tr": ""
+ }
+]

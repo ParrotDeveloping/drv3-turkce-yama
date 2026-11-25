@@ -1,0 +1,892 @@
+[
+ {
+  "id": 0,
+  "en": "So...Kokichi tells me you wish to participate \nin the seance as well, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Kehehe... You are most welcome to join us.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "...Is what I would like to say. However, only\nfive, including the spiritual medium, may join.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Aw maaan, what a shame.\nWell, Kee-boy, you're out.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...Why me!?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...I agree with Kokichi.\nI was thinking this for a while...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Robots and seances don't mix! They're like\ntoothpaste and orange juice!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "To be honest, I had the same thought.\nYour help was appreciated...Keebo.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "D-Don't any of you feel guilty for kicking me\nout after forcing me to come?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "That's why we're apologizing!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "No one's apologized yet!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Fine, fine, our bad... Just don't get mad and\nstart shooting electromagnetic waves at us.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Why would I do that!?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Stop whining, Keebo... I want to start \nthe seance as soon as possible.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "F-Fine...but I won't forget this betrayal,\nShuichi!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>What did *I* do?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "So now Shuichi has joined us.\nFirst, some warnings...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Do not enter the magic circle that I've \ndrawn on the floor.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "It is drawn with purifying salt, so it is \neasily disturbed when stepped upon.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "You drew this magic circle with salt?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I always use salt for magic circles.\nIt makes seances more likely to succeed.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Also, it's dark in here, so be sure \nto watch your step.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "If the magic circle is broken,\nnot only will the seance fail...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "But it may also unleash a curse.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "G-Got it... I'll be careful.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "I'm surprised you were able to draw this\nwithout even looking at the picture...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I have the entire document memorized,\nso this magic circle should be perfect.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Of course, I also have <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>'s song\nmemorized. You must do the same.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "I have copied the words to the song \ndown here. Please commit it to memory.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Everyone else has already memorized it.\nAfter all, you'll be unable to read in the dark.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "We have to memorize the lyrics now?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "You're a detective, so I expect your memory\nto be up to the task. Here is the melody...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>I listened to Kiyo sing the song and did\nmy best to memorize the melody and lyrics.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Alright...I think I've got it now.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Kehehe... Your memory is extraordinary.\nYou are, indeed, the <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Well then, let us begin the ritual right away.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Yaaaay! We finally get to see Angie!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Before that, let's choose a spiritual\nmedium. It would work best with a girl...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Then I'll do it.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I can't think of anyone but me\nthat Angie's spirit should go in.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...No, I'll do it.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Because if you're the spirit medium, you\nwon't be able to talk to Angie.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Nyeh?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You wanna talk to Angie, right?\nThen I'll be the spirit medium...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "That way, you can say goodbye to her.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "And after you've finished saying your\ngoodbyes...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Keep your chin up and live life facing forward!\nSurvive with me and everyone else!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...Please.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Tenko...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Also...Himiko, let me say this one thing.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Expressing your feelings is perfectly natural.\nYou shouldn't feel ashamed at all.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "So...if you feel like crying while you're talking\nto Angie, go ahead and cry your eyes out.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...You'll feel better when you do.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Well, I mean...laughing makes you feel \nbetter too...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "And venting your anger onto something\ncan really cheer you up!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Train your heart by crying, laughing,\nand venting your anger, Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "I think you've trained too much...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Hahaha, you're probably right.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>It seems like the two of them\nmade up... That's good.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "So now that we've decided on a spiritual\nmedium, let us begin.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Alright, Himiko! I'll see you later!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Now I would like the spirit medium, \nTenko, to sit within the center circle...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Please be sure to walk on the path, \nso as not to disturb the magic circle.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Mm-hm... Make sure you watch your step\nsince it's so dark in here.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Next, you must be as a turtle \nwithin that circle...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Please rest your forehead upon this\nstone marker I've placed here.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "It's just a stone I brought from the courtyard.\nAre you sure it'll work?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Certainly. It is merely needed as a \nmarker for her forehead to rest upon.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Um...like this?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "This may be uncomfortable, but please \nendure it until the seance is complete.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Whatever you do, you mustn't raise \nyour head or change positions.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Piece of cake! I have 5-star flexibility!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Starting now, the rest of us must go to work.\nThere are many things left to be done.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "First, we must place this iron cage atop Tenko.\nI shall leave that to Shuichi and Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "And please keep in mind...walk carefully\nso as not to disturb the magic circle.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "O-kay, you can count on me! I may not look like\nit, but I'm actually super duper strong!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "U-Ugh...I shouldn't have lied...\nI'm way too weak...for this kinda stuff...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "It's made of iron, no wonder it's heavy...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Hold on! Don't just drop it on top of me!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "I-I know... It wouldn't be very funny if a body\ndiscovery announcement happened during this.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Please don't jinx us!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Phew, I'm tired. So next, we cover the \nbasket with a white cloth, right?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "I shall take that role.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Alright, everything is prepared.\nTenko...how are you doing?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Well... I can only see the floor from this \nposition, but I think I'm fine!",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "The final step is to place the wooden \nstatue of the Dog God atop the cage...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "The four of us may need to do this \ntogether. The statue is quite heavy.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Nyeeeh! Nyeeeh...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "E-Even with four people...\nit's still really heavy!",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Krgh! Holy crap, this weighs a ton!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "No...it is not much more \nthan 175 pounds...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Phew, I'm totally wiped.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "I coulda used my magic to carry it \neasily...but seances and magic don't mix.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Are you sure it's okay to put something\nso heavy on top of the cage?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "The iron cage was made specifically \nfor seances, so it can hold this weight.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Okay...I guess that's fine then.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Now, let us exit the magic circle. \nTake care to avoid disturbing it.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "This is the point of no return, Tenko.\nAfter this point, you mustn't speak.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "The next time you open your mouth,\nit will be Angie speaking through you.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Understood. I will not say a word until\nthe seance is over!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Okay, everyone!\nI'll see you guys after the seance!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "The rest of us shall move to the corners of \nthe room. Please go to one of your choosing.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>We each stood in a different corner...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Now we darken the room. Kokichi and \nShuichi are closest to the candles.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Please blow out the candles. You should \nbe able to follow the walls in the dark.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "So, go back to the corner of the room after\nit's dark... O-kay, got it!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "You needn't move, Himiko. There are\nmany gaps in the floor near you.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Nyeh... Got it.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Once the room is dark, I will begin \nthe song. Please sing along with me.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Then, I will call out to Angie. Until \nshe replies, there must be silence.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "After the seance is done, Shuichi and I are \nsupposed to light the candles again, right?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Correct. I brought matches from the \nwarehouse, so please use those.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Okie-dokie! Then I'll blow out the candle now.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>I walked up to the closest candle\nand blew out the flame.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>The room instantly fell into\ncomplete darkness.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>Pitch black darkness.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>So dark, I couldn't even see\nmy own body.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>Overcoming my instinctual fear of the dark,\nI moved along the wall back to my corner.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>Then began the singing...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>Kiyo led us all in <CLT=cltSTRONG>The Caged Child<CLT=cltMIND> song.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltSYSTEM>*thunk!*",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>We finished singing the song, but...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "<CLT=cltMIND>I thought I heard an odd sound in\nthe middle of it. What was that?",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Is <CLT=cltSTRONG>the caged child<CLT=cltNORMAL>...Angie Yonaga?",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>He began calling. Now if the\nmedium answers...",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Is <CLT=cltSTRONG>the caged child<CLT=cltNORMAL>...Angie Yonaga?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "<CLT=cltMIND>What's...going on...?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Is <CLT=cltSTRONG>the caged child<CLT=cltNORMAL>...Angie Yonaga?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "What's wrong?\nWhy won't Angie answer?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Himiko...I was very clear that you were \nnot to speak, yes?",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "But...something's weird.\nWhy won't she answer?",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Maybe...it failed?",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Let's...light the candles briefly.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "What? Is that okay?",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "J-Just...for now.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>Confused, I walked along the wall\nback to the candle.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "<CLT=cltMIND>I managed to strike a match and\nlight the candle once again.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Hey, what's going on? Did it really fail?",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Th-That shouldn't be the case...\nThe seance was perfect...",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Is Angie not coming?\nIs that still Tenko in there?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "...Tenko?",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Ah...I told her that she mustn't speak\nuntil the spirit enters her...",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Nee-heehee... She follows orders well.\nBut how about we let her out for now?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "Wait...dark arts such as this need to be \nstarted and completed the same way.",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "Those who remove objects from the magic circle\nmust be the same who brought them in.",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "If not...the spirit may stay \nin the medium's body.",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Seeing as how this was a failure, I don't think\nany spirit is sticking around...but whatever.",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltMIND>Just like setting up, Kiyo instructed\nus how to clean everything up.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "<CLT=cltMIND>We were careful to remove everything\nexactly in the order Kiyo directed.",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "Now, I will remove the sheet.",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "<CLT=cltMIND>Kiyo pinched the fabric gently\nand pulled it aside.",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "Oh...?",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "Something...is amiss...",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "Nyeeeh!?",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "<CLT=cltMIND>Himiko ran toward the cage\nat a sprint.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "Himiko! I told you not to step on the—",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "<CLT=cltMIND>But she wasn't listening.\nShe jumped onto the cage, and...",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "T-Tenkooo!!!",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>Fueled by desperation, Himiko grabbed\nthe cage, lifted it up, and...",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "<CLT=cltSYSTEM>*ding dong, dong ding!*",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "Wh-Who would've thought...there'd be another\nvictim during the investigation...?",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "Maybe Monophanie's green puke was\npredicting this tragedy...!",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "...BLRGHBLRBLRGHBLRBLRGH!",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "Oh, the puke's color is normal now!\nI guess it *was* predicting this!",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "E-EVERYONE...PLEASE-ASSEMBLE-IN-\nTHE-SEANCE-ROOM...",
+  "tr": ""
+ }
+]

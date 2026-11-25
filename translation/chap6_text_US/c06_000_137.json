@@ -1,0 +1,72 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Display Case",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Desk",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Monitor",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Super Car",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Executive Chair",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Cave",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Emblem",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Hope's Peak Official Documents",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Helicopter",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Helicopter Controller",
+  "tr": ""
+ }
+]

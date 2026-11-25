@@ -1,0 +1,92 @@
+[
+ {
+  "id": 0,
+  "en": "The <CLT=size2>professor<CLT=size1> said\nhe <CLT=size2>didn't mind...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "The professor said he didn't mind...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "The notion that\nsomeone wouldn't mind\nbeing <CLT=size2>hurt<CLT=size1> by another...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "The notion that someone wouldn't\nmind being hurt by another...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Is\nsuch a thing\neven possible?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Is such a thing even possible?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "No, there's no use\nworrying about it...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "No, there's no use worrying about it...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Because <CLT=cltWEAK>only the <CLT=size2>professor\n<CLT=size1>knows the <CLT=size2>truth<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Because only the professor\nknows the truth...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Still...\nif I had <CLT=size2>someone\n<CLT=size1>I could <CLT=size2>talk\n<CLT=size1>to about this...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Still...if I had someone\nI could talk to about this...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=size1>Maybe...\nif I talked\nto <CLT=cltWEAK><CLT=size2>Shuichi<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Maybe...if I talked to Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "But if I go to him with this...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "But if I go to him with this...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "It might just bother him...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "It might just bother him...",
+  "tr": ""
+ }
+]

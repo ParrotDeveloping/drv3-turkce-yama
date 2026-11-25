@@ -1,0 +1,202 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=size2>I'm",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I'm not the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "not the",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=size2>culprit!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=size2>Yeah,",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yeah, I totally agree!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "I totally\n<CLT=size2>agree!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=size2>I only",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I only carried the case...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltWEAK>carried\nthe case<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Yup,\nyup!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Yup, yup! That's true, too!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "That's <CLT=size2>true,<CLT=size1> too!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "And I",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "And I didn't even use the crossbow...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltAGREE>didn't even use\n<CLT=cltNORMAL>the crossbow...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=size2>Mm-hm!\n<CLT=size1>Another",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Mm-hm! Another true statement!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=size2>true<CLT=size1>\nstatement!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "And <CLT=size2>that's all!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "And that's all! I didn't do anything else in the hangar!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltAGREE><CLT=size2>I didn't do<CLT=size1> anything",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltAGREE>else in the <CLT=size2>hangar!",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=size2>One hundred\n<CLT=size1>percent",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "One hundred percent exactamundo!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=size2>exactamundo!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Why does this all\nsound so <CLT=size2>fishy...?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Why does this all\nsound so fishy...?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=size3>Nyeeeh!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Nyeeeh! Cuz Kokichi won't shut up!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Cuz <CLT=size2>Kokichi\nwon't shut up!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=size2>Get out of my head,\n<CLT=size1>Kokichi!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Get out of my head, Kokichi!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "But...you brought\nthe crossbow...?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Carried the case...?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Why, though...?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Then why did\nyou have it?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Anything else...?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "That seems unlikely...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Yep!\nIt's all my fault!",
+  "tr": ""
+ }
+]

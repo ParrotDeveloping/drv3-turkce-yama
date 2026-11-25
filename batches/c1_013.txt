@@ -1,0 +1,17 @@
+@ chap1_text_US
+## c01_004_353
+275|<CLT=cltSYSTEM>Hareket etmek için <PAD=【Ｌ⇔】> ve <PAD=【Ｐ⇔】> yön tuşlarına,\nzıplamak için <PAD=【×】> tuşuna bas.
+276|<CLT=cltSYSTEM>Kaçmanı engellemek için kurulmuş bir sürü\n<CLT=cltSTRONG>tuzakla<CLT=cltSYSTEM> karşılaşacaksın.
+277|<CLT=cltSYSTEM>Bir tuzağa takılırsan ya da bir\nçıkıntıdan düşersen...
+278|<CLT=cltSYSTEM>O kişi <CLT=cltSTRONG>elenir<CLT=cltSYSTEM> ve kontrol kalan\nöğrencilerden birine geçer.\n
+279|<CLT=cltSYSTEM>Herkes elenirse...\nOyun biter, dostum.
+280|<CLT=cltSYSTEM>Ah, pardon. İşi bu kadar ciddiye\nbindirmek istememiştim.
+281|<CLT=cltSYSTEM>Şimdilik tetikte ol ve\n<CLT=cltSTRONG>çıkışa ulaşmak için elinden geleni yap<CLT=cltSYSTEM>.
+282|<CLT=cltSYSTEM>...Gerçi bir önemi yok.
+283|<CLT=cltMIND>Herkes gitti, ben de odama\ndönsem iyi olur.
+284|<CLT=cltMIND>Tabelada "çıkış" falan yazıyor...\nNe acımasız bir şaka...
+285|<CLT=cltMIND>Herkes gitti, ben de odama\ndönsem iyi olur.
+286|<CLT=cltMIND>Geri dönmenin ne anlamı var!?\nİlerlemeliyiz!
+389|<CLT=cltSYSTEM><CLT=cltSTRONG>Umutsuzluğun Ölüm Yolu<CLT=cltSYSTEM>'na\nmeydan okumak üzeresin.
+390|<CLT=cltSYSTEM>Amaç basit.\nHerkes birlikte çalışarak kaçacak!
+391|<CLT=cltSYSTEM>Sola ve sağa gitmek için A ve D tuşlarını,\nzıplamak için W tuşunu kullan.

@@ -1,0 +1,79 @@
+@ chap1_text_US
+## c01_231_001
+2|Hâlâ <CLT=size2>şüphelerim var!
+3|Hâlâ şüphelerim var!
+4|Ne tür <CLT=size2>şüpheler?
+5|Ne tür şüpheler?
+6|Tabii ki
+7|Tabii ki gürültüyle ilgili şüpheler!
+8|<CLT=size2>gürültüyle
+9|ilgili şüpheler!
+10|<CLT=cltWEAK><CLT=size2>Kütüphane
+11|Kütüphane sessiz olmalıydı, değil mi?
+12|<CLT=cltWEAK><CLT=size2>sessiz olmalıydı,\n<CLT=cltNORMAL><CLT=size1>değil mi?
+13|O <CLT=size2>gülle<CLT=size1> <CLT=size2>havalandırmadan<CLT=size1> yuvarlandıysa...
+14|O gülle havalandırmadan yuvarlandıysa...
+15|<CLT=cltWEAK><CLT=size2>bir ton
+16|bir ton gürültü yapardı!
+17|<CLT=cltWEAK><CLT=size2> <CLT=size3>gürültü yapardı!<CLT=cltNORMAL>
+18|<CLT=size3>Aynen!
+19|Aynen! O kadar gürültü...
+20|O kadar <CLT=size2>gürültü...
+21|<CLT=cltWEAK><CLT=size2>Rantaro<CLT=size1> <CLT=size2>duyardı!<CLT=cltNORMAL>
+22|Rantaro duyardı!
+23|Eh, biraz gürültü <CLT=size2>önemli değil.
+24|Eh, biraz gürültü önemli değil.
+25|<CLT=size4>Tabii ki
+26|Tabii ki önemli!
+27|<CLT=size2>önemli!
+28|Şüphe mi?
+29|Daha var mı?
+30|Ne tür şüpheler?
+31|Gürültü mü!?
+33|Ha?
+34|Sessiz olmalıydı!
+35|Bu iyi bir nokta!
+36|Hm, acaba.
+37|Anlıyorum!
+38|Emin misin?
+39|Doğru!
+40|Evet! Eminim!
+## c01_232_000
+0|Cinayet, ölüm oyununun <CLT=cltSTRONG>tanıtım videosu<CLT=cltNORMAL>\nyayınlanırken gerçekleşti.
+1|Yani kütüphane o sırada tamamen sessiz\nolmazdı.
+2|Ohhhhhh... Demek o korkunç video güllenin\nyuvarlanma sesini bastırdı.
+3|Ne—!
+4|Kaito, bitirdin mi artık?
+6|K-Kahretsin...!\nYani bu...doğru mu...?
+7|Yani diyorsun ki...suçlu gerçekten\nKaede mi!?
+8|Bu da Kaede'nin günahlarının çoğunun Shuichi'nin\ngözleri önünde işlendiği anlamına geliyor.
+9|Doğru. Sınıfta onunlaydım...
+10|Ve havalandırma ızgarasını kenara\nçektiğinde...
+11|Ve kitapları kitaplığın üstüne\ndiziklediğinde.
+22|Cinayet silahını aldığında da aynısı oldu,\ndeğil mi?
+23|Gülleyi Miu'dan kameraları aldığında\naldın, değil mi, Kaede?
+28|Yani bütün zaman boyunca onu saklıyordun!?
+29|Onu nereye saklamış olabilir ki?
+30|<CLT=cltMIND>Kaede onu nerede tuttu...?\nTek bir yer olabilir.
+31|Sırt çantası
+32|Gömlek
+33|<CLT=cltMIND>Gömleğinin içinde olsa zor hareket ederdi,\norada olamaz...
+34|Bir kızın bu kadar ağır bir şeyi taşımasının\nimkânı yok!
+35|Mantığın yanlış, Shuichi!
+37|Etek
+38|<CLT=cltMIND>...H-Hayır, bunu düşünmek\nbile istemiyorum...
+39|Neden kızarıyorsun! Sapıkça şeyler mi\ndüşünüyorsun, seni lanet beta bakir!
+42|Bir şey söyle artık!\nTüylerimi ürpertiyorsun!
+44|<CLT=cltMIND>Kaede onu oraya saklamış olmalı...\nTek açıklama bu.
+45|...Kaede'nin <CLT=cltSTRONG>sırt çantası<CLT=cltNORMAL>. Gülleyi\norada taşıyordu.
+46|Ağırlığına rağmen sırt çantasında\ntaşımak kolay olurdu.
+47|Ayrıca yedek bir yeleğin olduğunu fark ettim,\nonu sarmak için kullanmış olabilirsin.
+48|Bu, taşıdığın kameraların zarar görmesini\nönlerdi.
+50|O zaman bunların hepsi Shuichi'nin\ngözlerinin önünde oldu demek...
+51|Ama bunun için onu suçlamamalıyız.
+52|O sırada bu eylemlerin hiçbiri şüphe\nuyandırmadı, o yüzden fark etmemiş olabilir.
+54|Bu her şeyi açıklıyor o zaman.\nKaede'nin planladığı suçun her parçasını.
+55|Bu olamaz...\nBir hata olmalı, değil mi?
+57|Ama bunların hepsi doğruysa bu epey\ntalihsiz...
+58|Yani...o Kaede, anlıyor musun?
+59|Durmadan birlikte çalışmayı vaaz ediyordu...\nsonra gidip soğukkanlılıkla öldürüyor!

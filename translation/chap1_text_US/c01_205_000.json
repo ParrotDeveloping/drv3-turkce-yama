@@ -1,0 +1,492 @@
+[
+ {
+  "id": 0,
+  "en": "I don't think Miu went to the basement\neither! Right, Kiyo!?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Of course she didn't. Miu was in\nthe dining hall during the murder.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I saw her there while dining on what I\nthought would be my last supper.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "The pasta on the menu tastes like a lonely\nold lady eating her grandkid's birthday cake!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Don't feel bad for her... She got to eat\nher tasty grandkid on his birthday!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "That's too sad to make sense!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "That's Pops for ya!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "So there you have it...Miu's alibi.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "You fuckin' slug! Why didn't you\nsay so earlier!?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Good job, Kaede! Guess I shouldn't have\njudged you by your lackluster rack!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "What Gilgamesh-level condescension!\nBut which Grail War are you from?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Wow... Another reference we don't get.\nHeh, you must be a hardcore loser.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...Oh, sorry. Sometimes my \nhobbies just sort of slip in...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Hey! Don't be actin' all cocky, Kokichi!\nYou put my ass in the hot seat earlier!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "How 'bout you just keep your fuckin'\nmouth shut, you lyin' little abortion!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Wha—!? Th-That was really uncalled for...\nI only said that to find the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "WAAAAAAAAAAAHHHHHHH!!!\nYOU'RE SO MEEEEEAAAANNNN!!!!!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...'Kay. I feel a lot better now.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Cool your jets, kid.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Tsumugi and Kirumi were both in the\ndining hall as well.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "We can dismiss those four as potential\nculprits if they were together the entire time.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "No...not the entire time. At one\npoint, Tsumugi went to the restroom.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Oh...so you brought that up after all...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "It's true. I went to the restroom\nclosest to the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...Oh? Did I hear that right?\nThe restroom, you say?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Excellent! I was waiting for this moment!\nI'm getting so excited right now!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Ew! Why!?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Did you take a firm dump!?\nOr was it a soft one!?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "...Why're you assumin' she was droppin'\na deuce in there?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "But I really did just go to the\nrestroom. Not the basement, you know?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Also, I don't think I was there long \nenough to be suspicious, right?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "You're the <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>, though.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "You could've just disguised yourself \nas someone else while you were out.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "D-Disguised!?\nNo, no! I don't do disguises!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I don't think that's possible.\nAnd I know the reason why.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Intense shoulder pain",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "When Tsumugi disguises herself, she\nexperiences intense shoulder pain!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "That's the reason? If we can't see it,\nhow are we supposed to know?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Sudden stomachache",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "When Tsumugi disguises herself, she\nsuddenly gets a stomachache!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Kaede! No more restroom stuff!\nBesides, I don't get stomachaches!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Cospox",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "What's wrong? If you got something\nto say, no point in keeping quiet.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>The reason why Tsumugi couldn't\nhave been in disguise is...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Tsumugi can only cosplay as fictional\ncharacters!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "That's what cosplay is supposed\nto be in the first place!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Lately, some people prefer to cosplay as non-\nfictional characters, which is unforgivable...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "It's so unforgivable that I break out in cospox\nif I even attempt it...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Yeah...the cospox was pretty gross...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "I see... If that's the case, then there's no\nway you could've been in disguise.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Sorry about that, Tsumugi. I just\nthought it was something to check.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Oh, no, it's fine.\nI'm not bothered by it at all.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Awww, Tsumugi is so nice! \nShe's waaay better than Miu!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Well, fuck you too!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Getting back on topic, we now have alibis\nfor the people in the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "So we know that Kirumi, Tsumugi, Miu, and\nKiyo can't be the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Congratulations to the four of you!\nYou can all leave now.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Huh? Can they?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "So what about the swines who went to the\nbasement!? They're all suspicious, right!?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Which of us went to the basement...?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Well, when Shuichi and I were on lookout, we saw...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Kaito, Gonta, Maki, Tenko, Himiko, Angie...\nand Rantaro... So, seven people in total.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "So the culprit is among those seven?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Nyahaha! But of course!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Why are you laughing!?\nThat includes you, too!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Excluding Rantaro, one of the six people \nwho headed to the basement...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>...is the mastermind of this killing game?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>The person who's making us endure all\nthese terrible things?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Why not torture the truth out of them?\nIt would be the quickest method...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "W-Wait, please! No torture! My tolerance\nfor pain is actually really, really low!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "I'll tell you everything! Anything!\nJust please don't hurt me!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Please just tell us what happened.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "If the culprit is among that group, then\nwouldn't Maki be the most suspicious?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Just look at her—she could definitely\nkill someone.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Stop being so stupid. The culprit could\neasily be anyone...like Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Wh-What are you talking about!?\nThere's no way I'm the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Who's the culprit!? Who!?!?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Gonta is gentleman!\nGentlemen not hurt people!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "I-It's not me either... \nMurder sounds like way too much work.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "I have an alibi!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Who's the culprit, for fuck's sake!?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "We need to calm down! If everyone talks all \nat once, then we can't discuss anything!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...It's alright, Kaede. We just need to <CLT=cltSTRONG>listen\nto everyone's statements<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "You can do this, right?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>Listen to everyone's statements?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>That's right... I can pick out everyone's voices\nas they talk over each other!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "I only went cuz I was invited. Why don't\nyou ask the shady guy who invited me?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "What!? You mean me!?\nBut I just said it wasn't me!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Don't thrust the blame onto me! You degenerate\nmales and your...thrusting! Ugh!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "I'm not a bad girl, really...\nIf you don't believe me, ask my mommy.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Really, I have an alibi!",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "I'm not the culprit!!!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "I'm not the culprit, too.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "I'm also not the culprit.",
+  "tr": ""
+ }
+]

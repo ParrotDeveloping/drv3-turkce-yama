@@ -1,0 +1,637 @@
+[
+ {
+  "id": 0,
+  "en": "I've got it! Ryoma's body was moved <CLT=cltSTRONG>directly<CLT=cltNORMAL>\nfrom his lab to the gym!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Directly? Don't tell me they threw\nthe body from window to window.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I mean, we're talking about a body. \nIt's not like tossin' a baseball, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No, I don't believe he was thrown.\nBut perhaps another way...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "What do you mean, another way?\nThere's no other way to move it—",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "The culprit must have used some kind \nof <CLT=cltSTRONG>equipment<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Huh? Equipment?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "With this equipment, they can connect the\ntwo windows and move the body to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND><CLT=cltSTRONG>Equipment to connect the windows<CLT=cltMIND>...\nI believe it was found near the body...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Ah, um, maybe...that...thing?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Huh? What thing?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Maybe...they used the tank somehow?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "That doesn't seem like a realistic way\nof moving of body.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Maybe the culprit used the stairs?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "That's not long enough to connect the\ngym window to Ryoma's lab window.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Ah, um, maybe they...\nused the timer from the magic show?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Are you serious...?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "The stage used for the magic show.\nIf you put the stage between the windows...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "There's no way that would fit.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Maybe they used the\nwater in the tank...?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Be stupid on your own time.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "They used the piranha tank.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Just because Ryoma was in there doesn't\nmean it could've connected both windows.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "How can you even call yourself a detective?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "What was used to connect the\ntwo windows?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "The <CLT=cltSTRONG>rope<CLT=cltNORMAL> found behind the gym stage could\nhave been used to connect the windows.\n",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ohhhh, there was a mysterious mystery about\nthat rope that only Atua can reveal.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "What mysterious mystery?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "During last night's preparations for the show,\nthat rope was in the <CLT=cltSTRONG>wing of the stage<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "But the next morning, the rope had been\nmoved <CLT=cltSTRONG>backstage<CLT=cltNORMAL> for some reason.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "It's a mysterious mystery.\nOnly Atua knows the answer.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "So...during nighttime, someone used the \nrope then threw it into the gym window?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "So they *did* use the rope! That's how they\nbridged the distance between both windows!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Is the rope long enough to reach both windows?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "The rope is roughly <CLT=cltSTRONG>65 feet<CLT=cltNORMAL> in length.\nAs for the distance between the windows...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "According to the sign at the pool, the width\nof the pool is roughly 35 feet...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "and the distance from the edges of the pool\nto the windows is an additional 16 feet...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Altogether, the sum total length from one\nwindow to the other is roughly <CLT=cltSTRONG>50 feet<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "And pool is only thing between\nresearch lab and gym windows...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "You bet it's long enough!\nHeh! That's what she said!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Wait... Who said that...?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Even if the rope was long enough, wouldn't it\nbe pretty hard to tie them to the windows?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Both windows were too high to reach. It would \nbe like tying a rope from one cliff to another.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "If the windows were closer together, then they\ncould toss the rope across. But they're not...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "No! Gonta think it would work!\nJust need <CLT=cltSTRONG>one more rope<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Another rope? There was only one, though.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Oh... Then it unpossible... Sorry...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>No, I'm sure there was another rope. Or at least,\nsomething that could be used as rope.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "If you connected a bunch of\nhandcuffs, it could be used as rope...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "What? Dude, no way that'd work!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Wasn't there anything better to\nuse in Ryoma's research lab?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "There was that piece of fabric\nthat we found in the pool...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "But that fabric is too thin to be used\nas a rope...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "There was only one rope in gym, and\nno rope anywhere else...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I guess it's not possible to connect\nwindows...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Gonta not sure how you supposed to tie\nrope to that...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "What was used as the second rope?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "The <CLT=cltSTRONG>tennis net cable<CLT=cltNORMAL> from Ryoma's lab\ncould serve as a rope...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "How long is it?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "About 50 feet or so.\nBut how did they use it?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Okay, so...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "First, culprit hang rope outside of one\nwindow. Then culprit move to other side...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...and tie cable to other window.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Then, after tying to each window, culprit\ntie rope and cable together...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "That how culprit make one rope that\nreach both windows.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Wow! That's amazing, Gonta!\nYou're so knowledgeable!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "I-It's nothing. Gonta use ropes a lot\nwhen looking for bugs.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Even if they did connect the windows with a \nrope, they can't carry a body on just that.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Eureka! I got it!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Thomas Edison once said that genius is\n1% inspiration and 99% perspiration...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "But in my case, it's 100% inspiration!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "We get it, just tell us already.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "They handcuffed the body to the rope and slid\nit from one window to the other like Tarzan!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "The body would reach the gym window,\nbut it wouldn't land in the piranha tank.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Stop making such dumbass comments, and keep\nyour smelly breath in your dirty mouth.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Ahhhhhhhhh, ah-ah-ahhhhhhhhhhhhh!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Tarzan!?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Um, but...they also had to put the body in\nthe piranha tank after they moved it, huh.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "That is not feasible with just one rope.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Maybe the rope wasn't the only equipment\nthe culprit used!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>Not just the rope...?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Well anyway, it would've been pretty\ndifficult to get that body in the piranha tank.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "They wouldn't just throw it. The trick was\na super crucial part of the culprit's plan.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "The culprit must've carefully placed the body\ninto the tank with their own hands.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "But is there really a way to do that?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Kokichi...are you hinting at something?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Huh? Hint? What hint? Don't confuse me \nwith your talk of hinting hints.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltMIND>You're confusing *me*!\nYou were definitely on to something...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>It's true that the culprit needed to place\nthe body directly into the piranha tank.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>If the body were to fall, the culprit\nwould not have been able to retrieve it.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>They would have only had\none shot at it, no second chances...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>So obviously, the culprit would have wanted\nto put the body in the tank carefully...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>Meaning they would have wanted to\nget as close to the window as possible.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "<CLT=cltMIND>The problem is...how\ndid they get near it?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>All that we know right now is that there\nwas a rope that connected the windows...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>Somehow, the culprit used that to move the body\nand were close to the window themselves.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>To make that work, they\nhad to have used something else...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>But what would that be?\nWhat could they have done—",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Alright, Shuichi...\nThe stage is finally set.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Listen up! Do a good job here and\nI'll be able to put an end to this trial!",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "It all starts with you!",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "You be the opening act, \nand I'll be the main event!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "And then together, \nwe're gonna save everyone!",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Together?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "You got this!\nAfter all, you are my sidekick!",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "I believe in you!\nSo I'm gonna leave the rest to you!",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "...Yeah.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>Okay...I can do this!",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>I will solve this mystery\nand show everyone the truth!",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>This is the main event.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>Something was used with the rope to\nmove the body between the windows...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltMIND>Think... C'mon, think!",
+  "tr": ""
+ }
+]

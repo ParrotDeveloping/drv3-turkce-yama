@@ -1,0 +1,57 @@
+@ chap2_text_US
+## c02_003_001
+2|<CLT=cltMIND>...Bodrumda gizemli nesneler olduğunu\nhatırlamıyorum. Başka bir yere bakmalıyım.
+## c02_003_002
+0|Demek sonunda başını kaldırmaya karar verdin.
+2|Düne kadar hep ayaklarına bakarak\nyürüyordun, değil mi?
+3|Yukarı bakman gerektiğinde bile görmek istemediğin\nşeyleri şapkanla örtüyordun...
+4|<CLT=cltMIND>Bunu inkâr edemem...
+5|Bu dünya, uzun süre aşağı bakmış gözler için\nfazla büyük ve parlak olabilir.
+6|O yüzden dikkatli ol. Gözlerinin seni\naldatmasına izin verme...
+7|Evet...haklısın.\nTeşekkürler.
+8|Hıh...istenmemiş tavsiye için kusura bakma.
+9|Ne oldu? Şu anki işin o hurdaların ne işe\nyaradığını bulmak, değil mi?
+10|Benimle konuşarak vakit kaybedemeyecek\nkadar meşgulsün.
+11|O heykelin tuhaf olduğunu düşünmüştüm...\nAma bunu yapacağını kim tahmin edebilirdi?
+12|Shuichi, Gonta'nın yapabileceği bir şey var mı?\nLütfen söyle!
+13|Ah, bu bölgeye bakmaya geleceğini biliyordum.\nO ejderha heykeli epey şüpheli görünüyor.
+14|Acaba Monokuma bizden ne yapmamızı\nistiyor...?
+16|Bize o eşyaları verip okulu aratmasının\nsebebini kavrayamıyorum...
+17|Hm, şimdi düşünüyorum da okul yönetmeliği\nde okulu aramaktan bahsediyordu.
+18|"Asgari kısıtlamalarla kampüsü dilediğiniz gibi\nkeşfetmekte özgürsünüz"...
+19|Bu kural bizi dolaylı olarak okulu aramaya\nteşvik ediyor.
+20|<CLT=cltMIND>Evet, sanırım bu doğru...
+21|Aramamızdan ne çıkacak...?\nVe herkes buna nasıl tepki verecek?
+22|Ben de her birini yakından\ngözlemleyeceğim... Kehehe...
+23|Aramamızdan ne çıkacak...?\nVe herkes buna nasıl tepki verecek?
+24|Ben de her birini yakından\ngözlemleyeceğim... Kehehe...
+25|Oo? Gizli bir geçit miydi...?\nAman, ne ayrıntılı.
+26|Yaran iyileşti mi?
+27|Yara mı...?
+28|Dün akşam Kaito sana vurduğunda.
+29|Ah, evet, iyiyim.\nMorarmadı falan, bak?
+30|Güzel. Tekrar ağrımaya başlarsa lütfen\nbana haber ver.
+31|Ameliyat yapamasam da depodaki tıbbi\nmalzemeleri kullanabilirim.
+32|Senin tıbbi deneyimin de mi var, Kirumi?
+33|Gerçek bir hizmetçi her duruma uyum\nsağlayabilmelidir. Ayrıca...
+34|Ben de Kaede'nin isteğini yerine getirmeyi düşünüyorum.\nO yüzden önemli önemsiz her görevi yiğitçe yapacağım.
+35|Kirumi...
+36|<CLT=cltMIND>Görünüşe göre herkes Kaede'nin son\ndileğini kalbine almış.
+37|<CLT=cltMIND>Kaede artık bizimle olmasa bile...\n<CLT=cltSTRONG>Kaede'nin dileği<CLT=cltMIND> asla yok olmayacak!
+38|Ben de Kaede'nin isteğini yerine getirmeyi düşünüyorum.\nO yüzden önemli önemsiz her görevi yiğitçe yapacağım.
+39|Bu hasarlı duvardan durgun bir hava\nsüzülüyormuş gibi hissediyorum...
+40|Sanki uzun zamandır kimse bu noktanın\nötesine ayak basmamış gibi...
+41|...Şimdi daha iyi görünüyorsun.
+42|Kaede'nin ölümünü bu kadar çabuk\natlatacağını düşünmemiştim.
+43|...Boş boş duracak vaktimiz yok.
+44|...Ne kalpsizce. Demek ikiniz göründüğünüz\nkadar yakın değilmişsiniz.
+45|Bu doğru değil, devam etmek zorunda olmamın\nsebebi Kaede'nin bana verdiği dilek...
+46|<CLT=cltMIND>Bir söz verdim...pes etmeyeceğime dair.
+48|...Durmaya vaktin var mı? Acele et de bütün\no hurdalara bir kullanım bul.
+49|Göklerdeki Atua...\nLütfen Rantaro'yu krallığına kabul et...
+50|Ah, pardon, dua ediyordun...
+51|Herkes Kaede için o kadar üzgün ki\nRantaro'yu unuttular.
+52|O yüzden onun için dua etmeye devam edeceğim.
+53|H-Hayır, unuttuğumuzdan değil!
+54|Sorun değil. Dua edersem puan kazanmam\ndaha kolay oluyor.
+55|Platin üyeliğe giden kestirme yol!

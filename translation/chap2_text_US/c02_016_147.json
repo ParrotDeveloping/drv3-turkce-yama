@@ -1,0 +1,62 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>There's a lot of washing machines here...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>These are some powerful cleaning tools. You\ncould get a lot of cleaning done with these.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>It's just a monitor. Even if I investigate,\nI don't think I'll find anything suspicious...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Maybe there's a camera in here,\nwatching us... Maybe not.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>This closet has vacuum cleaners\nand a high-powered pressure washer.\n",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>You could get a lot of\ncleaning done with these...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>There's a doll at the dining table...\nPerhaps a family dinner?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>But it's kind of...depressing.",
+  "tr": ""
+ }
+]

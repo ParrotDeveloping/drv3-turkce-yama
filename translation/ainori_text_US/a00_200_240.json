@@ -1,0 +1,42 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>Did you have fun?\nYou can trade coins for prizes!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Would you like to finish playing today\nand get ready for tomorrow?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Monitor",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "[Tentative] Coin Exchange",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "[Tentative] Prize Exchange Booth",
+  "tr": ""
+ }
+]

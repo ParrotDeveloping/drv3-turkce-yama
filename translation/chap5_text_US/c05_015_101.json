@@ -1,0 +1,122 @@
+[
+ {
+  "id": 0,
+  "en": "First, we need to charge the Electrohammer...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>But I shouldn't just stand around, waiting.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I need to make up for lost time...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>There has to be something I can do.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Nice job, Mister <CLT=cltSTRONG>Ultimate Detective<CLT=typeNORMAL>.\nThat was a wise call, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "But your talent is useless now.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "The mystery of the killing game, the secret of\nthe outside world, the mastermind's identity...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "They're all solved! We don't need a detective\nanymore! This is the true <CLT=cltSTRONG>ending<CLT=typeNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>No, that's not true...\nThere has to be something I can do.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...Right, I should scout the area.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>It would be a good idea to check out\nthe scene before we execute the plan.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>And...I'm worried about Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>He's hurt, and...he's sick...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>I'm sure he doesn't want me to worry\nabout him, but...I have to.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Alright, I'll go.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>How many more nights do I have to\nsleep in this bed? I'm so...sick of it!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>They went through all this just for a\nkilling game? What is their objective...?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>We're going to use this tomorrow.\nI have to make sure mine charges.",
+  "tr": ""
+ }
+]

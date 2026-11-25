@@ -1,0 +1,637 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Event window test.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Normal window test.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Let's take a looksie at Shuichi's affection level!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Whaaat!? There's nothing there!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "You can do better than this, right?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "This is child's play.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Puhuhuhu...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "You're halfway there, huh?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "The main event is about to start.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Phew... You've come a long way.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Yesterday you said tomorrow!\nJUST! DO IT!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "You're like an old married couple.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "This is fantastic!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Choice 1",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Choice 2",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Choice 3",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>Students must live at the Ultimate Academy for\nthe remainder of their foreseeable future.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Once a murder takes place, all surviving\nstudents must participate in a class trial.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>If the blackened is exposed during the class\ntrial, they alone will be executed.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>If the blackened is not exposed, all remaining\nstudents will be executed.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>If the blackened survives the class trial, they\nwill graduate and re-enter the outside world.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>The killing game and class trials will continue\nuntil only two surviving students remain.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>\"Nighttime\" is from 10 p.m. to 8 a.m. The dining\nhall and gymnasium are off-limits at night.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>Monokuma will never directly commit\na murder.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>Your Monopads are very important items.\nPlease do not damage them.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>The Body Discovery Announcement will play\nwhen three or more students discover a body.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>With minimal restrictions, you are free to\nexplore the campus at your discretion.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Students who violate these rules will be\nimmediately exterminated by the Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>Is this real...?\nAre we really in a killing game?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Stop messing around with us... I will...\nnever...ever participate in a killing game—",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "[Tentative] Title Ch. 1 \"My Class Trial,\nOur Class Trial\" (Non) Daily Life",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "The Ultimate Academy for Gifted \nJuveniles School Regulations...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Who would force us to play a game like this?\nAnd why, for that matter...?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Who cares? It seems totally unboring.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Wh-What about this could you like!?\nThis is the worst!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Kehehe... Don't raise your voice so.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Hey, hey! What does this sixth regulation\nmean?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "The killing game and class trials will continue \nuntil only two surviving students remain.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Only <CLT=cltSTRONG>two surviving students<CLT=cltNORMAL>?\nWhat would be the reason for that?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Perhaps it's because you couldn't\ndo a trial with just two people...?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Ohhh, I see.\nYou're so smart, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Killing game... School Regulations...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Quit screwing around! Who'd go along \nwith something like that!?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Kaito raised the Monopad as if to smash the\ndevice onto the ground.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Whoa, hey now, don't do that.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "School rules say you can't break it.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "If you violate the rules,\nthen the Exisals will punish you...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Shut up! I don't care! No way I'm gonna \ngo along with this messed up game!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "This isn't about \"going along\" with him.\nIt's too dangerous to disobey him now.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Forget about him! Just means one less\ndumbass for the world to deal with!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Hey! Who you callin' a dumbass!?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>I inhaled, and then shouted with all my might.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Geez! We don't have time to fight!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Whoa! Wh-What the!?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "We shouldn't be fighting among friends!\nAt times like these, we need to cooperate!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Honestly... Rather than giving a speech,\nit would be way faster if I played a song.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Chopin's \"Military Polonaise\" would definitely\nhelp solidify our bond!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Yeah, bolognese is pretty good.\nEven though I'm not fond of meat or tomatoes.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "I also agree with Kaede!\nWe can't fight among friends!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Master told me we must aim our strength\nat the right direction!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "A-Anyway...you're all panicking too much...\nJust...stay calm...like me...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Wow! You're shaking so much!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Even I can't handle these intense vibrations!\nAnd trust me—I've got loads of experience!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "...Wh-What does that mean?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Anyway...let's work together and look for\nthe exit again.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "But...we looked all over that wall \nand there wasn't a single hole.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Hm? Now wait just a second.\nIf there's no opening in the wall...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Then...how did we get inside these\nwalls in the first place?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Huh...? Oh, that's right, isn't it?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Then that means...there has to be a hole\nsomewhere! We just need to look for it!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Whoever trapped us in here wants us to\nfight each other, but...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "That won't happen! We'll show you!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "We won't fight each other!\nInstead, we'll work together!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Why are you quiet...?\nDid I say something wrong?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "No, that is not it.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "You have stated everything in a straight-forward\nmanner, so there is nothing else to say.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "You're exactly right!\nWe can't give up so easily!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Yeah, that's right!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "We should split up and try to find the exit!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "...Oh, um, can Gonta say something?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Why? We were just getting \nready to go.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Ummm... Is probably nothing, but...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Gonta...found manhole in grass.\nBehind school building.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "A manhole?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Yeah. Looked like underground passage.\nGonta thought it might be exit...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...No. Is probably not so simple.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Gyaaaaaa! You gotta mention that kind of\nimportant stuff faster!",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Yeah. Lookedlikeundergroundpassage.\nGontathoughtitmightbeexit...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Wait, not like that! You're talking too fast!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Anyway, let us go and confirm it. It is behind\nthe school, correct? Please guide us, Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "O-Okay! Follow Gonta!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>With Gonta at the lead, everyone scurried\nout of the gym.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>Just when I was about to follow after them...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "...Kaede, that was pretty cool back there.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Huh? About what?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "The way you changed the mood back there.\nLooks like everyone's looking up to you.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "L-Looking up to me... You're exaggerating.\nI just said what was on my mind...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "So it just comes naturally to you, then.\nThat's even more cool.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "You have what it takes to win...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "I was just thinking, what you said back there\nwould have pissed off whoever's running this.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "They definitely don't want us\nholding hands, workin' together...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "...They're going to come for you, Kaede.\nWith everything they've got.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "I'm a little worried about you.\nYou're just so...straightforward.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "And there he goes...\nI wish he wasn't so cryptic...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Ah, perhaps it's a warning?\nThat's what I think, anyway...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Being strong willed could get you\ninto a lot of trouble around here...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Ah, s-sorry... I didn't mean to sound\nso negative at a time like this.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "No, don't worry.\nYou only told me because you're worried, right?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Yeah... Rantaro is a mystery.\nHe forgot his Ultimate talent as well...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Is that something you\ncan really...forget?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Well, there's no point thinking about it.\nAnyway, we should head to where the manhole is.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Ah, you're right...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "[Tentative]",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Rantaro really is a mystery...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Anyway, we should head to where the manhole is.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Ah, you're right...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Monitor",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Basket Goal_right",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Basket goal_left",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Scoreboard",
+  "tr": ""
+ }
+]

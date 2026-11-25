@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>\"Dining Hall Rules\"",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>\"You may eat any food you\nfind in the dining hall.\"",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>\"Please take responsibility for all utensils and\ndishes used and clean up after yourself.\"",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>\"The dining hall will be locked\nduring nighttime.\"",
+  "tr": ""
+ }
+]

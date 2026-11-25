@@ -1,0 +1,51 @@
+@ game_resident_US
+## A-PresentSetumei
+94|Yatma vakti gelince evreni yatak odanın duvarlarına\nyansıtabilen mini bir planetaryum makinesi. Popüler bir \nseslendirme sanatçısının anlatımıyla birlikte geliyor.
+95|Sahibine şansının döneceğini hissettiren parlak bir\ndüğme. Güçlü bir şans dalgası çekebilir de,\nçekmeyebilir de.
+96|Mutfak lavabosundaki her türlü pisliği, hatta musluktaki\nkiri bile temizleyen bir temizlik bezi. Robotları\ntemizlemek için de kullanılabilir.
+97|İki direk ya da ağaç arasına ağ gerilerek yapılan bir\nyatak. Böyle birinde uzanmak herkesin en az bir kez \nhayalini kurduğu bir şeydir.
+98|Sprey oda kokusu. İçine kutsal su karıştırılmış \nve hayaletleri ve doğaüstü varlıkları uzaklaştırdığı söylenir.
+99|"Seviyor, sevmiyor, seviyor..." Çiçek falı için kullanılan \nyapay bir çiçek. Karşılıksız aşkın acısını dindirmek için\ntek sayıda yaprağı var.
+100|Renkli çiçekler açan kadife çiçeği tohumları. \nBu arada kadife çiçeği "umutsuzluğu" simgeler.
+101|Dört taş, dört kâğıt ve dört makas içeren bir kart \nseti. Bu oyuna hayatını ortaya koyarsan\nheyecanlı bir psikolojik savaş olabilir.
+102|Saygın vatandaşların asi ya da mutsuz insanları cezalandırmak\niçin kullandığı bir lazer tabancasının kopyası. Bunu yanında\ntaşırken katsayına dikkat et.
+103|Bir akademinin öğrenci kimliğinin kopyası. Yetenekli öğrenci\nsayısı kadar farklı kimlik tasarımı var.
+104|Monokuma kulaklı bir saç bandı. Takınca beyin dalgalarını\nalgılar ve kulaklar duygularına göre kıpırdar.
+105|Umut ve umutsuzluğun parti oyunu. Kart çek, karakterlere\nbürün ve çıkarım yapıp tartışmaya başla! Şimdi satışta!
+106|Son derece kullanışlı bir uzanma maşası. Bir kez\nkullanınca onsuz yaşayamazsın.
+107|Pirinçten yapılmış oyuncak bloklar, bu yüzden bebeklerin\nağzına alması güvenli. Ama hemen yenmezlerse\nbozulurlar.
+108|Mükemmel yalıtım sağlayan alüminyum folyo. Üstüne sarınca\nvücudunu ısıtır, bu da onu açık hava etkinlikleri için\nkullanışlı yapar.
+109|Buzu otomatik olarak rendeleyip üzerine çilek şurubu\ndöken bir buz rendeleme makinesi.
+110|Hayalî bir silahın maketi. Güçlü ama sadece layık olanlar\nateşleyebilir. Bir erkeğin fantezisini hissetmek için sarıl. Hediye\nedebilirsin ama saklarsan iyi bir şey olabilir.
+111|Sıradan insanları tek darbede alt edebilecek kutsal bir güç\nbarındıran süs katanası. Hediye edebilirsin ama \nsaklarsan iyi bir şey olabilir.
+112|Karate kıyafetiyle takılan siyahımsı bir kuşak. Sadece kalbinde\nadalet olanlar takabilir. Hediye edebilirsin ama\nsaklarsan iyi bir şey olabilir.
+113|Kaito'nun en sevdiği boxer. Evren en önemli yerlerde\nhep yanıyor.
+114|Ryoma'nın en sevdiği slip. Ulusal bir tenis\nturnuvasında herkesin iç çamaşırına kadar beyaz\ngiymesi zorunluydu.
+115|Rantaro'nun en sevdiği boxer. İlk bakışta sade görünüyor\nama dokununca kaliteli bir kumaştan yapıldığı\nanlaşılıyor.
+116|Gonta'nın en sevdiği peştamal. Bir süre özel dikim slip giydi\nama ormanda büyüdüğü için dar iç çamaşırına\nalışamadı.
+117|Kokichi'nin en sevdiği moda iç çamaşırı. Görünmeyen yerde\nfarklı olmak gerçek modanın ta kendisidir.
+118|Korekiyo'nun en sevdiği bikini altı. Ağırbaşlı rengi ve \nseksi biçimi insanlığın güzelliğini temsil ediyor.
+119|Keebo'nun beline yerleştirilmiş parçalar. Vücudunun hassas\nkısımlarını sıcaklık ve nemden korur. Her gün değiştirilmesi\ngerekir ama yıkandıktan sonra tekrar kullanılabilir.
+120|Kirumi'nin en sevdiği külot. Koyu mor dantelli zarif \nbir iç çamaşırı.
+121|Himiko'nun en sevdiği külot. Bir büyülü kıza saygısından \nbalkabağı külot giyiyor.
+122|Maki'nin en sevdiği külot. İçinde rahat hareket edilir ve\nyanından bağlanır.
+123|Tenko'nun en sevdiği külot. Tayt olsa da üzerine basılı küçük\nJapon çiçekleri onun kadınsılığını yansıtıyor.
+124|Tsumugi'nin en sevdiği külot. Genelde sade külot giyer\nama bu özel günler için. Gösteriş için değil, \no yüzden külot pozu yasak!
+125|Angie'nin en sevdiği bikini altı. İç çamaşırı olmadığı için\nbiraz görünse bile hiç sorun değil.
+126|Miu'nun en sevdiği külot. Onun "dolgun, zeki, güzel tanrıça\nvücudunu" süslemeye layık özel iç çamaşırı.
+127|Kaede'nin en sevdiği külot. Mütevazı dantelli, temel ve\npopüler bir pembe renk.
+128|Dış dünyanın ölüm oyunlarını bırakıp onun yerine insan\nilişkilerini izleme isteğini yansıtan bir minder.\n"Evrenler Arası Aşk"ın kilidini açar.
+129|Açgözlülük ve şehvetle dolu bir yerin anahtarı. Hediye\nedebilirsin ama saklarsan iyi bir şey olabilir.
+130|İnsanların hayatını etkileyebilen inişli çıkışlı şanslı bir\nrulet. "Ultimate Yetenek Geliştirme Planı"nın kilidini açar.
+131|Bütün dünyayı kaplayan umutsuzluğu ikiye böldüğü söylenen\nefsanevi bir kılıç. "Monokuma'nın Sınavı"nın kilidini açar.
+132|Prologu bitirdiğinin kanıtı. Ultimate Akademisi armasını \ntaşıyan bir rozet. Görünüşe göre dünyada sadece \n16 tane var.
+133|1. Bölüm'ü bitirdiğinin kanıtı. Kaede'den bir hatıra.\nNe kadar zor olursa olsun kalbinde hep derin bir melodi\nçalıyordu...
+134|2. Bölüm'ü bitirdiğinin kanıtı. Kirumi'den bir hatıra.\nHerkes için çalışırken onları hep takardı.
+135|3. Bölüm'ü bitirdiğinin kanıtı. Korekiyo'dan bir hatıra.\nAğzı ve boynu görünmesin diye kapatır.
+136|4. Bölüm'ü bitirdiğinin kanıtı. Gonta'dan bir hatıra.\nBöceklere bakacak kimse kalmayınca boş kaldı.
+137|5. Bölüm'ü bitirdiğinin kanıtı. Kaito'dan bir hatıra.\nEvrene dair hayallerini tasvir ediyor.
+138|6. Bölüm'ü bitirdiğinin kanıtı. Tsumugi'den bir hatıra.\nTeam Danganronpa çalışanlarının taktığı bir rozet.
+139|Epilogu bitirdiğinin kanıtı. Bir Danganronpa'nın sonunda \nverilen geleneksel eşya.
+140|Shuichi'nin en sevdiği iç çamaşırı. Ekose desenin suçluları\nya da dedektifleri temsil ettiğini falan sanma.
+141|"Evrenler Arası Aşk" şovunda kullanılan bir bilet.\nSadece Dostluk Parçası topladığın biriyle\nkullanabilirsin.
+142|Şüpheli görünümlü bir enerji içeceği. Enerjini yüz kat \nartırmakla kalmaz, zamanın kendisini de \nmanipüle edebilir.

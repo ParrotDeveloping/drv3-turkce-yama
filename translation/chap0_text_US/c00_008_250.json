@@ -1,0 +1,757 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Kapıları açtığımızda bizi hemen \nkarşılayan şey...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Mavi gökyüzü.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Parlak güneş ışığı.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Hafif bir rüzgar.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Ve—",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "B-Bir kafes mi...? Bir duvar mı?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>İki kelime de doğruydu.\nKarşımızda duran şey hem kafes hem duvardı.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Her halükarda o devasa duvar içimde\nkorkunç bir tel titretti.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Heybetli varlığını görmek bile içimde panik\ndalgaları uyandırmaya yetiyordu.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Nereye bakarsak bakalım—önümüze,\narkamıza, yukarıya ya da etrafa...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Kafes bütün <CLT=cltSTRONG>okulu<CLT=cltSTRONG> çevreliyordu.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Bu da ne...? Kapana mı kısıldık!?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Neler...oluyor...?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Kafese şaşırdınız, değil mi?\nNe hissettiğinizi çok iyi anlıyorum.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "İlk gördüğümde dişlerim ve\ntırnaklarım dökülmüştü.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Bu şaşkınlığa sağlıklı bir tepki\ndeğil!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Bayov! Ama çok müthiş büyük! Neden\n<CLT=cltSTRONG>Son Duvar<CLT=cltNORMAL> dendiğini anlıyorum!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Son Duvar mı...?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Normalde duvarlar iki yeri ayırmak için\nörülür, değil mi? Ama o duvar farklı.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "O...dünyanın sonunu temsil ediyor.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Neden bahsediyorsunuz...?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...Hm? Neden bahsediyorduk *gerçekten*?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Ha? Biri mi konuşuyordu?\nBen mi konuşuyordum?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...Büii-hihi, hahahahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Gülmeyi kesin de açıklayın!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Açıklanacak bir şey yok. Durum sadece\nbu, o yüzden lütfen uğraşmayın.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Buradan çıkamazsınız.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "O duvarın ne girişi ne de çıkışı var, ayrıca\nüstüne tırmanılamaz ya da yıkılamaz.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Bir <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> muhtemelen yarısına kadar tırmanabilir\nama çoğu zaman imkansız!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...Yani yine de biraz tırmanabiliyorlar, ha.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>Derin bir nefes aldım ve duvara doğru\navazım çıktığı kadar bağırdım.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Biri!!! Yardım edin!!!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "İıh!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Lütfen!!! Yardım edin!!!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "İıh, iıh!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Biri!!! Kimse yok mu!!! Lütfen yardım edin!!!\nBu devasa kafesin içinde mahsur kaldık!!!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "İıh, iıh, iıh!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Avazım çıktığı kadar bağırdım ama...\nne kadar bağırırsam bağırayım cevap gelmedi.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Hahhh...hahhh...hahhh...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Lütfen dur! Boğazını yaralayacaksın!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Evet! İstediğin kadar bağır, zaten kimse\nseni duyamaz!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Kimse...bizi duyamaz mı?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "N-Ne demek istiyorsun?\nKimsenin bizi duyamaması da ne demek?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Bir şey söyle!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...Biriniz şuna...cevap versin!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...Kahretsin...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Monodam onları mükemmel bir şekilde görmezden\ngeliyor. Çünkü kalbini açmayı reddediyor!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Bunun için benim korkunç zorbalığıma\nteşekkür edebilirsin!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Hadi, hadi, hepimiz iyi geçinelim.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Kes sesini! Biz Monoyavrularız!\nSert falan olmamız lazım!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "B-Bu da ne?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Siz...şeyler... Bu okul...\nBütün bunlar ne?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Bunu bacaklarınızı, ellerinizi ve gözlerinizi\nkullanarak kendiniz bulmanız gerekecek, velet sürüsü.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Ama keşfederken lütfen adımlarınıza dikkat edin.\nOkul hala yapım aşamasında.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Yapım aşamasında mı?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>Etrafıma bakındım.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>Doğruydu. Bazı alanlar hala yapım\naşamasındaymış gibi görünüyordu.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Görünüşe göre buradaki bazı tesisleri\nhala inşa ediyorlar...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Bu okulu hala inşa etmenin ortasında\nmılar?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Sanmıyorum... Daha çok terk edilmiş bir okulu\nyeniliyorlar gibi görünüyor.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Her halükarda Exisal'ları otomatik pilota\nalınca inşaat yakında biter.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Exisal'lar mı?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Bir zamanlar motorcu çetesinde olan Exisal'lar, artık\neşlerine ve çocuklarına bakmak için inşaatta çalışıyor!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "...Robotların gerçekten böyle bir geçmişe ihtiyacı var mı?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Direksiyonları leopar desenli, gösterge panelleri\nde atari ödülleriyle dolu!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Cidden, kesin şunu! Böyle geçmişlerle\nkendini bilmez heriflere benziyorlar!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Yine başladılar...\nAma daha önemlisi...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>Söyledikleri şey...gerçekten doğru mu?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>Kaçamıyor muyuz...?\nO duvarın üstünden geçemiyor muyuz...?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>Ve...kimse bizi kurtarmaya gelmiyor.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "...Ama şimdi pes edersem ne olacak!?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>İki yanağıma birden şaplak attım, yüzüm ısınırken\nkararlılığımın geri geldiğini hissettim...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Hey, Shuichi! Gidip bir çıkış yolu\nbulabilecek miyiz bakalım!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>Dikkatini çekecek kadar kafasına\nhafifçe bir şaplak attım.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Ay!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Shuichi...başkalarını motive etmekte pek iyi\ndeğilimdir... Ama bir duvar yüzünden pes edemeyiz.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Bir yerden girdik, demek ki bir çıkış\nda olmalı!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltSTRONG>Şimdi<CLT=cltNORMAL> kaçamayabiliriz ama eninde\nsonunda bir şekilde kaçacağız...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Hepimiz buradan çıkmak istiyorsak herkesin\nişbirliği yapması lazım!",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>Evet, doğru.\nPes etmek için çok erken.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>Çok erken.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Tanrım... Bu koca duvarı nasıl\nyapmışlar ki?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Cidden...hiç anlamıyorum.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Şimdi ne olacak acaba...\nKaçamazsak o zaman—",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Ne o, şikayet mi ediyorsun?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Ha?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Şikayet edip söylenmeyi bırak, \nyoksa alışkanlık haline gelir.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Hem bu kafes evrenin genişliğinin \nyanında hiçbir şey!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Ha? Evren mi?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Hay aksi, kendimi henüz tanıtmadım.\nBenim hatam.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Ben Kaito Momota, Yıldızların Işığı! Ağlayan\nçocuklar bile <CLT=cltSTRONG>Ultimate Astronot<CLT=cltNORMAL>'a bayılır!",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Nasıl ama!? Ben bir astronotum!\nHavalı değil mi!?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "E-Evet... Hiç uzaya gitmedim, o yüzden\npek bir şey bilmiyorum...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Haha! Tabii ki!\nOraya herkes çıkamaz!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Astronot olabilirim ama...\naslında hala eğitimdeyim.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Ah, anlıyorum. Demek hala stajyersin...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Ama sınavı geçen ilk genç benim!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Yani normalde sınava girebilmek için \nüniversite diploması gerekiyor.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Ha? O zaman sınava nasıl girdin?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Epey becerikli bir arkadaşım vardı...\nBenim için bazı belgeler sahteletti.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Bu yasa dışı!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Evet, sonunda yakalandım.\nBaşım fena halde belaya girmişti!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Ama yukarıdakiler beni sevdi ve yine de kabul\nettiler. Tabii sınavı da parlak bir şekilde geçtim.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "B-Bu çok pervasızca...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Bazen hayallerini gerçeğe dönüştürmek için \nbiraz pervasız olmak gerekir!",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Üniversiteden sonrasını bekleyemem! \nUzaya olabildiğince hızlı gitmek istiyorum!",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...Sende epey...enerji var.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Evet, herkes bana imkansız dedi ama \nhiç pes etmedim! Bir an bile!",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Çünkü...sınırları kendin koymadıkça \nsınır diye bir şey yoktur!",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Aşamayacağın duvar yoktur!\nŞu duvar için de aynısı geçerli!",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Peki bir fikrin var mı?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "M-Mesele o değil!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>Şey...hayır, mesele *tam olarak* o.\nTanrım, bu adam amma büyük konuşuyor.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltSYSTEM>Kaito'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Aşamayacağın duvar yoktur!\nÇıkış yolunu sonra düşünürüz!",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "O yüzden şikayet ettiğini ya da söylendiğini\nduymayayım!",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>Bence çıkış yolunu düşünmenin tam\nzamanı *şimdi*...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>Dışarıya bakmalıyız.\nBir yerlerde bir çıkış olmalı!",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>Okul binasına buradan girilebilir gibi\ngörünüyor ama kapatılmış...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltSYSTEM>*tık...tık...*",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Sanırım bu açılmıyor...\nBaşka bir yere bakalım...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Sanırım öyle...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltSYSTEM>*tık...tık...*",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Sanırım bu açılmıyor...\nBaşka bir yere bakalım...",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Sanırım öyle...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Bu bir kapı, değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Öyle görünüyor...\nAma devasa!",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Evet, dev bir şatoda falan göreceğin\nbir kapıya benziyor.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Bu kapı nereye çıkıyor olabilir...?",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Bunun ötesinde ne var acaba.\nBelki çıkış?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Bu...tuhaf anıt da ne?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Anıtlar genelde önemli bir kişiyi ya da\nen azından ilham verici bir sözü tasvir eder...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Bir okulda böyle bir şey bulmak\nkesinlikle tuhaf...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Şuradaki bir kapı mı?",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Bitkiler yolu kapatıyor...\nGeçebileceğimizi sanmıyorum.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Tanrım, her yerdeler! Bir şey yapamaz\nmıyız? Ya bir çıkışı kapatıyorlarsa!?",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "...Çıkış olduğunu sanmıyorum.\nMuhtemelen başka bir binaya açılıyordur.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "B-Biliyorum...ama yine de mümkün\nolabilir, değil mi...?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Peki, bu ne...?",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Şeyy, bir tür çıkıntıya benziyor...\nNe olursa olsun önemli görünüyor.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Sence yanındaki o büyük kapıyla bir\nbağlantısı olabilir mi?",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Belki... Ama kesin bir şey söyleyemeyiz.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Aşk Süiti",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Aşk Süiti",
+  "tr": ""
+ }
+]

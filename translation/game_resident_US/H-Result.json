@@ -1,0 +1,122 @@
+[
+ {
+  "id": 0,
+  "en": "Score",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Time Remaining",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Logic Difficulty",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Action Difficulty",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<DIG=●>",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<DIG=●>：<DIG=●>：<DIG=●>",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Kind",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Mean",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Normal",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "x0.9",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "x0.2",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "x1.3",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "x0.9",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "x0.2",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "x1.3",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Nonstop Debate",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Rebuttal Showdown TRUTH SWORD",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Psyche Taxi",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Hangman's Gambit ver 3.0",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Mind Mine",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Argument Armament",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Debate Scrum",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Closing Argument",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Mass Panic Debate",
+  "tr": ""
+ }
+]

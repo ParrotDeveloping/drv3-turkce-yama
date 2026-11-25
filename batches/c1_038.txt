@@ -1,0 +1,65 @@
+@ chap1_text_US
+## c01_027_251
+8|<CLT=cltMIND>Üç kamerayı çantamdan çıkarıp Miu'ya\nverdim.
+9|Kh! Tek kullanımlık fotoğraf makinesi mi!?
+10|Tek kullanımlık fotoğraf makinelerini değiştirmek\nsenin için çok mu zor?
+11|Ha!? Kuş gözlemcilerine salak kuşlara nasıl\nbakılacağını bilip bilmediklerini mi soruyorsun!?
+12|Tabii ki yapabilirim! Çocuk oyuncağı!
+13|Ah, işte güvenlik sensörleri...
+14|Yani bu sensörleri kullanarak kameraların\n<CLT=cltSTRONG>otomatik fotoğraf çekmesini<CLT=typeNORMAL> sağlamamı istiyorsun, değil mi?
+15|Düşündüm ki...<CLT=cltSTRONG>kamera güvenlik sensörüyle\ntetiklenebilir<CLT=cltNORMAL>.
+16|Yani sensör hareket algılarsa alıcı çalar\nve deklanşör devreye girer.
+17|Mümkünse böyle çalışmasını istiyorum.
+18|<CLT=cltMIND>Bunu duyunca Shuichi'nin kulağına\nfısıldadım.
+19|Bunu ne için kullanacaksın?
+20|Hareketli kitaplığa\nkuracağım.
+21|Böylece alıcı yanımızda olduğu sürece\nher yerden gözetleyebiliriz.
+22|Biri kitaplığı oynatırsa alıcı bize haber\nverir, değil mi?
+23|Ve sensöre bağlı kamera da kitaplığı oynatan\n<CLT=cltSTRONG>kişinin<CLT=cltNORMAL> fotoğrafını çeker.
+24|Ah, anlıyorum.
+25|Hey, siz ikiniz ne fısıldaşıyorsunuz?
+26|Hiç.
+27|Ayrıntıları buraya yazdım...
+28|Otomatik fotoğraf çeken, dahili güvenlik\nsensörlü iki kamera...
+29|Ve otomatik fotoğraf çekerken sensör\nalıcısını tetikleyen üçüncü bir kamera.
+30|...Bunlara ne kadar çabuk ihtiyacınız var?
+31|Onları...yarın sabaha kadar yapabilir misin?
+32|Tabii ki yapabilirim! Beni bağlayıp üstüme sıcak\nmum damlatsanız bile zamanında bitiririm!
+33|<CLT=cltMIND>Bu cüretkâr açıklamayla Miu kapıyı\nyüzümüze çarptı.
+34|Az önce bize bazı fantezilerini mi açıkladı...?
+35|Neyse...sanırım bu iş görür.\nSadece Miu'nun bitirmesini beklememiz lazım.
+37|...Kaede, ne oldu?
+38|Hiç. Sadece bu planı bulduğun için ne kadar\nharika olduğunu düşünüyordum, Shuichi.
+40|Açıkçası...seninle ilk tanıştığımda bu kadar\ngüvenilir olacağını düşünmemiştim...
+41|Ama şimdi bana bak, sanki Sherlock Holmes'muşsun\ngibi sana güveniyorum.
+42|Ah...evet.
+43|<CLT=cltMIND>Ayrı yollara gidip odalarımıza\ndöndük.
+## c01_028_001
+0|<CLT=cltMIND>Erkekler tuvaletinin etrafında dolaşırsam\ninsanlar tuhaf olduğumu düşünecek...
+## c01_028_002
+0|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in laboratuvarı, ha?
+## c01_028_031
+4|<CLT=cltMIND>Aynı zamanda LCD ekran olan bir kara tahta, ha?\nBunu havalı olmaktan çok itici buluyorum...
+## c01_028_100
+13|<CLT=cltSYSTEM>*tak, tak*
+16|<CLT=cltSYSTEM>*tak, tak*
+## c01_028_116
+0|<CLT=cltMIND>Süre yarın gece vakti doluyor.\nBugün etrafta dolaşmak için son şansım.
+1|<CLT=cltMIND>Önemli bir şeyi yapmayı unutmadığımdan\nemin olmalıyım.
+7|<CLT=cltMIND>Önemli bir şeyi yapmayı unutmadığımdan\nemin olmalıyım.
+11|<CLT=cltSYSTEM>Yatakta dinlenmek ister misin?\nDinlenirsen Serbest Zaman biter.
+## c01_028_251
+2|<CLT=cltMIND>Miu'dan kameraları değiştirmesini istedik...
+3|<CLT=cltMIND>O yüzden şu an onu rahatsız etmemeliyim.
+4|<CLT=cltMIND>Miu'dan kameraları değiştirmesini istedik...
+5|<CLT=cltMIND>O yüzden şu an onu rahatsız etmemeliyim.
+## c01_029_001
+0|<CLT=cltMIND>Erkekler tuvaletinin etrafında dolaşırsam\ninsanlar tuhaf olduğumu düşünecek...
+## c01_029_002
+0|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in laboratuvarı, ha?
+## c01_029_031
+4|<CLT=cltMIND>Aynı zamanda LCD ekran olan bir kara tahta, ha?\nBunu havalı olmaktan çok itici buluyorum...
+11|<CLT=cltMIND>Ne tuhaf bir kara tahta...
+## c01_029_100
+6|<CLT=cltSYSTEM>*tak, tak*
+19|<CLT=cltSYSTEM>*tak, tak*

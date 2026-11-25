@@ -1,0 +1,52 @@
+@ chap1_text_US
+## c01_100_019
+218|Çarpıtılmış bir gerçeği düzeltmek için \ndaha da güçlü bir şeye ihtiyacın var.
+220|Yani <CLT=cltSTRONG>kanıtsız tanıklıklar<CLT=cltNORMAL> güçsüzdür.\nDikkatli ol.
+222|Dünyanın işleyişi şöyledir: <CLT=cltSTRONG>konuşan \nkazanır<CLT=cltNORMAL>. Gerçek kolayca çarpıtılabilir.
+223|Çarpıtılmış bir gerçeği düzeltmek için \ndaha da güçlü bir şeye ihtiyacın var.
+224|Yani <CLT=cltSTRONG>kanıtsız tanıklıklar<CLT=cltNORMAL> güçsüzdür.\nDikkatli ol.
+226|Gonta Gokuhara ile Konuşma
+227|Kokichi Oma ile Konuşma
+230|Suçlu neden ortaya çıkıp İlk Kan\nAyrıcalığı'ndan yararlanmadı?
+232|Suçlu hayatta kalmak için öldürmüş olmalı,\nbu yüzden ortaya çıkmaması tuhaf.
+233|Doğru... Bunun anlamı ne acaba...
+234|Birkaç ihtimal düşünebiliyorum\nama en kötü senaryo...
+235|...suçlunun amacı <CLT=cltSTRONG>hayatta kalmak<CLT=cltNORMAL> değil,\n<CLT=cltSTRONG>buradaki herkesi öldürmekti<CLT=cltNORMAL>.
+236|H-Herkesi mi!?
+237|Bu, sınıf duruşması uğruna kendi hayatta\nkalmasından neden vazgeçtiğini açıklardı.
+238|Ama...bu biraz zorlama gibi gelmiyor\nmu sana?
+239|Eh, suçlu aynı zamanda beyinse bu\nkesinlikle akla yatkın.
+240|Ş-Şey, doğru... Hepimizi öldürmek beynin\nyapacağı bir şey gibi görünüyor...
+241|O yüzden bu savaşı kaybedemeyiz... Bu bilinmeyen\nyolda bile yolumuzu bulmalıyız.
+242|Beynin amacı hayatta kalmak değil,\nhepimizi öldürmek.
+243|Bu, sınıf duruşması uğruna kendi hayatta\nkalmasından neden vazgeçtiğini açıklardı.
+244|O yüzden bu savaşı kaybedemeyiz... Bu bilinmeyen\nyolda bile yolumuzu bulmalıyız.
+248|Rantaro'yu kimin öldürdüğünü bilmiyorum ama \nbunun olmasının suçu Monokuma'da.
+249|Bizi baskı altına aldığı için...bu oldu.
+250|Bize verdiği o <CLT=cltSTRONG>motif<CLT=cltNORMAL> bunun bir parçası,\no tuhaf müzik de öyle...
+251|O müziği bizi hasta etmek ve öldürme isteği \nuyandırmak için o kadar yüksek sesle çaldı...
+252|Berbattı...\nDelireceğimi sandım.
+253|Bahse girerim...biri bundan baskı hissedip \nRantaro'yu öldürdü...
+254|Hepsi...Monokuma'nın suçu.
+256|Neyse...burada işlenen son cinayet bu olsun\ndiye beyni durdurmalıyız!
+257|Durdurmak zorundayız.
+259|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Tanıtım Videosu Müziği<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+260|Rantaro'yu kimin öldürdüğünü bilmiyorum ama \nbunun olmasının suçu Monokuma'da.
+261|O müziği bizi hasta etmek ve öldürme isteği \nuyandırmak için o kadar yüksek sesle çaldı...
+262|Bütün akademide çalıyordu.\nAklımı kaçırmak üzereydim.
+263|Bahse girerim...biri bundan baskı hissedip \nRantaro'yu öldürdü...
+264|Hepsi...Monokuma'nın suçu.
+266|Benimle konuşma, kasık kaşıntısı!\nLanet olsun, meşgulüm!
+267|<CLT=cltMIND>Miu bir kumandayla uğraşırken bizi\ngörmezden gelmeye devam etti.
+268|O kumanda ne için?
+269|Dın-dın-dı-dınnnn! Bu bir dron... yok, bron!
+270|Bron mu?
+271|Konuşmaya karışmak istemem ama...\n"dron" demek istemedin mi?
+272|Bron olsaydı insanlığı yok etmek için Ganglion\nittifakının geri kalanıyla güçlerini birleştirirdi.
+273|<CLT=cltMIND>Neden bahsettiği hakkında hiçbir fikrim yok...
+274|B-Bir saniye...\nKumanda...
+275|Hah-hahaha!\nŞimdi anlamaya başladın, sik kafa!
+276|<CLT=cltMIND>Rahatsız edici bir şekilde güldü ve\nparmağıyla yukarıyı gösterdi.
+277|Hah! Muhteşem dahi kız Miu Iruma'nın son\nicadına doya doya bakın...
+278|Bu bir drom!
+279|Söyledim ya, o bir dron.

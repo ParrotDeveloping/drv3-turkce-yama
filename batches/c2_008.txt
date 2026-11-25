@@ -1,0 +1,54 @@
+@ chap2_text_US
+## c02_002_010
+107|<CLT=cltMIND>Kokichi <CLT=cltSTRONG>o kelimeyi<CLT=cltMIND> söylediği anda\nsıcak ve rahat hava paramparça oldu.
+108|Ne oldu, millet? Kokichi'nin tavsiyesinde\nbir sorun mu var?
+109|Ah, Kokichi... Öyle şey şaka olarak bile\nsöylememelisin.
+110|Hm? Neyi, "<CLT=cltSTRONG>öldürmek<CLT=cltNORMAL>" mi?\nÖ-kelimesi yasaklandı mı?
+111|P-Pardon...bilmiyordum.
+112|Ama bu pek makul değil, değil mi?\nÖlüm oyunu hâlâ devam ederken.
+113|N-Nasıl bu kadar duyarsız olabilirsin...?\nÖzellikle de dün olanlardan sonra!
+114|Bu yüzden yoz erkeklerden nefret ediyorum!\nBir amip kadar düşünceliler!
+115|Korkunç bir adam sana "Senin kanın ne renk!?"\ndiye bağırırsa şikâyet etme!
+116|...Monokuma'nın sizi parmağında oynatmasına\nizin veren tam da bu tür konuşmalar.
+118|Ah, duydunuz mu? Bana aldırmayın—sadece\nkendi kendime konuşuyordum.
+119|Merhabaaaa! Görünüşe göre güzel vakit\ngeçiriyorsunuz. Ben de katılayım.
+120|Evet! Hep birlikte bana yüklenerek çok\ngüzel vakit geçiriyorlar!
+121|Bu senin suçun değil mi?
+122|...Hm? Yüklenmek mi?
+123|Zorbalık yok! Zorbalık hiç havalı değil!\nZorbalık en kötüsü!
+124|Şahsen bence zorbalık berbat ebeveynlik\nyüzünden olur.
+125|Hepsi ebeveynlerin suçu! Çocuklarını daha\niyi yetiştirmeliler!
+126|Sen neden buradasın ki?
+127|Ahh...sınıf duruşmasından sağ çıktığınız için\nsize bir <CLT=cltSTRONG>ödül<CLT=cltNORMAL> vereyim dedim.
+128|Ödül mü...?
+129|U-Uyanın ayılar...
+130|Ş-Şey... Ödül, değil mi?
+131|Biz...getirdik, evet. O zaman...b-ben sadece\nsize vereyim...
+133|Hmm? Çocuklarım biraz keyifsiz görünüyor.\nEh, yine de hâlâ lanet olası sevimliler.
+135|Sen...zorbalığa mı uğruyorsun?
+136|Gah!
+137|B-Bu...şey...
+138|Biliyordum.\nAnlıyorum...tecrübeyle.
+139|T-Tecrübeyle mi...? Himiko, geçmişte zorbalığa\nmı uğradın!?
+140|Bu yüzden mi kalbin kırık ve artık gerçek\nduygularını ifade edemiyorsun!?
+141|Gaaahhh! Sana zorbalık eden insan müsveddelerini\nbüyünle biçimsiz zavallılara dönüştür!
+142|Büyümü böyle şeyler için kullanmam.\nVe benim geçmiş hikâyemi uydurma.
+143|Ha? Dur, Monoyavrular...birbirlerine zorbalık\nmı yapıyor?
+144|O-Olamaz! Monoyavrular her zaman\nanlaşmalı!
+145|Hey, siz çocuklar birbirinizle iyi geçiniyorsunuz,\ndeğil mi!? Ben berbat bir ebeveyn değilim, değil mi!?
+146|Birbirinize çok fena zorbalık yapsanız bile\nbu kötü bir baba olduğum için değil, değil mi!?
+147|HEPİMİZ...ANLAŞIYORUZ. HER-ZAMAN.
+148|Hm? Ah, evet...anlaşıyoruz...
+149|Gördünüz mü? Çocuklarım iyi çocuklar.\nBirbirlerine asla zorbalık yapmazlar.
+150|Zorbalık asla bitmeyecek...\nsenin gibiler yüzünden.
+151|Eh, bence biz Monoyavruların yaydığı\ntehditkâr hava mükemmel.
+152|Çünkü biz sizi cehenneme sürükleyecek\nkorkunç belalılardan oluşan bir takımız!
+153|Ah-hahahaha! Ne sevimli küçük belalılar!
+154|...Neyse, hepinizin beklediği ödülleri\ndağıtacağız.
+155|Dinleyin! Çünkü size bu <CLT=cltSTRONG>muhteşem,\nsaçma sapan ödülleri<CLT=cltNORMAL> getirdik!
+156|Bir <CLT=cltSTRONG>Ejderha Mücevheri<CLT=cltNORMAL>, bir <CLT=cltSTRONG>Okarina<CLT=cltNORMAL>, bir <CLT=cltSTRONG>Antik Pasaport<CLT=cltNORMAL>\nve <CLT=cltSTRONG>bir zombi oyunundan Altıgen Kol<CLT=cltNORMAL>!
+157|Bu ödüllerin hepsi bir paket hâlinde geliyor!
+158|Vay! Ne rastgele bir hurda yığını!\nBravo, bravo!
+159|Yaşasıııın! N-Neden bunların ödül olduğunu\nanlamıyorum ama yine de çok güzel değiller mi!?
+161|Bütün bu zırvalar ne?\nBunlarla ne yapacağız?
+162|Açıkçası emin değilim. Belki ne işe yaradıklarını\nbilmeden kullanmanın bir yolu vardır?

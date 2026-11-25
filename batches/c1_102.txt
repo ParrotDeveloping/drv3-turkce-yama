@@ -1,0 +1,60 @@
+@ chap1_text_US
+## c01_230_000
+62|Bakın, kitaplar havalandırmadan Rantaro'nun cesedinin\nbulunduğu yere kadar <CLT=cltSTRONG>merdiven<CLT=cltNORMAL> gibi istiflenmiş.
+63|Ah! Shuichi haklı!
+64|Gerçekten de merdiven gibi istiflenmişler. Yerden\nyukarı bakınca fark etmemiştim.
+65|Anlıyorum, anlıyorum... Gülle bu kitapların\nüstünden yuvarlandı, ha?
+66|Evet...bundan eminim.
+67|Gülle sınıftaki havalandırma kanalına\nyuvarlandı ve kütüphanede çıktı.
+68|Izgara açık olsaydı gülle hızını\nkorurdu.
+69|Ve bunu sen yaptın, değil mi, Kaede?\nIzgaranın açık olduğundan emin oldun.
+74|Etkileyici... Gerçekten çok iyi bir hafızan\nvar, Shuichi.
+76|Gülle geldiğinde istiflenmiş kitaplar\nyönünü değiştirdi.
+77|Sonra da kitapların oluşturduğu yoldan aşağı yuvarlandı.
+78|Kitaplar, gülle düşmesin diye sıralar\nhâlinde istiflenmişti.
+79|Aynı zamanda kitaplar gülleyi görüş\nalanından gizledi.
+80|Sonra top tam Rantaro'nun üstündeyken\nyön değiştirdi...
+81|...açık kitapların oluğu boyunca yuvarlandı\nve kafasının üstüne düştü.
+82|Ve onu tam o noktaya çeken şey\nkameranın flaşıydı.
+83|Bu kadar karmaşık bir düzenek neredeyse\nbir Rube Goldberg makinesi gibi.
+84|Yani bu mekanizmayı Kaede mi kurdu?
+85|Şey, o—
+86|Durun! Rube-bilmem-ne düzeneği olsa bile\ntopu kanala ne zaman yuvarladı?
+87|Doğru! Shuichi sınıfta Kaede'yle\nbirlikte değil miydi?
+88|<CLT=cltMIND>Kaede gülleyi ne zaman\nyuvarladı...?
+89|<CLT=cltMIND>Rantaro'yu öldürmek için tam doğru\nzamanda olmalıydı.
+90|Sınıfa girdiğinde
+91|<CLT=cltMIND>Hayır, bu çok erken olurdu.\nDaha sonraki bir zaman olmalı...
+92|Şeyy... Shuichi bile bilmiyorsa bence\nbaşımız dertte.
+94|Shuichi bodruma gittiğinde
+95|<CLT=cltMIND>Hava kanalı o kadar uzun değil.\nRantaro yakındayken olmalıydı.
+96|Kaede'yle en çok vakit geçiren sen olduğuna\ngöre, Shuichi, cevabı belki sadece sen biliyorsun.
+98|Sınıftan çıkarken
+100|Hey, şimdi kapanma! Sen söyledin,\no yüzden cevabı bilmen lazım!
+102|<CLT=cltMIND>Kaede gülleyi...
+103|<CLT=cltSTRONG>Sınıftan koşarak çıktığımız<CLT=cltNORMAL> an yuvarladı.
+104|Sensör çaldığında önce ben koşarak çıktım,\nsonra Kaede peşimden geldi.
+105|Ama çıkmadan hemen önce...
+111|Haklıyım... Değil mi, Kaede?
+112|Ultimate Dedektif tabii ki bütün bunları\nhatırlar.
+113|Sözlerin ve o gülümseme...\nBu suçunu kabul etmen mi?
+114|Durun! Hemen sonuçlara atlamayın! \nBenim...hâlâ bir sürü sorum var!
+115|Nii-hihi...bu çoook tuhaf.\nNeden bu kadar çaresiz konuşuyorsun?
+116|Bunda tuhaf hiçbir şey yok!
+117|Kaede gibi birinin suçlu olacağına\ninanmamın hiçbir yolu yok!
+118|E-Evet! Gonta da inanmıyor!
+120|Merak etme, Kaede!\nAdını temize çıkaracağım!
+## c01_231_000
+0|Kütüphanede kimse yoktu! Bu da sessiz\nolması gerektiği anlamına gelir, değil mi!?
+1|Bunun yanlış olduğunu düşünüyorsan\nhadi iyi bir kanıt görelim!
+2|Tabii varsa!
+4|O gülle çok ağırdı!
+5|Havalandırma kanalından aşağı yuvarlandığını mı\nsöylüyorsun!? Eh, büyük bir gürültü çıkarırdı!
+7|Şey... Rantaro tuhaf ses duysa dikkatli\nolurdu ve yanına gitmezdi...
+8|Evet! Gonta'nın dediği gibi!\nBu yüzden Kaede masum!
+10|<CLT=cltMIND>Kütüphane sessiz değildi...\nBunu biliyorum...
+11|<CLT=cltMIND>Güllenin yuvarlanma sesi...\nBunu biliyorum...
+12|<CLT=cltMIND>Güllenin yuvarlanma sesi...\nBunu biliyorum...
+## c01_231_001
+0|<CLT=size2>Kaede'nin<CLT=size1> <CLT=size2>suçlu<CLT=size1> olduğuna\n<CLT=size2>inanmayı<CLT=size1> reddediyorum!
+1|Kaede'nin suçlu olduğuna inanmayı reddediyorum!

@@ -1,0 +1,107 @@
+[
+ {
+  "id": 0,
+  "en": "Not enough casino coins.\nWould you like to exchange Monocoins for coins?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Starting game.\nReady?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Coins you BET will be multiplied depending on\nhow well you score in OUTLAW RUN.\nAim for a high score for a big payout!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Coins you BET will be multiplied depending on\nhow well you score in TREASURE HUNTER! Monolith.\nAim for a high score for a big payout!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Coins you BET will be multiplied depending on\nhow well you score in SALMON FISHING.\nAim for a high score for a big payout!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Normal difficulty unlocked!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Mean difficulty unlocked!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Exchange how many Monocoins\nfor casino coins?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "You do not have any Monocoins...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "You have no Monocoins or casino coins!\nHere's a special present for you, the Ultimate Loser!\n\nYou obtained <DIG=●> casino coins!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Exchanging Monocoins for casino coins.\nIs this okay?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Do you want to exchange <DIG=●> casino coins\nfor this prize?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "This prize costs <DIG=●> casino coins.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "OUTLAW RUN",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "TREASURE HUNTER! Monolith",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "SALMON FISHING",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "MonoMono Slots",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Match the pattern for 1000 Monocoins!",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Match the pattern for for 20 Monocoins!\nUse no WILDs and use the Monokuma for 200!",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "All patterns will reset, but you will receive\nfewer. Use only WILDs for another change.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "If more than 3 appear, you win 5 bonus games.\nAll SCATTER will change to WILD.",
+  "tr": ""
+ }
+]

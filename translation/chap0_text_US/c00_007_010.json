@@ -1,0 +1,492 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Burası...bir yemekhane mi?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Yemekhane burayı kesinlikle daha çok\nokula benzetiyor...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Ama buranın adı Yetenekli Gençler için\nUltimate Akademisi...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Sıradan bir okula benzediğini sanmıyorum.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Görünüşe göre burada beklenen bütün tesisler\r\nvar ama...her yeri bitki sarmış.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Bu...burasının uzun zamandır terk\nedilmiş olduğu anlamına mı geliyor?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Nyeeeh... Yani burada mahsur mu kaldık?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Evet...öyle görünüyor...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Ama korkma, eminim buradan göz açıp\nkapayıncaya kadar çıkarız!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Ben...korkmuyorum.\nSadece çok zahmetli.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Böyle bir şey beni paniğe sokmaz.\nÇünkü...ben bir büyücüyüm.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Büyücü mü?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hm...doğru. Size henüz söylemedim.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Hayran olmaya hazırlanın. Diz çökün.\nBen Himiko Yumeno, <CLT=cltSTRONG>Ultimate Büyücü<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Ama...resmi olarak bana \n<CLT=cltSTRONG>Ultimate Sihirbaz<CLT=cltNORMAL> deniyor.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Ohh, demek sihirbazsın.\nBaşından öyle söyleseydin ya.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Yani, aslında mantıklı.\nSonuçta büyü diye bir şey yok.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Nyeeeh...büyü vardır.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Ha?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Çünkü...ben bir büyücüyüm.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Sen sadece bir sihirbazsın, değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Sadece kağıt üstünde...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Sihirbaz olarak bilinirim ama bu sadece bir\nkılıf. Aslında ben...bir büyücüyüm.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "S-Sadece bir kılıf mı...?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Belki bilmezsiniz ama...\n<CLT=cltSTRONG>Sihir Şatosu<CLT=cltNORMAL> diye bir topluluk var.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltSTRONG>Sihirbazlar Salonu<CLT=cltNORMAL> olarak da bilinir, dünyanın\ndört bir yanından sihir sevenler orada toplanır.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Onların <CLT=cltSTRONG>Yılın Sihirbazı<CLT=cltNORMAL> ödülünü kazanan \nen genç kişi bendim.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Bu epey havalı.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Hepsi bir kılıf.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Büyümü numara kılığına sokarak\ngizli tutuyorlar.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Bu kılıf yüzünden numaralarımla \nbütün dünyada ünlendim.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ama...*burnunu çeker*...ben sihirbaz değilim...\nBen büyücüyüm... Kimse bana inanmıyor...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Hadi, hadi, üzülme...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Ş-Şey, bize büyünü gösterebilirsin.\nO zaman sana inanırız...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Ah, doğru ya!\nBüyünle bize yardım et!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Bizi en başta olduğumuz yere\ngeri götür—",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Büyü her şeye kadir değildir...\nYapabileceklerimin bir sınırı var.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "A-Anlıyorum...\nO zaman...neler yapabiliyorsun?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Seçtiğin kartı bulabilirim, \nbozuk para çıkarabilirim, güvercin uçurabilirim.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Nyeeeh... Ciddileşirsem birini \nikiye bile kesebilirim.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>Bunlar sıradan sihirbazlık numaraları!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltSYSTEM>Himiko'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Nyeeeh... Bu çok zahmetli...\nBiri benim yerime çıkışı bulsun artık...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>Demek kendisi bulmaya çalışmak istemiyor...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "HAAAAYAAAAAAAHHH!!!!!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "H-Ha?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Ruh enerjimi toplamak için bağırıyorum!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Ruh enerjisi toplamak için bağırarak beyninin tüm\npotansiyelini açabileceğini bilmiyor musun!?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Ah, profesyonel sporcuların bunu yaptığını\nduymuştum. Odaklanmaya yardım ediyormuş...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Biri bana saldırmaya kalkar diye her an\ndövüşe hazırlıklı olmalıyım!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Kendimi <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> ile koruyacağım!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Aikido mu...? O zaman sen—",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Ah, evet! Ben Tenko Chabashira!\nHAYAH! <CLT=cltSTRONG>Ultimate Aikido Ustası<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Ooohh! Aikido ustalarını hep iri yarı,\nkaslı adamlar olarak hayal ederdim, ama sen çok tatlısın!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "T-Tatlı mı!?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Aaaahhh... K-Kes şunuuu...\nB-B-Ben...tatlı...değilim...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Milkshake içerken yüzüm buruşuyor... Yüzümü\nsilince de göz kapaklarım ters dönüyor.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Ş-Şey, anlıyorum... Ama bence tatlısın.\nDeğil mi, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "...Ha? Ah...evet.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "N-Ne oldu?\nYüz ifaden birden çok sertleşti!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Yoz erkekler tarafından övülmekten hoşlanmam.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Yoz erkekler mi? Yani erkekler mi?\nOnların yanında...rahatsız mı oluyorsun?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Bu rahatsız olmaktan çok daha büyük\nbir sorun.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Bir yoz bana dokunmaya kalkarsa refleksim\nonu tutup odanın öbür ucuna fırlatmak olur.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Haklısın... Bu, erkeklerin yanında rahatsız\nolmaktan çok daha büyük bir sorun.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Ah, bu arada...bahsettiğin şu\n<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> ne?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>, ustamla tamamen kendi\nuydurduğumuz özgün bir aikido türü!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>Yani...aikidonu tamamen kendi kendine öğrenmişsin.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltSYSTEM>Tenko'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "HAAAAYAAAAAAHHH!!!!!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "HRRRROOOOOOOOOOOOOAH!!!!!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Tanrım, çok gürültücü...\nShuichi, yanında yapıştırıcı var mı?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Ah, ne düşündüğünü biliyorum...\nama muhtemelen yapmamalıyız.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>Acaba o ikisi de mi <CLT=cltSTRONG>Ultimate<CLT=cltMIND>\nöğrenci? Onlara sormalıyız.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Evet",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Hayır",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Emin olmadığın bir şey mi var?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltSYSTEM>Ayrılmak istiyor musun?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>Acaba o ikisi de mi <CLT=cltSTRONG>Ultimate<CLT=cltMIND>\nöğrenci? Onlara sormalıyız.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>Bu ekran bir okulda kullanılmak için\nfazla gelişmiş...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>Bu yemekhanenin kurallarına benziyor.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltSYSTEM>\"Yemekhane Kuralları\"",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltSYSTEM>\"Yemekhanede bulduğunuz her\nyiyeceği yiyebilirsiniz.\"",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltSYSTEM>\"Kullandığınız bütün çatal bıçak ve tabakların\nsorumluluğunu alın ve arkanızı toplayın.\"",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltSYSTEM>\"Yemekhane gece vakti\nkilitlenecektir.\"",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>Gece vakti mi? Yani...geceleri kapalı mı?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltSYSTEM>\"Yemekhane Kuralları\"",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltSYSTEM>\"Yemekhanede bulduğunuz her\nyiyeceği yiyebilirsiniz.\"",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltSYSTEM>\"Kullandığınız bütün çatal bıçak ve tabakların\nsorumluluğunu alın ve arkanızı toplayın.\"",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltSYSTEM>\"Yemekhane gece vakti\nkilitlenecektir.\"",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>Bu kapıyı dikenli tel kapatıyor.\nSınıfın pencereleri de öyleydi...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>Sakın bütün çıkışların kapalı olduğunu söyleme...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>Buradan çıkılabilir gibi görünüyor ama...\nTamamen kapatılmış...",
+  "tr": ""
+ }
+]

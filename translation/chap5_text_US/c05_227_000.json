@@ -1,0 +1,812 @@
+[
+ {
+  "id": 0,
+  "en": "The <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL> became the motive.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "When Kokichi remembered that he was a\nRemnant of Despair, I planned to kill him...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I thought that if I killed him, this game...and \nthe battle between hope and despair...would end.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I was confident in my talent as an assassin.\nI knew I would be able to do it.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "We've tried to end this killing\ngame before, but...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...We were naive.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "That's what I thought.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I knew Kokichi would take advantage of my\nnaivete, simply because it's him.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Nee-heehee... Maki totally gets me.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "That's why I needed to settle it myself.\nI took the poison arrows and the crossbow...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "...and broke into the hangar with an Exisal.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "But when I entered the hangar, I saw\nsomething I never expected.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Kaito and Kokichi were fighting each other.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Kokichi was shot in the arm with a crossbow\narrow, probably by Kaito when he fought back.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Both of them stopped and looked at the Exisal,\nmost likely surprised by its sudden appearance.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Kokichi immediately took out his remote and\nattempted to control the Exisal I was in.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I jumped out of the Exisal before he could,\nand shot Kokichi in the back with an arrow.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "That should've been enough to stop him,\nsince the arrow was coated with poison.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "The <CLT=cltSTRONG>Strike-9 Poison<CLT=cltNORMAL>, correct?\nBut why pick that particular poison?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Some of the poisons in my lab\nwere far more lethal...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...I wanted Kokichi to confess his true\nintentions before he died.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "And find out why he was always lying\nand trying to confuse us.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "If he was the mastermind, it would've been\neasier for him to hide in the shadows, right?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "He could've made it seem as if the late Junko\nwas secretly behind this killing game.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "That way, he could reveal himself as the\n\"surprise mastermind\" to liven up the game.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Because of his suspicious actions, anyone\nwould already suspect him as the mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Especially with that message in the\ncourtyard...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Kokichi said it was a hint, but was it necessary\nfor him to go out of his way just for a hint?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "As a Remnant of Despair, I imagine he wanted\nto feel the despair of his plan being thwarted.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I think that if he wanted the thrill, he \nwould've carried out the plan carefully.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "So when his carefully laid out plan goes to\nwaste, he would be in utter <CLT=cltSTRONG>despair<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Nyeh... That's a good point.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Maki must have wanted to hear it\ndirectly from Kokichi himself...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "But it was pointless. I was a fool for thinking\nI could have a serious talk with him.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Wh-What are you...talking about...?\nRemnants of Despair...what's that...?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I-I don't understand...anything...you're\nsaying...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "But a-anyway...why are you...starting up\nthe k-killing game...when it should've ended?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Y-You already...know it's all meaningless...\nand th-that I'm the mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Do you...love killing that much?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...Shut up, you asshole!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I realized it was pointless to continue the\nconversation, so I shot the final arrow.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "But then...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Grk!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Kaito...protected Kokichi!?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Wh-Why? Why would Kaito protect Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "At that moment, my mind went blank.\nI knew I had to do something about the poison.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I rushed to Shuichi's research lab\nfor the antidote.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "So you didn't have the antidote\nwith you at the time...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I used Strike-9 poison to torture Kokichi for\ninfo, but I planned to kill him from the start.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Ah-haha! That's sooo mean!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "But that was my first mistake.\nBecause of that...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "You what...?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "...I ended up killing Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "When I returned with the antidote, the\nhangar shutter had been closed.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I assumed it was Kokichi's doing. But because\nof that, I couldn't enter the hangar anymore.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "I needed to give Kaito the antidote somehow,\nso I went to the bathroom window.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Kaito, can you hear me!?\nQuick! Drink this antidote!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "After calling out to him, I chucked the\nantidote through the bathroom window.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Kaito noticed it and grabbed the antidote...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "But...Kokichi stole it from him.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Sorry...but I can't die here...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Since I'm...the mastermind of this\nkilling game...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Wait! There's only one antido—",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Oh...you don't have to worry about Kaito.\nHe fulfilled his dream, right?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "He already...went to space.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Tch... Damn it!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "S-Stop!!!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Phew! I feel so much better!\nI guess that's a wrap...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "...or maybe not. Because now another\nclass trial is going to start.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Class trial...?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "You'll be the blackened for this case, y'know?\nThe blackened who killed Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "I...I killed...?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Shut it! Screw the class trials! Like\nhell am I gonna let you have your way!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Kaito, why did you protect Kokichi!?\nIf you didn't help him, then—",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "I couldn't help it... Even if it's Kokichi...\nI-I can't...have you kill anybody!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Awww...Kaito wasn't protecting me...\nHe was protecting Maki!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "...The situation just got way worse, huh?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Maki is gonna become the blackened responsible\nfor killing you...all because you protected me.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "D-Don't you worry, Maki Roll.\nI'm not gonna die that easily...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Just leave it to me.\nI'll put an end to this killing game!",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Ah-haha... You're still full of energy,\neven like that...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "You really are...not boring.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Nee-heehee... I wanna see what a \ndying Kaito can do.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "So show me what you've got!\nI won't meddle with your plans!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "What are you—!?",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Don't mind me... Run, Maki Roll!\nJust...hurry up and run...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Run...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "...and live! You gotta live!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "But, I refused to give up...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "I tried to enter the hangar by breaking the\ncontrol panel with my knife...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "In the end...I couldn't...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "So that's where the marks on the\ncontrol panel came from, huh?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "After that, I returned to the bathroom \nwindow once more, but I didn't see anyone.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "The bathroom door was closed. I called out,\nbut neither Kaito nor Kokichi answered...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "I couldn't do anything anymore...\nAll I could do...was leave.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "That's when I made up my mind.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "As the blackened who killed Kaito, I would\nkill Kokichi during this class trial...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "...in exchange for all of your lives.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "So...that's what happened...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Then Kokichi, knowing what he knew, still\nhelped Maki cover up her crime?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Was that why you smushed Kaito\nin the hydraulic press?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Kaito wanted Maki to be spotless.\nAs his friend, I felt obliged to help him.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "How dare you...make fun of him!",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "You call yourself a friend...? \nYou enjoyed watching us suffer!",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "You...fuckin' asshole!",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Ooohh, Maki is so scaaary.\nGood thing I'm in this Exisal.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Pretty sure Maki would've already killed me\nif I was out there in the flesh.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "So...what are everyone's plans now?",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "With the truth out in the open, who are you\nguys gonna vote for?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "You can vote for me, but if you do we'll\nall die together.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Or vote for Maki, and live.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Welp, choose whichever you want.\nI don't care either way.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Why...? Why are you so calm?\nYour life depends on this, too!",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Who cares? Just choose already.\nC'mon, who are you gonna vote for?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "No, we can't vote yet.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "...We don't have the whole truth.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "This case isn't over!",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Thank you for telling us everything, Maki.\nThanks to you, I finally understand...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "There's <CLT=cltSTRONG>another hidden truth<CLT=cltNORMAL> within\nyour testimony.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "...A hidden truth?",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Yes, I'm positive.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Because there's something wrong\nwith the testimony you've given us.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>The part of Maki's testimony\nthat doesn't add up...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Kaito protecting Kokichi",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "The part about Kaito protecting Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "You're going to doubt Kaito's actions?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "The control panel being damaged",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Maki becoming the blackened",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "The part about Maki being the blackened...",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "There's no doubt that Kaito died from the\npoisoned arrow I shot.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Kokichi drinking the antidote",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Did Kokichi really drink the antidote?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "I saw him do it, so there's no doubt.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Well, what's this other hidden truth?",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "<CLT=cltMIND>The part of Maki's testimony\nthat doesn't add up...",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Maki said she used a knife to try to break\nthe control panel and enter the hangar...",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "But that doesn't make sense, because\nthere is an <CLT=cltSTRONG>alarm system<CLT=cltNORMAL> on the shutter.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Oh yeah! The alarm should've gone\noff if someone got close to the shutter!",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "I was too focused to notice at the time.\nBut now that you mention it, it is odd.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Maybe the sensor just missed her?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "Nah, the security there isn't that sloppy.",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "If a shady person got near the shutter, the\nalarm would've gone off without question.",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Then why didn't the alarm go off...?",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Like I told you, this isn't over. There's\nstill a <CLT=cltSTRONG>hidden truth<CLT=cltNORMAL> to find.",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltMIND>That's right, there must be some kind\nof reason behind all these oddities.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "<CLT=cltMIND>Finding that reason will\nhelp us find the hidden truth!",
+  "tr": ""
+ }
+]

@@ -1,0 +1,677 @@
+[
+ {
+  "id": 0,
+  "en": "Shuichi Saihara",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Kaito Momota",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Ryoma Hoshi",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Rantaro Amami",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Gonta Gokuhara",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Kokichi Oma",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Korekiyo Shinguji",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "K1-B0",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Kirumi Tojo",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Himiko Yumeno",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Maki Harukawa",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Tenko Chabashira",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Tsumugi Shirogane",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Angie Yonaga",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Miu Iruma",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Kaede Akamatsu",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Alter Ego Gonta",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Gonta Gokuhara & Alter Ego Gonta",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Monotaro",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Monosuke",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Monophanie",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Monodam",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Monokid",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Exisal",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Monokubs",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Monokubs",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Monokubs",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Monokubs",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Exisal Red",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Exisal Yellow",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Exisal Pink",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Exisal Green",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Exisal Blue",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Exisal (Kaito)",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Exisal (Kokichi)",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Junko Enoshima the 53rd",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "K1-B0 & Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Monokuma & Monokubs",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Makoto",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Classmate 1",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Classmate 2",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Classmate 3",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Man 1",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Man 2",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Woman",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Newscaster",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Kaito's Grandfather",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Kaito's Grandmother",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Unknown Child",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Headmaster",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Hidden Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Makoto Naegi",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Kiyotaka Ishimaru",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Byakuya Togami",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Mondo Owada",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Leon Kuwata",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Hifumi Yamada",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Yasuhiro Hagakure",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Chihiro Fujisaki",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Sayaka Maizono",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Kyoko Kirigiri",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Aoi Asahina",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Toko Fukawa",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Genocide Jack",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Sakura Ogami",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Celeste",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Junko Enoshima",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Junko Enoshima",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Hajime Hinata",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Nagito Komaeda",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Byakuya Togami",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Gundham Tanaka",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Kazuichi Soda",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Teruteru Hanamura",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Nekomaru Nidai",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Fuyuhiko Kuzuryu",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Akane Owari",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Chiaki Nanami",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Sonia",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Hiyoko Saionji",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Mahiru Koizumi",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Mikan Tsumiki",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Ibuki Mioda",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Peko Pekoyama",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Izuru Kamukura",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Monomi",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Usami",
+  "tr": ""
+ },
+ {
+  "id": 998,
+  "en": "Heart's Voice",
+  "tr": ""
+ },
+ {
+  "id": 999,
+  "en": "???",
+  "tr": ""
+ }
+]

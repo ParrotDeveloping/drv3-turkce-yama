@@ -1,0 +1,402 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Everyone must have gone to the hangar\nalready... I shouldn't be late.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...Kokichi hasn't noticed us yet.\nCome, let's begin.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Hurry, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I-It's the climactic final battle!\nTime to show off my magic!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Don't be slow! If you're young, \nyou need to move quickly!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...You're late. We were about to start\nwithout you.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "What are you waiting for!? Hurry up and\nhit the panel with the Electrohammer!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Did you see the three Exisals on the way?\nThey weren't moving for some reason...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Anyway, there are two more of them \ninside this hangar, so let's be careful.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Shuichi, hurry! We need to disable \nthe barrier before we can go inside!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>I'll deal with the Exisals later.\nFor now, I need to keep moving.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "There's no time for that!\nHit the control panel, please!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>I'll deal with the Exisals later.\nFor now, I need to keep moving.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "There's no time for that!\nHit the control panel, please!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>I'll deal with the Exisals later.\nFor now, I need to keep moving.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "There's no time for that!\nHit the control panel, please!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>I'll deal with the Exisals later.\nFor now, I need to keep moving.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "There's no time for that!\nHit the control panel, please!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Everyone must have gone to the hangar\nalready... I shouldn't be late.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Shuichi, where are you going!?\nWe don't have time, y'know!?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "huh?\nIs this...an Electrohammer?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Why is there an Electrohammer here?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>...No, details later.\nI need to keep moving.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>This Electrohammer is disconcerting...\nbut I need to keep moving.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "What are you doing, Shuichi?\nWe need to save Kaito!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>It's dangerous to call for Kaito now.\nThis will all be for naught if Kokichi finds us.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Hurry, Shuichi! Or else, Kokichi will notice us!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Alright...\nIf I hit the control panel with this...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>As I swung up the Electrohammer,\nI suddenly noticed...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...Hm?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>The control panel was covered in marks,\nas if damaged by something sharp...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Shuichi, what are you doing? Hurry up.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "S-Sorry. I've got it!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>No time to think now.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>I aimed my swing at the control panel\nand brought it down as hard as I could.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "The electric barrier turned off!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Let's go!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>We all ran to the shutter at once.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "We won't let Kokichi do whatever \nhe wants anymore!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "You'd better be ready! This is it!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "The <CLT=cltSTRONG>Remnants of Despair<CLT=typeNORMAL> end here and now!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>After opening the shutter, we burst\ninto the hangar, Electrohammers in hand...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>...to end this.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>To end this killing game.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>To end this despair—",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>Everyone must have gone to the hangar\nalready... I shouldn't be late.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Shuichi, where are you going!?\nWe don't have time, y'know!?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Hurry, hit the panel!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Everyone is here. Let's get started right away.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I-I'm ready!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Maki, are you ready with the\nElectrobomb?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "...Who do you think you're talking to?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "It's similar to a grenade, except the detonation\nlags a bit after you push the switch.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Once we roll this to the front of the shutter,\nit should disable the alarm system.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "...This won't fail.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "The Electrobomb has an effective range of\n50 yards, and lasts for two hours...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "If Kokichi's remote control is disabled, we'll\nstand a chance against the Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Let's stop Kokichi before he\ngets into the Exisal.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "But be ready for the worst.\nWe might have to use the Electrohammers.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "If he gets into that Exisal...\nI'll stop him with this hammer.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Yeah, you're right...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "What's wrong, Maki Roll? We're...all ready\nto start, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "...Yeah, alright.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Then...let's go.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>Maki triggered the Electrobomb,\nthen rolled it in front of the shutter.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>And then...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "The alarm system is disabled! Now we can\napproach the control panel!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...Shuichi, will you do the honors!?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Alright, leave it to me!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Shuichi, where are you going!?\nWe don't have time, y'know!?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>Monokuma's...not here...\nHe should have been protected by the Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>And...the Exisals...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>They don't look like they're going to\nmove... What's going on?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>And there are only three of them.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>There should be two more in the hangar...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "It's just like Keebo said... We should consider\nourselves lucky that there's only two.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>If all five of them are here, it'd be\nimpossible to execute the plan.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Alright...let's keep moving.",
+  "tr": ""
+ }
+]

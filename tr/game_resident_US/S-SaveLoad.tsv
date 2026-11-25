@@ -1,0 +1,41 @@
+1	Monocoin
+2	Numara
+3	Oynama süresi
+4	Yeni kayıt
+13	Kayıt verisi yükleniyor. Emin misin?
+14	Yüklenmiş verinin üzerine yazılacak.\nEmin misin?
+15	Veri yüklendi.
+16	Yüklenen veri indiriliyor. Emin misin?
+17	İndirme sırasında veri güncellendi.\nİndirme iptal edildi.
+18	Demo kayıt verisi yok.
+19	Demo kayıt verisi yükleniyor...
+31	Danganronpa V3
+34	Kaydet
+35	Yükle
+36	<PAD=【□】> Tarih gösterimini değiştir
+38	Boş Yuva <DIG=●>
+39	Güncellendi
+40	Ayrıntılar
+41	Monocoin <DIG=●>
+42	Oynama süresi <DIG=●>:<DIG=●>:<DIG=●>
+43	Bu yuvaya kaydetmek ister misin?
+44	Bu yuvadaki kayıt verisini yüklemek ister misin?
+45	Bu yuvadaki kayıt verisinin üzerine yazmak ister misin?
+100	Bu oyun için kayıt verisi yok.\nYeni kayıt verisi oluşturulsun mu?
+101	Kayıt almadan oynansın mı?\n"Evet"i seçersen bu noktadan sonra\nkayıt alamayacaksın.
+102	Kayıt verisi başarıyla oluşturuldu.
+103	Kayıt verisi oluşturulamadı.
+104	Kayıt verisi başarıyla yüklendi.
+105	Kayıt verisi yüklenemedi.
+106	Kayıt verisi zaten var.\nÜzerine yazılsın mı?
+107	Kayıt verisi silinip\ntekrar oynama verisi kaydedilsin mi?
+108	Yüklenen kayıt verisi başka bir kullanıcıya ait, \no yüzden kullanılamaz. \nOyun baştan başlatılıyor.
+109	Bozuk kayıt verisi silinip\nyenisi oluşturulsun mu?
+200	Kayıt verisi bozuk ve yüklenemiyor.
+201	Diskte yeterli boş alan yok. Oyunu oynamak\niçin en az <DIG=●> KB boş alan gerekiyor.\nOyundan çık ve gerekli alanı aç.
+202	Tekrar oynama verisi kaydedilsin mi?
+205	Kaydetmek istiyor musun?
+206	Kalan veriler indirilip kuruluyor.\nDevam etmek için kurulum bitince veriyi yükle.
+207	Özel ödülü almak için\nkaydetmen gerekiyor.
+208	Ana ekrana dönülüyor...
+209	Demo sürümü bitirme verisi kaydedilmedi.\nKaydetmek ister misin?

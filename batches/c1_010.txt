@@ -1,0 +1,63 @@
+@ chap1_text_US
+## c01_004_353
+90|<CLT=cltMIND>Bağımız her zamankinden güçlü bir şekilde\ntünele bir kez daha adım attık.
+92|Ah...ahhh...
+93|<CLT=cltMIND>Sonunda uyandığımda bütün vücuduma\nyakıcı bir acı yayılıyordu.
+94|A-Anlıyorum... Yine...bayılmışım...
+95|N-Ne oluyor—? Ben de mutlu bir son\nbekliyordum!
+96|Henüz değil! Daha yeni başlıyoruz!
+97|T-Tabii ki!\nBu...çocuk oyuncağı olacak!
+98|Gonta kaçacak. Herkesle arkadaş olacak.\nCentilmenler...asla pes etmez!
+99|B-Bu sefer...!\nBu sefer...çıkışa ulaşacağız!
+100|<CLT=cltMIND>Bu sefer...
+101|<CLT=cltMIND>Bu kelimeler beni tünele bir kez daha\nadım atmaya taşıdı.
+102|<CLT=cltMIND>Ama...
+103|<CLT=cltMIND>Olmadı.
+104|<CLT=cltMIND>Yine de teslim olmayı reddettik... Kendimize\n"bu sefer" kaçacağımızı söyleyip durduk.
+105|<CLT=cltMIND>Ama...her seferinde başarısız olduk...
+106|<CLT=cltMIND>Her denemede "bu sefer" kelimelerini\ntekrar tekrar söyledik...
+107|<CLT=cltMIND>Ama sonunda yapamadık.
+108|<CLT=cltMIND>Asla pes etmediğimiz sürece kaçabileceğimizi\nsanmıştım...
+109|<CLT=cltMIND>Ama sonunda hiçbir şey değişmedi.
+110|Yine...başarısız olduk.
+111|Kahretsin...!
+112|Ben...devam edemem...
+113|Durun, pes edemeyiz. Bu sefer—
+114|...Kes artık şunu.
+116|Kendi başına denemeye devam etmekte özgürsün\nama bizi de katılmaya zorlamak resmen işkence.
+117|İ-İşkence mi?
+118|Gerçekten acıtan ne biliyor musun? İmkânsız bir\ndurumda pes etme hakkının elinden alınması...
+119|Pes etmemize izin vermiyorsun ve ne dersek\ndiyelim ahlaki üstünlük sende...
+120|Bu...sana işkence gibi gelmiyor mu?
+121|Pes edemeyiz dediğinde bize ilham vermiyorsun—\nbizi zorluyorsun!
+122|Ö-Öyle demek istememiştim...
+123|Hey, yoz! Bu kadar bencil olmayı bırak!
+124|B-Bencil değilim...\nDiğerleri de aynı şeyi hissediyor...
+125|Ne?
+126|H-Herkes mi...?
+127|Ruhum...neredeyse kırıldı...\nBu zorluk beni kemiriyor...
+128|Bu şartlarda...en mantıklı hareket\npes etmek olur...
+129|Evet...basketbol maçının ikinci yarısındaki\nHisashi Mitsui gibi hissediyorum.
+130|Bunun imkânsız olduğunu baştan beri biliyordum.
+131|Kh... Bu saçmalık değerli vaktimi ve\nenerjimi boşa harcıyor.
+132|Hepinizin büyüme güvenmesine izin veremem...\nHem yeterli MP'm de kalmadı.
+133|Kimsenin ciddi şekilde yaralanmamasına\nsevindim sadece. Atua'ya şükürler olsun.
+134|L-Lütfen, durun! Biz...pes edemez!
+135|Millet! Buradan çıkamamak gerçekten\nsizin için sorun değil mi!?
+136|Kendimizi zorlamamalıyız...\nBaşka bir çıkış yolu bulalım, tamam mı?
+137|Ne!?
+138|...Ölüm oyunundan bahsediyorsun,\ndeğil mi?
+139|Ah, demek öyle yorumlayacaksın, ha?
+140|N-Ne diyorsun sen!?\nÖlüm oyununu oynamamızın imkânı yok!
+141|Nişişi... Sakin ol. Sakız ister misin?\nOnunla epey büyük balonlar yapabilirsin.
+142|Oh-hoho... Görünüşe göre bu küçük yoz\nkafasının yere çakılmasını istiyor.
+143|D-Durun, millet, kavga etmemeliyiz...
+144|Tanrım...
+145|Arkadaş olup birlikte çalışmaya karar vermiş bir\ngrup için epey çabuk dağıldık.
+147|Özür dilerim...bu benim suçum.\nÇok özür dilerim...
+148|Hayır, Kaede...
+149|A-Aptal! *Sen* neden özür diliyorsun ki!?\nHiç de senin suçun değil!
+150|...Gerçekten mi? Bence Kaede'nin suçu.
+151|H-Ha!? Neden!?
+152|Bu, Yetenekli Gençler için Ultimate Akademisi'nden\nresmi bir duyurudur.
+153|Saat 22:00. <CLT=cltSTRONG>Gece vakti<CLT=cltNORMAL> resmen\nbaşlamıştır.

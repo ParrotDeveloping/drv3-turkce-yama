@@ -1,0 +1,397 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>When I used the item, the vine suddenly\nwithered... How does that work?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Pool Entrance Zelda Gimmick Plant",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>So this is the key to the gate...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Oh, there you are, bro!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...I was surprised when you mentioned a\nspecial kind of training.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Well!?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "You brought the thing we need for our \nnew training, right!?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "New training?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Pass it here!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Here, but...is it usable?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...Is this a practice sword? Why would you\nhave something like this?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Huh? Why are you making such\na disgusted face, Maki Roll?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Ah, that's right!\nMaki...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...So you didn't tell Kaito yet.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "When I first started working, I botched a\nmission with a katana.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Since then, I decided not to use swords...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Oh, I see...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Don't make that face. I know you didn't mean\nany harm by it.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "No, it's my fault for making you remember \nsomething that makes you feel bad.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Alright! Tell us about it now!\nI'll listen to all of it!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "It's difficult to talk to people about your \nfailures. I get it. But didn't I tell you?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Being able to share your burdens with others...\nThat's how you get stronger!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Don't hold on to your past forever!\nYou gotta confront it to move on!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "And I'm gonna help you with that!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...What are you saying?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "You're ridiculous. Anyway, that failure\ndoesn't bother me anymore.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "But I don't mind talking about it. Just be\nwarned, it's a boring story.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>Before, she would have just told me\nto mind my own business.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>Maki has changed a lot since then...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "...When planning an assassination, you need\nto gather detailed information first.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "You need to know the target—their schedule,\nmovements, friends and acquaintances...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "For this particular target, he normally\nworked late into the night...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "But when I looked further into his schedule,\nI found out he was into some nerdy hobbies.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Nerdy hobbies?\nYou mean like Tsumugi is?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Yeah, just like her.\nHe especially liked cosplay.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Cosplay?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Never in a million years would I imagine\nhearing \"cosplay\" from Maki's mouth.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "So while I observed my target's private life...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I thought of a good plan to get close to him,\nwhile concealing my weapon.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "How?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...A prop carrying case.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "What's that? How's it different from \na normal carrying case?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Tsumugi would know.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "It's a specially-made carrying case for\ncosplay props.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "It can accomodate large props, so it's\nconvenient to carry around...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "So I placed a katana into that carrying case\nand made my move.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "But then...the people around thought I was a\ncosplayer, and something odd happened.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "What happened?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "On that day, they were holding a cosplay event\nin the same hall the target had gone to.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Unfortunately...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "...I had the same height and hairstyle as a\npopular character, who also carried a katana.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "They thought I was cosplaying that character...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "...so I got dragged into a hall by a group\nof excited people with expensive cameras.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "They almost saw the weapons I had in my case...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "If they had, they would have found out my\nkatana was actually real...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Sounds like a close call...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Hahaha! I was wondering what this \n\"serious failure\" of yours was going to be!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Yeah, honestly...it was much cuter\nthan I was expecting.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Don't laugh... For me, it was very serious...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "I was branded as a failure, because of\nsomething so stupid.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "If they didn't donate to the orphanage\nanymore...then it would've...been the end...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Ah...you're right...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Yeah, you're right...that's not funny.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "I'm really sorry for laughing...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Yes, me too... Sorry for laughing, Maki.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Y-You don't need to apologize. I'm not mad.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>Maki turned her head to the\nside with a pout.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>That expression on her face...\nOpening up to us with her stories...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>I never could have imagined this.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>My impression of her has\nchanged yet again.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>There's still so much I don't know\nabout Maki and Kaito...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>I hope Maki is right. We can learn more\nabout each other after we get out...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>No. We will become friends!\nWe will definitely get out of here!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>After a bout of training with the\nsword, I returned to my room.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,64 @@
+@ chap1_text_US
+## c01_222_000
+22|Ama bu Kaede'nin yalanı, değil mi?
+25|<CLT=cltMIND>Iyy... Noktalarımızı onlarınkiyle eşleştirsem de\nonları geri püskürtemedim!\n<CLT=cltNORMAL>
+26|<CLT=cltMIND>Bir kez daha... Herkesi ikna edene kadar\nbunu kaç kez gerekirse yapacağım!
+## c01_222_001
+0|Kamera <CLT=cltWEAK>aralıkları<CLT=cltNORMAL>\nhakkında\nbildiklerini sakladın,\nShuichi.
+1|Kamera aralıkları \nhakkında \nbildiklerini sakladın, \nShuichi.
+2|Ama Miu da\n<CLT=cltWEAK>aralıklar<CLT=cltNORMAL> hakkında\nsessizdi...
+3|Ama Miu da\naralıklar hakkında\nsessizdi....
+4|Aralıklar
+5|Aralıklar
+6|Shuichi'nin aksine\nbenim gerçekten\nsağlam bir <CLT=cltWEAK>mazeretim<CLT=cltNORMAL> var!
+7|Shuichi'nin aksine benim gerçekten\nsağlam bir mazeretim var!
+8|Kaede Shuichi'nin \n<CLT=cltWEAK>mazeretini<CLT=cltNORMAL> doğruladı,\n değil mi?
+9|Kaede Shuichi'nin mazeretini doğruladı, değil mi?
+10|Mazeret
+11|Mazeret
+12|Shuichi ile Kaede\nbütün zaman boyunca\n<CLT=cltWEAK>birlikte<CLT=cltNORMAL>\ndeğildi,\ndeğil mi?
+13|Shuichi ile Kaede bütün zaman\nboyunca birlikte değildi, değil mi?
+14|Alıcı çaldığında\nikisi <CLT=cltWEAK>birlikteydi<CLT=cltNORMAL>.\n
+15|Alıcı çaldığında ikisi birlikteydi.
+16|Birlikte
+17|Birlikte
+18|<CLT=cltWEAK>Alıcı<CLT=cltNORMAL>\nShuichi'deyse\ngizlenmiş\nolabilirdi.
+20|<CLT=cltWEAK>Alıcı<CLT=cltNORMAL> aslında\nKaede'deydi!\n
+21|Alıcı aslında Kaede'deydi!
+22|Alıcı
+23|Alıcı
+24|Ama bu\nKaede'nin <CLT=cltWEAK>yalanı<CLT=cltNORMAL>,\ndeğil mi?
+25|Ama bu Kaede'nin yalanı, değil mi?
+26|<CLT=cltWEAK>Yalan<CLT=cltNORMAL> olup\nolmadığını bunu\nkonuşunca anlarız!\n
+27|Yalan olup olmadığını bunu\nkonuşunca anlarız!
+28|Yalan
+29|Yalan
+## c01_223_000
+0|Millet, bana inanmalısınız!\nShuichi suçlu değil!
+1|Shuichi'ye oy verirsek yanlış seçimi\nyapmış oluruz!
+2|Bu olursa da...\nHerkes idam edilir...
+3|Hayatıma mal olsa bile buna kesinlikle\nizin vermeyeceğim!
+5|Evet, aynen Kaede'nin dediği gibi!\nShuichi suçlu değil!
+6|Gonta da Shuichi'ye inanıyor!\nCentilmenler arkadaşlarına hep inanır!
+7|Peki, suçlumuz Shuichi değilse...\no zaman kim?
+8|Tartışmanın bütün olası yollarını\nzaten tükettik...
+9|İmkânı yok. Tartışabileceğimiz başka bir şey\nolmalı. Sadece düşünmemiz lazım.
+12|Shuichi...suçlu olmasan da bir süredir\nsessizsin...
+13|Bir şey fark ettiğin için, değil mi?
+14|<CLT=cltSTRONG>Gerçeği<CLT=cltNORMAL> açıklamaktan korkuyorsun.
+17|Ben de öyle düşünmüştüm...
+19|Söyle bana—nasıl bir <CLT=cltSTRONG>gerçeği<CLT=cltNORMAL> fark\nettin?
+20|Söylemekten korkma.\nSadece benim için değil...herkes için.
+21|Lütfen...gerçekle yüzleş.
+23|...<CLT=cltSTRONG>Fotoğraf<CLT=cltNORMAL>.
+24|...Fotoğraf mı?
+25|Cinayetten hemen önce gizli kapıya doğrultulan\nkameranın çektiği fotoğraf.
+26|Hep şüpheli bulmuştum...\nRantaro'nun davranışını...
+27|Hm? Şüpheli olan ne?
+28|Fotoğrafa bakarsanız Rantaro <CLT=cltSTRONG>kamerayı\nsökmeye<CLT=cltNORMAL> çalışıyor gibi görünüyor...
+29|Ama bu, kurduğumuz kamerayı <CLT=cltSTRONG>fark\nettiği<CLT=cltNORMAL> anlamına geliyor olmalı.
+30|Doğru.\nAma bunu ne zaman fark etti?
+31|Bence kamera <CLT=cltSTRONG>ilk fotoğrafını<CLT=cltNORMAL>\nçektiğinde.
+32|Bu fotoğraf Rantaro kitaplığı oynattığında\nçekildi.
+33|O anda <CLT=cltSTRONG>bir şey<CLT=cltNORMAL> kamerayı fark etmesini\nsağladı.
+34|Bu yüzden onu sökmeye çalıştı, işte o sırada\nkitaplık kapandı.

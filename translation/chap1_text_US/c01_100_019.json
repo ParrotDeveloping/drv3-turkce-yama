@@ -1,0 +1,1897 @@
+[
+ {
+  "id": 0,
+  "en": "Hmm... This isn't quite the mood I was\nexpecting, but...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "It's okay! At least now you guys seem like\nyou're getting into it!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "You again!? The fuck are you doin' here!?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Puhuhu... Don't be so crude. I've come to\nbring you all a wonderful present.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "This is giving me the heebie-jeebies.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Dun dun dunnnn! A notebook that will kill\nanyone whose name is written in it!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Could it be!? The Death N—",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Whoops, my bad. It's a Monokuma File.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "You...did that on purpose, didn't you?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "The Monokuma File is a detailed report that\nsummarizes all the info about the dead body!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "But there's no info that would point to the\nblackened, cuz that would ruin the trials.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I dunno, maybe you guys'll find it useful since\nyou're not experienced investigators, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Pfft, Monokuma File? Like hell am I \ngonna believe something he made.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Whether you believe it or not, it would still\nbe prudent to examine its contents, no?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Atua has spoken... He says we shouldn't\ntake our eyes off of the Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>Yeah... I think we should read it.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>This file has all the info about the victim?\nI wonder what it says.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>The victim is Rantaro Amami...\nIt doesn't say what his <CLT=cltSTRONG>Ultimate<CLT=cltMIND> talent is...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>The victim's body was discovered\nin the library.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltSTRONG>The estimated time of death is 9:10 p.m.<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>The victim was subjected to blunt force trauma\nto the back of the skull...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>resulting in cranial fractures and immediate\ndeath. No other injuries were detected.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Monokuma File 1<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>It doesn't say whether or not he's the\nmastermind... Well, that's obvious...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>But the killing game is still going on...so\nI'm gonna assume he wasn't, right?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>But if Rantaro wasn't the mastermind...\nthen who is?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I know it's a little late, but...\nseeing this makes it real...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Rantaro...is really dead.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "This is the mastermind's fault...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "The mastermind killed Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "...Mastermind? I'm sorry, what are we\ntalking about?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Kaede... Please explain what is going on,\nand spare us no detail.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Yeah, I will...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>Shuichi and I explained to everyone...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>We told them about the possibility of the\nmastermind hiding among us...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>And about the trap we had set in the\nlibrary to lure them out...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>And that <CLT=cltSTRONG>someone<CLT=cltMIND> got snagged in our\ntrap, so we came to the library to check...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>...and discovered Rantaro's body.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "I see... So that is what happened. I was not\naware you two had planned such a thing.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Kh! So you used those cameras I modified\nfor this bullshit!?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "But...why would you keep something so \nimportant a secret from us?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Once we knew one of us was the mastermind, \nwe'd start fighting over who it was...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "That's what you two were afraid of, \nwasn't it?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Y-Yeah... That's right...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "But if there are cameras, won't this case\nbe solved really easily?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Aw maaan, that's so boring!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Your amusement is the least of our concerns!\nWe need to check the cameras right now!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "The culprit should be in the pictures.\nIt'll be case closed.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Alright, let me go get the cameras...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Shuichi quickly retrieved all three cameras\nand rushed back to everyone.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Okay, I've got them.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "It was hard removing the camera that Kaede\nset up, she really taped it down well...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Well, I really didn't want that camera to fall,\nsince it was aimed at the moving bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Here. It's these three cameras.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Now, we just have to develop the film...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Allow me to perform that task.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Wow! Is there anything the <CLT=cltSTRONG>Ultimate Maid<CLT=cltNORMAL>\ncan't do!?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "I heard everything you said! If that's what\nyou need, just leave it to me!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I'll develop the photos so you bastards can\nfocus on the investigation!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Cuz if you guys get punished, it would be\nway too gory!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "H-Hey! Don't butt into our—",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>But she ignored my objection, walked up to\nShuichi, and took the cameras from him.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "...Ah!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I am a strong, sensual woman.\nDo not underestimate me.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Hey! Give those back!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "No need to worry.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "We all have to follow the rules. We won't\ndo anything underhanded or devious.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "So I'll let you know when I'm finished\ndeveloping the photos.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "W-Wait! Give the cameras back!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>It was pointless to yell at her.\nMonophanie left as swiftly as the wind.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Awwww, there she goes.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "N-No... That was important evidence.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "I'm sorry...\nI-I was being careless...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "It probably okay. She say she develop photos,\nthen give photos back.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "And she said she had to follow the rules, so\nI don't think she would destroy evidence.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Looks like we've got no choice but \nto believe that.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "It's important to believe. Atua only shows\nmercy to those who believe.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Kaede...I know you're worried, but you\ncan trust me. We just have to be patient.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "That's not all I'm worried about...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "I thought this whole thing would be over\nonce we exposed the mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "But now...we're just in a bigger mess.\nA mess...we have to see through to the end.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Ah...Kaede?\nI...have a proposal for you.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "If it's alright with you...could we keep working\ntogether during the trial? Like we're doing now?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "I know I'm just an apprentice, but...I think\nI can help you, as a detective.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "No, I...I *want* to help you.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Of course! With you at my side, it'll be like\nhaving 100 people helping me!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "...Thank you, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Hey, sooo...I don't care about this mushy\nstuff, so let's just get started already.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "And try to take this seriously, okay?\nOur lives are on the line.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "It takes a lot of mental power to say \nsomething like that so cheerfully...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Before we start, I'd like to suggest that we\nnot investigate by ourselves.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Huh? Why?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "If we let the culprit work by themselves, \nthey might try and destroy evidence, right?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Oh, you're right... Since the culprit \nis one of us...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Kehehe... If each of us watches the other, \nno one will be able to hide any evidence.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "I do not intend to offer a suggestion that\nwould further arouse suspicion, but...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "No, that's logical! Please speak your\nmind, Kirumi!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "It's not something you should be proud to say...\nbut I guess we don't have a choice.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "After all, if we don't find out who the \nculprit is, we'll all be killed.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>Yeah... We have to do it.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>Once we expose the mastermind,\nwe'll be able to escape...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>We can definitely do it!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Something is bothering me...\nWhy did Rantaro come to the library?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "It seems likely that he is not the mastermind.\nWhat reason did he have for coming here?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "I'm guessing it had something to do with\nwhat Rantaro mentioned earlier...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "It's not about outfoxing everyone in this\nkilling game, it's about ending the game itself.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "That's the real goal.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Ending the game itself...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Then it's possible...he noticed the hidden\ndoor in the library, just like we did.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "He might have come to the same conclusion\nwe did, that the mastermind would come here.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "You mean...he had the same idea as us?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "N-No way... He should've told us...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "We could've worked together...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>I collapsed to the floor, crushed by the weight\nof my frustration.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "No, he probably couldn't risk telling us...\nLike you said, he was suspicious of everyone.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "I have you, Kaede, but Rantaro\ndidn't have anyone he could trust.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "That might have been...\nthe only difference between me and him.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>As he said that, he offered me a hand.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>I took his hand and he firmly pulled me\nto my feet.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Kaede...let's go.\nWe can't waste time now.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "You're not going to give up, right?\nYou're...going to save everyone.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>He's right...\nI can't give up now.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Thanks... I feel like...I can rely on you even\nmore...",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>Shuichi is right.\nWe can't give up until it's over.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>I can't stay depressed forever. I have to\nhelp everyone get out of here.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "<CLT=cltMIND>We have to continue the investigation.\nWe gotta find the mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Hey, Kaede...do you remember what we\nsaw when we came in here?",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Yeah, I remember.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "We saw the moving bookcase close on its\nown, right?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "No one even touched it, so how did that\nhappen?",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Actually, it has to do with\n<CLT=cltSTRONG>how the bookcase works<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "<CLT=cltMIND>Shuichi moved the bookcase to reveal\nthe hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Take a look at this.\nIf I let go of the bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltMIND>He let go of the bookcase, and after\nwaiting for a bit...",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Oh! It closed on its own!",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "The bookcase is set up like an automatic\ndoor. It closes after a period of time...",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "It makes perfect sense when\nyou think about it.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "If it didn't close on its own, you wouldn't be able\nto put the bookcase back after you went inside.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "I see... The bookcase has to close on its own\nonce you go through the hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Moving Bookcase<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "But, wait... If the bookcase closes itself\nafter you enter the hidden door...",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Oh! Maybe the reason why the bookcase\nclosed itself...",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "...was because the mastermind was hiding\njust past the hidden door!",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "After killing Rantaro, they ran through the\nhidden door... It certainly is possible.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Let's check that now.",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Huh? How do we check it?",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "The dust on the card reader, remember?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltMIND>Shuichi moved the bookcase again to\nreveal the hidden door once more.",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "Alright, let's see...",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "<CLT=cltMIND>We leaned in to get a closer look\nat the gap of the card reader.",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Huh? The dust is still there.",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "It looks like the card reader wasn't used.\nThat means the mastermind didn't hide here.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "What if the mastermind replaced the dust\nafter they used the card reader?",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "No, I remember exactly where I put the\ndust. This hasn't been moved at all.",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "I think it's safe to assume the mastermind\ndid not go through this door.",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "Then the one who moved the moving\nbookcase at the time was...",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "...Rantaro himself?",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "I...can't say for sure. We'll know more\nwhen we get the pictures back.",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "There's a chance that someone\nelse was hiding here.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Card Reader Dust<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Well, I still think the mastermind is the\nculprit.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "So we just need to find the clues that\ncan connect us to the mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "We'll end the killing game that way, too.",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "Hey, Shuichi.\nI need some advice...",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "What do you think we should check first?",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "I'm thinking about it, too...but since you're\na detective, you might know more than me.",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "Hm, what we should check first...",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "...is if the areas where we placed the cameras\nhave changed in any way.",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "Like the bookcases, the vent...",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "I feel like there might be\nclues around there.",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "I see...",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "Also, I...think there may be clues around\nRantaro's body. It might be...hard to do, but...",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "And finally, we need to hear\nfrom everyone here.",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "One of them might have\nnoticed something we missed.",
+  "tr": ""
+ },
+ {
+  "id": 185,
+  "en": "Okay, got it. Thanks, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 186,
+  "en": "Ah, it's no problem at all...\nI hope I can be of *some* use...",
+  "tr": ""
+ },
+ {
+  "id": 187,
+  "en": "So what we should investigate here is...",
+  "tr": ""
+ },
+ {
+  "id": 188,
+  "en": "First, see if the areas around where we placed\nthe cameras have changed in any way.",
+  "tr": ""
+ },
+ {
+  "id": 189,
+  "en": "Like the bookcases, the vent...",
+  "tr": ""
+ },
+ {
+  "id": 190,
+  "en": "I feel like there might be\nclues around there.",
+  "tr": ""
+ },
+ {
+  "id": 191,
+  "en": "Also, I...think there may be clues around\nRantaro's body. It might be...hard to do, but...",
+  "tr": ""
+ },
+ {
+  "id": 192,
+  "en": "And finally, we need to hear\nfrom everyone here.",
+  "tr": ""
+ },
+ {
+  "id": 193,
+  "en": "One of them might have\nnoticed something we missed.",
+  "tr": ""
+ },
+ {
+  "id": 194,
+  "en": "We should pay close attention\nto everyone's alibis.",
+  "tr": ""
+ },
+ {
+  "id": 195,
+  "en": "We need to verify where everyone was\nduring the timeframe when Rantaro was killed.",
+  "tr": ""
+ },
+ {
+  "id": 196,
+  "en": "If that's the case, then who should we\nquestion?",
+  "tr": ""
+ },
+ {
+  "id": 197,
+  "en": "The six people that went down to\nthe basement with Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 198,
+  "en": "Kaito, Gonta, Maki, Tenko, Angie, and Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 199,
+  "en": "Let's talk to them first.",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "I'm fairly certain they were also in the Game\nRoom next to the library...",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "We should ask them\nwhat they were doing there.",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "Okay... Let's go find them.",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "Conversation with Kaito Momota.",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "Well?",
+  "tr": ""
+ },
+ {
+  "id": 205,
+  "en": "If you're the <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>, then you've\ngot your eyes on the culprit, right?",
+  "tr": ""
+ },
+ {
+  "id": 206,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 207,
+  "en": "Tell me who you think the culprit is.\nI don't mind if it's just an <CLT=cltSTRONG>educated guess<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 208,
+  "en": "Oh, I wanna know too...",
+  "tr": ""
+ },
+ {
+  "id": 209,
+  "en": "Ah, no, I'm sorry...\nI can't say anything yet...",
+  "tr": ""
+ },
+ {
+  "id": 210,
+  "en": "But...there's someone you're a little bit \nsuspicious of, right? No, there's gotta be.",
+  "tr": ""
+ },
+ {
+  "id": 211,
+  "en": "Ah...",
+  "tr": ""
+ },
+ {
+  "id": 212,
+  "en": "But you're afraid of that. You're afraid \nof suspecting someone, aren't you?",
+  "tr": ""
+ },
+ {
+  "id": 213,
+  "en": "That's how it looks to me.",
+  "tr": ""
+ },
+ {
+  "id": 214,
+  "en": "But with things the way they are, wouldn't it\nbe better for you to suspect others more?",
+  "tr": ""
+ },
+ {
+  "id": 215,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 216,
+  "en": "And let me just warn you...",
+  "tr": ""
+ },
+ {
+  "id": 217,
+  "en": "The way the world works is that <CLT=cltSTRONG>those who \nspeak, win<CLT=cltNORMAL>. The truth can easily be twisted.",
+  "tr": ""
+ },
+ {
+  "id": 218,
+  "en": "In order to fix a twisted truth, you need \nsomething even more powerful.",
+  "tr": ""
+ },
+ {
+  "id": 219,
+  "en": "What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 220,
+  "en": "I mean that <CLT=cltSTRONG>testimonies without evidence<CLT=cltNORMAL>\nare powerless. Be careful.",
+  "tr": ""
+ },
+ {
+  "id": 221,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 222,
+  "en": "The way the world works is that <CLT=cltSTRONG>those who \nspeak, win<CLT=cltNORMAL>. The truth can easily be twisted.",
+  "tr": ""
+ },
+ {
+  "id": 223,
+  "en": "In order to fix a twisted truth, you need \nsomething even more powerful.",
+  "tr": ""
+ },
+ {
+  "id": 224,
+  "en": "I mean that <CLT=cltSTRONG>testimonies without evidence<CLT=cltNORMAL>\nare powerless. Be careful.",
+  "tr": ""
+ },
+ {
+  "id": 225,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 226,
+  "en": "Conversation with Gonta Gokuhara",
+  "tr": ""
+ },
+ {
+  "id": 227,
+  "en": "Conversation with Kokichi Ouma",
+  "tr": ""
+ },
+ {
+  "id": 228,
+  "en": "Conversation with Korekiyo Shinguji",
+  "tr": ""
+ },
+ {
+  "id": 229,
+  "en": "Conversation with Keebo",
+  "tr": ""
+ },
+ {
+  "id": 230,
+  "en": "Why did the culprit not step forward and\ntake advantage of the First Blood Perk?",
+  "tr": ""
+ },
+ {
+  "id": 231,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 232,
+  "en": "The culprit must have killed to survive, so\nit is odd that they would not step forward.",
+  "tr": ""
+ },
+ {
+  "id": 233,
+  "en": "True... I wonder what that means...",
+  "tr": ""
+ },
+ {
+  "id": 234,
+  "en": "I can think of several possibilities,\nbut the worst case scenario is...",
+  "tr": ""
+ },
+ {
+  "id": 235,
+  "en": "...the culprit's objective wasn't to <CLT=cltSTRONG>survive<CLT=cltNORMAL>,\nit was to <CLT=cltSTRONG>kill everyone here<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 236,
+  "en": "E-Everyone!?",
+  "tr": ""
+ },
+ {
+  "id": 237,
+  "en": "That would explain why they would forgo\ntheir survival in favor of a class trial.",
+  "tr": ""
+ },
+ {
+  "id": 238,
+  "en": "But...doesn't that seem like a bit of a\nstretch to you?",
+  "tr": ""
+ },
+ {
+  "id": 239,
+  "en": "Well, if the culprit is also the mastermind,\nthen it's certainly plausible.",
+  "tr": ""
+ },
+ {
+  "id": 240,
+  "en": "W-Well, true... Killing us all does seem like\nsomething the mastermind would do...",
+  "tr": ""
+ },
+ {
+  "id": 241,
+  "en": "So we cannot lose this fight... Even on this\nuncharted path, we must find our way.",
+  "tr": ""
+ },
+ {
+  "id": 242,
+  "en": "The mastermind's objective is not to\nsurvive, but to kill us all.",
+  "tr": ""
+ },
+ {
+  "id": 243,
+  "en": "That would explain why they would forgo\ntheir survival in favor of a class trial.",
+  "tr": ""
+ },
+ {
+  "id": 244,
+  "en": "So we cannot lose this fight... Even on this\nuncharted path, we must find our way.",
+  "tr": ""
+ },
+ {
+  "id": 245,
+  "en": "Conversation with Himiko Yumeno",
+  "tr": ""
+ },
+ {
+  "id": 246,
+  "en": "Conversation with Maki Harukawa",
+  "tr": ""
+ },
+ {
+  "id": 247,
+  "en": "Conversation with Tenko Chabashira",
+  "tr": ""
+ },
+ {
+  "id": 248,
+  "en": "I don't know who killed Rantaro, but it's \nMonokuma's fault it happened.",
+  "tr": ""
+ },
+ {
+  "id": 249,
+  "en": "Because he pressured us...this happened.",
+  "tr": ""
+ },
+ {
+  "id": 250,
+  "en": "That <CLT=cltSTRONG>motive<CLT=cltNORMAL> he gave us is part of it,\nand so is that strange music...",
+  "tr": ""
+ },
+ {
+  "id": 251,
+  "en": "He played that music at such a high volume \nto make us feel sick and want to kill...",
+  "tr": ""
+ },
+ {
+  "id": 252,
+  "en": "It was awful...\nI thought I'd go crazy.",
+  "tr": ""
+ },
+ {
+  "id": 253,
+  "en": "I bet...someone felt pressured by that \nand killed Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 254,
+  "en": "It's all...Monokuma's fault.",
+  "tr": ""
+ },
+ {
+  "id": 255,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 256,
+  "en": "Anyway...we have to stop the mastermind so\nthis is the last murder that ever happens here!",
+  "tr": ""
+ },
+ {
+  "id": 257,
+  "en": "We just have to.",
+  "tr": ""
+ },
+ {
+  "id": 258,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 259,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Promotional Video BGM<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 260,
+  "en": "I don't know who killed Rantaro, but it's \nMonokuma's fault it happened.",
+  "tr": ""
+ },
+ {
+  "id": 261,
+  "en": "He played that music at such a high volume \nto make us feel sick and want to kill...",
+  "tr": ""
+ },
+ {
+  "id": 262,
+  "en": "It was being played throughout the entire\nacademy. I was about to lose my mind.",
+  "tr": ""
+ },
+ {
+  "id": 263,
+  "en": "I bet...someone felt pressured by that \nand killed Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 264,
+  "en": "It's all...Monokuma's fault.",
+  "tr": ""
+ },
+ {
+  "id": 265,
+  "en": "Conversation with Angie Yonaga",
+  "tr": ""
+ },
+ {
+  "id": 266,
+  "en": "Don't talk to me, crotch-itch!\nI'm fuckin' busy!",
+  "tr": ""
+ },
+ {
+  "id": 267,
+  "en": "<CLT=cltMIND>Miu continued ignoring us while she\nfiddled with a controller.",
+  "tr": ""
+ },
+ {
+  "id": 268,
+  "en": "What's that controller for?",
+  "tr": ""
+ },
+ {
+  "id": 269,
+  "en": "Dun-dun-duh-dunnnn! It's a prone!",
+  "tr": ""
+ },
+ {
+  "id": 270,
+  "en": "Prone?",
+  "tr": ""
+ },
+ {
+  "id": 271,
+  "en": "I don't mean to butt in to the conversation, \nbut...don't you mean \"drone\"?",
+  "tr": ""
+ },
+ {
+  "id": 272,
+  "en": "If it was a Prone, it'd team up with the rest\nof the Ganglion alliance to destroy humanity.",
+  "tr": ""
+ },
+ {
+  "id": 273,
+  "en": "<CLT=cltMIND>I have no idea what she's talking about...",
+  "tr": ""
+ },
+ {
+  "id": 274,
+  "en": "W-Wait a second...\nThe controller is...",
+  "tr": ""
+ },
+ {
+  "id": 275,
+  "en": "Hah-hahaha!\nNow you're gettin' it, dickcheese!",
+  "tr": ""
+ },
+ {
+  "id": 276,
+  "en": "<CLT=cltMIND>She laughed obnoxiously and pointed her\nfinger upward.",
+  "tr": ""
+ },
+ {
+  "id": 277,
+  "en": "Hah! Feast your eyes on the latest creation\nfrom the gorgeous girl genius, Miu Iruma...",
+  "tr": ""
+ },
+ {
+  "id": 278,
+  "en": "It's a drome!",
+  "tr": ""
+ },
+ {
+  "id": 279,
+  "en": "I told you, that's a drone.",
+  "tr": ""
+ },
+ {
+  "id": 280,
+  "en": "If it was a drome, it'd be leading a pack\nof vicious monsters!",
+  "tr": ""
+ },
+ {
+  "id": 281,
+  "en": "I don't get it.",
+  "tr": ""
+ },
+ {
+  "id": 282,
+  "en": "When did you have time to make this...?",
+  "tr": ""
+ },
+ {
+  "id": 283,
+  "en": "I got bored after I made those cameras you\nasked for, so I modified this RC plane.",
+  "tr": ""
+ },
+ {
+  "id": 284,
+  "en": "I even decked it out with a camera so it'll\ntake perfect aerial photographs!",
+  "tr": ""
+ },
+ {
+  "id": 285,
+  "en": "From there, I'll use the photos as a reference\nto draft a floor plan to help the investigation!",
+  "tr": ""
+ },
+ {
+  "id": 286,
+  "en": "This way, I get outta havin' to do any actual\ninvestigative legwork! Bwah-hahaha!",
+  "tr": ""
+ },
+ {
+  "id": 287,
+  "en": "<CLT=cltMIND>Drafting a floor plan...with photos?",
+  "tr": ""
+ },
+ {
+  "id": 288,
+  "en": "That's amazing...\nI'm sure this will help with the investigation.",
+  "tr": ""
+ },
+ {
+  "id": 289,
+  "en": "The only problem is, I'm not used to operatin'\na drone and takin' pictures with it!",
+  "tr": ""
+ },
+ {
+  "id": 290,
+  "en": "You shouldn't be proud of that...and if you\ndon't hurry, the investigation will end soon!",
+  "tr": ""
+ },
+ {
+  "id": 291,
+  "en": "I can't do shit about that! So just calm\nyour tiny tits and shut up!!",
+  "tr": ""
+ },
+ {
+  "id": 292,
+  "en": "Sh-Shut up, you! My chest is way better\nthan your nasty cow udders!",
+  "tr": ""
+ },
+ {
+  "id": 293,
+  "en": "Heeeee!!!",
+  "tr": ""
+ },
+ {
+  "id": 294,
+  "en": "U-Udders...! Udders...!?",
+  "tr": ""
+ },
+ {
+  "id": 295,
+  "en": "You're a bit wimpy when someone stands up to\nyou, huh? You're actually a complete wuss.",
+  "tr": ""
+ },
+ {
+  "id": 296,
+  "en": "Don't talk to me, you ugly skank!\nQuit interrupting the investigation!",
+  "tr": ""
+ },
+ {
+  "id": 297,
+  "en": "Huh!? Dammit, the shot's outta focus again!\nYour fuckin' face is blurring the lens, bitch!",
+  "tr": ""
+ },
+ {
+  "id": 298,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 299,
+  "en": "<CLT=cltMIND>The floor plan might be useful to the\ninvestigation...",
+  "tr": ""
+ },
+ {
+  "id": 300,
+  "en": "<CLT=cltMIND>But it might not be finished in time for the\nclass trial... I guess I won't expect too much.",
+  "tr": ""
+ },
+ {
+  "id": 301,
+  "en": "<CLT=cltMIND>I feel like I'm missing something...\nI should investigate a little more.",
+  "tr": ""
+ },
+ {
+  "id": 302,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 303,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 304,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 305,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 306,
+  "en": "<CLT=cltMIND>The time limit to start the killing game\nhad almost expired...",
+  "tr": ""
+ },
+ {
+  "id": 307,
+  "en": "<CLT=cltMIND>But then the countdown stopped, and that\nobnoxious noise went away, too.",
+  "tr": ""
+ },
+ {
+  "id": 308,
+  "en": "<CLT=cltMIND>I wonder what would've happened if the\ntime limit had expired...",
+  "tr": ""
+ },
+ {
+  "id": 309,
+  "en": "<CLT=cltMIND>Tons of books are crammed into the bookcase,\nand arranged in various stacks on top.",
+  "tr": ""
+ },
+ {
+  "id": 310,
+  "en": "It doesn't seem as if anything has changed\nsince we set up the cameras...",
+  "tr": ""
+ },
+ {
+  "id": 311,
+  "en": "The books that you stacked\nup haven't moved.",
+  "tr": ""
+ },
+ {
+  "id": 312,
+  "en": "Oh, you mean the ones I stacked to keep\npeople from going through the vent.",
+  "tr": ""
+ },
+ {
+  "id": 313,
+  "en": "Yeah...those have been left alone.",
+  "tr": ""
+ },
+ {
+  "id": 314,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Stacked Books<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 315,
+  "en": "<CLT=cltMIND>There are lots of books jam-packed in the\nbookcases.",
+  "tr": ""
+ },
+ {
+  "id": 316,
+  "en": "<CLT=cltMIND>The books I arranged in the front of the\nvent seem to have been left alone.",
+  "tr": ""
+ },
+ {
+  "id": 317,
+  "en": "<CLT=cltMIND>The moving ladder I used to reorganize\nthe books on top of the bookcases.",
+  "tr": ""
+ },
+ {
+  "id": 318,
+  "en": "<CLT=cltMIND>Nothing out of the ordinary here...",
+  "tr": ""
+ },
+ {
+  "id": 319,
+  "en": "<CLT=cltMIND>The vent is open... I was the one who took\noff the grate and left it in the duct.",
+  "tr": ""
+ },
+ {
+  "id": 320,
+  "en": "And we were keeping watch in the\nclassroom this vent leads to.",
+  "tr": ""
+ },
+ {
+  "id": 321,
+  "en": "I don't think the culprit came\nin or out through there.",
+  "tr": ""
+ },
+ {
+  "id": 322,
+  "en": "Yeah, that's true.",
+  "tr": ""
+ },
+ {
+  "id": 323,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Library Vent<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 324,
+  "en": "<CLT=cltMIND>The vent looks exactly how I left it when \nI removed the grate earlier.",
+  "tr": ""
+ },
+ {
+  "id": 325,
+  "en": "<CLT=cltMIND>Shuichi and I were on lookout in the\nclassroom that connects to this vent...",
+  "tr": ""
+ },
+ {
+  "id": 326,
+  "en": "<CLT=cltMIND>I doubt anyone could've gone through here.",
+  "tr": ""
+ },
+ {
+  "id": 327,
+  "en": "<CLT=cltMIND>The moving bookcase is closed right now,\nso the hidden door is currently out of sight.",
+  "tr": ""
+ },
+ {
+  "id": 328,
+  "en": "You guys set up a security sensor on \ntop of this bookcase, right?",
+  "tr": ""
+ },
+ {
+  "id": 329,
+  "en": "Y-Yeah, it should still be there...\nLet me check.",
+  "tr": ""
+ },
+ {
+  "id": 330,
+  "en": "<CLT=cltMIND>Shuichi climbed up the ladder and looked\non top of the moving bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 331,
+  "en": "It's still here.\nI should take it down now...",
+  "tr": ""
+ },
+ {
+  "id": 332,
+  "en": "Removing it is fine, but won't your receiver\ngo off when you move it?",
+  "tr": ""
+ },
+ {
+  "id": 333,
+  "en": "No, it's alright.\nI turned the receiver off.",
+  "tr": ""
+ },
+ {
+  "id": 334,
+  "en": "Huh? You can turn it off?",
+  "tr": ""
+ },
+ {
+  "id": 335,
+  "en": "Yes, I made sure to switch it\noff on the way down here.",
+  "tr": ""
+ },
+ {
+  "id": 336,
+  "en": "I thought the mastermind could still be\ninside, and I didn't want to alert them...",
+  "tr": ""
+ },
+ {
+  "id": 337,
+  "en": "I see... Smart thinking.",
+  "tr": ""
+ },
+ {
+  "id": 338,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Receiver on Shuichi<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 339,
+  "en": "<CLT=cltMIND>The moving bookcase is closed right now,\nso the hidden door is currently out of sight.",
+  "tr": ""
+ },
+ {
+  "id": 340,
+  "en": "<CLT=cltMIND>We were supposed to expose the mastermind\nhere, and put an end to everything...",
+  "tr": ""
+ },
+ {
+  "id": 341,
+  "en": "<CLT=cltMIND>The moving bookcase is closed right now,\nso the hidden door is currently out of sight.",
+  "tr": ""
+ },
+ {
+  "id": 342,
+  "en": "<CLT=cltMIND>The bookcase automatically closes after\na certain amount of time.",
+  "tr": ""
+ },
+ {
+  "id": 343,
+  "en": "<CLT=cltMIND>So even if the mastermind goes through the door,\nthe bookcase will go back to its original place.",
+  "tr": ""
+ },
+ {
+  "id": 344,
+  "en": "<CLT=cltMIND>However, the dust Shuichi placed on the card\nreader hasn't been touched at all...",
+  "tr": ""
+ },
+ {
+  "id": 345,
+  "en": "<CLT=cltMIND>Which means the mastermind didn't go\nthrough...",
+  "tr": ""
+ },
+ {
+  "id": 346,
+  "en": "<CLT=cltMIND>It's the front door that leads directly to the\nbasement stairs.",
+  "tr": ""
+ },
+ {
+  "id": 347,
+  "en": "<CLT=cltMIND>We went through this door before we\ndiscovered Rantaro's body.",
+  "tr": ""
+ },
+ {
+  "id": 348,
+  "en": "We entered the library through here\nwith Kaito and Tenko...",
+  "tr": ""
+ },
+ {
+  "id": 349,
+  "en": "Yeah...we saw the moving bookcase close,\nand then when we ran over...",
+  "tr": ""
+ },
+ {
+  "id": 350,
+  "en": "We found Rantaro's body\nbehind that bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 351,
+  "en": "Hm, I wonder if Rantaro entered through\nthe same door as we did...",
+  "tr": ""
+ },
+ {
+  "id": 352,
+  "en": "Maybe the mastermind did, too...",
+  "tr": ""
+ },
+ {
+  "id": 353,
+  "en": "When we see the pictures after the\nMonokubs develop them, that will be clear.",
+  "tr": ""
+ },
+ {
+  "id": 354,
+  "en": "I guess all we can do is wait.",
+  "tr": ""
+ },
+ {
+  "id": 355,
+  "en": "<CLT=cltMIND>It's the front door that leads directly to the\nbasement stairs.",
+  "tr": ""
+ },
+ {
+  "id": 356,
+  "en": "<CLT=cltMIND>We went through this door before we\ndiscovered Rantaro's body.",
+  "tr": ""
+ },
+ {
+  "id": 357,
+  "en": "<CLT=cltMIND>This is where Shuichi, Kaito, Tenko, and I\nentered the library.",
+  "tr": ""
+ },
+ {
+  "id": 358,
+  "en": "<CLT=cltMIND>When we saw the moving bookcase close,\nwe rushed over...",
+  "tr": ""
+ },
+ {
+  "id": 359,
+  "en": "<CLT=cltMIND>and then we found Rantaro's body\nnear that bookcase at the back...",
+  "tr": ""
+ },
+ {
+  "id": 360,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 361,
+  "en": "<CLT=cltMIND>We don't know who entered through here...\nand who left...",
+  "tr": ""
+ },
+ {
+  "id": 362,
+  "en": "<CLT=cltMIND>We won't know until we get the pictures\nfrom the Monokubs.",
+  "tr": ""
+ },
+ {
+  "id": 363,
+  "en": "<CLT=cltMIND>This is the rear door... It's the furthest door\nfrom the stairs and it leads to the hallway.",
+  "tr": ""
+ },
+ {
+  "id": 364,
+  "en": "By the way, this is a sliding door.\nSee? It opens when you slide it.",
+  "tr": ""
+ },
+ {
+  "id": 365,
+  "en": "Yes, I saw that.",
+  "tr": ""
+ },
+ {
+  "id": 366,
+  "en": "Do you think Rantaro entered through\nthis door?",
+  "tr": ""
+ },
+ {
+  "id": 367,
+  "en": "I can't say for sure until we get\nthose pictures back from the Monokubs...",
+  "tr": ""
+ },
+ {
+  "id": 368,
+  "en": "You're right. We'll just have to wait.",
+  "tr": ""
+ },
+ {
+  "id": 369,
+  "en": "<CLT=cltMIND>This is the rear door... It's the furthest door\nfrom the stairs and it leads to the hallway.",
+  "tr": ""
+ },
+ {
+  "id": 370,
+  "en": "<CLT=cltMIND>Who went through this door...?",
+  "tr": ""
+ },
+ {
+  "id": 371,
+  "en": "<CLT=cltMIND>I guess we'll find out once the Monokubs are\nfinished developing the film.",
+  "tr": ""
+ },
+ {
+  "id": 372,
+  "en": "<CLT=cltMIND>It's a mysterious globe...but I don't think\nit has anything to do with this incident.",
+  "tr": ""
+ },
+ {
+  "id": 373,
+  "en": "<CLT=cltMIND>Looks like the books I stacked on top of the\nbookcases haven't been touched.",
+  "tr": ""
+ },
+ {
+  "id": 374,
+  "en": "I'm pretty sure I don't need to tell you this,\nbut shouldn't we investigate Rantaro's body?",
+  "tr": ""
+ },
+ {
+  "id": 375,
+  "en": "Yes...\nIf we want to find clues, we have to...",
+  "tr": ""
+ },
+ {
+  "id": 376,
+  "en": "But if it's too much for you, Kaede,\nyou don't have to, okay?",
+  "tr": ""
+ },
+ {
+  "id": 377,
+  "en": "No, it's fine. I can do it.",
+  "tr": ""
+ },
+ {
+  "id": 378,
+  "en": "<CLT=cltMIND>My mind was set, and I started to\nwalk toward Rantaro's body.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,59 @@
+@ chap1_text_US
+## c01_011_250
+0|Gördün mü? Tam dediğim gibi.
+1|Ha? Ne tam dediğin gibi?
+2|Bazen hayallerini gerçeğe dönüştürmek için \nbiraz pervasız olmak gerekir!
+3|Ha? Neden bahsediyorsun?
+4|Ha? Ne demek istiyorsun? Monokuma'yı benim\nsayemde yendik, değil mi?
+5|Buradan nasıl çıkacağımızı hâlâ bilmiyorum... \nAma bir numaralı tehdit artık yok!
+6|Ah, Kaito... Doğrusunu söylemek gerekirse\nyaptığın şey gerçekten tehlikeliydi...
+7|Ş-Şey, biraz gergindim. Sadece biraz.
+8|Ama artık evrenin izlediğini biliyoruz!\nO ayı hak ettiği kozmik adaleti buldu!
+9|Evren her zaman sınırları zorlayan ve asla\npes etmeyenlerin yanındadır!
+10|Ş-Şey, sanırım?
+11|Neyse, Monokuma artık benim sayemde yok!\nTek yapmamız gereken kaçmak!
+13|Monokuma artık benim sayemde yok! \nTek yapmamız gereken kaçmak!
+14|Hmm...
+15|Ne oldu, Gonta?\nBir şey mi arıyorsun?
+16|Burada gerçekten hiç böcek yok...
+17|Ah evet, bundan daha önce bahsetmiştin.
+18|Gonta nedenini anlamaya çalışıyor...
+19|Ah, doğru. Tabii ki Ultimate Böcekbilimci\nbunu fark eder.
+20|Gonta hiç bilmiyor ama...
+21|Gonta pes etmeyecek!\nCentilmen o kadar kolay pes etmez!
+22|O yüzden Gonta daha çok arayacak!
+23|Düşmanımızın böyle öleceğini kim tahmin \nederdi... Ne hayal kırıklığı yaratan bir son...
+24|Her halükârda bu durumun bittiği anlamına geliyor...\nEve gidip Ablamla vakit geçirebilirim.
+25|Ah, ablan mı var, Kiyo?
+26|Eminim senin için endişeleniyordur.
+27|<CLT=cltMIND>Ama bu muhtemelen herkesin ailesi için\ngeçerli... Benimki dahil...
+28|Ablam çok yalnız...\nBir an önce onun yanına dönmeliyim...
+29|<CLT=cltMIND>Ben de annemle babamın ve arkadaşlarımın\nyanına dönmeliyim!
+30|Ablam çok yalnız...\nBir an önce onun yanına dönmeliyim...
+31|O yeraltı geçidine geri mi\ndöneceksin?
+32|Ha!? Bunu neden birden\nsoruyorsun?
+33|Bunun bittiğini düşünmüyorsun, değil mi?\nAz önceki tavrın belli ediyordu.
+35|Ve ikiniz çok samimi göründüğünüz için o\ngeçide onunla gireceğini düşündüm.
+36|Ah, b-ben kimsenin tarafını tutmaya çalışmıyorum...
+37|İstediğinizi yapmakta özgürsünüz,\nsadece geri kalanımızı işin içine katmayın.
+38|...Biraz...hoş olmayan biri,\ndeğil mi?
+40|Hey, servis otobüsü geliyor mu gelmiyor mu?\nEpeydir bekliyorum...
+41|Bir otobüs geleceğini sanmıyorum. Burası\nbaştan sona kafesli bir duvarla çevrili.
+42|Ah evet...
+43|Şey, sadece...fuardan otobüsle dönmek\nbir gelenektir.
+44|Yazın da kışın da otobüsle seyahat ederim.\nOtobüs şoförü bana denizci şarkıları söyler.
+45|Eskiden borç batağındaydım ama artık \nkendi evimin gururlu sahibiyim.
+46|<CLT=cltMIND>Neden bahsediyor bu?
+47|Boş ver...düpedüz önemsiz...
+48|Neyse... Bu duvar bu kadar büyükken \notobüs buraya nasıl girer acaba.
+49|<CLT=cltMIND>Bir otobüs gerçekten buraya gelebilir mi?
+50|Bu duvar bu kadar büyükken birinin bizi \nkurtarmak için buraya nasıl gireceğini merak ediyorum.
+51|Hey, şunlara bakın!\nBirlikte yürüyüşe mi çıktınız, ha!?
+52|Neden depodan birkaç prezervatif\nalmıyorsunuz!? Tedbirli olmak iyidir!
+53|Ne—!? O-Onlara ihtiyacımız yok!
+54|Ne? Erkeklerin içine boşalmasına izin\nveriyorsan lanet olası bir sürtük olmalısın!
+55|Gündüz piyano tuşlarını parmaklıyorsun, gece\nde erkekler seni parmaklıyor, ha!?
+56|K-Kes lan sesini! Beni ne tür bir kız\nsanıyorsun!?
+57|Hiiiii!
+58|Ş-Şakaydı... Sadece ortamı biraz\nyumuşatmaya çalışıyordum...
+59|Onu görmezden gelelim, Kaede...\nOdaklanmamız lazım.

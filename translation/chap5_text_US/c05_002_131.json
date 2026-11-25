@@ -1,0 +1,507 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Kaito still won't look me in the eyes...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Talking to him is going to be awkward.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "How about you give me a piggyback ride \non the way back down the stairs?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>She's still saying that?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "They made us climb all those stairs, just for\na room that looks like a playground...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I feel like this was a huge waste of time, but\nlet's look around for anything useful.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I'll investigate around here a little more.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "This is amazing...\nIt looks like the cockpit of a spaceship.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "It's pretty cool! Perfect for \nmy research lab!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "You can operate this? I mean, it's probably\njust a simulator, but...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Yeah...I've never seen this machine, \nbut I've trained with something like it...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Well, I guess it'll all work out!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "What reckless confidence... I don't ever \nwanna be in any vehicle you're driving.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "But, wow. Is this really a simulator?\nI feel like it's too elaborate...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Nah, no way it's real.\nI mean, what would it even operate?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>At that moment...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hey. Come look at this.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Huh? Something wrong?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "I found this in the back...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "What is this? A file?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "The Gofer Project!?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Countries from all over the world worked\ntogether to create a meteorite defense plan.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>But none of us can remember the\ndetails of that.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "So this file has information\nabout the project...?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "So what does it say!?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "H-Hold on, I'll read it...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Let's see...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>The Gofer Project.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>The last hope to save humanity from the\ndisaster raining down from space.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>Burdened with this imperative project are\n<CLT=cltSTRONG>boys and girls of exceptional talent<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>That is the purpose of the Gofer Project.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "W-Well...what about the rest of it?\nWhat's it say!?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Don't tease us! Just say it already!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "The rest of it is blacked out,\nI can't read any further.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Nyeh!? What did you say!?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Did Monokuma do this!?\nDammit, he's just screwing with us!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Do you think this part about <CLT=cltSTRONG>boys and girls\nof exceptional talent<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...is referring to us?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "And what could the <CLT=cltSTRONG>seeds of future hope<CLT=cltNORMAL> mean?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "And what's this about the <CLT=cltSTRONG>new world<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "This is like...Noah's Ark.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Huh? Noah's Ark?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Well...Noah's Ark was built with gofer wood.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "What? O-Oh yeah! You're right!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Of course, it's just a story from the Bible.\nBut to choose that name in particular...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "It does seem related...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>But how is all of this related\nto the academy? To us?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Tch, none of that makes any sense.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "If we find the next <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>, we might\nbe able to remember something about it...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Now that you mention it...where is it?\nIt doesn't seem like it's in this lab...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "So it must be somewhere else!\nWe gotta go look for it first.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "You're right... This place is useless to us now.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I'm gonna pretend I didn't hear that...\nCuz we gotta find the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>A <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>...\nOur last hope.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>But it's something that\nMonokuma created...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>I don't want to depend on something\nthat Monokuma has touched.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>But there's nothing we can do.\nThere's no other way to restore our memories.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>It looks like the cockpit of a spaceship...\nOf course, it's just a simulator.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>What really bothers me is what I\nfound in Maki's lab...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "This document contains information\non the Gofer Project.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>The Gofer Project.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>The last hope to save humanity from the\ndisaster raining down from space.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Burdened with this imperative project are\n<CLT=cltSTRONG>boys and girls of exceptional talent<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>As the <CLT=cltSTRONG>seeds of future hope<CLT=cltMIND>,\nthey will find a <CLT=cltSTRONG>new world<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>That is the purpose of\nthe Gofer Project.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>The rest of it is blacked out,\nI can't read any further.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>\"boys and girls of exceptional talent\"<CLT=cltMIND>...\nIs that us?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND><CLT=cltSTRONG>Seeds of future hope<CLT=cltMIND>?\n<CLT=cltSTRONG>Find a new world<CLT=cltMIND>...?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>It's like...Noah's Ark.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>How is this related to the Ultimate Academy?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>It's a large machine, perhaps\nfor a planetarium.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>You can project stars on the\nceiling with this. It's quite the facility.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>There's a window...\nI can see the school and the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "It's pretty high up... But I guess that's \nobvious from how tall that staircase is.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Looks like this is the top floor.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "So my room's at the very top!?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Yeah, so what?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>The window looks down on the school\nbuilding and courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>There's nothing above...\nIt seems this is the top floor.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>There's a window...\nI can see the school and the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "It's pretty high up... But I guess that's \nobvious from how tall that staircase is.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Looks like this is the top floor.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "So my room's at the very top!?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Yeah, so what?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>The window looks down on the school\nbuilding and courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>There's nothing above...\nIt seems this is the top floor.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Ah! There you are, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Can you come to the dining hall?\nTsumugi wants us all to meet her there.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Huh? Tsumugi?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "She said she found something. I assume\nshe has found a <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "At any rate, please hurry!\nI shall go on ahead!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>So we finally found it...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "<CLT=cltMIND>The next <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>.\nWhat will we remember this time?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "I should head to the dining hall.",
+  "tr": ""
+ }
+]

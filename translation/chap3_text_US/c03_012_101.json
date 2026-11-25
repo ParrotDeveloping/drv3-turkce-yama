@@ -1,0 +1,87 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Angie told us to give up,\nbut I have no intention of doing so.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>My goal is the same as Kaede's.\nGet out of here, with everyone.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>And that means...I need to do something.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>There's still time... I need to rest...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>Do they plan for us to wear this forever?\nIt makes it easier to tell us apart, I suppose...",
+  "tr": ""
+ }
+]

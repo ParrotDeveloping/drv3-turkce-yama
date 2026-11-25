@@ -1,0 +1,162 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>You may revert all of your affection levels\nback to zero and start over again.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Affection has been erased!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>You can't undo this! Are you sure you\nwanna revert your affection to zero?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>Would you like to revert\nit back to zero?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Thus, the ten days that Monokuma\ngave us passed...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>The two that fall in love can graduate...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>It seems that wasn't a lie...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSYSTEM>Would you like to see all of your\nclassmates' graduation events?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>Would you like to see another\nclassmate's graduation event?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND> [Tentative] School Building",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND> [Tentative] Dining Hall",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND> [Tentative] Dormitory",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND> [Tentative] Miu's Lab",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND> [Tentative] Pool",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND> [Tentative] Training Arena",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND> [Tentative] Rear Garden (East)",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND> [Tentative] Rear Garden (West)",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND> [Tentative] Shrine to the Courtroom",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND> [Tentative] Casino",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND> [Tentative] Love Hotel",
+  "tr": ""
+ }
+]

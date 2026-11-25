@@ -1,0 +1,1042 @@
+[
+ {
+  "id": 0,
+  "en": "Bullet Select",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Move Reticle",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Fast-Forward Argument",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Truth Blade Select",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Move blade",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Normal slash",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Fast forward rebuttal",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Truth Blade confirm",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Truth Blade slash",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Truth Blade cylinder",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Cursor movement",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Flash spot",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Fast forward Letter Orbs",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Show/Hide Question",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Get Letter Orb",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Car movement",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Accelerate",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "Bullet Select",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "Aim Movement",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "Silencer",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "Fast-Forward Argument",
+  "tr": ""
+ },
+ {
+  "id": 205,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 206,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 207,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 208,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 209,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 210,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 211,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 212,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 250,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 251,
+  "en": "Cursor movement",
+  "tr": ""
+ },
+ {
+  "id": 252,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 253,
+  "en": "Dig up piece",
+  "tr": ""
+ },
+ {
+  "id": 254,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 255,
+  "en": "Show/Hide Question",
+  "tr": ""
+ },
+ {
+  "id": 256,
+  "en": "Confirm image",
+  "tr": ""
+ },
+ {
+  "id": 257,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 258,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 259,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 260,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 261,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 262,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 300,
+  "en": "Statement Select",
+  "tr": ""
+ },
+ {
+  "id": 301,
+  "en": "Statement Select",
+  "tr": ""
+ },
+ {
+  "id": 302,
+  "en": "Statement Select",
+  "tr": ""
+ },
+ {
+  "id": 303,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 304,
+  "en": "Fast-Forward Argument",
+  "tr": ""
+ },
+ {
+  "id": 305,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 306,
+  "en": "Make a statement",
+  "tr": ""
+ },
+ {
+  "id": 307,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 308,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 309,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 310,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 311,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 312,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 350,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 351,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 352,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 353,
+  "en": "Rhythm button",
+  "tr": ""
+ },
+ {
+  "id": 354,
+  "en": "Rhythm button",
+  "tr": ""
+ },
+ {
+  "id": 355,
+  "en": "Rhythm button",
+  "tr": ""
+ },
+ {
+  "id": 356,
+  "en": "Rhythm button",
+  "tr": ""
+ },
+ {
+  "id": 357,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 358,
+  "en": "Fever Time",
+  "tr": ""
+ },
+ {
+  "id": 359,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 360,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 361,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 362,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 400,
+  "en": "Panel select",
+  "tr": ""
+ },
+ {
+  "id": 401,
+  "en": "Cursor Movement",
+  "tr": ""
+ },
+ {
+  "id": 402,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 403,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 404,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 405,
+  "en": "Expand panel",
+  "tr": ""
+ },
+ {
+  "id": 406,
+  "en": "Fit panel",
+  "tr": ""
+ },
+ {
+  "id": 407,
+  "en": "Turn page",
+  "tr": ""
+ },
+ {
+  "id": 408,
+  "en": "Turn page",
+  "tr": ""
+ },
+ {
+  "id": 409,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 410,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 411,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 412,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 450,
+  "en": "Truth Bullet select",
+  "tr": ""
+ },
+ {
+  "id": 451,
+  "en": "Aim Movement",
+  "tr": ""
+ },
+ {
+  "id": 452,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 453,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 454,
+  "en": "Fast-Forward Argument",
+  "tr": ""
+ },
+ {
+  "id": 455,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 456,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 457,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 458,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 459,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 460,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 461,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 462,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 500,
+  "en": "Truth Bullet select",
+  "tr": ""
+ },
+ {
+  "id": 501,
+  "en": "Aim movement",
+  "tr": ""
+ },
+ {
+  "id": 502,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 503,
+  "en": "Silencer",
+  "tr": ""
+ },
+ {
+  "id": 504,
+  "en": "Fast-Forward Argument",
+  "tr": ""
+ },
+ {
+  "id": 505,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 506,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 507,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 508,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 509,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 510,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 511,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 512,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 550,
+  "en": "Truth Bullet select",
+  "tr": ""
+ },
+ {
+  "id": 551,
+  "en": "Aim movement",
+  "tr": ""
+ },
+ {
+  "id": 552,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 553,
+  "en": "Silencer",
+  "tr": ""
+ },
+ {
+  "id": 554,
+  "en": "Fast-Forward Argument",
+  "tr": ""
+ },
+ {
+  "id": 555,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 556,
+  "en": "Shoot Truth Bullet\n/(Hold) Lie",
+  "tr": ""
+ },
+ {
+  "id": 557,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 558,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 559,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 560,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 561,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 562,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 600,
+  "en": "Truth Bullet select",
+  "tr": ""
+ },
+ {
+  "id": 601,
+  "en": "Aim movement",
+  "tr": ""
+ },
+ {
+  "id": 602,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 603,
+  "en": "Silencer",
+  "tr": ""
+ },
+ {
+  "id": 604,
+  "en": "Fast-Forward Argument",
+  "tr": ""
+ },
+ {
+  "id": 605,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 606,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 607,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 608,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 609,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 610,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 611,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 612,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 650,
+  "en": "Truth Bullet select",
+  "tr": ""
+ },
+ {
+  "id": 651,
+  "en": "Aim movement",
+  "tr": ""
+ },
+ {
+  "id": 652,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 653,
+  "en": "Silencer",
+  "tr": ""
+ },
+ {
+  "id": 654,
+  "en": "Fast-Forward Argument",
+  "tr": ""
+ },
+ {
+  "id": 655,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 656,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 657,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 658,
+  "en": "Focus",
+  "tr": ""
+ },
+ {
+  "id": 659,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 660,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 661,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 662,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 700,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 701,
+  "en": "Move",
+  "tr": ""
+ },
+ {
+  "id": 702,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 703,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 704,
+  "en": "Jump",
+  "tr": ""
+ },
+ {
+  "id": 705,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 706,
+  "en": "Cheer",
+  "tr": ""
+ },
+ {
+  "id": 707,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 708,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 709,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 710,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 711,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 712,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 800,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 801,
+  "en": "Move",
+  "tr": ""
+ },
+ {
+  "id": 802,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 803,
+  "en": "Electrohammer",
+  "tr": ""
+ },
+ {
+  "id": 804,
+  "en": "Jump",
+  "tr": ""
+ },
+ {
+  "id": 805,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 806,
+  "en": "Cheer",
+  "tr": ""
+ },
+ {
+  "id": 807,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 808,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 809,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 810,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 811,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 812,
+  "en": "",
+  "tr": ""
+ }
+]

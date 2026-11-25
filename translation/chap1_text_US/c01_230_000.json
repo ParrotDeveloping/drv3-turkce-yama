@@ -1,0 +1,607 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Kaede...I'm sorry.\nI'm not strong enough for this!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>I can't make you the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "W-Well, actually... Maybe the shot\ndidn't pass through the vent...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Did you not just tell us that the\nshot traveled through the vent?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "That's true, but...I just remembered,\nthe library's vent was closed.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "The vent...was closed?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "So I think...my deduction might be wrong.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I see...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Shuichi, we both investigated the vent.\nBut you misunderstood something.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I closed the vent grate while we were\ninvestigating, but it was open before.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Does this mean Shuichi's testimony was based\non a misunderstanding?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "No... That's a lie!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "It's not a lie.\nBut depending on your deduction...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "it could <CLT=cltSTRONG>become a lie<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...Ah!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Shuichi, please, answer the question.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "How did the shot reach Rantaro?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "You know the answer.\nYou just heard it during the debate.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>Why am I hesitating...?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>Am I really going to turn\nback now? At a time like this?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>I'm sure Kaede wants to run away...\nBut she's still here...she trusts me to do this!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>I need to answer.\nI need to grant her wish.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>I need to solve\nthis mystery!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...It's just like Ryoma said.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "The shot rolled along the <CLT=cltSTRONG>top of the bookcase<CLT=cltNORMAL>\nand fell on Rantaro's head.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "It rolled...along the bookcase!?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I did say that...but would the shot\nhave rolled that conveniently?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "It has nothing to do with convenience.\nThe shot rolled <CLT=cltSTRONG>exactly how<CLT=cltNORMAL> the culprit wanted.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "They used <CLT=cltSTRONG>books on top of the bookcases<CLT=cltNORMAL>\nto direct the path of the shot.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "The shot's path was directed by books?\nHow would that even work?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Ah, it would be easier to explain\nwith a floor plan of the library...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>...Oh, that's right...\nSomeone did have a floor plan.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>In fact...that might be\nconcrete proof of my theory.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Kirumi Tojo",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Hey, Kirumi...\nDo you have a floor plan of the scene?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "My apologies, I do not. I've disgraced myself\nas a maid by not meeting your expectations.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up; they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Keebo",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Hey, Keebo...\nDo you have a floor plan of the scene?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Huh...? I apologize but I am not equipped\nwith such a function...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up; they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Miu Iruma",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Um...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Was there a floor plan?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "If there was, I'd think it would've\nbeen presented by now, right?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up; they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>I remember one of them\nhaving a detailed floor plan...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Miu, I recall that during the investigation...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "You said you would use your <CLT=cltSTRONG>drone<CLT=cltNORMAL>\nto make a <CLT=cltSTRONG>floor plan<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Oh yeah! What happened with that!?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Heh, I've already developed the photos\nand drafted some sketches!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Then let's look at it!\nMaybe we all find clue!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Please, Miu.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Oh? Want 'em that badly, huh?\nFine...but now you owe me one.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Voila! Feast your eyes on these babies!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>There it is...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "It's just as I thought...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Hm? What is?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "See, the books are stacked like <CLT=cltSTRONG>stairs<CLT=cltNORMAL> from the\nvent to where Rantaro's body was found.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Oh! Shuichi is right!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Indeed, they are stacked like stairs. I did not \nnotice when I looked up from the floor.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I see, I see... The shot rolled\non top of these books, eh?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Yes...I'm sure of it.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "The shot was rolled into the classroom\nvent and came out in the library.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "If the vent was open, the shot would\nhave maintained momentum.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "And you did that, right, Kaede?\nYou made sure the vent was open.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>I pushed the grate into the duct...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>...then I lifted my body and looked inside.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "So how's it look? Could a person fit in there?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Hmmm...it would be pretty difficult, but you\nmight be able to crawl through.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Impressive... You have a really good\nmemory, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "When the shot came through, the stacked books\nmade it change direction.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "It then rolled down the path made by the books.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "The books were stacked in rows so that the shot\nwouldn't fall off.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "At the same time, the books blocked the shot\nfrom view.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Then, when the ball was directly above\nRantaro, it changed direction...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "...rolled along the groove of the open\nbooks, and fell on top of his head.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "And it was the camera flash that lured him\nto that exact spot.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "A setup that complicated is almost\nlike a Rube Goldberg machine.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "So Kaede created this mechanism?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Well, it would be—",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Wait! Even with a Rube-whatever setup, \nwhen did she roll the ball into the duct?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "That's right! Wasn't Shuichi with Kaede\nin the classroom?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>When did Kaede\nroll the shot put ball...?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>It had to have been\nat just the right time to kill Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "When she entered the classroom",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>No, that would have been\ntoo early. It must be a later time...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Umm... If even Shuichi doesn't know\nthen I think we're in trouble.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up; they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "When Shuichi went to the basement",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>The air duct isn't that long.\nIt had to have been when Rantaro was close.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Since you spent the most time with Kaede,\nShuichi, perhaps only you know the answer.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up; they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "When she was leaving the classroom",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Hey don't clam up now! You said it,\nso you gotta know the answer!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up; they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>Kaede rolled the shot...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "The moment we <CLT=cltSTRONG>ran out of the classroom<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "When the sensor went off, I ran out first,\nand then Kaede followed.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "But just before she left...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Sh-Shuichi, the receiver!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Someone moved the bookcase!\nHurry, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>Shuichi sprinted out of the classroom with the\ndetermination of a true <CLT=cltSTRONG>Ultimate Detective<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "W-Wait for me!",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>I dropped everything I was holding and\nran after Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "I'm right... Aren't I, Kaede?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Of course the Ultimate Detective would\nremember all that.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Your words and that smile...\nIs this your admission of guilt?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Hold on! Don't just jump to conclusions! \nI've...still got a lot of questions!",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Nee-heehee...that's weeeeeird.\nWhy do you sound so desperate?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "There's nothing weird about it!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "There's just no way I can believe someone \nlike Kaede would be the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Y-Yeah! Gonta not believe it, either!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Don't worry, Kaede!\nI'll clear your name!",
+  "tr": ""
+ }
+]

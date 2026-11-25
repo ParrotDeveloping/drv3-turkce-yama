@@ -1,0 +1,42 @@
+[
+ {
+  "id": 0,
+  "en": "Oh, Shuichi. What's up?\nYou wanna talk about something?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Spend time together",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Never mind",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I hang out with Kaito for a while?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yeah, that's fine.\nI...was just thinking I wanted to talk to you.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I spent some time with Kaito...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Kaito and I grew a little closer today.",
+  "tr": ""
+ }
+]

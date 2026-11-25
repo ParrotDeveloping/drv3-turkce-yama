@@ -1,0 +1,347 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=size2>Rantaro<CLT=size1> went to the",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Rantaro went to the library...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=size2>library...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "just <CLT=cltWEAK>before Monokuma's",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "just before Monokuma's time limit expired...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltWEAK>time limit<CLT=cltNORMAL> expired...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Using\nthe <CLT=size2>information<CLT=size1>\nprovided by\nthe Survivor Perk...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Using the informaton provided\nby the Survivor Perk...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=size2>he\nmade",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "he made his way to the hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "his",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "way to the <CLT=size2>hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "To <CLT=cltWEAK><CLT=size2>expose<CLT=size1> the identity\n　\nof the <CLT=size2>mastermind!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "To expose the identity\nof the mastermind!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "But before\nhe could achieve that <CLT=size2>goal...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "But before he could achieve that goal...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltWEAK>he got <CLT=size2>hit",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "he got hit in the head with\na shot put ball and died.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltWEAK>in the <CLT=size2>head",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltWEAK>with a shot\nput <CLT=size2>ball",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "and died.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Cuz of <CLT=size2>Kaede's",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Cuz of Kaede's fully automatic killing machine!",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=size2>fully automatic\nkilling machine!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Eh? <CLT=size2>Fully automatic?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Eh? Fully automatic?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "There was no <CLT=size2>culprit<CLT=size1> at the scene...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "There was no culprit at the scene...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "The only one <CLT=size2>in<CLT=size1> the <CLT=size2>library<CLT=size1>\nat the <CLT=size2>time<CLT=size1> of the <CLT=size2>murder...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "The only one in the library\nat the time of the murder...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "was <CLT=cltWEAK>Rantaro himself<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "was Rantaro himself!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "That's a <CLT=size2>fact,<CLT=size1> right?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "That's a fact, right?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "The <CLT=size2>camera<CLT=size1> went off",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "The camera went off\njust before the incident...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "just before the incident...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "and <CLT=size2>only Rantaro<CLT=size1> was in the picture.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "and only Rantaro was in the picture.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "What're we talking about again?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Just review the case!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "We dunno anything about the case!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Bugger off, ya brats!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "BE-QUIET-AND-LISTEN...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Hell yeah!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Hell yeah!\nLet's just spout bollocks\nand be a nuisance!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "THAT-TOO-IS-OUR-JOB...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Survivor Perk? Wuzzat?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "How should I know!?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Hidden door? How absurd!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Didn't we prepare that, though?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Papa Kuma's gonna maul\nus if we keep spoutin' off!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Ma-Mastermind!?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Was there a mastermind...?\nI can't remember.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Mastermind? Never heard of it!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "We don't need\nno stinkin' mastermind!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Oh! Daddy's talking!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Dad's the coolest,\nno matter what!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Get me in the shot, too!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Hell yeah!\nQuit hoggin' the camera, Monotaro!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "FATHER-IS-TALKING.\nBE-QUIET...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Times like this are\nmade for talkin'!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "And Daddy's done talking...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Say as much as you want!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I was silent for so long,\nI forgot how to talk!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "But you're talking right now!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Ah! You're right!\nI forgot my voice was audible!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Hell yeah! Enough chit-chat!\nLet's get to talkin'!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "And just like that, it's over!",
+  "tr": ""
+ }
+]

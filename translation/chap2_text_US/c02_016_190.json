@@ -1,0 +1,102 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>It's just a monitor. Even if I investigate,\nI don't think I'll find anything suspicious...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Maybe there's a camera in here,\nwatching us... Maybe not.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>This doesn't look like a normal school pool...\nmore like a pool at a resort.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>The pool is deep, but it isn't filled\nup all the way. Still, plenty of water to swim in.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>This is a storage room.\nThere's a bunch of pool equipment inside...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>This building is the gym.\nThat's the same window I saw in there.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>This building...is the school building.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Most of the windows are blocked off,\nbut one looks like it's usable.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>It's a large diving board.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>This is also something you would\nfind at a resort...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Some pool rules are posted here.\nThere's one that I find peculiar...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Swimming is prohibited during nighttime.\nWell, I don't really want to swim anyway.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>There are also some specifications\nwritten here...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>The pool is 82 feet in length\nand is 39 feet wide...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>The poolside is 13 feet on each end,\nand the left and right sides are 8 feet each...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Huh. Guess that's just\nuseless information...",
+  "tr": ""
+ }
+]

@@ -1,0 +1,63 @@
+@ chap1_text_US
+## c01_300_330
+115|Süre sınırından sadece o aptallık sayesinde\nsağ çıktık...
+116|E-Evet! Senin sayende hâlâ hayattayız!
+118|Kaede...nasıl olacağını bilmiyordum ama\nburadan seninle birlikte çıkmak istedim.
+119|Seninle...arkadaş olmak istedim.
+120|Çok özür dilerim...
+121|Yani diyorsun ki...yaptığın her şeyi\nbizi düşündüğün için mi yaptın?
+122|Ve sırf kalıp bize yardım etmek için onu\nöldürdüğünü sakladın mı...? İşler nasıl—
+123|Tamam, tamam! Bu kadar!
+125|N-Ne demek istiyorsun...?\nBu kadar...ne demek?
+126|Baba, sıkılıyor musun?
+127|Babişko'yu bilirsin... Bu tür göz yaşartıcı\nsaçmalıklara dayanamaz.
+128|Ağlamayı...durduramıyorum...!
+129|Tihihi... Görüyorum ki sevimli küçük\nyavrularımın gözünden hiçbir şey kaçmıyor.
+130|Ben mezelerin bile kaçmasına izin vermem!\nÖzellikle de onları başkası aldıysa!
+131|Ama bu sıkıcı gösterinin aksiyonu durdurmasına\nizin veremeyiz, o yüzden...
+132|...işleri ilginçleştirme vakti.
+133|İşleri...ilginçleştirmek mi?
+134|Ve şimdi hepinizin beklediği an!\n<CLT=cltSTRONG>Ceza Zamanı<CLT=cltNORMAL>!
+135|C-Ceza mı...? Yani...Kaede'nin\nidamı mı!?
+136|O-Olamaz lan!\nBunu yapmana asla izin vermeyiz!
+137|Exisal'lar toplanın!
+138|Aaaaaaah!
+139|Ceza Zamanı kutsal bir bölümdür.\nMüdahale etmenize izin yok.
+140|Ve müdahale etmeye kalkarsanız sizi şu\nExisal'larla ezer geçeriz!
+141|B-Bu acımasız ama...herkes yerine bir\nkişinin ölmesi muhtemelen daha iyi...
+142|Burada oturup dediğinizi yapacakmışım,\nhayal görüyorsunuz!
+143|Kaede hayatını ortaya koyarak savaştı!\nBen de öyle yapacağım!
+144|Gonta hepinizle yüzleşecek! Gonta böyle\nzamanlar için güçlendi!
+145|Centilmenler asla geri adım atmaz,\nGonta da atmayacak!
+146|B-Bu <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> becerilerimi makineler\nüzerinde denemek için mükemmel bir fırsat!
+147|E-Evet! Ben de yardım ederim! Ben—
+148|Herkes, durun!!!
+149|Lütfen...durun artık.
+150|Ama Kaede...
+151|Yeter, millet...\nBen...kendimi çoktan hazırladım.
+153|Sen...pes mi ediyorsun?
+154|Ama neden...?
+155|Asla pes etmeyeceğini söylemiştin...\nBuradan birlikte çıkacağımızı.
+156|Öyle demiştin, Kaede...
+157|O zaman neden şimdi pes ediyorsun!?\nSöylediğinde ciddi miydin!?
+158|Bir şey yapabileceğimizi biliyorum!\nSonuna kadar pes etme!
+159|...Pes etmiyorum. Çünkü sizler varsınız.
+161|Ben gittikten sonra bile...<CLT=cltSTRONG>dileğim<CLT=cltNORMAL> hâlâ\nburada olacak.
+162|O yüzden hepinize güveniyorum! <CLT=cltSTRONG>Dileğimi<CLT=cltNORMAL>\nher birinize emanet ediyorum!
+163|Size inanıyorum! Bir şekilde hepinizin bunu\natlatacağına inanıyorum!
+164|Yaşasanız iyi olur! Bana sakın ölmeye\nkalkmayın!
+165|Bu saçma ölüm oyununu bitirin, hayatta kalın\nve bu lanet yerden çıkın!
+166|Sonra da...kaçtıktan sonra arkadaş olun, tamam mı?\nBence hepiniz en iyi arkadaşlar olacaksınız.
+167|Anlaşıldı, Kaede...
+168|Son isteğini yerine getirmek için elimden gelenin en iyisini yapacağım.
+169|Pes etmeyeceğim! Ne olursa olsun buradan\nçıkacağım!
+170|Gonta çok çalışacak ve arkadaşlarını sonuna\nkadar güvende tutacak!
+171|Eh Kaede, kesinlikle sıkıcı değildin.
+172|Şimdi...başlayalım.
+173|<CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL> Kaede Akamatsu için\nözel bir ceza hazırladım!
+174|D-Dur, bir saniye dur!\nKaede, lütfen, yapma...
+175|Shuichi, sakın kaybetme.
+176|Bu ölüm oyununa kaybedemezsin!\nOnu yenebileceğini biliyorum!
+177|Elimizdeki her şeyi verelim!\nVe...CEZA ZAMANIII!
+178|Size inanıyorum!\nO yüzden lütfen kendinize inanın!
+179|...Tamam mı? Bu bir söz.

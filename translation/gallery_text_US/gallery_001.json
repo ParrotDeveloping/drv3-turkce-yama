@@ -1,0 +1,67 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Students must live at the Ultimate Academy for\nthe remainder of their foreseeable future.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Once a murder takes place, all surviving\nstudents must participate in a class trial.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>If the blackened is exposed during the class\ntrial, they alone will be executed.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>If the blackened is not exposed, all remaining\nstudents will be executed.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>If the blackened survives the class trial, they\nwill graduate and re-enter the outside world.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>The killing game and class trials will continue\nuntil only two surviving students remain.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND><CLT=cltSTRONG>\"Nighttime\"<CLT=cltMIND> is from 10 p.m. to 8 a.m. The dining\nhall and gymnasium are off-limits at night.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Violence toward Monokuma, the headmaster of\nthe Ultimate Academy, is strictly prohibited.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Monokuma will never directly commit\na murder.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Your Monopads are very important items.\nPlease do not damage them.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>\"Body Discovery Announcement\"<CLT=cltMIND> will play\nwhen three or more students discover a body.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>With minimal restrictions, you are free to\nexplore the campus at your discretion.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>Students who violate these rules will be\nimmediately exterminated by the Exisals.",
+  "tr": ""
+ }
+]

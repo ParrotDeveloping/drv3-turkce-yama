@@ -1,0 +1,160 @@
+0	<CLT=cltMIND>Koridor olmasına rağmen burada epey\nbitki yetişiyor...
+1	<CLT=cltMIND>Ve buranın havası ağır...
+2	<CLT=cltMIND>İnsana korkularını hatırlatan, onu kaygıya\nboğan, bunaltıcı bir ağırlık...
+3	<CLT=cltMIND>Ama burası sadece bir okul...değil mi?\nNe tür bir okul insana böyle hissettirir?
+4	...Ha?
+5	Ne oldu?
+6	Ah, sadece...üniformamın cebinde bir şey\nhissettim. Baktığımda...
+7	İçinde bunu buldum.\nBir tür...mini tablet bilgisayar mı?
+8	Ah, belki bende de vardır!\nÇantamın daha ağır geldiğini biliyordum!
+9	Üstünde "Monopad" yazıyor...
+10	Bu ne zaman çantama girdi?
+11	Açıldığında adım ekranda göründü.\nTıpkı bir öğrenci el kitabı gibi.
+12	Ne işe yarayabileceğini...bilmiyorum,\nama atmamamız gerektiğini düşünüyorum.
+13	Şimdilik...yanımızda tutalım.
+14	Evet, katılıyorum.
+15	<CLT=cltSYSTEM>Tebrikler!\nArtık <CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i kullanabilirsin!
+16	<CLT=cltSYSTEM><CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i açmak için <PAD=【□】> tuşuna bas.\nİçinde bir sürü oyun bilgisi var.
+17	<CLT=cltSYSTEM><CLT=cltSTRONG>Karne<CLT=cltSYSTEM> ve <CLT=cltSTRONG>Harita<CLT=cltSYSTEM> gibi şeyler.\nMutlaka göz at!
+18	<CLT=cltSYSTEM>Gözün keskinse\nbelki fark etmişsindir...
+19	<CLT=cltSYSTEM>Diğer öğrencilerle yakınlaştıkça\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'ne yeni bilgiler eklenecek.
+20	<CLT=cltSYSTEM>Artık Saihara ile tanıştığın için\nonun bilgileri çoktan eklendi.
+21	<CLT=cltSYSTEM>Ayrıca eminim bir şeyler yaparak <CLT=cltSTRONG>seviye\natlayabildiğini<CLT=cltSYSTEM> de fark etmişsindir.
+22	<CLT=cltSYSTEM>Seviye atladığında <CLT=cltSTRONG>yetenek yuvaların<CLT=cltSYSTEM>\nartar, böylece daha fazla yetenek kuşanabilirsin.
+23	<CLT=cltSYSTEM>Bir sürü yetenek var, onlara\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'den bakabilirsin!
+24	<CLT=cltSYSTEM>Yetenek istiyorsan arkadaş edin!\nBağlarını güçlendir!
+25	<CLT=cltSYSTEM>Bütün yetenekleri mutlaka dene!
+26	<CLT=cltSYSTEM>Bir de...sana söylemem gereken önemli\nbir şey daha var.
+27	<CLT=cltSYSTEM>Oyunu el kitabından <CLT=cltSTRONG>kaydedebilir<CLT=cltSYSTEM> ve\n<CLT=cltSTRONG>yükleyebilirsin<CLT=cltSYSTEM>.
+28	<CLT=cltSYSTEM>Önemli anlarda kayıt almayı\nunutma.
+29	<CLT=cltSYSTEM>O halde! Haydi bakalım!\nSınıf arkadaşlarını bul!
+30	Şeyy...
+31	Hey, sen de <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> bir öğrencisin, değil mi?\nKonuşabilir miyiz—
+32	Şeyyyy...
+33	<CLT=cltMIND>Hm? Beni duymadı mı?\nPeki o zaman...
+34	Heeey! Merhabaaaa!
+35	Şeyyyyyy...
+36	Ne? Hâlâ duymuyor mu?\nBelki çok detaylı bir mankendir?
+37	...Hayır, öyle olduğunu sanmıyorum...
+38	Belli olmaz.\nHareket eden bir oyuncak ayı bile gördük.
+39	<CLT=cltMIND>Bunu derken yanağını dürttüm...
+40	<CLT=cltMIND>...ve parmağımın ucunda teninin\nyumuşadığını hissettim.
+41	Şeyy...
+42	Dürtmek de işe yaramıyor mu?\nO zaman...belki de gerçekten bir oyuncak.
+43	Ama çok gerçekçi görünüyor!\nDene Shuichi! Dürt, dürt!
+44	Ah, yok sağ ol...
+45	Hadi dene! Çok eğlenceli!
+46	<CLT=cltMIND>Diğer yanağını dürtsün diye\nelini tuttuğumda...
+47	İki taraftan birden dürtüleceğim hiç\naklıma gelmezdi. Ne kadar beklenmedik.
+48	Ah!
+49	Demek manken değilmiş.\nZaten biliyordum.
+50	Biliyordun da neden ona\ndürtmemi istedin?
+51	Çünkü tepki vermiyordu.
+52	Ah, kötü bir niyetim yoktu... \nSadece derin düşüncelere dalmıştım.
+53	Ben de sizi görmezden gelirsem \nbaşka yere gidersiniz diye düşündüm.
+54	Bizi görmezden mi geliyordun?\nBu biraz kabalık değil mi?
+55	Şey, istemeyen birini konuşmaya \nzorlamak da kabalık değil mi?
+56	Ah, ama sorun değil. Şimdi konuşasım geldi.
+57	Hadi konuşalım. Neyle \nbaşlamak istersiniz?
+58	En sevdiğim Doraemon bölümü 53. bölüm. Güvenlik\r\nkameraları ve atış talimi olan.
+59	Şey, ondan bahsetmeden önce...\nBize adını söyleyebilir misin?
+60	Ah, benim adım Tsumugi Shirogane.\n<CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>'ım.
+61	Demek sen...bir cosplayer'sın.
+62	Şaşırdın mı...? Bunu çok duyarım,\nçünkü çok sade biriyim.
+63	Yani, aslında mantıklı. Sende tuhaf,\nneredeyse seksi bir hava var.
+64	Bahse girerim her gün insanlar kıvrımlarını\nsüzdüğü içindir, değil mi?
+65	Kaede...sapık yaşlı bir adam gibi\nkonuşuyorsun...
+66	Normalde insanların bana öyle bakmasından\npek hoşlanmam...
+67	Ben sadece kostüm yapmayı seviyorum. \nBaşkalarının giymesine de bir şey demem...
+68	Ama son zamanlarda daha çok cosplayer\nkendini karakterinin önüne koyuyor.
+69	Kostümlerimi öyle insanlara vermektense \nsevgiyle kendim giymeyi tercih ederim.
+70	Vay...epey tutkulusun.
+71	Yaptığım kostümleri insanlara \ngösterebilmek beni mutlu ediyor.
+72	Sponsorlarım sayesinde de düpedüz\npahalı malzemeler kullanabiliyorum.
+73	Ohhh! Eh, <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>'ın\nsponsorları olması çok doğal!
+74	Büyütülecek bir şey değil. İnsanlar etrafıma\nhayvanat bahçesindeki panda gibi toplanıyor.
+75	Bu çok harika...\nResmen ünlüsün, biliyor musun?
+76	Ah, ben de size bir şey sorabilir miyim?
+77	Az önce...bir şey hakkında derin derin\ndüşünüyor gibiydin. Neydi o?
+78	Ah, evet! Bunu ona sormamız lazımdı!\nAferin Shuichi!
+79	Ah...şuradaki <CLT=cltSTRONG>bronz ejderha heykeli<CLT=cltNORMAL>. \nSadece düpedüz merak ediyorum.
+80	Neredeyse havada süzülüyor gibi, değil mi? \nBurada epey yersiz durmuyor mu?
+81	Sen söyleyince...haklısın.\nBeni de biraz rahatsız ediyor.
+82	Burası bir okul, değil mi? Ama buradaki her\nşey çok tuhaf, değil mi?
+83	İçeride ağaçlar ve otlar büyüyor,\nhiç çıkış bulamıyorum...
+84	Ve görünüşe göre burada bizden\nbaşka kimse yok...
+85	Biz...iyi olacak mıyız? Buradan\nçıkabilecek miyiz?
+86	...
+87	Kaede? Ne oldu?
+88	Hehe, yüzündeki o korkmuş ifade biraz\nseksiydi.
+89	...Yine mi?
+90	Şaka yapıyorum...\nNeyse, büyütülecek bir şey değil.
+91	Asıl derdimiz şu anki durumumuz.\nBu bitince her şey yolunda olacak.
+92	Sen...epey iyimsersin, Kaede.
+93	Eh, insanlar benim için kaygısız der!
+94	Endişelenmek seni bir yere götürmez.\nKaygısız olmak daha iyi.
+95	Evet...sanırım öyle. Bunalıma girmek \nhiçbir şeye yardımcı olmaz.
+96	Evet. O zaman bir çıkış yolu bulmaya çalışalım.
+97	<CLT=cltSYSTEM>Tsumugi'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+98	Evet, bunalıma girmek hiçbir şeye\nyardımcı olmaz...
+99	Bir sonraki fuarın yaklaştığı düpedüz belli!
+100	*iç çeker*...Doğru. Kostümümü zamanında\nbitiremezsem ne yapacağım?
+101	<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in araştırma laboratuvarı, ha?
+102	<CLT=cltMIND>Neyse. Sonunda buradan kaçtığımda\nistediğim kadar piyano çalabilirim.
+103	Kirumi Tojo'nun Araştırma Laboratuvarı
+104	Gonta Gokuhara'nın Araştırma Laboratuvarı
+105	3. Kat
+106	Bu da ne...?
+107	Bir...ejderha heykeline benziyor.
+108	Ama okulun koridorunda neden bir\nejderha heykeli var?
+109	H-Hiçbir fikrim yok...
+110	Hmm... Belki okulun resmi sanat\nkoleksiyonunun bir parçasıdır?
+111	Yine de hiçbir fikrim yok...
+112	<CLT=cltMIND>Bu heykel burada hiç yakışmamış...\nBurada ne işi var ki?
+113	Ah! Bir dakika!\nBurası müzik odası mı?
+114	<CLT=cltSYSTEM>*tık*
+115	Ha... Açılmıyor. Ama bu oda sanki benim\niçin yapılmış gibi görünüyor...
+116	Ayı-l bakalım, uyan artık!
+117	Ah! Yine geldiler!
+118	Sizce burası ne?
+119	Şu süslü püslü yazılara bakın!\nİnek öğrencilere göre bir yer gibi!
+120	Ha? Burası bir <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltNORMAL> değil mi?
+121	Ne halt ediyorsun? Neden onlara söyledin?\nHer şeyi dramatik yapmaya çalışıyorduk.
+122	Ah, anlıyorum... Özür dilerim.
+123	Ha? <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltNORMAL> ne?
+124	<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneklerinizi geliştirmeye devam\netmenizi istiyoruz, o yüzden bu odaları kurduk.
+125	Burası <CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>'in laboratuvarı ama diğer\nUltimate'lar için de laboratuvarlar kurduk tabii.
+126	Gerçi çoğu hâlâ gizli!
+127	Bu arada...bu araştırma laboratuvarının\nhâlâ kilitli olmasının sebebi...
+128	Sebebi...?
+129	Çünkü hâlâ her şeyi hazırlıyoruz...\nÜzgünüz, hepsini hazırlamak için acele edeceğiz.
+130	Kıçınızı silin ve bekleyin!
+131	Güzel tavsiye ama...sen "atını sakin\nsür" demek istemedin mi?
+132	Puhuhu... Monokid ne kadar aptal.
+133	Ne gülüyorsun!? Monodam'a zorbalık ettiğim\ngibi sana da ederim!
+134	...
+135	Müzik odasına benziyor...
+136	...ama sanırım bir <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> laboratuvarı.
+137	Sence...gerçekten bunun gibi başka\nodalar da var mı? Herkes için?
+138	Ben de onu merak ediyorum...
+139	<CLT=cltMIND>Neyse...burayı müzik odası sanmıştım.\nOf, gerçekten piyano çalmak istiyordum...
+140	<CLT=cltMIND>Neyse. Sonunda buradan kaçtığımda\nistediğim kadar piyano çalabilirim.
+141	<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in araştırma laboratuvarı, ha?
+142	<CLT=cltMIND>Neyse. Sonunda buradan kaçtığımda\nistediğim kadar piyano çalabilirim.
+143	Açılmıyor.\nBaşka bir yere bakalım.
+144	Tamam...
+145	<CLT=cltSYSTEM>Tebrikler!\nArtık <CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i kullanabilirsin!
+146	<CLT=cltSYSTEM><CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i açmak için F tuşuna bas. \nİçinde bir sürü oyun bilgisi var.
+147	<CLT=cltSYSTEM><CLT=cltSTRONG>Karne<CLT=cltSYSTEM> ve <CLT=cltSTRONG>Harita<CLT=cltSYSTEM> gibi şeyler.\nMutlaka göz at!
+148	<CLT=cltSYSTEM>Gözün keskinse\nbelki fark etmişsindir...
+149	<CLT=cltSYSTEM>Diğer öğrencilerle yakınlaştıkça\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'ne yeni bilgiler eklenecek.
+150	<CLT=cltSYSTEM>Artık Saihara ile tanıştığın için\nonun bilgileri çoktan eklendi.
+151	<CLT=cltSYSTEM>Ayrıca eminim bir şeyler yaparak <CLT=cltSTRONG>seviye\natlayabildiğini<CLT=cltSYSTEM> de fark etmişsindir.
+152	<CLT=cltSYSTEM>Seviye atladığında <CLT=cltSTRONG>yetenek yuvaların<CLT=cltSYSTEM>\nartar, böylece daha fazla yetenek kuşanabilirsin.
+153	<CLT=cltSYSTEM>Bir sürü yetenek var, onlara\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'den bakabilirsin!
+154	<CLT=cltSYSTEM>Yetenek istiyorsan arkadaş edin!\nBağlarını güçlendir!
+155	<CLT=cltSYSTEM>Bütün yetenekleri mutlaka dene!
+156	<CLT=cltSYSTEM>Bir de...sana söylemem gereken önemli\nbir şey daha var.
+157	<CLT=cltSYSTEM>Oyunu el kitabından <CLT=cltSTRONG>kaydedebilir<CLT=cltSYSTEM> ve\n<CLT=cltSTRONG>yükleyebilirsin<CLT=cltSYSTEM>.
+158	<CLT=cltSYSTEM>Önemli anlarda kayıt almayı\nunutma.
+159	<CLT=cltSYSTEM>O halde! Haydi bakalım!\nSınıf arkadaşlarını bul!

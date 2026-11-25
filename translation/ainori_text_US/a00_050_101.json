@@ -1,0 +1,762 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Alright, how should I\nspend my day today?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>I still have some time.\nWhat should I do?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>Received an allowance of 100 coins\nfor the casino.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Alright, how should I\nspend my day today?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>With my mind still reeling, I struggled\ndesperately to understand what had happened.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>...Yesterday wasn't a dream.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>It's real. It's all horribly real.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>There's no sense worrying about it.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>I should get my mind off it.\nJust focus on what I can do...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>I made up my mind about it\nand forced myself to get out of bed.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Alright, how should I\nspend my day today?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>I still have some time.\nWhat should I do?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>I still have some time.\nWhat should I do?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>I still have some time.\nWhat should I do?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Alright, Shuichi!\nLet's hang out!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Well, you don't really have a choice \nbut to spend time with me, right?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "You free right now, man?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I just really feel like talking to you.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "If you're busy, then it's fine...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "No big deal...\nI mean, it happens.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "If you're busy, then it's fine...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "No big deal...\nI mean, it happens.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Yeah! No way my sidekick would \nhang out with anyone but me!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Yeah! No way my sidekick would \nhang out with anyone but me!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Hey there. You up for spending \nsome time with me today?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "I don't know why, but... \nWhen I'm with you, I feel at ease.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Do you have some time to spare?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "For some reason, I feel like \nchatting with you...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "No pressure if you can't.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "No pressure if you can't.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Hmph... You're a good guy.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Hmph... You're a good guy.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Oh, Shuichi. I was hoping to talk to you.\nDo you have time to talk right now?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Do you have any plans today?\nI'd enjoy your company, if you're up for it.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Well, we've all got our own stuff going on.\nI'll see you next time.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Well, we've all got our own stuff going on.\nI'll see you next time.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Thanks.\nSo, where to?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Thanks.\nSo, where to?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Shuichi, wanna spend time with Gonta today?\nGonta will escort! Like gentleman!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Shuichi, wanna spend time with Gonta!?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Gonta feels like gentleman when Gonta spends\ntime with Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Sorry. Gonta shouldn't have invited you so\nsuddenly. Not gentlemanly of Gonta...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Sorry. Gonta shouldn't have invited you so\nsuddenly. Not gentlemanly of Gonta...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Thank you!\nWhere does Shuichi wanna go?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Thank you!\nWhere does Shuichi wanna go?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Heeeey, Shuichi! You still remember your\npromise to hang out with me, right?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>...I don't remember that...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Wanna hang out with me today?\nI promise to make it worthwhile.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Eh, I lied.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "I didn't want to spend time with you anyway!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "I'll ask you again laaaater!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "I didn't want to spend time with you anyway!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "I'll ask you again laaaater!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Nee-heehee...\nYou make up your mind pretty quickly, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "So, what do you wanna do today?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Nee-heehee...\nYou make up your mind pretty quickly, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "So, what do you wanna do today?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Do you have time to spare?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I think together, we shall have \na grand time...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "I'm sure you're eager to hear a \nnew anthropology story, yes?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Well? Are you free at the moment?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "How unfortunate... I thought we could\nspend some quality time together...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "How unfortunate... I thought we could\nspend some quality time together...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Kehehe... I thought you \nmight say that, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "So, where shall we go today?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Kehehe... I thought you \nmight say that, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "So, where shall we go today?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Would you like to spend your afternoon\nwith me today?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I think you and I would greatly benefit from\nspending time together.\n",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "I did it, Shuichi! I've come up with an idea\nfor a wonderful robot business!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Do you have time to hear me out?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "...Of course. I do not wish to impose upon you.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "I understand. I will come back another time...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...Of course. I do not wish to impose upon you.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "I understand. I will come back another time...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Thank you! I had a feeling you would say that,\nShuichi!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Thank you! I had a feeling you would say that,\nShuichi!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "If you would like, may I spend some time\nwith you today?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "I will serve you with all of my devotion\nif you say yes.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Are you currently free?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "If possible,\nI would like to spend some time with you...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "I see...\nIt seems convenience matters greatly to you.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "I see...\nIt seems convenience matters greatly to you.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "I will let you decide on how you would \nlike to spend your day.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "I will let you decide on how you would \nlike to spend your day.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Hey, Shuichi. Do you wanna spend \nsome time with me today?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Nyeeeh... For some reason, \nI feel really bored today...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "I guess I can spend time with you...\nif you really want.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "You can't? Oh well.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "You can't? Oh well.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Hmm...\nWhere should we go?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Hmm...\nWhere should we go?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "...Hey, are you free right now?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "If you want...do you want to go somewhere\nwith me?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "...I don't mind. It's not like...I wanted to\nspend time with you or anything...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "...I don't mind. It's not like...I wanted to\nspend time with you or anything...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Well then, where are we heading to?\nI don't really care where we go.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Well then, where are we heading to?\nI don't really care where we go.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "I have no idea what I was thinking, but I came\nto ask you out! Even though I hate males!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Well, are you free!? You're free, aren't you!?\nThen hang out with me!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "I have sensed you also wish to master the art\nof Neo-Aikido! So I have come to invite you!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Spend the day with me!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "...Phew, thank goodness!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "I wouldn't have known what to do if you\nhad accepted my request.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "...Phew, thank goodness!",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "I wouldn't have known what to do if you\nhad accepted my request.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Huuuuh?\nYou really wanna spend the day with me!?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "You know I hate males, right?\nAre you really that dense, Shuichi!?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>Then why did you invite me?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Huuuuh?\nYou really wanna spend the day with me!?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "You know I hate males, right?\nAre you really that dense, Shuichi!?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>Then why did you invite me?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Shuichi, are you free now? \nIf you are, do you want to play?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "I thought of a perfect character \nfor you to cosplay, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Are you free right now?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Hmm... I thought you might \nbe up for it, but I guess not...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Oh well. Let's play another day.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Hmm... I thought you might \nbe up for it.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Oh well. Let's play another day.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Then where should we go?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Then where should we go?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Alola! How are you!?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "I was visited by Atua, so I've come to invite you\non a date.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Atua has spoken... He said Shuichi should go\non a date with Angie.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "You'll do what Atua says and go on a date with\nme, right?",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Atua has spoken... If you turn down Angie,\nyou have no one but yourself to blame.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Atua has spoken... If you turn down Angie,\nyou have no one but yourself to blame.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Nyahahahaha!\nAs expected from Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Atua said we'll have fun anywhere we go.\nSo what would you like to do today?",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Nyahahahaha!\nAs expected from Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Atua said we'll have fun anywhere we go.\nSo what would you like to do today?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Hey, Spooichi! Why the long face?",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "You got a smokin' hottie with big beautiful tits\nstandin' here, about to ask ya out!",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "This is your lucky day! I was gettin' bored so\nI figured I'd come screw around with you!",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Huhhhh? I thought you'd say okay...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Huhhhh? I thought you'd say okay...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "That's right! A knob-gobbler like you wouldn't\nDARE say no to me, right!?",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "That's right! A knob-gobbler like you wouldn't\nDARE say no to me, right!?",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Hey, do you...want to go somewhere, maybe?\nI feel like talking to you right now, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Are you free at the moment?\nIf you want, we could go somewhere together.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "I see...\nWell...if you're busy, then that's that.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "I see...\nWell...if you're busy, then that's that.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Okay, then!\nWhere do you want to hang out today?",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Okay, then!\nWhere do you want to hang out today?",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Accept",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Politely decline",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltMIND>Should I accept the invitation?",
+  "tr": ""
+ }
+]

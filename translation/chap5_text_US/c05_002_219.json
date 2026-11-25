@@ -1,0 +1,57 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>This...is a bathroom. It doesn't look\nlike it's been used in a long time.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I suppose that makes sense, I'm sure I'm\nthe first person to be in here in a while...\n",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Monokuma and the Monokubs certainly\ndon't need to use the bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>But then...why is there a bathroom\nhere in the first place?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>If they were under the impression we would\nnever be here, why make a bathroom?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Does that mean...I was wrong?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>Well, there's nothing that concerns\nme here, so I'll go back.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ }
+]

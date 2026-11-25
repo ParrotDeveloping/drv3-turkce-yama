@@ -1,0 +1,67 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Monokuma...isn't here?\nWhat *was* that...?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "...Is the plan compromised?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>I should get to the gym, I'm sure\neveryone is already gathered there...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>How many more nights do I have to\nsleep in this bed? I'm so...sick of it!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>They went through all this just for a\nkilling game? What is their objective...?",
+  "tr": ""
+ }
+]

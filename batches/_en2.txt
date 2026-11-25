@@ -1,0 +1,212 @@
+## A-KotodamaSetumei2
+31	Locked handcuffs that were in the water\ntank for the Underwater Escape Act.\n\nSince it was made out of stainless steel,\nit was difficult to leave any marks, but\nsmall scratches were still visible.\n\nIt seems to have been taken out of the\nshower room in the Ultimate Tennis\nPro's lab.
+34	The window frame of the top window in\nthe gym. It had distinct abrasions, as if\nit was scratched by something.\n\nThere was the same distinct abrasions\non the window frame of the Ultimate\nTennis Pro's lab window. The window\nfaced the pool and gym.
+60	The victim is the Ultimate Artist,\nAngie Yonaga.\n\nThe victim's body was discovered\nin the Ultimate Artist's research lab.\n\nThe time of death is approximately\n2:00 a.m.\n\nThe victim was killed by a fatal\nstab wound to the torso. \nAdditionally, she has lacerations\non her forehead.\n\nThe second victim is the Ultimate\nAikido Master, Tenko Chabashira.\n\nThe victim's body was discovered in\na vacant room on the fourth floor.\nThe estimated time of death\nis 11:00 a.m.\n\nThe victim was stabbed in the back\nof her neck, resulting in death.\nNo other injuries were detected.
+64	It was stabbed into the hung\nKaede effigy.\n\nBecause the katana is so old, the\nhandle's gold leaf rubs off easily.\nThere was blood on the tip.\n\nIt was taken from the Ultimate\nAnthropologist's lab, so only the\nsheath was left in the display case.\nAnyone could've entered the lab.
+73	The loose floorboard right below Tenko.\nIt was not loose before the seance.\n\nThere was dried blood on the\nbottom part of the floorboard.
+103	Found frozen and collapsed in the\nsnow between the chapel and the\nwall where the Virtual World ends.\nWhen a user logs out, their avatar\ndisappears, but if the user's real\nbody dies, the avatar stays in\nthe Virtual World.\n\nSince avatars cannot be injured,\nit doesn't look any different from\nwhen Miu was alive.\n\nEverything in the killing game\nsimulator is assigned one of\ntwo categories—"human"\nor "object." Most avatars are\nset to "human." However, Miu's\navatar was the only one that\nwas set to "object."
+127	A disassembled crossbow from the \nUltimate Assassin's research lab.\n\nIt was stored in a large black \ncase. It was complicated to \nassemble and would be difficult\nfor anyone who wasn't taught how.
+168	According to Motherkuma, \nthe mastermind goes to the \nhidden room in the library \nquite often.\n\nIn addition, the classroom \nthat creates Flashback\nLights reverts to its original\nstate when its door is opened.\n\nIt seems as though the person\noperating it was being cautious\nnot to be seen by anyone.
+194	Makoto had not been seen since \nMonokuma called everyone to \nthe gym.\n\nHe reappeared during the\nmiddle of the investigation.\nAccording to him, he had been\nlooking around the academy\nthe whole time.
+397	Makoto had not been seen since \nMonokuma called everyone to \nthe gym.\n\nHe reappeared during the\nmiddle of the investigation.\nAccording to him, he had been\nlooking around the academy\nthe whole time.
+## A-KotodamaSetumei3
+## A-KotodamaUso
+0	Monokubs File 1 
+1	Immobile Bookcase
+2	Clean Card Reader
+3	Receiver on Kaede
+4	Single Book
+5	Blocked Vent
+6	Blocked Vent
+7	Rantaro's Card Key
+8	Clean Shot Put Ball
+9	Maki's Lie
+10	Fixed Sliding Door
+11	Kiyo's Lie
+12	K1-B0's Lie
+13	Front Entrance Forgeries
+14	Rear Entrance Forgeries
+15	Hidden Door Forgeries
+16	Warning Video BGM
+17	Normal Classroom
+18	Lie Bullet 18
+19	Lie Bullet 19
+20	Lie Bullet 20
+21	Lie Bullet 21
+22	Lie Bullet 22
+23	Lie Bullet 23
+24	Lie Bullet 24
+25	Lie Bullet 25
+26	Lie Bullet 26
+27	Lie Bullet 27
+28	Lie Bullet 28
+29	Lie Bullet 29
+30	Monokubs File 2
+31	Pristine Handcuffs
+32	Round Glass Pane
+33	Free Piranhas
+34	Clean Window Frame
+35	Empty Tank
+36	Gonta's Lie
+37	Insect Flee and Plead
+38	Dry Staircase
+39	Short Weak Rope
+40	Empty Pool
+41	White Piece of Fabric
+42	Maki Not Alone
+43	Overlooking Ryoma
+44	Pristine Sink
+45	Racket Strings
+46	Kokichi's Lie
+47	Magic Water Tank
+48	My Alibi for Nighttime
+49	Swimming at Night
+50	Lie Bullet 50
+51	Lie Bullet 51
+52	Lie Bullet 52
+53	Lie Bullet 53
+54	Lie Bullet 54
+55	Lie Bullet 55
+56	Lie Bullet 56
+57	Lie Bullet 57
+58	Lie Bullet 58
+59	Lie Bullet 59
+60	Monokubs File 3 
+61	Injury on Back of Head
+62	Clean Duct Tape
+63	Effigies Hung Normally
+64	Gold Leaf Replica
+65	Opened From Outside
+66	Opened From Outside
+67	Kokichi Can't Lockpick
+68	Holy Book
+69	Tsumugi's Lie
+70	Caged Dog Village
+71	Tenko Died Instantly
+72	Normal Stone
+73	Secure Floorboard
+74	Silent Seance
+75	Insect Cage
+76	Bloodstained Sheet
+77	Cat Statue
+78	Magic Circle Shuichi Drew
+79	Hole in the Middle
+80	Snapped Crosspiece
+81	Knife Under the Floor
+82	Wet Blood Under the Floor
+83	Kokichi Uninjured
+84	Flashlight Drawbacks
+85	Lie Bullet 85
+86	Lie Bullet 86
+87	Lie Bullet 87
+88	Lie Bullet 88
+89	Lie Bullet 89
+90	Monokubs File 4
+91	Kaito's Lie
+92	Small Antidote Bottle
+93	Events at the Mansion
+94	Tsumugi's Lie
+95	Soft Noise
+96	Miu Alive
+97	Hope Restoration Simulator
+98	Login/Logout Forgery
+99	Fake Map of the Mansion
+100	Fake Map of the World
+101	Tissue Paper
+102	Signboard Used as a Sign
+103	Miu's Real Body
+104	Squeaky Hammer
+105	Payphone
+106	Lattice Near the Mansion
+107	Miu Didn't Meet Kokichi
+108	Kokichi Not in the Salon
+109	Wall Removed By Miu
+110	Kokichi's Normal Avatar
+111	No Avatar Error
+112	Device Obstructions
+113	Lie Bullet 113
+114	Lie Bullet 114
+115	Lie Bullet 115
+116	Lie Bullet 116
+117	Lie Bullet 117
+118	Lie Bullet 118
+119	Lie Bullet 119
+120	Monokubs File 5
+121	Broken Press
+122	Danger Function
+123	Kokichi's Uniform
+124	Undisturbed Bloodstain
+125	Unlocked Hatch
+126	Spotless Bathroom
+127	Unknown Crossbow
+128	Arrow In 3 Pieces
+129	Small White Case
+130	Large Full Bottle
+131	Large Bathroom Window
+133	Hangar's Back Shutter
+134	K1-B0's Lie
+135	Charged Electrohammer
+136	Monokuma Protecting Exisals
+137	Antidote
+138	Kaito's Clothes
+139	Kokichi Spotted
+140	Survival Video
+141	Lie Bullet 141
+142	Lie Bullet 142
+143	Lie Bullet 143
+144	Lie Bullet 144
+145	Lie Bullet 145
+146	Lie Bullet 146
+147	Lie Bullet 147
+148	Lie Bullet 148
+149	Lie Bullet 149
+150	History of the Ultimate Academy
+151	Hope's Peak Foreword
+152	Shuichi's Motive Video
+153	Killing Game Lie
+154	One Mysterious Message
+155	Rantaro's Video Will
+156	Gofer Project Reject List
+157	Bugcannon
+158	Fatherkuma
+159	Keyless Hidden Door
+160	Motherkuma's Lie
+161	Victim's Perk Monopad
+162	Bloody Shot Put Ball
+163	Blackout Light Settings
+164	Normal Room Passageway
+165	Motherkuma's Fingerprint System
+166	Picture of Rantaro's Corpse
+167	The Seventh Monokub
+168	Clue to the Victim
+169	Despair
+170	Don't Use Our Lives
+171	Stop the Game
+172	Lie Bullet 172
+173	Lie Bullet 173
+174	Lie Bullet 174
+175	Lie Bullet 175
+176	Lie Bullet 176
+177	Lie Bullet 177
+178	Lie Bullet 178
+179	Lie Bullet 179
+180	Lie Bullet 180
+181	Lie Bullet 181
+182	Lie Bullet 182
+183	Lie Bullet 183
+184	Lie Bullet 184
+185	Lie Bullet 185
+186	Lie Bullet 186
+187	Lie Bullet 187
+188	Lie Bullet 188
+189	Lie Bullet 189
+190	Monokubs File
+191	Suspicious Sword Handle
+192	No Evidence of a Struggle
+193	Long Black Hair
+194	Makoto Wasn't Missing
+195	Tenko's Lie
+196	Cutting Board
+197	Lie Bullet 197
+198	Deny
+199	Affirm

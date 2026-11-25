@@ -1,0 +1,362 @@
+0	Hareket
+1	Kamera
+2	Hareket (Koş)
+3	Hareket (Koş) ※Sadece nişancı kontrolleri
+4	Konuş/Ara
+5	Açık Pencereyi Kapat/Geri
+6	El Kitabı Menüsünü Aç
+7	Mini Haritayı Değiştir
+8	Konuşma Kaydını Aç
+9	Dön ※Sadece Danganronpa kontrolleri
+10	İmleci Hareket Ettir
+11	Nişangahı Hareket Ettir
+12	Konuş / İncele
+13	Ayrıl/Haritaya Dön
+14	El Kitabı Menüsünü Aç
+15	Gözlem Modu
+16	Eşyaları Yerine Koy
+17	Nesneye Vur
+18	Konuşma Kaydını Aç
+19	Kontroller
+20	Seç
+21	RE:Act
+22	Onayla / Metni İlerlet
+23	İptal / Metni Atla
+24	El Kitabı Menüsünü Aç
+25	―
+26	Pencere Aç/Kapa
+27	Mod
+28	Konuşma Kaydını Aç
+29	Kontroller
+30	Yukarı: Jeton At/Aşağı: Jetonu Geri Al
+31	―
+32	Kadranı Çevir
+33	Çık
+34	Hediye Listesini Aç
+35	―
+36	―
+37	―
+38	―
+39	Kontroller
+40	Hareket
+41	―
+42	Konuş / İncele / Onayla / Metni İlerlet
+43	Hareket (Koş)
+44	İptal / Metni Atla
+45	El Kitabı Menüsünü Aç
+46	Pencere Aç/Kapa
+47	Mod
+48	Konuşma Kaydını Aç
+49	Kontroller
+50	―
+51	―
+52	―
+53	―
+54	―
+55	―
+56	―
+57	―
+58	―
+59	―
+60	―
+61	―
+62	―
+63	―
+64	―
+65	―
+66	―
+67	―
+68	―
+69	―
+70	Seç
+71	Kamera
+72	Onayla / Metni İlerlet
+73	İptal / Metni Atla
+74	El Kitabı Menüsünü Aç
+75	―
+76	Pencere Aç/Kapa
+77	Mod
+78	Konuşma Kaydını Aç
+79	Kontroller
+80	Nişan Al
+81	Gerçek Mermisi Seç
+82	―
+83	Tartışmayı Hızlandır
+84	Gerçek Mermisini Onayla
+85	Gerçek Mermisini At
+86	Gerçek Silindiri
+87	Konsantre Ol
+88	―
+89	Kontroller
+90	Nişan Al
+91	Gerçek Mermisi Seç
+92	―
+93	Tartışmayı Hızlandır
+94	Gerçek Mermisini Onayla
+95	Gerçek Mermisini At
+96	Gerçek Silindiri
+97	Konsantre Ol
+98	―
+99	Kontroller
+100	Kılıcı Hareket Ettir
+101	Gerçek Kılıcı Seç
+102	Kes/Geri İt
+103	Tartışmayı Hızlandır
+104	Gerçek Kılıcını Onayla
+105	Gerçek Kılıcı Kesişi
+106	Gerçek Kılıcı Silindiri
+107	Konsantre Ol
+108	―
+109	Kontroller
+110	İmleci Hareket Ettir
+111	―
+112	Parlama Noktası
+113	Harf Küresini Hızlandır
+114	Soruyu Göster/Gizle
+115	Harf Küresini Al
+116	―
+117	Konsantre Ol
+118	―
+119	Kontroller
+120	Arabayı Sür
+121	―
+122	Hızlan
+123	―
+124	―
+125	―
+126	―
+127	Konsantre Ol
+128	―
+129	Kontroller
+130	Nişan Al
+131	Gerçek Mermisi Seç
+132	―
+133	Tartışmayı Hızlandır
+134	Gerçek Mermisini Onayla
+135	Gerçek Mermisini At
+136	Gerçek Silindiri
+137	Konsantre Ol
+138	―
+139	Kontroller
+140	İmleci Hareket Ettir
+141	―
+142	Parçayı sil
+143	―
+144	Soruyu Göster/Gizle
+145	Resim Seç
+146	―
+147	Konsantre Ol
+148	―
+149	Kontroller
+150	Konuşmacı Seç
+151	Konuşmacı Seç
+152	―
+153	Tartışmayı Hızlandır
+154	―
+155	İfade Ver
+156	―
+157	Konsantre Ol
+158	―
+159	Kontroller
+160	―
+161	―
+162	Ritim Tuşu
+163	Ritim Tuşu
+164	Ritim Tuşu
+165	Ritim Tuşu
+166	―
+167	Coşku Zamanı
+168	―
+169	Kontroller
+170	İmleci Hareket Ettir
+171	Panel Seç
+172	―
+173	―
+174	Paneli Yakınlaştır
+175	Paneli Yerleştir
+176	Sayfa Çevir
+177	Sayfa Çevir
+178	―
+179	Kontroller
+180	Hareket
+181	―
+182	―
+183	Zıpla
+184	―
+185	Destek
+186	―
+187	―
+188	―
+189	Kontroller
+190	Seç/Kareyi Hareket Ettir
+191	―
+192	Seç
+193	(Olay Sırasında) Olayı Hızlandır
+194	―
+195	―
+196	―
+197	―
+198	―
+199	Kontroller
+200	Seç/Hareket
+201	Hareket (Koş)
+202	Seç
+203	Geri
+204	Menü
+205	Ekipman
+206	Zindandan Kaç
+207	―
+208	―
+209	Kontroller
+210	Hareket
+211	Kamera
+212	Hareket (Koş)
+213	Hareket (Koş) ※Sadece nişancı kontrolleri
+214	Konuş / İncele
+215	Açık Pencereyi Kapat/ Geri
+216	El Kitabı Menüsünü Aç
+217	Mini Haritayı Değiştir
+218	Konuşma Kaydını Aç
+219	Dön ※Sadece Danganronpa kontrolleri
+220	Nişan Al
+221	―
+222	―
+223	Tartışmayı Hızlandır
+224	―
+225	Gerçek Mermisini At
+226	―
+227	Konsantre Ol
+228	―
+229	Kontroller
+230	Kılıcı Hareket Ettir
+231	Gerçek Kılıcı Seç
+232	Kes/Geri İt
+233	Tartışmayı Hızlandır
+234	Gerçek Kılıcını Onayla
+235	Gerçek Kılıcı Kesişi
+236	Gerçek Kılıcı Silindiri
+237	Konsantre Ol
+238	―
+239	Kontroller
+240	Seç
+241	―
+242	Seç
+243	Çık
+244	―
+245	―
+246	Sekme Değiştir
+247	Sekme Değiştir
+248	―
+249	Kontroller
+250	Arabayı Sür
+251	―
+252	Hızlan
+253	―
+254	―
+255	―
+256	―
+257	―
+258	―
+259	Kontroller
+260	İmleci Hareket Ettir
+261	―
+262	Monokuma Sonarı
+263	―
+264	―
+265	Somonu Yakala
+266	―
+267	―
+268	―
+269	Kontroller
+270	İmleci Hareket Ettir
+271	―
+272	Parçayı Çıkar
+273	―
+274	―
+275	―
+276	―
+277	―
+278	―
+279	Kontroller
+280	―
+281	―
+282	BAHİS
+283	Çık
+284	Ayrıntılar
+285	HEPSİNE BAHİS
+286	―
+287	―
+288	―
+289	Kontroller
+290	Nişan Al
+291	Gerçek Mermisi Seç
+292	Susturucu
+293	Tartışmayı Hızlandır
+294	Gerçek Mermisini Onayla
+295	Gerçek Mermisini At
+296	Gerçek Silindiri
+297	Konsantre Ol
+298	―
+299	Kontroller
+300	Nişan Al
+301	Gerçek Mermisi Seç
+302	Susturucu
+303	Tartışmayı Hızlandır
+304	Gerçek Mermisini Onayla
+305	Gerçek Mermisi At/(Basılı) Yalan
+306	Gerçek Silindiri
+307	Konsantre Ol
+308	―
+309	Kontroller
+310	Nişan Al
+311	Gerçek Mermisi Seç
+312	Susturucu
+313	Tartışmayı Hızlandır
+314	Gerçek Mermisini Onayla
+315	Gerçek Mermisini At
+316	Gerçek Silindiri
+317	Konsantre Ol
+318	―
+319	Kontroller
+320	Hareket
+321	Kamera
+322	Hareket (Koş)
+323	Hareket (Koş) ※Sadece nişancı kontrolleri
+324	―
+325	Açık Pencereyi Kapat/ Geri
+326	―
+327	―
+328	―
+329	Dön ※Sadece Danganronpa kontrolleri
+330	―
+331	―
+332	―
+333	―
+334	―
+335	―
+336	―
+337	―
+338	―
+339	―
+340	―
+341	Seç
+342	―
+343	Seç
+344	Satın Al
+345	Çık
+346	Hediye Listesini Aç
+347	―
+348	―
+349	―
+350	Kontroller
+351	―
+360	Hareket
+361	-
+362	Elektroçekiç
+363	Zıpla
+364	-
+365	Tezahürat
+366	-
+367	-
+368	-
+369	Kontroller

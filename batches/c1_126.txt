@@ -1,0 +1,66 @@
+@ chap1_text_US
+## c01_701_052
+6|Bir uzay gemisinin içi gibi olabilir...\nYa da belki bir eğitim tesisi olur...
+7|<CLT=cltMIND>Kaito'yu astronot eğitimi hakkında\ndinleyerek biraz vakit geçirdim...
+## c01_701_053
+0|Süre sınırına sadece bir gün kaldı...
+1|Merak etme, paniklemiyorum.\nSonuçta ben bir astronotum!
+6|Ah, benim gibi iç huzuru nasıl bulunur, öğrenmek\nmi istiyorsun? Pekala, sana göstereyim!
+7|<CLT=cltMIND>Kaito'dan iç huzuru bulmayı öğrenerek\nbiraz vakit geçirdim...
+8|<CLT=cltMIND>Ama bana anlattığı hikâyeler iç huzuru\ntanımını sorgulamama neden oldu...
+## c01_702_000
+0|<CLT=cltMIND>Ryoma'ya hediye verme işlemi.
+4|<CLT=cltSYSTEM>Ryoma'ya bir hediye vermek ister misin?
+9|Ryoma Hoshi'nin sevgi seviyesi ARTTI
+10|Ryoma Hoshi'nin sevgi seviyesi Azaldı
+14|<CLT=cltSYSTEM>Ryoma'ya hediye vermek istemediğinden\nemin misin?
+## c01_702_001
+1|Amma derin bir iç çekiş.
+2|Yorgunsan benimle vakit geçirmek yerine\nneden odana dönmüyorsun?
+3|Ah, pardon... Aslında yorgun değilim...
+4|Evet, yorgunsun. Anlayabiliyorum. Böyle bir durumda\nyorgun olmasan asıl o şaşırtıcı olurdu zaten.
+5|Neyse, takma kafana.
+6|Tamam...
+7|Ahh, burada en azından bir hayvan olsa\ndaha az yorgun hissederdim.
+8|Şey, birkaç ayı var.
+9|Onlar sayılmaz.
+10|Hıh, insanı rahatlatacak türden hayvanlar\nolmadıkları kesin.
+11|Değil mi?
+12|Tanrım, sadece yumuşacık tüylü bir hayvan istiyorum.\nAcaba buralarda hiç var mı...
+13|Hıh...anlıyorum. Birini sevmeye başlayınca\nbütün dertlerini unutursun...
+14|Sen de hayvanları sever misin, Ryoma?
+15|Şey, onlardan hoşlanmamazlık etmem...
+16|Emin misin? Hayvanlardan bahsedince çok\ndaha rahatlamış görünüyordun.
+17|Ne—!?
+18|Oo? Doğru mu bildim?
+19|Tch, beni kandırdın... İyi oynadın.
+20|Sadece doğruyu söyledim. Hayvanlara olan\nzaafın suratına yazılmış.
+21|Peki ne tür hayvanları seversin, Ryoma?
+22|Kediler en iyisi...\nEskiden bir kedim vardı.
+23|Gerçekten mi!? Kedin mi var?
+24|Vardı... Hapse girdiğimde ona tanıdığım\nbiri baksın diye bıraktım.
+25|Ah, anlıyorum...
+26|Tenis antrenmanından sonra onu severdim.
+27|Sakin ve zekiydi. Yorgun olduğumu anlar,\nyanıma gelip kendini sevdirirdi.
+28|Güzel, kabarık bir tüyü vardı... Kedi otu\nyüzünden çıldırmasını izlemek beni sakinleştirirdi.
+29|Ben de kedi istiyorum!
+30|Kabarık kediler en iyisi!
+31|Bahse girerim dönmeni bekliyordur
+33|<CLT=cltMIND>Ryoma'nın ifadesi yumuşadı.\nKedileri gerçekten seviyor olmalı.
+34|Ben de kedi istiyorum! Buradan çıkınca\ngidip sevimli bir tane arayacağım.
+35|Eh...bu güzel.
+36|Ama heves edip öylece alma. Bir canlıya\nbakmak büyük bir sorumluluktur.
+37|Hıh, ama sanırım bu benim gibi bir katilin\nsöylemesi gereken bir şey değil.
+38|Kabarık kediler en iyisi!
+39|Evet... İran kedisi, Himalaya, Ragdoll,\nSibirya...
+40|Vay! Bir sürü cins biliyorsun.\nKedileri gerçekten seviyor olmalısın.
+41|Ş-Şey, evet...
+42|A-Ama heves edip öylece alma.\nTüylerinin bakımı tam bir baş belası.
+43|Bahse girerim dönmeni bekliyordur.
+44|Orasını bilemem... Kedilerin üç gün sonra\nminnettarlıklarını unuttuğunu duydum.
+45|Bu bir efsane. Bir kedinin ona bakan kişiyi\nunutmasının imkânı yok.
+46|Onu bir daha görmezsen yalnızlıktan ölür mü\nsence? Tavşanlar gibi?
+47|Hıh, görünüşe göre bu da popüler bir efsane.
+48|Ha? Gerçekten mi!?
+49|Ama evet...hapisten çıkınca yapacağım ilk\nşey...gidip onu almaya çalışmak.
+50|Senin bir kediyle oynadığını düşünmek bile...\nneredeyse gelmiş geçmiş en sevimli şey.

@@ -1,0 +1,732 @@
+[
+ {
+  "id": 0,
+  "en": "Yes, it's true, Kaito never put\nhis arm through his sleeve...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...but that was just his <CLT=cltSTRONG>right arm<CLT=cltNORMAL>.\nHe wore his left sleeve normally.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "And the <CLT=cltSTRONG>left sleeve<CLT=cltNORMAL> was the one\nwe found outside the press.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Knowing how Kaito wore his coat,\nthat's awfully strange, isn't it?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Then maybe neither of his arms were\nthrough the sleeves.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "It's a possibility... In the end, your\nreasoning is full of holes.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Stop getting in my way.\nI have to defeat Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Maki... What's really going on?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Seems you've made up your mind\nthat Kaito is definitely dead.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>But why would you do that?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "It's like Maki said, though...\nKaito's gotta be the victim.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Cuz if Kokichi, the mastermind, was \ndead, the killing game would be over.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Yeah, that's true.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Monokuma, hurry up and bring Kokichi here.\nWe already know who the victim is.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Huh? Already? You sure it's not too soon?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "We need the suspect present now that\nhe's the subject of our discussion.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Gotcha. I guess I'll bring him out now.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Hey Mister Suspect! That's your cue!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "An <CLT=cltSTRONG>Exisal<CLT=cltNORMAL>!?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Wh-What!? Why is an Exisal here!?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Haha, whoops! My bad. Seems like I \ngave you guys a scare, huh?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>...What is this?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Is that...<CLT=cltSTRONG>Kaito<CLT=cltNORMAL>'s voice!?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "There was a lot going on, so I just\nhid in an Exisal and kinda dozed off.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Haha, and that's why I'm so late!\nAnyway, what's goin' on, guys?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "H-Hold on. Then the one\nthat died wasn't Kaito—",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Stuuupid! That was just a lie!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Ah-haha, you guys thought I died!?\nI would never! Noooo way!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "K-<CLT=cltSTRONG>Kokichi<CLT=cltNORMAL>!?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "\"I'm gonna live till I die!\nI'm gonna laugh 'stead of cry!\"",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Wow, that's old! How old are you!?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I thought as much... Your appearance right\nnow is fit for a lowly asshole like you.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Nee-heehee... You're making me blush!\nYou're getting so angry over me.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Is that really you, Kokichi!?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "That's right, Cracker Jack!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Seriously, how old are you!?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Then why are you hiding in there?\nShow yourself!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Oh, this is more for self-defense. Little Miss\nCrankypants would kill me if I showed myself.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I understand how you guys must feel. You\ncan't believe it because I'm like this, right?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Nee-heehee... That's what I thought.\nIn that case, I brought <CLT=cltSTRONG>evidence<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...Evidence?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Tadaaa! The <CLT=cltSTRONG>video camera<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "It was in the warehouse but I brought it\nto the hangar, just in case.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Man, that was a smart move! Thanks to this,\nI filmed it so everyone could see it clearly.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "The <CLT=cltSTRONG>moment the victim died<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Nyeh!? Wh-What did you say!?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Alrighty then! Let's watch this shocking moment!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Heeey, Monokuma! Can you connect the \nvideo camera to the monitor?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Roger that!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>Monokuma grabbed the camera from the Exisal,\nhooked it up to the court room's monitor...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>and played the tape for us.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "K-Kaito!?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Th-This is terrible! Why would...\nsomething like this...?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "I-I saw it through my fingers...\nThe moment...Kaito was crushed...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I'm...gonna... *huuurk*",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "By the way, I'd like to add that this footage\nhas not been doctored in any way!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "This video camera only has the\nbasic functions...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Just the Play, Record, and Pause buttons,\nso you can't edit after filming it.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "And of course, I didn't upload it to a \ncomputer to edit it either.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Riiiight, Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Oh, you can talk. Your answer is necessary\nfor a fair discussion.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I see! If it's necessary for a fair discussion,\nthen I will answer!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "No trace of that footage was found on any\nof the computers inside the academy!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "See? If it wasn't connected to any computer,\nthen editing the footage would be impossible.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Which means, this footage is 100% real!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "If that's the case...then it would seem our\nsuspicions can be lifted.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "The body we found inside the hangar, crushed\nin the hydraulic press, is definitely Kaito!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltSYSTEM>The <CLT=cltSTRONG>Murder Video<CLT=cltSYSTEM> has been recorded in the\nMonopad. View it from the Truth Bullet menu.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>Was that...?\nWas that really him?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Poor Kaito... I can't believe he \ndied such a horrible death...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "I can't believe he died with his guts and \nhis brains splattered all over that machine!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "S-Stop it... Now I'm starting to\nnot feel well...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "That's probably cuz I used my magic \nto transfer all my barf over to you.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "I know that's a joke, but the\nthought of it... *huuurp*",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>...Why?\nWhy was...Kaito...killed?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>Kokichi had no reason\nto kill Kaito...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>He had just told us all that he was the\nmastermind, that the killing game was over.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>So what would he gain\nby killing Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Nee-heehee... It looks like you finally \nbelieve that I'm the one in this Exisal.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Yes. With that, we can definitively say\nthat the culprit is...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "...you.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Huh? Why?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "You filmed the moment the victim died, which\nmeans you were present at the scene...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "As the person who filmed this footage, you're\nthe only one who could be the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "But if the culprit shot the video, why would\nthey go out of their way to show it—",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Aw maaan, ya got me. Yeah, I'm the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>...What?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Geez, I totally dug my own grave!",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Here's the truth—I decided to participate in\nthis trial in an Exisal after I killed Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Of course, it was mostly to make the victim\nunknown, to jazz up this trial!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "I took that footage for proof, so I could reveal\nit after you guys get the correct answer...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "But...ah-haha! I toootally spaced out!\nI wasn't supposed to show it right away!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "So does that mean...you admit\nto the crime?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Oh, man! I dug my own grave again!?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Well, I don't think you guys will believe\nany of the excuses I make now...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "So...I give up!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "You're giving up? Does...that mean\nit's been decided?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Is it okay that this trial was so short?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "That's fine. We knew from the very start\nthat Kokichi was the killer.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "But before we vote, I want to say\nsomething to Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "You may be the mastermind, but I won't let\nyou escape after you violated the rules.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "That would desecrate the killing game\nJunko Enoshima created, right?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...Your beloved Junko Enoshima.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Junko...?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Whatever! It's Voting Time now!\nLet's go before Kokichi changes his—",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "No, hold on a second! This isn't right!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "The culprit comes in, confesses\nto the crime, and the trial ends?",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "That's not how this goes!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "That doesn't sound like the kind of game\nKokichi or Monokuma or Junko would play!",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "What if the mastermind got tired of it?\nThe Remnants of Despair were like tha—",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "No, if they were tired of it, they wouldn't\nhave put all that effort into the video.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "There would have been no need for\nthis class trial in the first place.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Something's not right. We need to\nget a better feel for this situation.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "I think...Kokichi has some sort of plan.\nHe's trying to trap us.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Trap us? Are you saying Kokichi isn't\nthe culprit?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Then, are you suggesting one of us is \nthe culprit?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "<CLT=cltMIND>What?",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "If it's not Kokichi, then the culprit must be\none of us...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "One of us?",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "That's not possible!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "No, I didn't say that! I was just saying\nit's dangerous to trust Kokichi—",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Nee-heehee... Shuichi is so distrusting...",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "But it's exaaactly like Shuichi said!\nI'm actually nooot the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "<CLT=cltMIND>...Seriously?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Wh-What? But that contradicts what you\nsaid previously.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Yuppers, that was a <CLT=cltSTRONG>lie<CLT=cltNORMAL>.\nSorry! I lied again.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "The real culprit of this case is super bad at\nhiding themselves, so I thought I could help...",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "I pretended to be the culprit by using the \nfootage! It made the game more interesting, too!",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "A-Are you serious?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Nyeeeh! What's the truth and what's\na lie!? I don't know anymore!",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "It's fine... Because Kokichi is the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "He killed Kaito... No matter how much he\ndeceives us, it won't change our minds.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "The footage shows he did it!\nKokichi has to be the only option!",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "<CLT=cltMIND>The only option?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "<CLT=cltMIND>Is that really true?\nAre we just going to leave it at that?",
+  "tr": ""
+ }
+]

@@ -1,0 +1,562 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Maybe...I'll try one more time.\nI feel like I can do it this time...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>\"EXIT\" is written here,\nas conscpicuously as possible.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>They said there was an exit...\nbut is that really true?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Dammit... This is it for me...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Is everyone okay?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Where is the exit...?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Let's try it.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Everyone, be careful!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Hup!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "DAMN IT!!!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Leave it to me!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Let's get pumped!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Let's do it!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Leave it to me!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Hup!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Still...got a ways to go...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Follow me.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Be careful.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "It's not over yet!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I guess I'm up...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Hm!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Looks like it's no good...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I wonder where the exit is...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Are you okay?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "You guys are incredible!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Let's go!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Hup!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Sorry...everyone...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Gentleman no lose!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Gonta handle this!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Everyone okay?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Gonta do his best!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Hup!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Ah-haha...I'm not gonna make it.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Let's have more fun!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Let's do this!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Are you guys still alive?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Let's have fun with this!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Alley-oop!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "So this is the end...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "How do you fare?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "This may prove difficult...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Where, I wonder, is the exit?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I shall go...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Hah...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "I miscalculated...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Let's find the exit!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Is everyone alright!?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "We have to do this.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Leave it to me, everyone!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Hup!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "I am a failure...as a maid...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I will do my best.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "I will do it for everyone's sake.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Is everyone alright?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Let us proceed.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Ha!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I couldn't do it...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I'll do it...with magic!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Gotta do my best!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Where's the exit?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "I guess I'll go...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Nyeh!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Tsk...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Let's get it over with...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Where's the exit?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "This place is trouble.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Let's go.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Fu!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "I'm sorry! I couldn't do it!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "HAAAIYAAAAAAAHHH!!!!!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Sneak attack!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "I will protect you!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "I'll do it!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Ha!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Nooooooooooooooo!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "I'm gonna try my best!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Is everyone okay?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "I wonder where the exit is.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Time to do my best!",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Umph!",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Nyahahaha! Bye-onara!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Gimme strength!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Ohhhh!",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "How divine!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Atua's on my side.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Hi-yup!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Ahhhhhh!",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "I fuckin' ruuuuule!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "You shitheads still alive!?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Bring it on!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Fine. I'll fuckin' do it.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Yup!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "I can't...lose here...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Good job, everyone!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Follow me!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "I'll do my best!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "I'll get us out of here!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Hup!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Dammit... This is it for me...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Is everyone okay?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Where is the exit...?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Let's try it.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Everyone, be careful!",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Hup!",
+  "tr": ""
+ }
+]

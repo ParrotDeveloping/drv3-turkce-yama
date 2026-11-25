@@ -1,0 +1,677 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>It's almost like a museum or library...\nIt's huge...and a little eerie...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>There are various objects stored in shelves\nand cases. Some of them seem very rare.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "It would appear this is my lab.\nThe <CLT=cltSTRONG>Ultimate Anthropologist<CLT=cltNORMAL>'s lab.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "It's so wonderful, my face contorts with glee.\nNot even university labs are so well-stocked.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>But...who brought all this stuff here?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>I suppose there's no point thinking about\nit. Nothing in this place makes sense.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Nee-heehee... This is the first time I've seen\nKiyo get so mad.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "He's scary when he's mad. If he tore out\nmy nerves, I think I might cry!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "This is truly amazing...\nNot even university labs are so well-stocked.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Having all this to myself gives me some \ncomplicated feelings, as I am a researcher.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Calling on the dead out of curiosity\nwould only be a blasphemy.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "One must call on them...\nonly at the appropriate time.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>I'll investigate around here a little more.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>I'll investigate around here a little more.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>I'll investigate around here a little more.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>There's a large wooden dog statue on the\npedestal. It looks pretty old.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>It has some kind of strange power to it...\nIt makes me shiver just looking at it.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Th-That's...!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Ooh! Can it be!? I never could've dreamed \nthat <CLT=cltSTRONG>this<CLT=cltNORMAL> truly existed!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Kiyo, quivering with excitement, reached out\nto that peculiar dog statue...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>and slowly removed the white fabric\non the pedestal.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Ooh! There's even a cage!\nThis is perfect!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Perfect? For what?\nWhat are the statue and cage for?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Kehehe... I never thought I would be able\nto touch the real thing in all my life.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Today is a momentous day, indeed...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>He's so focused that\nhe's not even listening.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>There's a large wooden dog statue on the\npedestal. It looks pretty old.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>It has some kind of strange power to it...\nIt makes me shiver just looking at it.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Kehehe... I never thought I would be able\nto touch the real thing in all my life.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Kiyo seems pretty focused...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Window",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Cloth",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Cage",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>There's something in this case...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>It's a golden katana...\nHow beautiful.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>It's rusted in places but looks about a\nyard long and still sharp.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Is that real gold...?\nIt's probably valuable...\n",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Kehehe... You were drawn to that katana, I see.\nHowever, it is merely coated with gold leaf.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ah, so it's not made of gold.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "That said...that katana has immense \nanthropological value.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "In certain rural areas, katanas used to defeat\ngenerals in wars are worshipped as gods...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "That is one such katana. It is an extremely \nprecious relic necessary to spread—",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Whoa! That's a super rad katana!\nI wanna take a look-see!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>Kokichi suddenly popped up between us\nand grabbed the katana from the case.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Wait, you mustn't touch it without—",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Don't worry, I'll be super careful with it!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...Would I lie to you!?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>Kokichi completely ignored Kiyo's warning\nand unsheathed the sword.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Now this katana is the real deal. It's even\ngold-plated for that authentic look!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Hmm, I see... It could also be used\nas a murder weapon.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Kokichi...that is an extremely precious relic.\nPlease do not treat it so lightly, or...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...I will tear out your nerves.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "O-Okay, I get it... Please don't make such\nscary threats...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Kokichi slid the sword back into its\nsheath and handed it back to Kiyo.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Ew! My hands are all sticky!\nThat gold plating flakes off so easily!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "But I guess that's what makes it an\nauthentic katana!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Yes...it is very old, so the gold leaf \ncomes off easily.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "In any event, please do not touch things without\npermission. These are all precious relics.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "If you do so again, I will tear out your nerves.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I-I get it... The scary threats really\naren't necessary...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>...So that's what Kiyo sounds like\nwhen he gets angry.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>There's something in this case...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>A beautiful golden katana...\nIt looks about a yard long and still sharp.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "That katana has immense \nanthropological value.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "That's why I would prefer it be treated with \nrespect. If something *does* happen to it...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "...I will tear out your nerves.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>...So that's what Kiyo sounds like\nwhen he gets angry.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>It's packed with books and scrolls...\nThey're all weathered and old.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "I don't think I could read all of these\nif I had a million years...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>There's a book in the display case.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>The bookcases were full of books,\nbut I imagine this one is special.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "This one...looks like it was bound by hand.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Can it truly be!?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>Unlike his usual quiet self, Kiyo shouted\nand ran over to me with an alarmed expression.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>With steady, careful hands, he took\nthe book from its showcase.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "It *is*... H-How amazing!\nIt's actually real!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "What is that book, Kiyo?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "It is...an extremely precious document.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "This book is a history of the fabled <CLT=cltSTRONG>Caged Dog\nVillage<CLT=cltNORMAL>, said to have been destroyed long ago.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "The \"Caged Dog Village\"?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "The <CLT=cltSTRONG>Caged Dog Village<CLT=cltNORMAL> had a reputation\nfor using many dark arts and spells...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "The village was destroyed at the hands of a\nfeudal lord who feared their power...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "But one girl—the lone survivor—risked \nher life to write this book.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Which means...this is all her handwriting.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "This book is an extremely precious one-of-a-kind\nrelic that has been soaked in her bitter grudge.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "One of a kind?\nThat *is* valuable...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "On top of that, since this book has such\na <CLT=cltSTRONG>reputation<CLT=cltNORMAL>, there are few copies.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Since I was fortunate enough to obtain one of\nthose copies, I have already memorized it.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Kehehe... But I never thought I'd be able to lay\neyes on the real one... What a trick of fate.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Ah, Kiyo...what did you mean by <CLT=cltSTRONG>reputation<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "The rumor goes that the spells and dark arts \ninscribed in this book are extremely potent...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "They surpass the comprehension of people\nwho live in a world of science and technology.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "That is why...it was buried in the darkness.\nAlong with the entire Caged Dog Village.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "But it seems those were no mere rumors.\nI can feel power seeping out from this book.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "The deep-seated grudge of a girl whose village\nwas destroyed...permeates every letter...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>...This is getting weird.\nI think I should just...end the conversation.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>There's a book in the display case.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>The bookcases were full of books,\nbut I imagine this one is special.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Kehehe... I never imagined I'd find it here.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "This book is a history of the fabled <CLT=cltSTRONG>Caged Dog\nVillage<CLT=cltNORMAL>, said to have been destroyed long ago.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "I never thought I'd be able to lay eyes on\nthe real one... What a trick of fate.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Kehehe... I can feel power seeping out \nfrom this book.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>...This is getting weird.\nI think I should just...end the conversation.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>I feel as though the only thing I've learned\nis that I've learned nothing about this lab.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "By the way, Shuichi... Would you like to \nlend your ear to the voices of the dead?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...The what?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "The <CLT=cltSTRONG>Caged Dog Village documents<CLT=cltNORMAL> contain \nmany dark arts unique to that village.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Of all of them, the one I find most interesting\nis a seance called \"<CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>\"...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "In fact, the wooden dog statue and iron cage\nover there are to be used in this very seance.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Kehehe... To discover it exists is surprising \nenough, but to actually have it before me...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "So...would you like to try? Let us converse\nwith the dead using <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>, shall we?",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Ah...no thanks.\nI don't have any interest in the occult...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Now, now... You mustn't dismiss it as\nsimply the occult...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Some matters you refer to as the occult are of\nthe utmost importance to anthropology.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Dismissing things you don't understand as the\noccult is a defilement to all cultures, yes?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Ah, yes, but <CLT=cltSTRONG>talking to the dead<CLT=cltNORMAL>—",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Haven't you ever wanted to speak \nwith the dead?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>Speak...with the dead...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltMIND>If it were possible, I suppose...\nI'd like to talk to <CLT=cltSTRONG>her<CLT=cltMIND> one more—",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "No. No, I decline.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Even if it were possible to speak with the dead...\nI don't have anything to say. Not yet.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "The only thing I'd want to say is...\nWe escaped. We finally got out of here...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Kehehe...that determination is beautiful.\nPerhaps you are correct.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Calling on the dead out of curiosity\nwould only be a blasphemy.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "One must call on them...\nonly at the appropriate time.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "<CLT=cltMIND>I felt a shiver up my spine.",
+  "tr": ""
+ }
+]

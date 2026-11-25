@@ -1,0 +1,72 @@
+[
+ {
+  "id": 0,
+  "en": "Everyone's waiting for you, y'know?\nLet's hurry up and get to the dining hall!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Rantaro...\nIn the end, we never discovered your talent.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>What did you learn, Rantaro?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>You wanted to end the game...\nWhat was your plan?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Kaede, I...\nI will keep your wish.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hey, c'mon. What are you doing?\nEveryone else is at the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Let's get going.",
+  "tr": ""
+ }
+]

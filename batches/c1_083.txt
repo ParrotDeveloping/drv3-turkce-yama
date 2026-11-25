@@ -1,0 +1,59 @@
+@ chap1_text_US
+## c01_208_001
+16|Ama <CLT=size2>GI Oda'nın<CLT=size1> 
+17|Ama GI Oda'nın birden fazla girişi var.
+18|<CLT=size2>birden\nfazla
+19|<CLT=size2>girişi<CLT=size1> var.
+20|Koridora bakan
+21|Koridora bakan bir kapı da olmalıydı.
+22|bir kapı da <CLT=size2>olmalıydı,<CLT=size1> 
+23|<CLT=size2>Arka girişin\n<CLT=size1>karşısındaki <CLT=size2>sürgülü kapı,<CLT=size1> doğru mu?
+24|Arka girişin karşısındaki sürgülü kapıdan bahsediyorsun, doğru mu?
+25|<CLT=cltWEAK>O <CLT=size2>sürgülü kapıyla<CLT=cltNORMAL>...
+26|O sürgülü kapıyla...
+27|<CLT=size2>kütüphaneye<CLT=size1> hızlıca <CLT=size2>girip\n<CLT=size1>çıkabilirsin<CLT=size2>!
+28|kütüphaneye girip\nçıkabilirsin!
+29|<CLT=size2>Sonra \n<CLT=size1>bir şekilde kameradan geçip...
+30|Sonra bir şekilde kameradan geçip...
+31|<CLT=size2>Rantaro'yu<CLT=size1> <CLT=size2>öldürdü.
+32|Rantaro'yu öldürdü.
+33|Eh, iş çözüldü. Hadi eve gidelim.
+34|Eh, iş çözüldü. Hadi eve gidelim.
+35|<CLT=size2>Çözülmedi!
+36|Çözülmedi! Gonta suçlu değil!
+37|<CLT=size2>Gonta<CLT=size1> suçlu <CLT=size2>değil!
+## c01_209_000
+0|Sürgülü kapıyı kullanmak mümkün değil.
+1|Yanıldığımı mı söylüyorsun!? Bana karşı\nçıkmak için epey kıç lazım!
+2|..."Cesaret" mi demek istedin?\nŞey...bence kelimeyi karıştırdın...
+3|Sürgülü kapı <CLT=cltSTRONG>hep sıkışıyor<CLT=cltNORMAL>.\nSadece aralık açılabiliyor.
+4|Vücudundan geçebilecek tek kısım\nkolun olur!
+5|Ayrıca kapının zorlandığına dair hiçbir iz\nyoktu. Rayda toz vardı.
+6|Başka bir deyişle, sürgülü kapıdan\nçıkmış olma ihtimalleri sıfır.
+7|A-Anlıyorum... Demek hata yaptım...\nNe nadir...
+8|Senin hata yapman o kadar da nadir değil.\nVarlığının tamamı bir hata.
+9|S-Seni gaddar küçük...!
+10|Gonta sürgülü kapıyı kullanamadıysa\no zaman kütüphaneye gitmek için...
+11|Oyun Odası'ndan geçmesi gerekirdi.\nAma onu hiç görmedim.
+12|Gördünüz mü? Gonta size suçlu olmadığını söyledi!
+13|Hayır, bunu henüz doğrulayamayız.
+14|...Ha?
+15|Özür dilerim, Gonta. Seni böyle zor durumda\nbırakmak istemem ama...
+16|Elimden geleni yapacağıma söz verdiğim için\nbu sorumluluğu yerine getireceğim.
+17|G-Gonta'nın hâlâ suçlu olabileceğini mi\nsöylüyorsun?
+18|Gonta'nın Rantaro'yu Görsel-İşitsel Oda'dan\nöldürmüş olma ihtimali var.
+19|Görsel-İşitsel Oda'dan mı? Nasıl...?
+20|Oo-ho! Böyle bir ihtimal olduğunu bilmiyordum.
+21|Rantaro'yu Görsel-İşitsel Oda'dan\nöldürebilmekle kalmaz, aynı zamanda...
+22|...kütüphaneye yerleştirilen kameraların hiçbir\nfotoğrafında da görünmezdi.
+23|Vay, mükemmel!\nAma dur, o zaman Gonta onu nasıl öldürdü?
+24|Şey...bu *göz kamaştırıcı* kız dâhi için apaçık\nama belki bu kalın kafalılara açıklarsın?
+25|Önce hem Görsel-İşitsel Oda'nın hem de\nkütüphanenin düzenini açıklayacağım.
+26|Görsel-İşitsel Oda'daki sürgülü kapı\nkütüphanenin arka kapısına bakıyor.
+27|Bu nedenle Gonta'nın Görsel-İşitsel Oda'dayken\nRantaro'yu öldürmüş olması mümkün.
+28|Şeyy... Ama nasıl?
+29|Cinayetin gerçekleşmesi için kütüphanenin\narka kapısının açılması gerekir.
+30|Ah, dur bir saniye... \nBu imkânsız değil mi?
+31|Görsel-İşitsel Oda'nın sürgülü kapısı açılmıyor, \nyani koridora çıkamazsın.
+32|Koridora giremiyorsan kütüphanenin arka\nkapısını nasıl açarsın?
+33|Sürgülü kapıdan bütün vücudunuz sığmasa da\n<CLT=cltSTRONG>bir kol<CLT=cltNORMAL> yeterli olur.

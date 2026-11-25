@@ -1,0 +1,57 @@
+@ chap0_text_US
+## c00_008_251
+66|Sanırım öyle...
+67|Bu bir...ninja heykeli mi?
+68|Öyle görünüyor...\nAma burada ne işi var?
+69|Cidden...bir sürü tuhaf şey var...
+70|Bu...ne?
+71|Şey, bir tür kaide mi? Üstüne gelen\nparçası eksik gibi görünüyor.
+72|Eh...her neyse, üzerine düşünmenin\nanlamı yok.
+73|Siber Alan Anahtarı
+74|Ninja Parşömeni
+## c00_008_253
+0|Burası...okuldan çok daha iyi durumda.\nBirisi buraya bakıyor mu?
+1|Yah-hah! Nasılsınız?
+2|Benim adım Angie Yonaga!\n<CLT=cltSTRONG>Ultimate Sanatçı<CLT=cltNORMAL>'yım!
+3|Epey neşelisin...
+4|<CLT=cltMIND>İçinde bulunduğumuz durumu düşününce\nbiraz fazla mutlu...
+5|Nyahahaha! Kötü düşünceleri taşımak için\nhiçbir sebep yok!
+6|Her günü parlak, neşeli ve eğlenceliymiş\ngibi yaşamalısın!
+7|...Böyle diyor Atua.
+8|A-Atua mı?
+9|Adamın tanrısı Atua her zaman yanımda,\nbenimle kutsal sesiyle konuşur...
+10|<CLT=cltMIND>Ah, şey, kesinlikle çok dindar...
+11|Resimde mi uzmansın, heykelde mi?
+12|Hmmm... İkisi de. Resim de yaparım,\nheykel de.
+13|Ama sanatı yapan Atua.\nBen sadece bedenimi Ona aracı olarak sunarım.
+14|Nyahahaha! Ne kutsal!
+15|Anlıyorum, ilginçmiş. Sakıncası yoksa\nbana eserlerinden gösterebilir misin?
+16|Tabii, tabii.\nKarşılığında bir adak sunar mısın?
+17|Adak mı...?
+18|Adamda her pazartesi ve çarşamba sabahı\nadakları toplamak için bir kamyon gelir.
+19|...Bu tuhaf bir şekilde çöpü toplanması\niçin dışarı çıkarmaya benziyor.
+20|Merak etme, merak etme. Adak dediğim\nsadece yarım litre ya da bir litre kanın!
+21|<CLT=cltMIND>Merak...etme...mi?
+22|Şey, biraz kansızlığım var, o yüzden geçeyim...
+23|Anlıyorum. Peki ya sen?
+24|Ha? Ben mi!?
+25|Erkek kanı da kabul edilebilir bir adak.
+26|Hadi, hadi! Hiç acımayacak!
+27|Ah! B-Bir dakika!
+28|Nyahahahaha! Kaçma!
+29|<CLT=cltMIND>B-Bu kız çok...tuhaf!
+30|<CLT=cltSYSTEM>Angie'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+31|Kansızlığın geçince gel de adağını kabul\nedeyim! Atua seni korusun!
+32|<CLT=cltMIND>Bu gülümseyerek söylenecek bir\nşey değil, değil mi!?
+33|<CLT=cltMIND>Acaba o kız da mı <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci?\nGidip onunla konuşmalıyım.
+34|<CLT=cltMIND>Acaba o kız da mı <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci?\nGidip onunla konuşmalıyım.
+40|<CLT=cltMIND>Ortasında heykel olan güzel bir\nçeşme ama...
+41|Bu da ne böyle...?
+42|<CLT=cltMIND>Karşımda duran tuhaf heykeli anlatacak\nkelime bulmak zor.
+43|Gövdesi insan...ama yüzü\nayı mı...?
+44|Bu bir tür ayı *mı*...?
+45|Şey... Pek bilmiyorum...
+46|Şimdiye kadar bir sürü tuhaf şey gördük...ama\nbu açık ara en tuhafı.
+47|Evet...
+48|<CLT=cltMIND>Ortasında heykel olan güzel bir\nçeşme ama...
+49|<CLT=cltMIND>Gövdesi insan, yüzü ayı...\nBu da ne böyle?

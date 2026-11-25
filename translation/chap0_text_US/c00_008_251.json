@@ -1,0 +1,377 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Vay... Bu adam korkutucu görünüyor.\nÇok iri ve kaslı...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Şey...affedersin?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "...Hm?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Ah! Teşekkür ederim!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Ha? Teşekkür mü?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Ah! Korkuttuğu için özür!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Gonta korkunç görünüyor. Çoğu insan ilk\ntanışınca Gonta ile konuşmak istemez.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "O yüzden, centilmen gibi, Gonta teşekkür eder!\nGonta ile konuştuğun için teşekkürler!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Şey...bu kadar kibar olduğun için teşekkürler.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Korkutucu görünüyor ama...hiç de\nkorkutucu biri gibi durmuyor.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Ah...doğru!\nGonta kendini tanıtmalı!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Şeyy... Gonta'nın adı Gonta Gokuhara.\nGonta'nın yeteneği <CLT=cltSTRONG>Ultimate Böcekbilimci<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Gonta centilmen olmak istiyor!\nGerçek centilmen olmak Gonta'nın hedefi!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Ah, demek sen Gonta'sın.\nÇok tatlı bir isim.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "G-Gerçekten mi? T-Teşekkürler.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Ayy, aslında çok iyi birisin.\nBaşta bu kadar korkmam ne saçmaymış.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Ah... Gonta korkunç görünüyor, ha?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Ah, özür dilerim...\nÖyle demek istememiştim...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Yok, sorun değil. Gonta alışkın.\nGonta çocukluğundan beri korkunç denir.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Çocukluğundan beri mi?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Çocuk Gonta diğer çocuklardan büyüktü.\nDiğer çocuklar Gonta'dan korkardı...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "O yüzden çocuk Gonta yalnız oynardı. Gonta\nböcekleri böyle sevdi.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Ama...Gonta çok odaklanınca etrafı\nkolayca unutur...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Bir gün Gonta böcek bulmak için ormana gitti.\nSonunda kayboldu...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Çok zor olmalı... Seni hemen\nbulabildiler mi?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Evet... Gerçi on yıl sürdü.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "On yıl mı!?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Ama Gonta iyiydi.\nYeni aile Gonta'ya baktı.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "A-Anlıyorum... İyi insanlar olmalarına sevindim.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Ah...insan değil. Kurtlar.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Kurtlar mı!?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Ama çok iyiler.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Orman ailesi sayesinde Gonta böcek ve\nhayvan dili konuşmayı öğrendi.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Teşekkür olarak Gonta orman ailesine ne\nharika centilmen olduğunu göstermek istiyor!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>Şey... Centilmen olmak onlara nasıl\nteşekkür etmek oluyor ki?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Burası tuhaf, ha?\nBir sürü bitki var ama hiç böcek yok.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...Dur, gerçekten mi? Hayvan olmaması\nanlaşılır ama hiç böcek de mi yok?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Bu...tuhaf.\nTek bir böcek bile—",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Sen de böcek sever misin?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Hey, en sevdiğin böcek ne!?\nOnların nesini seviyorsun!?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Ah, h-hayır, böcekleri *sevdiğimi*\nsöylemiyordum...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "O zaman sen...böceklerden nefret mi ediyorsun?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...Ne?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "S-Sen...böceklerden nefret mi ediyorsun!?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ş-Şey...böceklerden nefret etmiyorsun!\nOnlara *bayılıyorsun*! Değil mi, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "E-Evet! Tabii ki!\nBen...böceklere...bayılırım?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...Ah, tamam. Bu iyi.\nKötü insan böcek sevmez.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltSYSTEM>Gonta'nın <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "...Bu korkutucuydu.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>Of, evet...\nÖleceksin sandım.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>Açıkçası ben de böceklere dayanamam,\nama bunu saklamak en iyisi olabilir...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Burası çok tuhaf...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Bir sürü yeşillik var ama böcek yok...\nNeden?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltSYSTEM>",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltSYSTEM>*tık...tık...*",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Sanırım bu açılmıyor...\nBaşka bir yere bakalım...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Sanırım öyle...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltSYSTEM>",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltSYSTEM>*tık...tık...*",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Sanırım bu açılmıyor...\nBaşka bir yere bakalım...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Sanırım öyle...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>*tık...tık...*",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Sanırım bu açılmıyor...\nBaşka bir yere bakalım...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Sanırım öyle...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Bu bir...ninja heykeli mi?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Öyle görünüyor...\nAma burada ne işi var?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Cidden...bir sürü tuhaf şey var...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Bu...ne?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Şey, bir tür kaide mi? Üstüne gelen\nparçası eksik gibi görünüyor.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Eh...her neyse, üzerine düşünmenin\nanlamı yok.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Siber Alan Anahtarı",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Ninja Parşömeni",
+  "tr": ""
+ }
+]

@@ -1,0 +1,787 @@
+[
+ {
+  "id": 0,
+  "en": "So where did you want to place the\ncameras?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Let's aim the one linked to the receiver\nat the moving bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "If we place the security sensor on the\nbookcase itself, then when it opens...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "the receiver will let us know.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "And if we place the camera to face the\nmoving bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yes, the camera should capture the exact\nmoment the mastermind moves the bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Then where are we putting the other two\nsensors?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Well, there are two entrances to the library.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "The <CLT=cltSTRONG>front entrance<CLT=cltNORMAL> near the stairs,\nand the <CLT=cltSTRONG>rear entrance<CLT=cltNORMAL> to the hallway...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Let's aim one at each entrance.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "That way, we'll have pictures of\neveryone who enters the library.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "But how about over there?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Didn't you say a person could fit through\nthe vent that connects to the classroom?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Wait, shouldn't we make sure a person\ncould actually fit through it?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "I think it'll be fine, since we'll be keeping\nwatch in the classroom...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "But we should investigate it a\nlittle more, just in case.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>But we can't reach that high.\nHm...we need something to stand on.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...By the way, Kaede, what happened with the\nfight in the dining hall? Is everything okay?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "It wasn't really a fight... Ryoma had just\nsuggested that we kill him...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Kill him...?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "No one agreed to it, of course...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "And then Rantaro suddenly said he'd end\nthe game.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "End the game...?\nDoes Rantaro even know how to do that?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I don't think so... He probably just said that\nto stop Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Anyway, we don't have time to worry about\nthat. This plan is more important right now.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Yeah... Yes, definitely.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I'm curious as to what Rantaro meant by\nthat...but we should focus on the plan.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>The other rooms might have something I can\nuse to stand on...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>But for now, let's see if I can\nfind something in here.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>I wish I had a big TV like this at my house.\nI'll ask Dad to get me one after I escape.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>Maybe I can stand on the\nshelves of a bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>It's impossible. The books are crammed so\ntight, there's no room to put my feet.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Maybe I can stand on the\nshelves of a bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>It's impossible. The books are crammed so\ntight, there's no room to put my feet.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>Maybe I can stand on the\nshelves of a bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>It's impossible. The books are crammed so\ntight, there's no room to put my feet.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Oh, I can probably use this ladder.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>I positioned the ladder below the vent\nand climbed up.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Whoa... Now that I'm up here, this is pretty\nhigh. It's kinda scary...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Do you wanna switch?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Nah...I'm fine...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "By the way, can you see my, um...delicates?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Ah! Sorry!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Sorry, huh? So you did see them...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>W-Well, whatever... He can't unsee them.\nAnyway...this is the vent.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>There's a grate covering the vent, so\nI don't think anyone can go through...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>Can I take the grate off?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Urgh, there we go!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Oh, the grate came off pretty easily.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Did you break something, Kaede?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Um, no...I didn't break it...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>I saw the look on his face. He probably\nthinks I'm a klutz...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>I pushed the grate into the duct...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>...then I lifted my body and looked inside.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "So how's it look? Could a person fit in there?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Hmmm...it would be pretty difficult, but you\nmight be able to crawl through.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I can't really get to the vent with all\nthese books in the way, though...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Well, we'll be able to see the entrance\nto the vent in the classroom...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "So that should be okay, right?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Just in case, I'll stack more books around\nthe vent so no one can get through.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>With that, I began to arrange the books\naround the vent.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>After I finished stacking the books,\nI climbed down the ladder.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...Kaede? What's wrong?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "This will work... This will definitely work!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "I think this plan might actually protect\neveryone!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Yeah, it definitely will! This plan is perfectly\ncomposed like Chopin's ballades!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "I actually really like complicated contraptions,\nlike Rube Goldberg machines and stuff.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "So I'm positive this will work!\nThis setup is perfect!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Y-You really think so...?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Of course! We'll definitely catch the\nmastermind, and then we'll all escape!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "So let's hurry and set up the cameras!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Yes, so, I think it would be a good idea to\nset up the cameras between books, so that—",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Oh, hold on. I had an idea while I was on top\nof the bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "What if we place a camera up there? I'm\nsure the mastermind wouldn't notice it.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Ah, but with all the books stacked on top...\nI don't know if there's room for the camera.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Then I'll test it out while you prepare the\nsensor on the bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "I'll organize the books on top of the bookcase\nand see if I can make room for a camera.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "That way, we won't waste any time, right?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Y-Yeah...that sounds like a good idea.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Alright! Then let's do it!",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>I climbed up the ladder and looked at the\ntop of the bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>Hm... There are way more books here than\nI expected...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>The top of the bookcase is covered end\nto end with cluttered stacks of books.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "This is nothing!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>As I moved the ladder, I reorganized the\nbooks, bit by bit...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Geez...there are too many books... It might\nbe too hard to set up a camera here...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Hm, I thought so...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Wait! I just gotta try a little harder!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "...Kaede, I know you don't like to admit\ndefeat, but really, it's alright...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>I continued moving the ladder as I\nkept reorganizing the books...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Geez...these books are so heavy!\nWhat is this, an encyclopedia?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "<CLT=cltMIND>I flipped open the book.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Ah, Kaede? Is this really the time\nto be reading a book...?",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Sorry...I get distracted easily when I'm\norganizing things.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>After I made that excuse, I rushed to\nreorganize the heavy books, but...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Looks like there are too many books after all.\nYou can't really make space, can you?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "It'd be easier if I could move them to the\nground, but that would look suspicious.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Yeah... We have to minimize any risk of the\nmastermind noticing the cameras.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Then I guess it'd be better to put the camera\nbetween the books, like you suggested.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "...Yeah.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "You look oddly happy.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "N-No, I don't...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Ah, if we put them on top of the bookcase,\nthe angle wouldn't quite reach...",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Arghhh! And here I thought it'd be a\ngood idea!",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "So, about the places to put the cameras...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "We decided to place the security sensor\non top of the moving bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "...and the camera linked to it will be\nset up right here.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "That way, it will capture the moment\nthe mastermind moves the bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "We're gonna place the other two cameras\nnear the exit and entrance, right?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "I think here...and this bookcase is good.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "They would have to pass by here no\nmatter which door they used.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Yeah, sounds good.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Then I'll set up the camera that's connected\nto the security sensor.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "I'll set it carefully so the camera has a clear\nshot when the mastermind moves the bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Let me take care of the security\nsensor on top of the bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "And we'll set the cameras\nnear each door.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Oh, I almost forgot...I brought duct tape\nfrom the warehouse. You can use this.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Thanks.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "<CLT=cltMIND>With that, we got to work.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>I meticulously placed the cameras in the\ngaps of the bookshelves.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "We need to set up the camera carefully so \nthat it's aimed at the moving bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>I better use a lot of duct tape so the\ncamera won't fall out of position.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>These cameras are important...\nso I gotta do it right.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Alright, that should do it.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "I'm finished too.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Now, no matter which entrance they use,\nthe mastermind will be caught on camera.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "And if they move the bookcase in front of\nthe hidden door, our sensor will detect that...",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "...and signal this receiver.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "And at that moment, the camera attached to\nthe sensor will snap the critical picture.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "<CLT=cltMIND>Yeah, this should do it.\nNo doubt about it.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "<CLT=cltMIND>This plan will probably work.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltMIND>No...not just probably.\nIt'll *definitely* work!",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Alright then, the final step...\nTurn the sensors on.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Oh, right. We should turn them on before\nwe leave.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "There's a ten second delay as it starts up,\nso we have to leave quick.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Got it. It'd be a waste of film if it took\nour pictures.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>After setting our trap and powering on\nthe cameras attached to the sensor...",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "<CLT=cltMIND>...we quickly exited the library.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "<CLT=cltMIND>I need something to stand on if I wanna\ninvestigate that area...",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "<CLT=cltMIND>I don't think I can stand on this...",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltMIND>The other rooms might have something I can\nuse to stand on...",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "<CLT=cltMIND>But for now, let's see if I can\nfind something in here.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "<CLT=cltMIND>The other rooms might have something I can\nuse to stand on...",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "<CLT=cltMIND>But for now, let's see if I can\nfind something in here.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "<CLT=cltMIND>Um...I'm pretty sure this will break if I\nstand on it.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltMIND>I need something to stand on if I wanna\ninvestigate that area...",
+  "tr": ""
+ }
+]

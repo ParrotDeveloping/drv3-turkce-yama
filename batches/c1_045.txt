@@ -1,0 +1,55 @@
+@ chap1_text_US
+## c01_037_019
+96|...Kaede, yenilgiyi kabul etmekten hoşlanmadığını\nbiliyorum ama gerçekten, sorun değil...
+97|<CLT=cltMIND>Kitapları düzenlemeye devam ederken\nmerdiveni kaydırmayı sürdürdüm...
+98|Tanrım...bu kitaplar çok ağır!\nBu ne, ansiklopedi mi?
+99|<CLT=cltMIND>Kitabı açtım.
+102|Ah, Kaede? Kitap okumanın gerçekten\nsırası mı...?
+103|Pardon...bir şeyleri düzenlerken dikkatim\nkolay dağılıyor.
+104|<CLT=cltMIND>Bu bahaneyi uydurduktan sonra ağır kitapları\naceleyle düzenledim ama...
+105|Görünüşe göre gerçekten çok fazla kitap var.\nPek yer açamıyorsun, değil mi?
+106|Onları yere indirebilseydim daha kolay olurdu\nama bu şüpheli görünürdü.
+107|Evet... Beynin kameraları fark etme riskini\nen aza indirmeliyiz.
+108|O zaman sanırım kamerayı senin dediğin gibi\nkitapların arasına koymak daha iyi.
+110|Tuhaf bir şekilde mutlu görünüyorsun.
+111|H-Hayır, görünmüyorum...
+112|Ah, onları kitaplığın üstüne koysaydık\naçı tam yetişmezdi...
+113|Ahhhh! Ben de iyi bir fikir sanmıştım!
+114|Neyse, kameraları koyacağımız yerlerle ilgili...
+115|Güvenlik sensörünü hareketli kitaplığın\nüstüne koymaya karar verdik...
+116|...ve ona bağlı kamera tam buraya\nkurulacak.
+117|Böylece beynin kitaplığı oynattığı anı\nyakalayacak.
+118|Diğer iki kamerayı da çıkışın ve girişin\nyakınına koyacağız, değil mi?
+119|Bence burası...ve bu kitaplık iyi.
+120|Hangi kapıyı kullanırlarsa kullansınlar\nburadan geçmek zorundalar.
+121|Evet, iyi fikir.
+122|O zaman güvenlik sensörüne bağlı kamerayı\nben kurayım.
+123|Beyin kitaplığı oynattığında kameranın net bir\nçekim yapması için dikkatlice ayarlayacağım.
+124|Kitaplığın üstündeki güvenlik sensörünü\nbana bırak...
+125|Ve kameraları her kapının yakınına\nkuracağız.
+126|Ah, neredeyse unutuyordum...depodan koli bandı\ngetirdim. Bunu kullanabilirsin.
+127|Teşekkürler.
+128|<CLT=cltMIND>Bunun üzerine işe koyulduk.
+129|<CLT=cltMIND>Kameraları titizlikle kitap raflarının\naralıklarına yerleştirdim.
+130|Kamerayı hareketli kitaplığa bakacak şekilde \ndikkatlice kurmamız lazım.
+131|<CLT=cltMIND>Kamera yerinden düşmesin diye bol bol\nkoli bandı kullansam iyi olur.
+132|<CLT=cltMIND>Bu kameralar önemli...\no yüzden doğru yapmalıyım.
+133|Pekala, bu kadar yeter.
+134|Ben de bitirdim.
+135|Artık hangi girişi kullanırsa kullansın\nbeyin kameraya yakalanacak.
+136|Ve gizli kapının önündeki kitaplığı oynatırsa\nsensörümüz bunu algılayacak...
+137|...ve bu alıcıya sinyal gönderecek.
+138|Ve o anda sensöre bağlı kamera kritik\nfotoğrafı çekecek.
+140|<CLT=cltMIND>Evet, bu iş görür.\nHiç şüphe yok.
+141|<CLT=cltMIND>Bu plan muhtemelen işe yarayacak.
+142|<CLT=cltMIND>Hayır...muhtemelen değil.\n*Kesinlikle* işe yarayacak!
+143|Pekala o zaman, son adım...\nSensörleri aç.
+144|Ah, doğru. Çıkmadan önce onları\naçmalıyız.
+145|Açılırken on saniyelik bir gecikme var,\no yüzden çabuk çıkmalıyız.
+146|Anladım. Bizim fotoğrafımızı çekerse film\nboşa gider.
+147|<CLT=cltMIND>Tuzağımızı kurup sensöre bağlı kameraları\naçtıktan sonra...
+148|<CLT=cltMIND>...hızla kütüphaneden çıktık.
+149|<CLT=cltMIND>O bölgeyi incelemek istiyorsam üstüne\nçıkacak bir şeye ihtiyacım var...
+150|<CLT=cltMIND>Bunun üstüne çıkabileceğimi sanmıyorum...
+151|<CLT=cltMIND>Diğer odalarda üstüne çıkabileceğim\nbir şey olabilir...
+152|<CLT=cltMIND>Ama şimdilik burada bir şey bulabilecek\nmiyim bakalım.

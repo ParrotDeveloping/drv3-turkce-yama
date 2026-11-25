@@ -1,0 +1,347 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Whoa, this is a huge dojo...\nThe tatami mats are new. They smell nice...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Nyeeeh...what a pain...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "There's no mana here...\nThis is not my kind of place...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "M-My back hurts...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "If you do that again...\nI'll definitely turn you into a gross frog...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "But right now...I have to use all my magic \nto fix my back...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "See, this *is* my lab, you jerk!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Wh-Why are you *angry*?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I'm so happy, I just can't contain my emotions!\r\nLike an excited dog that just pees everywhere!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>An emotional rollercoaster...\nThe complete opposite of Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Wow, this is such a nice dojo! I'm sure\nsparring will be incredible here!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "But, without a sparring partner—",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "HAIYAAAAAAAAHHH!!!!!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltSYSTEM>*slam!*",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "AAUGH! Wh-What was that for!?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Ow! Ow! Owww!\nWh-Why are you throwing me?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> is a super serious martial art!\nInstead of training, we just fight head-on!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Now, Himiko! Aim for the heart!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "You're going to *start* with that!?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Hahaha! I'm just kidding!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "*This* is just kidding?\nWhy did we go straight into actual fighting—",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "You don't have a lot of confidence in\nyourself, do you, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "You lack self-esteem...and because of that,\nyou doubt your strength.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "You seem more confident than before, but\nI can tell you still question yourself.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "...Well!? I'm right, aren't I!? I can tell when\nmy sparring partner is burdened by doubt!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...You might be right.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "You know what works real good at lifting\nall that doubt!? <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Because Aikido itself is a <CLT=cltSTRONG>Japanese martial art<CLT=cltNORMAL>,\nthat treasures a pure heart above all else!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "So, how about you, Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Nyeh?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "If we combine your magic with my Neo-Aikido,\nthen we'd be able to solve things by force!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>By force? I thought this was\nabout being pure of heart...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Nyeeeh...I don't wanna do any exercise.\nIt's too much of a—",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "HAIYAAAAAAAAHHH!!!!!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Nyeeeeeeeehhh...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltSYSTEM>*slam!*",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I see... It seems you are still too shy\nto show your emotions, Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "What a waste. You have the richest heart\nof all.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "You should do <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>, Himiko! Training\r\nyour body will help you express your emotions.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Now, come sweat with me! And afterward,\nwe'll hit the showers together!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Nyeeeh... M-My back...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I feel like...turning you into a gross frog \nwith my magic right now...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Oh...you're angry. I can see it in your heart.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Even I can see that...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I will tell you the secret of Aikido.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Aikido is not about competing for fun to see\neach other's strengths and weaknesses.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "By working together and using techniques that\nmake full use of your mind, body, and breath...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...you can measure your physical and mental\ngrowth. That is the true purpose of Aikido.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "You do not compete for superiority in Aikido.\nIn fact, in Aikido you do not compete at all.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Aikido is not a martial art for inflicting harm,\nbut a way to improve yourself!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "What do you think? Pretty amazing, right?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>That sounds like a good creed,\nbut I still got thrown...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>I'll investigate around here a little more.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>What is this...?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>It's a large doll made of wood...\nAh, wait...*is* it a doll?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>Is this supposed to watch over us\nand protect us?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>The tatami mats are new.\nThey smell nice...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Neon Sign",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>Is this...a pillar?\nWhy is there a pillar here?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>There's a scaffold suspended in\nthe air with chains.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Is this for some kind of jump training?\nIt's like a kung-fu movie...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Is this...a pillar?\nWhy is there a pillar here?",
+  "tr": ""
+ }
+]

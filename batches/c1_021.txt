@@ -1,0 +1,68 @@
+@ chap1_text_US
+## c01_012_019
+59|Bir kart okuyucu. Gizli kapıyı açtığını\nrahatlıkla varsayabiliriz bence.
+60|<CLT=cltMIND>Kitaplığın arkasında bir kapı mı var?\nVe o desen...!
+## c01_013_004
+0|Kaede...sana gösterdiğim şeyi lütfen kimseye\nsöyleme. Paniğe yol açmak istemiyorum.
+1|E-Evet, anlıyorum...
+2|<CLT=cltMIND>Sözleştikten sonra kendi\nodalarımıza döndük.
+## c01_014_116
+3|<CLT=cltMIND>Sadece bir tane mi?
+4|<CLT=cltMIND>Diğer Monoyavrular Monokuma'yı gömmek\niçin burada değil mi?
+5|<CLT=cltMIND>...Neyse, Shuichi'nin az önce söyledikleri\ngerçekten rahatsız edici.
+6|<CLT=cltMIND>Birimiz Monokuma'yla işbirliği yapıyor...
+7|<CLT=cltMIND>İnanması çok zor.
+8|<CLT=cltMIND>Ama Shuichi bana güveniyor... Bu yüzden\nbana söyledi, değil mi?
+9|<CLT=cltMIND>O zaman...belki inanmalıyım...
+11|Vay, malzememiz şimdiden bitti.\nSuşi restoranında kapanış saati gibi.
+12|Bir dizi birkaç sezon sürünce sonunda\nmalzemesi tükenir.
+13|Son zamanlarda hafızam berbat. Acaba dizinin\nbu kadar uzun sürmesinden mi?
+14|Dur...kaçıncı sezondaydık?\nŞimdiye kadar hangi malzemeleri gösterdik?
+15|Tanrım, hatırlamıyorum. Belki şimdiye kadar\no kadar çok yayınladıkları içindir.
+16|Neyse! Her halükârda Monokuma Tiyatrosu\niçin yeni malzemeye ihtiyacımız var!
+17|Lütfen metinlerinizi 1.000 dolarlık başvuru\nücretiyle birlikte gönderin!
+18|Eseriniz seçilirse 100 dolarlık bir\nhediye kartı kazanacaksınız!
+19|Ne cömert bir ödül! Bu fırsatı kaçırmayın!\nBaşvurularınızı bugün gönderin!
+23|<CLT=cltMIND>Sabah olmuş bile...\nDün gece iyi uyuyamadım...
+24|<CLT=cltMIND>Dünkü konuşma hâlâ\naklımda...
+25|<CLT=cltMIND>Acaba diğerleri ne yapıyor.\nYemekhanede çoktan toplandılar mı?
+26|Sanırım şimdilik gideyim...
+## c01_015_001
+0|Günaydın, Tenko.
+1|HAYAAAAAAAHHHH!!!!!
+2|Vay!
+3|Ah! Bunun için çok özür dilerim!\nGünaydın!
+4|N-Neydi o öyle!?
+5|Şey, buraya geldiğimden beri pek antrenman\nyapmadım, o yüzden spor salonunda biraz hafif egzersiz yaptım!
+6|Ama hâlâ enerji doluyum, o yüzden atmak\niçin bağırıyorum!
+8|Neyse, egzersiz beni acıktırdı, o yüzden\nyemekhaneye gidiyorum! Görüşürüz!
+9|*iç çeker*
+10|Ne oldu?
+11|Şuna bak. Tırnaklarım berbat olmuş...
+12|Muhtemelen buraya geldiğimizde oldu.\nŞimdi de onlara düzgün bakamıyorum.
+13|Tırnakların mı?
+14|Anlıyorum... Benim gibi sade birinin\ntırnaklarını önemsemesine şaşırdın, değil mi?
+15|Şey, pek değil...
+16|Ama tırnak dediğin tırnak sanatı, değil mi?\nHiç yaptırmadım.
+17|Ah, anlıyorum. Piyano çalarken tırnaklar\ndüpedüz engel olur, değil mi?
+18|Evet.
+19|Biliyorum! İstersen sana bu tırnak\nfırçasını verebilirim.
+20|Ha? Emin misin? Ama öylece bedavaya\nalamam ki.
+21|Kafana takma!
+22|Yok, yok. Böyle şeyler için eşdeğer takas\ngerekir.
+23|Eşdeğer takas mı?
+24|Ah, buldum! Sonra senin tırnaklarını \nyapsam nasıl olur?
+29|Gerçekten, sorun değil! İşine yararsa\nben mutlu olurum!
+30|Gerçekten mi?
+31|O zaman kesinlikle kullanacağım.\nTeşekkürler, Kaede.
+32|Gerçekten mi!?\nYaşasın, lütfen yap!
+33|O zaman bu öğleden sonra yapalım...\nAh! Oyun Odası'nı kullanabiliriz.
+34|Anlaştık! Çok teşekkürler!
+35|Evet, sonra görüşürüz.
+36|<CLT=cltMIND>Tırnak, ha? İlk defa olacak!\nÇok heyecanlıyım!
+37|Bir piyanist olarak bu tür şeylerde epey\ntitizsin herhalde.
+38|Abartıyorsun. Ama evet, bazen bazı şeylerden\nkendimi tutmam gerekiyor.
+39|Eh, sanırım bir ölüm oyununun ortasında\ntırnak dertlenmenin zamanı değil...
+40|*iç çeker* Bir an önce eve gitmek istiyorum...
+## c01_015_100
+0|Günaydın, Ryoma.

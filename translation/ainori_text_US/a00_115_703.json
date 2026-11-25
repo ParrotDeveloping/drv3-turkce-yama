@@ -1,0 +1,412 @@
+[
+ {
+  "id": 0,
+  "en": "You came to practice again, right?\nI'm glad you're serious about this.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Then, let's start.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Shuichi, I think this is a good place to stop\nso let's end here for today.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Ah, done already?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Yeah, well... Whenever we see each other,\nwe play the piano together, right?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "It feels like I'm forcing you to do this...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "You're not having fun...are you, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "No way! I'm having lots of fun!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "R-Really?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Okay!\nThen, let's do it again!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Since I told you my secret,\nyou're gonna have to tell me yours!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "What!?\nWhy?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Because I've decided!\nWe're talking about you today!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>We are...?\nKaede's so pushy today...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Well, if you want me to...\nBut what should I talk about?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "How about...your hobbies?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Hobbies? Um...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Huh!?\nYou have to *think* about your hobbies!?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "W-Well...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>I remember helping out\nwith the detective business...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I suppose...being a detective\n*is* my hobby.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Mmhm, I see.\nDetective work is your hobby...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "What, you're taking notes!?\nWhere did you get that notebook!?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "From my backpack.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Ah, I see...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "So your hobby is being a detective...\nThen, we should enjoy being that today.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I'm gonna be the detective who'll expose\nyour secret!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "I thought *I* was going\nto be the detective!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Being interrogated might be good experience!\nIt'll be useful next time you're in action!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Really!?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Yup! So now, next question!\nWhat's your favorite food?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Meat? Veggies? Fish?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Juicy meat",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Healthy vegetables",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Fresh fish",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Well, from those choices...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Juicy meat...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Hmm, that's a pretty typical boy answer.\nCan you eat a giant steak in one sitting?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Ah, well...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Althooough, you don't look like you can eat\na lot of meat... But I shouldn't judge...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Healthy vegetables...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Vegetables?\nAre you worried about your calorie intake?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "A little bit...\nI'm not athletic, I gain weight easily...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Hmmm, I see...\nSo you're that type...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Fresh fish...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Fish, huh? I prefer fish over meat, too!\nWe're so alike!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Then, I guess I shouldn't worry about\nour compatibility...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>What is she muttering about...?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Next question!\nWhat's your favorite place?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "That's a pretty broad question,\nI don't know if I can answer that.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Oh, right.\nUmmm...how about...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "The movies",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "The amusement park",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Whatever they pick",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "If you went out on like...a date...where would\nyou go? Movies or the amusement park?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "The movies, I suppose.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Movies, huh? I see...\nBy the way, what's your favorite genre?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "W-Well, I'll watch anything, but...\nI can never get into love stories.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "O-Oh, I see...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Well, it's a bit too fast to watch a romance\nmovie with just two people anyway!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "The amusement park, I suppose.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Amusement park, huh?\nYou're pretty outgoing.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Ah, I get that a lot. But being a detective\nis mostly about gathering information, so...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Mmhm.\nI see.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Whatever they pick, I suppose.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Hmmm...that's gonna be a problem...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Huh? Why?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Nothing! It just means you're less likely\nto make a move, right?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>...She's taking notes again.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "What are you gonna use those notes for?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "That's...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...Yes?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "A secret!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Don't worry, it won't be used for anything bad!\nI won't show these notes to anyone else!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Detective Kaede Akamatsu is just gettin'\nstarted! Tell me everything ya know, punk!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltSYSTEM>Kaede's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>After Kaede finished questioning me,\nI returned to my room.",
+  "tr": ""
+ }
+]

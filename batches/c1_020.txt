@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_011_250
+60|<CLT=cltMIND>Doğru, kütüphaneye gitmemiz lazım.
+61|Hah-haha! Şapkalı bir sapık ve lanet olası\nbir sürtük! Siz ikiniz tam birbiriniz için yaratılmışsınız!
+## c01_012_019
+0|<CLT=cltMIND>Daha önceki gibi boş kütüphaneyi eski,\nküflü kitapların kokusu sarmıştı.
+1|Tamam...başka bir şey söylemeden önce bunu\nsır olarak tutacağına söz vermeni istiyorum.
+2|Tamam, anladım...
+3|<CLT=cltMIND>Shuichi rahatlamış görünüp gülümsedi...
+4|<CLT=cltMIND>Büyük bir dedektif gibi her şeyi en ince\nayrıntısına kadar anlatmaya başladı.
+5|Bu kütüphanenin her yerine kitaplar saçılmış.\nKitaplıkların üstünde bile kitaplar var.
+6|Ama şu kitaplığa bak. Kütüphanede üstünde\nkitap olmayan tek kitaplık bu.
+7|Ah, şu mu? Ha, haklısın...
+8|Ayrıca kitaplığın önündeki zeminde belirgin\nizler olduğunu görebilirsin.
+9|Haklısın... Bu da ne?
+10|İzleri seninle buraya ilk geldiğimde\nfark etmiştim.
+11|Bu sabah araştırmak için geri geldim.\nİşte o zaman bunu buldum...
+12|<CLT=cltMIND>Sonra kitaplığa yürüdü, ellerini\naralığa yerleştirdi—
+13|<CLT=cltMIND>Ve kitaplığı hareket ettirdi.
+14|Vay, hareket etti mi!?
+15|Açılıyor...\nBak, arkasında bir kapı var...
+16|<CLT=cltMIND>Bir kapı mı...?
+17|Demek bana göstermek istediğin buydu.
+18|Bu yüzden benimle buraya gelmeni\nistedim.
+19|Bu kapıda özel bir şey var.\nDaha yakından bak.
+25|<CLT=cltMIND>Bu kitaplığın hareket edebileceği hiç\naklıma gelmezdi...
+26|<CLT=cltMIND>Gizli kapının deseni siyah\nbeyaz...
+27|<CLT=cltMIND>Tıpkı Monokuma gibi!
+28|Hey, sence bu kapının bir şekilde\nMonokuma'yla bağlantısı var mı?
+29|Olabilir bence.\nAma kesin bir şey bilmiyorum.
+30|Bu kapıda kart okuyuculu bir kilit var,\no yüzden açamıyorum.
+31|Açamıyor musun?
+32|Ama bu kapının burada olması bile bana...\n<CLT=cltSTRONG>bir ihtimali<CLT=cltNORMAL> düşündürüyor.
+33|Buradakilerden birinin...\n<CLT=cltSTRONG>Monokuma'yla işbirliği yapıyor<CLT=cltNORMAL> olma ihtimali var.
+34|Ha? Monokuma'yla işbirliği mi?
+35|B-Bir dakika! Bununla ne demek istiyorsun!?
+36|Şimdilik sadece bir hipotez ama...\nşunu düşün.
+37|Burada neden gizli bir kapı *olsun* ki?
+38|Sadece Monokuma'nın kullanımı için olsaydı\nonu saklamasına gerek olmazdı.
+39|Monoyavrulara ya da Exisal'lara korutup\ngöz önünde tutabilirdi.
+40|Ancak...kapının gizlenmesi için bir\nsebep düşünebiliyorum.
+41|Aramızdan birinin, kimse fark etmeden\ngizlice girip kullanabilmesi için.
+42|Belki ama...grubumuzdan birinin Monokuma'yla\nçalışıyor olabileceğine inanamıyorum...
+43|Ben de inanamıyorum.\nBu yüzden...şüphelerimi doğrulamak için...
+44|Bu kart okuyucuya küçük bir tuzak\nkurmaya karar verdim.
+45|Kart okuyucunun içine biraz toz serptim,\nböylece kullanılıp kullanılmadığını anlayabilirim.
+46|Tabii tozun kazara dökülmemesine\ndikkat ettim.
+47|Ve kartını okutan kişinin biraz tozu fark\nedeceğini ya da umursayacağını sanmıyorum.
+48|Yani yerde toz görürsek birimizin bu kapıyı\nkullandığı anlamına geliyor, değil mi?
+49|Şey...dediğim gibi bu sadece bir hipotez.\nHenüz kanıtım yok...
+50|Ama...eğer doğruysa...
+51|O zaman Monokuma gitmiş olsa bile\nbu iş bitmeyecek, Kaede.
+53|...Neyse, söylemem gereken buydu.\nTabii bana inanmanı beklemiyorum.
+54|Sadece...sana söylemek istedim.\nNe olursa olsun.
+55|E-Evet...
+56|Eh, geri dönelim.\nBurada fazla kalmamalıyız.
+57|<CLT=cltMIND>Hareketli kitaplığı yerine koyduktan sonra\ndikkatlice kütüphaneden çıktık.
+58|Bu...?

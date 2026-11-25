@@ -1,0 +1,42 @@
+@ chap1_text_US
+## c01_279_000
+2|<CLT=cltSYSTEM><CLT=cltSTRONG>Kapanış Argümanında<CLT=cltSYSTEM> \n<CLT=cltSTRONG>davayı toparlarsın<CLT=cltSYSTEM>.
+3|<CLT=cltSYSTEM>Davadaki olayların sırasını bir <CLT=cltSTRONG>çizgi\nroman<CLT=cltSYSTEM> şeklinde yeniden oluşturmalısın.
+4|<CLT=cltSYSTEM>Ama bu canlandırma sadece Shuichi'nin çıkarımı,\no yüzden orada burada <CLT=cltSTRONG>boşluklar<CLT=cltSYSTEM> var.
+5|<CLT=cltSYSTEM>Boşluklar, bazı <CLT=cltSTRONG>parçaların eksik<CLT=cltSYSTEM>\nolduğu alanlardır.
+6|<CLT=cltSYSTEM><PAD=【Ｐ全】> ile <CLT=cltSTRONG>kareleri<CLT=cltSYSTEM> seçtikten sonra imleci\n<CLT=cltSTRONG>boşlukların<CLT=cltSYSTEM> üstüne getirmek için <PAD=【Ｌ３】> kullan...
+7|<CLT=cltSYSTEM>sonra kareyi <PAD=【△】> ile boş alana yerleştir.\nSadece doğru kare sığar!
+8|<CLT=cltSYSTEM>Çizgi romanı tamamlamak için <CLT=cltSTRONG>boş alan ipuçlarını<CLT=cltSYSTEM>\n<CLT=cltSTRONG>stok kare ipuçlarıyla<CLT=cltSYSTEM> karşılaştır.
+9|<CLT=cltSYSTEM>Bazı kareleri <CLT=cltSTRONG>başta\nseçemeyeceksin<CLT=cltSYSTEM>.
+10|<CLT=cltSYSTEM>Bazı boşlukları doğru doldurmak diğer\nkarelerin kilidini açar.
+11|<CLT=cltSYSTEM><CLT=cltSTRONG>Sayfa değiştirmek<CLT=cltSYSTEM> için <PAD=【Ｌ１】> ve <PAD=【Ｒ１】>\ntuşlarına bas ve doldurabildiğin kadarını doldurmaya başla.
+12|<CLT=cltSYSTEM>Teşekkürler, teşekkürler!
+15|<CLT=cltSYSTEM><CLT=cltSTRONG>Kapanış Argümanında<CLT=cltSYSTEM> \n<CLT=cltSTRONG>davayı toparlarsın<CLT=cltSYSTEM>.
+16|<CLT=cltSYSTEM>Davadaki olayların sırasını bir <CLT=cltSTRONG>çizgi\nroman<CLT=cltSYSTEM> şeklinde yeniden oluşturmalısın.
+17|<CLT=cltSYSTEM>Ama bu canlandırma sadece Shuichi'nin çıkarımı,\no yüzden orada burada <CLT=cltSTRONG>boşluklar<CLT=cltSYSTEM> var.
+18|<CLT=cltSYSTEM>Boşluklar, bazı <CLT=cltSTRONG>parçaların eksik<CLT=cltSYSTEM>\nolduğu alanlardır.
+19|<CLT=cltSYSTEM>W/A/S/D ile <CLT=cltSTRONG>kareleri<CLT=cltSYSTEM> seç, sonra fareyle\nimleci <CLT=cltSTRONG>boşlukların<CLT=cltSYSTEM> üstüne getir...
+20|<CLT=cltSYSTEM>sonra kareyi boş alana yerleştirmek için\nsağ tıkla. Sadece doğru kare sığar!
+21|<CLT=cltSYSTEM>Çizgi romanı tamamlamak için <CLT=cltSTRONG>boş alan ipuçlarını<CLT=cltSYSTEM>\n<CLT=cltSTRONG>stok kare ipuçlarıyla<CLT=cltSYSTEM> karşılaştır.
+22|<CLT=cltSYSTEM>Bazı kareleri <CLT=cltSTRONG>başta\nseçemeyeceksin<CLT=cltSYSTEM>.
+23|<CLT=cltSYSTEM>Bazı boşlukları doğru doldurmak diğer\nkarelerin kilidini açar.
+24|<CLT=cltSYSTEM><CLT=cltSTRONG>Sayfa değiştirmek<CLT=cltSYSTEM> için Q ve E tuşlarını kullan\nve doldurabildiğin kadarını doldurmaya başla.
+25|<CLT=cltSYSTEM>Teşekkürler, teşekkürler!
+26|<CLT=cltSYSTEM>Z/Q/S/D ile <CLT=cltSTRONG>kareleri<CLT=cltSYSTEM> seç, sonra fareyle\nimleci <CLT=cltSTRONG>boşlukların<CLT=cltSYSTEM> üstüne getir...
+27|<CLT=cltSYSTEM><CLT=cltSTRONG>Sayfa değiştirmek<CLT=cltSYSTEM> için A ve E tuşlarını kullan\nve doldurabildiğin kadarını doldurmaya başla.
+## c01_299_000
+0|<CLT=cltMIND>Bu kötü...\nÇok fazla hata yaptım...
+1|<CLT=cltMIND>Herkes benden mi şüpheleniyor...?
+2|Hm? Tartışma bitti mi bile?
+3|Eh, bu sonraki kısım zorunlu, o yüzden\nbitirelim gitsin. Şimdi...Oylama Zamanı!
+4|Puhuhuhu...!
+5|Bu...gerçekten son mu?
+6|Tekrar dene
+7|Burada bitmesine izin veremeyiz!
+8|Hazırlan ve tekrar dene
+9|Böyle bitmesine izin veremem!
+11|Tekrar denemek ister misin?
+## c01_299_001
+0|<CLT=cltMIND>Ne yapmalıyım?\nArtık bunu yapabileceğimi sanmıyorum...
+1|<CLT=cltMIND>Herkes benden mi şüpheleniyor...?
+2|Hm? Tartışma bitti mi bile?

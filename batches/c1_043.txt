@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_035_017
+39|<CLT=cltMIND>Diğer sebep bu gibi görünmüyor...
+40|Bu...bir havalandırma mı?
+41|Bodrumdaki kütüphaneye bağlı.\nKokusunu hemen tanırsın.
+42|Kokusunu mu?
+43|<CLT=cltMIND>Shuichi bunu söyleyince havalandırmaya\ndoğru eğildim—
+44|Ah! Küflü eski kitap kokuyor!\nBu kütüphaneye mi çıkıyor?
+45|Muhtemelen kütüphanedeki nemi kontrol\netmek için bir havalandırma.
+46|Bodrum koridorunda fark ettiğimiz kanalı\nhatırlıyor musun? Buraya çıkıyor.
+47|Ama bir sınıfta havalandırma mı? Bir okul\niçin tuhaf bir tasarım tercihi...
+48|<CLT=cltMIND>Gerçi bu okulla ilgili her şey\ntuhaf...
+49|Gözcülük için bu sınıfı özellikle seçmemin\ndiğer sebebi bu havalandırma.
+50|Bu havalandırma birinin sığabileceği kadar\nbüyük, o yüzden onu da dikkatle izlemeliyiz.
+51|Ben oradan geçebileceğimi sanmıyorum...\nEh, belki geçebilirim ama zor olur.
+52|Eh, sanırım burası gözcülük için\nmükemmel bir yer.
+53|Neyse, vakit geldi. Kameraları şimdi\nkurmalıyız...
+54|<CLT=cltMIND>Sonunda planımızı harekete geçirme vakti...
+55|<CLT=cltMIND>Gerilmeye başladım...\nOf, kalbim küt küt atıyor.
+56|<CLT=cltMIND>Buradan kütüphaneye bağlanan bir havalandırma\nvar. Fark etmemiştim bile...
+57|<CLT=cltMIND>Diğer sebep bu gibi görünmüyor...
+## c01_036_001
+1|Ah, pardon! Hayır, yok!
+## c01_036_004
+0|<CLT=cltMIND>Demek bu kanal merdivenlerin yanındaki\nsınıftan kütüphaneye bağlanıyor...
+## c01_037_019
+0|Eee, kameraları nereye koymak\nistiyordun?
+1|Alıcıya bağlı olanı hareketli kitaplığa\ndoğrultalım.
+2|Güvenlik sensörünü kitaplığın kendisine\nkoyarsak açıldığında...
+3|alıcı bize haber verir.
+4|Ve kamerayı hareketli kitaplığa bakacak\nşekilde koyarsak...
+5|Evet, kamera beynin kitaplığı oynattığı anı\ntam olarak yakalamalı.
+6|Peki diğer iki sensörü nereye\nkoyacağız?
+7|Şey, kütüphanenin iki girişi var.
+8|Merdivenlerin yanındaki <CLT=cltSTRONG>ön giriş<CLT=cltNORMAL>\nve koridora açılan <CLT=cltSTRONG>arka giriş<CLT=cltNORMAL>...
+9|Her girişe birer tane doğrultalım.
+10|Böylece kütüphaneye giren herkesin\nfotoğrafı elimizde olur.
+11|Peki ya şurası?
+12|Sınıfa bağlanan havalandırmadan bir\ninsanın geçebileceğini söylememiş miydin?
+13|Dur, bir insanın gerçekten oradan\ngeçebileceğinden emin olmamız gerekmez mi?
+14|Sınıfta gözcülük yapacağımız için sorun\nolmaz bence...
+15|Ama ne olur ne olmaz diye biraz daha\naraştırmalıyız.
+16|<CLT=cltMIND>Ama o kadar yükseğe uzanamayız.\nHm...üstüne çıkacak bir şeye ihtiyacımız var.
+17|...Bu arada Kaede, yemekhanedeki kavga ne\noldu? Her şey yolunda mı?
+18|Aslında kavga değildi... Ryoma onu\nöldürmemizi önermişti...
+19|Onu öldürmenizi mi...?
+20|Tabii kimse kabul etmedi...
+21|Sonra Rantaro birden oyuna son vereceğini\nsöyledi.
+22|Oyuna son vermek mi...?\nRantaro bunu nasıl yapacağını biliyor mu ki?
+23|Sanmıyorum... Muhtemelen sadece Ryoma'yı\ndurdurmak için söyledi...
+24|Neyse, bunu dert edecek vaktimiz yok.\nŞu an bu plan daha önemli.
+25|Evet... Kesinlikle.
+26|Rantaro'nun bununla ne demek istediğini merak\nediyorum...ama plana odaklanmalıyız.
+27|<CLT=cltMIND>Diğer odalarda üstüne çıkabileceğim\nbir şey olabilir...
+28|<CLT=cltMIND>Ama şimdilik burada bir şey bulabilecek\nmiyim bakalım.
+34|<CLT=cltMIND>Belki bir kitaplığın raflarına\nbasabilirim...
+35|<CLT=cltMIND>İmkânsız. Kitaplar o kadar sıkışık ki\nayaklarımı koyacak yer yok.

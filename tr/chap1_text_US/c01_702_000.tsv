@@ -1,0 +1,15 @@
+0	<CLT=cltMIND>Ryoma'ya hediye verme işlemi.
+1	Kesinlikle!
+2	Pek değil...
+3	Emin olmadığın bir şey mi var?
+4	<CLT=cltSYSTEM>Ryoma'ya bir hediye vermek ister misin?
+5	10
+6	-10
+7	Emin olmadığın bir şey mi var?
+8	<CLT=cltSYSTEM>Hediye seçimi taslağı
+9	Ryoma Hoshi'nin sevgi seviyesi ARTTI
+10	Ryoma Hoshi'nin sevgi seviyesi Azaldı
+11	Tamam, ona hediye vermeyeceğim.
+12	Hayır, ona hediye vermek istiyorum.
+13	Emin olmadığın bir şey mi var?
+14	<CLT=cltSYSTEM>Ryoma'ya hediye vermek istemediğinden\nemin misin?

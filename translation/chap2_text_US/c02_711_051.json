@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "Oh, it's you, Shuichi.\nDid you want something from me?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I hang out with Tenko for a while?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I was thinking of going on a run!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "If you're bored, we should do it together!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Tenko and I went on a run\nthrough the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Tenko and I grew a little closer today.",
+  "tr": ""
+ }
+]

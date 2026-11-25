@@ -1,0 +1,80 @@
+@ game_resident_US
+## J-TutorialDesc
+0|Zayıf Nokta
+1|Gerçek Silindiri
+2|Gerçek Mermisi Seçimi
+3|Etki/Odak Göstergesi
+4|Süre
+20|Zayıf Nokta
+21|Gerçek Silindiri
+22|Gerçek Mermisi Seçimi
+23|Etki/Odak Göstergesi
+24|Süre
+40|Zayıf Nokta
+41|Ruh Hali
+42|Gerçek Silindiri
+43|Gerçek Mermisi Seçimi
+44|Etki/Odak Göstergesi
+45|Kılıç
+46|Süre
+60|Anahtar Kelime
+61|Harf Küresi
+62|Parlama Noktası
+63|Süre
+64|Etki/Odak Göstergesi
+80|Soru
+81|Harf Küpü
+82|Süre
+83|Diğer Araba
+84|Etki/Odak Göstergesi
+90|Soru
+91|Yolcu
+100|Zayıf Nokta
+101|Gerçek Silindiri
+102|Gerçek Mermisi Seçimi
+103|Etki/Odak Göstergesi
+104|Süre
+120|Parça
+121|Resim
+122|Süre
+123|Etki/Odak Göstergesi
+140|Karşıt Konu
+141|Karşıt Konu Anahtar Kelimesi
+142|Süre
+143|Etki/Odak Göstergesi
+145|Konu
+146|Anahtar Kelime
+150|Onayla
+160|Dayanıklılık
+161|Süre
+162|Ritim
+163|Gerilim Göstergesi
+164|Etki/Odak Göstergesi
+180|Sayfa
+181|Panel Stoku
+182|Panel Stoku ipucu
+183|Boşluk ipucu
+184|Boşluk
+185|İfade Gücü
+186|Süre
+200|Kalan Kişi
+201|Tuzak
+220|Beyaz Gürültü
+221|Gerçek Silindiri
+222|Gerçek Mermisi Seçimi
+223|Etki/Odak Göstergesi
+224|Süre
+240|Zayıf Nokta
+241|Gerçek Silindiri
+242|Yalan Mermisi
+243|Etki/Odak Göstergesi
+244|Süre
+260|Yüksek Ses
+261|Gerçek Silindiri
+262|Gerçek Mermisi Seçimi
+263|Etki/Odak Göstergesi
+264|Süre
+270|Zayıf Nokta
+280|Beyaz Gürültü
+290|Yalan Mermisi
+300|Yüksek Ses

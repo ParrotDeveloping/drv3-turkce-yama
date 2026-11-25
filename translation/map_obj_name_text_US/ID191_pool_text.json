@@ -1,0 +1,57 @@
+[
+ {
+  "id": 0,
+  "en": "Monitor",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Pool",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Storage Room Door",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Gym Window",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "School Building Window",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Diving Board",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Rules Sign",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Pool Entrance",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Innertube",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Bits of Fabric",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "School Building Window",
+  "tr": ""
+ }
+]

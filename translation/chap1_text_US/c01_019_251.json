@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>It's locked.\nI guess I can't enter.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>It's locked.\nI guess I can't enter.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>It's locked.\nI guess I can't enter.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>This ninja statue looks like it's from an anime\nor manga. It's cute, but way out of place here.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Is this some kind of pedestal? Looks like\nit's missing whatever part goes on top.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>From system. Once the key impression is\nfinished, we will implement it.",
+  "tr": ""
+ }
+]

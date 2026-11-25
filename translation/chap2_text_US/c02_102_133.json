@@ -1,0 +1,372 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>Ultimate Tennis Pro's lab<CLT=cltMIND>...\nIf I'm right, then...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>the handcuffs that were found in the\ntank came from here.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>And if the handcuffs came from here...\nthat means the culprit was here as well.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>They may have left a trace\nof evidence...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "This room...is a little different from when we\nwere here before. It feels...off.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "What's the matter, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Ah, nothing...\nAnyway, let's figure out the handcuffs.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>We should take care of\nthat problem first...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "So, where should we go—",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Oof!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>As he came out of the shower room,\nKaito tripped and fell to the ground.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "The hell!? Something's caught on my leg!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Ah, it looks like a cable...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Is this for the tennis net? Man, whoever \nleft this here shoulda put it in the corner.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>Wait... The tennis net?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I see...\nSo that's why this room felt odd.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>I should investigate this in detail.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "So you think the handcuffs in the tank \nwere from here, right?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Let's check it out.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Someone shoulda moved that to the corner.\nIt's dangerous just lying there...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I can't believe <CLT=cltSTRONG>the famous<CLT=cltNORMAL> Ryoma Hoshi was\nwandering around with no will to live...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "It pissed me off so much, I ended up \nbeing too hard on him.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "But regretting that now won't help.\nThere's nothing I can do...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>I think there are still things\nto investigate here...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>I think there are still things\nto investigate here...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "The reason I thought this room felt off\nis because of the net.\n",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>The reason I thought this room felt off \nis because of the net.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>Was it like this the last\ntime I came here...?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Kaito...you said that this cable is for\nhanging up the tennis net, right?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Yeah, that's right...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "It's the cable that keeps the net up.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "That's it. The reason I thought this room felt\noff is because of the net.\n",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "When I came here last time, the tennis\nnet was up.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "But now, the cable has been removed.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "So, like, someone took the cable off?\nWhy would they do that?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Kaito, can you help me?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "I want to measure how long this cable is.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "No need. It's just about 50 feet long.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Oh, I was in the tennis club till middle school,\nso I know how long the cable is.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "You were in the tennis club?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "That's why...it pissed me off so much\nthat Ryoma was acting like that...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Did you...know Ryoma from before?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I never met him, but I heard a lot about him.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "I mean, these days, there's no one who's \nplayed tennis that hasn't heard of him.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "He's been a tennis legend since middle school.\nHe was like a hero to every tennis kid.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "And then...once I finally got to meet him,\nhe became a coward...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "That pissed me off so much, I ended up\nbeing too hard on him.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "But regretting that now won't help.\nThere's nothing I can do...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "So what's suspicious about the length of the \ncable? Did something about it bother you?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "No, nothing specific... I was just checking.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Hmm, so detectives get bothered \nby small details, huh?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Like an overbearing mother-in-law\nnitpicking a young wife!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "What is *that* analogy?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Tennis Net Cable<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>This cable is used to hang up the tennis\nnet. But because it was removed...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>the net is just lying on the floor.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>The reason I thought this room felt off \nis because of the net.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>The last time I was here,\nthe net was hung up.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>But now the cable is removed...\nand someone intentionally removed it.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>But why would they do that?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>So the cable is about 50 feet long.\nI'll make sure to remember that.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>Alright...I've searched the whole area now.\nI should move on to the next one.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>There are still other places\nleft to search.",
+  "tr": ""
+ }
+]

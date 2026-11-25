@@ -1,0 +1,15 @@
+0	<CLT=cltMIND>Gonta'ya hediye verme işlemi.
+1	Kesinlikle!
+2	Pek değil...
+3	Emin olmadığın bir şey mi var?
+4	<CLT=cltSYSTEM>Gonta'ya bir hediye vermek ister misin?
+5	10
+6	-10
+7	Emin olmadığın bir şey mi var?
+8	<CLT=cltSYSTEM>Hediye seçimi taslağı
+9	Gonta Gokuhara'nın sevgi seviyesi ARTTI
+10	Gonta Gokuhara'nın sevgi seviyesi AZALDI
+11	Tamam, ona hediye vermeyeceğim.
+12	Hayır, ona hediye vermek istiyorum.
+13	Emin olmadığın bir şey mi var?
+14	<CLT=cltSYSTEM>Gonta'ya hediye vermek istemediğinden\nemin misin?

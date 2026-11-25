@@ -1,0 +1,457 @@
+[
+ {
+  "id": 0,
+  "en": "That's it! The <CLT=cltSTRONG>magic circle<CLT=cltNORMAL>!\nThey used the magic circle!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Remember? The magic circle was\ndrawn with <CLT=cltSTRONG>salt<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "The culprit used the salt's texture\nto feel their way through the dark.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I see... So Kiyo traced the magic circle with\nhis hands to get to the loose floorboard.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Ooh, I see. You drew the magic circle\nwith salt to use it as a guide.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Kehehe... An interesting thought.\nIt is unfortunate that it is so wrong.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>...What?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Recall the document.\nWhat did the magic circle look like?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Based on the document, the magic circle\nwouldn't reach the corners of the room.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "So what?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "When the room was darkened, each of \nus was in a corner of the room, yes?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "The magic circle didn't reach us,\nso I could not have followed it, yes?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "But you're talking about the\nmagic circle in the document!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "That doesn't mean the circle you\ndrew was the same!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "No, I most definitely drew it exactly\nthe same. I have it perfectly memorized.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "U-Um...so which is it?\nIs there any way to check?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Not anymore. The magic circle is a complete\nmess from being trampled on.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>I see... Another\npiece of the puzzle.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Drawing the circle with salt all but\nguaranteed it would be temporary.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>The investigation itself would have\ngotten rid of the evidence. Clever.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Everyone, may I have your attention please?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hmm...what a pain.\nWe don't have any way to check it now...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "E-Excuse me, everyone. May I have your\nattention please!?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Welp, I guess there's no point in discussing\nthe magic circle anymore!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Hey! May I have your attention!?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Augh! I said cut that out!\nIt's too bright!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I apologize... I just wanted everyone\nto listen to me.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "About what?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I had Miu add another function to my body,\nin addition to the flashlight.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "What the...!? No way...\nDid you really...?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "S-Stop! You can't! I didn't install it\nfor that purp—",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Please, let me use it! With it, I might\nbe able to save everyone!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Alright, so...what is this function?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "...It's an <CLT=cltSTRONG>image recording function<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Huh? Image recording!?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Specifically, this function allows me to \ndispense a printout of my own memory...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...I'll give it a try.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...Ready?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltSYSTEM>*whirrrrrr*",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "From your mouth!?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "I've...also used magic like that before.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "This printout is my memory of being\nkicked out of the seance.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Please confirm that the floor of the empty\nroom is clearly visible.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Go on! Take the picture and see\nfor yourself!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ah, o-okay. Got it.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>I reluctantly took the paper\nfrom Keebo's mouth.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>So this is the magic\ncircle used for the seance...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Well, Shuichi?\nDo you notice anything?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Notice anything...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Ah, hm. I think something\nis off about this area here.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Hm? As far as I can tell, it looks the same\nas the drawing in the document.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Since we're trying to find out how the culprit\nmoved from the corner, maybe check there?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "The area where the cage was\nplaced is suspicious...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Is there really a point in paying attention to\nthe center of the magic circle?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "We need to focus more on the corners of the\nroom rather than the center, right?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "This area in the center\nis empty...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Isn't that just the pathway to the center of the\ncircle? It's drawn the same in the document.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "...Well, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Was my new function helpful...?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "What part of the magic circle\nis the most suspicious?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "This helped a lot, Keebo.\nWithout you...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...I never would have seen through\n<CLT=cltSTRONG>Kiyo's lie<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "My lie...?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "You just said that you drew the magic circle\nexactly as it appears in the document.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "But that's a lie, isn't it?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "The magic circle at the scene had\n<CLT=cltSTRONG>lines that stretched to the room's corners<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Which means that you would be able to find\nthe floorboard from anywhere in the room.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "So it was different from the document\nafter all!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "All because Himiko noticed!\nAnd...because of Keebo, too!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Hey, where's my thanks!? I'm the one\nwho installed that function into Keebo!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Hey, yeah. What was it you were\nsaying about its purpose?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "O-Oh... To be honest, the purpose of that image\nrecording function is to monitor my health...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Specifically, I make Keebo use that function\nevery day to...*sigh*... analyze my turds...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Your what!? Why!?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Sh-Shit is a great indicator of intestinal\nhealth and gut bacteria quality!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Plus, taking a satisfying shit does wonders\nfor a woman's natural beauty, so...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "S-See! You're all grossed out! This is why\nI didn't wanna tell you about my plan!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Quit talking about your poop!\nNo one cares!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Kiyo...you killed Tenko, didn't you?\nJust give up and admit it already.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "So, Kiyo, if you have any objections, you can—",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Well, since you've given me the\noption, I will most certainly object.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "To be honest, it's unimportant.\nBut it may be an amusing diversion.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>Unimportant...?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Now I shall bear witness to your\nabilities, Shuichi! Do entertain me!",
+  "tr": ""
+ }
+]

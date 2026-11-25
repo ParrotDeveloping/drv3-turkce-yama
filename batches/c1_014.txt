@@ -1,0 +1,67 @@
+@ chap1_text_US
+## c01_004_353
+399|<CLT=cltSYSTEM>Sola ve sağa gitmek için Q ve D tuşlarını,\nzıplamak için Z tuşunu kullan.
+## c01_005_100
+0|<CLT=cltMIND>Burada daha fazla kalmak istemiyorum...\nama sanırım bugünlük odama gideceğim.
+20|<CLT=cltMIND>Burada daha fazla kalmak istemiyorum...\nama sanırım bugünlük odama gideceğim.
+21|<CLT=cltMIND>Keşke evimde de böyle büyük bir televizyon olsaydı.\nKaçtıktan sonra babamdan bir tane isteyeceğim.
+## c01_005_250
+0|Bir sorun mu var? Lütfen dinlen ve\nolabildiğince güç toplamaya çalış.
+1|Buradan kaçmak epey zor olacak...\nEn iyisi bunun için kafanı yorma.
+2|Gerçekten uyuyamıyorsan seni sihirli \nbir çekiçle uyuturum.
+3|Bu...ebedi bir uyku olur.
+4|*iç çeker*... Böyle görünce okul \ngerçekten ürkütücü.
+5|Gündüz ilginç bir yer ama...\ngeceyi burada geçirmek zorunda olmak çok fazla.
+## c01_005_252
+0|Shuichi Saihara ile Konuşma
+1|Kaito Momota ile Konuşma
+2|Ryoma Hoshi ile Konuşma
+3|Rantaro Amami ile Konuşma
+4|Ne oldu, Gonta?\nYurda dönmüyor musun?
+5|Gonta rögar için endişeli...\nKapak olmadan sorun olmaz mı?
+6|Ya biri düşerse?\nFena yaralanırsa?
+7|Gonta centilmen.\nCentilmen bunu görmezden gelemez...
+8|Ama Kirumi Gonta'ya kapağı açık bırakmasını söyledi...
+9|...Gonta ne yapacağını bilmiyor.
+10|Herkes burada olduğunu biliyor, eminim hepimiz\ndikkatli oluruz. Merak etme.
+11|Tamam, haklısın.\nBelki Gonta sadece göz kulak olur.
+12|Teşekkürler, Kaede.\nGonta şimdi odasına dönüyor.
+13|İyi geceler.
+14|Evet, iyi geceler.
+15|<CLT=cltMIND>Gonta korkutucu görünebilir ama aslında\nçok nazik, masum bir ruh.
+16|Kokichi Oma ile Konuşma
+17|Korekiyo Shinguji ile Konuşma
+18|Keebo ile Konuşma
+19|Kirumi Tojo ile Konuşma
+20|Himiko Yumeno ile Konuşma
+21|Maki Harukawa ile Konuşma
+22|Tenko Chabashira ile Konuşma
+23|Tsumugi Shirogane ile Konuşma
+24|Angie Yonaga ile Konuşma
+25|Miu Iruma ile Konuşma
+30|<CLT=cltMIND>Burada daha fazla kalmak istemiyorum...\nama sanırım bugünlük odama gideceğim.
+32|<CLT=cltMIND>Burada daha fazla kalmak istemiyorum...\nama sanırım bugünlük odama gideceğim.
+## c01_006_116
+0|<CLT=cltMIND>Demek benim odam burası...
+1|<CLT=cltMIND>Eh, fena sayılmaz...
+2|Bir anahtar mı? Bu odanın anahtarı mı?
+3|Bingo! Bildin! Aferin!\nO gerçekten de bu odanın anahtarı!
+4|Burada muhtemelen çalınmaya değer\nhiçbir şeyin yoktur...
+5|Ama yine de çıkarken kapını\nkilitlemelisin!
+6|Pekala! Şimdi sana özel bir ipucu\nverme vakti!
+7|Başkasının anahtarını çalarsan odasına\ngizlice girip onu kolayca öldürebilirsin!
+8|Kes sesini! Bunu duymak istemiyorum!
+9|Vaaaaahhh! B-Bana az önce fırça attı!
+10|<CLT=cltMIND>Tanrım, burası berbat.\nSadece eve gitmek istiyorum.
+11|<CLT=cltMIND>Yarına hazırlanmak için uyumalıyım.
+12|<CLT=cltMIND>Yarına hazırlanmak için uyumalıyım.
+13|<CLT=cltMIND>Yarına hazırlanmak için uyumalıyım.
+15|*iç çeker* Yorgunum...
+16|<CLT=cltMIND>Vücudum yatağa değer değmez\nolduğum yerde kaskatı kaldım.
+17|<CLT=cltMIND>Yaşanan onca şeyden sonra...
+18|<CLT=cltMIND>Fiziksel ve zihinsel olarak ne kadar\nbitkin olduğumu unutmuşum...
+20|<CLT=cltMIND>Pes etmediğimiz sürece hedefimize\nulaşacağımızı düşünmüştüm.
+21|<CLT=cltMIND>Piyano çalışırken hep bu zihniyete\nsahiptim...
+22|<CLT=cltMIND>Ama...belki piyano çalmak daha kolaydır...
+23|<CLT=cltMIND>...çünkü o yetenekle...kutsanmışım.
+25|<CLT=cltMIND>Kafamda Chopin'in "Prelüd"ü çalarken\nderin bir uykuya daldım.

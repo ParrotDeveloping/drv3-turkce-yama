@@ -1,0 +1,272 @@
+[
+ {
+  "id": 0,
+  "en": "This place is huge! I hope we can find\nall the things we're looking for.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Ah, don't worry, I know where\nthe cameras and sensors are...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I'll go get them. You can wait here.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Oh, are you sure?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>After he said that, Shuichi walked to the\nback of the warehouse.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I know where the cameras and sensors are.\nI'll go get them, you can wait here.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I guess I'll wait for Shuichi then...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Sensor",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>There's a wooden box...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Are these...iron balls? They look like they're\nfor shot put...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>I picked one up to see if it was as heavy\nas it looked...and it was.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>The athletes who have to hurl these things\nare pretty impressive...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...Kaede? What are you doing?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Oh, Shuichi. Done already?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Yeah, I've got the cameras.\nI think three should be enough.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Disposable cameras? Will these work?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "That's all they had.\nBut they work, it should be fine.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "There's also photo developing solution here,\nso we don't have to worry about that.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Well, if you're fine with them...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Yeah... Three cameras should be okay.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Also, here's a security sensor...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "When this sensor picks up <CLT=cltSTRONG>movement<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "it triggers this receiver to make a <CLT=cltSTRONG>sound<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "We should get three of these as well...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "As huge as this warehouse is, I didn't expect\nit to have security sensors in stock.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Oh, do you want me to carry the cameras?\nI can put them in my backpack.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I only have my music sheets and a spare\nvest, so there's still lots of room inside.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Alright...\nLet's go talk to Miu.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>As I took the three disposable cameras\nfrom Shuichi—",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>I suddenly stopped.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Will these cameras really work?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Even if we take pictures of the mastermind\nand persuade everyone...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>What will we do after that?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>The mastermind could just smirk and order\nthe Exisals to attack everyone.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Can we really protect everyone with this plan?\nWill we really be able to escape this place?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...Kaede? Is something wrong...?\nWe need to go, before Miu changes her mind.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Shuichi was already at the door of the\nwarehouse, waiting for me.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...Oh, sorry!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>I shoved the things I was holding \ninto my backpack, and ran after him.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>A remote-controlled helicopter...\nWhat's this doing in a school warehouse?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>It's a high-jump bar. Cool, I guess...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>It doesn't matter, though.\nBecause we're getting out of this place.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>A gym mat has been placed here.\nIt's probably for P.E. classes or something...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>But we haven't had a single P.E. class yet,\nso I'm not sure if we'll ever use this.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>Track and field hurdles... I guess it's not\nweird for a school to have these.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>But we won't be attending classes here.\nWe're getting out of this place!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Disposable Camera",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Photographic Developer",
+  "tr": ""
+ }
+]

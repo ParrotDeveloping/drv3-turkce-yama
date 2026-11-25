@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_214_001
+11|\n<CLT=size2>bulunduğuna\n<CLT=size1>göre...
+12|Orada <CLT=size2>saklanıyor\n<CLT=size1>olabilirlerdi, anladın mı?
+13|Orada saklanıyor\nolabilirlerdi, anladın mı?
+14|<CLT=size2>Rantaro'yu indirip\n<CLT=size1>sonra <CLT=size2>tüydüler.
+15|Rantaro'yu indirip\nsonra tüydüler.
+16|Ama suçlu onu öldürüp<CLT=size1> <CLT=size2>kaçtıysa,
+17|Ama suçlu onu öldürüp kaçtıysa\nkameraya yakalanmaz mıydı?
+18|\n<CLT=size2>kameraya<CLT=size1> <CLT=size2>yakalanmaz mıydı?
+19|Rantaro'yu <CLT=size2>öldürdükten\n<CLT=size1>hemen sonra...
+20|Rantaro'yu öldürdükten hemen sonra...
+21|<CLT=size2>tekrar<CLT=size1> saklandılarsa <CLT=size2>hayır.
+22|tekrar saklandılarsa hayır.
+23|Sonra,
+24|Sonra, herkes cesedin etrafında toplanınca...
+25|<CLT=size2>herkes
+26|cesedin <CLT=size2>etrafında
+27|<CLT=size2>toplanınca...
+28|tek <CLT=size2>yapmaları gereken\nyeni koşarak\n<CLT=size1>gelmiş gibi yapmak...
+29|tek yapmaları gereken yeni koşarak gelmiş gibi yapıp...
+30|<CLT=cltWEAK><CLT=size1>herkese yeniden katılmak,
+31|herkese yeniden katılmak, biz de hiçbir şey anlamazdık.
+32|biz de <CLT=size1>hiçbir şey anlamazdık.
+33|Özür dilerim...\nEn baştan tekrar anlatabilir misin?
+## c01_215_000
+0|Suçlu onunla kütüphanenin içinde mi buluştu?\nAma bu mümkün görünmüyor.
+1|O zaman dinleyelim. \nSebebin ne?
+2|Ön kapının yanına yerleştirdiğimiz kameranın\n<CLT=cltSTRONG>üç fotoğrafına<CLT=cltNORMAL> bakarsanız...
+3|Bu, Shuichi ile benim Kaito ve Tenko'yla\nbuluşup içeri koştuğumuz an.
+4|Bu da Tenko'nun çığlığını duyduktan sonra içeri\nkoşan diğer dört kişiyi gösteriyor.
+5|Son olarak da ceset bulundu anonsunu\nduyduktan sonra içeri giren diğer herkes.
+6|Bu fotoğraflarda herkesin kütüphaneye\ngirdiğini açıkça görebilirsiniz.
+7|Bütün zaman boyunca kütüphanede saklanan\nbiri olsaydı bu mantıklı olmazdı.
+8|Eh... Bu herkesi kapsıyor,\ndeğil mi?
+9|Sanırım daha kat edecek yolu olan...\nbenmişim.
+10|Takma kafana. Zaten her ihtimali\ndüşünmek daha iyi.
+12|Hm? Ah, şey, evet.
+13|<CLT=cltMIND>Shuichi iyi mi?\nÇok sessiz duruyor...
+14|<CLT=cltMIND>Bir şey için mi endişeleniyor?
+15|Yani asıl soru suçlunun kütüphaneye\nnasıl girip çıktığı.
+16|Önce o sorunu ele almadan devam\nedemeyiz!
+17|Epey gizemli. Katil kameralara yakalanmaktan\nnasıl kaçındı?
+18|Sanki görünmezlermiş gibi.
+19|Ah, ama ben değildim. Büyüm seni sadece\nyarı görünmez yapabiliyor.
+20|...Üst yarını, daha doğrusu.
+21|Bu biraz yarım yamalak bir görünmezlik\nbüyüsü, değil mi?
+22|Ama kütüphanenin iki kapısında da\ngizli kamera vardı...
+23|Kütüphanedeki havalandırma kanalına ne dersiniz?\nBelki oradan girmişlerdir.
+24|Ama Shuichi ile ben bağlantılı kanalın olduğu\nsınıfta gözcülük yapıyorduk.
+25|Suçlu Kaede ile Shuichi bakmayana kadar\nbekledi...sonra görünmez oldu!
+26|Himiko görünmez suçlu teorisine gerçekten\nçok hevesli!
+27|Şeyy...yok, hayır. Birinin havalandırma kanalından\nkütüphaneye gizlice girmesinin imkânı yok.
+28|<CLT=cltMIND>Doğru... Bunun imkânsız olacağını kanıtlayan\nbir kanıtımız var.
+29|Suçlu havalandırma kanalından geçseydi\ngüvenlik sensörünü tetiklerdi!
+30|Güvenlik sensörü kitaplık oynatılırsa tepki\nveriyor. Onu kendin kurdun, değil mi?
+32|Sınıftaki havalandırma kanalının kullanıldığına\ndair hiçbir kanıt yok.
+33|Bunu doğrulayamadım.\nBu sonuca nasıl vardın?

@@ -1,0 +1,52 @@
+@ chap1_text_US
+## c01_221_000
+21|Üstelik Kaede'nin az önceki davranışına\nbakılırsa yalan söylediğinden epeeey eminim.
+22|Benim gibi yetenekli bir yalancı başkalarının\nyalanlarını kolayca fark eder.
+24|Eee, siz ne düşünüyorsunuz? \nKaede'ye inanmak mı, inanmamak mı?
+25|Şeyy...Kaede'ye inanmak istiyorum ama\nShuichi epey şüpheli görünüyor.
+26|Bir süredir tuhaf bir şekilde sessiz...\nbu tipik bir yoz erkek davranışı.
+27|Nyeh... Katılıyorum.
+28|Burada şüpheli olan tek kişi\nShuichi.
+29|Yani Kaka-ichi'nin yaptığı konusunda hepimiz\nhemfikir miyiz!? O zaman oylayalım artık!
+30|Hayır, bence suçluyu belirlemek için\nhâlâ çok erken.
+31|Şeyy...katılıyorum. Shuichi'nin suçlu olduğuna\npek inanamıyorum.
+32|Evet, bu doğru değil!
+33|Katılıyorum!
+34|Ama Atua katılıyor mu bilmiyorum.\nÇünkü şu an O'nun şekerleme saati.
+35|Bu epey can sıkıcı... Görünüşe göre\nfikirlerimiz tamamen zıt uçlarda.
+36|Nasıl karar vereceğiz?\nTam ortadan ikiye bölündük...
+37|...Bölündük mü!? Bölündük mü dedin!?
+38|Dedin! Duydum! Göbek deliği\nmikrofonumla duydum!
+39|Dur, yani kulakların hiçbir işe yaramıyor mu!?
+40|Ultimate Akademi gururla sunar, kendine\nözgü <CLT=cltSTRONG>dönüşfenomenal duruşma alanı<CLT=cltNORMAL>!
+41|...Dönüşfenomenal duruşma alanı mı?
+42|Duruşma alanı dönüşecek mi!?\nCidden mi!? Bunu kesinlikle görmek istiyorum!!!
+43|<CLT=cltMIND>N-Neyse, bir şey yapmamız lazım.
+44|<CLT=cltMIND>Shuichi'ye oy veremeyiz, çünkü o kesinlikle\nsuçlu değil.
+45|<CLT=cltMIND>Ona oy verirsek bütün umutlar tükenir...
+46|<CLT=cltMIND>Herkesi kurtaramam...
+47|<CLT=cltMIND>Ama henüz umudumu yitirmedim! Pes etmeyeceğim!
+48|<CLT=cltMIND>Herkesi kurtarmadan önce...hepimizin aynı\nsayfada olduğundan emin olmalıyım!
+## c01_222_000
+0|Suçlu Shuichi!
+1|Shuichi suçlu değil!
+2|<CLT=cltMIND>Dönüşüm beni şoke etti ama artık herkesi\nduymak çok daha kolay!
+3|<CLT=cltMIND>Herkesin ifadesi tartışılan önemli bir\nnokta içeriyor gibi.
+4|<CLT=cltMIND>Bu noktalara düzgünce karşılık vermezsem\nfikirlerimiz bölünmüş kalır!
+5|<CLT=cltMIND>O noktaları takip edip benim tarafımın\nöne süreceği noktalarla eşleştirmeliyim!
+6|<CLT=cltMIND>Herkesin noktaları hazır olunca\nherkesi bir anda ikna edeceğim!
+7|<CLT=cltMIND>Rakip ifadesini bitirmeden önce hangi\nnoktanın öne sürüleceğini seçmeliyim.
+8|<CLT=cltMIND>Şef olup tarafımın noktalarını rakiplerimin\nnoktalarıyla eşleştirmeliyim!
+9|<CLT=cltMIND>Herkesi Shuichi'nin suçlu olmadığına ikna\nedeceğim!
+10|Kamera aralıkları hakkında bildiklerini\nsakladın, Shuichi.
+11|<CLT=cltMIND>Noktalarımız eşleşmezse ikna edici bir\nargüman sunamayız.
+12|<CLT=cltMIND>Herkesi Shuichi'nin suçlu olmadığına ikna \nedeceğim!
+13|Shuichi'nin aksine benim gerçekten sağlam\nbir mazeretim var!
+14|<CLT=cltMIND>Noktalarımız eşleşmezse ikna edici bir\nargüman sunamayız.
+15|<CLT=cltMIND>Herkesi Shuichi'nin suçlu olmadığına ikna \nedeceğim!
+16|Yani Shuichi ile Kaede bütün zaman boyunca\nbirlikte değildi, değil mi?
+17|<CLT=cltMIND>Noktalarımız eşleşmezse ikna edici bir\nargüman sunamayız.
+18|<CLT=cltMIND>Herkesi Shuichi'nin suçlu olmadığına ikna \nedeceğim!
+19|Alıcı Shuichi'deyse gizlenmiş\nolabilirdi.
+20|<CLT=cltMIND>Noktalarımız eşleşmezse ikna edici bir\nargüman sunamayız.
+21|<CLT=cltMIND>Herkesi Shuichi'nin suçlu olmadığına ikna \nedeceğim!

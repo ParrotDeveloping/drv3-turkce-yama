@@ -1,0 +1,71 @@
+@ chap1_text_US
+## c01_206_003
+2|Çünkü <CLT=size2>Atua<CLT=size1> beni
+3|Çünkü Atua beni her zaman izliyor.
+4|<CLT=size2>her zaman<CLT=size1> izliyor.
+5|Atua...?\n<CLT=size2>O kim kişi?
+6|Atua...?\nO kim kişi?
+7|Atua bir kişi değil.\n<CLT=size2>Atua Tanrı'dır.
+8|Atua bir kişi değil. Atua tanrıdır.
+9|Kişi değil...\n<CLT=size1>Robot mu? <CLT=size2>Keebo gibi mi?
+10|Kişi değil...\nRobot mu? Keebo gibi mi?
+11|Atua'dan başka \n<CLT=size2>Tanrı yoktur.
+12|Atua'dan başka Tanrı yoktur.
+## c01_207_000
+0|Bir dakika, Kaito! Rantaro dışında ortadan\nkaybolan başka biri yok muydu?
+1|O aptal çoktan unuttu.\nStrateji toplantısı sırasında <CLT=cltSTRONG>Gonta<CLT=cltNORMAL> da çıktı.
+2|Evet, kendini <CLT=cltSTRONG>Görsel-İşitsel Oda<CLT=cltNORMAL>'ya\nkilitledi ve—
+3|Hey, dur bir saniye! "Aptal" mı!?
+4|Bu doğru mu, Gonta?
+5|E-Evet, Gonta böcek filmi izledi. Gonta'yı\ndövüş hevesiyle doldurmak için, Monokuma'yla dövüşsün diye.
+6|Kendini elleri kılıç olan dev bir peygamber\ndevesi olarak mı hayal etmeye çalışıyordun?
+7|Hadi ama! Böceklere bakmak seni nasıl\ndövüş moduna sokacak ki!?
+8|Berbat fikir! Sosisli sandviçe ketçap\nsürmek gibi!
+9|Ama kapıyı neden kilitledin?
+10|Çünkü...Gonta odaklanmalı...
+11|Hm? Herkes Gonta'dan şüpheleniyor? Neden!?
+12|Çünkü mazeretin yok!
+13|Ah, Gonta'nın sadece mazerete mi ihtiyacı var?
+14|Tamam! Gonta mazeret bulacak!\nGonta'ya nerede bulacağını söyleyin yeter!
+15|Bu tartışmanın gidişatına bakılırsa...\n*bunu* çürütmek zor olacak.
+16|Kehehe... Ne yapacaksın?\nMazeretin olmazsa hepimiz seni seçeriz.
+17|Gonta, lütfen anla ki gerçeği ortaya\nçıkarmak için senin de katılman gerek.
+18|Ama...Gonta nereden başlayacağını bilmiyor...
+19|Sadece herkese bunu neden yapmış\nolamayacağını anlatmalısın.
+20|Suçlu sen değilsen ve hepimiz sana oy\nverirsek, biz de ölürüz.
+21|Hayatlarımız senin sözüne bağlı. Yaparsın sen.
+22|Tamam...Gonta deneyecek!\nHerkesin iyiliği için!
+23|Nyahahahaha!\nSavaş, Gonta!
+24|Savaş! Savaş! Savaş!
+25|Kes şunu, seni lanet sallanan kafa!
+26|<CLT=cltMIND>Bu tartışma gürültülü ve hararetli hâle geliyor\nama herkesin sesine odaklanırsam...
+27|<CLT=cltMIND>O zaman umarım beyni ifşa\nedebiliriz!
+## c01_208_000
+0|Gonta suçlu değil! Gerçekten!
+1|Lütfen Gonta'ya inanın!
+2|Birine karşı çıkacaksan iyi bir\nkanıtın olsa iyi olur...
+3|...o yüzden birini dayanaksız yere\nharcama, Kaede.
+5|O-O sürgülü kapı koridora açılıyordu, değil mi?\nO zaman kütüphaneye giden yolu açıktı!
+6|...Anladın mı?\nSürgülü kapıyı kullanmış olabilir.
+8|<CLT=cltMIND>Gonta, Görsel-İşitsel Oda'dan kimse fark\netmeden kütüphaneye gitmiş olabilir mi?
+9|<CLT=cltMIND>Gonta gerçekten o sürgülü kapıdan girip\nçıkmış olabilir mi?
+10|<CLT=cltMIND>Gonta, Görsel-İşitsel Oda'dan kimse fark\netmeden kütüphaneye gitmiş olabilir mi?
+11|<CLT=cltMIND>Gerçekten o yapmış olabilir mi...?
+12|<CLT=cltMIND>Gonta, Görsel-İşitsel Oda'dan kimse fark\netmeden kütüphaneye gitmiş olabilir mi?
+13|<CLT=cltMIND>Gerçekten o yapmış olabilir mi...?
+## c01_208_001
+0|<CLT=cltWEAK><CLT=size2>Gonta
+1|Gonta suçlu değil!!!!
+2|<CLT=cltWEAK>suçlu
+3|<CLT=cltWEAK>değil!
+5|Çünkü GI Oda'dan\n<CLT=size2>çıkmak için...
+6|Çünkü GI Oda'dan\nçıkmak için...
+7|Gonta arkadaşların olduğu\n<CLT=size2>Oyun Odası'ndan\n<CLT=size1>geçmeli...
+8|Gonta arkadaşların\nolduğu Oyun Odası'ndan\ngeçmeli...
+9|koridora
+10|koridora ulaşmak için bile!
+11|<CLT=size2>ulaşmak<CLT=size1> için bile!
+12|<CLT=size2>Koridora<CLT=size1> <CLT=size2>ulaşamazsan...
+13|Koridora ulaşamazsan...
+14|<CLT=size2>kütüphaneye<CLT=size1> <CLT=size2>gidemezsin!
+15|kütüphaneye gidemezsin!

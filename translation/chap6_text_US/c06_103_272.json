@@ -1,0 +1,727 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>The wall...next to the boiler...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>What could it be?\nPerhaps it's just a prank...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "How is your investigation going? Will you be\nable to end the killing game your way?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Ah, it's going...fine...\nI really just started...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "There are a lot of areas in this\nacademy we haven't investigated.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Areas that you can't investigate...\nHmm...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...Rantaro's lab is also inaccessible, thanks\nto Monokuma's ridiculous rule.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "That's right, I'm concerned about that, too...\nIf only there were some way to get in—",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I will help you.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Help me?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "By destroying the door to his research lab\nso you can enter it.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I-If you could...that would really help...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Then please head to his lab and I will meet\nyou there.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "But be careful.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Monokuma will be after you for conducting\nan investigation without his permission.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "The Exisals may not kill you outright, but\nthey will definitely try to stop you.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Right...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "If things get dangerous, call me and I will\ndeal with the Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "You're going...to help me, Keebo?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I am not your enemy. That is why I am\nhelping you with your investigation.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "But only until the time limit expires at dawn.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Only until the time limit, huh...?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>I suppose he's still hellbent on\ndestroying this academy.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Still...\nYou've changed, Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Is it because of this situation, or because\nhe can't hear his <CLT=cltSTRONG>inner voice<CLT=cltNORMAL>...?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>Right now...I should focus on Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>He died before revealing his <CLT=cltSTRONG>Ultimate<CLT=cltMIND> talent,\nbut he seemed to know more than we did...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Hey, I have a question.\nThis might sound a little weird, but...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Does the term <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>\nring a bell for anyone?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>Before we even remembered that event,\nhe knew about the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>But why?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>There might be a clue somewhere that\nwill lead us to the mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "I'm going to do everything I can...\nNo giving up...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>I won't give up on <CLT=cltSTRONG>hope<CLT=cltMIND>...\nI need to keep <CLT=cltSTRONG>hope<CLT=cltMIND> alive...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>And to do that...I need to\nget inside Rantaro's lab.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>Congratulations! You've unlocked the Keebo Gun!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltSYSTEM>Hold <PAD=【○】> or <PAD=【Ｒ１】> near an Exisal to\nfill up energy.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltSYSTEM>When the energy is filled to the max,\nKeebo will come to save you!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltSYSTEM>Use it as you need it!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>The wall next to the boiler...\nI should investigate.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Keebo looks like he's taking a lot of damage...\nIs he alright?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>The wall...next to the boiler...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>What could it be?\nPerhaps it's just a prank...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>There's no time for investigating\nthe basement right now...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Around here...?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>This area used to be covered in grass.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>But it's been completely removed...\nIt shouldn't be hard to find it now.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "...Ah!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>I let out a gasp when\nI saw <CLT=cltSTRONG>it<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "\"twins b\"?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Is this the second message?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>What could this possibly mean?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>If it was written by Kokichi,\nlike the other message...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Are they meant to be read together?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "In that case...it seems as though\nthe message is incomplete...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Two Mysterious Messages<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>But if this is incomplete, what was\nKokichi trying to do by telling us—",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Wh-!? A-Again!?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Shuichi Saihara...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Do you have your <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>\nmemory back?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...Yes.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "As the Headmaster of Hope's Peak Academy,\nI want to ask you...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...to please cooperate with the Gofer Project.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "I...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "I do feel bad about this...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I know how much you all wanted to run, \neven if it meant no longer being <CLT=cltSTRONG>Ultimates<CLT=typeNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Those of you who have to live on like this\nmight be the real victims here...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "But the only people who can go through with this\nproject are you 16 who haven't been infected...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "The fate of humanity...rests on \nyour shoulders.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "The fate...of humanity?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "...What's the point?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Even if this ridiculous mission is a success,\nand we all survive...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "...what's the point?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Why try so hard to save the seeds of humanity?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "...I don't understand.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Perhaps...you'll be the ones who will\ncreate that point.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "It's true that this situation you're all \nbeing forced into is harsh.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "So harsh...that you think it'd be better \nto just die.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "But I still want you all to live.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "For those of us who want to live, but can't...\nyou 16 who *can* live are...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "...<CLT=cltSTRONG>Hope<CLT=typeNORMAL> itself.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "So please... I don't want to see you \ngive up <CLT=cltSTRONG>\"hope\"<CLT=typeNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "I want you to keep <CLT=cltSTRONG>hope<CLT=typeNORMAL> alive...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Ah...my head...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>I...remembered something again...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "We were at Hope's Peak...\nAnd we participated in the Gofer Project—",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>At that moment, I heard something\ncrumbling above me...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "*pant, pant* Ugh... Ah...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Shuichi, what's wrong? Are you alright?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "K-Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Yeah...I'm...okay...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "I'm sorry... I experienced a sudden flashback\nand my hands slipped...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Ah, did you remember, too, Keebo?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Yes. We were at Hope's Peak Academy, about\nto sign on for the Gofer Project.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "...What is Monokuma thinking,\nhaving us remember that *now*...?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "He's probably trying to make us feel\n<CLT=cltSTRONG>despair<CLT=typeNORMAL> again.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "<CLT=cltMIND>Despair?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>No, but...these memories...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "\"twins b\"...? Shuichi, what do you make\nof this message?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "I found a will in Kokichi's room...\none that mentioned a \"second message.\"",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "So I went to look for it.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "...So Kokichi entrusted us with his will.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "And a second message as well...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Could this message he left be related to\nthat message he wrote on the ground?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Do you think he tried to add to that\nmessage...in order to tell us something?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "I don't know, the will \ndidn't say...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>If he was going to add more,\nthe message was incomplete.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>But if this is incomplete, what was\nKokichi trying to do by telling us?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "\"twins b\"...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>If it was written by Kokichi,\nlike the other message...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>Are they meant to be read together?",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "In that case...it seems as though\nthe message is incomplete...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>But if this is incomplete, what was\nKokichi trying to do by telling us?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>The wall next to the boiler...\nI should investigate.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltMIND>Keebo looks like he's taking a lot of damage...\nIs he alright?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "<CLT=cltMIND>The wall next to the boiler...\nI should investigate.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "<CLT=cltMIND>Keebo looks like he's taking a lot of damage...\nIs he alright?",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>It says \"This world is mine. Kokichi Oma.\"",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "That message Kokichi wrote...",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "It's something he fabricated to trick us into\nthinking he was the <CLT=cltSTRONG>mastermind<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "That's true, but...",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>Was that...really his intention?",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "<CLT=cltMIND>It says \"This world is mine. Kokichi Oma.\"",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>When Gonta first found it,\nit was an incomplete jumble of letters.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "<CLT=cltMIND>Eventually, it had more added to it...",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "<CLT=cltMIND>And in the end...",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>It made the message, \"This world is mine. Kokichi Oma.\"",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "<CLT=cltMIND>Kokichi wrote that in an attempt to make\nus believe he was the <CLT=cltSTRONG>mastermind<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "<CLT=cltMIND>Was that...really his intention?",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "<CLT=cltSYSTEM>Congratulations! You've unlocked the Keebo Gun!",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltSYSTEM>Hold left-click near an Exisal to\nfill up energy.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "<CLT=cltSYSTEM>When the energy is filled to the max,\nKeebo will come to save you!",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "<CLT=cltSYSTEM>Use it as you need it!",
+  "tr": ""
+ }
+]

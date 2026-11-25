@@ -1,0 +1,467 @@
+[
+ {
+  "id": 0,
+  "en": "Oh, good. You came.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "What's wrong, Kaito?\nWhy did you call me out here all of a sudden?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "See, since I was chosen as an astronaut \ntrainee, I've trained every day, but...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I haven't done any training here at all.\nAt this rate, I'll get all weak, so...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Join me, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "What? Why me?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Doesn't matter, let's get started!\nTake off your coat!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Wait, why—!?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Instead of complaining, just do 50 push-ups!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I don't know how it happened,\nbut before I knew it...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>I was doing push-ups with Kaito in the\ncourtyard in the middle of the night.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "*pant* Hrgh... Hrgh...\nWhy...do I...have to do this?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Now's not the time to use your head!\nNow's the time to move your body!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "*pant* Hrgh... Arghhh...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "What's the matter? \nSlowing down already?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I...never...do push-ups...\n*pant* My arms...are giving out...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Hey! Don't say that! The impossible is \npossible! All you gotta do is make it so!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>What the...? That logic makes no sense!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Hrgh... Nghhhh!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Somehow I managed 50 push-ups, but my body\nwas spent. I collapsed on the grass, panting.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "*pant...pant...*",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Geez, that's pathetic, man...\nGetting tired from only 50 push-ups.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Well, that's enough for now.\nWe'll pick back up tomorrow.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...We're doing this again tomorrow?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Huh? Well, yeah. You gotta do daily \ntraining every day, right?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "But...why do I \"gotta\" do this, Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Because this training's for you...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "For me...?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "When I look at you...I can't help but \nget frustrated. I ask myself...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Is the one Kaede entrusted her wish to \nreally this weak?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "You've been holding yourself back \nsince <CLT=cltSTRONG>then<CLT=cltNORMAL>...haven't you?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Do you think Kaede died because you made \na wrong deduction? Do you think you killed her?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Yes. I do, Kaito... Because of my\ndetective work, she set up that—",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "What are you saying!?\nThat was all her fault!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Her sins and her regrets are hers alone!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "You'll only make her worry about you \nif you try to bear all those by yourself!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "I...know...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I know that! I already know that!\nYou don't have to tell *me*!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "But...I can't help it, Kaito! I can't stop myself\nfrom thinking about what I could have done!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I'm...scared.\nI try hard not to be, but I'm scared.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "I can't stop thinking about...the pain and sadness\nthat comes if I <CLT=cltSTRONG>reveal the truth<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "That's what I'm afraid of...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Alright, I got it!\nSo that's your enemy, huh!?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Enemy?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Well, you gotta deal with your worries yourself.\nI can't give you an answer for those, but...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "At least you know you're weak.\nAs long as you can admit that...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Then you'll be okay!\nYou just gotta train and get stronger!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Listen up! Training is the only way to\novercome your weakness.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Ah, but, in my case, getting \"<CLT=cltSTRONG>stronger<CLT=cltNORMAL>\"\nis more of a mental concept...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Your head and body are connected, right?\nAt the end of the day, they're the same!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>...What does that even mean?\nHe's not making any sense...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>But maybe...that's exactly what\nI need right now.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Alright, Kaito. I'll try.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Ah, I mean, will you let me?\nI want to train with you, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "To get closer to defeating my enemy.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Well said, bro! But I'm strict, so you \nbetter prepare yourself!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>\"Bro,\" huh?\nThat's the first time he's called me that...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "But, ah...perhaps you should\nbe training too, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "You talk big for a guy that only did 20 push-ups...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Wha—! You were counting!?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Geez, you even noticed that. I guess you\nare the <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>, after all.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "But, y'know, the goal was just 50 anyway,\nso it doesn't matter if I'm a few short!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Well that's not fair at all...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>And thus, Kaito and I began\nour training regimen.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>I don't really know why Kaito\nis so concerned about me...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>But I suppose I can trust \nsomeone again. Just this time.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>I decided to trust Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>I decided to trust Kaito\nand his craziness.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Nyeh? Oh, it's you, Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "What are you doing up at this hour?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Nyeeeh...\nWell, just thinking.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "But it's pretty late now.\nHmm, I think I'll sleep well tonight.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "If I knew it'd be like this...I woulda had her\nundo my brainwashing a long time ago.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "...Your brainwashing?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Well, good night...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>What was that about...? She looked happier\nthan usual, I wonder what happened.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Huh? Shuichi?\nWhere are you off to at this hour?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Ah, well, I have...something to do...\nWhat are *you* doing?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Oh, I was just praying to Atua, annnnd...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Nyahahaha! Just be excited for tomorrow!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Tomorrow...?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Good night, Shuichi!\nSee you tomorrow!",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>Tomorrow?\nIs she planning something...?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>When I used the item, the vine suddenly\nwithered... How does that work?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>That door I can see over there must\nlead somewhere into the school...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>Where could it lead?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>So this is the key to the gate...",
+  "tr": ""
+ }
+]

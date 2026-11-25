@@ -1,0 +1,64 @@
+@ chap1_text_US
+## c01_299_001
+5|Yapabileceğim...başka bir şey yok mu?
+7|Pes etmeyeceğiz!
+9|Pes etmeyeceğiz!
+## c01_299_002
+0|<CLT=cltMIND>Ne yapmalıyım? \nArtık bunu yapabileceğimi sanmıyorum...
+5|Yapabileceğim...başka bir şey yok mu?
+7|Pes etmeyeceğiz!
+9|Pes etmeyeceğiz!
+## c01_299_010
+1|Sobe! Sıra sende, Shuichi!
+2|Oy vermeyenin ölüme mahkûm olacağını\nsöylediğimi hatırlıyor musun?
+3|Sözlerimi tutmasam nasıl bir ayı olurdum!?\nGüle güle, Shuichi!
+## c01_300_330
+0|Eh, bu noktada söylemeye gerek yok\nama hepiniz doğru oy verdiniz!
+1|Rantaro Amami'yi öldüren Kara\n<CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL> Kaede Akamatsu!
+3|Güzel...
+4|N-Ne...? Güzel mi?
+5|Güzel de ne demek!?\nBöyle mi bitmesini istiyorsun!?
+6|Pek değil ama...çok daha kötü sonuçlanabilirdi.\nO yüzden bu da olur.
+7|O-Olmaz! Bu süper korkunç!\nGelmiş geçmiş en kötüsü!
+8|Evet... Nasıl bu hale geldi?
+10|Kaede, seni böyle bir şey yapmaya\nne itti?
+11|Gonta bunu kabul edemiyor...\nSen açıklamazsan...
+12|Evet... Tatmin olmayacağım...\nDoğrudan senden duyana kadar...
+13|Kaede, lütfen...
+15|Tamam... O zaman lütfen birkaç dakikanızı\ndaha bana ayırın.
+16|Aynen Shuichi'nin dediği gibi—bunca zaman\nbeynin peşindeydim.
+17|Beyni öldürmek istedim ve bunu yapmanın\nölüm oyununu bitireceğini düşündüm...
+18|Ama neden öldürmeye çalıştın?\nBelki yakalanabilirlerdi...
+19|Süre sınırı olmasaydı muhtemelen\nöyle yapardım...
+20|Ama süre sınırı yüzünden beyni yakalamanın\nişe yarama ihtimali azdı, anlıyor musunuz?
+21|Çünkü beyin süre dolsun ve hepimizi öldürsün\ndiye öylece aptalı oynayabilirdi.
+22|Ben...bunun olmasından endişelendim.
+23|Yani onun yerine beyni öldürmeye\nmi çalıştın?
+24|Kütüphaneye kameraları kurmadan hemen önce\nkararımı vermiştim.
+25|Herkesi kurtarmak için son şansım olduğunu\ndüşündüm...
+26|O fırsatı kaçıramazdım. Ne olursa olsun\nherkesi kurtarmalıydım.
+27|Birini öldürmek zorunda olsan bile mi?
+29|Doğru...
+30|Beyni öldürmenin buradan birlikte kaçmak\niçin en iyi şansımız olduğunu düşündüm.
+31|Ben...buna gerçekten inandım da...
+33|Ah, Kaede...hiç aklına gelmedi mi?
+34|O düşünce kafana girdiği anda Monokuma\nseni tam istediği yere getirmişti.
+35|Çünkü Monokuma için en önemli şey\nölüm oyununun başlamasıydı.
+36|Sebeplerin ne olursa olsun, öldürme dürtüsünü\nhissettiğin an çoktan kaybetmiştin.
+37|Kalbinin cinayetle dolmasına izin verdiğinde\nbu ölüm oyununun bir parçası olmayı kabul ettin.
+38|D-Dur. Bunu böyle söylemek...
+39|Ama yanılmıyor. Ölüm oyununun sonunda\nbaşlamasının sebebi o.
+40|Ama...Kaede hiçbir şey yapmasaydı şimdiye\nhepimiz ölmüş olurduk...
+41|Kaede herkesi kurtarmak... Onu suçlayamayız.
+42|Biliyorum! Bana hatırlatmana gerek yok!
+43|İşte bu yüzden çok...sinirliyim! Bu kadar...\nbu kadar işe yaramaz olduğum için kendime sinirliyim!
+44|Kokichi...bu kadar yeter.\nOyununu görebiliyorum.
+45|...Hoppala. O kadar belli mi, ha?
+46|Ama...Kokichi haklı. Bana oyun oynandı.
+47|Ve beyni bile öldürmedim. Onun yerine <CLT=cltSTRONG>değerli\narkadaşlarımızdan<CLT=cltNORMAL> birini öldürdüm...
+48|Yaptığım şey çok korkunç...\nÇok...affedilemez...
+49|Masum bir canı aldım! Ben korkunç bir\ncaniden başka bir şey değilim!
+50|Hepiniz benden nefret etmeli, beni suçlamalı\nve benden tiksinmelisiniz!
+51|Kaede, lütfen sakin ol!
+53|Rantaro'nun cesedini bulduktan sonra, onun\nbeyin olmadığını fark ettiğimde...
+54|Yaptığımı size itiraf ederek bunu\nbitirmeyi düşündüm...

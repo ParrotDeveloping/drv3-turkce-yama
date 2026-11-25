@@ -1,0 +1,63 @@
+@ chap1_text_US
+## c01_215_000
+91|Anlıyorum, anlıyorum! O zaman suçlunun kameraların\naralıklarından faydalandığına şüphe yok.
+92|Bu da suçlunun başından beri Miu olduğu\nanlamına geliyor! Aralıkları bildiğine göre!
+93|P-Pislik yapma! Mazeretim var!\nHatırlasana, yemekhane!?
+94|Ah, evveeet. Eh, heh heh...aralıkları başka\nkim biliyordu?
+95|Hmmm... Kimdi bakalım?
+96|...Shuichi.
+97|...A-Ah!
+98|Kehehe... Peki öyleyse, bu aradığımız suçlunun\no olduğu anlamına mı geliyor?
+100|Hey! Ne oluyor, Shuichi!? 
+101|Shuichi asla öyle bir şey yapmaz.\nDeğil mi, Shuichi?
+103|Bir an önce konuşsan iyi olur.\nSessizliğin seni daha çok batırıyor.
+104|İ-İtiraf et artık! Rantaro'yu sen mi öldürdün!?
+106|Hey...Shuichi...?\nSana ne oldu?
+107|Bana şimdi susma hakkını kullanacağını\nsöyleme.
+108|Nii-hihi... Of be, bu iyice güzelleşiyor.\nEğlendirin beni, köylüler!
+109|<CLT=cltMIND>O-Olamaz... Shuichi suçlu olamaz...
+110|<CLT=cltMIND>Bu kesinlikle yanlış! İmkânı yok!
+111|<CLT=cltMIND>Shuichi'nin suçlu olduğuna inanmayı reddediyorum!
+112|<CLT=cltMIND>Bu...kesinlikle mümkün değil!
+## c01_216_000
+0|Vay! Duruşma heyecan verici sonuna doğru\nhızla ilerliyor! Suçlunun kim olduğunu biliyor musun?
+1|Tabii ki biliyorum.\nÇünkü her şeyi bilirim.
+2|Ne!? Her şeyi mi biliyorsun!?
+3|Hayır! Her şeyi!
+4|Babişko her konuda her şeyi bilir.\nKısacası ayılığını tanrılıkla takas etti.
+5|EVET... ATALARI-OLAN-AYILARA\nİHANET-ETTİ.
+6|Takas mı? Hayır, hâlâ apaçık bir ayıyım.\nApaçık, değil mi? Değil mi, çocuklar?
+7|Balık olmadığın kesin!\nAma lanet olsun ki balık gibi kokuyorsun!
+8|Neyse, her şeyi bildiğim için bütün\nhikâyeyi size sonra anlatacağım.
+9|Suçluyu yakalamak için elinizden geleni yapın.\nVe inanın bana, bu yalan değil.
+10|Yalan söyleseydim oyunu temelinden\nsarsardı.
+11|O yüzden bana güvenin ve lütfen sınıf\nduruşmasının hiç dert etmeden tadını çıkarın.
+12|Kanlı kısma yaklaşıyormuşuz gibi\nhissediyorum... Beni geriyor...
+13|Suçlunun kim olduğunu bilmiyorum! Ama dikkat\netmiyorum, o yüzden sorun yok!
+14|Evet ama bildiğimiz bir şey var.
+15|Kurbanla saldırgan arasındaki çizgi\nsandığın kadar net değil.
+16|...Sanırım bu davadan çıkarabileceğimiz\nderslerden biri bu.
+17|Zehir yayılmadan bacağı kestim!\nBahara kütükten çiçekler biter!
+## c01_217_000
+1|Bir şey söyle artık.
+2|Dilin tutulmuş sessizliğin çok şey anlatıyor!\nSuçlunun sen olduğunu biliyordum lan!
+3|B-Bir dakika!\nBunların hiçbiri mümkün değil!
+4|Gözcülük yaptığımız bütün zaman boyunca\nShuichi benimleydi.
+5|Shuichi'nin Rantaro'yu ne zaman öldürdüğünü\nöne sürüyorsun?
+6|Gerçekten bütün zaman boyunca birlikte miydiniz?
+8|İkinizin bütün zaman boyunca birlikte gözcülük\nyapıp yapmadığını soruyorum.
+9|Ş-Şey, sanırım *bütün* zaman boyunca \nbirlikte değildik...
+13|Demek Shuichi o sırada Rantaro'yu öldürmeye gitti!
+14|H-Hayır! Shuichi kimseyi öldürmez!
+15|Duygusallaşma. Gerçeği sakin ve mantıklı\nbir şekilde aramalıyız.
+16|Yoksa hepimizin hayatı burada son bulur.
+17|Duygusallaşmıyorum. \nBunu inançla söylüyorum!
+18|<CLT=cltMIND>Shuichi bodruma gitmiş olsa bile Rantaro'yu\nöldüremezdi, çünkü...
+19|Shuichi'nin geri dönmesinin sürdüğü zaman
+20|Shuichi gözcülük yerinden sadece kısa\nbir süre ayrıldı!
+21|...Bu kanıt değil. Kameraların 30 saniyelik\naralık zamanlayıcıları var, hatırladın mı?
+22|Yani o 30 saniyelik zaman diliminde onu\nöldürmüş olabilirdik.
+24|Güvenlik sensörünün çalması
+25|Cinayet silahı
+26|Shuichi cinayet silahını ele\ngeçiremezdi!
+27|Cinayet silahı depodan alınmış\nbir gülleydi.

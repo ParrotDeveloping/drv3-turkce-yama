@@ -1,0 +1,56 @@
+@ chap1_text_US
+## c01_203_000
+11|Ya da belki beyin ona bundan \nbahsetmiştir.
+12|Neeee? Beyin bunu ona neden\nsöylesin ki?
+13|Rantaro'yu kütüphaneye <CLT=cltSTRONG>çekip<CLT=cltNORMAL>...öldürmek için.
+14|Bu, suçluyla <CLT=cltSTRONG>beynin<CLT=cltNORMAL> aynı kişi\nolduğu anlamına mı geliyor!?
+15|Hmm... Bu akla yatkın görünüyor.
+16|Beynin Kaede ile Shuichi'nin <CLT=cltSTRONG>tuzağını<CLT=cltNORMAL>\nbilmesi çok muhtemel.
+17|Beyin bunca zaman tuzağımızı biliyor\nmuydu yani?
+18|Bu dava sizin <CLT=cltSTRONG>gizli kameralarınız<CLT=cltNORMAL> sayesinde\nkusursuz cinayet hâline gelmiş olabilir.
+19|Beyin tuzağınızı biliyordu ve suçunu işlemek\niçin ondan faydalandı.
+20|Yani beyin Rantaro'yu çekip\nkıçını öldürdükten sonra...
+21|Kaede-aptal ile Kaka-ichi'nin gizli kameralarını\nkusursuz cinayeti kurmak için kullandı!
+22|Ama gerçekten bizim tuzağımızdan\nmı faydalandılar?
+23|Bu gerçekten...kusursuz cinayet mi?\nÇözülemez bir gizemin içinde miyiz?
+24|Sanırım bu bir çıkmaz...
+25|Dur, o kadar kolay pes etmeyin! Suçlunun\nbeyin olduğunu zaten biliyoruz.
+26|Beyni bulmak için birlikte çalışmalıyız!\nO zaman bu ölüm oyununu bitirebiliriz!
+27|Takım çalışması falan diye geveleyip duruyorsun\nama hâlâ birimizin beyin olduğunu düşünüyorsun...
+28|Evet, bunun korkunç bir düşünce olduğunu biliyorum...
+29|Ama işte bu yüzden başımıza gelen bütün\nkorkunç şeyleri bitirmek istiyorum!
+30|Beyni yenip bu aptal ölüm oyununu\nbitireceğim!
+31|Bunun için...bunun için bu sınıf duruşmasını bile kullanacağım!
+33|Nii-hihi... Vay, görünüşe göre <CLT=cltSTRONG>acı, sert bir\ngerçekle<CLT=cltNORMAL> bile yüzleşmeye kararlısın.
+34|O zaman işte geliyor—acı, sert gerçek!
+36|Rantaro'yu kimin öldürdüğünü çoktan çözdüm.
+37|N-Ne!?
+38|Neden şaşırdın?
+39|Çünkü haklıysa bu, bugüne kadarki en hızlı\nsınıf duruşması olur!
+40|Önceki rekor ne kadar hızlıydı\nki?
+41|Çok hızlı, bak sana söyleyeyim.
+42|O...rüzgârdaki bir yaprak gibiydi.
+43|Ah evet... Sanırım artık\nrüzgârla bir oldu.
+44|Evet, yılın bu zamanında ben de onu\ndüşünürüm.
+45|Düşman filosunun içinden öyle havalı süzülüşü,\nsonra da küçük bir serseri gibi ölüşü!
+46|Kesin sesinizi, tuhaflar! Bu önemli\nbir konuşma!
+47|Kokichi! Suçlunun kim olduğunu bildiğin\nkonusunda ciddi misin?
+48|Evet! Yaniiii...suçlunun Kaede ile Shuichi'nin\ntuzağını bildiği konusunda hepimiz hemfikiriz, değil mi?
+49|Hassiktir, tabii! O yüzden hiçbir fotoğrafta\nyok! Kim o peki!?
+50|Yani gizli kameraları bilen kişi\nsuçlu.
+51|Kim lan o peki!?
+52|Sensin!!!
+53|Ben mi!?!?
+54|Tuzakta kullanılan kameraları sen yaptın!\nDeğil miiii?
+55|Kameraları yapan kişi kör noktaları\ntabii ki biliyordu.
+56|Birinin gizlice geçebileceği tek zaman\nkahvaltıdan önceydi.
+57|B-Bu birden nereden\nçıktı lan...?
+58|B-Ben sadece kameraları tasarladım... Kütüphaneye\nkurulacaklarını bilmiyordum...
+59|Biri benden kamera yapmamı isteseydi\nkesinlikle ne için olduğunu sorardım.
+60|Kameraların ne için olduğunu nasıl hiç\nsormadın? Ha? Haaaa?
+61|B-B-Ben bütün gece onları yaparak uyumadım...\nsonra da öylece...bayıldım...
+62|Çok fena gerildin.\nHaline bak, terliyorsun.
+63|Ben hep ıslağımdır! Sadece bu koca göğüslerim\ngibi aşırı hassas hissediyorum...
+64|Bu kadar saldırgan biri için epey\nkorkaksın, ha, Miu?
+65|H-Hadi ama, artık yakamı bırakın...\nP-P-Para mı istiyorsunuz!? O mu!?
+66|Acınası bahanelerin sıradan bir erkek suçlunun\nbahaneleriyle tutarlı!

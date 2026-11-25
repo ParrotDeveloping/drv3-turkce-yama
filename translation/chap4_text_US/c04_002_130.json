@@ -1,0 +1,782 @@
+[
+ {
+  "id": 0,
+  "en": "What...? Is this...?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "This looks like your research lab.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "It is, right?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Let's see what's in here.\nBut...I'm getting a bad feeling from this place.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>A bad feeling?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "How did you know that this was\nthe <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>'s lab?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "I could tell...just from looking.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "But this place doesn't match you at all. I think\nthis lab is too good for someone like you.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Ahaha, you might be right...\nFirst I need a cloak and a deerstalker.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "What...? The clothes wouldn't even look\ngood on you.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "It won't suit you at all, so don't even try it.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "This definitely looks like a lab for\na detective...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "This place doesn't match you at all. I think\nthis lab is too good for someone like you.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "You never complain about Kaito's attitude...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "I guess you're really taken in to being\nhis sidekick.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>I'll investigate around here a little more.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us,\nbut why is it so...gaudy?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>And it's not just the monitor,\nit's this entire academy.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>What is going on here...?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>Bottles line the shelves behind the\nglass door. Are these...?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "It looks like...poison.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "So you think so too, huh?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "There's no way that can be normal medicine in\nthe <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>'s lab...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>She opened the cabinet's glass door\nand peered inside.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Yeah, I know what some of these are.\nThey're definitely poison.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "In that case...we should try to dispose of them.\nWe don't want anyone accidentally—",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Even if we got rid of them, Monokuma would\njust replace them.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "So it's useless doing that. It would only be\na temporary solution.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>A temporary solution...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>She wants to make *sure* no one\nwill ever use them.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Even so...I'm surprised they have so many\nin here.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "There's poison for instantaneous death, as well\nas ones that can inflict various symptoms...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Depending on how you use them, you can\nset up different gimmicks.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "This doesn't feel like an <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>'s lab.\nMore like a criminal's lab.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "It's a fine line when it comes to knowing\neverything about crimes.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>I suppose that's right... There's a fine\nline between criminal and detective.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>There's a fine line between\ncriminal and detective.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "There are a bunch of files lined up.\nIt looks like about 50 of them.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "What are these files for?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>I picked one up at random and\nflipped through it.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Ah!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>It contained photographs of murder\nscenes and the <CLT=cltSTRONG>tricks the culprits used<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "What is this...?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>I hurriedly looked through the other\nfiles and found that they were all similar.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...It's a file containing all the tricks used\nfor murders.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "It appears so.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Did this incident really happen?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I can't be sure, but there are\npictures of the scene.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "And all of these cases seem feasible.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Feasible, huh?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Then this would make a good guideline for\nanyone who wants to commit murder.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Well, I doubt anyone's that stupid to use a\nfile that's accessible to everyone...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Maki picked up a file at random\nand started flipping through it.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Huh? This file doesn't have any photographs.\nIt's all just drawn illustrations, but...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Illustrations?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Maki began pulling files one after\nthe other off of the shelf.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "The newer files have photographs, but the\nolder ones have illustrations?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "But why? Are the old ones <CLT=cltSTRONG>just fictional<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>The first few files have only illustrations,\nbut the others have photographs...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Is there a reason for that?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>The first few files have only illustrations,\nbut the others have photographs...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>Is there a reason for that?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Anyway, I've investigated all the\nplaces that concerned me.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Everything here has to do with death.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Well, that is your job as a detective,\nespecially in this killing game.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Yeah...I know.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "The only time I can use my detective talent\nis after someone dies...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "A detective...can't save anyone. I'm only\nuseful after it's already too late.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Why are you so upset all of a sudden?\nDo you want to die?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "You'd kill me just for that!?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Nah, I understand why Maki Roll would\nsay that. Your face looked pretty gloomy.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "With a face as gloomy as that, I can't \nbelieve you're my sidekick.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Be more proud of yourself, Shuichi!\nEverything you've done up till now is amazing!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Ah...thanks.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "That's why you should be careful.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Huh? What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Because of how well you did in the class trials,\n<CLT=cltSTRONG>future culprits<CLT=cltNORMAL> have their eyes on you...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "The next culprit might come after you.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Come after me?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Heh, you don't need to worry about that!\nI won't let anyone mess with my sidekick!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "I'm gonna protect both of you!\nIt's a hero's job to protect his sidekicks!",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "...What if I end up as a <CLT=cltSTRONG>future culprit<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Are you stupid? That's impossible.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "How...can you believe in people so easily?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Huh? Didn't I tell you before?\nI believe in people I wanna believe in.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "And if they betray me, it just means I \nmade a bad call believing in them.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Of course, you're one of the people I \nwant to believe in, Maki Roll!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Why are you even here? Did you finish\nplaying tag with Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "I lost track of him. I can't find \nthat guy anywhere.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Couldn't find him?\nBut he still has the <CLT=cltSTRONG>motive card key<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Yeah, he should still have it.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>There's a chance that Kokichi could have\nused the card key and gone somewhere...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Well, he ended up getting away, \nbut look what I found!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "It's the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Ah, you found one!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "I am worried about Kokichi, but I think \nwe should deal with this first.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "So let's all gather in the dining hall!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "...Huh? I'm coming, too?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Ah, wait a minute!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "There are other places I want to check first!\nCan I meet up with you later?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Oh yeah?\nThen I'll go on ahead to the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "...You're not going to check this place?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "I'll let Shuichi handle it!\nYou got this. Right, Shuichi!?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Y-Yeah...right.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Then once you're done, come to \nthe dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...You didn't even complain. You seriously\n*are* his sidekick now.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>...I can't even argue with that.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>Anyway, I've investigated all the\nplaces that concerned me.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Everything here has to do with death.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Well, that's your job as a detective,\nespecially in this killing game.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Yeah...I know.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "The only time I can use my detective talent\nis after someone dies...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "A detective...can't save anyone. I'm only\nuseful after it's already too late.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Why are you so upset all of a sudden?\nDo you want to die?",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "You'd kill me just for that!?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Nah, I understand why Maki Roll would\nsay that. Your face looked pretty gloomy.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "With a face as gloomy as that, I can't \nbelieve you're my sidekick.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Be more proud of yourself, Shuichi!\nEverything you've done up till now is amazing!",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Ah...thanks.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "That's why you should be careful.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Huh? What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Because of how well you did in the class trials,\npeople are keeping their eyes on you, Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "The next culprit might come after you.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Come after me?",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Heh, you don't need to worry about that!\nI won't let anyone mess with my sidekick!",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "I'm gonna protect both of you!\nIt's a hero's job to protect his sidekicks!",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "...What if I end up as a <CLT=cltSTRONG>future culprit<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Are you stupid? That's impossible.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "How...can you believe in people so easily?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Huh? Didn't I tell you before?\nI believe in people I wanna believe in.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "And if they betray me, it just means I \nmade a bad call believing in them.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Of course, you're one of the people I \nwant to believe in, Maki Roll!",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Why are you even here? Did you finish\nplaying tag with Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "I lost track of him. I can't find \nthat guy anywhere.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Couldn't find him?\nBut he still has the <CLT=cltSTRONG>motive card key<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Yeah, he should still have it.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "<CLT=cltMIND>There's a chance that Kokichi could have\nused the card key and gone somewhere...",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Well, he ended up getting away, \nbut look what I found!",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "It's the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Ah, you found one!",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "I am worried about Kokichi, but I think \nwe should deal with this first.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "So let's all gather in the dining hall!",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "...Huh? Me too?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "W-Well, if we split it among the three of us,\nit shouldn't take too much time.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Alright! Let's go!",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "<CLT=cltMIND>After splitting up, the three of us\nwent to gather the others.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "<CLT=cltMIND>After a time, everyone had\ngathered in the dining hall.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,317 @@
+[
+ {
+  "id": 200,
+  "en": "Lab window",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "Lab door",
+  "tr": ""
+ },
+ {
+  "id": 210,
+  "en": "Gym door",
+  "tr": ""
+ },
+ {
+  "id": 211,
+  "en": "Gym window",
+  "tr": ""
+ },
+ {
+  "id": 220,
+  "en": "From window to window",
+  "tr": ""
+ },
+ {
+  "id": 221,
+  "en": "Via the pool",
+  "tr": ""
+ },
+ {
+  "id": 300,
+  "en": "The effigy's hand",
+  "tr": ""
+ },
+ {
+  "id": 301,
+  "en": "Katana's hilt",
+  "tr": ""
+ },
+ {
+  "id": 310,
+  "en": "Katana was stabbed into effigy",
+  "tr": ""
+ },
+ {
+  "id": 311,
+  "en": "Sliding lock was tampered with",
+  "tr": ""
+ },
+ {
+  "id": 320,
+  "en": "Spinning it",
+  "tr": ""
+ },
+ {
+  "id": 321,
+  "en": "Swinging it back and forth",
+  "tr": ""
+ },
+ {
+  "id": 322,
+  "en": "Making it fall",
+  "tr": ""
+ },
+ {
+  "id": 400,
+  "en": "Kaito Momota",
+  "tr": ""
+ },
+ {
+  "id": 401,
+  "en": "Miu Iruma",
+  "tr": ""
+ },
+ {
+  "id": 402,
+  "en": "Keebo",
+  "tr": ""
+ },
+ {
+  "id": 410,
+  "en": "The afterlife",
+  "tr": ""
+ },
+ {
+  "id": 411,
+  "en": "The real world",
+  "tr": ""
+ },
+ {
+  "id": 412,
+  "en": "The Virtual World",
+  "tr": ""
+ },
+ {
+  "id": 420,
+  "en": "To divert attention",
+  "tr": ""
+ },
+ {
+  "id": 421,
+  "en": "It was misplaced",
+  "tr": ""
+ },
+ {
+  "id": 422,
+  "en": "Hidden evidence",
+  "tr": ""
+ },
+ {
+  "id": 430,
+  "en": "Mansion",
+  "tr": ""
+ },
+ {
+  "id": 431,
+  "en": "River",
+  "tr": ""
+ },
+ {
+  "id": 432,
+  "en": "Chapel",
+  "tr": ""
+ },
+ {
+  "id": 440,
+  "en": "Mansionside",
+  "tr": ""
+ },
+ {
+  "id": 441,
+  "en": "Transition point",
+  "tr": ""
+ },
+ {
+  "id": 442,
+  "en": "Chapelside",
+  "tr": ""
+ },
+ {
+  "id": 450,
+  "en": "Mansionside",
+  "tr": ""
+ },
+ {
+  "id": 451,
+  "en": "Transition point",
+  "tr": ""
+ },
+ {
+  "id": 452,
+  "en": "Chapelside",
+  "tr": ""
+ },
+ {
+  "id": 460,
+  "en": "Against the current",
+  "tr": ""
+ },
+ {
+  "id": 461,
+  "en": "With the current",
+  "tr": ""
+ },
+ {
+  "id": 500,
+  "en": "1",
+  "tr": ""
+ },
+ {
+  "id": 501,
+  "en": "2",
+  "tr": ""
+ },
+ {
+  "id": 502,
+  "en": "3",
+  "tr": ""
+ },
+ {
+  "id": 503,
+  "en": "4",
+  "tr": ""
+ },
+ {
+  "id": 510,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 511,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 520,
+  "en": "Himiko Yumeno",
+  "tr": ""
+ },
+ {
+  "id": 521,
+  "en": "Kokichi Oma",
+  "tr": ""
+ },
+ {
+  "id": 522,
+  "en": "A third party",
+  "tr": ""
+ },
+ {
+  "id": 600,
+  "en": "1",
+  "tr": ""
+ },
+ {
+  "id": 601,
+  "en": "2",
+  "tr": ""
+ },
+ {
+  "id": 602,
+  "en": "3",
+  "tr": ""
+ },
+ {
+  "id": 603,
+  "en": "4",
+  "tr": ""
+ },
+ {
+  "id": 610,
+  "en": "Survivor Perk Monopad",
+  "tr": ""
+ },
+ {
+  "id": 611,
+  "en": "Monokub Pad",
+  "tr": ""
+ },
+ {
+  "id": 612,
+  "en": "e-Handbook Monopad",
+  "tr": ""
+ },
+ {
+  "id": 620,
+  "en": "Library",
+  "tr": ""
+ },
+ {
+  "id": 621,
+  "en": "Hidden room",
+  "tr": ""
+ },
+ {
+  "id": 622,
+  "en": "Game room",
+  "tr": ""
+ },
+ {
+  "id": 630,
+  "en": "Victim",
+  "tr": ""
+ },
+ {
+  "id": 631,
+  "en": "Survivor",
+  "tr": ""
+ },
+ {
+  "id": 632,
+  "en": "Deceased",
+  "tr": ""
+ },
+ {
+  "id": 633,
+  "en": "Mastermind",
+  "tr": ""
+ },
+ {
+  "id": 640,
+  "en": "Despair",
+  "tr": ""
+ },
+ {
+  "id": 641,
+  "en": "Hope",
+  "tr": ""
+ },
+ {
+  "id": 900,
+  "en": "Victim",
+  "tr": ""
+ },
+ {
+  "id": 901,
+  "en": "Culprit",
+  "tr": ""
+ },
+ {
+  "id": 910,
+  "en": "Hajime Hinata",
+  "tr": ""
+ },
+ {
+  "id": 911,
+  "en": "Yasuhiro Hagakure",
+  "tr": ""
+ },
+ {
+  "id": 912,
+  "en": "Makoto Naegi",
+  "tr": ""
+ }
+]

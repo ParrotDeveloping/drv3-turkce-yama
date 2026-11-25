@@ -1,0 +1,57 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>These floorboards feel a bit unstable...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Oh... This floorboard got no nails in it.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Ah, really?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Yeah. Floorboard just resting on top of\n<CLT=cltSTRONG>crosspiece<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "I suppose it's not just my imagination.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "But each floorboard is thick and they got\nno gaps between them, so it look okay...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Gonta not worry about falling through\nfloor all of a sudden.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "But, it's pretty dark here...\nIt's a little hard to see where we're stepping.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "And in the corner, there's a hole in the floor,\nso it might not be good to go over there.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>It's really dim, so it's difficult\nto move around...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>I can see a gap in the corner.\nI should be careful...",
+  "tr": ""
+ }
+]

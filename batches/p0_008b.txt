@@ -1,0 +1,65 @@
+@ chap0_text_US
+## c00_008_100
+17|Ha? Ne demek istiyorsun?
+18|Bizi fidye için tutuyorlarsa böyle büyük\nbir tesise gerek olmazdı.
+19|Üstelik anladığım kadarıyla bize zarar\nvermektense bakmayı tercih ediyorlar.
+20|Bunun ışığında...bizi kaçıran suçluların\nasıl amacını anlayamıyorum.
+21|<CLT=cltMIND>Suçlular, ha...?
+22|<CLT=cltMIND>Bunu hiç düşünmemiştim bile.
+23|<CLT=cltMIND>Bizi kaçıranlar neden bu kadar zahmete\ngirsin ki?
+24|<CLT=cltMIND>Buraya on altı <CLT=cltSTRONG>Ultimate<CLT=cltMIND> öğrenci toplanmış...\nama neden? Sebebi ne?
+25|Affedersiniz...henüz kendimi tanıtmadım.
+26|Ben Kirumi Tojo, <CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL>.\nHizmetime ihtiyaç duyarsanız lütfen söyleyin.
+27|Vay... <CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL> çok havalı bir\nyetenek gibi geliyor.
+28|Ah, dur! K-Kirumi Tojo'yu duymuştum!
+29|İnanılmaz zekâ ve güce sahip, özel\nhizmetçi olarak çalışan bir Ultimate...
+30|İşinin o kadar kusursuz olduğunu duydum ki,\nkendisine verilen her isteği yerine getirebiliyormuş.
+31|Ne!? O kadar harika mı!?
+32|Lütfen, abartıyorsunuz... Benden istenen\n<CLT=cltSTRONG>her isteği yerine getirmem<CLT=cltNORMAL>.
+33|Bir keresinde rakip bir ulusu yok etmem istendi,\nama imkânsız olduğu için reddettim.
+34|<CLT=cltMIND>Ama...böyle bir şeyin istenmesi bile\nbaşlı başına etkileyici.
+35|Ayrıca birçok yabancı devlet adamına koruma\nolarak tutulduğunu da duydum...
+36|Ben sadece hizmetçi olarak çalıştırıldım,\nkoruma olarak değil.
+37|Ama bu kadar önemli insan tarafından tutuldun...\nSen resmen süper bir hizmetçisin!
+38|Konuyu değiştirelim... Şimdi ne yapmayı düşünüyorsunuz?
+39|B-Bu zor bir soru...\nŞey... Ne yapalım?
+40|Sen olsan ne yapardın, Kirumi?
+41|Dile getirecek bir fikrim ya da arzum\nyok.
+42|Bir hizmetçi olarak tek arzum başkalarının\narzularını yerine getirmektir.
+43|O yüzden lütfen kendiniz için ne istediğinizi\nve benden ne istediğinizi düşünün.
+44|Durum ne olursa olsun, ne olursa olsun,\nherkese hizmet etmek için buradayım.
+45|<CLT=cltMIND>Bu durumda bile başkalarını daha çok düşünüyor...\nEh, sonuçta o <CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltMIND>.
+46|<CLT=cltSYSTEM>Kirumi'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+47|Lütfen kendiniz için ne istediğinizi ve\nbenden ne istediğinizi düşünün.
+48|Durum ne olursa olsun, ne olursa olsun,\nherkese hizmet etmek için buradayım.
+49|<CLT=cltMIND>O kız da <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci olabilir.\nBelki gidip onunla konuşmalıyım...
+50|<CLT=cltMIND>O kız da <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci olabilir.\nBelki gidip onunla konuşmalıyım...
+55|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+56|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+57|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+58|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+59|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+60|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+61|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+62|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+63|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+64|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+65|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+66|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+67|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+68|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+69|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+70|<CLT=cltMIND>Odaya ihtiyaç duyacak kadar uzun süre \nburada kalmayı düşünmüyorum!
+71|<CLT=cltMIND>O kız da <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci olabilir.\nBelki gidip onunla konuşmalıyım...
+## c00_008_250
+0|<CLT=cltMIND>Kapıları açtığımızda bizi hemen \nkarşılayan şey...
+1|<CLT=cltMIND>Mavi gökyüzü.
+2|<CLT=cltMIND>Parlak güneş ışığı.
+3|<CLT=cltMIND>Hafif bir rüzgâr.
+4|<CLT=cltMIND>Ve—
+5|B-Bir kafes mi...? Bir duvar mı?
+6|<CLT=cltMIND>İki kelime de doğruydu.\nKarşımızda duran şey hem kafes hem duvardı.
+7|<CLT=cltMIND>Her halükârda o devasa duvar içimde\nkorkunç bir tel titretti.
+8|<CLT=cltMIND>Heybetli varlığını görmek bile içimde panik\ndalgaları uyandırmaya yetiyordu.
+9|<CLT=cltMIND>Nereye bakarsak bakalım—önümüze,\narkamıza, yukarıya ya da etrafa...
+10|<CLT=cltMIND>Kafes bütün <CLT=cltSTRONG>okulu<CLT=cltSTRONG> çevreliyordu.

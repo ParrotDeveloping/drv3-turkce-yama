@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_705_002
+36|Kendi <CLT=cltSTRONG>sağduyu<CLT=cltNORMAL> anlayışının doğru\nolduğundan neden bu kadar eminsin?
+38|<CLT=cltSTRONG>Ultimate Girişimi<CLT=cltNORMAL> bana <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>\nunvanını vermek için beni seçti.
+39|Ben hakiki olanım, devlet tarafından elle seçildim.\nSenin <CLT=cltSTRONG>sağduyun<CLT=cltNORMAL> buna ne diyor?
+41|Ama sen yüce lider olmadığımı düşünüyorsun, değil mi?\nÇünkü senin <CLT=cltSTRONG>sağduyun<CLT=cltNORMAL> öyle diyor.
+42|Komik... Senin <CLT=cltSTRONG>sağduyun<CLT=cltNORMAL> gerçekten diğer\nherkesin <CLT=cltSTRONG>sağduyusuna<CLT=cltNORMAL> o kadar benziyor mu?
+43|<CLT=cltSTRONG>Sağduyuna<CLT=cltNORMAL> dayanarak <CLT=cltSTRONG>doğru<CLT=cltNORMAL> olduğuna inandığın\nşey diğer herkes için de <CLT=cltSTRONG>doğru<CLT=cltNORMAL> mu?
+44|D-Dalga geçmeyi kes!
+45|Eyvaaah! Kaede bana bağırdı!
+46|N-Neyse, <CLT=cltSTRONG>Ultimate Girişimi<CLT=cltNORMAL> sana <CLT=cltSTRONG>Ultimate\nYalancı<CLT=cltNORMAL> unvanını vermeliydi!
+47|Nii-hihi... Belki de vermeliydi!\nSonuçta ben bir yalancıyım!
+48|Ama bunu sadece seni gerçekten önemsediğim\niçin söylediğimi biliyorsun, değil mi Kaede?
+49|Böyle düşünmeye devam edebilirsin ama işler istediğin\ngibi gitmeyince bana ağlayarak gelme.
+50|Sen kendi işine bak!\nVe senin ajanın olmayı reddediyorum!
+51|Yaaa, ne yazık.
+52|<CLT=cltMIND>Pek üzülmüş gibi gelmedi... Sırf insanlarla\nuğraşmak için ne kadar ileri gitmeye razı?
+54|<CLT=cltMIND>Kokichi'den ayrıldıktan sonra odama\ndöndüm.
+## c01_705_050
+0|Ö-Ölmek istemiyorum...ölmek istemiyorum...
+1|Yaşayacağım!
+5|<CLT=cltMIND>Kokichi iyi olacak mı?\nBelki yanında kalmalıyım...
+6|Ne? Benim için hayatını kurban etmeye mi\ngeldin, Kaede?
+7|Nii-hihi! Merak etme! Seni şimdi öldürmek sıkıcı\nolurdu, o yüzden öyle bir şey yapmayacağım!
+8|<CLT=cltMIND>Kokichi'nin aptalca bir şey yapmasını engellemeye\nçalışarak biraz vakit geçirdim...
+9|<CLT=cltMIND>Kokichi'yle bugün biraz daha yakınlaştık.
+## c01_705_051
+0|Kaede, tek başına etrafta dolaşmak tehlikeli,\nbiliyor musun?
+1|Dikkat et! Keebo elinde bıçakla tam\narkanda duruyor!
+2|...Bu tamamen bir yalandı.
+6|<CLT=cltMIND>Kokichi'yle vakit geçireyim mi?
+7|...Olabilir mi!? Bunca zaman beni\nöldürmeyi mi düşünüyordun?
+8|Aaaaaaaaaahhhhhhh!!!!! Biri yardım\neteeeesin!!! Beni öldürecek!!!
+9|<CLT=cltMIND>Kovalanmaktan keyif alıyor gibi görünen\nKokichi'nin peşinden koşarak biraz vakit geçirdim.
+10|<CLT=cltMIND>Kokichi'yle bugün biraz daha yakınlaştık.
+## c01_705_052
+0|Sence bu okul binasının pencerelerinde neden\nparmaklık var? Kaçamayalım diye mi?
+1|Ama avluya zaten girebiliyoruz...\nDikenli tel sadece süs mü?
+5|<CLT=cltMIND>Kokichi'yle vakit geçireyim mi?
+6|Hayır, sağ ol!
+7|...Şaka şaka!
+8|<CLT=cltMIND>Kokichi'nin yalanlarına kanarak biraz\nvakit geçirdim...
+9|<CLT=cltMIND>Kokichi'yle bugün biraz daha yakınlaştık.
+## c01_705_053
+0|Yarın gece gelince...ve hepimiz ölünce...
+1|Acaba Monokuma ne yapacak?
+2|Bitirecek mi...yoksa yenisini mi başlatacak...?
+6|<CLT=cltMIND>Kokichi'yle vakit geçireyim mi?
+7|Rahatla! Yakın zamanda ölmeyeceğim!
+8|Nii-hihi...
+9|<CLT=cltMIND>Kokichi'nin aptalca bir şey yapmasını engellemeye\nçalışarak biraz vakit geçirdim...
+10|<CLT=cltMIND>Kokichi'yle bugün biraz daha yakınlaştık.
+## c01_706_000
+0|<CLT=cltMIND>Korekiyo'ya hediye verme işlemi.
+4|<CLT=cltSYSTEM>Korekiyo'ya bir hediye vermek ister misin?
+9|Korekiyo Shinguji'nin sevgi seviyesi ARTTI
+10|Korekiyo Shinguji'nin sevgi seviyesi AZALDI

@@ -1,0 +1,117 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Two days from now, at the stroke of nighttime,\nthat's when the time limit expires...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Until then, I guess I'll check on the others.\nI'm a little worried about them...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>While at the academy, you will have\n<CLT=cltSTRONG>Free Time<CLT=cltSYSTEM> every now and then.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>During Free Time, you can spend time with other\nstudents to <CLT=cltSTRONG>strengthen your bond<CLT=cltSYSTEM> with them.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>You can also give them a <CLT=cltSTRONG>present<CLT=cltSYSTEM>\nto strengthen those bonds further.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>You can buy presents at the School Store or\nwin them at the <CLT=cltSTRONG>MonoMono Machine<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>If your bond gets strong enough, an\n<CLT=cltSTRONG>intimate event<CLT=cltSYSTEM> might occur. Nice!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>But you don't have Free Time forever.\nSpending time with someone passes...time.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>You can also end Free Time by going\nstraight to bed. By yourself, that is.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>I mean, I wouldn't skip it, but if\nyou'd rather be alone, that's cool too...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>I wish I had a big TV like this at my house.\nI'll ask Dad to get me one after I escape.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>I'll go see how everyone else is doing.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>That's a pretty large lamp...\nIt makes the room nice and bright.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Lost of uniforms identical to my own\nline the inside of the closet.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>They prepared everything just to keep us\ntrapped here...but why?",
+  "tr": ""
+ }
+]

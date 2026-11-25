@@ -1,0 +1,347 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>There's still some things I\nshould investigate here.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>A small window for ventilation.\nThis is...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>the same window from before.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>It's a small window, and it\ndoesn't open all the way.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>No one would be able to\nfit through here...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Hm, I suppose if someone *could* fit through,\nKaito would have escaped by now.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Perhaps it's too small for a person,\nbut an <CLT=cltSTRONG>object<CLT=cltMIND> could fit through.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Bathroom Window<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>A small window for ventilation.\nThis is...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>the same window from before.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>It's a small window, and it\ndoesn't open all the way.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>No one would be able to\nfit through here...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>Perhaps it's too small for a person,\nbut an <CLT=cltSTRONG>object<CLT=cltMIND> could fit through.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>A crossbow...?\nThis is...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>One of the crossbows from\nMaki's lab...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Why is this here...?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Crossbow<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Why is there a crossbow from\nMaki's lab here?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>Ah! This case...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Oh! What's in that black case over there?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>As if backing away from the conversation,\nKaito headed to the far shelf...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "What's in it? Is it some kinda weapon?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>This is the case from before...right?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Large Black Case<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>This case...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Oh! What's in that black case over there?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>As if backing away from the conversation,\nKaito headed to the far shelf...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "What's in it? Is it some kinda weapon?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>This is the case from before...right?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>There are arrows on the floor\nof the bathroom...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>Three in total.\nAnd...blood on all of them.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "What is this...?\nWhat happened here?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Three Arrows<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>There are arrows on the floor\nof the bathroom...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>Three in total.\nAnd...blood on all of them.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "What is this...?\nWhat happened here?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>There's a small bottle in the corner\nof the bathroom. It's empty...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...I feel like I've seen this before.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>The label has blood all over it,\nI can't read it completely...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>but I can see the word \"<CLT=cltSTRONG>poison<CLT=cltMIND>.\"",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>And if it is <CLT=cltSTRONG>poison<CLT=cltMIND>,\nthis bottle must be...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...taken from <CLT=cltSTRONG>my lab<CLT=typeNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>I don't know who brought this here...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>but it definitely has something\nto do with this case.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Small Empty Bottle<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>There's a small bottle in the corner\nof the bathroom. It's empty...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>The label has blood all over it,\nI can't read it completely...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>but I can see the word \"<CLT=cltSTRONG>poison<CLT=cltMIND>.\"",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>And if it is <CLT=cltSTRONG>poison<CLT=cltMIND>,\nthis bottle must be...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...taken from <CLT=cltSTRONG>my lab<CLT=typeNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>I don't know who brought this here...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>but it definitely has something\nto do with this case.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>A bloodstain...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>A puddle of blood in the center of the room,\nand a swipe pattern from there to the door.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "What could this mean...?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Bloodstain in the Bathroom<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>A puddle of blood in the center of the room,\nand a swipe pattern from there to the door.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "What could this mean...?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Alright...I've finished investigating\nthe bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>There were more clues than I thought\nthere'd be. And one is particularly concerning...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Why is the crossbow from Maki's\nlab in here?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>And the three bloody arrows...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>Those arrows are definitely for the\ncrossbow, but why are all three bloodied?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>And that bottle of poison, what\ncould that have been used for?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "There's still so much I don't know...\nThis case looks like it's going to be tricky.",
+  "tr": ""
+ }
+]

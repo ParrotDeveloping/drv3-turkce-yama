@@ -1,0 +1,382 @@
+[
+ {
+  "id": 0,
+  "en": "Shuichi, perfect timing.\nI wanted to talk to you about something.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Well, actually, it's more like I have a\nfavor to ask. A big favor.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "A big favor?\nThat makes me kind of nervous...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No, it's okay, it's nothing bad!\nI only ask because I trust you, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>You trust me?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Do you remember what\nyou told me before?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "That I'm not a bad brother, that I'm the\n<CLT=cltSTRONG>Ultimate Big Brother<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Honestly...it really surprised me.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I thought that if I told you about my\nsister, you would tell me to give up too.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "That's what anyone would say, right?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "But Shuichi, you...\nYou affirmed my feelings.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I was really surprised by that, but\nalso...really, really happy.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "So, thank you.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "There's no need to thank me, Rantaro,\nI was just being honest.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "No, please, let me say it.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Keeping all this stuff bottled up inside\nis just too stressful, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...Anyway, I guess I have a\nsister complex or something, huh?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Maybe my talent is\n<CLT=cltSTRONG>Ultimate Sister Complex<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...I don't really think that's a talent...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Hahaha, yeah, you're right!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Rantaro dazzled me with his smile.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>This wasn't his usual smile, the one\nhe puts on to separate himself from others.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>This was a genuine smile. In that way...\nI saw Rantaro smile for the first time.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "So, anyway!\nThe favor I want to ask you.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Detectives investigate runaways\nand missing people, right?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Yes, we do...\nAh, I see!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Haha, I knew you'd know\nwhat I was thinking!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I hereby officially request that the\n<CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL> search for my sister.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "You want me to find your little sister...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I feel like you're exactly what I\nneed. We can find her, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I'll do my best",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Are you sure? I'm not a real detective...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Ah, the travel expenses...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "What do you think? When we're outta here,\ndo you want to travel the world with me?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I'll do my best.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Yes! That's awesome! Thank you\nso much, I'm counting on you!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "B-But, I'm still an apprentice, you\nshouldn't rely on me too much...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Haha, come on, Shuichi,\nyou're makin' me nervous!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "It's alright, Shuichi. I promise, I'm\nnot relying on you *too* much.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "We're a team. We can help\neach other, right?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "If we stick together,\nwe can do anything!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Are you sure?\nI'm not a real detective...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You don't sound\nvery confident...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...I'm still an apprentice.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...So? That just means we're equal.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Equal?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I'm an apprentice <CLT=cltSTRONG>Ultimate Big Brother<CLT=cltNORMAL>!\nSo let's go, two apprentices, teaming up!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Between the two of us, we'd add up to\none pretty dependable person, right?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Ah...I suppose that's true. Okay.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Ah, the travel expenses...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>I can't even imagine how much it\nwould cost to travel around the world...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Oh, that's what you're worried about?\nDon't worry about that, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "If anything, consider it like...\nyour reward.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Ah, okay!\nThat would be plenty.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Well then, I look forward\nto working with you, partner.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Please, stay by my side...until the day I\nbecome a real <CLT=cltSTRONG>Ultimate Big Brother<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Of course I will, Rantaro.\nI look forward to it.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "As a detective, I promise to find your\nlittle sister and see you two reunited.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Two?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Oh! You must have misunderstood.\nI have *twelve* sisters.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...What?\nYou have...twelve sisters!?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Yeah. That story I told you, that was\njust my *youngest* sister.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "I mean, most of them are step-sisters,\nbut they're real sisters to me, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "In one way or another, I lost all\ntwelve of them, around the world...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I think it will take me a lifetime\nto reunite with all of them.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "A lifetime!?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Hey, you can't back out now!\nBesides, Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "I'd circle the globe with you as many times\nas it takes. Even if it was the rest of my life.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>When I get out of here, I'm going to travel\nthe world with Rantaro...maybe for a lifetime.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>I never expected this\nwould happen...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>But Rantaro trusts me.\nAnd I want to keep my promise.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>I want to keep this bond between\nme and Rantaro...forever.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltSYSTEM>Rantaro's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with him.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltSYSTEM>You've learned a new skill,\n<CLT=cltSTRONG>Viability<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>Rantaro and I spent the rest of\nthe day planning our next adventure.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,457 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Kaito? What's wrong?\nDo you have to go to the bathroom again?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "He's been like this, because of what happened.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "What's wrong? Are you not feeling well?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "No, I'm fine...\nMy stomach just hurts, is all...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Hey, for today's training, \ninstead of exercise...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "How about the three of us just talk?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...Hm?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Talk...? About what?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Stupid! Nobody decides what they talk \nabout before they start!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Well...let's go find somewhere to sit!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>Kaito picked a random spot in the courtyard,\nand we all sat down.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "So what are we gonna talk about?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...Didn't you just say we\ndidn't have to decide that?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "C-C'mon man, that was...just a joke.\nUmmm...ah right! Then...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Let's talk about Maki.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...Me? What about me?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Y'know, like, general stuff about you.\nThere's a lotta stuff we don't know.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "For example...what blood type do you like?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "What blood type do I like?\nDon't you mean...what's my blood type?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hm? Did I say something weird?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Well, whatever!\nAhahahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Kaito...you're kind of bad at this...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Th-Then you ask something!\nWhat's your question for her, huh!?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...Am I like a guinea pig to you guys?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Well, I *have* been meaning to ask...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "When we first met, you said you were the\n<CLT=cltSTRONG>Ultimate Child Caregiver<CLT=cltNORMAL>. Why was that?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Shuichi, that's way too direct! You \ncan't just cut to the chase like that!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Ah, really? Sorry...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Alright then! Let's play it safe and \nask about her favorite spaceship—",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I grew up in an orphanage.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Hm?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I don't know anything about my parents...\nThey were gone before I can remember.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Maki slowly began to tell us her story.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "At the orphanage where I lived, the older\nkids had to take care of the younger ones.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Because of that, I started looking after\nthe younger ones.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I see... So that wasn't a lie, then.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "For some reason...kids like me. But I'm not\nparticularly fond of taking care of them.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Maybe that suits you better than being\nan assassin.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "It's not a matter of whether it suits me or not.\nI never had the <CLT=cltSTRONG>right to choose<CLT=cltNORMAL> from the start.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "The right to choose?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "When I was around 10 years old, these strangers\nstarted visiting the orphanage...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "At first, they seemed like normal, kind men...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "With smiles on their faces, they watched the\nkids play. But the men never approached them...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Thinking back on it, I'm sure they were\nscoping out our talents.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "They were scouting for assassins?\nAnd that's why you were picked?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I didn't want to go, but I heard they would\ndonate a huge sum of money if I did...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I remember thinking that I had to go.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But...that was the beginning of hell.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Ever since that day, I trained to become\nan assassin.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "I think I had some natural talent to begin\nwith, but I worked incredibly hard as well.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "If I couldn't keep up as an assassin, the\norphanage would no longer receive funding...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "And then, I wouldn't have a purpose in life\nanymore.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Training was difficult. I vomited every\nday...and cried every night.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "But after vomiting and crying over and over\nagain, my heart gradually became empty.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Eventually...I got used to it.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "It was the same after my first job.\nFor a while, I couldn't eat or sleep.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "But after doing this for such a long time, \nI felt numb.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "There were times I wondered why I had\nto kill these strangers...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "But I eventually stopped thinking about that.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "I adapted to the lifestyle...of killing\npeople...of stealing their lives...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "And...of being a horrible person.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Even to this day, I think the same thing\nafter I finish a mission...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "...What is it?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "What would I have been like if I stayed\nat the orphanage?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "I still think about that...all the time.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Maki sighed deeply after \nbaring her soul.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "...That's all. It wasn't an interesting story\nto listen to, was it?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "\"Interesting\"? No, Maki, that was...\nThe burden you've been carrying all this—",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Geez. You're carrying too many burdens\nfor someone so small.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Well, I could say the same to Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Really?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Don't try to shoulder everything on your own.\nYou gotta trust other people.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Once you're able to share your burdens with\nyour friends, then you'll be stronger.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Well, if Maki Roll was able to talk this much,\nit means she's gotten a bit stronger already.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "...It might be thanks to the training.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Well, obviously!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "My training is based on a systematic method!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "That's...kind of vague.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>We spent a long while talking about\nwhatever came to our minds.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>Most of it was meaningless\nconversation, but...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>It might have been the first time I was able\nto actually have fun and forget this place.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>To protect my friends...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>I need to reveal the truth of\nthis academy.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>I need to face the truth and\nreveal it to the world.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>I have to...to keep my friends alive.",
+  "tr": ""
+ }
+]

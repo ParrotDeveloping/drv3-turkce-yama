@@ -1,0 +1,50 @@
+@ chap1_text_US
+## c01_037_019
+153|<CLT=cltMIND>Diğer odalarda üstüne çıkabileceğim\nbir şey olabilir...
+154|<CLT=cltMIND>Ama şimdilik burada bir şey bulabilecek\nmiyim bakalım.
+155|<CLT=cltMIND>Şey...üstüne çıkarsam bunun kırılacağından\neminim.
+156|<CLT=cltMIND>O bölgeyi incelemek istiyorsam üstüne\nçıkacak bir şeye ihtiyacım var...
+## c01_038_004
+0|Şimdi beynin kendini göstermesini\nbekliyoruz...
+1|Daha biraz vakit var...\nBirini görmeye gitmek ister misin?
+2|Hayır, plana odaklanmayı tercih ederim. Hem\neminim herkes güvendedir.
+3|Ayrıca buradan çıkınca onları görmek için\ndünya kadar vaktim olacak.
+4|Bu doğru...\nEh, sınıfa gidelim.
+5|Yapabileceğimizi yaptık.\nSınıfa gidelim.
+6|Yapabileceğimizi yaptık.\nSınıfa gidelim.
+7|<CLT=cltMIND>Demek bu kanal merdivenlerin yanındaki\nsınıftan kütüphaneye bağlanıyor...
+## c01_039_017
+1|<CLT=cltMIND>Sınıfa girer girmez birden bir kaygı\ndalgası beni sardı.
+2|<CLT=cltMIND>Kalbim her an göğsümden fırlayacak\ngibiydi.
+3|...Kapıyı biraz aralık bırakalım.\nBöylece bodruma inen herkesi görebiliriz.
+5|Ah...Kaede?\nŞey...güvenlik sensörü alıcısı...
+6|Onu sen tutabilir misin, lütfen? Sadece...\nbuna benden daha uygun olduğunu hissediyorum.
+7|Ah, üstünde bir güç düğmesi var.\nYanlışlıkla kapatmamaya dikkat et.
+8|Hayır...onu sen tut, Shuichi.
+9|Bu planı bulan sensin...\nVe...sana güveniyorum.
+10|Ayrıca, Shuichi...
+11|Az önce bir konuda <CLT=cltSTRONG>benim senden daha iyi\nolduğumu<CLT=cltNORMAL> söyledin. Neden hep böyle şeyler söylüyorsun?
+13|Sanırım biraz vaktimiz kalması iyi, çünkü\nseninle bunu konuşmak istiyordum.
+14|Benimle konuşmak mı...?
+15|Muhtemelen beni ilgilendirmez ama...\nbence daha özgüvenli olmalısın.
+16|Özellikle de <CLT=cltSTRONG>Ultimate Girişimi<CLT=cltNORMAL> seni\n<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL> olarak seçtiğine göre.
+17|Hayır, gerçekten, ben...<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL> olmamalıyım.\nBen...gerçek bir dedektif bile değilim.
+19|...Aslında dedektif olmayı bile\ngerçekten istememiştim.
+20|Amcamın bir dedektiflik bürosu var...\nBazen çırak olarak ona yardım ederdim.
+21|Genelde sadece...aldatan çiftler...\ngeçmiş araştırmaları...
+22|Ama bir gün tamamen tesadüfen bir cinayet\ndavasıyla karşılaştım...
+23|Onu polisten önce çözdüm. Bana\n"<CLT=cltSTRONG>dedektif çocuk<CLT=cltNORMAL>" dediler.
+24|İşte o zaman <CLT=cltSTRONG>Ultimate Girişimi<CLT=cltNORMAL> beni\nkeşfetti... Gerçi sadece bir dava çözmüştüm...
+25|Yine de bir cinayet davası çözmüş olman\ninanılmaz. Çoğu insan bunu yapamaz.
+26|...Merak ediyorum.
+27|Merak ediyorum da, şey...\no davayı çözmem gerçekten iyi bir şey miydi.
+28|Onu yakaladığımızdaki yüz ifadesi...\nHâlâ, şimdi bile gözümün önünde.
+29|Bana bakıyordu...sanki dünyadaki her şeyden\ndaha çok benden nefret ediyormuş gibi.
+30|Sonra duydum ki...kurbanı ailesinin\nintikamını almak için öldürmüş.
+31|Kurban zalim biriymiş... Suçlunun bir\nakrabasını intihara sürüklemiş.
+32|İnsanlar bana...suçlunun yaptığında haklı\nolduğunu söyledi. Kurban bunu hak etmiş.
+33|Ama polisi doğrudan ona ben götürdüm...\nTabii ki benden nefret etti...
+34|Taraf tutmuş değilsin ki... Gerçeği ortaya\nçıkardın—dedektifler bunu yapar, değil mi?
+35|Evet...gerçeği ortaya çıkardım.
+36|Bu da onu benim suçum yapıyor.\nVe hâlâ bunun bedelini çekiyorum.
+37|O tek...aptal davadan beri...\ngerçeği ortaya çıkarmaktan çok korkuyorum.

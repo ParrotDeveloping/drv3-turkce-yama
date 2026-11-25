@@ -1,0 +1,65 @@
+@ chap1_text_US
+## c01_205_000
+75|Lütfen bize sadece ne olduğunu anlatın.
+76|Suçlu o grubun içindeyse en şüpheli\nMaki olmaz mı?
+77|Şuna bir bakın—kesinlikle birini\nöldürebilir.
+78|Aptallığı kes. Suçlu pekâlâ herhangi biri\nolabilir...mesela Kaito.
+79|N-Ne diyorsun sen!?\nSuçlu olmamın imkânı yok!
+80|Suçlu kim!? Kim!?!?
+81|Gonta centilmen!\nCentilmenler insanları incitmez!
+82|B-Ben de değilim... \nCinayet çok fazla zahmetli geliyor.
+83|Benim mazeretim var!
+84|Suçlu kim, Allah aşkına!?
+85|Sakinleşmemiz lazım! Herkes aynı anda\nkonuşursa hiçbir şeyi tartışamayız!
+86|...Sorun yok, Kaede. Sadece <CLT=cltSTRONG>herkesin\nifadesini dinlememiz<CLT=cltNORMAL> lazım.
+87|Bunu yapabilirsin, değil mi?
+88|<CLT=cltMIND>Herkesin ifadesini dinlemek mi?
+89|<CLT=cltMIND>Doğru... Birbirlerinin üstüne konuşurken\nherkesin sesini ayırt edebilirim!
+90|Ben sadece davet edildiğim için gittim. Neden\nbeni davet eden şüpheli tipe sormuyorsunuz?
+91|Ne!? Beni mi diyorsun!?\nAma ben olmadığımı az önce söyledim!
+92|Suçu üstüme atmayın! Sizi yoz erkekler ve\nsizin...atmalarınız! Iyy!
+93|Ben kötü kız değilim, gerçekten...\nİnanmıyorsanız anneme sorun.
+94|Gerçekten, mazeretim var!
+95|Suçlu ben değilim!!!
+96|Ben de suçlu değilim.
+97|Ben de suçlu değilim.
+## c01_206_000
+0|N-Ne diyorsun sen!?\nSuçlu olmamın hiçbir imkânı yok!
+2|<CLT=cltMIND>Farklı sesler kafamı karıştırıyor...\nama Kaito'nun ifadesi şüpheliydi, değil mi?
+3|<CLT=cltMIND>Toplantının ortasında kim çıktı?\nMaki biliyor olmalı!
+4|<CLT=cltMIND>Farklı sesler kafamı karıştırıyor...\nama Kaito'nun ifadesi şüpheliydi, değil mi?
+5|<CLT=cltMIND>Sakin kalıp herkesin kendine özgü sesini\ndinlediğim sürece sorun olmaz!
+6|<CLT=cltMIND>Farklı sesler kafamı karıştırıyor... \nama Kaito'nun ifadesi şüpheliydi, değil mi?
+7|<CLT=cltMIND>Sakin kalıp herkesin kendine özgü sesini\ndinlediğim sürece sorun olmaz!
+## c01_206_001
+0|<CLT=size2>Ben<CLT=size1> zerre kadar
+1|bile <CLT=size2>şüpheli değilim.
+2|Ben zerre kadar bile şüpheli değilim.
+3|Peki\n<CLT=size1>hepimizi\n<CLT=size2>bodrumda\n<CLT=size1>isteyen o\n<CLT=size2>tip?
+4|Peki hepimizi bodrumda \nisteyen o tip?
+5|Ne!? \nBenden mi\n<CLT=size2>bahsediyorsun!?
+6|Ne!?\nBenden mi bahsediyorsun!?
+7|Birlikte\nbir <CLT=size2>strateji\ntoplantısı<CLT=size1>\nyapıyorduk,\nhatırladın mı!?
+8|Birlikte bir strateji toplantısı yapıyorduk, hatırladın mı!?
+9|<CLT=size2><CLT=cltWEAK>Ortasında\n<CLT=cltNORMAL><CLT=size1>çıkan tek kişi\nRantaro'ydu...
+10|Ortasında çıkan kişi Rantaro'ydu...
+11|Oradakilerin <CLT=size2>hiçbiri<CLT=size1>\nonu öldüremezdi!
+12|Oradakilerin hiçbiri\nonu öldüremezdi!
+## c01_206_002
+0|Size <CLT=size2>masumiyetimi<CLT=size1>\n<CLT=size2>kanıtlayacağım<CLT=size1>\n!
+1|Size masumiyetimi kanıtlayacağım!
+2|Bir düşmana\n<CLT=size2>asla
+3|Bir düşmana asla arkadan yumruk atmam!
+4|arkadan yumruk\n<CLT=size2>atmam!
+5|Gerçek bir Aikido ustası\n<CLT=size2>asla<CLT=size1> böyle onursuz\nbir şey <CLT=size2>yapmaz!
+6|Gerçek bir Aikido ustası asla böyle onursuz bir şey yapmaz!
+7|Aikido'da <CLT=size2>yumruk<CLT=size1>\nserbest mi!?
+8|Aikido'da yumruk\nserbest mi!?
+9|Evet! <CLT=size2>Neo-Aikido<CLT=size1>
+10|Evet! Neo-Aikido'da tahta kılıç bile kullanılır!
+11|tahta kılıç bile kullanılır!
+12|Tek <CLT=size2>kanıtladığın<CLT=size1>\n<CLT=size2>aptal<CLT=size1> olduğun.
+13|Tek kanıtladığın aptal olduğun.
+## c01_206_003
+0|Benim <CLT=size2>mazeretim var.
+1|Benim mazeretim var.

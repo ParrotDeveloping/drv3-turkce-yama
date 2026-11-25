@@ -1,0 +1,65 @@
+@ chap1_text_US
+## c01_707_000
+10|K1-B0'ın sevgi seviyesi AZALDI
+14|<CLT=cltSYSTEM>K1-B0'a hediye vermek istemediğinden\nemin misin?
+## c01_707_001
+0|Benimle konuşmaya geldiysen...bu ancak benimle\nilgilendiğin anlamına gelir, değil mi Kaede?
+1|Benim için hiç sakıncası yok. Sonuçta ben\n<CLT=cltSTRONG>Ultimate Robot<CLT=cltNORMAL>um.
+2|Doğal olarak ilgi çekerim.
+3|Evet, daha önce hiç bu kadar insana benzeyen\nbir robotla konuşmadım... Hatta hiçbir robotla.
+4|Hey, sakıncası yoksa... Sana bir soru\nsorabilir miyim?
+5|Elbette, bana ne istersen sor.
+6|Ah, ama beni yaratmakta kullanılan teknolojiyle\nilgili sorulara cevap veremem.
+7|Merak etme, çok zor bir şey sormayacağım!\nTamam, ilk soru...geceleri uyur musun?
+8|Uykuya ihtiyacım yok. Ancak güç hücrelerimi\nşarj etmem gerekiyor.
+9|Ah, demek şarj oluyorsun!
+10|Evet ama şarj olurken hâlâ bilincim yerinde,\no yüzden insan uykusuyla tam olarak aynı değil...
+11|Tek bir şarj bir haftalık güç üretiyor,\no yüzden çok sık yapmam gerekmiyor.
+12|Ooo, bir hafta, anlıyorum... Robotların hep çok\nelektrik gerektirdiğini varsayardım.
+13|İşte benim inanılmaz yanım bu!\nEnerji verimliliğim gerçekten eşsiz!
+15|...Bu kadar mı?
+16|<CLT=cltMIND>Ha? Daha çok heyecanlanmamı mı bekliyordu?\nDürüst olmak gerekirse *o kadar* da muhteşem değil...
+17|O zaman sana başka bir soru sorabilir miyim?
+18|Yemek yer misin?
+19|Kızlardan hoşlanır mısın?
+20|Robot süpürgeler hakkında ne düşünüyorsun?
+22|Evet, buyur...
+23|Yemek yer misin?
+25|Hayır...
+26|<CLT=cltMIND>Ha? Epey morali bozuk görünüyor...
+27|Pardon, yanlış bir şey mi söyledim?
+28|Hayır, ben de özür dilerim...
+29|Yemek yiyemesem de yemekler bana yine de lezzetli\ngörünüyor. Bu adaletsizlik canımı yakıyor...
+30|Evet, bu epey zor görünüyor.
+31|Kızlardan hoşlanır mısın?
+33|İnsan kızlarından mı hoşlanıyorsun?\nYoksa dişi robotları mı tercih edersin?
+34|Robotların kendi türleriyle kalması gerektiğini\nmi...ima ediyorsun?
+35|Öyle demek istemedim!\nSadece merak ettim! Dürüstçe!
+36|O zaman...diyorsun ki...sen...ve ben...?
+37|B-Bu da değil!
+38|...Tabii ki. Aşırı kendimle meşgul olduğum\niçin özür dilerim.
+39|Hiç romantik bir çekim hissetmedim, o yüzden\nbu konudaki sorulara cevap veremem.
+40|Robot süpürgeler hakkında ne düşünüyorsun?
+41|Yani...yerde kayıp giden disk şeklindeki\ntemizlik robotunu mu?
+42|Evet, o! Onları küçük kardeşlerin falan\ngibi mi görüyorsun?
+43|...Kaede, robotların sadece temizliğe yaradığını\nima etmek çok robotfobik bir davranış.
+44|O basit makineden tamamen farklı\nolduğumu bilmelisin.
+45|Ama aşağı yukarı temelde aynısınız...\no yüzden sadece merak ettim.
+46|Bunun önemi yok. Ben bir insanla kıyaslanabiliyorsam\no şey ancak bir mikropla kıyaslanabilir.
+47|Ama robot süpürgelerle kıyaslayınca popülerlik\nkonusunda kaybediyorsun.
+48|Yahu, bu—!
+49|Şaka yapıyorum! Gerçekten!
+50|Krgh...! İnsan şakaları epey can sıkıcı...!
+51|<CLT=cltMIND>Keebo'ya soru sormaya devam ettim...
+52|Eh, hepsi bu kadar!\nCevapladığın için teşekkürler, Keebo!
+53|Evet, tabii ki...
+54|Bana arka arkaya bu kadar çok soru soran\nilk kişisin.
+55|Ah! Fazla mı ileri gittim?
+56|Hayır, öyle demek istemedim.\nSadece düşündüm ki...
+57|...böyle muamele görmek o kadar da kötü değil.\nAslında...biraz eğlenceli.
+58|<CLT=cltSYSTEM>K1-B0'ın <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+59|<CLT=cltMIND>Keebo'dan ayrıldıktan sonra odama\ndöndüm.
+## c01_707_002
+0|<CLT=cltMIND>Bugün yine Keebo'yla sohbet ediyorum ama...
+1|...Kaede, seni rahatsız eden bir şey mi var?
+2|H-Hayır! Bir şey yok.

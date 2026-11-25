@@ -1,0 +1,97 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Debug Choices",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Opening",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Skip Opening",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Ending",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "To Ainori",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Kokoronpa or Nighttime",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Each characters' ending",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "With Nighttime",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Without Nighttime",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>With or Without Nighttime",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Kokoronpa",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Nighttime",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>Kokoronpa or Nighttime",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "True",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Forever Alone",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Are you worried about something?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltSYSTEM>Which would you like to see?",
+  "tr": ""
+ }
+]

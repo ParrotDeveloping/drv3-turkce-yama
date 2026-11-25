@@ -1,0 +1,232 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=size2>I, of course,\n<CLT=size1>am not the <CLT=size2>criminal.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I, of course, am not the criminal.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "The <CLT=size1>crime<CLT=size1> was committed at <CLT=size2>nighttime...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "The crime was committed at nighttime...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "and <CLT=size2>you<CLT=size1>",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "And you don't have an alibi, do you?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "have no <CLT=size2>alibi,<CLT=size1> do you?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "An\n<CLT=size2>alibi\n<CLT=size1>for\n<CLT=size2>nighttime?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "An alibi for nighttime?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I believe\n<CLT=size2><CLT=cltWEAK>most<CLT=size1> of <CLT=size2>us\ndo not\nhave one<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I believe most of us do not have one.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=size2>I...I have",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I...I have evidence that proves you're the culprit...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltAGREE><CLT=size2>evidence\nthat proves",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "you're the <CLT=size2>c-culprit...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Do you think\nwe would",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Do you think we would fall for such nonsense?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "fall for such\n<CLT=size2>nonsense?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "The <CLT=size2>trick<CLT=size1> relied on",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "The trick relied on complex mechanisms\nto work...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=size2>complex mechanisms<CLT=size1> to work...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "But <CLT=cltAGREE>someone like <CLT=size2>you",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "But someone like you could be skilled enough to pull it off.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltAGREE>could be\n<CLT=size2>skilled\n<CLT=size2>enough\n<CLT=cltNORMAL><CLT=size1>to pull it off.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=size2>Preposterous.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Preposterous. That could have been done by anyone.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "That <CLT=cltWEAK><CLT=size2>could<CLT=size1> have been done by <CLT=size2>anyone<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=size2>Kirumi<CLT=size1> is thin and\nhas a <CLT=size2>nice body...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Kirumi is thin and has a nice body...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "She and Ryoma could've\n<CLT=cltAGREE><CLT=size2>totally shared\n<CLT=cltNORMAL><CLT=size1>an inner tube!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "She and Ryoma could've totally shared an inner tube!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "We all <CLT=size3>could have,\n<CLT=size1>except perhaps Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "We all could have, except perhaps Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Really...?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "How suspicious!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "That's a lie!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Gonta not believe that...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Hm...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Yeah! Give us an alibi!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "She has a point...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "She does?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "That stutter's not convincing...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Kirumi does have the skill...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Is it really possible for anyone?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "So am I!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I could do that, too!",
+  "tr": ""
+ }
+]

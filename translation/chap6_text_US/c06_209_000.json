@@ -1,0 +1,442 @@
+[
+ {
+  "id": 0,
+  "en": "The mastermind saw what was happening in\nthe library. They had <CLT=cltSTRONG>surveillance cameras<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...SURVEILLANCE-CAMERAS?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Wh-What...? Where would...somethin'\nlike that be?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "...You don't know, even though they're\n<CLT=cltSTRONG>Monokubs<CLT=cltNORMAL> just like you?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Eh? Monokubs?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...I mean these.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Ohhh... So cute and tiny.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...Aren't they? They're your siblings, too.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "That's a big reveal to drop so casually!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "These little guys are called Nanokumas.\nTheir job is to monitor the campus.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "HOW-DO-YOU-KNOW-THAT...?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Oh, Father told me! He said to make\nsure I told everyone!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I had completely forgotten about it.\nGood thing I just remembered!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Dumbass! You remembered too late!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "There are countless Nanokumas buzzing\nall over the campus.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "All the footage they record is wirelessly\n<CLT=cltSTRONG>transmitted through Motherkuma<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "and then sent to Monokuma.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Yes, via Motherkuma. That's an important point.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "If Motherkuma receives the camera feeds,\nthe mastermind could ask it anything.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "They would know about the situation\nin the library and the hidden room.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I see! Motherkuma can tell them the\ninterval timers for the cameras!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Then the mastermind was in the hidden room\nafter they stole the Monopad from Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "But why would they steal the Monopad?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "The mastermind was probably terrified by\nthe idea of us picking up Rantaro's perk.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "No, that's wrong!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>...What?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I wasn't necessarily afraid...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "The Survivor Perk was for Rantaro's eyes only.\nSure, he could've shared the info with you...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "But that's not the same as getting the\ninfo directly from the Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Cuz then, you can't say it was a Survivor\nPerk for Rantaro's eyes only, right?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "So when he died, I took it back.\nThat's all.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "...I don't know about that.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Hm? How do you figure?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "You look calm now...but at the time, you\nmust have been pretty desperate.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "The Monopad clearly stated that there was\na <CLT=cltSTRONG>mastermind in the academy<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "If we knew then that a mastermind was behind\neverything, we would have worked together.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "But you couldn't let that happen.\nYou needed us to go after each other.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Either way, you admit the mastermind stole\nthe Monopad, right?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Well, yes... But only reluctantly.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Then the mastermind messed up!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "If they wanted to retrieve the Monopad, \nthey shoulda used Monokuma to do it!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Nope, that's impossible.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "The rules state <CLT=cltSTRONG>I can't participate in a murder<CLT=cltNORMAL>,\nwhich includes tampering with the crime scene.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>The school rules...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "If you're so strict about following the rules,\ndoes that mean that someone is watching?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "If that's the case—",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Still, what a waste of a Survivor Perk!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "If only he lived a little longer, then this\ninfo would've made things interesting!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Nyeh! Stop changing the subject!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>I still don't have the whole picture...\nbut it seems that we're all being watched.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>In that case...\nthis plan should go well.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>If I ruin this killing game by proving\nthat it doesn't follow its own rules...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>I should be able to\nend the whole thing!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "But the point of this class trial is to\ndiscuss Rantaro's case, right?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "The mastermind stealing his Survivor Perk\nshouldn't affect it whatsoever.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "In the end, Kaede killed him...\nThere's no shaking off that truth.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Yeah, yeah!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "One truth prevails!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "No, that's not the truth.\nI'm certain of that.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "It's a <CLT=cltSTRONG>lie<CLT=cltNORMAL> that you made up.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...Me? Lie?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "That's right! Kaede wasn't the one who\nkilled Rantaro! The true culprit is...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Monokubs",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "The Monokubs!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Whaaat!? Us again!?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "That can't be true! We're not allowed to\nparticipate in a murder!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Monokuma",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Monokuma!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "I can't interfere! Cuz of the school rules\nand all that jazz!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Mastermind",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Rantaro",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "It was Rantaro himself...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Huh? But Rantaro died cuz of Kaede's trap.\nTherefore, the culprit is Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "There's no doubt that Kaede was the\nculprit...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>The real culprit that killed Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "...the <CLT=cltSTRONG>mastermind<CLT=cltNORMAL> controlling Monokuma!\nThey're the one who killed Rantaro!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "The mastermind is the culprit!?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Geez... And you call yourself the Ultimate\nDetective?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Tryin' to overturn the results of the first\nclass trial...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "The Monokubs won't be silent about this!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Whaaat!? Us again!?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "But we said we don't know!",
+  "tr": ""
+ }
+]

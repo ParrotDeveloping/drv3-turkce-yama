@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "I wonder...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Why were the <CLT=cltSTRONG>Gofer Project<CLT=cltNORMAL> documents\nin Kaito's research lab?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Should I hang out with Maki for a while?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Monokuma must've put them there for a reason...\nI have a bad feeling about this...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Hey, is there anything else we missed...?\nWe should check again.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Maki and I investigated Kaito's\nlab one more time...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Maki and I grew a little closer today.",
+  "tr": ""
+ }
+]

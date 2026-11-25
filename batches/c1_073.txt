@@ -1,0 +1,52 @@
+@ chap1_text_US
+## c01_104_015
+125|...Kaede, iyi misin?
+126|Neden...? Neden fotoğraflarda değil?
+127|Bu fotoğraflarda beyin olsaydı her şey\nçözülürdü...
+128|Peki...neden lanet olsun—!?
+130|Pekala! Hepinizin beklediği şeyin vakti geldi—\nsınıf duruşması!
+131|Lütfen avludaki <CLT=cltSTRONG>Yargı Tapınağı<CLT=cltNORMAL>'nın\nönünde toplanın!
+132|Bitkilerle çevrili o kırmızı kapıyı hatırlıyor\nmusunuz? Hemen öbür tarafında.
+133|Oradan keyifli bir sınıf duruşmasına\ngötürüleceksiniz!
+134|Puhuhuhu! Orada görüşürüz!
+135|V-Vakit geldi mi bile...!?
+136|Görünüşe göre bu tartışmaya sınıf duruşmasında\ndevam etmekten başka çaremiz yok.
+137|*iç çeker* Gitmek istemiyorum...
+138|Ben de... Ne zahmet...
+139|Hah-haha! Ne o, korktun mu!? Senin gibi\nbir NPC'nin korkacak hiçbir şeyi yok!
+140|S-Sorun yok... Sadece...sırtım duvara\ndayanmış gibi hissediyorum.
+141|Sadece bu sınıf duruşmasında beyni ortaya\nçıkarmamız lazım!
+142|O zaman bu ölüm oyunu dahil\nher şey...sona erecek.
+143|Evet, doğru.
+144|Hadi bu beyni bulalım! Erkekse onu\ndövüp öldürelim!
+145|Dövüp öldürmek biraz fazla değil mi?
+146|<CLT=cltMIND>Herkes Monokuma'nın talimatlarına uyup\navluya doğru yürüdü.
+147|Kaede, gerçekten, iyi misin...?
+148|Pardon, seni endişelendirmek istemedim.\nSadece çok şoktayım...
+149|Fotoğraflara bakınca her şeyin çözüleceğini\ngerçekten düşünmüştüm...
+150|<CLT=cltMIND>Ama...pes edemem.
+151|<CLT=cltMIND>Bu sınıf duruşmasında beyni hâlâ\nortaya çıkarabilirim.
+152|<CLT=cltMIND>O zaman her şey, bu ölüm oyunu bile...\nsona erecek.
+153|Artık iyiyim, Shuichi.
+154|Hadi gidelim! Avludaki kırmızı kapı,\ndeğil mi?
+155|Acele edelim, Shuichi! Avludaki kırmızı\nkapı.
+156|Evet... Herkes bizden önce gitti,\nacele edelim.
+161|<CLT=cltMIND>Bu ekran süre sınırının durdurulmuş\ngeri sayımını gösteriyor...
+162|<CLT=cltMIND>Geri sayım durunca o sinir bozucu ses\nde kesildi.
+## c01_105_001,c01_105_250
+0|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+1|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+2|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+3|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+4|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+5|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+6|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+7|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+8|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+9|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+## c01_105_001
+10|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+11|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+12|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+13|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?
+14|<CLT=cltMIND>Avludaki kırmızı kapı, değil mi?

@@ -1,0 +1,61 @@
+@ chap0_text_US
+## c00_007_010
+57|Ooohh! Aikido ustalarını hep iri yarı,\nkaslı adamlar olarak hayal ederdim, ama sen çok tatlısın!
+58|T-Tatlı mı!?
+59|Aaaahhh... K-Kes şunuuu...\nB-B-Ben...tatlı...değilim...
+60|Milkshake içerken yüzüm buruşuyor... Yüzümü\nsilince de göz kapaklarım ters dönüyor.
+61|Ş-Şey, anlıyorum... Ama bence tatlısın.\nDeğil mi, Shuichi?
+62|...Ha? Ah...evet.
+64|N-Ne oldu?\nYüz ifaden birden çok sertleşti!
+65|Yoz erkekler tarafından övülmekten hoşlanmam.
+66|Yoz erkekler mi? Yani erkekler mi?\nOnların yanında...rahatsız mı oluyorsun?
+67|Bu rahatsız olmaktan çok daha büyük\nbir sorun.
+68|Bir yoz bana dokunmaya kalkarsa refleksim\nonu tutup odanın öbür ucuna fırlatmak olur.
+69|Haklısın... Bu, erkeklerin yanında rahatsız\nolmaktan çok daha büyük bir sorun.
+70|Ah, bu arada...bahsettiğin şu\n<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> ne?
+71|<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>, ustamla tamamen kendi\nuydurduğumuz özgün bir aikido türü!
+72|<CLT=cltMIND>Yani...aikidonu tamamen kendi kendine öğrenmişsin.
+73|<CLT=cltSYSTEM>Tenko'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+74|HAAAAYAAAAAAHHH!!!!!
+75|HRRRROOOOOOOOOOOOOAH!!!!!
+76|Tanrım, çok gürültücü...\nShuichi, yanında yapıştırıcı var mı?
+77|Ah, ne düşündüğünü biliyorum...\nama muhtemelen yapmamalıyız.
+78|<CLT=cltMIND>Acaba o ikisi de mi <CLT=cltSTRONG>Ultimate<CLT=cltMIND>\nöğrenci? Onlara sormalıyız.
+83|<CLT=cltMIND>Acaba o ikisi de mi <CLT=cltSTRONG>Ultimate<CLT=cltMIND>\nöğrenci? Onlara sormalıyız.
+85|<CLT=cltMIND>Bu yemekhanenin kurallarına benziyor.
+86|<CLT=cltSYSTEM>"Yemekhane Kuralları"
+87|<CLT=cltSYSTEM>"Yemekhanede bulduğunuz her\nyiyeceği yiyebilirsiniz."
+88|<CLT=cltSYSTEM>"Kullandığınız bütün çatal bıçak ve tabakların\nsorumluluğunu alın ve arkanızı toplayın."
+89|<CLT=cltSYSTEM>"Yemekhane gece vakti\nkilitlenecektir."
+90|<CLT=cltMIND>Gece vakti mi? Yani...geceleri kapalı mı?
+91|<CLT=cltSYSTEM>"Yemekhane Kuralları"
+92|<CLT=cltSYSTEM>"Yemekhanede bulduğunuz her\nyiyeceği yiyebilirsiniz."
+93|<CLT=cltSYSTEM>"Kullandığınız bütün çatal bıçak ve tabakların\nsorumluluğunu alın ve arkanızı toplayın."
+94|<CLT=cltSYSTEM>"Yemekhane gece vakti\nkilitlenecektir."
+95|<CLT=cltMIND>Bu kapıyı dikenli tel kapatıyor.\nSınıfın pencereleri de öyleydi...
+96|<CLT=cltMIND>Sakın bütün çıkışların kapalı olduğunu söyleme...
+97|<CLT=cltMIND>Buradan çıkılabilir gibi görünüyor ama...\nTamamen kapatılmış...
+## c00_007_015
+0|<CLT=cltMIND>Burası bir depo mu?\nEpey büyük.
+1|Bu depo çok büyük...\nBir şey bulmak zor olsa gerek...
+3|<CLT=cltMIND>Sessizleşti... Belki insanların şapkası\nhakkında konuşmasından hoşlanmıyordur.
+4|Kahretsin... Nerede bu lanet şey?
+5|<CLT=cltMIND>Çeşit çeşit kimyasalla dolu bir rafı\nkarıştıran dikkat çekici bir kız gördük...
+6|Hey, ne arıyorsun?
+7|Arkamdan sinsice yaklaşma, kaltak!
+8|<CLT=cltMIND>Seninle daha yeni tanıştım...ve bana\nşimdiden kaltak dedin...
+9|H-Hey, seni korkuttuysak özür dilerim,\nama Kaede'yle böyle konuşmamalısın—
+10|Hey kasık biti, memelerime mi bakıyorsun?
+11|Ne!?
+12|Buyur bak! Senin gibi biri benim gibi büyük\ngöğüslü bir afeti ancak rüyasında görür!
+13|Hadi, doya doya bak!
+14|H-Hayır, bakmıyordum!\nGözlerim tesadüfen oraya kaydı...
+15|"Ohh, gözlerim tesadüfen oraya kaydı..."\n"Ohh, elim tesadüfen onu elledi..."
+16|Hah-haha! Sapıkları bakar bakmaz tanırım,\nve sen *kesinlikle* lanet olası bir sapıksın!
+17|O şapkayı bu yüzden takıyorsun, değil mi?\nİğrenç gözlerini saklamak için?
+18|O pantolonu da bu yüzden giyiyorsun, değil mi?\nİğrenç kasığını saklamak için?
+19|Ama herkes pantolon giyiyor...
+20|Hah-haha! Herkes bilir ki sadece sapıklar\nşapka takar!
+22|Kes şunu...
+23|Beni rahat bırak!\nİstersem şapka takarım!!!
+24|Hiiiii!

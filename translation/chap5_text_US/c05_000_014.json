@@ -1,0 +1,67 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Obeying these announcements makes me\nfeel like a character in a story...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "2",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "3",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "4",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "5",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "6",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "7",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "8",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "9",
+  "tr": ""
+ }
+]

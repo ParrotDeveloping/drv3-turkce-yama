@@ -1,0 +1,477 @@
+[
+ {
+  "id": 0,
+  "en": "Over there—it's Maki. She was one of the\npeople I saw in the Game Room...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Let's ask her what she was doing.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "It looks like she's in the back...\nLet's try talking to her.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Let's try asking other people questions.\nThere are people we haven't talked to yet.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Maki...you were in the Game Room when\nRantaro was killed, right?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "What were you all doing down here?\nRantaro was with you, right?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...Am I a suspect?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Oh, no! That's not what I meant—",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "You should suspect me. In fact, you should\nbe suspicious of everyone.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Someone got killed right after we all gathered\nhere. The timing is too perfect.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Then again, with the time limit so close to\nexpiring, maybe that's why it happened...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "So trust no one, Kaede...\nOr you'll lose, got it?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>I can't get a read on Maki at all. She just saw\na dead body, yet she's perfectly calm.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>It's hard to imagine her as the <CLT=cltSTRONG>Ultimate Child\nCaregiver<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "But...why were you all here\nin the first place?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "It was Kaito's idea. He suddenly wanted to hold\na strategy meeting and gathered us together.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "He said we should confront Monokuma once\nthe time limit expires.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "And he picked the seven people he thought\nwould be useful in a fight.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Seven people... Kaito, Gonta, Maki, Tenko,\nHimiko, Angie, and Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "But, um...I'm not sure those seven would all\nbe useful in a fight, though.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Kaito thought Himiko's magic and Angie's\nconnection to Atua would be useful.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "But what about you, Maki? Why did he also\npick the <CLT=cltSTRONG>Ultimate Child Caregiver<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...He just looked at me and said, \"Yeah, you\nprobably know how to fight.\"",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>That's it? Geez... That does sound like\nsomething Kaito would do, though...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "But why have a strategy meeting\nin the Game Room in the basement?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...Beats me. Maybe Kaito figured it would be\nharder for Monokuma to find us here.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>In other words, it was just a coincidence?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "And what was Rantaro doing at the time?\nWas he in the strategy meeting with you?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "He was...at first.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "But then he excused himself to go to the\nbathroom, and left on his own...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Kaito and Tenko went looking for him so we\ncould finish the meeting before time expired.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>That must've happened around...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Huh? What are you guys doing here?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Well, never mind. Your timing's perfect.\nYou should join our strategy meeting.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Kaede is definitely welcome to join!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Then, did the four of you just wait in the\nGame Room the whole time?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Angie, Himiko, and I were the only ones who\nstayed behind. Gonta never joined us.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "...Huh? Gonta wasn't with you guys?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Gonta did arrive, but then he left and locked\nhimself in the <CLT=cltSTRONG>A/V Room in the back<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "He was in the A/V Room by himself?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Suspicious behavior, isn't it? The other two\nfelt the same way.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "What other two?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Why don't you go to the A/V Room?\nThey're probably still there...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Maki's Account<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Kaito was the one who gathered us here.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "He said we should confront Monokuma once\nthe time limit expires.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "And he picked the seven people he thought\nwould be useful in a fight.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Seven people... Kaito, Gonta, Maki, Tenko,\nHimiko, Angie, and Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>It sounds it was just a coincidence that\nthis meeting was held in the Game Room.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Rantaro said he was going\nto the bathroom, correct?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "But because time was about to expire, \nKaito and Tenko went to get him.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>That must've happened around...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Huh? What are you guys doing here?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Well, never mind. Your timing's perfect.\nYou should join our strategy meeting.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Kaede is definitely welcome to join!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "And when Gonta arrived, he just locked\nhimself in the A/V Room?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Suspicious behavior, isn't it? The other two\nfelt the same way.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "What other two?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Why don't you go to the A/V Room?\nThey're probably still there...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Were those two still there?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Yeah...I didn't wanna get involved...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Smart move. Just hearing it wore me out.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "It's true that talking to Himiko and the\nothers was unavoidable...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...but there were a lot of other points of\ninterest that caught my eye in that room.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Your enthusiasm is...odd.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "You're livelier now that a crime has occurred.\nMust be because you're a detective.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Th-That's not...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "No, you're just seeing how reliable Shuichi\nhas become.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I don't think it has anything to do with him\nbeing a detective or this incident.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Well, detective, if you do solve this case, it'll\nreally help us out.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "We're only in this mess because the culprit\nrefused to step forward.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Let's go, Shuichi! We still have more people\nto talk to!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Well, detective, if you do solve this case, it'll\nreally help us out.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "We're only in this mess because the culprit\nrefused to step forward.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>I can't leave yet... There are still things\nI need to investigate.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>This monitor was displaying a countdown\nleading up to the time limit expiring...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>But then the countdown stopped, and that\nobnoxious noise went away, too.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>I wonder what would've happened if the\ntime limit had expired...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Hey, Shuichi... The A/V Room is that room\nin the back, right?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Kaede...have you never been in there before?",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Nope, not yet. Anyway, let's go.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>We need to confirm Maki's alibi.",
+  "tr": ""
+ }
+]

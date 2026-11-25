@@ -1,0 +1,55 @@
+@ chap1_text_US
+## c01_706_000
+14|<CLT=cltSYSTEM>Korekiyo'ya hediye vermek istemediğinden\nemin misin?
+## c01_706_001
+0|Demek Kaede, sen <CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>sin, \ndoğru mu?
+1|Evet... Ne olmuş?
+2|Şey, müzik antropolojinin önemli bir\nyönüdür.
+3|Ah, bu doğru. Halk müziği gibi.
+4|Gerçi muhtemelen hayal ettiğin halk müziği\nbenim çalışma alanımdan farklı.
+5|Ha? Farklı mı?
+6|Japon halk müziği deyince aklına\nne geliyor?
+7|Sanırım Japon saray müziği. Koto ya da flüt\ngibi—Yılbaşında çaldıkları müzik.
+8|Doğru...bunların Japonya'nın geleneksel kültürel\nmüziğine örnekler olması bakımından.
+9|Ancak benim araştırdığım şey, insanların günlük\nhayatı içinde yaratılan müzik.
+11|Hmm...nasıl desem...\nKabul ediyorum, karmaşık bir ayrım.
+12|Bu...müzisyenler gibi uzmanların elinden\nçıkmamış müzik.
+13|Tekerlemeler, ninniler, annelerden nesiller\nboyunca aktarılan şarkılar...
+14|Şarkıyla ifade edilen gelenekler ve olaylar.\nBir felaketi hatırlamak için yazılan bir şarkı gibi...
+15|Evet, öyle şeyler...
+16|Anlıyorum... Ne demek istediğini biraz anlıyorum.
+17|Anlamları unutulmuş pek çok tekerleme ve\nçocuk oyunu var.
+18|Duymak istemiyorum... Korkutucu geliyor
+19|"Kagome Kagome" beni dehşete düşürüyor!
+20|"Eve Dönüş" diye bir şarkı var...
+22|Antropologların peşinden koştuğu şey o anlam.\nİstersen sana birinden bahsedebilirim.
+23|Duymak istemiyorum... Korkutucu geliyor.
+24|Oo? Bir şeyi sadece ona dair izlenimine göre\nyargılamana hayal kırıklığına uğradım.
+25|"Kagome Kagome" beni dehşete düşürüyor!
+26|Ah, evet. Pek çok farklı yorumu var.\nKorkutucu da olabilir, trajik de...
+27|Ve bir yoruma göre Tokugawa ailesinin\ngizli hazinesine işaret ediyor.
+28|Gizli hazine mi!? Bunu bilmiyordum!\nAcaba doğru mu...
+29|Gerçek olup olmadığını kesin olarak söyleyemem.\nKimse söyleyemez.
+30|Ama...belli bir gerçeğin bir şarkının sözlerinde\nmühürlü olduğu fikri ilgi çekici.
+31|"Eve Dönüş" diye bir şarkı var...\nHalk şarkısı olduğunu sanıyordum...
+32|Ama aslında Dvorak'ın Yeni Dünya\nSenfonisi'ne söz yazılmış hâliymiş.
+33|Ah, demek onu biliyorsun.\nEvet...
+34|9 Numaralı Senfoni'nin ikinci bölümü. Japonya'da\n"Uzak Dağda Gün Batımı" olarak bilinir.
+35|Dinlerken neredeyse süzülüyormuş gibi\nhissediyorum, sözleri de ona çok yakışıyor.
+36|Ama her şey dururken çocuk tekerlemeleri\nüzerine çalıştığını asla düşünmezdim.
+37|Bu, müziğin günlük hayatımızla ne kadar\niç içe geçtiğini gösteriyor.
+38|Evet, bu sadece müziğin o zamanlar bile hep\ninsanlıkla birlikte olduğu anlamına geliyor.
+39|Kehehe... Böyle sözler basit görünebilir\nama ardında derin bir anlam yatıyor.
+40|<CLT=cltSYSTEM>Korekiyo'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+41|<CLT=cltMIND>Kiyo'dan ayrıldıktan sonra odama\ndöndüm.
+## c01_706_002
+0|Her neyse...acaba burada daha ne kadar\ntutulacağız...
+1|Gerçi bu durumdan doğan insanlığın güzelliğine\ntanık olmaktan kesinlikle keyif alıyorum.
+2|Kiyo! Bu kadar karamsar olmamalısın!
+3|Burada ne kadar kalacağımız bize bağlı!\nHepimiz birlikte çalışıp kaçacağız!
+4|Anlıyorum... Demek bu kadar olumlu\ndüşünmeyi seçtin.
+5|Kehehe... Bu da güzel.
+6|<CLT=cltMIND>Bunu...iltifat olarak kabul edeceğim ama\nkıkırdaması biraz tüylerimi ürpertiyor.
+7|Söylesene, Kaede...
+8|Buradan kaçınca arkadaş olmak istediğini\nsöylemiştin, değil mi?
+9|Evet, kesinlikle!

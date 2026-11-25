@@ -1,0 +1,632 @@
+[
+ {
+  "id": 0,
+  "en": "Mooorning, sleepyhead!\nYou're finally up, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Huh? What...?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Nee-heehee, are you gonna ask...\n\"Who am I?\" and \"Where am I?\"",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Well, you're definitely Shuichi Saihara.\nAnd this place is...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Hmmm...I guess, hell.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Hell...?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I shook my head, confused.\nI looked around...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I-Is this...?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Oh, you're awake? This is the \n<CLT=cltSTRONG>Ultimate Entomologist<CLT=cltNORMAL>'s research lab.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "The <CLT=cltSTRONG>Ultimate Entomologist<CLT=cltNORMAL>'s lab?\nWhy...?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Ah, I remember!\nI was attacked by Gonta, and then...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "The same is true of the rest of us. We were \nall seized by Gonta...and brought here.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "But Shuichi's the only one who got\nknocked out.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Gonta apologized for that.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Apparently he couldn't slow down in time\nwhen he tried to grab you.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "What is this anyway...?\nWhy did Gonta do this?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "It's...because of that guy.\nHe was provoked by...that guy.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>My eyes followed where Tsumugi\nwas pointing...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "There's no use trying to escape.\nGonta will just catch you again.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Is this your doing, Kokichi?\nDid you have Gonta kidnap us?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Nee-heehee... He's so simple-minded.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "As soon as I told him that everyone who\nhates bugs was trying to get rid of them...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...he started crying and said that he would get\nyou guys to love bugs...or something like that.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "And that's why we're all here! Welcome to the\nmandatory <CLT=cltSTRONG>Insect Meet and Greet<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Oh, Gonta thought up the name, so if you\ndon't like it, voice your complaints to him!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "You're terrible... You tricked Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Isn't it great!? Only an evil supreme leader\nlike me could do something so...eeeeeevil!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Kokichi...why are you doing this?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Oh, I thought we could throw ourselves a\nlittle screening party with all our videos.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "With all you here, exchanging our <CLT=cltSTRONG>motive videos<CLT=cltNORMAL>\nwouldn't be that difficult at all...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "And I wanna see your videos, too, so I figured\nwe could all binge-watch them together!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "D-Do you know what will happen if you\ndo that?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Ummm... Everyone will know their <CLT=cltSTRONG>motive<CLT=cltNORMAL> and\na killing will be more likely to happen?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "But I like playing on Mean difficulty. Also, I\ndon't <CLT=cltSTRONG>run<CLT=cltNORMAL> from battles in RPGs, either!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I wanna win this killing game! So I'm not gonna\nrun from it, I'm gonna crush it!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "That'll be waaaay less boring, don'tcha think?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "What the hell does that mean!?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "I tried to warn you guys... I told you that we\nshouldn't <CLT=cltSTRONG>cooperate<CLT=cltNORMAL> with each other.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Plus, if I'm gonna do this, then I gotta enjoy\nmyself and just go all the way.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "If the thought of playing a <CLT=cltSTRONG>death game<CLT=cltNORMAL> doesn't\nexcite you, you'll never win. Understand?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>Strangely, I could detect no evil in\nhis smile as he said that.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>It was an innocent smile,\nlike a frolicking child.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Although, perhaps...\nit's just another <CLT=cltSTRONG>lie<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Thank you for waiting!\nGonta bring Himiko and Angie!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Huh? Himiko and Angie, too?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Awww, man... And I was about to take a\nbreak, too. I just finished all the prepwork...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Nyeeeh... What's the meaning of this?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Himiko, are you okay? My saliva makes\ninjuries heal faster.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Does your face hurt? Do you want me to\nspit on your face and make it feel better?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "No...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Hey, Gonta... Are these the only ones you\nbrought back from the gym?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Oh... Kirumi at gym but she tell Gonta she\ntoo busy...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Hm...? And you just...let her go?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Atua says Kirumi fulfills any <CLT=cltSTRONG>request<CLT=cltNORMAL>\nsomeone makes of her. Like a mommy.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Ah, she's not a mom, though...\nWait, what request?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I requested that she sew the curtains.\nI don't think even Gonta can disturb her.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Sorry... Not even Gonta strong enough to\novercome Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Hmmm, well, I guess at least one of you is\nworthy of being called an <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Welp, nothing we can do about her...\nAre the others still hiding somewhere?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Oh, Gonta see Miu, but...Gonta's face get\nred-hot. So...Gonta no could bring her...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Your face got hot? You mean you were\nhot on her trail, right?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "No, um, she use her...what she call it?\n\"Secret woman weapon\"? And then—",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Anyway, this enough people, right? \"<CLT=cltSTRONG>Insect\nMeet and Greet<CLT=cltNORMAL>\" is off to smashing start!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Yeah, sure. This is good enough. We should\nmove on to the main event anyway.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Gonta, don't be deceived!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "He just used you to abduct us all!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Huh!? Really!?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Nooo, this is for the <CLT=cltSTRONG>Insect Meet and Greet<CLT=cltNORMAL>.\nI like bugs even more than you do, Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...Oh? More than Gonta? Amazing...\nYou like bugs that much...!?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "It would appear...further argument is \na useless endeavor.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Now, Gonta... Go ahead and teach them just\nhow wonderful bugs are.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "I gotta run an errand, but I'll be back.\nDon't let them leave, okay?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "If they try to leave, it means you gotta really\nshow them why bugs are so great.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "...Mm-hm, got it.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "W-Wait, you're leaving!?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Of course. Someone's gotta break into your\nrooms to get the <CLT=cltSTRONG>goods<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Nee-heehee... Lock picking is a cinch for an\nevil supreme leader like me.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "What? You're going to enter a girl's room \nwithout permission?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "It seems I must be the one to take care of this.\nWith <CLT=cltSTRONG>my talent<CLT=cltNORMAL>, Kokichi, I will stop—",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Yeah, yeah. I don't have time to listen to\nsome robot.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Let's see...it's exactly 9 p.m. right now.\nI should be back by nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Welp! Have fun with the bugs till then!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>Kokichi then left the classroom.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Kehehe... It appears we are caught \nin Kokichi's trap.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Wh-What should we do? At this rate, it'll end\nup as a motive video screening party.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "M-My <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> is no match for Gonta's\nsuperhuman strength either...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "...We still have a chance when Kokichi\ncomes back.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "That's when I will take care of this.\nEveryone, please just endure it until then.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "E-Endure it—",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Okay! Now we start the fun-fun \"<CLT=cltSTRONG>Insect\nMeet and Greet<CLT=cltNORMAL>\"!",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>When I had first woken up...\nKokichi told me this was hell.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>It appears that wasn't a lie.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>The incredible specimens each gave off\nthe appearance of vigor and vitality.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>And they were exactly as vigorous\nas they looked.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>With our escape route blocked off, all we\ncould do was run around the room in a panic.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltSYSTEM>*ding dong, bing bong...*",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>The nighttime announcement played.\nBut it didn't save us.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>Insect Meet and Greet<CLT=cltMIND>\ncontinued without mercy.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "What happened, Kokichi!?\nYou said you'd be back by nighttime!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Ahhhh! Oh no! Himiko is being buried\nalive by insects!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "H-Himiko! Hold on!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "The more you yell, the more bugs \ncan get into your mou—PFTH! PFTH!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>Finally, when our bodies were completely\nexhausted and sleep was nearly upon us...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "What are Kokichi and Gonta's true aim, \ngathering us all together in this room?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "I do not think Gonta would ever decide on\nhis own to capture us.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "What is Kokichi trying to accomplish by\ntaking advantage of Gonta's naivete?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Regardless, I cannot forgive his nonchalant\nattitude about using people!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "I couldn't stop Gonta, not even with my\nNeo-Aikido...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "His power is far greater than my Neo-Aikido!",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Why...did it have to be this room?\nIt gives me the creeps...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Like I said, if you try to escape, Gonta will\njust catch you again, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>Nothing is on the screen now,\nbut I'm sick just looking at it.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>A ton of insect specimens are on display...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>It covers the entire wall!\nI really feel the obsession...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>...There are a lot of books here.\nThey all seem to be related to insects.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>Wow...\nThat...is an extraordinary amount of bug cages.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>If all these hatch...\nthere'll be bugs all over the academy!",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>Releasing all these bugs\nin a new world...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>...It's almost like Noah's Ark.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Like I said, if you try to escape, Gonta will\njust catch you again, y'know?",
+  "tr": ""
+ }
+]

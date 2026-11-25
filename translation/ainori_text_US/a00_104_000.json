@@ -1,0 +1,327 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give Gonta a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Oh, wow...\nGonta think bug friends will like this.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Kaede like bugs, too?\nGonta so happy!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Oh, wow...\nGonta think bug friends will like this.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Shuichi likes bugs, too?\nGonta so happy!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Oh, sorry... This sorta thing give Gonta\nbad memories...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Gonta hope Kaede not feel bad now...\nGonta really sorry!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Oh, sorry... This sorta thing give Gonta\nbad memories...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Gonta hope Shuichi not feel bad now...\nGonta really sorry!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Kaede...no can give gift like this!\nIs not proper!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "O-Or...d-does Kaede...hate...Gonta?\nG-Gonta...*sniffle*...so sad!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Shuichi...no can give gift like this!\nIs not gentlemanly!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "O-Or...d-does Shuichi...hate...Gonta?\nG-Gonta...*sniffle*...so sad!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Ummm... Sorry. Gonta not sure what\nto do with this.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Gonta know Kaede mean well...\nGonta so pathetic!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "K-Kaede... You...hate Gonta!?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Oh, G-Gonta wrong?\nGonta just not understand.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Ummm... Sorry. Gonta not sure what\nto do with this.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Gonta know Shuichi mean well...\nGonta so pathetic!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Sh-Shuichi... You...hate Gonta!?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Oh, G-Gonta wrong?\nGonta just not understand.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "For Gonta? Thank you!\nGonta treasure it always.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "How that? Gonta show gentleman\ngratitude okay?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Hmmm... Gonta not know stuff\nlike this exist.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Thanks for showing Gonta, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Hmmm... Kaede like this kinda stuff?\nGonta think he understand now.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Gonta try hard to appreciate gift.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "For Gonta? Thank you!\nGonta treasure it always.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "How that? Gonta show gentleman\ngratitude okay?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Hmmm... Gonta not know stuff\nlike this exist.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Thanks for showing Gonta, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Hmmm... Shuichi likes this kinda stuff?\nGonta think he understand now.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Gonta try hard to appreciate gift.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "For Gonta? Thank you!\nGonta treasure it always.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "How that? Gonta show gentleman\ngratitude okay?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Hmmm... Gonta not know stuff\nlike this exist.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Thanks for showing Gonta, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Hmmm... Kaede like this kinda stuff?\nGonta think he understand now.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Gonta try hard to appreciate gift.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "For Gonta? Thank you!\nGonta treasure it always.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "How that? Gonta show gentleman\ngratitude okay?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Hmmm... Gonta not know stuff\nlike this exist.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Thanks for showing Gonta, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Hmmm... Kaede like this kinda stuff?\nGonta think he understand now.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Gonta try hard to appreciate gift.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "What? For Gonta?\nThank you, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Gonta not get gifts often...\nGonta happy! Very very happy!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Ummm... But real gentleman say nice thing.\nThen gentleman give gift, too...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Gonta not real gentleman yet, huh...?\nSomeday Gonta give Kaede nice gift!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "What? For Gonta?\nThank you, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Gonta not get gifts often...\nGonta happy! Very very happy!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Ummm... But real gentleman say nice thing.\nThen gentleman give gift, too...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Gonta not real gentleman yet, huh...?\nSomeday Gonta give Shuichi nice gift!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Gentlemen wear small trinkets...\nGonta must remember that.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Gonta still not used to gentleman clothes...\nThis very helpful, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Gentlemen wear small trinkets like this...\nGonta must remember that.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Gonta still not used to gentleman clothes...\nThis very helpful, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Okay, I won't give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "No, I want to give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Gonta a present?",
+  "tr": ""
+ }
+]

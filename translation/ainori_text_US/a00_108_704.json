@@ -1,0 +1,382 @@
+[
+ {
+  "id": 0,
+  "en": "*sigh*\nHow troublesome...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Kirumi? Is something wrong?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "You are about to hear me complain.\nI would fail you as a maid.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No, that's not true!\nIf that's what's bothering you...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Asking for help and solving problems faster\nwill help your master, too...won't it?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "That is true...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "But, I do not have a master to serve at the\nmoment... I am but a stray maid...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "A \"stray maid\"!?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I used the phrase \"stray maid\" to help you\nunderstand. It is similar to a stray cat or dog.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>First of all, I don't think those\nthings belong in the same category...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "What should I do...?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Is being a stray maid\nthat much of a problem?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Yes, it is incredibly dishonorable.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Kirumi is even more serious than when she\ntold me about her most fearful enemy...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Either my last master disposed of me,\nor no person needs my assistance...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "That is the same as having no existence...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>...Really? That bad?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Ah, Kirumi?\nI have a proposal for you.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Even if it's just for a little while...why\ndon't I become your master?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "If it's alright with you, of course.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "If it is you, then I do not have any complaints.\nBut, you will have to pay me...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "After you sign the contract,\nI will serve as your maid.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Right...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "About my salary...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "The standard is $10,000 per day.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Isn't that way too expensive!?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "You're definitely worth it",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "...Can I get a lower-quality rate?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Sometimes, I will charge you additional fees.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Isn't that way too expensive!?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Yes, I am aware that it is more expensive\nthan the usual market rate...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "...but I promise my service is well worth it.\nIt will not be a waste of your money.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>The way she said that...\nShe's completely confident.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "You're definitely worth it. It's honestly...\nreally expensive, though.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Of course.\nThe salary matches the quality of my service.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Such confidence...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "If I say my service is valuable,\nthen perhaps it will encourage you to hire me.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "But it is also my duty to provide you a service\nthat will be worth your payment.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...Can I get a lower-quality rate?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "That's too expensive for me, can\nI get a discount or something?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I am sorry, but...\nI cannot lower the quality of my service.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "If I did such a thing, that would be a losing\nscenario for the both of us.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ah.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Alright...I'll pay you.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Are you sure?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "If I think about it as an investment\nfor my future, it's not so expensive.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "And most importantly...\nyou get to keep your honor.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Kirumi?\nIs something wrong?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Pft...!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>She's laughing!?\nKirumi...laughing!?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "I was joking.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "J-Joking!?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "$10,000 a day is definitely too steep\nof a price!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Also, I was kidding about the stray maid thing.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I didn't know you could\ntell jokes, Kirumi.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Yes, such humor is needed from a maid\nto calm their master.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "For me, I would tell jokes to my master.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>To her master?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Shuichi... I have told you this before, but\nI feel something within you.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I want to serve you regardless of the money.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "As your personal maid...\nAllow me to support your future.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Once we escape, will you give serious \nconsideration to employing my services?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>That wasn't a joke this time.\nKirumi's dead serious.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Honestly, I feel like Kirumi would\nbe totally wasted on me, but...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>I want to see...the same potential\nthat Kirumi sees in me.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Yeah. I'll consider it, Kirumi.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "You have my gratitude...\nI hope it will be a wise choice.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltSYSTEM>Kirumi's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltSYSTEM>You've learned a new skill,\n<CLT=cltSTRONG>Bed Making<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>Kirumi and I discussed my future,\nand I returned to my room.",
+  "tr": ""
+ }
+]

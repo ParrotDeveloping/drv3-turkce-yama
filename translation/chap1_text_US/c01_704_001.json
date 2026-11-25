@@ -1,0 +1,342 @@
+[
+ {
+  "id": 0,
+  "en": "Kaede, you like music?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Of course!\nI am the <CLT=cltSTRONG>Ultimate Pianist<CLT=cltNORMAL>, after all!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "U-Um...Gonta like music, too!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Ooh, really!? What kind of music do you like?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Bug songs! That Gonta's favorite!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Gonta think Kaede probably like bug songs.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I'd rather not talk about bugs...but maybe\nI could talk about crickets or something.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "In Gonta forest, lots of big bugs.\nThey real good singers.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Big bugs scary-looking, but make pretty\nsongs!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>I-I don't really wanna hear about bugs! I'm\nsorry Gonta, but I'm gonna change the subject!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "O-Oh, yeah! Um, don't you think music is\ngreat for changing the mood?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hm? Oh, yeah...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Fun music make Gonta happy, too.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "When no can sleep, Gonta take off clothes,\nplay music. Then can sleep all night long.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "What!? You sleep naked!?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Gonta learn to sleep naked in forest.\nNo can sleep good in clothes.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Um...I don't think it's very gentlemanly to\nsleep naked.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "H-Huhhhh!? R-Really?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Well, that's just how I imagine a gentleman.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Not good! Gonta want everyone to see him\nas gentleman!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "If Kaede say it not good, Gonta not do it\nanymore!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Anything else you think ungentlemanly?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Hm...anything else ungentlemanly...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Please, tell Gonta what you think is most\nimportant to be true gentleman.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Don't talk about bugs...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Your state of mind?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Tea?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Um...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Don't talk about bugs...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Huh!? Gonta no can talk about bugs!?\nWh-Why!?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Because...there are some people who\ndon't like bugs...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Y-You...hate bugs, Kaede!?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I-I like bugs! I told you before that I like\nthem!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "But if you talk about bugs to people who don't\nlike them, it might make them uncomfortable.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "I just think that's ungentlemanly, that's all!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>Is Gonta mad...?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "...You right. Some people do hate bugs.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Yeah, it's very, very unfortunate.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "That why it important to talk about bugs!\nSo people understand why bugs so great!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Huh? R-Really?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Gonta not just gentleman, but entomologist\ntoo!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Gonta do his best to change people's minds\nabout bugs! Like gentleman!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Your state of mind?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "State of mind...?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "When I imagine a gentleman, I see someone\nwho's nice, earnest, and polite...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "To me, a gentleman is someone who sincerely\nhas all those qualities, you know?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Yes! Gonta think so, too!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But...Gonta not know exactly...what to do...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Well, I suppose...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "But Gonta can be nice to people...\nGonta can be serious...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Gonta doing his best...\nGonta doing all he can.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Tea?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Hm? Why tea?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "J-Just because...? Whenever I imagine a\ngentleman, they're always drinking tea.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Oh, Gonta understand! Every gentleman\nGonta know likes tea, too!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Tea must be gentleman drink!\nGonta gotta learn more about it!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Huh. I feel like I led him in the wrong\ndirection...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Kaede, you okay to talk some more with\nGonta?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Gonta want you to tell him when he's not\nbeing gentleman right!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Y-Yeah, sure...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>Gonta's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with him.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>I spent some time with Gonta trying to\nfigure out what a gentleman is.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>But I felt like I was only bringing out more\nof his wild side.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>He still has a long way to go before he\nbecomes a gentleman...",
+  "tr": ""
+ }
+]

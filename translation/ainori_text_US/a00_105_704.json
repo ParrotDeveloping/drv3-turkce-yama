@@ -1,0 +1,307 @@
+[
+ {
+  "id": 0,
+  "en": "I'm glad you came, Shuichi!\nRemember! Today's your last chance, okay?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>I see Kokichi is just as\nchipper as usual.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I don't know when he's being serious\nand when he's toying with me... Which is it?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Now, it's time for the final game!\nIt's this... Ta-daaaa!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Whoa! A knife!?\nWhat are you...?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Nee-heehee...don't get so antsy.\nDon't worry—it's only for the game.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "You know what the knife game is, right?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "The knife game?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Place your palm on the table with fingers apart.\nWith the knife, stab between your fingers.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "What!? That's so dangerous!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "This will be today's challenge.\nThis is fitting for the final game, isn't it?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "But, this is...really dangerous...\nWhat if we get hurt?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hm, what are you talking about?\nShuichi, if you lose...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "You'll be beyond just injured, y'know?\nYou'll die.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Kokichi's demeanor has changed...\nhe seems far more serious now.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I'll make the first move, okay?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>Kokichi spread his fingers on the table,\nthen lifted the knife...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>I've never seen Kokichi\nso serious before.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Is this what an <CLT=cltSTRONG>Ultimate Supreme Leader<CLT=cltMIND>\nlooks like...?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I'm ready!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltSYSTEM>",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltSYSTEM>*TAP TAP TAP TAP!*",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>He's so fast!\nIf he can do that...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltSYSTEM>*SHK!*",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Ouch!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "K-Kokichi!?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Blood oozed from Kokichi's hand.\nI sprung into action and grabbed his wrist.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "You don't have to keep going, stop!\nJust stay still, I'll get it...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>I found a nearby first aid kit and\nclumsily tended to Kokichi's cut.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>And all the while, Kokichi was...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Nee-heehee...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>Laughing. Laughing as if he\nwere having the time of his life.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Okay, I think that's good.\nWhat do you think?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Yeah. It wasn't a deep cut, so that'll do.\nThanks for treating my injury, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "But...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Aw maaaan, I lost!\nCongrats, Shuichi! You win!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "But I didn't do it yet...\nI'm still the winner?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Well, I messed up. So yeah.\nYou win by default.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Plus, I already fulfilled my objective.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Objective...?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "To kill you, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...But I'm alive.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I made your heart *die* with worry, didn't I?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "After I said I'd kill you, I was on your mind\nthe whooole time, right?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "You thought about whether or not I was serious,\nor why I would say something confusing...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Ha, even now! You're concerned about me from\nthe bottom of your heart!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Nee-heehee... Now, you'll never *ever* forget\nme for the rest of your life.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I stole your heart, so now I'm satisfied!\nI don't need to steal your life anymore!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "What does that even mean!?\nWhy did you say that?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Because that was a lie.\nI never wanted your life to begin with.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "And like I told you from the very beginning,\nI'm a liar!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>I have nothing to say...\nToying with me would be putting it lightly.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>I don't think there will ever come a day when\nI truly understand Kokichi. I reach out to him...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>But he doesn't take my hand.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>But in his own way...I think that\nhelps me understand him a little.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltSYSTEM>Kokichi's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with him.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltSYSTEM>You've learned a new skill,\n<CLT=cltSTRONG>Kind Lie<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Kokichi and I parted ways,\nand I returned to my room.",
+  "tr": ""
+ }
+]

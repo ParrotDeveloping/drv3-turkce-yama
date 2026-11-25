@@ -1,0 +1,54 @@
+@ chap1_text_US
+## c01_100_019
+100|Hayır, bu mantıklı! Lütfen düşündüğünü\nsöyle, Kirumi!
+101|Bu gururla söylenecek bir şey değil...\nama sanırım başka çaremiz yok.
+102|Sonuçta suçlunun kim olduğunu bulamazsak \nhepimiz öldürüleceğiz.
+103|<CLT=cltMIND>Evet... Bunu yapmak zorundayız.
+104|<CLT=cltMIND>Beyni ortaya çıkarınca\nkaçabileceğiz...
+105|<CLT=cltMIND>Kesinlikle yapabiliriz!
+106|Bir şey kafama takılıyor...\nRantaro neden kütüphaneye geldi?
+107|Beyin olmadığı büyük ihtimal. Buraya\ngelmek için ne sebebi vardı?
+108|Tahminimce Rantaro'nun daha önce\nsöylediği bir şeyle ilgisi vardı...
+109|Mesele bu ölüm oyununda herkesi alt etmek\ndeğil, oyunun kendisine son vermek.
+110|Asıl hedef bu.
+111|Oyunun kendisine son vermek...
+113|O zaman mümkün ki...o da tıpkı bizim gibi\nkütüphanedeki gizli kapıyı fark etmiş.
+115|Beynin buraya geleceği sonucuna o da\nbizim gibi varmış olabilir.
+116|Yani...o da bizimle aynı fikre mi sahipti?
+117|O-Olamaz... Bize söylemeliydi...
+118|Birlikte çalışabilirdik...
+119|<CLT=cltMIND>Hayal kırıklığımın ağırlığı altında ezilip\nyere yığıldım.
+120|Hayır, muhtemelen bize söyleme riskini göze\nalamazdı... Dediğin gibi herkesten şüpheleniyordu.
+121|Benim yanımda sen varsın Kaede, ama\nRantaro'nun güvenebileceği kimse yoktu.
+122|Benimle onun arasındaki...\ntek fark bu olabilir.
+123|<CLT=cltMIND>Bunu derken bana elini uzattı.
+124|<CLT=cltMIND>Elini tuttum, o da beni sıkıca\nayağa kaldırdı.
+126|Kaede...hadi gidelim.\nŞimdi vakit kaybedemeyiz.
+127|Pes etmeyeceksin, değil mi?\nSen...herkesi kurtaracaksın.
+129|<CLT=cltMIND>Haklı...\nŞimdi pes edemem.
+130|Teşekkürler... Sanki...sana daha da çok\ngüvenebilirmişim gibi hissediyorum...
+132|<CLT=cltMIND>Shuichi haklı.\nBitene kadar pes edemeyiz.
+133|<CLT=cltMIND>Sonsuza kadar moralim bozuk kalamaz. Herkesin\nburadan çıkmasına yardım etmeliyim.
+134|<CLT=cltMIND>Soruşturmaya devam etmeliyiz.\nBeyni bulmalıyız.
+135|Hey, Kaede...buraya girdiğimizde ne\ngördüğümüzü hatırlıyor musun?
+136|Evet, hatırlıyorum.
+137|Hareketli kitaplığın kendi kendine\nkapandığını gördük, değil mi?
+138|Kimse dokunmadı bile, peki bu nasıl\noldu?
+139|Aslında bunun <CLT=cltSTRONG>kitaplığın nasıl çalıştığıyla<CLT=cltNORMAL>\nilgisi var.
+140|<CLT=cltMIND>Shuichi gizli kapıyı ortaya çıkarmak için\nkitaplığı oynattı.
+141|Şuna bak.\nKitaplığı bırakırsam...
+142|<CLT=cltMIND>Kitaplığı bıraktı ve biraz\nbekledikten sonra...
+143|Ah! Kendi kendine kapandı!
+144|Kitaplık otomatik bir kapı gibi ayarlanmış.\nBelli bir süre sonra kapanıyor...
+145|Düşününce gayet\nmantıklı.
+146|Kendi kendine kapanmasaydı içeri girdikten\nsonra kitaplığı geri koyamazdın.
+147|Anlıyorum... Gizli kapıdan geçince kitaplığın\nkendi kendine kapanması gerekiyor.
+148|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Hareketli Kitaplık<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+149|Ama dur... Gizli kapıdan girdikten sonra\nkitaplık kendi kendine kapanıyorsa...
+150|Ah! Belki kitaplığın kendi kendine\nkapanmasının sebebi...
+151|...beynin gizli kapının hemen ardında\nsaklanıyor olmasıdır!
+152|Rantaro'yu öldürdükten sonra gizli kapıdan\nkaçtı... Kesinlikle mümkün.
+153|Hemen kontrol edelim.
+154|Ha? Nasıl kontrol edeceğiz?
+155|Kart okuyucudaki toz, hatırladın mı?
+156|<CLT=cltMIND>Shuichi gizli kapıyı bir kez daha ortaya\nçıkarmak için kitaplığı yine oynattı.

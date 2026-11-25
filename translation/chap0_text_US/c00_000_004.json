@@ -1,0 +1,42 @@
+[
+ {
+  "id": 0,
+  "en": "Evet",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Hayır",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Emin olmadığın bir şey mi var?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Ayrılmak istiyor musun?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Oyun Odası'na git!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "A Kütüphanesi'ne git!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Sadece biraz açılıyor...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "B Kütüphanesi'ne git!",
+  "tr": ""
+ }
+]

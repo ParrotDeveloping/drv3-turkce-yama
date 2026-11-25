@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_703_001
+52|<CLT=cltMIND>Rantaro'yla çay içerek biraz vakit geçirdim...
+## c01_703_002
+0|Kaede...buradan çıkınca hepimizin arkadaş\nolması gerektiğini söylediğini hatırlıyorum.
+1|Bu konuda ciddisin, değil mi?
+2|Evet, tabii ki!
+3|Bu koşullara rağmen herkesle tanıştığım için\nmutluyum... Bunu her zaman değerli tutacağım.
+5|H-Ha? Bu fikir konusunda pek hevesli\ngörünmüyorsun, Rantaro.
+6|Hayır, öyle değil...
+7|Seninle ve diğer herkesle arkadaş olabilsem\ngerçekten çok mutlu olurdum.
+8|Ama...kendi <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneğimin\nne olduğunu bilmiyorum.
+9|Ya...gurur duyulacak bir şey değilse?\nYa da işe yaramaz bir yetenekse...
+10|Ya da daha kötüsü, herkesin benden\nnefret etmesine yol açacak bir yetenekse.
+11|İşe yaramaz mı? Herkesin senden nefret etmesi mi?\nÖyle bir yetenek nasıl olur ki?
+12|Bilmiyorum, belki <CLT=cltSTRONG>Ultimate Cani\nŞeytan<CLT=cltNORMAL>ımdır, ne bilirsin.
+13|C-Cani şeytan mı? Hiç sanmam. Bu bütün\nölüm oyununu altüst ederdi.
+14|Hafızamın silinmesinin sebebi bu olabilir,\nanlıyor musun?
+15|<CLT=cltMIND>O-Olamaz... Rantaro'nun kesinlikle öyle\nbir yeteneği olmaz!
+16|Ah! Ama tam tersi de mümkün olabilir!
+17|Tam...tersi mi?
+18|Belki sen <CLT=cltSTRONG>Ultimate Polisiye Yazarı<CLT=cltNORMAL>sın ve\nhafızan silinmeseydi bütün bunları çözerdin!
+19|...Ama Shuichi <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>\nve onun hafızası silinmedi.
+20|E-Eminim bunun bir sebebi vardır... Belki sen\nçıkarım yapmakta Shuichi'den daha iyisindir?
+21|Haha, hadi ama! Shuichi'ye kötülük yapma!
+22|S-Sen söylettin bana!
+23|Tamam, yakaladın beni.\nPardon, seninle dalga geçtiğimi biliyorum.
+24|Neyse, neden bu kadar endişelendiğini\nanlamıyorum...
+25|Yeteneğin ne olursa olsun yine de seninle\narkadaş olmak istiyorum.
+26|Seninle vakit geçirmemin yeteneğinle hiçbir\nilgisi yok, Rantaro.
+27|...Teşekkürler. Ben de hepinizle arkadaş olmak\niçin bir an önce buradan çıkmak istiyorum, biliyor musun?
+28|Evet! Dört gözle bekliyorum!
+29|Buradan kaçınca herkes hakkında sadece\nyeteneklerini değil, daha fazlasını öğrenmek istiyorum...
+30|Ama aynı zamanda hangi yemeği sevdiklerini, ne tür\nkitaplar okuduklarını, hafta sonlarını nasıl geçirdiklerini...
+31|Ah! Ve herkesin ne tür müzik sevdiğini\nkesinlikle öğrenmek istiyorum!
+32|Evet... Açıkçası herkesin neyle ilgilendiğini\nhayal bile edemiyorum.
+33|İşte bu yüzden hepimiz daha çok konuşmalıyız.
+34|Birbirimizden uzakta yaşayabiliriz ama bugünlerde\niletişimde kalmak için bir sürü seçenek var.
+35|Ama arada bir yüz yüze buluşmak\ngüzel olurdu.
+36|Buldum, seni bir sonraki konserime davet edeceğim!\nSeni ve diğer herkesi!
+37|...Dört gözle bekliyorum, Kaede.
+38|Hepimizin tekrar buluşmasını istiyorum...ve bunun\nolması için çok çalışacağım.
+39|Ama sadece sen değil. Bunun olması için\nhepimiz birlikte çok çalışmalıyız.
+40|...Evet. Haklısın.
+41|<CLT=cltMIND>Birbirimize başımızı salladık.
+42|<CLT=cltMIND>Doğru. Bir kişinin gücü yetmeyebilir\nama burada 16 kişiyiz!
+44|<CLT=cltMIND>Rantaro'dan ayrıldıktan sonra odama\ndöndüm.
+## c01_703_050
+0|...Senin için endişeleniyorum, Kaede. \nBize yardım etmek için çok çalışıyorsun.
+1|Bence biraz molayı hak ettin.
+5|<CLT=cltMIND>Rantaro'yla vakit geçireyim mi?
+6|O zaman birlikte mola verelim.
+7|<CLT=cltMIND>Rantaro'yla çeşmeye bakarak biraz\nvakit geçirdim...
+8|<CLT=cltMIND>Rantaro'yla bugün biraz daha yakınlaştık.
+## c01_703_051
+1|Ah, pardon. \nSadece...bir şey düşünüyordum.
+5|<CLT=cltMIND>Rantaro'yla vakit geçireyim mi?

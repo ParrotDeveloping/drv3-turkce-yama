@@ -1,0 +1,1812 @@
+[
+ {
+  "id": 0,
+  "en": "Move",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Camera",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Move (Run)",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Move (Run) ※Shooter controls only",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Talk/Search",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Close Open Window/Back",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Open Handbook Menu",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Change Minimap",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Open Transcript",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Turn ※Danganronpa controls only",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Move Cursor",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Move Reticle",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Talk / Examine",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Leave/Back to Map",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Open Handbook Menu",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Observation Mode",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Put Objects Back",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Hit Object",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Open Transcript",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Select",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "RE:Act",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Confirm / Advance Text",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Cancel / Skip Text",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Open Handbook Menu",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Window On/Off",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Mode",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Open Transcript",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Up: Insert Coin/Down: Return Coin",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Turn Dial",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Quit",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Open Present List",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Move",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Talk / Examine / Confirm / Advance Text",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Move (Run)",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Cancel / Skip Text",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Open Handbook Menu",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Window On/Off",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Mode",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Open Transcript",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Select",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Camera",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Confirm / Advance Text",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Cancel / Skip Text",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Open Handbook Menu",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Window On/Off",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Mode",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Open Transcript",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Aim",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Select Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Aim",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Select Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Move Blade",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Select Truth Blade",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Cut/Push Back",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Confirm Truth Blade",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Truth Blade Cut",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Truth Blade Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Move Cursor",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Flash Spot",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Fast-forward Letter Orb",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Show/Hide Question",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Get Letter Orb",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Move Car",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Accelerate",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Aim",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Select Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Move Cursor",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Delete piece",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Show/Hide Question",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Select Image",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Select Speaker",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Select Speaker",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Make Statement",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "Rhythm Button",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "Rhythm Button",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "Rhythm Button",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "Rhythm Button",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "Fever Time",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Move Cursor",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "Select Panel",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "Zoom Panel",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "Place Panel",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "Turn Page",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "Turn Page",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "Move",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "Jump",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 185,
+  "en": "Support",
+  "tr": ""
+ },
+ {
+  "id": 186,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 187,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 188,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 189,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 190,
+  "en": "Select/Move Square",
+  "tr": ""
+ },
+ {
+  "id": 191,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 192,
+  "en": "Choose/Select",
+  "tr": ""
+ },
+ {
+  "id": 193,
+  "en": "(During Event) Fast-forward Event",
+  "tr": ""
+ },
+ {
+  "id": 194,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 195,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 196,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 197,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 198,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 199,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "Select/Move",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "Move (Run)",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "Choose",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "Back",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "Menu",
+  "tr": ""
+ },
+ {
+  "id": 205,
+  "en": "Equipment",
+  "tr": ""
+ },
+ {
+  "id": 206,
+  "en": "Escape Dungeon",
+  "tr": ""
+ },
+ {
+  "id": 207,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 208,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 209,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 210,
+  "en": "Move",
+  "tr": ""
+ },
+ {
+  "id": 211,
+  "en": "Camera",
+  "tr": ""
+ },
+ {
+  "id": 212,
+  "en": "Move (Run)",
+  "tr": ""
+ },
+ {
+  "id": 213,
+  "en": "Move (Run) ※Shooter controls only",
+  "tr": ""
+ },
+ {
+  "id": 214,
+  "en": "Talk / Examine",
+  "tr": ""
+ },
+ {
+  "id": 215,
+  "en": "Close Open Window/ Back",
+  "tr": ""
+ },
+ {
+  "id": 216,
+  "en": "Open Handbook Menu",
+  "tr": ""
+ },
+ {
+  "id": 217,
+  "en": "Change Minimap",
+  "tr": ""
+ },
+ {
+  "id": 218,
+  "en": "Open Transcript",
+  "tr": ""
+ },
+ {
+  "id": 219,
+  "en": "Turn ※Danganronpa controls only",
+  "tr": ""
+ },
+ {
+  "id": 220,
+  "en": "Aim",
+  "tr": ""
+ },
+ {
+  "id": 221,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 222,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 223,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 224,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 225,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 226,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 227,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 228,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 229,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 230,
+  "en": "Move Blade",
+  "tr": ""
+ },
+ {
+  "id": 231,
+  "en": "Select Truth Blade",
+  "tr": ""
+ },
+ {
+  "id": 232,
+  "en": "Cut/Push Back",
+  "tr": ""
+ },
+ {
+  "id": 233,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 234,
+  "en": "Confirm Truth Blade",
+  "tr": ""
+ },
+ {
+  "id": 235,
+  "en": "Truth Blade Cut",
+  "tr": ""
+ },
+ {
+  "id": 236,
+  "en": "Truth Blade Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 237,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 238,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 239,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 240,
+  "en": "Select",
+  "tr": ""
+ },
+ {
+  "id": 241,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 242,
+  "en": "Choose",
+  "tr": ""
+ },
+ {
+  "id": 243,
+  "en": "Quit",
+  "tr": ""
+ },
+ {
+  "id": 244,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 245,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 246,
+  "en": "Switch Tab",
+  "tr": ""
+ },
+ {
+  "id": 247,
+  "en": "Switch Tab",
+  "tr": ""
+ },
+ {
+  "id": 248,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 249,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 250,
+  "en": "Move Car",
+  "tr": ""
+ },
+ {
+  "id": 251,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 252,
+  "en": "Accelerate",
+  "tr": ""
+ },
+ {
+  "id": 253,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 254,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 255,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 256,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 257,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 258,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 259,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 260,
+  "en": "Move Cursor",
+  "tr": ""
+ },
+ {
+  "id": 261,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 262,
+  "en": "Monokuma Sonar",
+  "tr": ""
+ },
+ {
+  "id": 263,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 264,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 265,
+  "en": "Get Salmon",
+  "tr": ""
+ },
+ {
+  "id": 266,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 267,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 268,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 269,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 270,
+  "en": "Move Cursor",
+  "tr": ""
+ },
+ {
+  "id": 271,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 272,
+  "en": "Extract Piece",
+  "tr": ""
+ },
+ {
+  "id": 273,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 274,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 275,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 276,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 277,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 278,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 279,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 280,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 281,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 282,
+  "en": "BET",
+  "tr": ""
+ },
+ {
+  "id": 283,
+  "en": "Quit",
+  "tr": ""
+ },
+ {
+  "id": 284,
+  "en": "Details",
+  "tr": ""
+ },
+ {
+  "id": 285,
+  "en": "BET ALL",
+  "tr": ""
+ },
+ {
+  "id": 286,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 287,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 288,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 289,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 290,
+  "en": "Aim",
+  "tr": ""
+ },
+ {
+  "id": 291,
+  "en": "Select Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 292,
+  "en": "Silencer",
+  "tr": ""
+ },
+ {
+  "id": 293,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 294,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 295,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 296,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 297,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 298,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 299,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 300,
+  "en": "Aim",
+  "tr": ""
+ },
+ {
+  "id": 301,
+  "en": "Select Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 302,
+  "en": "Silencer",
+  "tr": ""
+ },
+ {
+  "id": 303,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 304,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 305,
+  "en": "Shoot Truth Bullet/(Hold) Lie",
+  "tr": ""
+ },
+ {
+  "id": 306,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 307,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 308,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 309,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 310,
+  "en": "Aim",
+  "tr": ""
+ },
+ {
+  "id": 311,
+  "en": "Select Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 312,
+  "en": "Silencer",
+  "tr": ""
+ },
+ {
+  "id": 313,
+  "en": "Fast-forward Debate",
+  "tr": ""
+ },
+ {
+  "id": 314,
+  "en": "Confirm Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 315,
+  "en": "Shoot Truth Bullet",
+  "tr": ""
+ },
+ {
+  "id": 316,
+  "en": "Truth Cylinder",
+  "tr": ""
+ },
+ {
+  "id": 317,
+  "en": "Concentrate",
+  "tr": ""
+ },
+ {
+  "id": 318,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 319,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 320,
+  "en": "Move",
+  "tr": ""
+ },
+ {
+  "id": 321,
+  "en": "Camera",
+  "tr": ""
+ },
+ {
+  "id": 322,
+  "en": "Move (Run)",
+  "tr": ""
+ },
+ {
+  "id": 323,
+  "en": "Move (Run) ※Shooter controls only",
+  "tr": ""
+ },
+ {
+  "id": 324,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 325,
+  "en": "Close Open Window/ Back",
+  "tr": ""
+ },
+ {
+  "id": 326,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 327,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 328,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 329,
+  "en": "Turn ※Danganronpa controls only",
+  "tr": ""
+ },
+ {
+  "id": 330,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 331,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 332,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 333,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 334,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 335,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 336,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 337,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 338,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 339,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 340,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 341,
+  "en": "Select",
+  "tr": ""
+ },
+ {
+  "id": 342,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 343,
+  "en": "Select",
+  "tr": ""
+ },
+ {
+  "id": 344,
+  "en": "Purchase",
+  "tr": ""
+ },
+ {
+  "id": 345,
+  "en": "Quit",
+  "tr": ""
+ },
+ {
+  "id": 346,
+  "en": "Open Present List",
+  "tr": ""
+ },
+ {
+  "id": 347,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 348,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 349,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 350,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 351,
+  "en": "―",
+  "tr": ""
+ },
+ {
+  "id": 360,
+  "en": "Move",
+  "tr": ""
+ },
+ {
+  "id": 361,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 362,
+  "en": "Electrohammer",
+  "tr": ""
+ },
+ {
+  "id": 363,
+  "en": "Jump",
+  "tr": ""
+ },
+ {
+  "id": 364,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 365,
+  "en": "Cheer",
+  "tr": ""
+ },
+ {
+  "id": 366,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 367,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 368,
+  "en": "-",
+  "tr": ""
+ },
+ {
+  "id": 369,
+  "en": "Controls",
+  "tr": ""
+ }
+]

@@ -1,0 +1,61 @@
+@ chap1_text_US
+## c01_016_010
+3|Nyeh... Dün gece iyi uyudum. Ayrıca tuvalete \ngidip dişlerimi kendi başıma fırçaladım.
+4|Bunların hepsini büyüyle mi yaptın!?\nÇok harikasın, Himiko!
+5|Atua'ya şükürler olsun. Mutlaka sana kendi\ngizemli, mucizevi yoluyla yardım etmiştir.
+6|Bu Atua epey gizli iş çeviriyor gibi...
+7|Çünkü Atua tehlike kokuyor.
+8|Ama...biri bizi almaya ne zaman gelecek?
+9|Kim gelirse gelsin...bugün geleceğini\ntahmin ediyorum. Endişelenmeye gerek yok.
+11|Neden suratın asık?
+12|Bir şey yok...
+13|Sanırım kimse kendi yeteneğini bile\nhatırlamayan birini dinlemez, değil mi?
+14|Ne demek istiyorsun?
+15|Gerçekten, bir şey yok.\nBu...epey mutlu bir son.
+16|Ama...bu gerçekten böyle mi bitiyor?
+17|<CLT=cltMIND>Düşünmeden bunu yüksek sesle söylemiştim\nve şimdi herkes bana bakıyordu.
+18|Yani, fazla kolay görünüyor.\nBöyle biteceğini sanmıyorum.
+19|Merak ediyorum... Ölüm oyununun devam\netmesini mi isterdin?
+20|H-Hayır, hiç de değil—
+21|O zaman mutlu anımızı mahvetme,\nseni lanet olası sürtük!
+23|Hey, Kaede... Neden bu kadar endişelendiğini\nbilmiyorum.
+24|Ama Monokuma artık öldü. Ölüm oyununun\ndevam etmesinin imkânı yok, değil mi?
+25|İşte sahneye çıkma işaretim, kuma!
+26|...Ne?
+27|GAAAAAAAAAAAAHHHHHH!!!
+28|M-Monokuma!
+29|H-Hâlâ yaşıyor mu!?
+30|Yok, yok, kör müsünüz siz, kuma?\nBen Monokuma değilim, kuma.
+31|Trajik bir araba kazasında öldükten sonra bir\nYo-Kai olarak yeniden doğdum! Bana Jibakuma deyin, kuma!
+32|Jibakuma mı...?
+33|Bundan sonra Ultimate Akademisi'nin\nmüdürü benim, kuma!
+34|Başta rahatsız hissedebilirsiniz ama\nsonunda alışırsınız.
+37|...Ha? Ağzımdan mı kaçırdım?
+38|Tabii ki, seni lanet sahtekâr! Git seni ezecek\nbaşka bir araba bul! Ve bu sefer ölü kal!
+39|Ah tanrım... O kadar ucuz bir cosplay ki \nbakmaya dayanamıyorum.
+41|Önemli bir sorum var...\nHayaletleri yokailerle karıştırmıyor musun?
+42|Yokailer ilk kez insanlığın doğayla iç içe\nyaşadığı zamanlarda yaratılmış mitolojik varlıklardır.
+43|O zamanlar açıklanamayan doğa olaylarının\nvücut bulmuş haliydiler—
+44|Of be, siz tam bir oyunbozansınız! Siz bana\nbağırmaya başlamadan önce maceraya hazırdım!
+45|İşte bu yüzden ergenlerden nefret ediyorum!\n10 yaş altıyla uğraşsam paraya para demezdim!
+46|Tanrım, burası çok gürültülü.\nBu ne patırtı böyle...
+47|...Dur, NE!? Öldüğünü sandığımız babamız\naslında yaşıyormuuuuuuuş!
+48|Olamaz! Papa Kuma "Ölüm Ucuzdur" klişesine\nbaşvurmayacak kadar havalı ve moderndir!
+49|Bahse girerim bunu Yo-Kai yaptı!
+50|...Hayır, o şaka çoktan bitti.
+51|Daha bitmedi... Bence hâlâ ürkütücü\nşeylerden bahsediyoruz.
+53|Hâlâ yaşadığını bize söylemeliydin!\nVücudunla güveç yapıyorduk.
+54|Dur, Papa Kuma burada duruyorsa güveç\ntenceresindeki ceset kimin!?
+55|Vaaahhh! Hangi Papa Kuma gerçek!?
+56|Hayır, ikisi de gerçek.
+57|Ha? Ama Babacığım, her birimizden sadece bir\ntane olduğunu söylemiştin. Kar taneleri gibi eşsiz olduğumuzu.
+58|Ah...şey, evet, sizin her birinizden sadece bir\ntane var. Ama benim bir sürü yedeğim var.
+59|Gahhh!? Neden senin yedeklerin var da\nbizim yok!?
+60|Tabii ki sizin yedeğiniz olmaz!
+61|Bu devirde birinin "Ölüm Ucuzdur" klişesine\ngerçekten katlanacağını mı sanıyorsunuz!?
+62|...Ha? Bu ne demek?
+63|Ama artık biliyoruz.
+64|Bu okulda...bir yerlerde bir sürü Babacım\nyapabilen bir makine var.
+65|O makineyi çalıştırırsan istediğin kadar\nyedek Babacım olabilir—
+66|Şlap, şlap, şlap, şlap, şlap, şlap!
+67|Olamaaaaaz!

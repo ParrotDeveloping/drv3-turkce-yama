@@ -1,0 +1,302 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=size2>What<CLT=size1> are we\n<CLT=size2>arguing<CLT=size1> about again!?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "What are we arguing about again!?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Th-The <CLT=size2>hidden camera!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Th-The hidden camera!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Isn't it <CLT=size2>weird",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Isn't it weird that the mastermind's\nnot in any photos!?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=size2>that<CLT=size1> the",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "mastermind's not",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "in any photos!?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Unless <CLT=cltAGREE><CLT=size2>they used",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Unless they used the interval between shots.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltAGREE><CLT=size1>the <CLT=size2>interval<CLT=cltNORMAL><CLT=size1> between shots.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "The camera has a\n<CLT=size3>30<CLT=size1>second\n<CLT=size1>interval between shots...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "The camera has a 30 second\ninterval between shots...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "That's <CLT=size2>enough<CLT=size1> time\nto <CLT=size2>take<CLT=size1> the Monopad\nfrom the body.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "That's enough time to take\nthe Monopad from the body.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "THEN-WHERE-",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "THEN-WHERE-WAS-THE-\nMASTERMIND-HIDING?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "WAS-",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "THE-",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "MASTERMIND-",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "HIDING",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "In the",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "In the hidden room, of course!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=size2>hidden room,",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "of course!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltAGREE><CLT=size2>hidden room,",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "IF-THEY-",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "IF-THEY-WERE-STILL-\nINSIDE-THE-HIDDEN-ROOM...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "WERE-",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltWEAK>STILL-",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltWEAK>INSIDE-",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "THE-HIDDEN-ROOM...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltWEAK>HOW-WOULD-",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "HOW-WOULD-THEY-KNOW-WHAT-\nWAS-HAPPENING-IN-THE-LIBRARY?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltWEAK>THEY-KNOW-WHAT-",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltWEAK>WAS-HAPPENING-",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltWEAK>IN-",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltWEAK>THE-LIBRARY",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "If you <CLT=size2>dunno\nwhen<CLT=size1> the <CLT=size2>camera\n<CLT=size1>went off...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "If you dunno when the camera went off...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=size2>how<CLT=size1> would you <CLT=size2>know\n<CLT=size1>the interval timing!?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "how would you know\nthe interval timing!?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=size2>Bravo Monodam!<CLT=size1> Wonderful objection!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Bravo Monodam! Wonderful objection!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Now we've escaped\n<CLT=size2>certain death!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Now we've escaped certain death!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "You're right!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Eh? Is it really that weird?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Interval? Wuzzat?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Y-You don't know that!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Good point!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Hey! Don't agree\nwith her!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Kick her argument's\nass, Monodam!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Puhuhu!\nThat's my boy!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Hey! Father's\npraising Monodam!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Yep, yep!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Monokid can still die, though!",
+  "tr": ""
+ }
+]

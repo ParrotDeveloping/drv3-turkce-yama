@@ -1,0 +1,61 @@
+@ chap1_text_US
+## c01_103_001
+12|Hey! Dalga geçmeyi bırak da bunu ciddiye\nal!
+13|Neden? Ne yaptığımı size gerçekten söylemem\nmi gerekiyor?
+15|Şimdi size dürüst cevaplar verirsem her şey\nsıkıcı olur, değil miiii?
+16|Size sınıf duruşmasında söylemeyi tercih ederim!\nBu çok daha eğlenceli olur!
+17|Zaten fotoğraf kanıtımız olacağı için\nduruşma sıkıcı olacak!
+18|N-Ne diyorsun sen?
+19|Sadece diyorum ki...bu bir oyun.\nHadi biraz eğlenelim!
+20|...Bu bir oyun değil.\nRantaro öldürüldü.
+21|Hepimizin hayatı tehlikede!
+22|Kesinlikle! Bu bir ölüm kalım oyunu!
+24|Nişişi...çok heyecanlıyım.\nSınıf duruşmasının bir an önce başlamasını istiyorum.
+25|<CLT=cltMIND>Kokichi...gerçekten bu durumdan zevk mi alıyor?
+26|Nişişi... Bu bir oyun.\nTadını çıkarmalıyız, değil mi?
+27|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+28|Kaede, şimdilik okul binasının\netrafına bakalım...
+29|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+30|<CLT=cltMIND>Burasının davayla ilgili olduğunu\nsanmıyorum...
+31|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+32|<CLT=cltMIND>Burasının davayla ilgili olduğunu\nsanmıyorum...
+33|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+34|<CLT=cltMIND>Burasının davayla ilgili olduğunu\nsanmıyorum...
+35|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+36|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+37|<CLT=cltMIND>Burasının davayla ilgili olduğunu\nsanmıyorum...
+38|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+39|<CLT=cltMIND>Burasının davayla ilgili olduğunu\nsanmıyorum...
+40|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+41|<CLT=cltMIND>Şimdilik birinci katı araştıralım...
+42|<CLT=cltMIND>Şimdilik birinci katı araştıralım...
+43|<CLT=cltMIND>Bu ekran şu an süre sınırının durdurulmuş\ngeri sayımını gösteriyor...
+44|<CLT=cltMIND>Geri sayım durunca o sinir bozucu ses\nde kesildi.
+46|<CLT=cltMIND>Tsumugi kütüphanede olmalı.
+47|<CLT=cltMIND>Şimdilik buradaki her şeyi araştıralım.
+## c01_103_004
+0|Ah, Tenko!\nSana bir şey sormak istiyordum...
+1|<CLT=cltMIND>Tenko'ya Oyun Odası'nda ne olduğunu\nsorduk—
+2|<CLT=cltMIND>Ama sadece Maki'nin bize söylediklerini\ndoğruladı ve yeni bir bilgi vermedi.
+4|Biliyordum! Kendini Görsel-İşitsel Oda'ya kilitlediği\niçin en şüpheli kişi Gonta olurdu!
+5|Üstelik bir de erkek!
+6|Şey... Bunu kanıt olarak mı sunuyorsun?
+7|Bu arada, soruşturman nasıl\ngidiyor?
+8|Hiç soruşturma yapmadım!
+10|Hey, yoz! Bana öyle bakma!\nBaşka bir şey yapıyordum!
+11|Angie'yi izliyordum!
+12|Angie'yi mi izliyordun...?
+13|Bir kişiyle birlikte soruşturma yapmaya\nkarar vermiştik, değil mi?
+14|Ama Angie etrafta tek başına\ndolaşıyordu!
+15|Ooo, Angie'yle bu yüzden mi birliktesin?
+16|Ben de kimseden şüphelenmek istemiyorum...\nama burada kızların hayatı tehlikede.
+17|Böyle bir soruşturmanın işe yaraması için\nbirbirimize güvenmeliyiz...
+19|<CLT=cltMIND>Ooo, şu an HİÇ mutlu görünmüyor.
+20|Bana karşı ukalalık yapma, seni iki\nyüzlü yoz!
+21|Ö-Özür dilerim, niyetim bu değildi...
+22|Hem Angie'den şüphelensem de\nşüphelenmesem de fark etmez...
+23|Bu soruşturma için hepimizin birlikte\nçalışmayı kabul ettiği gerçeği değişmez!
+24|Soruşturma yapmayacak mısın, Angie?
+25|Soruşturma önemli ama söylemem lazım,\nAtua'ya dualarımı da etmeliyim.
+26|Ey Atua... Lütfen Rantaro sağ salim\ncennete girsin.
+27|Sanırım...bir duanın zararı olmaz...

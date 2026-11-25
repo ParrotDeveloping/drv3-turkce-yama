@@ -1,0 +1,256 @@
+@ game_resident_US
+## A-Kotodama
+1|Hareketli Kitaplık
+2|Kart Okuyucudaki Toz
+3|Shuichi'deki Alıcı
+4|Üst Üste Kitaplar
+5|Kütüphane Havalandırması
+6|Sınıf Havalandırması
+7|Rantaro'nun Eşyaları
+8|Kanlı Gülle
+9|Maki'nin İfadesi
+10|Sürgülü Kapı
+11|Korekiyo'nun İfadesi
+12|K1-B0'ın İfadesi
+13|Ön Giriş Fotoğrafları
+14|Arka Giriş Fotoğrafları
+15|Gizli Kapı Fotoğrafları
+16|Tanıtım Videosu Müziği
+17|Gözetleme Sınıfı
+18|Gerçek Mermisi 18
+19|Gerçek Mermisi 19
+20|Gerçek Mermisi 20
+21|Gerçek Mermisi 21
+22|Gerçek Mermisi 22
+23|Gerçek Mermisi 23
+24|Gerçek Mermisi 24
+25|Gerçek Mermisi 25
+26|Gerçek Mermisi 26
+27|Gerçek Mermisi 27
+28|Gerçek Mermisi 28
+29|Gerçek Mermisi 29
+31|Çizik Kelepçe
+32|Kare Cam Levha
+33|Sıkışmış Piranalar
+34|İşaretli Pencere Çerçevesi
+35|Pirana Tankı
+36|Gonta'nın İfadesi
+37|Böcek Buluşması
+38|Islak Merdiven
+39|Uzun Sağlam Halat
+40|Havuzdaki Simit
+41|Siyah Kumaş Parçası
+42|Yalnız Maki
+43|Ryoma'ya Tanıklık
+44|Çizik Lavabo
+45|Tenis Filesi Kablosu
+46|Kokichi'nin İfadesi
+47|Su Tankı Hilesi
+48|Dünkü Mazeretler
+49|Havuz Kuralları
+50|Gerçek Mermisi 50
+51|Gerçek Mermisi 51
+52|Gerçek Mermisi 52
+53|Gerçek Mermisi 53
+54|Gerçek Mermisi 54
+55|Gerçek Mermisi 55
+56|Gerçek Mermisi 56
+57|Gerçek Mermisi 57
+58|Gerçek Mermisi 58
+59|Gerçek Mermisi 59
+61|Alın Yarası
+62|Kanlı Koli Bandı
+63|Baş Aşağı Asılmış Kuklalar
+64|Varak Kaplı Katana
+65|Sanat Laboratuvarı'nın Ön Kapısı
+66|Sanat Laboratuvarı'nın Arka Kapısı
+67|Kokichi'nin Kilit Açması
+68|Necronomicon
+69|Tsumugi'nin İfadesi
+70|Kafesteki Çocuk
+71|Tenko'nun Son Anları
+72|İşaret Taşı
+73|Gevşek Döşeme Tahtası
+74|Seans Sırasındaki Ses
+75|Demir Kafes
+76|Beyaz Çarşaf
+77|Köpek Heykeli
+78|Korekiyo'nun Çizdiği Sihirli Çember
+79|Köşedeki Delik
+80|Zeminin Altındaki Kiriş
+81|Zeminin Altındaki Orak
+82|Zeminin Altındaki Kurumuş Kan
+83|Kanlı Kokichi
+84|Keebo'nun El Feneri Fonksiyonu
+85|Gerçek Mermisi 85
+86|Gerçek Mermisi 86
+87|Gerçek Mermisi 87
+88|Gerçek Mermisi 88
+89|Gerçek Mermisi 89
+91|Kaito'nun İfadesi
+92|Küçük Zehir Şişesi
+93|Şapeldeki Olaylar
+94|Tsumugi'nin İfadesi
+95|Yüksek Gürültü
+96|Miu'nun Cesedi
+97|Ölüm Oyunu Simülatörü
+98|Giriş/Çıkış Kaydı
+99|Konağın Haritası
+100|Dünya Haritası
+101|Tuvalet Kâğıdı
+102|Köprü Olarak Kullanılan Tabela
+103|Miu'nun Avatarı
+104|Çekiç
+105|Cep Telefonu
+106|Şapelin Yanındaki Kafes
+107|Miu ve Kokichi'nin Buluşması
+108|Salondaki Kokichi
+109|Miu'nun Eklediği Duvar
+110|Kokichi'nin Avatar Ayarı
+111|Avatar Hatası
+112|Cihaz Talimatları
+113|Gerçek Mermisi 113
+114|Gerçek Mermisi 114
+115|Gerçek Mermisi 115
+116|Gerçek Mermisi 116
+117|Gerçek Mermisi 117
+118|Gerçek Mermisi 118
+119|Gerçek Mermisi 119
+121|Hidrolik Pres
+122|Güvenlik Fonksiyonu
+123|Kaito'nun Ceketi
+124|Sürtünme İzli Kan Lekesi
+125|Kapağın Elektronik Kilidi
+126|Banyodaki Kan Lekesi
+127|Arbalet
+128|Üç Ok
+129|Büyük Siyah Çanta
+130|Küçük Boş Şişe
+131|Banyo Penceresi
+132|Elektrobomba
+133|Hangarın Ön Kepengi
+134|K1-B0'ın İfadesi
+135|Kullanılmış Elektroçekiç
+136|Monokuma'yı Koruyan Exisal'lar
+137|Zehir
+138|Kokichi'nin Kıyafetleri
+139|Kokichi'nin Ortadan Kaybolması
+140|Cinayet Videosu
+141|Gerçek Mermisi 141
+142|Gerçek Mermisi 142
+143|Gerçek Mermisi 143
+144|Gerçek Mermisi 144
+145|Gerçek Mermisi 145
+146|Gerçek Mermisi 146
+147|Gerçek Mermisi 147
+148|Gerçek Mermisi 148
+149|Gerçek Mermisi 149
+150|Hope's Peak'in Tarihi
+151|Hope's Peak Sonsözü
+152|Kokichi'nin Motif Videosu
+153|Ölüm Oyunu
+154|İki Gizemli Mesaj
+155|Rantaro'nun Video Mesajı
+156|Gofer Projesi Katılımcı Listesi
+157|Böcek Süpürgesi
+158|Annekuma
+159|Kütüphanedeki Gizli Kapı
+160|Annekuma'nın İfadesi
+161|Hayatta Kalan Ayrıcalığı Monopad'i
+162|Pembe Lifli Gülle
+163|Hatıra Işığı Ayarları
+164|Gizli Oda Geçidi
+165|Annekuma'nın Ses İzi Sistemi
+166|Rantaro'nun Son Fotoğrafı
+167|Altıncı Monoyavru
+168|Beyne Dair İpuçları
+169|Umut
+170|Hayatlarımızı Kullan
+171|Oyuna Devam
+172|Gerçek Mermisi 172
+173|Gerçek Mermisi 173
+174|Gerçek Mermisi 174
+175|Gerçek Mermisi 175
+176|Gerçek Mermisi 176
+177|Gerçek Mermisi 177
+178|Gerçek Mermisi 178
+179|Gerçek Mermisi 179
+180|Gerçek Mermisi 180
+181|Gerçek Mermisi 181
+182|Gerçek Mermisi 182
+183|Gerçek Mermisi 183
+184|Gerçek Mermisi 184
+185|Gerçek Mermisi 185
+186|Gerçek Mermisi 186
+187|Gerçek Mermisi 187
+188|Gerçek Mermisi 188
+189|Gerçek Mermisi 189
+191|Şüpheli Bıçak Sapı
+192|Boğuşma İzi
+193|Kısa Kahverengi Saç
+194|Kayıp Makoto
+195|Tenko'nun İfadesi
+196|Mutfak Bıçağı
+197|Gerçek Mermisi 197
+198|Onayla
+199|Reddet
+206|Çürütme Düellosu Gerçek Kılıcı 1
+207|Durmaksızın Tartışma ・ Kırık 7
+208|Durmaksızın Tartışma ・ Yalan 8
+209|Tartışma Arbedesi 1
+211|Durmaksızın Tartışma ・ Kırık 9
+215|Argüman Silahlanması VS Kaede Akamatsu
+216|Doruk Çıkarımı
+217|Oylama Zamanı
+220|Düzeltme
+223|Çürütme Düellosu Gerçek Kılıcı 1
+227|Kayıt noktası
+228|Durmaksızın Tartışma ・ Yalan 6
+229|Tartışma Arbedesi 1
+235|Çürütme Düellosu Gerçek Kılıcı 2
+236|Argüman Silahlanması VS Kirumi Tojo
+237|Doruk Çıkarımı
+238|Oylama Zamanı
+247|Çürütme Düellosu ・ Gerçek Kılıcı 1
+254|Çürütme Düellosu ・ Gerçek Kılıcı 2
+255|Tartışma Arbedesi
+257|Çürütme Düellosu ・ Gerçek Kılıcı 3
+258|Argüman Silahlanması VS Kiyo Shinguji
+259|Doruk Çıkarımı
+260|Oylama Zamanı
+263|Çürütme Düellosu Gerçek Kılıcı 1
+268|Durmaksızın Tartışma ・ Katılma 6
+269|Çürütme Düellosu 2
+281|Argüman Silahlanması VS Kaito Momota
+283|Oylama Zamanı
+300|Düzeltme
+302|Çürütme Düellosu Gerçek Kılıcı 1
+307|Tartışma Arbedesi
+312|Çürütme Düellosu Gerçek Kılıcı 2
+319|Argüman Silahlanması VS Maki Harukawa
+320|Doruk Çıkarımı
+322|Oylama Zamanı
+350|Düzeltme
+352|Çürütme Düellosu ・ Gerçek Kılıcı 1
+358|Çürütme Düellosu ・ Gerçek Kılıcı 2
+359|Doruk Çıkarımı
+366|Kötü Son
+368|Çürütme Düellosu ・ Gerçek Kılıcı 3
+375|Argüman Silahlanması (Özel) Dış Dünya VS Shuichi
+376|Oylama Zamanı (Özel)
+394|Şüpheli Bıçak Sapı
+395|Boğuşma İzi
+396|Kısa Kahverengi Saç
+397|Kayıp Makoto
+398|Tenko'nun İfadesi
+399|Mutfak Bıçağı
+400|Prolog Sahne 0
+401|Prolog Sahne 1
+402|Prolog Sahne 2
+403|Prolog Sahne 3
+404|Prolog Sahne 4
+405|Prolog Sahne 5
+406|Prolog Sahne 6
+407|Prolog Sahne 7
+408|Prolog Sahne 8
+409|Prolog Sahne 9

@@ -1,0 +1,42 @@
+[
+ {
+  "id": 0,
+  "en": "The kitchen is stocked with ingredients, so I\ncan prepare satisfying meals for everyone.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I spend time with Kirumi?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Are the ingredients provided by Monokuma?\nEven the perishables, too?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I spent some time chatting about cooking\nwith Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Kirumi and I grew a little closer today.",
+  "tr": ""
+ }
+]

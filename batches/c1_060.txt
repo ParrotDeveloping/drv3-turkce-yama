@@ -1,0 +1,55 @@
+@ chap1_text_US
+## c01_100_020
+244|Monopad kesinlikle onun ve tam olarak\nbizimkiyle aynı model.
+245|Üzerinde kart anahtar yok muydu?
+246|Ben de onu düşünüyordum...\nama yoktu.
+247|O zaman...Rantaro gerçekten beyin değildi.
+248|Beyin olsaydı buraya kart anahtar\nolmadan gelmezdi.
+249|Yani şu an bildiklerimize göre...\nen olası ihtimal bu.
+251|<CLT=cltMIND>Rantaro beyin değilse neden\nburadaydı...?
+252|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Rantaro'nun Eşyaları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+253|Shuichi, Rantaro'nun cesedini bana tekrar\nanlatabilir misin?
+254|Evet... Muhtemel ölüm sebebi Rantaro'nun\nbaşının arkasındaki derin yara.
+255|Bir tür künt silahla vurulduğuna\neminim.
+256|Rantaro'nun ceplerinde odasının anahtarını\nve öğrenci el kitabı Monopad'ini buldum.
+257|Üzerinde herhangi bir kart anahtar\nyok.
+258|Bu yüzden Rantaro'nun beyin olmadığını\nsöylemenin güvenli olduğuna inanıyorum.
+259|...Şu an bildiklerim bu kadar.
+261|<CLT=cltMIND>Rantaro beyin değilse neden\nburadaydı...?
+262|Düzenlenmiş Kitaplar
+264|...Kaede, iyi misin?\nCesedi...incelemeyi bitirdik...
+265|Şimdilik buradan çıkalım, tamam mı?
+266|E-Evet...özür dilerim.
+## c01_101_004
+0|<CLT=cltMIND>Herkesle konuşup mazeretlerini\ndoğrulamalıyım.
+1|<CLT=cltMIND>Rantaro hariç bodruma inen altı kişi\nşunlardı...
+2|<CLT=cltMIND>...Kaito, Gonta, Maki, Tenko, Angie ve Himiko.
+3|<CLT=cltMIND>Onları bulup konuşmalıyım.
+5|<CLT=cltMIND>Herkesle konuşup mazeretlerini\ndoğrulamalıyım.
+6|<CLT=cltMIND>Rantaro hariç bodruma inen altı kişi\nşunlardı...
+7|<CLT=cltMIND>...Kaito, Gonta, Maki, Tenko, Angie ve Himiko.
+8|<CLT=cltMIND>Onları bulup konuşmalıyım.
+10|<CLT=cltMIND>Ama Shuichi'yle ben sınıfta gözcülük\nyapıyorduk...
+11|<CLT=cltMIND>Kimsenin buradan geçebildiğini\nsanmıyorum.
+12|Yukarı çıkmadan önce Oyun Odası'nda kimse\nvar mı diye bakmak iyi bir fikir olabilir.
+## c01_102_025
+0|Şurada—Maki. Oyun Odası'nda gördüğüm\nkişilerden biriydi...
+1|Ona ne yaptığını soralım.
+2|Arkada gibi görünüyor...\nOnunla konuşmayı deneyelim.
+3|Başkalarına soru sormayı deneyelim.\nHenüz konuşmadığımız insanlar var.
+5|Maki...Rantaro öldürüldüğünde Oyun\nOdası'ndaydın, değil mi?
+6|Hepiniz burada ne yapıyordunuz?\nRantaro sizinleydi, değil mi?
+7|...Şüpheli miyim?
+8|Ah, hayır! Öyle demek istemedim—
+9|Benden şüphelenmelisin. Hatta herkesten\nşüphelenmelisin.
+11|Hepimiz burada toplandıktan hemen sonra biri\nöldürüldü. Zamanlama fazla kusursuz.
+12|Gerçi süre sınırı dolmak üzereyken belki de\nbu yüzden olmuştur...
+13|O yüzden kimseye güvenme, Kaede...\nYoksa kaybedersin, anladın mı?
+14|<CLT=cltMIND>Maki'yi hiç çözemiyorum. Daha yeni bir\nceset gördü ama gayet sakin.
+15|<CLT=cltMIND>Onu <CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltMIND> olarak\nhayal etmek zor.
+16|Ama...en başta neden hepiniz\nburadaydınız?
+17|Kaito'nun fikriydi. Birden bir strateji toplantısı\nyapmak istedi ve bizi bir araya topladı.
+18|Süre dolunca Monokuma'yla yüzleşmemiz\ngerektiğini söyledi.
+19|Ve bir kavgada işe yarayacağını düşündüğü\nyedi kişiyi seçti.
+20|<CLT=cltMIND>Yedi kişi... Kaito, Gonta, Maki, Tenko,\nHimiko, Angie ve Rantaro...
+21|Ama, şey...o yedi kişinin hepsinin bir kavgada\nişe yarayacağından emin değilim.

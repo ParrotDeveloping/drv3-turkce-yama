@@ -1,0 +1,81 @@
+@ chap2_text_US
+## c02_000_241
+74|<CLT=cltMIND>Görünüşe göre bunu şu an oynayamıyorum...
+75|<CLT=cltMIND>Görünüşe göre bunu şu an oynayamıyorum...
+76|<CLT=cltMIND>Görünüşe göre bunu şu an oynayamıyorum...
+77|<CLT=cltMIND>Görünüşe göre bunu şu an oynayamıyorum...
+78|<CLT=cltMIND>Görünüşe göre bunu şu an oynayamıyorum...
+79|<CLT=cltMIND>Görünüşe göre bunu şu an oynayamıyorum...
+## c02_000_251
+0|<CLT=cltMIND>Tenko'nun Laboratuvar Kapısı
+1|<CLT=cltMIND>Miu'nun Laboratuvar Kapısı
+2|??
+3|<CLT=cltMIND>Sanırım bir ninja heykeli...\nama burada neden böyle bir şey var?
+4|<CLT=cltMIND>Kaide... Dikkatli bakınca bir oyuk var.\nAma neden?
+5|??
+## c02_000_254
+0|<CLT=cltMIND>Eşyayı kullanınca sarmaşık birden soldu...\nBu nasıl işliyor?
+1|<CLT=cltMIND>Oradan görebildiğim kapı okulun içinde\nbir yere çıkıyor olmalı...
+2|<CLT=cltMIND>Nereye çıkıyor olabilir?
+3|<CLT=cltMIND>Demek kapının anahtarı bu...
+4|<CLT=cltMIND>Kumarhane Kapısı Altıgen Anahtar Düzeneği(Kapalı)
+5|<CLT=cltMIND>Kumarhane Kapısı Altıgen Anahtar Düzeneği(Açık)
+## c02_000_257
+8|<CLT=cltMIND>Hepimiz duruşma alanına geldiğimizde...\nyanında nasıl bir yük taşıyordun?
+9|<CLT=cltMIND>Bilseydim ben...\nBelki ben...
+11|??
+## c02_000_281
+1|<CLT=cltMIND>...*Bu* bina da ne?\nİma ettiği şeyden hoşlandığımdan emin değilim...
+## c02_000_353
+8|<CLT=cltMIND>Belki...bir kez daha denerim.\nBu sefer yapabilirmişim gibi hissediyorum...
+9|<CLT=cltMIND>Buraya olabildiğince göze batacak şekilde\n"EXIT" yazılmış.
+10|<CLT=cltMIND>Bir çıkış olduğunu söylediler...\nama bu gerçekten doğru mu?
+## c02_000_400
+4|Dönen Yatak
+5|Atlıkarınca
+## c02_000_502
+0|Gyahahahahahahahahaha!
+2|Kaede'nin Laboratuvarı
+3|Kirumi'nin Laboratuvarı
+4|Gonta'nın Laboratuvarı
+## c02_001_101
+0|O kadar genç ve yeteneklilerdi ki...\nBu nasıl olabilir?
+1|Bir...kaza gibi görünüyordu. <CLT=cltSTRONG>O gruptan<CLT=cltNORMAL>\nkaçıyorlardı.
+2|...Ama gerçekten sadece bir kaza mıydı?\nAçıkçası buna inanamıyorum.
+3|Bunu çok yüksek sesle söyleyemem ama...muhtemelen\n<CLT=cltSTRONG>o grup<CLT=cltNORMAL> tarafından öldürüldüler.
+4|Ben de öyle düşünmüştüm.
+5|Ah, hayır...\nEh, bu konuda yapabileceğimiz bir şey yok.
+6|Yaşamalarını isterdim. En azından\nbizim iyiliğimiz için...
+7|Tanrım...keşke yaşasalardı.
+8|Hayır, yaşamaları gerekiyordu.\nYaşamak zorundaydılar.
+9|Bu dünya için...
+10|Nerede saklanıyorsunuz...?
+11|Çıkın...
+12|Saklanmak yok artık... Hemen çıkın...
+13|Hey! Çıkın, böcekler!\nHepiniz nerede saklanıyorsunuz!?
+15|Tam Gonta birkaç tane bulduğunu düşünürken...\nGittiler.
+16|...Tuhaf. Çok tuhaf.
+17|Bol ağaç, çimen, su, güneş...\nAma böcek yok. Neden?
+18|Tuhaf... Çok tuhaf...
+19|Burada hiç böcek varsa çıksın!\nGonta sizinle konuşmak istiyor!
+21|O ne?\nYerde bir şey var, çimenlerin içinde...
+22|...Üstünde yazı mı var...?
+25|<CLT=cltSYSTEM>*ding dong ding dong ding dong ding dong!*
+27|K-Kim o!?\nBekle, geliyorum, geliyorum!
+28|<CLT=cltMIND>Kapı zili beni acele ettirirken\nkapıyı açmaya gittim...
+30|Hey, ne yapıyorsun?\nSabah oldu bile!
+31|K-Kaito?
+32|Ah...bir şey mi...lazımdı?
+33|Eh, evet! Yemek!
+34|Yemekhanede herkesle kahvaltı yapacaktım\nama sen orada değildin...
+35|O yüzden seni almaya geldim.
+36|Ha? Ama...plan yaptığımızı hatırlamıyorum.
+37|Zaten yemekhanede olman lazım. Yani,\nkahvaltıyı başka nerede yapacaksın?
+38|Ah, ben genelde kahvaltı yapmam, o yüzden...
+39|C-Ciddi misin? Kahvaltı yapmıyorsan\nsabahları ne yiyorsun?
+40|Şey...?
+41|Ah, neyse! Hadi gidelim!\nDiğerleri bekliyor!
+42|Ah, bekle, hazır değilim!\nŞeyimi alayım—
+43|...Aslında...boş ver.
+44|<CLT=cltMIND><CLT=cltSTRONG>Ona<CLT=cltMIND> artık ihtiyacım yok...
+45|Tamam, gidelim.

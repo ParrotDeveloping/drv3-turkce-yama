@@ -1,0 +1,75 @@
+@ chap0_text_US
+## c00_001_018
+0|Hiçlik.
+1|Ne ışık var. Ne ses.
+2|Ne şekil var. Ne bir ses tonu.
+3|Kim olduğuma dair hiçbir bilgi yok.
+4|...Kim olduğum mu?
+5|Ben kimim?
+6|Elimi uzatıyorum.
+7|Hiç kimseye ait olmayan bir el.
+8|Varlığımı kavramak için—
+9|Bu benim.
+10|Benim adım Kaede Akamatsu.
+11|Kim olduğumu az önce hatırladım.
+12|Tanıştığıma memnun oldum...benimle.
+13|Bu çılgın hikâyenin baş kahramanı benim.
+14|...
+15|...
+16|<CLT=cltMIND>Sersem bir halde dolaptan sendeleyerek çıktım.\nAma çıkar çıkmaz...
+17|<CLT=cltMIND>...yere kapaklandım.
+18|Ahh!?
+19|<CLT=cltMIND>Kafama birden kör edici bir acı saplanınca\ndüşüşe hazırlanamadım bile.
+20|Ggghh... Ayyy...
+21|<CLT=cltMIND>Ama o acı sayesinde sersemlikten\nsinirliliğe çabucak geçtim.
+22|...Ha? Dur, neredeyim ben? Burası da ne?
+23|<CLT=cltMIND>Zonklayan alnımı ovuşturdum.\nEvet, burası kesin şişecek...
+24|<CLT=cltMIND>Etrafıma bakındım.
+25|...Bir sınıf mı?
+26|<CLT=cltMIND>Evet, burası kesinlikle bir sınıf.\nAma...burayı tanımıyorum.
+27|Neredeyim ben...?\nBurada ne yapıyorum...?
+28|Ah! Bu bir rüya mı!?\nKendimi çimdiklemem yeter, değil mi?
+29|<CLT=cltMIND>Ben de yanağımı çimdikledim...
+30|<CLT=cltMIND>...ama tek işe yaradığı şey, başımın bir yerine\nek olarak iki yerinin ağrıması oldu.
+31|Şeyy... Tamam, bir saniye. Sakin olalım\nve her şeyi düşünüp taşınalım.
+32|<CLT=cltMIND>Kafam karışık da olsa buraya nasıl\ngeldiğimi hatırlamaya çalıştım.
+33|<CLT=cltMIND>Ama ne kadar uğraşırsam uğraşayım,\nsonunda bir türlü—
+34|<CLT=cltSYSTEM>*güm!*
+35|Vay!!!
+36|<CLT=cltMIND>Birden yanımdaki dolap sallanıp titremeye\nve bir sürü gürültü çıkarmaya başladı.
+37|<CLT=cltMIND>Korkuyla arkamı döndüğümde dolabın kapısı\nyavaşça açıldı ve...
+38|<CLT=cltMIND>...içinden sendeleyerek bir çocuk çıktı.
+39|Hıııı...
+40|<CLT=cltMIND>Okul üniforması giymiş sıradan bir çocuk...\nHatta o da lise öğrencisi olabilir.
+41|<CLT=cltMIND>Şaşkın görünüyordu ve başını yavaşça\nkaldırdığında...
+42|...Ah! Aaaah!!!
+43|<CLT=cltMIND>Canavar görmüş gibi çığlık attı, poposunun\nüstüne düştü ve geri geri kaçtı.
+44|S-Sen de kimsin!? Sen de o\n<CLT=cltSTRONG>diğerlerinden<CLT=cltNORMAL> misin!?
+45|...Hangi diğerleri?
+46|Beni kaçıran insanlar!
+47|Kaçırmak mı?
+48|N-Neredeyim ben...?\nBana ne yapacaksınız!?
+49|Hey! Bir dakika!
+50|<CLT=cltMIND>Omuzlarından sıkıca tuttum...
+51|Adın ne senin?
+52|...Ha?
+53|Ah, ben...Shuichi Saihara.
+54|Ben de Kaede Akamatsu.\nŞimdi beni dinle, Shuichi...
+55|Kes sesini! Şu an kafası karışık olan\ntek kişi sen değilsin!
+56|Ah, özür dilerim...
+57|<CLT=cltMIND>Onu susturduktan sonra yaşadıklarımı\ntekrar gözden geçirdim.
+58|...Doğru ya.
+59|Ben de kaçırılmıştım!
+60|Her zamanki yolumdan okula yürüyordum ki\nbirden biri beni bir arabaya itti.
+61|Yardım diye bağırdım ama kimse beni\nkurtarmaya gelmedi...
+62|Herkes hiçbir şey olmamış gibi davrandı...\nDünyanın ne kadar çürük olduğunu düşündüm...
+63|Sonra da bayılmışım...
+64|Uyandığımda da o dolabın içindeydim...
+65|Bende de aynısı oldu...\nAcaba aynı kişiler tarafından mı kaçırıldık?
+66|Öyle görünüyor...
+67|Ama...neden ben?
+68|Ailem zengin değil, ben de özel biri değilim.\nSadece sıradan bir liseli kızım.
+69|Beni kaçırmaları için bir sebep yok...
+70|Benim için de öyle...\nBen de sıradan biriyim...
+71|Hem...burası bir okul, değil mi?\nBizi neden bir okula getirdiler ki?
+72|Acaba neden...

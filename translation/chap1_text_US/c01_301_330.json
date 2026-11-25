@@ -1,0 +1,772 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>The moment it was over, I felt my legs\ngive out under me.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>What I just saw...\ndidn't feel real.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>As if all reality had vanished, and the\nonly thing left was a fictional world.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Real or not...\nKaede was gone.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Kaede Akamatsu...\nno longer existed in our world.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Huh? What the...?\nWh-Why is Monokid...?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "M-Monodam?\nWhat...have you done...?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...BLRBLRBLRBLRBLRB!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Ah, gross! She puked again!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "But this tension ain't so bad, y'know?\nFinally feels like a proper killing game.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "If anything, we could stand to use a little\nmore tension in our lives. Right, dad?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Nooo! My sweet, darling Monokid...\nClaimed as collateral damage!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "This is a nightmare... This is unacceptable...\nMy precious cub is...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...On second thought, I guess it's okay.\nAfter all, I still got four more cubs!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Phew! I'm glad you kids came in bulk.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...Huh? It's okay?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I-I'm shocked... Our existence...means that\nlittle, huh?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "What's done is done, what's dead is dead.\nNo point crying over crushed cubs...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...Unless you wanna end up like\nthese sad sacks.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "What...!\nWhat in the world...is this...!?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "A-Are you...fuckin'...kiddin' me!?\nTalk about overkill...!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Atua... Please grant Kaede's soul\neternal repose.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I...I can't believe this happened to Kaede...\nI liked her...s-so...m-m-muuuuuch...!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "WAAAAAAAAAAHHHHHHHHH!!!!!\nKAAAAEEEEEEEDDDEEEEEEEEEE!!!!!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Puhuhu! All this adrenaline creates such\nan exquisite <CLT=cltSTRONG>feeling of despair<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "It's moments like this that make\nall the killings worth it!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "W-Why...are you doing such\na terrible thing...?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "You're the worst of the worst! Does human\nlife have no value to you at all!?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Hey, I know human life is precious.\nI'm not a monster, y'know.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Cuz if human life wasn't precious, ending\nit wouldn't be nearly as much fun!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "There's no greater joy than witnessing\nsuch a display of <CLT=cltSTRONG>despair entertainment<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Kehehe... You've surpassed \npsychotic by a wide margin.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "...I don't think I've ever \nfelt quite this...irritated.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I... I won't forgive you for this!\nGot that!? I won't ever forgive you!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Spoken like a marked man!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "What is your objective, Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...Do you hate us? If so, have we done\nsomething to make you hate us?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...Hate you?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Puhuhu... Who can say?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "That's your job to figure out.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "If you really wanna know what's going on,\nyou're gonna have to work for it.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...Though the corpse formerly known\nas Rantaro may have had a hunch.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "What do you mean?\nWhat was Rantaro's hunch?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Puhuhu... What, indeed?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "He did say he would end this game, and he\nalso knew about the hidden door...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Could that be at all related to this <CLT=cltSTRONG>hunch<CLT=cltNORMAL>\nyou claim he had?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Puhuhu... I wonder...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Hey! What the hell's this <CLT=cltSTRONG>hunch<CLT=cltNORMAL> you're\ngoin' on about!? Spill it!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Puhuhu... I wonder...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "If you have no intention of telling us...then\nkeep your mouth shut.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "You're focusing on Kaede instead of her\ndeadweight victim.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Well, it's not his fault he was useless. He\ndied before his <CLT=cltSTRONG>talent<CLT=cltNORMAL> could be revealed.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "If he had lived long enough to reveal it,\nmaybe he would've been more useful...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Oh well! He's dead and that's that!\nThat's the indifference of <CLT=cltSTRONG>death<CLT=cltNORMAL> for ya!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "He...wasn't really the mastermind, was he?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Huh? Are you *still* pestering me\nwith these annoying questions!?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Aren't you guys focusing a little too much\non whether or not there's a mastermind?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "If you keep this up, you're all gonna\nend up like Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Wh-What!?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Maybe spend less time worrying about nonsense\nand more time watching your back, okay?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "You never know who's gonna become\nthe next killer.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Ah, I can't wait! I wonder what kind\nof killing game we'll get to see next!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Dammit! You may have gotten us this time,\nbut we'll get you next time! You'll see!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Why are you all psyched up...?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "It's nice to see that at least one of you\nhas some chutzpah around here.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "I have a feeling you're gonna live for a while.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Thanks! I'll do my best!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Shut the hell up! We're...not gonna have\nanother killing game!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I, Kaito Momota, am not gonna \nlet you have your way anymore!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Got it!? I'm gonna punch that grin\nright off your face. For sure!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Oh, really...? That seems unlikely.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "I'm pretty sure you won't live long\nenough to do that.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Krgh...!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Anyway, you guys have a lot to think about...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Work hard and do your best to graduate!\nCuz the fun's only just begun!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Hey, Monodam! Explain yourself!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "I get that Monokid was obnoxious and\nrude, but that was way over the line...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "...I-DID-IT-FOR-US.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Hey! Wait, Monodam!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Wh-Where are you going!?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "He probably killed him as payback for all the\nbullying. What an interestin' turn of events...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>And with that, Monokuma and the cubs left,\nand only we remained in the courtroom...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "I...I don't think I can take all this...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "I can't stand this anymore... \nI-I feel like...I'm going to go crazy...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Tsumugi, you musn't give up hope.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Is there even hope to be had here?\nThe room feels utterly drained of it.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Gh... Ergh... K-Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Wh-What kinda d-degenerate male...cries\nin p-public...? It's so r-rude...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "But, Tenko, you're crying too.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Now's not the time to point \nthat out, Keebo. Just let it be.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "In times like this, we should pray for\nKaede's soul so she can rest in peace.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "H-How's anyone supposed to rest in peace\nafter getting killed like *that*!?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "What are we gonna do from now on...?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Y-Yeah, I'd like to know, too...\nI'm so over this already...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Aaargh! Shut up! SHUT! UP!\nYou all just need to SHUT UP!!!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "<CLT=cltMIND>Kaito's voice boomed in\nthe air, and the room went silent.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Every single one of you...and your meek \nlittle complaints...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "You're pissing me the hell off!!!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "But the one who's pissing me off the most...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "...is you, Shuichi!!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltSYSTEM>*pow!*",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Clench your teeth!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Kaito! You are supposed to say that\n*before* you hit him!",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Didn't you hear what Kaede said!?\nShe said...she believed in you!",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "That she passed her wish on to you!",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "But what the hell's wrong with you!?\nYou didn't say a damn thing to Monokuma!",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "You call yourself a man!?!?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "...What's the matter? \nSay something already.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "I just hit you! Aren't you pissed off!?\nWhat's your problem!?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "...Enough, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Sucker punching is pretty low...even for a\nlowlife degenerate male like you.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "You better knock it off or I'm gonna explode\nmy <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> all over your face!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "...Tch. Fine.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Shuichi...are you okay?",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "...I'm fine.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Please stop. This sort of altercation is\njust a waste of time.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Gonta not sure it waste of time.\nBut Gonta agree, fighting not good...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Can we leave now? Staying here will only\nmake us more depressed.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Kehehe... Well put. \nI agree wholeheartedly.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Sorry, you all should\ngo ahead without me...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "...Why? Is there a reason you wish to\nstay in a place like this?",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "I want to be alone for a while.\nJust for a little bit.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "But we can't just leave you here \nby yours-",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Tsumugi, perhaps it would be best if we\nallowed him some privacy for now...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Oh...okay. I suppose...",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Shuichi...don't beat yourself up, 'kay?",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Yep! Just hit the reset button on your feelings\nand you'll feel happy and cheerful in no time!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Being a tad insensitive is important for\nsurvival. It helps one avoid suicidal thoughts.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Gonta will go back, too... Let Gonta know\nif you need his help, okay?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "<CLT=cltMIND>One by one, everyone\nclimbed aboard the elevator.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>Except...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Shuichi...I dunno how well \nyou knew Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "But why don't you try \ngoing to her <CLT=cltSTRONG>Ultimate Lab<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Monokuma set the room up, so there's probably\nnot a lot there to remember her by...",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "But...there should at least be \na bunch of little things she liked.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Things...Kaede liked...?",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Understand? There's only one way\nto get through this awful feeling.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "No one's gonna be able to console you \nif you're just sitting here alone.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "If anyone's gonna help you,\nit'll be her...in your memories.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "<CLT=cltMIND>With those words,\nhe stepped onto the elevator.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltMIND>Before I realized it,\nI got to my feet.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "<CLT=cltMIND>I just started walking,\nand I was headed toward...",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>Ultimate Pianist<CLT=cltMIND>'s Research Lab.",
+  "tr": ""
+ }
+]

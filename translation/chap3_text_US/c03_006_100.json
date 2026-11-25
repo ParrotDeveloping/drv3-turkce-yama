@@ -1,0 +1,232 @@
+[
+ {
+  "id": 0,
+  "en": "Oh, hey bro!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Good morning!\nDid you hear the announcement?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yeah. We gotta meet up in the gym, right?\nWhat's going on so early in the morning?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Well, I guess we got no choice but to go.\nYou go on ahead, bro.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "What? You're not going?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Nah, I'm going. I just gotta take care of\nsomething first, then I'll meet you there.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>Kaito pointed at the door to Maki's room.\nI suppose he's going to take her.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "They said everybody's gotta be there, right?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Who knows what'll happen if some \nof us don't show up.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Yeah...you're right.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Last night's training session, and now this.\nKaito is really concerned about Maki.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>It would be nice if he could help\nher get along with everybody.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Go on ahead, bro.\nI gotta take care of something.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Good morning, Kiyo.\nAre you going to the gym?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Ah, yes...I was about to head over just now.\nI overslept a bit today, you see.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Kehehe... Of course, the one time I do that,\nwe are summoned, so I panicked a bit.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I am normally ready to leave my room\nby 7:30 a.m.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "That early? I usually wake up\nat the Monokubs' announcement.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I usually wake up at 6:00 a.m., since it takes\nme so long to get ready each morning.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Why does it take so long?\nIsn't that even longer than what a girl takes?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Well, Kiyo does have a pretty elaborate\nuniform. Perhaps that's why.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "In any event, we've no time for idle chats.\nI shall go on ahead to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>You had...no one.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>You found out that awful truth \nand gave up your life for Kirumi.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>But...I think...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>Ryoma...\nYou wanted to fight with us right?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>Was that not enough to be your reason to live?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>You could fight with us...we could fight together...then you could live.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>We couldn't be...your reason to live...?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "...Maybe that's arrogant.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>...It won't open.\nIt seems to be locked.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>Kirumi's final moments... I can't get the image\nof her running for her life out of my head.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>I can still hear her...\nHer scream of defiance.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Perhaps running isn't so bad...\nPerhaps we aren't strong enough to face it.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>In order to live until the <CLT=cltSTRONG>end<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>...It won't open.\nIt seems to be locked.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ }
+]

@@ -1,0 +1,502 @@
+[
+ {
+  "id": 0,
+  "en": "Kaede, Shuichi! I would like to ask you two\na question!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "You were on lookout inside this classroom,\nright?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yeah. From here, we could keep an eye on the\nbasement, and it was close to the library, too.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "That's our alibi.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "We were both in this classroom when the\nmurder occurred.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I see... Then the probability that you two\ncommitted the crime is extremely low...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "By the way...were you two together the\nentire time?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "No...I did leave for a bit to see what was\nhappening in the basement.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "But besides that, we were together the\nwhole time, until the receiver went off.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Y-Yeah, that's right...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...I understand. Thank you very much.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Lookout Classroom<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.\n",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Is that all you wanted to ask?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Oh, may I ask you one more question?\nSpecifically, about that vent...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "It appears to be connected to this classroom.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "The air duct in the basement hallway leads\nto it...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Yes, I was also concerned about this vent...\nThat's why we kept watch in this classroom.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Because the culprit wouldn't be able to use\nthis vent if we're in here on lookout.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Under those circumstances, it would be\ndifficult to sneak into the library from here.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Kaede stacked up books in front\nof the library vent as well.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "With those in the way, it would be even\nharder for someone to go in and out.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Really? I will be sure to save that important\npiece of information to my memory bank.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Classroom Vent<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.\n",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I hope my line of questioning has not offended\neither of you.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "It is necessary, so that we may find the\ntruth.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Keebo, you totally sounded like a detective\nor a lawyer just now!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Oh! Maybe you were a detective or a lawyer\nin a past life!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "A past life...? How could I have a past life\nwhen I'm not made of human components?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Let's ask these two what they were doing\nwhen the body discovery announcement played.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Have you already spoken to Tsumugi?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "She's at the crime scene in the library,\nright?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Kehehe... Let me guess.\nYou wish to hear my alibi, yes?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Huh? How'd you know?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "My appearance and actions thus far suggest \nI am someone who would commit a murder.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>At least he's self-aware...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "So, to briefly state the truth...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "When the body discovery announcement\nplayed, I was in the <CLT=cltSTRONG>dining hall<CLT=cltNORMAL>, eating supper.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "The other people there with me \nwere Miu, Kirumi, and Tsumugi.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "The Monokubs prepared the meal for me.\nIt was listed on the menu as...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltSTRONG>\"Pasta that tastes like a lonely old lady eating\nher grandkid's birthday cake\"<CLT=cltNORMAL> or somesuch...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...That pasta sounds depressing.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "That concludes my alibi...\nI do hope it can be of some help.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "And what about the people around you?\nDid you notice anything in particular?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Ah...if there was something to note, it would be\nthat Miu was tinkering with something or other.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "There was also a brief period of time where\nTsumugi left to use the restroom.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "The restroom, huh? Interesting.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Well, Tsumugi *is* the <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "She could've gone to the bathroom to\nsecretly disguise herself as someone else.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Someone else? But who?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I don't know, but I'll go talk to her. She should\nbe at the crime scene in the library.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Korekiyo's Account<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.\"",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "When the body discovery announcement\nplayed, I was in the dining hall, eating supper.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "The other people there with me \nwere Miu, Kirumi, and Tsumugi.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Tsumugi left to use the restroom at some \npoint. However, she wasn't gone long.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>That bothers me... Tsumugi *is* the\n<CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>She could've gone to the bathroom to\nsecretly disguise herself as someone else.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>I'm not sure who, though... Anyway, I'll talk to\nher. She should be in the library.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>But before that, I still need to confirm\nKeebo's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Hey, Keebo, what were you doing and where\nduring the body discovery announcement?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Ah... My alibi.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "...Um, are you glitching right now?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "No, I'm just searching for the right words.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "In all honesty, I was alone in my room, so I\nadmit my alibi is not altogether reliable...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "So...you don't have an alibi?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "But Ryoma said he was alone in his room,\ntoo.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Geez, way to throw him under the bus.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Huh!? Th-That was not my intention!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>But I see... Both Keebo and Ryoma\ndon't have an alibi...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>That means, it's possible one of those two\nis the mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Umm... Am I under suspicion because I don't\nhave an alibi?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "No... I won't suspect you just because you\ndon't have an alibi.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "And I'm not saying that because you're a\nrobot or anything! I'm not robophobic at all!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Thank you very much.\nBut...you don't need to be so PC.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>K1-B0's Account<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "I was alone in my room, so I admit my alibi\nis not altogether reliable...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "No... I won't suspect you just because you\ndon't have an alibi.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "And I'm not saying that because you're a\nrobot or anything! I'm not robophobic at all!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "S-Sure, but...you don't need to be so PC.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>I can't leave yet...\nThere's still something I need to check.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>What a weird blackboard...\nBut it's not related to this case.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>It's wrapped with barbed wire...\nThis isn't related to this case.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>Teacher's Desk",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>I'll ask those two what they were doing\nduring the body discovery announcement.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>It's the vent that connects to the library...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>Shuichi and I were on lookout in the\nclassroom that connects with this vent...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>This monitor currently displays a paused\ncountdown for the time limit...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>When the countdown stopped, all that obnoxious\nnoise stopped, too.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>I wonder what would've happened if the\ntime limit had expired...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Putting aside the thing about Tsumugi...\nNow we know everyone's alibi.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Huh? What about Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "We don't need to ask him.\nHe was definitely alone.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Everyone we talked to hadn't seen him, so\nno one would corroborate his alibi, right?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "That means he must have been alone.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Oh, you're right! I guess that's why you're\nthe detective and I'm...not!",
+  "tr": ""
+ }
+]

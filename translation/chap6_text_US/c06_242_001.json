@@ -1,0 +1,87 @@
+[
+ {
+  "id": 0,
+  "en": "This <CLT=size2>game<CLT=size1> is gonna\n<CLT=cltAGREE><CLT=size2>keep going<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "This game is gonna keep going!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "And this <CLT=size2>class trial <CLT=cltAGREE>ain't over yet<CLT=cltNORMAL><CLT=size1> either!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "And this class trial ain't over yet either!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "You really want\nthe killing game to <CLT=cltWEAK><CLT=size2>end<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "You really want the killing game to end?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "You really <CLT=size2>want<CLT=size1>",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "You really want Danganronpa to end?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Danganronpa to <CLT=cltWEAK><CLT=size2>end<CLT=cltNORMAL>？",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=size2>Come\non,\neven if",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Come on, even if we keep going back and forth...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=size2>we\nkeep\ngoing",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "back and forth...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "let's keep <CLT=cltAGREE><CLT=size2>this game<CLT=cltNORMAL> going!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "let's keep this game going!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I won't <CLT=cltAGREE>let it be<CLT=size2>\n　\n　\n　\n<CLT=cltAGREE><CLT=size2>Voting Time<CLT=size1> yet!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I won't let it be Voting Time yet!",
+  "tr": ""
+ }
+]

@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_016_010
+68|Bu duygusal bir kavuşma, o yüzden hepiniz\nyalanmaya katlanacaksınız!
+69|B-Babacığım! Sevgin bizi boğuyor!
+70|Hiiiii!!! Yeter, yeter!
+71|Sizi görünce o kadar heyecanlanıyorum ki\nkendimi tutamıyorum.
+72|Çok tatlısınız! Tanrım, annenizle babanızın\nneye benzediğini görmek istiyorum!
+73|...Dur! Anneniz babanız *benim*!
+75|Ben... Pardon, buna tepki veremiyorum...\nÇok şoktayım.
+76|Bu...ölüm oyununun devam edeceği\nanlamına mı geliyor?
+77|D-Devam mı? Ölüm oyunu...devam mı\nedecek...?
+78|Ne zahmet...
+79|Mesele o değil, eşek kafa!
+80|N-Ne demek...ölüm oyunu...\ndevam edecek...?
+81|Yani, kulağa çok daha az sıkıcı geliyor...\nsanırım sorun yok!
+82|Hayır, kesinlikle sorun var!
+83|Demek böyle olacak...\nBuna son vermek istiyorsak...
+84|Monokuma'yı *ve* onun arkasındaki kişiyi\nalt etmeliyiz.
+85|Bir yedek olacağını tahmin etmiştim ama\nakademinin içinde yapılacağını beklemiyordum...
+86|Her halükârda bunun olacağını varsaymıştım...\nBu gelişme şaşırtıcı değildi.
+87|Öyle mi? O zaman bu sonraki heyecanlı\ngelişmeyi de tahmin etmiş miydin?
+88|Öhöm! Şimdi bir <CLT=cltSTRONG>ek motif<CLT=cltNORMAL> açıklamaktan\nmutluluk duyuyorum!
+89|Ek motif mi!?
+90|Artık bir süre sınırı var! <CLT=cltSTRONG>Bundan iki gün sonraki\ngece vaktine<CLT=cltNORMAL> kadar bir cinayet işlenmezse...
+91|bu ölüm oyununa katılan bütün öğrenciler\nölecek!
+92|Söylentilere konu olan Monokuma yapan\nmakineden çıkan sayısız Monokuma tarafından paramparça edilerek!
+93|Yani pembe lekelere dönüşmek istemiyorsanız\nbu oyunu ciddiye alsanız iyi olur!
+94|Ahhhhh-hahahahaha!
+95|S-Süre sınırı mı?
+96|Ne? Herkes ölecek mi?
+97|Ne!? Bu haksızlık!
+98|Tanrım, ölüm oyununu oynamayacaksanız\nbu okula neden geldiniz ki?
+99|Bizi buraya gelmeye zorlayan \nsensin!
+100|Kısa bir soru, Babacığım!
+101|"Sayısız Monokuma" ne demek? Süre dolunca\nsıranın bizde olduğunu sanıyordum.
+102|Aynen öyle! Bu sefer Exisal'lar işini\nyapsın!
+103|Ama...bunu tekrar yaşamamayı tercih ederim...\nKendinizi yorarsanız kötü hissederim...
+104|Ama Exisal'ları popüler yaparsak elimizde\ngerçek bir altın yumurtlayan tavuk olur, biliyor musun?
+105|Sadece ürün lisansları bile bizi\nsultanlardan zengin yapar.
+106|Hmmmm, sultanlar ha?\nÇok cazip ama...
+107|Geleceğinizi mahvetmenize izin vermeyeceğim!\nKendi çocuklarınız olmalı ve onların geleceğini mahvetmelisiniz!
+108|B-Babişko! Bizi o kadar çok seviyorsun ki...!
+109|Y-Yeter artık!
+110|Ah. Hâlâ burada mısınız.
+111|Tabii ki! Hiç gitmedik ki!
+112|Bunu neden yapıyorsun!? Bize daha ne kadar\nacı çektirmek istiyorsun!?
+113|Anlıyorum... Eh, acı çekiyorsanız bir an\nönce ölüm oyununa başlasanız iyi olur.
+114|Puhuhu... O zaman acıya güle güle\ndiyebilirsiniz.
+115|S-Seni alçak!
+116|Birlikte çalışmanın anlamsız olduğunu\nanlamıyor musunuz? O yüzden kesin artık şunu.
+117|Ne yapmanız gerektiğini biliyorsunuz, değil mi?
+118|Etrafınız ne müttefik ne arkadaş olan\nyabancılarla dolu. Onları dert etmeye gerek yok.
+119|Üstelik İlk Kan Ayrıcalığı'nız var!\nYani ilk cinayet bedava!
+120|Ama...ölüm oyunu kanlı, değil mi?\nBiraz midem bulanmaya başladı...
+121|Hah işte! Oynamazlarsa zaten ölecekler,\nbu da çok daha kanlı!
+122|Anlıyorum... Gereksiz, abartılı bir vahşet olursa\nbelki midem kaldırır...
+123|O zaman ölüm oyununu unutun! Hep\nbirlikte ölmeniz daha iyi olur!
+124|Kes sesini ve siktir git GERİ!

@@ -1,0 +1,457 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Kaede, what's wrong?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Tsu-Tsumugi couldn't have disguised\nherself...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "You understand, since you saw \nthe cospox, right?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Cosplay is love.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "You breathe life into characters. \nIt's almost like you're summoning them...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "From fiction into the real world...\nLike an oracle channeling the gods.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "That's why I can cosplay various characters \nfrom across the wide world of fiction...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "But it's impossible to cosplay as someone \nwho exists in the real world.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Because that's not cosplay, it's just \nimpersonating someone.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I-I really didn't need that long explanation.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Huh? This chime...!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "It's time, you bastards! Time for the\nlong-awaited class trial!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "No, it's not! We're just announcing that the\nphotos are ready! Don't interrupt meeee!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Anyway, I'll be waiting at the warehouse.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Hey... Does my face look weird to you?\nHas my face...always looked this weird?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "So long! Bear-well!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Did you hear that, Shuichi?\nThe pictures have finally been developed!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Let's go! Come on, get a move on!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Ah! Wait, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>I ran as fast as I could to the school\nwarehouse.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>I couldn't stay put, knowing that the\ntruth was so close at hand.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "You're going to ask Tsumugi about\nwhat we talked about, right?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "What's wrong? Did you find something \noutside?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Yeah, kinda...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Hmph, well that's a good thing, right?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "I just want to make sure of something...\nWhat were you doing when the body was found?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Oh, an alibi? Took you long enough\nto ask me for mine.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Unfortunately, I don't have one.\nI was just in my dorm room alone.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>That backs up what Keebo said...\nBut if you think about it...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>Since he said something that he knows will\nmake him suspicious...maybe I can trust him?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Unfortunately, I don't have an alibi.\nI was just in my dorm room alone.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "It just occurred to me... I never provided\nyou with my alibi.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "During the body discovery announcement,\nI was in the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Kiyo, Tsumugi, and Miu were there as well.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Kiyo was dining, while Miu was tinkering with\nsome piece of machinery.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "In retrospect...Miu was most likely working\non that drone of hers.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "That corroborates what Kiyo was saying.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Kirumi and the others' alibis seem to check\nout. Now...I just need to confirm Tsumugi's.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Umm...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Hey, Tsumugi...\nI need to ask you something...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Ummmm...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "She looks like she's busy thinking about\nsomething, she won't talk to me...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Okay, but that's no excuse to give up.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>I grabbed the hem of Tsumugi's skirt,\nand began to lift it slowly...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I'm gonna lift your skirt, Tsumugi.\nYou okay with that?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Wait! Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "You better talk, or I'm gonna lift your skirt\nfor Shuichi to see.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "And then I'm gonna tie your skirt around your\nhead so everyone can see your panties.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "I understand. I just need to talk, right?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Oh, took you long enough.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Well, I can't let Shuichi's innocent eyes\nget dirty...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Ah! No! They won't get dirty!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Are you saying you've seen dirtier, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "What did you want to talk about?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "I'm just gonna cut to the chase—since you're\nthe <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "That means you could disguise yourself\nas anyone—even one of us, right?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Oh, so that's what you think of me. Well, \nsince we're in this situation, I'll be clear...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I only cosplay fictional characters. I don't\ncosplay real people...or rather, I can't.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "You can't? Isn't it easy to just wear someone\nelse's clothes as a disguise and—",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Cosplay isn't a disguise!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Ah! S-Sorry!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Well...you'll probably have a hard time \nbelieving me if I just say it, so I'll show you.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Show me...how?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Come on, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Ah, wait!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Huh? Don't rush me!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "I'm almost done sketchin' the floor plan!\nTill then, just shut the hell up, Kaediot!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>I wonder if she'll finish the\nsketches on time...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>This monitor currently displays a paused\ncountdown for the time limit...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>When the countdown stopped, all that obnoxious\nnoise stopped, too.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>I wonder what would've happened if the\ntime limit had expired...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>I need to confirm Tsumugi's alibi...",
+  "tr": ""
+ }
+]

@@ -1,0 +1,567 @@
+[
+ {
+  "id": 0,
+  "en": "The culprit met him inside the library?\nThat doesn't seem possible though.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Let's hear it, then. \nWhat's your reason?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "If you take a look at the <CLT=cltSTRONG>three pictures<CLT=cltNORMAL> from\nthe camera we placed near the front door...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "This is when Shuichi and I met up with \nKaito and Tenko, and then rushed in.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "This one shows the other four people running\nin after they heard Tenko scream.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "And finally, everyone else coming in after \nhearing the body discovery announcement.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "You can clearly see everyone entering\nthe library in these pictures.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "It wouldn't make sense if there was someone \nhiding in the library the whole time.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Well... That does cover everyone, \nnow doesn't it?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I guess the one who still has \na ways to go...is me.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Don't worry about it. It's better to think\nabout each possibility anyway.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Right, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hm? Ah, um, yes.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Is Shuichi okay?\nHe's been really quiet...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Is he worried about something?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "So the real question is how the culprit\nentered and exited the library.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "We cannot continue until we address\nthat problem first!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "It's quite the mystery. How did the killer \navoid being caught by the cameras?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "It's almost like they were invisible.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Oh, but it wasn't me. My magic \ncan only make you half-invisible.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "...Your upper half, to be specific.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "That's kind of a half-baked \ninvisibility spell, isn't it?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "But both doors to library had\nhidden cameras on them...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "How about the vent in the library?\nMaybe they came in through there.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "But Shuichi and I were on lookout in the\nclassroom with the connecting vent.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "The culprit waited until Kaede and Shuichi \nweren't looking...then turned invisible!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Himiko is really gung-ho about her invisible\nculprit theory!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Ummm...yeah, no. There's no way someone\nsnuck into the library through the vent.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>That's right... We have evidence that proves\nthat would've been impossible.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "If the culprit had gone through the vent, they\nwould've set off the security sensor!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "The security sensor reacts if the bookcase\nis moved. You set that up yourself, yes?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "There's no evidence that anyone used\nthe classroom vent.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I was unable to confirm that.\nHow did you arrive at that conclusion?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ummm...if you look closely at this picture,\nyou can see the vent wasn't used...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "The vent isn't visible in this photo. As the one\nwho set the cameras, you should know that.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Ummm...if you look closely at this picture,\nyou can see the vent wasn't used...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "The vent isn't visible in this photo. As the one\nwho set the cameras, you should know that.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Ummm...if you look closely at this picture,\nyou can see the vent wasn't used...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "The vent isn't visible in this photo. As the one\nwho set the cameras, you should know that.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Nyeh... If there's no good evidence,\nthen maybe they were invisible after all.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "That has nothing to do with the air vent.\nProbably... I dunno...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "What is the evidence that proves no one\nsnuck into the library through the vent?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "When I set the cameras, I also <CLT=cltSTRONG>stacked \nsome books<CLT=cltNORMAL> in front of the vent.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "If someone did crawl in and out from the\nvent, the books would've collapsed.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "While we were investigating, they were still\nneatly stacked the way I placed them.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Maybe they put the books back\nwhen they left the room.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "That would be quite difficult to achieve\non such a narrow bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "If we've ruled out the vent and doors, then\nhow'd the culprit get in and out of the library?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Maybe...divine intervention!?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Gonta no can think of any other way\nto enter...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Eureka! I know how the culprit got\nin the library—the front door!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Um... Have you been paying attention?\nThe camera would've taken their picture.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Not if the culprit timed their movements\naround the <CLT=cltSTRONG>camera intervals<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Huh? Intervals?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "What is that...?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Basically, the culprit knew about the\ncameras and their intervals.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "So they snuck into the library between camera\nshots! To avoid appearing in the photos!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Hyah-hahahahaha! I know, I know...\nBeauty *and* brains? Why, it's just not fair!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Miu! What's this interval you're talking\nabout!?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Huh? Oh, *now* you're asking me?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "After the shutter snaps, the camera can't\ntake a new photo for 30 seconds.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Cuz I redesigned the cameras to auto-roll\nthe film instead of having to do it manually.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "That's the first time I'm hearing about this!\nWhy didn't you tell us from the start!?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Heeeeeeeeeee!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "B-But...I told your little beta boytoy after\nI gave you the remodeled cameras...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Sh-Shuichi...?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Ah! I-I'm...I'm sorry!\nI-I guess...I forgot to tell you...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "How could you forget to tell me...?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "I didn't think it would affect the plan.\nI-I didn't realize it would matter...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "I guess I just forgot to mention it...\nI'm really sorry...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Kehehe... \"I forgot.\"\nWhat a pitiful excuse.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Yeaaah, that's pretty much a lie.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "N-No, it's not a lie...\nHe probably just forgot...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "There was so much going on at the time...\nit's only natural to forget, you know?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Let's put that aside for now and\ntalk about the camera intervals.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Each interval lasted for 30 seconds,\ncorrect, Miu?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Yeah, sure, I'll explain it again to you\nmush heads...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "The three cameras that Kaediot and Poo-ichi\nplaced go off when they pick up movement...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "From there, it takes 30 seconds for the film\nto auto-roll to the next photo.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "So, for 30 seconds, anyone could've entered\nthe library without their photo being taken!?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "That may have been enough time to kill \nRantaro and exit the library...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "It's definitely enough time! You just gotta\nmove at lightning speed!",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "I see, I see! Then there's no doubt the\nculprit made use of the cameras' intervals.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "That means the culprit was Miu all along!\nSince she knew about the intervals!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "D-Don't be an asshole! I have an alibi!\nRemember, the dining hall!?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Oh yeaaaah. Welp, heh heh...who else knew\nabout the intervals?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Hmmm... Now who was it again?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "...Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "...A-Ah!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Kehehe... Well then, does this mean that\nhe is the culprit we have been seeking?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Sh-Shuichi...?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Hey! What gives, Shuichi!? ",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Shuichi would never do that.\nRight, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "You had better speak soon.\nYour silence only damns you further.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "F-Fess up already! Did you kill Rantaro!?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Hey...Shuichi...?\nWhat's gotten into you?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Don't tell me you're gonna\nplead the fifth now.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Nee-heehee... Oh man, this is getting good.\nEntertain me, peasants!",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>N-No way... Shuichi can't be the culprit...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>That's definitely wrong! There's no way!",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>I refuse to believe Shuichi is the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>That's...definitely not possible!",
+  "tr": ""
+ }
+]

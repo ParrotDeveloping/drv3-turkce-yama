@@ -1,0 +1,342 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>It's a giant machine... I've never seen\nthis before. What could this—",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "IF-YOU'VE-COME-THIS-FAR...THAT-MEANS-\nYOU-SOLVED-THE-PAINTING-PUZZLE...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "EXCELLENT...TEAMWORK.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Huh? What teamwork? It's just Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "THAT-PUZZLE-WAS-TOO-DIFFICULT-FOR-\nONE-PERSON-TO-SOLVE.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I'M-SURE...THEY-GOT-ALONG-AND-SOLVED-\nIT-TOGETHER.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "L-Let's just play along... We'll put ourselves\nin danger if we defy him.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "It's true what they say—the serious ones\nare the scariest when they finally snap.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I'M-CERTAIN-IT'S-NOT-POSSIBLE...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "BUT-DID-THAT-OUTDATED-PIECE-OF-JUNK-\nHELP-YOU-AT-ALL?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Oh, yes... We should explain this room.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "So this is the <CLT=cltSTRONG>computer room<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Computer room?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "But this computer isn't just some ordinary\ncomputer.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "This computer you're lookin' at is, like...\nsuper amazing.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "If I remember correctly...it's so amazing, you\ncan even use it to create a <CLT=cltSTRONG>new world<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "A \"new world\"?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Yeah, a new world! You can use this to\ncreate a new world!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...Wait, were we supposed to tell him that?\nI've already forgotten the plan.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "You totally said way too much.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Wahhhh! I knew it!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "You're so forgetful, Monotaro! You gotta try\nto remember what you can and can't say!",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "S-Sorry...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...WHY-DIDN'T-YOU-HELP-HIM, MONOPHANIE?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "WHEN-YOU-REALIZED-HE-WAS-SAYING-TOO-\nMUCH, YOU-COULD'VE-HELPED-HIM, RIGHT?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "SO-WHY-DIDN'T-YOU?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "YOU'RE-FRIENDS, RIGHT?\nSO-WHY-DIDN'T-YOU-HELP-HIM?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Uh, um...well...um...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "IF-YOU-CAN'T-GET-ALONG...\nYOU-WILL-BE-PUNISHED.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "YOU-TOO, MONOTARO. FRIENDS-SHARE-\nEVERYTHING...EVEN-PUNISHMENTS.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "What!? Backfire!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>This machine can make a new world...\nWhat are they talking about?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I'm not good with computers...I don't think I'd\nunderstand it no matter how much I investigate.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>I'll investigate around here a little more.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>There's a giant green computer\nin the middle of the room.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "This machine can make a new world...\nWhat could that mean?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>With how little I know about computers,\nI don't think I stand a chance.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I guess...I have no choice but to leave\nit be for now.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>There's a giant green computer\nin the middle of the room.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "This machine can make a new world...\nWhat could that mean?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>With the little I know about computers,\nI don't think I stand a chance.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I guess...I have no choice but to leave\nit be for now.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>Ah! A treasure chest!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>I opened the chest eagerly, and...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "I found one...\nA <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>With this...I can find out what this place\nis, why we're here...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>But, before that...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>It's the treasure chest that had\nthe <CLT=cltSTRONG>Flashback Light<CLT=cltMIND> inside.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>With this...I can find out what this place\nis, why we're here...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>But, before that...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>It's the treasure chest that had\nthe <CLT=cltSTRONG>Flashback Light<CLT=cltMIND> inside.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>With this...I can find out what this place\nis, why we're here...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>But, before that...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Oh! You found the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Wooow! You're pretty dependable, despite\nthat lame face of yours! I respect that.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I'll get the others. You just bring that to the\ndining hall, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Welp, off I go! See yaaaaaaa!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>He chatted away, and I couldn't get a\nword in edgewise. He left, waving goodbye.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>But, before that...",
+  "tr": ""
+ }
+]

@@ -1,0 +1,41 @@
+@ game_resident_US
+## A-KotodamaSetumei1
+0|Kurban Rantaro Amami. \nUltimate yeteneği bilinmiyor.\n\nKurbanın cesedi kütüphanede \nbulundu.\n\nTahmini ölüm saati\n21:10.\n\nKurban kafatasının arkasına aldığı \nkünt darbe sonucu kafatası \nkırıkları yaşamış ve anında\nölmüştür.\n\nBaşka bir yara tespit edilmedi.
+1|Kütüphanenin en sol ucundaki\nkitaplıklardan biri. Hareket ettirildikten\nbelli bir süre sonra otomatik olarak\neski yerine geri kapanır.\n\nKitaplık, Kaede ve Shuichi cesedi\nbulmadan hemen önce eski yerine\ngeri dönmüştü.
+2|Shuichi'nin gizli kapının kart okuyucusuna\nyerleştirdiği toz.\n\nSoruşturma sırasında kontrol edildiğinde\ntoz tam olarak ilk bırakıldığı gibi\nduruyordu.
+3|Güvenlik alarmının alıcısı.\nHareketli kitaplığa bir sensör\nyerleştirilmişti, biri kitaplığı oynatırsa\nShuichi'ye haber verecekti.
+4|Kitaplıklara sığmayan ve onların \nüstüne yığılan kütüphane kitapları. \n\nShuichi ve Kaede gizli kameraları\nyerleştirdiğinden beri hiçbir şey\ndeğişmedi. Kaede'nin havalandırmanın\nönüne yığdığı kitaplar aynen duruyordu.
+5|Birinci kattaki sınıf havalandırmasına\nbağlı.\n\nHavalandırma ızgarası, Kaede gizli\nkameraları kurarken bıraktığı gibi\nhâlâ açık duruyordu.
+6|Kütüphane havalandırmasına bağlı.\n\nGüvenlik alarmı çalana kadar Kaede\nve Shuichi ikisi de nöbetteydi. Kimsenin\nhavalandırmadan kütüphaneye gizlice\ngirmesi mümkün değildi.
+7|Rantaro'nun kişisel eşyaları. Yurt\nodasının anahtarı ve bir Monopad'i vardı.\n\nKart anahtara benzeyen hiçbir şeyi\nyoktu.
+8|Kütüphanenin zemininde bulunan kanlı\ncinayet silahı.\nDepodaki güllelerle aynı gibi\ngörünüyor.
+9|Cinayetten önce bodrumdaki Oyun\nOdası'na yedi kişi gitti:\nRantaro, Maki, Kaito, Tenko, Angie,\nHimiko ve Gonta.\n\nAma Gonta hemen arkadaki Görsel-İşitsel\nOda'ya kapandı.\n\nRantaro tuvalete gitmek için çıktı. Sonra\nKaito ve Tenko Rantaro'yu almaya gitti.\nCinayet işlendiğinde Oyun Odası'nda\nkalan sadece şu üç kişiydi:\nMaki, Angie ve Himiko.
+10|Görsel-İşitsel Oda'da koridora açılan\nsürgülü bir kapı.\n\nKapı kötü yapılmış ve sadece bir kolun\ngeçebileceği kadar açılıyor.\nBir insanın buradan girip çıkması\nzor olurdu.\n\nKütüphanenin arka girişine tam\nolarak bakıyor.
+11|Ceset Bulundu Anonsu sırasında Kiyo,\nMiu, Kirumi ve Tsumugi\nyemekhanedeydi.\n\nMiu uzaktan kumandalı bir alet\nyapmanın ortasındaydı.\n\nTsumugi kısa bir süre tuvalete \ngitmiş ve kısa süre sonra \nyemekhaneye dönmüştü.
+12|Ceset Bulundu Anonsu sırasında\nKeebo ve Ryoma kendi\nodalarındaydı.
+13|Kütüphanenin ön girişine bakan\nkameranın çektiği dört fotoğraf.\n\nİlk fotoğrafta ceset bulunmadan\nhemen önce Kaede, Shuichi, Kaito\nve Tenko koşarak giriyor.\n\nİkinci fotoğrafta Tenko'nun çığlığını\nduyan Maki, Angie, Himiko ve Gonta\nkoşarak giriyor.\n\nÜçüncü fotoğrafta Ceset Bulundu\nAnonsu'nu duyan Keebo, Ryoma, Kiyo,\nMiu, Tsumugi, Kirumi ve Kokichi\nkoşarak giriyor.\n\nDördüncü fotoğrafta Shuichi soruşturma\niçin kamerayı söküyor.
+14|Kütüphanenin arka girişine bakan\nkameranın çektiği iki fotoğraf.\n\nİlk fotoğrafta Rantaro\niçeri giriyor.\n\nİkinci fotoğrafta Shuichi soruşturma\niçin kamerayı söküyor.
+15|Gizli kapıya bakan kameranın\nçektiği iki fotoğraf.\n\nİlk fotoğrafta Rantaro hareketli\nkitaplığı açıyor.\n\nİkinci fotoğrafta Rantaro kamerayı\nsökmeye çalışıyor.
+16|Monokuma'nın herkesi ölüm oyununa\nbaşlamaya teşvik etmek için çaldığı\ntanıtım videosu ve arka plan müziği.\nCinayet işlenene kadar sonuna\nkadar açıktı.
+17|Kaede ve Shuichi bodrum merdivenlerinin\nyanındaki sınıfta gözcülük\nyapıyordu.\nShuichi bodruma bakmak için kısa bir\nsüre ayrılsa da ikisi alıcı çalana\nkadar hep birlikteydi.
+30|Kurban Ultimate Tenisçi\nRyoma Hoshi.\n\nKurbanın cesedi spor salonunda\nbulundu.\n\nÖlüm sebebi boğulma. \nArdından kurbanın cesedi sadece\nkemikleri kalana kadar piranalar\ntarafından yendi...
+31|Su Altı Kaçış Numarası için su tankında\nduran kilitli kelepçe.\n\nPaslanmaz çelikten yapıldığı için iz\nbırakmak zordu ama yine de küçük\nçizikler görülebiliyordu.
+32|Ryoma'nın cesedinin ortaya çıktığı\npirana tankının dibindeki kare\ncam levha.\n\nDiğer cam parçaları paramparça\nolmuştu ama bu levha kusursuz bir\nkare olarak kalmıştı.
+33|Ryoma'yı yiyen piranalar.\nSihir gösterisinden önce Angie, önceki\ngece gösteriye hazırlandığı zamana\ngöre daha fazla pirana varmış gibi\ngöründüğünü söyledi.
+34|Spor salonundaki üst pencerenin\nçerçevesi. Bir şeyle kazınmış gibi\nbelirgin aşınmalar vardı.
+35|İçinde piranalar olan su tankı.\nUltimate Sihirbaz'ın laboratuvarında\nduruyordu, Kaito, Keebo, Himiko ve\nAngie tarafından taşındı.\n\nSihir gösterisi sırasında sahne ışıklarının\nkontrol paneli kullanılarak su altı kaçış\ntankının üstüne asılmıştı.\nSadece ön yüzü camdan yapılmıştı.\nDiğer yüzleri tahtadandı.\nBaştan beri kapağı yok gibi\ngörünüyordu.
+36|Sihir gösterisi sırasında zamanlayıcı\nyirmi saniyeyi gösterdiğinde Gonta\nsahnenin üstüne çıktı.\nO sırada tankta kimse yoktu.\nGonta, piranalar salınana kadar\ntankın içindeki Ryoma'yı fark\netmedi.
+37|Önceki gece Shuichi ve diğerlerinden\nbazıları, Kokichi'nin kandırdığı Gonta\ntarafından Ultimate Böcekbilimci'nin\nlaboratuvarında kalmaya zorlandı.\n\nHimiko ve Angie 21:00'e beş kala\ngetirildi. Kokichi laboratuvardan\n21:00'de ayrıldı.\n\nShuichi ve diğerleri 23:00'ten sonrasına\nkadar "Böcek Buluşması"na katılmaya\nzorlandı.
+38|Sahneye çıkan merdivenlerin arkasında\nbir su birikintisi vardı. Merdivenlerin\nkendisi bazı yerlerde ıslak değildi.\nSu tankı kırıldığında merdivenlerin\nıslanmış olması mümkün görünmüyor.\n
+39|Sahnenin arkasındaki yaklaşık 20 metre\nuzunluğundaki halat.\nAslında sahnenin kanadında\nbulunmuştu. Angie neden sahnenin\narkasında olduğunu bilmiyordu.
+40|Havuzda bırakılmış lastik bir simit.\nSapına bir halat bağlıydı.\nSimidi oraya bırakanlar\nMonoyavrular değildi.
+41|Havuzda yüzen bir kumaş parçası.\nİlk bakışta çöp gibi görünüyordu.
+42|Maki dün gece laboratuvarının önünde\nnöbet tutuyordu. Sadece gece\nvakti yurt odasında kaldı.
+43|Ryoma'yı son gören kişi Gonta'ydı.\nDün akşam saat 20:00 civarıydı.\nMiu da Ryoma'yı ondan 30 dakika\nönce görmüştü.
+44|Ultimate Tenisçi'nin laboratuvarındaki\nlavabo.\nİçine epey su doldurulabilecek\nkadar büyük görünüyordu.\nBir şeyle kazınmış gibi üzerinde\nküçük çizikler vardı.
+45|Ultimate Tenisçi'nin laboratuvarında\nyerde bulundu.\nShuichi laboratuvara ilk geldiğinde\ntenis filesi kablosu düzgünce\ntakılıydı. Ama tel daha sonra\nçıkarılmıştı.\nTel yaklaşık 15 metre uzunluğundaydı.
+46|Kokichi dün gece 21:00'de Ultimate\nBöcekbilimci'nin laboratuvarından\nçıktıktan hemen sonra giriş holünde\nKirumi'ye yakalandı. 22:00'ye kadar\nonunla kaldı.\n\nSonra yurtlara gitti ve 23:00'te\nUltimate Böcekbilimci'nin\nlaboratuvarına döndü.\n\nAvluda iç çamaşırıyla dolaşan bir kız\nsiluetini birkaç kez gördü.
+47|Su altı kaçış tankını açan, üst\nkısma yakın bir kapak.
+48|Shuichi, Keebo, Kiyo, Tsumugi ve Tenko,\nBöcek Buluşması için 20:00'den\n23:00'e kadar Ultimate Böcekbilimci'nin\nlaboratuvarında toplanmaya zorlandı.\n21:00'e beş kala Himiko ve Angie\nde katıldı.\n\nKokichi 21:00'e kadar Ultimate\nBöcekbilimci'nin laboratuvarındaydı.\n21:00'den 22:00'ye kadar Kirumi'yleydi.\n23:00'e kadar laboratuvara döndü.\n\nKirumi 21:00'den biraz öncesine kadar\nHimiko ve Angie ile spor salonundaydı.\n21:00'den 22:00'ye kadar Kokichi'yleydi.\nYaklaşık beş dakika boyunca spor\nsalonunda yalnızdı.\n\nMiu dün gece birkaç kez iç çamaşırıyla\navluda dolaşırken görüldü.
+49|Gece vakti havuza girmek yasaktır.
+60|Kurban Ultimate Sanatçı\nAngie Yonaga.\n\nKurbanın cesedi Ultimate Sanatçı'nın\naraştırma laboratuvarında bulundu.\n\nÖlüm saati yaklaşık\n02:00.\n\nKurban ensesine aldığı ölümcül\nbir bıçak yarasıyla öldürüldü. \nAyrıca alnında bir\nyırtık yara var.

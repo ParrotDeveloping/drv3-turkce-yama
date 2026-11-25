@@ -1,0 +1,137 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>It looks like a machine used to paint Exisals.\nIt smells kinda like paint thinner...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>This looks like a car wash.\nI imagine it's for cleaning the Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>This is a huge, powerful hydraulic press.\nPerhaps for disposing of Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>There's an infrared sensor on\nthis hydraulic press...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>It's a safety function that prevents the\npress from crushing living things.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Hydraulic Press Descend",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>\"Up\", \"Down\", \"Emergency Stop\"...\nThese buttons operate the hydraulic press.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>All five of the Exisals are stored here.\nThere's no sign of activity...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>Are the Exisals not going to move anymore?\nAre they no longer going to be used against us?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>All five of the Exisals are stored here.\nThere's no sign of activity...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Are the Exisals not going to move anymore?\nAre they no longer going to be used against us?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>All five of the Exisals are stored here.\nThere's no sign of activity...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>Are the Exisals not going to move anymore?\nAre they no longer going to be used against us?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>All five of the Exisals are stored here.\nThere's no sign of activity...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Are the Exisals not going to move anymore?\nAre they no longer going to be used against us?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>All five of the Exisals are stored here.\nThere's no sign of activity...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Are the Exisals not going to move anymore?\nAre they no longer going to be used against us?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Exisal Green After Case",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>It's a panel that controls the alarm system\nand electric barrier.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>I don't see any reason to turn\nthem back on, though...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Kaito's sleeve",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Bloodstain",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Torn power cord",
+  "tr": ""
+ }
+]

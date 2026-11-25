@@ -1,0 +1,197 @@
+[
+ {
+  "id": 0,
+  "en": "Bir Oyun Odası'na benziyor...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Ama burası bir okul, değil mi? Bir okulun\nkendi Oyun Odası olması normal mi?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Kesinlikle tuhaf...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Bu odada da kökler görüyorum...\nOyun makinelerinin çalışacağını sanmıyorum.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Hah...ne tuhaf bir yer.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Burada kapana kısıldığımızı duyduğumda \nbir Oyun Odası olacağını hiç beklemezdim.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Gerçekten burada mahsur mu kaldık?\nBir çıkış olmalı, değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Siz de zaten etrafta onu aramak için \ndolaşmıyor musunuz?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "O zaman...kendiniz çözün.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Ah, t-tamam...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Kapana kısılmış olabiliriz ama burası \nepey güzel. Hapishaneyle kıyaslarsak...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Hapishane mi...? Ne? Ama sen <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> bir\nöğrencisin, değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hıh...o eski bir hikaye.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltNORMAL> denen adam,\nRyoma Hoshi...artık yok.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Ben onun boş bir kabuğundan ibaretim.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Ryoma Hoshi mi? G-Gerçekten mi?\nSeni gazetede görmüştüm...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Bir mafyayı tek başına çökerten\ntenis dahisi...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Bir mafyayı tek başına mı çökerttin!?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Gazeteler <CLT=cltSTRONG>tenis becerisi<CLT=cltNORMAL> ve bir demir topla\nonları kafalarından vurduğunu yazdı.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Ne halt!? Gerçekten mi!?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Hıh, demek o kadarını biliyorsun...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Eee? Yeteneğini öldürmek için kullanan\nkaybeden hakkında ne düşünüyorsun?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "A-Ama...geleceğini neden böyle\nçöpe attın ki?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Hıh, çünkü artık bir <CLT=cltSTRONG>geleceğe<CLT=cltNORMAL> ihtiyacım yoktu...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Ha?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Hayır...bir şey yok. Bu kadar çok \nkonuşmak bana göre değil.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Neyse...seni uyarıyorum. Benim gibi bir \nkatile öylece yaklaşmak tehlikeli.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Bunu derken bize sırtını döndü.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltSYSTEM>Ryoma'nın <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "İnsanlar seni uyardığında dinlemelisin... \nBir daha söylemeyeceğim.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>O da <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci olabilir.\nBelki gidip onunla konuşmalıyım...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>O da <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci olabilir.\nBelki gidip onunla konuşmalıyım...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Evet",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Hayır",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Emin olmadığın bir şey mi var?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>Ayrılmak istiyor musun?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Bodrumda da bir ekran var...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Kilitli gibi görünüyor...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Bu odanın içinde ne var acaba...\nUmarım daha sonra araştırabiliriz.",
+  "tr": ""
+ }
+]

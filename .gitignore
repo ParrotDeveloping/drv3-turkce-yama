@@ -1,0 +1,8 @@
+# Oyun dosyaları (telif) ve büyük çıktılar repoya girmez
+backup/
+mod/
+font/*.srdv
+font/*.stx
+__pycache__/
+*.pyc
+batches/_next.txt

@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_103_017
+64|Açıkçası odamda yalnızdım, o yüzden mazeretimin\npek güvenilir olmadığını kabul ediyorum...
+65|Yani...mazeretin yok mu?
+66|Ama Ryoma da odasında yalnız olduğunu\nsöyledi.
+67|Tanrım, onu amma da harcadın.
+68|Ha!? B-Bu benim niyetim değildi!
+69|<CLT=cltMIND>Ama anlıyorum... Keebo'nun da Ryoma'nın\nda mazereti yok...
+70|<CLT=cltMIND>Yani o ikisinden birinin beyin olması\nmümkün...
+71|Şey... Mazeretim olmadığı için şüpheli\nmiyim?
+72|Hayır... Sadece mazeretin olmadığı için\nsenden şüphelenmeyeceğim.
+73|Ve bunu robot olduğun için falan\nsöylemiyorum! Hiç robot düşmanı değilim!
+74|Çok teşekkür ederim.\nAma...bu kadar politik doğrucu olmana gerek yok.
+75|<CLT=cltSYSTEM>"<CLT=cltSTRONG>K1-B0'ın İfadesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+76|Odamda yalnızdım, o yüzden mazeretimin pek\ngüvenilir olmadığını kabul ediyorum...
+77|Hayır... Sadece mazeretin olmadığı için\nsenden şüphelenmeyeceğim.
+78|Ve bunu robot olduğun için falan\nsöylemiyorum! Hiç robot düşmanı değilim!
+79|T-Tabii ama...bu kadar politik doğrucu olmana gerek yok.
+80|<CLT=cltMIND>Henüz gidemem...\nKontrol etmem gereken bir şey daha var.
+85|<CLT=cltMIND>Ne tuhaf bir kara tahta...\nAma bu davayla ilgili değil.
+86|<CLT=cltMIND>Dikenli telle sarılmış...\nBu davayla ilgili değil.
+88|<CLT=cltMIND>O ikisine ceset bulundu anonsu sırasında\nne yaptıklarını soracağım.
+89|<CLT=cltMIND>Kütüphaneye bağlanan havalandırma...
+90|<CLT=cltMIND>Shuichi'yle ben bu havalandırmaya bağlanan\nsınıfta gözcülük yapıyorduk...
+91|<CLT=cltMIND>Bu ekran şu an süre sınırının durdurulmuş\ngeri sayımını gösteriyor...
+92|<CLT=cltMIND>Geri sayım durunca o sinir bozucu ses\nde kesildi.
+94|Tsumugi meselesini bir kenara koyarsak...\nartık herkesin mazeretini biliyoruz.
+95|Ha? Peki ya Kokichi?
+96|Ona sormamıza gerek yok.\nKesinlikle yalnızdı.
+97|Konuştuğumuz kimse onu görmemişti, yani\nmazeretini kimse doğrulayamaz, değil mi?
+98|Bu da yalnız olması gerektiği anlamına geliyor.
+99|Ah, haklısın! Sanırım bu yüzden dedektif sensin,\nben...değilim!
+## c01_103_019
+1|Kaede, ne oldu?
+2|T-Tsumugi kılık\ndeğiştiremezdi...
+3|Cosçiçeğini gördüğün için anlıyorsun, \ndeğil mi?
+4|Cosplay sevgidir.
+5|Karakterlere hayat verirsin. \nNeredeyse onları çağırıyormuşsun gibi...
+6|Kurgudan gerçek dünyaya...\nTanrıları çağıran bir kâhin gibi.
+7|Bu yüzden geniş kurgu dünyasından çeşitli \nkarakterlerin cosplay'ini yapabilirim...
+8|Ama gerçek dünyada var olan birinin \ncosplay'ini yapmak imkânsız.
+9|Çünkü bu cosplay değil, sadece birini \ntaklit etmek.
+10|B-Bu kadar uzun bir açıklamaya gerçekten gerek yoktu.
+11|Ha? Bu zil sesi...!
+12|Vakit geldi, pislikler! Uzun zamandır beklenen\nsınıf duruşmasının vakti!
+13|Hayır, değil! Sadece fotoğrafların hazır olduğunu\nduyuruyoruz! Sözümü kesmeeee!
+14|Neyse, depoda bekliyor olacağım.
+17|Hey... Yüzüm size tuhaf görünüyor mu?\nYüzüm...hep bu kadar tuhaf mıydı?
+19|Duydun mu, Shuichi?\nFotoğraflar sonunda banyo edilmiş!
+20|Hadi gidelim! Hadi, acele et!
+21|Ah! Dur, Kaede!
+22|<CLT=cltMIND>Okul deposuna olabildiğince hızlı\nkoştum.
+23|<CLT=cltMIND>Gerçeğin bu kadar yakın olduğunu bilirken\nyerimde duramıyordum.
+24|Konuştuğumuz şeyi Tsumugi'ye soracaksın,\ndeğil mi?
+25|Ne oldu? Dışarıda bir şey mi \nbuldun?
+26|Evet, bir nevi...
+27|Hıh, eh bu iyi bir şey, değil mi?

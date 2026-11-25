@@ -1,0 +1,54 @@
+@ chap2_text_US
+## c02_005_007
+28|...Buna inanmıyorum. Bu fenerin anılarımızı\ngeri getirmesinin imkânı yok.
+29|Bahse girerim telefon icat edildiğinde de bir\nsürü karamsar ve şüpheci vardı.
+30|Bilginize, <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL> çeşitli\n<CLT=cltSTRONG>hafıza kaybı<CLT=cltNORMAL> belirtilerini tedavi edebilir.
+31|Yaydığı ışık bazal gangliyonları ve hipokampusu\nuyarır. Sadece bu değil, fiziksel olarak—
+32|Off, açıklamanın bu kadar sıkıcı olacağını fark\netmemiştim. Kısacası öyle işliyor...
+33|Hey! Tek bir cümleden sonra açıklamaktan\nöylece vazgeçme!
+34|Peki...ne yapmalıyız?
+35|Ne mi yapmalıyız...? Yani feneri kullanmalı\nmıyız kullanmamalı mıyız, onu mu diyorsun?
+36|Olamaz! Reddediyorum! Burnuma kötü kokular geliyor!
+37|Evet. Gonta fenerin hafızayı geri getirebileceğine\ninanamıyor.
+38|Eh, neden makinelerden anlayan birine sormuyoruz?\nTam burada <CLT=cltSTRONG>Ultimate Mucit<CLT=cltNORMAL>imiz var.
+39|Hepiniz bir avuç Ultimate Salaksınız!\nO şeyin hafıza kaybını tedavi etmesinin imkânı yok lan!
+40|Öte yandan...bunlar tam olarak <CLT=cltSTRONG>normal\nkoşullar<CLT=cltNORMAL> değil...
+41|Yani böyle tekinsiz bir ortamda sağduyunun\nyeri yok.
+42|Şey, yani, o hafıza silici şeyler var ya.\nSiyah Giyen Adamlar'daki o parlayan şeyler...
+43|Neden bir filmden bahsediyorsun?\nBu gerçek hayat.
+44|H-Haklısın... Pardon.
+45|Ben...bunu yapmamız gerektiğini sanmıyorum...\nTuhaf yan etkileri olabilir diye korkuyorum...
+46|Nyeeeh... Büyümü nasıl etkileyeceğinden\nendişeleniyorum.
+47|...Herkes konuştu mu? Uzlaşırsak\nben de onay veririm.
+48|Ya sen, Shuichi? Henüz hiçbir şey\nsöylemedin.
+49|Ne? Ah, ben—
+50|Pekala! O zaman karar verildi! Kullanalım!
+51|Ha? Buna kim karar verdi? Hepimiz kulağa ne\nkadar tehlikeli geldiğini söylüyorduk...
+52|Tanrım, siz fazla temkinlisiniz.
+53|Yani, sebebini anlıyorum. Sonuçta böyle\ntuhaf bir durumdayız.
+54|Ama...sürekli kaçarak\nkazanamayız!
+55|<CLT=cltMIND>...Ne?
+56|Kazanmak istiyorsan bazen biraz\npervasız olmalısın.
+57|Bu tehlikeyle yüzleşemezsek Monokuma'yı\nyenmemizin hiçbir yolu yok.
+58|Kehehe... Amma da kendinden eminsin. Ama nasıl\nkazanacağımız hakkında hiçbir fikrin yok, değil mi?
+59|Evet, hiçbir fikrim yok.\nAma yine de...
+60|Kazanmak istiyorsan bir yerde direnmelisin,\nyoksa asla ilerleyemezsin.
+61|Kaçarsak çocuklarımız da böyle şeylerden\nkaçan türden insanlar olarak büyür!
+62|...Ha? Neden bahsediyorsun?
+63|Hâlâ kaçmak istiyorsan buyur git.\nSeni durdurmam ya da suçlamam.
+64|Tamaaam, peki. O zaman gidelim—
+65|...Ha? Ne oldu, millet?\nGitmiyor muyuz?
+66|Ben...kalıyorum.
+67|O yozun konuşmasını duyduktan sonra kaçmak\nbeni sadece sinir eder!
+68|Gonta da kalıyor...\nGerçek centilmen muhtemelen bunu yapardı.
+69|Ben de Kaito'ya katılıyorum. Buna karşı\ndurmazsak yenilgimiz yüzde yüz kesin.
+70|Bu...içten içe hissettiğim şey.\nSadece bir fısıltı—
+71|Ruhunun içinde mi duyuyorsun? Gerçi robotların\nruhu olduğunu pek sanmıyorum.
+72|...Beni rahat bırak.
+73|Ben de kalacağım. Çok ilginç bir şeyi\ngözlemleyebileceğimden şüpheleniyorum...
+74|Bana bir şey olursa hepiniz hayranlarımdan, dünyadan\nve insanlıktan af dileseniz iyi olur!
+75|Peki sen ne yapacaksın, Shuichi?
+76|B-Ben... Ben de kalacağım.
+77|Pekala!
+78|Ben de kalacağım! Tuhaf yan etkileri olabilirse\nne olmuş? Önemli bir şey değil!
+79|Görünüşe göre herkes Kaito'ya katılıyor.\nPekala, ben de aynısını yapacağım.

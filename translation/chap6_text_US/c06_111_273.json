@@ -1,0 +1,912 @@
+[
+ {
+  "id": 0,
+  "en": "The next time we come out of the \ntrial grounds, it'll all be over, right!?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "W-We can win, right...?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "O-Of course...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "It'll be okay... This class trial should be\nmuch easier than the others.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Huh? Why?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Up until now, we had to find the culprits among\nthe people in our group during the class trials.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "That's why we couldn't work together even if we\nwanted to. But...this time, it's different.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Ah, since there isn't a culprit among us,\nwe can work together without any doubts.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "We're all going to be working together\nthis time... I already feel more at ease!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "But...I wish it had happened sooner.\nAt the beginning, there were 16 of us...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "But now there's only 4 of us standing here,\nplus Keebo who's coming later.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...We're about to head to the last battle.\nWhy are you so depressed?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Oh, sorry... You're right.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...Thank you for waiting.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "That was fast, Keebo.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>His weapons have been removed. I suppose\nwe don't have to worry about him attacking...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Wh-What? Are you disappointed?\nDid you prefer your sci-fi gear after all?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "No, it's not that...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I'm just...very sorry!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>Keebo bowed at the waist to us.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I acted recklessly and put you all in\nserious danger...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "I'm sorry! I'm very, very sorry!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Huh? What's wrong? You're totally different\nfrom before when you were in battle mode...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...Shuichi, you told me earlier not to give up\n<CLT=cltSTRONG>hope<CLT=typeNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Th-That's right...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "I finally realized that you were right...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "My inner voice told me...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Your inner voice? I thought you said\nyou couldn't hear it anymore...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Well, I had the Monokubs repair me in addition\nto removing my battle gear...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "And now, for some reason, I can hear my\ninner voice again.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>So he can hear it again\nafter the repairs...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>But it looks like...\nHis hair...looks like...an antenna...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>Does that mean it wasn't\njust decoration?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>And now that I think about it, what is his\n\"inner voice\" exactly? What does he hear?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I was wrong to try to destroy everything\njust to avoid losing to <CLT=cltSTRONG>despair<CLT=typeNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Even if I had followed though, there would've\nbeen no <CLT=cltSTRONG>hope<CLT=typeNORMAL> or <CLT=cltSTRONG>future<CLT=typeNORMAL> left afterward.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "In which case, my actions would have merely\nresulted in a different <CLT=cltSTRONG>despair<CLT=typeNORMAL> altogether.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...I do not expect you to forgive me.\nWhat I did was foolish.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "But...will you allow me to fight alongside\nyou!? I want to help you find the truth!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Please!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Of course, Keebo.\nThat's what I've wanted from the start.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "If it wasn't for you, we wouldn't have been\nable to do this.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "So...you'll allow me?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Oh... You seem angry, Tsumugi.\nWould you prefer I not help...?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "I'm not mad...I'm just holding myself back.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "When someone says \"please\" that strongly,\nI always want to respond with, \"But I refuse.\"",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "But I can read the mood here...\nSo I'm holding back.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Well of course.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Yeah, I'm okay now! Of course you can\nfight with us, Keebo!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "There's a big wall between living things and\nobjects, but you're our friend, Keebo.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Th-Thank you...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Um... By the way, Maki, I've been meaning\nto ask you, but...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "What is that...vacuum cleaner you're\ncarrying?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...It's the Bugvac. I think Kokichi designed\nit and had Miu make it.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Ah yes, Gonta had mentioned something\nabout <CLT=cltSTRONG>tiny bugs<CLT=typeNORMAL> before...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Yes, I thought it could be\na clue to something.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "But we can't seem to catch any bugs\nwith it. It doesn't seem like there are any.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "So it really was just Gonta's imagination,\nafter all.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Wait, it might be too soon to determine that.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Can we...wait until I've examined it with\nmy eyes, at least?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Your eyes?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "What do you mean, Keebo?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "What good can your eyes do? It's not like\nyou've got good eyesight, right?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "That was true...until I installed my zoom\nfunction.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...Your zoom function?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "It was in my lab, next to the jet pack and\nrocket launcher...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Thanks to that zoom function, my vision\nhas increased a hundredfold.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "A hundredfold!?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "That's a power-up that goes way past\nyour default settings!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "This is the true talent of the Ultimate\nRobot...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Because I'm a robot, I can evolve in ways\nthat are simply not possible for a human.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "I've...finally accepted that.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "There are notable differences between us,\nbut they're nothing for me to be ashamed of.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Because...with my <CLT=cltSTRONG>talent<CLT=typeNORMAL>, it's possible that\nI can save you all.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>Keebo took the Bugvac from\nMaki, and...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "It's worth a shot. At maximum zoom, my vision\nis on par with that of a microscope.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "...Maki, I'll borrow this Bugvac for a moment.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>He stared at it intensely.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "...I see it!\nI'll print out this memory!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>Just as before, Keebo printed a\npicture from right out of his mouth.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>He took it from his lips\nand handed it to me.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Is this...Monokuma!?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Are these the <CLT=cltSTRONG>small bugs<CLT=typeNORMAL> Gonta was talking\nabout?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "A human's eyes would not be able to see\nthings that exist at a nanoscopic level.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "For Gonta to have noticed them...\nhis vision really was superhuman.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Hey, what are these things holding?\nAre they holding cameras?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "...Why don't we ask them?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "We can *talk* to this?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Yes, I have already installed an augmented\nhearing function.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "I-I guess anything is possible...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Start talking. Now.\nOr I'll squish you one by one.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Whatever function you serve, you'll be\nunable to carry it out...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Do you accept these terms?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>Keebo asked in a way that made it\nclear it was not up for negotiation.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "They call themselves...<CLT=cltSTRONG>Nanokumas<CLT=typeNORMAL>.\nApparently they're members of the Monokubs.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "What? This little thing...?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Then there were actually six Monokubs?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Not quite. These don't exist as individuals,\nbut rather as a hivemind.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "They travel through the air in a swarm,\ncovering every square inch of this campus.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>So it's not just one...it's a\nwhole swarm of Monokubs.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "If they're that small, they coulda been \nin my nose or mouth and I'd never know.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "I don't like the thought of that...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "And their function...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "is to record footage of the events that are\nunfolding here, and transmit it to Monokuma.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Using their tiny cameras, they record\nfootage and transmit it wirelessly...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Motherkuma receives the footage and parses\nit before sending it off to Monokuma.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "You mean...like a security camera!?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>They're so small that they can't be\nseen with the naked eye...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>They must be the security cameras!",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>The Sixth Monokub<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "S-So there were security cameras after all.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "And they'd been recording the footage\nwirelessly...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Kokichi was correct to use the Electrobomb.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "When he used it, the Nanokumas were unable\nto send any footage back to Monokuma.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Yes, in that case, I doubt Monokuma\nknew the real culprit.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Umm...the more I learn, the more I wish that\nKokichi had just worked with us normally.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "That's impossible. No matter how many times\nhe reincarnates, he's a liar down to his soul.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>I never would have imaged that the sixth\nMonokub would be security cameras.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>That's how Monokuma was able to\nkeep watch of this entire academy.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>...He's toying with us.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltMIND>He's not just confident.\nHe's *sure* he's going to win.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "<CLT=cltMIND>I know that must be what\nhe's thinking...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "...At least we know that important detail now.\nI'm glad you told us before the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Yeah! Thanks Keebo!",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "You're welcome, but...we should get going now.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "...Yeah, we don't know what Monokuma will\ndo if we show up late.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Y-You're right... Then let's start heading\nto the trial grounds.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "...Okay.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "I'm glad I was able to help.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "I wouldn't want you to think my sci-fi weaponry\nis the only growth I've displayed thus far.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "...Well then, let's go.\nMonokuma is expecting us.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Maki, you brought that thing with you, huh?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "You act like you're cold and distant,\nbut you're suprisingly warm and serious...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "I finally feel like I've figured out \nhow close we are now.",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "In the end, we couldn't find the mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "They must be really good at hide and seek.\nBut...they can't escape my magic.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "I'll hit them with my \"All Your Relationships\nWill End Up Being Love Triangles\" curse!",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Th-That would be...very helpful, Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "With Keebo's eyes, huh...?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "If Gonta couldn't even see it, I doubt Keebo\nwould be able to see it either.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Relax. If we end up failing, and it comes time\nfor me to kill you...",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "I'll make sure to end your life swiftly,\nso you won't have to suffer.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "...Th-Thank you?",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Keebo...seems completely different from earlier.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Maybe it's like...equipping all those weapons\nenhanced his feelings too.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "It happens with cosplay too. When you wear a\ncosplay, you start acting like that character.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Gonta discovered it, Kokichi made a design,\nMiu built the device...",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "It was because of all of them that Keebo\nwas able to find the final clue.",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "It's almost like...everyone's cheering us on.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "<CLT=cltMIND>Keebo's eyes? What does he mean?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltMIND>Let's go! To the final trial,\nwith my friends!",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "<CLT=cltMIND>Keebo's eyes? What does he mean?",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "<CLT=cltMIND>Let's go! To the final trial,\nwith my friends!",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "<CLT=cltMIND>Keebo's eyes? What does he mean?",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "<CLT=cltSYSTEM>*rumble rumble!*",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "<CLT=cltMIND>Alright... Let's go.",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "<CLT=cltMIND>There's no point in worrying anymore.\nRight now...",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "<CLT=cltMIND>we only need to think about\ngetting out of here alive.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "<CLT=cltMIND>And so, we put the destroyed Ultimate Academy\nbehind us...",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "<CLT=cltMIND>and headed to the final trial grounds.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "<CLT=cltMIND>Carrying the last of the survivors,\nthe elevator brought us down.",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>What could be waiting for the five of us?",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "<CLT=cltMIND>I'm sure...this is the end of <CLT=cltSTRONG>despair<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "<CLT=cltMIND>And the beginning of <CLT=cltSTRONG>hope<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "<CLT=cltMIND>Everything ends here.",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "<CLT=cltMIND>Everything.",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "<CLT=cltMIND>The killing game of Hope's Peak Academy...\nThe killing game of Jabberwock Island...",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "<CLT=cltMIND>And the killing game of this Ultimate Academy.",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "<CLT=cltMIND>How much more until they're satisfied?\nThis is the end of it.",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "<CLT=cltMIND>I'm...tired of this.",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "<CLT=cltMIND>We're going to end it.",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "<CLT=cltMIND>We're going to end this cruel game.",
+  "tr": ""
+ }
+]

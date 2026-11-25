@@ -1,0 +1,377 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "I wonder if Kaito's okay...\nI hope he's feeling a little better.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Right as I was about to ring the bell...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>*click*",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>The door to Kaito's room opened,\nand out came...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Ah...Maki.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Is she...mad?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "O-Oh, hey bro...\nPerfect timing.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I gotta apologize to you, too...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...He told me he was going to skip today's\ntraining, too.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "So...he still doesn't feel well.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "It's pathetic, but...I haven't been able to \neat or sleep much since yesterday.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I think I'll get better if...I just rest \na little longer, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Yeah...sure, Kaito.\nDo what you have to do.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "We'd have to reschedule our training \nsessions either way, come to think of it...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "The student council said being out after \nnighttime was prohibited, right?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Well...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "If you're feeling sick, that's one thing. But I\ndon't want you to change the training schedule.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "You don't...need to do that.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "R-Really? But—",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I don't want to skip it, so it'll just be\nthe two of us training today.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "What? Really?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...You don't want to?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "...Do you want to die?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "D-Die!?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Oh, sorry... That's an old habit.\nJust pretend you didn't hear that. ",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>I didn't know such a \"habit\" existed...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Anyway...I don't want to give up now.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I've finally started to think about...how\nI can confront it...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "So...if I have to train alone, so be it.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...Maybe it's just because you're not feeling well,\nbut this is really unlike you, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I never imagined that you would obey Angie.\nI thought you did whatever you wanted.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Shuichi, I'm sorry, but...can I leave the \ntraining to you until I'm feeling better?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Of course, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>I nodded firmly, then chased after\nMaki and headed to the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>You had...no one.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>You found out that awful truth\nand gave up your life for Kirumi.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>But...I...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Ryoma, you wanted to fight with us,\ndidn't you?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Was that not enough reason to live?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>You could've fought with us, we could've\nfought together...then you could have lived.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>We...couldn't have been your reason to live?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...Maybe I'm just being arrogant.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Kirumi's final moments... I can't get the image\nof her running for her life out of my head.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>I can still hear her...\nHer scream of defiance.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>Perhaps running isn't so bad...\nPerhaps we aren't strong enough to face it.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>In order to live until the <CLT=cltSTRONG>end<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>I should go see what Kaito has to say\nabout this. I'm worried about him...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ }
+]

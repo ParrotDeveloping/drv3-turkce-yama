@@ -1,0 +1,57 @@
+@ chap2_text_US
+## c02_005_007
+190|Monokuma'ya sorarsak tek yolun ölüm oyununu\nkazanmak olduğunu söyler.
+191|Ah, Monokuma'ya sormayacağız. Aramızdaki\nbeyne soracağız.
+193|S-Sen şimdiden bunadın mı!? Beyin olmadığı\nkonusunda anlaştığımızı sanıyordum?
+194|Hm, ah evet. Anlaşmıştık, değil mi?
+195|Yine bir beynin kokusunu almaya çalışsaydık\nsadece Kaede'nin hatasını tekrarlardık.
+196|Dalga geçmeyi bıraksan iyi olur!
+197|Ha? Şu an dalga geçtiğimi mi düşünüyorsun?
+198|Of be, gerçekten anlamıyorsun. Herkese şunu\nanlatmaya çalışıyorum...
+199|<CLT=cltSTRONG>Birlikte çalışmak<CLT=cltNORMAL> ve <CLT=cltSTRONG>iş birliği yapmak<CLT=cltNORMAL>\nhakkında bu moral verici şeyleri söylemeye devam ederseniz...
+200|...o zaman acı verici bir misilleme\nbekleyebilirsiniz. Anladınız mı?
+201|Ne ima ediyorsun, Kokichi?
+202|Argh, bu kadar yeter!\nOna bir yumruk çakacağım!
+203|Aaahh! Bana yumruk atacak!\nKaçmam lazım!
+204|<CLT=cltMIND>Kokichi söyleyeceğini söyledi ve sonra\nodadan olabildiğince hızlı fırladı.
+205|Tch...kahretsin, hızlıymış.
+206|Tanrım...ne tuhaf bir herif.
+207|Sadece insanları kışkırtıyor ve asla içten\nbir şey söylemiyor.
+208|Hep dalga geçip etrafındakilerle alay\nediyor.
+209|Hıh! Hayatta kalmak için bu kadar uğraşırken\nnasıl böyle duyarsız şeyler söyleyebiliyor!
+210|Sanki hayatta kalmak bile istemiyor.\nGerçi sanırım ben de farklı değilim.
+212|Evet. Sonuna kadar hayatta kalmayı\nplanlamıyorum.
+213|Ryoma...
+214|Hayatta kalmayı planlamıyor musun?\nBu ne demek?
+215|Bundan daha önce de bahsetmişti...\nYaşamak için hiçbir sebebi olmadığından.
+216|Yaşamak için hiçbir sebebi yok mu?
+217|Zavallı Ryoma...
+218|Görünüşe göre hayal bile edemeyeceğimiz\nkadar trajik bir geçmişi var...
+219|Evet ama <CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltNORMAL> böyle korkakça\nşeyler söylememeli...
+221|Belki bir yemekle rahatlamalıyız?
+222|Millet, lütfen bana en sevdiğiniz yiyecekleri\nve içecekleri söyler misiniz?
+223|Ha!? Bir şeyler mi hazırlayacaksın!?\nKirumi, sen mükemmel bir anne falan mısın!?
+224|<CLT=cltMIND>Kirumi'nin bizim için hazırladığı yemeği\nbitirdikten sonra...
+225|<CLT=cltMIND>odalarımıza dönmeye karar verdik.
+## c02_006_003
+3|Maki nöbet tutuyor; içeri giremem.
+## c02_006_019
+15|<CLT=cltMIND>Acaba Kaede planını ne zaman buldu...\nve benden gizli tuttu...
+## c02_006_100
+7|<CLT=cltSYSTEM>*tık...*
+20|<CLT=cltSYSTEM>*tık...*
+## c02_006_101
+0|<CLT=cltSYSTEM>Ultimate Akademi'nin etrafında <CLT=cltSTRONG>Gizli Monokumalar<CLT=cltSYSTEM>\nvar. Belki birini çoktan görmüşsündür!
+1|<CLT=cltSYSTEM><CLT=cltSTRONG>Gizli Monokumaları<CLT=cltSYSTEM> <CLT=cltSTRONG>inceleyerek<CLT=cltSYSTEM>\ntoplayabilirsin.
+2|<CLT=cltSYSTEM>Koleksiyonun bu odadaki rafta sergilenecek,\no yüzden onu doldurmaya koyul!
+3|<CLT=cltSYSTEM>Her şeye biraz ara vermek istediğinde\naramak eğlencelidir.
+4|<CLT=cltMIND>Ah, doğru ya. Tenko benden şemsiye\nkurmamı istemişti.
+5|<CLT=cltMIND>Hazırlamazsam beni fırlatacakmış\ngibi hissediyorum...
+7|<CLT=cltMIND>Neyse, <CLT=cltSTRONG>Ultimate Avı<CLT=cltMIND> nedir?\nHâlâ kafama takılıyor...
+8|<CLT=cltMIND>Ve...Rantaro bunu neden biliyordu?
+9|<CLT=cltMIND>Ama sanırım tek başıma düşünerek hiçbir\nyere varamam. Harekete geçme vakti...
+10|Bugün hâlâ biraz vakit var...\nBir plan düşünmem lazım!
+## c02_006_190
+20|<CLT=cltMIND>Bu ne...?\nHavuzda bir şey var...
+21|Şezlong ve masa mı?\nBunlar depoda mıydı?
+22|Bir şemsiyeyle burası kesinlikle bir ünlünün\nözel havuzu gibi görünürdü...

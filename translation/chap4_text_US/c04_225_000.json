@@ -1,0 +1,482 @@
+[
+ {
+  "id": 0,
+  "en": "Yes, that's it!\nThe Virtual World is a <CLT=cltSTRONG>loop<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Loop?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Just like in old games, right!?\nLike, for example...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "When a character goes off the left side \nof the screen and reappears on the right.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Yes, exactly. The edges of the Virtual\nWorld are linked together in a continuous loop.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "The Virtual World...loops?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Wh-What in the world!?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "If that's true, it would explain the way\nthe signboard was swept away.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "It vanished into the wall downstream of the\nriver, came out of that same wall upstream...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "and floated with the current until it\ngot caught on the rocks.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "What was the world like before Miu\nadded the wall...?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Actually, there wasn't a wall on the Y-axis\nat all, and the X-axis was set to loop.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "A-Are you serious? Even if it is a computer\nprogram, isn't that too crazy?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "A looping world... That's more \nextraordinary than even magic...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "But, at least it's not a boring answer. \nIt also explains all the things that happened.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Huh? It doesn't explain \neverything, does it?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Cuz we still don't know why we heard \nthat one sound or Keebo's voice.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Yeah, sound doesn't go past\nthe map loading point.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Actually, if we know that the world is a\nloop, we can explain that as well.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Huh? Really?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Yes, but first we need to be clear\n*where* the loop starts.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Where the loop starts...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Doesn't it loop at the walls next to\nthe mansion and chapel...?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Not necessarily. If we heard a noise at the\nchapel from inside the mansion, then the loop...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Ah...over there.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "What? Over there?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "If the X-axis loops, wouldn't the loop point\nbe running through the world vertically?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "The loop begins in the forest\nwest of the mansion.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Considering the position of the forest, isn't\nthat an odd location for the loop point to be?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Maybe the loop is the chapel?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Wouldn't the loop point run through the whole\nworld, rather than be confined to one location?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Maybe the loop is the roof of the mansion?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Wouldn't the loop point run through the whole\nworld, rather than be confined to one location?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Maybe the loop is the stairs of the mansion?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Wouldn't the loop point run through the whole\nworld, rather than be confined to one location?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Maybe the loop is the mansion?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Wouldn't the loop point run through the whole\nworld, rather than be confined to one location?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "The loop begins at the river!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "But nothing happened when we crossed\nthe river using the signboard, right?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "When you cross the transition point on the\nmap, you can't see or hear anything...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Isn't it the wall near the mansion and chapel?\nIf that's wrong, please tell me why.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Where is the looping point?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "The <CLT=cltSTRONG>map loading point<CLT=cltNORMAL> was \nwhere the Virtual World looped.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "We thought the <CLT=cltSTRONG>loading point<CLT=cltNORMAL> was\nin the middle of the map...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "But the loading point was\nactually at the <CLT=cltSTRONG>edges<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "So the wall Miu created wasn't at the \nedges of the world, but rather...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Her wall was at the center of the world.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I see, so the mansion and chapel were near\neach other, with a wall between them...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "And any sound emitted near the chapel would\nalso reach the mansion.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "The wall <CLT=cltSTRONG>only allows non-humans to pass through<CLT=cltNORMAL>,\nso <CLT=cltSTRONG>sound<CLT=cltNORMAL> should be able to pass through easily.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "That's right. That's how\nthe Virtual World works!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Mwa-hahahahahaha!!!\nImpressive, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "For you to get this far! \nYes! Yeeeesss! You are useful, indeed!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltSTRONG>\"For you to get this far\"<CLT=cltNORMAL>? What are you, \nsome villain pulling the strings?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Nope! Miu pulled the strings here, not me.\nRemember?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Miu also set this trap.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "It all began when Miu showed us the map.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Because of the map, we mistakenly thought the\nloading point was at the center...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Which, in turn, made the mansion and chapel\nseem farther away from each other.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "But the structure of the world wasn't\nactually like that.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "There was a wall along the Y-axis,\nand the X-axis came around in a loop.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "By putting that wall in the center of\nthat world, she cut off the loop...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "So, ever since Miu showed us that map,\nwe were caught in her trap.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "But we solved this mystery, thanks to Shuichi!\nAll hail our savior!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Yeah. If Shuichi wasn't here, then \nwe never would've solved this mystery.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "That's right! Good work, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Thanks, Shuichi! You saved us!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Ah... You're welcome.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Just because we found out the Virtual World's\nsecret, doesn't mean we can take it easy yet.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Actually...this culprit hunt just got to\nthe exciting part!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Even if we know all the tricks, it's pretty\nmeaningless if we don't find the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "That's how a class trial works, after all!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Kokichi talking like Monokuma again...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Tch... No matter what you say,\nI'm not gonna believe your lies...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "I'm gonna believe in everyone!\nThat's how I'm gonna reach the truth!",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Nee-heehee... \nI can't wait to see what happens next.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>What is Kokichi's plan here?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>He's definitely prodding\nat Kaito on purpose.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>Well, there's no time\nfor distractions like him.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>What we have to do is\nfind the culprit who killed Miu.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>It doesn't matter how many little\nmysteries we solve, if we can't find the culprit...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>it would all be for nothing.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>But I still don't know\nfor sure who it could be.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>Who used Miu's own plan\nagainst her to kill her?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>Who killed Miu...?",
+  "tr": ""
+ }
+]

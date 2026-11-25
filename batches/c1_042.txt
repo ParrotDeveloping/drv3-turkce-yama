@@ -1,0 +1,62 @@
+@ chap1_text_US
+## c01_033_010
+91|<CLT=cltMIND>Buradan çıkarsam oraya gitmek için\nepey yürümem gerekecek.
+## c01_034_001
+0|Kaede! Bir şey mi oldu!? Gonta Rantaro'nun\ngeçtiğini gördü. Yüzü korkunçtu...
+1|Evet, o konuda...\nRyoma ve Rantaro kavga etti...
+2|K-Kavga mı!? Nerede!? Gonta gidip durduracak!
+3|Hayır, artık sorun yok, endişelenmene\ngerek yok.
+4|A-Ah...özür.\nGonta en çok gereken yerde değildi...
+5|Kafana takma.
+6|Angie söylemeseydi ben de\nbilmeyecektim.
+7|T-Tamam...!
+8|Neyse, bugün Kirumi, Kiyo ve Angie\nyemekhanede.
+9|Neden onlarla kahvaltı etmiyorsun?
+10|Gerçekten mi? O zaman Gonta da yemekhaneye gider!
+13|Hey, az önce Shuichi'yi gördüm...
+14|Ha? N-Ne?
+15|Şey, Shuichi'nin Miu'nun araştırma\nlaboratuvarından çıktığını gördüm!
+16|A-Ah...öyle mi...
+17|Sabah sabah orada ne yapıyordu \nacaba...
+18|Bir şey olduğunu sanmıyorum ama \nböyle ölüm kalım durumunda...
+19|İnsanların birden birbirlerine duygular \nbeslemeye başlaması beklenir, değil mi?
+20|Şey, sanmıyorum...
+21|Evet, haklısın...şimdi bunun zamanı değil.\nZaten süre bu gece doluyor.
+22|Onca şey yaşadıktan sonra...tuhaf ama\nsanki kabullenmiş gibiyim.
+23|Ah...hayatımın son gününü nasıl \ngeçirsem?
+## c01_035_017
+0|Geciktiğim için kusura bakma, Shuichi!
+1|Ah, sorun değil.\nBen de daha yeni geldim.
+2|Nasıl gitti? Miu kameraları bitirdi mi?
+3|Bütün gece çalışmış olmalı. Benimle dalga\ngeçemeyecek kadar yorgundu...
+4|Neyse, işte sonuç.
+5|Sensör hareket algılayınca fotoğraf çeken\niki kamera...
+6|Ve bu da hem fotoğraf çekip *hem de*\nbu alıcıyı tetikleyecek.
+7|Tabii şu an kapalılar,\no yüzden fotoğraf çekmiyorlar...
+8|Tek kullanımlık fotoğraf makineleri olduğu için\nfilmi elle sarmamız gerekecek, değil mi?
+9|Evet, Miu bunu da düşünmüş. Kameraların\notomatik olarak saracağını söyledi.
+10|Yani kurulunca sensör her tetiklendiğinde\nfotoğraf çekecekler mi?
+11|Ayrıca dikkat çekmesinler diye tamamen\nsessiz olacak şekilde değiştirmiş.
+12|Tamamen sessizler... Bu mükemmel.
+13|Öyle olması lazım...\nBunlar planımız için kesinlikle şart.
+14|Peki bu kameraların flaşı var mı?
+15|Evet, hâlâ flaşları var ama kapattım.\nSorun çıkarmamaları lazım.
+16|Ama yanlışlıkla açılıp beyni uyarmadıklarından\n*emin* olmamız lazım.
+17|Evet, dikkatli olacağım.
+18|Gerçi etkilendim. Miu onları istediğimiz\ngibi değiştirmiş.
+19|Pekala, kütüphanede kurulum yapmadan önce\nsana bu sınıf hakkında biraz bilgi vereyim.
+20|Ha? Bu sınıf hakkında mı?
+21|Evet, kameraları kurduktan sonra gözcülük\nyapmak için burasının mükemmel olduğunu düşünüyorum.
+22|Tamam ama neden bu sınıf?
+23|Çünkü bodruma inen herkesi görebiliriz.\nKapı biraz aralıkken...
+24|Bak. Merdiveni görebiliyorsun, değil mi?
+25|Ah evet, haklısın! Bodruma inen herkesi\ngözetleyebiliriz!
+26|Bu sınıfı özellikle seçmemin bir sebebi\ndaha var.
+27|<CLT=cltMIND>Bir sebebi daha mı?
+28|Bir şey yüzünden...\nSadece burada olan bir şey.
+29|Neyse, vakit geldi. Kameraları şimdi\nkurmalıyız...
+30|<CLT=cltMIND>O bir sebep ne acaba...
+35|<CLT=cltMIND>Diğer sebep bu gibi görünmüyor...
+36|<CLT=cltMIND>Diğer sebep bu gibi görünmüyor...
+37|<CLT=cltMIND>Diğer sebep bu gibi görünmüyor...
+38|<CLT=cltMIND>Diğer sebep bu gibi görünmüyor...

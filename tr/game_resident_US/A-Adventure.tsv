@@ -1,0 +1,18 @@
+0	Seviye <DIG=●>
+1	Seviye
+2	<CLT=cltKTDM> <PAD=【△】> Onayla <PAD=【□】> Soruyu Göster
+3	<CLT=cltKTDM> <PAD=【△】> Onayla <PAD=【□】> Soruyu Gizle
+4	<PAD=【△】>Onayla
+5	<PAD=【Ｆ㊧】>  <PAD=【○】> Kullan
+6	<CLT=cltMIND> <DIG=●> doğru cevap daha verilince kilit açılacak.
+7	<PAD=【Ｌ３】> Hareket
+8	<PAD=【Ｒ３】> Kamera
+9	<PAD=【Ｌ３】> + <PAD=【Ｌ１】> Koş
+10	<PAD=【×】> Koş
+11	Oyundan çıkılıyor.\nEmin misin?
+12	Randevu Bileti
+13	<CLT=cltKTDM> <PAD=【△】> Onayla  <PAD=【□】> Soruyu Göster <PAD=【ＭＣ↕】> Kaydır
+14	<CLT=cltKTDM> <PAD=【△】> Onayla  <PAD=【□】> Soruyu Gizle <PAD=【ＭＣ↕】> Kaydır
+15	<PAD=【ＭＷ↕】>/<PAD=【Ｐ全】> Hareket
+16	<PAD=【Ｌ３】> Kamera
+17	<PAD=【Ｐ全】> + <PAD=【×】> Koş

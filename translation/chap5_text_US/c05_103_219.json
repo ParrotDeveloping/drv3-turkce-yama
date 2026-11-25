@@ -1,0 +1,497 @@
+[
+ {
+  "id": 0,
+  "en": "Keebo, what are you looking at?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Take a look at this.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "These are...Kokichi's clothes?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>It's soaked and wrinkled, but there's\nno doubt these are Kokichi's.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Where did you find this? I didn't see it\nwhen I was investigating the bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "And why are they soaked?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Well...the toilet seemed clogged, so I reached\nmy hand down the drain...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...and pulled out these clothes. It looks like\nthey couldn't be flushed all the way.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Couldn't be flushed all the way...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Why were these clothes in\nthe toilet in the first place?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Yes, it was very brave of me. And thanks to\nthat, I managed to find an important clue.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Now, Shuichi...please investigate as much\nas you want!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Ah...yeah...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Clogging the toilet, huh...?\nBut this isn't the time to hesitate.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Because I was so brave, I managed to find\nan important clue.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Now, Shuichi...please investigate as much\nas you want!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>There's still some things I\nshould investigate here.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>This is a small window for ventilation.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>This is the window from before.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>It's about eight inches wide,\nand it won't open all the way.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>It's not possible for a person to\nfit through there...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>But perhaps an <CLT=cltSTRONG>object<CLT=cltMIND> could.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "There's nothing particularly off here,\nbut I want to investigate one more time.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>It's no use.\nThere are no clues here.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>This crossbow is one from Maki's lab.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>Meaning...someone brought it here.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>This large black case...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>This is one from Maki's lab.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>There are arrows on the floor\nof the bathroom...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Three in total.\nAnd...blood on all of them.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>...What does this mean?\nI should investigate this again.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>It's no use.\nThere are no clues here.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>There's a small bottle here.\nIt looks empty.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>The label has blood all over it,\nI can't read it completely...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>but I can see the word \"<CLT=cltSTRONG>poison<CLT=cltMIND>.\"",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>It might not have necessarily come\nfrom the <CLT=cltSTRONG>Ultimate Detective<CLT=cltMIND>'s lab...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>But with the <CLT=cltSTRONG>Strike-9 Poison<CLT=cltMIND> having less\nin the bottle and the <CLT=cltSTRONG>antidotes<CLT=cltMIND> on the desk...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>It certainly can't be unrelated.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Kokichi's clothes, found in the bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>If they were found in the toilet, someone\nmust have tried to flush them.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>But who would do that?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Is something the matter?\nPlease, investigate.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Ah! O-Okay!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>Ultimate Detective<CLT=cltMIND>\ncan't stop here!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>This *has* to be an important clue...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...Alright!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>I made up my mind, grabbed\nKokichi's soaked clothes...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>and spread them open.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>There's a small hole in the back.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>And another small hole on the sleeve.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>This is about the same size\nas the one on Kaito's sleeve.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>There are traces of blood\naround the holes, too.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>What does this mean?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>It could mean that he was attacked.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>In that case...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>There's a chance...Kokichi was the one\ncrushed in the hydraulic press!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Ah, Keebo, thank you! Thank you!\nThis is a very important clue!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Oh, I'm happy I was able to help, but I must\ndecline shaking that hand of yours.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Ah...your hands aren't clean either, though.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Kokichi's Clothes<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>But if Kokichi was the one crushed\nin the hydraulic press...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>Where did Kaito go?\nWhy not show himself?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>And why is this game still going,\neven though the mastermind is dead?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Um... If this is awkward, Shuichi, I can leave\nand give you some privacy...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "You're...concerned about that?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>Keebo and I washed our\nhands in the sink...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>...and left the bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>Kokichi's clothes, found in the bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>I believe Keebo is correct. Someone\ntried to flush these clothes down the toilet.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>In that case, who did it?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>There's a small hole in the\nback of these clothes...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>And another small hole on the sleeve.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>This is about the same size\nas the one on Kaito's sleeve.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>There are traces of blood\naround the holes, too.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>What does this mean?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>It could mean that he was attacked.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>Then, there's a chance that\nKokichi was crushed by the press.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>But if Kokichi was the one crushed\nin the hydraulic press...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>Where did Kaito go?\nWhy not show himself?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>And why is this game still going,\neven though the mastermind is dead?",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>There's a pool of blood in the middle\nof the bathroom, and a trail to the door.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "What can I deduce from this bloodstain?\nI should investigate again.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>It's no use.\nThere are no clues here.",
+  "tr": ""
+ }
+]

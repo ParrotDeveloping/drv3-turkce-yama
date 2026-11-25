@@ -1,0 +1,312 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>Merhaba. Eminim şu an kafan karışık.\n\"Neredeyim ben...?\" diye düşünüyorsundur.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSYSTEM>Bunu açıklayamam ama kontroller hakkında\ntemel bir açıklama yapabilirim.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>Ekrandaki nişangahı <PAD=【Ｌ３】> çubuğuyla\nkontrol et.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Bir hedefi nişan aldığında, incelemek için\n<PAD=【○】> tuşuna bas.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM><PAD=【Ｒ３】> çubuğu bakış açını kontrol eder.\nEtrafına iyice bir bak.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Ayrıca eşyalara vurmak için <PAD=【Ｒ１】>\ntuşuna basabilirsin.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>Kim bilir?\nBelki inanılmaz bir şey bulursun.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>Eşyaları eski yerine koymak için her zaman <PAD=【Ｌ１】>\r\ntuşuna basabilirsin, o yüzden rahat ol.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>Ancak her eşya hareket ettirilemez.\nAnlayışın için teşekkürler.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM><PAD=【△】> tuşuna basarsan gizemli bir\ninceleme gücü devreye girer...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>Kusura bakma, biliyorum\nçok fazla bilgi oldu.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>Ama bir şeyi unutursan, kontrollere tekrar\nbakmak için <PAD=【Ｆ㊨】> tuşuna basabilirsin.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>Burayı iyice araştır!\nHikaye böyle ilerliyor, anladın mı?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Neyse, sakin olup düşünelim.\nBiraz önce sana bağırdığım için özür dilerim.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Ah, yok, sorun değil...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Sana bağırmamalıydım.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Neyse, burası...tuhaf. Kötü bir şeyin içine\ndüşmediğimizi düşünüyorsun, değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Kötü bir şey...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Neler oluyor? Neyin içine\ndüştük biz?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Burası...tuhaf. Kötü bir şeyin içine\ndüşmediğimizi düşünüyorsun, değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>Önce bu alanı tamamen\naraştırmalısın.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Bu bir kara tahta, değil mi?\nHer sınıfta bir tane vardır ama...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>Bu kara tahta aynı zamanda bir LCD ekran.\nBöyle bir şeyi her gün görmezsin...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>Bu kara tahta aynı zamanda bir LCD ekran.\nBöyle bir şeyi her gün görmezsin...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>Pencerenin dışı yeşilliklerle kaplı\n...ve dikenli tellerle mi?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>Okulun pencereleri neden dikenli\ntellerle kaplı?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Okulun pencereleri neden dikenli\ntellerle kaplı?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Neredeyim? Neden kaçırıldım?\nBeni kim kaçırdı?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>Hiçbir şey anlamıyorum...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>Ama bunun önemi yok!\nEn azından şimdilik...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Hey, hemen buradan olabildiğince hızlı\nçıkalım ve yardım bulalım!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "E-Evet... İyi fikir!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>Sınıfın kapısına olabildiğince hızlı koştuk\nve var gücümüzle açtık...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>Ama sonra—",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Hah işte! Buldum sizi!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ne?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Bir c-canavar mı!?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Gya-hahahaha! Vuuuu! Hahaha!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "B-Bu kötü! Buradan çıkmamız lazım!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "T-Tamam!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Dur, dur, dur, dur, dur, dur, dur, dur,\ndur, dur, duuuuur!!!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>Bu dolapların içinde uyandık...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Ama en başta neden bu dolapların\niçindeydik ki?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Bu dolapların içinde uyandık...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Neden dolapların içine konduk?\nAnlamıyorum...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>Bu bir ekran mı?\nŞu an hiçbir şey göstermiyor...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>Cidden, bu ne böyle?\nBurada hiç yakışmamış.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>Bu ekran bir okulda kullanılmak için\nfazla gelişmiş...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltSYSTEM>Merhaba. Eminim şu an kafan karışık.\n\"Neredeyim ben...?\" diye düşünüyorsundur.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltSYSTEM>Bunu açıklayamam ama kontroller hakkında\ntemel bir açıklama yapabilirim.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSYSTEM>Ekrandaki nişangahı kontrol etmek için\nfareni hareket ettir.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltSYSTEM>Bir hedefi nişan aldığında, incelemek\niçin sol tıkla.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltSYSTEM>Bakış açını ayarlamak için sağ tıkı basılı\ntut ve fareyi hareket ettir.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltSYSTEM>Ayrıca eşyalara vurmak için Boşluk\ntuşuna basabilirsin.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltSYSTEM>Kim bilir?\nBelki inanılmaz bir şey bulursun.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltSYSTEM>Eşyaları eski yerine koymak için her zaman Q\ntuşuna basabilirsin, o yüzden rahat ol.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltSYSTEM>Ancak her eşya hareket ettirilemez.\nAnlayışın için teşekkürler.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltSYSTEM>Enter tuşuna basarsan gizemli bir\ninceleme gücü devreye girer...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltSYSTEM>Kusura bakma, biliyorum\nçok fazla bilgi oldu.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltSYSTEM>Burayı iyice araştır!\nHikaye böyle ilerliyor, anladın mı?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltSYSTEM>Önce bu alanı tamamen\naraştırmalısın.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltSYSTEM>Eşyaları eski yerine koymak için her zaman A\ntuşuna basabilirsin, o yüzden rahat ol.",
+  "tr": ""
+ }
+]

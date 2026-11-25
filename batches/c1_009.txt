@@ -1,0 +1,60 @@
+@ chap1_text_US
+## c01_004_353
+31|Tanrım, siz mızmızlar kendinize amma\nda bir yas partisi düzenlemişsiniz!
+32|M-Monokuma mı!?
+33|Vay, hepiniz bitkin görünüyorsunuz.\nZavallıcıklar. Sizin için üzülüyorum.
+34|Hah, burası pislik içinde. Kaşmir tenime\nresmen işkence.
+35|Bahse girerim Monodam şu an kendini şanslı\nhissediyordur! Vücudu zaten ucuz bir hurda!
+37|Ona neden cevap vermiyorsun, Monodam?\nOrtamı biraz canlandırır, değil mi?
+38|Tıh... Demek deliklerinizden çıktınız.\nSanırım sonunda ne yaptığımızı fark ettiniz.
+39|...Fark etmek mi?
+40|Kaçış planınız neyse onu berbat edeceğinizi\nbir süredir biliyordum.
+41|Ne?
+42|E-Evet, ben de...şey...aşağı yukarı\nbiliyordum...
+43|...Bu bir yalan.
+44|Baştan beri biliyorduysanız bu sadece bir tuzaktı.
+45|O zaman çıkış diye bir şey *yoktu*! Bizi kandırdınız!
+46|...Hayır, bir çıkış var.
+47|Bence hep birlikte çalışırsanız\nona ulaşmayı başarırsınız!
+48|Evet! Siz 16 <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'ın birlikte\nçalışırsanız başaramayacağı şey yok!
+49|Puhuhu. Ve ilk seferde başaramazsanız...
+50|...tekrar, tekrar deneyin.
+51|Gerçeği kabul edene kadar istediğiniz kadar\ndeneyin! Ah-hahahaha!
+52|Kyahahahaha!
+53|Nyeeeh, yani yeterince çabalarsak\nkaçabilir miyiz...?
+54|Olmaz öyle şey, seni küçük salak! Gerçekten\nulaşabilseydik çıldırırlardı!
+55|Muhtemelen bu yüzden denememize izin verdiler.
+56|Kaçmanın imkânsız olduğunu öğrenelim diye\nyeraltı geçidini denememizi istediler.
+57|Bütün çıkışları tamamen kapatmak yerine\no küçük umut kırıntısını bırakıyorlar...
+58|<CLT=cltSTRONG>Eve dönmek için çaresiz<CLT=cltNORMAL> kalmamızı istiyorlar.\nBizi zihinsel olarak köşeye sıkıştırmak.
+59|Bu düpedüz alçakça...
+60|Evet ama öylece pes edemeyiz...
+61|Değil mi millet? Yani sadece bir kez\nbaşarısız olduk.
+62|Bu kadar erken pes edemeyiz, değil mi?
+63|Ama...buradan çıkmak imkânsız değil mi?
+64|Hayır, değil. Bir deneme daha ya da çok daha\nfazla deneme gerekebilir ama imkânsız değil.
+65|Monokuma'yı boş verin. Bize ne söylediğinin\nhiçbir önemi yok.
+66|Ona kaybetmek istemiyorum! Hiçbirinizin\nkaybetmesini de istemiyorum!
+67|Bize bu korkunç şeyleri yapan birine\nkaybetmeyi reddediyorum!
+68|Kaede...
+69|O yüzden hep birlikte buradan kaçmak için\nçok çalışalım!
+70|Ve buradan çıkıp dış dünyaya\nulaştığımızda...
+71|Neden hep arkadaş kalmıyoruz?
+72|...A-Arkadaş mı?
+73|Evet... Böyle bir deneyimden sonra bence\nhepimiz en iyi arkadaşlar oluruz.
+74|Yani diğer <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'larla her gün\ntanışma fırsatı olmuyor...
+75|...Eee, ne dersiniz?
+76|Hıh...fena olmayabilir.
+77|Evet. Harika bir fikir.
+78|O halde ne olursa olsun buradan kaçmak\niçin bir sebebimiz daha var.
+79|Vücudum hazır! Koltuk altlarımın ne kadar\nterlediğinden anlayabilirsin!
+80|H-Herkes!
+81|Kaçtıktan sonra ne yapacağımızı söylemek için\nerken değil mi? Varsayımlar neredeyse işe yaramaz.
+82|Tanrım, hiçbir şeyden anlamıyorsun... Bir\nrobotun havayı okuyamamasına neden şaşırmadım ki?
+83|Robotlar havayı okuyabilir! Kirletici algılama\nteknolojisindeki yenilikler sayesinde ben—
+84|Neyse, Monokuma'nın imkânsız demesinin önemi\nyok! Ona neler yapabileceğimizi göstereceğiz!
+85|Evet! Haklısın!
+86|Zahmetli görünüyor ama...sanırım deneyeceğim.
+87|Evet, birlikte çalışalım! Geçen sefer çuvalladık\nama eminim bu sefer iyi gidecek!
+88|Eminim iyi olacağız. Kutsal bir rüzgâr esip\nbizi zafere taşıyacak.
+89|Aaah, insanlık *gerçekten* harika. Zorluklarla\nyüzleşme şekliniz çok güzel.

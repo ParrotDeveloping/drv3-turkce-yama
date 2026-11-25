@@ -1,0 +1,852 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>What you're seeing now is live footage of\nthe sky from our camera at the scene!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSYSTEM>You can clearly see the meteors\nraining down!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>We are witnessing what looks like\nthe end of the world!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>This is not a movie! I repeat, this is NOT\na movie! This is live, unedited footage!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>This is real! The sky is falling before\nour very eyes!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>We've just been notified that the government\nhas officially declared a state of emergency!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>Subway stations have been opened as shelters!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>The government is instructing citizens to remain\ncalm and evacuate to their nearest shelter!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>Children and invalids are to be given\nfirst priori—",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>It was the day after the second class trial.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>We all headed to Maki's lab on the\n3rd floor of the school building.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>And awaiting us there...\nwas an unexpected sight.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Wh-What the heck is this?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "It's like...weapon warehouse.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "See, I told you she's not the <CLT=cltSTRONG>Ultimate\nChild Caregiver<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "She's the <CLT=cltSTRONG>Ultimate Assassin<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>Maki...is the <CLT=cltSTRONG>Ultimate Assassin<CLT=cltMIND>?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Kokichi...you learned that from the\n<CLT=cltSTRONG>motive video<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Monokuma said everyone's <CLT=cltSTRONG>Ultimate talent<CLT=cltNORMAL>\nat the beginning of their <CLT=cltSTRONG>video<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Ryoma knew Maki's true identity because he had\nher <CLT=cltSTRONG>motive video<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "And, because you saw that—",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Hm? I knew the whole time. Given my position,\nI'd obviously know before any of you, right?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Your \"position\"?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Oh...don't worry about it. That was a lie.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Anyway, her reaction yesterday pretty much\ngave away that she's the <CLT=cltSTRONG>Ultimate Assassin<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Y-Yeah...you can probably...snap my \nneck like a twig right now...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "But that's...not your style...\nY-You would rather...kill from the shadows...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Right...Miss <CLT=cltSTRONG>Ultimate Assassin<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "But whyever did she lie about being \nthe <CLT=cltSTRONG>Ultimate Child Caregiver<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Cuz assassins hide to do all their killing!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "If people find out they're assassins, they\nget all cautious and they can't kill anyone!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Did she hide her real identity because...\nshe was planning to kill us?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "But then, why hasn't she killed anyone yet?\nShe has had many opportunities to do so.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Geez, robots can't even understand human\nfeelings, let alone a girl's heart.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Please take back what you just said.\nI can too understand human feelings.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "But I'm still in the process of collecting data.\nPlease, give me data! Please!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "If you're so worried, why don't you ask her?\nShe's been holed up in her room all day.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "But I can't promise that she won't try to\nkill you like she tried to do to me.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Nee-heehee... Good thing everyone was there\nto stop her, but what about next time?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Best let sleeping gods lie.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "The talent of a killer... That is the biggest\nthreat to all of us who wish to survive.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Let's just lock her up somewhere so she\ncan't kill anyone.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I'll leave that to you, Gonta...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Huh? B-But...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "I'll help, too! I don't want another killing\nto happen.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ah, wait, you don't have to take it that far...\nIt's not like she's trying to kill us—",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "A <CLT=cltSTRONG>sneak attack<CLT=cltNORMAL> is the way to go! We have to\nstrike before she does! Hit her from behind!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Sneak attack...? Strike before she does?\nShould an Aikido master be saying those things?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "If that's the case, then Atua and I will work\nwith everyone to uphold the peace.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "If so, then I'll cheer you on. I'll use my magic\nto pull pom poms out of my mouth.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Wooow! That kinda peppy cheer magic\nwould make anyone excited!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Hold on guys. Leave Maki to me...\nI'll take down that mask of hers.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Tch, <CLT=cltSTRONG>Ultimate Assassin<CLT=cltNORMAL> my ass...\nAlways messing around...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "K-Kaito?\nDon't do anything stupid—",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "O-kay! Let's leave everything to Kaito!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Gonta, you should stand back. Nothing good\never happens when you try to help.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Hm? Oh yeah...sorry.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Hey, Gonta. Like I told you, a man \nshouldn't apologize so eas—",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Oh! I don't need everyone's usual reactions!\nTime's a bit of a factor here!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "M-Monokuma!?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Everyone! Get behind Gonta!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Himiko, get behind me! I'll surround you\nwith my body to keep you safe!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "I just said I don't need your usual reactions!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "It's almost halftime, so the stats should be\nout soon for everyone to obsess over...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "And since you guys overcame the class trial,\nI figured I'd give you all a wonderful <CLT=cltSTRONG>prize<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I said, I figured I'd give you all a wonderful\n<CLT=cltSTRONG>prize<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...Huh? My adorable little cubs aren't coming?\nThat's strange.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "RISE-AND-SHINE, URSINE!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "They're finally here! Yay! You're so cute\ntoday, it's practically obscene!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Just...wow. You guys are seriously cute.\nH-Have you always been this cute?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Ahhhh! The shock of my super-cute kids...\nseems to be making me...go bald...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "...Like, in patches.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "He's actually balding!?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Ugh! Gross!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Ahhhh... I-I'm cold... V-Very cold...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Hey, my cute little cubs... Could you hurry\nup and give them the <CLT=cltSTRONG>prize<CLT=cltNORMAL>...?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "I-It's too cold...I can't s-stand it... Hurry...\nI wanna go somewhere warm...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Huh? What's wrong? Why aren't you backing\nme up?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "FATHER...WE-ARE-NOT-YOUR-SLAVES.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "WE-WILL-NOT-LET-YOU-USE-US-ANYMORE.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "FROM-NOW-ON...I-WILL-BE-CALLING-THE-\nSHOTS.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...Hah! Good one, kids. Very funny. You can\nshow me where the hidden cameras are now.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "F-Father...you're too old for this! You've been\ndoing this so long, you've become predictable!",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "It's the age of the Monokubs now!\nOut with the old, in with the new!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Wh-What!? But what about all the long-time\nfans who—",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Anyway, you're just a has-been! Why don'tcha\njust retire somewhere and work on your tan!?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "H-Has-been!?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "GOOD-JOB, YOU-TWO... YOU-MEMORIZED-\nMY-SCRIPT-PERFECTLY.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "D-Do you really think you can defy your dad!?\nDo you think I'd forgive such—",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "...YOU-WERE-SAYING?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "EEEEEEEEEEEEEEEEEK!!!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "DID-YOU-FORGET, FATHER?\nONLY-WE-CAN-PILOT-THE-EXISALS.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "...What!? Really!?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "How could you forget that!?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "THANK-YOU, FATHER, BUT-THE-ACADEMY-IS-\nUNDER-OUR-HARMONIOUS-CONTROL-NOW.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "...STEP-ASIDE, FATHER.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "N-No way! Are you saying that treating you\nkids like my property was...wrong!?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "It's completely and utterly wrong!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "N-No...no...no—",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "No no no no no wayyyyyyyyyyyyyyyyy!!!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Nyeh...he's bald again.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "It seems the shock made him bald...\nThis time...for good.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "NOW-THEN, AS-THE-NEW-HEADMASTERS,\nWE-HAVE-FOR-YOU-BASTARDS...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "A-WONDERFUL-PRIZE!",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "U-Um... Let's see what the prize is this\ntime...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "We're giving away a <CLT=cltSTRONG>Golden Hammer<CLT=cltNORMAL>, a <CLT=cltSTRONG>Magic\nKey<CLT=cltNORMAL>, and a <CLT=cltSTRONG>Ninja Scroll<CLT=cltNORMAL> as a prize bundle!",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Wow...what a buncha random junk.\nI-I mean, bravo, bravo!",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "WE-LOOK-FORWARD-TO-WORKING-WITH-YOU.\nI-HOPE-WE-CAN-ALL...GET-ALONG.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "I had a feeling it was more junk...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Aw maaan... We didn't need more junk. We had\nway too much anyway. And its name is Keebo.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Now you've gone too far! Everyone, we can't\nallow this kind of intolerant language!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "NO-FIGHTING.\nEVERYONE-HAS-TO-GET-ALONG.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "USE-THIS-PRIZE-TO-EXPLORE-THE-NEW-\nAREAS-TOGETHER.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Also, we've hidden another <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>\nsomewhere, too.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "I hope you all grow even closer now that\nyou've regained more of your memories.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Geez, those cubs suck.\nMonokuma was waaay better.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Damn it... I've got too much pride as a human\nto let those robots push me around!",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "The world would be a better place if robots\ndidn't exist! They should all be destroyed!",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "I've recorded your intolerant remarks, and\nwill report them to the proper authorities.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "So what are we going to do? If we use this junk,\nwe can open up new places, but...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Yayyy! A new area means we can all have\nlots more fun.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "I don't know if we'll have that much fun...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "I find myself more interested in the <CLT=cltSTRONG>Flashback\nLight<CLT=cltNORMAL>. Perhaps we'll recall the school's secret.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "If that's the case, then we'll deal with\nmurder girl later.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Hey, bro. I'll leave this to you again.\nDo a good job, alright?",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "O-Okay... Got it.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "If you find dangerous place, come get Gonta.\nGonta will protect you.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Nyeeeh...all that aside, what are we \ngonna do with that thing?",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Umm...let's just leave him here.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "<CLT=cltMIND>Ah, I suppose I should go try out these\nitems around the school like last time.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "I'll leave this to you again.\nDo a good job, alright?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Ah, well, I don't mind, but...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Hm? You don't mind, but...what?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "No, it's just that...when we were talking about\nMaki, you looked...really upset.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Well, yeah...\nI can't believe she's an <CLT=cltSTRONG>assassin<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "I can't believe it either... She doesn't seem\nlike she could be some terrifying assassin...",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Hah! Terrifying, huh?",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Either way, leave Maki to me.\nI'll take down that mask of hers.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Either way, leave Maki to me.\nI'll take down that mask of hers.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>...I'm not going to bother.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "<CLT=cltMIND>What is this...?",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "<CLT=cltMIND>There are three black cases lined up.\nDo they all have weapons inside?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltMIND>There are a lot of different\nweapons here...",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "<CLT=cltMIND>Maki knows how to handle all of these...?",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Whoa...",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "<CLT=cltMIND>I exclaimed in awe at the sheer number of\nguns lined up. They can't be real...",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltMIND>No...of course they aren't real.\nThey're airsoft guns.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "Ah, of course...\nMonokuma wouldn't give us *real* weapons.",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "<CLT=cltMIND>Exisals may be strong, but if we were\nto revolt with real guns...",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "<CLT=cltMIND>Monokuma would never allow that.",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "<CLT=cltMIND>If these weapons were real...\nAnd if Kirumi were here...",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "<CLT=cltMIND>She might have taken us all out in\norder to escape.",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "<CLT=cltMIND>For her people...",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "<CLT=cltMIND>There are a lot of different\nweapons here...",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "<CLT=cltMIND>Maki knows how to handle all of these...?",
+  "tr": ""
+ }
+]

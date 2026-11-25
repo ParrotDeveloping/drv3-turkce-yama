@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "Monokuma is the obvious threat, but we\nneed to be wary of Kokichi's next move...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "He is persistent about this <CLT=cltSTRONG>game<CLT=cltNORMAL>, and will\nlikely interfere with our attempt to end it.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Should I hang out with Keebo for a while?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Then let's come up with a plan to defend\nagainst Kokichi's interference.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time with Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Keebo and I grew a little closer today.",
+  "tr": ""
+ }
+]

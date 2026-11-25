@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "...Did you have a request for me?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I am scheduled to assist Miu with\nher invention.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I can fulfill your request afterward, provided\nyou do not mind waiting, of course.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>Should I hang out with Kirumi for a while?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yes... I should rest for a bit before I help\nher with the invention.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Kirumi and I took a break together.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Kirumi and I grew a little closer today.",
+  "tr": ""
+ }
+]

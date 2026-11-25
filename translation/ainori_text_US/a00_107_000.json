@@ -1,0 +1,367 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give K1-B0 a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...A toy? Is this your way of bringing me a\nfriend? Do you see me a toy, too?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I'd prefer not to be compared to this toy...but\nas far as toys go, I guess it's kind of cute.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...A toy? Is this your way of bringing me a\nfriend? Do you see me a toy, too?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I'd prefer not to be compared to this toy...but\nas far as toys go, I guess it's kind of cute.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I'm sorry. I can't do anything with food\nor beverages except stare at them...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "This kind of gift is wasted on me. You should\nprobably give it to someone else.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I'm sorry. I can't do anything with food\nor beverages except stare at them...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "This kind of gift is wasted on me. You should\nprobably give it to someone else.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Wh-What's wrong with you!? Why would you\ngive me a gift like this!?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "This isn't some kind of robophobic\nmicroaggression, is it!?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Wh-What's wrong with you!? Why would you\ngive me a gift like this!?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "This isn't some kind of robophobic\nmicroaggression, is it!?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...I don't know how to react to being\ngiven a gift like this.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "It would be insincere of me to just accept this\ngift, so I must politely decline it.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I'm sorry. I was calculating the appropriate\nresponse to a situation like this.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...I don't know how to react to being\ngiven a gift like this.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "It would be insincere of me to just accept this\ngift, so I must politely decline it.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "I'm sorry. I was calculating the appropriate\nresponse to a situation like this.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...I'm sorry. I cannot see myself ever\ndeveloping an interest in this.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Should I feign happiness in this situation?\nThat seems illogical to me...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Oh, thank you. The proper emotional response\nto receiving a gift is one of joy.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Even if the gift itself does not interest me,\nI still understand...that I should feel joy.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "A present from Kaede... There, I've finished\nsaving a backup copy of this memory.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I hope to repay your kindness someday.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "...I'm sorry. I cannot see myself ever\ndeveloping an interest in this.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Should I feign happiness in this situation?\nThat seems illogical to me...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Oh, thank you. The proper emotional response\nto receiving a gift is one of joy.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Even if the gift itself does not interest me,\nI still understand...that I should feel joy.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "A present from Shuichi... There, I've finished\nsaving a backup copy of this memory.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I hope to repay your kindness someday.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...I'm sorry. I cannot see myself ever\ndeveloping an interest in this.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Should I feign happiness in this situation?\nThat seems illogical to me...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Oh, thank you. The proper emotional response\nto receiving a gift is one of joy.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Even if the gift itself does not interest me,\nI still understand...that I should feel joy.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "A present from Kaede... There, I've finished\nsaving a backup copy of this memory.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I hope to repay your kindness someday.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...I'm sorry. I cannot see myself ever\ndeveloping an interest in this.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Should I feign happiness in this situation?\nThat seems illogical to me...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Oh, thank you. The proper emotional response\nto receiving a gift is one of joy.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Even if the gift itself does not interest me,\nI still understand...that I should feel joy.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "A present from Shuichi... There, I've finished\nsaving a backup copy of this memory.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I hope to repay your kindness someday.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "This is nice. It aligns with my preferences.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "You understand me...\nI feel...happy.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "This is...quite a fascinating item!\nAre you sure I can have it?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "I wish I could give you something in return,\nbut I have nothing to give... I'm sorry.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "This is nice. It aligns with my preferences.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "You understand me...\nI feel...happy.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "This is...quite a fascinating item!\nAre you sure I can have it?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "I wish I could give you something in return,\nbut I have nothing to give... I'm sorry.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "This is...quite a practical gift.\nThank you.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Please don't get the wrong impression...\nI'm happy because this gift is so practical.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Under different circumstances, this gift could\nbe considered an act of robophobia.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Kaede... Thank you very much.\nI am humbled by your generosity.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Did you give me this simply because I am a\nrobot? I will report your robophobic actions.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "This is...quite a practical gift.\nThank you.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Please don't get the wrong impression...\nI'm happy because this gift is so practical.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Under different circumstances, this gift could\nbe considered an act of robophobia.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Shuichi... Thank you very much.\nI am humbled by your generosity.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Did you give me this simply because I am a\nrobot? I will report your robophobic actions.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Okay, I won't give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "No, I want to give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give K1-B0 a present?",
+  "tr": ""
+ }
+]

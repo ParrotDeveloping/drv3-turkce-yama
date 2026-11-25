@@ -1,0 +1,337 @@
+[
+ {
+  "id": 0,
+  "en": "Yay! I'm with Shuichi again!\nHappy, happy me! Nyahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Y-Yeah, happy...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Angie's been pretty happy\nlately, I wonder why.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Hey, hey Shuichi. Guess what?\nI got a present for you today.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Angie pulled out what looked like\na small board covered in fabric.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Here, Shuichi. Unwrap the cloth, okay?\nSlowly, gently...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I unwrapped the cloth carefully,\njust as she said...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>and saw a canvas about the size\nof my palm. And on that canvas...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "You made this, right, Angie?\nWhat's it of?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Huh? You don't recognize it?\nIt's your face, silly.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "This is me!?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Not only does it not look like me,\nit doesn't even look human...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Yep, yep! I want you to have it.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Ah, th-thank you...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Hmm, hmm... You don't faint when you see\nmy pictures anymore.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Yay! I'm so happy I've gotten closer with\nyou.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Now that you mention it, that is true...\nPerhaps I've just gotten used to it.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "No, Shuichi.\nYou were chosen by Atua.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "And now, you're ready to be Angie's\nhusband. Isn't it wonderful?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "H-Husband!?\nWhere is this coming from!?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Atua has spoken... Shuichi can be with\nAngie forever.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hey, Angie...\nDoes Atua decide everything for you?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Even your own husband?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Hm? Well...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Maybe I want you to be my husband...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Cuz I really do wanna be with you forever.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Are you confessing your love?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "This is getting kind of heavy...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I can't do it!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Does this mean I chose you, not Atua?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Are you confessing your love?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Confession?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ah, yeah, because you\nclearly like me and all...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Ohhhh, I see, I see! Is that all? You just\nwanna know if I like you, too?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Okay, I do! There, it's decided!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "But choosing a husband is an important\ndecision, you need to think about it more!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Th-This is getting kind of heavy...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Huh? But everyone who's ever carried me\nsays I'm really light.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "No, I don't mean your weight...\nI mean, this is a life-changing decision.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Nyahahaha! It'll be fine!\nWe've got Atua on our side.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>That doesn't make me\nfeel any better!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "But you can't pick a groom\nso casually like that.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "You're going to be with them for\nthe rest of your life...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "W-Wait, what am I saying!? We shouldn't\neven be talking about this at our age!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Huh? Huhhh? Are you defying the word\nof Atua? If you do that...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "You will be cursed for generations to come.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "O-Okay, but...this is still not\na decision to be taken lightly...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "And why did you pick me?\nI'm just an ordinary guy compared to you.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But you're not ordinary.\nMy first time was with you.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...Wait.\nWh-What do you mean, \"first time\"!?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "You're the first one to ever get angry\nat me.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Since that moment...I haven't been able\nto stop thinking about you...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "I just think about you all the time.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>Ah, I see...\nI suppose Angie never got scolded before.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>After all, on her home island,\nher words were the words of Atua.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>Of course, if Angie admits that\nshe got mad at me...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>That must mean that those are her\ngenuine feelings, not Atua.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>That's good... It's a little strange, but\nthere is definitely a bond between us now.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>Ah, of course, there's\nstill the matter of...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Hey, Shuichi? Will you be my husband and\nstay with me forever?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>We aren't *that* close yet!\nI can't be her husband!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>Angie's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltSYSTEM>You've learned a new skill,\n<CLT=cltSTRONG>Atua's Intuition<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>I somehow dodged Angie's proposal,\nand I returned to my room.",
+  "tr": ""
+ }
+]

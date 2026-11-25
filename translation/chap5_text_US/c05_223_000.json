@@ -1,0 +1,712 @@
+[
+ {
+  "id": 0,
+  "en": "While investigating the Exisals, I noticed that\nthey have <CLT=cltSTRONG>no locks<CLT=cltNORMAL> on their cockpit hatches.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "It should have been possible to get into the\ncockpit, providing they could reach it.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "But that's reckless, absurd, and useless...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Jump inside a moving Exisal?\nThat's not really possible.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "No, I think it is. You would need to be\nquick, agile, athletic, and stealthy...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I can think of at least one person\nwho fits that description.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...What? Are you implying that it's m—",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Oooh, I see! And since he's a robot, he could\nhave some robo-communication function!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Huh? Was that...directed at me?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "As I've said, my speed, agility, and strength\nare equal to that of a human, if not weaker!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "So I cannot fight an Exisal, and I certainly\ncannot communicate with one!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "The selling point of being a robot is \nbeing good in combat, but...poor Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...Please don't act like I drew the short straw.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Stop this pointless conversation, Shuichi.\nIf you want to say something, say it already.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Ah, Maki, just to confirm...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "As the Ultimate Assassin, you would be able\nto jump into that Exisal, correct?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...Impossible. If I could do that, I would've\nturned the Exisal into scrap on the first day.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Maybe. Unless you were hiding your true\npotential, in which case...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Stop messing around. Are you telling me to\nprove something I can't do?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...Do you really suspect me that much?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "No, actually. I'm trying to find a way to\nprove that you *couldn't* be the intruder.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Fine then, I'll explain. There was another\nproblem that doesn't involve my talent.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "You said earlier that the hatch doesn't have\na lock, but that's incorrect.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "The Exisal's hatch has an <CLT=cltSTRONG>electronic lock<CLT=cltNORMAL>,\nso it can't be opened from the outside.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "An electronic lock?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Yes, you can't open the hatch from the outside.\nIt's impossible to get into the cockpit.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Satisfied now?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>...You just made something\nvery clear to me, Maki.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>You do know something after\nall, and you're hiding it from me!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "How do you know there's an electronic lock\non the Exisal's hatch?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "...Because I checked it during\nthe investigation.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "That can't be true. I'm the only person\nMonokuma told about those locks.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "...Just you?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "I see. If that's the case...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Then you lied just to confirm if I knew\nabout the electronic lock.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...Yes, I did, and I'm sorry.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I thought you were hiding something from\nme, Maki. I was confirming my suspicion.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Now, please. Tell us the truth.\nHow do you know about the hatch?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "When Monokuma explained it to you, I just\nhappened to overhear it. That's all.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "You're lying, Maki.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You know about the locks because you've\nbeen <CLT=cltSTRONG>inside one of the cockpits<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "So annoying... Do you want to die?\nYou're the one who's lying!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Huh? That's a suspicious thing to say. \nAre you actually the culprit, Maki?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Either way, there's an electronic lock so\nyou can't open the hatch from the outside.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Because of that, no one could've entered\nthe hangar piloting an Exisal.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>It looks like...she's never\ngoing to admit it on her own.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>There's something important that she's\nprotecting by keeping her mouth shut.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>In that case, I have to\nkeep pushing.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>I need to go over each piece of\nevidence and find out what she's hiding!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>It's the only thing I can do!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Nyeeeh... Maki's saying it's impossible,\nbut there is a way to open the hatch.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Oh, you mean with your magic, right?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I won't say such a lame thing anymore.\nI can't stay a dreamer forever...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "That lock is electronic...\nSo won't an <CLT=cltSTRONG>Electrohammer<CLT=cltNORMAL> work on it?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "That would let you stop an Exisal and open\nits hatch.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Of course...my magic is also an option.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "A dreamer to the end, huh?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "True, with an Electrohammer, that method\nmight be possible...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "But the Electrohammers were recharging\nyesterday, so entering an Exisal would be—",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Ah, wait! Not all of the Electrohammers\nwere being charged!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Wait, not all of the Electrohammers\nwere being charged!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I know because I found one.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "There was a <CLT=cltSTRONG>used Electrohammer<CLT=cltNORMAL> near\nMonokuma and the Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Was that Electrohammer used \nby the third party!?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Maybe they used it to disable an Exisal!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Yes, I think so.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "When I saw them last afternoon, there\nwere <CLT=cltSTRONG>four<CLT=cltNORMAL> Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "But this morning, there were only <CLT=cltSTRONG>three<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "I noticed that, too. Was the missing Exisal\ntaken by this third party?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Nee-heehee... Shuichi is getting warmer...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "How about you say the answer right now?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Who did it? Who is this third party?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>The identity of the\nthird party...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>The Electrohammer\ngives us a clue.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>I saw four Exisals at the scene\nyesterday when I went to meet up with Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>This morning, when we were trying\nto get into the hangar, there were three.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>The culprit must have used the Electrohammer\n<CLT=cltSTRONG>between yesterday afternoon and this morning<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>There's only one person among us\nthat I think could do that...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Kokichi...\nSo it was you all along...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Oh, c'mooon.\nI'm talking about the third party heeere!",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Try to remember...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Someone who didn't have an Electrohammer\nwhen you guys raided the hangar...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Now, who was that again?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Maybe...Keebo...?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "No, it wasn't me. I was charging it for\nthe plan this morning.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Were there any hammers that weren't\nbeing charged...?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Could it be...Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "It's not me! If did that, I wouldn't be\nable to use the hammer for our plan!",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Everyone was supposed to bring\ntheir own Electrohammer, remember?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "It couldn't be...Tsumugi, could it?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "No, it wasn't me. I had my Electrohammer\nthis morning, didn't I?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "If I had used it yesterday, it wouldn't\nbe charged this morning, right?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "What's wrong, Shuichi?\nAfraid to say it?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Shuichi, do you really think that's the\nright person?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Try to remember...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Someone who didn't have an Electrohammer\nwhen you guys raided the hangar...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Now, who was that again?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Who disabled the Exisal with the\nElectrohammer and broke into the hangar?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Maki...you're the third party\nwe're looking for, aren't you?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "What!? It's Maki!?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...What are you saying?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Remember what Kokichi said...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "But, be careful. The Electrohammer runs\nout of battery pretty quickly.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "So if you use it against an Exisal, it'll run\nout of juice with just one shot, got it?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "The Electrohammer needs to be recharged for\n24 hours after it runs out of battery.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "That hammer was used last afternoon, so\nit couldn't have been used this morning.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Oh, right. When we were all gathered\nin the dining hall this morning...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Maki...where's your Electrohammer?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "...I don't need it. I'd rather not use a weapon\nI'm unfamiliar with...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "...This is much better.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "A knife? Well...I suppose you know best.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Maki was the only one without an\nElectrohammer, wasn't she?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Knowing that, the Electrohammer I found\ncould only have belonged to Maki.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "And that leads me to the conclusion\nthat Maki must be the third party.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "She also knows how to assemble the crossbow\nand could have returned it to her lab later.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "You brought a different crossbow\nthan the one Kaito had, right?",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Maki took two arrows and her own\ncrossbow from her lab...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "...disabled the Exisal with an Electrohammer,\nand infiltrated the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Now we just have to figure out\nwhat happened after—",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Why...are you doing this?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>...What?",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Why...are you getting in my way?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Getting in your way? Maki, what are you—",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Yes, I'm the third party.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "I admit to going into the hangar with an \nExisal, and then shooting the crossbow.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "But I didn't kill anyone!\nI'm not the culprit!",
+  "tr": ""
+ }
+]

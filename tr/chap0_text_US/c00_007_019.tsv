@@ -1,0 +1,82 @@
+0	<CLT=cltMIND>Kapıyı açar açmaz eski kitapların küf\nkokusuyla birden öğürdüm.
+1	Burası bir kütüphane mi?
+2	Her yerde kitap var...\nPek düzenli görünmüyor.
+3	Ah, bu seni rahatsız mı ediyor?\nTitiz biri misin, Shuichi?
+4	Hayır, sadece...bizden önce burayı birinin\nkullanıp kullanmadığını merak ettim.
+5	Ha? Birinin mi?
+6	Ah, bir şey yok.\nŞimdilik araştıralım.
+7	Kütüphane bu kadar dağınıksa...
+8	Belki de yakın zamanda biri buradaydı?
+9	Şimdilik kesin bir şey söyleyemem.\nOdayı araştıralım.
+10	...
+11	Şey... Sen de mi <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> bir öğrencisin?
+12	Evet, doğru.
+13	...
+14	<CLT=cltMIND>Ha? Bu kadar mı?\nPek konuşkan biri değil.
+15	Ben Kaede Akamatsu.\n<CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>'im.
+16	Ben Shuichi Saihara. Ve sanırım \n<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'im...
+17	Tanrım... "Sanırım" değil, sen <CLT=cltSTRONG>Ultimate\nDedektif<CLT=cltNORMAL>'sin, tamam mı?
+18	E-Evet...haklısın.
+19	...
+20	Peki ya sen?
+21	Maki Harukawa...\n<CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>...
+22	<CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>, ha...
+23	...Şaşırdın mı? Çocukları seven biri gibi\ngörünmüyorum, değil mi?
+24	Ha?
+25	Eh, haklısın.\nÇocukları pek sevmem.
+26	A-Ama...<CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>'ysan\nçocuklar seni çok seviyordur, değil mi...?
+27	...
+28	Çocuklar...tuhaf.\nKendiliğinden yanıma geliyorlar.
+29	Onlara bakmakta pek iyi değilim...\nPek sıcakkanlı da değilim...
+30	Ama çocukların sezgilerinin çok güçlü\nolduğunu söylerler. Seni o kadar seviyorlarsa...
+31	...o zaman muhtemelen aslında ne kadar\nşefkatli olduğunu anlayabiliyorlardır, Maki!
+32	...
+33	Evet! Kesin öyledir! Kendine harika\nbir meslek seçmişsin!
+34	...Zaten benim seçimim değildi.
+35	Ha? Ne demek istiyorsun?
+36	...Hiç.
+37	Sadece...bir yetimhanede büyüdüm ve\nyardım etmek hep bana kaldı.
+38	<CLT=cltMIND>Yetimhane, ha? Anlıyorum...
+39	Ah, bu arada...\n<CLT=cltSTRONG>Monoyavrular<CLT=cltNORMAL> hakkında bir şey biliyor musun?
+40	Evet! Birileri onları kontrol ediyor olmalı,\ndeğil mi!? Kim olabileceği hakkında fikrin var mı?
+41	...Ben nereden bileyim?
+42	Eh, haklısın...
+43	Hmmm... Monoyavruların bu durumla kesinlikle\nbir ilgisi var...
+44	...Hey, dedektif çocuk, neler olduğunu\nçoktan çözmüş olman gerekmez miydi?
+45	...Ne?
+46	Ş-Şey, o bir dedektif, tanrı değil!\nHer şeyi bilemez!
+47	Hem pelüş oyuncakları kim takar ki!?\nBuradan kaçmak çok daha önemli!
+48	Cidden mi? Kaçabileceğimizi mi düşünüyorsun?
+49	Ülkenin dört bir yanından <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'ları kaçırmak\nmuazzam kaynak ve planlama gerektirir.
+50	Bunu yapabilen bir grubun buradan öylece\nçıkıp gitmemize izin vereceğini mi sanıyorsun?
+51	Onlar buna son vermezse biz veririz! Birlikte\nçalışırsak yapabileceğimizi biliyorum!
+52	Birlikte mi çalışacağız? Yabancılarla mı?
+53	Buna bu kadar kolay son verebileceğini\nsanıyorsan saf bir aptalsın.
+54	<CLT=cltSYSTEM>Maki'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+55	<CLT=cltMIND>Konuşmamız bitince hızla kütüphaneden\nçıkıp gitti.
+56	Bu...biraz tuhaftı. <CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>\ngibi görünmüyordu.
+57	Tanrım, öyle deme.
+58	<CLT=cltMIND>Şu insanlar da <CLT=cltSTRONG>Ultimate<CLT=cltMIND> öğrenci olabilir.\nBelki gidip onlarla konuşmalıyım...
+59	<CLT=cltMIND>Şu kişi de <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci olabilir.\nBelki gidip onunla konuşmalıyım...
+60	Evet
+61	Hayır
+62	Emin olmadığın bir şey mi var?
+63	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+64	Evet
+65	Hayır
+66	Emin olmadığın bir şey mi var?
+67	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+68	<CLT=cltMIND>Bu ekran bir okula konmak için\nfazla gelişmiş...
+69	<CLT=cltMIND>Buraya bir sürü kitap tıkıştırılmış,\nüstelik hepsi farklı dillerde...
+70	<CLT=cltMIND>Böyle tıkıştırılmışken rafdan kitap \nalmak nasıl mümkün olacak ki?
+71	<CLT=cltMIND>Bu rafta çeşitli dillerde yazılmış\nkitaplar dizili...
+72	<CLT=cltMIND>Bu harflerin bazıları hiç anlamlı değil...\nBunlar hangi diller acaba?
+73	<CLT=cltMIND>Bu kitaplar okuması zor görünüyor, üstelik \ntanıdığım bir dilde bile yazılmamış...
+74	<CLT=cltMIND>...Evet, onlarla hiç uğraşmayacağım.
+75	<CLT=cltMIND>Bu, üst raflardaki kitaplara uzanmak için\nbir merdivene benziyor.
+76	<CLT=cltMIND>Havalandırma için bir hava menfezi.\nMuhtemelen kitaplar küflenmesin diye.
+77	<CLT=cltMIND>Burası baştan sona kitaplıklarla\ndolu.
+78	<CLT=cltMIND>Şu kişi de <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci olabilir.\nBelki gidip onunla konuşmalıyım...
+79	<CLT=cltMIND>Şu kişi de <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci olabilir.\nBelki gidip onunla konuşmalıyım...
+80	<CLT=cltMIND>Ne güzel bir küre...
+81	<CLT=cltMIND>Kitaplıkların üstüne kitaplar yığılmış.\nHer an devrilecek gibi duruyorlar.

@@ -1,0 +1,62 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>The time limit expires at nighttime tomorrow.\nToday's my last chance to roam around.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>I need to make sure I don't forget\nto do anything important.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I need to make sure I don't forget\nto do anything important.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,247 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>So the poison played a role in\nthis killing game after all...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Miu just used it as a diversion,\nbut next time...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>...No! There can't be a next time!\nI've had enough of this!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>From the look of this door...\nit must be an <CLT=cltSTRONG>Ultimate lab<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>...Whose lab is this?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>There are only a few of us left\nwho don't have a lab yet...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I should check inside.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>When I turned the knob...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Huh? It won't open...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Oh, that research lab is closed because\nits owner is dead!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...The owner is dead?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Per the rules, if a student dies before their\n<CLT=cltSTRONG>Ultimate research lab<CLT=cltNORMAL> is opened...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...then that lab will remain closed.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "That's the first time I'm hearing this!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "That's cuz this is the first time I've mentioned\nit.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>...There's no point in complaining\nto Monokuma. This is his academy.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Anyway...\nIf this lab belongs to someone who died...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Is this...Rantaro's lab?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "How disappointing. You'd know what his\ntalent was if you went in his lab.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Puhuhu... It'd be quite a dramatic development\nif you learned what his talent was right now!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Wh-What does that mean?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Yes, what does that mean?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "That sorta unexpected development can only\nhappen in a real killing game like this one.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Oh well, what a waste. I can't believe that\nidiot killed him.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Rantaro's lab...\nI am curious about his talent, but...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>It's too late now.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>Rantaro's Lab...\nI am curious about his talent, but...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>It's too late now.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Huh? The key works...but it won't turn.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltSYSTEM>*tick, tick, tick, tick!*",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "...Ticking?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Sensing danger, I hurriedly backed away\nfrom the door, and then...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>It exploded!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>A trap?\nThat was dangerous...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I could have really been hurt...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>The key...it's still here.\nCan it be used for something else?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Ah! There you are, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Can you come to the dining hall?\nTsumugi wants us all to meet her there.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Huh? Tsumugi?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "She said she found something. I assume\nshe has found a <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "At any rate, please hurry!\nI shall go on ahead!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>So we finally found it...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>The next <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>.\nWhat will we remember this time?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "I should head to the dining hall.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_106_253
+43|O zaman yapalım! Eminim bir şey olmaz!
+44|Çünkü...inanılmaz bir takımız.
+45|Heh, bir kızın bunu söylediğini duyduktan sonra\nhâlâ korkuyorsam kendime erkek diyemem.
+46|Getirin! Yıldızların Işığı Kaito Momota\nnasıl yaşar, göstereceğim!
+47|"Nasıl ölür" demek istemedin mi?
+48|Öyle uğursuz şeyler söyleme!
+49|Nggaaah! Bu kadar yol geldik zaten!\nYapmamız lazım...O YÜZDEN YAPALIM!!!
+50|Başka çaremiz yok...\nArtık geri dönemeyiz...
+51|<CLT=cltMIND>Kararlılıkla hepimiz öne çıktık...
+52|<CLT=cltMIND>Asansöre doğru yürürken bile endişeli\nbir korkuyla titriyordum...
+53|<CLT=cltMIND>Ama devam ettim...
+54|<CLT=cltMIND>Çünkü savaşmaya karar vermiştim...
+55|<CLT=cltMIND>Ve sonra herkes asansöre\nbinmişti.
+56|Vaaay! Bu süper havalı.\nGerçekten bir asansörmüş.
+57|Y-Yine de...bu asansör epey aşağı\ninyor...
+58|Kehehe...düşüyoruz...\nAcaba ne kadar aşağı yuvarlanacağız...
+59|Nyeeeh... Birden tuvaletim çok\nfena geldi.
+60|Buyrun, tabii ki gidin.
+61|Tabii ya! Bir robot bunun ne kadar uygunsuz\nolduğunu *anlamaz*!
+63|<CLT=cltMIND>Varacağımız yere ulaşmayı beklerken\nShuichi'ye fısıldadım.
+64|Şey, Shuichi...\nO önceki konuşma hakkında...
+66|Bence herkes gerçeği öğrenmekten\nkorkuyor.
+67|Ama gerçeği bulmaya istekli olanlar kaderlerine\nkarar verebilenlerdir.
+68|Yalanı gerçekten hiç ayırt edemezsen\nbir yol seçemezsin.
+69|Bir yolda olduğunu bile bilmezsin.
+70|O yüzden...gerçek için savaş...\nKorkutucu olsa bile.
+71|Bunu yapabileceğini biliyorum.
+73|Korkarsan sana yardım etmek için orada\nolacak diğerlerinin gücünü ödünç al.
+74|Yardım ettiğin herkesi düşün ve bu\nsenin gücün olsun.
+75|Ben de eskiden senin gibiydim...
+76|Bir piyano konserinden önce hep o kadar\ngergin olurdum ki kusacağımı sanırdım...
+77|...Ama sonra performanslarımla güldürdüğüm\nbütün insanları hatırlardım.
+79|Pekala, hadi gidelim! Böyle kötü şeyleri\nolabildiğince çabuk bitirmek daha iyi!
+80|<CLT=cltMIND>O sözler aslında daha çok bana yönelikti...
+81|<CLT=cltMIND>Bana ilham olsun diye, geri dönmeyeyim diye...
+## c01_107_330
+0|<CLT=cltMIND>Bir süre sonra asansör sonunda\ndurdu.
+1|<CLT=cltMIND>Kapılar yavaşça açılıp öbür tarafta bizi\nbekleyen şeyi ortaya çıkardı...
+2|Sınıf duruşmasına hoş geldiniz!
+3|Oley! Sınıf duruşması sonunda başlıyor!\nSonunda gerçekten oyun gibi hissettiren bir oyun!
+4|...Tıpkı kehanetin önceden bildirdiği gibi!
+5|Dinleyin—bundan sonra işler o kadar şiddetli\nolacak ki geri dönebilmeyi dileyeceksiniz.
+6|B-Bu doğru değil... Hiç...kanlı ya da\nşiddetli sahne olmayacak... Eminim...
+7|Burası bir mahkeme salonunun özgün kopyası.
+8|Hıh, ne zevksizlik...
+9|Bunu bize neden yaptırıyorsun?\nBu senin için eğlenceli mi?
+10|Tabii ki! Yabancıları ölüm kalım durumlarına\nsokmak en iyi eğlencedir!
+11|Sen cidden berbatın tekisin!
+12|Puhuhu... Berbat olsun olmasın, eğlenenler bu\ndünyanın gerçek kazananlarıdır!
+13|Ne korkunç şeyler yaptığın ya da sana yapıldığı\nönemli değil, yeter ki eğlen!
+14|Vay, bu o kadar mide bulandırıcı ki neredeyse\nferahlatıcı. Peki, bu oyunu nasıl başlatıyoruz?
+15|Şurada kürsüler var. Lütfen üstünde adınız\nyazan kürsünün arkasında durun.
+16|<CLT=cltMIND>Monokuma'nın talimatlarını izleyerek kendi\n<CLT=cltSTRONG>kürsülerimize<CLT=cltMIND> doğru ilerledik.
+17|<CLT=cltMIND>Kürsüme doğru yürürken zihnimde\n<CLT=cltSTRONG>onun cesedi<CLT=cltMIND> canlandı.
+18|<CLT=cltMIND>Rantaro...

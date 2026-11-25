@@ -1,0 +1,59 @@
+@ chap1_text_US
+## c01_037_019
+36|<CLT=cltMIND>Belki bir kitaplığın raflarına\nbasabilirim...
+37|<CLT=cltMIND>İmkânsız. Kitaplar o kadar sıkışık ki\nayaklarımı koyacak yer yok.
+38|<CLT=cltMIND>Belki bir kitaplığın raflarına\nbasabilirim...
+39|<CLT=cltMIND>İmkânsız. Kitaplar o kadar sıkışık ki\nayaklarımı koyacak yer yok.
+40|<CLT=cltMIND>Ah, muhtemelen bu merdiveni kullanabilirim.
+41|<CLT=cltMIND>Merdiveni havalandırmanın altına yerleştirip\nyukarı tırmandım.
+42|Vay... Buraya çıkınca epey yüksekmiş.\nBiraz korkutucu...
+43|Yer değiştirmek ister misin?
+44|Yok...iyiyim...
+45|Bu arada, şeyimi...iç çamaşırımı görebiliyor musun?
+46|Ah! Özür dilerim!
+47|Özür mü, ha? Yani gördün...
+48|<CLT=cltMIND>Ş-Şey, neyse... Gördüğünü unutamaz artık.\nNeyse...havalandırma bu.
+49|<CLT=cltMIND>Havalandırmanın üstünde bir ızgara var,\no yüzden kimsenin geçebileceğini sanmıyorum...
+50|<CLT=cltMIND>Izgarayı çıkarabilir miyim?
+51|Hıh, işte oldu!
+52|Ah, ızgara epey kolay çıktı.
+53|Bir şey mi kırdın, Kaede?
+54|Şey, hayır...kırmadım...
+56|<CLT=cltMIND>Yüzündeki ifadeyi gördüm. Muhtemelen\nbeceriksizin teki olduğumu düşünüyor...
+57|<CLT=cltMIND>Izgarayı kanalın içine ittim...
+58|<CLT=cltMIND>...sonra kendimi kaldırıp içine baktım.
+59|Eee, nasıl görünüyor? Bir insan sığar mı?
+60|Hmmm...epey zor olur ama sürünerek\ngeçebilirsin belki.
+61|Gerçi bu kitaplar yüzünden havalandırmaya\npek ulaşamıyorum...
+62|Eh, sınıftaki havalandırma girişini\ngörebileceğiz...
+63|Yani sorun olmaz, değil mi?
+64|Ne olur ne olmaz diye kimse geçemesin diye\nhavalandırmanın etrafına daha çok kitap yığacağım.
+65|<CLT=cltMIND>Bunu deyip kitapları havalandırmanın\netrafına dizmeye başladım.
+66|<CLT=cltMIND>Kitapları yığmayı bitirince\nmerdivenden indim.
+68|...Kaede? Ne oldu?
+70|Bu işe yarayacak... Bu kesinlikle işe yarayacak!
+71|...Ha?
+72|Bence bu plan gerçekten herkesi\nkoruyabilir!
+73|Evet, kesinlikle koruyacak! Bu plan Chopin'in\nbaladları gibi kusursuz bestelenmiş!
+74|Aslında Rube Goldberg makineleri gibi karmaşık\ndüzeneklere bayılırım.
+75|O yüzden bunun işe yarayacağından eminim!\nBu düzen mükemmel!
+76|G-Gerçekten öyle mi düşünüyorsun...?
+77|Tabii ki! Beyni kesinlikle yakalayacağız,\nsonra da hepimiz kaçacağız!
+78|O yüzden acele edip kameraları kuralım!
+79|Evet, şey, bence kameraları kitapların arasına\nkurmak iyi bir fikir olur, böylece—
+80|Ah, dur. Kitaplığın üstündeyken aklıma\nbir fikir geldi...
+81|Ya oraya bir kamera koyarsak? Eminim\nbeyin fark etmez.
+82|Ah ama üstünde yığılı onca kitapla...\nkameraya yer var mı bilmiyorum.
+83|O zaman sen kitaplığa sensörü hazırlarken\nben deneyeyim.
+84|Kitaplığın üstündeki kitapları düzenleyip\nkameraya yer açabilecek miyim bakarım.
+85|Böylece hiç vakit kaybetmeyiz, değil mi?
+86|E-Evet...iyi bir fikir gibi.
+87|Pekala! O zaman yapalım!
+88|<CLT=cltMIND>Merdivene tırmanıp kitaplığın üstüne\nbaktım.
+89|<CLT=cltMIND>Hm... Burada beklediğimden çok daha\nfazla kitap var...
+90|<CLT=cltMIND>Kitaplığın üstü baştan sona dağınık\nkitap yığınlarıyla kaplı.
+91|Bu da bir şey mi!
+92|<CLT=cltMIND>Merdiveni kaydırırken kitapları azar azar\nyeniden düzenledim...
+93|Tanrım...çok fazla kitap var... Buraya kamera\nkurmak fazla zor olabilir...
+94|Hm, ben de öyle düşünmüştüm...
+95|Dur! Sadece biraz daha uğraşmam lazım!

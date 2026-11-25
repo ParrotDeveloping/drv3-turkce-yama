@@ -1,0 +1,322 @@
+[
+ {
+  "id": 0,
+  "en": "Hey, you got a minute?\nI got something to talk about.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Ah, okay...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>He seems upset...\nDid I do something to make him angry?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I'm just gonna say it!\nWhat are you moping around for!?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "When my sidekick is moping, \nit really ticks me off!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I'm...moping?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I told you, man! Don't hesitate to \ntalk to me if something's wrong.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "But you're still keeping stuff from me! \nAm I not reliable enough!?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Spit it out! If you bottle everything up, \nit can't get fixed!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I'm sorry, I don't know what you're\ntalking about. I'm not looking for advice...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "You've got some guts trying to lie to me.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Fine then!\nListen up...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Kaito encouraged me, complimenting me\nabout my talent. I should tell him...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>Then he'd understand why.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>I told him all about the case that\ngot me the title of <CLT=cltSTRONG>Ultimate Detective<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>I told him everything...so that he\nwould know how untalented I really am.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I see... So you were chosen after \nyou solved a case.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Yes, and the most important part...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I just happened to find some evidence that\nwas missed. I accidentally solved the puzzle.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "It was all coincidence, happenstance...\nAnd I foiled the culprit's plan for vengeance.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I didn't understand the situation, I didn't\nknow any better. That man...hates me.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Geez... You worry about the \nmost trivial stuff, man.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "What do you mean, trivial?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Well, being a detective is a trivial job...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "You have no right to say that!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>...Trivial?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "What do you mean, trivial?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "The culprit's feelings. Why are you \neven worrying about them?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "You're right. Being a detective\nis a trivial job...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "You dig up dirty secrets for money.\nThat's the whole job.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Huh? What are you talking about?\nWhere's your pride in your work?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Your job isn't trivial! It's great!\nI'm talking about the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "You have no right to say that!\nYou don't know what I've been through!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Hah! Nice! It's good to see you \nactually have some bite to you.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "You're right. I don't know.\nAfter all, I'm not you.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "And that's why I can say this to you!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "The culprit was trying to get away \nwith it by using a trick, right?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "He killed someone and was trying to \nget away with it! He's a bad guy!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "If he'd gotten away with it, he'd be \ncrushed by the weight of his guilt.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "But you got him before that happened! \nHe should be thanking you!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Don't worry, even if that idiot holds \na grudge against you...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "I'll support you all the way!\nI know you did the right thing!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "And not just with that guy!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "From now on, if anyone holds a grudge \nagainst you...I'll kick their ass!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "So you just gotta follow the \npath you believe in!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "You're my sidekick. So don't hold back \nand rely on me whenever you need to!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Kaito...thank you.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>Alright, so he's foolhardy. But he supports\nme and expects nothing in return...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>He does so much for me...\nI could never turn my back on that.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>I will never betray his support and trust.\nI will never break my bond with Kaito!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...I understand, Kaito.\nI will always depend on you.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Yeah! Just leave it to me!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Kaito's smile was as bright as starlight.\nI couldn't help but smile back.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>...Everything is going to be okay. As long\nas we have this, we can move forward.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>Sometimes I feel as though I'm dragging\nhim down, but I know I'll catch up one day.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>I bet he'd laugh and tell me I\nhave a lot of nerve for a sidekick.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltSYSTEM>Kaito's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with him.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltSYSTEM>You have learned a new skill, <CLT=cltSTRONG>Spacewalk<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>Kaito and I went our separate ways,\nand I returned to my room.",
+  "tr": ""
+ }
+]

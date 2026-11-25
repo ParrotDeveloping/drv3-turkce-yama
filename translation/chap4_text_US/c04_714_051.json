@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "Huh? What do you want? I'm busy!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I hang out with Miu for a while?\nEven though it might not be safe to ask...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Fine, then help me!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "But if you're gonna help me, you better do\nEXACTLY as I say!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time obeying Miu's \nridiculous orders.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I somehow ended up growing\na little closer to Miu...",
+  "tr": ""
+ }
+]

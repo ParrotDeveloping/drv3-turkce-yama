@@ -1,0 +1,49 @@
+@ game_resident_US
+## A-PresentSetumei
+47|Birinin gözünün önünde daireler çizerek çevrildiğinde\nmutlu bir illüzyon gösterebilen mucizevi bir değnek.
+48|Görünüşünü kontrol etmek için inanılmaz kullanışlı, \ncep boyutunda bir ayna.
+49|Kullanışlılığı yüzünden cosplayer'ların çok aradığı bir çanta. \nSadece fuarlar için değil, seyahatler için de \nharika.
+50|Japon bebeği gibi saçları olan göz alıcı siyah bir peruk.\nKessen bile anında geri uzar.
+51|Fotoğraflara rötuş yapmanı sağlayan bir fotoğraf düzenleme \nyazılımı. Sade, çilli bir yüzü gösterişli bir şeye dönüştür!
+52|İğne ve birkaç renk iplik içeren temel bir dikiş seti.\nBununla düğmen kopsa bile her zaman\nhazırlıklı olursun.
+53|Büyücülerin üstüne oturduğunda yüksek hızla uçmasını sağlayan bir\nsüpürge. Biraz eğri ama temizlik için de kullanılabilir.
+54|Yıpranmış, elle yazılmış bir nota kâğıdı. Söylentiye göre ünlü\nbir bestecinin yayımlanmamış eseriymiş.
+55|Geleneksel Japon kıyafeti. Bu türü kaliteli pamuktan \nyapılmış ve dövüş sanatları için kullanılır. \nAntrenman vakti gelince giy.
+56|Gözlük gibi görünen ama aslında takanın görme\nbozukluğunu düzeltmeyen bir moda aksesuarı.
+57|24 yaprak altın origami kâğıdı içeren bir origami paketi.\nBununla muhteşem origamiler yapabilirsin.
+58|Astronotların ayda kullandığı gerçek bir aracın plastik \nmaketi. Sade görünüyor ama aslında yanan bir tutkuyla\ndolu.
+59|Her açıldığında yeni bir resimli kitap üreten yapay zekâlı\nelektronik bir cihaz. Uyku öncesi masal dinlemeyi seven\nçocuklar için harika.
+60|Kavrama gücü antrenmanı için bir alet. Bir yumruğun gücü\nkavrama gücü, ağırlık ve hızın birleşimiyle belirlenir.
+61|Monokuma'nın kendisi ve Monoyavrular için yaptığı bir madalya\nseti. Yaparken gösterdiği özeni hissedebilirsin. Hediye\nedebilirsin ama saklarsan iyi bir şey olabilir.
+62|Bir enstrüman çalarken tempoyu tutturmak için kullanılan\nbir müzik aleti. Temel sarkaçlı tip.
+63|Eskizler için bir çizim defteri. Cep boyutunda, bu yüzden\nyanında taşımak kolay.
+64|İnsanlarla aynı eklemlere sahip bir model bebek. \nEpey çok yönlü ve insanların duramayacağı pozisyonlarda\ndengede durabiliyor.
+65|Evcil güvercinler için özenle seçilmiş taze tohum koleksiyonu.\nYabani güvercinler artan kaliteyi takdir edemez,\no yüzden onlara vermek israf olur.
+66|Hayvan sesleri dahil her dili çevirebilen bir alet. \nBir köpeğin havlamasını algılayıp içindeki duyguları \nelektronik bir sesle güzelce anlatabilir.
+67|Opak, su kabağı şeklinde bir böcek kabı. Böcekleri\nçıkardıkları sesleri dinlemek için saklamaya yarar.
+68|İçinde ruhların yaşadığı saksıda bir banyan ağacı. Şans\ngetirdiği söylenir. Gövdesinin ortasından hava\nkökleri çıkarır.
+69|Normal bir paket mendil. En iyisi yanında bir \nmendille birlikte taşımak.
+70|Japon Kofun döneminden kalma seramik bir figür. Çok\ncoşkulu dans eden birine benzediği söylenir.
+71|Rahat bir sandalye ve öyle çok teknoloji içeren nihai çalışma\nistasyonu ki asla kalkmak istemezsin. Buraya oturanlar\nobez olma tehlikesiyle karşı karşıya kalır.
+72|İster hastalıklı bir çocuğun tekmesiyle ister insanüstü bir\nyetişkinin yumruğuyla vurulsun, bu kum torbası\nher zaman üçüncü vuruşta patlar.
+73|Ter silmek için boyna asmaya mükemmel bir havlu.\nGençlik dolu bir yaz gününün parlak mavi\ngökyüzü renginde.
+74|Bir Exisal üzerine bassa bile kırılmayan sağlam bir gözlük\nkılıfı. Ne kadar hırpalanırsa hırpalansın içindeki\ngözlük güvende kalır.
+75|Robot yaparken bulunması gereken bir yağ. Ayrışmaya \nbaşlamış, bu yüzden üst yarısı sulanmış. Lütfen\nkullanmadan önce çalkala.
+76|Tek renkli LCD ekranı ve birkaç tuşu olan cep saati şeklinde \nbir oyun konsolu. "Fabrika" adlı oyunu oyna ve \ndaha fazla ayı yapmak için tuşlara bas!
+77|Her yerde kullanılabilmesi için ayaklı bir şemsiye. Kendini\nlüks hissetmek için havuz kenarına kur! Hediye edebilirsin\nama saklarsan iyi bir şey olabilir.
+78|Çeşit çeşit garnitür sığabilen aile boyu bir beslenme çantası.\nPiknik için mükemmel.
+79|Yuvarlak, retro bir matara. Omzuna asınca\nmaceraya atılasın geliyor.
+80|Islanınca bilye boyutuna kadar şişen yumuşak, renkli boncuklar.\nHem süsleme hem bahçecilik için iyi. Aynı renkten 4 tanesini\nyan yana dizmek onları yok etmez.
+81|Döktüğün gözyaşı miktarına göre odanı nemlendirir.\nKasvetli insanlar için harika, ama neşeli insanlar için\nsadece bir kâğıt ağırlığı.
+82|Kuzey ve Güney Kutbu'nu görmezden gelip onun yerine \nsahibinin sevdiği kişiyi gösteren bir pusula. \nTakipçiler için olmazsa olmaz.
+83|Dönen bir derviş gibi dönen seramik bir bebek.\nÇok popüler bir Türk hediyeliği.
+84|Portekiz'in "Barcelos Horozu"nu taklit eden bir rüzgâr\ngülü. Gerçeğin sembolü olan bu, Portekiz'in popüler\nbir hediyeliği.
+85|İyi uyumanı sağlayan ve harika rüyalar gördüren bir yastık.\nAncak rüyalar bütün bir ömrü gösterir ve\nuyandıktan sonra derin bir boşluk hissettirir.
+86|Ölüm oyunlarıyla ilgili Japonca karakterlerin olduğu bir kart\noyunu. Bazı kartlar: "Metal sopa iblisleri öldürür," "Kara\nkana bulanır" ve "Tartışmaya karşı kesin kanıt."
+87|Üç dilek yerine getirdiği söylenen mumyalanmış bir maymun\neli. Ancak yerine getirdiği dileklerin hiçbiri mutlu sonla bitmez.
+88|Pisuara benzeyen bir süs eşyası. Ona baktıkça sanatın\n*gerçekte* ne olduğunu sorgulamaya başlıyorsun.
+89|Havalı, güçlü bir su tabancası. Su 9 metreden uzağa \nfışkırır ve tam bir dakika boyunca sürekli ateş edebilir. \nÇocuklar ve büyükler için eğlenceli!
+90|Borosilikat camdan yapılmış bir nesne. Açıya göre şekil\ndeğiştirir. Popüler olmasının sebebi gizemli deseni.
+91|Kara aramızdan biri olabilir, o yüzden sizinle kalmayı \nreddediyorum! Gidip odama saklanacağım!
+92|Bunun başarılı olma ihtimali sadece %5. Daha önce kimse\nsağ çıkamadı...ama bu hayatta kalmak için son şansım.
+93|Katil balinaya benzeyen bir robot maskot. Sahibinin sıkıntıda\nolduğunu sezer ve bir çözüm araştırmayı teklif eder.

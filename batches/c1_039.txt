@@ -1,0 +1,56 @@
+@ chap1_text_US
+## c01_029_116
+0|<CLT=cltMIND>Gece vakti bir süre başlamayacak, o yüzden\nsanırım diğerlerinin ne yaptığına bakacağım.
+6|<CLT=cltMIND>Sanırım gidip diğerlerinin ne yaptığına\nbakacağım.
+## c01_030_116
+1|Saat 22:00. Biriniz için, pislikler,\nbu son <CLT=cltSTRONG>gece vakti<CLT=cltNORMAL> olabilir.
+2|Ölüm oyununu başlatmak için şiddetli bir şey\nyapmayın. Bir gece daha dayanabilirsiniz.
+3|Vuuuu... *hık!*
+4|...Ah! Şimdi anladım! Tamamen anladım!
+5|Şimdi her şey apaçık!\nHer şeyi anlıyorum!
+6|...Bak, şu suratına bak.
+7|Gözlerinin açısı...\nYüzünün süzülüşü...
+8|Bu bir deli suratı.
+9|...Hehehehehe! Hahahahahaha!
+10|Monokid çok kafası gitmiş görünüyor. Fazla\nbal içince böyle mi oluyor?
+13|<CLT=cltMIND>Son gece vakti, ha...?
+14|<CLT=cltMIND>Hayır, son gece vaktimiz olmayacak...\nSadece bu korkunç yerdeki son gecemiz.
+15|<CLT=cltMIND>Yarın gece...diğerleriyle birlikte buradan\nçıkıyorum.
+16|<CLT=cltMIND>Evet... Çıkınca hepimizin arkadaş olacağına\ndair söz vermiştik.
+18|Duyduğuma göre bugünün çocukları artık\n"<CLT=cltSTRONG>teşekkür ederim<CLT=cltNORMAL>" bile demiyormuş.
+19|Suç ailelerde! Onlara "<CLT=cltSTRONG>teşekkür ederim<CLT=cltNORMAL>"in\ngerçek anlamını düzgünce öğretmemişler!
+20|Senin için bir şey yapan birine minnettarlığını\nifade etmek çok önemlidir.
+21|Bu o kişiyi mutlu eder ve belki daha sonra\nsenin için özel bir şey yapar.
+22|Yani "<CLT=cltSTRONG>teşekkür ederim<CLT=cltNORMAL>" sadece minnettarlık\nifade etmekle ilgili değildir...
+23|...gelecekte bir iyilik beklentisini de\nifade eder.
+24|Yani ne kadar çok "<CLT=cltSTRONG>teşekkür ederim<CLT=cltNORMAL>" dersen\netrafındaki insanları o kadar çok kullanabilirsin.
+25|O yüzden insanlara hep "<CLT=cltSTRONG>teşekkür ederim<CLT=cltNORMAL>" de\nve senin yararına bir sürü şey yapmalarını sağla!
+27|Bu, Ultimate Akademisi'nden resmi bir duyurudur.\nUyanın, pislikler. Saat 08:00.
+28|Ooo, bugün süre sınırının dolduğu gün.\nKalbim heyecandan küt küt atıyor.
+29|Merak etmeyin! Cehenneme gitseniz bile en azından\nölüm oyununu oynamadığınızla gurur duyabilirsiniz!
+30|Cehenneme gideceklerini mi varsayıyorsun?
+31|Bu ■ ■ içinde ve siz 16 ▲ ■'dan ayrılmak ●\nve ▲■ insanlar olarak ● gelen ▲!
+32|Hey, Monokid... Neden şuraya gidip biraz\ndaha bal içmiyoruz, tamam mı?
+35|<CLT=cltMIND>Süre sınırı bu gece dolacaktı...ama\ntuhaf bir şekilde dört gözle bekliyordum.
+36|<CLT=cltMIND>Yine de...bütün gece neredeyse hiç uyumadım.
+37|<CLT=cltMIND>Yanaklarıma şaplak atıp yataktan\nfırladım.
+38|Pekala! Önce Shuichi'nin odasına gitmem lazım!\nO beyni birlikte yakalayacağız!
+## c01_031_100
+0|Ah, beklettiğim için kusura bakma...\nHadi Miu'nun laboratuvarına gidelim.
+1|<CLT=cltMIND>Önce Shuichi'nin odasına gidelim!
+9|Ha? Cevap yok...\nAcaba bir sorun mu var?
+10|<CLT=cltSYSTEM>*ding dong... ding dong...*
+13|...Ah, Kaede. Günaydın.
+14|Tanrım! Sonunda çıktın!\nBir an beni gerdin!
+15|Ah, pardon! Sadece...tuvalete gidiyordum.
+16|Hazır mısın o zaman? Kameraları Miu'dan\nalmamız lazım, hatırladın mı?
+17|Evet, doğru...
+18|<CLT=cltMIND>Acaba Miu kameraları değiştirmeyi\nbitirdi mi...
+19|<CLT=cltMIND>Önce Shuichi'nin odasına gidelim!
+21|<CLT=cltMIND>Hayır, burası Shuichi'nin odası değil!
+22|<CLT=cltMIND>Sakinleşmem lazım...
+23|<CLT=cltMIND>Etrafta dolaşacak vaktim yok...\nMiu'nun araştırma laboratuvarına gitmemiz lazım!
+## c01_032_001
+0|Yemekhaneye acele etmeliyim...
+## c01_032_250
+0|Selaaaam, millet!

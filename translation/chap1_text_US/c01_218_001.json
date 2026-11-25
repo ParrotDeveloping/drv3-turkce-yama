@@ -1,0 +1,167 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=size1>The <CLT=size2>security\nsensor\n<CLT=size1>was armed, but...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "The security sensor\nwas armed, but...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=size2><CLT=cltWEAK>the moving\nbookcase",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "the moving\nbookcase isn't what triggered it.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltNORMAL>isn't what triggered it.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "As it turns out, <CLT=size2>Shuichi\n<CLT=size2>had<CLT=size1> it the <CLT=size2>whole time.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "As it turns out, Shuichi\nhad it the whole time.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "The <CLT=size2>sound",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "The sound Kaede heard came from...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=size2>Kaede<CLT=size1> heard came from...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "the <CLT=size2>sensor<CLT=size1> when",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "the sensor when Shuichi secretly moved it...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Shuichi",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltWEAK><CLT=size2>secretly moved<CLT=size1> it<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "in order",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "in order to trigger the alarm.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "to <CLT=size2>trigger",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "the <CLT=size2>alarm.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "So when\n<CLT=size2>Kaede<CLT=size1> heard\nthe sensor go off...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "So when Kaede heard\nthe sensor go off...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "she figured someone\nhad <CLT=size2>tried<CLT=size1> to\n<CLT=size2>move<CLT=size1> the <CLT=size2>bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "she figured someone had\ntried to move the bookcase...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Only an <CLT=size2>idiot<CLT=size1> could make that mistake!",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Only an idiot could make that mistake!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "..................",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "..................",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Did Shuichi really...?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "So it's Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Knew it!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I knew it!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "A clever trick...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Is that really it?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Say something.",
+  "tr": ""
+ }
+]

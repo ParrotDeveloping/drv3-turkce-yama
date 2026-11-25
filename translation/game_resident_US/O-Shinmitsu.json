@@ -1,0 +1,632 @@
+[
+ {
+  "id": 0,
+  "en": "Shuichi Saihara Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Shuichi Saihara Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Kaito Momota Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Kaito Momota Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Ryoma Hoshi Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Ryoma Hoshi Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Rantaro Amami Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Rantaro Amami Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Gonta Gokuhara Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Gonta Gokuhara Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Kokichi Oma Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Kokichi Oma Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Korekiyo Shinguji Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Korekiyo Shinguji Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "K1-B0 Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "K1-B0 Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Kirumi Tojo Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Kirumi Tojo Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Himiko Yumeno Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Himiko Yumeno Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Maki Harukawa Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Maki Harukawa Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Tenko Chabashira Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Tenko Chabashira Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Tsumugi Shirogane Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Tsumugi Shirogane Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Angie Yonaga Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Angie Yonaga Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Miu Iruma Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Miu Iruma Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Kaito Momota Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Kaito Momota Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Kaito Momota Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Kaito Momota Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Kaito Momota Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ryoma Hoshi Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Ryoma Hoshi Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Ryoma Hoshi Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Ryoma Hoshi Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Ryoma Hoshi Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Rantaro Amami Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Rantaro Amami Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Rantaro Amami Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Rantaro Amami Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Rantaro Amami Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Gonta Gokuhara Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Gonta Gokuhara Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Gonta Gokuhara Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Gonta Gokuhara Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Gonta Gokuhara Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Kokichi Oma Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Kokichi Oma Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Kokichi Oma Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Kokichi Oma Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Kokichi Oma Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Korekiyo Shinguji Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Korekiyo Shinguji Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Korekiyo Shinguji Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Korekiyo Shinguji Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Korekiyo Shinguji Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "K1-B0 Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "K1-B0 Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "K1-B0 Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "K1-B0 Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "K1-B0 Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Kirumi Tojo Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Kirumi Tojo Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Kirumi Tojo Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Kirumi Tojo Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Kirumi Tojo Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Himiko Yumeno Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Himiko Yumeno Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Himiko Yumeno Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Himiko Yumeno Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Himiko Yumeno Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Maki Harukawa Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Maki Harukawa Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Maki Harukawa Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Maki Harukawa Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Maki Harukawa Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Tenko Chabashira Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Tenko Chabashira Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Tenko Chabashira Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Tenko Chabashira Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Tenko Chabashira Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Tsumugi Shirogane Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Tsumugi Shirogane Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Tsumugi Shirogane Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Tsumugi Shirogane Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Tsumugi Shirogane Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Angie Yonaga Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Angie Yonaga Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Angie Yonaga Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Angie Yonaga Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Angie Yonaga Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Miu Iruma Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Miu Iruma Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Miu Iruma Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Miu Iruma Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Miu Iruma Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Kaede Akamatsu Bond Level 1",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Kaede Akamatsu Bond Level 2",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Kaede Akamatsu Bond Level 3",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Kaede Akamatsu Bond Level 4",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Kaede Akamatsu Bond Level 5",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Kaito Momota Event",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Ryoma Hoshi Event",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Rantaro Amami Event",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Gonta Gokuhara Event",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Kokichi Oma Event",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Korekiyo Shinguji Event",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "K1-B0 Event",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Kirumi Tojo Event",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Himiko Yumeno Event",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Maki Harukawa Event",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Tenko Chabashira Event",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Tsumugi Shirogane Event",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Angie Yonaga Event",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Miu Iruma Event",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Kaede Akamatsu Event",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Kaede's Nail Art",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Kaito's Gambling Problem",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Faux Celebrity",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "A Man's Passion, Space Edition",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Maki and the Katana",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Himiko's Training",
+  "tr": ""
+ }
+]

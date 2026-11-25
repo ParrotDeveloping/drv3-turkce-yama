@@ -1,0 +1,247 @@
+[
+ {
+  "id": 0,
+  "en": "Increases maximum influence a little.\nEffective during all parts of the class trial.\nCan't be combined with Envious Influence.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Increases maximum influence a lot.\nEffective during all parts of the class trial.\nCan't be combined with Attentive Influence.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Increases maximum focus a little.\nEffective during all parts of the class trial.\nCan't be combined with Menacing Focus.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Increases maximum focus a lot.\nEffective during all parts of the class trial.\nCan't be combined with Extraordinary Focus.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Slightly increases the time limit in \neach phase. Effective during all\nparts of the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Increases amount of influence recovered\nby right answers. Effective during \nNonstop Debates and choices.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Makes the reticle shake less. Effective\nduring Nonstop and Mass Panic Debates. \nCan't be combined with Tranquility.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Makes the reticle stop shaking. Effective\nduring Nonstop and Mass Panic Debates. \nCan't be combined with Cool and Composed.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Slows the speed of the reticle. \nEffective during Nonstop Debates. \nCan't be combined with Upshift.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Increases the speed of the reticle.\nEffective during Nonstop Debates.\nCan't be combined with Downshift.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Increases the speed of fired Truth\nBullets. Efffective during Nonstop\nand Mass Panic Debates.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Decreases the delay after using Truth\nBullets or Truth Blades. Effective during\nNonstop, Mass Panic, & Rebuttal Showdown.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "After enough time, the correct Truth Bullet\nwill be shown. Effective during Nonstop,\nMass Panic Debates, & Rebuttal Showdowns.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "While concentrating, the reticle will \nautomatically move over weak points.\nEffective during Nonstop Debates.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Increases maximum influence a little.\nEffective during all parts of the class trial.\nCan't be combined with Envious Influence.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "The Focus Gauge drains slower while\nConcentrating and during Fever Time. \nEffective during all parts of the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Slowly recovers the Influence Gauge while\nConcentrating and during Fever Time.\nEffective during all parts of the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Increases the recovery speed of the\nFocus Gauge. Effective during all\nparts of the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Increases the amount of Monocoins\nobtained after class trials.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Makes Truth Bullets penetrate white\nnoise. Effective during Nonstop and\nMass Panic Debates.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Makes the Silencer fire rapidly. Effective\nduring Nonstop and Mass Panic Debates.\nCan't be combined with Shotgun or Grenade.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "The Silencer shoots bigger shots. Effective\nduring Nonstop and Mass Panic Debates. Can't\nbe combined with Machine Gun or Grenade.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hold to shoot a strong Silencer. Effective\nduring Nonstop and Mass Panic Debates. Can't\nbe combined with Machine Gun or Shotgun.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Allows the <PAD=【Ｆ㊧】> to be used to \ndestroy white noise. Is effective during\nNonstop and Mass Panic Debates.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "The reticle will lock on to nearby V \nPoints while Concentrating. Effective\nduring Nonstop and Mass Panic Debates.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Influence drains slower while a Lie\nBullet is loaded. Effective during\nNonstop Debates.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Reveals V Points. Effective during \nNonstop and Mass Panic Debates.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Silences all conversations except those\nthe reticle is on. Effective during Mass\nPanic Debates.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Instantly silences loud voices. Effective\nduring Mass Panic Debates.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "The key word in the first speaker's \nargument will be shown from the start.\nEffective during Debate Scrums.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Makes it easier to push the opponent\nback during the Final Push. Effective\nduring Debate Scrums.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "The entire screen will light up more\nfrequently. Effective during Hangman's\nGambit Ver3.0.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "The first letter will be filled in from\nthe beginning. Effective during \nHangman's Gambit Ver3.0.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "The flash spot will instantly grow to \nfull size. Effective during Hangman's\nGambit Ver3.0.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Increases the amount of letter cubes\nthat can be acquired at once.\nEffective during Psyche Taxi.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Switches to a better car with higher\ntop speed and better acceleration. \nEffective during Psyche Taxi.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Reduces the shock when an\nobstacle is hit. Effective during\nPsyche Taxi.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Makes it easier to push the opponent\nback during Blade Lock. Effective\nduring Rebuttal Showdowns.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Increases the size of slashes.\nEffective during Rebuttal Showdowns.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Lets the cursor move freely, no matter\nhow far the opponent has pushed.\nEffective during Rebuttal Showdowns.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Removes the time penalty for breaking\na non-erasable piece. Effective during\nImagination Excavation.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Some of the pieces will be missing\nfrom the beginning. Effective during\nImagination Excavation.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Once part of an object becomes visible,\nthe entire object will be shown. \nEffective during Imagination Excavation.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "The Tension Gauge will increase at\r\na faster rate. Effective during \r\nArgument Armament. ",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Makes the beats easier to hit.\nEffective during Argument Armament.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Increases critical damage.\nEffective during Argument Armament.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Some panels will be filled in from the\nbeginning. Effective during the \nClosing Argument.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Allows you to undo your last action\nwith <PAD=【×】>. Effective during \nImagination Excavation.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Allows the rear touch pad to be used to \ndestroy white noise. Is effective during\nNonstop and Mass Panic Debates.",
+  "tr": ""
+ }
+]

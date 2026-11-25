@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_016_010
+250|Bana güvenebilirsin!
+251|Anlıyorum... Madem öyle, \nsana inanacağım.
+252|Teşekkürler...
+253|<CLT=cltMIND>Zaten pes etmek bana göre değil...
+254|<CLT=cltMIND>Yeterince çok çalışırsam dileklerimin\ngerçekleşebileceğine hep inandım!
+255|Ayrıntıları başka bir yerde konuşalım...\nŞimdilik gidelim.
+256|Aptalca bir şey yapmayın, tamam mı millet?
+257|Ben...bu konuda bir şey yapacağım.\nSadece henüz ne olduğunu bilmiyorum...
+258|Ama kesinlikle bir şey yapacağım!
+259|<CLT=cltMIND>Bizim de bir planımız yok... Ona güvenmek\nistiyorum ama pek güvenilir görünmüyor...
+260|Madem öyle, sana inanacağım.
+261|Asla pes etmeyen o kalbine inanacağım,\ntamam mı?
+262|Teşekkürler, sanırım...
+263|Monokuma'yla savaş! Tek seçeneğimiz bu!\nGonta herkes için çok çalışacak!
+264|Kesinlikle!
+265|Bütün kızlar için Neo-Aikido'nun gücünü\nkullanacağım!
+266|...Ne hissettiğinizi anlıyorum ama işe yaramaz.\nBir kavgada kazanmamızın imkânı yok.
+267|A-Ama...Gonta başka bir şey yapamaz!
+268|Ancak bir strateji olmadan savaşa dalmak\nakıllıca mı?
+269|Bu doğru...
+270|Gonta'nın ne demek istediğini anlıyorum ama\nsakinleşip bunu iyice düşünmeliyiz.
+271|...Tamam.
+272|Gonta...ne yapabilir? Herhangi bir şey?
+273|Gonta ikinizin ne yapacağını bilmiyor...
+274|Ama Gonta yardım edebilirse lütfen söyleyin!
+275|Rantaro'nun bahsettiği o <CLT=cltSTRONG>Ultimate Avı<CLT=typeNORMAL>...\nSence ne olabilir?
+276|...Bir teorin var mı, Kaede?
+277|Bilmiyorum...\nİlk defa duyuyorum...
+278|Kulağa çok...şiddetli geliyor.\nBir şekilde bizimle ilgiliymiş gibi...
+279|...Hayır, bunu dikkate almayın.
+280|Kimsenin ne anlama gelebileceğine dair fikri\nyok, bu yüzden üzerine düşünmeye devam etmek mantıksız.
+281|Daha acil olan endişemiz...içinde\nbulunduğumuz çıkmaz.
+282|Evet, haklısın...
+283|İki gün sonraki gece vaktine kadar vaktimiz var...\nO zamana kadar ne yapmalıyız?
+284|...İkinize de güveniyorum.
+285|Ama ben de yardım etmek için ne yapabileceğimi\ndüşünmeye çalışacağım. Ne kadar çok plan, o kadar iyi.
+286|Hey, Kirumi?\nSence ne yapmalıyız?
+287|Görünüşe göre birbirimizle işbirliği yapmaya\nbaşlamadan önce hâlâ bir ipucu bulmalıyız...
+288|Ama bunu başarsak bile hâlâ burada\nmahsuruz.
+289|Tanrım... Yani tek yapabileceğimiz ölüm\noyununun başlamasını beklemek mi?
+290|Hayır... Bunun ölüm oyununu başlatacağını\nsanmıyorum.
+291|İnsanlar başkalarını o kadar kolay öldüremez...\nÖzellikle de içlerinde kötülük yoksa.
+292|İnsanın hayatı tehlikedeyken bile bu eylemi\ngerçekten yerine getirmek oldukça zordur.
+294|İnsanlar başkalarını o kadar kolay öldüremez...\nÖzellikle de içlerinde kötülük yoksa.
+295|İnsanın hayatı tehlikedeyken bile bu eylemi\ngerçekten yerine getirmek oldukça zordur.
+296|Shuichi'nin bir planı olabilir... Görünüşe göre\n<CLT=cltSTRONG>Ultimate Dedektif<CLT=typeNORMAL> unvanı boşuna değil.
+297|Yardım edebileceğim bir şey olursa lütfen\nsöyleyin. İkinizi de destekleyeceğim.
+298|Nyeeeh... Son çaremi kullanma vakti.
+299|Son çaren mi?
+300|Sihirli toz...
+301|Dur. Bunu yapmamalısın.
+302|Tatlıların üstüne koyarsan çok lezzetli olur.\nTatlı ve tuzlu. Gizli tarifini biliyorum.
+303|Ah... Ooo, anlıyorum...\n*Onu* kastetmişsin.
+304|İstersen sanırım seninle \npaylaşabilirim.
+305|Bugün havadaki mana zayıf, o yüzden büyüm\npek işe yaramıyor. İşleri size bırakıyorum...
+306|Makinelerle çıplak elle savaşmamın imkânı\nyok... O yüzden bir fikir buldum!

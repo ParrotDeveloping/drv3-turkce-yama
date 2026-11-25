@@ -1,0 +1,20 @@
+0	<PAD=【○】>Onayla
+1	<PAD=【×】>Geri
+2	<PAD=【Ｒ上下】>Kaydır
+3	<PAD=【△】>Sekme değiştir
+4	<PAD=【□】>Oynatmayı değiştir
+5	<PAD=【□】>Ayrıntılar
+6	<PAD=【○】>İleri
+7	<PAD=【○】>BAHİS
+8	<PAD=【△】>MAKS BAHİS
+9	<PAD=【△】>Başla
+10	<PAD=【□】>Ayrıntılar
+11	Soruyu Göster
+12	Soruyu Gizle
+13	<PAD=【Ｌ１】【Ｒ１】>Sayfa çevir
+14	<PAD=【Ｌ←回】>Sol kadran
+15	<PAD=【Ｒ→回】>Sağ kadran
+16	<PAD=【△】>Aç
+17	<PAD=【Ｌ１】> <PAD=【Ｒ１】>BAHİS×10
+18	<PAD=【Ｐ上下】>BAHİS
+19	<PAD=【Ｐ上下】>BAHİS   <PAD=【Ｌ１】> <PAD=【Ｒ１】>BAHİS×10   <PAD=【△】>MAKS BAHİS

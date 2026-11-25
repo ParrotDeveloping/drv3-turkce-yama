@@ -1,0 +1,477 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Kokichi's not here.\nWell, if he was, it'd be complete chaos...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "What are you thinking of?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "You're worried about Kokichi, right?\nWe're all worried, too...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "I searched everywhere for him, but I couldn't\nfind him at all.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Sure enough, he's a master of hide and seek.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "He couldn't have...escaped by himself, right?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "No. As long as Monokuma is here, I do not\nthink that is possible—",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Like I said, just forget about him.\nAnyway...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Listen up, everyone. I gotta tell you \nguys something.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Kaito has an idea...?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>It's a little awkward with Kaito\nright now, but I should listen...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "What's your idea, Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Hm? O-Oh, yeah...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Lacking subtlety, Kaito averted his\neyes from me and looked around.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Looks like Monokuma isn't here.\nWell, I wouldn't care even if he was.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>Kaito turned to us, his\nexpression suddenly serious.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Didn't I tell you guys yesterday?\nI'm gonna get you guys outta here.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "But to do that, I need your guys' help.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "So please! Help me out here!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "In order to help you guys, I need you \nall to work with me.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "H-Hold on... What are you talking about?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Work with you? What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Fight Monokuma with me.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Fight...Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Now's our best chance...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Since the Monokubs are gone, the Exisals \nthat were protecting him can't move...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Now's our chance to get together \nand kick Monokuma's ass!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>Fight Monokuma...?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>I see... That must be why Kaito\nwas looking for weapons.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "But...Monokuma's probably got more spares. Won't\nit be pointless, no matter how many we beat?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Then all we need to do is destroy them \none by one till there aren't any left!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "B-But...we don't know what Monokuma's \ngot up his sleeve...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Even without the Exisals, this academy \nis still under his control...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Then...you're fine with the way things are now?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Do you guys really want to continue this \nkilling game!? Are you okay with that!?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "The only way to change things now...\nis to fight.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "If you want to put an end to this killing game,\nthen we gotta fight.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "If we don't stand up now, then when!?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "But we don't have anyone who can fight...\nLike Gonta or Tenko—",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Then I'll just have to fight on their behalf.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "I know an assassin wouldn't say this, but I'm\nsick of all this killing.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Maki...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Let's do it.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Huh? Keebo, you too?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "My inner voice that guides me when I\nfeel lost spoke to me again...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "It said, \"Now is the time to stand and fight.\"",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "It may be a dangerous course of action, but\nif it will prevent future victims...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Then I've decided that I will fight Monokuma!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "I've been waiting for those words.\nVery well...I'll lend you my power.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Huh? Were you really waiting for that?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I...don't want to lose any more friends.\nIt's even more painful than losing yourself...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "That's why I'll fight!\nI'm not afraid of Monokuma!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Okay then...me too. We can't let \nthe killing game go on like this.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "You're going to join as well, right, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...Y-Yeah. Right.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "So we all agree... Then it's decided.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Let's do it! We're gonna beat Monokuma \nto a pulp!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Yes! Let's show him what we're made of!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I won't even need to use my magic!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "No...I think that if you can use magic,\nnow's the time for it...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "And when did you guys want to start?\nI'm fine with starting right away...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Well, don't get ahead of yourself.\nBecause...this'll be the final battle.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "We should make sure we're prepared.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Prepared for what...?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Prepared for battle, of course!\nWell, I'll take care of that for you guys.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "So you can make preparations, but you\ncan't clean up after yourself?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Well, since I was the one who brought this \nup, I gotta get things prepared at least...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "So you guys just gotta prepare \nyourselves mentally.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "The battle's gonna be tonight! Once it's\nnighttime, let's meet up at the gym!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>After that, we ate breakfast and\nprepared for our final battle.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>We separated for now and\nreturned to our rooms.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Though I do not know what crazy thing Kaito\nwill say, we should hear him out.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Kokichi, too...\nBut what is Kaito planning...?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Let's listen to him and find out.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Make sure you talk to Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "I wonder where Kokichi went...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "If he's off by himself...who knows\nwhat he's up to...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>It's a little awkward with Kaito\nright now, but I should listen...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltSYSTEM>\"Dining Hall Rules\"",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltSYSTEM>\"You may eat any food you\nfind in the dining hall.\"",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltSYSTEM>\"Please take responsibility for all utensils and\ndishes used and clean up after yourself.\"",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltSYSTEM>\"The dining hall will be locked\nduring nighttime.\"",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>It's a little awkward with Kaito\nright now, but I should listen...",
+  "tr": ""
+ }
+]

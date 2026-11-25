@@ -1,0 +1,54 @@
+@ chap1_text_US
+## c01_209_000
+97|Gonta kütüphaneye girmedi. Rantaro'yu hâlâ\nGörsel-İşitsel Oda'dayken öldürdü.
+98|<CLT=cltMIND>Gonta, Rantaro'yu kütüphanede hâlâ Görsel-İşitsel\nOda'dayken öldürdüyse o zaman...
+99|Yani bu...Gonta'nın gülleyi <CLT=cltSTRONG>fırlattığı<CLT=cltNORMAL>\nanlamına mı geliyor?
+100|Durun! Durun diyorum! Neden biri gülle\nfırlatmak gibi çılgınca bir şey—
+101|...Dur, bu aslında hiç de çılgınca değil!\nGülle fırlatmak tamamen normal!
+102|Evet, gülle <CLT=cltSTRONG>fırlatma<CLT=cltNORMAL> eylemi birinin onu\nsilah olarak kullanmasına yol açabilir.
+103|Bir insan o aralıktan sığamasa bile\nbir gülle kesinlikle sığar.
+104|Ayrıca Rantaro'nun cesedi Görsel-İşitsel\nOda'nın sürgülü kapısının karşısındaydı.
+105|Kütüphanenin arka kapısı açık olduğu sürece\nkurbanı vurabilirdi.
+106|Ama bu epey bir mesafe.
+107|Ve o gülle de epey ağırdı...
+108|Unuttunuz mu yoksa? Gonta o ağır rögar\nkapağını kolayca kaldırmıştı.
+109|Hedefine gülle <CLT=cltSTRONG>fırlatması<CLT=cltNORMAL> kesinlikle\nmümkün olurdu.
+110|Evet! Yürüyen, konuşan bir robot süpürge Gonta\ngibi güçlü bir canavarla kıyaslanamaz!
+111|O robot süpürge lafı...muhtemelen benimle ilgili\ndeğil, çünkü çeşitli temizlik işlevlerim var.
+112|Eee, Gonta!? O mesafeden gülle\nfırlatabilir misin!?
+113|Evet, muhtemelen...
+114|Fazla dürüstsün, Gonta.
+115|Nyahahaha! Çok havalısın, Gonta.\nUltimate Gülleci olabilirsin.
+116|Eh, bu kadarı yeter.\nSuçlu Gonta!
+117|Durun! Gonta hiç kimseyi incitmedi!\nBöceği bile!
+118|Gonta doğruyu söylüyor!\nCentilmenler asla yalan söylemez!
+119|Eh...işte böyle.\nSiz ne düşünüyorsunuz?
+120|Ona inanmak isterdim...\nama kanıt olmadan inanamayız.
+122|<CLT=cltMIND>Herkes yanılıyorsa beyni asla\nbulamayız!
+123|<CLT=cltMIND>Buna izin veremem!
+124|<CLT=cltMIND>Herkesi doğru cevaba yönlendirmek için\nelimden geleni yapmalıyım!
+## c01_210_000
+0|Bana kapı engellenmiş gibi görünmedi. Aksine\nbir kanıtın varsa lütfen sun.
+2|Sence de Gonta projeksiyon perdesini\ntaşıyacak kadar güçlü değil mi?
+4|<CLT=cltMIND>Bununla mı devam edeceğiz...?\nHayır, bu doğru gelmiyor.
+5|<CLT=cltMIND>O sırada hareketli kitaplık çoktan\naçılmış olmalıydı, değil mi?
+6|<CLT=cltMIND>Durum buysa gülle Rantaro'ya\nisabet etmiş olamaz!
+7|<CLT=cltMIND>Herkes yanılıyorsa beyni asla\nbulamayız!
+8|<CLT=cltMIND>Bununla mı devam edeceğiz...? \nHayır, bu doğru gelmiyor.
+9|<CLT=cltMIND>Aslında kütüphanedeki durum herkesin\nhatırladığından farklıydı...
+10|<CLT=cltMIND>Herkes yanlış yolda. Onları doğru cevaba\nyönlendirmem lazım.
+11|<CLT=cltMIND>Yoksa...beyni asla ifşa\nedemeyiz!
+12|<CLT=cltMIND>Bununla mı devam edeceğiz...? \nHayır, bu doğru gelmiyor.
+13|<CLT=cltMIND>Aslında kütüphanedeki durum herkesin\nhatırladığından farklıydı...
+14|<CLT=cltMIND>Herkes yanlış yolda. Onları doğru cevaba\nyönlendirmem lazım.
+15|<CLT=cltMIND>Yoksa...beyni asla ifşa\nedemeyiz!
+## c01_210_001
+0|<CLT=size2>Demek hemfikiriz<CLT=size1>-
+1|Demek hemfikiriz—suçlu Gonta!
+2|<CLT=size3>Suçlu<CLT=size1> Gonta!
+3|Gonta <CLT=size2>suçlu değil! Dürüstçe!
+4|Gonta suçlu değil! Dürüstçe!
+5|<CLT=size2>Tipik<CLT=size1> bir yoz\n<CLT=size2>erkek<CLT=size1> <CLT=size2>bahanesi!
+6|Tipik bir yoz erkek bahanesi!
+7|Rantaro'nun cesedi ve
+8|Rantaro'nun cesedi ve GI Oda'nın kapısı...

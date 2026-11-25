@@ -1,0 +1,347 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give Kirumi a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Kaede... Even if it is a prank, it is not\nnice to give people these kinds of gifts.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I never imagined you would do such\na thing...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Shuichi... Even if it is a prank, it is not\nnice to give people these kinds of gifts.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I never imagined you would do such\na thing...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Kaede... if you do not know which gift\nto select, then please ask me.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I will teach you how to choose the best present\nand the most optimal way to deliver them.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I am not impressed with the kind of\ngifts you choose for people.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "If you order me to throw it away,\nthen that would be far more efficient.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Shuichi... if you do not know which gift\nto select, then please ask me.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I will teach you how to choose the best present\nand the most optimal way to deliver them.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "I am not impressed with the kind of\ngifts you choose for people.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "If you order me to throw it away,\nthen that would be far more efficient.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Are you asking me to throw this away?\nI understand. Leave it to me.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Am I wrong? Please accept my apology.\nI failed as a maid to understand your goodwill.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "You wish to give this to me, correct?\nI understand. I will treasure it.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I do not want you to misunderstand...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "...but, I am grateful that you have\nchosen a gift just for me.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I see...so you are giving this to me.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I have been asked if I wanted a present\nbefore, but this is a surprise. Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Are you asking me to throw this away?\nI understand. Leave it to me.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Am I wrong? Please accept my apology.\nI failed as a maid to understand your goodwill.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "You wish to give this to me, correct?\nI understand. I will treasure it.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I do not want you to misunderstand...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...but, I am grateful that you have\nchosen a gift just for me.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "I see...so you are giving this to me.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I have been asked if I wanted a present\nbefore, but this is a surprise. Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Are you asking me to throw this away?\nI understand. Leave it to me.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Am I wrong? Please accept my apology.\nI failed as a maid to understand your goodwill.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "You wish to give this to me, correct?\nI understand. I will treasure it.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I do not want you to misunderstand...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "...but, I am grateful that you have\nchosen a gift just for me.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I see...so you are giving this to me.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "I have been asked if I wanted a present\nbefore, but this is a surprise. Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Are you asking me to throw this away?\nI understand. Leave it to me.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Am I wrong? Please accept my apology.\nI failed as a maid to understand your goodwill.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "You wish to give this to me, correct?\nI understand. I will treasure it.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "I do not want you to misunderstand...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...but, I am grateful that you have\nchosen a gift just for me.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I see...so you are giving this to me.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I have been asked before if I wanted a\npresent, but this is a surprise. Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "You do not need to worry about giving a\ngift to me. But I will graciously accept it.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Well then, what should I do today?\nPlease give me a command.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Even though I am here to serve you,\nI cannot believe I received such a great gift.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "The only way I can return the favor is to\nserve as your maid... Is that alright with you?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "It seems I do not have to give you any\nadvice on how to select the right gift.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "You have made me...incredibly happy.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "You do not need to worry about giving a\ngift to me. But I will graciously accept it.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Well then, what should I do today?\nPlease give me a command.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Even though I am here to serve you,\nI cannot believe I received such a great gift.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "The only way I can return the favor is to\nserve as your maid... Is that alright with you?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "It seems I do not have to give you any\nadvice on how to select the right gift.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "You have made me...incredibly happy.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I never told you I needed this, but...\nIs it truly alright for me to have this?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Thank you. This will help me immensely.\nIf I use this, this can help everyone as well.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Will there be duties where I must use this?\nThen I will accept it, by all means.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Am I mistaken? In that case, I will use\nthis to aid you. Shall we begin then?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "I never told you I needed this, but...\nIs it truly alright for me to have this?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Thank you, this will help me immensely.\nIf I use this, this can help everyone as well.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Will there be duties where I must use this?\nThen I will accept it, by all means.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Am I mistaken? In that case, I will use\nthis to aid you. Shall we begin then?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Okay, I won't give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "No, I want to give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Kirumi a present?",
+  "tr": ""
+ }
+]

@@ -1,0 +1,134 @@
+0	Millet, bana inanmalısınız!\nShuichi suçlu değil!
+1	Shuichi'ye oy verirsek yanlış seçimi\nyapmış oluruz!
+2	Bu olursa da...\nHerkes idam edilir...
+3	Hayatıma mal olsa bile buna kesinlikle\nizin vermeyeceğim!
+4	Kaede...
+5	Evet, aynen Kaede'nin dediği gibi!\nShuichi suçlu değil!
+6	Gonta da Shuichi'ye inanıyor!\nCentilmenler arkadaşlarına hep inanır!
+7	Peki, suçlumuz Shuichi değilse...\no zaman kim?
+8	Tartışmanın bütün olası yollarını\nzaten tükettik...
+9	İmkânı yok. Tartışabileceğimiz başka bir şey\nolmalı. Sadece düşünmemiz lazım.
+10	Değil mi, Shuichi?
+11	Ha?
+12	Shuichi...suçlu olmasan da bir süredir\nsessizsin...
+13	Bir şey fark ettiğin için, değil mi?
+14	<CLT=cltSTRONG>Gerçeği<CLT=cltNORMAL> açıklamaktan korkuyorsun.
+15	...Ah!
+16	...
+17	Ben de öyle düşünmüştüm...
+18	Shuichi...
+19	Söyle bana—nasıl bir <CLT=cltSTRONG>gerçeği<CLT=cltNORMAL> fark\nettin?
+20	Söylemekten korkma.\nSadece benim için değil...herkes için.
+21	Lütfen...gerçekle yüzleş.
+22	...
+23	...<CLT=cltSTRONG>Fotoğraf<CLT=cltNORMAL>.
+24	...Fotoğraf mı?
+25	Cinayetten hemen önce gizli kapıya doğrultulan\nkameranın çektiği fotoğraf.
+26	Hep şüpheli bulmuştum...\nRantaro'nun davranışını...
+27	Hm? Şüpheli olan ne?
+28	Fotoğrafa bakarsanız Rantaro <CLT=cltSTRONG>kamerayı\nsökmeye<CLT=cltNORMAL> çalışıyor gibi görünüyor...
+29	Ama bu, kurduğumuz kamerayı <CLT=cltSTRONG>fark\nettiği<CLT=cltNORMAL> anlamına geliyor olmalı.
+30	Doğru.\nAma bunu ne zaman fark etti?
+31	Bence kamera <CLT=cltSTRONG>ilk fotoğrafını<CLT=cltNORMAL>\nçektiğinde.
+32	Bu fotoğraf Rantaro kitaplığı oynattığında\nçekildi.
+33	O anda <CLT=cltSTRONG>bir şey<CLT=cltNORMAL> kamerayı fark etmesini\nsağladı.
+34	Bu yüzden onu sökmeye çalıştı, işte o sırada\nkitaplık kapandı.
+35	Sensör tetiklendi, işte o anda bu fotoğraf\nçekildi.
+36	Durum buysa kamerayı neden fark ettiğinin\nsebebini bulmalıyız.
+37	Herkesin kafasını karıştırıyorsun! Benim hariç\ntabii! Lafı dolandırma lan, sadede gel!
+38	Ne olabileceğini düşünüyordum.\nKamerayı neden fark etti?
+39	Ve cevap...bu fotoğrafta.
+40	<CLT=cltMIND>Anlıyorum... Shuichi biliyor...
+41	Arka giriş kamerası
+42	Arka girişin yanına yerleştirilen kamerayı\nfark ettiği için mi?
+43	Hayır, o kamerayı fark ettiğini\nsanmıyorum...
+44	<CLT=cltMIND>Herkes bana bakıyor... \nArtık hepsi beni küçümsüyor...<CLT=cltNORMAL>
+45	Kitaplık sensörü
+46	Kitaplığa yerleştirilen sensörü fark\nettiği için mi?
+47	Hayır, güvenlik sensörünü fark etmemiş\nolmalı. Önemli olan kamera...
+48	<CLT=cltMIND>Herkes bana bakıyor... \nArtık hepsi beni küçümsüyor...<CLT=cltNORMAL>
+49	Kamera flaşı
+50	Şeyy...
+51	Ne oldu? Söyleyecek bir şeyin varsa kus\nişte! Ya da yut, umurumda değil!
+52	<CLT=cltMIND>Herkes bana bakıyor... \nArtık hepsi beni küçümsüyor...<CLT=cltNORMAL>
+53	<CLT=cltMIND>Rantaro'nun kamerayı fark etmesinin\nsebebi...
+54	<CLT=cltSTRONG>Flaş<CLT=cltNORMAL> yüzünden, değil mi?
+55	Nyeh? Flaş mı?
+56	Evet. Gizli kapı kamerası fotoğraf çektiğinde\nflaş patladı.
+57	Rantaro kameranın flaşını fark etti.
+58	Ama flaşın patladığını nasıl anlıyorsun?
+59	Şey, elimizdeki diğer fotoğraflarla\nkarşılaştırırsanız...
+60	Kameraları sökerken çekilen fotoğrafları\nhatırlıyor musunuz?
+61	Bu, ön kamerayı sökerken çekilen\nfotoğraf...
+62	Bu da arka kamerayı sökerken çekilen\nfotoğraf.
+63	Ve bu...Rantaro'nun fotoğrafı.
+64	Vay! <CLT=cltSTRONG>Parlaklık<CLT=cltNORMAL> tamamen\nfarklı!
+65	Aynı oda, aynı koşullar, aynı kamera.\nVe yine de parlaklıkta bir fark var...
+66	Çünkü sadece gizli kapıya doğrultulan\nkameranın <CLT=cltSTRONG>flaşı açıktı<CLT=cltNORMAL>.
+67	Flaşı açık bırakmanın amacı neydi? \nÖzellikle de gizli olması gerekirken...
+68	Bir hata olabilir mi?
+69	Hata değil. Burada bir amaç vardı.
+70	O kamera başka bir sebeple\nyerleştirilmişti.
+71	Başka bir sebep, ha?
+72	Beynin fotoğrafını çekmek için
+73	<CLT=cltMIND>...Hayır, beynin fotoğrafını çekmek için\nflaşa gerek olmazdı.
+74	<CLT=cltMIND>Hadi... Gerçekle yüzleşmeliyim!\n<CLT=cltNORMAL>
+75	Odayı aydınlatmak için
+76	<CLT=cltMIND>Biz orada olmasaydık odayı aydınlatmanın\nhiçbir anlamı olmazdı.
+77	<CLT=cltMIND>Hadi... Gerçekle yüzleşmeliyim!\n<CLT=cltNORMAL>
+78	Beyni yaklaştırmak için
+79	Beynin gözünü kamaştırmak için
+80	<CLT=cltMIND>Gözlerini kamaştırmanın hiçbir anlamı\nolmazdı.
+81	<CLT=cltMIND>Hadi... Gerçekle yüzleşmeliyim!\n<CLT=cltNORMAL>
+82	Bu başka sebep neydi, Shuichi?
+83	Şey, o...
+84	...
+85	<CLT=cltMIND>...<CLT=cltNORMAL>
+86	<CLT=cltMIND>Bunu biliyorum. Kameranın flaşının\nkullanılmasının tek bir sebebi var...
+87	Flaş, kitaplığı oynatan kişiyi kameraya\n<CLT=cltSTRONG>çekmek<CLT=cltNORMAL> için kullanıldı.
+88	Yani flaş patladığında kamerayı hemen\nfark edeceklerdi.
+89	Ve tam olarak bu oldu.
+90	Rantaro kitaplığı oynattı, flaşı fark etti,\nsonra da kameraya doğru yürüdü.
+91	Ama suçlu kapı kapanınca kameranın bir\nfotoğraf daha çekeceğini beklemiyordu.
+92	Hey, Kaede...?
+93	Ne oldu?
+94	Bir...sorun mu var?\nBiraz...tuhaf davranıyorsun.
+95	...Tuhaf mı?
+96	Son birkaç sözün...öncekilerden daha\nfazla inanç taşıyor.
+97	Suçlunun kim olduğunu biliyor musun!?
+98	...
+99	Evet, biliyorum.\nUzun zamandır biliyorum.
+100	...Hm? Uzun zamandır mı?
+101	Çünkü kameranın flaşını ayarlayabilecek\n<CLT=cltSTRONG>tek bir kişi<CLT=cltNORMAL> vardı.
+102	Değil mi, Shuichi?
+103	...
+104	Bu olayın suçlusu...
+105	Kaede... Ben...
+106	...Sorun yok. Senin suçlu olmadığını biliyorum,\nShuichi.
+107	...Sorun yok. Biliyorum.
+108	<CLT=cltMIND>Sorun yok. Sadece sakinleşip...\nsöylemen lazım.\n<CLT=cltNORMAL>
+109	Kaede...
+110	<CLT=cltMIND>Sorun yok. Sadece sakinleşip...\nsöylemen lazım.\n<CLT=cltNORMAL>
+111	...Hayır, bu yanlış. Özür dilerim.
+112	<CLT=cltMIND>Sorun yok. Sadece sakinleşip...\nsöylemen lazım.\n<CLT=cltNORMAL>
+113	Rantaro'yu kim öldürdü?
+114	<CLT=cltMIND>...
+115	<CLT=cltMIND>...
+116	<CLT=cltMIND>Eh, buraya kadarmış...
+117	<CLT=cltMIND>Yapamadım.\nBeyne ulaşamadım.
+118	<CLT=cltMIND>Özür dilerim...millet.
+119	<CLT=cltMIND>Özür dilerim...Rantaro.
+120	<CLT=cltMIND>Özür dilerim...Shuichi.
+121	<CLT=cltMIND>Bunca zaman sessiz kaldın çünkü çoktan\nfark etmiştin, değil mi?
+122	<CLT=cltMIND>Ama bunu yapamazsın.
+123	<CLT=cltMIND>Benim sonum olabilir ama <CLT=cltSTRONG>dileğimin<CLT=cltMIND>...
+124	<CLT=cltMIND>Onu sana veriyorum, Shuichi.
+125	<CLT=cltMIND>Bundan sonra benim dileğimi sen taşıyacaksın!\nHerkesi sen koruyacaksın!<CLT=cltNORMAL>
+126	<CLT=cltMIND>Kaede...benden ne istediğini biliyorum...
+127	<CLT=cltMIND>Bu çok acımasız...
+128	<CLT=cltMIND>Acımasız ama...
+129	<CLT=cltMIND>...
+130	<CLT=cltMIND>...Anlıyorum. Yapacağım.
+131	<CLT=cltMIND>Bana güvenebilirsin.
+132	<CLT=cltMIND><CLT=cltSTRONG>Dileğinin<CLT=cltMIND>...
+133	<CLT=cltMIND>...gerçekleşmeden kalmasına izin vermeyeceğim.<CLT=cltNORMAL>

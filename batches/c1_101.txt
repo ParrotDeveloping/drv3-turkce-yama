@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_229_001
+48|Geçip gittiğinde de iç gözümü onun yoluna\nçevireceğim. Korkunun gittiği yerde hiçbir şey\nkalmayacak. Sadece ben kalacağım.
+## c01_230_000
+0|<CLT=cltMIND>Kaede...özür dilerim.\nBunun için yeterince güçlü değilim!
+1|<CLT=cltMIND>Seni suçlu yapamam!
+2|Ş-Şey, aslında... Belki gülle havalandırma\nkanalından geçmemiştir...
+3|Az önce bize güllenin havalandırma kanalından\ngeçtiğini söylemedin mi?
+4|Doğru ama...şimdi hatırladım,\nkütüphanenin havalandırma ızgarası kapalıydı.
+5|Izgara...kapalı mıydı?
+7|O yüzden bence...çıkarımım yanlış olabilir.
+11|Shuichi, havalandırma ızgarasını ikimiz de\ninceledik. Ama sen bir şeyi yanlış anladın.
+13|Soruşturma yaparken ızgarayı ben kapattım\nama önceden açıktı.
+14|Bu, Shuichi'nin ifadesinin bir yanlış anlamaya\ndayandığı anlamına mı geliyor?
+15|Hayır... Bu bir yalan!
+16|Yalan değil.\nAma çıkarımına bağlı olarak...
+17|<CLT=cltSTRONG>yalana dönüşebilir<CLT=cltNORMAL>.
+19|Shuichi, lütfen soruyu cevapla.
+20|Gülle Rantaro'ya nasıl ulaştı?
+21|Cevabı biliyorsun.\nTartışma sırasında az önce duydun.
+22|<CLT=cltMIND>Neden tereddüt ediyorum...?
+23|<CLT=cltMIND>Gerçekten şimdi mi geri döneceğim?\nBöyle bir anda?
+24|<CLT=cltMIND>Eminim Kaede kaçmak istiyordur...\nAma hâlâ burada...bunu yapacağıma güveniyor!
+25|<CLT=cltMIND>Cevap vermeliyim.\nDileğini yerine getirmeliyim.
+26|<CLT=cltMIND>Bu gizemi çözmeliyim!
+27|...Aynen Ryoma'nın dediği gibi.
+28|Gülle <CLT=cltSTRONG>kitaplığın üstü<CLT=cltNORMAL> boyunca yuvarlandı\nve Rantaro'nun kafasına düştü.
+29|Kitaplık boyunca...yuvarlandı mı!?
+30|Öyle demiştim...ama gülle o kadar\nişe yarar şekilde yuvarlanır mıydı?
+31|İşe yararlıkla hiçbir ilgisi yok. Gülle\n<CLT=cltSTRONG>tam olarak<CLT=cltNORMAL> suçlunun istediği gibi yuvarlandı.
+32|Güllenin yolunu yönlendirmek için\n<CLT=cltSTRONG>kitaplıkların üstündeki kitapları<CLT=cltNORMAL> kullandılar.
+33|Güllenin yolu kitaplarla mı yönlendirildi?\nBu nasıl işe yarar ki?
+34|Ah, kütüphanenin kat planıyla açıklamak\ndaha kolay olurdu...
+35|<CLT=cltMIND>...Ah, doğru ya...\nBirinin kat planı vardı.
+36|<CLT=cltMIND>Hatta...bu teorimin somut kanıtı\nolabilir.
+38|Hey, Kirumi...\nSende olay yerinin kat planı var mı?
+39|Özür dilerim, yok. Beklentilerinizi karşılayamayarak\nbir hizmetçi olarak kendimi rezil ettim.
+40|<CLT=cltMIND>Herkes bana bakıyor...\nBatırdım; sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+42|Hey, Keebo...\nSende olay yerinin kat planı var mı?
+43|Ha...? Özür dilerim ama öyle bir işlevle\ndonatılmadım...
+44|<CLT=cltMIND>Herkes bana bakıyor...\nBatırdım; sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+46|Şey...
+47|Bir kat planı var mıydı?
+48|Olsaydı şimdiye kadar sunulmuş olurdu\ndiye düşünürdüm, değil mi?
+49|<CLT=cltMIND>Herkes bana bakıyor...\nBatırdım; sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+50|<CLT=cltMIND>İçlerinden birinde ayrıntılı bir kat planı\nolduğunu hatırlıyorum...
+51|Miu, soruşturma sırasında hatırladığım\nkadarıyla...
+52|<CLT=cltSTRONG>Dronunu<CLT=cltNORMAL> kullanarak bir <CLT=cltSTRONG>kat planı<CLT=cltNORMAL>\nyapacağını söylemiştin.
+53|Ah evet! O ne oldu!?
+54|Heh, fotoğrafları çoktan banyo ettim ve\nbirkaç çizim de hazırladım!
+55|O zaman bakalım!\nBelki hepimiz ipucu buluruz!
+56|Lütfen, Miu.
+57|Oo? O kadar mı istiyorsunuz, ha?\nPeki...ama artık bana bir borçlusunuz.
+58|İşte! Şu bebeklere bir bakın bakalım!
+59|<CLT=cltMIND>İşte orada...
+60|Tam düşündüğüm gibi...
+61|Hm? Ne?

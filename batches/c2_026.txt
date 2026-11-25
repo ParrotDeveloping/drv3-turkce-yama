@@ -1,0 +1,60 @@
+@ chap2_text_US
+## c02_006_190
+23|<CLT=cltMIND>Ama bütün bunları kim hazırladı?\nTenko kendisi mi yaptı...?
+24|Geç kaldın, Shuichi.
+25|Kirumi?
+26|Şemsiyeyi getirdin mi?
+27|Ah, getirdim ama...\nDur, bunu nereden biliyorsun, Kirumi?
+28|Tenko havuzda kendini bir ünlü gibi hissetme\narzusunu bana bildirdi.
+29|O yüzden bazı hazırlıklar yaptım.
+30|Ah, anlıyorum...
+31|Buzdolabına tropikal içecekler ve meyveler\nkoydum.
+32|Üşümeye başlarsanız ocakta ısıtabileceğim\nsıcak yemekler hazırladım.
+33|Havuz kenarında yağ masajı hazırladım.
+34|Soyunma odasında aralarından seçim yapabileceğiniz\nçeşitli mayolar hazırladım...
+35|Şemsiye kurulunca her şey tamamlanmış\nolacak. Hazır olduğunuzda.
+36|Ah, t-teşekkürler...
+37|<CLT=cltMIND>Bütün bunları o mu yaptı...?\nBiraz kendimi kötü hissediyorum...
+38|<CLT=cltMIND>Kirumi'nin istediği gibi şemsiyeyi kurdum\nve insanlar havuza gelmeye başladı.
+39|Kirumi! Her şeyi hazırladığın için çok\nteşekkür ederim!
+40|Nyeeeh, her şeyi yaptığın için sağ ol.
+41|Teşekkürler, Kirumi.
+42|İlgin için minnettarım, Kirumi.
+43|Bana söylenenden daha fazla kişi var.
+44|Özür dilerim... Sadece Himiko'nun da kendini\nbir ünlü gibi hissetmesini istedim!
+45|Ben de katılabilir miyim? Atua da kendini bir\nünlü gibi hissetmek istediğini söylüyor!
+46|Atua ünlü olmak istiyorsa onu da\ndavet edebiliriz.
+47|T-Tabii... Sen öyle istiyorsan, Himiko.
+48|Grrrgghhh...Sadece Himiko'yla bir ünlü gibi\ntatil yapmak istemiştim!
+49|<CLT=cltMIND>...Bir tanrı ünlü olmak ister\nmiydi?
+50|O zaman diğer herkes için hazırlığa başlayacağım.\nBuna sen de dahil misin?
+51|Ha? Ben de mi?
+52|Ah, Shuichi katılamaz. Yoz bir erkek olarak\ntek işi bunu kurmaya yardım etmekti.
+53|...Peki ya Keebo?
+54|Keebo bir robot, yani ne erkek ne kız!\nZar zor geçer not alıyor!
+55|...Bu sözün robotfobik olup olmadığını\nanlayamıyorum.
+56|Eh, en azından benden daha iyi\ndurumdasın...
+57|Bu arada, Keebo...
+58|Evet?
+59|Senin durumunda tropikal meyve suyu yerine\nyağı mı tercih edersin?
+60|...Buna gerek yok. Sadece teklif bile\nfazlasıyla yeterli.
+61|Keebo, Tenko kendini bir ünlü gibi hissetmesine\nyardım etmemi istedi.
+62|Ve seni de misafirlerinden biri olarak\ndahil etti...
+63|Onun isteğini yerine getirmek için elimden geleni\nyapacağım, bir hizmetçi böyle davranmalıdır.
+64|O yüzden lütfen kendini ünlü gibi hissetmen için\nhangi yiyecek ya da içeceği hazırlayabileceğimi söyle.
+65|<CLT=cltMIND>Ne gurur ve özveri...\nKirumi'nin hizmetçilikteki ustalığı ortaya çıkıyor!
+66|Şey...yemeğe ihtiyacım yok. Zaten tadını da\nalamazdım...
+67|Hadi gidip mayolarımızı giyelim. Shuichi,\ngözetlersen ne olacağını biliyorsun, değil mi?
+68|B-Bana söylemene gerek yok!\nGözetlemeyeceğim...
+69|Ah, ama gözetleyebilirsin! Bir yozu yok etmek\niçin bir bahaneye bayılırım!
+71|Bayan Tenko, yağ masajı nasıl?
+72|Aaahhhh... Bütün bedenim eriyip gidiyormuş\ngibi hissediyorum...
+73|Kirumi! Biraz daha tropikal punç lütfen!
+74|Anlaşıldı. Bir meyve tabağı da getireceğim.
+75|Aaahhh, çok mutluyum, Kirumi! Kendimi şımartılmış\nbir ünlü gibi hissettiriyorsun!
+76|Hayat boyu hayalim sonunda gerçek oldu!\nÇok teşekkür ederim!
+77|Bana teşekkür etmene gerek yok.\nMutluluğun hizmet etmemin sebebi.
+78|*iç çeker*... Ne zahmet...
+79|<CLT=cltMIND>Şu an dinleniyorsun, tam olarak\nne zahmetli?
+80|Merak ettiğim için soruyorum, içerideyken\nbile o şemsiyeye gerçekten ihtiyacın var mı?
+81|Tabii ki! Kendini bir ünlü gibi hissetmek\nistiyorsan kesinlikle şemsiyeye ihtiyacın var!

@@ -1,0 +1,56 @@
+@ chap1_text_US
+## c01_003_252
+6|<CLT=cltMIND>Ama onu Gonta buldu...
+7|Şimdi bağırıp çağırıp kutlama \nyapmanın zamanı değil...
+8|Burası gerçekten çıkış olsa bile \nMonokuma bizi yakalarsa her şey biter.
+9|Katılıyorum. Bu konuda hızlı olmalıyız.
+10|Rögarı hemen\nincelemeliyiz.
+11|Eğer çıkışsa Monokuma'nın peşimize\ndüşmesi an meselesi.
+12|Ne oldu? Rögar şurada, çimlerde.
+13|Vay, şu otlara bak. Burasının kesinlikle\nbir bahçıvana ihtiyacı var.
+14|Değil mi, Kee-bo?
+15|Bunu neden bana söylüyorsun? Ayrıca...\nbana "<CLT=cltSTRONG>Keebo<CLT=cltNORMAL>" demeni tercih ederim.
+16|Ama ot yolabilirsin. Değil mi, Kee-bo?
+17|Ben de her türlü şeyi herhangi bir insan\nkadar iyi yapabilirim!
+18|Herhangi bir insan kadar mı...?\nAma...sen insan değilsin ki.
+19|B-Bu ayrımcılık...\nRobot düşmanı ayrımcılık...
+20|*Açıkça* insan değilken neden herhangi bir\ninsan kadar iyi yapabildiğini söylüyorsun?
+22|Toprak önümüzde açılıyor, \nsanki bizi aşağıya davet ediyor...
+23|Karanlık bizi yuttuğunda ışığa geri \ndönebilecek miyiz...? Kehehe...
+24|...Burada da bir ekran var.
+25|Bir yana, bir iletişim cihazı kurmak için\nepey ücra bir yer...
+26|...Gereksiz bir masraf, sizce de\nöyle değil mi?
+27|Bu tesis ne işe yarıyor?
+28|Bütün bu yeşilliğin makinelere zarar\nvereceği düşünülür...
+29|Bu, biz gelmeden önce hazırlıkların\ntamamlanmadığı anlamına mı geliyor?
+30|Rögardan aşağı, ha...? Sence aşağıda \nürkütücü yaratıklar var mı?
+31|Korkacak ne var ki!?
+32|Fareler kedi kadar büyük olsa bile Himiko\nbüyüsüyle onları uçurur!
+33|Bu mümkün değil... Orada büyümü kullanırsam \nbütün geçit patlayabilir.
+34|Ooo! Büyün çok güçlü!
+35|O halde, layık olmasam da seni\nben koruyacağım, Himiko!
+36|Hı-hı, sana bırakıyorum...
+37|Pek canım istemiyor ama...\nSanırım burayı araştırmamız lazım...
+38|...Acele et. Buradan kaçmak\nistemiyor musun?
+39|Çimlerin arasında saklı olsa da orada\nkesinlikle bir rögar var!
+40|Tipik yoz erkek! Siz röntgenciler görmemeniz\ngereken şeyleri bulmaya bayılırsınız!
+41|Dikkatli olmalıyız...yoksa o canavarlar \nyine ortaya çıkabilir.
+42|Nyeeeh... Moralin mi bozuk? Neşelendirmek \niçin biraz sihirli toz ister misin?
+43|O...tehlikeli türden bir toz değil, değil mi?
+44|Vaaay! Süper gizli bir giriş gibi!\nÇok heyecanlıyım!
+45|Atua da benim kadar heyecanlı!\nBana söyledi, o yüzden biliyorum!
+46|Vaktimi harcamayı bırak, kaçık kaltak!\nAcele et artık! Hadi hadi!
+47|<CLT=cltMIND>Çimlerde bir rögar mı var?\nOnu incelemeliyiz.
+48|<CLT=cltMIND>Çimlerde bir rögar mı var?\nOnu incelemeliyiz.
+49|<CLT=cltMIND>Doğruymuş... Çimlerde gerçekten\nbir rögar var.
+50|Çalıların yanında önemli bir delik mi!?\nTanıdık geldi, değil mi kızlar!?
+51|Ayyy, bu rögar kapağı ağır görünüyor.\nKaldırabilir miyiz ki?
+52|Ben deneyebilirim.
+53|<CLT=cltMIND>Keebo ellerini rögar kapağına koydu\nve var gücüyle—
+54|Grrh...! Grrrrrrrrrrrrrh...!
+55|Ne utanç verici. Kımıldamıyor bile.
+56|Haaa? Bir robot bile onu oynatacak\nkadar güçlü değil mi?
+57|Ah, merak etmeyin. Fiziksel gücüm güçlü\nbir yaşlınınkine yakındır.
+58|B-Bu lanet olası derecede acınası!
+59|P-Profesör deneme üretimi sırasında yaşanan\ntrajedinin tekrarlanmasını istemedi.
+60|Şey... Şimdi o deneme sırasında ne\nolduğunu düpedüz merak ettim...

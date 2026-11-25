@@ -1,0 +1,107 @@
+[
+ {
+  "id": 0,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>The innertube isn't here...\nDid Monokuma put it away?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>This doesn't look like a normal school pool...\nmore like a pool at a resort.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>The pool is deep, but it isn't filled\nup all the way. Still, plenty of water to swim in.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>The water level was one piece of\nevidence I used to solve the case...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>This is a storage room.\nThere's a lot of pool equipment inside.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>It's the gym window...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>This window and the one on the school\nbuilding face each other.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>I'm sure it's just coincidence, but...\nsome part of me thinks it was intentional.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>All of the school's windows are\nblocked off...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>...except for the one\nin Ryoma's lab.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>It's a large diving board.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>This is also something you would\nfind at a resort...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Some pool rules are posted here.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Swimming is prohibited during nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>That one rule spoiled Kirumi's\notherwise-perfect crime...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>But I don't plan on thanking Monokuma\nor the Monokubs for that.",
+  "tr": ""
+ }
+]

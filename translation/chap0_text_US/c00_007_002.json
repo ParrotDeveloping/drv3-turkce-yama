@@ -1,0 +1,802 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Koridor olmasına rağmen burada epey\nbitki yetişiyor...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Ve buranın havası ağır...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>İnsana korkularını hatırlatan, onu kaygıya\nboğan, bunaltıcı bir ağırlık...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Ama burası sadece bir okul...değil mi?\nNe tür bir okul insana böyle hissettirir?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...Ha?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Ne oldu?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Ah, sadece...üniformamın cebinde bir şey\nhissettim. Baktığımda...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "İçinde bunu buldum.\nBir tür...mini tablet bilgisayar mı?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Ah, belki bende de vardır!\nÇantamın daha ağır geldiğini biliyordum!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Üstünde \"Monopad\" yazıyor...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Bu ne zaman çantama girdi?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Açıldığında adım ekranda göründü.\nTıpkı bir öğrenci el kitabı gibi.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Ne işe yarayabileceğini...bilmiyorum,\nama atmamamız gerektiğini düşünüyorum.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Şimdilik...yanımızda tutalım.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Evet, katılıyorum.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltSYSTEM>Tebrikler!\nArtık <CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i kullanabilirsin!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSYSTEM><CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i açmak için <PAD=【□】> tuşuna bas.\nİçinde bir sürü oyun bilgisi var.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltSYSTEM><CLT=cltSTRONG>Karne<CLT=cltSYSTEM> ve <CLT=cltSTRONG>Harita<CLT=cltSYSTEM> gibi şeyler.\nMutlaka göz at!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltSYSTEM>Gözün keskinse\nbelki fark etmişsindir...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltSYSTEM>Diğer öğrencilerle yakınlaştıkça\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'ne yeni bilgiler eklenecek.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>Artık Saihara ile tanıştığın için\nonun bilgileri çoktan eklendi.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltSYSTEM>Ayrıca eminim bir şeyler yaparak <CLT=cltSTRONG>seviye\natlayabildiğini<CLT=cltSYSTEM> de fark etmişsindir.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltSYSTEM>Seviye atladığında <CLT=cltSTRONG>yetenek yuvaların<CLT=cltSYSTEM>\nartar, böylece daha fazla yetenek kuşanabilirsin.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>Bir sürü yetenek var, onlara\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'den bakabilirsin!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltSYSTEM>Yetenek istiyorsan arkadaş edin!\nBağlarını güçlendir!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltSYSTEM>Bütün yetenekleri mutlaka dene!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltSYSTEM>Bir de...sana söylemem gereken önemli\nbir şey daha var.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltSYSTEM>Oyunu el kitabından <CLT=cltSTRONG>kaydedebilir<CLT=cltSYSTEM> ve\n<CLT=cltSTRONG>yükleyebilirsin<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltSYSTEM>Önemli anlarda kayıt almayı\nunutma.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltSYSTEM>O halde! Haydi bakalım!\nSınıf arkadaşlarını bul!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Şeyy...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Hey, sen de <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> bir öğrencisin, değil mi?\nKonuşabilir miyiz—",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Şeyyyy...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>Hm? Beni duymadı mı?\nPeki o zaman...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Heeey! Merhabaaaa!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Şeyyyyyy...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Ne? Hala duymuyor mu?\nBelki çok detaylı bir mankendir?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...Hayır, öyle olduğunu sanmıyorum...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Belli olmaz.\nHareket eden bir oyuncak ayı bile gördük.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>Bunu derken yanağını dürttüm...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>...ve parmağımın ucunda teninin\nyumuşadığını hissettim.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Şeyy...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Dürtmek de işe yaramıyor mu?\nO zaman...belki de gerçekten bir oyuncak.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Ama çok gerçekçi görünüyor!\nDene Shuichi! Dürt, dürt!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Ah, yok sağ ol...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Hadi dene! Çok eğlenceli!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>Diğer yanağını dürtsün diye\nelini tuttuğumda...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "İki taraftan birden dürtüleceğim hiç\naklıma gelmezdi. Ne kadar beklenmedik.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Ah!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Demek manken değilmiş.\nZaten biliyordum.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Biliyordun da neden ona\ndürtmemi istedin?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Çünkü tepki vermiyordu.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Ah, kötü bir niyetim yoktu... \nSadece derin düşüncelere dalmıştım.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Ben de sizi görmezden gelirsem \nbaşka yere gidersiniz diye düşündüm.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Bizi görmezden mi geliyordun?\nBu biraz kabalık değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Şey, istemeyen birini konuşmaya \nzorlamak da kabalık değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Ah, ama sorun değil. Şimdi konuşasım geldi.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Hadi konuşalım. Neyle \nbaşlamak istersiniz?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "En sevdiğim Doraemon bölümü 53. bölüm. Güvenlik\r\nkameraları ve atış talimi olan.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Şey, ondan bahsetmeden önce...\nBize adını söyleyebilir misin?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Ah, benim adım Tsumugi Shirogane.\n<CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>'ım.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Demek sen...bir cosplayer'sın.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Şaşırdın mı...? Bunu çok duyarım,\nçünkü çok sade biriyim.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Yani, aslında mantıklı. Sende tuhaf,\nneredeyse seksi bir hava var.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Bahse girerim her gün insanlar kıvrımlarını\nsüzdüğü içindir, değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Kaede...sapık yaşlı bir adam gibi\nkonuşuyorsun...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Normalde insanların bana öyle bakmasından\npek hoşlanmam...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Ben sadece kostüm yapmayı seviyorum. \nBaşkalarının giymesine de bir şey demem...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Ama son zamanlarda daha çok cosplayer\nkendini karakterinin önüne koyuyor.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Kostümlerimi öyle insanlara vermektense \nsevgiyle kendim giymeyi tercih ederim.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Vay...epey tutkulusun.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Yaptığım kostümleri insanlara \ngösterebilmek beni mutlu ediyor.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Sponsorlarım sayesinde de düpedüz\npahalı malzemeler kullanabiliyorum.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Ohhh! Eh, <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>'ın\nsponsorları olması çok doğal!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Büyütülecek bir şey değil. İnsanlar etrafıma\nhayvanat bahçesindeki panda gibi toplanıyor.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Bu çok harika...\nResmen ünlüsün, biliyor musun?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Ah, ben de size bir şey sorabilir miyim?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Az önce...bir şey hakkında derin derin\ndüşünüyor gibiydin. Neydi o?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Ah, evet! Bunu ona sormamız lazımdı!\nAferin Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Ah...şuradaki <CLT=cltSTRONG>bronz ejderha heykeli<CLT=cltNORMAL>. \nSadece düpedüz merak ediyorum.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Neredeyse havada süzülüyor gibi, değil mi? \nBurada epey yersiz durmuyor mu?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Sen söyleyince...haklısın.\nBeni de biraz rahatsız ediyor.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Burası bir okul, değil mi? Ama buradaki her\nşey çok tuhaf, değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "İçeride ağaçlar ve otlar büyüyor,\nhiç çıkış bulamıyorum...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Ve görünüşe göre burada bizden\nbaşka kimse yok...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Biz...iyi olacak mıyız? Buradan\nçıkabilecek miyiz?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Kaede? Ne oldu?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Hehe, yüzündeki o korkmuş ifade biraz\nseksiydi.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "...Yine mi?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Şaka yapıyorum...\nNeyse, büyütülecek bir şey değil.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Asıl derdimiz şu anki durumumuz.\nBu bitince her şey yolunda olacak.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Sen...epey iyimsersin, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Eh, insanlar benim için kaygısız der!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Endişelenmek seni bir yere götürmez.\nKaygısız olmak daha iyi.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Evet...sanırım öyle. Bunalıma girmek \nhiçbir şeye yardımcı olmaz.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Evet. O zaman bir çıkış yolu bulmaya çalışalım.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltSYSTEM>Tsumugi'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Evet, bunalıma girmek hiçbir şeye\nyardımcı olmaz...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Bir sonraki fuarın yaklaştığı düpedüz belli!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "*iç çeker*...Doğru. Kostümümü zamanında\nbitiremezsem ne yapacağım?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in araştırma laboratuvarı, ha?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>Neyse. Sonunda buradan kaçtığımda\nistediğim kadar piyano çalabilirim.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Kirumi Tojo'nun Araştırma Laboratuvarı",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Gonta Gokuhara'nın Araştırma Laboratuvarı",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "3. Kat",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Bu da ne...?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Bir...ejderha heykeline benziyor.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Ama okulun koridorunda neden bir\nejderha heykeli var?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "H-Hiçbir fikrim yok...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Hmm... Belki okulun resmi sanat\nkoleksiyonunun bir parçasıdır?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Yine de hiçbir fikrim yok...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>Bu heykel burada hiç yakışmamış...\nBurada ne işi var ki?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Ah! Bir dakika!\nBurası müzik odası mı?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltSYSTEM>*tık*",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Ha... Açılmıyor. Ama bu oda sanki benim\niçin yapılmış gibi görünüyor...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Ayı-l bakalım, uyan artık!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Ah! Yine geldiler!",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Sizce burası ne?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Şu süslü püslü yazılara bakın!\nİnek öğrencilere göre bir yer gibi!",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Ha? Burası bir <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltNORMAL> değil mi?",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Ne halt ediyorsun? Neden onlara söyledin?\nHer şeyi dramatik yapmaya çalışıyorduk.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Ah, anlıyorum... Özür dilerim.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Ha? <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltNORMAL> ne?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneklerinizi geliştirmeye devam\netmenizi istiyoruz, o yüzden bu odaları kurduk.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Burası <CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>'in laboratuvarı ama diğer\nUltimate'lar için de laboratuvarlar kurduk tabii.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Gerçi çoğu hala gizli!",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Bu arada...bu araştırma laboratuvarının\nhala kilitli olmasının sebebi...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Sebebi...?",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Çünkü hala her şeyi hazırlıyoruz...\nÜzgünüz, hepsini hazırlamak için acele edeceğiz.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Kıçınızı silin ve bekleyin!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Güzel tavsiye ama...sen \"atını sakin\nsür\" demek istemedin mi?",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Puhuhu... Monokid ne kadar aptal.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Ne gülüyorsun!? Monodam'a zorbalık ettiğim\ngibi sana da ederim!",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Müzik odasına benziyor...",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "...ama sanırım bir <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> laboratuvarı.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Sence...gerçekten bunun gibi başka\nodalar da var mı? Herkes için?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Ben de onu merak ediyorum...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "<CLT=cltMIND>Neyse...burayı müzik odası sanmıştım.\nOf, gerçekten piyano çalmak istiyordum...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "<CLT=cltMIND>Neyse. Sonunda buradan kaçtığımda\nistediğim kadar piyano çalabilirim.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in araştırma laboratuvarı, ha?",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltMIND>Neyse. Sonunda buradan kaçtığımda\nistediğim kadar piyano çalabilirim.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Açılmıyor.\nBaşka bir yere bakalım.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Tamam...",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "<CLT=cltSYSTEM>Tebrikler!\nArtık <CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i kullanabilirsin!",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "<CLT=cltSYSTEM><CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i açmak için F tuşuna bas. \nİçinde bir sürü oyun bilgisi var.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltSYSTEM><CLT=cltSTRONG>Karne<CLT=cltSYSTEM> ve <CLT=cltSTRONG>Harita<CLT=cltSYSTEM> gibi şeyler.\nMutlaka göz at!",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "<CLT=cltSYSTEM>Gözün keskinse\nbelki fark etmişsindir...",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "<CLT=cltSYSTEM>Diğer öğrencilerle yakınlaştıkça\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'ne yeni bilgiler eklenecek.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "<CLT=cltSYSTEM>Artık Saihara ile tanıştığın için\nonun bilgileri çoktan eklendi.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltSYSTEM>Ayrıca eminim bir şeyler yaparak <CLT=cltSTRONG>seviye\natlayabildiğini<CLT=cltSYSTEM> de fark etmişsindir.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "<CLT=cltSYSTEM>Seviye atladığında <CLT=cltSTRONG>yetenek yuvaların<CLT=cltSYSTEM>\nartar, böylece daha fazla yetenek kuşanabilirsin.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "<CLT=cltSYSTEM>Bir sürü yetenek var, onlara\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'den bakabilirsin!",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "<CLT=cltSYSTEM>Yetenek istiyorsan arkadaş edin!\nBağlarını güçlendir!",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "<CLT=cltSYSTEM>Bütün yetenekleri mutlaka dene!",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltSYSTEM>Bir de...sana söylemem gereken önemli\nbir şey daha var.",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "<CLT=cltSYSTEM>Oyunu el kitabından <CLT=cltSTRONG>kaydedebilir<CLT=cltSYSTEM> ve\n<CLT=cltSTRONG>yükleyebilirsin<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "<CLT=cltSYSTEM>Önemli anlarda kayıt almayı\nunutma.",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "<CLT=cltSYSTEM>O halde! Haydi bakalım!\nSınıf arkadaşlarını bul!",
+  "tr": ""
+ }
+]

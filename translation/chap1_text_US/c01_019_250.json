@@ -1,0 +1,27 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Huh?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>This door was blocked before...\nWhen did it become accessible?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Pool Door",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick\n(Closed)",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick\n(Open)",
+  "tr": ""
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>There's still time...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>This monitor has to be custom made...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>Why go out of their way to make this?\nWhere is this budget coming from?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>Do they plan for us to wear this forever?\nIt makes it easier to tell us apart, I suppose...",
+  "tr": ""
+ }
+]

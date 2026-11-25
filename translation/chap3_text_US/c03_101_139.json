@@ -1,0 +1,472 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>If I remember correctly, the gold leaf\nkatana is from...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "First, we should confirm whether the katana\nused in the murder really came from here.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Still...there's tons of weird-looking stuff\nin this place.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I thought it was all a bunch of useless junk\nat first, but I guess it's not...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...Sorry, don't mind me.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "First, we should confirm whether the katana\nused in the murder really came from here.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "You can deal with the seance.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I'll head back to the crime scene to\nre-examine the clues.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I need to find out more about\nthat katana...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>I need to find out more about\nthat katana...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>I need to find out more about\nthat katana...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>It's just the sheath!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Earlier, the katana was inside\nthe sheath...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Maki, the gold leaf katana definitely came\nfrom here. I'm certain of it.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Doesn't that make Kiyo suspicious?\nThis is his research lab, after all.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Not necessarily. Anyone could have\ncome in here and taken it.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "...Fair enough. Anyone could have done the\nsame with my lab, too.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Gold Leaf Katana<CLT=cltSYSTEM>\" has been updated in the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Oh? What are you guys doing here?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "...What are *you* doing here? Shouldn't you\nbe helping with the seance?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Nee-heehee... You look so disgusted right now.\nThen again, I guess that is your signature look.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Anyway, I forgot to bring something we need\nfor the seance, so I came back to get it.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Something for the seance?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Yep, that white sheet over there.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "We brought the wooden dog statue and the cage\nalready, but I guess we need that sheet too.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I don't get it... Why do you guys need a cage,\na wooden dog statue, and a white sheet?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Hey, don't ask me! I don't know why\nwe need that stuff, either!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "That's why I figured I'd do a little research\non this seance before I got the sheet.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "...Study?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Soooo, let's see...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Kokichi took a look around and...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I heard it was, like, some old handmade book...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Oh, is this it!?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Yep, it says <CLT=cltSTRONG>Caged Dog Village<CLT=cltNORMAL> right here\non the cover, so this must be it.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Let's see... What does it say about <CLT=cltSTRONG>The Caged\nChild<CLT=cltNORMAL> seance...?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>Kokichi flipped through the old book\nhe picked up.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Oh, is it this page? It's hard to read, but I\ncan see <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL> is mentioned here.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Yeah, Kiyo's drawing the same magic circle\nas the one in this picture...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Okay, let's see...\nIn order to perform <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...you need five people, including the spirit\nmedium, and a dark place with no light.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Just like Kiyo said...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "First, draw the magic circle, passed down from\nthe <CLT=cltSTRONG>Caged Dog Village<CLT=cltNORMAL>, on the ground...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "In the center of the circle, the spirit medium\nmust kneel, curl like a turtle...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "...and rest their forehead on a stone on the\nground. Afterward, the other four participants...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "...must put the iron cage over the spirit\nmedium, and cover it with a white sheet...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "And finally, the Dog God must be placed \non top of the cage.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Also, it says we can't step on the\nmagic circle during the preparations...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "The \"Dog God\"? Do you mean the\nwooden dog statue?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "When preparations are complete, turn out all\nthe lights to create complete darkness...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "The seance will begin when the four participants\nare each standing at a corner of the room.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "The four participants, not including the spirit\nmedium, will sing <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL> song...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "After the song, ask, \"Is <CLT=cltSTRONG>the caged child<CLT=cltNORMAL>...\" \nthen say the name of the spirit.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "The spirit medium will reply in the voice of\nthe summoned spirit...and that's all it says!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "That sounds...complicated.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Complicated plans have a better chance of\nworking out in the end, wouldn't you say?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Whether it works or not...Kiyo has been wanting\nto conduct this seance for a while.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Since I was fortunate enough to obtain one of\nthose copies, I have already memorized it.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Kehehe... But I never thought I'd be able to lay\neyes on the real one... What a trick of fate.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Oh, yeah. He said he memorized every\nword of it, too.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "That's probably why he left the book here, cuz\nhe can conduct the seance without it.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "But is it even possible?\nContacting Angie's ghost...?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Nee-heehee... If you're so curious, why\ndon't you join us, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "You should see how it plays out with your\nown eyes.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "There's still time, y'know. The seance hasn't\neven started yet.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Maybe it's better if you join them.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "You think so...?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Well, I'm not going. I don't believe in seances.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "But whether you believe or not, as a detective\nyou should be there to observe what happens.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>As a detective, huh...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Yeah...I think you're right.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Nee-heehee... Now you're talking.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Well, I'll be waiting for you! Of the three\nempty rooms, we're in the middle one.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>Kokichi spoke as though he was inviting\nme to go play, then left the room.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>The Caged Child<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>The katana should be here, but all\nthat's left is the sheath.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>The murder weapon was brought\nfrom this room, I'm certain of it.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>I believe the katana was on\ndisplay, right here in this case...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>It's packed with books and scrolls...\nThey're all weathered and old.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>No time to read now, though.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>This cloth...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>Ah, I see. It's the white fabric that\ncovers the cage in <CLT=cltSTRONG>The Caged Child<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>I suppose they already took the\ncage to the room...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>This is most likely the white frabric that\ncovers the cage in <CLT=cltSTRONG>The Caged Child<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>I suppose they already took the\ncage to the room...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND><CLT=cltSTRONG>The Caged Child<CLT=cltMIND> book\nis still here...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>Kiyo said that he has read it so many\ntimes, he can recite it by memory.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>I suppose he doesn't need it\nto perform the seance.",
+  "tr": ""
+ }
+]

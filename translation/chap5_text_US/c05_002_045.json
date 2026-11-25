@@ -1,0 +1,102 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>I can see a spiral staircase...\nIt looks pretty long.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Where does this staircase lead?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I should climb that staircase...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Is this another <CLT=cltSTRONG>Ultimate lab<CLT=cltMIND>?\nThen, it must be...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Finally, it looks like this is my research lab!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Kaito!?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Nyeeeh...those stairs were long and such a pain.\nI'm tired... Someone give me a piggyback ride.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "They made us climb all these stairs just for\nthe <CLT=cltSTRONG>Ultimate Astronaut<CLT=cltNORMAL>'s lab?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "What do you mean \"just\"? This is the main stage,\nand it's finally been revealed!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I-I'm tired... Hey...someone...give me \na piggyback ride.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Anyway, let's go inside. There might be\nsomething useful in here...probably.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "What do you mean \"probably\"!?\nIt's gotta be full of super important stuff!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hey! Isn't anyone gonna give me \na piggyback ride!?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Shut up! I'm not gonna give you \na piggyback ride!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Ah, let's go inside then...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>This is a pretty long staircase.\nWhere does it lead?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Phew...finally reached the top.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>...I feel as if there's something there.\nIt's best to be cautious.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Obeying these announcements makes me\nfeel like a character in a story...",
+  "tr": ""
+ }
+]

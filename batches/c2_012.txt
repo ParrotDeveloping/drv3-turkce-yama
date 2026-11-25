@@ -1,0 +1,87 @@
+@ chap2_text_US
+## c02_003_003
+12|...Gerçi ne tür olduğu hakkında hiçbir fikrim yok.\nİçeri bir bakmalıyım...
+13|<CLT=cltMIND>Elimi kapı koluna\nuzattığım anda...
+14|...Sana girme izni vermedim.
+15|Ah! Maki?
+16|Demek burası <CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>'nın laboratuvarı.\n...Kapıya bakınca öyle düşünmezdin—
+17|Haklısın. Hoşça kal.
+18|D-Dur! İçeri biraz bakabilir miyim?
+20|Ne? Ama...insanların birbirlerinin laboratuvarına\ngirmesine karşı bir kural yok...
+21|Kurallar umurumda değil. Kimseyi içeri\nalmıyorum.
+22|<CLT=cltMIND>Ha? Neler oluyor...?
+23|Heeeyyy! Neler oluyor? Bir atışmanın ortasında\nfalan değilsiniz, değil mi?
+24|...Gördün mü? Senin sayende sinir bozucu\nbir velet ortaya çıktı.
+25|Duydun mu, Shuichi? Sırf senin yüzünden\nsinir bozucu bir velet ortaya çıktı!
+27|Eee, ne oluyor? Laboratuvarına kimsenin\ngirmesini istemiyor musun, Maki?
+28|Bu kadar ısrarcı olma, Shuichi. Bir kızı üzecek\nşeyler yapmak iyi değil, biliyor musun?
+29|Ah, tamam... Anlıyorum.
+30|Güzel, o zaman uzak dur. İçeri girmeye\nçalışırsan son derece acı verici olur...
+31|...senin için.
+32|Acı verici mi!?
+33|Bu ne...?\nKapıya benziyor ama...
+34|<CLT=cltMIND>Ah, anlıyorum. Sadece bir kapı resmi.
+35|<CLT=cltMIND>Bir video oyununa benziyor...\nSanırım buna piksel sanatı deniyor.
+## c02_003_004
+0|Kütüphane Kapısı B
+1|Sadece biraz açılıyor...
+3|Kütüphane Kapısı A
+## c02_003_015
+5|<CLT=cltMIND>Monitör
+7|<CLT=cltMIND>Dron
+8|<CLT=cltMIND>Yüksek Atlama Çıtası
+9|<CLT=cltMIND>Minder
+10|<CLT=cltMIND>Engel
+## c02_003_017
+4|<CLT=cltMIND>Kara Tahta
+5|<CLT=cltMIND>Pencere
+6|<CLT=cltMIND>Hava Giriş Kanalı
+7|<CLT=cltMIND>Monitör
+## c02_003_018
+4|<CLT=cltMIND>Kara Tahta
+5|<CLT=cltMIND>Pencere
+## c02_003_019
+8|<CLT=cltMIND>Monitör
+9|<CLT=cltMIND>Kitaplık A
+10|<CLT=cltMIND>Kitaplık B
+11|<CLT=cltMIND>Kitaplık C
+12|<CLT=cltMIND>Merdiven
+14|<CLT=cltMIND>Hareketli Kitaplık
+15|<CLT=cltMIND>Küre
+16|<CLT=cltMIND>İstiflenmiş Kitaplar
+## c02_003_025
+4|<CLT=cltMIND>Monitör
+## c02_003_026
+4|<CLT=cltMIND>Nesne 0
+5|<CLT=cltMIND>Nesne 1
+## c02_003_042
+0|Büyüm tepki veriyor...
+1|Büyün mü?
+2|Buralarda bir şey var...\nHiç şüphe yok...
+3|Büyüm sayesinde ilerleyebiliyoruz...
+6|Söylemen gereken bir şey yok mu?
+7|Ah... Teşekkürler?
+8|Hm... Bundan sonra benim büyüme\ngüvenmelisin...
+9|Bundan sonra büyüme güven. Güçlerimi sana\nödünç veririm...zahmetli olmadığı sürece.
+10|Ah, sonunda buraya geldin. Buradaki bu tuhaf\nşeyin düpedüz tuhaf olduğu düpedüz belli.
+11|<CLT=cltMIND>...Yani düpedüz mü, tuhaf mı?
+12|Gizli bir geçit! Ne heyecan verici!
+13|Hadi gidip inceleyelim!
+14|<CLT=cltMIND>Bu kapı diğerlerinden farklı.\nBir <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltMIND> olabilir.
+15|<CLT=cltMIND>Görünüşüne bakılırsa <CLT=cltSTRONG>Ultimate Sihirbaz<CLT=cltMIND>'ın\nlaboratuvarı olduğunu tahmin ediyorum.
+19|<CLT=cltMIND>Duvar yıkıldı mı!?
+20|Benim büyüm yüzünden mi?
+21|Ah, hayır, bu nesnenin üstünde bir eşya kullandım ve—
+22|Benim büyümdü.
+23|...Tamam, peki.
+## c02_003_101
+7|<CLT=cltMIND>Epey büyük bir lamba.\nOdayı iyi aydınlatıyor...
+## c02_003_132
+0|<CLT=cltMIND>Koca bir kapalı tenis kortu...\nBu etkileyici...
+1|Burası senin laboratuvarın, değil mi Ryoma?\nBurada koca bir tenis kortu olması güzel olmalı.
+2|Hıh, umurumda değil. Artık tenisle hiçbir\nilgim yok.
+3|<CLT=cltMIND>Tenisle hiçbir ilgisi yok mu?
+4|Ryoma...gerçekten artık tenis\noynamayacak mısın?
+5|Tenis mi? Tenis gibi burnu havada bir sporu\nkim oynar ki?
+7|Ohhhh, doğru ya. Tamamen unutmuşum.\nSen bir tenisçisin, değil mi?
+8|Unutman sorun değil. O çok uzun zaman\nönceydi.

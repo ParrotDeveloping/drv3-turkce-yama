@@ -1,0 +1,53 @@
+@ chap2_text_US
+## c02_003_150
+6|<CLT=cltMIND>Eh, bu selam vermenin epey kaba\nbir yolu...
+7|Hey, rahatsız ettiğim için özür dilerim\nama böyle şeye gerek—
+8|Hey, kasık çürüğü.
+9|...Ne? Ben mi?
+10|Az önce memelerime baktın, değil mi?
+12|Seni suçlayamam! Senin gibi bir betanın benim\ngibi koca memeli bir güzelle hiç şansı yok!
+13|Hadi, doya doya bak!
+14|H-Hayır! Bakmıyordum, sadece aşağı\nbakarken tesadüfen—
+15|"Ohh, gözlerim tesadüfen oraya baktı..."\n"Ohh, elim tesadüfen onu elledi..."
+16|Hikâye! Sapıkları görür görmez tanırım ve sen\n*kesinlikle* lanet bir sapıksın!
+17|Bu yüzden o şapkayı takıyorsun, değil mi?\nPis gözlerini saklamak için?
+19|Ve bu yüzden o pantolonu giyiyorsun, değil mi?\nİğrenç kasığını saklamak için?
+20|...Artık pantolon giymeme izin yok mu?
+21|Hah-haha! Herkes sadece sapıkların şapka\ntaktığını bilir!
+22|Neden bahsediyorsun sen?
+23|Beni rahat bırak!\nİstediğimi giyebilirim!
+25|N-Ne oluyor lan...bana neden\nsinirleniyorsun?
+26|D-Dünyaya özür dile!
+27|Beni şoka sokup motivasyonumu kaybettirirsen\nkayıp bütün dünyada hissedilir!
+28|Hey, bir sürü saçmalık söylüyorsun!\nSen kimsin!?
+29|Cidden mi!? Benim kim olduğumu bilmiyor musun lan!?
+30|Ben güzelliği ve altın beyniyle tarihe geçecek\ngöz kamaştırıcı kız dâhiyim!
+31|Ben tek ve efsanevi <CLT=cltSTRONG>Ultimate Mucit<CLT=cltNORMAL>'in\nta kendisiyim—<CLT=cltSTRONG>Miu Iruma<CLT=cltNORMAL>!
+32|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Mucit<CLT=cltMIND> Miu Iruma...\nHiç duymadım...
+33|Peki ne tür icatlar\nyapıyorsun?
+34|Her tür alet yaparım—uyurken yazı yazmanı,\nuyurken kitap okumanı sağlayanlar...
+35|Hatta uyurken yemek yemeni sağlayanlar bile.
+36|Neden her şey uyumakla ilgili?
+37|İnsanların uykuya ne kadar zaman harcadığını\nfark edince ilham aldım.
+38|Gerçi bir keresinde şaka olsun diye gerçekten\naptalca göz damlası kontakt lensler icat ettim.
+39|Dur, gerçekten mi? O senin icadın mı?\nArkadaşlarımdan bazıları kullanıyor!
+40|Pöh! Arkadaşların tam bir ayak takımına benziyor!\nO icat hiçbir şeydi!
+41|Uyurken seni daha verimli yapmıyor, o yüzden\nbaşarısızdı! Tıpkı siz ikiniz gibi!
+42|Patent haklarını bir şirkete devrettim ve\nbir daha dönüp bakmadım.
+43|<CLT=cltMIND>Bu kaçırılmış bir fırsat gibi görünüyor...\nÖyle bir teknoloji inanılmaz geliyor.
+44|Bu arada, demin ne arıyordun?\nBulmak için epey çaresiz görünüyordun.
+45|Ha? Salak mısın? Böyle bir durumda\nbiraz ilaç bulmam lazım!
+46|İlaç mı? Yaralı mısın?\nYoksa hasta mı hissediyorsun?
+47|Hayır, aptal! Kafayı fena halde bulmak\nistediğim için sert ilaç lazım!
+48|*iç çeker*... Sadece zihnimi özgür bırakıp\nbu boktan durumu tamamen unutmak istiyorum!
+49|<CLT=cltMIND>Ne? Bu...?
+50|Dur... Neeeeee!? Kafa bulmak için uyuşturucu\nkullanamazsın! Bunu kesinlikle yapmamalısın!
+52|N-Ne oluyor lan...? Dâhiliğim halkın aklıyla\nsınırlanamaz...
+53|Hem...burada muhtemelen kafayı bulmak için\nihtiyacım olan bok yoktur bile...
+54|Y-Yani...aramız iyi mi...?\nBana...kızgınlığın geçti mi?
+55|<CLT=cltMIND>Dâhilikle delilik arasındaki çizgi incedir\nve Miu onu fersah fersah geçmiş.
+57|<CLT=cltMIND>Shuichi'ye ne oldu?
+58|<CLT=cltMIND>Miu şapkasından bahsettiğinden beri sessiz...\nBundan bahsetmekten hoşlanmıyor mu?
+59|Ha!? Beni rahat bırak!\nMeşgulüm!
+60|<CLT=cltMIND>Görünüşe göre şu an meşgul...
+65|<CLT=cltMIND>Bu...bir sensör mü?\nKarmaşık bir cihaza benziyor.

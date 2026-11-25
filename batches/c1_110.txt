@@ -1,0 +1,39 @@
+@ chap1_text_US
+## c01_274_000
+0|<CLT=cltSYSTEM>Bu noktadan sonra tepkilerini bozmak için\n<CLT=cltSTRONG>beyaz gürültü<CLT=cltSYSTEM> çizgileri görünecek.
+1|<CLT=cltSYSTEM>Gerçek Mermilerin bu çizgilere değerse yok olur,\no yüzden onları <CLT=cltSTRONG>engel<CLT=cltSYSTEM> olarak düşün.
+2|<CLT=cltSYSTEM>Lütfen Gerçek Mermilerini beyaz gürültüye\ntakılmayacak şekilde tam zamanında at.
+3|<CLT=cltSYSTEM>Beyaz gürültüyü vurmak için <PAD=【○】>\nile <CLT=cltSTRONG>susturucuyu<CLT=cltSYSTEM> kullanabilirsin.
+4|<CLT=cltSYSTEM>Peki, bunu neden yapasın?
+5|<CLT=cltSYSTEM>Çünkü bu sadece doğru zayıf noktaları\nvurmayı kolaylaştırmakla kalmaz...
+6|<CLT=cltSYSTEM>aynı zamanda <CLT=cltSTRONG>ek süre<CLT=cltSYSTEM> de kazanırsın.\nNe harika bir fırsat!
+7|<CLT=cltSYSTEM>Gönlünce kullan!
+8|<CLT=cltSYSTEM>Bu fırsat için teşekkürler!
+9|<CLT=cltSYSTEM>Bu noktadan sonra tepkilerini bozmak için\n<CLT=cltSTRONG>beyaz gürültü<CLT=cltSYSTEM> çizgileri görünecek.
+10|<CLT=cltSYSTEM>Gerçek Mermilerin bu çizgilere değerse yok olur,\no yüzden onları <CLT=cltSTRONG>engel<CLT=cltSYSTEM> olarak düşün.
+11|<CLT=cltSYSTEM>Lütfen Gerçek Mermilerini beyaz gürültüye\ntakılmayacak şekilde tam zamanında at.
+12|<CLT=cltSYSTEM>Beyaz gürültüyü vurmak için sol tıkla\n<CLT=cltSTRONG>susturucuyu<CLT=cltSYSTEM> kullanabilirsin.
+13|<CLT=cltSYSTEM>Peki, bunu neden yapasın?
+14|<CLT=cltSYSTEM>Çünkü bu sadece doğru zayıf noktaları\nvurmayı kolaylaştırmakla kalmaz...
+15|<CLT=cltSYSTEM>aynı zamanda <CLT=cltSTRONG>ek süre<CLT=cltSYSTEM> de kazanırsın.\nNe harika bir fırsat!
+16|<CLT=cltSYSTEM>Gönlünce kullan!\n
+17|<CLT=cltSYSTEM>Bu fırsat için teşekkürler!
+## c01_275_000
+0|<CLT=cltSYSTEM>Duydun mu?\nBir <CLT=cltSTRONG>yalan<CLT=cltSYSTEM> mı!?
+1|<CLT=cltSYSTEM>Biliyorum, kulağa çılgınca geliyor...\nSınıf duruşmasında yalan söylemek mi?
+2|<CLT=cltSYSTEM>Ama...bazen yalan söylemek\n<CLT=cltSTRONG>gerçeğe ulaşmak için gereklidir<CLT=cltSYSTEM>.\n
+3|<CLT=cltSYSTEM>Ah, ama merak etme. Bu eğitimde\nhiç yalan yok.
+4|<CLT=cltSYSTEM>Bundan sonra bir tartışmada <CLT=cltSTRONG>yalan<CLT=cltSYSTEM>\nsöylemen gereken anlar olacak.
+5|<CLT=cltSYSTEM>Önceden yalanları çürütmen gerekiyordu...\nAma şimdi kendin <CLT=cltSTRONG>yalan<CLT=cltSYSTEM> söylemelisin.
+6|<CLT=cltSYSTEM>Bu kalbini hızlandırmıyor mu?
+7|<CLT=cltSYSTEM>İşte nasıl işlediği.\nNormal Durmaksızın Tartışmalardaki gibi bir Gerçek Mermisi seç...
+8|<CLT=cltSYSTEM>Ama <PAD=【△】> tuşunu basılı tutunca Gerçek Mermisi\n<CLT=cltSTRONG>zıt anlamlı<CLT=cltSYSTEM> bir <CLT=cltSTRONG>Yalan Mermisine<CLT=cltSYSTEM> dönüşür.
+9|<CLT=cltSYSTEM><PAD=【△】> tuşunu bırakınca Yalan Mermisi ateşlenir.
+10|<CLT=cltSYSTEM>Birinin ifadesine itiraz etmek ya da onaylamak\niçin Yalan Mermisi kullandığında...
+11|<CLT=cltSYSTEM>Bu, gerçeğin üstünü yalanla örten bir ifade\nolan <CLT=cltSTRONG>Yalan Tanıklığa<CLT=cltSYSTEM> dönüşür.
+12|<CLT=cltSYSTEM><CLT=cltSTRONG>Yalan söylerken<CLT=cltSYSTEM> <CLT=cltSTRONG>Etki Göstergen<CLT=cltSYSTEM> azalır.\n<CLT=cltSTRONG>Başarılı<CLT=cltSYSTEM> bir yalan onu <CLT=cltSTRONG>yeniler<CLT=cltSYSTEM>.
+13|<CLT=cltSYSTEM>Ama Yalan Mermin ıskalarsa <CLT=cltSTRONG>hasar\nalırsın<CLT=cltSYSTEM>, o yüzden dikkatli ol!
+14|<CLT=cltSYSTEM>Ayrıca tartışmaları ilerletmenin gizli bir yolu\nolduğuna dair bir söylenti duydum...
+15|<CLT=cltSYSTEM>Adı <CLT=cltSTRONG>arka yol<CLT=cltSYSTEM>...
+16|<CLT=cltSYSTEM>Diyelim ki onu sadece iyi yalan söyleyenler\nbulabilecek.
+17|<CLT=cltSYSTEM>Çok teşekkürler!

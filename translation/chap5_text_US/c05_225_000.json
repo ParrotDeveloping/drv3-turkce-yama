@@ -1,0 +1,417 @@
+[
+ {
+  "id": 0,
+  "en": "It wouldn't matter where the arrow hit...\nif it were poisoned.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "P-Poison?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I noticed something about the poison in\nmy lab during the investigation.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "There was just a little less\nin the bottle than before.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "If that poison had been applied\nto those arrows...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "they would have been lethal, no matter\nwhere they connected.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...Maki, do you have a rebuttal?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Wh-What's the matter?\nWhy don't you say anything?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Don't tell me...\nAre you...really the culprit?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Th-There's no way she is!\nCuz...why would she kill Kaito!?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Nyeeeh! I can't understand if\nyou don't explain anything!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Maki...is still fighting.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Huh? Fighting?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Do you remember that Maki said <CLT=cltSTRONG>she\nwould do anything to defeat Kokichi<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Maki is trying to kill Kokichi\nin this class trial.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "She wants to kill the mastermind,\na Remnant of Despair!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Then when Maki said she would\nsacrifice anything, she meant...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>sacrifice<CLT=cltMIND> that Maki\nis talking about must be...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Maki's life",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Maki plans to sacrifice her life.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Let's assume Maki is really the culprit, and\nwe make the wrong verdict...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "We'll all die because we couldn't point\nto the real culprit...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Shuichi's life",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Maki plans to sacrifice...me.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "...No, there is no reason for only you to\ndie, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "If we cannot correctly identify the culprit,\neveryone but the culprit will lose their lives.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Kaito's life",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "She intends to give up Kaito's life.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Kaito's life...?\nBut Kaito is already...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "All of us",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "If we can't choose the correct culprit...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Then everyone but the culprit will be\nkilled...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "So...does that mean the culprit...is Shuichi!?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>The sacrifice Maki is talking about...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "She plans to sacrifice <CLT=cltSTRONG>all of our lives<CLT=cltNORMAL>\nin order to kill Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Sacrifice us?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Then by hiding the truth, Maki was trying\nto get us to arrive at the wrong answer...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "just to kill Kokichi, and the rest of us\nalong with him?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "So doesn't that mean that\nMaki's the culprit?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "She knew what happened and\ntried to hide it from us...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "But that mischievous plan was ruined\nalllll thanks to Shuichi here.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Too bad, Maki!\nI already predicted this would happen.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "You knew all along that Maki was the culprit.\nThat's why you've been so calm.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "This isn't over.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Hmmm?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Maybe we do have the truth now, but\nthis isn't over.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "We have a choice to make. We don't have\nto follow where the evidence leads.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Huh? What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Does this mean...you're gonna vote for someone\nelse, even if it's not the truth?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Someone else... You mean vote incorrectly\non purpose!?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Someone else... You mean vote incorrectly\non purpose!?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Wh-What did you say?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Kaito told me that only I would be able to\ngrasp what lies beyond the truth.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "That means finding the truth is not enough.\nWe need to grasp the <CLT=cltSTRONG>hope<CLT=cltNORMAL> just beyond it.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "So, Maki...please tell us the truth!\nThe truth that only you know!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "So Kaito...said that to you.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Then...does that mean you guys made up\nbefore he died?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Yeah... When I went to see him yesterday.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I see...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "...Okay, I'll talk about it. Especially since\nit's my responsibility for involving everyone.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Shuichi...you're so persistent.\nWere you always like that?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Ah, you think so? Maybe Kaito's charisma\nis starting to rub off on me...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "That guy...could be pretty stubborn.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Then...what really happened?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Maki, please tell us.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Please!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "And so, Maki began telling the truth.\nA truth that would leave us all in shock!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Don't just start narrating things! \nYou're ruining the mood!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Well...I guess this turn of events isn't\nexactly boring, either.",
+  "tr": ""
+ }
+]

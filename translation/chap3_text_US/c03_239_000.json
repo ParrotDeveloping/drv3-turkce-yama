@@ -1,0 +1,422 @@
+[
+ {
+  "id": 0,
+  "en": "There was evidence left at the scene!\nThe <CLT=cltSTRONG>bloody tape<CLT=cltNORMAL> under Angie's body!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "It was wrapped around her head to stop\nthe bleeding while she was being carried.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Bloody tape...?\nGonta didn't notice at all.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "It was under the body. It's most likely \nevidence the culprit should've gotten rid of...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "But since it was hidden, the culprit didn't\nnotice and failed to dispose of it.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "It must have fallen as the fatal blow was\ndealt, and ended up under her body.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "It...must've been Atua \nwho did that for us.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Wh-What? Atua...?\nHow long are you going to keep that up?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Now we know most of the mystery behind \nAngie's murder.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I'm convinced. There's only one\nperson who could have killed Angie...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Shuichi, why are you hesitating?\nWe all know who did it!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "No! Not that person! Gosh!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Who killed Angie?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "It's you, Kiyo!\nYou killed Angie!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Hiiiiiiagh!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "What the fuck!? So it's true!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Well, that was obvious.\nSuch a boring, obvious answer...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "You...killed both of them...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Why...? Why did you kill them!?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "In terms of pure logic, only one victim\nwas necessary to win.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Why!? Why you kill them both!?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...I think one of the murders\nwas an <CLT=cltSTRONG>accident<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "An accident?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "That's right. It wasn't part of the plan.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Huh? Which one?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>The murder that was an accident...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "The murder of Angie Yonaga",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "The murder of Tenko Chabashira",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>...No, the way Tenko was killed\nrequired meticulous preparations...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Shuichi...please tell me.\nI...want to know everything I can.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "You've been running the show here,\nShuichi! Just say it with confidence!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>The murder that was an accident...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltSTRONG>Angie's murder<CLT=cltNORMAL> was an accident.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "What? Tenko wasn't accident?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "That's right. Kiyo originally planned to kill\nsomeone with the seesaw trick.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "But while he was making preparations\nin the empty room, Angie walked in...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "So he decided to kill her in order\nto keep her from talking.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "She just happened to walk in on the\nculprit setting up...and was killed.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Then...he should've just stopped there.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Once he killed Angie, there was\nno reason for him to kill Tenko!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "He only needed to kill one for this game. \nKilling two is pointless.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "If you get bonus points for killing more, then\nsure. Otherwise, it leaves more clues behind.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Why, Kiyo?\nWhy you kill two of our friends?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Wh-What...is...?\nWhat on earth are you talking about?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "N-No...I'm not the culprit...!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "S-So...why is everyone looking at me\nlike I am...?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Why! Why are they!? Why is it—",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Calm yourself, Korekiyo.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Y-Yes...!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "You mustn't raise your voice.\nYou mustn't stutter.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "You mustn't lose composure. You mustn't\nbecome flustered. You mustn't waver.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Look at their horrid faces. This sorry\nlot is not worth agonizing over.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Y-You're right... Yeah... You're right...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "There he goes again...\nWhat the hell's wrong with him?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "It almost seems like...\nhe's talking with someone.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Someone? He's just talkin' to himself!\nAnd why the hell is he wearin' lipstick!?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Kehehe... No matter how loudly you \nprotest, this is a trivial matter...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "I will never acknowledge your \nallegations. Not a single one of them.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "For you see, there is no evidence that\nI killed Angie!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Kehehe... No, I will not acknowledge it.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I will only acknowledge facts, true events.\nI won't acknowledge fiction, mystery.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "I won't acknowledge...your deductions\nor guesses.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Well said... Good job, Korekiyo.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Yes...thanks.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Blauuuugh! Creeps me the fuck out!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>No evidence...?\nThere's no evidence that he killed Angie?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "You're wrong. There *is* evidence.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "What? You do realize bluffs like that\nwon't work, yes?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "The weapon that was used to knock\nAngie unconscious in the empty room...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "That weapon tells us the whole story, Kiyo!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Grgh...!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Hmhmhm...that's not possible.\nI think you may have misunderstood.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Apologize. Come on, apologize.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Apologize, apologize, apologize...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Come on, apologize. Apologize, apologize.\nApologize apologize apologize apologize.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "S-Seriously...what the hell's happening?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>I have no idea what's\nhappening with Kiyo...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>But I know what weapon he used on\nAngie! I have to prove it to him!",
+  "tr": ""
+ }
+]

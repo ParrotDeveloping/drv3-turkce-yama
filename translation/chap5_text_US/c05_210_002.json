@@ -1,0 +1,77 @@
+[
+ {
+  "id": 0,
+  "en": "I went to the hangar, but...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I went to the hangar, but...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I was only",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "replenishing",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "I was only replenishing my magic!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "my <CLT=size2>magic<CLT=size1>!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "What do you\n<CLT=size2>mean,\n<CLT=size1>replenishing\nyour magic?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "What do you mean, replenishing your magic?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "There's a good\n<CLT=size2>magic\nsource\n<CLT=size1>around there.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "There's a good magic source around there.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "So I went there \n<CLT=cltWEAK>empty-handed<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "So I went there empty-handed...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "and I left\n<CLT=cltWEAK>empty-handed<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "and I left empty-handed.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "You can absorb magic\nwith your bare hands!?",
+  "tr": ""
+ }
+]

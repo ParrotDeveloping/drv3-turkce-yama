@@ -1,0 +1,57 @@
+@ chap2_text_US
+## c02_003_190
+55|Ben...bilmiyorum?
+58|Avluda kullanılmayan o kadar çok arazi\nvar ki...
+59|Havuzu neden buraya yapmışlar!?\nBu da ne demek oluyor!?
+60|Iı, ben...hâlâ bilmiyorum?
+61|<CLT=cltMIND>Bu pencere...okul binasının\npencerelerinden biri olmalı.
+62|<CLT=cltMIND>Bütün pencerelerin kapatıldığını\nhatırlıyorum ama...
+63|<CLT=cltMIND>Özellikle bu pencere normal bir pencereye\nbenziyor. Hangi odaya ait?
+64|Grrrrr! O pencereden herkes\ngözetleyebilir!
+65|Gözetlemek mi? Bunu kim yapar ki?
+66|Yoz erkeklerin mayolu kızlardan çıplak\nkızlardan daha çok tahrik olduğunu duydum!
+67|Ve iç çamaşırlarımızın üstüne giydiğimiz\ntaytlara kafayı yiyorlar!
+68|Kızlar yoz erkeklerin pis arzularına karşı\nne yapsın!?
+69|Ah, bence biraz...abartıyor olabilirsin...
+70|Ah, Keebo! Sen yoz bir erkek misin yoksa kız mı!?\nHangisi!?
+71|Güzel soru... Açıkçası daha önce bunu hiç\ndüşünmemiştim.
+72|Gerçekten mi? Ne ilginç...
+73|<CLT=cltMIND>Sanırım onun bir...erkek olduğunu öylece\nvarsaydım. Ama Keebo bir robot, yani...
+74|<CLT=cltMIND>Bu pencere...okul binasının\npencerelerinden biri olmalı.
+75|<CLT=cltMIND>Bütün pencerelerin kapatıldığını\nhatırlıyorum ama...
+76|<CLT=cltMIND>Özellikle bu pencere normal bir pencereye\nbenziyor. Hangi odaya ait?
+77|Grrrrr! Pencereye bakmaya epey hevesli\ngörünüyorsun...
+78|Gözetlemeyi düşünüyorsun, değil mi!?
+79|H-Hayır! Asla öyle bir şey yapmam!
+83|Yani gece yüzmek yasak mı...?
+84|Doğru. Gece kimsenin yüzmesine\nizin yok.
+85|Biri talihsiz bir gece yüzme kazası yüzünden\nölse berbat olurdu.
+86|Sizin ölüm oyununda ölmeniz lazım!
+87|Gece havuza gelebilirsiniz ama suya dokunmak\nbile kurallara aykırı.
+88|Ah...sanırım her ihtimale karşı mevcut\nyönetmeliğe ekleyeceğim.
+89|<CLT=cltSYSTEM>Okul yönetmeliği güncellendi.
+90|Ah, neyse, havuzun su seviyesi neden bu kadar\ndüşük? Yüzmeye zar zor yetiyor—
+91|Ne diyorsun lan sen!? Gözlerin yerine\nkocaman delikler falan mı var!?
+92|Yüzmeye yetecek kadar su var. Sadece havuz\nçok derin olduğu için sığ görünüyor.
+93|Ve tamamen doldursaydık birinin boğulma\nihtimali daha yüksek olurdu.
+94|Yani mesele bu!
+95|<CLT=cltMIND>...Bazı tuhaf şeylere epey kafa\nyormuşlar.
+96|...HARİKA-BİR-AÇIKLAMA-HERKES.
+97|...Ne? Gerçekten mi? Ah, bunu söylediğini\nduyduğuma çok sevindim.
+98|Monokid'i öldürdüğünü unuttun mu!\nOndan nefret etmelisin!
+99|Monokid'in canı cehenneme! Ondan hep nefret ederdim!
+100|Şiddet yanlısı, kaba, tezgâhtarlara saygısızdı\nve terk edilmiş kedilere karşı zaafı vardı!
+101|Sonlara doğru neden övgü gibi geldi?
+102|<CLT=cltMIND>...Neyse, gece yüzmek yok.\nSorun değil, yüzmeyi düşünmüyordum zaten...
+111|<CLT=cltMIND>Keşke daha önemli sorularıma da\nbu kadar ayrıntılı cevaplar alabilsem...
+## c02_003_240
+0|Burası ne...?\nBir tür...kumarhane mi?
+3|BURASI-KUMARHANE-*GİBİ*-DEĞİL.\nBURASI-*KUMARHANE*.
+4|Evet, evet! Burası bir kumarhane!
+5|BİR-SÜRÜ-MONOJETON-KAZANIP-ONLARI-\nMUHTEŞEM-ÖDÜLLERLE-DEĞİŞTİREBİLİRSİNİZ...
+6|Evet, evet! Kesinlikle değiştirebilirsiniz!
+7|Bu harika derecede amatörceydi, Monodam!\nBabamızın bile yakalayamayacağı bir tadı vardı!
+8|Bir bakıma Babişko'yu geride bıraktın.
+9|Bu da seni dede yapıyor, Monodam!\nMonodam Dede!
+10|<CLT=cltMIND>Kumarhane mi...?\nBöyle bir yerde neden kumarhane var...?
+11|<CLT=cltSYSTEM>Hoş geldiniz, hoş geldiniz!

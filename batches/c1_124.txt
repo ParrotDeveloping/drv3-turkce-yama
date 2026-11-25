@@ -1,0 +1,62 @@
+@ chap1_text_US
+## c01_700_052
+6|O bir <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>, o yüzden eminim yetenekleri\nvardır. Kameraları Miu'ya bırakalım.
+7|<CLT=cltMIND>Shuichi'yle biraz vakit geçirdim...
+## c01_700_053
+1|Koca bir gün kaldı...\nama gerilmeye başlıyorum.
+6|...Böyle acınası bir şey söylediğim için özür dilerim.\nBiraz çay içip sakinleşmeye çalışacağım...
+7|<CLT=cltMIND>Shuichi'yle çay içerek biraz vakit geçirdim...
+## c01_701_000
+0|<CLT=cltMIND>Kaito'ya hediye verme işlemi.
+4|<CLT=cltSYSTEM>Kaito'ya bir hediye vermek ister misin?
+5|10
+6|-10
+8|<CLT=cltSYSTEM>Hediye seçimi taslağı
+9|Kaito Momota'nın sevgi seviyesi ARTTI
+10|Kaito Momota'nın sevgi seviyesi Azaldı
+14|<CLT=cltSYSTEM>Kaito'ya hediye vermek istemediğinden\nemin misin?
+## c01_701_001
+0|Hey, Kaede.\nBana piyano çalmayı öğretir misin?
+1|Neeeee!?
+2|Ne? Neden bu kadar şaşırdın?
+3|Çünkü piyano çalmakla ilgileneceğini\nhiç tahmin etmezdim...
+4|Ah! Ama ilgilendiğine sevindim!\nSana kesinlikle öğreteceğim!
+5|Gerçekten mi? Sağ ol! Uzaya gittiğimde\nçok işime yarayacak.
+6|Piyano çalmak uzaya gittiğinde\nişine mi yarayacak...?
+7|Tabii ki! Ya bir uzaylıyla karşılaşırsam?
+8|Pardon...anlamadım.
+9|Yani, uzaylılar var mı ki? Eminim olsalardı\ndünyayı değiştirecek bir olay olurdu, değil mi?
+10|Şey, henüz hiçbirini doğrulamadık ama...
+11|Bu uçsuz bucaksız evrende insanların yalnız\nolduğunu düşünmek saçma.
+12|Üstelik bir yerlerde olduklarını düşünmek\ndaha heyecan verici değil mi?
+13|Heyecan verici, ha? Eh, sanırım...
+14|Yani uzaylılar varsa...piyanoyla iletişim\nkurmayı mı denemek istiyorsun?
+15|Sadece piyano değil, her tür müzik!\nŞarkı söylemek bile işe yarar.
+16|<CLT=cltMIND>Şarkı söyleyerek iletişim kurmak...\nFazla anime izliyor.
+17|Bu surat ne öyle... \nİmkânsız olduğunu düşünüyorsun, değil mi?
+18|Bence müzikle iletişim kurmak tamamen\nmümkün.
+19|Sonuçta Voyager Altın Plağı'nda\nmüzik var!
+20|Voyager Altın Plağı mı...?
+21|N-Ne? Hiç duymadın mı!?
+22|Şey, sanırım epey önceydi, o yüzden bilmemen\no kadar da tuhaf değil...
+23|Bu Voyager Altın Plakları eskiden\nmağazalarda mı satılıyordu?
+24|Satılmadı.\nUzaya fırlatıldı.
+25|F-Fırlatıldı mı?
+26|Voyager denen bir uzay aracına konuldu.\nOnu bulan uzaylılara bir mesajdı.
+27|Bir sürü dilde selamlaşmalar, manzara\ngörüntüleri...ve müzik de vardı.
+28|Ohhh! Bunu yaptıklarını bilmiyordum!
+29|Pioneer denen başka bir uzay aracının da\nüstünde mesaj olan bir levha vardı.
+30|Voyager ve Pioneer evrenin uçlarına\ngönderildi...ve hâlâ gidiyorlar.
+31|Uzaylılar onları bulursa plağı analiz edip\nDünya'yla iletişim kurmaya çalışabilirler.
+32|Uzaylılarla iletişim, ha...\nBelki bir gün olur.
+33|Evet! Hatta çok da uzak olmayan bir gelecekte!\nBen, Yıldızların Işığı Kaito Momota...
+34|...bir uzaylıyla temas kuran ilk insan\nolacağım!
+35|<CLT=cltMIND>...Bu özgüveni nereden buluyor?
+36|<CLT=cltMIND>Ama uzaylılarla müzikle iletişim kurmak...\nBu mümkün olabilir.
+37|<CLT=cltMIND>Müziğin kelimeleri ve dili aşıp kalpleri\nbirleştirebileceğini çok iyi biliyorum.
+38|<CLT=cltMIND>Aman tanrım, Kaito gibi iflah olmaz bir\nromantik gibi konuşmaya başladım! Hahaha...
+39|<CLT=cltSYSTEM>Kaito'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+40|<CLT=cltMIND>Kaito'dan ayrıldıktan sonra odama\ndöndüm.
+## c01_701_002
+0|Bir süredir düşünüyorum ama... \nKaede, sen epey iyi bir astronot olurdun.
+1|Kim, ben mi? Ama neden?

@@ -1,0 +1,49 @@
+@ chap1_text_US
+## c01_103_017
+15|Bodrum koridorundaki hava kanalı oraya\nçıkıyor...
+16|Evet, ben de bu havalandırma için endişeliydim...\nBu yüzden bu sınıfta gözcülük yaptık.
+17|Çünkü biz burada gözcülük yaparken suçlu\nbu havalandırmayı kullanamazdı.
+18|Bu şartlarda buradan kütüphaneye gizlice\ngirmek zor olurdu.
+19|Kaede kütüphane havalandırmasının önüne\nde kitap yığdı.
+20|Onlar yoldayken birinin girip çıkması\ndaha da zor olurdu.
+21|Gerçekten mi? Bu önemli bilgiyi hafıza\nbankama mutlaka kaydedeceğim.
+22|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Sınıf Havalandırması<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.\n
+23|Umarım sorgulama şeklim ikinizi de\nkırmamıştır.
+24|Gerçeği bulabilmemiz için bu\ngerekli.
+25|Keebo, az önce tam bir dedektif ya da avukat\ngibi konuştun!
+26|Ah! Belki önceki hayatında dedektif ya da\navukattın!
+27|Önceki hayat mı...? İnsan parçalarından\nyapılmamışken nasıl önceki hayatım olabilir?
+28|Bu ikisine ceset bulundu anonsu çaldığında\nne yaptıklarını soralım.
+29|Tsumugi'yle konuştunuz mu?
+30|Kütüphanedeki olay yerinde, değil\nmi?
+31|Kehehe... Tahmin edeyim.\nMazeretimi duymak istiyorsunuz, değil mi?
+32|Ha? Nereden bildin?
+33|Görünüşüm ve şimdiye kadarki davranışlarım \ncinayet işleyecek biri olduğumu düşündürüyor.
+34|<CLT=cltMIND>En azından kendinin farkında...
+35|Kısaca gerçeği söylemek gerekirse...
+36|Ceset bulundu anonsu çaldığında\n<CLT=cltSTRONG>yemekhanede<CLT=cltNORMAL> akşam yemeği yiyordum.
+37|Orada benimle birlikte Miu, Kirumi \nve Tsumugi vardı.
+38|Yemeğimi Monoyavrular hazırladı.\nMenüde adı şöyle geçiyordu...
+39|<CLT=cltSTRONG>"Torununun doğum günü pastasını yiyen yalnız\nyaşlı bir kadın tadında makarna"<CLT=cltNORMAL> ya da onun gibi bir şey...
+40|...O makarna kulağa iç karartıcı geliyor.
+41|Mazeretim bu kadar...\nUmarım biraz yardımı olur.
+42|Peki ya etrafındaki insanlar?\nÖzellikle bir şey fark ettin mi?
+43|Ah...dikkat çekecek bir şey varsa o da\nMiu'nun bir şeylerle uğraştığıydı.
+44|Ayrıca Tsumugi'nin kısa bir süreliğine\ntuvalete gittiği bir an oldu.
+45|Tuvalet, ha? İlginç.
+46|Eh, Tsumugi *sonuçta* <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>.
+47|Gizlice başka birinin kılığına girmek için\ntuvalete gitmiş olabilir.
+48|Başka biri mi? Ama kim?
+49|Bilmiyorum ama gidip onunla konuşacağım.\nKütüphanedeki olay yerinde olmalı.
+50|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Korekiyo'nun İfadesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi."
+51|Ceset bulundu anonsu çaldığında\nyemekhanede akşam yemeği yiyordum.
+52|Orada benimle birlikte Miu, Kirumi \nve Tsumugi vardı.
+53|Tsumugi bir ara tuvalete gitti. \nAncak uzun süre gitmedi.
+54|<CLT=cltMIND>Bu kafama takılıyor... Tsumugi *sonuçta*\n<CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltMIND>...
+55|<CLT=cltMIND>Gizlice başka birinin kılığına girmek için\ntuvalete gitmiş olabilir.
+56|<CLT=cltMIND>Gerçi kim olduğundan emin değilim... Neyse,\nonunla konuşacağım. Kütüphanede olmalı.
+57|<CLT=cltMIND>Ama ondan önce Keebo'nun mazeretini\nde doğrulamam lazım...
+58|Hey, Keebo, ceset bulundu anonsu sırasında\nnerede ve ne yapıyordun?
+59|Ah... Mazeretim.
+62|...Şey, şu an takılıyor musun?
+63|Hayır, sadece doğru kelimeleri arıyorum.

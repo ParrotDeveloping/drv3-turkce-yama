@@ -1,0 +1,344 @@
+@ game_resident_US
+## Mtb-Voice
+0|Hâlâ
+1|bana
+2|inanıyor musun?
+3|Ben
+4|kesinlikle
+5|suçluyum.
+6|Sence
+7|yapmaz
+8|mıyım?
+9|Hepsi
+10|benim
+11|suçum!
+12|Rantaro'yu
+13|öldüren
+14|kişi
+15|benim!
+16|Bu
+17|davanın
+18|gerçeği
+19|bu!
+20|Bu kadar
+21|işte
+22|başka bir şey
+23|yok!
+24|Ben
+25|korkunç
+26|bir
+27|katilim!
+28|Herkese ihanet ettim!
+29|Lütfen
+30|dur...
+31|Sadece
+32|dur...
+34|sana ne
+35|söylemiştim
+36|hatırlıyor musun?
+37|Gerçek için savaşmalısın...
+38|Shuichi...
+39|Biliyorum
+40|sen
+41|bunu
+42|yapabilirsin...
+43|Eğer
+44|bana
+45|inandığını
+46|söylüyorsan,
+47|o zaman...
+48|Gerçekten gözünü kaçırma!
+100|Yanılıyorsun!
+101|Bu gerçek de ne!?
+102|Bu sadece
+103|senin boş
+104|çıkarımın...
+105|Sen
+106|herkesin
+107|kafasını karıştırmaya
+108|devam ediyorsun!
+109|Bu sınıf duruşmasında...
+110|Herkesin
+111|hayatı
+112|tehlikede!
+113|Senin
+114|o kendini
+115|beğenmiş
+116|gerçeğin yüzünden...
+117|Herkes ölebilir!
+118|Mantığını
+119|tamamen
+120|anlıyorum
+121|aslında...
+122|Ama onu
+123|asla
+124|kabul etmeyeceğim...
+125|Görünüşe göre
+126|beni
+127|suçlu
+128|ilan etmek
+129|istiyorsun...
+130|Hiçbir kanıtın yok!
+131|Bize
+132|sadece
+133|spekülasyon
+134|sunuyorsun!
+135|Ben sadece
+136|herkesi
+137|korumak
+138|istiyorum...
+139|Neden
+140|araya
+141|girmek
+142|zorundasın!?
+200|İtiraf edecek
+201|hiçbir şeyim yok...
+202|Sen
+203|sadece
+204|düpedüz
+205|yanılıyorsun...
+206|Evet...
+207|Ben yapmadım...
+208|Yani
+209|itiraf
+210|edecek
+211|bir şeyim yok.
+212|Neden
+213|sanrılarını
+214|bize
+215|dayatıyorsun?
+216|Mantık mı...?
+217|O
+218|sadece bir
+219|sanrı!
+220|İyi dedin,
+221|Korekiyo.
+222|Bu tartışmaya
+223|devam etmek
+224|tamamen
+225|anlamsız.
+226|Sana
+227|söyledim,
+228|ben
+229|suçlu
+230|değilim...
+231|O zaman neden
+232|bana
+233|öyle
+234|bakıyorsunuz...?
+235|Yanılan ben değilim, hepiniz!
+236|Korekiyo
+237|doğruyu söylüyor.
+238|Ne acınası bir topluluk...
+239|Özür dile
+240|Özür dile
+241|Özür dile
+242|Özür dile
+243|Hadi ama...
+244|Özür dile
+245|özür dile
+246|özür dile
+247|özür dile
+248|özür dile.
+300|Bunu asla kabul etmeyeceğim!
+301|Sen
+302|Gonta'yı
+303|hiç mi
+304|tanımıyor
+305|musun!?
+306|Gonta
+307|birini
+308|öldürecek
+309|türden biri
+310|değil!
+311|Onu
+312|bu zamana kadar
+313|hiç mi
+314|tanımadın!?
+315|Neden
+316|Gonta'ya
+317|inanmıyorsun!?
+318|Neden
+319|Kokichi'yi
+320|dinliyorsun!?
+321|Sen
+322|benim
+323|yardımcım
+324|değil misin...?
+325|Uyan, Shuichi!
+326|Kime
+327|inanmak
+328|istiyorsun
+329|gerçekten
+330|söyle
+331|bakalım!?
+333|bize ne
+334|Kokichi'nin
+335|neler
+336|yaptığını
+337|unutma!
+339|ve
+340|Gonta'nın
+341|bizi hep
+342|korumaya
+343|çalıştığını!
+344|Gonta nasıl suçlu olabilir!?
+345|Hâlâ
+346|Gonta'yı
+347|suçlamak
+348|istiyorsun,
+349|ha?
+350|Durmadan
+351|gerçekten bahsedip
+352|gerçek şu,
+353|gerçek bu diyorsun
+354|ama...
+355|Bir sebebi var,
+356|Gonta suçlu değil!
+400|Kaito'yu
+401|ben öldürdüm!
+402|Yanılan
+403|kişi
+404|sensin
+405|asıl!
+406|O
+407|benim
+408|zehirli
+409|okum
+410|yüzünden
+411|öldü!
+412|Başka
+413|hiçbir
+414|ihtimal
+415|yok!
+417|Sen
+418|ne
+419|biliyorsun
+420|ki
+421|!?
+422|Ne dersen
+423|de fark
+424|etmez...
+425|Sana söylüyorum,
+426|gerçek
+427|bu...
+428|Ama sen
+429|yoluma çıkıp
+430|duruyorsun...
+431|Sen çok
+432|sinir bozucusun lan!
+433|Ben
+434|olay
+435|yerindeydim!
+436|Yani
+437|yanılmadığımı
+438|biliyorum!
+439|Özür dilerim
+440|şimdiye kadar
+441|sustuğum için...
+442|İnanmak
+443|istedim
+444|ki
+445|onu
+446|öldüren
+447|ben değilim
+449|Ama
+450|artık
+451|gerçekten
+452|kaç
+453|mayacağım
+454|asla
+455|daha!
+456|Çünkü ne gördüğümü biliyorum...
+500|Bu benim Danganronpa'm değil.
+501|Ben
+502|çok
+503|eski
+504|bir
+505|hayranım!
+506|Bu şova
+507|ne kadar
+508|emek verdiğimi
+509|biliyor
+510|musun!?
+511|Eğer mutlu
+512|bir son
+513|olmazsa
+514|fena
+515|sinirleneceğim!
+516|Of, bu
+517|tartışma
+518|iyice
+519|saçmalaşıyor.
+520|Böyle
+521|ters köşelerden
+522|hiç
+523|hoşlanmıyorum...
+524|Bu iş
+525|fazlasıyla
+526|meta oldu.
+527|Buraya
+528|lanet bir
+529|vaaz için gelmedim!
+530|Hey, şu
+531|küçük
+532|suikastçı hanımın
+533|cezası
+534|ne olacak!?
+535|Vaaz veren
+536|karakterler
+537|çok
+538|sinir
+539|bozucu...
+540|Of, ben
+541|dedektifi
+542|tutuyordum...
+543|Bu adam
+544|ölmeliydi
+545|onun
+546|yerine
+547|Kaede'nin
+548|değil!!!
+549|Ölüm karakterleri daha iyi yapar!
+550|Danganronpa'nın amacı ölüm!
+551|Umut mu umutsuzluk mu! Birini seç!
+552|Bu son berbat!
+553|Umut!
+554|Umutsuzluk!
+555|Umut!
+556|Umutsuzluk!
+557|Danganronpa
+558|gerçekten
+559|bitecek
+560|mi???
+561|Bunu
+562|birden
+563|böyle
+564|bitiremezsiniz!
+565|Ölseler
+566|ne olacak,
+567|zaten
+568|gerçek
+569|değiller.
+570|Hadi birbirinizi öldürün artık!
+571|Biz
+572|daha fazla
+573|ölüm oyunu istiyoruz!
+574|O tatlı
+575|sona ihtiyacım var!!!
+576|Eh,
+577|umarım
+578|başka bir
+579|sezon vardır...
+580|Bu şekilde
+581|bitmesine
+582|izin vermezler, değil mi?
+901|Güçlerimizi birleştirince,
+902|biz
+903|Monoyavrularız!
+904|Gya-hahahahaha!
+905|İyi geceler! Ayı-yi uykular!
+906|Görüşürüz, ayı-yi günler!
+907|Saldırı 18 (Aşama 6)
+908|Saldırı 19 (Aşama 6)
+909|Saldırı 20 (Aşama 6)

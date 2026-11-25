@@ -1,0 +1,53 @@
+@ chap1_text_US
+## c01_100_020
+185|<CLT=cltMIND>Bu kadar kısa sürede o kadar çok şey oldu ki\nhepsine yetişemedim...
+186|<CLT=cltMIND>Ama herkesi korumak için bu sınıf\nduruşmasına karşı savaşmam gerektiğini biliyorum!
+188|<CLT=cltMIND>Rantaro'yu son gördüğümde...sapasağlam\nhayattaydı...
+189|Rantaro...neden burada öldü?
+190|Ne demek...burada öldü?
+191|Yani kitaplığı oynatan kişi Rantaro\nidiyse...
+192|Bu, kitaplık açıldıktan sonra ta buraya\nkadar geldiği anlamına gelir.
+193|Gizli kapıdan *uzaklaşıp*...bu noktaya geldi.\nBunu neden yapsın ki...?
+194|Ve cesedinin taşındığına dair bir iz de\nyok. Bu...mantıklı değil.
+196|Ah, iyi misin?\nBembeyaz oldun...
+197|...Gerçi sanırım bu normal.\nSonuçta bir cesedi incelememiz gerekiyor...
+198|Biraz önce hayatta olan ve bizimle\nkonuşan birinin cesedini...
+199|S-Sorun değil, gerçekten...\nSadece elimizden geleni yapmalıyız.
+200|Sadece Rantaro'nun hatırı için değil...\nonun intikamını alabilmek için de...
+201|Ve...diğer herkesi koruyabilmek için.
+202|Bütün bunları yöneten beyni\nyenmeliyiz.
+203|Şey, Kaede...sana elimden geldiğince yardım\nedeceğim. Bu soruşturmada seni destekleyeceğim.
+204|Sonuçta ben...bir nevi dedektifim.
+205|Bir nevi mi? Sen *bir* dedektifsin, hatırladın mı?
+206|Ah, doğru...
+207|Rantaro kitaplığı açtı ama gizli kapıdan\n*uzaklaşıp*...bu noktaya geldi.
+208|Bunu neden yapsın?
+209|Ve cesedinin taşındığına dair bir iz de yok.
+210|Bu...mantıklı değil.\nRantaro neden burada öldü?
+216|<CLT=cltMIND>Bu ekran, süre sınırının durmuş geri\nsayımını gösteriyor...
+217|<CLT=cltMIND>Geri sayım durunca o sinir bozucu ses\nde kesildi.
+219|<CLT=cltMIND>Yerde kanlı bir gülle var.
+220|Bu gülle... Yoksa...?
+221|Evet, kesinlikle <CLT=cltSTRONG>1. kattaki depodan\ngeliyor<CLT=cltNORMAL>.
+222|Her tarafı kan içinde...
+223|Cinayet silahı bu, değil mi? Kullanılabilecek\nbaşka bir şey göremiyorum.
+224|Gülle ağır... Silah olarak kullanmak için\nepey güçlü olmak gerekir.
+225|<CLT=cltMIND>Epey güçlü, ha?
+226|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kanlı Gülle<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+227|<CLT=cltMIND>Yerde kanlı bir gülle var. 1. kattaki\ndepodan geliyor.
+228|<CLT=cltMIND>Kana bulanmış... Bunun cinayet silahı\nolduğuna hiç şüphe yok.
+229|Şey...cesedi incelememiz gerektiğini biliyorum\nama nereden başlayacağımı bilmiyorum.
+230|...Sorun değil. Ben...yapabilirim.
+231|<CLT=cltMIND>Shuichi hiç tereddüt etmeden Rantaro'nun\ncesedini incelemeye başladı.
+232|Başının arkasında kan var.\nEpey derin bir yara gibi görünüyor.
+233|Künt bir darbeyle uyumlu.
+234|Başka yara göremiyorum... Monokuma Dosyası\ndoğru. Ölümcül yara bu olmalı.
+235|Yani...Monokuma Dosyası'na güvenebilir miyiz?
+236|Evet...şimdilik...
+237|<CLT=cltMIND>Sonra Shuichi elini Rantaro'nun cebine\nsoktu.
+238|Dur! Ne yapıyorsun!?
+239|Üzerinde ne olduğunu kontrol ediyorum.\nBir ipucu olabilir.
+240|Bunu yapacaksak titiz olmalıyız. Sonuçta seni\ndestekleyeceğimi söylemiştim...
+241|N-N-Nasıl bunu bu kadar...\nk-kendinden emin söyleyebiliyorsun?
+242|<CLT=cltMIND>Hadi, Kaede... Kendini topla.
+243|Rantaro'nun üzerinde odasının anahtarı ve\nöğrenci el kitabı Monopad'i vardı.

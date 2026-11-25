@@ -1,0 +1,61 @@
+@ chap0_text_US
+## c00_007_004
+7|<CLT=cltSYSTEM>*güm!*
+9|Ne oldu?
+10|Bu kapı ancak aralık açılıyor.\nKötü mü yapılmış?
+11|Eh, yapabileceğimiz bir şey yok.\nBaşka bir yere bakalım.
+12|Bu kapı ancak aralık açılıyor.\nKötü mü yapılmış?
+13|Havalandırma Deliği
+## c00_007_010
+0|<CLT=cltMIND>Burası...bir yemekhane mi?
+1|<CLT=cltMIND>Yemekhane burayı kesinlikle daha çok\nokula benzetiyor...
+2|<CLT=cltMIND>Ama buranın adı Yetenekli Gençler için\nUltimate Akademisi...
+3|<CLT=cltMIND>Sıradan bir okula benzediğini sanmıyorum.
+4|Görünüşe göre burada beklenen bütün tesisler\r\nvar ama...her yeri bitki sarmış.
+5|Bu...burasının uzun zamandır terk\nedilmiş olduğu anlamına mı geliyor?
+6|Nyeeeh... Yani burada mahsur mu kaldık?
+7|Evet...öyle görünüyor...
+8|Ama korkma, eminim buradan göz açıp\nkapayıncaya kadar çıkarız!
+9|Ben...korkmuyorum.\nSadece çok zahmetli.
+10|Böyle bir şey beni paniğe sokmaz.\nÇünkü...ben bir büyücüyüm.
+11|Büyücü mü?
+12|Hm...doğru. Size henüz söylemedim.
+13|Hayran olmaya hazırlanın. Diz çökün.\nBen Himiko Yumeno, <CLT=cltSTRONG>Ultimate Büyücü<CLT=cltNORMAL>.
+17|Ama...resmi olarak bana \n<CLT=cltSTRONG>Ultimate Sihirbaz<CLT=cltNORMAL> deniyor.
+18|Ohh, demek sihirbazsın.\nBaşından öyle söyleseydin ya.
+19|Yani, aslında mantıklı.\nSonuçta büyü diye bir şey yok.
+21|Nyeeeh...büyü vardır.
+23|Çünkü...ben bir büyücüyüm.
+24|Sen sadece bir sihirbazsın, değil mi?
+25|Sadece kâğıt üstünde...
+26|Sihirbaz olarak bilinirim ama bu sadece bir\nkılıf. Aslında ben...bir büyücüyüm.
+27|S-Sadece bir kılıf mı...?
+28|Belki bilmezsiniz ama...\n<CLT=cltSTRONG>Sihir Şatosu<CLT=cltNORMAL> diye bir topluluk var.
+29|<CLT=cltSTRONG>Sihirbazlar Salonu<CLT=cltNORMAL> olarak da bilinir, dünyanın\ndört bir yanından sihir sevenler orada toplanır.
+30|Onların <CLT=cltSTRONG>Yılın Sihirbazı<CLT=cltNORMAL> ödülünü kazanan \nen genç kişi bendim.
+31|Bu epey havalı.
+32|Hepsi bir kılıf.
+33|Büyümü numara kılığına sokarak\ngizli tutuyorlar.
+34|Bu kılıf yüzünden numaralarımla \nbütün dünyada ünlendim.
+35|Ama...*burnunu çeker*...ben sihirbaz değilim...\nBen büyücüyüm... Kimse bana inanmıyor...
+36|Hadi, hadi, üzülme...
+37|Ş-Şey, bize büyünü gösterebilirsin.\nO zaman sana inanırız...
+38|Ah, doğru ya!\nBüyünle bize yardım et!
+39|Bizi en başta olduğumuz yere\ngeri götür—
+40|Büyü her şeye kadir değildir...\nYapabileceklerimin bir sınırı var.
+41|A-Anlıyorum...\nO zaman...neler yapabiliyorsun?
+42|Seçtiğin kartı bulabilirim, \nbozuk para çıkarabilirim, güvercin uçurabilirim.
+43|Nyeeeh... Ciddileşirsem birini \nikiye bile kesebilirim.
+44|<CLT=cltMIND>Bunlar sıradan sihirbazlık numaraları!
+45|<CLT=cltSYSTEM>Himiko'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+46|Nyeeeh... Bu çok zahmetli...\nBiri benim yerime çıkışı bulsun artık...
+47|<CLT=cltMIND>Demek kendisi bulmaya çalışmak istemiyor...
+48|HAAAAYAAAAAAAHHH!!!!!
+49|H-Ha?
+50|Ruh enerjimi toplamak için bağırıyorum!
+51|Ruh enerjisi toplamak için bağırarak beyninin tüm\npotansiyelini açabileceğini bilmiyor musun!?
+52|Ah, profesyonel sporcuların bunu yaptığını\nduymuştum. Odaklanmaya yardım ediyormuş...
+53|Biri bana saldırmaya kalkar diye her an\ndövüşe hazırlıklı olmalıyım!
+54|Kendimi <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> ile koruyacağım!
+55|Aikido mu...? O zaman sen—
+56|Ah, evet! Ben Tenko Chabashira!\nHAYAH! <CLT=cltSTRONG>Ultimate Aikido Ustası<CLT=cltNORMAL>!

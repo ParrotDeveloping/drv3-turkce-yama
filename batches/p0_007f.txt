@@ -1,0 +1,63 @@
+@ chap0_text_US
+## c00_007_015
+25|N-Ne halt...bana neden kızıyorsun\nki?
+26|B-Bütün dünyaya özür dile!
+27|Beni korkutup motivasyonumu kaçırırsan bu\nkaybı bütün dünya hisseder!
+28|Hey, bu kaba dilin hiç gereği yok!\nHem sen kimsin ki?
+29|Ha? C-Cidden mi?\nBenim kim olduğumu...bilmiyor musun?
+30|Güzelliği ve altın beyniyle tarihe geçecek\nolan muhteşem dahi kız benim!
+31|Tek ve eşsiz, efsanevi\n<CLT=cltSTRONG>Ultimate Mucit<CLT=cltNORMAL>—<CLT=cltSTRONG>Miu Iruma<CLT=cltNORMAL>!
+32|<CLT=cltMIND>Şey... Adını hiç duymadım.
+33|Peki...ne tür şeyler icat ediyorsun?
+34|Her türlü alet yapıyorum—uyurken yazı\nyazmanı, uyurken kitap okumanı sağlayanlar...
+35|Hatta uyurken yemek yemeni sağlayanlar bile.
+36|Neden hepsi uyumakla ilgili?
+37|İnsanların uykuya ne kadar zaman harcadığını\nfark edince ilham aldım.
+38|Gerçi bir keresinde şaka olsun diye çok\naptalca göz damlası lensler icat etmiştim.
+39|Dur, gerçekten mi? O senin icadın mı?\nBazı arkadaşlarım onları kullanıyor!
+40|Pöh! Arkadaşların tam bir avam gibi!\nO icat hiçbir şeydi!
+41|Uyurken seni daha üretken yapmıyor, yani\nbaşarısızdı! Tıpkı ikiniz gibi!
+42|Patent haklarını bir şirkete devrettim\nve bir daha dönüp bakmadım.
+43|<CLT=cltMIND>Bu çok yazık... Uyurken bir şeyler yaptıran\nicatlarından çok daha iyi...
+44|Bu arada, az önce ne arıyordun?\nBulmak için epey çaresiz gibiydin.
+45|Ha? Salak mısın? Böyle bir durumda\nilaç bulmam lazım!
+46|İlaç mı? Yaralandın mı ya da hasta mısın?
+47|Hayır, aptal! Kafayı fena halde bulmak için\ngüçlü ilaçlara ihtiyacım var!
+48|*iç çeker*... Sadece zihnimi özgür bırakıp bu\nboktan durumu tamamen unutmak istiyorum!
+49|Dur... Neeeeee!? Kafa bulmak için uyuşturucu\nkullanamazsın! Kesinlikle bunu yapmamalısın!
+50|Hiiii!
+51|N-Ne halt...? Benim dehamı sıradan\ninsanların aklı sınırlayamaz...
+52|Hem...burada muhtemelen kafa bulmam için\ngereken boklar bile yoktur...
+53|Ş-Şey...aramız iyi mi...?\nBana kızgınlığın...geçti mi?
+54|<CLT=cltMIND>Dahilikle delilik arasında ince bir çizgi\nvardır derler ama o...kesinlikle delinin de ötesinde.
+55|<CLT=cltSYSTEM>Miu'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+57|<CLT=cltMIND>Shuichi'ye ne oldu?
+58|<CLT=cltMIND>Miu şapkasından bahsettiğinden beri sessiz...\nBundan bahsetmekten hoşlanmıyor mu?
+59|Ha!? Beni rahat bırakın!\nMeşgulüm!
+60|<CLT=cltMIND>Acaba o da mı <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci?\nOna sormalıyım.
+65|<CLT=cltMIND>Acaba o da mı <CLT=cltSTRONG>Ultimate<CLT=cltMIND> bir öğrenci?\nOna sormalıyım.
+66|<CLT=cltMIND>Bu bir sensör mü...?\nBu makine karmaşık görünüyor.
+67|<CLT=cltMIND>Demek depoya da bir ekran kurulmuş.
+68|<CLT=cltMIND>Atletizm için gülle mi?\nBurada bir stadyum bile var mı?
+69|<CLT=cltMIND>Uzaktan kumandalı bir helikopter...\nOkul deposunda ne işi var?
+70|<CLT=cltMIND>Bu...atletizmde kullanılan bir\nyüksek atlama sırığına benziyor...
+71|<CLT=cltMIND>Burada böyle profesyonel ekipman\ngöreceğimi hiç beklemiyordum.
+72|<CLT=cltMIND>Bu minderler epey ağır. Bunları spor salonuna\ntaşımak çok zahmetli olsa gerek.
+73|<CLT=cltMIND>Engeller de var. Bu ekipmanlarla kendi\natletizm yarışmamızı düzenleyebiliriz.
+74|<CLT=cltMIND>Tek kullanımlık fotoğraf makineleri mi?\nBunların hâlâ üretildiğini bilmiyordum...
+75|<CLT=cltMIND>Fotoğraf banyo solüsyonu mu?\nBurada başka kimyasallar da var.
+## c00_007_016
+0|Tuvaletler normal görünüyor... Ama bitkilerin\nbu kadar gür yetişmesi tuhaf...
+## c00_007_017
+0|Heeey! Beni bekleee!
+1|Lütfen dur!\nDaha fazla yaklaşma!
+2|<CLT=cltMIND>Beyazlı çocuk, tuhaf kıyafetli diğer\nçocuğu kovalıyor...
+3|<CLT=cltMIND>Burada neler oluyor?
+4|Görünüşe göre beyazlı çocuk birini\nkovalıyor...
+5|Gerçi o kovalanmak istiyor gibi\ngörünmüyor... Onu durduralım mı?
+6|10.000'den fazla üyesi olan kötü,\ngizli bir örgüt mü...?
+7|Yalan.\nBence bunu kafana takmamalısın.
+9|Hadiii! Bekle!
+10|Vücuduna biraz dokunayım! Hep bir\nrobotla arkadaş olmak istemişimdir!
+11|Ne? Robot mu!?
+12|...Ne var?\nSen de mi robot düşmanısın?

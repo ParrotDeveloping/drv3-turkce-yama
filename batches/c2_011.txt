@@ -1,0 +1,58 @@
+@ chap2_text_US
+## c02_003_002
+56|<CLT=cltMIND>Onun dininde...puan sistemi mi var?
+58|Shuichi, seni bekliyorduk!\nÇabuk, çabuk! Hepimiz hazırız!
+59|<CLT=cltMIND>Çabuk mu? Ne için çabuk?
+60|Hadi, bulmacayı çözmeyi dene! Kendinle oynamakta\napaçık bir profesyonelsin!
+61|Oğlan kızlığını bozdun mu, bakir!?\nŞu an yürümek nasıl hissettiriyor!?
+64|<CLT=cltMIND>Keşke Kaede'nin bu sınıfta piyano\nçalışını dinleyebilseydim...
+65|<CLT=cltMIND>Bu kapının görünüşüne bakılırsa...\nBurası bir <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltMIND> olmalı.
+66|Pekala, içeri girelim.
+67|<CLT=cltMIND>İşte bu tuhaf bir kapı...\nBurası bir <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltMIND> olabilir.
+68|Tasarıma bakılırsa\n<CLT=cltSTRONG>Ultimate Entomolog'un Laboratuvarı<CLT=cltNORMAL> olabilir mi?
+69|<CLT=cltMIND>Merdivenler... Görünüşe göre buradan\n3. kata çıkabilirim.
+70|Biraz korkutucular...ama deneyeceğim.
+71|Duvarın bir kısmı yok olmuş!
+72|Vay, bu çok havalı! Artık bu duvarı geçebiliriz!\nPekala o zaman, hücuuuum!
+73|D-Dur! Hücum etmek tehlikeli!
+75|...Kirumi, ne oldu?
+76|Bir şey yok ama bu hasarlı duvardan durgun bir\nhava süzülüyormuş gibi hissediyorum...
+78|Uzun zamandır kimse burada bulunmadı mı?
+79|<CLT=cltMIND>Bu <CLT=cltSTRONG>uzun zaman<CLT=cltMIND> tam olarak\nne kadar?
+80|<CLT=cltMIND>Bu ne...? Hazine sandığı mı?
+81|Yaşasın! Bir hazine sandığı bulduk!\nNeden sen açmıyorsun, Shuichi?
+82|...Gerçekten mi? Ben mi açmalıyım?
+83|Bence bu hazine sandığı senin açman gerektiğini\nsöylüyor, Shuichi!
+84|<CLT=cltMIND>Tehlikeli olduğunu düşündüğü için *benim*\naçmamı istiyormuş gibi bir his var içimde.
+85|...Pekala, tamam.
+86|<CLT=cltMIND>Terli avuçlarla sandığı dikkatlice\naçtım ve...
+87|Bu ne...? Fener mi?\nHayır, sadece bir fener olamaz...
+88|Belki açmayı denesen?
+89|Hayır, bu çok tehlikeli.\nÖnce incelemeliyiz—
+90|Hm? Bir şey olmaz. Fener bile "Aç beni!"\ndiyor.
+91|"Aç beni!" "Acele et de aç beni, Shuichi!"\nSana yalvarıyor.
+92|Ah, b-bu kadar hevesliysen düğmeye neden\n*sen* basmıyorsun, Angie?
+94|O zaman seninle orta yolda buluşup bu feneri\nkendim inceleyeceğim.
+95|*Bu* mu orta yolda buluşmak?\nVe onu nasıl inceleyeceksin?
+97|Haklısın. Böyle zamanlarda sadece\ndalmalıyız!
+98|<CLT=cltMIND>Angie feneri elimden kaptı.
+99|Spor salonunda buluşalım, Shuichi! Ben\ndiğerlerini çağırırım, sen hemen gel!
+100|Ne?\nNeden spor salonunda buluşuyoruz?
+101|Varınca anlarsın!\nGüle-güleee!
+102|...Ve işte gidiyor...
+103|<CLT=cltMIND>Ne planladığını bilmiyorum...\nama dediğini yapsam iyi olur.
+104|Orta yolda buluşmak, ha?
+105|Anlayınca gelip sana öğreteceğim!\nGüle-güleee!
+106|<CLT=cltMIND>Angie feneri elimden kaptı ve hoplaya\nzıplaya koşarak gitti.
+107|Dur, incelemek mi? Nasıl!?
+108|<CLT=cltMIND>Hazine sandığı boş.\nİçindeki tek şey o fenerdi.
+## c02_003_003
+0|Bir kızı üzecek şeyler yapmak iyi değil,\nbiliyor musun?
+1|Ama yine de bizi içeri almaması seni rahatsız\netmiyor mu? Acaba neden...
+2|...Ne? Şimdi bana bağıracak mısın?
+3|Ah, hayır, hiç de değil...
+4|...O zaman git başımdan.
+5|<CLT=cltMIND>Bu kapının görünüşüne bakılırsa...\nBurası bir <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltMIND> olmalı.
+6|Tasarıma bakılırsa burası\n<CLT=cltSTRONG>Ultimate Tenisçi<CLT=cltNORMAL>'nin laboratuvarı olabilir.
+7|<CLT=cltMIND>İçeride ne olabilir?\nMuhtemelen raketler ve antrenman malzemeleri.
+8|Kaito Momota'nın Laboratuvarı

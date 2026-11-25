@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "What's wrong? Did you need something \nfrom me?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I hang out with Tsumugi for a while?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Ah, sure. I don't really have anything \nto do anyway.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Well, since we've got this opportunity...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Why don't you show me your research \nlab, Shuichi? I heard it was pretty nice.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I spent some time with Tsumugi\nin my lab.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Tsumugi and I grew a little closer today.",
+  "tr": ""
+ }
+]

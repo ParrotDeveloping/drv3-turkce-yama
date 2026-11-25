@@ -1,0 +1,927 @@
+[
+ {
+  "id": 0,
+  "en": "I don't think Himiko used the crossbow.\nMore accurately...she <CLT=cltSTRONG>couldn't use it<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Couldn't use it? Why not?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "The crossbow inside this case was <CLT=cltSTRONG>disassembled<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Kaito and I learned how to assemble the\ncrossbow from Maki, so we could have done it.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "But I don't believe someone without the\nproper training could have assembled it.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Well...what if Maki taught Himiko how \nto assemble the crossbow?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Sh-She didn't teach me that!\nRight, Maki!?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Wh-What's wrong?\nAre you...mad about before?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "S-Sorry...I thought they were gonna\nsuspect me, so...I lied.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I really have to question your morals if\nyou're blaming Maki for your lie, Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I don't think you're allowed to\nsay something like that...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I'm sorry, Maki...\nPlease...can you tell them the truth?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Fine... I'm not going to lie.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I didn't teach Himiko how to assemble the\ncrossbow. She couldn't have used it.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "See! I told you!\nIt's just like I said!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Everyone who suspected me\nneeds to apologize right now!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "She changed back so fast...\nI think I might have whiplash now...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Then...why did you bring the crossbow\nto the hangar, Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I...was asked to.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Asked to...?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>Perhaps the person\nwho asked was...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Kokichi Oma",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "It was Kokichi, right?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "What!? Like I'd ever do \nsomething Kokichi asked me!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Kokichi doesn't even know how\nto assemble the crossbow, right?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Kaito Momota",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Maki Harukawa",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "It was Maki, right?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Huh? Why would I ask for such a thing?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Keebo",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "It was Keebo, right?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Huh...? I only saw her carrying it...\nI never asked her to carry it.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Keebo wouldn't be able to build it,\nso I think that's not right...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I was just asked to...\nI'm telling the truth...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Please, Shuichi...\nCan you explain it to everyone?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>The person who asked Himiko\nto bring the crossbow...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Was it...<CLT=cltSTRONG>Kaito<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Huh? Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Only Kaito or Kokichi would have asked\nfor a crossbow to be brought to the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Because Kaito knows how to assemble the\ncrossbow, he certainly could have used it.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Knowing that...I can't imagine that\nanyone else would have asked Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "I do not think she would bring it at Kokichi's\nrequest...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Of course not!\nWhy would I ever listen to Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Cuz I know you like meeee.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Nuh-uh! I hate you!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "But I like you.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Nyeh!?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Hey! Don't play with Himiko's heart!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>But to think that Kaito\nasked Himiko to do that...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>Maybe Kaito is trying to keep the\npromise we made yesterday...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Don't you worry!\nI'll do something about all this!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "That's a promise!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "All you guys are working so hard,\nso I can't just sit back and relax!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "But why were you keeping that\na secret, Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Well, Kaito...sorta asked me to keep\nit a secret...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Then Kaito died and...I got scared.\nI thought I was gonna be next.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "You're the worst for trying to pin the\nblame on Maki just for that reason!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Maki, teach this dumb monkey the \ntrue terror of human beings!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Don't bully the person you like!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "This is way beyond bullying a \ngrade school crush...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Himiko, when exactly did Kaito ask you\nto do this?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Ummm... I think it was around\nevening yesterday.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I was so nervous about fighting\nKokichi, I couldn't get to sleep...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "So I took a walk near the hangar, and\nthat's when Kaito called out to me.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I got startled, and wet myself a little, \nand then he asked me to get him a crossbow.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Umm...that one part was, uh...\nYou know what? Never mind.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "So if Kaito asked for a crossbow, does \nthat mean he was going to kill Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "No, he said it was to disable Kokichi.\nI wouldn't have helped him otherwise.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "I trusted Kaito and took a crossbow\nfrom Maki's lab.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "That's when I witnessed Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "But then what did Kaito do\nafter he had the crossbow?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "I dunno. I just handed him the crossbow\nthen went right back to the dorms.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Presumably, Kaito tried to attack Kokichi,\nonly to be disarmed of the crossbow...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "and then, Kokichi returned fire and shot Kaito.\nThat sequence of events seems logical.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "No, it happened a little differently.\nBoth Kaito and Kokichi shot the crossbow.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>And there's proof of that...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": ")",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Maybe the bloodstain was Kokichi's...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "We can't tell whose blood is whose.\nNone of us can do forensics stuff.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Maybe if we could've seen some\nwounds, we could make a guess...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": ")",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "After Kaito shot the crossbow, Kokichi\ntook it from him and shot back...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "That's purely speculation.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "We could confirm it if Kokichi showed himself.\nBut since he won't come out of the Exisal...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": ")",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "There were three arrows in the bathroom,\nperhaps Kaito shot one of them...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "However, it is also possible that Kokichi\nshot all three arrows.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Without a body to check for injuries, the\nnumber of arrows doesn't really help us...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Well? Weren't you going\nto say something?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "I don't think that's a proper justification for\nclaiming that Kaito shot the crossbow...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Kaito's clothes had an arrow hole, so it's more\nplausible to think that Kokichi shot him.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "What evidence shows that Kaito shot\nKokichi with the crossbow?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Remember that when we found Kokichi's clothes,\nthere were <CLT=cltSTRONG>holes<CLT=cltNORMAL> in the back and sleeve.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "The same kind of hole that was found\non Kaito's coat.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "So Kokichi was shot by the crossbow, too?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Then it was Kaito who shot him, right?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Hmmm, I'm not suuure.\nI don't remember anything like thaaat.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "You don't remember whether\nor not you were shot...?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "There is no doubt that they shot each other\nwith the crossbow, but—",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "It doesn't matter.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "It doesn't matter what happened in between.\nIn the end, Kokichi killed Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>Maki's been acting\nstrangely...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>But why?\nDoes she know something?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>If so...what does she know?",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Maybe Maki's right. It doesn't matter\nwhat happened in the middle.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Cuz in the end, there's no mistake\nthat Kokichi killed Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Then, let's hurry up and vote—",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "No, it's too soon. There are still mysteries—",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Who cares about that? We already know\nwho the culprit is.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "You sure about that?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "What? Now he's joining in?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "As the one running this trial, it bothers me\nwhen anyone says mysteries don't matter.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "It affects the overall entertainment value, so I\nencourage you to reaaaally think about things.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "After all, there should be some mysteries\nthat still matter...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "For example, <CLT=cltSTRONG>is Kokichi really inside that\nExisal<CLT=cltNORMAL>? Stuff like that...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "What are you saying? We already \nfinished that discussion awhile ago.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Kokichi's gotta still be alive, since\nthe killing game's still going.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "His voice is even coming from \nthe Exisal and everything.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "But we heard it speak in Kaito's voice\nearlier, didn't we?",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Yeah, don't rely on that. After all,\nthis Exisal has a voice changer.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "<CLT=cltMIND>...It what?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Hah! Cuz of that, nobody realizes\nI'm pretending to be Kokichi!",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "But no more!\nSorry for the wait, guys!",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "The Luminary of the Stars has arrived! \nThis time for real!",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Wh-What? What's going on?",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "I told you, I'm Kaito. I was just \npretending to be Kokichi is all.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "There's a bit of a situation going\non, so I didn't really have a choice...",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Sorry about tricking you guys\nlike that. My bad!",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Huh? So Kaito's in there after all!?",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "...Don't be stupid. How many times\nare you going to be tricked by him?",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "That's Kokichi pretending to be Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Hey now, Maki Roll.\nDon't you believe me?",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Don't...*ever*...call me that!",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Whoa there! Chill!\nYou really think I'm Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "I mean, I guess I understand. Sorry I can't\nreally get outta this thing right now.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Why not?",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "I can't move cuz of the injury I got\nfrom Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "It's so bad, I can't even stand.\nThat's why I'm in this Exisal.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "I-Is that so...?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "But if you guys don't believe me,\nthen we can't move on...",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "So, you're up, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "What!? Me!?",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Explain to everyone how I wasn't\nthe one that died!",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "<CLT=cltMIND>Kaito is alive after all...",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "<CLT=cltMIND>No...maybe...that's just what I\nwant to believe. Is it really true?",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "<CLT=cltMIND>What story does the evidence tell?",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "<CLT=cltMIND>Does that story end with Kaito\nor Kokichi being the victim?",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "<CLT=cltMIND>I need to give a well-reasoned\nanswer to that question, and soon.",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "<CLT=cltMIND>...I can't look away from the truth.",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "Kokichi Oma",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "<CLT=cltMIND>Most of the evidence we have now...\nshows that Kaito is the victim!",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Hm? What's the matter, Shuichi?\nYou just gotta say it with confidence!",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "<CLT=cltMIND>I can't look away from the truth!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "Kaito Momota",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "Hm? What's the matter, Shuichi?\nYou just gotta say it with confidence!",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "<CLT=cltMIND>I can't look away from the truth!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "<CLT=cltMIND>The victim of this case is...",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "<CLT=cltMIND>I'm trying, I really am, but I can't\nthink of anyone other than Kaito...",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "<CLT=cltMIND>Most of the evidence we have\npoints to Kaito...",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "Hey, what's the matter, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "Just hurry up and tell everyone\nwhy I'm not dead! Should be easy!",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "No...I won't. Because you're not Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "Kaito is already dead!",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "Puhuhuhu! Good, good! This is already\nmore entertaining!",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "Now, the Ultimate Academy is proud to present\nits very own <CLT=cltSTRONG>morphenomenal trial grounds<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "Alright! Let's give it everything we've got!",
+  "tr": ""
+ }
+]

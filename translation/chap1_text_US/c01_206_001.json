@@ -1,0 +1,67 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=size2>I'm<CLT=size1> not even",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "a little bit <CLT=size2>suspicious.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I'm not even a little bit suspicious.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "What about\n<CLT=size1>the <CLT=size2>guy\n<CLT=size1>who wanted\nus all in the\n<CLT=size2>basement?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "What about the guy who wanted \nus all in the basement?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "What!? \nAre you talking\nabout <CLT=size2>me!?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "What!?\nAre you talking about me!?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "We were having\na <CLT=size2>strategy\nmeeting<CLT=size1>\ntogether,\nremember!?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "We were having a strategy meeting together, remember!?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=size2><CLT=cltWEAK>Rantaro's\n<CLT=cltNORMAL><CLT=size1>the only one who left\nin the middle of it...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Rantaro's the one who left in the middle of it...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=size2>None of us<CLT=size1> there\ncoulda killed him!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "None of us there\ncoulda killed him!",
+  "tr": ""
+ }
+]

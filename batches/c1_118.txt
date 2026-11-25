@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_301_330
+1|<CLT=cltMIND>Bittiği anda bacaklarımın altımdan\nçekildiğini hissettim.
+2|<CLT=cltMIND>Az önce gördüğüm şey...\ngerçek gibi gelmedi.
+3|<CLT=cltMIND>Sanki bütün gerçeklik yok olmuş ve geriye\nsadece kurgusal bir dünya kalmıştı.
+4|<CLT=cltMIND>Gerçek olsun olmasın...\nKaede gitmişti.
+5|<CLT=cltMIND>Kaede Akamatsu...\nartık dünyamızda yoktu.
+6|Ha? Bu da ne...?\nN-Neden Monokid...?
+7|M-Monodam?\nNe...yaptın...?
+8|...BLRBLRBLRBLRBLRB!
+9|Ah, iğrenç! Yine kustu!
+10|Ama bu gerginlik o kadar da kötü değil, biliyor musun?\nSonunda düzgün bir ölüm oyunu gibi hissettiriyor.
+11|Hatta hayatımızda biraz daha gerginliğe\nihtiyacımız var. Değil mi, baba?
+12|Hayııır! Tatlı, sevgili Monokid'im...\nKazara gelen hasarın kurbanı oldu!
+13|Bu bir kâbus... Bu kabul edilemez...\nDeğerli yavrum...
+14|...Bir daha düşündüm de, sanırım sorun yok.\nSonuçta hâlâ dört yavrum daha var!
+15|Oh be! Toptan geldiğinize sevindim, çocuklar.
+16|...Ha? Sorun yok mu?
+17|Ş-Şoktayım... Varlığımızın...bu kadar az\nönemi mi var, ha?
+18|Olan oldu, ölen öldü.\nEzilen yavrular için ağlamanın anlamı yok...
+19|...Tabii bu zavallılar gibi sonunuzun\nolmasını istemiyorsanız.
+20|Ne...!\nBu da...ne böyle...!?
+21|D-Dalga mı...geçiyorsun...lan!?\nBu ne biçim aşırılık...!
+22|Atua... Lütfen Kaede'nin ruhuna\nebedi huzur ver.
+23|B-Ben...bunun Kaede'nin başına geldiğine inanamıyorum...\nOnu...ç-çok...s-s-seviyordum...!
+24|VAAAAAAAAAAAHHHHHHHHH!!!!!\nKAAAAEEEEEEEDDDEEEEEEEEEE!!!!!
+25|Puhuhu! Bütün bu adrenalin öyle enfes bir\n<CLT=cltSTRONG>umutsuzluk hissi<CLT=cltNORMAL> yaratıyor ki!
+26|Bütün cinayetleri değerli kılan işte\nböyle anlar!
+27|N-Neden...böyle korkunç bir\nşey yapıyorsun...?
+28|Kötülerin en kötüsüsün! İnsan hayatının\nsenin için hiç mi değeri yok!?
+29|Hey, insan hayatının değerli olduğunu biliyorum.\nCanavar değilim ki.
+30|Çünkü insan hayatı değerli olmasaydı ona son\nvermek bu kadar eğlenceli olmazdı!
+31|Böyle bir <CLT=cltSTRONG>umutsuzluk eğlencesi<CLT=cltNORMAL> gösterisine\ntanık olmaktan daha büyük bir zevk yok!
+32|Kehehe... Psikopatlığı fersah fersah\naşmışsın.
+33|...Daha önce hiç bu kadar...sinirlendiğimi\nsanmıyorum.
+34|B-Bunun için seni affetmeyeceğim!\nAnladın mı!? Seni asla affetmeyeceğim!
+35|Tam da ölüme mahkûm birinin söyleyeceği gibi!
+36|Amacın ne, Monokuma?
+37|...Bizden nefret mi ediyorsun? Öyleyse senin\nnefret etmeni sağlayacak bir şey mi yaptık?
+38|...Sizden nefret mi?
+39|Puhuhu... Kim bilir?
+40|Bunu çözmek senin işin.
+41|Neler olduğunu gerçekten bilmek istiyorsan\nbunun için çabalaman gerekecek.
+42|...Gerçi eskiden Rantaro olarak bilinen ceset\nbir şeylerden şüphelenmiş olabilir.
+44|Ne demek istiyorsun?\nRantaro neyden şüpheleniyordu?
+45|Puhuhu... Gerçekten de ne?
+46|Bu oyunu bitireceğini söylemişti ve\ngizli kapıyı da biliyordu...
+47|Bunun olduğunu iddia ettiğin bu <CLT=cltSTRONG>şüpheyle<CLT=cltNORMAL>\nbir ilgisi olabilir mi?
+48|Puhuhu... Acaba...
+49|Hey! Bahsettiğin bu <CLT=cltSTRONG>şüphe<CLT=cltNORMAL> de ne halt!?\nKus şunu!
+50|Puhuhu... Acaba...
+51|Bize söylemeye niyetin yoksa...o zaman\nçeneni kapalı tut.
+52|Ölü ağırlık kurbanı yerine Kaede'ye\nodaklanıyorsunuz.
+53|Eh, işe yaramaz olması onun suçu değil.\n<CLT=cltSTRONG>Yeteneği<CLT=cltNORMAL> ortaya çıkmadan öldü.
+54|Onu ortaya çıkaracak kadar uzun yaşasaydı\nbelki daha işe yarar olurdu...
+55|Neyse! Öldü ve bu kadar!\nİşte <CLT=cltSTRONG>ölümün<CLT=cltNORMAL> umursamazlığı!
+56|O...gerçekten beyin değildi, değil mi?

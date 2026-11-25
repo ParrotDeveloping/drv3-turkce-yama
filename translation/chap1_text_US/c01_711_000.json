@@ -1,0 +1,77 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Process giving Tenko a present.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Would you like to give Tenko a present?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "10",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "-10",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>Present selection dummy",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Tenko Chabashira's affection level UP",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Tenko Chabashira's affection level DOWN",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Okay, I won't give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "No, I want to give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Tenko a present?",
+  "tr": ""
+ }
+]

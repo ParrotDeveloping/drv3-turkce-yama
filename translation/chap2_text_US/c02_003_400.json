@@ -1,0 +1,32 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>At the Love Hotel, your dreams are reality...\nYou may even see your lover in a new light.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSYSTEM>But you may need something to unlock\ntheir heart... Why not search for it?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ }
+]

@@ -1,0 +1,1362 @@
+[
+ {
+  "id": 0,
+  "en": "No, I think Kirumi is telling the truth.\nKokichi's story proves it.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Right when I got to the entrance hall,\nKirumi spotted me.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "That was right after I left Gonta's lab...\nso it was right around 9 p.m.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "She started throwing questions at me left\nand right, asking if I was up to no good.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "She just kept talking...then finally let me go\nat 10:00 p.m., when nighttime rolled around.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...A whole hour?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Well, only the first half hour was a lecture,\nthen we played tag for the other half.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Kokichi met Kirumi at 9 p.m., and they\nwere together until nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Gonta went to the gym to catch Himiko \nand Angie five minutes before 9 o'clock.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "After I left Gonta's lab, I ran into Kirumi.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I'm pretty sure Kirumi stayed at the gym \nfive minutes till 9 o'clock.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "This information could have been told to us\nbeforehand.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Sorry! Forgot! I definitely didn't keep it\na secret to make the trial more interesting!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Forgot...? It seems far more plausible\nthat you were telling another lie.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Unlike robots, we meatbags can't pull out\nour memories from our hard drive.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Was that supposed to offend me?\nYour irrationality fills me with pity...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "If I am the culprit, that would mean I killed\nRyoma within five minutes...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...transported him to the gym, and hid him in\nthe piranha tank. This seems highly unlikely.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "If you called Ryoma out to the gym and killed\nhim there, you wouldn't need to move him.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "All you would have to do is hide him \nin the piranha tank.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Gonta was in the midst of heading to\nthe gym to capture Angie.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Are you claiming I took advantage of that, and\ncalled Ryoma for a rendezvous at the gym?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Umm...that'd be pretty difficult. We should \nprobably look at other possibilities.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Maybe someone snuck into the gym\nwhile Kirumi and I were busy talking.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "The only ones capable of that are\nthe other three with no alibis.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Miu, Kaito, and Maki!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Gahhhhh! You're including me, too!?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "But there's actually one person we can rule\nout of the suspects list.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Right? There's one person who's totally\nnot suspicious! Say who it is already!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>One person can be eliminated as\na suspect, according to Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>He must be talking about the <CLT=cltSTRONG>figure<CLT=cltMIND> he saw.\nThey certainly would have an alibi...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>We need to pin down\nwho that was.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>The key to that fact lies in\nKokichi, Gonta, and Miu's statements.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>According to what we know,\nthat figure Kokichi saw must be...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Miu Iruma",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Kaito Momota",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "I think...Kaito can be eliminated\nas a suspect.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Well said, Shuichi!\nThat's my sidekick for you!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Non, non! How can you take Kaito off the\nsuspects list when he doesn't have an alibi?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Maki Harukawa",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "I think...Maki can be eliminated\nas a suspect.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Wasn't Maki by herself in her own\nresearch lab at the time?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "We probably shouldn't remove her \nfrom the list of suspects...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "What're you waitin' for, Shuichi!?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Just remember everyone's statements\nand the answer should be clear!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>The person who can be\neliminated as a suspect...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Kokichi, you're talking about...\n<CLT=cltSTRONG>Miu<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Whaaa—!? Miu!?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Yeah, you can take her off the list.\nShe actually has an alibi.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Booya! Suck it, nerds!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Wait a sec! Since when \ndoes she have an alibi!?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "If you compare everyone's statements,\nthere's no other possibility.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Oh, yeah... I did see something odd while\nKirumi was lecturing me.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...Something odd?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "I saw a half-naked girl, wandering around\nthe courtyard in her underwear.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "It was too dark for me to make out who it\nwas, but I saw her walk around for a bit.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "...A girl walking around half-naked?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Who else could it be but the horny \nexhibitionist, Miu?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "W-We can't just jump to conclusions\nlike that... He just saw a shadow, right?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "That could've been anyone walking\naround in women's underwear! Even me!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "That'd be a whole different issue...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "No, it's Miu. Without a doubt...\nMiu and Gonta's statements prove it.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Oh, Gonta see Miu, but...Gonta's face get\nred-hot. So...Gonta no could bring her...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Your face got hot? You mean you were\nhot on her trail, right?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "No, um, she use her...what she call it?\n\"Secret woman weapon\"? And then—",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Hm? O-Oh...u-uh...well...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "I, uh...I had to use...my secret woman weapon...\nA-And let's just leave it at that...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I see, I see... It sounds like Gonta got\nan eyeful, hm?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "What!? Why the heck were you in your \nunderwear, Miu!?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "W-Well cuz, y'know...\nI'm pretty stacked, so...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "I figured I'd take my clothes off so Gonta\nwould be too flustered to touch me!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Heh, heh, heh! That's my story and\nI'm stickin' to it, ya cockroaches!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Anyway, I think the blood rushed to both of\nGonta's heads cuz he got super embarrassed!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Miu was in her underwear...\nand Gonta...got weird feeling...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "So...Gonta ran away...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Well, when you got the body of a goddess,\nit's only natural to wanna flaunt it!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "I show my panties to the boys all the time!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "And I mean, *all* the time!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "So you're welcome, Gonta! Think of me\nduring your next tug session!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Most of that was unintelligible nonsense, but\nit would seem that Miu has an actual alibi.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Yup. It took a while, but at least we got \neveryone's alibis cleared up...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "We should remember all of this, in case\nwe need to recall these events again.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltSYSTEM><CLT=cltSTRONG>Alibis For Yesterday<CLT=cltSYSTEM> has been recorded\nin the Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "That leaves...Kaito and Maki as \nthe only ones with no alibis.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Then one of them must be the culprit!\nBut which one, I wonder?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Eenie, meenie, miney, mo!\nCatch the culprit by its—",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "H-Hold up! Don't decide just yet!",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>Two prime suspects...\nKaito and Maki...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>But...something inside me...\ndoesn't want to accuse Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>I want to believe Kaito...\nUntil he's proven guilty, I will trust him.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Uh, maybe we should determine the\nsequence of events? The culprit wa—",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Nope, we should do something more fun...\nand I have the perfect idea.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>...What?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "We narrowed it down to two people, and one\nof those two is the culprit, right?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Since we don't have to randomly accuse each\nother, finding the <CLT=cltSTRONG>truth<CLT=cltNORMAL> just got much easier.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "So, let's find the truth with a more\neffective method.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "And what is this effective method?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "If one of them is the culprit, then the innocent \none should know who the guilty one is. Yeah?",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Because if you know you're not the culprit,\nthen you can just accuse the other person.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Yes, that is true.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Which means, there is one person among us\nwho definitely <CLT=cltSTRONG>knows who the culprit is<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "To that someone who knows...\nDo your best to convince us! Work harder!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Work harder?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Have the two argue for their innocence!\nThat's how we'll decide our culprit!",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "E-Even if we did that, wouldn't they\njust pass the blame back and forth?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Aaaaand?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "You guys talk about <CLT=cltSTRONG>cooperation<CLT=cltNORMAL> and \n<CLT=cltSTRONG>teamwork<CLT=cltNORMAL>, but you're all afraid.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "You're too scared to point your fingers at\nothers, so you hide behind the word, \"<CLT=cltSTRONG>trust<CLT=cltNORMAL>.\"",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "How do you expect to find the culprit when\nyou're all worried about each other's feelings?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "If you're planning to expose a liar, then you \nhave to corner them psychologically...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Only then will they reveal their true self as\na liar—hiding beneath a layer of deceit!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "If we want to find the liar, I suggest that\nthe two suspects argue against each other.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "No more pointless deductions! All we need is\nfor them to fight for their lives!",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "So let's host an argument that's\ntotally-not-boring-but-super-fun!",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "We'll catch the culprit in their lies when\nwe find a contradiction!",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "We'll scare the culprit until they screw up!\nThat's how a true class trial works.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Right, Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Puhuhu... A development like that\nwould liven things up a bit.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Yup, I totes agree.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "You're agreeing with Monokuma!?\nJust whose side are you on!?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "I'm on your side!\nI don't wanna die either, y'know!",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "That's why we need to take this seriously!\nA hot debate to smoke out the liar!",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "...And how do you expect us to start this?",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "If you guys need some help getting\nstarted, I can give out the first topic.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Our first topic is...this! Ta-daaaa!",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "The <CLT=cltSTRONG>Kubs Pad<CLT=cltNORMAL>...?",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Not just any Kubs Pad! But the one given to our\nlatest victim, <CLT=cltSTRONG>Ryoma<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "When we started investigating, I went \nstraight to his room to borrow it.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "So it wasn't the culprit who took the\nvideo from his room. It was you.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "And the reason why I brought it out just\nfor this occasion is...",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "...because one of these two had Ryoma's\nmotive video! Dun-dun-dun!",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "One of these two had it...?",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "And for us to figure that out, we need to\nknow who this <CLT=cltSTRONG>motive<CLT=cltNORMAL> video belongs to!",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Take a guess, everyone!\nWhose motive video did Ryoma have?",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "<CLT=cltMIND>The motive video that Ryoma had...\nWas it Kaito's or Maki's...?",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "<CLT=cltMIND>I...should know\nthe answer...",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Kaito Momota",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "<CLT=cltMIND>No, *I* had\nKaito's motive video...",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>I can be sure\nit wasn't Kaito's.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Whaaaat? No one knows?",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Not even the Ultimate Detective?\nMaaan, that's totally disappointing.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Maki Harukawa",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Neither",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Could it be...neither?",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Huh? I never would've asked if I thought\nthe answer would be THAT boring.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Didja forget? This motive video \nbelonged to either Kaito or Maki.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Whaaaat? No one knows?",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Not even the Ultimate Detective?\nMaaan, that's totally disappointing.",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "<CLT=cltMIND>The motive video that Ryoma had...\nWas it Kaito's or Maki's...?",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "It was...<CLT=cltSTRONG>Maki<CLT=cltNORMAL>'s motive video, right?",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "Wow, how did you ever guess?",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "Oh! I know, I know! It's because the motive\nvideo that *you* have belongs to Kaito!",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "Process of elimination wins again!\nThe obvious answer was Maki, right?",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "Is that true...Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "Y-Yes...you're right.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "...And what about that?",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Just because Ryoma had my motive video,\nthat doesn't make me the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Nee-heehee... Finally, you said something.\nThis is how a debate should be.",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "I only brought up the motive video\nto make you talk.",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "...Excuse me?",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "O-kay! Now that we got the party rolling,\nlet's get you and Kaito ready to argue!",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "Remember, if you're not the culprit, then\nthat means the other one is. Got that?",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "Let's start this extreme death debate! Tear up\nthe other's lies! Rip each other apart!",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "W-Wait just a minute, what are you\ntrying to—",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "Quit screwing around! We don't need \nto debate who's the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "I'm not the culprit!\nThat's for sure...",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "Which means...",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "Kaito, wait! Maybe Kokichi is\nwrong! Maybe he—",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "But Maki isn't the culprit, either!",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 185,
+  "en": "Huh? Really? You're saying neither of you\nare the culprit?",
+  "tr": ""
+ },
+ {
+  "id": 186,
+  "en": "Then what would be the point of this whole\ndeba—",
+  "tr": ""
+ },
+ {
+  "id": 187,
+  "en": "Who cares about that!? All I know is \nthat neither me or Maki are the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 188,
+  "en": "It's just a hunch I've got!",
+  "tr": ""
+ },
+ {
+  "id": 189,
+  "en": "A...A hunch!?",
+  "tr": ""
+ },
+ {
+  "id": 190,
+  "en": "Are you being serious? You do know all\nour lives are on the line here, right?",
+  "tr": ""
+ },
+ {
+  "id": 191,
+  "en": "And you're betting our lives on just\na hunch!?",
+  "tr": ""
+ },
+ {
+  "id": 192,
+  "en": "Hmph... You don't get it.\nThis isn't just any hunch...",
+  "tr": ""
+ },
+ {
+  "id": 193,
+  "en": "This is an official hunch from *the* Kaito \nMomota, Luminary of the Stars!",
+  "tr": ""
+ },
+ {
+  "id": 194,
+  "en": "Wh-What...?",
+  "tr": ""
+ },
+ {
+  "id": 195,
+  "en": "How illogical... This is even more difficult\nto comprehend than Kokichi's antics.",
+  "tr": ""
+ },
+ {
+  "id": 196,
+  "en": "You're totally not serious!\nYou can't be *that* stupid, right?",
+  "tr": ""
+ },
+ {
+  "id": 197,
+  "en": "No, he might actually be that stupid.",
+  "tr": ""
+ },
+ {
+  "id": 198,
+  "en": "Damn idiot!",
+  "tr": ""
+ },
+ {
+  "id": 199,
+  "en": "Atua-damned idiot!",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "Hey! Don't call me an idiot!\nAnyway, me and Maki aren't the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "There's no doubt about it!\nI believe in Maki!",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "...You what?",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "You believe in her? But...based on what?",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "Huh? I don't gotta base it on anything.\nNo matter where the clues point...",
+  "tr": ""
+ },
+ {
+  "id": 205,
+  "en": "In the end, the only thing that matters\nis what I believe! Right!?",
+  "tr": ""
+ },
+ {
+  "id": 206,
+  "en": "Whether I believe or not!\nWhether I *want* to believe or not!",
+  "tr": ""
+ },
+ {
+  "id": 207,
+  "en": "That's the only thing that matters!",
+  "tr": ""
+ },
+ {
+  "id": 208,
+  "en": "So...you do not have any evidence.",
+  "tr": ""
+ },
+ {
+  "id": 209,
+  "en": "Only baseless conjecture.",
+  "tr": ""
+ },
+ {
+  "id": 210,
+  "en": "B-But...I totally get where he's coming from!\nCuz I wanna believe in Himiko too!",
+  "tr": ""
+ },
+ {
+  "id": 211,
+  "en": "<CLT=cltMIND>Want to believe, huh?\nYeah...I think I understand that.",
+  "tr": ""
+ },
+ {
+  "id": 212,
+  "en": "Wanting to believe in someone is\na beautiful act, yes...",
+  "tr": ""
+ },
+ {
+  "id": 213,
+  "en": "However, it is a sentiment that has \nno place in a class trial.",
+  "tr": ""
+ },
+ {
+  "id": 214,
+  "en": "He's an idiot, after all...",
+  "tr": ""
+ },
+ {
+  "id": 215,
+  "en": "Is okay to be idiot! As long as you\nbelieve in people!",
+  "tr": ""
+ },
+ {
+  "id": 216,
+  "en": "Guys! I said don't call me an idiot!\nIt really hurts my feelings!",
+  "tr": ""
+ },
+ {
+  "id": 217,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 218,
+  "en": "<CLT=cltMIND>Heh...it's true.\nThat's not what a Class Trial is about.",
+  "tr": ""
+ },
+ {
+  "id": 219,
+  "en": "<CLT=cltMIND>You're supposed to think logically,\nyou can't let your feelings into it...",
+  "tr": ""
+ },
+ {
+  "id": 220,
+  "en": "<CLT=cltMIND>...It's absurdity,\ntotal absurdity.",
+  "tr": ""
+ },
+ {
+  "id": 221,
+  "en": "<CLT=cltMIND>But then again...\nthat absurdity saved me before, right?",
+  "tr": ""
+ },
+ {
+  "id": 222,
+  "en": "Why? Why do you trust me, Kaito?\nThere's a chance that I'm the cul—",
+  "tr": ""
+ },
+ {
+  "id": 223,
+  "en": "I believe in you because I want to.\nDo I need a reason other than that?",
+  "tr": ""
+ },
+ {
+  "id": 224,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 225,
+  "en": "Isn't that why you believed in Kaede?",
+  "tr": ""
+ },
+ {
+  "id": 226,
+  "en": "I mean, sure, I might get betrayed \nin the end, but...",
+  "tr": ""
+ },
+ {
+  "id": 227,
+  "en": "If I worry about that, I won't be able to \nbelieve in the people I wanna believe in!",
+  "tr": ""
+ },
+ {
+  "id": 228,
+  "en": "<CLT=cltMIND>If I can trust my logic...maybe I\nshould trust Kaito's feelings, too.",
+  "tr": ""
+ },
+ {
+  "id": 229,
+  "en": "<CLT=cltMIND>Yeah...\nIt'll work out in the end. So...",
+  "tr": ""
+ },
+ {
+  "id": 230,
+  "en": "...I'll believe in Maki as well.",
+  "tr": ""
+ },
+ {
+  "id": 231,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 232,
+  "en": "That's our Kaito, right?\nMaking us think with our hearts...",
+  "tr": ""
+ },
+ {
+  "id": 233,
+  "en": "Maaan, you too? How could the Ultimate\nDetective believe in someone without proof?",
+  "tr": ""
+ },
+ {
+  "id": 234,
+  "en": "But there's no proof linking Maki\nor Kaito to this crime either.",
+  "tr": ""
+ },
+ {
+  "id": 235,
+  "en": "I believe in innocent until proven guilty.\nFor now, they are innocent.",
+  "tr": ""
+ },
+ {
+  "id": 236,
+  "en": "Right on, Shuichi!\nI knew I picked a good sidekick!",
+  "tr": ""
+ },
+ {
+  "id": 237,
+  "en": "Uh, and by the way, I might be the Ultimate\nDetective, but...I'm in training.",
+  "tr": ""
+ },
+ {
+  "id": 238,
+  "en": "I...told you that, didn't I? I'm just an\napprentice, not a real detective.",
+  "tr": ""
+ },
+ {
+  "id": 239,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 240,
+  "en": "How do you plan to get closer to the truth\nwithout suspecting either of them?",
+  "tr": ""
+ },
+ {
+  "id": 241,
+  "en": "Unless you have evidence to the contrary,\nthese two will remain suspe—",
+  "tr": ""
+ },
+ {
+  "id": 242,
+  "en": "So I just have to turn it around, right?",
+  "tr": ""
+ },
+ {
+  "id": 243,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 244,
+  "en": "It's not like I owe that idiot a favor or\nanything just because he defended me...",
+  "tr": ""
+ },
+ {
+  "id": 245,
+  "en": "But that hopeless idiot may have\nencouraged me a bit.",
+  "tr": ""
+ },
+ {
+  "id": 246,
+  "en": "Seriously! Enough's enough!\nStop calling me an idiot!",
+  "tr": ""
+ },
+ {
+  "id": 247,
+  "en": "What are you trying to say, Maki?",
+  "tr": ""
+ },
+ {
+  "id": 248,
+  "en": "I didn't want to say anything, but I can't\nstay silent forever.",
+  "tr": ""
+ },
+ {
+  "id": 249,
+  "en": "...So, I'll tell you.",
+  "tr": ""
+ },
+ {
+  "id": 250,
+  "en": "Oh? Tell us what?",
+  "tr": ""
+ },
+ {
+  "id": 251,
+  "en": "I met up with Ryoma during nighttime yesterday.",
+  "tr": ""
+ },
+ {
+  "id": 252,
+  "en": "<CLT=cltMIND>...What?",
+  "tr": ""
+ },
+ {
+  "id": 253,
+  "en": "With Ryoma...at nighttime!?",
+  "tr": ""
+ },
+ {
+  "id": 254,
+  "en": "So Ryoma was still alive at nighttime!?",
+  "tr": ""
+ },
+ {
+  "id": 255,
+  "en": "I thought the crime took place between\n8 and 10 o'clock at night?",
+  "tr": ""
+ },
+ {
+  "id": 256,
+  "en": "But that's wrong, because I met up with \nRyoma during nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 257,
+  "en": "If that's true, then we have no basis\nfor suspecting only Kaito and Maki...",
+  "tr": ""
+ },
+ {
+  "id": 258,
+  "en": "Th-That's right. Everyone suspected them.\nCuz they no have alibis for those times.",
+  "tr": ""
+ },
+ {
+  "id": 259,
+  "en": "That means me and Maki aren't\nsuspects anymore!",
+  "tr": ""
+ },
+ {
+  "id": 260,
+  "en": "Quit fuckin' around! You think I'm dumb\nenough to swallow that line of crap!?",
+  "tr": ""
+ },
+ {
+  "id": 261,
+  "en": "Yes, this seems too convenient.",
+  "tr": ""
+ },
+ {
+  "id": 262,
+  "en": "But why did Maki wait until now\nto mention that?",
+  "tr": ""
+ },
+ {
+  "id": 263,
+  "en": "Ah-hahahaha! It's totally obvious!\nMaki's sooo desperate that she has to <CLT=cltSTRONG>lie<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 264,
+  "en": "<CLT=cltMIND>Was that...a lie?",
+  "tr": ""
+ },
+ {
+  "id": 265,
+  "en": "<CLT=cltMIND>Did Maki lie to us...?",
+  "tr": ""
+ },
+ {
+  "id": 266,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 267,
+  "en": "<CLT=cltMIND>It's true, we don't\nhave all the facts...",
+  "tr": ""
+ },
+ {
+  "id": 268,
+  "en": "<CLT=cltMIND>But why would Maki say\nthat now, of all the times...?",
+  "tr": ""
+ },
+ {
+  "id": 269,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 270,
+  "en": "<CLT=cltMIND>If I trust her innocence,\nI should believe her statement.",
+  "tr": ""
+ },
+ {
+  "id": 271,
+  "en": "<CLT=cltMIND>But...should I?",
+  "tr": ""
+ }
+]

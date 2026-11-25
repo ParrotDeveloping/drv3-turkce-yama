@@ -1,0 +1,647 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>When I stepped out into the courtyard,\nI yelled at the top of my voice.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Keebo! Monokuma!\nPlease, stop fighting!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "We can solve this another way!\nOne that's best for both of you!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Please, listen to me!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>My voice reverberated\nthroughout the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>And after a while...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "It's almost dawn, like we agreed...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Have you found what you were looking for? \nAre you ready to do what must be done, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Either way...this is your last chance.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I have no idea what's going on, but messing\nwith this robot is starting to bore me, so...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I guess I'll hear you out.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "So, what is this other way?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "A class trial.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "We're all going to do a class trial, one\nlast time!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "A class trial!?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...What do you mean? Are you trying to\ncontinue the killing game?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "This is no time to mess around! I thought\nyou were going to end it!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I'm not messing around.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "This class trial...will end the killing game!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "A class trial...to *end* the killing game?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>As Keebo spoke, I saw Maki running\nover from the school building.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hey, what do you mean we're going to do\na class trial?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Are you serious...?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "That's...how you're going to end\nthe killing game?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "...Everyone's here.\nNow let me say this.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "We need to stop fighting...\nand have one more class trial.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "If we reveal the whole truth there,\nwe can end this killing game.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "The killing game will end when the truth is\nexposed? Why would you say such a thing?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "By the end of the class trial,\nthat will be clear.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Monokuma...you're the one who\ncalls these class trials...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "But not this time! This time, *we* choose\nto call a class trial! One to end them all!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "But...why do we need to hold a class trial\nwhen no one has been killed?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "...That's what I'd like to say, but...I get it.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "My little shootout with this rundown robot\nhasn't been fun for a while now.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "And I think it's pretty interesting that you\nguys are on board with holding a class trial.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "In fact, I welcome your initiative! This turn\nof events will make things very interesting!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>So even in these circumstances, you take the\nopportunity to make things interesting...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>That means this killing game must be—",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "However, if we're gonna hold a class trial,\nI'm gonna hold you guys responsible for it.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Responsible...?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "It would be bad if we held a class trial that\ndidn't reach a satisfying conclusion.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "In other words, if the trial doesn't go your way\nand ends without the truth being exposed...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Then you all will be held responsible for\nstaging such a disappointing class trial.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "O-Of course!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Puhuhu... I don't doubt your resolve at all.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "But are the others okay with it, too? The\nresponsibility will be shared by all of you...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Th-The responsibility will be...shared?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "We've been ready.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I'll trust you. But if you screw this up...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "...I'll kill you before Monokuma can.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...Y-Yeah, I believe you.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Y-You're right... There's no point \nfreaking out now...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "I have friends I can trust!\nThere's nothing to be scared of!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "K-Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Also, if we're gonna do this class trial, you\ngotta take off all that fancy sci-fi gear.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "We can't risk you going berserk if the\noutcome isn't in your favor...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Take off this gear...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "If I remove these armaments now, I will lose\nmy chance to destroy this academy...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "This is...the last chance. The last chance\nto not let Monokuma win...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Is this...really alright?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Keebo...please, believe me.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I don't want Monokuma to win.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "*We're* going to win.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Our <CLT=cltSTRONG>hope<CLT=cltNORMAL> is going to end\nthis game of <CLT=cltSTRONG>despair<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Do you really think that ending awaits us?\nIt sounds too good to be true, honestly.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Yes, I do.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "That <CLT=cltSTRONG>ending<CLT=typeNORMAL> *is*\n<CLT=cltSTRONG>hope<CLT=typeNORMAL> for us.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "...And we can't give up on <CLT=cltSTRONG>hope<CLT=typeNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Keebo...let's trust Shuichi here.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "You don't want to die either...right?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "We're all friends who can believe \nin each other, aren't we!?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...Very well, I will remove my armaments.\nLet's hold this class trial.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Thank you, Keebo.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Puhuhu... Then it's decided.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "That's right. Our class trial!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Our final battle! Our <CLT=cltSTRONG>hope<CLT=typeNORMAL> will\ndefeat your <CLT=cltSTRONG>despair<CLT=typeNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Puhuhu...puhuhuhu...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Ah-hahahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Why are you laughing...?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "I-Is he that confident he'll win?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "I-It'll be okay! He's probably just bluffing!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Puhuhu... Who can say?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Well, if we're gonna do this class trial, we\nshould hurry up and head to the trial grounds.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "However...I will have the Monokubs strip\nthat robot of his gear.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "...I know.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Everyone else, please proceed to the Shrine\nof Judgment and head to the trial grounds.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Puhuhu... I'll go on ahead and begin preparing.\nMonokubs, you can take it from here.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Alright then! We're gonna take all this gear\noffa this robot!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "I'll finish it in seconds cuz I work like\nI eat—fast and sloppy!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "You shouldn't be proud of being sloppy.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "...I'll meet you guys there.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>Keebo walked back toward his\nlab with the Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "We should go, too...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "I can't believe we're having another \nclass trial...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "I didn't think Monokuma would accept\nso easily.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "That was too easy... I can't help but\nfeel a little strange.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "He probably agreed to it to stop Keebo from\ndestroying the academy.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>Still...it was almost too easy.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>Perhaps Monokuma simply expected this.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>But it was still much easier\nthan I imagined it would be.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>...No sense worrying about that now.\nWe've come this far, we just have to do it.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "<CLT=cltMIND>To end this killing game, we have\nto follow his rules one last time...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>and win this class trial.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "We're having another class trial...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "But, this will be the final one...\nRight?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Yes, that's right.\nThis will be the final trial.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Maybe he accepted because he couldn't\nhandle Keebo's destruction anymore...?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "...No, that can't be the reason.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Even Keebo said it himself. He'd only be able\nto withstand the Exisals' attacks until dawn.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Then, why did Monokuma agree to this\nso easily...?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "I can't say for sure, but we can't\nbe distracted by that.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "...That's true. No matter what he's plotting...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "We're ready to end this killing game, right?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Yes! With this class trial!",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "We're ready to end this killing game...\nLet's go, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "I wonder if Keebo is okay. I hope they don't do\nanything weird while they're disarming him.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "I'm sure they won't. If anything\nhappened to Keebo right now...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "it wouldn't be a fair trial that\nMonokuma insists on.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Oh, I see.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Then it's okay. The four of us, and Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "By combining the marks of our friendship...\nwe can overcome this final class trial!",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "The four of us and Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "By combining the marks of our friendship...\nwe can overcome this final class trial!",
+  "tr": ""
+ }
+]

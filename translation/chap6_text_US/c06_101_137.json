@@ -1,0 +1,927 @@
+[
+ {
+  "id": 0,
+  "en": "So this is Kokichi's lab...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>It certainly does have that\n\"<CLT=cltSTRONG>evil organization<CLT=cltMIND>\" feel...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>But there's nothing that would\nidentify the <CLT=cltSTRONG>Remnants of Despair<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Let's show him that the students of Hope's\nPeak Academy will never submit to <CLT=cltSTRONG>despair<CLT=typeNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Hope...? Despair...?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>At that time...Kaito was in the Exisal...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>But it didn't seem like he knew anything\nabout the <CLT=cltSTRONG>Remnants of Despair<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Kokichi and Kaito weren't there when we\nused that <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>But even without that memory...\nthe truth is the same.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>If this lab was made for Kokichi, there should\nbe *some* link to the <CLT=cltSTRONG>Remnants<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Perhaps it's hidden somewhere...\nI should investigate thoroughly.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Back when we abandoned our <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> talents\nto escape the <CLT=cltSTRONG>Gofer Project<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I...chose to walk a different\npath than that of an assassin...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "But in the end...I was dragged back.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...It's nothing. Now's not the time to\nthink about that.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Let's go to Kokichi's room. That's what\nyou wanted, right?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Weren't we going to Kokichi's room?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "We only have until dawn... We don't have\ntime to mess around.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>This is Kokichi we're talking about...\nThere must be *something* here!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>There are matching shoes and suits\nof many colors here.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>If this is the <CLT=cltSTRONG>Ultimate Supreme Leader<CLT=cltMIND>'s lab...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>are these uniforms for the other\nmembers of the organization?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>There are some...unsettling objects here...\nGas masks, handcuffs...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>There are also wigs and glasses, for disguises\nI imagine. But they seem...comical.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "This...doesn't seem like something the\n<CLT=cltSTRONG>Remnants of Despair<CLT=cltNORMAL> would use...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>A large table, one I imagine is used\nfor strategy meetings.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>There's nothing of any particular interest\non top of the table.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "A supercar...?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>Is this the kind of thing that members\nof this evil organization drive around?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>...But would an <CLT=cltSTRONG>evil organization<CLT=cltMIND> really want\nto drive around in such flashy cars?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "This is more like...a child's idea of what an\n<CLT=cltSTRONG>evil organization<CLT=cltNORMAL> would have.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>This is Kokichi's chair. Definitely something\na <CLT=cltSTRONG>Supreme Leader<CLT=cltMIND> would sit in.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>But...something feels off.\nIt's all too...<CLT=cltSTRONG>cliche<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>It feels as if this entire room is\njust an elaborate prank.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Cave",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>This must be the emblem of the organization\nthat Kokichi leads.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>...But do the <CLT=cltSTRONG>Remnants of Despair<CLT=cltMIND>\nput up emblems...?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>There's a collection of files here,\nbound like a book.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...The Complete History of\nHope's Peak Academy?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>I picked up the book and began rapidly\nflipping through the pages.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>And inside...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Information on <CLT=cltSTRONG>Hope's Peak Academy<CLT=cltMIND>, \n<CLT=cltSTRONG>Future Foundation<CLT=cltMIND>, and the <CLT=cltSTRONG>Remnants of Despair<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "This is...a history of the battle between\n<CLT=cltSTRONG>hope<CLT=cltNORMAL> and <CLT=cltSTRONG>despair<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>But we've already remembered all this.\nWe know this information.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>I don't suppose it'd make for a\nparticularly useful clue...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>...I don't...suppose...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "No. Something's not right.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>Something is off.\nBecause the things written in this book—",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "...Do you really have time to read a book?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Ah! Maki!?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>I flinched in surprise as Maki peeked\nat the thick book in my hands.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "...The Complete History of Hope's Peak Academy?\nWhat's the point of reading this now?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "You already remembered Hope's Peak Academy\nwith the <CLT=cltSTRONG>Flashback Light<CLT=typeNORMAL>, didn't you?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Yes, I...thought that as well...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Ah, Maki, this is perfect timing.\nWill you come with me?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "...For what?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I need you to tell me everything you remember\nabout the history of Hope's Peak Academy.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Huh? But why?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I need to...check something important.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "I don't really understand...but I just need to\ntalk about it, right?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>She gave me a big, almost theatrical sigh,\nthen started speaking in bored narration.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "It all began at Hope's Peak Academy...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "The Biggest, Most Awful, Most Tragic \nEvent in Human History...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "The world was plunged into ruin, and\nhumanity into the depths of <CLT=cltSTRONG>despair<CLT=typeNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "This tragic event was caused by a lone\nhigh school girl...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "The <CLT=cltSTRONG>Ultimate Despair<CLT=typeNORMAL>, Junko Enoshima.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "In order to fulfill her plans to plunge\nhumanity and the world into utter despair...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...she organized the killing game of\nHope's Peak Academy's 78th class.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Trapped by the <CLT=cltSTRONG>Ultimate Despair<CLT=typeNORMAL>,\nthe 78th class...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "...was forced to participate\nin the killing game.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "But in the end, Junko Enoshima died at the hands\nof the very killing game she masterminded.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "With her death, the despair outbreaks ended,\nand the world slowly began to recover.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "But the <CLT=cltSTRONG>Remnants of Despair<CLT=typeNORMAL> continued to\ncarry out Junko's legacy of despair.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "The <CLT=cltSTRONG>Future Foundation<CLT=typeNORMAL> was established to\nfight against them, and their war raged on...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Until one day, when the war suddenly ended.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "The meteorites, right?\nYou can skip that part...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Do you...remember anything about the\n*new* Hope's Peak Academy?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "As for Hope's Peak Academy...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "It was later rebuilt by former members of the\nFuture Foundation and resumed operations...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "They continued to scout students who possessed\nUltimate-level talent, and that's all we know...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>This...doesn't make sense.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>No, that doesn't make sense,\nbecause what Maki just told me...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>is exactly what I remember.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>Then...what is written in the book?\nAre these just...lies?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>Or...are they...?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Ah!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>I turned to one of the pages,\nalmost without thinking.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "...What's wrong?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Ah, it's just...the afterword written\non the last page...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "It says that these documents were\ncollected by several esteemed researchers.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "This is the most thorough, accurate book\nwritten on the subject.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Well, it says it's the complete history.\nSo what's the problem?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>The problem is...\nIf this is true...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>History of Hope's Peak<CLT=cltSYSTEM>\" has been added\nto the Truth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>We can't ignore these inconsistencies.\nI should investigate more.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>In order to investigate this...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "<CLT=cltMIND>I need to know more about Kokichi.\nI found this in *his* lab, after all...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Maki...I think I'm going to go to \n<CLT=cltSTRONG>Kokichi's room<CLT=cltNORMAL> now...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Why Kokichi's room?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "I have to verify something.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "I have to determine which things he said were\nthe <CLT=cltSTRONG>truth<CLT=cltNORMAL> and which were <CLT=cltSTRONG>lies<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Including...if he really was a <CLT=cltSTRONG>Remnant of Despair<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Huh? There's no doubt that he was a <CLT=cltSTRONG>Remnant\nof Despair<CLT=typeNORMAL>. Because in that memory—",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Well, whatever. If that's what you want to\ndo, then I won't stop you.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Thank you...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>I never would have imagined this...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>That Kokichi's <CLT=cltSTRONG>lie<CLT=cltMIND> might be the\nbreakthrough we need to find the truth—",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Ah!",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Ah, aaugh!",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Wh-What is this!?\nWhat's...happening?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Hey...what's going on?",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Hello... Are you one of the chosen for\nthe Gofer Project?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Gofer Project...?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "I saw you on a flyer on the ground.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "That's...the <CLT=cltSTRONG>Remnants of Despair<CLT=cltNORMAL>'s doing.\nGofer Project participants are classified—",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Are you one of them?\nI'm really good at remembering faces.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Yeah...I get that a lot.\nJust a case of mistaken identity, I'm afraid.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "They're all students from\nHope's Peak Academy, aren't they?",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "I'm...just a normal high school student.\nI don't have any special talent.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "I see... But you look just like him.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Don't worry about that. Hey, listen, should\nyou really be outside right now? The meteor—",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "I'm not scared of them!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Because my dad told me the Future Foundation\nwill take care of those meteorites!",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "If the Gofer Project succeeds, then the\nmeteorites won't fall down!",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "No, I've heard...the Gofer Project\ndoesn't exist to save us...",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Have you heard the rumor? All the participants\ndied in an accident...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "You're wrong! They didn't die!",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "How would you know that...?",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Because! Those people are the heroes\nthat will save the world, right?",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "The Gofer Project wasn't created to save us—!",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "...Never mind.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Heroes don't die!\nHeroes don't give up!",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "That's why they're still alive!\nBecause they're heroes!",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Heroes...?",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Ah... Ah...",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "<CLT=cltMIND>Th-That...was a memory...right?",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "It's...from that Flashback Light!",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Puhuhu... This <CLT=cltSTRONG>Flashback Light<CLT=typeNORMAL> has a\nspecial effect.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Shuichi... Just now...",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "That...must have been the Flashback Light. The\none that Monokuma used after Kaito's trial.",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "After Kaito's trial...?",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "...Hey, what did you remember?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "That memory...",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "was from when I tried to get away from the\n<CLT=cltSTRONG>Gofer Project<CLT=cltNORMAL> and threw away my <CLT=cltSTRONG>talent<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "I...remembered the same thing.",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "But why...? Why did Monokuma give us\nthat memory?",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "And...will we experience another flashback\nlike the one we just saw?",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "<CLT=cltMIND>I...don't know, but...\nI can't hesitate now.",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "Maki, let's focus on the investigation.\nThere are a lot of things we need to check.",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "...You're heading to Kokichi's room, right?\nThen I'll go with you.",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "Huh? You will...?",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "Something about him...concerns me.\nThat's why I want to check...",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "<CLT=cltMIND>She looks...worried.\nDid that flashback—",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "...What? Do you want to die?",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Ah, no, nothing.\nLet's go.",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>Even so...",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "<CLT=cltMIND>A hero, huh?",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "<CLT=cltSYSTEM>You have increased your <CLT=cltSTRONG>bond<CLT=cltSYSTEM>!\nYou can move more debris than before.",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "<CLT=cltMIND>The afterword of The Complete History\nof Hope's Peak Academy says...",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "<CLT=cltMIND>Many researchers worked together to compile this\nbook, and are confident in its accuracy...",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "<CLT=cltMIND>The information here should be\nperfectly correct.",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "<CLT=cltMIND>But if that's true, then my\nmemories, and Maki's memories...",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "<CLT=cltMIND>We can't ignore these inconsistencies.\nI should investigate more.",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "<CLT=cltMIND>In order to investigate this...",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "<CLT=cltMIND>I need to know more about Kokichi.\nI found this in *his* lab, after all...",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "<CLT=cltMIND>A toy helicopter...?",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "<CLT=cltMIND>Is this Kokichi's?",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "<CLT=cltMIND>It looks like the controller is over there...",
+  "tr": ""
+ }
+]

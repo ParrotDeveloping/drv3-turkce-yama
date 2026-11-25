@@ -1,0 +1,100 @@
+@ chap1_text_US
+## c01_000_353
+50|Yanlış hesapladım...
+51|Hadi çıkışı bulalım!
+52|Herkes iyi mi!?
+53|Bunu yapmak zorundayız.
+54|Bana bırakın, millet!
+55|Hop!
+56|Bir hizmetçi olarak...başarısızım...
+57|Elimden geleni yapacağım.
+58|Herkesin iyiliği için yapacağım.
+59|Herkes iyi mi?
+60|İlerleyelim.
+61|Ha!
+62|Yapamadım...
+63|Ben yaparım...büyüyle!
+64|Elimden geleni yapmalıyım!
+65|Çıkış nerede?
+66|Sanırım ben gideyim...
+67|Nyeh!
+68|Tıh...
+69|Şunu bitirelim artık...
+70|Çıkış nerede?
+71|Burası bela.
+72|Gidelim.
+73|Fu!
+74|Özür dilerim! Yapamadım!
+75|HAAAYAAAAAAAHHH!!!!!
+76|Sürpriz saldırı!
+77|Seni koruyacağım!
+78|Ben yaparım!
+79|Ha!
+80|Hayıııııııııııır!
+81|Elimden gelenin en iyisini yapacağım!
+82|Herkes iyi mi?
+83|Çıkış nerede acaba.
+84|Elimden geleni yapma vakti!
+85|Hımf!
+86|Nyahahaha! Hoşça kalın!
+87|Bana güç ver!
+88|Ohhhh!
+89|Ne kutsal!
+90|Atua benim yanımda.
+91|Hay-hop!
+92|Ahhhhhh!
+93|Ben bir efsaneyiiiim lan!
+94|Hâlâ yaşıyor musunuz pislikler!?
+95|Gelin bakalım!
+96|Peki. Lanet olsun, yaparım.
+97|Hop!
+98|Burada...kaybedemem...
+99|Aferin hepinize!
+100|Beni takip edin!
+101|Elimden geleni yapacağım!
+102|Bizi buradan çıkaracağım!
+103|Hop!
+104|Kahretsin... Benim için bu kadar...
+105|Herkes iyi mi?
+106|Çıkış nerede...?
+107|Hadi deneyelim.
+108|Herkes dikkatli olsun!
+109|Hop!
+## c01_000_354
+0|<CLT=cltMIND>Sonunda başardık.
+1|<CLT=cltMIND>Bu inanılmaz uzun tünel sonsuza kadar sürecek\ngibi gelmişti ama başardık...
+2|<CLT=cltMIND>Ve sonunda bizi bekleyen şey...
+3|Burası...çıkış mı?
+4|B-Bu kaçış oyununu en zor seviyede\ngerçekten bitirdiğinize inanamıyorum...!
+5|Çok...sinir bozucu...!\nAma...kutlamam...lazım!
+6|Tebrikler! Çıkış bu tarafta!
+7|G-Gerçekten mi? Dış dünya bu kapının\nhemen arkasında mı?
+8|Evet! Monophanie öyle demişti, değil mi?\nGerçekten de bir çıkış var.
+9|Ve öbür tarafta, görmek için can attığınız\no dış dünya var!
+11|<CLT=cltMIND>S-Sonunda başardık!\nÇıkabiliriz!
+12|<CLT=cltMIND><CLT=cltSTRONG>Ultimate<CLT=cltMIND> öğrenciler olarak birlikte çalıştık\nve sonunda çıkmayı başardık!
+13|<CLT=cltMIND>Ama bizim için son bu değil, değil mi? Çıktıktan\nsonra hepimiz arkadaş kalacağız.
+14|<CLT=cltMIND>Bu dünyanın ötesinde daha da muhteşem\nbir şey olmalı!
+15|<CLT=cltMIND>Böyle düşününce...\nbu sadece yeni bir başlangıç.
+16|Pekala! Hadi kapıyı aç artık!
+17|Selaaam! Tekrar hoş geldiniz!
+21|Ne...?
+22|B-Bu da ne?
+23|...Puhu. Puhuhuhuhu.
+24|Dış dünyayı nasıl buldunuz?
+25|Bu...dış dünya mı...?
+26|O surat ne? Bu umduğunuz\nson işte...
+27|Evet, mezuniyetiniz kutlu olsun!\nLütfen kanatlanın ve topluma geri dönün!
+28|Ah-hahahahahahaha!
+29|Olamaz...
+32|<CLT=cltSYSTEM>Yeni bir tema kazandın: "Umutsuzluğun Ölüm Yolu."
+## c01_001_007
+0|<CLT=cltMIND>Monokuma ve Monoyavrular gittikten sonra...
+1|<CLT=cltMIND>...Monopad'imden birden bir alarm çaldı.
+2|<CLT=cltMIND>Sadece benimkinden değil—alarm bütün\nspor salonunda çalıyordu.
+3|<CLT=cltMIND>Bu da herkesin bir Monopad aldığı\nanlamına geliyordu.
+4|<CLT=cltMIND>Benimkini çıkardığımda ekranda bir\nmesaj vardı...
+5|<CLT=cltMIND>Öğrenciler öngörülebilir gelecek boyunca\nUltimate Akademisi'nde yaşamak zorundadır.
+6|<CLT=cltMIND>Bir cinayet işlendiğinde hayatta kalan bütün\nöğrenciler bir sınıf duruşmasına katılmalıdır.
+7|<CLT=cltMIND>Kara sınıf duruşmasında ortaya çıkarılırsa\nsadece o idam edilir.
+8|<CLT=cltMIND>Kara ortaya çıkarılmazsa geri kalan bütün\nöğrenciler idam edilir.

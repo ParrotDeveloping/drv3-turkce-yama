@@ -1,0 +1,66 @@
+@ chap1_text_US
+## c01_212_001
+8|<CLT=size1>kameraları <CLT=size1.5>yerleştirmeden\n<CLT=size1>bile <CLT=size1.5>önce.
+9|<CLT=size2>Nerede<CLT=size1> <CLT=size2>saklanmış olabilirler?
+10|Nerede saklanmış olabilirler?
+11|<CLT=size1><CLT=size2><CLT=cltWEAK>Gizli kapının<CLT=cltNORMAL> içinde!
+12|Gizli kapının içinde!
+13|Yani diyorsun ki
+14|Yani diyorsun ki suçlu \norada pusuda bekliyordu?
+15|<CLT=size2>suçlu<CLT=size1> orada <CLT=size2>pusuda bekliyordu<CLT=size1>?
+16|Bu doğruysa <CLT=size2>şüpheliler...
+17|Bu doğruysa şüpheliler...
+18|olay sırasında <CLT=size2>yalnız\n<CLT=size1>olanlardır.
+19|olay sırasında yalnız olanlardır.
+20|<CLT=size2>Yemekhaneye<CLT=size1> ya da <CLT=size2>bodruma<CLT=size1>\ngitmeyen tek kişiler...
+21|Yemekhaneye ya da bodruma\ngitmeyen tek kişiler...
+22|<CLT=cltWEAK><CLT=size2>Kokichi
+23|Kokichi, Keebo ve Ryoma, değil mi?
+24|<CLT=cltWEAK>,
+25|<CLT=cltWEAK><CLT=size2>Keebo
+26|<CLT=cltWEAK>ve
+27|<CLT=cltWEAK><CLT=size2>Ryoma,
+28|değil mi?
+29|Suçlunun <CLT=size2>erkek<CLT=size1> olduğunu <CLT=size2>biliyordum!
+30|Suçlunun erkek olduğunu biliyordum!
+31|<CLT=size2>Nyah-hahaha!
+32|Nyah-hahaha! Atua'nın ilahi mantığını görün!
+33|Atua'nın <CLT=size6>ilahi<CLT=size2> mantığını görün<CLT=size2>!
+## c01_213_000
+0|Bir dakika, Angie. Gizli kapıda saklanmanın\nmümkün olduğunu sanmıyorum.
+1|Ne? Atua'ya meydan okumaya mı cüret ediyorsun?
+2|Gizli kapının hiç kullanıldığını sanmıyorum.
+5|Beyni araştırırken kart okuyucunun üzerine\n<CLT=cltSTRONG>toz<CLT=cltNORMAL> koymuştum.
+6|Biri kart anahtarını okutsaydı toz\ndökülürdü.
+7|Soruşturma sırasında yerde toz olmadığını\nzaten doğruladık.
+8|Kitaplık açılmamıştı, o yüzden içeride\nbirinin saklandığından şüpheliyim.
+9|Hıh... Daha kat edeceğin çok yol var.
+10|Ha? N-Ne demek istiyorsun?
+11|Suçlu kameralar kurulmadan önce bile\nkütüphanede olabilirdi.
+12|Böyle zayıf bir mantıkla hiçbir şey\nkanıtlayamazsın.
+## c01_214_000
+0|Mantığın bu mu?
+1|Beni apaçık bir kanıt dışında hiçbir\nşeyle ikna edemezsin.
+3|<CLT=cltMIND>Ryoma'nın argümanını öylece dinleyemem...\nBir şekilde çürütmem lazım!
+4|<CLT=cltMIND>Ryoma'nın argümanındaki açıkları görmeye\nbaşlıyorum.
+5|<CLT=cltMIND>Orada buluşmak imkânsızdı!\nBunu kanıtlayan fotoğraf bende!
+6|<CLT=cltMIND>Ryoma'nın argümanındaki açıkları görmeye\nbaşlıyorum.
+7|<CLT=cltMIND>Ryoma'nın argümanını çökertecek, sunabileceğim\nbir kanıtım var!
+8|<CLT=cltMIND>Ryoma'nın argümanındaki açıkları görmeye\nbaşlıyorum.
+9|<CLT=cltMIND>Ryoma'nın argümanını çökertecek, sunabileceğim\nbir kanıtım var!
+10|<CLT=cltMIND>Beni geri püskürttü! Bununla hiçbir yere\nvaramıyorum!\n<CLT=cltNORMAL>
+11|<CLT=cltMIND>Beni geri püskürttü! Bütün tartışmayı da\ngeri püskürtecek!\n<CLT=cltNORMAL>
+12|<CLT=cltMIND>Onu geri püskürtmeye çok yaklaşmıştım!\nBu sefer kaybetmeyeceğim!\n<CLT=cltNORMAL>
+13|<CLT=cltMIND>Çok yaklaşmıştım! Ama şimdi beni geri\npüskürtecek!\n<CLT=cltNORMAL>
+## c01_214_001
+0|<CLT=size2>Gizli kapıyı\n<CLT=size1>elesek bile...
+1|Gizli kapıyı\nelesek bile...
+2|<CLT=size2>Kütüphanede<CLT=size1> 
+3|Kütüphanede saklanacak\nyer bol.
+4|<CLT=size2>saklanacak\n<CLT=size1>yer <CLT=size2>bol.
+5|<CLT=size1>Her yerde\nyığınla
+6|Her yerde yığınla\nkitap var.
+7|<CLT=size2>kitap\n<CLT=size1>var.
+8|Kameralar yerleştirilmeden\n<CLT=size2>önce
+9|Kameralar yerleştirilmeden önce\nsuçlu orada olduğuna göre...
+10|suçlu orada

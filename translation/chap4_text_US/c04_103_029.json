@@ -1,0 +1,997 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Ah...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I pulled the device off of my head,\nand the real world appeared before me.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Well, Shuichi? Isn't the real world way better\nthan some virtual reality?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Anywaaay, I felt so lonely without you around.\nApologize for making me feel unloved.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...Hey. There's something I wanted to ask you.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Hm? I tooootally didn't draw anything on your\ntummy while you were logged in, okay?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Nee-heehee, I'm kidding.\nSo, what was it you wanted to ask?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...You planned to meet Miu on the roof, right?\nDid you end up meeting her?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Ooohh, so you know about that, Shuichi.\nImpressive, Mister <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Then, I'll tell you what happened.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I never met up with Miu. I couldn't get to\nthe rooftop cuz it was locked.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Locked?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "After, I gave up and went back to the salon to\nsearch for the <CLT=cltSTRONG>secret of the outside world<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...Is that true, Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Hm? Are you doubting me?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Can someone verify that you were at\nthe salon the entire time?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Did you meet anyone there?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "No, I don't have a witness...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "But, you can also say there's *no* witness\nwho can prove I *wasn't* there!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Unless, you saw the salon empty yourself.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Well, it's up to you whether you wanna\nbelieve me or not...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "But you shouldn't doubt me like that!\nWe're partners!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Which one is it...?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Did Kokichi meet with Miu or not?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>Is he lying or telling the truth...?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>Which is it...?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Kokichi In the Salon<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "First you log me out, and now we get called by\nMonotaro cuz he needs to tell us something...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "I wasn't able to finish investigating Miu's\navatar again...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "What are we gonna do!?\nI can't clear my name like this!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "This no time for sleeping... How come no one\nwant to do investigation!?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "That not gentlemanly at all...!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>I wasn't sleeping...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Well, it's up to you whether you wanna\nbelieve me or not...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "But you shouldn't doubt me like that!\nWe're partners!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Did you speak to Kokichi about his meeting\nwith Miu?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "He said he didn't meet with Miu. He claimed\nthe rooftop was locked, so he couldn't enter.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "I see... But this is Kokichi we're talking\nabout. He could very well be lying.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Kokichi never met with Miu...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "But this is Kokichi we're talking about...\nSo he could very well be lying.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "*sob* So this is goodbye to my avatar...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ask Monotaro for the results of the analysis.\nI don't know the details yet, either.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "In the end...we never found where Monokuma\nhid the secret of the outside world.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "It seems like it wasn't in the chapel either.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "But more importantly, we need to do \nsomething about Miu's case.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Right now, Miu's case is more important \nthan the secret of the outside world.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I've been waiting for you, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I'm sure Maki already told you, but I finally\nfinished analyzing the program.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "I'm starting to put together a lot of important\nfacts, so here they are!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>He really is trying to be our friend...\nA little bit, at least.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "First, the person who tampered with this\nprogram was...Mommy, like we suspected.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Mommy has an eccentric way of writing her\ncode, so I knew it was her right away.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I guess her personality wasn't the only\neccentric thing about her.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "So, what did she tamper with?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "A few things...but I'll share the first one\nwith you.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "It looks like Mommy deleted a lot of <CLT=cltSTRONG>objects<CLT=cltNORMAL>\nfrom this killing game simulator.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "She said that she deleted anything\nthat could be used as a weapon.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "But in that case, why is there a hammer?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "That's true, only the hammer was left.\nBut why was it left, hm?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "The way the program was written makes it\nseem like she did it on purpose.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>On purpose...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Did she *add* anything?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "We found a cell phone in the Virtual World...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "No, that cell phone was an original feature\nof the program.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>That implies Miu hid that fact\nfrom us. Which means...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "All Mommy added were the two maps.\nThe rest was already part of the program.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "By the way, while we're talking about objects,\nI wanted to ask you something...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "We used the signboard to cross the river, but\ncould we have used something else as a bridge?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Hmm... I didn't really see anything that could\nhave been used as a bridge to cross the river.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>So only that signboard could have\nbeen used as a bridge.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "So, what's the next thing she tampered with?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Well, it looks like she also tampered with certain\n<CLT=cltSTRONG>parameters<CLT=cltNORMAL> of the program.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Parameters?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Everything in that program is categorized as\neither a \"<CLT=cltSTRONG>human<CLT=cltNORMAL>\" or a \"<CLT=cltSTRONG>non-human object<CLT=cltNORMAL>.\"",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Of course, everyone's avatar was assigned\nthe \"<CLT=cltSTRONG>human<CLT=cltNORMAL>\" parameter...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "But for some reason, Mommy gave her avatar\nthe \"<CLT=cltSTRONG>non-human object<CLT=cltNORMAL>\" parameter...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "And what happens when you become\nan <CLT=cltSTRONG>object<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Well, the difference is only for identification\npurposes, so it probably didn't affect anything.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "But if it didn't affect anything, then why would\nshe have gone out of her way to do that?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Perhaps that has something to do with\nthe next thing she tampered with.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Mommy added a wall that didn't originally\nexist in the program.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "The coordinates of the Virtual World are\nrepresented on an <CLT=cltSTRONG>X-axis<CLT=cltNORMAL> and a <CLT=cltSTRONG>Y-axis<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...and it seems Mommy added a wall that runs\nthe length of the Y-axis.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "She created an additional wall?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>There were walls in all four directions,\nand two down the Y-axis...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "But...you're positive there was only one?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Yep, it's definitely the only one.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>What does that mean?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>Which wall was the one Miu added?",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>What was the world like originally?\nMiu said there wasn't anything past the wall.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>Was that another lie...?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Also, it looks like that extra wall was given\na special setting.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "A setting that <CLT=cltSTRONG>allows non-human objects\nto pass through it<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>It allows objects through?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "I see...that's very interesting.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "So, are those all the things she tampered with?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Oh, there's one more thing.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "So, um, one of you guys also had a strange\nsetting given to their avatar.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "A \"strange setting\"?",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Yeah... The setting made it so <CLT=cltSTRONG>they would be\nunable to move if Mommy touched them<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "So...if Miu touched them, their\navatar would be paralyzed?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Who was it?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Ah... It was Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Eh, it's me? I didn't know that!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Well, duh, I wouldn't know!\nI never touched Miu in that world.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "I see, I see. I didn't even notice.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "...That's all I have to report.\nWell? Do you think it'll help you guys out?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "That helps a lot.\n...Thanks.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Miu's Avatar<CLT=cltSYSTEM>\" has been updated in the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Wall Added by Miu<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Setting on Kokichi's Avatar<CLT=cltSYSTEM>\" has been added to\nthe Truth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Oh, I should probably tell you this, too.\nThough it's probably not related to the case...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Some sorta avatar user error occurred when\nyou all logged in for the first time.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "An error?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "The contents of the error are unknown,\nso I can't provide any details...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "But something strange definitely happened\nto someone's avatar when you all logged in.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "I don't think anyone's avatar was acting\nstrange, though...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>What kind of error could it be...?\nThat's important information...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Avatar Error<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "*sigh* Okay, everyone...\nTime for the class trial...",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Y'know, that thing where everyone stands\nin a circle and talks about the dead body...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "...Hm? Low energy? Me?\nNo, no...I'm excited. Really...",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "I'm just taking a little break right now...\nWhen I'm done, I'll be my usual energized self.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Yep...I'll be way more energized...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Anyway...that's all.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "You seem like you're not into it at all.\nWe don't have to do the class trial, y'know!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "But...it's gonna start, huh?\nWe no can stop it anymore?",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "No. We can't.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "This is all I can tell you guys, but I don't\nwant any of you to forget...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "I'm your friend!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Huh? He just decided we're friends?",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Thank you! Gonta feel relieved!",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Don't worry, Monotaro.\nShuichi will get revenge for Miu's death.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "And he'll get that revenge...by finding\nthe culprit among us.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "<CLT=cltMIND>...He's right.\nThe culprit...is someone here.",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Thank you everyone! Thank you so much!",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "When this class trial is over, I hope we\ncan all get to know each other better!",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Nyeeeh...that's the kind of line \nthat triggers a death flag.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "I...want a fresh start. I want to make up\nfor my past mistakes.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "That too...",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Meeting you all...has really...",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Sorry, it's nothing. I'll save it for after the\nclass trial is finished.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Nyeeeh...the flag is rising!",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Hm? What was that? I...think I heard\nsomething over there.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "I'll go check it out all by myself!",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "It's waving in the wiiiiiiiiiind!!!",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Quit screwing around. Let's hurry up and go.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Gonta do his best, too! Gonta do his best\nto be even little bit useful for everyone!",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "I'm soooo excited! I'll definitely expose\nthe culprit this time.",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Tch... What's so exciting about this!?",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "<CLT=cltMIND>With conflicting emotions in our hearts,\nwe headed to the <CLT=cltSTRONG>Shrine of Judgment<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "<CLT=cltMIND>From what the time of death indicated\nin the Monokuma File...",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "<CLT=cltMIND>Miu was killed while we were still\nin the Virtual World.",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "Treasure Chest",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "<CLT=cltMIND>There's a small bottle on the chair.",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "<CLT=cltMIND>This is a poison that came from my lab.",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "<CLT=cltMIND>The label contains some information\nabout the poison...",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "<CLT=cltMIND>According to the warning,\nit's a dangerous poison.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "<CLT=cltMIND>Mixing the poison with any solvent will reduce\nthe effects. It has to be consumed directly.",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "<CLT=cltMIND>But, even a small amount is\nenough to kill an adult.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "<CLT=cltMIND>If you could put just a little bit into the\nvictim's open mouth, they would die instantly.",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>Certainly an effective method for killing\nsomeone who's logged in, but...",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "<CLT=cltMIND>Something about these listed symptoms\nbothers me.",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "<CLT=cltMIND>This poison causes subconjunctival blood\nvessels to hemorrhage.",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "<CLT=cltMIND>That should cause bloodshot eyes...",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "<CLT=cltMIND>The person who brought this poison here...\nI can't be certain they're the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "<CLT=cltMIND>But, I do know the poison was\nplaced on *that* person's chair.",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "<CLT=cltMIND>Miu's hands are clasped around her neck,\nas if she were gasping for air.",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "<CLT=cltMIND>Her eyes are wide open in panic...\nShe must have suffered quite a bit.",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "<CLT=cltMIND>The person who found Miu's body was\nKeebo, the first to log out.",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "<CLT=cltMIND>He said that she still had the\nhelmet on her head at the time.",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "Still...",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "What caused her to suffer like this?\nWhat was the cause of death?",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "<CLT=cltMIND>This is the device we wore on our heads\nto enter the virtual world.",
+  "tr": ""
+ },
+ {
+  "id": 185,
+  "en": "<CLT=cltMIND>Some helmets still have their cords plugged\nin, others have them removed...",
+  "tr": ""
+ },
+ {
+  "id": 186,
+  "en": "<CLT=cltMIND>My concern is the cords...",
+  "tr": ""
+ },
+ {
+  "id": 187,
+  "en": "<CLT=cltMIND>We were supposed to plug the two cords\nfrom the computer into our helmets.",
+  "tr": ""
+ },
+ {
+  "id": 188,
+  "en": "<CLT=cltMIND>The red for <CLT=cltSTRONG>consciousness<CLT=cltMIND>,\nthe blue for <CLT=cltSTRONG>memory<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 189,
+  "en": "<CLT=cltMIND>If they were switched,\nglitching might occur.",
+  "tr": ""
+ },
+ {
+  "id": 190,
+  "en": "<CLT=cltMIND>That's what Miu told us...",
+  "tr": ""
+ },
+ {
+  "id": 191,
+  "en": "<CLT=cltMIND>This is the device we wore on our heads\nto enter the virtual world.",
+  "tr": ""
+ },
+ {
+  "id": 192,
+  "en": "<CLT=cltMIND>Some helmets still have their cords plugged\nin, others have them removed...",
+  "tr": ""
+ },
+ {
+  "id": 193,
+  "en": "<CLT=cltMIND>My concern is the cords...",
+  "tr": ""
+ },
+ {
+  "id": 194,
+  "en": "<CLT=cltMIND>We were supposed to plug the two cords\nfrom the computer into our helmets.",
+  "tr": ""
+ },
+ {
+  "id": 195,
+  "en": "<CLT=cltMIND>The red for <CLT=cltSTRONG>consciousness<CLT=cltMIND>,\nthe blue for <CLT=cltSTRONG>memory<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 196,
+  "en": "<CLT=cltMIND>If they were switched,\nglitching might occur.",
+  "tr": ""
+ },
+ {
+  "id": 197,
+  "en": "<CLT=cltMIND>That's what Miu told us...",
+  "tr": ""
+ },
+ {
+  "id": 198,
+  "en": "<CLT=cltMIND>I'm interested in the results\nof Monotaro's research…",
+  "tr": ""
+ }
+]

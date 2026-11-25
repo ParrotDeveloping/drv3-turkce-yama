@@ -1,0 +1,51 @@
+@ chap1_text_US
+## c01_215_000
+35|Şeyy...bu fotoğrafa dikkatli bakarsanız\nkanalın kullanılmadığını görebilirsiniz...
+36|Kanal bu fotoğrafta görünmüyor. Kameraları\nkuran kişi olarak bunu bilmen lazım.
+38|Şeyy...bu fotoğrafa dikkatli bakarsanız\nkanalın kullanılmadığını görebilirsiniz...
+39|Kanal bu fotoğrafta görünmüyor. Kameraları\nkuran kişi olarak bunu bilmen lazım.
+41|Şeyy...bu fotoğrafa dikkatli bakarsanız\nkanalın kullanılmadığını görebilirsiniz...
+42|Kanal bu fotoğrafta görünmüyor. Kameraları\nkuran kişi olarak bunu bilmen lazım.
+44|Nyeh... İyi bir kanıt yoksa belki de\ngerçekten görünmezlerdi.
+46|Bunun havalandırma kanalıyla hiçbir ilgisi yok.\nMuhtemelen... Bilmiyorum...
+48|Kimsenin kanaldan kütüphaneye gizlice\ngirmediğini kanıtlayan kanıt ne?
+49|Kameraları kurarken kanalın önüne\n<CLT=cltSTRONG>birkaç kitap da istiflemiştim<CLT=cltNORMAL>.
+50|Biri kanaldan sürünerek girip çıksaydı\nkitaplar devrilirdi.
+51|Soruşturma yaparken hâlâ benim yerleştirdiğim\ngibi düzgünce istiflenmişlerdi.
+52|Belki odadan çıkarken kitapları yerine\nkoymuşlardır.
+53|Böyle dar bir kitaplıkta bunu başarmak\nepey zor olurdu...
+54|Kanalı ve kapıları elediysek suçlu kütüphaneye\nnasıl girip çıktı?
+55|Belki...ilahi müdahale!?
+56|Gonta girmek için başka hiçbir yol\ndüşünemiyor...
+57|Buldum! Suçlunun kütüphaneye nasıl girdiğini\nbiliyorum—ön kapıdan!
+58|Şey... Dinliyor muydun?\nKamera fotoğraflarını çekerdi.
+59|Suçlu hareketlerini <CLT=cltSTRONG>kamera aralıklarına<CLT=cltNORMAL>\ngöre ayarladıysa çekmezdi!
+60|Ha? Aralık mı?
+61|O ne ki...?
+62|Kısacası suçlu kameraları ve onların\naralıklarını biliyordu.
+63|Yani kamera çekimlerinin arasında kütüphaneye\ngizlice girdiler! Fotoğraflarda görünmemek için!
+64|Hyah-hahahahaha! Biliyorum, biliyorum...\nHem güzellik *hem* zekâ? Ama bu hiç adil değil!
+65|Miu! Bahsettiğin bu aralık da\nne!?
+66|Ha? Ah, *şimdi* mi bana soruyorsun?
+67|Deklanşör çaldıktan sonra kamera 30 saniye\nboyunca yeni fotoğraf çekemiyor.
+68|Çünkü kameraları, filmi elle sarmak yerine\notomatik sarsın diye yeniden tasarladım.
+69|Bunu ilk kez duyuyorum!\nNeden baştan söylemedin!?
+70|Hiiiiiiiiiii!
+71|A-Ama...yeniden düzenlediğim kameraları sana\nverdikten sonra küçük beta oğlanına söylemiştim...
+73|Ş-Shuichi...?
+74|Ah! B-Ben...özür dilerim!\nS-Sanırım...sana söylemeyi unuttum...
+75|Bana söylemeyi nasıl unutabildin...?
+76|Planı etkileyeceğini düşünmedim.\nÖ-Önemli olacağını fark etmedim...
+77|Sanırım bahsetmeyi unuttum...\nGerçekten çok özür dilerim...
+78|Kehehe... "Unuttum."\nNe acınası bir bahane.
+79|Yaaaa, bu düpedüz yalan.
+80|H-Hayır, yalan değil...\nMuhtemelen sadece unutmuştur...
+81|O sıralar o kadar çok şey oluyordu ki...\nunutmak çok doğal, değil mi?
+83|Şimdilik bunu bir kenara bırakıp kamera\naralıkları hakkında konuşalım.
+84|Her aralık 30 saniye sürüyordu,\ndoğru mu, Miu?
+85|Evet, tamam, siz lapa kafalılara\ntekrar açıklarım...
+86|Kaede-aptal ile Kaka-ichi'nin yerleştirdiği üç\nkamera hareket algılayınca çalışıyor...
+87|Ondan sonra filmin bir sonraki fotoğrafa\notomatik sarılması 30 saniye sürüyor.
+88|Yani 30 saniye boyunca herkes fotoğrafı\nçekilmeden kütüphaneye girebilirdi!?
+89|Bu Rantaro'yu öldürüp kütüphaneden çıkmak\niçin yeterli zaman olabilirdi...
+90|Kesinlikle yeterli zaman! Sadece yıldırım\nhızıyla hareket etmen lazım!

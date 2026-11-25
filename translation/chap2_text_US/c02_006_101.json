@@ -1,0 +1,122 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>There are <CLT=cltSTRONG>Hidden Monokumas<CLT=cltSYSTEM> around the Ultimate\nAcademy. Maybe you've already seen one!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSYSTEM>You can collect <CLT=cltSTRONG>Hidden Monokumas<CLT=cltSYSTEM> by \n<CLT=cltSTRONG>investigating<CLT=cltSYSTEM> them.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>Your collection will be displayed on\nthe shelf in this room, so get busy filling it!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>They're fun to look for when you\nwant to take a little break from everything.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Ah, that's right. Tenko asked\nme to set up a parasol.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>I feel like she's gonna throw me\nif I don't get it ready...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Anyway, what is the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND>?\nIt's still bothering me...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>And...why did Rantaro know?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>But I suppose I won't get anywhere\nthinking about it by myself. Time for action...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "There's still some time left today...\nI need to think of a plan!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>They went through all this just for a\nkilling game? What is their objective...?",
+  "tr": ""
+ }
+]

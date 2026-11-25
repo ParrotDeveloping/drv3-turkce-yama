@@ -1,0 +1,327 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give Kokichi a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "I...I didn't know you hated me that much,\nKaede...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "WAAAAAAAAAAAHHHHHH!!!!!\nEven if you do hate me, this is going too far!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Well, at least this isn't boring... But you\ngotta make it up to me later, kay?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I...I didn't know you hated me that much,\nShuichi...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "WAAAAAAAAAAAHHHHHH!!!!!\nEven if you do hate me, this is going too far!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Well, at least this isn't boring... But you\ngotta make it up to me later, kay?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Um...why would you think I'd like this?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "You have pretty bad taste, Kaede.\nI thought we were of one heart and soul.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Wooooow, this is just aaaawful!\nIt's soooo boring that it's funny!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Um, I don't really want this.\nToss it somewhere else.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "*sigh* ...You disappoint me. I thought you\nwould've made it more fun for me, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Or are you hinting that I should make it fun\nfor you instead?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Um...why would you think I'd like this?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "You have pretty bad taste, Shuichi.\nI thought we were of one heart and soul.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Wooooow, this is just aaaawful!\nIt's soooo boring that it's funny!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Um, I don't really want this.\nToss it somewhere else.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "*sigh* ...You disappoint me. I thought you\nwould've made it more fun for me, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Or are you hinting that I should make it fun\nfor you instead?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "How do I put this nicely...\nWell...it's not bad, but it's not good either...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "And by that, I mean it's bad.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Hm, for me? I'll take it, but...\nYou're not getting any thanks from me, buddy!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Well, I might repay your kindness...with tricks.\nSince I *am* the supreme leader of evil.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "How do I put this nicely...\nWell...it's not bad, but it's not good either...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "And by that, I mean it's bad.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Hm, for me? I'll take it, but...\nYou're not getting any thanks from me, buddy!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Well, I might repay your kindness...with tricks.\nSince I *am* the supreme leader of evil.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "How do I put this nicely...\nWell...it's not bad, but it's not good either...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "And by that, I mean it's bad.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Hm, for me? I'll take it, but...\nYou're not getting any thanks from me, buddy!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Well, I might repay your kindness...with tricks.\nSince I *am* the supreme leader of evil.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "How do I put this nicely...\nWell...it's not bad, but it's not good either...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "And by that, I mean it's bad.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Hm, for me? I'll take it, but...\nYou're not getting any thanks from me, buddy!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Well, I might repay your kindness...with tricks.\nSince I *am* the supreme leader of evil.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Hmm...I guess this isn't *that* boring.\nYou have pretty good taste, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Well, not as good as mine. I'll surprise you with\na gift one of these days, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "This is a pretty decent present, Kaede.\nAre you starting to get me now?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "It feels good to know that you thought long\nand hard about what tribute to give me.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Woooah! This is niiiice!\nI've always wanted something like this!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "By the way, that's not a lie, 'kay?\nDon't worry, I'm actually happy.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Hmm...I guess this isn't *that* boring.\nYou have pretty good taste, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Well, not as good as mine. I'll surprise you with\na gift one of these days, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "This is a pretty decent present, Shuichi.\nAre you starting to get me now?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "It feels good to know that you thought long\nand hard about what tribute to give me.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Woooah! This is niiiice!\nI've always wanted something like this!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "By the way, that's not a lie, 'kay?\nDon't worry, I'm actually happy.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Hey, I'm surprised you had something\nso interesting on you, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But if you think something like this would make\nme happy, you got another thing coming!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...Just kidding. Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "H-How do you have something this amazing,\nKaede? Did you steal this!?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "The supreme leader of evil lost!?\nGrrrrr... Dammit! This pisses me off!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Hey, I'm surprised you had something\nso interesting on you, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "But if you think something like this would make\nme happy, you got another thing coming!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...Just kidding. Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "H-How do you have something this amazing,\nShuichi? Did you steal this!?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "The supreme leader of evil lost!?\nGrrrrr... Dammit! This pisses me off!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Okay, I won't give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "No, I want to give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Kokichi a present?",
+  "tr": ""
+ }
+]

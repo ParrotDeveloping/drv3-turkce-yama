@@ -1,0 +1,932 @@
+[
+ {
+  "id": 0,
+  "en": "Shuichi! Are you okay!?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Hey, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Shuichi...?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>...That's me.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Kaede is calling my name...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Ah...where am I...?\nWhat am I doing here?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "I remember...I was on my way\nto school, like always...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "When suddenly, I...\nI was pushed into a car...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Before I even figured out what\nwas happening, I lost consciousness.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...That's right, this is the Ultimate Academy,\nand we... We are...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "the 16 high school students\nwith Ultimate talents.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "And then...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "The Monokubs...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "They ordered us to investigate the grounds.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Was that the bell!?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Kaede, look at the monitor!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Hiiii! Thanks for bear-ing with us!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Kept you bastards waiting, huh!?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Everyone, make your way to the gym please.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "The opening ceremony can finally begin!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Phew! We finally finished our preparations!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "...You do realize you just read your lines\nbackwards, don't you?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "So long! Bear-well!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>Gym...? Opening ceremony?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Kaede...what should we do?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "What should we do? Go, of course. Everyone\nelse is probably doing the same thing.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "True, but...I'm a little worried about this...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>Honestly, it was more\nthan <CLT=cltSTRONG>a little<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>Despite my trepidation,\nwe headed toward the gym.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>When we arrived, an\neerie sound greeted our ears.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>It reminded me of an engine\nsound from a giant robot anime.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>And right at that moment...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Yoo-hoo! Rise and shine, ursine!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Kyaaaaaaaaaah!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Everyone, behind Gonta!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Wh-What the heck are these...monsters!?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Whoooooaaaa!!! So coooool!!!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "They're Exisals—highly mobile, bipedal weapons\nplatforms! They got lotsa hometown pride, too!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Wh-Whatever they are, they better kill off\nthe uggos and save me for last!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Run, Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Why are you concerned about me \nall of a sudden?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Hm, didn't someone say they would\n\"kick all their asses\"?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Wh-What the hell!? \nNobody told me about these!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Alright, chill out, no need to panic...\nWe're probably not in any danger.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "If they wanted to kill us,\nthey'd have done it by now.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>As he spoke, Rantaro casually\napproached the monstrous machine.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "So what do you want from us? You clearly want\nsomething. That's what the guns are for, right?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Let me guess. You're gonna force us to do\nsomething, and if we don't, we get hurt.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Well, you have our attention.\nSo what do you want?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Huh. Well aren't you a wiseguy?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I'll start us off! Listen up! Here's what we\nwant you punkasses to do...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Hahhhhh! My heart's goin' 100 miles per hour!\nI'm gonna say it! You ready!?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Hell yeah! It's a—",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "KILLING-GAME.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "M-M-Monodam! How DARE you upstage me!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "W-Wait a second. What did you say?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I-If I heard him correctly—",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "No, that's not happening.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "My cute little cubs...\nI'm canceling this killing game...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Oh! That voice!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Father!? Father, is that you!?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Papa Kuma! Papa Kumaaaa!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Daddy!? Where are you, Daddy!?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "D-Daddy?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Suddenly, a spotlight\ncut through the gym.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I am the god of this new world...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "and the headmaster of the Ultimate Academy!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "The one, the only...Monokuma!\nNice to meetcha!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Another teddy bear appeared...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Yes, but that is no ordinary teddy bear.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "I can see it...the despair and madness\nswirling around that cursed thing...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Whoa... First of all, I'm no teddy bear.\nI'm Monokuma.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "And show some respect! I'm the headmaster\nof the <CLT=cltSTRONG>Ultimate Academy for Gifted Juveniles<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "...Headmaster?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "It appears to be some sort of autonomous\nrobot with a built-in A.I., like me...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Dong dong dong!",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "The Exisals are different, though!\nThey're brainless buckets of bolts!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "They're mindless killing machines that can\nonly be controlled by us, the Monokubs.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Autonomous robots piloting weapons platforms...\nThis is certainly turning into quite the story.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Well that may be, but what I'm worried\nabout is this \"<CLT=cltSTRONG>killing game<CLT=cltNORMAL>\" you mentioned.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "What exactly does that mean?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Oh, you don't need to worry about that.\nI've decided to cancel the killing game.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "C-Cancel!?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Did the stress of milking this series finally\nmake you snap, Father!?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Don't worry, Papa Kuma!\nI'll help you relax!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "By makin' a Monodam sandbag!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "I don't like violence or gore, so I don't really\nmind if it's cancelled...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "P-Pops must be lyin'!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "He must have a glitch! That's bound to\nhappen when ya get to be his age!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Nope, your father has never had a single\nglit—",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "glit-glit-glit—",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "glit-glit-glit—",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "glit-glit-glitch in my life!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "You're like a kid covered in frosting who\nswears he didn't touch that cake!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Classic Pops! His pride is higher than the\nEiffel Tower!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Anyway, I've decided to cancel the\nkilling game!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "And I've never glitched!\nI'm a professional, dammit!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "...So what are we supposed to do, then?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "There's no way you'd just\nlet us go after all this.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Puhu...puhuhuhuhu...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "What is so amusing?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "It's just...when I said it again, I kinda just\nphoned it in and now I feel awkward...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "There's only one thing I want you to do\nin this mode...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "In this mode...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "I just want you to have a fun time living\nat the academy.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Mode...?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Oh, don't worry about that.\nIt's an inside joke.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Anyway, as long as you guys have a fun life\nat the academy, that's alright by me.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "You're at that special age where it doesn't\ntake much to get your hormones raging.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Umm, I don't get the point.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "We have all the ingredients for a reality\ndating show, y'see?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "There's always one show like that on the\nair at any given time, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Like, a buncha guys and gals livin' under one\nroof, gettin' the hots for each other...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "The audience just eats it up, watchin' to see\nwho's gonna end up with who.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "That's what I want for you guys. I want you\nto star in your own reality dating show.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Quit screwing around! \nWhy do we gotta do that!?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Yep, that kinda stock reaction is to be\nexpected...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "But if you've looked around the academy,\nthen you already know, don't you?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "The academy is surrounded by a huge wall.\nYou can't escape to the outside world...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "And as long as we have the Exisals, you can't\ndefy us.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "So do what you say if we don't want to die.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Y-You gotta be kidding me!\nWhy do we have to do such a thing!?",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Quit shouting. This is way more mild than\nwhat I originally had planned for you.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Plus, I'm not saying you gotta live here\nforever.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Does that mean...you'll let us out of here?",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Weren't you listening? I said this is a reality\ndating show.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "And just like those shows promise, the couple\nwho ends up together get to graduate.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "But, uh, try to be quick about it, okay?\nAudiences get bored fast these days.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "If no one ends up together after ten days,\nthis show will be forced off the air.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "And what will happen when this show ends?",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Maybe that's when he'll make us do the\nkilling game?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Nyah-hahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Kids these days... Always worrying about the\nfuture as if failure is a guarantee.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Take chances, get messy, make mistakes!\nWorry about failure when it happens.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "A reality dating show...\nThat sounds so exciting!",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Papa Kuma is on the pulse of society's\ntrends!",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Pops is such a great capitalist! There's no\nidea he won't rip off to make a profit!",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Oh, by the way, I know I said you guys just\nneed to have a good time living here...",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "But the romantic sparks won't fly if you guys\njust do whatever you want.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "The audience won't know who to watch if\nall sixteen of you are just milling about.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Hey, what the hell are you talking about!?",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Telling us to fall in love or whatever?\nWhat do you want us to do!?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Calm down, I'm about to explain.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "When you wanna \"spend time\" with another\nstudent...",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Or in other words, when you wanna \"go on\na date,\" please exchange a Date Ticket.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "What's that? How do you go about obtaining\none of these tickets?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "I never said these tickets were free, did I?",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "Wanting something gives it value—in other\nwords, you gotta shell out cash for 'em.",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "You guys have already seen a place on campus\nwhere you can earn cash, haven't you?",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "...Earn cash?",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "I know, I know!\nI bet he's talking about the casino!",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "...SPOILER-WARNING.",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "...Oops!",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "Uh-oh... Monophanie's gonna get\npunished by Pops—",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "In a democracy, everyone shares the blame!",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "Nrghhhhhh! I feel so bad!\nThis is all my fault!",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "No, it's democracy's fault!",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "Now then, I can't wait to see what kinda\nhot-and-heavy hijinks you get into!",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "Ah-hahahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Kah-hahahahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>I stood there dumbfounded, with\nthat maniacal laughing ringing in my ears.<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "<CLT=cltMIND>Everything here is\nmaniacal and twisted...",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "<CLT=cltMIND>A school surrounded\nby a giant wall...",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "<CLT=cltMIND>Sixteen imprisoned <CLT=cltSTRONG>Ultimates<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "<CLT=cltMIND>These bizarre stuffed animals\narmed to the teeth...",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "<CLT=cltMIND>And on top of all that...\nsome kind of reality dating show...",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "<CLT=cltMIND>Without even a moment of respite,\nwe became the cast of this twisted story.",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "Monitor",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "Basket Goal_Right",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "Basket Goal_Left",
+  "tr": ""
+ },
+ {
+  "id": 185,
+  "en": "Scoreboard",
+  "tr": ""
+ }
+]

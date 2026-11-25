@@ -1,0 +1,107 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>I have training with Kaito now...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>He said the usual place.\nI'll meet him in the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>What to do...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>What can *I* do?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>The only thing I'm good at is solving\nmysteries, but I can't figure out this academy.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>I don't have many clues...\nbut that's no excuse.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>These monitors are everywhere,\nbut I don't see any cameras.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>How is the mastermind behind this\nkilling game monitoring us?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>Or...are we not really\nbeing watched at all?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Panicking and worrying won't help\nanything. I should rest...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>So many identical uniforms\nin my closet...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>That kind of preparation must mean\nthat they were targeting us.",
+  "tr": ""
+ }
+]

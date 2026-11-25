@@ -1,0 +1,81 @@
+@ chap1_text_US
+## c01_006_116
+26|Ultimate Akademisi'nin yeni öğrencileri!\nTebrikler!
+27|Buradaki otlar, sanki bu okula girişinizi kutlar\ngibi sevinçten gür gür büyüdü.
+28|Endişeli gözlerinizin cinayet niyetiyle parladığını\ngörmek beni öyle mutlu ediyor ki.
+29|Kendinizi kaybolmuş hissederseniz utanmayın—\narkadaşlarınızla ya da bir öğretmenle konuşun. Hep birlikte iyi geçinelim.
+30|Ve...bir sürü de cinayet işleyelim.
+31|Bu yeni ölümcül okul döneminin fiziksel\nve zihinsel sağlığı için dua ediyorum—
+32|Yani...siz öğrencilerin sağlığı için dua\nediyorum. Evet, bu yeterli...
+33|Bu bir dolap mı?
+34|<CLT=cltMIND>Ne olur ne olmaz diye içine bir bakayım.
+35|Ha? Bu ne?
+36|<CLT=cltMIND>İçeride benim giydiğimle aynı üniformalar\nvardı. Bir sürü üniforma...
+37|<CLT=cltMIND>Bunların hepsini...onlar mı hazırladı?
+38|<CLT=cltMIND>Bizi burada tutmak için her şeyi hazırlamışlar...\nama neden?
+39|Kanepe
+40|Masa
+41|Çalışma Masası
+42|Sandalye
+43|Lamba
+44|Çekmece
+45|Çöp Kutusu
+46|Anahtar
+## c01_007_116
+1|Hım-hım... Bu, Ultimate Akademisi'nden resmi\nbir duyurudur.
+2|Saat 08:00, kaltaklar! Uyanıp kana bulanmış\ngünle yüzleşme vakti!
+3|Bu sabah kim ölmüş acaba?
+4|Yapmaaa... Birden bir ceset görürsem\nyine kusacağım!
+5|Ölümcül okul döneminizin tadını çıkarın!
+8|Oh be, hepsi korkunç bir rüyaymış...\nHa, öyle olsa ne güzel olurdu?
+9|<CLT=cltMIND>Dur, şaka yapacak vaktim yok.\nDiğerleriyle yemekhanede buluşacağımı söylemiştim.
+10|<CLT=cltMIND>Herkes bekliyor olmalı... Bir an önce\nyemekhaneye gitmem lazım.
+16|Kanepe
+17|Masa
+18|Çalışma Masası
+19|Sandalye
+20|Lamba
+21|Çekmece
+22|Çöp Kutusu
+## c01_008_001
+0|Günaydın, Shuichi.
+1|Günaydın...
+2|Burada ne yapıyorsun?\nYemekhanede olman gerekmiyor mu?
+3|Ben de oraya gidiyordum...\nŞey...
+4|Kaede?
+5|Evet?
+7|...Ah, bir şey yok. Diğerleri muhtemelen\nbizi bekliyordur. Gitmeliyiz.
+8|<CLT=cltMIND>Shuichi'ye ne oldu acaba?\nKafası bir şeyle meşgul gibi...
+9|<CLT=cltMIND>Neyse, sonra sorarım.\nGitmem lazım.
+## c01_008_250
+0|Günaydın, Tsumugi.
+1|Şey...günaydın, Kaede...
+2|Ne oldu? İyi hissetmiyor musun?
+3|Dün gece bir sürü kez uyandım ve... \nher seferinde bunun rüya olmadığını anladım...
+4|Ama yine de bu sabah rüya olmasını \numarak uyandım...
+5|Ve sonunda...yine değildi.
+6|Evet...bende de aynısı.
+7|Ama bu gerçekle yüzleşmeliyiz...
+8|Haklısın. Savaşmamız...lazım.\nBu gerçeğe karşı ve...
+9|Ah...sabah sabah bu tuhaf konuşma için\nözür dilerim. Eminim herkes bekliyordur.
+10|<CLT=cltMIND>Okul binasına buradan girilebilir gibi\ngörünüyor ama kapatılmış...
+## c01_009_010
+0|Ah, herkes zaten burada.
+1|Şimdi...hepimiz geldik.
+2|Kehehe...sevindim.\nGörünüşe göre kurban yok.
+3|Tabii ki!
+4|Bu arada...iyi misin, Kaede?
+5|Ha? Ne demek istiyorsun?
+6|Şey...dün herkes seni suçlamaya başladıktan\nsonra çok morali bozuk görünüyordun.
+7|H-Hey... Hepiniz ne yapıyor—
+8|Cidden, siz çok kabasınız.\nZavallı kız...
+9|Herkesi cesaretlendirmek için elinden geleni yaptı\nama siz kötü kaybedenler yine de ona kızdınız.
+10|Bunu tekrar açmanın ne anlamı var?
+11|Aslında...Kaede'yi ilk suçlayan *sen*\ndeğil miydin?
+12|Ha? Ş-Şimdi suç bende mi?\nNeden hepiniz bana karşı birleşiyorsunuz?
+13|VAAAAAAAAAAHHHHHH!!!!!\nSiz berbatsınız! Çok korkunç, çok kabasınız!
+14|Hıh, çok gürültücüsün. Kes şunu.
+15|Ama doğru. Herkes hiç sorumluluk almadan\nKaede'yi suçladı.
+16|Hey, hadi ama. Herkes muhtemelen\nsadece yorgundu.
+17|Kes sesini! Bu bir mazeret değil!
+18|Hayır, sorun değil! Beni rahatsız etmiyor!

@@ -1,0 +1,62 @@
+@ chap1_text_US
+## c01_713_000
+14|<CLT=cltSYSTEM>Angie'ye hediye vermek istemediğinden\nemin misin?
+## c01_713_001
+0|Nyahahaha! Beni davet ettiğin için teşekkürler,\nKaede! Demek sen de kaderlerimizin iç içe geçtiğini hissettin!
+1|Kaderlerimiz mi? Bu biraz fazla abartı.
+2|Haaaa? Neden? Senden bu kadar etkilenmekten\nkendimi alamıyorum, Kaede.
+3|<CLT=cltMIND>Angie'nin bunu söylediğini duymak beni bir\nşekilde kurban edeceğinden endişelendiriyor.
+4|Hm, hm? Atua'nın sesini duyabiliyor musun,\nKaede? O sana da ilahi ilham veriyor mu?
+5|Ha? Atua'nın sesi mi?
+6|Dediğim gibi, heykel yontarken ya da resim\nyaparken bedenim Atua'nın kabı oluyor.
+7|O beni ilahi ilhamıyla dolduruyor.\nOhhhhhhhhh!
+8|Ve sonra benim aracılığımla bedenimin yarattığı\nbütün sanatı lekesizce var ediyor.
+9|Yani sen piyano çalarken sen de Atua'nın\nilahi ilhamını hissediyorsun, değil mi?
+10|Hayır, hiç de değil...
+11|Oo? Gerçekten mi? O zaman piyanoyu nasıl\nçalıyorsun?
+12|Hey, nasıl yapıyorsun?
+13|Atua olmadan nasıl yapıyorsun?
+14|Çok özel bir şey yapmıyorum. Sadece önümdeki\nnotayı okuyup çalıyorum.
+15|Tabii ki *sadece* notayı çalmıyorum.\nEseri kendi tarzımda da yorumluyorum.
+16|Senin tarzında mı? Atua'nınkinde değil mi?
+17|Evet, *benim* yorumum.
+18|Hmm... Hmmm... Yani diyorsun ki sadece\nhenüz Atua'yla tanıştırılmadın, değil mi?
+19|Tanıştırılmama gerek yok.\nAtua olmadan yaşayabilirim.
+20|Hmmm... Ne söylediğine dikkat et, Kaede...
+21|Yoksa sonraki üç hayatın boyunca\ncezalandırılırsın!
+22|Ama hâlâ şimdi harekete geçmek için vaktin var!\nSadece Atua'ya inanman lazım.
+23|<CLT=cltMIND>Bu tele-alışveriş reklamı gibi...
+24|Atua konuştu... Atua'yla hemen şimdi\ntanışırsan iki puan kazanacaksın!
+25|<CLT=cltMIND>Kesinlikle tele-alışveriş reklamı gibi!
+26|O'nunla tanışmak istiyorsun, değil mi Kaede? İstersen\nmuhtemelen çok daha güzel müzik yaparsın.
+27|Kendi başıma idare edebilirim
+28|Şimdilik iyiyim
+29|İnancımı kendim bulacağım
+31|<CLT=cltMIND>Şey...ne desem?
+32|Kendi başıma idare edebilirim.
+33|Kendi başına mı? Atua'ya sormak çok\ndaha hızlı olurdu.
+34|Ama kendi başıma yaptığım bir şey olmazsa\nkendi performansımla gurur duyamam.
+35|Müzikten keyif almak ve bu hissi herkese\nkendi başıma ulaştırmak istiyorum.
+36|Şimdilik iyiyim.
+37|Hı-hı, hı-hı... Eh, memnunsan\nsanırım mesele kapanmıştır.
+38|Ama ayrıca Atua'dan yardım istemenin de\ntuhaf olduğunu düşünüyorum.
+39|Kendi performansım olmazsa çalmanın\nhiçbir anlamı olmazdı.
+40|İnancımı kendim bulacağım.
+41|Nyahahaha! Çok komiksin, Kaede.\nBaşka bir yere bakmana gerek yok.
+42|Atua tek gerçek tanrıdır. O'ndan önce\nbaşka tanrı yoktur.
+43|<CLT=cltMIND>Angie...şu an beni b-biraz korkutuyor...
+44|Başka tanrılar olduğunu düşünebilirsin çünkü\nAtua insanların ihtiyaçlarına göre şekil değiştirebilir.
+45|Ne kullanışlı bir tanrı...
+46|N-Neyse, şu an bir tanrıya ihtiyacım yok!\nMüziği kendi tarzımda icra edeceğim.
+47|Hmmm... Demek Atua'yı kalbine kabul etmeye\nhiç niyetin yok. Ne yazık.
+48|Ama fikrini değiştirirsen bana haber ver!\nAtua ve ben seni bekliyor olacağız, Kaede!
+50|<CLT=cltSYSTEM>Angie'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+51|<CLT=cltMIND>Angie'den ayrıldıktan sonra odama\ndöndüm.
+## c01_713_002
+0|Kaede! Bir sorunum var!\nSüper-duper ciddi bir sorun!
+1|N-Ne oldu!?
+2|Atua resim ve piyanoyla bir doğaçlama\nyapmamızı talep ediyor!
+4|Senin piyano çalışını benim resmimle\nbirleştirmeliyiz! Nyahahaha! Çok ilahi olacak!
+5|Pardon ama müzikle resmi nasıl birleştirebileceğini\nbilmiyorum. Gözümün önüne getiremiyorum.
+6|Ben de bilmiyorum!
+7|Ama bunu öneren sendin.

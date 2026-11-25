@@ -1,0 +1,187 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>It's no use...\nI wouldn't even know what to say to him.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Gonta...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>You were so kind...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>You always tried to help us\nin your own, strange way.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>But I...sacrificed you...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>secret of the outside world<CLT=cltMIND>\nyou discovered...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>A horrible truth.\nTo save us from that, you were willing to kill...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>What is Kokichi doing?\nWhere is he?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>He wants to win the killing game...\nHe wants to make us suffer.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>What is he planning, hidden away?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>This is Keebo's room...\nI don't have any business here right now.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>This is Himiko's room.\nI don't have any business here right now.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>So this is Maki's room...\nI don't have any business here right now.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>This is...Tsumugi's room.\nI don't have any business here right now.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Miu...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>You were so troublesome,\neven at the very end.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>But still...you didn't have to die.\nYou didn't deserve to die like that, Miu...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,54 @@
+@ chap1_text_US
+## c01_104_015
+66|Başka çaresi yoktu... Kameraları sökmek için\nsensörlere yakın olması gerekiyordu.
+68|Arka giriş için bu kadar.\nSadece bu iki fotoğraf.
+69|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Arka Giriş Fotoğrafları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+70|Ha? Suçlu arka giriş fotoğrafında da\nyok mu?
+71|B-Bu ne demek? Ne ön ne de arka giriş\nfotoğraflarında var...
+73|Evet, bu epey tuhaf. Beynin girdiğine dair\nneden bir fotoğraf yok?
+74|Hey, Shuichi. Sence de tuhaf değil mi?
+76|Gizli kapı kamerasının fotoğraflarına bakalım.\nBelki bize bir şey söyler...
+77|A-Ah, evet...
+78|O kamera beynin kapıyı açtığı anı\nyakalamış olmalı.
+79|<CLT=cltMIND>Fotoğrafları zarftan çıkarırken öyle\nolmasını umdum.
+80|<CLT=cltMIND>İki fotoğraf vardı.\nİlki şuydu...
+81|Ah! Rantaro mu!?
+82|Ama...kitaplığı oynatan Rantaro idiyse\no zaman...
+83|Gizli kapıyı biliyor olmalıydı.
+84|Suçlu gizli kapıya girmiş \nolabilir mi?
+85|Evet, bu bir ihtimal.
+86|Şimdilik bir sonraki fotoğrafa bakalım.\nBir tane kaldı, değil mi?
+87|E-Evet, işte.
+89|Ha? Rantaro ne yapıyor?
+90|Kameraya uzanıyor gibi görünüyor.\nBelki onu sökmeye çalışıyordu.
+91|Ah, kamerayı sökerken bir şey fark\netmiştim...
+92|Bu kameranın güvenlik sensörü\nkapatılmıştı.
+93|Öyleyse bu fotoğraf muhtemelen sensör\nkapatılmadan hemen önce çekildi.
+94|Ama bu Rantaro'nun onu fark ettiği anlamına\ngelir... Gizli kameramızı...gördü...
+95|Kitaplığı oynatmak sensörü tetikler, bu da\nkamerayı çalıştırır, değil mi?
+96|Kitaplık çoktan oynatılmış gibi görünüyor,\npeki sensör neden devreye girdi...?
+97|Kimin umurunda!? Suçluya ne oldu!?
+98|Neden hiçbir fotoğrafta yok!?
+99|Bu son fotoğraf Rantaro öldürülmeden kısa\nsüre önce çekilmiş olmalı...
+100|Öyleyse suçlunun bu fotoğrafta hemen\narkasında görünmesi lazım.
+101|O zaman suçlu neden hiçbir yerde yok?
+103|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Gizli Kapı Fotoğrafları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+104|Bütün fotoğraflar bu kadar...
+105|Yani yeni bir ipucu elde edemedik...ve suçlunun\nkim olduğunu hâlâ bilmiyoruz.
+106|Hah-haha! Ne lanet bir israf!
+107|Gerçekten bütün fotoğrafları banyo etti mi? Belki\nsuçluyu gösterenleri yok etmiştir?
+108|Hıh! Ne kabalık. Bana verilen bütün filmleri\nbanyo ettim.
+109|Yüce Babişko'm üzerine yemin ederim.
+110|Gizli kameraların bütün fotoğrafları bunlar,\no yüzden rahatlayın ve çıkarım yapmaya başlayın.
+111|Bunlar cidden bütün fotoğraflar mı? Dalga\ngeçiyor olmalısın! Suçlu hiçbirinde yok!
+112|Suçlu kütüphaneye gitmediyse\nRantaro'yu nasıl öldürdü!?
+113|Nyeeeh... Demek kusursuz cinayet dedikleri \nbu olmalı.
+114|Kusursuz cinayet mi!?
+116|Of yaaa, o fotoğrafların suçluyu ortaya\nçıkaracağını düşündüğüm için yan geliyordum!
+117|Soruşturmaya bize yardım etmeliydin!
+118|Ah, bu arada...
+119|Rantaro'nun Monopad'i bütün zaman boyunca\nüstündeydi, değil mi? Sizce içinde bir şey var mıydı?
+120|Öğrenci el kitabında pek önemli bir\nbilgi yoktu...
+121|Davayla bir ilgisi olduğunu sanmıyorum.\nSadece Monopad'i yanındaydı.
+122|Monopad'ini inceledim ama şüpheli\nbir şey bulamadım.
+123|Of yaa, yani davayla hiçbir ilgisi yok.\nNe kafa karıştırıcı.

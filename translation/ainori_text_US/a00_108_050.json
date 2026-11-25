@@ -1,0 +1,152 @@
+[
+ {
+  "id": 0,
+  "en": "Do you have a request?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Are you inviting me?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "If so, then I will follow you wherever\nyou wish to go.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "But it is much too early for a meal, correct?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Spend time together",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Never mind",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>What would you like to do with Kirumi?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Spend time together",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Go on a date",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Never mind",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>What would you like to do with Kirumi?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I see. So this is not really a request.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "If that is the case, then I will see it as a\nrequest to spend time with you.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I will entertain you to my fullest,\nso do not worry.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>I didn't get bored once in\nmy time with Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Do you have a specific request?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "This means you will treat me as a different\nperson...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "But, I find it more comforting if you\ncontinue to treat me as a maid.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Well, do you have a request?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>I spent some time thinking\nabout my request...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "It might be close to impossible for us\nto leave this academy...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "But I should not say such things all the time.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Let us think of a way to escape this\nacademy...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>Kirumi and I spent some time\nplanning an escape...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "If you feel even a slight peckish, I will\nprepare a suitable meal.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "But I will adjust the portion so you may be\nable to eat for dinner.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>I ate the snack that\nKirumi prepared...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>Kirumi and I grew a little closer today.",
+  "tr": ""
+ }
+]

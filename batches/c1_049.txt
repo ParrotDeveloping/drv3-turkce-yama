@@ -1,0 +1,52 @@
+@ chap1_text_US
+## c01_040_019
+0|<CLT=cltMIND>İçeri girdiğimde odanın sonundaki hareketli\nkitaplığın yavaşça kapandığını fark ettim.
+1|<CLT=cltMIND>Ama beynin izine rastlanmıyordu.
+2|<CLT=cltMIND>Hareketli kitaplık dışarıdan hiçbir yardım\nolmadan kendi kendine kapanmıştı.
+3|Nerede...beyin...?
+4|<CLT=cltMIND>Hızla hareketli kitaplığa doğru\nyürüdük.
+5|<CLT=cltMIND>Ve sonra, hareketli kitaplıktan çok da uzak\nolmayan bir yerde...gördük ki...
+## c01_040_020
+0|<CLT=cltMIND>Henüz <CLT=cltSTRONG>Ultimate<CLT=cltMIND> yeteneğini bize\nsöylememiş olan Rantaro Amami...
+1|<CLT=cltMIND>...yerde ölü yatıyordu.
+## c01_100_019
+0|Hmm... Beklediğim hava tam bu değildi\nama...
+1|Sorun değil! En azından artık işin içine\ngirmiş gibisiniz!
+2|Yine mi sen!? Ne halt ediyorsun burada!?
+3|Puhuhu... Bu kadar kaba olma. Hepinize\nharika bir hediye getirmeye geldim.
+4|Bu tüylerimi diken diken ediyor.
+5|Dın dın dınnnn! İçine adı yazılan herkesi\nöldüren bir defter!
+6|Yoksa!? Death N—
+7|Hay aksi, pardon. Bu bir Monokuma Dosyası.
+8|Sen...bunu bilerek yaptın, değil mi?
+9|Monokuma Dosyası, cesetle ilgili bütün\nbilgileri özetleyen ayrıntılı bir rapordur!
+10|Ama Kara'yı işaret edecek bir bilgi yok,\nçünkü bu duruşmaları mahvederdi.
+11|Bilmem, deneyimli müfettişler olmadığınız\niçin belki işinize yarar, değil mi?
+12|Pöh, Monokuma Dosyası mı? Onun yaptığı bir\nşeye inanacak değilim.
+13|İnansan da inanmasan da içeriğini incelemek\nakıllıca olur, değil mi?
+14|Atua konuştu... Gözümüzü Monopad'den\nayırmamamız gerektiğini söylüyor.
+15|<CLT=cltMIND>Evet... Bence okumalıyız.
+16|<CLT=cltMIND>Bu dosyada kurbanla ilgili bütün bilgiler\nmi var? Ne yazdığını merak ediyorum.
+17|<CLT=cltMIND>Kurban Rantaro Amami...\n<CLT=cltSTRONG>Ultimate<CLT=cltMIND> yeteneğinin ne olduğu yazmıyor...
+18|<CLT=cltMIND>Kurbanın cesedi kütüphanede\nbulundu.
+19|<CLT=cltSTRONG>Tahmini ölüm saati 21:10.<CLT=cltMIND>
+20|<CLT=cltMIND>Kurban kafatasının arkasına künt bir\ndarbe almış...
+21|<CLT=cltMIND>bunun sonucunda kafatası kırıkları yaşayıp\nanında ölmüş. Başka yara tespit edilmemiş.
+22|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Monokuma Dosyası 1<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+23|<CLT=cltMIND>Beyin olup olmadığı yazmıyor...\nEh, bu çok açık...
+24|<CLT=cltMIND>Ama ölüm oyunu hâlâ devam ediyor...yani\nbeyin olmadığını varsayacağım, değil mi?
+25|<CLT=cltMIND>Ama Rantaro beyin değilse...\no zaman kim?
+26|Biraz geç oldu biliyorum ama...\nbunu görmek her şeyi gerçek kılıyor...
+27|Rantaro...gerçekten öldü.
+28|Bu beynin suçu...
+29|Rantaro'yu beyin öldürdü...
+30|...Beyin mi? Pardon, neden\nbahsediyoruz?
+31|Kaede... Lütfen neler olduğunu hiçbir\nayrıntıyı atlamadan açıkla.
+32|Evet, açıklayacağım...
+33|<CLT=cltMIND>Shuichi'yle birlikte herkese anlattık...
+34|<CLT=cltMIND>Beynin aramızda saklanıyor olma\nihtimalinden bahsettik...
+35|<CLT=cltMIND>Onu ortaya çıkarmak için kütüphanede\nkurduğumuz tuzaktan...
+36|<CLT=cltMIND>Ve <CLT=cltSTRONG>birinin<CLT=cltMIND> tuzağımıza takıldığından, bu\nyüzden kontrol etmek için kütüphaneye geldiğimizden...
+37|<CLT=cltMIND>...ve Rantaro'nun cesedini bulduğumuzdan.
+38|Anlıyorum... Demek böyle oldu. İkinizin böyle\nbir şey planladığından haberim yoktu.
+39|Kh! Yani benim değiştirdiğim kameraları bu\nsaçmalık için mi kullandınız!?

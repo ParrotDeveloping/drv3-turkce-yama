@@ -1,0 +1,136 @@
+@ game_resident_US
+## B-Techou
+2|Tamam
+3|Ana menüye dönersen\nkaydedilmemiş ilerleme\nkaybolacak. Emin misin?
+4|Seçili eşya hediye olarak verilsin mi?
+5|Bunu hediye olarak veremezsin,\nbu bir anahtar eşya...
+6|???
+7|Boy
+8|Kilo
+9|Göğüs
+10|Kan Grubu
+11|Doğum Tarihi
+12|Sevdikleri
+13|Sevmedikleri
+14|Notlar
+15|Maks. Etki
+16|Maks. Odak
+17|Yetenek Yuvası
+18|Bilgi
+19|Yetenekler
+20|Müzik Sesi
+21|Efekt Sesi
+22|Konuşma Sesi
+23|Metin Hızı
+24|Nişangah Hızı
+25|Yürüme Sallantısı
+26|Bakışı Ters Çevir
+27|Kontroller
+28|Harita Görünümü
+29|Varsayılana Dön
+30|Arka plan müziğinin ses seviyesini ayarla.
+31|Ses efektlerinin ses seviyesini ayarla.
+32|Konuşmaların ses seviyesini ayarla.
+33|Metin hızını ayarla.
+34|Soruşturma sırasında nişangahın hareket hızını ayarla.
+35|Yürürken bakış açının sallanıp sallanmayacağını ayarla.
+36|Y ekseninin ters olup olmayacağını ayarla.
+37|Hareket kontrollerini ayarla.
+38|Harita görünümünü ayarla.
+39|Seçenekleri ilk ayarlarına döndür.
+40|Yetenekli Gençler için Ultimate Akademisi Okul Kuralları
+41|Bu yetenek satın alınsın mı?
+42|Yeterli yuva yok
+43|Birleştirilemez
+44|<DIG=●> parça gerekiyor
+45|Akademinin planına göz at. \nBelirli yerleri bulmana \nyardımcı olur.
+46|Kaydettiğin kanıtlara ve \ntanık ifadelerine \ngöz at.
+47|Üzerindeki kişisel \neşyalara \ngöz at.
+48|Ultimate Akademisi'ndeki\nher öğrencinin karnesine\ngöz at.
+49|Uyulması gereken kural \nve yönetmeliklere \ngöz at.
+50|Düzgün bir okul hayatı için\ngereken bütün işlevler\nburada sunuluyor.
+51|Titreşim
+52|Titreşimi aç/kapat.
+53|Mevcut ilerlemeni kaydet.
+54|Önceki ilerlemeni yükle.
+55|Her davada müdahaleyi önlemek için bütün ifadeleri ve\nolayları gerçekleştikleri gibi kaydeder.
+56|Ortamını en rahat edeceğin şekilde ayarla.
+57|Okul hayatını bitir ve Ana Menü'ye dön.
+58|Monopad temasını ayarla.
+59|Bağlar
+60|Yetenek kazanıldı.
+61|Gereken parça: <DIG=●>
+62|X Eksenini Ters Çevir
+63|Ses Dili
+64|X ekseninin ters olup olmayacağını ayarla.
+65|Oyun içi ses dilini değiştirebilirsin.\nBu ayar sadece ana menüdeki Seçenekler'den yapılabilir.
+66|Lütfen kullanmak istediğin ses dilini seç.\n(Ana Menü'deki Seçenekler'den değiştirebilirsin.)
+67|Japonca
+68|İngilizce
+## B-TechouKousoku
+0|Öğrenciler öngörülebilir gelecek boyunca\nUltimate Akademisi'nde yaşamak zorundadır.
+1|Bir cinayet işlendiğinde hayatta kalan bütün\nöğrenciler bir <CLT=5>sınıf duruşmasına<CLT=0> katılmalıdır.
+2|Kara sınıf duruşmasında ortaya çıkarılırsa\n<CLT=5>sadece o idam edilir<CLT=0>.
+3|Kara ortaya çıkarılmazsa <CLT=5>geri kalan bütün\nöğrenciler idam edilir<CLT=0>.
+4|Kara sınıf duruşmasından sağ çıkarsa mezun\nolur ve <CLT=5>dış dünyaya geri döner<CLT=0>.
+5|Ölüm oyunu ve sınıf duruşmaları hayatta\nsadece iki öğrenci kalana kadar devam eder.
+6|<CLT=5>"Gece vakti"<CLT=0> akşam 22:00'den sabah 08:00'e kadardır.\nYemekhane ve spor salonu gece yasaktır.
+7|Ultimate Akademisi'nin müdürü Monokuma'ya\nşiddet kesinlikle yasaktır.
+8|Monokuma asla doğrudan cinayet\nişlemez.
+9|Monopad'leriniz çok önemli eşyalardır.\nLütfen onlara zarar vermeyin.
+10|Üç ya da daha fazla öğrenci bir ceset bulduğunda\n"<CLT=5>Ceset Bulundu Anonsu<CLT=0>" çalınır.
+11|Asgari kısıtlamalarla kampüsü dilediğiniz gibi\nkeşfetmekte <CLT=5>özgürsünüz<CLT=0>.
+12|Bu kuralları çiğneyen öğrenciler Exisal'lar\ntarafından derhal <CLT=5>imha edilir<CLT=0>.
+13|Gece vakti havuzda <CLT=5>yüzmek yasaktır<CLT=0>. \nSuya dokunmak da okul kurallarına aykırıdır.
+14|Farklı katillerin iki farklı cinayeti aynı anda gerçekleşirse, \n<CLT=5>sadece kurbanı önce bulunan<CLT=0> Kara sayılır.
+15|Ayrıca müdürün keyfine göre okul kurallarına \nyeni maddeler eklenebilir.
+16|Okul Kuralı 18
+17|Okul Kuralı 19
+18|Okul Kuralı 20
+19|Okul Kuralı 21
+20|Okul Kuralı 22
+21|Okul Kuralı 23
+22|Okul Kuralı 24
+23|Okul Kuralı 25
+24|Okul Kuralı 26
+25|Okul Kuralı 27
+26|Okul Kuralı 28
+27|Okul Kuralı 29
+28|Okul Kuralı 30
+29|Okul Kuralı 31
+30|Okul Kuralı 32
+31|Okul Kuralı 33
+32|Okul Kuralı 34
+33|Okul Kuralı 35
+34|Okul Kuralı 36
+35|Okul Kuralı 37
+36|Okul Kuralı 38
+37|Okul Kuralı 39
+38|Okul Kuralı 40
+39|Okul Kuralı 41
+## H-Result
+4|<DIG=●>
+5|<DIG=●>：<DIG=●>：<DIG=●>
+50|x0.9
+51|x0.2
+52|x1.3
+53|x0.9
+54|x0.2
+55|x1.3
+## J-TutorialHelpDesc
+0|Zayıf noktaya doğru Gerçek Mermisini at.
+10|Katılmak için doğru Gerçek Mermisini at.
+20|Zayıf noktayı Gerçek Kılıcıyla kes.
+30|Kelimeyi bulmak için Harf Kürelerini topla.
+40|Parkurdaki Harf Küplerini topla.
+50|Doğru cevabı taşıyan yolcuyu al.
+60|Doğru resmi seçmek için kaz.
+70|Rakibin ifadesindeki açığı bul.
+71|Anahtar Kelimeyi rakibinkiyle eşleştir.
+72|İddiayı ilerletmek için doğru tuşa bas.
+80|Ritme uygun doğru tuşa bas.
+90|Panelleri doğru boşluklara yerleştir.
+100|Tuzaklardan kaçıp çıkışa ulaş.
+110|Beyaz Gürültüyü susturucuyla vur.
+120|Yalan Mermisi için <PAD=【△】> basılı tut.
+130|Yüksek Sesleri susturucuyla vur.

@@ -1,0 +1,87 @@
+[
+ {
+  "id": 0,
+  "en": "I was only\n<CLT=size2>alone<CLT=size1>",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I was only alone in the gym for about...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "in the <CLT=size2>gym\n<CLT=size1>for about...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=size2>five minutes.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "five minutes.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=size2>Himiko<CLT=size1> and the others\nwere <CLT=size2>with me...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Himiko and the others were with me...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "until <CLT=size2>they left<CLT=size1> with <CLT=size2>Gonta...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "until they left with Gonta...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "That was \n<CLT=size2>five\nminutes<CLT=size1>\nbefore 9:00 p.m.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "That was five minutes before 9:00 p.m.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Did you really\n<CLT=size2>leave<CLT=size1> the gym\nat <CLT=size2>9:00 p.m.?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Did you really leave\nthe gym at 9:00 p.m.?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Are you sure you\n<CLT=cltWEAK>did not stay at the <CLT=size2>gym<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Are you sure you did not stay at the gym?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Only five minutes...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Kirumi isn't lying!",
+  "tr": ""
+ }
+]

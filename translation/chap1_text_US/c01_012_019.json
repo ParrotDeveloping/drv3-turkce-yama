@@ -1,0 +1,307 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Like before, the empty library was filled with the\nscent of old musty books.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Okay...before I say anything else, I want\nyou to promise me you'll keep this secret.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Okay, got it...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>Shuichi looked relieved and smiled...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Like a great detective, he began to\nexplain in exacting detail.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "This library has books scattered everywhere.\nEven books lying on top of the bookcases.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "But, take a look at this bookcase. It's the\nonly one in the library with no books on top.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Oh, that one? Huh, you're right...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Also, you can see that the floor in front of\nthe bookcase has noticeable markings.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "You're right... What is this?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I noticed the markings the first time\nI came here with you.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "This morning, I came back to investigate.\nThat's when I found this...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>He then walked over to the bookcase,\nplaced his hands between the gap—",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>And moved the bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Whoa, it moved!?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "It swings open...\nLook, there's a door behind it...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>A door...?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "So this is what you wanted to show me.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "That's why I wanted you\nto come here with me.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "There's something unique about this door.\nTake a closer look.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>I never would've thought this bookcase\ncould move...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>The pattern on the hidden door is black\nand white...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>Just like Monokuma!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Hey, do you think this door is connected to\nMonokuma somehow?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I think it might.\nBut I don't know anything for sure.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "This door has a card reader lock,\nso I can't open it.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "You can't?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "But the very fact this door is here\nmakes me consider...a <CLT=cltSTRONG>certain possibility<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "There is a chance that one of us here...\nis <CLT=cltSTRONG>cooperating with Monokuma<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Huh? Cooperating with Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "W-Wait a minute! What do you mean by that!?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "It's only a hypothesis right now, but...\nconsider this.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Why *would* there be a hidden door here?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "If it were solely for Monokuma's use,\nhe wouldn't need to hide it.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "He could just have the Monokubs or the\nExisals protect it and keep it in plain sight.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "However...I can think of one reason\nthat the door would be hidden.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "For one of us to sneak in and use it,\nwithout anyone else noticing.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Maybe, but...I can't believe someone in our\ngroup could be working with Monokuma...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I can't believe it either.\nThat's why...to confirm my suspicions...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "I decided to set a little trap\non this card reader.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I sprinkled some dust inside the card\nreader, so that I could tell if it was used.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Of course, I was careful to make sure\nthe dust wouldn't come loose accidentally.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "And I don't think the person swiping their\ncard would notice or care about a little dust.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "So if we see dust on the floor, it means one\nof us used this door, right?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Well...as I mentioned before, this is just\na hypothesis. I have no evidence yet...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "But...if it is true...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Then even if Monokuma is gone,\nthis isn't going to end, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...Anyway, that's what I had to tell you.\nOf course, I don't expect you to believe me.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "I just...wanted to tell you.\nNo matter what.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Well, let's head back.\nWe shouldn't stay here too long.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>After putting the moving bookcase back\ninto place, we cautiously left the library.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Is this...?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "It's a card reader. I think we can safely\nassume that it opens the hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>There's a door behind the bookcase?\nAnd that pattern...!",
+  "tr": ""
+ }
+]

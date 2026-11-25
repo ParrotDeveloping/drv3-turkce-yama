@@ -1,0 +1,56 @@
+@ chap0_text_US
+## c00_007_002
+111|Yine de hiçbir fikrim yok...
+112|<CLT=cltMIND>Bu heykel burada hiç yakışmamış...\nBurada ne işi var ki?
+113|Ah! Bir dakika!\nBurası müzik odası mı?
+114|<CLT=cltSYSTEM>*tık*
+115|Ha... Açılmıyor. Ama bu oda sanki benim\niçin yapılmış gibi görünüyor...
+117|Ah! Yine geldiler!
+118|Sizce burası ne?
+119|Şu süslü püslü yazılara bakın!\nİnek öğrencilere göre bir yer gibi!
+120|Ha? Burası bir <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltNORMAL> değil mi?
+121|Ne halt ediyorsun? Neden onlara söyledin?\nHer şeyi dramatik yapmaya çalışıyorduk.
+122|Ah, anlıyorum... Özür dilerim.
+123|Ha? <CLT=cltSTRONG>Ultimate Araştırma Laboratuvarı<CLT=cltNORMAL> ne?
+124|<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneklerinizi geliştirmeye devam\netmenizi istiyoruz, o yüzden bu odaları kurduk.
+125|Burası <CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>'in laboratuvarı ama diğer\nUltimate'lar için de laboratuvarlar kurduk tabii.
+126|Gerçi çoğu hâlâ gizli!
+127|Bu arada...bu araştırma laboratuvarının\nhâlâ kilitli olmasının sebebi...
+128|Sebebi...?
+129|Çünkü hâlâ her şeyi hazırlıyoruz...\nÜzgünüz, hepsini hazırlamak için acele edeceğiz.
+130|Kıçınızı silin ve bekleyin!
+131|Güzel tavsiye ama...sen "atını sakin\nsür" demek istemedin mi?
+132|Puhuhu... Monokid ne kadar aptal.
+133|Ne gülüyorsun!? Monodam'a zorbalık ettiğim\ngibi sana da ederim!
+135|Müzik odasına benziyor...
+136|...ama sanırım bir <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> laboratuvarı.
+137|Sence...gerçekten bunun gibi başka\nodalar da var mı? Herkes için?
+138|Ben de onu merak ediyorum...
+139|<CLT=cltMIND>Neyse...burayı müzik odası sanmıştım.\nOf, gerçekten piyano çalmak istiyordum...
+140|<CLT=cltMIND>Neyse. Sonunda buradan kaçtığımda\nistediğim kadar piyano çalabilirim.
+141|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in araştırma laboratuvarı, ha?
+142|<CLT=cltMIND>Neyse. Sonunda buradan kaçtığımda\nistediğim kadar piyano çalabilirim.
+143|Açılmıyor.\nBaşka bir yere bakalım.
+145|<CLT=cltSYSTEM>Tebrikler!\nArtık <CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i kullanabilirsin!
+146|<CLT=cltSYSTEM><CLT=cltSTRONG>Monopad<CLT=cltSYSTEM>'i açmak için F tuşuna bas. \nİçinde bir sürü oyun bilgisi var.
+147|<CLT=cltSYSTEM><CLT=cltSTRONG>Karne<CLT=cltSYSTEM> ve <CLT=cltSTRONG>Harita<CLT=cltSYSTEM> gibi şeyler.\nMutlaka göz at!
+148|<CLT=cltSYSTEM>Gözün keskinse\nbelki fark etmişsindir...
+149|<CLT=cltSYSTEM>Diğer öğrencilerle yakınlaştıkça\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'ne yeni bilgiler eklenecek.
+150|<CLT=cltSYSTEM>Artık Saihara ile tanıştığın için\nonun bilgileri çoktan eklendi.
+151|<CLT=cltSYSTEM>Ayrıca eminim bir şeyler yaparak <CLT=cltSTRONG>seviye\natlayabildiğini<CLT=cltSYSTEM> de fark etmişsindir.
+152|<CLT=cltSYSTEM>Seviye atladığında <CLT=cltSTRONG>yetenek yuvaların<CLT=cltSYSTEM>\nartar, böylece daha fazla yetenek kuşanabilirsin.
+153|<CLT=cltSYSTEM>Bir sürü yetenek var, onlara\n<CLT=cltSTRONG>Karne<CLT=cltSYSTEM>'den bakabilirsin!
+154|<CLT=cltSYSTEM>Yetenek istiyorsan arkadaş edin!\nBağlarını güçlendir!
+155|<CLT=cltSYSTEM>Bütün yetenekleri mutlaka dene!
+156|<CLT=cltSYSTEM>Bir de...sana söylemem gereken önemli\nbir şey daha var.
+157|<CLT=cltSYSTEM>Oyunu el kitabından <CLT=cltSTRONG>kaydedebilir<CLT=cltSYSTEM> ve\n<CLT=cltSTRONG>yükleyebilirsin<CLT=cltSYSTEM>.
+158|<CLT=cltSYSTEM>Önemli anlarda kayıt almayı\nunutma.
+159|<CLT=cltSYSTEM>O halde! Haydi bakalım!\nSınıf arkadaşlarını bul!
+## c00_007_004
+0|Bana pek de tehlikeli *görünmüyor*.
+1|Ah, şey...bazı tehlikeler görmediğin\nyerlerde saklıdır.
+2|Shuichi...epey hayal gücün var,\ndeğil mi?
+3|Hayır, sadece bunun ne kadar tehlikeli\nolduğunu düşünmediğini düşünüyorum...
+4|Evet, belki.\nAma bodruma da bakmalıyız.
+5|Bir çıkış olabilir.\nAh, ama dikkatli olmalıyız.
+6|Evet...haklısın.

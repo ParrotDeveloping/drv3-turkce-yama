@@ -1,0 +1,407 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>When we left the hidden room...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>we saw Keebo and the Exisal\nin a fierce battle!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Ah! Ugh...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you alright!? Are either of you injured!?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "I-I'm okay...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Wh-What!?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>The hidden door has been\nblocked by rubble!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I'm sorry! I'm relieved that you two are not\nhurt.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "H-Hold on... Himiko is...!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>I have an idea...\nI know how to find the mastermind!",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>I can't get through the rubble!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>H-Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>The hidden door has been blocked\nby rubble! We can't get in or out!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I-Is...Himiko trapped?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I-I think so...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Keebo, can you do something!?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "I can destroy the debris, but without knowing\nHimiko's status...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "It could be dangerous for me to just\nrecklessly attack it.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Th-Then...are you saying we should \njust leave her there?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I couldn't do such a thing! We're friends!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "But I'm not strong enough to lift the\ndebris...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...Let's use the Exisal.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Use the Exisal...? How?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "We don't have any more of Miu's inventions,\nand the Monokubs are in the Exisals—",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Exactly. We're going to get Monokuma\nand the Monokubs to do it.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...Monokuma and the Monokubs?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "They don't want this either. Their objective\nis to continue the killing game...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Are you suggesting that we surrender to\nthem, and continue the killing game!?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "But Himiko is in danger! Rescuing her \nshould be our first—",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "No. We're going to *end* this\nkilling game.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...What do you mean? Do you have a plan\nof some sort?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Yes, I do. It just requires a little bit\nof detective work...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "We need to investigate some more.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Huh? What about Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "...I'm worried about her, but we have to\ntrust that she's okay right now.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "We trusted her when she said to\nleave everything to her.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "If we just stand around here,\nwe're not respecting her wishes.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "O-Okay... Himiko is the <CLT=cltSTRONG>Ultimate Magician<CLT=typeNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I bet she'll use her magic to find a clue\nin that room that's just plain amazing.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Yeah, I'm sure Himiko is okay.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "If you're in search of clues, I would\ninvestigate the classroom on the 2nd floor...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I caught a glimpse of something odd there\nwhile battling the Exisals in the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Whatever clue you're looking for may be\nthere.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Something odd...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Just hurry! You don't have much time!\nIt's nearly dawn.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "And...I'm worried about Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "But you won't change the time limit...will you?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "I can't keep evading the Exisals' attacks\nbeyond that time limit.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "If we don't settle this soon, I'll be destroyed.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "And if that happens, we'll lose the chance\nto destroy the Ultimate Academy...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "That would be the worst ending...\nNo...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "...It would be an ending of pure despair.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Tsumugi, I'm going to the second floor.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "I don't know if I can get to all of them,\nbut I'll do what I can!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "I'll see you later!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>With confident steps, Tsumugi\nran out of the library.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>Himiko...just a little longer...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltSYSTEM>You have increased your <CLT=cltSTRONG>bond<CLT=cltSYSTEM>!\nYou can move more debris than before.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>Himiko...just a little longer...",
+  "tr": ""
+ }
+]

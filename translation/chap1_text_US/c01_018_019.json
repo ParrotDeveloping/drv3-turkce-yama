@@ -1,0 +1,377 @@
+[
+ {
+  "id": 0,
+  "en": "Alright, I'll explain everything.\nFirst, take a look at the card reader.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>As Shuichi said that, he moved the bookcase\nto reveal the hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I peeked into the gap of the card reader.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "The dust is gone!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "That's right. I checked it right after nighttime\nstarted yesterday, and the dust was there.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "But this morning, it was gone.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "So that means...someone entered this door\nduring nighttime?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "That got me thinking.\nThis may sound far-fetched, but...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Perhaps Monokuma's revival is related\nto this door somehow.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "How so?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Remember what the Monokubs said?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "This school...has a machine somewhere that\ncan make a whole lotta Pops.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Just activate that machine, and you can have\nas many spare Pops as you wa—",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Um...so there's a machine that can build\nspare Monokumas?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "That would explain why we saw Monokuma\nalive and well in the morning...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "At nighttime, <CLT=cltSTRONG>someone<CLT=cltNORMAL> went through\nthis door and activated the machine.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "And then there's what Monokuma\njust told us...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "A time limit is now in effect! If a murder does\nnot occur by <CLT=cltSTRONG>nighttime, two days from now<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "then every student forced to participate\nin this killing game will die!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "The way he phrased it seemed peculiar.\nWhy not just say \"everyone will die\"?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "He went out of his way to specify that\nstudents \"forced to participate\" will die.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Huh? But why?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "My deduction is that one of us <CLT=cltSTRONG>volunteered\nto participate<CLT=cltNORMAL> and wasn't <CLT=cltSTRONG>forced<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "That would mean that they would avoid\nexecution without breaking any rules.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Perhaps that's why Monokuma\nsaid it that way.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "And that person is the one in our group\nwho's <CLT=cltSTRONG>cooperating with Monokuma<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I don't know if Monokuma is *that* strict with\nrules, but if he is trying to protect someone...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...that would imply that they're doing more\nthan just cooperating with Monokuma.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I believe that if one of us can create spare\nMonokumas...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "They are the <CLT=cltSTRONG>mastermind<CLT=cltNORMAL>\nof this killing game.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "So, the person who's responsible for all our\nsuffering...is one of us?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Of course, this is just what I've deduced,\nbut it is entirely possible.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "That's why I didn't want to talk about\nthis in front of everyone...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "If we told them now, they might all try to\nfind the mastermind, and be led to murder.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "That's why...I could only tell you, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>The mastermind...\nThe one controlling Monokuma...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>I can't believe the person responsible for\nour suffering could be among us...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>It's hard to accept, but if it's true...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>I can't forgive them...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "So...what do you plan to do now, Shuichi?\nWe're gonna find this mastermind, right?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I'm...thinking of taking the risk,\njust before time expires.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I believe the mastermind will come here just\nbefore time is up, and I can expose them.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Wait, how do you know they'll come here\nright before time's up?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I'm extrapolating from something\nMonokuma told us earlier...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Mauled to shreds by countless Monokumas\nfrom the rumored Monokuma-making machine!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "To produce a large number of Monokumas,\nthe mastermind would have to come here.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "They would have to get into the hidden\nroom to activate the machine.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Of course, none of this is certain.\nThere's a chance the mastermind won't show.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Like I said...it's a risk.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But I'm willing to take it. It's better than\njust sitting around, waiting to die.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "I'll take that risk with you!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Ah, but...Kaede, this is just *my* deduction,\nit's possible that I'm wrong...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Yeah, I know.\nBut I've made up my mind.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "You told me about this, so that must mean\nyou trust me, right, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Then...I'll trust you, too.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "...I mean, I don't have a good idea of my own\nso obviously I'll help you with yours.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Okay, then! Let's expose the mastermind\ntogether, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Thank you, Kaede.\nYou...have a way of encouraging me.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "I never expected this to happen, though...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "I can't believe our enemy is within our group,\nhiding in plain sight.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "...Yeah.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Now that we know this, I should stop saying\n<CLT=cltSTRONG>everyone<CLT=cltNORMAL> needs to work together...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "But whoever the mastermind is, we'll expose\nthem and help everyone else escape!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "And when this is all behind us, we're gonna\nstay good friends! That's a promise, okay!?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...R-Right.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>After we re-applied the dust to the card \nreader, I left Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>...and returned to my room.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ }
+]

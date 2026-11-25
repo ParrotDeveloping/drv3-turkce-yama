@@ -1,0 +1,337 @@
+[
+ {
+  "id": 0,
+  "en": "<PAD=【○】>Confirm",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<PAD=【×】>Return",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<PAD=【Ｒ上下】>Scroll",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<PAD=【△】>Change tab",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<PAD=【□】>Change playback",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<PAD=【□】>Details",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<PAD=【○】>Next",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<PAD=【○】>ＢＥＴ",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<PAD=【△】>MAX BET",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<PAD=【△】>Start",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<PAD=【□】>Details",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Show Question",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hide Question",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<PAD=【Ｌ１】【Ｒ１】>Turn page",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<PAD=【Ｌ←回】>Left dial",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<PAD=【Ｒ→回】>Right dial",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<PAD=【△】>Open",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<PAD=【Ｌ１】> <PAD=【Ｒ１】>ＢＥＴ×１０",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<PAD=【Ｐ上下】>ＢＥＴ",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<PAD=【Ｐ上下】>ＢＥＴ   <PAD=【Ｌ１】> <PAD=【Ｒ１】>ＢＥＴ×１０   <PAD=【△】>MAX BET",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<PAD=【○】>Dummy",
+  "tr": ""
+ }
+]

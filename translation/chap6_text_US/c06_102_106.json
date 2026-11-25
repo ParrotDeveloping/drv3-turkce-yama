@@ -1,0 +1,702 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>So this is Kokichi's room...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I don't know where he got all this stuff, but\nhe hoarded a lot of things...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "It's unsettling, but...we should investigate it.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Right...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>By investigating this room...\nwe might learn more about Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Kokichi said that he was the leader of an\norganization opposed to the <CLT=cltSTRONG>Gofer Project<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>In that effort, he tried to take\nthe position of the <CLT=cltSTRONG>mastermind<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>Flashback Light<CLT=cltMIND> helped us remember that\nthat organization was the <CLT=cltSTRONG>Remnants of Despair<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Kokichi...was the leader of the\n<CLT=cltSTRONG>Remnants of Despair<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>But is that the real truth? I feel as\nthough there may be a lie in there...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Hey...I wanted to ask you something.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Hm? What is it, Maki?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Kaito...believed Kokichi. He believed that\nsomeone's watching this killing game.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "...What do you think?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...Kokichi does have a compelling point.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "This killing game only makes\nsense if there's an audience.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Why else would there be all of these\nrules designed to make it more interesting?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "It's just like Junko Enoshima's\nkilling game from the past.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Monokuma is particularly strict about upholding\nthe rules and livening up the killing game...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...Is it because someone's watching? But\nwe're all that's left of humanity, aren't we?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Even if he did say it was to show someone,\nno one else is alive anywhere else, right?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I wonder if...someone really did infiltrate this\nplace.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "That *is* a mystery...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "But all mysteries conceal some truth...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "There is still a truth to find\nin this killing game.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>Whether that truth is hope or despair...\nis another matter entirely.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Killing Game<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Monokuma is particularly strict about upholding\nthe rules and livening up the killing game...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "...Is it because someone's watching? But\nwe're all that's left of humanity.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "So there shouldn't be anyone alive to\nshow this to... What could this mean?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>That *is* a mystery...\nWhat truth is concealed by this mystery?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I'm going to check the blueprints here.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "I won't stop you from researching Kokichi's\nwill. Just don't waste too much time on it.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>I should investigate more closely...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>I should investigate more closely...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>With the furniture and lighting, this room\nis identical to mine.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>With the furniture and lighting, this room\nis identical to mine.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>With the furniture and lighting, this room\nis identical to mine.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Ah, this is...the hidden camera\nI set up in the library...?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "And this is the inner tube that was\nfloating in the pool...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "And this is the book from the\n<CLT=cltSTRONG>Caged Child<CLT=cltNORMAL> seance!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...He was gathering all the evidence from\nthe past incidents?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "The murder weapons aren't here, but why\non earth was he gathering all this—",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...No, it's pointless to try and understand what\nhe was thinking.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Perhaps you're right...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>The hidden camera, the inner tube\nfrom the pool...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>Most of the evidence from previous\ncases is here...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>I don't see the murder weapons.\nWhat was he planning to do with these?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>There are several cardboard boxes\nfilled with documents...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "These look like...blueprints.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Blueprints?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "They're mostly drawings of childish fantasy\nweapons, like ray guns and beam swords...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I wonder if the <CLT=cltSTRONG>Electrohammer<CLT=typeNORMAL> and <CLT=cltSTRONG>Electrobomb<CLT=typeNORMAL>\nblueprints are here...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Maybe he drew whatever came to mind,\nand then selected a few for Miu to create...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Looking at everything, a lot of these childish\ndesigns seem impossible to create...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "That might have been Kokichi's intention.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "...His intention?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "He could have prepared a few fake blueprints\nto mask the real ones.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "It's nearly impossible to check all of them...\nlowering the chance <CLT=cltSTRONG>someone<CLT=cltNORMAL> would find it.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "You mean, there might be something\nimportant hidden among this stuff?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I believe that is a possibility,\nbut we don't have time to look—",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Then I'll do it.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Maki took a seat in front of one of the\nboxes and began searching the blueprints.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "M-Maki...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "...Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "...No problem.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>There are several cardboard boxes\nfilled with blueprints...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>They're mostly drawings of childish fantasy\nweapons, like ray guns and beam swords...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>But that's likely all part of\nKokichi's plan.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>He could have prepared a few fake blueprints\nto mask the real ones.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>It's nearly impossible to check all of them...\nlowering the chance <CLT=cltSTRONG>someone<CLT=cltNORMAL> would find it.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>There might be something\nimportant hidden among these.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "...I'll check the blueprints. You should go\ninvestigate somewhere else.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Thank you...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "It's a Monokubs Pad!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>They were given to all of us as\n<CLT=cltSTRONG>motives<CLT=cltMIND> during Kirumi's case...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>But the <CLT=cltSTRONG>motive videos<CLT=cltMIND> were switched up,\nand we each got someone else's video...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "I don't believe this <CLT=cltSTRONG>motive video<CLT=cltNORMAL> is Kokichi's...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Then there's no point in looking, is there?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "No, we should check. I want to know what\nhe knew. It would explain his actions.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>When I touched my finger to the pad,\nthe video started playing.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Alright! Back by popular demand,\nit's time for the <CLT=cltSTRONG>motive video<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Who's the <CLT=cltSTRONG>most important person in *your* life<CLT=cltNORMAL>?\nAnd now, without further ado...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "What? Kokichi's...?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Kokichi Oma, the <CLT=cltSTRONG>Ultimate Supreme Leader<CLT=typeNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "He caused mayhem the world over as the\nleader of the secret organization, <CLT=cltSTRONG>D.I.C.E.<CLT=typeNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "And by \"mayhem,\" I mean petty nonviolent\ncrimes and harmless pranks...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Anyway, Kokichi had ten loyal goons\nworking for him.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "These goons were like friends and family...\nThe most important people in his life...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "But then, a terrible event befell those\nprecious people...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "What kinda event? It's a secret!\nFind out for yourself. Puhuhuhuhu...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "So this *was* Kokichi's <CLT=cltSTRONG>motive video<CLT=typeNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Why did he have his own <CLT=cltSTRONG>motive video<CLT=typeNORMAL>?\nDid he exchange it with someone else?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Or maybe he was given his own\n<CLT=cltSTRONG>motive video<CLT=typeNORMAL> from the start?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Like Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Oh, so Kirumi wasn't the only one who got\ntheir own <CLT=cltSTRONG>motive video<CLT=typeNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Well, either way, it doesn't matter anymore.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>That is true...but the content of that\n<CLT=cltMIND>motive video<CLT=cltMIND> is disconcerting.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>It's inconsistent with the information we\nalready know about Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>But what can I deduce from that?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Kokichi's Motive Video<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "<CLT=cltMIND>I never thought that a <CLT=cltSTRONG>motive video<CLT=cltMIND>\nwould be a concern *now*...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>Kokichi gathering all those pieces\nof evidence was coincidence...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>Right?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>It's a Monokubs Pad given to all of us as\n<CLT=cltSTRONG>motives<CLT=cltMIND> during Kirumi's case...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>On this one is...Kokichi's <CLT=cltSTRONG>motive video<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>He either traded with someone or had his\nown <CLT=cltSTRONG>motive video<CLT=cltMIND> from the beginning...",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>Even so, what concerns me is the\ncontent of the <CLT=cltSTRONG>motive video<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>It's inconsistent with the information\nI know about Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>But what could this mean?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>I never thought that a <CLT=cltSTRONG>motive video<CLT=cltMIND>\nwould be a concern *now*...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>That covers just about everything\nin Kokichi's room...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "If you're done, you can leave. I'm going to\ncheck the blueprints.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "B-But—",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "We rely on you the most, especially in\nthis situation.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "After all, you're...Kaito's sidekick...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Maki...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "But before you go, I found something strange\nthat I want you to look at.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Something strange?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "What is this...? Is this a real will?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "I think it is a real will, but I wouldn't be\nsurprised if it's fake. He was a liar, after all.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "But if it is real, why did he leave it...?",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "He left us this information\nin case his plan failed...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "...He did? I don't think he would do something\nlike that.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Well, we should look inside.\nThen we'll know more.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>When I opened the envelope...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>small pieces of paper fell out.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Hm...a second message?\nThe wall next to the boiler...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "That's all...? It's probably another one of\nhis horrible pranks.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "...I'm not sure about that.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "I should investigate just in case.\nIt might be an important clue.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "...Do what you want, just don't waste any time.\nIt'll be dawn before you know it.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "<CLT=cltMIND>Alright, I should head to the\nboiler in the garden...",
+  "tr": ""
+ }
+]

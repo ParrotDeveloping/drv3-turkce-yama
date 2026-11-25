@@ -1,0 +1,347 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "OK",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "If you return to the main menu,\nprogress that has not been\nsaved will be lost. Are you sure?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Give the selected item as a present?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "You cannot give that as a present,\nit's a key item...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Height",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Weight",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Chest",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Blood Type",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "D.O.B.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Likes",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Dislikes",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Notes",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Max Influence",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Max Focus",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Skill Slot",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Info",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Skills",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "BGM Volume",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "SFX Volume",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Voice Volume",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Text Display Speed",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Reticle Speed",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Movement Bob",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Look Invert",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Controls",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Map Display",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Restore Defaults",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Adjust the volume for background music.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Adjust the volume for sound effects.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Adjust the volume for spoken voices.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Adjust text speed.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Adjust the reticle movement speed during the investigation.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Set whether your view bobs as you move.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Set whether your Y axis is inverted.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Set movement controls.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Adjust map display.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Reset the options to initial configuration.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Ultimate Academy for Gifted Juveniles School Rules",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Purchase the following skill?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Not enough slots",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Cannot combine",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Requires <DIG=●> fragment(s)",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Review the layout of the \nacademy. This will help you\nfind specific locations.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Review evidence and \nwitness accounts you've \nmade a record of.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Review whatever personal \nbelongings you have on you.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Review the report cards\nfor each student at the \nUltimate Academy.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Review the rules and \nregulations that must \nbe followed.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "All necessary functions\nfor a proper school life\nhave been provided here.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Vibration",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Set vibration on/off.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Save your current progress.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Load previous progress.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "This will record all statements and events as they unfold to\nprevent any tampering in each case.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Adjust your environment for maximum comfort.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "End your school life and return to the Main Menu.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Set Monopad theme.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Bonds",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Obtained skill.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Fragments req.: <DIG=●>",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Invert X-Axis",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Voice Language",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Set whether your X axis is inverted.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "You can change the in-game voice language.\nThis setting can only be configured in Options of the main menu.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Please select which voice language you want to use.\n(You can change it from Options in the Main Menu.)",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Japanese ",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "English",
+  "tr": ""
+ }
+]

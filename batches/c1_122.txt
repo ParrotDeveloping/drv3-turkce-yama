@@ -1,0 +1,52 @@
+@ chap1_text_US
+## c01_700_001
+28|<CLT=cltMIND>Shuichi deli gibi başını sallıyor. Evet, öyle bir\nşey yapacak türden birine benzemiyor.
+29|Sıkıcı görünüyor ama yine de çok çalışıyorsun.
+30|Ah, şey...sıkıcı araştırmalar yapmakta\nepey iyiyimdir...
+31|Ooo, anlıyorum. Böyle şeylerde iyi olurdun.\nGözlerinden anlayabiliyorum.
+32|Gözlerimden...anlayabiliyor musun?
+33|Şaka yapıyorum ama...gerçekten işinin derinliklerine\ndalan biri gibi görünüyorsun.
+34|Bence bu epey etkileyici.
+35|G-Gerçekten öyle mi düşünüyorsun?\nTeşekkürler...
+36|Başka ne tür davalar alıyorsun?
+37|Diğer davalar sadece...evden kaçanları bulmak\ngibi şeyler.
+38|Ooo! Bu daha da büyük bir davanın parçası\nolabilir!
+39|Ah, seni hayal kırıklığına uğrattığım için üzgünüm\nama o davalar nadiren suçlarla bağlantılı...
+40|O noktaya gelmeden onları bulmak benim işim.\nVe zor kısım onlar bulunduktan sonra.
+41|Bulunduktan sonra mı?
+42|Her şeyin yolunda olduğundan emin olmak için\nhem müşteriyle hem de kaçanla görüşmek gerekiyor...
+43|Dedektifler onlarla da mı görüşmek zorunda?
+44|Şey, belki bütün dedektifler bunu yapmıyordur...\nama amcamın politikası buydu.
+45|Ve ben de katıldığım bir politika.
+46|İnsanların kaçmak için sebepleri vardır...\nyani dava ancak bütün taraflar mutlu olunca kapanır.
+48|<CLT=cltMIND>Sorunu çözmezsen tabii ki yine kaçmaya\nçalışacaklardır...
+49|<CLT=cltMIND>Dedektiflerin bu kadar düşünceli olduğunu bilmiyordum.\nYoksa sadece Shuichi mi özel bir durum?
+50|<CLT=cltSYSTEM>Shuichi'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+51|<CLT=cltMIND>Shuichi'den ayrıldıktan sonra odama\ndöndüm.
+## c01_700_002
+0|Hey, Shuichi... Dedektiflik işine neden\nkarışmaya başladın?
+1|Amcan sana yardım etmeni mi istedi?
+2|Ah, pek sayılmaz. Öylesine oldu. Aynı zamanda\nbana baktığı için bir tür teşekkürdü.
+3|Sana baktı mı?
+4|Sanırım bundan daha önce hiç bahsetmedim...\nŞu an amcam ve karısıyla yaşıyorum.
+5|Ah, pardon... Burnumu sokmak istememiştim...
+6|Ah, yok, ardında üzücü bir hikâye falan yok.\nAilem iş için yurt dışına gitti.
+7|Anlıyorum. Yurt dışında ne yapıyorlar?
+8|Biri oyuncu, biri senarist.
+9|O-Oyuncu mu!? Ve senarist mi!?\nNeeee!? B-Bu çok havalı!
+10|Şey, benim için sadece...çocuk yetiştirmeye\nkarışmayan bir anne babalar.
+11|O yüzden onları pek ünlü falan olarak\ngörmüyorum...
+12|<CLT=cltMIND>Shuichi'nin gülümsemesi buruk görünüyor. Acaba\nailesi onu çok mu oradan oraya sürüklüyor...
+13|Ah, konudan saptık! Şey, sana sormak\nistediğim bir şey vardı, Shuichi...
+14|<CLT=cltSTRONG>İlk davan<CLT=cltNORMAL> neydi?
+15|İlk dava mı...?
+16|Bizzat yürüttüğün ilk dava. İlkler genelde\ninsanlar için önemli bir şeydir, değil mi?
+17|Ben ilk piyano resitalimi hâlâ hatırlıyorum.
+18|<CLT=cltMIND>Hiç şüphesiz ilk performansımın deneyimi\nbugün hâlâ benimle.
+19|Evet...sanırım bir davayı ilk kez yürüttüğüm\nzamanı hatırlıyorum.
+20|Aslında amcamın bürosundan gelen bir dava\ndeğil. Onu kendim kabul ettim.
+22|Dedektiflik bürosunda yardım ettiğimi bilen bir\nsınıf arkadaşım evcil hayvanını bulmamı istedi.
+23|<CLT=cltMIND>Bir dedektif olarak ilk davası kayıp bir\nevcil hayvanı bulmak mıydı?
+24|...Bunu beklemiyormuş gibi görünüyorsun.
+25|...O kadar belli mi, ha? Sanırım bunu çıkarmak\niçin Ultimate Dedektif olmana gerek yok.
+26|Şey, dedektifler ara sıra kayıp evcil hayvanları\nbulma talepleri de alırlar.

@@ -1,0 +1,62 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>So the poison played a role in\nthis killing game after all...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Miu just used it as a diversion,\nbut next time...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>...No! There can't be a next time!\nI've had enough of this!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Case files, lined up for me to read.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>They contain photographs of murder\nscenes and the <CLT=cltSTRONG>tricks the culprits used<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I don't know if these are real cases,\nbut they all seem plausible.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>The first few files have only artist renderings,\nbut the others have photographs...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Is there a reason for that?\nAre the old ones <CLT=cltSTRONG>just fictional<CLT=cltMIND>?",
+  "tr": ""
+ }
+]

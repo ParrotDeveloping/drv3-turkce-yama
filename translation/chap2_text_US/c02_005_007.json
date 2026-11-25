@@ -1,0 +1,1132 @@
+[
+ {
+  "id": 0,
+  "en": "Everyone! Gather 'round!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "We all here? Good! Then let's bow our heads\nand pray to Atua.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "You're a real pain in the ass, ya know that!?\nJust tell us what you fuckin' want!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Alrighty then, check this out.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "That is a peculiar-looking flashlight...\nSo, what of it?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Umm, I dunno what it is either.\nI inspected it pretty good...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Nyahahaha, but in the end I couldn't figure\nit out.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "You couldn't?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "So I asked someone for help.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...You don't mean—",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "If somethin' has you worried, just let\nMonokuma take care of it!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "If you don't know something, I'll tell you.\nIf you need help, I'll help you.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "If you don't like something, I'll fix it. So don't\nget rid of it... Please don't get rid of...me.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Very bad when lady who act like that\npreys on you.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Huh? Do you know that from \npersonal experience?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Tell us, Monokuma. What is this flashlight?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Why, that's a <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "A...Flashback Light?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Flashback?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Light?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "That flashlight doesn't shed light on darkness,\nit sheds light on your <CLT=cltSTRONG>lost memories<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Lost memories...?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "You guys seemed concerned that you couldn't\nremember how you came to this school...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "But if you use that <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>, you can\nremember everything!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "What...? With this light?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "So it's your fault we don't remember \nwhen we were kidnapped, huh?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "What did you do to us, and how did you\nsteal our memories away?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Hmm, maybe if you use the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>,\nyou'll be able to remember that, too.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "...I don't believe it. No way this flashlight will\nrecover our memories.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I bet there were a lot of naysayers and skeptics\nwhen the telephone was invented, too.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "For your information, the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL> can\ntreat various symptoms of <CLT=cltSTRONG>memory loss<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "The light it emits stimulates the basal ganglia\nand hippocampus. Not just that, but physical—",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Phew, I didn't realize how boring it would be\nto explain. Basically, it works like that...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Hey! Don't just give up on explaining\nafter a single sentence!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "So...what should we do?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "What should we do...? You mean, should we\nor should we not use the flashlight?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "No way! I refuse! It reeks of fishiness!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Yeah. Gonta no can believe flashlight can\nbring back memory.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Well, why not ask someone who knows machines?\nWe've got the <CLT=cltSTRONG>Ultimate Inventor<CLT=cltNORMAL> right here.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "You're all a bunch of Ultimate Dumbasses!\nNo fuckin' way that thing can treat amnesia!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Then again...these aren't exactly <CLT=cltSTRONG>normal\ncircumstances<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "So in such an uncanny environment as this, \ncommon sense has no place.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Well, I mean, there are those neuralyzer things.\nThe flashy things from Men In Black...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Why are you talking about a movie?\nThis is real life.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Y-You're right... Sorry.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I...don't think we should do it... I'm scared it\nmight cause some weird side effects...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Nyeeeh... I'm worried how it will \naffect my magic.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...Has everyone spoken? If we're in accord,\nI will consent as well.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "What about you, Shuichi? You have not\nsaid anything yet.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "What? Ah, I—",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Alright! Then it's decided! Let's use it!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Huh? Who decided that? We were all \nsaying how dangerous it sounds...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Geez, you guys are way too cautious.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "I mean, I understand why. We're in such \na weird situation, after all.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "But...we can't win by just running away \nall the time!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>...What?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "If you want to win, you've gotta be \na little reckless sometimes.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "If we can't face this danger, there's no way \nwe'll be able to defeat Monokuma.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Kehehe... Well, aren't you confident? But you've\nno idea *how* we're supposed to win, do you?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Yeah, I've got no clue.\nBut still...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "If you wanna win, you gotta make a stand \nsomewhere or you'll never move forward.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "If we run away, our kids will grow up to be the\nkinda people who run away from things like this!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "...Huh? What are you talking about?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "If you still wanna run away, then go ahead.\nI won't stop you or blame you.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Okaaay, fine. Then, let's go—",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...Huh? What's wrong, everyone?\nAren't we going?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I'm...staying.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "After hearing that degenerate's speech,\nrunning away would just frustrate me!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Gonta also stay...\nIs what true gentleman would prolly do.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I also agree with Kaito. Our defeat is 100%\nassured unless we stand up to this.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "That's...how I feel, deep inside.\nJust a whisper—",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "You hear it in your ghost? I'm pretty sure\nrobots don't have ghosts, though.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "...Leave me alone.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "I shall stay as well. I suspect I will be able \nto observe something most interesting...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "If anything happens to me, y'all better beg my\nfans, the world, and humanity for forgiveness!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "So what are you gonna do, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "I-I... I'll stay behind too.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Alright!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "I'll stay, too! So what if it might cause some\nweird side effects? That's no big deal!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "It seems everyone agrees with Kaito.\nVery well, I shall follow suit.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Hmph, *now* it's decided.\nHurry up and do it.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Then I'm gonna turn it on!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Yeah...please.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Click!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>At the moment that Angie\nflicked on the light...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>The world...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>Warped...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>A lightning bolt in my mind shattered\nmy consciousness like shrapnel.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>Like a video in fast-forward, scenes\nplayed out in the back of my head.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>When the pieces of my psyche\nhad gathered together again...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "I...remember...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "I remember now!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>I was...running away.\nI had been running this entire time...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>From...the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>Those of us with <CLT=cltSTRONG>Ultimate<CLT=cltMIND> talents\nwere hunted down. I wasn't safe anywhere...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>Eventually...I had no place else to run.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>I was cornered, and to escape from\nthe <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>I threw away my <CLT=cltSTRONG>Ultimate<CLT=cltMIND> talent\nto live as a normal high school student.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "<CLT=cltMIND>By erasing my talent and my memories,\nI no longer had any reason to be hunted.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "<CLT=cltMIND>If I didn't do what I did, I would have\nbeen captured, a fate worse than death.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltMIND>And so...I chose.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>I chose to gamble on a new technology\ndeveloped in a particular <CLT=cltSTRONG>facility<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>Technology that could put your memories\nto sleep by controlling your brain waves.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>I used that to hibernate all\n<CLT=cltSTRONG>memories relating to my talent<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Yes, I remember everything now!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "In order to escape the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>,\nI erased my own memory—",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "W-Wait! Did you say \"<CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>\"!?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "You guys, too!?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "So it wasn't just me getting chased down in\nthis <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Yes, you were not the only one. I...no, we...\nwere being chased as well.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>We looked around at one another,\neach of us with the same shocked expression.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>What Kirumi said was true...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>We were all the same. We were all running\nfrom the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "All of us here were being chased by \nthe <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "What on Earth does that mean?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Oh, wait... Can someone tell me what that is?\nI...can't seem to remember.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "What is the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Geez, how could you forget something so \nimportant? Alright guys, the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL> is...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Huh? What was it?\nWhy can't I remember?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "I can't either...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>I suddenly realized...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>I could not remember any important\ndetails of the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "It's no use, I can't remember either.\nI can only remember being chased...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "I can't remember anything else at all.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Yeah, no matter how hard I try,\nI can't seem to remember—",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "I...don't want to live...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "I want to die with everyone else...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Ah!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>What...was that?\n\"I want to die with everyone else\"?",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>I...remember saying that,\nbut why did I say it...?",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Umm... It's no use. I can't remember either.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Ugh, this feels gross. Like a shit that won't\nfully squeeze out.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Even if we can't remember, we should \nstill be able to figure something out...",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "...Hm? What you mean?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "If we were all running from the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>,\nthen why are we imprisoned here?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Huh? Why?",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Could the reason be that...we were \ncaught by the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "<CLT=cltMIND>Caught...by the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND>?",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "You mean, we tried to escape by erasing our\nmemories, but they found us anyway...",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "And subsequently, we were captured as part\nof this <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Then, this killing game is...",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Yeah... It might be the work \nof the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "If that is so...then I am all the more concerned\nabout this <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "But, but how disappointing!\nNo one can remember anything!",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Nyahahahaha!\nWhat a disappointing disappointment!",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Quit laughin' about this, you little shit!",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "It seems losing <CLT=cltSTRONG>him<CLT=cltNORMAL> made a far bigger impact\nthan we expected.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "...Him?",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Rantaro... He seemed to know more than he\nlet on.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Hey, I have a question.\nThis might sound a little weird, but...",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Does the term <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>\nring a bell for anyone?",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Ohhh, I do sorta remember him saying\nsomething like that.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Hmmm... Our mild-mannered mystery man\nsaid that, huh...?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "But then...why did only Rantaro remember\nthe <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "There is no point discussing that now.\nAfter all, he is already dead.",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "But if you truly wish to hear his words, \nI could perform a seance for you. Hmhm~♪",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "S-Stop it! Don't bring up weird stuff like that!\nAnd why're you acting girly all of a sudden!?",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "Yep, death can be real heartless.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "Says the root of all evil...",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "Puhuhu... Looks like you guys safely got\nyour memory back.",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "What the hell's goin' on, you stupid-ass bear!?\nThis <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL> makes no goddamn sense!",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "Looks like your <CLT=cltSTRONG>sealed memories<CLT=cltNORMAL> are more\nstubborn than I thought...",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "Just one use of the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL> wasn't\nenough to restore all of your memories...",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "You're such a terrible liar. You totally did\nthat on purpose.",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "What connection do you have with the\n<CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "Puhuhu... I can't reveal that.",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Regardless of my true identity, my goal is\ncrystal clear.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "And that is, to make you guys participate in\nthe killing game! That is my only desire!",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>The killing game...\nThat's what it always comes back to...",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "Wh-What!? Killing game!? I will never do that\never again!",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "We just gotta work together. If we cooperate,\nwe'll make it out of here alive.",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "Just like a certain <CLT=cltSTRONG>someone<CLT=cltNORMAL> said...",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "<CLT=cltMIND>...Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "But I believe cooperating with each other is\nthe most logical course of action—",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "*snore* I'm snooooring!",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "...Why are you sleeping!?",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "Whoa! Huh, what!?",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "Hey, Kokichi...we're having a serious \nconversation here.",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "And is it written somewhere that I have to\ntake serious conversations seriously?",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "Tch, quit acting so immature!",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "Hm? I'm a teenager...so duh, I'm immature.\nAren't you guys forgetting to act your age?",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "But I don't have a biological age...",
+  "tr": ""
+ },
+ {
+  "id": 185,
+  "en": "Don't worry about it, Keebo. I'm just talking\nto the humans right now!",
+  "tr": ""
+ },
+ {
+  "id": 186,
+  "en": "...Grgh!",
+  "tr": ""
+ },
+ {
+  "id": 187,
+  "en": "What were we talking about again? Something\nabout working together to escape, right?",
+  "tr": ""
+ },
+ {
+  "id": 188,
+  "en": "So you *were* listening, you horrible\ndegenerate.",
+  "tr": ""
+ },
+ {
+  "id": 189,
+  "en": "We don't have to work together, though.\nLet's just ask how we can get out.",
+  "tr": ""
+ },
+ {
+  "id": 190,
+  "en": "If we ask Monokuma, he'll say the only way\nis to win the killing game.",
+  "tr": ""
+ },
+ {
+  "id": 191,
+  "en": "Oh, we're not gonna ask Monokuma. We're\ngonna ask the mastermind among us.",
+  "tr": ""
+ },
+ {
+  "id": 192,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 193,
+  "en": "A-Are you already goin' senile!? I thought we\nagreed that there is no mastermind?",
+  "tr": ""
+ },
+ {
+  "id": 194,
+  "en": "Hm, oh yeah. We did, didn't we?",
+  "tr": ""
+ },
+ {
+  "id": 195,
+  "en": "If we tried to sniff out a mastermind again,\nwe'd just repeat Kaede's screwup.",
+  "tr": ""
+ },
+ {
+  "id": 196,
+  "en": "You'd better quit messing around!",
+  "tr": ""
+ },
+ {
+  "id": 197,
+  "en": "Eh? You think I'm messing around right now?",
+  "tr": ""
+ },
+ {
+  "id": 198,
+  "en": "Aw man, you really don't get it. I'm trying\nto get this through to everyone...",
+  "tr": ""
+ },
+ {
+  "id": 199,
+  "en": "If you keep saying all this uplifting stuff about\n<CLT=cltSTRONG>working together<CLT=cltNORMAL> and <CLT=cltSTRONG>cooperating<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "...then you can expect to receive some\npainful retaliation. Get it?",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "What are you suggesting, Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "Argh, that's enough!\nI'm gonna slug him!",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "Aaahh! He's gonna punch me!\nI gotta make a break for it!",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "<CLT=cltMIND>Kokichi said his piece and then dashed\nas fast as he could out of the room.",
+  "tr": ""
+ },
+ {
+  "id": 205,
+  "en": "Tch...damn, he's fast.",
+  "tr": ""
+ },
+ {
+  "id": 206,
+  "en": "Geez...what a strange guy.",
+  "tr": ""
+ },
+ {
+  "id": 207,
+  "en": "He just provokes people and never says \nanything from the heart.",
+  "tr": ""
+ },
+ {
+  "id": 208,
+  "en": "He's always messing around and \nmaking fun of those around him.",
+  "tr": ""
+ },
+ {
+  "id": 209,
+  "en": "Hmph! How can he say such insensitive things\nwhen we're trying so hard to survive!",
+  "tr": ""
+ },
+ {
+  "id": 210,
+  "en": "It's like he doesn't even want to survive.\nThough, I guess I'm no different.",
+  "tr": ""
+ },
+ {
+  "id": 211,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 212,
+  "en": "Yeah. I don't plan to survive till the end.",
+  "tr": ""
+ },
+ {
+  "id": 213,
+  "en": "Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 214,
+  "en": "You not plan to survive?\nWhat that mean?",
+  "tr": ""
+ },
+ {
+  "id": 215,
+  "en": "He has mentioned that before... That he has\nno reason to live.",
+  "tr": ""
+ },
+ {
+  "id": 216,
+  "en": "He doesn't have a reason to live?",
+  "tr": ""
+ },
+ {
+  "id": 217,
+  "en": "Poor Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 218,
+  "en": "It seems he's got a more tragic past \nthan we could even begin to imagine...",
+  "tr": ""
+ },
+ {
+  "id": 219,
+  "en": "Yeah, but the <CLT=cltSTRONG>Ultimate Tennis Pro<CLT=cltNORMAL> shouldn't \nbe saying such cowardly stuff...",
+  "tr": ""
+ },
+ {
+  "id": 220,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 221,
+  "en": "Perhaps we should relax over a meal?",
+  "tr": ""
+ },
+ {
+  "id": 222,
+  "en": "Everyone, could you please tell me your\nfavorite foods and beverages?",
+  "tr": ""
+ },
+ {
+  "id": 223,
+  "en": "Huh!? You're going to whip something up!?\nKirumi, are you, like, the perfect mom!?",
+  "tr": ""
+ },
+ {
+  "id": 224,
+  "en": "<CLT=cltMIND>After we finished the meal that\nKirumi prepared for us...",
+  "tr": ""
+ },
+ {
+  "id": 225,
+  "en": "<CLT=cltMIND>we decided to return to our rooms.",
+  "tr": ""
+ }
+]

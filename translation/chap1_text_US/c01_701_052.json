@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "I heard that yours and Miu's labs \nwere unlocked?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I'm sure mine's next! I'm looking forward \nto seeing it!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Should I spend time with Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "It might be like the inside of a spaceship...\nOr maybe it'll be a training facility...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time listening to Kaito about\ntraining as an astronaut...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Kaito and I grew a little closer today.",
+  "tr": ""
+ }
+]

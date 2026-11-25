@@ -1,0 +1,262 @@
+[
+ {
+  "id": 0,
+  "en": "Hey, Shuichi. What does an <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>\nlike you do most of the time?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Huh? What do I do?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Do you wear a cap, smoke a pipe, and use a\nmagnifying glass to investigate crime scenes?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Do you say stuff like, \"Indeed, most intriguing!\"",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Y'know, that sorta thing?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Um, I'm not old enough to smoke a pipe...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Hahaha, I guess that classic old-fashioned\ndetective look is pretty outdated, huh...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yeah...I don't do much investigating either...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Really? Then what kind of cases do you get?\nDo you spend most of your time doing nothing?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "No, actually...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "My uncle's detective office is actually fairly\npopular, so we receive lots of cases...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Sounds pretty routine",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Infidelity cases sound intense...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Sounds boring, but you still work hard",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "A lot of those cases are small jobs...\nInfidelity cases, background checks...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Sounds pretty routine.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "You only see flashy detectives in movies and\nnovels... It's actually better that way.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Yeah, I guess it'd be bad if flashy murder cases\nkept happening around you!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "People might think you're the male version of\nJessica Fletcher or something!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Ahaha...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Infidelity cases sound intense...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Yeah... Honestly, there are times when it gets\npretty hard.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>Yeah...I'm sure he's seen some pretty\nrough things.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Are you alright, Shuichi? You're not weirded\nout by romance or women, right?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Ah...no?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Oh! And just because you see it happen a lot,\nthat doesn't mean cheating is okay!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "N-Never! I would never do something\nso dishonest!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>Shuichi's frantically shaking his head. Yeah, he\ndoesn't seem like the type who would do that.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Sounds boring, but you still work hard.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Ah, well...I'm pretty good at doing boring\nresearch...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Oooh, I see. You would be good at that stuff.\nI can tell by your eyes.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "You can tell...by my eyes?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I'm kidding, but...you do come across as someone\nwho dives into the deep-end of their work.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I think that's pretty impressive.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Y-You really think so?\nThank you...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "What other cases do you get?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "The other cases are just stuff like...finding\nrunaways and stuff.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Ooh! That could be part of an even bigger\ncase!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Ah, I'm sorry to disappoint you, but those\ncases are rarely connected to crimes...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "It's my job to find them before it comes to that.\nAnd it's after they're found that's the hard part.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "After they're found?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "It's necessary to follow up with both the client\nand the runaway, to make sure all is well...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Detectives have to follow up with them, too?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Well, perhaps not all detectives do that...\nbut it was my uncle's policy.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "And it's a policy I agree with.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "People have reasons for running away...so the\ncase is only closed when all parties are happy.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "That's true...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>If you don't take care of the problem, they'll\nobviously try to run away again...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>I didn't know detectives were so considerate.\nOr is Shuichi just a special case?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSYSTEM>Shuichi's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with him.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>After parting ways with Shuichi, I returned\nto my room.",
+  "tr": ""
+ }
+]

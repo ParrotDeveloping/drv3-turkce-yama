@@ -1,0 +1,60 @@
+@ chap1_text_US
+## c01_700_000
+7|Senin bu kadar zevksiz bir şey yapacak\ntürden biri olduğuna inanamıyorum...
+11|Senin bu kadar zevksiz bir şey yapacak\ntürden biri olduğuna inanamıyorum...
+12|Ah...bunu bana neden verdiğini...\nbilmiyorum...
+13|Ah! Bu bir şaka mı?\nP-Pardon, anlamadım!
+14|Ah, şey, bunu kabul edebileceğimi sanmıyorum...
+15|Düşüncen için minnettarım ama...\nözür dilerim.
+16|Bunu...bana mı veriyorsun?
+17|Teşekkürler... Ona değer vereceğim.
+18|Akademide böyle şeyler olduğunu bilmiyordum...\nAcaba bizim için mi hazırlandı.
+19|Öyleyse epey bütçeleri olmalı...\nBöyle estetik eşyalar bulundurabiliyorlar.
+20|Ah, böyle şeylerden hoşlanır mısın, Kaede?
+21|Pek anlamıyorum...ama belki sevmeyi\nöğrenirim?
+22|Bunu...bana mı veriyorsun?
+23|Teşekkürler... Ona değer vereceğim.
+24|Akademide böyle şeyler olduğunu bilmiyordum...\nAcaba bizim için mi hazırlandı.
+25|Öyleyse epey bütçeleri olmalı...\nBöyle estetik eşyalar bulundurabiliyorlar.
+26|Ah, böyle şeylerden hoşlanır mısın, Kaede?
+27|Pek anlamıyorum...ama belki sevmeyi\nöğrenirim?
+28|Buna çok zaman ve düşünce ayırdığın\nbelli... Teşekkürler.
+29|Bana bu kadar harika bir şey veriyorsun...\nKeşke karşılığında sana bir şey verebilsem.
+30|Bunu...gerçekten alabilir miyim?\nTeşekkürler, ona iyi bakacağım.
+31|Böyle karanlık zamanlarda kaygımı\nyatıştırmama yardımcı olacak.
+32|Ha? Benim için mi?
+33|Kaede...harikasın!\nBunu istediğimi nereden bildin?
+34|Kaede...teşekkürler.
+35|Daha önce hiç böyle bir şey almamıştım.\nO kadar mutluyum ki... Ne diyeceğimi bilmiyorum!
+36|<CLT=cltSYSTEM>Bunu hediye olarak veremezsin.\nBu bir <CLT=cltSTRONG>önemli eşya<CLT=cltSYSTEM>...
+37|Tamam, ona hediye vermeyeceğim.
+38|Hayır, ona hediye vermek istiyorum.
+40|<CLT=cltSYSTEM>Shuichi'ye hediye vermek istemediğinden\nemin misin?
+## c01_700_001
+0|Hey, Shuichi. Senin gibi bir <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>\nçoğu zaman ne yapar?
+1|Ha? Ne mi yaparım?
+2|Kasket takıp pipo içip olay yerlerini incelemek\niçin büyüteç mi kullanırsın?
+3|"Gerçekten de çok ilgi çekici!" gibi şeyler mi\nsöylersin?
+4|Bilirsin, öyle şeyler?
+5|Şey, pipo içecek yaşta değilim...
+6|Hahaha, sanırım o klasik eski moda dedektif\ngörünümü epey modası geçmiş, ha...
+7|Evet...pek de soruşturma yapmıyorum...
+8|Gerçekten mi? O zaman ne tür davalar alıyorsun?\nZamanının çoğunu hiçbir şey yapmadan mı geçiriyorsun?
+9|Hayır, aslında...
+10|Amcamın dedektiflik bürosu aslında epey\npopüler, o yüzden bir sürü dava alıyoruz...
+11|Epey sıradan görünüyor
+12|Aldatma davaları yoğun görünüyor...
+13|Sıkıcı görünüyor ama yine de çok çalışıyorsun
+15|O davaların çoğu küçük işler...\nAldatma davaları, geçmiş araştırmaları...
+16|Epey sıradan görünüyor.
+17|Gösterişli dedektifleri sadece filmlerde ve\nromanlarda görürsün... Aslında böylesi daha iyi.
+18|Evet, sanırım etrafında sürekli gösterişli cinayet\ndavaları yaşansa kötü olurdu!
+19|İnsanlar senin Jessica Fletcher'ın erkek\nversiyonu falan olduğunu düşünebilir!
+20|Ahaha...
+21|Aldatma davaları yoğun görünüyor...
+22|Evet... Açıkçası epey zorlaştığı\nzamanlar oluyor.
+23|<CLT=cltMIND>Evet...eminim epey çirkin şeyler\ngörmüştür.
+24|İyi misin, Shuichi? Romantizmden ya da\nkadınlardan ürkmüyorsun, değil mi?
+25|Ah...hayır?
+26|Ah! Ve sırf sık sık olduğunu görüyorsun diye\naldatmanın sorun olmadığı anlamına gelmez!
+27|A-Asla! Asla bu kadar sahtekârca bir şey\nyapmam!

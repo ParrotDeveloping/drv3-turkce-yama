@@ -1,0 +1,79 @@
+@ chap2_text_US
+## c02_002_010
+163|Kimin umurunda? Sadece elinden gelenin en iyisini\nyap. İleri gitmek geri gitmekten kolaydır.
+164|Ne güzel.
+165|Ondan ilham alma, Gonta.
+166|Neyse, durum bu, o yüzden canınız nasıl\nisterse öyle elinizden geleni yapın!
+168|HADİ-GİDELİM.
+169|Bütün o zorbalığın intikamını gizli zayıf\nnoktamıza saldırarak alacaksın!
+170|Gizli zayıf nokta mı?\nYani...ensemiz mi!?
+171|O-O değil! Her şey olur ama o olmaz!
+172|Dur, yani enseniz sizin zayıf\nnoktanız mı?
+173|BEN...ASLA-ÖYLE-BİR-ŞEY-YAPMAM.\nBEN-SADECE...ANLAŞMAK-İSTİYORUM.
+174|...Ne? Anlaşmak mı? Gerçekten mi?
+175|Seni kandırmasına izin verme!\nMonokid'i öldürdü, hatırladın mı!?
+176|Hmmm... O robota benzeyenin dışlandığını\ngörmek bana Keebo'yu hatırlatıyor...
+177|Gerçekten dışlanıyor muyum!?
+178|Peki...bu hurdalarla ne yapacağız?
+179|Belki bunları kampüsün her yerindeki o\ngizemli şeylerde kullanmamız gerekiyordur?
+180|Ve kullanınca ne olacak?
+181|Şeyy...emin değilim.
+182|Eh, deneyince anlarız.\nO zaman hurdaları ben alayım.
+183|Hayır, bunu Shuichi'ye bırakalım.
+184|Ne? Bana mı?
+185|Sen <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>sin, değil mi? Böyle\ntuhaf bulmacalarda iyi olmalısın.
+186|O yüzden sana bırakıyorum!
+188|Tamam...deneyeceğim.
+189|Yaaa... Neyse, sanırım olur.
+190|<CLT=cltMIND>Demek akademide dolaşıp bu <CLT=cltSTRONG>gizemli\nnesnelerin<CLT=cltMIND> ne işe yaradığını çözmem gerekiyor.
+191|<CLT=cltMIND>Pekala...gidelim.
+192|Hadi etrafa bakalım!
+193|Ne istiyorsan yap.
+194|Gonta umarım biraz böcek buluruz!
+195|Hadi keşfe çıkalım!
+196|Kehehe...o hurdalar ilgimi çekiyor...
+197|Daha önce de söylediğim gibi, ben hurda değilim.
+198|Umarım işe yarar bir şey buluruz. Monokuma gibi\nbir hasma karşı tetikte olmalıyız.
+199|Nyeh...işi size bırakıyorum...
+200|Sonra görüşürüz.
+201|Hadi gidelim artık!
+202|Muhtemelen onları oyunlardaki gibi o gizemli\nnesnelerde kullanıyorsun.
+203|Atua seni gözetliyor, Shuichi!
+204|O çöp tam sana göre!
+## c02_002_100
+0|Herkes seni bekliyor, biliyor musun?\nHadi acele edip yemekhaneye gidelim!
+5|<CLT=cltMIND>Rantaro...\nSonunda yeteneğini hiç keşfedemedik.
+6|<CLT=cltMIND>Ne öğrendin, Rantaro?
+7|<CLT=cltMIND>Oyunu bitirmek istiyordun...\nPlanın neydi?
+9|<CLT=cltMIND>Kaede, ben...\nDileğini tutacağım.
+12|Hey, hadi. Ne yapıyorsun?\nDiğer herkes yemekhanede.
+13|Hadi gidelim.
+## c02_002_250
+0|Ana Bina 1K
+1|Yemekhane Terası
+2|Yemekhaneye acele etmem lazım...
+3|Yurt (Koridor)
+4|Yemekhaneye acele etmem lazım...
+5|Havuz Kapısı
+6|Yemekhaneye acele etmem lazım...
+7|Arka Bahçe (Havuz Tarafı) Kapısı
+8|Yemekhaneye acele etmem lazım...
+9|Arka Bahçe (Yemekhane Tarafı) Kapısı
+10|Yemekhaneye acele etmem lazım...
+11|Kumarhane Kapısı
+12|Yemekhaneye acele etmem lazım...
+13|Havuz Girişi Zelda Taş Anıtı
+14|Havuz Girişi Zelda Düzeneği Bitki
+15|Kumarhane Yan Kapısı, Altıgen Anahtar Düzeneği
+16|Kumarhane Kapısı, Altıgen Anahtar Düzeneği (Kapalı)
+17|Kumarhane Kapısı, Altıgen Anahtar Düzeneği (Açık)
+18|Tapınak Tarafına
+19|Yemekhaneye acele etmem lazım...
+## c02_002_254
+0|<CLT=cltMIND>Tuhaf bir taş anıt... Kesinlikle bir\nokulda olması gereken bir şey değil.
+3|<CLT=cltMIND>Bu oyuğun yanındaki büyük kapıyla bir\nilgisi olmalı.
+4|<CLT=cltMIND>Ama nasıl bir ilgisi var?
+5|Kumarhane Kapısı, Altıgen Anahtar Düzeneği (Kapalı)
+6|Kumarhane Kapısı, Altıgen Anahtar Düzeneği (Açık)
+## c02_003_001
+1|<CLT=cltMIND>Burası kızlar tuvaleti.\nAh, sorun çıkarmak istemem...

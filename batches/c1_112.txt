@@ -1,0 +1,33 @@
+@ chap1_text_US
+## c01_276_000
+33|<CLT=cltSYSTEM>Rakibinin iddiasını dışarı itmek için ekranda\ngösterilen tuşa hızla bas!
+36|<CLT=cltSYSTEM>Rakibin ifadesini bitirmeden önce Z ve S ile\n<CLT=cltSTRONG>aynı konu anahtar kelimesini<CLT=cltSYSTEM> bul...
+## c01_277_000
+0|<CLT=cltSYSTEM>Bir anahtar kelimeyi çıkarman gerektiğinde\n<CLT=cltSTRONG>Adam Asmaca Kumarı Ver3.0<CLT=cltSYSTEM>'a atılırsın!
+1|<CLT=cltSYSTEM>Amaç, <CLT=cltSTRONG>anahtar kelimeyi oluşturmak<CLT=cltSYSTEM> için\n<CLT=cltSTRONG>harf kürelerini<CLT=cltSYSTEM> doğru sırayla seçmek.
+2|<CLT=cltSYSTEM>Aydınlanan <CLT=cltSTRONG>harf kürelerini<CLT=cltSYSTEM> okumak için <PAD=【○】>\nile <CLT=cltSTRONG>flaş noktasını<CLT=cltSYSTEM> etkinleştir.
+3|<CLT=cltSYSTEM>Harfler <CLT=cltSTRONG>aydınlanmışken<CLT=cltSYSTEM> bir <CLT=cltSTRONG>harf küresini<CLT=cltSYSTEM>\ngerçekten seçemezsin...
+4|<CLT=cltSYSTEM>O yüzden yerlerini aklında tut ve <CLT=cltSTRONG>harf küresini\nalmak<CLT=cltSYSTEM> için <PAD=【△】> tuşuna bas!
+5|<CLT=cltSYSTEM>Ama unutma, onları <CLT=cltSTRONG>doğru sırayla<CLT=cltSYSTEM>\nseçmelisin...
+6|<CLT=cltSYSTEM>Flaş noktasında görebildiğin harf kürelerinden\n<CLT=cltSTRONG>anahtar kelimeleri çıkar<CLT=cltSYSTEM>.
+7|<CLT=cltSYSTEM>Flaş noktası <CLT=cltSTRONG>odak enerjisi<CLT=cltSYSTEM> kullanır,\no yüzden akıllıca kullan!
+8|<CLT=cltSYSTEM>Ara sıra ekrandan ışık dalgaları da geçer,\no zaman da harf kürelerini okuyabilirsin!
+9|<CLT=cltSYSTEM>O yüzden bundan da faydalan!
+10|<CLT=cltSYSTEM>Beni dinlediğin için teşekkürler!
+11|<CLT=cltSYSTEM>Bir anahtar kelimeyi çıkarman gerektiğinde\n<CLT=cltSTRONG>Adam Asmaca Kumarı Ver3.0<CLT=cltSYSTEM>'a atılırsın!
+12|<CLT=cltSYSTEM>Amaç, <CLT=cltSTRONG>anahtar kelimeyi oluşturmak<CLT=cltSYSTEM> için\n<CLT=cltSTRONG>harf kürelerini<CLT=cltSYSTEM> doğru sırayla seçmek.
+13|<CLT=cltSYSTEM>Aydınlanan <CLT=cltSTRONG>harf kürelerini<CLT=cltSYSTEM> okumak için sol tıkla\n<CLT=cltSTRONG>flaş noktasını<CLT=cltSYSTEM> etkinleştir.
+14|<CLT=cltSYSTEM>Harfler <CLT=cltSTRONG>aydınlanmışken<CLT=cltSYSTEM> bir <CLT=cltSTRONG>harf küresini<CLT=cltSYSTEM>\ngerçekten seçemezsin...
+15|<CLT=cltSYSTEM>O yüzden yerlerini aklında tut ve <CLT=cltSTRONG>harf küresini\nalmak<CLT=cltSYSTEM> için sağ tıkla!
+16|<CLT=cltSYSTEM>Ama unutma, onları <CLT=cltSTRONG>doğru sırayla<CLT=cltSYSTEM>\nseçmelisin...
+17|<CLT=cltSYSTEM>Flaş noktasında görebildiğin harf kürelerinden\n<CLT=cltSTRONG>anahtar kelimeleri çıkar<CLT=cltSYSTEM>.
+18|<CLT=cltSYSTEM>Flaş noktası <CLT=cltSTRONG>odak enerjisi<CLT=cltSYSTEM> kullanır,\no yüzden akıllıca kullan!
+19|<CLT=cltSYSTEM>Ara sıra ekrandan ışık dalgaları da geçer,\no zaman da harf kürelerini okuyabilirsin!
+20|<CLT=cltSYSTEM>O yüzden bundan da faydalan!
+21|<CLT=cltSYSTEM>Beni dinlediğin için teşekkürler!
+## c01_278_000
+0|<CLT=cltSYSTEM>Biliyorum, bu iyice çılgınlaşıyor, değil mi?\nAma bir eğitimin daha vakti geldi.
+1|<CLT=cltSYSTEM>Rakibin köşeye sıkıştı ama <CLT=cltSTRONG>Argüman Zırhı<CLT=cltSYSTEM>\nmodunda ve seni dinlemiyor.
+2|<CLT=cltSYSTEM>Söylediklerini <CLT=cltSTRONG>çürütmek<CLT=cltSYSTEM> için\n<CLT=cltSTRONG>zırhlarını<CLT=cltSYSTEM> sökmelisin.
+3|<CLT=cltSYSTEM><CLT=cltSTRONG>Argüman Zırhı<CLT=cltSYSTEM> böyle işler!
+4|<CLT=cltSYSTEM>Amaç, düşmanının bütün zırhlarını yok edip\nsonra <CLT=cltSTRONG>son darbeyi<CLT=cltSYSTEM> indirmek.

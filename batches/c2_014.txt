@@ -1,0 +1,50 @@
+@ chap2_text_US
+## c02_003_147
+1|...Bunlar Viktorya dönemine ait.
+2|Bu süslemeler Kraliçe Viktorya'nın saltanatının\nzirvesindeki Britanya İmparatorluğu'nu süslüyordu.
+3|Burası...benim araştırma laboratuvarım olmalı.
+4|Viktorya döneminde hizmetçi çalıştırmak bir\nstatü sembolü olarak görülürdü.
+5|Viktorya dönemi demişken...<CLT=cltSTRONG>Karındeşen Jack<CLT=cltNORMAL>\no dönemdendi, değil mi?
+6|...Görüyorum ki her zaman dedektifsin.
+7|<CLT=cltMIND>Demek burası <CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltMIND>'nin laboratuvarı...\nKirumi'ye gerçekten tam uygun görünüyor.
+8|Hm...Viktorya tarzı.\nBu oda epey zevkli.
+9|Kehehe... Bunun gibi Gotik tarzlardan\nhoşlanmamazlık etmem.
+10|Ah, evet...ben de.
+11|Burası Kirumi'nin araştırma laboratuvarı gibi.\nBurada olmak aklıma bir hikâye getiriyor...
+12|<CLT=cltMIND>Korekiyo gözlerini kapadı ve sanki\ntransa girmiş gibi konuştu...
+13|Dönem 19. yüzyıl İngiltere'si...
+14|Kraliçe'ye sadakat yemini etmiş bir centilmen\nve alçakgönüllü ama güzel bir hizmetçi...
+15|Sosyal sınıfların aydınlığı ile karanlığı arasında\nfilizlenen bir aşkın hikâyesi...
+16|...Bu bir kızlar mangasının konusuna\nbenziyor.
+17|Öyle mi? O zaman benim aşık genç bir kız\ngibi olduğumu mu söylüyorsun?
+18|Kehehe... Demek senin gözlerine böyle\nyansıyorum. Büyüleyici...
+19|<CLT=cltMIND>...Bunun ne anlama geldiği hakkında\nhiçbir fikrim yok.
+20|Bu oda güzel. Epey hoşuma gitti.\nAblam da beğenirdi...
+21|Viktorya döneminde pek çok hizmetkâr çalıştığı\nmalikânelerin altında yaşardı.
+22|Alt sınıfta olduklarını sert bir şekilde hatırlatan\n"alt kat insanları" olarak bilinirlerdi.
+28|<CLT=cltMIND>Burada bir sürü çamaşır makinesi\nvar...
+29|<CLT=cltMIND>Bunlar güçlü temizlik aletleri. Bunlarla\nbir sürü temizlik yapabilirsin.
+32|<CLT=cltMIND>Acaba bu dolapta bir sürü hizmetçi\nüniforması var mı...
+33|<CLT=cltMIND>Onun yerine bir sürü çamaşır makinesi,\nelektrikli süpürge ve basınçlı yıkayıcı vardı.
+34|Bu cihazlar temizlik yaparken son derece\nişe yarayacak.
+35|Temizlik mi? Okulu mu diyorsun?\nKirumi, bunu yapmak zorunda değilsin...
+36|...Benim için sorun değil. Başkalarına hizmet etmek bir hizmetçinin görevidir.
+37|"<CLT=cltSTRONG>Özverili bağlılık<CLT=cltNORMAL>", bir hizmetçi olarak\nsorumluluklarımı yerine getirirken uyduğum ilkedir.
+38|<CLT=cltSTRONG>Herkese<CLT=cltNORMAL> hizmet etmek uğruna kişisel\nduygularımı bir kenara bırakabilirim.
+39|Sanırım seni <CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL> yapan da bu.\nÇoğu insan bunu yapmazdı.
+40|Bir isteğin olursa lütfen bana haber ver. İçinde\nbulunduğumuz durum göz önüne alınırsa para kabul etmem.
+41|Ne istersen yaparım.
+42|<CLT=cltMIND>Ne istersem mi...?\nBöyle söyleyince biraz ürkütücü oluyor...
+43|<CLT=cltMIND>Bu dolapta elektrikli süpürgeler ve\nyüksek basınçlı bir yıkama makinesi var.
+46|Burası benim araştırma laboratuvarım... O zaman bu\nfigürlerin hizmet etmem gerekenleri temsil ettiğini varsayıyorum.
+## c02_003_148
+0|Tahmin ettiğim gibi sihirbazlık numaralarıyla\nilgili şeylerle dolu—
+1|Bu kimin araştırma laboratuvarı? Benim olması\ngerekiyorsa büyülü eşyalar olmalı...
+3|Değil mi...? Neden bana soruyorsun?
+4|Nyeeeh...sihirbazlık numaralarıyla gerçek büyüyü\nkarıştırmışlar. Ama epey kapsamlı bir koleksiyon.
+5|Görünüşe göre herkes için laboratuvarlar var.\nAma neden bu kadar çok hazırlamışlar?
+6|Burası *ne* böyle...?
+7|Monokuma bu <CLT=cltSTRONG>Ultimate Yetenekli Gençler\nAkademisi<CLT=cltNORMAL>'nin 16 kişi için yapıldığını söyledi...
+8|Bu gerçekten doğru mu?
+9|Hey... Yurttaki odaların kilitleri var\nama bu araştırma laboratuvarının yok...
+10|Ah, görünüşe göre özel değiller.

@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_018_019
+60|Tamam o zaman! Beyni birlikte ortaya\nçıkaralım, Shuichi!
+61|Teşekkürler, Kaede.\nSen...insanı cesaretlendirmeyi biliyorsun.
+62|Gerçi bunun olacağını hiç beklemezdim...
+63|Düşmanımızın grubumuzun içinde, göz önünde\nsaklandığına inanamıyorum.
+64|...Evet.
+65|Bunu bildiğimize göre <CLT=cltSTRONG>herkesin<CLT=cltNORMAL> birlikte\nçalışması gerektiğini söylemeyi bırakmalıyım...
+66|Ama beyin kim olursa olsun onu ortaya çıkarıp\ngeri kalan herkesin kaçmasına yardım edeceğiz!
+67|Ve bunlar geride kalınca iyi arkadaş\nkalacağız! Söz, tamam mı!?
+68|...T-Tamam.
+69|<CLT=cltMIND>Kart okuyucuya tozu yeniden koyduktan\nsonra Shuichi'den ayrıldım...
+70|<CLT=cltMIND>...ve odama döndüm.
+## c01_019_002
+0|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in laboratuvarı, ha?
+## c01_019_015
+6|<CLT=cltMIND>Gülle
+## c01_019_100
+9|<CLT=cltSYSTEM>*tak, tak...*
+20|<CLT=cltSYSTEM>*tak, tak...*
+## c01_019_116
+0|<CLT=cltMIND>Bundan iki gün sonra, gece vakti başladığı\nanda süre doluyor...
+1|<CLT=cltMIND>O zamana kadar sanırım diğerlerine bakacağım.\nOnlar için biraz endişeliyim...
+2|<CLT=cltSYSTEM>Akademideyken ara sıra\n<CLT=cltSTRONG>Serbest Zaman<CLT=cltSYSTEM>'ın olacak.
+3|<CLT=cltSYSTEM>Serbest Zaman'da diğer öğrencilerle vakit geçirip\nonlarla <CLT=cltSTRONG>bağını güçlendirebilirsin<CLT=cltSYSTEM>.
+4|<CLT=cltSYSTEM>Bağlarını daha da güçlendirmek için\nonlara <CLT=cltSTRONG>hediye<CLT=cltSYSTEM> de verebilirsin.
+5|<CLT=cltSYSTEM>Hediyeleri Okul Dükkanı'ndan alabilir ya da\n<CLT=cltSTRONG>MonoMono Makinesi<CLT=cltSYSTEM>'nden kazanabilirsin.
+6|<CLT=cltSYSTEM>Bağın yeterince güçlenirse bir\n<CLT=cltSTRONG>yakınlık olayı<CLT=cltSYSTEM> yaşanabilir. Süper!
+7|<CLT=cltSYSTEM>Ama Serbest Zaman sonsuza kadar sürmez.\nBiriyle vakit geçirmek...vakit geçirir.
+8|<CLT=cltSYSTEM>Doğrudan yatağa giderek de Serbest Zaman'ı\nbitirebilirsin. Tek başına, yani.
+9|<CLT=cltSYSTEM>Yani ben atlamazdım ama yalnız\nkalmayı tercih edersen o da olur...
+15|<CLT=cltMIND>Gidip diğerlerinin nasıl olduğuna bakayım.
+19|<CLT=cltSYSTEM>Yatakta dinlenmek ister misin?\nDinlenirsen Serbest Zaman biter.
+20|<CLT=cltMIND>Epey büyük bir lamba...\nOdayı güzelce aydınlatıyor.
+21|<CLT=cltMIND>Dolabın içinde benimkiyle aynı\nbir sürü üniforma dizili.
+## c01_020_001
+0|<CLT=cltMIND>Erkekler tuvaletinde bir işim yok.\nZaten oraya girmek beni rahatsız ederdi...
+## c01_020_002
+0|<CLT=cltMIND><CLT=cltSTRONG>Ultimate Piyanist<CLT=cltMIND>'in laboratuvarı, ha?
+## c01_020_018
+4|<CLT=cltMIND>Aynı zamanda LCD ekran olan bir kara tahta, ha?\nBunu havalı olmaktan çok itici buluyorum...
+## c01_020_025
+8|Hadi gidelim, Tsumugi!
+9|Ha? Haaa? Neden bu kadar heyecanlısın?
+10|Hahaha, pardon! Çok heyecanlıyım!\nDaha önce hiç tırnaklarımı yaptırmadım!
+11|B-Bu kadar dört gözle beklemen beni\ndüpedüz baskı altında hissettiriyor...
+12|Tırnak yapmakta *o kadar* iyi değilim, o yüzden\nfazla umutlanma, tamam mı?
+13|Tamam!
+14|Gözlerin neden bu kadar parlıyor!?
+15|<CLT=cltMIND>Tsumugi elimi uzatmamı istedi ve\ntırnaklarımı boyamaya başladı...
+16|Tamam...nasıl oldu?
+17|Aman tanrım! Çok tatlı!\nBunu nasıl yaptın!?
+18|Sadece üzerlerine pembe bir degrade yaptım.
+19|Bu kadar mı!? Tanrım, kendi tırnaklarımı\ntanıyamıyorum bile! Çok tatlılar!
+20|Böyle bir degradeyle sade tırnakları \nbile—
+21|Hayır, kısalar ama şekilleri güzel. \nBu piyano çalmana engel olmamalı.
+22|Evet, böyle iyi olmalı! Tırnaklar kısayken\nde yaptırılabildiğini hiç bilmiyordum.
+23|Şey...aklıma gelmişken...

@@ -1,0 +1,72 @@
+[
+ {
+  "id": 0,
+  "en": "That's your reasoning?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "You won't persuade me with anything\nbut crystal clear evidence.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I screwed up! \nI need to think it over again!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>I can't just listen to Ryoma's argument...\nI need to refute it somehow!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>I'm starting to see the holes in Ryoma's\nargument.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>It was impossible to meet there!\nI have the picture that proves it!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I'm starting to see the holes in Ryoma's\nargument.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I have evidence I can present that will\nbreak down Ryoma's argument!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I'm starting to see the holes in Ryoma's\nargument.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I have evidence I can present that will\nbreak down Ryoma's argument!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>He pushed me back! I can't get anywhere\nwith this!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>He pushed me back! And he's going to\npush the entire discussion back, too!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>I was so close to pushing him back!\nI won't lose this time!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>I was so close! But now he's going to push\nme back!\n<CLT=cltNORMAL>",
+  "tr": ""
+ }
+]

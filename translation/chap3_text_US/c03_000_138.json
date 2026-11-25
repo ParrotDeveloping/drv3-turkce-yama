@@ -1,0 +1,117 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>This monitor has to be custom made...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Why go out of their way to make this?\nWhere is this budget coming from?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>There's a large wooden dog statue on the\npedestal. It looks pretty old.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Apparently, it's used in <CLT=cltSTRONG>The Caged Child<CLT=cltMIND>\nseance...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Window",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Cloth",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Cage",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>There are many items on display in the\nglass case. I can't identify many of them, though.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>What a beautiful katana...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>It looks about a yard long,\nand there's gold leaf on the handle.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>It's probably valuable...\nI shouldn't touch it.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>It's packed with books and scrolls...\nThey're all weathered and old.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>I don't think I could read all of these\nif I had a million years...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>There's a book in the display case.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>The bookcases were full of books,\nbut I imagine this one is special.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Kiyo was particularly interested in this one...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>A handwritten book, the only copy\nin the whole world...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>A history of the <CLT=cltSTRONG>Caged Dog Village<CLT=cltMIND>,\nwhich fell 200 years ago.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>I don't want to get too close...\nI can feel the <CLT=cltSTRONG><CLT=cltSTRONG>dark aura<CLT=cltMIND><CLT=cltMIND> around it from here.",
+  "tr": ""
+ }
+]

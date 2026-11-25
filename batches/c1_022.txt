@@ -1,0 +1,68 @@
+@ chap1_text_US
+## c01_015_100
+1|Ah... Sabahı çoktan geçtik.
+2|Ha, gerçekten mi? Sabah anonsu daha\nyeni çalmadı mı?
+3|Hapishanede sabahlar çok daha erken\nbaşlardı. Şafakta başlardık.
+4|O-O kadar erken mi?
+5|Gündüz işimizi yapar, yemeğimizi hep aynı \nsaatte yerdik. Gece tek yapabildiğimiz uyumaktı.
+6|O hapishane duvarlarının içinde...\nkorkutucu derecede disiplinli bir hayat yaşadım.
+7|Şeyy...sanırım öyle bir hayat kulağa...\nsağlıklı geliyor, değil mi?
+8|Hıh... Sağlam kafa sağlam vücutta mı?
+9|Bu acı bir ironi...
+10|<CLT=cltMIND>Doğru ya... Ryoma mahkûm olmadan önce\nünlü bir tenisçiydi.
+11|<CLT=cltMIND>Onu kötü mü hissettirdim?
+## c01_015_250
+0|Günaaaydın, Kaede!
+1|Günaydın...
+2|Of be, dün gece harika uyudum. Biliyor musun,\nendişelenecek bir şey yokken burası fena değil.
+3|Ah! Eee...Shuichi'yle ne kadar ilerlediniz?
+4|Ha!? N-Neden bahsediyorsun sen!?
+5|Nişişi...\nAz önce *sen* ne hayal ettin?
+6|Sadece burayı birlikte ne kadar keşfettiğinizi\nmerak etmiştim, o kadar.
+7|Bu seni ilgilendirmez, Kokichi.
+8|Ha? Bu tavır da ne...?
+9|Çok kabasın! Arkadaş olduğumuzu\nsöylediğini sanıyordum, Kaede!
+10|Ama baştan beri yalan söylüyormuşsun!\nVAAAAAAAAAAAAHHHHHH!!!!!
+11|Evet, ama sen de yalan söylüyorsun.
+12|Oo? Vay, Kaede. Kendini savunmayı\nbiliyorsun, ha?
+13|Ama haklısın—yalan söylüyordum. Sonuçta\nbirbirimize yabancıyız.
+14|Bu yüzden sen ve Shuichi'nin ne yaptığı\npek umurumda değil.
+15|Hem arkadaşlar bile birbirleriyle *her şeyi*\npaylaşmaz!
+16|Ha...?
+17|Aslında her şeyi paylaşan arkadaşların yanında\nyabancılardan daha çok gerilirim.
+19|Günaydın, Kaede.
+20|Günaydın, Keebo.
+21|Görünüşe göre herkes yine yemekhanede\ntoplanmış.
+22|Evet, öyle görünüyor.
+23|Ben de oraya gitmeyi düşünüyorum\nama...
+25|Ama?
+26|Ah, hiç. Sadece...birinin bizi ne zaman\nkurtarmaya geleceğini merak ediyordum.
+27|Monokuma'nın işi bitirileli neredeyse bir gün\noldu ama durumumuz değişmedi.
+28|Sadece tahmin yürütüyorum ama ya...
+29|...burayı sadece Monokuma biliyorsa?\nYa bu yer hiçbir haritada yoksa?
+30|Ya...kimse bizi kurtarmaya gelmiyorsa?
+32|Belki...unutulup gideceğiz ve kimse bizi\nbir daha bulamayacak...
+33|Ö-Öyle deme!
+34|Hem birinin bizi kurtarmasını beklemek\nyerine kaçmaya çalışıyor olmalıyız!
+35|E-Evet...özür dilerim. Fazla düşündüm.
+36|Zaten böyle bir tesisi gizlice inşa etmek\nimkânsız olurdu.
+37|Ayrıca profesör kaybolduğumu bilseydi beni\nbulana kadar rahat etmezdi.
+38|Teknolojisiyle bizi kurtarırdı! Burası\ndünyanın neresinde olursa olsun!
+40|Öte yandan...daha *sadece* bir gün oldu.
+41|Şu an eve gitmeyi ne kadar istesek de sakin\nve ağırbaşlı bir şekilde beklemeliyiz!
+42|Günaydın Kaede!
+43|Günaydın...
+44|Hmm, anlıyorum, anlıyorum! Sonunda adak\nsunmaya hazır mısın?
+45|Ha!? Şimdi mi!?
+46|Ö-Özür dilerim! Hâlâ kansızlığım var!
+47|Haaa?
+48|Ne yazık.
+49|Çok yazık.
+50|Ama bu bir sorun.
+51|Monokuma'yı alt ettiği için Atua'ya teşekkür\netmek için birinden adak almam lazım.
+52|Kahvaltıda bol bol ye, tamam mı?\nUmarım kansızlığın çabuuuuk geçer!
+53|<CLT=cltMIND>K-Kanımı adak olarak sunmak konusunda\nciddi mi?
+## c01_016_010
+0|<CLT=cltMIND>Bütün endişelerime rağmen yemekhanedeki\nherkesin keyfi yerindeydi.
+1|Of be, bir an ne olacağını hiç bilemedim!\nBöyle sonuçlandığına sevindim!
+2|Evet, cidden...

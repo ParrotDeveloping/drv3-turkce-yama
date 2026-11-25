@@ -1,0 +1,252 @@
+[
+ {
+  "id": 0,
+  "en": "Ahem! Now then, let's begin with a basic\nexplanation of the class trial!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "During the trial you'll present your arguments\nfor who the culprit is, and vote for \"<CLT=cltSTRONG>whodunnit<CLT=cltNORMAL>.\"",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Vote correctly, and only the blackened will be\npunished. But if you pick the wrong person...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I'll punish everyone *besides* the blackened, and\nthat person will graduate from this academy!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Also, refusing to vote will result in your\n<CLT=cltSTRONG>death<CLT=cltNORMAL>, so you better vote for someone!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Now, let's get this crazy, awesome,\ncrazy-awesome trial underway!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "So, it's starting, huh?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Ah-haha, oh man, I haven't been in \na trial in, like, forever!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Oh, so you have experience with trials...?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Yeah, since I'm a leader of evil and stuff.\nI've done a looooot of bad things.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "So, what are we supposed to do?\nWhere do we even start?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Gonta never done trial before...\nNot sure where to begin...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "First, let's breathe in! And breathe out!\nWe need to remember our \"No, No, No's\"!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "\"No pushing! No running! No talking!\"",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "But communication is the foundation\nof any discussion!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "We should not worry about our procedure. \nEspecially since this is not a normal trial.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Each of us will be serving as a potential \nculprit, lawyer, prosecutor, and jury member.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Let us proceed with that in mind, shall we?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Then might I offer the first topic?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Don't fuckin' get ahead of us!\nYa tryin' to start some shit!?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "C-Calm down... How about we listen first?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Atua has spoken... He says it is vital\nthat we hear everyone's testimony.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I'm a good listener cuz my ears are clean.\nOnce, I cleaned them so hard they bled.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I'll begin the conversation, then.\nThere's something...I found curious—",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Why, I wonder, didn't the culprit take\nadvantage of the First Blood Perk?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "I thought that was strange, too!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I bet they just wanted to do \na class trial real bad.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Then Monokuma's the culprit! Duh-doy!\nCuz this whole class trial was his idea!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Hoo-yeah! Easy-peasy!\nI'm a fuckin' genius!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Wait, is it even possible for Monokuma\nto be the culprit?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Of course not. I would *never* do\nanything to you guys directly.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Even if *you* can't, it's a different story \nfor the person controlling you, right?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "...Hm?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Is it possible that the <CLT=cltSTRONG>mastermind<CLT=cltNORMAL>\ncontrolling Monokuma killed Rantaro?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Mastermind? Wuzzat?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I-I dunno any mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "N-Never heard of 'em...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Don't play dumb with me! Who's the \nmastermind controlling you guys!?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "The mastermind, huh?\nOdds are, it's one of us...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "It's Kee-boy over here! Everyone else \nthinks so too!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "D-Does everyone really think that...!?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "We'll get to the bottom of this...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Puhu... Puhuhuhu...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Before we determine the mastermind,\nwe must uncover the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Then...we could start by determining\nthe sequence of events?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Let's take a closer look at the circumstances\nof Rantaro's death.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Gonta agrees with Shuichi!\nAfter all, Shuichi is Ultimate Detective!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Then let us start by reviewing the incident.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Alright, let's do this! We can find the\nmastermind if we work together!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>When this class trial is over, we'll know\nexactly who the mastermind is!",
+  "tr": ""
+ }
+]

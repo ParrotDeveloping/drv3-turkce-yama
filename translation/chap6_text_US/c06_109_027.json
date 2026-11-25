@@ -1,0 +1,422 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>It leads to the hidden room!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>The girls bathroom and the hidden room\nin the library are connected...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "The library isn't the only way to get in and\nout of the hidden room...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>The hidden room had this secret\npassageway leading out of it.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>And that passageway connects to the\ngirls bathroom on the first floor.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>But this passageway...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>wasn't on Rantaro's Survivor Perk map.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>This passageway was <CLT=cltSTRONG>hidden<CLT=cltMIND>,\neven from him.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>A hidden passageway that only the\nmastermind knows about.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "A passageway connected to\nthe girls bathroom...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Hidden Room Passageway<CLT=cltSYSTEM>\" has been added\nto the Truth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Once more...I shall reveal the secret behind\nmy escape from the sealed room.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Yes, please do.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Right after you guys left this room, there was\na huge explosion and I got flipped over...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "When I came to my senses...it looked like this.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I'm surprised you weren't hurt...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Since I've been using my magic a lot lately...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "A magical backlash must have happened\nand the way out got buried in rubble.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Even I, the wise and powerful Himiko, panicked\na little bit when I saw I was trapped in here.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "What happened after that?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I banged on the walls and the floor and yelled\nfor help. Calmly and rationally, of course...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>...I'm sure.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Then, I happened to find that hidden \npathway and that's how I got out...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Then I ran into Keebo and he told me you were \nin one of the classrooms on the 2nd floor...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "So I rushed over there...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I see...so that's what happened.\nI understand now.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "W-Well? Was I...useful?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>It seems Himiko is still\nconcerned about that...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "W-Well? Was I...useful?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "After all, I am the <CLT=cltSTRONG>Ultimate Mage<CLT=cltNORMAL>!\nHiii hee hee hee!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>I can't go back yet.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>Rubble blocks the way into\nthe library.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>So you *have* to go through the hidden\npassageway to get out of the hidden room.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>Motherkuma is lying on the ground,\nlikely due to the explosion.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Is it...broken?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...I'm busted.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Ahhh... It's over. I can't go on...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I can't birth Monokumas anymore...\nI wanted to birth more and more and more...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>Birth Monokumas, huh?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Hey... Is it true that you can\nmake spare Monokumas?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "O-Of course it's true...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Fine... Since this is the end for me, I guess\nI'll say it..",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I have a built-in voiceprint authentication\nsystem...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "I can't birth Monokumas unless the designated\nperson specifically says the word \"birth\"...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>\"Designated person\"?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "It's to ensure that my Monokumas are birthed\ninto a welcoming environment, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "W-Wait a minute, this \"designated person\"...\nDo you mean the mastermind?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Only the mastermind's voice command\nwill make you create a spare Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Puhu...puhuhu... Th-That hint was...on the\nhouse, so to speak...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Ah-hahahaha! All glory to the killing game—!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "H-Hey!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "It seems like...it's really broken this time.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>That was an important clue.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>Motherkuma creates spare Monokumas after\nreceiving the mastermind's voice command.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>Motherkuma isn't moving at all.\nShe's really broken.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Still...we got an important clue.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Motherkuma \"births\" a spare Monokuma\nwith the mastermind's voice command.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>That passageway was a vital clue, in that it\nled us here. There's nothing to check there.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>I should probably get out of here.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>If the entrance to the bathroom were blocked\nby rubble, we'd be completely trapped.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Himiko, let's go. I have a good\nidea of what's going on here.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Hm? Something wrong?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "J-Just tell it to me straight...like a man.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...Tell you what?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "The hidden pathway I found...\nIs it a useful clue?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "I-I want to be useful for my friends.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "But I can't help much in investigations,\ncan I? I couldn't find the mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Ah, you're worried about that...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Himiko, not only were you *useful*, you\nmay have cracked the case wide open.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Really!? If I found such an amazing clue,\nthat's proof I'm no ordinary person!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Hiii hee hee hee!\nI'm terrified of my own magical power!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "R-Right...\nLet's get out of here.",
+  "tr": ""
+ }
+]

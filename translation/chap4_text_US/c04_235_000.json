@@ -1,0 +1,557 @@
+[
+ {
+  "id": 0,
+  "en": "Kokichi. You're lying right now, aren't you?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...Huh? Lying about what?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Just before the murder occurred, I went\nto the salon to check on you.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "But <CLT=cltSTRONG>you weren't there<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "What? Really!?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I waited there for a while.\nYou never showed up.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "What's this all about, Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Didn't you go right back to the salon\nafter finding the roof door locked?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I see... You use underhanded tactics, too.\nHuh, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "So, who are you guys gonna believe?\nShuichi...or me?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Well of course I'm gonna believe Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I believe Shuichi 100%!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "The one who's not Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "One hundred house points—no, Himiko\npoints!—to Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "But to go to the salon, Shuichi would\nneed to pass by me in the dining room...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Umm... I wonder why I didn't \nnotice Shuichi there...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Oh well. I'll believe Shuichi anyway.\nHe's usually right about stuff.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Sorry, but...Gonta believe Shuichi, too.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Ah, I see... \nI wanted at least Gonta to believe me...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Heh, what comes around goes around!\nThat's what happens to liars like you!",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Why do you guys hate lies that much?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "There's only one truth, but endless\npossibilities for lies, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "And some of them are only white lies,\nor lies to be kind to people...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "If you deny all of that *just* because\nit's a lie...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Then that means you guys are just terrible\nat being lied to! Seriously, the worst!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Just spit it out already!\nYou went to the roof, didn't you!?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Isn't that where he met up with Miu?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "No, he didn't just meet her there.\nHe probably ki—",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Okay, fine! I'll tell you if you wanna know \nthat badly! Consider this my revenge.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Revenge?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "You got some balls lying to me. I'm gonna \ntake away your fun for pissing me off, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I won't let you do any detective work, or \ndeduction, or mystery solving, or anything!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Oh?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "So, I'll confess everything!\nYou guys better listen carefully.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Confess...!?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "A confession!? So you are the culprit after all!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I came up with a plan after Miu asked\nme to meet up with her.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "She asked me pretty eagerly, too. So I\ndecided to pry some info out of her...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "She gave me the rundown of the Virtual World,\nbefore she explained it to you guys.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "As I listened, I realized she was \nplanning a murder.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "On me, no less...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "When I investigated the Virtual World, I found\nout that a person can <CLT=cltSTRONG>die from shock<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Without a doubt, she planned to use\nthat for my murder.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "So that's when I decided to prepare \nmy *own* crime with her plan.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I pretended to cooperate with her, and\nlured everyone into the Virtual World.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "That's also why...I worked together with\nMonokuma.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "You...worked together with Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "*sigh* I guess the jig is up.\nYeah, everything he said is true.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Kokichi came to me with an idea to make\nthe killing game more interesting...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "It was such a good idea, I decided to place\na <CLT=cltSTRONG>motive<CLT=cltNORMAL> in the killing game simulator.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "You added a <CLT=cltSTRONG>motive<CLT=cltNORMAL>...?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Then the <CLT=cltSTRONG>secret of the outside world<CLT=cltNORMAL>\nis the <CLT=cltSTRONG>motive<CLT=cltNORMAL>, right!?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "No fair! Monokuma can't take sides!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I didn't help him with anything, and I had\nnothing to do with the murder itself...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "He merely suggested a way to spice up\nthe killing game, and I accepted.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Kokichi and I had a \"quid pro quo\" relationship.\nTechnically, that doesn't violate the rules!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Bullshit! No matter how you look at it,\nyou guys are working together!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Shhh, calm down. I'll explain my relationship\nwith Monokuma, so let me finish my confession.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I'm fine with that, but...you're confessing\nwithout much of a fight...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Nee-heehee... I told you, I'm gonna get in the\nway by taking away the mystery-solving fun.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "If I can't win this game, then I'll make it\nboring for everyone! That's my revenge!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Well, then... <CLT=cltSTRONG>The culprit is Gonta<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Wh-What did you...?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "W-W-Wait! When did Gonta kill Miu!?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "That's a lie! He didn't kill her!\nKokichi's just lying!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Why you... Now you're trying to pin things\non Gonta!?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Do you really expect us to believe such\nan obvious lie!?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Yeah! There's no way Gonta could commit \na murder this complicated. He's not sma—",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>...Hm?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "The truth is... Gonta and I worked together.\nWe formed a duo to end this killing game...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "As the <CLT=cltSTRONG>Killing Game Busters<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Wh-What Busters!?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "We must win this killing game,\nin order to end this killing game!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "What you mean, \"we\"!?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "By the way, I came up with the murder plan,\nand Gonta carried it out.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Gonta what!?!?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Why are you more surprised by that\nthan the first thing he said!?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Cuz...Gonta have no idea what he's talking\nabout...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "C'mooon, quit lying and tell us the truth!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Gonta is telling the truth! He's not\nsomeone who lies all the time like you!",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "And no matter how naive Gonta may be, I\ndoubt he would ever team up with Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Yeah... Not after \"<CLT=cltSTRONG>Insect Meet and Greet<CLT=cltNORMAL>\"\nincident...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Heh, it's obvious what he's trying to do.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Gonta doesn't understand the Virtual\nWorld, so Kokichi's trying to trick him!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "He's trying to sacrifice Gonta to\nescape from his crime!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Nyeeeh! You're a terrible person!\nHow dare you use Gonta like that!",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "You're right... I'm sooorry...\nI did something horrible to Gonta...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "I didn't want Shuichi to hog all the glory,\nso I told everyone the truth!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Cut that out! I told you it's not gonna work!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Don't you think I could've pulled the strings\nand made Gonta carry out my commands?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "It doesn't matter if it's possible or \nnot...cuz I say it's just impossible!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "It does matter! There's no need to bring\nemotions into class trials!",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "All we need is logical thinking...\nRiiiight, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "U-Ummm... Gonta not understand what's\ngoing on. But still...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Gonta...not kill Miu.\nGonta...really not know anything.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "And also...Gonta not tell lies.\nAnd Gonta not make trouble for others...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Cuz that not how gentlemen act!\nThat why Gonta *not* culprit!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Yeah, Gonta's not lying...\nI can tell just by looking at him!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "I already used my magic to check!\nGonta's definitely not lying!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Then, lemme ask you guys...\nIf it's not Gonta, then who's the culprit?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "You, of course!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Ah-hahaha, c'mooon. There's already\nproof that I couldn't have killed Miu.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "...There's already proof?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Oh? Did you forget already?\nThen, let me make it clear again...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "...why I can't be the culprit!",
+  "tr": ""
+ }
+]

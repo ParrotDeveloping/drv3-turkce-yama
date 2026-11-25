@@ -1,0 +1,37 @@
+@ game_resident_US
+## A-KotodamaSetumei1
+101|Konağın dışında yerde \nbulundu.
+102|Nehri geçmek için köprü olarak\nkullanılabilecek uzunlukta bir tabela.\nSanal Dünya'da sadece bir tane var. \nMiu onu nehre attı ama daha sonra\nkonağın yanındaki nehirde kayalara\ntakılmış halde bulundu.
+103|Şapel ile Sanal Dünya'nın bittiği duvar\narasındaki karda donmuş ve yere\nyığılmış halde bulundu.\nKullanıcı çıkış yapınca avatarı\nkaybolur, ama kullanıcının gerçek\nvücudu ölürse avatar Sanal Dünya'da\nkalır.\n\nAvatarlar yaralanamadığı için\nMiu'nun hayattaki halinden hiçbir\nfarkı yok gibi görünüyor.
+104|Miu'nun avatarının yanında yerde\nbulundu. Miu, silah olarak\nkullanılabilecek bütün tehlikeli\nnesneleri silmek için Sanal Dünya'nın\nprogramını yeniden yazdığını\nsöylemişti.
+105|Miu'nun avatarının yanında yerde\nbulundu. Salondaki telefon gibi, içine\nkendi adını söyleyen kullanıcının\nçıkış yapmasını sağlar.\n\nAncak içine başkasının adını\nsöyleyerek onu zorla çıkış\nyaptırmak için de kullanılabilir.
+106|Miu'nun avatarının yanında yerde\nbulundu. O ana kadar şapelde\ngörülmemişti.
+107|Herkes şapelde toplanmışken Miu,\nKokichi'ye konağın çatısında\nbuluşmalarını söyledi.\n\nAncak herkes dış dünyanın sırrını\naramak için nasıl ayrılacaklarına\nkarar verirken Miu şapeli aramaya\ngönüllü oldu.
+108|Kokichi çatıda Miu ile buluşmayı\nkabul etti ama çatı kapısı kilitli\nolduğu için buluşamadı. Bu yüzden\nsalona döndü ve orayı aramaya\nkarar verdi.\n\nKokichi'nin gerçekten salonda olup\nolmadığını doğrulayabilecek bir\ntanık yok.
+109|Sanal Dünya'daki koordinatlar X ve Y\nekseniyle gösteriliyor.\n\nMiu, Y ekseni boyunca bir duvar ekledi.\nDuvarın, insan olmayan nesnelerin\niçinden geçmesine izin veren özel\nbir ayarı vardı.
+110|Kokichi'nin avatarının özel bir ayarı\nvardı. Miu ona dokunursa\nhareket edemeyecekti.
+111|Herkes ilk kez giriş yaptığında bir\navatar kullanıcı hatası oluştu.
+112|Vizörlerin çalışması için bilgisayara\niki özel kabloyla takılmaları\ngerekiyor.\n\nKırmızı kablo bilinç, mavi kablo\nhafıza için.\n\nKablolar yanlış yuvalara takılırsa ne\nolacağı bilinmiyor, ama bir tür\naksaklık olma ihtimali var.
+120|Kurbanın cesedi Exisal'ın tutulduğu\nhangarda bulundu...\n\nKurban hidrolik preste ezildi.\nBu yüzden kalıntıları teşhis\nedilemiyor.
+121|Hidrolik presin kontrolleri cihazın\nkendisinden biraz uzakta. "Yukarı"\nve "Aşağı" yazan iki tuş var.\nAyrıca bir güvenlik fonksiyonu da var.\n\nCeset hidrolik preste ezildi ve\nteşhis edilemiyor.
+122|Hidrolik presin güvenlik fonksiyonu,\nkızılötesi sensörü canlı bir şey\nalgıladığında onu durdurur.
+123|Ceset bulunduğunda hidrolik presin\naltından sadece sol kol dışarı\nçıkıyordu.\n\nKolun dışarı çıktığı yerde tek bir\nküçük delik görülebiliyor.
+124|Bir şey sürüklenmiş gibi hangarın\nbanyosundan hidrolik prese kadar\nsürtünmüş bir kan lekesi.
+125|Olay yerindeki iki Exisal.\n\nBiri kokpiti kapalı halde\ndepodaydı.\n\nDiğeri hangarın ortasında kapağı\naçık, kokpiti açıkta duruyordu.\nKokpitte bir kişilik yer var.\nKapakta sadece Monoyavruların\naçabildiği bir elektronik\nkilit var.
+126|Hangarın banyosunun ortasında\nküçük bir kan gölcüğü.\n\nBanyodan çıkan kapıya doğru giden\ndaha küçük kan lekeleri\nbulundu.
+127|Ultimate Suikastçı'nın araştırma\nlaboratuvarından sökülmüş bir arbalet.
+128|Hangarın banyosunun zemininde\nbulundu.\n\nÜç okun da ucu kanla\nıslak.
+129|İçinde sökülmüş bir arbalet olan\nbir çanta.\n\nArbalet sökülmeden çantaya\nsığmıyor.
+130|Banyonun köşesinde bulundu. \nEtiketi kana bulanmış, okunabilen\ntek kelime "Zehir". \n\nUltimate Dedektif'in araştırma\nlaboratuvarından geldiği\nanlaşıldı.
+131|Yaklaşık 20 cm genişliğinde bir pencere.\nBir insan için çok küçük olsa da bir\nnesne içinden geçebilir.
+132|Kullanıldığında elektromanyetik dalgaları\nengelleyen parçacıklar saçarak\nelektronik iletişimi ve sensörleri\nkullanılamaz hale getirir.\n\nYaklaşık iki saat sürer ve yaklaşık\n45 metrelik bir alanı kaplar.\n\nHer biri sadece bir kez kullanılabilir. \nYapılan üç taneden ikisi Kokichi'de,\nbiri Maki'deydi.
+133|Elektrikli bir bariyerle korunuyor ve\nbiri yaklaşırsa akademinin her yerinde\nbir alarm çalıyor.\n\nAlarm, alarm kumandasıyla devre\ndışı bırakılabilir.\n\nElektrikli bariyerin kontrol paneli\nkepengin yanında. Keskin bir şeyle\nvurulmuş gibi izler var.
+134|Ceset bulunmadan önceki gece\nHimiko'nun hangara gidip Exisal'lar\ndönmeden önce geri geldiği görüldü.\n\nGiderken yanında siyah bir çanta\nvardı ama dönerken yoktu.
+135|Siber Avlu'daki üç Exisal'ın\nyakınında yerde bulundu.\n\nElektroçekiçler kullanıldıkları her\nelektronik cihazı devre dışı bırakabilir.\nAncak enerjileri çok çabuk biter ve\nbir Exisal'da tek kullanım bir\nElektroçekici tamamen boşaltır.\nBoşaldıktan sonra tekrar\nkullanılabilmeleri için 24 saat\nşarj edilmeleri gerekir.
+136|Ceset bulunmadan önceki gün avluda\nMonokuma'yı çevreleyen Exisal'lara,\nKokichi'deki uzaktan kumanda\naracılığıyla onun hareketlerini\nizleme komutu verilmişti.
+137|Ultimate Dedektif'in araştırma\nlaboratuvarındaki raflarda bir sürü\nzehir dizili.\n\nHepsinin içinde sadece Strike-9\nZehri şişesindeki zehir azalmıştı.\n\nStrike-9'un tam etkisini göstermesi\nbiraz zaman alır ama vücuda az\nmiktarda girse bile %100\nöldürücüdür.
+138|Hangarın banyosundaki tuvalete\ntıkıştırılmış halde bulundu.\n\nSırtında ve bir kolunda küçük delikler\nbulundu. İki deliğin etrafında da\nkan izleri vardı.
+139|Soruşturma boyunca ve sınıf duruşması\nbaşlayana kadar kimse Kokichi'yi\ngörmemişti.
+140|Exisal'daki bir kamerayla çekilmiş\nbir video. Kaito'nun hidrolik preste\nezildiği anı gösteriyor.
+150|Ultimate Yüce Lider'in araştırma\nlaboratuvarında bulunan bu kitap,\numut ile umutsuzluk arasındaki\nsavaşın tarihini ayrıntılarıyla anlatıyor.\n\nSonsöze göre birkaç saygın\naraştırmacı tarafından derlenmiş ve\nbu konuda yazılmış en kapsamlı ve\ndoğru kitap. Ancak Shuichi ve\nMaki'nin Hatıra Işığı'ndan aldığı\nhatırayla çelişiyor.\n\nBelgelerin önemli kısımları\nşöyle:\n\nİnsanlık tarihinin en büyük, en\nkorkunç, en trajik olayının sebebi\nUltimate Umutsuzluk'tu.\n\n"Ultimate Umutsuzluk" terimi hem\ngrubu hem de Junko Enoshima'nın\nsebep olduğu olayları ifade edebilir.\n\nDünyayı umutsuzluğa sürüklemek için\nUltimate Umutsuzluk, Hope's Peak'in\n78. sınıfının ölüm oyununu planladı.\n\nTrajedi'den korunmak için 78. sınıf,\nHope's Peak Akademisi Sığınak\nProjesi kapsamında kendilerini\nHope's Peak Akademisi'ne kapattı.\n\nHope's Peak Akademisi öğrencileri\nbaşvuruyla kabul etmiyordu.\nKabul edilmenin tek yolu\nkeşfedilmekti.
+151|Resmi Belgeler Sonsözünün\nAçıklaması.

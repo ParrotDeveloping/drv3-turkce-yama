@@ -1,0 +1,27 @@
+[
+ {
+  "id": 0,
+  "en": "Begin Debug",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Skip courtyard check?",
+  "tr": ""
+ }
+]

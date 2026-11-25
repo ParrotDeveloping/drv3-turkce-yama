@@ -1,0 +1,117 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>A new room...\nIt must be that.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Right? This room's really weird, isn't it?\nI can't figure it out.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I'll try looking around...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I don't know what kind of room is \non the other side of that hole, but...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "It's definitely a weird room.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "That room...was where we were \nin cold sleep together...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "But now's not the time to be sad!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "In order to fulfill the promise we made,\nlet's go to the hidden room in the library!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I should check the room on the\nother side of the hole.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>It looks like the cockpit of a spaceship...\nOf course, it's just a simulator.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>There's a document about the\nGofer Project Maki found.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>\"boys and girls of exceptional talent\"<CLT=cltMIND>...\nis us.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>The Ultimate Academy itself is the\nark headed to a <CLT=cltSTRONG>new world<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>It looks like the device is about to\nbreak. You can't see the stars...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>It's still dark outside...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>But there's not that much\ntime until dawn. I need to hurry.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>It's still dark outside...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>But there's not that much\ntime until dawn. I need to hurry.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>I went through the large hole in the wall\nand stepped into the next room.",
+  "tr": ""
+ }
+]

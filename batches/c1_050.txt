@@ -1,0 +1,59 @@
+@ chap1_text_US
+## c01_100_019
+40|Ama...böyle önemli bir şeyi bizden neden\nsakladınız?
+41|Birimizin beyin olduğunu bilsek kimin\nolduğu konusunda kavga etmeye başlardık...
+42|İkinizin korktuğu buydu, \ndeğil mi?
+43|E-Evet... Doğru...
+44|Ama kameralar varsa bu dava çok kolay\nçözülmez mi?
+45|Of yaaa, bu çok sıkıcı!
+46|Senin eğlencen bizim en son derdimiz!\nKameraları hemen kontrol etmeliyiz!
+47|Suçlu fotoğraflarda olmalı.\nDava kapanır.
+48|Pekala, gidip kameraları alayım...
+49|<CLT=cltMIND>Shuichi üç kamerayı da hızla alıp\naceleyle herkesin yanına döndü.
+50|Tamam, aldım.
+51|Kaede'nin kurduğu kamerayı çıkarmak zordu,\ngerçekten çok iyi bantlamış...
+52|Şey, hareketli kitaplığa doğrultulmuş olduğu\niçin o kameranın düşmesini hiç istemedim.
+53|İşte. Bu üç kamera.
+54|Şimdi sadece filmi banyo etmemiz lazım...
+55|Bu görevi ben üstleneyim.
+56|Vay! <CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL>'nin yapamayacağı\nbir şey var mı!?
+57|Her şeyi duydum! İhtiyacınız olan buysa\nbana bırakın!
+59|Siz pislikler soruşturmaya odaklanabilin diye\nfotoğrafları ben banyo edeceğim!
+60|Çünkü cezalandırılırsanız çok fazla\nkan olur!
+61|H-Hey! Bizim işimize karış—
+62|<CLT=cltMIND>Ama itirazımı duymazdan gelip Shuichi'ye\nyürüdü ve kameraları ondan aldı.
+63|...Ah!
+64|Ben güçlü, duygusal bir kadınım.\nBeni hafife almayın.
+65|Hey! Onları geri ver!
+66|Endişelenmeye gerek yok.
+67|Hepimiz kurallara uymak zorundayız. Hileli\nya da sinsice bir şey yapmayacağız.
+68|Fotoğrafları banyo etmeyi bitirince\nsize haber vereceğim.
+69|D-Dur! Kameraları geri ver!
+70|<CLT=cltMIND>Ona bağırmak anlamsızdı. Monophanie\nrüzgâr gibi hızla gitti.
+71|Ayyyy, gitti işte.
+72|O-Olamaz... O önemli bir kanıttı.
+73|Özür dilerim...\nD-Dikkatsiz davrandım...
+74|Muhtemelen sorun yok. Fotoğrafları banyo\nedeceğini, sonra geri vereceğini söyledi.
+75|Ayrıca kurallara uymak zorunda olduğunu söyledi,\no yüzden kanıtı yok edeceğini sanmıyorum.
+76|Görünüşe göre buna inanmaktan başka \nçaremiz yok.
+77|İnanmak önemlidir. Atua sadece inananlara\nmerhamet gösterir.
+79|Kaede...endişelendiğini biliyorum ama bana\ngüvenebilirsin. Sadece sabırlı olmalıyız.
+80|Endişelendiğim tek şey bu değil...
+81|Beyni ortaya çıkarınca bütün bu işin\nbiteceğini sanmıştım...
+82|Ama şimdi...daha büyük bir karmaşanın içindeyiz.\nSonuna kadar...görmemiz gereken bir karmaşa.
+84|Ah...Kaede?\nSana...bir teklifim var.
+85|Senin için sorun yoksa...duruşma sırasında da\nbirlikte çalışmaya devam edebilir miyiz? Şimdiki gibi?
+86|Shuichi?
+87|Sadece bir çırak olduğumu biliyorum ama...\nbir dedektif olarak sana yardım edebileceğimi düşünüyorum.
+88|Hayır, ben...sana yardım etmek *istiyorum*.
+89|Tabii ki! Sen yanımdayken sanki 100 kişi\nbana yardım ediyormuş gibi olacak!
+90|...Teşekkürler, Kaede.
+91|Hey, şeyy...bu duygusal şeyler umurumda değil,\no yüzden hadi başlayalım artık.
+92|Ve bunu ciddiye almaya çalış, tamam mı?\nHayatlarımız tehlikede.
+93|Böyle bir şeyi bu kadar neşeyle söylemek \nepey zihinsel güç gerektirir...
+94|Başlamadan önce tek başımıza araştırma\nyapmamayı önermek istiyorum.
+95|Ha? Neden?
+96|Suçlunun tek başına çalışmasına izin verirsek \nkanıtı yok etmeye çalışabilir, değil mi?
+97|Ah, haklısın... Suçlu \naramızdan biri olduğuna göre...
+98|Kehehe... Her birimiz diğerini izlersek \nkimse kanıt saklayamaz.
+99|Şüpheyi daha da artıracak bir öneride\nbulunmak niyetinde değilim ama...

@@ -1,0 +1,144 @@
+@ game_resident_US
+## A-Present
+0|Oolong Çayı
+1|Boba Çayı
+2|Zencefil Çayı
+3|Kleopatra'nın İncisi Kokteyli
+4|Alkolsüz Ölümsüzlük İksiri
+5|Ketçap
+6|Şeker
+7|Zeytinyağı
+8|Astro Kek
+9|Patlayan Sakız
+10|Akçaağaç Şekerlemesi
+11|Yunan Yoğurdu
+12|Tavşan Elmalar
+13|Taş Gibi Dondurma
+14|Sukiyaki Karamel
+15|Şeker Sigara
+16|Surat Şeklinde Gyoza
+17|Gümüş Küpe
+18|Kristal Bilezik
+19|Çizgili Kravat
+20|Bağcıklı Deri Çizme
+21|Ultimate Akademisi Bilekliği
+22|Spor Kıyafeti
+23|Mono-Jinbei
+24|Sonbahar Renkli Atkı
+25|El Örgüsü Kazak
+26|Tezahürat Ceketi
+27|Tırnak Fırçası
+28|Giyilebilir Battaniye
+29|Bere
+30|Uğur Böceği Broşu
+31|Kol Düğmesi
+32|Künye
+33|Beyaz Robot Bıyığı
+34|Kara'nın Kitabı
+35|Jambonun Duyguları
+36|Seyahat Günlüğü
+37|Dilekler Gerçek Olsun ☆ Büyü Kitabı
+38|Tokono'nun Hikâyesi
+39|Spla-Teen Vogue
+40|Eğlenceli Hayvanlar Kitabı
+41|Son Model Makine Parçaları Kataloğu
+42|Paslanmaz Tepsi
+43|Tenis Topu Seti
+44|Pahalı Kulaklık
+45|Oyuncak Ayı
+46|Süt Yapbozu
+47|İllüzyon Değneği
+48|El Aynası
+49|Sahne Malzemesi Çantası
+50|Japon Bebeği Peruğu
+51|Photoshop Yazılımı
+52|Dikiş Seti
+53|Alev Gök Gürültüsü
+54|Yıpranmış Nota Kâğıdı
+55|Çivit Mavisi Hakama
+56|Şık Gözlük
+57|Altın Origami
+58|Plastik Ay Aracı Maketi
+59|Ben Bir Resimli Kitap Sanatçısıyım!
+60|El Yayı
+61|Hatıra Madalya Seti
+62|Metronom
+63|Eskiz Defteri
+64|Ahşap Manken
+65|Kuş Yemi
+66|Yakın Dil Cihazı
+67|Su Kabağı Böcek Tuzağı
+68|Saksıda Banyan Ağacı
+69|Cep Mendili
+70|Dans Eden Haniwa
+71|Ölümcül Çalışma Sandalyesi
+72|3 Vuruşta Nakavt Kum Torbası
+73|Spor Havlusu
+74|Çelik Gözlük Kılıfı
+75|Robot Yağı
+76|Saat Şeklinde Oyun Konsolu
+77|Her Yere Uyan Şemsiye
+78|Üç Katlı Beslenme Çantası
+79|Alüminyum Matara
+80|Jöle Toplar
+81|Neşeli Nemlendirici
+82|Ciddi Pusula
+83|Semazen Bebeği
+84|Barcelos Horozu
+85|Hayranlık Yastığı
+86|Ölüm Oyununun 46 Hamlesi
+87|Maymun Pençesi
+88|Bahar Sanat Eseri
+89|Elektrik Fırtınası
+90|Uzay Yumurtası
+91|Ölüm Bayrağı
+92|Hayatta Kalma Bayrağı
+93|Yacchi'ye Yardım
+94|Ana Gezegen
+95|Süper Şanslı Düğme
+96|Parlak Çarşaf
+97|Hamak
+98|Arındırıcı Oda Kokusu
+99|Fal Çiçeği
+100|Kadife Çiçeği Tohumu
+101|Taş-Kağıt-Makas Kartları
+102|Kusursuz Lazer Tabancası
+103|Birinin Öğrenci Kimliği
+104|Ayı Kulakları
+105|Dangan Kurt Adam
+106|Dokunaç Makinesi
+107|Pirinç Oyuncak Blokları
+108|Kozmik Battaniye
+109|Tam Otomatik Buz Rendeleme Makinesi
+110|Erkek Tutkusu Tabancası
+111|Bembeyaz Antrenman Kılıcı
+112|Kara Kuşak
+113|Kaito'nun İç Çamaşırı
+114|Ryoma'nın İç Çamaşırı
+115|Rantaro'nun İç Çamaşırı
+116|Gonta'nın İç Çamaşırı
+117|Kokichi'nin İç Çamaşırı
+118|Korekiyo'nun İç Çamaşırı
+119|K1-B0'ın Dahili Parçaları
+120|Kirumi'nin İç Çamaşırı
+121|Himiko'nun İç Çamaşırı
+122|Maki'nin İç Çamaşırı
+123|Tenko'nun İç Çamaşırı
+124|Tsumugi'nin İç Çamaşırı
+125|Angie'nin İç Çamaşırı
+126|Miu'nun İç Çamaşırı
+127|Kaede'nin İç Çamaşırı
+128|Çeşitli Minder
+129|Aşkın Anahtarı
+130|Herkese Göre Rulet
+131|Monomune
+132|Yetenekli Gençler için Ultimate Akademisi Rozeti
+133|Nota Tokası
+134|Hizmetkâr Eldivenleri
+135|Gizemli Maske
+136|Boş Böcek Kafesi
+137|Galaktik Ceket
+138|Team Danganronpa Çalışan Rozeti
+139|Paskalya Yumurtası
+140|Shuichi'nin İç Çamaşırı
+142|Monomergen-C

@@ -1,0 +1,49 @@
+@ game_resident_US
+## A-PresentSetumei
+0|Oksitlenmiş bir Çin çayı. Oksitlenme derecesine göre \nfarklı tatlar ve kokular ortaya çıkarılabilir.
+1|Dibinde bir sürü tapyoka topu olan popüler bir içecek. \nÇiğnenen tapyoka topları manyok bitkisinin \nkökünden yapılır.
+2|İçinde rendelenmiş zencefil olan sıcak su. Vücudu ısıtır \nve soğuk algınlığını önler. Bal katınca \nçok lezzetli olur.
+3|Kleopatra'nın inci küpelerinden birini bir bardak sirkede \neritmesi hikâyesine dayanan bir içecek. \nGüzelliğe iyi geldiği söylenir.
+4|İçeni ölümsüz yaptığı söylenen efsanevi bir alkollü içkiye \ndayanan alkolsüz bir içecek. Ne ölümsüzlük\nverir ne de tadı güzeldir.
+5|Bir hizmetçinin omletlerin üzerine mesaj yazmak için \nkullandığı özel bir yazı aracı. Bazı insanlar\nnormal bir sos sanar.
+6|Çoğunlukla sakarozdan oluşan temel bir tatlandırıcı. \nFazla tüketmemeye dikkat et.
+7|Zeytinden yapılan bir bitkisel yağ. Doğru \nkullanılırsa yemek yaparken havalı görünmeni sağlar.
+8|Halka uzay yemeği olarak satılan dondurularak \nkurutulmuş bir dilim kek. Hem sağlıklı hem vejetaryen dostu.
+9|Tamamen şişirip patlatıldığında patlama sesi çıkaran \nbir sakız. Kalbi zayıf olanlar çiğnememeli.
+10|Şeker, yoğunlaştırılmış süt ve tereyağının kaynatılıp \nakçaağaç şurubu eklenmesiyle yapılan bir İngiliz \nşekerlemesi. Çok tatlı.
+11|Sade yoğurdun suyu süzülerek yapılan bir yiyecek.\nKoyu tadı sevilir ve çeşitli yemeklerde kullanılır.
+12|Tavşan şeklinde kesilmiş elmalar. Genellikle bazı \nhayvanlar ve böcekler için yem olarak kullanılır.
+13|Asla erimeyecek şekilde tasarlanmış bir kap dondurma. \nYazın bile uzun süre taşınabilir. Ama\no kadar sert ki sıradan kaşıklar içine giremez.
+14|Et, soya sosu, yumurta ve karamel tadını birleştiren \nsukiyaki aromalı karameller.\nTatların hepsi çok güçlü ve birbiriyle hiç uyuşmuyor.
+15|Sigara şeklinde tatlı bir şeker. Büyükleri taklit etmek \nisteyen çocuklar arasında popüler.
+16|Bir yerde gördüğüne yemin edebileceğin birine benzetilerek\nyapılmış bir mantı. Hamuru kalın \nve biraz sert.
+17|Herkese yakışabilecek sade bir küpe.\nRahat bir şıklığı var.
+18|Sıradan kristal camdan yapılmış bir bilezik. Işıl ışıl \nparlıyor ve epey dikkat çekiyor.
+19|Hem erkeklerin hem kadınların takabileceği şık bir kravat. \nÖzel günler için bir tane bulundurmak işe yarar.
+20|Bir kraliçeye yakışır rugan çizmeler. Yüksek topukları ve\nzincirle süslenmiş uzun bağcıkları var. Ayakkabı olarak \nyapılmış ama sanat eseri ya da şemsiyelik olarak da kullanılabilir.
+21|Üzerinde Ultimate Akademisi'nin arması işlenmiş kelepçe\nşeklinde bir bileklik. Ölüm ve umutsuzluk karşısında bile \ndostluğun sembolü.
+22|Teri emen, rahat hareket ettiren spor kıyafeti.\nBununla bütün gün antrenman yapıp yine de rahat edebilirsin.
+23|Monokuma gibi siyah beyaz renkli popüler Japon\nyazlık kıyafeti. İçinde rahat hareket edilir ve iyi hava alır.
+24|Erkeklerin, kadınların ve robotların kullanabileceği şık, \nsonbahar renkli bir atkı. Çok moda ve her kıyafete\nşık bir dokunuş katar.
+25|Her ilmeğine sevgi katılarak örülmüş bir kazak. Giyenler \nkendilerini sevginin gücüyle sarılmış hisseder \nve en soğuk kışta bile sıcak kalır.
+26|Tutkulu kırmızı astarlı uzun bir palto. Seni soğuktan \nkorur ve tutkuyla yanmanı sağlar.
+27|Tırnakları güzelce boyamak için bir fırça. Bununla herkes\ntırnaklarını sihir gibi parlatabilir. Hediye edebilirsin \nama saklarsan iyi bir şey olabilir.
+28|Boyun, el ve ayak çevresindeki tüm boşlukları kapatarak\nseni soğuktan tamamen koruyan bir battaniye. \nİçinde hareket etmek neredeyse imkânsız.
+29|Boyu ayarlanabilen bir bere. Kendini moda ve biraz da \nsanatçı gibi hissettiren epey popüler bir şapka.
+30|Yedi noktalı bir uğur böceğine benzeyen sevimli ve \nşık bir broş. Ne kadar gerçekçi görünse de\ncanlı değil.
+31|Gömleğin kol ağzına takılan bir aksesuar. \nSiyah oniks tasarımı hem erkeklere hem \nkadınlara yakışıyor.
+32|Askerleri tanımlamak için kullanılan bir künye. Aynı bilgiler \niki plakaya kazınır, sahibi ölürse \nbiri ölümü bildirmek için toplanır.
+33|Robotlara yapıştırılabilen centilmen bir bıyık. \nAnten fonksiyonu ya da deprem gücü içermez.
+34|İnsanların işlediği en acımasız, en vahşi cinayetlerin\nkayıtlarını içeren bir suç kitabı.\nBu davaların çoğu halka açıklanmamıştır.
+35|Hamster nasıl beslenir...bu kitabın konusu değil. \nEt için evcil hayvan yetiştirmeyi anlatan bir kitap. \nÇiftçilikle ilgilenenler için.
+36|Seyahat kayıtlarıyla dolu kalın bir günlük. Ancak \naslında dünya haritasına bakan birinin belirsiz bilgisi\nve zengin hayal gücüyle yazılmış.
+37|Ülkenin dört bir yanından toplanmış eski büyüleri çocuklar\niçin kolay okunur bir ciltte toplayan bir kitap. Tehlikeli büyüler\nçıkarılmış, geriye sadece aşk büyüleri kalmış.
+38|Çok eski uygarlıkların gelenekleri, efsaneleri ve \nbilgileri hakkında hikâyelerden bir derleme. \nBilimsel değeri yüksek.
+39|Yazın tadını çıkaran bir sürü modelin yer aldığı bir \ngençlik dergisi. Bu dergi kalamarlar için değil, çocuklar için.
+40|Okul öncesi çocuklar için bir hayvan resimli kitabı. \nNedense içinde ayılar yok.
+41|En yeni kabloları, vidaları, motorları vb. içeren kapsamlı \nbir katalog. Robotlar için bir moda dergisi \nsayılabilir.
+42|Ayna gibi parlayan yuvarlak gümüş bir tepsi. \nBir hizmetçiye yakışır.
+43|Standart dörtlü tenis topu seti. Sadece tenis için \ndeğil, masaj ve kilo verme egzersizleri için de \nkullanılır.
+44|En kaliteli, pahalı bir kulaklık. Klasik müzik ve cazdaki\nnüansları gerçekten duymak istiyorsan bunu kullan.
+45|Siyah beyaz olmayan sıradan bir pelüş ayı. \nYeterince seversen belki bir gün canlanır.
+46|Bir yüzü süt kadar beyaz, desensiz bir yapboz. \nKonsantrasyon eğitimine iyi geldiği söylenir ve \nastronot seçme sınavlarında kullanılır.

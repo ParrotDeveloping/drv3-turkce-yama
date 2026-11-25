@@ -1,0 +1,60 @@
+@ chap1_text_US
+## c01_712_002
+29|Bilmem... Bende olandan daha fazla kız gücü\ngerektiren bir şey gibi görünüyor...
+30|Rahatça başlayıp gelişebilirsin. Hata yapmak\nbelki biraz eğlenceli bile olur.
+31|Hmm, haklısın. Sadece biz olursak, içeride,\no zaman daha az baskı olur...
+32|Belki biraz tatlı yapabilirim.
+34|Kitap okumak, ha?
+35|Normalde light novel okurum, o yüzden pek\nyeni bir hobi gibi görünmüyor.
+36|Dur!? Yoksa!?
+37|Light novel'ları gerçek kitap saymayan türden\nmisin!? Öyleyse bu savaş demek!
+38|Hayır, öyle düşünmüyorum. Ama belki farklı\ntürde bir kitap okumayı denemelisin.
+39|Ah, bir yemek kitabına ne dersin?\nEpey standart.
+40|Yemek pişirmek... Evet, bu iyi olabilir.\nGelecekte işe yarar.
+42|Kafelere gitmek mi!? Bu atlanması fazla\nyüksek bir engel değil mi!?
+43|Ha? Senin için çok mu pahalı? Oraya yürüyerek\nde gidebileceğimiz için iyi olur diye düşünmüştüm.
+44|Ben genelde hep içerideyim, o yüzden dışarıda\nolmak düpedüz zor...
+45|O zaman gitmek için daha da çok sebep var!\nYeni bir şey denemelisin!
+46|Şeyy...haklısın. Yalnız olmayacağım, o yüzden\niyi bir fırsat olabilir!
+47|Buradan çıktıktan sonra birlikte yapalım,\nTsumugi.
+49|Ha, ne oldu? Pek heyecanlı\ngelmiyorsun.
+50|Hayır, öyle değil. Sadece tuhaf olduğunu\ndüşünüyordum...
+51|Sen bir piyanistsin, ben de bir cosplayer'ım, değil mi?
+52|Tamamen farklı dünyalardanız ama yine de...\nbir hobiyi paylaşmaktan bahsediyoruz.
+53|Ama bu kötü bir şey değil. Bu yeni bir\nhikâyenin başlangıcı olacak.
+54|<CLT=cltMIND>Haklı...
+55|<CLT=cltMIND>Tabii ki piyano olmadan hiçbir şey olmayacağımı\nfark etmekten memnun değilim...
+56|<CLT=cltMIND>Ama artık bu karşılaşmadan yaşayabileceğim\nyeni hikâyeler olacağını biliyorum!
+58|<CLT=cltMIND>Tsumugi'den ayrıldıktan sonra odama\ndöndüm.
+## c01_712_050
+0|Çok düşündüm ama...bulabildiğim tek cevap\nhiçbir şey yapılamayacağı...
+4|<CLT=cltMIND>Tsumugi'yle vakit geçireyim mi?
+5|Evet... Tek başıma olmak beni düpedüz\nyalnız hissettiriyor...
+6|<CLT=cltMIND>Tsumugi'yle avluda yürüyerek biraz\nvakit geçirdim...
+7|<CLT=cltMIND>Tsumugi'yle bugün biraz daha yakınlaştık.
+## c01_712_051
+0|*iç çeker* Acaba buradan bütün sabit\ndiskimi yok etmenin bir yolu var mı...
+4|<CLT=cltMIND>Tsumugi'yle vakit geçireyim mi?
+5|*iç çeker* Ne can sıkıcı...
+6|Böyle bir şeye bulaşacağımı hiç düşünmezdim.\nO resimleri silebilseydim...
+7|<CLT=cltMIND>Kasvetli Tsumugi'yi neşelendirmeye çalışarak\nbiraz vakit geçirdim...
+8|<CLT=cltMIND>Tsumugi'yle bugün biraz daha yakınlaştık.
+## c01_712_052
+0|O büyük duvar... Ya bizi devlerden\nkoruyorsa...?
+4|<CLT=cltMIND>Tsumugi'yle vakit geçireyim mi?
+5|Eh, sanırım öyle bir şey olmaz.
+6|Artık hayal kurmayı bırakacağım. Onun yerine\nsüre sınırından sağ çıkmanın yollarını düşünmeliyim.
+7|Ama...bir şey bulabileceğimi\nsanmıyorum...
+8|<CLT=cltMIND>Tsumugi'yle fikir üreterek biraz\nvakit geçirdim...
+9|<CLT=cltMIND>Tsumugi'yle bugün biraz daha yakınlaştık.
+## c01_712_053
+0|Ah! Zaman çok hızlı geçiyor! \nTıpkı bir fuardan hemen önceki gibi!
+4|<CLT=cltMIND>Tsumugi'yle vakit geçireyim mi?
+5|*iç çeker* Hayatım yarın sona eriyor...\nGelip geçici bir hayattı...
+6|<CLT=cltMIND>Pes etmenin eşiğindeki Tsumugi'ye cesaret\nvermeye çalışarak biraz vakit geçirdim...
+7|<CLT=cltMIND>Tsumugi'yle bugün biraz daha yakınlaştık.
+## c01_713_000
+0|<CLT=cltMIND>Angie'ye hediye verme işlemi.
+4|<CLT=cltSYSTEM>Angie'ye bir hediye vermek ister misin?
+9|Angie Yonaga'nın sevgi seviyesi ARTTI
+10|Angie Yonaga'nın sevgi seviyesi AZALDI

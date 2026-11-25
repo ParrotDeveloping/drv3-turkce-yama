@@ -1,0 +1,902 @@
+[
+ {
+  "id": 0,
+  "en": "Well, at this point it goes without saying,\nbut you all voted correctly!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "The blackened who killed Rantaro Amami\nis the <CLT=cltSTRONG>Ultimate Pianist<CLT=cltNORMAL>, Kaede Akamatsu!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Good...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Wh-What...? Good?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "What do you mean, good!?\nIs this how you want it to end!?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Not really, but...it could've turned out a lot\nworse. So this is fine, too.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I-It's not fine! This is super horrible!\nThe worst ever!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Yeah... How did it come to this?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Kaede, what would possess you to\ndo something like this?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Gonta no can accept this...\nNot unless you explain...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Yeah... I won't be satisfied...\nUntil I hear it straight from you...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Kaede, please...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Okay... Please allow me a few more moments\nof your time, then.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "It's just like Shuichi said—I was after the\nmastermind this entire time.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I wanted to kill the mastermind, and I thought\ndoing that would end the killing game...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "But why did you try to kill them?\nMaybe they could have been captured...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "If it hadn't been for the time limit, I probably\nwould've done that...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "But the time limit meant that capturing the\nmastermind was less likely to work, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Cuz the mastermind could've just played\ndumb to run out the clock and kill us all.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I...was worried about that happening.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "So you sought to kill the\nmastermind, instead?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "I had made up my mind just before we set up\nthe cameras in the library.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "I thought it was my last chance to save\neveryone...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I couldn't let that chance pass me by. I had\nto save everyone, no matter what.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Even if you had to kill someone?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "That's right...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I thought that killing the mastermind was our\nbest shot at escaping this place together.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I...really believed it, too...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Oh, Kaede...it never dawned on you?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "As soon as that thought entered your head,\nMonokuma had you right where he wanted.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Because what mattered most to Monokuma\nis that the killing game started.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Regardless of your reasons, the moment you\nfelt the urge to kill, you had already lost.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "You agreed to be part of this killing game\nwhen you allowed murder to fill your heart.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "W-Wait. To put it like that...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "But he's not wrong. She's the reason the\nkilling game finally started.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "But...if Kaede hadn't done anything, we'd\nall be dead by now...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Kaede save everyone... We no can blame her.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I know! You don't need to remind me!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "That's why I'm so...pissed off! Pissed off\nat myself for being so...so useless!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Kokichi...that's enough.\nI can see through your act.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...Whoops. That obvious, huh?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "But...Kokichi is right. I was being played.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "And I didn't even kill the mastermind. I killed\none of our <CLT=cltSTRONG>dear friends<CLT=cltNORMAL>, instead...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "What I did was so terrible...\nSo...unforgivable...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I took an innocent life! I'm nothing but\na horrible murderer!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "You should all hate, blame, and be disgusted\nby me!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Kaede, please calm down!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "After we found Rantaro's body, when I\nrealized he wasn't the mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "I thought about ending this by confessing\nto you what I had done...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "But...I couldn't. Because of Monokuma's\n<CLT=cltSTRONG>First Blood Perk<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I see... If you'd confessed there and \nthen, you would've been able to leave...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "But you decided you couldn't leave this \nplace by yourself, so you kept quiet.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Because of the <CLT=cltSTRONG>First Blood Perk<CLT=cltNORMAL>, you were\nforced to hide the truth from us.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Yeah, that's right...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "So the <CLT=cltSTRONG>First Blood Perk<CLT=cltNORMAL> worked against \nthe blackened rather than for them.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "But...at the same time, I thought...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "If I did this for everyone, then instead of\nmaking things easier by confessing...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "I thought I should lie to you all, so it would\nmotivate you to keep moving forward.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Is that the reason for the trial?\nTo reveal the mastermind?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I felt like if I didn't do this, then Rantaro's\ndeath would have been meaningless.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "We were searching for both the <CLT=cltSTRONG>culprit<CLT=cltNORMAL> and\nthe <CLT=cltSTRONG>mastermind<CLT=cltNORMAL> during this class trial.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Ah, Kaede did mention that.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "But that's why I want to end all of the\nterrible things happening to us!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I'll defeat the mastermind and end \nthis dumb killing game!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "I'll...I'll even use this class trial to do that!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I never wanted to keep my crime a secret...\nI was going to tell you all eventually...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "But before I did, I wanted to expose the\nmastermind first...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Then the killing game would've ended, and\n<CLT=cltSTRONG>everyone but me<CLT=cltNORMAL> would be saved.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "I thought that was the best way I could\natone for killing Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...This is my fault. I was wrong.\nThere was no mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "You were wrong...? But didn't you say \nthe mastermind was one of us?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "That's what I thought at first...\nBut in the end, we have nothing.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "No one made any moves at the\ntime limit, the trial was useless...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Even when Shuichi was about to be\nvoted as the blackened...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Still, they did not appear.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Yeesh, that seriously was a close one.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "If Kaede had just kept her mouth shut,\nwe'd all be dead right now.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "No way. There has to be something else \nwe can discuss. We just gotta think.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Right, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "On the other hand, she's only in this mess cuz\nshe decided to say something at that moment.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "I wanted to protect Kaede, but I\nalso wanted to unmask the mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "But even when the killer was about\nto be condemned, they remained hidden.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "That has to mean that the\nmastermind is not among us after all.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "So Kaede had the wrong idea \nthe whole time...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "All her actions were taken under\nShuichi's flawed logic.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "That's why this is my fault.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "All of this happened because\nmy detective work was wrong.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "If I hadn't been so stupid...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "If I never said anything about a\nmastermind to Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "...Rantaro wouldn't have died...\nand Kaede wouldn't be a murderer!",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "This is all my fault!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "No, it's not.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "...Kaede...?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "I killed him. Not you.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "...Right? Didn't I?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "But, Kaede, why did you set such\na convoluted trap?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "If your intent was to kill the mastermind, there\nwas no reason for you to <CLT=cltSTRONG>cover your tracks<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Isn't it obvious? It's because...she didn't want\nShuichi to know.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "...Me?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Of course, but...I didn't want everyone else\nto know, either.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Because...I said I wanted to escape this\nplace with everyone.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "But you guys wouldn't want to be friends\nwith a girl who killed someone, would you?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Be...friends?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Kaede...put a lot of thought into this.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "She put so much thought into this, it drove\nher to commit murder like a lunatic...",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "God, you're such a dumbass...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "I know, right?\nI'm such an idiot...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "We only survived the time limit because of\nthat idiocy...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Y-Yes! We still alive thanks to you!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Kaede...I didn't know how, but\nI wanted to get out of here with you.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "I wanted...to be friends.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "I'm so sorry...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "So you're saying...everything you did\nwas because you were thinking of us?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "And you hid that you killed him just \nto stay and help us...? How did things—",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Alright, alright! That's it!",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Wh-What do you mean...?\nWhat do you mean...that's it?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Father, are you getting bored?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "You know how Pops gets... He can't\nstand this kinda tearjerker schlock.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "I can't...stop...crying...!",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Teeheehee... I see nothing gets past my\nadorable little cubs.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "I don't even let appetizers get past me!\nEspecially if someone else bought 'em!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "But we can't let this boring display\ngrind the action to a halt, so...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "...time to make things interesting.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Make things...interesting?",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "And now, the moment you've all been\nwaiting for! <CLT=cltSTRONG>Punishment Time<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "P-Punishment...? You mean...Kaede's\nexecution!?",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "N-No friggin' way!\nThere's no way we'll let you do that!",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Exisals assemble!",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Aaaaaaah!",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Punishment Time is a sacred segment.\nYou're not allowed to interfere.",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "And if ya even try to interfere, we'll just\ncrush youse wit' these here Exisals!",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "I-It's cruel, but...it's probably better if\none person dies instead of everyone...",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Like hell am I just gonna sit here \nand do what you say!",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Kaede fought with her life on the line!\nAnd so will I!",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Gonta will face you all! Times like this\nare why Gonta became strong!",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Gentlemen never back down, and\nneither will Gonta!",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Th-This is the perfect chance to test out\nmy <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> skills on machines!",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Y-Yeah! I'll help! I can—",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Everyone, stop!!!",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Please...just stop.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "But Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Enough, you guys...\nI've...already prepared myself.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "You're...giving up?",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "But why...?",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "You said...you'd never give up...\nThat we'd get out of here together.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "That's what you said, Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "So why are you giving up now!?\nDid you mean what you said!?",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "I know we can do something!\nDon't give up until the end!",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "...I'm not giving up. Because I have you.",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "Even after I'm gone...<CLT=cltSTRONG>my wish<CLT=cltNORMAL> will still\nbe here.",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "So I'm counting on you all! I'm entrusting\n<CLT=cltSTRONG>my wish<CLT=cltNORMAL> to every one of you!",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "I believe in you! I believe that you all will\nmake it through this, somehow!",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "You guys better live! Don't go dying on me\nnow!",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "End this ridiculous killing game, survive,\nand get the hell out of this place!",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "And then...be friends after you escape, okay?\nI think you'll all be the best of friends.",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "Affirmative, Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "I will do my utmost to fulfill your final request.",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "I won't give up! I'll get out of here, no matter\nwhat!",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Gonta work hard and keep friends safe till\nvery end!",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "Well, Kaede, you definitely weren't boring.",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "Now then...let's get started.",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "I have a special punishment prepared for the\n<CLT=cltSTRONG>Ultimate Pianist<CLT=cltNORMAL>, Kaede Akamatsu!",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "W-Wait, wait a second!\nKaede, please, don't...",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "Shuichi, you better not lose.",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "You can't lose to this killing game!\nI know you can beat it!",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "Let's give it everything we've got!\nIt's...PUNISHMENT TIIIME!",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "I believe in you guys!\nSo please, believe in yourself!",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "...Okay? It's a promise.",
+  "tr": ""
+ }
+]

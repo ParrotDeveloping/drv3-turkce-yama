@@ -1,0 +1,417 @@
+[
+ {
+  "id": 0,
+  "en": "Huh? What are *you* doing here, Kirumi?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "We all agreed to investigate with at least\none other person present, yes?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>As she spoke, she glanced toward Maki.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Ah...so you're staying with Maki.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "That's good thinking! Hey, once we're done \nwith the trial, can I get a massage?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "But, of course... Since you are here, Shuichi,\nmay I ask you a question?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "The time of death was not provided, so I am\nquestioning everyone in order to determine it.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "When was the last time you saw Ryoma alive?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Right before I was kidnapped by Gonta\nyesterday...around six in the evening.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "The last time I saw him was way before then.\nI didn't see him at all yesterday, actually.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Then you are fine, Kaito. What's important is\nthe last time someone witnessed him alive.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "The last time someone witnessed\nRyoma alive...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Gonta was the last one to see him alive,\nat <CLT=cltSTRONG>around 8 p.m. yesterday<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Ryoma managed to avoid being captured by\nhim by using his <CLT=cltSTRONG>Shukuchi Method<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>So Ryoma was still running around\nafter I got captured...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Furthermore, 30 minutes earlier, Miu saw\nRyoma as she was fleeing from Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "In that case, Gonta's testimony\nis highly credible.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Yes... We at least know that Ryoma was alive\n<CLT=cltSTRONG>yesterday until around 8 p.m.<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Witnessing Ryoma<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Gonta was the last one to see him alive,\nat <CLT=cltSTRONG>around 8 p.m. yesterday<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "So we at least know that Ryoma was alive\r\n<CLT=cltSTRONG>yesterday until around 8 p.m.<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Gonta was the last one to see him alive,\nat <CLT=cltSTRONG>around 8 p.m. yesterday<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Maki...what are you doing here?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Earlier...you said that you weren't going to help\nus investigate. Were you serious about that?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "You'll be fine, even if I don't help, right?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "You're the detective, not me. Or do you\nthink you can't solve this case on your own?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Th-That's completely different, this is—",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Hahaha! That's pretty harsh!\nBut my sidekick is working his ass off!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...Sidekick?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Yup! Shuichi's my sidekick now!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Shouldn't it be...the other way around?\nThe dumb one should be the sidekick.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Th-The dumb one? I'm more of a scientist type\nof guy...so this stuff really isn't my thing.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "...Wouldn't being a scientist be helpful\nfor an investigation?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "More importantly...why have you been here\nthe whole time? Is there a reason?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Why do you care?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Because it's been bothering me...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "You've been in here ever since\nthis room opened up.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Almost as if...you're keeping watch.\nMaking sure no one else enters.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Is this...an interrogation?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Ah, no, that's not what I'm trying to do...\nI just want you to talk to me, Maki.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "If this has nothing to do with the case,\nplease, tell me so.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "It's true that you don't have to help\nus if you don't want to.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "But you should at least cooperate\nwith our investigation...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Because all our lives are on the line.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Even if I did cooperate, I wouldn't be\nany help.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Mostly because...I've been in here for the\nlast several days.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I've only gone back to my dorm at night\nto shower. Including last night.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Then I can ask you this...\nDid you see Gonta at all last night?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Gonta was searching the grounds last night,\ntrying to capture all of us.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "How were you able to avoid being caught?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Gonta did stop by, but I managed to\nchase him off somehow.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "All I did was tell him...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "\"If you lay a hand on me, you'll choke to\r\ndeath on your own tongue.\" That's all.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "So Gonta got scared off by that? Well, \nI guess he would hold back against a girl.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>As I listened to Maki's testimony,\na question grew in my mind...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>Why did Maki not want to\nleave so badly?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>What reason did she have for that?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Are we done here? You're wasting your time\ntalking to me. I don't know anything.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Okay, I'm done here.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Huh? You are?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Well, her alibi is a little shaky, but I \ndon't think she killed Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "That's what my instincts are telling me.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "But if you remember anything, be sure \nto tell Shuichi, okay?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "He's my sidekick, y'know?\nHe's pretty good.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>In the end, the only thing we were able to get\nout of Maki was that she was here the whole time.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>But no one else can verify that testimony.\nThat might be a problem later...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Maki Alone<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "...I can't help you. I don't know anything.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Yeah, I know.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "But if you remember anything, be sure \nto tell Shuichi, okay?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "He's my sidekick, y'know?\nHe's pretty good.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Kaito Momota's Lab",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Lab A",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Lab B",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "4F",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ }
+]

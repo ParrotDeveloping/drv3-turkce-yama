@@ -1,0 +1,61 @@
+@ chap1_text_US
+## c01_003_252
+61|Ah, o zaman Gonta'ya izin verin.
+62|Gonta içine bakmak için daha önce kapağı kaldırdı.\nKapağı yine kaldırabilmeli.
+63|<CLT=cltMIND>Gonta ellerini rögar kapağına koydu\nve—
+64|Hoppa.
+65|Bu kadar kolay mı!?
+66|Bu gücü...benim büyüm sayesinde olmalı. \nEvet...hiç şüphe yok.
+67|Ooohh! Harikasın, Himiko!
+68|...Gonta kapakla şimdi ne yapsın?
+69|Lütfen başka bir yere bırak.\nKimseye çarpmamaya dikkat et.
+70|Şey, aslında...Gonta bunu yapamaz...\nÇevreyi kirletmek çok kaba...
+71|<CLT=cltMIND>Ama rögar kapağını atacak bir yer olmadığı\niçin Gonta istemeye istemeye onu kenara fırlattı...
+72|<CLT=cltMIND>Rögar kapağı yere düşmeden önce rahatça\n5 metre gitti.
+73|Kehehe...ne harika bir güç. Muhtemelen bir\nçocuğun kafatasını kolayca ezebilirsin.
+74|Ne kadar centilmenliğe yakışmayan bir şey!\nGonta bunu ASLA yapmaz!
+75|Centilmen olsun olmasın, bunu *kimse* yapmaz!
+76|Ama Gonta, fasulye sayan bir robottan\nçooook daha güvenilir.
+77|Benden mi...bahsediyorsun? Çünkü sadece\nfasulye değil, pek çok şey sayabilirim.
+78|<CLT=cltMIND>Herkes konuşurken ben yavaşça\nrögarın içine baktım.
+79|<CLT=cltMIND>İçerisi net görmek için fazla karanlıktı ama...\naşağıdan soğuk, nemli bir havanın yükseldiğini hissedebiliyordum.
+80|B-Burası biraz ürkütücü...\nGerçekten buraya mı gireceğiz?
+81|Eminim sorun yoktur. En azından \naşağıda kesinlikle ölmeyiz.
+82|Bir şey olursa çoğunuzu koruyacağım!\nAma yoz erkekler başlarının çaresine baksın!
+83|O zaman...Gonta erkekleri korur.
+84|Fazla sessiz...\nMonokuma ve Monoyavrular nerede?
+85|Bir noktada ortaya çıkıp bizi çürük sinekler \ngibi ezeceklerinden emindim...
+86|Nyahahaha! Muhtemelen henüz fark\netmediler!
+87|O zaman bize sataşmaya gelmeden önce\nacele edelim.
+88|<CLT=cltMIND>Teker teker rögardan aşağı\nindik.
+90|<CLT=cltMIND>Çimlerde bir rögar mı var?\nOnu incelemeliyiz.
+91|<CLT=cltMIND>Çimlerde bir rögar mı var?\nOnu incelemeliyiz.
+## c01_004_353
+0|<CLT=cltMIND>Hepimiz merdivenden inince etrafımıza\nbakındık ve geniş bir alan gördük.
+1|Düşündüğümden daha geniş...
+2|Yodelay-hii-huuuuuu!
+3|Burası da ne...?
+4|Eski bir endüstriyel geçit sanırım...\nBelki bir zamanlar burada fabrikalar vardı?
+5|Ve onlardan geriye kalan bu.
+6|Hey, şuna bir bakın.
+7|Ne düşünceli bir tabela... Görünüşe göre\ntünelin sonu çıkışmış.
+8|Düşünceli mi? Birinin özellikle "<CLT=cltSTRONG>çıkış<CLT=cltNORMAL>"\nyazması sana tuhaf gelmiyor mu?
+9|Hah-haha! Korkudan altına işeme!\nDoğal kokun zaten yeterince kötü!
+10|K-Korkmuyorum! Ve kokum gayet iyi!
+11|O halde sen önden git.\nBurada dikilmenin anlamı yok.
+12|Ah, evet...
+13|Endişelenmeye gerek yok!
+14|Biraz tehlikeli görünüyor ama hepimiz\nburada <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'ız!
+15|Birlikte çalıştığımız sürece her şey\nyoluna girecek!
+16|E-Evet...haklısın.
+17|Ben de tam bunu söyleyecektim!\nGerçekten aynı frekanstayız, Kaede!
+18|Sarıl bana!
+19|Şey...hayır.
+20|Tipik yoz davranışı! Onu kandırıp göğüslerini\nsana bastırmasını sağlamaya çalışıyordun!
+22|Ha... Ne...?
+23|<CLT=cltMIND>Gözlerimi yavaşça açarken bir şekilde\nbayılmış olduğumu fark ettim.
+24|Ah!
+25|Uyandın... İyi misin?
+26|B-Ben iyiyim, peki ya diğerleri?
+27|<CLT=cltMIND>Etrafıma bakındım ve diğerlerinin yerde\noturduğunu gördüm.
+30|<CLT=cltMIND>Herkes şaşkın bir sessizlik içinde oturuyordu...\nHavayı ağır bir hüzün kaplamıştı—

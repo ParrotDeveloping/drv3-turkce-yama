@@ -1,0 +1,712 @@
+[
+ {
+  "id": 0,
+  "en": "This is the first time I've been in here.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>It's a shower room, but it feels less like\nthe <CLT=cltSTRONG>Ultimate Tennis Pro's<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "...and more like the <CLT=cltSTRONG>Ultimate Prisoner<CLT=cltNORMAL>'s lab.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Do you think it was made that way on purpose?\nDid they remodel the shower just for that?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Yeah...I think they did.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Geez...Monokuma's got bad taste.\nWell, we already knew that.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "The <CLT=cltSTRONG>Ultimate Prisoner's Research Lab<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Geez...Monokuma's got bad taste.\nWell, we already knew that.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Alright, on to the next place!\nNo point staying here!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I think there are still things\nto investigate here...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>This window...has no vines or barbed\nwire or bars blocking it.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>And there was that one window I could\nsee from the pool area...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>This is probably that window.\nI should open it to make sure.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Just as I suspected...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "The window you can see from the pool\nis the window to Ryoma's lab.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Huh, a pool...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hm? Wait up. We're on the 3rd floor, \nso we're pretty high up, yeah?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "If you did it just right, I think you could \njump right into the pool from here.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Yeah...and you can swim at any time\nother than nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "It said that in the school rules and the\nrules in the pool area as well.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I see... Well, I don't wanna swim, \nso that doesn't really affect me.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Wait a sec, what's this?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Look, there's weird scratches on \nthe window frame.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "You're right...there are definite abrasions here.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>These marks...are similar to the ones\nthat were on the gym's window frame.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>I'm positive these marks aren't the result\nof opening and closing the window normally.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>This window frame is sturdy as well...\nThe gym's window frame was the same way.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>It looks like it would hold,\neven with a lot of weight on it.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Now you understand. Right, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "How amazing I am to have noticed such \na super, ultra important clue...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "It's all in a day's work for Kaito Momota,\nLuminary of the Stars!!!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>I mean, I found a pretty important clue, too...\nbut I won't say that.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Marked Window Frame<CLT=cltSYSTEM>\" has been updated in the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>This window...has no vines or barbed\nwire or bars blocking it.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>And this window is definitely the\none I saw from the pool area.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>It's on the 3rd floor so it's pretty high up,\nbut you could jump into the pool from here.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>But the rules say you can't go\ninto the pool at nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "The most important discovery about \nthis window...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Is the weird scratches on the window frame!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I found it, so there's no mistake that it's\na super, ultra important clue!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Y-Yeah...\nThat is an important clue...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>These marks...are similar to the ones\nthat were on the gym's window frame.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>I'm positive these marks aren't the result\nof opening and closing the window normally.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>This window frame is sturdy as well...\nThe gym's window frame was the same way.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>It looks like it would hold,\neven with a lot of weight on it.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>This window...has no vines or barbed\nwire or bars blocking it.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>Could it be...?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>There was that one window I could\nsee from the pool area...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>This might be it.\nI'm going to open it and check.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Yes, this is definitely it!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "The window I could see from the pool area\nis Ryoma's lab window.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "The 3rd floor's high up, but if they \naimed well, they could reach the pool...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "But Monokuma said you can't go \nin the pool at nighttime, right?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "If anyone violates a school regulation, a\ncampus-wide siren will blare...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "And then that person will be rrrrrripped\napart by the Exisals!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Y-You'd go that far?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Well, so far the siren hasn't gone off.\nSo no one's needed to be ripped apart...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...yet. Puhuhu.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Because that hasn't happened yet...can we assume\nno one was in the gym or pool at nighttime?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...Well, at the very least, no one alive.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Why'd he say \"no one alive\"?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I believe he was hinting that a dead person\nwouldn't be considered to be \"breaking the rules.\"",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Which means it is possible that a dead body\nwas in the gym or the pool at nighttime...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "So there's a chance Ryoma was carried \nto the gym after he was killed?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "But, y'know, there's no point carrying \nhis body there if you can't even get in.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Ah, I don't know if it's safe to say\nthere was *no* point...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Wait a sec, what's this?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Look, there's weird scratches on \nthe window frame.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Yeah... It's as if something scraped against it.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>These marks...are similar to the ones\nthat were on the gym's window frame.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>I'm positive these marks aren't the result\nof opening and closing the window normally.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>This window frame is sturdy as well...\nThe gym's window frame was the same way.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>It looks like it would hold,\neven with a lot of weight on it.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Now you understand, right Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "How amazing I am to have noticed such \na super, ultra important clue...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "It's all in a day's work for Kaito Momota,\nLuminary of the Stars!!!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>I mean, I found a pretty important clue, too...\nbut I won't say that.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Marked Window Frame<CLT=cltSYSTEM>\" has been updated in the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>This window...has no vines or barbed\nwire or bars blocking it.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>And this window is definitely the\none I saw from the pool area.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>It's on the 3rd floor so it's pretty high up,\nbut you could jump into the pool from here.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>But the rules say you can't go\ninto the pool at nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "If anyone violates a school regulation, a\ncampus-wide siren will blare...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "And then that person will be rrrrrripped\napart by the Exisals!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Y-You'd go that far?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Well, so far the siren hasn't gone off.\nSo no one's needed to be ripped apart...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "...yet. Puhuhu.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Because that hasn't happened yet...can we assume\nno one was in the gym or pool at nighttime?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "...Well, at the very least, no one alive.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "He musta said \"no one alive\" because...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "...he was hinting that if it was a dead person,\nit wouldn't be breaking the school rules.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "So it wouldn't have been a problem for a corpse\nto go in the pool or gym at nighttime...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "There's a chance Ryoma was carried \nto the gym after he was killed, right?",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "But, y'know, there's no point carrying \nhis body there if you can't even get in.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Ah, I don't know if it's safe to say\nthere was *no* point...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Well, anyway!\nWe need to focus on this discovery!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "The weird scratches on the window frame...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "I found them, so there's no mistake that \nthey're a super, ultra important clue!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Y-Yeah...\nThat is an important clue...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>These marks...are similar to the ones\nthat were on the gym's window frame.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>I'm positive these marks aren't the result\nof opening and closing the window normally.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>This window frame is sturdy as well...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>The gym's window frame was the same way.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>It looks like it would hold,\neven with a lot of weight on it.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>There they are... The handcuffs.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Look, Kaito.\nHandcuffs hanging on the wall.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Oh, they look like the ones in the tank.\nOr wait, *are* they the same?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "I think so...\nHere, look.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "See? One empty hook. The handcuffs we found\nmust have been hung here.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>That means the culprit was\ndefinitely here...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Scratched Handcuffs<CLT=cltSYSTEM>\" has been updated in the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>One empty hook left over...\nThe handcuffs must have come from here.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>That means the culprit was\ndefinitely here...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>This is a pretty big stone sink.\nYou could fill it up with a lot of water...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Hm? What's this...?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Scratches on the stone...\nlike something was scraped against it.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "You're right... What made them?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "These scratch marks are clearly not natural.\nThey must've been made by some kind of metal.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "That *is* interesting...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Scratched Sink<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "<CLT=cltMIND>This is a pretty big stone sink.\nYou could fill it up with a lot of water...",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>There are small scratches on it,\nlike it was scraped with something.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>These scratch marks are clearly not natural.\nThey must have been made by some kind of metal.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>That *is* interesting...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>We came here to confirm my suspicion\nabout the handcuffs found in the tank...",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "<CLT=cltMIND>but we found even more\nimportant clues than I expected.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "<CLT=cltMIND>Together with the fact that this is\nRyoma's own lab...",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>There are too many points of concern to be\nmere coincidence. It must be important evidence.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "It seems like you figured something out...\nYou seem more confident.",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Alright! Then, on to the next place!\nThere's no point staying here.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Right.",
+  "tr": ""
+ }
+]

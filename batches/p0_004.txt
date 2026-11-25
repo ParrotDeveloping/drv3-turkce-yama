@@ -1,0 +1,132 @@
+@ chap0_text_US
+## c00_004_007
+0|<CLT=cltMIND>Panikle kapıya doğru atıldığımızda\ngördüğümüz şey...
+1|<CLT=cltMIND>...hiç beklemediğimiz bir şeydi.
+2|Ohhh... Daha fazla insan geldi.
+3|Ha?
+4|Siz de mi o canavar tarafından\nkovalandınız!?
+5|A-Ah, evet...
+6|Onlar...ne? \nBizden ne istiyorlar?
+7|Neler olduğuna bir bakmamı ister misin?
+8|Olmaz! Dışarısı çok tehlikeli!
+9|O canavar büyük ihtimalle \nhâlâ yakınlarda dolaşıyordur...
+10|D-Durun!
+11|<CLT=cltMIND>Avazım çıktığı kadar bağırdım.
+12|Siz de kimsiniz...?\nVe ben neden buradayım—
+13|Böylece 16 olduk.
+14|Ne?
+15|Bizden bahsediyorum.\nBurada 16 kişiyiz—hepimiz liseliyiz.
+16|Sence bu ne anlama geliyor?
+17|<CLT=cltMIND>16...liseli mi...?
+18|Ah, doğru. Soruna cevap vermedim.
+19|Sana adımı söyleyebilirim.\n<CLT=cltSTRONG>Rantaro Amami<CLT=cltNORMAL>.
+20|Şimdilik bu kadarı yeter.
+21|Ha? Şey...tamam.
+22|Neyse, 16 kişi olmamızın ne önemi var?\nDaha fazlası da gelebilir.
+23|Yok, bence hepimiz bu kadarız.\n<CLT=cltSTRONG>Eğer düşündüğüm şeyse<CLT=cltNORMAL> tabii.
+24|...Düşündüğün şeyse mi?
+25|Ne o, her şeyi bilen ukalanın teki misin?\nBir şey biliyorsan söylesene lan!
+26|<CLT=cltMIND>İşte tam o anda... Spor salonunda birden\ntanımadığımız bir ses yankılandı.
+27|Pekiiii, herkes sussun!\nSakil olun, sakil olun!
+28|Hayır, hayır, hayır. "<CLT=cltSTRONG>Sakin olun<CLT=cltNORMAL>" olacak.
+29|Ha? Kim o? Neredeler?
+30|Kyahahahahaha! \nAyı-cık sabrettiğiniz için teşekkürler!
+31|AAAAAAHHHH!
+32|Kahretsin! Daha fazla canavar var!\nEtrafımız sarıldı!
+33|Bunlar canavar değil.\nBunlar <CLT=cltSTRONG>Exisal<CLT=cltNORMAL>.
+34|<CLT=cltSTRONG>Yüksek hareket kabiliyetli, iki ayaklı\nsilah platformları<CLT=cltNORMAL>.
+35|Silah mı!?
+36|Birini geberterek bunları bir\ndeneyelim mi ha!?
+37|Gyaaaahhh!!! Bir dakika!
+38|Sıradan, işe yaramaz ayak takımıyla\nuğraşmak hiç eğlenceli olmaz!
+39|Haklısın. En azından sizi öldürmek için\nilginç bir yol düşünmeliyiz.
+40|Belki seni alıp bağırsakların diş macunu\ngibi fışkırana kadar sıkarım!
+41|L-Lütfen! Diş macunu gibi olmasın!
+42|Iyy... Gözümün önüne geldi.\nKanlı şeylere dayanamam.
+43|O zaman...kollarını bacaklarını dil peyniri\ngibi tek tek soysak?
+44|Lütfen, dil peyniri gibi de olmasın!
+45|Durun! Onları Exisal'larla öldüremeyiz.
+46|Programa göre Exisal'ların daha sonra\nortaya çıkması gerekiyordu!
+47|Ama...şu an Exisal'ların içindeyiz.
+48|Ah! Doğru ya!
+49|Çuvalladık. İlk sahnemizde Exisal'ların\niçinde olmamamız gerekiyordu.
+50|Ben size senaryoyu okuyalım demiştim!
+51|...Hayır, demedin.
+52|Şey...bu robotlardan çıksak mı? Bunun\niçin henüz çok geç sayılmaz.
+53|E-Evet! Hadi öyle yapalım!
+54|Tamam, hazııııır!
+55|<CLT=cltMIND>...
+56|<CLT=cltMIND>...Ha?
+57|Gördünüz mü? Exisal'lardan çıktık.
+58|Artık korkutucu değiliz, değil mi?\nDeğil mi? Değil mi!?
+59|Bu çaresizliği tuhaf bir şekilde ürkütücü...!
+60|Kendinizi hazırlayın ezikler!
+61|O ise düpedüz ürkütücü!
+62|Ben cehennemin derinliklerinden gelen bir\ncehennem elçisiyim, sizi cehenneme sürükleyeceğim!
+63|Hayır, hayır, Monokid. Çok fazla "cehennem"\ndiyorsun. Cehennemi etkiyi mahvediyorsun!
+64|Ha? Cehennemi ne demek?
+65|H-Hey...bu pelüş hayvanların nesi var?\nNasıl hareket ediyorlar?
+66|H-Hiçbir fikrim yok.
+67|Hareket eden pelüş hayvanlar...
+68|Üstelik kendilerine "<CLT=cltSTRONG>Monoyavrular<CLT=cltNORMAL>"\ndiyorlar gibi görünüyor.
+69|<CLT=cltMIND>Hareket eden pelüş hayvanlar mı?\nMonoyavrular mı?
+70|Durun! Siz kendinize...Monoyavrular mı diyorsunuz?
+71|...
+72|Ah... Monodam'a sormaya zahmet etme.
+73|Sadece yakın arkadaşlarıyla konuşur. Yıllarca\nçektiği eziyet kalbini epey yıpratmış.
+74|Öyle değil mi, Monodam?
+75|...
+76|M-Monodam! Kalbini bana bile...\naçmayacak mısın!?
+77|...
+78|Görünüşe göre haklıymışım.
+79|Bu tam olarak <CLT=cltSTRONG>düşündüğüm şey<CLT=cltNORMAL>.
+80|Ama bütün bunların arkasında kim var?\nBu saçma tiyatro da neyin—
+81|Gahhh! Kes sesini! Hepiniz buna fazlasıyla\nnormal tepki veriyorsunuz! Çok sıkıcı!
+82|Aslında...kıyafetleri de biraz sıkıcı\ndurmuyor mu?
+83|Bir dakika... Sence onlara henüz <CLT=cltSTRONG>ilk\nhatıralarını<CLT=cltNORMAL> vermemiş olabilirler mi?
+84|Ha? Bu uyanmadan önce olması\ngerekiyordu...
+85|Hey, soruma cevap verin!\nEğer siz Monoyavrularsanız, o zaman—
+86|Hey! Siz de kimsiniz lan ezikler!?
+87|Ha?
+88|Ne demek istiyorsun?
+89|Sadece merak ediyoruz...sizin <CLT=cltSTRONG>Ultimate\nyetenekleriniz<CLT=cltNORMAL> falan var mı?
+90|<CLT=cltMIND>Ultimate yetenekler mi...?
+91|Benim...yok.
+92|Kendimi adadığım bir becerim var...ama ona\n<CLT=cltSTRONG>Ultimate yetenek<CLT=cltNORMAL> demezdim...
+93|B-Benim de...\nB-Benim öyle bir şeyim...yok...
+94|E-Evet...bende de yok.
+95|Biliyordum! Henüz <CLT=cltSTRONG>ilk\nhatıralarını<CLT=cltNORMAL> almamışlar!
+96|Monophanie...bu iş senin sorumluluğunda değil miydi?
+97|...
+98|zzzzz...
+99|Uyuyor mu? Size çok yorgun gibi\ngörünmüş müydü?
+100|Belli ki numara yapıyor.
+101|zzzzzzzzz...
+102|Numara yapsa bile çok huzurlu görünüyor.\nUyandırmamak için fısıldayalım.
+103|Hıh! Sen öyle diyorsan!
+104|N-Neyse...eğer siz gerçekten\nMonoyavrularsanız, o zaman—
+105|Bizi boş verin. Asıl mesele siz\npislik herifler.
+106|Aslında "mesele" demek hafif kalır...\nBu gerçekten büyük bir sorun.
+107|Hepiniz yeteneklerinizi unutup sıradan\nlise öğrencilerine dönüşmüşsünüz.
+108|Ha? Unutmak mı?
+109|Bakın, hikâyeye göre şu an bir\n<CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> sürüyor.
+110|<CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> yüzünden hepiniz hafızanızı\nkaybedip farklı insanlara dönüştünüz.
+111|Şey...neden bahsediyorsunuz?
+112|Şu anki halinizle bu konuyu sizinle\nkonuşmanın pek bir anlamı yok.
+113|Sizden ilk yapmanızı istediğimiz şey\n<CLT=cltSTRONG>gerçek benliklerinizi<CLT=cltNORMAL> hatırlamanız.
+114|Evet! Hafızanızı geri kazanarak <CLT=cltSTRONG>mühürlü\nyeteneklerinizi<CLT=cltNORMAL> geri almalısınız!
+115|Ne—!? Uyandın mı bile?
+116|Anlamıyorum... Bahsettiğiniz bu <CLT=cltSTRONG>mühürlü\nyetenekler<CLT=cltNORMAL> de ne?
+117|Bu kadar lanet olası soru sorup durursanız\nnasıl konuşacağız!?
+118|Evet! Biz yeni bir müstakbel eski sevgili\nbulmuş hızlı adımlı bir şarkıcı değiliz!
+119|...
+120|Hadi artık başlayalım. Kimse bir sürü sızlanan\nsıradan liseliyi izlemek istemez.
+121|Önce sizi tatlı ve şık gösterecek şekilde\ngardırobunuzu yenileyeceğiz!
+122|H-Ha? N-Ne giyiyorum ben?
+123|Hı-hı! Harika görünüyor! Artık daha çok\n<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'lara benziyorsunuz.
+124|<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'lar mı...? Gerçekten mi?
+125|Sırada hepinizin beklediği o\n<CLT=cltSTRONG>hatıra<CLT=cltNORMAL> var.
+126|Hah işte! Hazır olun! Mühür kırıldığında\n<CLT=cltSTRONG>ölüm oyununun diyarında<CLT=cltNORMAL> olacağız!
+127|<CLT=cltMIND>Ö-Ölüm oyunu mu...?
+128|Şimdi, <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL> sizin <CLT=cltSTRONG>muhteşem\nyeteneklerinizi<CLT=cltNORMAL> hatırlamanıza yardım edince...
+129|Bu <CLT=cltSTRONG>muhteşem hikâye<CLT=cltNORMAL> bu sefer\ngerçekten başlayacak!

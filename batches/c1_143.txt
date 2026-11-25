@@ -1,0 +1,65 @@
+@ chap1_text_US
+## c01_709_050
+7|<CLT=cltMIND>Dalıp giden Himiko'yla biraz vakit\ngeçirdim.
+8|<CLT=cltMIND>Himiko'yla bugün biraz daha yakınlaştık.
+## c01_709_051
+0|Nyeeeh...? Moralin düzelsin diye sihirli\ntozumdan biraz ister misin?
+5|Pardon ama şu an sihirli tozum bitti.\nOnun yerine sana sihirli çekiçle vuracağım.
+6|<CLT=cltMIND>Sihirli çekici kibarca reddettikten sonra\nHimiko'yla sohbet ederek biraz vakit geçirdim.
+7|<CLT=cltMIND>Himiko'yla bugün biraz daha yakınlaştık.
+## c01_709_052
+3|Yoruldum...Tenko'yla konuşmaktan...
+7|<CLT=cltMIND>Himiko yorgun görünüyor...\nHimiko'yla vakit geçireyim mi?
+11|<CLT=cltMIND>Yorgunluktan sessiz kalan Himiko'nun\nyanında biraz vakit geçirdim.
+12|<CLT=cltMIND>Himiko'yla bugün biraz daha yakınlaştık.
+## c01_709_053
+0|Süre sınırı yarın gece...
+1|Belki...robotu öldürmeliyiz?
+5|<CLT=cltMIND>Bu sadece bir şaka...değil mi?\nHimiko'yla vakit geçireyim mi?
+6|Merak etme, hiçbir şey yapmayacağım...\nÖldürmek fazla zahmetli...
+7|*iç çeker* İşler nasıl bu hale geldi?
+8|<CLT=cltMIND>İç çeken Himiko'ya cesaret vermeye çalışarak\nbiraz vakit geçirdim...
+9|<CLT=cltMIND>Himiko'yla bugün biraz daha yakınlaştık.
+## c01_710_000
+0|<CLT=cltMIND>Maki'ye hediye verme işlemi.
+4|<CLT=cltSYSTEM>Maki'ye bir hediye vermek ister misin?
+9|Maki Harukawa'nın sevgi seviyesi ARTTI
+10|Maki Harukawa'nın sevgi seviyesi AZALDI
+14|<CLT=cltSYSTEM>Maki'ye hediye vermek istemediğinden\nemin misin?
+## c01_710_001
+0|Sen <CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>sın,\ndeğil mi, Maki?
+1|...Evet. Ne olmuş?
+2|Hayır, bir şey yok... Sadece çocuklar için\ndaha çok endişeleneceğini düşünmüştüm.
+3|Çocuklar mı...?
+4|Ah, yetimhanedeki çocukları mı kastediyorsun?
+5|Evet! Bakıcıları olmadan iyi olacaklar\nmı?
+6|...İyi olacaklar.
+7|Ben etrafta olmasam bile o çocuklar kendilerine\nbakmayı bilmeli.
+8|...Gerçekten mi?
+9|...En azından benim büyüdüğüm yerde kendimize\nbakmayı öğrenmek zorundaydık.
+10|Tabii ki büyük çocuklar küçüklere yeterince\nbüyüyene kadar bakar.
+11|Orada başka büyük çocuklar da var,\no yüzden iyi olacaklar.
+12|Ama...eminim o çocuklar için bir abla gibisindir.\nSeni çok özlüyor olmalılar.
+13|...Orasını bilemem. Açıkçası çocukların bana\nneden bu kadar bağlandığını bilmiyorum...
+14|Muhtemelen onları şımartacak birini istiyorlar.\nİlla ben olmak zorunda değil.
+15|Öyle deme...
+16|<CLT=cltMIND>Shuichi de Maki'yi <CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltMIND>\nolarak göremediğinden bahsetmişti...
+17|<CLT=cltMIND>Ah! Belki...
+18|<CLT=cltMIND>...endişelendiğini insanların öğrenmesini\nistemiyordur? Maki epey çekingen görünüyor.
+19|...Bu kadar mı? Sadece bunu mu sormak istedin?
+20|Şey, hayır! Iıı, yani... Çocuk bakıcılarının\ngenelde ne yaptığını da merak ettim.
+21|Genelde...ne yaptıklarını mı?
+22|...Normal şeyler. Çocuklarla oynarım ve aptalca\nbir şey yapmadıklarından emin olurum...
+23|Öğleden sonra uykusu vakti gelince onlara\nninni söylerim ya da kitap okurum...
+24|Hmmm, bu epey normal.
+25|...Ne bekliyordun?
+26|Mesela...Süper-Duper Lise Seviyesi bir\n<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> çocuk bakım tekniği!
+27|...Bu aptalca. Öyle bir şey yok.
+28|O zaman sevgi olmalı! Seni bu kadar\nsevmelerinin sebebi derin sevgin!
+29|Tereddüt etme!
+30|Mesele iyiliksever bir kalbe sahip olmak!
+31|Çocukları sevmelisin!
+33|...Sevgi senin için ne anlama geliyor?
+34|Tereddüt etme!
+36|Bence hiç tereddüt etmeden hareket edebilmek\niçin sevgiyi kalbine almalısın.
+37|Duygulardan mı bahsediyorsun?\nYani önce duygularıma göre hareket etmeliyim...

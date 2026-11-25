@@ -1,0 +1,347 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give Angie a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Kaede... Atua will forgive you if you ask.\nCome, let's pray together for His forgiveness.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Or else...Atua will curse you for your next\nsix lifetimes.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Shuichi... Atua will forgive you if you ask.\nCome, let's pray together for His forgiveness.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Or else...Atua will curse you for your next\nsix lifetimes.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Hmm? What's wrong, Kaede? Are you sad\nbecause you can't hear Atua's voice?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "It's okay; I'll tell you what He's saying.\nYou don't need to worry about a thing.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Oh, you can just throw that offering away.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Atua has spoken...\nSuch an offering is unacceptable.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Kaede, I think this offering will offend Atua.\nI know I'm certainly disappointed.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Hmm? What's wrong, Shuichi? Are you sad\nbecause you can't hear Atua's voice?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "It's okay; I'll tell you what He's saying.\nYou don't need to worry about a thing.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Oh, you can just throw that offering away.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Atua has spoken...\nSuch an offering is unacceptable.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Shuichi, I think this offering will offend Atua.\nI know I'm certainly disappointed.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Do you think this is a divine relic, Kaede?\nI don't really see it.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "But Atua says you have decent taste.\nGood for you, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Hmmm, is this your offering Kaede?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "This is a decent effort. Atua is watching\nyour devotion closely.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "The academy has mysterious miracles like this?\nThis can only be a blessing from Atua.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Do you think this is a divine relic, Shuichi?\nI don't really see it.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "But Atua says you have decent taste.\nGood for you, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Hmmm, is this your offering Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "This is a decent effort. Atua is watching\nyour devotion closely.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "The academy has mysterious miracles like this?\nThis can only be a blessing from Atua.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Do you think this is a divine relic, Kaede?\nI don't really see it.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "But Atua says you have decent taste.\nGood for you, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Hmmm, is this your offering Kaede?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "This is a decent effort. Atua is watching\nyour devotion closely.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "The academy has mysterious miracles like this?\nThis can only be a blessing from Atua.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Do you think this is a divine relic, Shuichi?\nI don't really see it.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "But Atua says you have decent taste.\nGood for you, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Hmmm, is this your offering Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "This is a decent effort. Atua is watching\nyour devotion closely.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "The academy has mysterious miracles like this?\nThis can only be a blessing from Atua.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Oh, I see... This offering will earn Atua's\nfavor somewhat, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I will pray to Atua for you, Kaede, so that you\nmay become a gold member someday.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Atua has spoken...\nKaede, you should be my caretaker.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Because you've discovered what makes me\nhappy.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Kaede, let's do more fun stuff today.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I see, I see... Kaede, you know how Angie\nis feeling today.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "With all the offerings you've brought me,\nAngie must be having lots of fun.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I will be happy.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Oh, I see... This offering will earn Atua's\nfavor somewhat, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I will pray to Atua for you, Shuichi, so that you\nmay become a gold member someday.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Atua has spoken...\nShuichi, you should be my caretaker.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Because you've discovered what makes me\nhappy.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Shuichi, let's do more fun stuff today.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I see, I see... Shuichi, you know how Angie\nis feeling today.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "With all the offerings you've brought me,\nAngie must be having lots of fun.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "I will be happy.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Ohhhh! How divine of you, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Nyahaha! My cup runneth over with gratitude!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "This is it! This is what I've been after!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "How did you know, Kaede?\nDid Atua speak to you?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Nyahahaha! Good job, Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Ohhhh! How divine of you, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Nyahaha! My cup runneth over with gratitude!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "This is it! This is what I've been after!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "How did you know, Shuichi?\nDid Atua speak to you?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Nyahahaha! Good job, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Okay, I won't give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "No, I want to give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Angie a present?",
+  "tr": ""
+ }
+]

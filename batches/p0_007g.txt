@@ -1,0 +1,63 @@
+@ chap0_text_US
+## c00_007_017
+13|Kayıt fonksiyonum var. Robot düşmanı bir\nsöz söylersen seni mahkemeye veririm.
+14|Dur...sen robot musun!?\nCidden, gerçekten robot musun!?
+15|S-Sen...Monoyavrulardan biri misin—
+16|Beni o oyuncaklarla kıyaslama!\nBen sıradan bir robot değilim!
+17|Ben K1-B0, <CLT=cltSTRONG>Ultimate Robot<CLT=cltNORMAL>!\nAma lütfen bana Keebo de!
+18|<CLT=cltSTRONG>Ultimate Robot<CLT=cltNORMAL> mu...?
+19|Bu haksızlıııık! Hava atan tek kişi\nsen olamazsın!
+20|Ben de kendimi tanıtacağım!
+21|Ah, şey...buyur.
+22|Ben Kokichi Oma, <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>!
+23|<CLT=cltMIND>Bir robot ve...yüce lider mi?\nİkisi de hiç mantıklı değil.
+24|Bu arada, robot nefesinin benzin gibi\nkoktuğunu acı bir şekilde öğrendim.
+25|Nefesim benzin gibi kokmuyor!\nBen elektrikle çalışıyorum!
+26|Nişişi...şaka yapıyorum.
+27|...Hiç komik değilsin.
+28|Tabii ki komik bulmazsın. Robotlar zaten\ninsan mizahını anlayamaz!
+29|B-Benimle dalga geçme! Stand-up komedinin\nbütün tarihini inceledim!
+30|<CLT=cltMIND>Bence stand-up'ı incelemek yerine\nizlemen yeterdi...
+31|Ayrıca robot görünümünde olabilirim ama\nben de sizin gibi bir lise öğrencisiyim.
+32|Lise öğrencisi misin?
+33|Beni robotik alanının önde gelen otoritesi\nProfesör Idabashi yarattı...
+34|Bana insan beyni gibi öğrenip gelişebilen\nbir "<CLT=cltSTRONG>güçlü yapay zekâ<CLT=cltNORMAL>" yükledi.
+35|Bu yüzden yaratıldığımda hiçbir şey\nbilmiyordum. Bir bebek gibiydim...
+36|Ama profesör beni kendi çocuğuymuşum\ngibi büyüttü.
+37|Bana bir sürü şey öğretti...\nSonunda da beni liseye kaydettirdi.
+38|Ve şimdi karşınızdayım!\nGördünüz mü? Herkes gibiyim!
+39|Hey, robotların çükü var mı?
+40|Lütfen saçma sorular sorma!
+41|Nişişi... Sadece hikâyen bir robot için\nepey pörsük olduğu için sordum.
+42|<CLT=cltMIND>Şey, <CLT=cltSTRONG>robot<CLT=cltMIND> olmak <CLT=cltSTRONG>Ultimate Robot<CLT=cltMIND>\ndenmesi için yeterli olabilir sanırım...
+43|Hey, Kokichi? <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>\nyeteneğini pek anlamadım...
+44|...Ah. Kötü, gizli bir örgütün yüce\nlideriyim sadece. O kadar.
+46|Söylemeliyim, epey etkileyici.\nÖrgütümün 10.000'den fazla üyesi var!
+47|Cidden mi? Kötü, gizli bir örgütün\nyüce lideri—
+48|Kim bilir? Sonuçta ben bir yalancıyım.
+49|Ha? Yani az önce yalan mı söylüyordun?
+50|Eh, kötü, gizli bir örgütün yüce lideriyim.\nO kısım doğruydu!
+51|Yani...yalan mı söylüyordun, söylemiyor muydun?
+52|Nişişi... Söylemeyeceğiiiim.
+53|Ah, bu arada...\no örgütün adı ne?
+54|Sır. Malum, gizli bir\nörgüt.
+55|Ama bu kadar büyük gizli bir örgüt\nhiç duymadım...
+56|Tabii ki duymadın. Çünkü\ngizli bir örgüt.
+57|Hey... Şimdiye kadar söylediği her şey yalan\ngibiydi, demek ki bu da yalan, değil mi?
+58|Onu boş verin. Söylediği her şey\nyalandı.
+59|...Kesinlikle benden çok daha şüpheli\nbiri, orası kesin.
+60|Tabii ki şüpheli biri değilsin, çünkü robotlar\nbiri değildir, şapşal.
+61|Grrh...!
+62|Ah, kızdın mı? Bana roket yumruğu\natacak mısın?
+63|Öyle bir fonksiyonum yok!
+64|Of yaaa, çok sıkıcısın.
+65|<CLT=cltMIND>Ne tuhaf bir çocuk...\nYaramaz küçük bir çocuk gibi...
+66|<CLT=cltMIND>Şaka yapmanın sırası değil. Yoksa...\ngerçekten kötü bir yüce lider mi?
+67|<CLT=cltSYSTEM>Kokichi ve K1-B0'ın <CLT=cltSTRONG>Karneleri<CLT=cltSYSTEM>, onlarla\nyaşadıklarına göre güncellendi.
+68|Kim roket yumruğu olmayan robot yapar ki?\nSen neden varsın?
+69|Lütfen dur!\nDaha fazla yaklaşma!
+70|Robot görünümünde olabilirim ama ben\nde sizin gibi bir lise öğrencisiyim.
+71|Bir lise öğrencisinden diğerine,\numarım hepimiz iyi anlaşırız!
+72|<CLT=cltMIND>Acaba o ikisi de mi <CLT=cltSTRONG>Ultimate<CLT=cltMIND>\nöğrenci? Onlara sormalıyız.
+73|<CLT=cltMIND>Acaba o ikisi de mi <CLT=cltSTRONG>Ultimate<CLT=cltMIND>\nöğrenci? Onlara sormalıyız.
+80|<CLT=cltMIND>Acaba o ikisi de mi <CLT=cltSTRONG>Ultimate<CLT=cltMIND>\nöğrenci? Onlara sormalıyız.

@@ -1,0 +1,472 @@
+[
+ {
+  "id": 0,
+  "en": "It would be a mistake to vote before\nwe've completely solved Angie's murder.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "And there's still the mystery\nof Tenko's murder...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Mystery? What kinda mystery?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Well, Kiyo's confession derailed our\nconversation a bit...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "but we still have to go over one of the\nclues found at Tenko's crime scene.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I believe it might even have something\nto do with Angie's murder.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>Yes, the outlying piece of evidence\nat Tenko's murder scene...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "There was a cut on Angie's forehead\nwe haven't explained yet.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "That's right. I wondered about that...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I think we need a closer look at the whole\nsituation, so we can find out what happened.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "There was a bloody piece of tape\nunderneath Angie's body.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "That's right. I wondered about that...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I think we need a closer look at the whole \nsituation, so we can find out what happened.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "The wooden statue from the seance—",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "That was used as a weight to keep the murder\nweapon in place. Got nothin' to do with Angie.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "C'moooon, tell us the answer to this\nmystery already!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Was there something strange about that?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I saw something under the floorboards\nthat bothered me when we investigated.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "What clue was found at the crime scene\nthat hasn't been explained yet?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "The <CLT=cltSTRONG>bloodstain found under the floor<CLT=cltNORMAL>.\nMaki and I found it during the investigation.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "It was beneath the floorboard\nthat the culprit stomped on.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Is that...Tenko's blood?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "That bloodstain was too far from Tenko's\ncorpse to have been hers.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Also, the bloodstain was already\ndry when we found it.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "But the blood from Tenko's body\nhadn't even begun to dry yet.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Well, that's weird. Why was that \nbloodstain the only dry one?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>The bloodstain under the floorboard\nwas dry because...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "It happened before the seance",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "It was there before Tenko was killed",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "The blood was spilled before the\nseance when Tenko was killed.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "It dried faster because\nthe stain was smaller.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "But that bloodstain was rather far from\nTenko's body, wasn't it?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "It was from the investigation",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "During the investigation, Kokichi hurt\nhimself on one of the floorboards...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "I tripped through the floorboard in a different \nroom, not in the room with the murder scene...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "The air was dry",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "It was very dry in the room,\nso the blood dried quickly.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Not possible. Tenko's blood on top of the\nfloorboards wasn't dry yet, remember?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "You don't understand? But you found it, Shuichi.\nGonta might not be able to help you...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>The bloodstain under the floorboard\nwas dry because...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "The bloodstain wasn't from Tenko's\nmurder...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "It was there <CLT=cltSTRONG>before we started the seance<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Before the seance...?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>That should make it clear\nwhose blood it was...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Tenko Chabashira",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "The bloodstain came from Tenko.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Tenko wasn't injured before the \nseance, so that's probably wrong.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Angie Yonaga",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Korekiyo Shinguji",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "The bloodstain came from Kiyo\nfrom before the seance.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "When he was setting up the seesaw,\nhe might have injured himself.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "That wouldn't *not* be a possibility,\nbut that would be a super boring answer.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Give us an answer after you deducted better!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Kokichi Oma",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Kokichi, you were injured during\nthe investigation, weren't you?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Uhhh...you serious? We even walked around\ntogether before the seance began, remember?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Nyeh? If it was from before the seance, \nthen whose blood is it already?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>Everyone's staring at me...\nI screwed up, they think I'm a fraud...\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>The bloodstain from before the\nseance... It has to be them.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "That bloodstain wasn't Tenko's.\nIt was <CLT=cltSTRONG>Angie's<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Nyeh!? Why was blood from Angie\nat the scene of Tenko's murder!?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Yeah, wasn't Angie killed in her research lab?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Just because we found her body there, \ndoesn't mean she was killed there.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Ah...I guess that's possible!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "If Angie wasn't killed in her lab, then\nthat opens up a lot more possibilities.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "We assumed that only council members could've \nkilled Angie, since her body was in her lab...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "But if she died somewhere else, then we can't\nsuspect just the council members anymore.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "So the culprit didn't enter her lab, but\nwaited for her to come out of it?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "I'm not sure if the culprit waited for her, but\nthey probably killed her when she came out.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Well, I thought that was more likely from\nthe start.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "So I went to <CLT=cltSTRONG>places Angie might've gone<CLT=cltNORMAL>,\nand checked all three empty rooms.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Places she might've gone? Why did you\ncheck the empty rooms, then?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Hm? The empty rooms were the only places\nI could think of that Angie would go.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Did...Angie have business in rooms?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Kehehe... It seems Kokichi's up to\nhis usual misleading nonsense again...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Nee-heehee... I do lie a lot,\nand I could be lying right now too...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "But, I'm pretty sure *someone's* panicking\nright now because of my lie.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>Angie left her lab on her own and\nheaded to the room where she was killed.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>Is Kokichi's statement true?\nOr...",
+  "tr": ""
+ }
+]

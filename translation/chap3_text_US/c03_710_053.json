@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "There's no way you can <CLT=cltSTRONG>resurrect the dead<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Rantaro definitely died... Kaede and Kirumi\ndied right before our very eyes...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Should I hang out with Maki for a while?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...Fine.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I don't feel like doing anything particular,\nso I'll let you decide.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I spent some time with Maki...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Maki and I grew a little closer today.",
+  "tr": ""
+ }
+]

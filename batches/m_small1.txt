@@ -1,0 +1,156 @@
+@ game_resident_US
+## A-Adventure
+0|Seviye <DIG=●>
+1|Seviye
+2|<CLT=cltKTDM> <PAD=【△】> Onayla <PAD=【□】> Soruyu Göster
+3|<CLT=cltKTDM> <PAD=【△】> Onayla <PAD=【□】> Soruyu Gizle
+4|<PAD=【△】>Onayla
+5|<PAD=【Ｆ㊧】>  <PAD=【○】> Kullan
+6|<CLT=cltMIND> <DIG=●> doğru cevap daha verilince kilit açılacak.
+7|<PAD=【Ｌ３】> Hareket
+8|<PAD=【Ｒ３】> Kamera
+9|<PAD=【Ｌ３】> + <PAD=【Ｌ１】> Koş
+10|<PAD=【×】> Koş
+11|Oyundan çıkılıyor.\nEmin misin?
+12|Randevu Bileti
+13|<CLT=cltKTDM> <PAD=【△】> Onayla  <PAD=【□】> Soruyu Göster <PAD=【ＭＣ↕】> Kaydır
+14|<CLT=cltKTDM> <PAD=【△】> Onayla  <PAD=【□】> Soruyu Gizle <PAD=【ＭＣ↕】> Kaydır
+15|<PAD=【ＭＷ↕】>/<PAD=【Ｐ全】> Hareket
+16|<PAD=【Ｌ３】> Kamera
+17|<PAD=【Ｐ全】> + <PAD=【×】> Koş
+## A-KeyItem
+0|Ejderha Mücevheri
+1|Okarina
+2|Antik Pasaport
+3|Altıgen Krank
+5|Sihirli Anahtar
+6|Altın Çekiç
+8|Levitaş
+9|Ahtapot Fırça
+10|Kart Anahtar
+12|Son Gerçek Anahtar
+13|Gerçek Son Anahtar
+14|Son Anahtar
+## A-Skill
+0|Dikkatli Etki
+1|Kıskanç Etki
+2|Olağanüstü Odak
+3|Tehditkâr Odak
+4|Düşüncelere Dalmış
+5|Karizma
+6|Soğukkanlı ve Sakin
+7|Huzur
+8|Vites Küçült
+9|Vites Büyüt
+10|Lazer Işını
+11|Tetikçi
+12|Abrakadabra
+13|Doğaüstü Olay
+14|Yaşama Gücü
+15|Sinirsel Özgürleşme
+16|Sanrı
+17|Yatak Yapma
+18|Finansman
+19|Öldürücü Smaç
+20|Makineli Tüfek
+21|Pompalı Tüfek
+22|El Bombası
+23|Dipten Atış
+24|Dijital Aşk
+25|Nazik Yalan
+26|Zihin Gözü
+27|Aziz Miko'nun Yeteneği
+28|Kütüphaneci Bakışı
+29|İlk Darbe
+30|Piyano Düeti
+31|Ufak Bir Bakış
+32|İlk Harf A
+33|Atua'nın Sezgisi
+34|Berrak Zihin
+35|İkiz Altı
+36|Uzay Yürüyüşü
+37|Ölüm Kalım Gücü
+38|Zanbato
+39|Kürenin Kanunları
+40|Önce Güvenlik
+41|Dev Silindir Operasyonu
+42|XXX-Işını Gözlüğü
+43|Yüksek Gerilim
+44|Ritim Cenneti
+45|Vahşi Uyanış
+46|2B Aşk
+47|Undo Trois
+## C-Briefing
+0|Yetenekler
+1|El Kitabını Gör
+2|Zorluğu Değiştir
+3|Sınıf Duruşmasını Başlat
+4|Sınıf Duruşmasını Yeniden Başlat
+5|Kimse bunun gerçek olduğuna inanmak istemedi ama Rantaro süre dolmadan hemen önce öldürüldü. Şimdi Kaede ve Shuichi Sınıf Duruşması'na girmek zorunda.
+6|Himiko'nun sihir gösterisi sırasında trajedi yaşanır ve Ryoma öldürülür. Shuichi, Kaede'nin dileğini yerine getirmek için yeni duruşmayı tamamlamalı.
+7|Ölüleri diriltme girişimi sırasında Angie öldürülür. Cevap aramak için yapılan bir seansta da Tenko öldürülür. İkisi bağlantılı mı? Üçüncü duruşma başlıyor!
+8|Öğrenciler "dış dünyanın gerçeğini" bulmak için sanal bir dünyaya girer ama bir şekilde Miu öldürülür. Bu duruşma sanal dünyayla gerçek dünyayı harmanlıyor!
+9|Beyin Kokichi'ye karşı birleşen öğrenciler, katili de kurbanı da bilmeden bir Sınıf Duruşması'ndan sağ çıkmalı. Tahmin edilemez bir duruşma başlıyor...
+10|Keebo ve Exisal'lar akademiyi savaş alanına çevirdi ve Shuichi, Monokuma'ya son bir sınıf duruşması için meydan okuyor. Ölüm oyununa son verebilecekler mi!?
+11|Kaede'nin içten dileğine rağmen ölüm oyunu başladı. Ultimate Kâhin'i kim öldürdü? Kaede'nin kaderi ne olacak!? Sınıf Duruşması şimdi başlıyor!
+12|Sınıf duruşması başlatılsın mı?
+13|Sınıf duruşması yeniden başlatılsın mı?
+## E-Ainori
+0|Görsel-İşitsel Oda
+2|Kütüphane
+10|Büyük ekranda izleyebileceğin\nbir sürü video var.
+11|Öğrencilerin karnını doyurabileceği bir vaha. \nBuzdolabında alışılmadık yiyecekler de var.
+12|Farklı zaman ve yerlerden pek çok\nkitap ve belge burada saklanıyor.
+13|Egzersiz ve etkinlikler için kapalı bir tesis.\nBüyük bir sahnesi de var.
+14|Yürüyüş yapmak ve dinlenmek için popüler bir yer.\nBurada inanılmaz bir şey de bulabilirsin.
+## F-HelpModeName
+0|Keşif (3B)
+1|Keşif (2,5B)
+2|Keşif (Konuşma)
+3|MonoMono Makinesi
+4|Sanal Dünya
+7|Sınıf Duruşması (Konuşma)
+8|Durmaksızın Tartışma
+9|Durmaksızın Tartışma
+10|Çürütme Düellosu Gerçek Kılıcı
+11|Cellat Kumarı ver 3.0
+12|Psişik Taksi
+13|Toplu Panik Tartışması
+14|Zihin Mayını
+15|Tartışma Arbedesi
+16|Argüman Silahlanması
+17|Kapanış Argümanı
+18|Umutsuzluğun Ölüm Yolu
+19|Ultimate Yetenek Geliştirme Planı
+20|Monokuma'nın Sınavı
+21|Evrenler Arası Aşk
+22|Uyumlu Kalp
+23|Aşk Düellosu
+24|Kumarhane Ödül Takası
+25|Kumarhane Kanun Kaçağı Koşusu
+26|Kumarhane Somon Avı
+27|Kumarhane TREASURE HUNTER! Monolit
+28|Kumarhane MonoMono Slot
+29|Durmaksızın Tartışma
+30|Durmaksızın Tartışma
+31|Toplu Panik Tartışması
+32|Keşif (Konuşma)
+33|Sınıf Duruşması (Konuşma)
+34|Durmaksızın Tartışma
+35|Durmaksızın Tartışma
+36|Umutsuzluğun Ölüm Yolu
+## J-TutorialTitle
+0|Durmaksızın Tartışma Temelleri
+1|Durmaksızın Tartışma: Katılma
+2|Panik Tartışması Temelleri
+3|Çürütme Düellosu -GERÇEK KILICI-
+4|Durmaksızın Tartışma: Beyaz Gürültü
+5|Durmaksızın Tartışma: Yalan
+6|Tartışma Arbedesi
+7|Cellat Kumarı ver 3.0
+8|Argüman Silahlanması
+9|Kapanış Argümanı
+10|Zihin Mayını
+11|Toplu Panik Tartışması
+12|Psişik Taksi
+13|Umutsuzluğun Ölüm Yolu

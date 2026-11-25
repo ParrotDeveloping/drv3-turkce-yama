@@ -1,0 +1,27 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>...It's locked.\nI suppose I can't get in here.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>What is this...? It's like a hanging\nscroll, but it's blank.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>This monitor has to be custom made...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Why go out of their way to make this?\nWhere is this budget coming from?",
+  "tr": ""
+ }
+]

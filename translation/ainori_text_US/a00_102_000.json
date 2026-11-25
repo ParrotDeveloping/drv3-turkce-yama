@@ -1,0 +1,327 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give Ryoma a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "You're giving that to me?\nWhat's your game...?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I'm not sure if you're being a punk or \njust nosy, but I'm not accepting that.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "You're giving that to me?\nWhat's your game...?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I'm not sure if you're being a punk or \njust nosy, but I'm not accepting that.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I won't make a scene about this \ninsult...but I'll remember it.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Even if someone's not a good person, \nyou can't just be rude like that...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I won't make a scene about this \ninsult...but I'll remember it.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Even if someone's not a good person, \nyou can't just be rude like that...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Exactly what sort of reaction were \nyou expecting from me?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Sorry, but I'm not a fan \nof joke gifts.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "That's just not cool... I thought \nyou'd have better taste than that.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Hmph...I don't have anything \nto say to a gift like this.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Exactly what sort of reaction were \nyou expecting from me?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Sorry, but I'm not a fan \nof joke gifts.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "That's just not cool... I thought \nyou'd have better taste than that.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Hmph...I don't have anything \nto say to a gift like this.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Hmph...you're giving this to me?\nWhat's the meaning of this?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Well, whatever. I guess you didn't \nmean anything bad by it.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Huh? You seemed like the conscientious \ntype, but did I misjudge you?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Well...I guess having a side like that \nis just part of your charm, huh?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Giving me a gift...\nYou're a strange one.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "I...appreciate the thought.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Hmph...you're giving this to me?\nWhat's the meaning of this?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Well, whatever. I guess you didn't \nmean anything bad by it.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Huh? You seemed like the conscientious \ntype, but did I misjudge you?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Well...I guess having a side like that \nis just part of your charm, huh?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Giving me a gift...\nYou're a strange one.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I...appreciate the thought.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Hmph...you're giving this to me?\nWhat's the meaning of this?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Well, whatever. I guess you didn't \nmean anything bad by it.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Huh? You seemed like the conscientious \ntype, but did I misjudge you?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Well...I guess having a side like that \nis just part of your charm, huh?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Giving me a gift...\nYou're a strange one.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I...appreciate the thought.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Hmph...you're giving this to me?\nWhat's the meaning of this?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Well, whatever. I guess you didn't \nmean anything bad by it.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Huh? You seemed like the conscientious \ntype, but did I misjudge you?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Well...I guess having a side like that \nis just part of your charm, huh?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Giving me a gift...\nYou're a strange one.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I...appreciate the thought.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Oh...you've got good taste.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I hope I can return the favor.\nBut I'm not great at giving gifts.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Hmph...nothing good will come from \nmaking me happy, you know?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Sorry I can't show how happy I am...\nI really am grateful for this gift.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Oh...you've got good taste.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I hope I can return the favor.\nBut I'm not great at giving gifts.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Hmph...nothing good will come from \nmaking me happy, you know?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Sorry I can't show how happy I am...\nI really am grateful for this gift.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Hmph...not bad at all.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Sometimes, even I want to feel happy\n...so I'll accept this. Thanks.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "If you're giving me this...\nyou really get me, huh?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "I don't have anything to give you, is \nthat okay? Hmph...you're strange.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Hmph...not bad at all.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Sometimes, even I want to feel happy\n...so I'll accept this. Thanks.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "If you're giving me this...\nyou really get me, huh?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I don't have anything to give you, is \nthat okay? Hmph...you're strange.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Okay, I won't give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "No, I want to give him a present.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Ryoma a present?",
+  "tr": ""
+ }
+]

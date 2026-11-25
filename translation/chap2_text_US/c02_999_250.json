@@ -1,0 +1,72 @@
+[
+ {
+  "id": 0,
+  "en": "Hey, what are you doing?\nEveryone else is in the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "We gotta get going.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I don't remember there being any\nmysterious objects here. I'll look elsewhere.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>For now, I'll head to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Kaito is probably in the dining hall.\nI should hurry and meet him there.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Kaito said he was waiting in the courtyard...\nBut where exactly?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I need to get some breakfast first...\nI should go to the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>The magic show was going to be in the\ngym, right? I should go watch.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "What's the matter?\nThis isn't related to the case, right?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "We don't know when the class trial's gonna \nstart. We can't just be going on a walk.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Ah, true.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>I should head to the <CLT=cltSTRONG>Shrine of Judgment<CLT=cltMIND>\nin the courtyard...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Don't worry! You can do it.\nI believe in you!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Now, let's go to the <CLT=cltSTRONG>Shrine of Judgment<CLT=cltNORMAL>.",
+  "tr": ""
+ }
+]

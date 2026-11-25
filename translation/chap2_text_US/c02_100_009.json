@@ -1,0 +1,682 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>For the second time at the Ultimate Academy,\na body discovery announcement sounded out.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Those who weren't present at the magic\nshow heard it and came running...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Wh-What's going on!?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I-I don't know! I don't know what happened!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "We should break the tank, right?\nWe gotta check what's inside.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Wha—? Break it?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Yeah, break it. It'll take too long to drain it\nby hand.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "But what would we even use to break—",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Gonta! Kee-boy! You're up!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Huh? What do you mean, we're up?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Gonta, throw Kee-boy as hard as you can!\nUse that robot like a battering ram!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Who are you calling a battering ram!?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Gonta throw Keebo! Got it!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Then, I'll help too!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "N-Now wait just a second.\nYou don't need to team up now—",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltSYSTEM>*crash!!!*",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "AAAAAAAAAAAAAAHHHHH!!!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>The sound was intense. A wall of piranhas\nand water dyed red with blood rushed out.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>We watched helplessly as the\narea flooded with water.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>After some deliberation, we decided\nto start cleaning everything up.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>However, I made sure not to disturb\nthe scene more than necessary.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>With Kirumi's expertise, we were able to\nclean up enough to start investigating.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I've...gathered Ryoma's body and belongings...\nin one place.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>Keebo looks depressed... He *was* just used\nas a battering ram, so I understand why.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "He's been reduced such that he can be carried \nin one hand... How fleeting and fragile life is...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Gonta put piranhas in bucket.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Piranhas all got big tummies.\nGonta think they full.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Today, Ryoma is fish food...\nAnd tomorrow, he'll be fish shit.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "D-Don't say such things...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Himiko, are you okay?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "This...wasn't an accident, was it? Does this\nmean...the killing game has started again?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "H-How...!? How...could this happen!?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "We...swore to each other, didn't we? We swore\nwe'd never let the killing game start up again.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "So that was all just a lie!\nYou guys are liars!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "All you liars, apologize to Ryoma! He believed\nthe killing game wouldn't happen anymore!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Your disingenuous tears mark you as \nthe liar right now...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Oh, you figured it out? You've got a pretty\ngood eye there, Kiyo.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Heyyy guys! How's it feel now that you've\ngot a second murder victim on your hands?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...Huh? Ryoma's transparent? Has my x-ray\nvision superpower finally awakened—",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Father, you don't have superpowers.\nHe's just been reduced to a skeleton.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Finally! I've been waiting for the killin' game\nto start up again!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "That means we can put all this borin' crap\non hold and start playin' the blame game!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "You're rarin' to go, Mono...who are you again?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Monosuke! You should at least remember\nyour own kid's name!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...MONOPHANIE, ARE-YOU-OKAY?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Five...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Four...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Hmm? Are you counting, Monophanie?\nWhy are you counting...?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Because...three...I'm seriously...two...gonna\npuke...one...NOW!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...BLRGHBRGLBLRGHBRGLBLRGH!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Ah! She puked again!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "What the hell are you doing, you failure!?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Listen up! We're here to make sure the\nkillin' game goes smoothly, capice?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Also, to keep me company. And new mascots\npresent lots of exciting business opportun—",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Shut up, you failure!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "What!? Me too!?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Hey, hey! This conversation is fun and all,\nbut we should really get this over with!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Don't we need to start investigating or\nsomething?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Alriiight! I'll get the culprit this time for sure!\nHurry up and give us the thingy!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "You mean the Monokuma File, right!?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "I also investigated the cause of death this\ntime, so read it to your heart's delight.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Oh! This is sorta unrelated but I got a\ngreat business idea!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...Yeah, that's totally unrelated.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Let's use this Monokuma File to start\na funeral services business!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Y'know how it gets awkward at funerals when ya\nstart askin' about the cause of death?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "If we pass out Monokuma Files, even the worst\ndeaths will get a giggle outta the attendees!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...Well, Pops? Whaddaya think?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "You're so freakin' cute!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "...Huh? Cute?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "The way you pass out the files is just so cute.\nWhy don'tcha come with me over here...?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Heeeeee! Pops is gonna lick me all over!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Huh? Father's showering Monosuke with all\nhis love.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Hmmm... You think maybe Monosuke's right?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Maybe Father doesn't like us anymore cuz\nwe're not hostile and threatening enough?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "...BLRGHBRGLBLRGHBRGLBLRGH!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "I think maybe I'll follow Monosuke.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "In any event...let us begin the investigation.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Investigation... So it's really going to start\nagain.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "I can't believe it... One of us killed Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>Someone among us...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "No more... Gonta no wanna investigate friends...\nNo wanna suspect friends...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Then don't do it.\nI'm not going to investigate, either.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "You'll be fine if you're short a person, and I\ndoubt a child caregiver would be much help.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Wait, Maki!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>I tried to stop her, but Maki didn't even\nturn around and kept walking.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "The fuck is that bitch's problem!?\nShe's seriously not gonna investigate!?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "That seems...rather irresponsible.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "She likely assumes someone else will take \ncare of it...and I suppose she isn't wrong.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>But why would she say that now?\nShe participated in Rantaro's investigation...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>Although, I suppose Maki *has*\nbeen acting strange lately.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>I've been told she spends all day in her lab.\nWhat is she doing in there?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Well, I'll have a talk with Maki later.\nFor now, we should start investigating.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "I'm seriously pissed we gotta do this,\nbut it's our only chance to survive.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Yup! I'll do my very best, too!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Gonta and I have to work especially hard\nso we can regain everyone's trust!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Oh, yes... You right.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "But we don't even need to investigate.\nIt's pretty obvious who the culprit is.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Ryoma was murdered during a certain little\nmagical girl's show, right?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Nyeh...?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "So I think we need to be a little more suspicious\nof that <CLT=cltSTRONG>little magical girl<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Nyeh!?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Buuuut...she's so suspicious that it seems\nnot suspicious.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Nyeh...?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "But then again, she's made herself look not\nsuspicious, so now she's super suspicious!",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Geez, shaddup already! How dare you toy\nwith Himiko's pure heart!?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "You just said Himiko, didn't you?\nBut I never mentioned her name.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Aaahh!!! Shaddup, shaddup! Himiko would\nnever do something like that!",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "I know her best! Right, Himiko!?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "No...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "This is the part where you agree with me!",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Himiko, can you at least tell us the trick behind\nthe Underwater Escape Act?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "If we know how the trick works, we can try to\nfigure out how the culprit killed—",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "That's not possible...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Not possible? Why not?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "There's no trick to the Underwater Escape.\nCuz it was my magic...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Hah-hahaha! How long is that donkey-lipped\nmidget gonna keep sayin' that!?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Himiko...in order for us to find the culprit,\nit's plain to see we need your help...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Nyeeeh...my answer won't change,\nno matter what you say.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "There's no trick to my magic.\nCuz...it's magic.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "How long are you gonna keep that bullshit up?\nListen, if we don't catch the culprit, we're—",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Th-That's enough! If Himiko says it's magic,\nthen it's magic!",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Fuaaaahhh! I'll use my <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> to obliterate\nany degenerate male who bullies Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "I-I'm not bullying her.\nIt's her fault she's being so stubborn...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Well, it's fine if you don't wanna tell us.\nI'll just find out myself.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Actually, that sounds pretty fun!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "To solve this mystery, we must first learn the\ntrick behind Himiko's Underwater Escape Act...",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "We have no choice in the matter.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>He's right...we have no choice.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "<CLT=cltMIND>We have no choice but to find the\nculprit who killed Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>This investigation is to save all of our lives...\nbecause we're risking our lives in the class trial!",
+  "tr": ""
+ }
+]

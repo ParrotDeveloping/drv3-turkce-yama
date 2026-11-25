@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_205_000
+19|Tsumugi ve Kirumi de yemekhanedeydi.
+20|Bütün zaman boyunca birlikteyseler bu dördünü\npotansiyel suçlu olarak eleyebiliriz.
+21|Hayır...bütün zaman boyunca değil. Bir ara\nTsumugi tuvalete gitti.
+22|Ah...demek sonunda bunu da açtın...
+23|Doğru. Yemekhaneye en yakın tuvalete\ngittim.
+24|...Oo? Doğru mu duydum?\nTuvalet mi dedin?
+25|Harika! Bu anı bekliyordum!\nŞu an çok heyecanlanıyorum!
+26|Iyy! Neden!?
+27|Sert bir kaka mı yaptın!?\nYoksa yumuşak mı!?
+28|...Neden içeride büyük abdest bozduğunu\nvarsayıyorsun?
+29|Ama gerçekten sadece tuvalete gittim.\nBodruma değil, anlıyor musunuz?
+30|Ayrıca şüphe çekecek kadar uzun süre\norada kaldığımı da sanmıyorum, değil mi?
+31|Ama sen <CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltNORMAL>sın.
+32|Dışarıdayken kendini başka biri kılığına\nsokmuş olabilirsin.
+33|K-Kılık mı!?\nHayır, hayır! Ben kılık değiştirmem!
+34|Bunun mümkün olduğunu sanmıyorum.\nVe sebebini de biliyorum.
+35|Şiddetli omuz ağrısı
+36|Tsumugi kılık değiştirdiğinde şiddetli\nomuz ağrısı çekiyor!
+37|Sebep bu mu? Göremiyorsak nasıl\nbilebiliriz ki?
+38|<CLT=cltMIND>Herkes bana bakıyor... \nArtık hepsi beni küçümsüyor...<CLT=cltNORMAL>
+39|Ani karın ağrısı
+40|Tsumugi kılık değiştirdiğinde birden\nkarnı ağrıyor!
+41|Kaede! Artık tuvalet muhabbeti yok!\nAyrıca benim karnım ağrımaz!
+42|<CLT=cltMIND>Herkes bana bakıyor... \nArtık hepsi beni küçümsüyor...<CLT=cltNORMAL>
+43|Kozçiçeği
+45|Ne oldu? Söyleyecek bir şeyin varsa\nsusmanın anlamı yok.
+46|<CLT=cltMIND>Herkes bana bakıyor... \nArtık hepsi beni küçümsüyor...<CLT=cltNORMAL>
+47|<CLT=cltMIND>Tsumugi'nin kılık değiştirmiş olamamasının\nsebebi...
+48|Tsumugi sadece kurgusal karakterlerin\ncosplay'ini yapabiliyor!
+49|Zaten cosplay en başta öyle olması\ngereken bir şeydir!
+50|Son zamanlarda bazıları kurgusal olmayan karakterlerin\ncosplay'ini yapmayı tercih ediyor, bu affedilemez...
+51|O kadar affedilemez ki denemeye kalksam bile\nkozçiçeğine yakalanıyorum...
+52|Evet...kozçiçeği epey iğrençti...
+53|Anlıyorum... Durum buysa kılık değiştirmiş\nolmanın hiçbir yolu yok.
+54|Bunun için kusura bakma, Tsumugi. Sadece\nkontrol edilecek bir şey olduğunu düşündüm.
+55|Ah, yok, sorun değil.\nHiç rahatsız olmadım.
+56|Aaa, Tsumugi çok iyi biri! \nMiu'dan çoook daha iyi!
+57|Eh, siktir git sen de!
+58|Konumuza dönersek, artık yemekhanedeki\nkişilerin mazeretleri var.
+59|Yani Kirumi, Tsumugi, Miu ve Kiyo'nun suçlu\nolamayacağını biliyoruz.
+60|Dördünüzü de tebrik ederim!\nArtık gidebilirsiniz.
+61|Ha? Gidebilirler mi?
+62|Peki bodruma giden domuzlar ne olacak!?\nHepsi şüpheli, değil mi!?
+63|Hangimiz bodruma gitti...?
+64|Şey, Shuichi ile ben gözcülük yaparken gördük ki...
+65|Kaito, Gonta, Maki, Tenko, Himiko, Angie...\nve Rantaro... Yani toplam yedi kişi.
+66|Yani suçlu o yedisinin arasında mı?
+67|Nyahaha! Tabii ki!
+68|Neden gülüyorsun!?\nBuna sen de dahilsin!
+69|<CLT=cltMIND>Rantaro hariç, bodruma giden altı\nkişiden biri...
+70|<CLT=cltMIND>...bu ölüm oyununun beyni mi?
+71|<CLT=cltMIND>Bize bütün bu korkunç şeylere katlanmak\nzorunda bırakan kişi mi?
+72|Neden gerçeği işkenceyle söküp almıyoruz?\nEn hızlı yöntem bu olurdu...
+73|D-Durun lütfen! İşkence yok! Acıya\ndayanıklılığım aslında çok çok düşük!
+74|Size her şeyi anlatırım! Ne olursa!\nYeter ki canımı yakmayın!

@@ -1,0 +1,717 @@
+[
+ {
+  "id": 0,
+  "en": "Oolong Tea",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Boba Tea",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Ginger Tea",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Cleopatra's Pearl Cocktail",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Non-Alcoholic Drink of Immortality",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Ketchup",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Sugar",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Olive Oil",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Astro Cake",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Bubble Bomb Gum",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Maple Fudge",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Greek Yogurt",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Bunny Apples",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Rock Hard Ice Cream",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Sukiyaki Caramel",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Candy Cigarette",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Gyoza In the Shape of a Face",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Silver Earring",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Crystal Bangle",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Striped Necktie",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Bondage Boots",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Ultimate Academy Bracelet",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Workout Clothes",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Mono-Jinbei",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Autumn-Colored Scarf",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Hand-Knit Sweater",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Cheer Coat Uniform",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Nail Brush",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Wearable Blanket",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Beret",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Ladybug Brooch",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Cufflinks",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Dog Tag",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "White Robot Mustache",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Book of the Blackened",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Feelings of Ham",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Travel Journal",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Dreams Come True ☆ Spell Book",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Story of Tokono",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Spla-Teen Vogue",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Fun Book of Animals",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Latest Machine Parts Catalog",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Stainless Tray",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Tennis Ball Set",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "High-End Headphones",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Teddy Bear",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Milk Puzzle",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Illusion Rod",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Hand Mirror",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Prop Carrying Case",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Japanese Doll Wig",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Photoshop Software",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Sewing Kit",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Flame Thunder",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Tattered Music Score",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Indigo Hakama",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Fashionable Glasses",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Gold Origami",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Plastic Moon Buggy Model",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I'm a Picture Book Artist!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Hand Grips",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Commemorative Medal Set",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Metronome",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Sketchbook",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Art Manikin",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Bird Food",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Proxilingual Device",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Gourd Insect Trap",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Potted Banyan Tree",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Pocket Tissue",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Dancing Haniwa",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Work Chair Of Doom",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "3-Hit KO Sandbag",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Sports Towel",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Steel Glasses Case",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Robot Oil",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Clock-Shaped Game Console",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Everywhere Parasol",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Three-Layered Lunch Box",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Aluminum Water Bottle",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Jelly Balls",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Upbeat Humidifier",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Earnest Compass",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Semazen Doll",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Weathercock of Barcelos",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Pillow of Admiration",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "46 Moves of the Killing Game",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Monkey's Paw",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Art Piece of Spring",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Electric Tempest",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Space Egg",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Death Flag",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Survival Flag",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Helping Yacchi",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Home Planet",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Super Lucky Button",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Sparkly Sheet",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Hammock",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Cleansing Air Freshener",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Flower for Floromancy",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Marigold Seeds",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Rock-Paper-Scissors Cards",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Perfect Laser Gun",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Someone's Student ID",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Bear Ears",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Dangan Werewolf",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Tentacle Machine",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Rice Toy Blocks",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Cosmic Blanket",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Fully-Automated Shaved Ice Machine",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Gun of Man's Passion",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Pure-White Practice Sword",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Dark Belt",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Kaito's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Ryoma's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Rantaro's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Gonta's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Kokichi's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Korekiyo's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "K1-B0's Built-In Parts",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Kirumi's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Himiko's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Maki's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Tenko's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Tsumugi's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Angie's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Miu's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Kaede's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Variety Cushion",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Key of Love",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "To Each Their Own Roulette",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Monomune",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Ultimate Academy for Gifted Juveniles Badge",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Musical Note Hairpin",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Servant's Gloves",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Mysterious Mask",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Empty Insect Cage",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Galactic Jacket",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Team Danganronpa Employee Badge",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Easter Egg",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Shuichi's Undergarments",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Date Ticket",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Monomergen-C",
+  "tr": ""
+ }
+]

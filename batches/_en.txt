@@ -1,0 +1,47 @@
+## A-MapListNameAscii
+1	Hallway 1F
+2	Hallway 2F
+3	Hallway 3F
+4	Hallway BF
+5	Hallway 4F
+6	Hallway 5F
+14	Student Store
+27	Secret Room
+28	Secret Room
+29	Secret Passage
+42	Hallway 1F
+43	Hallway 1F
+44	Hallway 2F
+45	Spiral Staircase
+46	Hallway 6F
+50	Hallway BF
+51	Hallway 1F
+52	Hallway 1F
+53	Hallway 2F
+54	Hallway 3F
+55	Hallway 4F
+56	Hallway 5F
+57	Hallway 6F
+134	Ultimate Prisoner Lab
+222	Exisal Hangar - Bathroom
+223	Exisal Hangar - Bathroom
+240	Casino 1F
+241	Casino BF
+252	Boiler Room
+260	Boiler Room
+264	Boiler Room
+268	Boiler Room
+272	Boiler Room
+281	Courtyard - Nightspot
+282	Courtyard - Nightspot
+283	Courtyard - Nightspot
+284	Courtyard - Nightspot
+285	Courtyard - Nightspot
+286	Courtyard - Nightspot
+350	Underground Passage
+351	Underground Passage
+352	Underground Passage
+353	Underground Passage
+400	In-N-Out Room
+950	Hallway 1F
+955	Dorm Bathroom

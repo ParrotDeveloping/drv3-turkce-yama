@@ -1,0 +1,317 @@
+[
+ {
+  "id": 0,
+  "en": "This is amazing...\nIt's like an event venue!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>That must mean this is the\n<CLT=cltSTRONG>Ultimate Cosplayer<CLT=cltMIND>'s lab.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Umm...even with all these materials and \ntools, if it's by myself...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I see...\nCosplay is fun to do with others, right?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "There's no point doing it by myself...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Hey, Shuichi! Do you want to give it a try!?\nCome on, try cosplaying with me!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "M-Me!?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yeah, I think it's just plain fun \nto become fictional characters.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "To become a completely different person and\nfeel like you're part of a different world...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Doesn't that sound interesting?\nDon't you want to live in a fictional world?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Ah, but...I'm investigating right now...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Then, let's do it later.\nLet me know when you feel up to it.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I'll help you become your favorite character,\nwhether it's from an anime, manga, or game.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "However, even if you're just trying it out, \nyou gotta cosplay with love!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "R-Right...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I think it's just plain fun to\nbecome fictional characters.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I'll help you become your favorite character,\nwhether it's from an anime, manga, or game.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "However, even if you're just trying it out, \nyou gotta cosplay with love!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "R-Right...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>I'll investigate around here a little more.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us,\nbut why is it so...gaudy?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>And it's not just the monitor,\nit's this entire academy.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>What is going on here...?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>This is a set for photoshoots, huh?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>There are a bunch of backdrops here.\nThis is an incredible setup...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>This looks like a bar...\nIs this a set too?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Well, what do you know...it's just like \nthe real thing.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>Tsumugi spoke cheerily and sat down\nat the table in front of the counter.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Hey, Shuichi, are you thirsty? I can make you\none of my signature cocktails if you'd like.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "A signature cocktail?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Yeah, it seems like all the drinks here\nare top-quality stuff.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I used to make them a lot at my part-time job.\nDon't worry. It'll be non-alcoholic, of course.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Ah, okay...\nI'll take one.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltSYSTEM>*clink, clink*",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "How would you like it?\nA little stronger, maybe?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Huh? Ah, sure...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltSYSTEM>*clink, clink*",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Wow, you're good at this, aren't you?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Yeah, before I got sponsors for my \ncosplaying, I worked a bunch of jobs.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I used to say to my customers...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "\"I'm in a bit of financial trouble.\nIf only someone could help me out...\"",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>What is this feeling...?\nI suddenly feel charitable!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltSYSTEM>*clink, clink*",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Okay, it's ready.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>What kind of part time job did she\nhave, anyway? Mixing drinks like this...?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>With those thoughts swirling around my\nhead, I drank the drink Tsumugi handed to me.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Please come again.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Yes, thank you. I'll be back.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>This is a pretty realistic bar set...\nThere's liquid in the bottles, too.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>Tsumugi said she'd worked in a\nplace like this before.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>What kind of part time job did she\nhave, anyway? Mixing drinks like this...?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>This is another set for photoshoots...\nIt has quite the gothic feel.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>A sewing machine and work table.\nPerhaps a space to make and repair costumes?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Alright, I've finished investigating all\nthe items this time.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Kaito should be waiting in the dining\nhall. I should gather everyone there.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>I spoke with everyone and told them\nto gather at the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>After a time, everyone had\ngathered in the dining hall.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,63 @@
+@ chap1_text_US
+## c01_223_000
+35|Sensör tetiklendi, işte o anda bu fotoğraf\nçekildi.
+36|Durum buysa kamerayı neden fark ettiğinin\nsebebini bulmalıyız.
+37|Herkesin kafasını karıştırıyorsun! Benim hariç\ntabii! Lafı dolandırma lan, sadede gel!
+38|Ne olabileceğini düşünüyordum.\nKamerayı neden fark etti?
+39|Ve cevap...bu fotoğrafta.
+40|<CLT=cltMIND>Anlıyorum... Shuichi biliyor...
+41|Arka giriş kamerası
+42|Arka girişin yanına yerleştirilen kamerayı\nfark ettiği için mi?
+43|Hayır, o kamerayı fark ettiğini\nsanmıyorum...
+45|Kitaplık sensörü
+46|Kitaplığa yerleştirilen sensörü fark\nettiği için mi?
+47|Hayır, güvenlik sensörünü fark etmemiş\nolmalı. Önemli olan kamera...
+49|Kamera flaşı
+51|Ne oldu? Söyleyecek bir şeyin varsa kus\nişte! Ya da yut, umurumda değil!
+53|<CLT=cltMIND>Rantaro'nun kamerayı fark etmesinin\nsebebi...
+54|<CLT=cltSTRONG>Flaş<CLT=cltNORMAL> yüzünden, değil mi?
+55|Nyeh? Flaş mı?
+56|Evet. Gizli kapı kamerası fotoğraf çektiğinde\nflaş patladı.
+57|Rantaro kameranın flaşını fark etti.
+58|Ama flaşın patladığını nasıl anlıyorsun?
+59|Şey, elimizdeki diğer fotoğraflarla\nkarşılaştırırsanız...
+60|Kameraları sökerken çekilen fotoğrafları\nhatırlıyor musunuz?
+61|Bu, ön kamerayı sökerken çekilen\nfotoğraf...
+62|Bu da arka kamerayı sökerken çekilen\nfotoğraf.
+63|Ve bu...Rantaro'nun fotoğrafı.
+64|Vay! <CLT=cltSTRONG>Parlaklık<CLT=cltNORMAL> tamamen\nfarklı!
+65|Aynı oda, aynı koşullar, aynı kamera.\nVe yine de parlaklıkta bir fark var...
+66|Çünkü sadece gizli kapıya doğrultulan\nkameranın <CLT=cltSTRONG>flaşı açıktı<CLT=cltNORMAL>.
+67|Flaşı açık bırakmanın amacı neydi? \nÖzellikle de gizli olması gerekirken...
+68|Bir hata olabilir mi?
+69|Hata değil. Burada bir amaç vardı.
+70|O kamera başka bir sebeple\nyerleştirilmişti.
+71|Başka bir sebep, ha?
+72|Beynin fotoğrafını çekmek için
+73|<CLT=cltMIND>...Hayır, beynin fotoğrafını çekmek için\nflaşa gerek olmazdı.
+74|<CLT=cltMIND>Hadi... Gerçekle yüzleşmeliyim!\n<CLT=cltNORMAL>
+75|Odayı aydınlatmak için
+76|<CLT=cltMIND>Biz orada olmasaydık odayı aydınlatmanın\nhiçbir anlamı olmazdı.
+77|<CLT=cltMIND>Hadi... Gerçekle yüzleşmeliyim!\n<CLT=cltNORMAL>
+78|Beyni yaklaştırmak için
+79|Beynin gözünü kamaştırmak için
+80|<CLT=cltMIND>Gözlerini kamaştırmanın hiçbir anlamı\nolmazdı.
+81|<CLT=cltMIND>Hadi... Gerçekle yüzleşmeliyim!\n<CLT=cltNORMAL>
+82|Bu başka sebep neydi, Shuichi?
+83|Şey, o...
+85|<CLT=cltMIND>...<CLT=cltNORMAL>
+86|<CLT=cltMIND>Bunu biliyorum. Kameranın flaşının\nkullanılmasının tek bir sebebi var...
+87|Flaş, kitaplığı oynatan kişiyi kameraya\n<CLT=cltSTRONG>çekmek<CLT=cltNORMAL> için kullanıldı.
+88|Yani flaş patladığında kamerayı hemen\nfark edeceklerdi.
+89|Ve tam olarak bu oldu.
+90|Rantaro kitaplığı oynattı, flaşı fark etti,\nsonra da kameraya doğru yürüdü.
+91|Ama suçlu kapı kapanınca kameranın bir\nfotoğraf daha çekeceğini beklemiyordu.
+92|Hey, Kaede...?
+93|Ne oldu?
+94|Bir...sorun mu var?\nBiraz...tuhaf davranıyorsun.
+95|...Tuhaf mı?
+96|Son birkaç sözün...öncekilerden daha\nfazla inanç taşıyor.
+97|Suçlunun kim olduğunu biliyor musun!?
+99|Evet, biliyorum.\nUzun zamandır biliyorum.
+100|...Hm? Uzun zamandır mı?
+101|Çünkü kameranın flaşını ayarlayabilecek\n<CLT=cltSTRONG>tek bir kişi<CLT=cltNORMAL> vardı.

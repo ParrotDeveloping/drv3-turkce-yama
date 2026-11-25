@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "What is this...?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>There are small talismans posted\non the door that leads to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>That's right, they did say that the\nmagic show would be in the gym...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>I guess no one is allowed to enter\nwhile they're setting up.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>There are small talismans posted\non the door that leads to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>I guess no one is allowed to enter\nwhile they're setting up the magic show.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Clock Tower A",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>...It's locked.\nIt doesn't seem like I can get inside.",
+  "tr": ""
+ }
+]

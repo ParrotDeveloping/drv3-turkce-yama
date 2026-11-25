@@ -1,0 +1,63 @@
+200	Lab. penceresi
+201	Lab. kapısı
+210	Spor salonu kapısı
+211	Spor salonu penceresi
+220	Pencereden pencereye
+221	Havuz üzerinden
+300	Kuklanın eli
+301	Katananın kabzası
+310	Katana kuklaya saplandı
+311	Sürgülü kilitle oynandı
+320	Döndürerek
+321	İleri geri sallayarak
+322	Düşürerek
+400	Kaito Momota
+401	Miu Iruma
+402	Keebo
+410	Öbür dünya
+411	Gerçek dünya
+412	Sanal Dünya
+420	Dikkati dağıtmak için
+421	Yanlış yere konmuş
+422	Gizli kanıt
+430	Konak
+431	Nehir
+432	Şapel
+440	Konak tarafı
+441	Geçiş noktası
+442	Şapel tarafı
+450	Konak tarafı
+451	Geçiş noktası
+452	Şapel tarafı
+460	Akıntıya karşı
+461	Akıntıyla birlikte
+500	1
+501	2
+502	3
+503	4
+510	Evet
+511	Hayır
+520	Himiko Yumeno
+521	Kokichi Oma
+522	Üçüncü bir kişi
+600	1
+601	2
+602	3
+603	4
+610	Hayatta Kalan Ayrıcalığı Monopad'i
+611	Monoyavru Pad'i
+612	e-El Kitabı Monopad'i
+620	Kütüphane
+621	Gizli oda
+622	Oyun odası
+630	Kurban
+631	Hayatta kalan
+632	Ölen
+633	Beyin
+640	Umutsuzluk
+641	Umut
+900	Kurban
+901	Suçlu
+910	Hajime Hinata
+911	Yasuhiro Hagakure
+912	Makoto Naegi

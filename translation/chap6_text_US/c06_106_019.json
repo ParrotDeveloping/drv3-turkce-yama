@@ -1,0 +1,752 @@
+[
+ {
+  "id": 0,
+  "en": "Maki!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...I knew you would come here.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "If you're reinvestigating old areas, you'd\nhave to come here eventually.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "But...before you do, listen to what I\nhave to say.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Is this about the blueprints?\nHave you looked through all of them?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yeah I have, but something caught my eye\nthat worried me.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Although, I'm not sure how significant it is.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Hey, Himiko, did you find anything\nin Rantaro's room?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "I'm not gonna tell you! Stop asking me!\nShut up! Leave me alone!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Huh? Why?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "If I say I didn't find anything, you're gonna\ndecide I'm useless, aren't you...?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I-I won't let that happen...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "So...I guess she didn't find anything.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Don't worry. I wasn't expecting anything\nfrom you anyway.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Th-That's just as bad!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>If it isn't in Rantaro's room, then\nwhere is his <CLT=cltSTRONG>Survivor Perk<CLT=cltMIND>?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>We didn't find anything on his body.\nDid he hide it somewhere before he died?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>But...hiding it in your room would\nbe the safest place for it...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Did someone...take it?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...Shuichi, what's wrong?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Hey, we're going to check what's behind the\nhidden door, right? Let's hurry and do it.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Y-Yeah, you're right.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>The hidden door is where Rantaro was\ninvestigating just before he died...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>There might be something in there\nthat would be a valuable clue.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>First, I should inspect the hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "You've got guts to label me, the legendary mage,\nuseless!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I wish you'd use your magic to be useful.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Nyeeeh!?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Stop it, Maki! We already know Himiko\nhas no use!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Hey! How dare you say I have no boobs!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "What? That's not what I said at all. It's plain\nto see you're bothered by your chest...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I-I'm not bothered at all!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "I just misheard you cuz Shuichi's taking his\nsweet time! Hurry up and check the hidden door!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>What? Why is it *my* fault?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Quit wasting time and check the hidden door!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "L-Let's go! I'll repel the mastermind \nwith my magic!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Hey, Maki, what was in all those blueprints\nyou were looking through?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I found a design that worried me a little.\nIt was drawn with *too* much detail...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "It looks like...a vacuum.\nWhat a peculiar shape...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "It's a machine that sucks up bugs called\nthe Bugvac.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "A \"Bugvac\"?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Kokichi came up with the design? But, I thought\nthere weren't any bugs outside of Gonta's lab.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Now that you mention it...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Oh... That cuz of tiny bugs.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Bugs...? I thought vermin were nowhere to be\nseen in this academy.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Yeah, Gonta think that before, but...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "When out walking in courtyard, Gonta think\nhe see tiny bug.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "But...bug so tiny, even Gonta no could see it.\nAnd Gonta have 20/0.625 eyesight.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "So maybe Gonta just make mistake.\nBut Gonta think...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "No, maybe Gonta just see things...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Gonta *was* always seeing <CLT=cltSTRONG>small bugs<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But Gonta said he was just seeing things...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Maybe Kokichi asked Miu to invent that\nto see for himself.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "So Miu actually made this?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "After I found this design, I went to Miu's\nresearch lab...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...and I found a prototype that she was\nstill working on.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "This is it. It may be a prototype but it seems\nto be functional already.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "The suction function is already finished.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>As she said that, Maki flipped\nthe switch on the machine, and...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltSYSTEM>*vrrrooommm!*",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "It has pretty strong suction...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "With this, you can vacuum up all the bugs\naround you at once.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Hm... Nothing in it.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Yeah. It looks like it was used several times,\nbut it doesn't seem like they caught any.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Maki sighed and turned off\nthe bug catcher.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Then does that mean there are no bugs?\nIt was just Gonta's imagination after all?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "That's probably the case...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Well, even if there were bugs, I don't know\nhow that would be a clue...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "But I wanted to tell you. Especially since I\nspent a lot of time investigating it.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Right, thank you...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>Were those bugs really just\nGonta's imagination?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>There must be more to it than that...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Bugvac<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Y-You guys were here!?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Nyeeeh! If we were all gonna meet up,\nwhy didn't anyone tell me!?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "I couldn't find anyone, so I was starting \nto get worried!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Ah, sorry...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "...And where were you up until now?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "You went to Rantaro's room, right?\nDid you find anything interesting?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>What is *this* expression...?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "There wasn't anything else besides the\nBugvac machine.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "It was just...a bunch of junk.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "They were drawings of weapons and huge\nrobots that kids would fantasize about.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Some of the other drawing designs were\nmachines for pulling pranks on people.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Let's hurry and check out the hidden door.\nThere isn't much time until dawn.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "...You don't have to tell me. I'm not going to\nkill... I'm just going to get revenge.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "It's weird... Sometimes you're just like him,\nyou know?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "It still seems safe here.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "It's underground, so it won't be \ndestroyed that easily...right?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "But I'm worried that if the building collapses,\nit's going to cause an avalanche of books.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Dying from being buried in books...\nThat wouldn't be a bad way to die.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Though, I don't want it to happen now.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Umm...did Gonta's research lab \nget destroyed, too?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Judging by what's happened,\nthat could be the case...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "So it's possible...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "That the bugs we saw during the \"Insect Meet\nand Greet\" are loose in the school now...?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Perhaps...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "D-Don't worry, it's okay! We didn't catch\nanything in the Bugvac, right?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Ah, you're right! Yeah, it's okay!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Ah, what a relief...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "I know now's not the time to be worried about\nbugs, but...I'm still pretty mentally scarred...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Hey, we're going to check what's behind the\nhidden door, right? Let's hurry and do it.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "With Keebo's attack just now, the mastermind\nwas defeated! We win! Part 3 is over!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "We shouldn't count on things ending\nthat easily...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>There are still a lot of things to investigate,\nI can't turn back now!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "<CLT=cltMIND>There are so many things to investigate...\nI don't have time to be distracted by this.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>There are so many things to investigate...\nI don't have time to be distracted by this.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>There are so many things to investigate...\nI don't have time to be distracted by this.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>There are so many things to investigate...\nI don't have time to be distracted by this.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>There are so many things to investigate...\nI don't have time to be distracted by this.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>A hidden door is revealed when the\nbookcase swings open...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>This door has been locked\nthis entire time.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>With Keebo's help, we might be\nable to open it.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "The door that can only be opened with a\ncard key... There must be something here.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Maybe...the mastermind is hiding behind\nthis hidden door?",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Then, if we kill them...we can end this\nkilling game...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "No, I told you, we can't kill them.\nIf you do that, we'd be the same—",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Kyaaaaaahhh!!!",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "Huh!?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Found you!",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "You guys have been doin' whatever\nyou feel like, huh?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "You can't just go anywhere you want without\npermission! Father'll get mad!",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "I don't like it when Father gets mad!\nSo before he finds out about this...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "I'm gonna destroy you all!",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Dammit! Everyone, run!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Wahhhh! I can't move!",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Just stay put...for now.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Keebo, you saved us! As a reward, I'll use \nmy magic to turn you into a real boy—",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "So you need me to open that door, right?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Y-Yes please...",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Are you ignoring me!? Well, I guess there's \nnothing I can do since I need to charge my—",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "...Please stand back. It's dangerous to be\ntoo close.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>After that terse comment, Keebo\naimed his rocket launcher at the door.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "<CLT=cltMIND>I should ask Maki\nabout the blueprints first...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "<CLT=cltMIND>Why is Himiko making that face?\nI should ask her about it...",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "<CLT=cltMIND>What did Maki find?\nI should ask her for the details.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltMIND>Why is Himiko making that face?\nI should ask her about it...",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "<CLT=cltMIND>Alright...\nI should inspect the hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "<CLT=cltMIND>What did Maki find?\nI should ask her for the details.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "<CLT=cltMIND>Why is Himiko making that face?\nI should ask her about it...",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "<CLT=cltMIND>Alright...\nI should inspect the hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>There are so many things to investigate...\nI don't have time to be distracted by this.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "<CLT=cltMIND>There are so many things to investigate...\nI don't have time to be distracted by this.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "<CLT=cltMIND>There are so many things to investigate...\nI don't have time to be distracted by this.",
+  "tr": ""
+ }
+]

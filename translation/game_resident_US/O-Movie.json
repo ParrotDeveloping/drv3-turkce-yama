@@ -1,0 +1,312 @@
+[
+ {
+  "id": 0,
+  "en": "Opening",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Staff Roll",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Promo Movie",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "The Monokubs Arrive",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "The 16 Transform",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Kaede's Flashback Light",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Monokuma Arrives",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Epilogue",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Promo Movie Revisited",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Shuichi's Flashback Light",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Ch. 5 Flashback Light",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Punishment: Der Flohwalzer",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Punishment: Strand of Agony",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Punishment: Cultural Melting Pot",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Punishment: Wild West Insecticide",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Punishment: Blast Off! 2nd Ignition",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Punishment: Ultimate Annihilation",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "The Suspect Arrives",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "???",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Remember",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "K1-B0's Rampage",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Vote: Ch.1 \"Kaede Akamatsu\"",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Vote: Ch. 2 \"Kirumi Tojo\"",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Vote: Ch.3 \"Korekiyo Shinguji\"",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Vote: Ch.4 \"Gonta Gokuhara\"",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Vote: Ch.5 \"Kaito Momota\"",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Vote: Ch.6 \"Tsumugi Shirogane\"",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Rantaro's Body Discovery",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Ryoma's Body Discovery",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Angie's Body Discovery",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Tenko's Body Discovery",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Miu's Body Discovery",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Kaito's? Body Discovery",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Kokichi's Body Discovery",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Trial Ground Transformation (Ch.1)",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Trial Ground Transformation (Ch.2)",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Trial Ground Transformation (Ch.3)",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Trial Ground Transformation (Ch.4)",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Trial Ground Transformation (Ch.5)",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Trial Ground Transformation (Ch.6)",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Shrine of Judgment Elevator",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "The Elevator Descends",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Ocarina",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Ancient Passport",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Dragon Gem",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Hexagon Crank",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Ninja Scroll",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Magic Key",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Golden Hammer",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Levistone",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Octobrush",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "The Barrier Falls",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Academy Annihilation",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Shrine of Judgment Elevator Ch. 6",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Entrance Hall Annihilation",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Courtyard Annihilation",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Virtual World Trip",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Escape from the Academy",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "The Door to the Future",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "K1-B0 Attacks",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "K1-B0 Returns",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "The End of Danganronpa",
+  "tr": ""
+ }
+]

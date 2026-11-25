@@ -1,0 +1,307 @@
+[
+ {
+  "id": 0,
+  "en": "*sigh*",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Kirumi? Is something wrong?\nI heard you sighing...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "My apologies...\nIt was rude to sigh in front of you...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No, I don't mind. Don't worry about it.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "That does make me feel better. To be honest,\nI am worried about something.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "What about?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Since a part of my memory is lost, I cannot\nremember it clearly...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Perhaps...because I am trapped here, I\nhave abandoned my master.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "From an employer's perspective, it would\nseem like I disappeared without a trace...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I suppose that is...worrisome.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Yes...\nTo be unable to complete a request...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Kirumi probably thinks\nthat's unforgivable.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>I'm sure that some people depend\non Kirumi to work.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I'm sure that your employer is very\nworried, not seeing you at work.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "That is true...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Hey, Kirumi.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "If it's alright with you...could you tell\nme a little about your employer?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I'm interested in hearing what kind of work\nthe <CLT=cltSTRONG>Ultimate Maid<CLT=cltNORMAL> has done in the past.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Since it is confidential, I cannot tell you\nmuch. But according to my memories...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "The last person I served was an author\nof light novels.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>I see, an author... How quaint, a\nmaid that waits on an author.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "He had so many ideas. But he was in turmoil\nbecause he could not write them all.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "So, I offered advice on writing quickly.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "After listening to me, he was able to publish\na novel per month. He was quite grateful.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>One per month!?\nHow was he able to do that!?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Before him, I served a politician from a\nforeign country.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I served as his maid, but I also acted as\nhis mentor for Mahjong.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "A politician needed a mentor \nfor Mahjong?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "The country had a peculiar system.\nThey decided everything with Mahjong.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "The person I served won against all his\nrivals and became the prime minister.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>So Kirumi can play Mahjong too...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "That's amazing, Kirumi...\nYou're always with successful people.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "I complete requests as a maid would do.\nWhich is why...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "If I serve you, then you will be able to walk\nthe same path of success.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Huh? Me?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Shuichi, I see potential in you...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Similar to the people I have served in the past,\nperhaps you are a diamond in the rough?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "You think so?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "There's no way...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I choose my own path",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "If I support you, then maybe you can\nbecome more successful.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "You think so? I can't\neven imagine...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You just have not realized it yet.\nI am not mistaken in what I see.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Maybe...but remember, I was only\npicked to be an <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> by coincidence...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Shuichi.\nHumility is a virtue as well...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...but, you are self-deprecating.\nYou should believe in yourself more.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "There's no way...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Why do you deny this so adamantly?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I know myself better than anyone.\nI know I'm not special.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "You are clouded by your own beliefs.\nYou are stuck in a shell.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Instead of breaking through your shell,\nyou avert your eyes from your future.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "That is why...I cannot leave you alone.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "I choose my own path.\nI'll be just fine, even without your help.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "That is stupendous, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "You never fail to take actions for your\nown responsibilities.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "It urges me to support you even more...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltSYSTEM>Kirumi's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Kirumi spent some time with me,\ntrying to get me to see my potential...",
+  "tr": ""
+ }
+]

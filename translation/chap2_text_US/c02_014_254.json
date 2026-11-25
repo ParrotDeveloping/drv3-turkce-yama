@@ -1,0 +1,352 @@
+[
+ {
+  "id": 0,
+  "en": "Oh...good morning, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Good morning, Tsumugi.\nAre you headed to the dining hall?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yeah...well, not because anyone told me\nto or anything. I just felt like it...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Oh, that reminds me...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Have you gone to the casino, Shuichi?\nI find myself there sometimes...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I've never seen most of the games \nthey have there.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Do you think Monokuma made them...?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "If so, I regret getting hooked on one \nof them...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "You're hooked on one, huh?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I'm just plain confident in my gaming skills.\nWould you like to play together sometime?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Ah, sure...\nIf we get the chance...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Oh, sorry. We should stop talking about stuff\nlike this and go to the dining hall already.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I'm gonna go on ahead.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Hey, Shuichi... I mean, Poo-ichi!\nThere's somethin' I gotta ask you!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>...Why did she correct herself?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "You ever hear about back items in casinos?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Back items? What are those?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Heeeeee... You wanna know more?\nYou do, right?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Then bow down to me, worm!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...Where is this coming from?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Last time, when you and Kaede bowed to me, it\nfelt so good that I had to put on dry panties!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "So do it again! C'mon, c'mon, hurry up!\nMake with the bowin' already!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Sorry, I'm not gonna do that.\nSee you later.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Huh!? W-Wait a minute!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Y-You don't need to bow!\nJust listen to what I gotta say...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>She just wants my attention...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Well, I do kind of want to know what she's\ntalking about. I suppose I'll listen to her.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Alright, I'll hear you out.\nWhat is a \"back item\"?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "S-So, if you have a certain item, you can play\na back game sponsored by Monokuma himself...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "It can be traded at a higher rate...and if you\ndo well, you can earn quite the fortune...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>A \"back game\"?\nI have a bad feeling about this...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Ah, wait a minute.\nIs that item...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "this medal? It commemorates the\nfounding of the casino, after all.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Wh-What the—!?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "You've made a discovery that even I, the\ngorgeous girl genius Miu Iruma, couldn't find...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "How could I be bested by the beta of all\nbetas!?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "...*You* came to *me*.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I knew comin' to you was a good idea, what\nwith you bein' a detective and all...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "You managed to track down that medal/coin\nlike I knew you would! Hah! I'm so awesome!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Let's bring that medal/coin to that casino!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltSYSTEM>Would you like to go with Miu Iruma?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "No thank you.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Heeee!? Wh-Why!?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Any game sponsored by Monokuma\nhas to be dangerous.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Huhhhhh!?\nWell, fuck you, too!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Stay a virgin forever for all I fuckin' care!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Fine by me... This back game sounds\nlike another one of Monokuma's traps.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I'm a bit worried about Monokuma...but I'm more\nworried about what will happen if we ignore it.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I'll see what happens, just in case.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Hah-hahaha! Just as I predicted!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Detectives get excited for casino games just\nlike boys get excited for holes!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Come to the casino once you're done eating!\nAnd don't forget to bring that medal!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Ah, got it...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Hah hah hah!\nWelp, I guess I'll finish eating!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>I'm hesitant, but I don't want to ignore\nit if it has the potential to be a problem.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>That's okay, right?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I have no interest in gambling...and I don't\nknow about any item like that.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "I-I see...\nSorry I said anything...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>...There she goes.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>Miu's surprisingly normal when she gets turned\ndown. She should act like that all the time...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>But then again...I suppose\nthat's odd as well.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>When I used the item, the vine suddenly\nwithered... How does that work?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>That door I can see over there must\nlead somewhere into the school...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>Where could it lead?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>So this is the key to the gate...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick(Closed)",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick(Open)",
+  "tr": ""
+ }
+]

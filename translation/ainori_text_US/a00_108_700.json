@@ -1,0 +1,292 @@
+[
+ {
+  "id": 0,
+  "en": "Shuichi, how can I help you?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Help me?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Give me any command.\nI will do anything for you.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Ah, I don't really have anything\nto ask of you at the moment.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Why did you talk to me then?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Well, I was thinking that we could spend\nsome time together. Is that alright?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "No, not at all. If that is what you wish for,\nthen I will wait by your side forever.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "So, please do not hesitate and\nrequest anything.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Ah, it's not that I want you to wait on me.\nI just wanted to be with you awhile.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "That is a rather vague request.\nWhat do you wish for me to do?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I already told you, I don't \"wish\"\nfor you to do anything.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Why did you call for me then?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Alright, how about this?\nLet's talk about something.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Would you like me to serve you by\nkeeping you company?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Serve...?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Is that not what you wished for?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>No, that isn't quite it...\nWhat should I say?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Kirumi is a maid, perhaps that's\nwhy she's so insistent about this.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>But at this rate, I'm gonna suffocate.\nKirumi is being too serious...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...Hey, Kirumi.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Didn't you chat with your classmates\nduring lunch breaks or after school?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I had, somewhat.\nWhy do you ask?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Well, because I want to spend\ntime with you in that way.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "For example, perhaps we could...drink\nsome tea in the dining hall?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Yes, that is fine.\nThen, let us go to the dining hall.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Good, she seems to understand.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Shuichi, what would you like to drink?\nTea or coffee?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Ah...tea, I suppose.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Understood.\nI will go and prepare it. Please wait.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Ah, wait, Kirumi!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>Ah, too late. She's already\nin the kitchen.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>I didn't mean to make her\nprepare tea all by herself...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>.........",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>......",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "My apologies for making you wait.\nIt is done.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Kirumi returned, pushing a cart.\nOn that cart was...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Whoa!\nWhat is all this!?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "It is your afternoon tea.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Well, I can see that, but I've never\nseen something so extravagant!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>There were delectable sandwiches,\ncakes, and scones lined up on the cart...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>The tea smelled so wonderful, it put all\nthe other tea I had ever had to shame.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>She prepared all that in just minutes...\nIs this the power of the <CLT=cltSTRONG>Ultimate Maid<CLT=cltMIND>?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Shuichi, please sit here.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ah, yes.\nThank you...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>I sat down but noticed Kirumi standing\nstill, with perfect posture as always.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Kirumi? Aren't you going to sit?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "But if I sit as well, then I cannot serve you.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I don't want you to serve me.\nCome and sit with me...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I prepared this just for you.\nSo, please.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Shuichi, you commanded me to prepare\nyou tea.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "And I intend to complete any requests\ngiven. Please enjoy this tea.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "O-Okay...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltSYSTEM>Kirumi's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>Kirumi waited on me hand and foot,\nand I returned to my room.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>The tea, the sandwiches, the scones,\nthe cakes... They were all excellent.",
+  "tr": ""
+ }
+]

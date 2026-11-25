@@ -1,0 +1,682 @@
+[
+ {
+  "id": 0,
+  "en": "The most important fact we discovered\nduring the investigation is this...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "The shot put ball that Rantaro was killed with,\nwas <CLT=cltSTRONG>different<CLT=cltNORMAL> than the one Kaede had!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "What'd you say!?\nI have no idea what's going on!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "A different shot put ball? What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "I found a shot put ball in the trashcan\nin the hidden room.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "But it was not the murder weapon. That shot\nput ball didn't have any blood on it.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Rather...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...there was a <CLT=cltSTRONG>pink fiber<CLT=cltNORMAL> stuck to that shot.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...Pink fiber? So what?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Do you remember how Kaede was\ncarrying the shot put ball?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...Kaede's backpack.\nShe was carrying the shot put ball in there.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Despite its weight, it would have been\neasy to carry in a backpack.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I noticed you also had a spare vest,\nwhich you could have wrapped it in.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "That would prevent the cameras you\nwere carrying from being damaged.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I see... She had it in her backpack!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "It was wrapped in her spare vest.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Her <CLT=cltSTRONG>*pink* vest<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I see... The shot put ball you found in the\nhidden room had a pink fiber on it...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Yes, it's a fiber from her vest.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "That can only mean that the ball I found\nwas the one that was in Kaede's backpack.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Wh-What'd you say!? Really, I got no idea\nwhat you're talkin' about!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "That shot put ball did not have blood on it,\nso it could not have been the murder weapon.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "In short, the shot that Kaede used\ndidn't hit Rantaro!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Th-Then...maybe they just washed off\nthe blood!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "If so, the fiber on the shot put ball would\nhave been washed off as well!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "It's clear to me that the real murder weapon\nis <CLT=cltSTRONG>different<CLT=cltNORMAL> than the shot Kaede had.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Yes, Kaede set up the bookcase and\nrolled the shot into the vent...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "But that shot didn't hit Rantaro!\nHer plan <CLT=cltSTRONG>failed<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "F-Failed!? I don't even know what that means!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I-If you found that shot put ball\nin the hidden room, then that means...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>I found the shot put ball\nin the hidden room because...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "It was always there",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "The shot put ball was always\nin the hidden room.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "...Huh?\nIs there something wrong about that?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "The mastermind took it",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Monokuma took it",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Monokuma took it away!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "How many times do I gotta repeat myself?\nI can't help a killing game participant.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "The Monokubs took it",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "The Monokubs took it away!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "What!? We did!?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "That's impossible! We can't help the\nparticipants!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Well?\nI wanna know the answer!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nI screwed up, they think I'm a fraud... \n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>I found the shot put ball\nin the hidden room because...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "The <CLT=cltSTRONG>mastermind<CLT=cltNORMAL> took it from the library.\nOnly they could get in that room, after all.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "The mastermind took it?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "So they recovered the shot that missed\nRantaro, and he was killed by a different one.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Rantaro was killed by the mastermind, who\nmade it look like Kaede was the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "That required a bit of trickery on the\nmastermind's part...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "They prepared their own shot to kill Rantaro\nand switched it with Kaede's shot.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "They took Kaede's shot put ball and stowed it\nin the hidden room.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "To put it simply...Kaede didn't kill\nRantaro, it was the mastermind!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "What!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Did you!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Sayyyyy!?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "EVERYONE, CALM-DOWN!\nFATHER-IS-GOING-TO-YELL—",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "What! Monodam, why!?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Whoops. I got too worked up and\naccidentally pressed the detonator.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "BLRGLGRBLRBLRGLRBLG...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "The mastermind killed Rantaro...but why?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I believe the reason had something to do\nwith the <CLT=cltSTRONG>time limit<CLT=cltNORMAL> motive.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "A time limit is now in effect! If a murder does\nnot occur by nighttime, two days from now...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "then every student forced to participate\nin this killing game will die!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Kaede was keeping us all together, and\nwe refused to kill each other.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "To break up the stalemate, the mastermind\nintroduced that motive.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "However, this was a gamble. They didn't\nwant to cause total chaos, after all.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Because that would just end everything.\nThey wanted an exciting killing game...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "That motive put pressure on the mastermind\nas well as us.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Yes. Kaede had a plan to kill the mastermind,\nbut Rantaro was caught in the trap.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "However...her plan ultimately failed. The shot\nput ball that she rolled didn't hit Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Because it missed, we would've been \nannihilated due to the time limit...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "But the mastermind wanted to avoid that\nsituation, so they took action.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Thanks to the Nanokumas, the mastermind would\nhave known Kaede's intended murder weapon...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "So when her plan failed, they would already\nhave another shot put ball prepared.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Then, the mastermind manipulated the scene\nto make it look like Kaede succeeded.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "All they had to do was hide Kaede's shot in\nthe hidden room that only they could enter.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "S-So...Kaede was executed on false charges!?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Yes...yes, she was.\nShe didn't actually kill anyone.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "But she was executed nonetheless.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Because the mastermind framed\nher for Rantaro's murder!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "And Monokuma played along. He let us believe\nthe mastermind's lie.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "We were all fooled, including Kaede. We thought\nshe was the culprit until the very end.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "And you want to tell us this game is fair?\nThat there are rules? That's all bullshit!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "This game makes no sense at all!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "If Monokuma twisted the truth for this\ncase...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "...then he could've twisted it for the other\ncases as well, making this killing game unfair.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Th-Then it's not even a killing game anymore.\nIt's just...killing.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "...I won't forgive them.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "I'll never forgive them for breaking the\nrules and killing Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "So cruel... I'll never forgive them!\nAnd I *will* avenge Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "I swear on her kindess and her love...and\nher grave that I will avenge her!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Yeah! How dare the mastermind create the\ndetonator that blew up the adorable Monodam!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "You're the one that blew him up!\nDon't pass the buck!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Anyway, we know the mastermind is also\nRantaro's killer. Let's figure out who that is.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "That is, if Monokuma still wants to\ncontinue this class trial...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Of course we're gonna keep going!\nLike I said, this killing game will never end!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "No, Monokuma. I will end this.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "I will reveal the identity of the mastermind\nand end the killing game!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "U-Um... May I interject? You keep accusing\nthis so-called mastermind, but...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "..are you sure there's even a mastermind\nat all?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Are you sure you bastards aren't imagining it?\nIf the mastermind is real, show 'em to us.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "You guys are the ones hiding them!",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "It's possible the mastermind is still in this\nacademy. The Survivor Perk said so.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "If they were involved in Rantaro's\nmurder, there's no doubt.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Then they must have snuck in during the\n<CLT=cltSTRONG>Gofer Project<CLT=cltNORMAL> and stayed hidden in the aca—",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Ah!",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "You just ah'd! \nWhat was that \"ah\" about?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "I just realized something...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Say it! Or I'll cast my \"All the Guys \nYou Date Will Be Single Fathers\" curse!",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "It's...<CLT=cltSTRONG>Kaede's younger twin sister<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>...Her what?",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Younger...twin sister?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "It was on this Gofer Project participant list.\nShe has a <CLT=cltSTRONG>twin sister<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "It seemed sorta weird to me.\n<CLT=cltSTRONG>Junko Enoshima<CLT=cltNORMAL> had a twin, too, right?",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Are you saying those same circumstances\napply here, as well?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "This killing game was influenced a lot\nby the past one, right?",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "So maybe the mastermind's real identity\nwas, too.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>The mastermind who snuck into the\nacademy and made us play this sick game...",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>...Is Kaede's twin sister?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "M-Maybe... I guess that's a possibility...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Either way, there's no doubt that the mastermind\nis hiding somewhere in this school.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "How unfortunate that you couldn't find them\nduring your final investigation.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "You're not allowed to leave while the trial's in\nsession, so you can't search for them now.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "You can't leave during a trial unless you\ngotta pee!",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Oh! I gotta pee!",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "We're not falling for that one!",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "<CLT=cltMIND>Kaede's twin sister...?\nIs the mastermind still hiding somewhere?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>Is she really the mastermind?\nIs it really that simple?",
+  "tr": ""
+ }
+]

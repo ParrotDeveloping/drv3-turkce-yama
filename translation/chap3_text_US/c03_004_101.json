@@ -1,0 +1,92 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>I feel like there's some kind of secret about\nthat funeral. I can't stop thinking about it.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>But it's hard to deduce anything\nfrom such a short scene.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>...I could ask Monokuma for a hint.\nThat would help, but...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I shouldn't waste my time trying to\nsolve an unsolvable problem.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>I still have some time left today.\nMaybe I'll head out, clear my head...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\n",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Why did they go out of their way to make\nthis? What purpose could this serve?",
+  "tr": ""
+ }
+]

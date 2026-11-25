@@ -1,0 +1,122 @@
+[
+ {
+  "id": 0,
+  "en": "Ah, sorry to keep you waiting...\nLet's go to Miu's lab.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Let's go to Shuichi's room first!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>*ding dong*",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Huh? No response...\nI wonder if something's the matter?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>*ding dong... ding dong...*",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "...Ah, Kaede. Good morning.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Geez! Finally, you came out!\nYou had me nervous for a second!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Ah, sorry! I was just...going to the bathroom.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Are you ready, then? We have to get the\ncameras from Miu, remember?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Yeah, right...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>I wonder if Miu finished modifying the\ncameras already...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Let's go to Shuichi's room first!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>No, this isn't Shuichi's room!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>I gotta calm down...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>I don't have time to wander around...\nWe need to go to Miu's research lab!",
+  "tr": ""
+ }
+]

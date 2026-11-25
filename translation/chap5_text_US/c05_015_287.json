@@ -1,0 +1,452 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>It's a panel that controls the alarm system\nand electric barrier.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>I'll leave it alone for now.\nI wouldn't want to provoke Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "There's a window...\nThe bathroom window?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Can I see inside from there...?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>I peeked into the small window...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>And saw a silhouette on the other side.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Ah!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "What are you doing here?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Kaito!?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Don't shout, stupid! Kokichi will hear us!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Ah... Is he close by?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "No, I'm locked up in this bathroom, \nbut Kokichi's just outside that door.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "It'll be bad news if he sees you here.\nHe's got the Exisals with him.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Yeah, that's true...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Wait, so...what are you doing here?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "What am I doing here?\nSaving you, of course.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "What? By yourself?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "No, I'm just scouting the place.\nTomorrow morning...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...we're all coming to rescue you.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "All of you?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "It was Maki's idea.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Honestly, I...I had given up.\nWe had all given up.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "But not Maki. She did everything\nshe could to get you back.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...It's because she believes in you, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "She knows that you would never give up,\nno matter how bad things got.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Y-Yeah! Of course! I'm Kaito Momota,\nLuminary of the Stars!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Even if the world has ended and humanity \nhas gone extinct, I can't give up!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "It'd be a crappy story if the hero gave up\nso easily!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Yeah, that's right, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Don't you worry!\nI'll do something about all this!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "That's a promise!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "All you guys are working so hard,\nso I can't just sit back and relax!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>There's...something I want to ask him...\nI don't care if he's overconfident, or acting...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>I just want to hear him say,\n\"Don't worry, it will be okay.\"",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "It's just...I'm happy you guys wanna \nsave me, but stay safe, okay?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Getting close to an Exisal is dangerous,\neven if you've got an Electrohammer.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Got it.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Ah, by the way...are you feeling okay?\nApart from the injury, obviously.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Who, me?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Yeah...of course. It's nothing.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Anyway, Kokichi should be back soon,\nso we better end our chat.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Ah, okay... Sure.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "And hey, Kaito...\nAbout what happened with Gonta—",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Shuichi, I leave the rest to you.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "While I'm gone, you gotta support everyone.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Especially Maki Roll...\nShe can be reckless sometimes.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "You're an impressive detective, through and\nthrough.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "You might not only reach the truth, \nbut something even beyond it.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "And don't forget...you're not alone!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Don't try to do everything yourself.\nIt's only gonna wear you out.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "When times are hard, you gotta rely\non your friends.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>Rely on your friends...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>That's...it...\nThat's what I've been neglecting.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "I believe in you.\nSo I'm leaving the rest to you for now.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "You got it, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>Kaito...thank you.\nThank you for being my friend.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Yes. I understand.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Alright, now get going before Kokichi\ncomes back!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "You're right.\nSee you tomorrow, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>After leaving Kaito with a smile,\nI returned to my room.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Obeying these announcements makes me\nfeel like a character in a story...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>I'll leave it alone for now.\nI wouldn't want to provoke Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "If I remember correctly...there's a bathroom\nwith a small window there.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>I'll leave it alone for now.\nI wouldn't want to provoke Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Hopefully I can find a good spot\nto survey the scene...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>I'll leave it alone for now.\nI wouldn't want to provoke Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "If I remember correctly...there's a bathroom\nwith a small window there.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>I should hurry, but carefully...\nI don't want to draw attention.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>I should hurry, but carefully...\nI don't want to draw attention.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>If I keep going, I should\nreach the hangar...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>If Kokichi's in the hangar, there's a good\nchance the Exisals are patrolling nearby.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>I should be careful...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Monokuma!?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>This is the first time I've seen him in a\nwhile. Are the Exisals...protecting him?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>But why now?\nAnd why all four of them?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>Kokichi is controlling them, right?\nSo why would he do that...?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>Wait...if the Exisals are here...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>they aren't guarding the hangar!\nThis is my chance.",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>I should hurry, but carefully...\nI don't want to draw attention.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>The alarm is enabled...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>The electric barrier is up, too.\nI can't get close to the shutter.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>And I only saw four Exisals.\nI don't know where the other one is.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>Perhaps inside the hangar?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Hopefully I can find a good spot\nto survey the scene...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>If I remember correctly...there's a bathroom\nwith a small window there.",
+  "tr": ""
+ }
+]

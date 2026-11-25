@@ -1,0 +1,62 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>I should head to the dining hall.\nWe're all supposed to meet there.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>I'm sure we're going to train today,\nI should head to the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I have a bad feeling about this...\nbut I need to go to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>I'll...just go to the dining hall now.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Tenko wants a favor?\nI should ask her about it...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Shuichi, where are you going!?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Angie should be preparing the ritual in the\n<CLT=cltSTRONG>Ultimate Artist<CLT=cltNORMAL>'s research lab!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "We don't have time to loiter around!\nLet's hurry up and stop Angie!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I need to get inside that lab!\nI'm worried about Angie!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I should go to the <CLT=cltSTRONG>Ultimate Anthropologist<CLT=cltMIND>'s lab...\nI need to investigate that katana.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>So the seance is to be performed\nin the middle room...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>I need to head to the <CLT=cltSTRONG>Shrine of Judgment<CLT=cltMIND>\nin the courtyard...",
+  "tr": ""
+ }
+]

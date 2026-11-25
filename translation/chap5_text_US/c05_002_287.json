@@ -1,0 +1,312 @@
+[
+ {
+  "id": 0,
+  "en": "What is this place...?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I feel like I'm on the set of a sci-fi movie.\nA mecha could pop out at any moment...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>It took every ounce of my strength\nto hold in what I wanted to say.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "This is...different from the other places we've\nseen so far.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "And this maze-like hallway... Perhaps it's to\ndefend the building that it leads to?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Let's go, Shuichi. We have no other direction\nto move but forward.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "My inner voice is telling me...\n\"Hope moves forward.\"",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I should investigate this area carefully.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Electrohammer",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>It's a panel that controls the alarm system\nand electric barrier.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>I don't see any reason to turn\nthem back on, though...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>What is this?\nThis shutter is huge...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "...It seems to be well fortified.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "That is...an electric barrier. We can't raise the\nshutter while it's active.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "If they're protecting it this strongly,\nthere must be some secret in there.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "That's a possibility. Let's investigate to see\nif we can get in.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "W-Wait, it's dangerous! Don't—",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Before I could finish my warning,\nKeebo approached the shutter, and...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Wh-What is this!?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Keebo, get away from—",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Oh my! Tsk, tsk, tsk! Don't you go setting off\nthe alarm now!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "C'mon, c'mon, outta the way so I can turn\noff that alarm.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Geez! You guys gotta be more careful!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Be careful? What was that alarm for?\nIt was so loud...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Oh, that's the alarm system.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "You see that <CLT=cltSTRONG>motion sensor alarm<CLT=cltNORMAL> above\nthe shutter?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "In order to turn it off, you need to use an\n<CLT=cltSTRONG>alarm remote<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "A super-loud alarm will blare if you approach\nthe shutter without turning off the system.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...Why is there an alarm system here\nof all places?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Puhuhu... This place is so important that it\nneeds beefed up security.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I guess while I'm here, I'll also explain that\nelectric barrier...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "To turn it off, you gotta enter a 59-digit code\nin the control panel next to the shutter.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I'll tell you what the code is, but only once.\nSo make sure you memorize it.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "5039348578573629405692858\n11037959390029298778848—",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Wait... Slow down, please!\n503... What was the rest?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Only three numbers!? C'mon, robot!\nI know you can do better than that!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>An electric barrier and an alarm system.\nThat's pretty tight security...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>What are they guarding so closely?\nWhat could be in there...?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Like I said, this is a very important place.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Well...it used to be important, but that was\na long time ago. Now it's just pointless.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Pointless?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Yep, it's pointless. So I may as well give you\nguys the alarm remote.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "You can use it to turn off the <CLT=cltSTRONG>motion sensor\nalarm<CLT=cltNORMAL> above the shutter...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltSYSTEM>*beep beep*",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "See? It turned off the alarm system, didn't it?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Now just use the control panel to deactivate\nthe electric barrier, and you can go inside.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Um... Can you repeat that code you mentioned\nearlier?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Huh? How annoying. But since it's your first\nvisit, I'll let you inside just this once.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Monokuma walked up to the control panel,\nquickly punched in the numbers, and...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSYSTEM>*beeeeep!*",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Okay, now you just gotta manually raise the\nshutter and you can go inside.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "You can either use the control panel inside to\nrestore the alarm system and electric barrier...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...or just use the control panel out here. Or do\nnothing, and the barrier and alarm will stay off.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Well then, safe travels!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>...He just let us in to this highly-\nsecured area. What's his game?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Let's go, Shuichi. We have no other direction\nto move but forward.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "My inner voice is telling me...\n\"Hope moves forward.\"",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Yeah...you're right.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>Bathroom Window",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nPerhaps I'll never get used to these after all.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>The emergency lights are on.\nIt's part of the alarm system.",
+  "tr": ""
+ }
+]

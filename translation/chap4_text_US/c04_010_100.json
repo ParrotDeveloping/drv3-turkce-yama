@@ -1,0 +1,342 @@
+[
+ {
+  "id": 0,
+  "en": "Shuichi, what's the matter?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I recommend that you return to your room,\nas the nighttime announcement just played.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Ah, yes. After I'm done,\nI'll head straight back.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Yes, please do. Another murder could occur\nif you're out of your room at night.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "That's right...I don't want to think about\nthe killing game starting up again...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Kokichi said all those unsettling things \nearlier...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Kaito may have silenced him at the time, but\nI can't imagine Kokichi being so easily swayed.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "But Kokichi's never serious...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "That was probably all his idea \nof a joke, right?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "He may have been joking.\nHe may have been serious, too.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "It is very difficult to determine the sincerity\nof his statements.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I never have any idea what he's thinking...\nThat's what makes him dangerous.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Either way, we should not let our guard\ndown.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Another murder should not occur as long\nas we all stay vigilant.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Yeah...let's do our best.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Either way, we should not let our guard\ndown.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Another murder should not occur as long\nas we all stay vigilant.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "What are you doing, Tsumugi?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Oh, Shuichi... Nothing really. That announcement\nplayed when I was going back to my room.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "It would've been fine if they just told us the\ntime, but why'd it have to be so melodramatic?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I don't know, but it's definitely too much...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I'm more concerned about the moral\nimplications. Aren't the Monokubs siblings?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "But then...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "H-How could they have such an inappropriate\nrelationship with each other!?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Umm, the Monokubs are bears, right?\nI don't know if human morals apply to them...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Or, actually...I guess they're robots, \nnot bears.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...So you're also a robophobe, Tsumugi.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "You were the one who brought it up, Keebo.\nYour persecution complex is a bit over the top.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>He does have strong beliefs...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I've been thinking about it, and...Keebo's \npersecution complex is a bit over the top.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "On the other hand, that might be the most human\nthing about him. It's actually kind of amazing.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>*knock, knock*",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Kaito's not here.\nPerhaps he's in the courtyard already.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Kiyo, you said...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>How you come to terms with death\ndetermines how you live.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>Perhaps...I understand what you mean.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>By facing Kaede's death...I was able to\nembrace my own talent and move forward.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "But I don't know if I'll ever truly\nunderstand your <CLT=cltSTRONG>answer<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltSYSTEM>*knock, knock*",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>Maki's not here.\nPerhaps she's in the courtyard already.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Tenko...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>It's not embarrassing to express your\nfeelings, it's only human...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>Himiko has changed,\njust like you wanted.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>She's not so lazy anymore...\nShe's working hard, trying to live well.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>But...you exchanged your life\nfor that. It's not fair...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Angie...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>You had strange methods, but you rejected the\nkilling game and wanted us to live in harmony.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>But all that was taken away for\nsome stupid reason.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>I never knew your <CLT=cltSTRONG>Atua<CLT=cltMIND>,\nbut I will never forget you.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>...It won't open.\nI suppose it's locked.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>These monitors are everywhere,\nbut I don't see any cameras.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>How is the mastermind behind this\nkilling game monitoring us?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Or...are we not really\nbeing watched at all?",
+  "tr": ""
+ }
+]

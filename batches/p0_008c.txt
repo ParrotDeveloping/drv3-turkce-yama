@@ -1,0 +1,65 @@
+@ chap0_text_US
+## c00_008_250
+11|Bu da ne...? Kapana mı kısıldık!?
+12|Neler...oluyor...?
+13|Kafese şaşırdınız, değil mi?\nNe hissettiğinizi çok iyi anlıyorum.
+14|İlk gördüğümde dişlerim ve\ntırnaklarım dökülmüştü.
+15|Bu şaşkınlığa sağlıklı bir tepki\ndeğil!
+16|Bayov! Ama çok müthiş büyük! Neden\n<CLT=cltSTRONG>Son Duvar<CLT=cltNORMAL> dendiğini anlıyorum!
+17|Son Duvar mı...?
+18|Normalde duvarlar iki yeri ayırmak için\nörülür, değil mi? Ama o duvar farklı.
+19|O...dünyanın sonunu temsil ediyor.
+20|Neden bahsediyorsunuz...?
+21|...Hm? Neden bahsediyorduk *gerçekten*?
+22|Ha? Biri mi konuşuyordu?\nBen mi konuşuyordum?
+23|...Büii-hihi, hahahahahaha!
+24|Gülmeyi kesin de açıklayın!
+25|Açıklanacak bir şey yok. Durum sadece\nbu, o yüzden lütfen uğraşmayın.
+26|Buradan çıkamazsınız.
+27|O duvarın ne girişi ne de çıkışı var, ayrıca\nüstüne tırmanılamaz ya da yıkılamaz.
+28|Bir <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> muhtemelen yarısına kadar tırmanabilir\nama çoğu zaman imkânsız!
+29|...Yani yine de biraz tırmanabiliyorlar, ha.
+30|<CLT=cltMIND>Derin bir nefes aldım ve duvara doğru\navazım çıktığı kadar bağırdım.
+31|Biri!!! Yardım edin!!!
+32|İıh!
+33|Lütfen!!! Yardım edin!!!
+34|İıh, iıh!
+35|Biri!!! Kimse yok mu!!! Lütfen yardım edin!!!\nBu devasa kafesin içinde mahsur kaldık!!!
+36|İıh, iıh, iıh!
+37|<CLT=cltMIND>Avazım çıktığı kadar bağırdım ama...\nne kadar bağırırsam bağırayım cevap gelmedi.
+38|Hahhh...hahhh...hahhh...
+39|Lütfen dur! Boğazını yaralayacaksın!
+40|Evet! İstediğin kadar bağır, zaten kimse\nseni duyamaz!
+41|Kimse...bizi duyamaz mı?
+42|N-Ne demek istiyorsun?\nKimsenin bizi duyamaması da ne demek?
+44|Bir şey söyle!
+46|...Biriniz şuna...cevap versin!
+48|...Kahretsin...
+49|Monodam onları mükemmel bir şekilde görmezden\ngeliyor. Çünkü kalbini açmayı reddediyor!
+50|Bunun için benim korkunç zorbalığıma\nteşekkür edebilirsin!
+51|Hadi, hadi, hepimiz iyi geçinelim.
+52|Kes sesini! Biz Monoyavrularız!\nSert falan olmamız lazım!
+53|B-Bu da ne?
+54|Siz...şeyler... Bu okul...\nBütün bunlar ne?
+55|Bunu bacaklarınızı, ellerinizi ve gözlerinizi\nkullanarak kendiniz bulmanız gerekecek, velet sürüsü.
+56|Ama keşfederken lütfen adımlarınıza dikkat edin.\nOkul hâlâ yapım aşamasında.
+57|Yapım aşamasında mı?
+59|<CLT=cltMIND>Doğruydu. Bazı alanlar hâlâ yapım\naşamasındaymış gibi görünüyordu.
+60|<CLT=cltMIND>Görünüşe göre buradaki bazı tesisleri\nhâlâ inşa ediyorlar...
+61|Bu okulu hâlâ inşa etmenin ortasında\nmılar?
+62|Sanmıyorum... Daha çok terk edilmiş bir okulu\nyeniliyorlar gibi görünüyor.
+63|Her halükârda Exisal'ları otomatik pilota\nalınca inşaat yakında biter.
+64|Exisal'lar mı?
+65|Bir zamanlar motorcu çetesinde olan Exisal'lar, artık\neşlerine ve çocuklarına bakmak için inşaatta çalışıyor!
+66|...Robotların gerçekten böyle bir geçmişe ihtiyacı var mı?
+67|Direksiyonları leopar desenli, gösterge panelleri\nde atari ödülleriyle dolu!
+68|Cidden, kesin şunu! Böyle geçmişlerle\nkendini bilmez heriflere benziyorlar!
+69|<CLT=cltMIND>Yine başladılar...\nAma daha önemlisi...
+70|<CLT=cltMIND>Söyledikleri şey...gerçekten doğru mu?
+71|<CLT=cltMIND>Kaçamıyor muyuz...?\nO duvarın üstünden geçemiyor muyuz...?
+72|<CLT=cltMIND>Ve...kimse bizi kurtarmaya gelmiyor.
+74|...Ama şimdi pes edersem ne olacak!?
+75|<CLT=cltMIND>İki yanağıma birden şaplak attım, yüzüm ısınırken\nkararlılığımın geri geldiğini hissettim...
+76|Hey, Shuichi! Gidip bir çıkış yolu\nbulabilecek miyiz bakalım!
+78|<CLT=cltMIND>
+79|<CLT=cltMIND>Dikkatini çekecek kadar kafasına\nhafifçe bir şaplak attım.

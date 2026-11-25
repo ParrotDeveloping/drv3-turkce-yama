@@ -1,0 +1,63 @@
+@ chap0_text_US
+## c00_009_007
+59|İş buraya vardıysa dördünüzü de bu\nExisal'la ezeceğim!
+60|Hey! Beni neden dahil ediyorsun!?
+61|Neyse! Birbirimize düşman olmamız\ndaha uygun zaten!
+62|Kapışmak mı istiyorsun, çakal!?
+63|Kime çakal diyorsun, çakal!?
+64|Ne dedin sen, çakal!?
+65|Her an kapışırım, çakal!\nHaddini bil de başına iş açma!
+66|C-Cidden mi!? Gözümüzün önünde\nbirbirlerine mi girecekler!?
+67|Merak etme. Atua bizi gözetliyor.
+68|Böyle bir durumda sadece\nizleyecek mi!?
+69|Her halükârda çok tehlikeli!\nBuradan çıkmamız lazım yoksa—
+70|Hadi, hadi, hadi...
+72|Benim tatlı yavrularım...\nBu çirkin kavgayı kesmeniz lazım...
+73|Ah! O ses!
+74|Babacığım!? Babacığım, sen misin!?
+75|Papa Kuma! Papa Kumaaaaa!
+76|Babişko!? Neredesin, Babişko!?
+77|B-Babişko mu?
+78|<CLT=cltMIND>O anda spor salonunun ışıkları\nbirden söndü...
+79|Ben bu yeni dünyanın tanrısıyım...
+80|...ve Ultimate Akademisi'nin müdürü!
+81|Tek ve eşsiz...Monokuma!\nTanıştığıma memnun oldum!
+82|Yaşasıııın! Babacığım geldi!
+83|Hah işte! Papa Kuma'dan yine\nefsane bir giriş!
+84|Babişko çooook havalı.
+86|Benim tatlı yavrularım!\nHepiniz ne kadar da tatlısınız!
+87|Yorucu maskaralıklarınıza dayanabilmemin tek\nsebebi hepinizin çok tatlı olması.
+88|Prolog fazla uzasa bile, tatlı olduğunuz\niçin buna izin veririm.
+89|Hatta ilk prologun kısa olmasının tek sebebi\nsiz tatlı şeylerin orada olmamasıydı.
+90|Babacım...bize kızgın mısın?
+91|Aptal olma! Tatlı yavrularıma asla\nkızmam!
+92|Gahhhh! Kızgın!
+93|Ama...Babişko kızgınken bile havalı.
+94|Babacım, kızdıkça daha havalı olan\nyakışıklı ayıların gezegeninden geliyor.
+95|Süper Monokuma, Süper Monokuma 2, Süper\nMonokuma 3 ve sonunda Süper Monokuma 4—
+96|Kaç kere söylemem lazım!?\nKIZGIN DEĞİLİM!!!
+97|Ahhhhh! Babacığım az önce Süper Monokuma\nTanrı Süper Monokuma'ya dönüştü!
+98|Bu ancak saf kalpli altı Monokuma bir\naraya geldiğinde mümkün!
+99|Bu, dünyanın canına okumak istediğinde\nortaya çıkardığın güç!
+100|Sadece tanrıların bizzat savaştığında\ngörülen bir güç!
+101|Neyse, gerçekten kızgın değilim. Hatta itiraf\netmeliyim ki sizinle gurur duyuyorum.
+102|Siz çocuklar dünyadaki diğer ikinci nesil\nbaşarısızlardan gerçekten sıyrılıyorsunuz.
+103|Bu biraz sert değil mi? Eminim başarılı\nikinci nesil hikâyeleri de vardır...
+104|Gerçi aklıma hiç gelmiyor—
+105|Aklına gelmiyorsa, hatırlamaya değer\nhiçbiri olmadığı içindir!
+106|Ama Babacığım hatırlıyor!\nÇünkü o her şeyi bilir!
+107|Vay be! Doğru, Papa Kuma!\nSen her türlü gereksiz zırvayı bilirsin!
+108|Çünkü Babişko alternatif gerçeklerini\nen güvenilir sahte haber kaynaklarından alır!
+109|Hihi! Çocuklarıma sarılmaya bayılırım!\nO kadar tatlılar ki kendimi tutamıyorum!
+110|Genelde maskotlar devam oyunlarında çok fazla\nçıkınca reytingler çakılır...
+111|Ama bu sefer reytingler tavan yaptı!\nHepsi tatlı Monoyavrular sayesinde!
+112|B-Bu da ne? Neler oluyor?
+113|Bir oyuncak ayı daha çıktı...
+114|Evet, ama o sıradan bir oyuncak ayı değil.
+115|Görebiliyorum...o lanetli şeyin etrafında\ndönen umutsuzluğu ve deliliği...
+116|Vay... Her şeyden önce, ben oyuncak ayı değilim.\nBen Monokuma'yım.
+117|Ve biraz saygı gösterin! Ben <CLT=cltSTRONG>Yetenekli Gençler\niçin Ultimate Akademisi<CLT=cltNORMAL>'nin müdürüyüm!
+118|...Müdür mü?
+119|Görünüşe göre benim gibi yapay zekâlı\nbir tür otonom robot...
+120|Dong dong dong!
+121|Ama Exisal'lar farklı!\nOnlar beyinsiz civata kovaları!

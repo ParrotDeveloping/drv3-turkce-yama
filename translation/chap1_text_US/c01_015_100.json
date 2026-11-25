@@ -1,0 +1,162 @@
+[
+ {
+  "id": 0,
+  "en": "Morning, Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Ah... We're way past morning by this point.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Huh, really? Didn't the morning announcement\njust play, though?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "In prison, mornings were a lot earlier.\nWe started at dawn.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Th-That early?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "In the day we'd do our work and eat at the \nsame time. At night, all we could do was sleep.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Inside those prison walls...\nI lived a frighteningly disciplined life.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Ummm...I suppose that sort of life\nsounds...healthy, I guess?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Hmph... Healthy body, healthy mind?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "That's a bitter irony...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>That's right... Ryoma was a famous tennis\nplayer before he became a prisoner.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Did I make him feel bad?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>This is Shuichi's room.\nI don't have any business with him right now...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>This is Kaito's room.\nI don't have any business with him right now...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>This is Ryoma's room.\nI don't have any business with him right now...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>This is Rantaro's room.\nI don't have any business with him right now...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>This is Gonta's room.\nI don't have any business with him right now...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>This is Kokichi's room.\nI don't have any business with him right now...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>This is Kiyo's room.\nI don't have any business with him right now...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>This is Keebo's room.\nI don't have any business with him right now...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>This is Kirumi's room.\nI don't have any business with her right now...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>This is Himiko's room.\nI don't have any business with her right now...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>This is Maki's room.\nI don't have any business with her right now...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>This is Tenko's room.\nI don't have any business with her right now...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>This is Tsumugi's room.\nI don't have any business with her right now...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>This is Angie's room.\nI don't have any business with her right now...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>This is Miu's room.\nI don't have any business with her right now...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ }
+]

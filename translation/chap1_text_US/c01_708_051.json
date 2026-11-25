@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "If you are unsatisfied with anything, please\nlet me know. I will serve you as best I can.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I spend time with Kirumi?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...Is it recreation you seek?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Understood. I will do everything in my power\nto keep you entertained.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time being entertained by Kirumi...\nI'm a little tired...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Kirumi and I grew a little closer today.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,902 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>This is OUTLAW RUN,\nA driving game.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>I guess it isn't ready to play yet...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>This is OUTLAW RUN,\nA driving game.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>OUTLAW RUN\nDriver's Manual",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>Run over the targets with style\nand try to get the high score!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltSYSTEM>Get a bunch in a row, combos are stylin'!\nMonodam is a bonus and Monokid is a boost!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "This has nothing to do with driving at all.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nIt's a game where you look for treasure...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>I guess it isn't ready to play yet...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>TREASURE HUNTER! Monolith...\nIt's a game where you look for treasure...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Maybe I'll play it for a little while...?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nTreasure Hunting Guide",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltSYSTEM>Connect two or more of the same color!\nUncover the hidden salmon fossils!",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltSYSTEM>Try to find the rare Monokub statues!\nDig them up whenever you see one!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Are salmon fossils treasure...?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>SALMON FISHING!\nIt's a game where you fish for salmon.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltSYSTEM>SALMON FISHING!\nSalmon Night",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltSYSTEM>On this night, the salmon come left and right.\nUse your Monokuma Eye to find them.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltSYSTEM>Fish for the color Monokuma desires.\nIn Monodam a bonus, but beware the mines.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "That was quite the poetic explanation...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>MonoMono Slot...\nIt looks like a slot machine game.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltSYSTEM>MonoMono Slot\nHow to Win at Slots",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Well, that was nonsense.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>MonoMono Slot...\nIt looks like a slot machine game.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltSYSTEM>MonoMono Slot\nHow to Win at Slots",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Well, that was nonsense.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>MonoMono Slot...\nIt looks like a slot machine game.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltSYSTEM>MonoMono Slot\nHow to Win at Slots",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Well, that was nonsense.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>It looks like I can't play this right now...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>It looks like I can't play this right now...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "<CLT=cltMIND>It looks like I can't play this right now...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>It looks like I can't play this right now...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>It looks like I can't play this right now...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>It looks like I can't play this right now...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Wait up, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Huh? Kokichi?\nAnd...Kiyo and Ryoma?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Looks like this pubeless virgin was\neavesdropping on us.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Nee-heehee... As an evil supreme leader, I can't\npass up the chance to watch you win a jackpot!",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Ryoma and I have just arrived as well.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "This place is pretty suspicious...\nWe'd better investigate it thoroughly.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Well, well? We can play some secret game\nwith Shuichi's medal, can't we?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "What? Who came up with that rule?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "You, duh-doy!? Who else could it be!?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "But it wasn't me.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Qu-Quit fuckin' around!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "I'm not playing dumb! I never tell a lie!\nCuz bears do not lie!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "That's not very persuasive...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "First of all, that medal is just a special knick-\nknack I made for the Monokubs.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "There's no reason for you guys to have it.\nStick in a slot machine if you want.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>So we can use it even though it's\nsupposed to be a special item?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Whaaaaaat!? You mean I got fake info!?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Typical useless Miu... You *would* get jerked\naround by fake info like that.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Hnghhhh!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Well, it's fine if it was just fake info.\nIt's not the reason I came here, anyway...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Oh!? What are you guys doing here?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Ah, Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Why're you here, Kaito? I thought you swore\noff gambling forever.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "H-Hold up! Why do you think I came here \nto gamble!?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Would one come here for some \nother reason?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "No, you're wrong!\nI didn't come here to gamble!",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "I just don't understand why the instincts of\nKaito Momota, Luminary of the Stars, were off!",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "So you're positive you'll win it this time?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Kaito, it's good to be confident, but not when\nyou're wrong about everything all the time.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Huuuh!? You take that back!",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Don't you dare underestimate the instincts of\nKaito Momota! I challenge you, Kokichi!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Nee-heehee... I accept your challenge.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "He's so easily manipulated...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Kehehe... So simple. Like a moth to a flame.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>Kaito, Kokichi, Korekiyo,\nRyoma, and I...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>The five of us each used our coins\nand competed at the slots.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>I'd been roped into it before I even\nrealized it... Ah, who cares?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Wait, why am I gettin' shoved aside!?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "You might rig the slot machines so it \nwouldn't be a fair match.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Wha—!? N-N-No fuckin' way I'd ever do that!",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Hmph... It's written all over your face \nthat you would.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Well then, let's start!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>The competition was over in a heartbeat.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Wh-What? Why? But I'm...Kaito Momota, \nLuminary of the Stars!",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>Kaito lost in a landslide.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Whooooaaa! That was so awesome, Ryoma!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Winning at something like this isn't \nanything to brag about.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "<CLT=cltMIND>Against all odds, Ryoma won\nin a landslide.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Hey, do you have some sort of trick?",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Nothing like that. \nI've just got a knack for it, I guess.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "What, you mean you're lucky!?\nThat's just superstition!",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "I cannot ignore that comment. Do not \nrelegate luck to the realm of superstition.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Ooohh! My Kokich-ey senses are tingling!\nKiyo's about to give an anthropology lecture!",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "For example, it is said that certain words or\nphrases will \"jinx\" a difficult challenge.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "This is deeply connected to the Japanese\nconcept of \"kotodama,\" the power of words.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Like saying \"green\" if you want me to go\nharder or \"red\" if you want me to stop!?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Please be silent...",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Wh-What...? I'm just tryin' to lighten up the\nmood...",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Kotodama is a belief that words contain \npower that can influence reality itself.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Speaking positive words leads to fortune,\nand negative words lead to misfortune.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Yeah, like when you rephrase a sentence so\nit doesn't sound as unlucky.",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Yes. When someone facing a challenge hears\nnegative words, they might feel it is unlucky.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "That feeling of misfortune may then affect \ntheir focus or motivation, yes?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "I see... In that case, perhaps the belief in\nsuperstition is what affects them.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "I don't let silly things like that affect me...",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "I win simply because I'm confident \nin my skills. That's all it takes.",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Yes...and words have the power to grant \nor rob someone of such confidence.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "Words are powerful. Truth or lies may both be \nfired as powerfully as a bullet from a gun.",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "I-I see...\nI guess you can't underestimate luck.",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Hey, Ryoma... Didn't you have any \npre-game rituals or something?",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Well, now that you mention it...",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "When I was playing a match, if I entered the\ncourt with my right foot, it'd go well.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "So I did the same thing with this\nslot machine here...",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "Hmph, but that's it.",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "Hehehe! I bet your racket bends to the\nright, too!",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "Please be silent...forever.",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "St-Stop glaring at me...\nIt was just a joke...",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "Alright!\nThen I'll give it a try!",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "Nee-heehee... You're so gullible, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "K-Kaito...",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Ryoma wins agaaaiin! Too baaad!",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "Bwah-hahaha! Serves you right! Why don'tcha\ngive it a tug with your other hand!?",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "Luck alone doesn't produce results \nas consistent as these, Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "Well, of course. If I was just lucky, \nI wouldn't be undefeated on the court.",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "Y'know, Kaito... You don't have any\nskills when it comes to gambling!",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "Sh-Shut up! My skills are suited\nfor the universe!",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "That's why they don't work on gambling! \nI can't waste them on that!",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "That's why I don't gamble anymore!",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "Yeah, I think that's for the best...",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "<CLT=cltMIND>I took a very depressed Kaito back\nto his room, then returned to mine.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,50 @@
+@ chap1_text_US
+## c01_001_007
+9|<CLT=cltMIND>Kara sınıf duruşmasından sağ çıkarsa mezun\nolur ve dış dünyaya geri döner.
+10|<CLT=cltMIND>Ölüm oyunu ve sınıf duruşmaları hayatta\nsadece iki öğrenci kalana kadar devam eder.
+11|<CLT=cltMIND>"<CLT=cltSTRONG>Gece vakti<CLT=cltMIND>" akşam 22:00'den sabah 08:00'e kadardır.\nYemekhane ve spor salonu gece yasaktır.
+12|<CLT=cltMIND>Ultimate Akademisi'nin müdürü Monokuma'ya\nşiddet kesinlikle yasaktır.
+13|<CLT=cltMIND>Monokuma asla doğrudan cinayet\nişlemez.
+14|<CLT=cltMIND>Monopad'leriniz çok önemli eşyalardır.\nLütfen onlara zarar vermeyin.
+15|<CLT=cltMIND>Üç ya da daha fazla öğrenci bir ceset bulduğunda\n<CLT=cltSTRONG>ceset bulundu anonsu<CLT=cltMIND> çalınır.
+16|<CLT=cltMIND>Asgari kısıtlamalarla kampüsü dilediğiniz\ngibi keşfetmekte özgürsünüz.
+17|<CLT=cltMIND>Bu kuralları çiğneyen öğrenciler Exisal'lar\ntarafından derhal imha edilir.
+18|<CLT=cltMIND>Müdür bu listeye istediği zaman yeni\nkurallar ekleyebilir.
+19|Sen...dalga geçiyor olmalısın...
+20|Ben asla...
+21|Ben asla bir ölüm oyununa katılmayacağım...
+22|Yetenekli Gençler için Ultimate Akademisi \nOkul Kuralları... Demek kurallar bunlar...
+23|Neden biri...bizi buna zorlasın\nanlamıyorum?
+24|Ama kurallar epey net.\nBu oyun sıkıcı olacak gibi görünmüyor.
+25|Mesele o değil!
+26|Lütfen sesini alçalt. Havayı\nbozuyorsun.
+27|Hey, hey! Bu altıncı kural ne\ndemek?
+28|"Ölüm oyunu ve sınıf duruşmaları hayatta\nsadece iki öğrenci kalana kadar devam eder."
+29|Hayatta sadece <CLT=cltSTRONG>iki<CLT=cltNORMAL> öğrenci mi?\nBunun sebebi ne olabilir?
+30|Belki sadece iki kişiyle duruşma\nyapılamayacağı içindir...?
+31|Nyahahaha, anlıyorum, anlıyorum.\nÇok zekisin, Shuichi.
+32|D-Dalga geçmeyi bırakın...\nÖlüm oyunu... Okul Kuralları...
+33|Hepsinin canı cehenneme!\nKim böyle bir şeye uyar ki!?
+34|<CLT=cltMIND>Kaito, Monopad'i yere çarpacakmış gibi\nkaldırdı.
+35|Vay, hey, dur, yapma.
+36|Okul kuralları onu kıramayacağını söylüyor.
+37|Kuralları çiğnersen\nExisal'lar seni ortadan kaldırır...
+38|Kurallar umurumda değil!\nBu sapkın oyunu asla oynamayacağım!
+39|Mesele oyunu "oynamak" değil.\nŞu an ona karşı gelmek çok tehlikeli.
+40|Boş verin onu! Dünyanın uğraşacağı\nbir salak eksilir sadece!
+41|Hey! Kime salak diyorsun!?
+42|<CLT=cltMIND>Derin bir nefes aldım, sonra var gücümle\nbağırdım.
+43|HEY!!! KAVGA ETMEYİ BIRAKIN ARTIK!!!
+44|Vay! N-Ne oluyor—!?
+45|Kendi aramızda kavga etmemeliyiz.\nŞu an birlikte çalışmaya *ihtiyacımız* var.
+46|Açıkçası...konuşma yapmaktansa bir şarkı\nçalsam muhtemelen daha ilham verici olurdum...
+47|Chopin'in "Askeri Polonez"i kesinlikle bizi\nbirleştirmeye yardım ederdi!
+48|Evet, bir polonez yesem fena olmazdı, gerçi\nne et ne de domates severim.
+49|Ben de Kaede'ye katılıyorum! Asıl düşmanın\nkim olduğunu unutmamalıyız!
+50|Ustam bana gücün her zaman doğru yöne\nyöneltilmesi gerektiğini söylemişti!
+51|N-Neyse...hepiniz fazla panikliyorsunuz...\nSadece...sakin olun...benim gibi...
+52|Vay! Amma da titriyorsun!
+53|Bu yoğun titreşimlere ben bile dayanamam!\nVe inan bana—bu konuda çok tecrübeliyim!
+54|Neyse...neden birlikte çalışıp bir kez daha\nçıkış aramıyoruz?
+55|Ama...o duvarın her yerine baktık \nve tek bir delik bile yoktu.
+56|Bir saniye dur.\nDuvarda açıklık yoksa...

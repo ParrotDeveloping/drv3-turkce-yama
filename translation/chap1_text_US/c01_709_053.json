@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "The time limit is tomorrow night...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Maybe...we should kill the robot?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>That's just a joke...right?\nShould I spend time with Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Don't worry, I'm not gonna do anything...\nKilling is too much of a pain...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "*sigh* How did things end up like this?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>I spent some time trying to encourage a\nsighing Himiko...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Himiko and I grew a little closer today.",
+  "tr": ""
+ }
+]

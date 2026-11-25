@@ -1,0 +1,69 @@
+@ chap1_text_US
+## c01_203_000
+67|<CLT=cltMIND>Herkes Miu'dan şüphelenmeye başladı ama...
+68|<CLT=cltMIND>...bu gerçekten doğru mu?
+## c01_204_000
+0|N-Ne dedin? Bu kütüphanede olmadığımı\nnasıl kanıtlıyor?
+1|O tür bir kanıt beni daha da şüpheli gösteriyor,\no yüzden...kes artık şunu!
+2|<CLT=cltMIND>Hata yaptım! \nTekrar düşünmem lazım! \n<CLT=cltNORMAL>
+3|Ha? Ama o kameraları *senin* için yaptım!
+4|Ne halt çevirmeye çalışıyorsun!?
+6|<CLT=cltMIND>Kameraları Miu yaptı ama onları nereye\nyerleştirdiğimi bilemezdi, değil mi...?
+7|<CLT=cltMIND>Onun tarafını tutmalıyım. Aceleyle hüküm\nvermek işleri sadece kötüleştirir...
+8|<CLT=cltMIND>Miu o kadar sarsıldı ki kendi yalanlarıyla\nkendini daha da batırmaya başladı...
+9|<CLT=cltMIND>Onun tarafını tutmalıyım. Aceleyle hüküm\nvermek işleri sadece kötüleştirir...
+10|<CLT=cltMIND>Miu o kadar sarsıldı ki kendi yalanlarıyla \nkendini daha da batırmaya başladı...
+11|<CLT=cltMIND>Onun tarafını tutmalıyım. Aceleyle hüküm\nvermek işleri sadece kötüleştirir...
+## c01_204_001
+0|Neden artık <CLT=size2>itiraf etmiyorsun<CLT=size1>?
+1|Neden artık itiraf etmiyorsun?
+2|<CLT=size2>Suçlu sensin,
+3|Suçlu sensin, değil mi Miu?
+4|değil mi <CLT=size2>Miu?
+5|<CLT=size3>O...
+6|O...Olamaz! Bu imkânsız!
+7|<CLT=size2>O...<CLT=size1> Ola
+8|<CLT=size3>maz!
+9|<CLT=size1>Bu <CLT=size3>imkân
+10|<CLT=size2>sız!
+11|Yani <CLT=size2>kütüphanedeki<CLT=size1> <CLT=size2>tuzaktan\n<CLT=size1>hiç haberin yok muydu?
+12|Yani kütüphanedeki tuzaktan\nhiç haberin yok muydu?
+13|Sana söylüyorum,
+14|Sana söylüyorum, hiçbir fikrim yoktu!
+15|<CLT=size3>hiçbir fikrim yoktu!
+16|Zaten fark etmez...
+17|Zaten fark etmez...
+18|çünkü <CLT=cltAGREE><CLT=size2>kütüphaneye\n<CLT=size1>hiç <CLT=size2>gitmedim,
+19|çünkü kütüphaneye hiç gitmedim, tamam mı!?
+20|tamam mı!?
+21|<CLT=size2>Kameraları\n<CLT=size1>yapan <CLT=size2>kişi...
+22|Kameraları yapan kişi...
+23|kör\n<CLT=size2>noktalarını\n<CLT=size1>da
+24|kör noktalarını da bilirdi.
+25|<CLT=size2>bilirdi.\n<CLT=size1>
+26|<CLT=size3>Evet,
+27|Evet, şey...kameraları ben yapmadım ki zaten!
+28|<CLT=size2>şey...
+29|<CLT=cltAGREE><CLT=size3>Kameraları<CLT=size2> ben<CLT=size1> 
+30|<CLT=cltAGREE><CLT=size3>yapmadım
+31|<CLT=cltAGREE><CLT=size2>ki zaten<CLT=cltNORMAL>!
+## c01_205_000
+0|Bence Miu da bodruma gitmedi!\nDeğil mi, Kiyo!?
+1|Tabii ki gitmedi. Cinayet sırasında Miu\nyemekhanedeydi.
+2|Son akşam yemeğim olacağını düşündüğüm şeyi\nyerken onu orada gördüm.
+3|Menüdeki makarna, torununun doğum günü pastasını\nyiyen yalnız bir yaşlı kadın gibi tadıyor!
+4|Ona üzülme... Torununu doğum gününde\nlezzetle yedi!
+5|Bu, anlam ifade edemeyecek kadar üzücü!
+6|Babişko işte!
+7|İşte bu kadar...Miu'nun mazereti.
+8|Seni lanet sümüklü böcek! Bunu neden\ndaha önce söylemedin!?
+9|Aferin, Kaede! Seni o sönük göğüslerine\nbakarak yargılamamalıymışım!
+10|Ne Gılgamış seviyesinde bir küçümseme!\nAma hangi Kâse Savaşı'ndansın?
+11|Vay... Anlamadığımız bir gönderme daha.\nHeh, fena bir eziksin herhalde.
+12|...Ah, pardon. Bazen hobilerim\nöylece araya giriveriyor...
+13|Hey! Ukala ukala davranma, Kokichi!\nDemin kıçımı ateşe attın!
+14|Sen en iyisi şu lanet ağzını kapalı tut,\nseni yalancı küçük ucube!
+15|Ne—!? B-Bu gerçekten gereksizdi...\nSadece suçluyu bulmak için söyledim!
+16|VAAAAAAAAAAAAHHHHHHH!!!\nÇOK KÖTÜSÜÜÜÜÜÜN!!!!!
+17|...Tamaam. Şimdi çok daha iyi hissediyorum.
+18|Sakin ol, evlat.

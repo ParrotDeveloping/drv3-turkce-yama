@@ -1,0 +1,367 @@
+[
+ {
+  "id": 0,
+  "en": "Why are you dragging your feet!?\nLet's go in already!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "You remembered my little trick. Well, you *are*\nthe <CLT=cltSTRONG>Ultimate Detective<CLT=cltNORMAL>, after all!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I wonder what it's like inside!\nI'm so excited!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Going in without permission... I won't cover \nfor you when Angie gets mad, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Let's hurry and check inside. If nothing's\nwrong...then that's fine.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Nyeeeh? You guys again?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Himiko...why are you here?\nWere you keeping watch this whole time?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I wouldn't do something like that. It sounds \nlike a pain... I just came to check on Angie.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "So what do you guys want? Don't tell me\nyou came to stop Angie again.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Ah...yeah.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Because the <CLT=cltSTRONG>ritual<CLT=cltNORMAL> is Monokuma's <CLT=cltSTRONG>motive<CLT=cltNORMAL>,\nwe shouldn't just *let* it happen.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Th-That's exactly right! It's not because \nI'm scared or anything, okay!?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "But it's good that you're here.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "She won't open this door for anyone but\nmembers of the student council, right?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "So tell Angie to open it for us.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Nyeeeh...that's not possible.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Not possible?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I wanted to ask her how the ritual went, \nso I've been calling to her...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "But she must really be into her work...\nShe won't come out.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "...Won't come out? Are you sure she's\nin there?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "She should be inside...\nBoth this door and the back one are locked.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Both doors are locked?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>I grabbed the knob and tried\nto turn it.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>*click...click...click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "It really is locked.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>But these doors only lock\nfrom the inside.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Which means there's definitely\nsomeone in there...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "...Any response?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Actually...no.\nMaybe she's sleeping.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>No answer?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Himiko! We need to get inside right now!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Nyeeeh...? Why?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "But y'know, even if we wanted to check,\nit's locked, so we can't do—",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I heard everything, and I'm just as shocked as\nyou are by what the tabloids are reporting!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "You obviously didn't hear anything at all!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Where did you come from...?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "A little birdie told me that now would be a\ngood time to bust out my trick.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Kokichi's trick?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Ah, the lock picking!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Huh? Lock picking?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "During the <CLT=cltSTRONG>Insect Meet and Greet<CLT=cltNORMAL>, Kokichi\nwas able to get into our rooms by lock picking.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Can you use your lock picking skills\nto get this lab door open?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...You want me to pick open this door, huh?\nHmmm, lemme see...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Kokichi bent over and peeked into\nthe keyhole of the doorknob.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Ooh, it's a cylinder lock. Now this type of\nlock is perfect for lock picking.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Yes! Please, Kokichi, open the lock!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "It's rude to pick a lock without permission.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Now's not the time for that!\nSomething might've happened to Angie!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "D-Don't worry about that!\nKokichi, hurry up and open the door!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Sorry, Himiko. I'm only doing this because\nthese three are threatening me.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>Kokichi pulled out some thin needles,\nand stuck them into the keyhole of the lock.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltSYSTEM>*click...click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltSYSTEM>...*clack*",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "There, open says me.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "That simple...?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Nee-heehee... Not to brag, but I am the\n<CLT=cltSTRONG>Ultimate Supreme Leader<CLT=cltNORMAL>, y'know.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Lock picking seems more suited to petty\nthieves.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Aaaaaack! That cuts real deep, Maki!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Let's get inside! I'm worried about Angie!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Yeah, you're right!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>When I touched the doorknob, I realized\nthat my palms were sweating from fear.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>Fear...? Why am I nervous...?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>I turned the doorknob, pushed open\nthe door, and saw...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>*ding dong, dong ding!*",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...A-BODY-HAS-BEEN-DISCOVERED.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "EVERYONE, PLEASE-ASSEMBLE-AT-THE-\n<CLT=cltSTRONG>ULTIMATE-ART-LAB<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...BLRGHBLRBLRGHBLRBLRGHBLRB!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Ahhh! She puked again!\nAnd it's green this time!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Monophanie's green puke is said to be an\nomen of bad luck and disaster!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "What on earth is about to happen!?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>It's usually for when something bad\nhappens... I hope it stays off.",
+  "tr": ""
+ }
+]

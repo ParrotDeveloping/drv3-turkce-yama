@@ -1,0 +1,70 @@
+@ chap1_text_US
+## c01_707_052
+0|...Tsumugi az önce bana "roket yumruk"\natabilir miyim diye sordu.
+1|Neden herkes otomatik olarak robotların roket\nyumruk işlevi olduğunu varsayıyor!?
+2|Öyle şiddet içeren bir işlevim yok!
+7|Bir sürü işlevim var! Faydalı işlevler!\nSana göstereceğim!
+8|<CLT=cltMIND>Keebo'nun işlevlerini sergilemesini\nizleyerek biraz vakit geçirdim...
+9|<CLT=cltMIND>İşlevler biraz...gereksiz görünüyordu\nama sesimi çıkarmadım.
+## c01_707_053
+0|...Böyle giderse süre sınırı biz farkına\nvarmadan dolacak.
+1|Bir şekilde harekete geçmeliyiz...
+6|...Okulu bir kez daha arayacağım.\nBelki bir şeyi gözden kaçırdık.
+7|Birlikte arayalım mı, Kaede?
+8|<CLT=cltMIND>Keebo'yla okulda dolaşarak biraz vakit\ngeçirdim...
+## c01_708_000
+0|<CLT=cltMIND>Kirumi'ye hediye verme işlemi.
+4|<CLT=cltSYSTEM>Kirumi'ye bir hediye vermek ister misin?
+9|Kirumi Tojo'nun sevgi seviyesi ARTTI
+10|Kirumi Tojo'nun sevgi seviyesi AZALDI
+11|Tamam, ona hediye vermeyeceğim.
+12|Hayır, ona hediye vermek istiyorum.
+14|<CLT=cltSYSTEM>Kirumi'ye hediye vermek istemediğinden\nemin misin?
+## c01_708_001
+0|Kaede. Senin için yapmamı istediğin bir\nşey var mı?
+1|Ha? Şu an yok.
+2|O zaman neden benimle konuşuyorsun?
+3|Neden mi...?
+4|<CLT=cltMIND>Ah, doğru ya! Kirumi bir hizmetçi...
+5|<CLT=cltMIND>O yüzden muhtemelen benim için bir şey\nyapmasını istediğimi düşünüyor.
+6|Özür dilerim, Kirumi...yanlış fikre kapılmana neden oldum.
+7|Sadece seninle sohbet etmek istedim. Bilirsin,\no <CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL> meseleleri olmadan.
+8|Benimle...sohbet etmek mi? Tabii ki böyle\nisteklere itirazım yok.
+9|<CLT=cltMIND>İstek değil de daha çok... Neyse, bunu\ndaha karmaşık hâle getirmek istemiyorum.
+10|Açıkçası...ben de seninle konuşmak\nistiyordum, Kaede.
+11|Gerçekten mi? Bu beklenmedik.
+12|Öyle mi?
+13|Evet, pek ortak noktamız yok... Ah, ama yine de\nkonuşmaktan mutluyum! Bana ne istersen sor!
+14|Teşekkürler. Cevaplamanı istediğim bazı\nsorular hazırladım.
+15|<CLT=cltMIND>Kirumi bir defter çıkardı...
+16|Bu soruların hepsi yemekle ilgili.
+17|Bilmem gereken herhangi bir besin alerjin\nvar mı?
+18|Şeyy... Hayır, yok.
+19|Özellikle nefret ettiğin yemekler var mı?
+20|Gerçekten sevdiğim ya da gerçekten nefret\nettiğim bir yemek aklıma gelmiyor.
+21|Anlıyorum, çok etkileyici. O halde bir sonraki\nsoruma geçeyim...
+22|Belli yatak malzemeleri için bir tercihin\nvar mı?
+23|Yatak malzemeleri mi?
+24|Örneğin kaz tüyü, karabuğday, hafızalı köpük\nya da pamuk yastık mı tercih edersin?
+25|Şeyy... Şu anki yastığım yeterince\niyi...
+26|Ne planlıyorsun?
+27|Araştırma mı yapıyorsun?
+28|Yastıklar önemli
+30|<CLT=cltMIND>Bunu neden soruyor? Bu bir tür\nsorgu mu?
+31|Ne planlıyorsun?
+32|Planlamak mı?
+33|<CLT=cltMIND>Kirumi bana şaşkın bir bakış attı.
+34|Hiçbir şey planlamıyorum.\nAmma hayal gücün var, Kaede.
+35|<CLT=cltMIND>B-Bana güldü!
+36|<CLT=cltMIND>Kirumi'nin güldüğünü görmek epey nadir.
+37|Araştırma mı yapıyorsun?
+38|Ah, özür dilerim. Sorularım seni rahatsız\nmı ediyor?
+39|Hayır, bana ne istersen sorabileceğini söyledim ama...
+40|Ah, niyetim konusunda baştan açık\nolmalıydım.
+41|Yastıklar önemli.
+42|Evet, uygun bir yastık sadece iyi bir gece uykusu\nsağlamakla kalmaz, rahatsızlıkları da önler.
+43|Yurt odalarındaki yastıklar yeterli\ngörünüyor, sanırım...
+44|Ama herkesin kendine özel bir yastığı\nolmasını tercih ederim.
+45|Anlıyorum ama...bunu neden bu kadar\ndert ediyorsun?
+46|Neden dert etmeyeyim?
+47|Rahatın benim için çok önemli, Kaede.\nSorularım bu yüzden.

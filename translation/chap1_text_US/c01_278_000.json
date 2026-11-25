@@ -1,0 +1,187 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>I know, this is getting crazy, right?\nBut it's time for another tutorial.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSYSTEM>Your opponent is on the ropes, but they're in\n<CLT=cltSTRONG>Argument Armament<CLT=cltSYSTEM> mode and won't listen to you.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>You have to remove their <CLT=cltSTRONG>armaments<CLT=cltSYSTEM> \nto <CLT=cltSTRONG>refute<CLT=cltSYSTEM> what they are saying.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>That's how <CLT=cltSTRONG>Argument Armament<CLT=cltSYSTEM> works!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>The objective is to destroy all your foe's\narmaments, then strike the <CLT=cltSTRONG>finishing blow<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>You <CLT=cltSTRONG>match the rhythm to shoot down<CLT=cltSYSTEM> your\nopponent's statements to damage the armament.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>The markers on top of your opponent's\nstatements are called <CLT=cltSTRONG>Rhythm Sites<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>Right when the gauge <CLT=cltSTRONG>makes one revolution<CLT=cltSYSTEM>,\npress the correct button to shoot the statement.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>When damaged enough, their armament will\nbreak, and the <CLT=cltSTRONG>music will change<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>The tempo will also pick up,\nso match the timing!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>Can't get on rhythm? Try pressing <PAD=【Ｒ１】>\nto activate <CLT=cltSTRONG>Fever Time<CLT=cltSYSTEM>!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>During Fever Time, you will be <CLT=cltSTRONG>invincible<CLT=cltSYSTEM>!\nAnd you can press <CLT=cltSTRONG>any button<CLT=cltSYSTEM>!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>You can only activate it when your\n<CLT=cltSTRONG>Focus Energy is full<CLT=cltSYSTEM>, so watch it carefully!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltSYSTEM>When your opponent's armament is destroyed,\nyou can give your <CLT=cltSTRONG>final argument<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>Your argument will be displayed with four words,\nassigned to <PAD=【○】>, <PAD=【△】>, <PAD=【□】>, and <PAD=【×】>.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltSYSTEM>Press the buttons in the <CLT=cltSTRONG>correct order<CLT=cltSYSTEM>\nto land the finishing blow!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSYSTEM>Use <CLT=cltSTRONG>split-second logic<CLT=cltSYSTEM> to refute\nyour opponent's final argument!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltSYSTEM>As always, it was a pleasure.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltSYSTEM>I know, this is getting crazy, right?\nBut it's time for another tutorial.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltSYSTEM>Your opponent is on the ropes, but they're in\n<CLT=cltSTRONG>Argument Armament<CLT=cltSYSTEM> mode and won't listen to you.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>You have to remove their <CLT=cltSTRONG>armaments<CLT=cltSYSTEM> \nto <CLT=cltSTRONG>refute<CLT=cltSYSTEM> what they are saying.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltSYSTEM>That's how <CLT=cltSTRONG>Argument Armament<CLT=cltSYSTEM> works!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltSYSTEM>The objective is to completely destroy your opponent's\narmaments, then strike the <CLT=cltSTRONG>finishing blow<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>You <CLT=cltSTRONG>match the rhythm to shoot down<CLT=cltSYSTEM> your\nopponent's statements to damage the armament.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltSYSTEM>The markers on top of your opponent's\nstatements are called <CLT=cltSTRONG>Rhythm Sites<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltSYSTEM>Right when the gauge <CLT=cltSTRONG>makes one revolution<CLT=cltSYSTEM>,\npress the correct key to shoot the statement.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltSYSTEM>When damaged enough, their armament will\nbreak, and the <CLT=cltSTRONG>music will change<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltSYSTEM>The tempo will also pick up,\nso match the timing!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltSYSTEM>Can't get on rhythm? Try pressing Spacebar\nto activate <CLT=cltSTRONG>Fever Time<CLT=cltSYSTEM>!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltSYSTEM>During Fever Time, you will be <CLT=cltSTRONG>invincible<CLT=cltSYSTEM>!\nAnd you can press <CLT=cltSTRONG>any key<CLT=cltSYSTEM>!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltSYSTEM>You can only activate it when your\n<CLT=cltSTRONG>Focus Energy is full<CLT=cltSYSTEM>, so watch it carefully!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltSYSTEM>When your opponent's armament is destroyed,\nyou can give your <CLT=cltSTRONG>final argument<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltSYSTEM>Your argument will be displayed with four words,\nassigned to the W/A/S/D keys.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltSYSTEM>Press the keys in the <CLT=cltSTRONG>correct order<CLT=cltSYSTEM>\nto land the finishing blow!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltSYSTEM>Use <CLT=cltSTRONG>split-second logic<CLT=cltSYSTEM> to refute\nyour opponent's final argument!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>As always, it was a pleasure.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltSYSTEM>Your argument will be displayed with four words,\nassigned to the Z/Q/S/D keys.",
+  "tr": ""
+ }
+]

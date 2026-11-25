@@ -1,0 +1,73 @@
+@ chap1_text_US
+## c01_704_002
+60|<CLT=cltMIND>Gonta'dan ayrıldıktan sonra odama\ndöndüm.
+## c01_704_050
+0|Ölüm oyunu kötü geliyor...\nNeden bize bunu yaptırıyorlar...?
+4|<CLT=cltMIND>Gonta'yla vakit geçireyim mi?
+5|G-Gerçekten mi!? Gonta'yla mı!?\nEmin misin!?
+6|O zaman konuşalım! Gonta seni daha iyi\ntanımak istiyor! Herkesi!
+7|<CLT=cltMIND>Gonta'yla konuşarak biraz vakit geçirdim...
+8|<CLT=cltMIND>Gonta'yla bugün biraz daha yakınlaştık.
+## c01_704_051
+0|Çok tuhaf... Burada neden böcek yok?
+1|Böceksiz dünya...çok yalnız hissettiriyor...
+5|<CLT=cltMIND>Gonta'yla vakit geçireyim mi?
+6|Sen de...yalnız mısın, Kaede?
+7|Gonta da aynı hissediyor! Gel, Gonta'yla\nböcekler hakkında konuş!
+8|<CLT=cltMIND>Gonta'nın böcekler hakkındaki tutkulu\nkonuşmasını dinleyerek biraz vakit geçirdim...
+9|<CLT=cltMIND>Gonta'yla bugün biraz daha yakınlaştık.
+## c01_704_052
+0|...Diğerleri sabah kahvaltısına toplanmıyor.\nOnlar...gerçekten birlik değil mi?
+4|<CLT=cltMIND>Gonta'yla vakit geçireyim mi?
+5|Evet, lütfen...!
+6|Gonta yalnızken sadece Gonta'nın ne kadar\nbaşarısız olduğunu düşünebiliyor...
+7|<CLT=cltMIND>Gonta'nın moralini düzeltmeye çalışarak biraz vakit geçirdim...
+8|<CLT=cltMIND>Gonta'yla bugün biraz daha yakınlaştık.
+## c01_704_053
+0|Böyle bir zamanda...gerçek centilmen\nne yapardı?
+4|<CLT=cltMIND>Gonta'yla vakit geçireyim mi?
+5|T-Tamam. G-Gonta'yla sorun yoksa...
+6|<CLT=cltMIND>Gonta'nın moralini düzeltmeye çalışarak biraz vakit geçirdim...
+7|<CLT=cltMIND>Gonta'yla bugün biraz daha yakınlaştık.
+## c01_705_000
+0|<CLT=cltMIND>Kokichi'ye hediye verme işlemi.
+4|<CLT=cltSYSTEM>Kokichi'ye bir hediye vermek ister misin?
+9|Kokichi Ouma'nın sevgi seviyesi ARTTI
+10|Kokichi Ouma'nın sevgi seviyesi AZALDI
+14|<CLT=cltSYSTEM>Kokichi'ye hediye vermek istemediğinden\nemin misin?
+## c01_705_001
+0|Nii-hihi... Benimle konuşmaya gelmen\nepey tuhaf, Kaede.
+1|Neyse, öyle canım istedi. Benimle vakit\ngeçirmek istemiyorsan söyle yeter.
+2|Ne!? Bunu neden yapayııım!?
+3|Senden gelen bir daveti *asla* geri\nçevirmem, Kaede.
+4|...Şaka! Bu bir yalandı!
+6|<CLT=cltMIND>Şimdiden yoruldum. Belki Kokichi'yle\nkonuşmaya gelmemeliydim.
+7|Hey, benimle o tonda konuşma.\nSonuçta...
+8|...sana kötü davranmam senin suçun.
+9|Benim suçum mu?
+10|Çünkü...beni unuttun.
+11|Ha? Unuttum mu!?
+12|Yine mi yalan söylüyorsun?
+13|B-Bir dakika!
+14|Başka birini mi düşünüyorsun?
+16|Artık dayanamıyorum! Unutmadım!\nBunca zaman seni düşünüyordum!
+17|Yine mi yalan söylüyorsun?
+19|...Hayır.
+21|Keşke öyle olsaydı...ama ben bile o kadar iyi\nyalan söyleyemem.
+22|Ah-haha... Kötü bir yüce lider olabilirim\nama benim yalanlarımın bile standartları var.
+23|<CLT=cltMIND>Kokichi bu konuda epey ciddi görünüyor...\nD-Daha önce gerçekten tanışmış mıydık?
+24|T-Tamam, o zaman yalan söylemiyorsan\nhatırlamam için hafızamı tazelememe yardım eder misin?
+25|B-Bir dakika! Seninle tanıştığımı hiç\nhatırlamıyorum...
+26|Demek unuttun! Beni hafızandan\ntamamen sildin!
+27|Nasıl bu kadar kalpsiz olabilirsin...?\nÇok...yıkıldım...
+28|<CLT=cltMIND>Kokichi gerçekten üzgün mü...?
+29|<CLT=cltMIND>Onu gerçekten unuttum mu!?
+30|Ç-Çok özür dilerim! Seni hatırlamam için\nhafızamı tazelememe yardım eder misin?
+31|Başka birini mi düşünüyorsun?
+32|<CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>'i başka biriyle\nkarıştırmamın imkânı yok.
+33|Böyle büyük bir hatayı ancak Gonta yapar...\nHayır, Gonta bile o kadar kalın kafalı değil!
+34|Sanırım bu doğru...
+35|O zaman hatırlamam için hafızamı tazelememe\nyardım eder misin?
+36|Mesela nerede tanıştığımız ya da tanıştığımızda\nneler olduğu... Öyle şeyler.
+37|Hmmm, bakalım. Tanıştık...
+38|...buna benzer düşmanca koşullar\naltında.

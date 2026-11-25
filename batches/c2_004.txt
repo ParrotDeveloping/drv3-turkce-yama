@@ -1,0 +1,61 @@
+@ chap2_text_US
+## c02_000_190
+8|<CLT=cltMIND>Burası bir depo.\nİçinde bir sürü havuz malzemesi var...
+9|<CLT=cltMIND>Bu bina spor salonu.\nOrası içeride gördüğüm pencerenin aynısı.
+10|<CLT=cltMIND>Bu bina...okul binası.
+11|<CLT=cltMIND>Pencerelerin çoğu kapatılmış ama\nbiri kullanılabilir gibi görünüyor.
+12|<CLT=cltMIND>Büyük bir atlama tahtası.
+13|<CLT=cltMIND>Bu da bir tatil köyünde bulacağın\nbir şey...
+14|<CLT=cltMIND>Burada bazı havuz kuralları asılı.\nTuhaf bulduğum bir tane var...
+15|Gece yüzmek yasaktır.\nZaten pek yüzmek istemiyorum.
+16|<CLT=cltMIND>Burada bazı teknik özellikler de\nyazıyor...
+17|<CLT=cltMIND>Havuz 25 metre uzunluğunda\nve 12 metre genişliğinde...
+18|<CLT=cltMIND>Havuz kenarı her iki uçta 4 metre,\nsağ ve sol kenarlar da 2,5'er metre...
+19|<CLT=cltMIND>Ha. Sanırım bu sadece\nişe yaramaz bir bilgi...
+## c02_000_241
+4|<CLT=cltMIND>Bu OUTLAW RUN,\nbir araba yarışı oyunu.
+5|<CLT=cltMIND>Sanırım henüz oynamaya hazır değil...
+6|<CLT=cltMIND>Bu OUTLAW RUN,\nbir araba yarışı oyunu.
+7|<CLT=cltMIND>Belki bunu denerim...
+10|Kuralları oku
+11|<CLT=cltSYSTEM>OUTLAW RUN\nSürücü Kılavuzu
+12|<CLT=cltSYSTEM>Hedefleri tarzla ez ve en yüksek\npuanı almaya çalış!
+13|<CLT=cltSYSTEM>Arka arkaya topla, kombolar tarzdır!\nMonodam bonus, Monokid hız artışı!
+15|Bunun sürüşle hiçbir ilgisi yok.
+17|<CLT=cltSYSTEM>Oyunu oynamak ister misin?
+18|<CLT=cltMIND>TREASURE HUNTER! Monolith...\nHazine aradığın bir oyun...
+19|<CLT=cltMIND>Sanırım henüz oynamaya hazır değil...
+20|<CLT=cltMIND>TREASURE HUNTER! Monolith...\nHazine aradığın bir oyun...
+21|<CLT=cltMIND>Belki bunu denerim...
+24|Kuralları oku
+25|<CLT=cltSYSTEM>TREASURE HUNTER! Monolith\nHazine Avı Rehberi
+26|<CLT=cltSYSTEM>Aynı renkten iki ya da daha fazlasını birleştir!\nSaklı somon fosillerini ortaya çıkar!
+27|<CLT=cltSYSTEM>Nadir Monoyavru heykellerini bulmaya çalış!\nGördüğün an kaz çıkar!
+29|Somon fosilleri hazine mi...?
+31|<CLT=cltSYSTEM>Oyunu oynamak ister misin?
+32|<CLT=cltMIND>SALMON FISHING!\nSomon balığı tuttuğun bir oyun.
+33|<CLT=cltMIND>Belki bunu denerim...
+37|<CLT=cltSYSTEM>Oyunu oynamak ister misin?
+38|<CLT=cltMIND>MonoMono Slot...\nBir slot makinesi oyununa benziyor.
+39|<CLT=cltMIND>Belki bunu denerim...
+42|Kuralları oku
+43|<CLT=cltSYSTEM>MonoMono Slot\nSlotta Kazanmanın Yolları
+44|<CLT=cltSYSTEM>İstediğin kadar jeton at.\nSonra makaraları çevir!
+45|<CLT=cltSYSTEM>Hiç durmazsan kazanma şansın yüzde 100!\nÇevir çevir sonsuza kadar çevir!
+47|Eh, bu saçmalıktı.
+49|<CLT=cltSYSTEM>Oyunu oynamak ister misin?
+50|<CLT=cltMIND>MonoMono Slot...\nBir slot makinesi oyununa benziyor.
+51|<CLT=cltMIND>Belki bunu denerim...
+54|Kuralları oku
+55|<CLT=cltSYSTEM>MonoMono Slot\nSlotta Kazanmanın Yolları
+56|<CLT=cltSYSTEM>İstediğin kadar jeton at.\nSonra makaraları çevir!
+57|<CLT=cltSYSTEM>Hiç durmazsan kazanma şansın yüzde 100!\nÇevir çevir sonsuza kadar çevir!
+59|Eh, bu saçmalıktı.
+61|<CLT=cltSYSTEM>Oyunu oynamak ister misin?
+62|<CLT=cltMIND>MonoMono Slot...\nBir slot makinesi oyununa benziyor.
+63|<CLT=cltMIND>Belki bunu denerim...
+66|Kuralları oku
+67|<CLT=cltSYSTEM>MonoMono Slot\nSlotta Kazanmanın Yolları
+68|<CLT=cltSYSTEM>İstediğin kadar jeton at.\nSonra makaraları çevir!
+69|<CLT=cltSYSTEM>Hiç durmazsan kazanma şansın yüzde 100!\nÇevir çevir sonsuza kadar çevir!
+71|Eh, bu saçmalıktı.

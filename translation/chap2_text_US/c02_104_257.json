@@ -1,0 +1,397 @@
+[
+ {
+  "id": 0,
+  "en": "...Is everyone ready?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not like we have choice, right?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Kehehe... You are quick to understand.\nIt's as though Monokuma has you trained.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "We got nothin' to worry about. Right, assholes?\nWe'll figure out the culprit, won't we?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Of course we don't need to worry. The top\nsuspect is super obvious this time.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...Riiiight, Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "How dare you bully Himiko, you degenerate!\nYou want me to Aikido-chop your head off, huh!?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "That's...not even Aikido anymore, is it?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "This matter will be discussed <CLT=cltSTRONG>in due time<CLT=cltNORMAL>.\nYou should save your arguments until then.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Yeah, let's put an end to this \nat the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Yeah...you're right.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Shuichi...before we head over there, let me give\nyou some advice, hero-to-sidekick.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "If you want to give up, wait until after you've\ndone everything you possibly can!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Wait, no. That's still no good...\nOkay! I won't forgive you if you give up!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "You got it?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Yeah...got it, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>He's right...I can't give up.\nI made a promise to Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Gonta...not wanna suspect friends...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "This case will be sooo easy. Especially\nwith how obvious the top suspect is.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "...Riiiight, Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I hear males pick on girls they like to get their\nattention! Which means Kokichi must like Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Huh!? How'd you know!?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Actually, why don't we focus on the class\ntrial and save that conversation for later?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Nee-heehee... This is turning out to be\nnot so boring after all.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "This murder...was also triggered by \nMonokuma's <CLT=cltSTRONG>motive<CLT=cltNORMAL>, was it not?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Which means...there is a reason the culprit \nwas desperate to live, yes?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "And Ryoma, who became the victim...\nhad no reason to live, correct?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "What are you implying?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "To kill because you have a reason to live...\nTo die because you have no reason to live...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Which, I wonder...is correct?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "You're thinking too hard about it...\nLiving things just gotta live.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Anyway, no matter what happens to us, \nwe gotta live!",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Yeah... You don't really need a reason to live.\nThat's just the icing on the cake.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>A reason to live...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I did not calculate that we would gather\nhere under these circumstances again...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "What would Kaede say if she saw us right\nnow...?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "This matter will be discussed in due time.\nWe should save our arguments until then.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Nyeh... Nyeeeh...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Th-This whole thing is sh-shakin' like\na big ol' vibrator!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "H-Himiko's scared! Poor little thing!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Nyeh! Nyeeeeeeh!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Th-This v-v-vibration i-is p-perfect...!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Qu-Quit looking at Himiko like some\nkind of degenerate male!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "...Sorry, but I don't know anything.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "If you think a child caregiver can help solve\na murder case...then we're all in trouble.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Himiko...is NOT the culprit.\nNo way, no how.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I know Himiko better than anyone!\nI know all her secrets!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I know her gender! Her hair color!\nEven her height!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>None of those are secrets...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Himiko's so suspicious, she's gotta be \na red herring, right?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "But I don't even know where to start\nunraveling the truth...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Aah... I should've played more \npoint-and-click adventure games...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Nyahahaha! We have nothing to worry about!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Atua sees all. His divine deduction will\nsolve this mystery right away!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Hey, Detective Dumbass! You've pinpointed\na possible culprit, right!?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>I can't turn back...\nI have to keep pressing forward!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltSYSTEM>*rumble, rumble!*",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>The door appeared before us with pomp,\nas if sending heroes off to war.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>After a pause...we all stepped\ntoward the door.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>We were silent.\nAll I could hear was our unsteady breathing.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Just as we passed through the door...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>It started up again.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>Normally, I wouldn't mind the shaking...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>But I'm feeling especially\nsensitive to it now.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>Each of us felt that trembling through\nour entire bodies as we sank further still.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>Without sure footing, I'm positive\nI would have fallen as well.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>My breathing was becoming more ragged,\nmy heart pounded harder and harder...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>Just when I thought I would\npass out from the nerves—",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>The elevator came to a stop.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>But this wasn't the end, no.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>It was only just beginning.",
+  "tr": ""
+ }
+]

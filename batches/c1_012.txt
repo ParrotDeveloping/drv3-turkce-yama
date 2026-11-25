@@ -1,0 +1,54 @@
+@ chap1_text_US
+## c01_004_353
+217|Ve zamanla saklanmada tam bir profesyonel\noldum.
+218|...Şaka şaka! Yalandı!
+219|Evet, ben de öyle düşünmüştüm...
+220|Gerçi sanırım şimdi saklambaç oynamanın\nsırası değil. Yazık...
+221|Kokichi az önce yodel yaptığında...
+222|Yankıları bana dağ köylerinde anlatılan\nhikâyeleri hatırlattı.
+223|Dağlardan yankılanan seslerin, ruh Yamabiko'nun\ncevapları olduğuna inanırlar—
+224|...Ah, bu çok uzun sürebilir. Gerisini güvenle\nkaçtıktan sonraya saklayacağım.
+225|Gerisini güvenle kaçtıktan sonraya\nsaklayacağım.
+226|...Burası epey tozlu.
+227|Bu kirli havaya uzun süre maruz kalmak\nsağlığa zararlı olabilir.
+228|Neee? Kirli hava seni rahatsız mı ediyor?\nAma sen hava bile solumuyorsun, değil mi?
+229|Ş-Şey, o...
+230|Nefes almadığım doğru ama ben de kirli\nhavadan sizin kadar hoşlanmıyorum.
+231|Anlıyorum, zehirli gazları algılayan bir\nfonksiyonun var! O zaman önden buyur!
+232|H-Hayır! Öyle bir fonksiyonum yok!\nSana kanarya gibi mi görünüyorum?
+233|Neee, yok mu? O zaman bir kanaryadan\nbile işe yaramazsın!
+234|Grrh...
+235|Nefes almadığım doğru ama ben de kirli\nhavadan sizin kadar hoşlanmıyorum.
+236|Bir süredir kullanılmayan bir yeraltı geçidi...\nepey tehlikeli olsa gerek.
+237|Ama herkes ilerlemek istiyorsa...o kararı\ndesteklemek için elimden geleni yapacağım.
+238|Kirumi ile Konuşma: Kaçış Oyunu Sonrası\nGece
+239|Burası karanlık... Devam edeceksek\nbir ışığa ihtiyacımız var...
+240|O zaman aydınlatmak için büyü kullanman\ngerekmez mi? Yani..."Lumos!" falan gibi?
+242|...Işık olmadan da idare ederiz.
+243|Büyü gücü değerlidir... Gerçekten ihtiyacımız\nolduğunda kullanmak için saklamalıyım.
+244|Ş-Şey, tamam...
+245|Büyü gücü değerlidir... Gerçekten ihtiyacımız\nolduğunda kullanmak için saklamalıyım.
+246|...Gideceksek acele edelim artık. Monokuma ve\nyavruları ortaya çıkarsa başımız ağrır.
+247|Maki ile Konuşma: Kaçış Oyunu Sonrası\nGece
+248|Merak etmeyin! Bir şey olursa...
+249|...kızları korumak için bütün yoz erkekleri\ninsan kalkanı olarak kullanırım!
+250|Tenko ile Konuşma: Kaçış Oyunu Sonrası\nGece
+251|Yeraltı geçidinden \nkaçacağız...
+252|Tehlikeli yaratıklara dikkat etmeliyiz.\nHerkesin Koruma Ekipmanı var mı?
+253|...Şaka şaka. Sadece bir espriydi.
+254|Hem...daha kötü bir şey çıkabilir...
+255|Gerçi o Exisal'lar muhtemelen yeraltı geçidine\ngiremeyecek kadar büyük...
+256|Çok inanılmaz güçlüsün, Gonta!\nSırtına binmek istiyorum!
+257|Angie ile Konuşma: Kaçış Oyunu Sonrası\nGece
+258|Çok zayıfsın, Keebo! Bırak seni yeniden yapayım,\nseni gelmiş geçmiş en güçlü robot yapacağım!
+259|Önce kasık plakanı tam benim sevdiğim gibi\nkalın, güzel bir tane takarak güçlendireceğim!
+260|Hah-hahaha!
+261|Miu ile Konuşma: Kaçış Oyunu Sonrası\nGece
+262|<CLT=cltMIND>Geri dönmenin ne anlamı var!?\nİlerlemeliyiz!
+263|<CLT=cltMIND>Geri dönmenin ne anlamı var!?\nİlerlemeliyiz!
+269|<CLT=cltMIND>Muhtemelen her şey yoluna girecek...
+270|<CLT=cltMIND>Bunun sonunda bir çıkış olacak...\nVe ona ulaştığımızda bütün bunlar bitecek...
+271|<CLT=cltMIND>Biliyorum!
+272|<CLT=cltMIND>Tünele adım atarken bu inanca\nsıkıca tutundum.
+273|<CLT=cltSYSTEM><CLT=cltSTRONG>Umutsuzluğun Ölüm Yolu<CLT=cltSYSTEM>'na\nmeydan okumak üzeresin.
+274|<CLT=cltSYSTEM>Amaç basit.\nHerkes birlikte çalışarak kaçacak!

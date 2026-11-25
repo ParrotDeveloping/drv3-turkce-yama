@@ -1,0 +1,392 @@
+[
+ {
+  "id": 0,
+  "en": "Morning, Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Oh, it's you...and Shuichi too, huh?\nYou guys are always together.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Whaaat? We're not *always* together...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Hmph, well not \"always,\" but I feel like \nwhenever I see one of you, the other's nearby.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "I-Is that right...?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Well, it's not a bad thing. You can't protect \nyourself when you're alone.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I thought something would happen at night...\nwhen it's easiest to get someone alone...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "But everyone's safe and nothing \nall that bad has happened.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Of course! No one would do that!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Hmph...I said it before, but...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "If you really want to live through a \nsituation like this, grumbling won't help.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "What...?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I understand that you want to believe\nin everyone, but...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Idealistic thoughts like that won't save anyone.\nYou might end up losing what you tried to save.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "What do you mean by that?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Who knows...? I've talked too much.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Anyway...you guys only have a little bit \nof time left to think.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "That's the situation. The best thing to do \nis live life with confidence.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "That's all I can say.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Don't forget it...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "If you really want to live through a \nsituation like this, grumbling won't help.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Good morning.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Morning, Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Good morning, Rantaro... Ah, actually,\nmay I ask you a question?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Hm? What's up?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Being questioned by the <CLT=cltSTRONG>Ultimate Detective<CLT=typeNORMAL> \nis making me kind of nervous.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "No, well, it's not...\nIt's nothing bad.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Haha, I know, I'm just teasing.\nWhat's up, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I wanted to know what you meant\nby the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Oh, yeah! I wanted to know about that too!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I told you, it's nothing.\nJust forget about it.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "But...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Look, like I told you before,\nI was just a little confused.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Not being able to remember my own\ntalent is...stressing me out.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Really, I would appreciate it if you\ndidn't ask me about it anymore.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I understand. Sorry if it seemed\nlike I was interrogating you.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "No, no...\nI'm sorry that I'm not much help.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Well then, I'll see you later.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Hey, Shuichi... Do you think Rantaro is really\njust confused?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "I don't know, but...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "He certainly doesn't want to talk about it.\nWe shouldn't ask him any more questions...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Yeah... We should be focusing on exposing\nthe mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Morning, Keebo.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Ah, good morning.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Your timing is impeccable. I have something\nI wish to ask you both.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Huh? What is it, Keebo?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "What are your thoughts on this door?\nNo matter how hard I try, it will not open...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Um, well...it doesn't seem like an exit...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "What do you think is on the other side\nof this wall?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Why don't you just fly over and see\nfor yourself?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Whoa—!?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "K-Kokichi!?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "C'mon! I wanna see you fly!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Robots have jet packs or whatever under\ntheir feet, right?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Whaaat!? You...don't...?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "...No, I don't.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...Have a dick?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Wh-What are you talking about!?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Oh, yeah! If you had a jet pack...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "...then you could've flown over the wall\nand called for help!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Geeeez! You're just a huge disappointment,\nKeebo!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "K-Keebo?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...I'm fine. Please just let it be.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "I...don't like sci-fi functions like flight.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>But aren't you already pretty sci-fi?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>Um...it might be better to leave them alone...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>Huh?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>This door was blocked before...\nWhen did it become accessible?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick\n(Closed)",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>Casino Area Door Hexagon Wrench Gimmick\n(Open)",
+  "tr": ""
+ }
+]

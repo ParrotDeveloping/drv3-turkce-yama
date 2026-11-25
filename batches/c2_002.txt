@@ -1,0 +1,51 @@
+@ chap2_text_US
+## c02_000_019
+9|<CLT=cltMIND>Kitaplar sıkı sıkıya\ndizilmiş...
+10|<CLT=cltMIND>Bu kitapların bazılarının ciltleri güzel.\nOnları burada bırakmak yazık olurdu...
+11|<CLT=cltMIND>Çeşitli dillerde kitaplar var...
+12|<CLT=cltMIND>Hatta hiç görmediğim diller bile var.\nBunlar hangi ülkeden?
+13|<CLT=cltMIND>Bunlar uzman seviyesinde ders kitapları...\nAcaba biri kullanıyor muydu?
+14|<CLT=cltMIND>Acaba Kaede planını ne zaman buldu.\nO yükü ne kadar süre taşıdı?
+15|<CLT=cltMIND>Rantaro bu kitaplığın numarasını fark etti.\nTıpkı benim gibi...
+16|<CLT=cltMIND>Onunla benim aramdaki tek fark...\nbenim güvenebileceğim birinin olmasıydı.
+17|<CLT=cltMIND>Acaba ne yapardım...\nKaede orada olmasaydı...
+18|<CLT=cltMIND>Ne alışılmadık bir küre...
+19|<CLT=cltMIND>Keşke Kaede'nin tuhaf davrandığını\nfark etseydim...
+20|<CLT=cltMIND>Belki işler...böyle\nbitmezdi...
+21|<CLT=cltMIND>Keşke Kaede'nin tuhaf davrandığını\nfark etseydim...
+22|<CLT=cltMIND>Belki işler...böyle\nbitmezdi...
+## c02_000_026
+6|<CLT=cltMIND>Film yansıtmak için bir perde.\n...Hiç kullanılmamış gibi görünüyor.
+8|<CLT=cltMIND>Birkaç tane var ama hiçbirinin\niçinde bir şey yok.
+10|<CLT=cltMIND>Kaede'nin izlemek istediğini söylediği film...\n<CLT=cltSTRONG>1900 Efsanesi<CLT=cltMIND>.
+11|<CLT=cltMIND>Bir gün izleyeceğim...\nSadece...şu an çok zor...
+12|<CLT=cltMIND>Film diskleri büyük bir rafta\ndüzgünce saklanıyor.
+13|<CLT=cltMIND>Çoğunlukla belgesel var ama araya karışmış\nbazı filmler ve diziler de var...
+14|<CLT=cltMIND>...Belki onları biraz daha düzenlemek\ngüzel olurdu?
+15|<CLT=cltMIND>Bu güzel bir hoparlör...\nEminim harika ses çıkarır.
+16|<CLT=cltMIND>Bu güzel bir hoparlör...\nEminim harika ses çıkarır.
+17|<CLT=cltMIND>Bu güzel bir hoparlör...\nEminim harika ses çıkarır.
+18|<CLT=cltMIND>Bu güzel bir hoparlör...\nEminim harika ses çıkarır.
+19|Kanepe A
+20|Kanepe B
+21|Projektör
+22|<CLT=cltMIND>Silindir bir kabın içinde lastiklerle bağlanmış\nbirkaç rulo poster var.
+23|<CLT=cltMIND>Bunlar...yanlış hatırlamıyorsam video oyunu\nposterleri.
+24|<CLT=cltMIND>Düşündüğüm gibi, sadece biraz açılıyor.\nOyun Odası'ndan çıkmam gerekecek.
+## c02_000_031
+8|<CLT=cltMIND>Bu dolap boş. Acaba önceden içinde\ntemizlik malzemesi var mıydı.
+## c02_000_042
+2|<CLT=cltMIND>...Kilitli.\nİçeri girebilecekmişim gibi görünmüyor.
+## c02_000_100
+4|<CLT=cltMIND>Burası Kaito'nun odası.\nŞu an burada bir işim yok.
+5|<CLT=cltMIND>Demek burası Ryoma'nın odası...\nŞu an burada bir işim yok.
+6|<CLT=cltMIND>Sonunda...Rantaro'nun Ultimate yeteneğinin\nne olduğunu hâlâ bilmiyoruz...
+7|<CLT=cltMIND>Keşke...onunla daha çok vakit\ngeçirseydim...
+8|<CLT=cltMIND>Burası...Gonta'nın odası, ha?\nŞu an burada bir işim yok.
+9|<CLT=cltMIND>Burası Kokichi'nin odası ama...\nşu an burada bir işim yok.
+10|<CLT=cltMIND>Burası Kiyo'nun odası\nama şu an burada bir işim yok.
+11|<CLT=cltMIND>Burası Keebo'nun odası...\nŞu an burada bir işim yok.
+12|<CLT=cltMIND>Yanlış hatırlamıyorsam burası Kirumi'nin odası.\nŞu an burada bir işim yok.
+13|<CLT=cltMIND>Burası Himiko'nun odası.\nŞu an burada bir işim yok.
+14|<CLT=cltMIND>Demek burası Maki'nin odası...\nŞu an burada bir işim yok.
+15|<CLT=cltMIND>Burası Tenko'nun odası.\nŞu an burada bir işim yok.

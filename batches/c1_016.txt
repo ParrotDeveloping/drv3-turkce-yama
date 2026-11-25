@@ -1,0 +1,55 @@
+@ chap1_text_US
+## c01_009_010
+19|Sadece...herkesin duygularını daha çok\ndüşünmeliydim.
+20|Tünele fazla odaklanmıştım...\nO yüzden özür dilerim...
+22|Pekala... Sen razıysan\nben de razıyım.
+23|Oh, süper! Artık her şey halloldu!
+24|...Ama onu ilk sen suçladın, değil mi?
+25|Eh, o bir yalandı. Bilirsin, bizi daha çok\nbirleştirmek için söylenen yalanlardan falan.
+26|Yalanlarımın yarısının aslında iyi niyetle\nsöylendiğini biliyor muydun?
+27|Bak *bu* yalan gibi geliyor.
+28|Bunu unutup başka bir şey\nkonuşalım.
+29|Tamam mı? Hep birlikte buradan çıkmanın\nyollarını düşünelim.
+30|Onu yapmadan önce bir duyurum var!
+31|Aaaaaaaaahhhhh!!!
+32|Hey, öyle birden ortaya çıkma!\nKalbim için fazla stresli!
+33|Ah, pardon. Sizi şaşırtmamak istememiştim.
+34|Yani bizi şaşırtmak istedin.
+35|Eee? Duyurun ne?
+36|Çok önemli değil ama...
+37|Belli bir iyilik meleği olarak hayatta kalmak\ndaha kolay, değil mi?
+38|Bir ölüm oyununa atılmak birini kolayca\növldürebileceğin anlamına gelmez...
+39|O yüzden size <CLT=cltSTRONG>öldürme motivasyonu<CLT=cltNORMAL> vererek\nölüm oyununa alışmanızı kolaylaştırayım dedim.
+40|...Öldürme motivasyonu mu?
+41|Kısacası bir <CLT=cltSTRONG>motif<CLT=cltNORMAL>! Bu işlere biraz gizem\nkatar!
+42|Bir katil ortaya çıkarılsa bile herkesi kandırmak\niçin acıklı bir hikâye uydurabilir!
+43|N-Ne diyorsun sen? Mantığını anlamak\nimkânsız...!
+44|Şimdi ilk motifi açıklıyorum! Bu anı gelecek\nnesiller için kaydetmeyi unutmayın!
+45|Evet, hazırladığım özel motifin adı\n<CLT=cltSTRONG>İlk Kan Ayrıcalığı<CLT=cltNORMAL>!
+46|Vay! İşlenen ilk cinayet için sınıf duruşması\nyapılmayacak! İnanabiliyor musunuz?
+47|Yani birini ilk öldüren kişi hiçbir şart\nolmadan mezun olacak!
+48|Sınıf duruşması yapılmayacak mı?
+49|Sınıf duruşmasını olduğundan daha önemli\ngösterdiğim için özür dilerim...
+50|O yüzden ilk cinayet için hiç sınıf duruşması\nyapmamaya karar verdim.
+51|Lütfen rahatlayın, sakinleşin ve öldürün!\nSonuçta ilki bedava!
+52|Ha? Bu kadar mı!? Buradan çıkmak için\nsadece birini öldürmemiz mi gerekiyor!?
+53|<CLT=cltSTRONG>"Bu kadar"<CLT=cltNORMAL> mı!? Bu ne demek oluyor!?\nLütfen sakin ol!
+54|İlk Kan Ayrıcalığı mı!? Bunu bir yarışma\nprogramı bonusu gibi gösterme!
+55|Puhuhu... Öyle diyorsun ama bahse girerim\naslında çok mutlusun, değil mi?
+56|Mutlu olmamın imkânı yok!
+57|D-Dalga geçmeyi bırak...\nBunun bizim için eğlenceli olduğunu mu sanıyorsun?
+59|Sadece çıkmak için birini öldüreceğimi\ngerçekten düşünüyor musun?
+60|Rüyanda görürsün!
+61|Sana kaybetmeyeceğiz! Buradan kaçacağımıza\ndair birbirimize söz verdik!
+62|Puhuhu... Sahte cesaretini kendine sakla.
+63|Nasıl hayatta kalacağına odaklanmalısın.\nSadece birini öldürmen lazım, değil mi?
+64|Seni...alçak!
+65|Anlıyorum... Mahkûmun ikilemi.\nÇok zekice, Monokuma.
+66|Ha? O ne?
+67|Hepimiz birbirimize ihanet etmektense işbirliği\nyapmanın daha iyi olduğunu biliyoruz, değil mi?
+68|Ama işbirliği yapmazsan kimsenin almadığı\nbir fayda elde edersin.
+69|Kendine avantaj sağlamak için gruba ihanet\netmeye yönelik bir teşvik.
+70|Bu hep aklımızın bir köşesinde olunca\nişbirliği yapma ihtimalimiz azalır.
+71|Monokuma'nın planı bu.
+72|Kaede'nin bizi <CLT=cltSTRONG>işbirliğine<CLT=cltNORMAL> sokma planını\nbatıracak <CLT=cltSTRONG>işbirliksiz bir oyun<CLT=cltNORMAL> yaratmak.
+74|Ve bir cinayet işlenirse...işbirliği yapmamız\ndaha da olasılık dışı olur.

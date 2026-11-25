@@ -1,0 +1,2727 @@
+[
+ {
+  "id": 0,
+  "en": "Hey, Shuichi, you got a sec?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Hm? What's wrong?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Before we start the investigation,\nthere's something I gotta tell you...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "You're my sidekick from now on!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...Your sidekick?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I'm more of a scientist kinda guy, so I'm\nnot really cut out for investigations.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>But...that's a good quality to have\nfor an investigation...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Plus, the only stage fit for Kaito Momota,\nLuminary of the Stars, is the universe itself.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "So I'll leave the details to you.\nPave the path for my success!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Ah, but, I don't know what to do as a \"sidekick\"...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Don't worry about it. I'll make all the \ntough calls, you just gotta do what I say.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>He...loves to make decisions\non his own, doesn't he?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "So...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I'll take full responsibility. Since you're my\nsidekick, there's nothing to worry about.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Alright, let's get started!\nFirst we gotta check the Monokuma File!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Y-Yes, right.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Kaito making me his sidekick\nlike this... Could it be...?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I'm...scared.\nI try hard not to be, but I'm scared.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I can't stop thinking about...the pain and sadness\nthat comes if I reveal the truth.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "That's what I'm afraid of...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Is he trying to help me?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hey, what's the matter?\nLet's check the Monokuma File already.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Ah, right.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>At Kaito's behest, I looked over\nthe Monokuma File.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>The victim is Ryoma Hoshi,\nthe <CLT=cltSTRONG>Ultimate Tennis Pro<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>The body was discovered in the gym.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>The cause of death was drowning. His body was\nconsumed by piranhas until only bones remained.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>No other injuries can be confirmed\nat this time.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "What? There's less written here than before.\nI've got a bad feeling about this...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "The <CLT=cltSTRONG>time of death<CLT=cltNORMAL> isn't written here...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Hm?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "The previous Monokuma File indicated\nRantaro's <CLT=cltSTRONG>time of death<CLT=cltNORMAL>, correct?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>The victim is Rantaro Amami...\nIt doesn't say what his <CLT=cltSTRONG>Ultimate<CLT=cltMIND> talent is...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>The victim's body was discovered\nin the library.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSTRONG>The estimated time of death is 9:10 p.m.<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>The victim was subjected to blunt force trauma\nto the back of the skull...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>resulting in cranial fractures and immediate\ndeath. No other injuries were detected.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "But the Monokuma File this time doesn't\nindicate a <CLT=cltSTRONG>time of death<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Did Monokuma mess up!?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "No...this was intentional.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Monokuma told us that he wouldn't give us any\ninformation that would reveal the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Thinking about it that way...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "It implies that the information would\nbe damning evidence for the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "So that means the key to this case\nis the <CLT=cltSTRONG>time of death<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Hah, there ya go!\nI knew I picked a good sidekick!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>There's one more thing in the\nMonokuma File that catches my eye...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>Ryoma's cause of death.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>It says <CLT=cltSTRONG>drowning<CLT=cltMIND>...\nBut if that's the case...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>We might be able to unravel\nthe case from there...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Monokuma File 2<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Alright. Now that we're done with the Monokuma\nFile, we can get started on the investigation.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "My first command to my new sidekick is...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Investigate everywhere and find clues\nthat will lead us to the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>He's pretty commanding,\nas I expected...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "My first command to my new sidekick is...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Investigate everywhere and find clues!\nDon't overlook anything, you got it?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Other places we need to look are...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "First, the pool area.\nThen, Ryoma's dorm room.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Then the <CLT=cltSTRONG>Ultimate Tennis Pro's Research Lab<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "And finally, the <CLT=cltSTRONG>Ultimate Magician's \nResearch Lab<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "We've got a lot of work ahead of us!\nSo get to it, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Is there something here?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "No, let's decide that after we search it!\nInvestigate anything that stands out!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Hey, how long are you gonna investigate here?\nWe still gotta find the culprit, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Gonta coulda saved him...\nNo, Gonta shoulda saved him...!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Gonta...what's wrong?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "When piranhas attack Ryoma...\nIf Gonta had dived into tank...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Then...Gonta coulda help Ryoma. But Gonta\ngot scared. Too scared to do anything.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Sorry! Gonta really sorry!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "A man shouldn't apologize so easily...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "And even if you had jumped in, \nthey just woulda eaten you too.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "And from what I read in the Monokuma File,\nyou couldn't have saved him anyway, Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Huh? Really? Does it say that in Monokuma\nFile?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "You haven't even read the Monokuma File yet?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "No...Gonta not really understand it... \nGonta not smart enough to be help...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "What are you talking about!? If you've got time\nto apologize, you've got time to read the file!",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "If you think you can't help, then work\ntill you can! That's what you can do!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "That's right, Gonta!\nYou're a huge help!",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "There's some information that\nonly *you* know, after all.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Information...only Gonta know?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Remember? During the show,\nyou went up on the stage?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "That was about...20 seconds before\nthe piranhas dropped, right?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Y-Yeah... Cuz Gonta worry about Himiko...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Did you see inside the tank?\nDid you see Himiko or Ryoma?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "No, Gonta see no one in tank.\nGonta kinda surprised...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Aw, you can't do that! We're still in\nthe middle of the show!",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "B-But...if Gonta do nothing, Himiko get\neaten by piranhas—",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "But...when the piranhas were dropped and the\ncurtains opened, Ryoma was in the tank, right?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Yeah, that right...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Then when did Ryoma get in there?\nYou didn't see it happen?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Gonta dunno...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Everyone see Ryoma in tank when piranhas\ndrop in. After that...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "S-Sorry! Gonta shoulda watched tank\nbetter!",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Like I said, a man shouldn't apologize \nso easily!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Y-Yeah. You right...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "But...this is a problem...\nNow I'm even more stumped.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Even if Himiko disappearing was part of the\nUnderwater Escape Act...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "How did Ryoma get into the tank?\nWas that part of Himiko's trick?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "<CLT=cltMIND>I'm positive that mystery will be\nan important point of this case...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Gonta's Account<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "When Gonta go on stage, Gonta see no one\nin tank.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "So Gonta kinda surprised...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "But...when the piranhas were dropped and the\ncurtains opened, Ryoma was in the tank, right?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "So when did Ryoma get in there?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Even if Himiko disappearing was part of the\nUnderwater Escape Act...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "How did Ryoma get into the tank?\nWas that part of Himiko's trick?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>I'm positive that mystery will be\nan important point of this case...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "I'm glad Himiko made this game more difficult.\nNow I won't be nearly as bored.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Time to work hard to solve this mystery!\nGet ready, culprit, cuz here I cooome!",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Since the show was used for the murder,\nwe must investigate Himiko's trick as well.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Perhaps there are clues here?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "I never would've imagined such a cruel \nmurder happening at such a fun show...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Kehehe... Why did the culprit commit such a \nbarbaric act? Did they wish to see us panic?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "I don't think that was the sole motivation.\nThere was some other reason for it.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "And that reason must be related\nto Himiko's magic show somehow...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "So that means the culprit knew of Himiko's\ntrick and made use of it, yes?",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>If that's true, did Himiko tell someone?\nSomeone who thinks the trick is actual <CLT=cltSTRONG>magic<CLT=cltMIND>?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Since the show was used, we must \ninvestigate the trick as well.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>Kiyo murmured almost to himself,\nthen walked to the back of the stage.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Is there anything to investigate backstage?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "...Let's follow him. We should investigate\nthe entire area anyway.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>We followed Kiyo backstage.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "If we make Himiko's escape trick clear...",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "I suspect we will be able to determine\nhow Ryoma got into the tank as well.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "But as far as Himiko is concerned, it was \n<CLT=cltSTRONG>\"real magic\"<CLT=cltNORMAL> with no tricks or mechanisms...",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "She likely won't tell us, no matter how we ask.\nWe will need to discern the truth for ourselves.\n",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "To that end, I will investigate the back side\nof the stage once more...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Although there are many unknown variables,\nthe first thing we need to make clear is...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "...when was Ryoma murdered?",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Well, in the middle of the show, obviously.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "The culprit knew how Himiko's trick worked \nand took advantage of it to kill Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "In other words, everyone watching \nthe show isn't suspicious.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "...Kaito, you didn't attend the show either,\ndid you?",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "N-No, but I'm still not suspicious. I forgot \na promise...so I was just eating breakfast.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "You got it!? I'm not suspicious!",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "I do not understand how that explanation\nis supposed to convince me.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "<CLT=cltMIND>Keebo does have a point...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Although there are many unknown variables,\nthe first thing we need to make clear is...",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "...when was Ryoma murdered?",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "<CLT=cltMIND>It's true, we definitely need\nto pin that down.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "You were helping set up the show, right, Kirumi?\nDid you hear anything about the trick?",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "No, I did not hear a word.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Furthermore, my help consisted of sewing\nthe banner and curtains.",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "So I do not know the details of her trick.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "I see...",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "I only sewed the the banners and curtain, so\nI do not know the details of her trick.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Nyeeeh...my magic was supposed to make\neveryone smile...",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "D-Don't worry! Everyone *is* smiling!",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "<CLT=cltMIND>Ah...I don't think any of us\ncan smile right now.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Himiko...? If it's alright, are you ready to talk\nabout your underwater escape trick?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "We need to understand how your trick works\nif we're going to solve this mystery...",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "There's no trick to my Underwater Escape\nAct. It was magic...",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "You're still saying that?\nDo you understand the situation we're in?",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "N-No matter how much you guys threaten me,\nmy answer won't change. It was...magic...",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "B-But—",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "Okay, your time's up! The Q&A session is\nnow over!",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "Unless you wanna feel the full volcanic wrath\nof my <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Man...this guard is more strict than the\nsecurity at idol events.",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "No matter how much you guys threaten me,\nmy answer won't change. It was...magic...",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "Hmhm... Even after all my warnings, you\nstill wanna harass Himiko, huh?",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "You must want me to smash your degnerate\nface into the ground real bad!",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "This is pointless, Shuichi.\nLet's leave before we get thrown out.",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "If Himiko says it's magic, then it's magic!\nGot it!?",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "I'll use my <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> to obliterate\nany degenerate male who bullies Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "<CLT=cltMIND>But if we don't understand the magic trick,\nhow can we possibly survive the trial?",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "If Himiko doesn't tell us how the trick works,\nwe won't know how Ryoma was killed, right?",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "But with the way she is...\nHow do we convince her?",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Oh! What if...",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Ryoma was a former apprentice of Himiko's\nmaster and vowed revenge on him...",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "And he murdered a lookalike of himself\nin order to sabotage her show!",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "...Or something like that. \nIt's happened before, probably!",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "But...I guess something like that isn't\nvery likely in this setting...",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "<CLT=cltMIND>Ah, that's right. We need to\nask Angie about the stage.",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "Hey, Angie. I wanted to ask you some\nquestions about the stage...",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "Yep, I was in charge of all the art.\nI even built and painted the stage.",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "Then, do you know anything about Himiko's\ntrick? How it worked, perhaps?",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "No, I dunno the trick.\nHimiko only said it was \"<CLT=cltSTRONG>magic<CLT=cltNORMAL>.\"",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "<CLT=cltMIND>I see...\nI suppose she didn't tell Angie the secret either.",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "Ah, by the way...you asked other people\nto help you with the preparations, right?",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "Yep! We started the prepwork yesterday.\nLots of people helped out.",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "Like, when we were moving the heavy tank\nand the stairs from Himiko's research lab...",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "Me and Keebo helped with that.",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "The tank had a pulley, but because it \nwas so huge, it was still a lotta work.",
+  "tr": ""
+ },
+ {
+  "id": 185,
+  "en": "And I asked Kirumi to sew the curtains\ncuz I hate sewing.",
+  "tr": ""
+ },
+ {
+  "id": 186,
+  "en": "So basically, it's all thanks to Atua that\nthe show was a success.",
+  "tr": ""
+ },
+ {
+  "id": 187,
+  "en": "No, it's because of all of us.",
+  "tr": ""
+ },
+ {
+  "id": 188,
+  "en": "<CLT=cltMIND>Was it really...a success?",
+  "tr": ""
+ },
+ {
+  "id": 189,
+  "en": "By the way, were the piranhas\nyour idea?",
+  "tr": ""
+ },
+ {
+  "id": 190,
+  "en": "On its own, the Underwater Escape Act is\nno different from a normal magic show.",
+  "tr": ""
+ },
+ {
+  "id": 191,
+  "en": "I thought it would make the show more\nexciting and divine if we used piranhas.",
+  "tr": ""
+ },
+ {
+  "id": 192,
+  "en": "That's what Atua told me.",
+  "tr": ""
+ },
+ {
+  "id": 193,
+  "en": "<CLT=cltMIND>So Atua gives you that kind\nof advice too, does he?",
+  "tr": ""
+ },
+ {
+  "id": 194,
+  "en": "And about the piranha tank and the timer...\nThose were from Himiko's lab, correct?",
+  "tr": ""
+ },
+ {
+  "id": 195,
+  "en": "Yep, yep. According to the piranha tanks'\nmanual, it's synced up with the timer...",
+  "tr": ""
+ },
+ {
+  "id": 196,
+  "en": "When the timer goes off, the bottom of the\npiranha tank will open automatically.",
+  "tr": ""
+ },
+ {
+  "id": 197,
+  "en": "<CLT=cltMIND>I see. That means that most of the\nequipment came from Himiko's lab.",
+  "tr": ""
+ },
+ {
+  "id": 198,
+  "en": "And right when we finished the prepwork\nand were about to take a break...",
+  "tr": ""
+ },
+ {
+  "id": 199,
+  "en": "Gonta captured us, so we couldn't\nrehearse at all. Nyahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "When Gonta let us go, it was already nighttime\nso we couldn't go back to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "Oh yeah, you can't enter the gym at nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "So we decided to come to the gym today,\nbefore the morning announcement.",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "Himiko and I were waiting for the gym to open.\nOhh, I was so relieved the set was intact.",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "<CLT=cltMIND>So no one could have snuck into\nthe gym before those two got there...",
+  "tr": ""
+ },
+ {
+  "id": 205,
+  "en": "What's up, Shuichi? Are you worried\ncuz of this confusing incident?",
+  "tr": ""
+ },
+ {
+  "id": 206,
+  "en": "Don't worry, it'll be fine.",
+  "tr": ""
+ },
+ {
+  "id": 207,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 208,
+  "en": "Atua has spoken... You have nothing\nto worry about.",
+  "tr": ""
+ },
+ {
+  "id": 209,
+  "en": "Nothing to worry about?",
+  "tr": ""
+ },
+ {
+  "id": 210,
+  "en": "Nothing can escape Atua's sight.\nNot even the culprit.",
+  "tr": ""
+ },
+ {
+  "id": 211,
+  "en": "Nyahahaha! Atua is truly a divine force\nto be reckoned with!",
+  "tr": ""
+ },
+ {
+  "id": 212,
+  "en": "<CLT=cltMIND>Angie is starting to sound\nmore and more...creepy.",
+  "tr": ""
+ },
+ {
+  "id": 213,
+  "en": "I was in charge of all the art.\nI even built and painted the stage.",
+  "tr": ""
+ },
+ {
+  "id": 214,
+  "en": "But I dunno the trick to the Underwater Escape\nAct cuz Himiko only said it's \"<CLT=cltSTRONG>magic<CLT=cltNORMAL>.\"",
+  "tr": ""
+ },
+ {
+  "id": 215,
+  "en": "<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 216,
+  "en": "By the way, were the piranhas\nyour idea?",
+  "tr": ""
+ },
+ {
+  "id": 217,
+  "en": "On its own, the Underwater Escape Act is\nno different from a normal magic show.",
+  "tr": ""
+ },
+ {
+  "id": 218,
+  "en": "I thought it would make the show more\nexciting and divine if we used piranhas.",
+  "tr": ""
+ },
+ {
+  "id": 219,
+  "en": "That's what Atua told me.",
+  "tr": ""
+ },
+ {
+  "id": 220,
+  "en": "<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 221,
+  "en": "<CLT=cltMIND>Ah, well, Atua aside...",
+  "tr": ""
+ },
+ {
+  "id": 222,
+  "en": "<CLT=cltMIND>If I remember correctly, the piranha tank\nand the timer were both in Himiko's lab.",
+  "tr": ""
+ },
+ {
+  "id": 223,
+  "en": "<CLT=cltMIND>That means that most of the\nequipment came from there.",
+  "tr": ""
+ },
+ {
+  "id": 224,
+  "en": "And right when we finished the prepwork\nand were about to take a break...",
+  "tr": ""
+ },
+ {
+  "id": 225,
+  "en": "Gonta captured us, so we couldn't\nrehearse at all. Nyahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 226,
+  "en": "<CLT=cltMIND>And we didn't get out of the Insect Meet\nand Greet until well after nighttime started.",
+  "tr": ""
+ },
+ {
+  "id": 227,
+  "en": "So we decided to come to the gym today,\nbefore the morning announcement.",
+  "tr": ""
+ },
+ {
+  "id": 228,
+  "en": "Himiko and I were waiting for the gym to open.\nOhh, I was so relieved the set was intact.",
+  "tr": ""
+ },
+ {
+  "id": 229,
+  "en": "<CLT=cltMIND>So no one could have snuck into\nthe gym before those two got there...",
+  "tr": ""
+ },
+ {
+  "id": 230,
+  "en": "Hey, phlegm wad! There's somethin' I need ya\nto tell me!",
+  "tr": ""
+ },
+ {
+  "id": 231,
+  "en": "<CLT=cltMIND>...That's not a very polite way\nto ask someone for something.",
+  "tr": ""
+ },
+ {
+  "id": 232,
+  "en": "It's got nothin' to do with the incident, but...\nI heard Gonta captured you guys last night?",
+  "tr": ""
+ },
+ {
+  "id": 233,
+  "en": "The hell was that all about? I was runnin'\naround so I got no clue what happened.",
+  "tr": ""
+ },
+ {
+  "id": 234,
+  "en": "Oh, yeah. Tell me too. I was also running, \nso I still don't know what went on.",
+  "tr": ""
+ },
+ {
+  "id": 235,
+  "en": "<CLT=cltMIND>How did Miu escape from Gonta?\nShe's not strong enough to fight him...",
+  "tr": ""
+ },
+ {
+  "id": 236,
+  "en": "Chop-chop, you slimy shit!",
+  "tr": ""
+ },
+ {
+  "id": 237,
+  "en": "W-Well...I suppose you could say that\nGonta was tricked into kidnapping us.",
+  "tr": ""
+ },
+ {
+  "id": 238,
+  "en": "The first ones to get captured were Keebo,\nKiyo, Tsumugi, Tenko, and I.",
+  "tr": ""
+ },
+ {
+  "id": 239,
+  "en": "Himiko and Angie were brought in later.",
+  "tr": ""
+ },
+ {
+  "id": 240,
+  "en": "From the gym, right?",
+  "tr": ""
+ },
+ {
+  "id": 241,
+  "en": "Exactly. And Kokichi left the room\nafter, around 9:00 p.m...",
+  "tr": ""
+ },
+ {
+  "id": 242,
+  "en": "So they must have been brought in\nabout five minutes before that.",
+  "tr": ""
+ },
+ {
+  "id": 243,
+  "en": "We were all forced to participate in Gonta's\nInsect Meet and Greet.",
+  "tr": ""
+ },
+ {
+  "id": 244,
+  "en": "We were freed about an hour into\nnighttime, around 11:00 p.m.",
+  "tr": ""
+ },
+ {
+  "id": 245,
+  "en": "So from 9:00 p.m. to 11:00 p.m.,\neveryone there had an alibi.",
+  "tr": ""
+ },
+ {
+  "id": 246,
+  "en": "And then those people without an alibi\nare me, Kirumi, Maki, and...Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 247,
+  "en": "Hah-hahaha! I see you've learned what an\nalibi is, thanks to the previous incident!",
+  "tr": ""
+ },
+ {
+  "id": 248,
+  "en": "But what the fuck is this \"<CLT=cltSTRONG>Insect Meet and\nGreet<CLT=cltNORMAL>\" bullshit!? Hah-hahaha!",
+  "tr": ""
+ },
+ {
+  "id": 249,
+  "en": "By the way, Miu...\nHow were you able to get away from Gonta?",
+  "tr": ""
+ },
+ {
+  "id": 250,
+  "en": "Hm? O-Oh...u-uh...well...",
+  "tr": ""
+ },
+ {
+  "id": 251,
+  "en": "I, uh...I had to use...my secret woman weapon...\nA-And let's just leave it at that...",
+  "tr": ""
+ },
+ {
+  "id": 252,
+  "en": "...\"Secret woman weapon\"?",
+  "tr": ""
+ },
+ {
+  "id": 253,
+  "en": "Hah-hahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 254,
+  "en": "Ah, hey, what's a \"secret woman weapon\"—",
+  "tr": ""
+ },
+ {
+  "id": 255,
+  "en": "Hah-hahahaha!\nHah-hahahahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 256,
+  "en": "<CLT=cltMIND>Is she trying to laugh it off...?",
+  "tr": ""
+ },
+ {
+  "id": 257,
+  "en": "Shuichi, let's just leave her be.\nListening to her will just tire you out.",
+  "tr": ""
+ },
+ {
+  "id": 258,
+  "en": "You're probably right... Perhaps it's better\nto get the truth out of her at the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 259,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Insect Meet and Greet<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 260,
+  "en": "Hah-hahahaha!\nHah-hahahahahaha!",
+  "tr": ""
+ },
+ {
+  "id": 261,
+  "en": "<CLT=cltMIND>She's just going to laugh everything\noff, isn't she?",
+  "tr": ""
+ },
+ {
+  "id": 262,
+  "en": "Shuichi, let's just leave her be.\nListening to her will just tire you out.",
+  "tr": ""
+ },
+ {
+  "id": 263,
+  "en": "You're probably right... Perhaps it's better\nto get the truth out of her at the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 264,
+  "en": "<CLT=cltMIND>I think there are still things\nto investigate here...",
+  "tr": ""
+ },
+ {
+  "id": 265,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 266,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 267,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 268,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 269,
+  "en": "<CLT=cltMIND>I should investigate the stage.\nI'm sure there's a clue there.",
+  "tr": ""
+ },
+ {
+  "id": 270,
+  "en": "<CLT=cltMIND>It's the large water tank from the escape\ntrick. The glass is broken—it's in bad shape.",
+  "tr": ""
+ },
+ {
+  "id": 271,
+  "en": "Did you guys really need to break the glass?\nEverything's soaked now.",
+  "tr": ""
+ },
+ {
+  "id": 272,
+  "en": "Well, if we had left Ryoma's body there,\nwe wouldn't have been able to investigate...",
+  "tr": ""
+ },
+ {
+  "id": 273,
+  "en": "I guess it woulda taken way too long to \njust empty the whole tank with a bucket.",
+  "tr": ""
+ },
+ {
+  "id": 274,
+  "en": "It was a lot of clean up...\nbut at least we can investigate the tank now.",
+  "tr": ""
+ },
+ {
+  "id": 275,
+  "en": "There might be a clue around here.\nI should take a closer look.",
+  "tr": ""
+ },
+ {
+  "id": 276,
+  "en": "Yeah, you're right.",
+  "tr": ""
+ },
+ {
+  "id": 277,
+  "en": "<CLT=cltMIND>Because we broke the glass, there\nisn't much of anything left in the tank.",
+  "tr": ""
+ },
+ {
+  "id": 278,
+  "en": "<CLT=cltMIND>But I should investigate the area\nthoroughly. There's bound to be something.",
+  "tr": ""
+ },
+ {
+  "id": 279,
+  "en": "What...is this?",
+  "tr": ""
+ },
+ {
+  "id": 280,
+  "en": "It is the control panel for the stage lights.\nIt allows you to raise and lower the batten.",
+  "tr": ""
+ },
+ {
+  "id": 281,
+  "en": "Ah, I see...",
+  "tr": ""
+ },
+ {
+  "id": 282,
+  "en": "<CLT=cltMIND>The control panel for the stage lights...\nThis raises and lowers the batten.",
+  "tr": ""
+ },
+ {
+  "id": 283,
+  "en": "<CLT=cltMIND>There's a ladder here...\nI wonder if it was used to set up the show.",
+  "tr": ""
+ },
+ {
+  "id": 284,
+  "en": "<CLT=cltMIND>This is the timer that was counting\ndown the escape trick...",
+  "tr": ""
+ },
+ {
+  "id": 285,
+  "en": "<CLT=cltMIND>I didn't realize...it was also a timer\nto reveal Ryoma's body.",
+  "tr": ""
+ },
+ {
+  "id": 286,
+  "en": "<CLT=cltMIND>Ryoma's body is nothing more than a skeleton\nnow. Not even a shadow of what he was...",
+  "tr": ""
+ },
+ {
+  "id": 287,
+  "en": "Tch...what the heck is this?\nHey, is this really Ryoma?",
+  "tr": ""
+ },
+ {
+  "id": 288,
+  "en": "I didn't see <CLT=cltSTRONG>the moment it happened<CLT=cltNORMAL>,\nso I can't believe it...",
+  "tr": ""
+ },
+ {
+  "id": 289,
+  "en": "...I'm certain of it.",
+  "tr": ""
+ },
+ {
+  "id": 290,
+  "en": "Everyone watching the show\nwitnessed it.",
+  "tr": ""
+ },
+ {
+  "id": 291,
+  "en": "We saw...Ryoma become nothing but bones.",
+  "tr": ""
+ },
+ {
+  "id": 292,
+  "en": "I can't believe he died in such a gruesome way.",
+  "tr": ""
+ },
+ {
+  "id": 293,
+  "en": "The water filled with blood so fast, we\ndidn't see the whole thing, thankfully...",
+  "tr": ""
+ },
+ {
+  "id": 294,
+  "en": "But this skeleton is unmistakably Ryoma's.",
+  "tr": ""
+ },
+ {
+  "id": 295,
+  "en": "Geez, I know he wanted to die, but he \ndidn't have to actually go and do it.",
+  "tr": ""
+ },
+ {
+  "id": 296,
+  "en": "No...I don't think that's right, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 297,
+  "en": "Ryoma wasn't trying to die.\nHe said as much.",
+  "tr": ""
+ },
+ {
+  "id": 298,
+  "en": "He was jealous of us...who wanted to live.",
+  "tr": ""
+ },
+ {
+  "id": 299,
+  "en": "Huh? What do you mean he was jealous?",
+  "tr": ""
+ },
+ {
+  "id": 300,
+  "en": "I'm positive that Ryoma wanted to join us.\nThat's why he needed a reason to live.",
+  "tr": ""
+ },
+ {
+  "id": 301,
+  "en": "So that he could have the same feelings we do,\nso that he could have that reason to keep going.",
+  "tr": ""
+ },
+ {
+  "id": 302,
+  "en": "To fight alongside us...",
+  "tr": ""
+ },
+ {
+  "id": 303,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 304,
+  "en": "Then...he was a real idiot.\nWho cares if you don't have a reason to live?",
+  "tr": ""
+ },
+ {
+  "id": 305,
+  "en": "Can't your reason for living be something\nsimple like good food or your friends?",
+  "tr": ""
+ },
+ {
+  "id": 306,
+  "en": "Damn it! That idiot!",
+  "tr": ""
+ },
+ {
+  "id": 307,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 308,
+  "en": "<CLT=cltMIND>Ryoma's body is nothing more than a skeleton\nnow. Not even a shadow of what he was...",
+  "tr": ""
+ },
+ {
+  "id": 309,
+  "en": "<CLT=cltMIND>There's no mistaking it...",
+  "tr": ""
+ },
+ {
+  "id": 310,
+  "en": "<CLT=cltMIND>This is...Ryoma.",
+  "tr": ""
+ },
+ {
+  "id": 311,
+  "en": "<CLT=cltMIND>He became a skeleton right before our eyes...",
+  "tr": ""
+ },
+ {
+  "id": 312,
+  "en": "<CLT=cltMIND>But...Ryoma didn't want to die.\nI'm positive that he wanted to join us.",
+  "tr": ""
+ },
+ {
+  "id": 313,
+  "en": "<CLT=cltMIND>He said as much...\nHe was jealous of us, who wanted to live.",
+  "tr": ""
+ },
+ {
+  "id": 314,
+  "en": "Is there anything suspicious\nabout this curtain...?",
+  "tr": ""
+ },
+ {
+  "id": 315,
+  "en": "It's been bothering me... What was that\ncurtain for?",
+  "tr": ""
+ },
+ {
+  "id": 316,
+  "en": "It was in order to hide the water tank.",
+  "tr": ""
+ },
+ {
+  "id": 317,
+  "en": "When Himiko was performing her escape,\nthis was closed to prevent us from seeing.",
+  "tr": ""
+ },
+ {
+  "id": 318,
+  "en": "Oh, so that's what it is!\nThen is it some kind of clue?",
+  "tr": ""
+ },
+ {
+  "id": 319,
+  "en": "Hm... I don't believe so...\nI don't see anything suspicious about it.",
+  "tr": ""
+ },
+ {
+  "id": 320,
+  "en": "<CLT=cltMIND>This curtain was closed to prevent us from\nseeing Himiko's escape trick.",
+  "tr": ""
+ },
+ {
+  "id": 321,
+  "en": "<CLT=cltMIND>I don't see anything suspicious about it.",
+  "tr": ""
+ },
+ {
+  "id": 322,
+  "en": "<CLT=cltMIND>It's the large water tank from the escape\ntrick. The glass is broken, it's in bad shape.",
+  "tr": ""
+ },
+ {
+  "id": 323,
+  "en": "Did you guys really need to break the glass?\nEverything's soaked now.",
+  "tr": ""
+ },
+ {
+  "id": 324,
+  "en": "Well, if we had left Ryoma's body there,\nwe wouldn't have been able to investigate...",
+  "tr": ""
+ },
+ {
+  "id": 325,
+  "en": "I guess it woulda taken way too long to \njust empty the whole tank with a bucket.",
+  "tr": ""
+ },
+ {
+  "id": 326,
+  "en": "It was a lot of clean up...\nbut at least we can investigate the tank now.",
+  "tr": ""
+ },
+ {
+  "id": 327,
+  "en": "There might be a clue around here.\nI should take a closer look.",
+  "tr": ""
+ },
+ {
+  "id": 328,
+  "en": "Yeah, you're right.",
+  "tr": ""
+ },
+ {
+  "id": 329,
+  "en": "<CLT=cltMIND>Because we broke the glass, there\nisn't much of anything left in the tank.",
+  "tr": ""
+ },
+ {
+  "id": 330,
+  "en": "<CLT=cltMIND>But I should investigate the area\nthoroughly. There's bound to be something.",
+  "tr": ""
+ },
+ {
+  "id": 331,
+  "en": "<CLT=cltMIND>I didn't find anything of interest\ninside the tank.",
+  "tr": ""
+ },
+ {
+  "id": 332,
+  "en": "<CLT=cltMIND>Ryoma's belongings are all gathered together.\nHis clothes, his Monopad, the key to his room...",
+  "tr": ""
+ },
+ {
+  "id": 333,
+  "en": "That's it! If we use this key,\nwe can investigate Ryoma's room!",
+  "tr": ""
+ },
+ {
+  "id": 334,
+  "en": "Hm? What's in his room to investigate?",
+  "tr": ""
+ },
+ {
+  "id": 335,
+  "en": "The <CLT=cltSTRONG>motive video<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 336,
+  "en": "We should find out whose video\nRyoma had.",
+  "tr": ""
+ },
+ {
+  "id": 337,
+  "en": "Then...you think Ryoma was killed \nbecause of that video?",
+  "tr": ""
+ },
+ {
+  "id": 338,
+  "en": "I can't say for certain...but we should\ncheck, just in case.",
+  "tr": ""
+ },
+ {
+  "id": 339,
+  "en": "<CLT=cltMIND>Although...\nhe might have had *my* video.",
+  "tr": ""
+ },
+ {
+  "id": 340,
+  "en": "<CLT=cltMIND>If that were the case,\nI might be a suspect...",
+  "tr": ""
+ },
+ {
+  "id": 341,
+  "en": "<CLT=cltMIND>Well, no point thinking about that now.",
+  "tr": ""
+ },
+ {
+  "id": 342,
+  "en": "<CLT=cltMIND>Ryoma's belongings are all gathered together.\nHis clothes, his Monopad, the key to his room...",
+  "tr": ""
+ },
+ {
+  "id": 343,
+  "en": "That's it! If we use this key,\nwe can investigate Ryoma's room!",
+  "tr": ""
+ },
+ {
+  "id": 344,
+  "en": "The <CLT=cltSTRONG>motive video<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 345,
+  "en": "We should find out whose video\nRyoma had.",
+  "tr": ""
+ },
+ {
+  "id": 346,
+  "en": "<CLT=cltMIND>Although...\nhe might have had *my* video.",
+  "tr": ""
+ },
+ {
+  "id": 347,
+  "en": "<CLT=cltMIND>If that were the case,\nI might be a suspect...",
+  "tr": ""
+ },
+ {
+  "id": 348,
+  "en": "<CLT=cltMIND>Well, no point thinking about that now.",
+  "tr": ""
+ },
+ {
+  "id": 349,
+  "en": "<CLT=cltMIND>Handcuffs...?\nWhy are there handcuffs here?",
+  "tr": ""
+ },
+ {
+  "id": 350,
+  "en": "<CLT=cltMIND>Still locked...\nAnd there are small scratches on them.",
+  "tr": ""
+ },
+ {
+  "id": 351,
+  "en": "<CLT=cltMIND>The cuffs appear to be stainless steel,\nso not too hard to scratch.",
+  "tr": ""
+ },
+ {
+  "id": 352,
+  "en": "<CLT=cltMIND>They must have been scraping\nagainst something hard or sharp.",
+  "tr": ""
+ },
+ {
+  "id": 353,
+  "en": "What are those handcuffs?\nWere they in the tank?",
+  "tr": ""
+ },
+ {
+  "id": 354,
+  "en": "But I've never seen handcuffs in the \nwarehouse. Where'd they come from?",
+  "tr": ""
+ },
+ {
+  "id": 355,
+  "en": "<CLT=cltMIND>That's true, there weren't any in the\nwarehouse. So where did they come from?",
+  "tr": ""
+ },
+ {
+  "id": 356,
+  "en": "<CLT=cltMIND>If they weren't in the warehouse, another\nplace that might have handcuffs is...",
+  "tr": ""
+ },
+ {
+  "id": 357,
+  "en": "<CLT=cltMIND>Could it be...he's a prisoner?",
+  "tr": ""
+ },
+ {
+  "id": 358,
+  "en": "<CLT=cltMIND>Ryoma's lab wasn't just for the <CLT=cltSTRONG>Ultimate Tennis\nPro<CLT=cltMIND>, but also for the <CLT=cltSTRONG>Ultimate Prisoner<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 359,
+  "en": "<CLT=cltMIND>So perhaps some element of that\nwas in his lab as well.",
+  "tr": ""
+ },
+ {
+  "id": 360,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Scratched Handcuffs<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 361,
+  "en": "<CLT=cltMIND>Handcuffs...?\nWhy are there handcuffs here?",
+  "tr": ""
+ },
+ {
+  "id": 362,
+  "en": "<CLT=cltMIND>Still locked...\nAnd there are small scratches on them.",
+  "tr": ""
+ },
+ {
+  "id": 363,
+  "en": "<CLT=cltMIND>The cuffs appear to be stainless steel,\nso not too hard to scratch.",
+  "tr": ""
+ },
+ {
+  "id": 364,
+  "en": "<CLT=cltMIND>They must have been scraping\nagainst something hard or sharp.",
+  "tr": ""
+ },
+ {
+  "id": 365,
+  "en": "<CLT=cltMIND>Where did they come from? There weren't any\nin the warehouse... Ah, wait...",
+  "tr": ""
+ },
+ {
+  "id": 366,
+  "en": "<CLT=cltMIND>Ryoma's lab wasn't just for the <CLT=cltSTRONG>Ultimate Tennis Pro<CLT=cltMIND>,\nbut also for the <CLT=cltSTRONG>Ultimate Prisoner<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 367,
+  "en": "<CLT=cltMIND>So perhaps some element of that\nwas in his lab as well.",
+  "tr": ""
+ },
+ {
+  "id": 368,
+  "en": "<CLT=cltMIND>Hm? There's a square pane of glass\nat the bottom of the water tank...",
+  "tr": ""
+ },
+ {
+  "id": 369,
+  "en": "<CLT=cltMIND>It doesn't look like a broken piece. The other\nfragments are far more random than this.",
+  "tr": ""
+ },
+ {
+  "id": 370,
+  "en": "<CLT=cltMIND>It's nearly impossible for the broken water tank\nto produce such a perfect square of glass.",
+  "tr": ""
+ },
+ {
+  "id": 371,
+  "en": "<CLT=cltMIND>Then what exactly is\nthis pane?",
+  "tr": ""
+ },
+ {
+  "id": 372,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Square Glass Pane<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 373,
+  "en": "<CLT=cltMIND>There's a square pane of glass\nat the bottom of the water tank.",
+  "tr": ""
+ },
+ {
+  "id": 374,
+  "en": "<CLT=cltMIND>It doesn't look like a broken piece.\nThe other fragments are far more random than this.",
+  "tr": ""
+ },
+ {
+  "id": 375,
+  "en": "<CLT=cltMIND>It's nearly impossible for the broken water tank\nto produce such a perfect square of glass.",
+  "tr": ""
+ },
+ {
+  "id": 376,
+  "en": "<CLT=cltMIND>Then what exactly is\nthis pane?",
+  "tr": ""
+ },
+ {
+  "id": 377,
+  "en": "<CLT=cltMIND>The fragments of the broken glass water tank\nhave been piled up.",
+  "tr": ""
+ },
+ {
+  "id": 378,
+  "en": "<CLT=cltMIND>There are so many tiny pieces...",
+  "tr": ""
+ },
+ {
+  "id": 379,
+  "en": "<CLT=cltMIND>Gonta and Tenko certainly didn't hold back\nwhen they threw Keebo at the glass.",
+  "tr": ""
+ },
+ {
+  "id": 380,
+  "en": "<CLT=cltMIND>It's a bucket...full of piranhas.",
+  "tr": ""
+ },
+ {
+  "id": 381,
+  "en": "<CLT=cltMIND>Gonta said that he picked up all the\npiranhas and put them here.",
+  "tr": ""
+ },
+ {
+  "id": 382,
+  "en": "<CLT=cltMIND>I can't believe Gonta would do that with\nhis bare hands... Ah, wait, yes I can.",
+  "tr": ""
+ },
+ {
+  "id": 383,
+  "en": "When I think that Ryoma is inside their \nstomachs, I don't even feel like eating them...",
+  "tr": ""
+ },
+ {
+  "id": 384,
+  "en": "...Why would you even consider\neating them in the first place?",
+  "tr": ""
+ },
+ {
+  "id": 385,
+  "en": "Nyahahaha! Only the strong can survive in this\nworld that Atua has created.",
+  "tr": ""
+ },
+ {
+  "id": 386,
+  "en": "The least we can do is pray for Ryoma's soul,\nso that he may enter Atua's kingdom.",
+  "tr": ""
+ },
+ {
+  "id": 387,
+  "en": "Can he really go there looking like this?",
+  "tr": ""
+ },
+ {
+  "id": 388,
+  "en": "Those piranhas sure were a miraculous mystery.\nMaybe Atua was behind those videos, too...",
+  "tr": ""
+ },
+ {
+  "id": 389,
+  "en": "...What are you talking about?",
+  "tr": ""
+ },
+ {
+  "id": 390,
+  "en": "I noticed it right as the show started...",
+  "tr": ""
+ },
+ {
+  "id": 391,
+  "en": "I feel like there are more piranhas today\nthan yesterday when we were preparing.",
+  "tr": ""
+ },
+ {
+  "id": 392,
+  "en": "More piranhas?",
+  "tr": ""
+ },
+ {
+  "id": 393,
+  "en": "What, did they multiply overnight? There's no\nway they could reproduce that fast.",
+  "tr": ""
+ },
+ {
+  "id": 394,
+  "en": "But, but compared to yesterday...the piranhas\nlooked super crammed into that tank.",
+  "tr": ""
+ },
+ {
+  "id": 395,
+  "en": "<CLT=cltMIND>Ah, so they looked more\ncrammed together...",
+  "tr": ""
+ },
+ {
+  "id": 396,
+  "en": "The water was too murky, so I couldn't tell\nhow many more piranhas there were...",
+  "tr": ""
+ },
+ {
+  "id": 397,
+  "en": "But anyway, it was super super super super\nsuper crammed.",
+  "tr": ""
+ },
+ {
+  "id": 398,
+  "en": "Super super super super super crammed.",
+  "tr": ""
+ },
+ {
+  "id": 399,
+  "en": "Geez, we get it.",
+  "tr": ""
+ },
+ {
+  "id": 400,
+  "en": "<CLT=cltMIND>More piranhas than yesterday...\nthere might be something to that.",
+  "tr": ""
+ },
+ {
+  "id": 401,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Crammed Piranhas<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 402,
+  "en": "<CLT=cltMIND>It's a bucket...full of piranhas.",
+  "tr": ""
+ },
+ {
+  "id": 403,
+  "en": "<CLT=cltMIND>Gonta said that he picked up all the\npiranhas and put them here.",
+  "tr": ""
+ },
+ {
+  "id": 404,
+  "en": "I noticed it right as the show started...",
+  "tr": ""
+ },
+ {
+  "id": 405,
+  "en": "I feel like there are more piranhas today\nthan yesterday when we were preparing.",
+  "tr": ""
+ },
+ {
+  "id": 406,
+  "en": "But, but compared to yesterday...the piranhas\nlooked super crammed into that tank.",
+  "tr": ""
+ },
+ {
+  "id": 407,
+  "en": "The water was too murky, so I couldn't tell\nhow many more piranhas there were...",
+  "tr": ""
+ },
+ {
+  "id": 408,
+  "en": "But anyway, it was super super super super\nsuper crammed.",
+  "tr": ""
+ },
+ {
+  "id": 409,
+  "en": "Super super super super super crammed.",
+  "tr": ""
+ },
+ {
+  "id": 410,
+  "en": "Like I said, we get it.",
+  "tr": ""
+ },
+ {
+  "id": 411,
+  "en": "<CLT=cltMIND>More piranhas than yesterday...\nthere might be something to that.",
+  "tr": ""
+ },
+ {
+  "id": 412,
+  "en": "<CLT=cltMIND>This is a pretty long rope...\nWhat was this used for?",
+  "tr": ""
+ },
+ {
+  "id": 413,
+  "en": "Hmm, I estimate it is roughly 65 feet in length.",
+  "tr": ""
+ },
+ {
+  "id": 414,
+  "en": "You can tell just by looking at it?",
+  "tr": ""
+ },
+ {
+  "id": 415,
+  "en": "I am well versed in ropes. I once visited a \nvillage where their...use...was commonplace.",
+  "tr": ""
+ },
+ {
+  "id": 416,
+  "en": "Kehehe... When it was time for me to leave, \nthe women of the village all begged me to stay...",
+  "tr": ""
+ },
+ {
+  "id": 417,
+  "en": "<CLT=cltMIND>...I find that deeply disturbing,\nbut I have to focus on this investigation.",
+  "tr": ""
+ },
+ {
+  "id": 418,
+  "en": "<CLT=cltMIND>Anyway, what is this rope?\nCould this be related to the case?",
+  "tr": ""
+ },
+ {
+  "id": 419,
+  "en": "<CLT=cltMIND>It is a very long rope...",
+  "tr": ""
+ },
+ {
+  "id": 420,
+  "en": "<CLT=cltMIND>Kiyo said that it was about\n65 feet long.",
+  "tr": ""
+ },
+ {
+  "id": 421,
+  "en": "<CLT=cltMIND>Anyway, what is this rope?\nCould this be related to the case?",
+  "tr": ""
+ },
+ {
+  "id": 422,
+  "en": "<CLT=cltMIND>What...?\nThere's a puddle behind the staircase...",
+  "tr": ""
+ },
+ {
+  "id": 423,
+  "en": "<CLT=cltMIND>This isn't a puddle from when we broke the\ntank... The floor around it is completely dry.",
+  "tr": ""
+ },
+ {
+  "id": 424,
+  "en": "<CLT=cltMIND>Perhaps...someone who was wet\nwas here, doing something...",
+  "tr": ""
+ },
+ {
+  "id": 425,
+  "en": "Changing wet clothes?",
+  "tr": ""
+ },
+ {
+  "id": 426,
+  "en": "<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 427,
+  "en": "<CLT=cltMIND>But how would you get from the water tank\nto this space behind the staircase?",
+  "tr": ""
+ },
+ {
+  "id": 428,
+  "en": "<CLT=cltMIND>",
+  "tr": ""
+ },
+ {
+  "id": 429,
+  "en": "<CLT=cltMIND>This may be a vital clue for understanding\nthe underwater escape trick...",
+  "tr": ""
+ },
+ {
+  "id": 430,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Wet Staircase<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 431,
+  "en": "<CLT=cltMIND>There's a puddle behind the staircase.",
+  "tr": ""
+ },
+ {
+  "id": 432,
+  "en": "<CLT=cltMIND>This isn't a puddle from when we broke the\ntank... The floor around it is completely dry.",
+  "tr": ""
+ },
+ {
+  "id": 433,
+  "en": "<CLT=cltMIND>Perhaps...someone who was wet\nwas here, doing something...",
+  "tr": ""
+ },
+ {
+  "id": 434,
+  "en": "<CLT=cltMIND>This staircase goes up to the\ntop of the stage.",
+  "tr": ""
+ },
+ {
+  "id": 435,
+  "en": "<CLT=cltMIND>At first glance...there's nothing\nparticularly suspicious about it.",
+  "tr": ""
+ },
+ {
+  "id": 436,
+  "en": "<CLT=cltMIND>There might be some trick to it,\nbut only a magician would know.",
+  "tr": ""
+ },
+ {
+  "id": 437,
+  "en": "<CLT=cltMIND>This staircase goes up to the\ntop of the stage.",
+  "tr": ""
+ },
+ {
+  "id": 438,
+  "en": "<CLT=cltMIND>Inspecting it closely, I can see that\nsome places on the side are wet...",
+  "tr": ""
+ },
+ {
+  "id": 439,
+  "en": "<CLT=cltMIND>That might have something to\ndo with the puddle next to it.",
+  "tr": ""
+ },
+ {
+  "id": 440,
+  "en": "<CLT=cltMIND>There's a curtain covering it, but I believe\nthere's a window on the other side.",
+  "tr": ""
+ },
+ {
+  "id": 441,
+  "en": "What's the matter? You wanna check that\nwindow out?",
+  "tr": ""
+ },
+ {
+  "id": 442,
+  "en": "Ah, yeah, but—",
+  "tr": ""
+ },
+ {
+  "id": 443,
+  "en": "Oh, it's too high up to reach, huh?",
+  "tr": ""
+ },
+ {
+  "id": 444,
+  "en": "Yeah, it is pretty high...\nEven higher than the piranha tank.",
+  "tr": ""
+ },
+ {
+  "id": 445,
+  "en": "<CLT=cltMIND>Higher than the piranha tank...",
+  "tr": ""
+ },
+ {
+  "id": 446,
+  "en": "That's right! There was a ladder next \nto the stage! I'll go get it!",
+  "tr": ""
+ },
+ {
+  "id": 447,
+  "en": "<CLT=cltMIND>Kaito quickly headed off to the stage.",
+  "tr": ""
+ },
+ {
+  "id": 448,
+  "en": "<CLT=cltMIND>He returned carrying the ladder that was\nset up beside the stage over his shoulder.",
+  "tr": ""
+ },
+ {
+  "id": 449,
+  "en": "But, y'know...shouldn't the sidekick be \nthe one bringing the ladder?",
+  "tr": ""
+ },
+ {
+  "id": 450,
+  "en": "Ah, y-yeah, I suppose so... Thank you.",
+  "tr": ""
+ },
+ {
+  "id": 451,
+  "en": "<CLT=cltMIND>After setting up the ladder on top of\nthe stage, I climbed up the rungs...",
+  "tr": ""
+ },
+ {
+  "id": 452,
+  "en": "You can just barely reach the window\nwith this. And if you open the curtain...",
+  "tr": ""
+ },
+ {
+  "id": 453,
+  "en": "Ah, the window is open!",
+  "tr": ""
+ },
+ {
+  "id": 454,
+  "en": "If the window's open, does that \nmean the culprit used it?",
+  "tr": ""
+ },
+ {
+  "id": 455,
+  "en": "<CLT=cltMIND>The culprit may have gone in and out\nthrough this window...",
+  "tr": ""
+ },
+ {
+  "id": 456,
+  "en": "So what's on the other side \nof the window?",
+  "tr": ""
+ },
+ {
+  "id": 457,
+  "en": "I can't see much...but I think it's the pool.",
+  "tr": ""
+ },
+ {
+  "id": 458,
+  "en": "A pool, huh? I heard we had \none here somewhere.",
+  "tr": ""
+ },
+ {
+  "id": 459,
+  "en": "Alright! Let's check it out later! The \nculprit probably went through there!",
+  "tr": ""
+ },
+ {
+  "id": 460,
+  "en": "Ah, wait... What is this...?",
+  "tr": ""
+ },
+ {
+  "id": 461,
+  "en": "Hm? What's up?",
+  "tr": ""
+ },
+ {
+  "id": 462,
+  "en": "Nothing, it just looks like\nmarks on the window frame...",
+  "tr": ""
+ },
+ {
+  "id": 463,
+  "en": "<CLT=cltMIND>The window frame has distinct abrasions,\nperhaps scratched by something...",
+  "tr": ""
+ },
+ {
+  "id": 464,
+  "en": "<CLT=cltMIND>This might be related to the case...\nI should remember it.",
+  "tr": ""
+ },
+ {
+  "id": 465,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Marked Window Frame<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 466,
+  "en": "<CLT=cltMIND>I climbed down from the ladder\nto the stage.",
+  "tr": ""
+ },
+ {
+  "id": 467,
+  "en": "You done investigating the window?\nThen I'll go put the ladder back.",
+  "tr": ""
+ },
+ {
+  "id": 468,
+  "en": "Yeah, that would be great.\nThank you, Kaito.",
+  "tr": ""
+ },
+ {
+  "id": 469,
+  "en": "Shouldn't the sidekick be doing this!?",
+  "tr": ""
+ },
+ {
+  "id": 470,
+  "en": "<CLT=cltMIND>He complained...\nbut he still put the ladder back for me.",
+  "tr": ""
+ },
+ {
+  "id": 471,
+  "en": "I know we just saw it, but...\nthe window *was* open, right?",
+  "tr": ""
+ },
+ {
+  "id": 472,
+  "en": "Yeah, and the pool's on the other side, \nisn't it?",
+  "tr": ""
+ },
+ {
+  "id": 473,
+  "en": "Let's go check it out later! The culprit musta\ngone in and out of the gym from there.",
+  "tr": ""
+ },
+ {
+  "id": 474,
+  "en": "<CLT=cltMIND>And in addition to that...",
+  "tr": ""
+ },
+ {
+  "id": 475,
+  "en": "<CLT=cltMIND>The window frame has distinct abrasions,\nperhaps scratched by something...",
+  "tr": ""
+ },
+ {
+  "id": 476,
+  "en": "<CLT=cltMIND>That might be related to the case...\nI should remember it.",
+  "tr": ""
+ },
+ {
+  "id": 477,
+  "en": "<CLT=cltMIND>When I stood on stage and looked up,\nthe piranha tank was directly overhead.",
+  "tr": ""
+ },
+ {
+  "id": 478,
+  "en": "<CLT=cltMIND>It was set up so that the bottom would open\nwhen the timer had reached zero.",
+  "tr": ""
+ },
+ {
+  "id": 479,
+  "en": "<CLT=cltMIND>The bottom is open now,\nand the tank is empty.",
+  "tr": ""
+ },
+ {
+  "id": 480,
+  "en": "<CLT=cltMIND>It doesn't look as though it has a lid...\nI can see the ceiling straight through.",
+  "tr": ""
+ },
+ {
+  "id": 481,
+  "en": "<CLT=cltMIND>And only the front side is glass.\nThe other sides are made of wood.",
+  "tr": ""
+ },
+ {
+  "id": 482,
+  "en": "<CLT=cltMIND>So the piranha tank had no lid,\nand only the front was made of glass.",
+  "tr": ""
+ },
+ {
+  "id": 483,
+  "en": "Oh yeah. That tank was from Himiko's\nresearch lab.",
+  "tr": ""
+ },
+ {
+  "id": 484,
+  "en": "Hey, Kaito, you helped carry supplies\nfor the show, right?",
+  "tr": ""
+ },
+ {
+  "id": 485,
+  "en": "Yeah. Me, Keebo, Himiko, and Angie.\nIt was a lot of work.",
+  "tr": ""
+ },
+ {
+  "id": 486,
+  "en": "But...I just helped carry it.\nI wonder how they hung it from there.",
+  "tr": ""
+ },
+ {
+  "id": 487,
+  "en": "It was a heavy tank full of water and piranhas.\nIt couldn't have been easy to lift.",
+  "tr": ""
+ },
+ {
+  "id": 488,
+  "en": "It seems this is where the lighting batten\nfor the gym is attached.",
+  "tr": ""
+ },
+ {
+  "id": 489,
+  "en": "Ah, Kirumi.",
+  "tr": ""
+ },
+ {
+  "id": 490,
+  "en": "The control panel on the side of the stage\nallows you to raise and lower the batten.",
+  "tr": ""
+ },
+ {
+  "id": 491,
+  "en": "It seems they lowered the batten, attached\nthe piranha tank to it, then raised it again.",
+  "tr": ""
+ },
+ {
+  "id": 492,
+  "en": "Hmm, I never knew lighting battens were \nsturdy enough to lift a tank like that.",
+  "tr": ""
+ },
+ {
+  "id": 493,
+  "en": "Since it was built to lift heavy objects, it\nis probably quite sturdy.",
+  "tr": ""
+ },
+ {
+  "id": 494,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Piranha Tank<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 495,
+  "en": "<CLT=cltMIND>When I stood on stage and looked up,\nthe piranha tank was directly overhead.",
+  "tr": ""
+ },
+ {
+  "id": 496,
+  "en": "<CLT=cltMIND>It was set up so that the bottom would open\nwhen the timer had reached zero.",
+  "tr": ""
+ },
+ {
+  "id": 497,
+  "en": "<CLT=cltMIND>The bottom is open now,\nand the tank is empty.",
+  "tr": ""
+ },
+ {
+  "id": 498,
+  "en": "<CLT=cltMIND>It doesn't look as though it has a lid...\nI can see the ceiling straight through.",
+  "tr": ""
+ },
+ {
+  "id": 499,
+  "en": "<CLT=cltMIND>And only the front side is glass.\nThe other sides are made of wood.",
+  "tr": ""
+ },
+ {
+  "id": 500,
+  "en": "<CLT=cltMIND>So the piranha tank had no lid,\nand only the front was made of glass.",
+  "tr": ""
+ },
+ {
+  "id": 501,
+  "en": "That tank was from Himiko's research lab.",
+  "tr": ""
+ },
+ {
+  "id": 502,
+  "en": "Me, Keebo, Himiko, and Angie brought in\nall the equipment for the show.",
+  "tr": ""
+ },
+ {
+  "id": 503,
+  "en": "Then I guess they used the gym's lighting \nbatten to lift the piranha tank up there.",
+  "tr": ""
+ },
+ {
+  "id": 504,
+  "en": "Yes, the control panel on the side of the stage\nallows you to raise and lower the batten.",
+  "tr": ""
+ },
+ {
+  "id": 505,
+  "en": "They must have lowered the batten, attached\nthe piranha tank to it, then raised it again.",
+  "tr": ""
+ },
+ {
+  "id": 506,
+  "en": "Hmm, I never knew lighting battens were \nsturdy enough to lift a tank like that.",
+  "tr": ""
+ },
+ {
+  "id": 507,
+  "en": "Since it was built to lift heavy objects, it\nis probably quite sturdy.",
+  "tr": ""
+ },
+ {
+  "id": 508,
+  "en": "<CLT=cltMIND>There's nothing strange about it from behind.\nOther than the large size, it's a normal tank.",
+  "tr": ""
+ },
+ {
+  "id": 509,
+  "en": "All sides of the tank seem to be made of a \nspecial type of glass. I see no hidden doors...",
+  "tr": ""
+ },
+ {
+  "id": 510,
+  "en": "Kehehe... Very mysterious. How, I wonder, \ndid Himiko escape from the tank?",
+  "tr": ""
+ },
+ {
+  "id": 511,
+  "en": "Well, if we figured it out easily, it wouldn't \nbe a magic trick.",
+  "tr": ""
+ },
+ {
+  "id": 512,
+  "en": "I believe that if we figure out the route Himiko\ntook, we will discover how Ryoma got in there.",
+  "tr": ""
+ },
+ {
+  "id": 513,
+  "en": "<CLT=cltMIND>That is true... There is a high probability\nthat they used the same route.",
+  "tr": ""
+ },
+ {
+  "id": 514,
+  "en": "<CLT=cltMIND>To reveal how Ryoma got\n*into* the tank...",
+  "tr": ""
+ },
+ {
+  "id": 515,
+  "en": "<CLT=cltMIND>I need to reveal how Himiko\nmanaged to get *out* of it.",
+  "tr": ""
+ },
+ {
+  "id": 516,
+  "en": "<CLT=cltMIND>There's nothing strange about it from behind.\nOther than the large size, it's a normal tank.",
+  "tr": ""
+ },
+ {
+  "id": 517,
+  "en": "All sides of the tank seem to be made of a \nspecial type of glass. I see no hidden doors...",
+  "tr": ""
+ },
+ {
+  "id": 518,
+  "en": "Kehehe... Very mysterious. How, I wonder, \ndid Himiko escape from the tank?",
+  "tr": ""
+ },
+ {
+  "id": 519,
+  "en": "I believe that if we figure out the route Himiko\ntook, we will discover how Ryoma got in there.",
+  "tr": ""
+ },
+ {
+  "id": 520,
+  "en": "<CLT=cltMIND>That is true... I need to reveal how\nRyoma got into the tank...",
+  "tr": ""
+ },
+ {
+  "id": 521,
+  "en": "<CLT=cltMIND>It appears I have to figure out\nthe trick of Himiko's underwater escape...",
+  "tr": ""
+ },
+ {
+  "id": 522,
+  "en": "<CLT=cltMIND>I believe...we've investigated\neverything we need to for now.",
+  "tr": ""
+ },
+ {
+  "id": 523,
+  "en": "Well, our investigation's over now...\nSo who's the culprit?",
+  "tr": ""
+ },
+ {
+  "id": 524,
+  "en": "I...can't say for certain yet.\nThere are other places I need to investigate.",
+  "tr": ""
+ },
+ {
+  "id": 525,
+  "en": "What!? You still don't know? I never thought\ndetective work would be such...work.",
+  "tr": ""
+ },
+ {
+  "id": 526,
+  "en": "So where else do we gotta investigate?",
+  "tr": ""
+ },
+ {
+  "id": 527,
+  "en": "First, the pool next to the gym.",
+  "tr": ""
+ },
+ {
+  "id": 528,
+  "en": "They're connected by the window above\nthe stage, so that needs to be looked at.",
+  "tr": ""
+ },
+ {
+  "id": 529,
+  "en": "After that, I want to go to Ryoma's room\nand find out which <CLT=cltSTRONG>motive video<CLT=cltNORMAL> he had.",
+  "tr": ""
+ },
+ {
+  "id": 530,
+  "en": "Then, I want to investigate the\n<CLT=cltSTRONG>Ultimate Tennis Pro's lab<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 531,
+  "en": "I've deduced that the handcuffs we found in the\nwater tank probably came from there.",
+  "tr": ""
+ },
+ {
+  "id": 532,
+  "en": "Is that everything?",
+  "tr": ""
+ },
+ {
+  "id": 533,
+  "en": "Last of all, to the <CLT=cltSTRONG>Ultimate Magician's lab<CLT=cltNORMAL>.\nI want to know more about Himiko's trick...",
+  "tr": ""
+ },
+ {
+  "id": 534,
+  "en": "If we go there, I'm sure there'll\nbe some kind of clue.",
+  "tr": ""
+ },
+ {
+  "id": 535,
+  "en": "So we've still got a lot to do then, huh?",
+  "tr": ""
+ },
+ {
+  "id": 536,
+  "en": "Good luck, Shuichi! After all, it's gonna be\nyou doing all the heavy lifting here!",
+  "tr": ""
+ },
+ {
+  "id": 537,
+  "en": "Ah...right.",
+  "tr": ""
+ },
+ {
+  "id": 538,
+  "en": "What do you mean \"right\"!?\nAre you saying I'm useless!?",
+  "tr": ""
+ },
+ {
+  "id": 539,
+  "en": "<CLT=cltMIND>...Is there a right way to respond to that?",
+  "tr": ""
+ },
+ {
+  "id": 540,
+  "en": "<CLT=cltMIND>I've investigated just about everything to\ndo with the stage...",
+  "tr": ""
+ },
+ {
+  "id": 541,
+  "en": "<CLT=cltMIND>But I still don't know how\nthe trick was performed.",
+  "tr": ""
+ },
+ {
+  "id": 542,
+  "en": "Hey, how long are you gonna investigate here?\nWe still gotta find the culprit, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 543,
+  "en": "Come on, let's go.",
+  "tr": ""
+ },
+ {
+  "id": 544,
+  "en": "Ah, wait! Kaito!",
+  "tr": ""
+ }
+]

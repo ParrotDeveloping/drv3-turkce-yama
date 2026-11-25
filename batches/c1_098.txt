@@ -1,0 +1,68 @@
+@ chap1_text_US
+## c01_223_000
+102|Değil mi, Shuichi?
+104|Bu olayın suçlusu...
+105|Kaede... Ben...
+106|...Sorun yok. Senin suçlu olmadığını biliyorum,\nShuichi.
+107|...Sorun yok. Biliyorum.
+108|<CLT=cltMIND>Sorun yok. Sadece sakinleşip...\nsöylemen lazım.\n<CLT=cltNORMAL>
+110|<CLT=cltMIND>Sorun yok. Sadece sakinleşip...\nsöylemen lazım.\n<CLT=cltNORMAL>
+111|...Hayır, bu yanlış. Özür dilerim.
+112|<CLT=cltMIND>Sorun yok. Sadece sakinleşip...\nsöylemen lazım.\n<CLT=cltNORMAL>
+113|Rantaro'yu kim öldürdü?
+116|<CLT=cltMIND>Eh, buraya kadarmış...
+117|<CLT=cltMIND>Yapamadım.\nBeyne ulaşamadım.
+118|<CLT=cltMIND>Özür dilerim...millet.
+119|<CLT=cltMIND>Özür dilerim...Rantaro.
+120|<CLT=cltMIND>Özür dilerim...Shuichi.
+121|<CLT=cltMIND>Bunca zaman sessiz kaldın çünkü çoktan\nfark etmiştin, değil mi?
+122|<CLT=cltMIND>Ama bunu yapamazsın.
+123|<CLT=cltMIND>Benim sonum olabilir ama <CLT=cltSTRONG>dileğimin<CLT=cltMIND>...
+124|<CLT=cltMIND>Onu sana veriyorum, Shuichi.
+125|<CLT=cltMIND>Bundan sonra benim dileğimi sen taşıyacaksın!\nHerkesi sen koruyacaksın!<CLT=cltNORMAL>
+126|<CLT=cltMIND>Kaede...benden ne istediğini biliyorum...
+127|<CLT=cltMIND>Bu çok acımasız...
+128|<CLT=cltMIND>Acımasız ama...
+130|<CLT=cltMIND>...Anlıyorum. Yapacağım.
+131|<CLT=cltMIND>Bana güvenebilirsin.
+132|<CLT=cltMIND><CLT=cltSTRONG>Dileğinin<CLT=cltMIND>...
+133|<CLT=cltMIND>...gerçekleşmeden kalmasına izin vermeyeceğim.<CLT=cltNORMAL>
+## c01_224_000
+0|...Suçlu Kaede.
+3|Kaede mi...yaptı?
+4|D-Dur, bu mümkün değil!\nDeğil mi, Kaede!?
+6|K-Kaede...?
+8|Dur... Gerçekten o mu—
+9|Pft...ahahahaha! Şaka şaka!
+10|Şaka mı?
+11|Ha? Gerçekten suçlunun ben olduğumu mu\ndüşündünüz?
+12|Pöh, hadi ama çocuklar! Sanki yapabilirmişim gibi!
+14|Rantaro öldürüldüğünde Shuichi'yle birlikte\nsınıftaydım, hatırladınız mı?
+15|Ondan sonra kütüphaneye gittik ve onun cesedini\nilk kez o zaman gördüm.
+16|Üstelik Rantaro'yla hiç buluşmadım.\nOnu öldürme fırsatım hiç olmadı.
+17|E-Evet... Kaede'nin suçlu olmasının imkânı yok...
+18|Tanrım, tabii ki değil! Sizce o gülleyi\nfırlatacak kadar güçlü müyüm ki?
+19|Ellerim ancak piyano çalmaya yetecek kadar güçlü!
+20|O zaman seni suçlu olmakla suçlamak...
+21|Evet, yanlış. Shuichi sadece şaka yapıyor.\nOrtamı biraz yumuşatmak istedi.
+23|Nasıl bakarsanız bakın, Rantaro'yu o gülleyle\nöldürmüş olamam.
+25|<CLT=cltMIND>Anlıyorum, Kaede...\nGerçeği ortaya çıkarmamı istiyorsun, değil mi?
+35|Hayır. Şaka yapmıyorum.\nRantaro'yu kesinlikle Kaede öldürdü.
+36|Ne dedin lan sen!?
+37|Görünüşe göre Shuichi gerçekten\nciddi.
+38|Tabii ki ciddiyim.
+40|O zaman neden bana söylemiyorsun?\nRantaro'yu o gülleyle nasıl öldürdüm?
+41|Evet, nasıl!? Sen ve Kaede bütün zaman\nboyunca birlikteydiniz, değil mi!?
+42|Kaede'nin Rantaro'yu gülleyle\nnasıl öldürdüğü...
+43|onu <CLT=cltSTRONG>nerede<CLT=cltNORMAL> kullandığını düşününce\nnetleşmeli.
+44|Gülleyi nerede kullandığı mı?
+45|Haaaa? Ne?\nKafam karıştı, millet.
+47|<CLT=cltMIND>Kaede gerçeği ortaya çıkarmamı istiyor.\nDileğini bana emanet ediyor...
+48|<CLT=cltMIND>O yüzden...geri adım atamam.
+49|<CLT=cltMIND>Onun dileğini yerine getirmeliyim!\nGerçek için savaşmalıyım!
+## c01_225_000
+0|Ha? Ama birlikte gözcülük yapmıyor muyduk?
+1|Gittiğin doğru, Shuichi, ama bu benim bir şey\nyapmam için yeterli zaman değildi.
+2|Gerçek başka bir yerde bulunabilir,\nkatılmıyor musun?
+3|<CLT=cltMIND>Kaede!\n<CLT=cltNORMAL>
+4|<CLT=cltMIND>Haklısın...artık geri dönemem.\nBunu onun için yapmalıyım!

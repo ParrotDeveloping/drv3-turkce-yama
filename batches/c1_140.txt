@@ -1,0 +1,56 @@
+@ chap1_text_US
+## c01_708_001
+48|Verdiğin bilgilerle sana daha iyi hizmet\nsunabilirim.
+49|Ne!? Bütün bunları benim için mi yapacaksın?
+50|Sadece senin için değil, diğer herkes\niçin de.
+51|Burada işimiz bitince bu soruları diğerlerine\nde sormayı düşünüyorum.
+52|<CLT=cltMIND>Ah, benimle bu yüzden konuşmak istemiş...
+53|Herhangi bir sebeple memnun değilsen lütfen\nbeni çağır, her isteğini yerine getiririm.
+54|T-Tamam, teşekkürler.
+55|<CLT=cltMIND>Kirumi insanlarla ilgilenmeyi gerçekten seviyor...
+56|<CLT=cltSYSTEM>Kirumi'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+57|<CLT=cltMIND>Kirumi'den ayrıldıktan sonra odama\ndöndüm.
+## c01_708_002
+0|Kirumi, sana bir şey söylemem lazım.
+1|Bir istek mi?
+2|Resmî nezaket sözlerine gerek yok.\nSadece isteğini söyle.
+3|İşte! İşte tam bu, Kirumi! Bu hem en iyi\nhem de en kötü özelliğin!
+4|Efendim...?
+5|İnsanları fazla şımartıyorsun!
+6|Ve bu yüzden herkes sana fazla bağımlı\nhâle geliyor!
+7|Benim için sorun değil. Başkalarına hizmet\netmek her hizmetçinin gerçek arzusudur.
+8|Hmm, demek istediğim bu değil! Başkalarına\nhizmet etmeye tutkun olduğunu anlıyorum...
+9|Ama böyle giderse herkes sana "anne" demeye\nbaşlayacak. Bunu mu istiyorsun?
+11|Bana öyle deme. Ben de sizin gibi bir lise\nöğrencisiyim.
+12|Gördün mü? Öyle denmesinden hoşlanmıyorsun, değil mi?
+13|Kaede, bence bir hizmetkârın rolünü yanlış\nanlıyorsun.
+14|Bir hizmetkâr görevlerini yerine getirirken\nefendisine bir insan olarak da saygı duyar.
+15|Bir hizmetkâr kimseyi "şımartmaz".
+16|<CLT=cltMIND>Hmmm... Öyle diyebilirsin ama ben hâlâ\nonları şımarttığını düşünüyorum.
+17|Şey, Kirumi, düşünüyordum da...
+18|...belki hizmet etme arzunun ardındaki niyet\nbize ulaşmıyordur.
+19|Bununla...ne demek istiyorsun?
+20|Mesela bir piyano resitalinde...
+21|Ne kadar içtenlikle çalarsam çalayım beni sadece\ndinlemeyi önemseyenler duyar.
+22|Anlıyorum. Talihsiz ama seyircilerden\nilgilenmeyenler için...
+23|<CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>'in bir performansı\nkulak tırmalayan bir gürültü gibi gelebilir.
+24|Evet, hep o insanların müziği daha çok takdir\netmeye başlamasını umarım...
+25|...Dur, demek istediğim bu değil!
+26|Demek istediğim şu, başkalarına en iyi niyetlerle\nhizmet ettiğine inanıyor olabilirsin...
+27|Ama bu, hizmet ettiklerinin yardımını takdir\nedeceği anlamına gelmez.
+29|Kendi ihtiyaçlarını düşünmediğin için sadece\nonları şımartıyormuşsun gibi görünür.
+30|Gerçekten öyle mi düşünüyorsun?
+31|Evet! Ve olmak istediğin hizmetçi bu\ndeğil, değil mi?
+32|...Hayır. Haklısın.
+33|<CLT=cltSTRONG>Özverili bağlılık<CLT=cltNORMAL> ilkemin peşinden giderken...\nkendi tatminimi de düşünmeliyim.
+34|Senin sayende ilkelerimi yeniden gözden\ngeçirebildim. ...Teşekkürler.
+35|Lafı bile olmaz.
+36|<CLT=cltMIND>Fazla burnumu soktuğumu düşünmüştüm ama...\nsonunda Kirumi'ye yardım ettiğime sevindim.
+37|<CLT=cltSYSTEM>Kirumi'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+38|<CLT=cltMIND>Kirumi'den ayrıldıktan sonra odama\ndöndüm.
+## c01_708_050
+0|Devlet onaylı <CLT=cltSTRONG>Ultimate<CLT=typeNORMAL>'ler şimdi kendilerini\nbirbirlerini öldürmeye zorlanmış buluyor...
+1|Belki...bu bir terör eylemidir.
+5|<CLT=cltMIND>Kirumi'yle vakit geçireyim mi?
+6|...Ama Monokuma'nın herhangi bir siyasi\ngündemi olduğunu hayal edemiyorum.
+7|Belki bunu gereğinden fazla kafama\ntakıyorum. Sakinleşmeliyim.

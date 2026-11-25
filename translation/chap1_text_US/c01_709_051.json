@@ -1,0 +1,42 @@
+[
+ {
+  "id": 0,
+  "en": "Nyeeeh...? Do you want some of my\nmagic powder to cheer you up?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I spend time with Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Sorry, but I'm out of magic powder right now.\nInstead, I'll hit you with a magic hammer.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I spent some time chatting with Himiko, after\nI politely declined the magic hammer.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Himiko and I grew a little closer today.",
+  "tr": ""
+ }
+]

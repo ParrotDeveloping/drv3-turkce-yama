@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_232_000
+60|Hayır, bir şey hâlâ uymuyor.
+61|Hm? Ne uymuyor?
+62|Kaede...öyle bir şey yapmaz.
+64|O tip biri olmadığını mı söylüyorsun? Ama\nonun yaptığını söyleyen sendin, değil mi?
+65|Evet, öyle dedim. Ama soğukkanlılıkla\nöldürmek onun karakterinde yok...
+66|Buna gerçekten inanıyorum!\nOna inanıyorum!
+67|Ama...neden?
+68|Neden hâlâ bana inanıyorsun, Shuichi?
+69|Neden?
+70|Söyle bana neden!
+71|Bunu neden yapıyorsun!?\nHâlâ gerçeğe sırtını mı dönüyorsun!?
+72|Hiç de değil. Sana olan inancım...
+73|beni gerçeğe götürecek!\nBütün bunların ardında ne olduğunu göstereceğim!
+74|Sana <CLT=cltSTRONG>senin gerçeğini<CLT=cltNORMAL> göstereceğim!
+## c01_234_000
+0|Monokuma tarafından ikna edilmedin...\nKendini kurtarmaya da çalışmıyordun...
+1|Yapmaya çalıştığın şey...\n<CLT=cltSTRONG>beyni öldürmekti<CLT=cltNORMAL>!
+2|Beyni...öldürmek mi?
+3|Kaede'nin hedefi Rantaro değildi.\nHedefi beyindi.
+4|Bu ölüm oyununu bitirmeye çalışıyordu...\nHepimizi kurtarmaya çalışıyordu.
+5|...Değil mi, Kaede?
+7|Anlıyorum! Yoksa süre sınırı dolduğunda\nherkes ölecekti...
+8|Yani...beyni öldürerek ölüm oyununu\nbitirmeye mi çalıştı?
+9|...Ama hepsi benim suçum.
+10|Kaede dedektiflik yeteneklerime güvendi.\nOna beynin orada olabileceğini söyledim...
+11|Ve bu yüzden o tuzağı kurdu.
+12|Hepsi benim suçum. Dedektifliğime güvendi,\nben de bunu berbat ettim!
+13|Dur... Bu doğru değil...
+14|Lütfen, senin suçun olduğunu söyleme...
+15|Benim için daha zor olur...
+16|Bunların hiçbiri senin suçun değil! Benim!
+17|Her şey benim suçum!
+20|Shuichi, senden benim için son bir\niyilik isteyebilir miyim?
+21|Bütün bunları...bitirebilir misin?
+23|Olan her şeyi ortaya çıkarıp herkesi\nikna etmeni istiyorum...
+24|Sonra da...bunu bitirmeni istiyorum.
+25|Bu...son dileğim.
+27|...Anlıyorum.\nBütün bunları bitireceğim.
+28|Her şeyi ortaya çıkaracağım!\n<CLT=cltSTRONG>Gerçeği de yalanları da<CLT=cltNORMAL>!
+## c01_235_000
+0|Her şey iki gün önce, Monokuma bize\n<CLT=cltSTRONG>ek motivasyonu<CLT=cltNORMAL> verdiğinde başladı.
+1|Bu ölüm oyununa eklenen süre sınırı\nsuçu tetikledi.
+2|Anonstan sonra bazılarımız bir sonraki\nhamlemizi planlamak için gruplar kurmaya karar verdi.
+3|<CLT=cltSTRONG>Beyni<CLT=cltNORMAL> bulmak için kendi planım vardı\nve <CLT=cltSTRONG>biri<CLT=cltNORMAL> bana yardım etmeyi teklif etti...
+4|O sırada <CLT=cltSTRONG>suçlu<CLT=cltNORMAL> olacaklarını asla hayal\nedemezdim.
+5|Beyni ifşa etmek için suçluyla ben\n<CLT=cltSTRONG>kütüphaneye<CLT=cltNORMAL> <CLT=cltSTRONG>gizli kameralar<CLT=cltNORMAL> kurduk.
+6|Kütüphanede kullanıldığına dair izler\ntaşıyan bir <CLT=cltSTRONG>gizli kapı<CLT=cltNORMAL> vardı.
+7|Beynin Monokuma'yı dışarı çıkarmak için\noraya döneceği sonucuna vardık.
+8|Ertesi gün <CLT=cltSTRONG>Miu<CLT=cltNORMAL>'ya tuzağımız için bazı\nkameraları değiştirip değiştiremeyeceğini sorduk.
+9|Sonra gerekli malzemeleri toplamak için\n<CLT=cltSTRONG>depoya<CLT=cltNORMAL> gittik.
+10|Tek ihtiyacımız <CLT=cltSTRONG>tek kullanımlık kameralar<CLT=cltNORMAL>\nve bir <CLT=cltSTRONG>güvenlik sensörüydü<CLT=cltNORMAL>.
+11|Ama suçlu orada başka bir şey buldu—\n<CLT=cltSTRONG>cinayet silahını<CLT=cltNORMAL>.
+12|Doğru. <CLT=cltSTRONG>Gülleyi<CLT=cltNORMAL>.
+13|Kameraları da gülleyi de sırt çantasına\nkoydu.
+14|Sonra süre sınırının dolacağı gün,\ncinayet günü...
+15|suçluyla ben değiştirilmiş kameraları\nMiu'dan alıp kütüphaneye gittik.

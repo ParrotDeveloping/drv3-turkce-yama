@@ -1,0 +1,80 @@
+@ game_resident_US
+## S-SaveLoad
+1|Monocoin
+2|Numara
+3|Oynama süresi
+4|Yeni kayıt
+13|Kayıt verisi yükleniyor. Emin misin?
+14|Yüklenmiş verinin üzerine yazılacak.\nEmin misin?
+15|Veri yüklendi.
+16|Yüklenen veri indiriliyor. Emin misin?
+17|İndirme sırasında veri güncellendi.\nİndirme iptal edildi.
+18|Demo kayıt verisi yok.
+19|Demo kayıt verisi yükleniyor...
+34|Kaydet
+35|Yükle
+36|<PAD=【□】> Tarih gösterimini değiştir
+38|Boş Yuva <DIG=●>
+39|Güncellendi
+40|Ayrıntılar
+41|Monocoin <DIG=●>
+42|Oynama süresi <DIG=●>:<DIG=●>:<DIG=●>
+43|Bu yuvaya kaydetmek ister misin?
+44|Bu yuvadaki kayıt verisini yüklemek ister misin?
+45|Bu yuvadaki kayıt verisinin üzerine yazmak ister misin?
+100|Bu oyun için kayıt verisi yok.\nYeni kayıt verisi oluşturulsun mu?
+101|Kayıt almadan oynansın mı?\n"Evet"i seçersen bu noktadan sonra\nkayıt alamayacaksın.
+102|Kayıt verisi başarıyla oluşturuldu.
+103|Kayıt verisi oluşturulamadı.
+104|Kayıt verisi başarıyla yüklendi.
+105|Kayıt verisi yüklenemedi.
+106|Kayıt verisi zaten var.\nÜzerine yazılsın mı?
+107|Kayıt verisi silinip\ntekrar oynama verisi kaydedilsin mi?
+108|Yüklenen kayıt verisi başka bir kullanıcıya ait, \no yüzden kullanılamaz. \nOyun baştan başlatılıyor.
+109|Bozuk kayıt verisi silinip\nyenisi oluşturulsun mu?
+200|Kayıt verisi bozuk ve yüklenemiyor.
+201|Diskte yeterli boş alan yok. Oyunu oynamak\niçin en az <DIG=●> KB boş alan gerekiyor.\nOyundan çık ve gerekli alanı aç.
+202|Tekrar oynama verisi kaydedilsin mi?
+205|Kaydetmek istiyor musun?
+206|Kalan veriler indirilip kuruluyor.\nDevam etmek için kurulum bitince veriyi yükle.
+207|Özel ödülü almak için\nkaydetmen gerekiyor.
+208|Ana ekrana dönülüyor...
+209|Demo sürümü bitirme verisi kaydedilmedi.\nKaydetmek ister misin?
+## I-Button
+0|<PAD=【○】>Onayla
+1|<PAD=【×】>Geri
+2|<PAD=【Ｒ上下】>Kaydır
+3|<PAD=【△】>Sekme değiştir
+4|<PAD=【□】>Oynatmayı değiştir
+5|<PAD=【□】>Ayrıntılar
+6|<PAD=【○】>İleri
+7|<PAD=【○】>BAHİS
+8|<PAD=【△】>MAKS BAHİS
+9|<PAD=【△】>Başla
+10|<PAD=【□】>Ayrıntılar
+11|Soruyu Göster
+12|Soruyu Gizle
+13|<PAD=【Ｌ１】【Ｒ１】>Sayfa çevir
+14|<PAD=【Ｌ←回】>Sol kadran
+15|<PAD=【Ｒ→回】>Sağ kadran
+16|<PAD=【△】>Aç
+17|<PAD=【Ｌ１】> <PAD=【Ｒ１】>BAHİS×10
+18|<PAD=【Ｐ上下】>BAHİS
+19|<PAD=【Ｐ上下】>BAHİS   <PAD=【Ｌ１】> <PAD=【Ｒ１】>BAHİS×10   <PAD=【△】>MAKS BAHİS
+## H-Result
+0|Puan
+1|Kalan Süre
+2|Mantık Zorluğu
+3|Aksiyon Zorluğu
+6|Nazik
+7|Acımasız
+8|Normal
+100|Durmaksızın Tartışma
+101|Çürütme Düellosu GERÇEK KILICI
+102|Psişik Taksi
+103|Cellat Kumarı ver 3.0
+104|Zihin Mayını
+105|Argüman Silahlanması
+106|Tartışma Arbedesi
+107|Kapanış Argümanı
+108|Toplu Panik Tartışması

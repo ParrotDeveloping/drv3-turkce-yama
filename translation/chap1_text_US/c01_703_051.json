@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Oh, sorry. \nI was just...thinking about something.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Should I spend time with Rantaro?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "You wanna go to the library?\nI feel like reading.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time in the library reading\nbooks with Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Rantaro and I grew a little closer today.",
+  "tr": ""
+ }
+]

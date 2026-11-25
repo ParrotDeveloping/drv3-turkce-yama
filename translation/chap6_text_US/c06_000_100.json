@@ -1,0 +1,102 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Shuichi Saihara's Room",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Kaito Momota's Room",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Ryoma Hoshi's Room",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Rantaro Amami's Room",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Gonta Gokuhara's Room",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Kokichi Oma's Room",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Korekiyo Shinguji's Room",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "K1-B0's Room",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Kirumi Tojo's Room",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Himiko Yumeno's Room",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Maki Harukawa's Room",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Tenko Chabashira's Room",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Tsumugi Shirogane's Room",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Angie Yonaga's Room",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Miu Iruma's Room",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Kaede Akamatsu's Room",
+  "tr": ""
+ }
+]

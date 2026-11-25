@@ -1,0 +1,53 @@
+@ chap1_text_US
+## c01_102_026
+55|İşte o zaman sizi gördük...
+56|Seni, Gonta'yı, Maki'yi, Tenko'yu, Angie'yi,\nHimiko'yu...ve Rantaro'yu.
+57|Şimdi düşünüyorum da...ekranlar ondan hemen\nönce çalmaya başlamıştı.
+58|O ürkütücü müzik strateji toplantısına devam\netmeyi zorlaştırdı.
+59|Şimdiye kadar söylediklerini doğrulamak istiyorum...
+60|Herkes bu toplantı için Oyun Odası'na gitti ve\nkimse kütüphaneye gitmedi, değil mi?
+61|Evet, doğrudan Oyun Odası'na gittik.\nAma içeri girdikten hemen sonra...
+62|Gonta Görsel-İşitsel Oda'ya girdi ve \nçıkmadı.
+63|Evet, Maki bundan bahsetti.
+64|Ondan sonra toplantı sırasında Rantaro \ntuvalete gitmek için çıktı.
+65|Ama toplantının durması kötü olur diye \nTenko'yla onu geri getirmeye gittik.
+66|Ve işte o zaman sizinle karşılaştık.
+67|Biz de güvenlik sensörü alıcısı çaldığı için\nbodruma inmiştik.
+68|Ve tam kütüphane kapısını açmak üzereyken\nsiz bize seslendiniz.
+69|Yani sen ve Tenko Oyun Odası'ndan çıktıktan\nsonra Himiko ve Maki hâlâ oradaydı, değil mi?
+70|Evet, bunu garanti edebilirim.
+71|Ancak Gonta'nın bütün zaman boyunca burada \nolduğunu garanti edemem.
+72|Anlıyorum...yani Gonta'nın mazeretini henüz doğrulayamıyoruz.
+73|Kütüphanenin arka girişi koridorun sonunda,\ndoğru mu? Orada kimseyi gördün mü?
+74|Şey...iyice bakmadım ama orada biri olsa \nfark ederdim eminim.
+76|Sonra sizinle kütüphanenin kapısını açtım...\nve Rantaro'nun cesedini bulduk.
+77|Aşağı yukarı böyle oldu.
+78|Hm... Gerçi yeni bir bilgi\nöğrenemedik.
+79|Yani hâlâ şüpheden kurtulmadım, ha?
+80|Ah, merak etme...pek olası bir şüpheli değilsin...
+81|Hey, bu bir dedektifin söyleyeceği bir \nşey değil!
+83|Benden şüpheleniyorsan sonuna kadar \ngit. Tatmin olana kadar soruştur.
+84|Bunu yapmazsan gerçeğe asla ulaşamazsın.\nRantaro boşuna ölmüş olur.
+85|İşte burası <CLT=cltSTRONG>Ultimate<CLT=typeNORMAL> yeteneğini \nparlatman gereken yer!
+87|<CLT=cltMIND>Shuichi...
+88|N-Neyse, bir şey fark edersen ya da\nhatırlarsan bize söyle!
+89|Eh, hepsini size bırakmayı düşünmüyorum.\nKendi yöntemimle soruşturacağım!
+90|Hepsini size bırakmayı düşünmüyorum. \nKendi yöntemimle soruşturacağım!
+91|İkimizden biri bir şey bulursa diğerine \nhaber verecek, anlaştık mı!?
+92|Gonta savaş ruhuyla dolmak için böcek filmi\nizliyordu. Gonta Monokuma'yla savaşabilsin diye.
+93|Ama Gonta savaş ruhuyla dolmak için odaklanmalı...\nO yüzden Gonta kapıyı kilitledi.
+94|Bu yalan gibi geliyor... Doğruyu söylemezsen\nkıyafetlerini büyüyle uçururum.
+95|Neee!? Gonta herkesin önünde çıplak kalırsa\nGonta asla centilmen olamaz!
+96|Himiko, sus! Saçma şeyler söylemeyi kes!
+97|Gonta sadece herkesi korumak istiyor! Gerçekten!
+98|Neden...kimse Gonta'ya inanmıyor!?\nGonta kendini çok...acınası hissediyor!
+99|Gonta savaş ruhuyla dolmak için böcek filmi\nizliyordu. Gonta Monokuma'yla savaşabilsin diye.
+100|Ama Gonta savaş ruhuyla dolmak için odaklanmalı...\nO yüzden Gonta kapıyı kilitledi.
+101|Gonta kimseyi öldürmedi! Gerçekten!
+102|Neden...kimse Gonta'ya inanmıyor!?\nGonta kendini çok...acınası hissediyor!
+103|Suçlu kesinlikle Gonta. Nereden bakarsan \nbak şüpheli.
+104|Hayır, buna karar vermek için henüz çok erken.\nDüşünülmesi gereken bir sürü şey var...
+105|Nyeeeh...öyle mi?
+106|Yine de kesinlikle Gonta. Nereden bakarsan \nbak şüpheli.
+107|Şey...hayır. Karar vermeden önce neden\nsoruşturmaya yardım etmiyorsun, Himiko?
+108|Soruşturma yapmak zahmetli... Gonta nereden \nbakarsan bak şüpheli...

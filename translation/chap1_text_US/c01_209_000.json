@@ -1,0 +1,627 @@
+[
+ {
+  "id": 0,
+  "en": "It's not possible to use the sliding door.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "You sayin' I'm wrong!? You got a\nlotta ass to be contradictin' me!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "...Did you mean to say \"sass\"?\nI, um...think you left out an \"s\"...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "The sliding door <CLT=cltSTRONG>always jams<CLT=cltNORMAL>.\nYou're only able to open it a crack.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "The only part of your body that would be\nable to go through is your arm!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "And there was no indication of the door\nbeing forced. There was dust on the track.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "In other words, the chance they\ncame out the sliding door is zero.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I-I see... So I made a mistake...\nHow rare...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "It's not that rare for you to make a mistake.\nYour entire existence is a mistake.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Y-You vicious little...!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "If Gonta couldn't use the sliding door,\nthen in order to get to the library...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "He'd have to go through the Game Room.\nBut I didn't see him at all.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "See? Gonta tell you he not culprit!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "No, we cannot confirm that just yet.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...Eh?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "My apologies, Gonta. I do not mean to put \nyou on the spot like this, but...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Because I promised to do my best,\nI will fulfill that responsibility.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "A-Are you saying Gonta could still be\nthe culprit?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "There is the possibility that Gonta killed \nRantaro from the A/V Room.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "From the A/V Room? How...?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Oh-ho! I didn't know that was a possibility.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Not only could he have killed Rantaro from\nthe A/V Room, but also...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "...he would not appear in any of the pictures\nfrom the cameras placed in the library.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Whoa, perfect!\nBut wait, then how did Gonta kill him?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Well...it's obvious to *this* glamorous girl\ngenius, but maybe explain for these dimwits?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "First, I will explain the layouts of both\nthe A/V Room and the library.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "The sliding door in the A/V Room faces\nthe rear door of the library.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Because of this, it is possible for Gonta to\nhave killed Rantaro while he was in the A/V Room.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Ummm... But how, though?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "In order for the murder to take place, the \nrear door of the library must be opened.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Ah, wait a sec... \nIsn't that impossible?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "The A/V Room's sliding door doesn't open, \nso you can't get into the hallway.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "If you cannot enter the hallway, how would\nyou open the rear door to the library?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Although you cannot fit your whole body \nthrough the sliding door, <CLT=cltSTRONG>an arm<CLT=cltNORMAL> would suffice.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "It would be possible if you used a\n<CLT=cltSTRONG>particular item<CLT=cltNORMAL> in the A/V Room.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>A particular item in the A/V room...?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Ummm... Do you mean...that one thing?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "I don't understand what you're referring to.\nPlease state your opinion more clearly.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "If an arm could fit...then surely something\nlonger and slimmer could fit too, yes?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Is it the speaker? Maybe they used sound\nsomehow...?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "That...seems impossible...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "But with a thin rod, you could reach through\nthe sliding door to open the rear door.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Was something that convenient readily\navailable, though...?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "The projector, maybe? They somehow\nused the image it projected...?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "That...seems impossible...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "But with a thin rod, you could reach through\nthe sliding door to open the rear door.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Was something that convenient readily\navailable, though...?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Ummm... Maybe you could use a monitor\nto, uh...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "That would be impossible, as the monitors\nare permanent fixtures.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "If an arm could fit...then surely something\nlonger and slimmer could fit too, yes?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Well, Gonta's strong enough to carry a\nsofa, so...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Do you honestly think a sofa could fit through\nthe opening?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "It would be possible to open the door if\nthe item in question was slimmer.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Maybe Gonta forced open the sliding door\nwith his brute strength?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "No... There's no evidence the\ndoor was opened completely.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "But...that doesn't mean it didn't open\nat all. Something thin may have fit.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I think Kirumi is talking about\nsomething from the A/V Room...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "How about using the stereo?\nHe could've used it like, ummm...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "That...seems impossible...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "But with a thin rod, you could reach through\nthe sliding door to open the rear door.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Was something that convenient readily\navailable, though...?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "What if you somehow connect the posters\nto make a pole that would reach the door?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "That would be wide and long enough...\nBut it would not be durable enough.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "There is a far superior alternative\nin that room, though...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "I see... I was thinking along those\nlines, but Kirumi has a point...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Kaede, do you remember what caught\nour attention during the investigation?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Is it the speaker? Maybe they used sound\nsomehow...?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "That...seems impossible...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "But with a thin rod, you could reach through\nthe sliding door to open the rear door.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Was something that convenient readily\navailable, though...?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Ummm...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Do you have something you wish to say?\nIf so, please say it with clarity.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "What item could have been used to open\nthe rear entrance to the library?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Is it...the <CLT=cltSTRONG>projector screen<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "That is correct. You can make a long pole\nif you roll up the screen.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "It would be possible to reach the library \ndoor with it.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "If you use the rolled-up screen to reach the \nlibrary's rear door...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "...then you can open it.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "The screen itself is quite heavy, but...that\nwould not have been a problem for Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Yeah... No problem for Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Oh my... How honest.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "But if you opened the library door, \nthe camera would take your picture.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "A-Actually, the camera wouldn't be triggered\njust by opening the door.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Shuichi and Kaede's pictures were\nlike that as well.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "The shutter only went off once someone\nset foot into the room.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Okay, so it was possible to open the \nlibrary door, but where does that get us?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Gonta still couldn't have gotten from\nthe A/V Room to the library.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Gonta did not enter the library. He killed\nRantaro while he was still in the A/V Room.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>If Gonta killed Rantaro in the library\nwhile he was still in the A/V Room, then...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "So does that mean...Gonta <CLT=cltSTRONG>threw<CLT=cltNORMAL> the \nshot put ball?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Wait! Wait, I say! Why would anyone do\nsomething so crazy like throw a—",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "...Wait, that's actually not crazy at all!\nThrowing a shot put ball is totally normal!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Yes, the act of <CLT=cltSTRONG>throwing<CLT=cltNORMAL> a shot put ball\ncould lead one to use it as a weapon.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Even if a person couldn't fit through the\nspace, a shot put ball certainly would.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Rantaro's body was across from the A/V Room's\nsliding door, as well.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "As long as the rear door of the library was\nopen, he would have been able to hit the victim.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "That's quite the distance, though.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "And that shot put ball was pretty heavy...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Did you forget already? Gonta easily picked up\nthe heavy manhole cover.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "It would definitely be feasible for him\nto <CLT=cltSTRONG>throw<CLT=cltNORMAL> a shot put ball at his target.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Yup! A walking, talking Roomba can't compare \nto a mighty beast like Gonta!",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "That Roomba remark...is probably not about\nme, as I have a variety of custodial functions.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Well, Gonta!? Can you throw a shot put \nball from that distance!?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Yes, probably...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "You're too honest, Gonta.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Nyahahaha! You're so cool, Gonta.\nYou could be the Ultimate Shot Putter.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Well, I've heard enough.\nGonta's the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Wait! Gonta never hurt anyone!\nNot even insect!",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Gonta telling truth!\nGentlemen never tell lies!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Well...there you have it.\nWhat do you guys think?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "I would like to believe him...\nbut without evidence, we cannot.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>If everyone is wrong, we'll never find\nthe mastermind!",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>I can't let that happen!",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>I need to do my best to guide everyone\nto the right answer!",
+  "tr": ""
+ }
+]

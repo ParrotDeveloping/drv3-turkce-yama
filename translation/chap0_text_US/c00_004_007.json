@@ -1,0 +1,652 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Panikle kapıya doğru atıldığımızda\ngördüğümüz şey...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>...hiç beklemediğimiz bir şeydi.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Ohhh... Daha fazla insan geldi.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Ha?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Siz de mi o canavar tarafından\nkovalandınız!?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "A-Ah, evet...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Onlar...ne? \nBizden ne istiyorlar?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Neler olduğuna bir bakmamı ister misin?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Olmaz! Dışarısı çok tehlikeli!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "O canavar büyük ihtimalle \nhala yakınlarda dolaşıyordur...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "D-Durun!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Avazım çıktığı kadar bağırdım.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Siz de kimsiniz...?\nVe ben neden buradayım—",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Böylece 16 olduk.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Ne?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Bizden bahsediyorum.\nBurada 16 kişiyiz—hepimiz liseliyiz.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Sence bu ne anlama geliyor?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>16...liseli mi...?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Ah, doğru. Soruna cevap vermedim.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Sana adımı söyleyebilirim.\n<CLT=cltSTRONG>Rantaro Amami<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Şimdilik bu kadarı yeter.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Ha? Şey...tamam.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Neyse, 16 kişi olmamızın ne önemi var?\nDaha fazlası da gelebilir.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Yok, bence hepimiz bu kadarız.\n<CLT=cltSTRONG>Eğer düşündüğüm şeyse<CLT=cltNORMAL> tabii.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...Düşündüğün şeyse mi?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Ne o, her şeyi bilen ukalanın teki misin?\nBir şey biliyorsan söylesene lan!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>İşte tam o anda... Spor salonunda birden\ntanımadığımız bir ses yankılandı.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Pekiiii, herkes sussun!\nSakil olun, sakil olun!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Hayır, hayır, hayır. \"<CLT=cltSTRONG>Sakin olun<CLT=cltNORMAL>\" olacak.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Ha? Kim o? Neredeler?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Kyahahahahaha! \nAyı-cık sabrettiğiniz için teşekkürler!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "AAAAAAHHHH!",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Kahretsin! Daha fazla canavar var!\nEtrafımız sarıldı!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Bunlar canavar değil.\nBunlar <CLT=cltSTRONG>Exisal<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltSTRONG>Yüksek hareket kabiliyetli, iki ayaklı\nsilah platformları<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Silah mı!?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Birini geberterek bunları bir\ndeneyelim mi ha!?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Gyaaaahhh!!! Bir dakika!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Sıradan, işe yaramaz ayak takımıyla\nuğraşmak hiç eğlenceli olmaz!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Haklısın. En azından sizi öldürmek için\nilginç bir yol düşünmeliyiz.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Belki seni alıp bağırsakların diş macunu\ngibi fışkırana kadar sıkarım!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "L-Lütfen! Diş macunu gibi olmasın!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Iyy... Gözümün önüne geldi.\nKanlı şeylere dayanamam.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "O zaman...kollarını bacaklarını dil peyniri\ngibi tek tek soysak?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Lütfen, dil peyniri gibi de olmasın!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Durun! Onları Exisal'larla öldüremeyiz.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Programa göre Exisal'ların daha sonra\nortaya çıkması gerekiyordu!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Ama...şu an Exisal'ların içindeyiz.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Ah! Doğru ya!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Çuvalladık. İlk sahnemizde Exisal'ların\niçinde olmamamız gerekiyordu.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Ben size senaryoyu okuyalım demiştim!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "...Hayır, demedin.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Şey...bu robotlardan çıksak mı? Bunun\niçin henüz çok geç sayılmaz.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "E-Evet! Hadi öyle yapalım!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Tamam, hazııııır!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>...Ha?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Gördünüz mü? Exisal'lardan çıktık.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Artık korkutucu değiliz, değil mi?\nDeğil mi? Değil mi!?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Bu çaresizliği tuhaf bir şekilde ürkütücü...!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Kendinizi hazırlayın ezikler!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "O ise düpedüz ürkütücü!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Ben cehennemin derinliklerinden gelen bir\ncehennem elçisiyim, sizi cehenneme sürükleyeceğim!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Hayır, hayır, Monokid. Çok fazla \"cehennem\"\ndiyorsun. Cehennemi etkiyi mahvediyorsun!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Ha? Cehennemi ne demek?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "H-Hey...bu pelüş hayvanların nesi var?\nNasıl hareket ediyorlar?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "H-Hiçbir fikrim yok.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Hareket eden pelüş hayvanlar...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Üstelik kendilerine \"<CLT=cltSTRONG>Monoyavrular<CLT=cltNORMAL>\"\ndiyorlar gibi görünüyor.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Hareket eden pelüş hayvanlar mı?\nMonoyavrular mı?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Durun! Siz kendinize...Monoyavrular mı diyorsunuz?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Ah... Monodam'a sormaya zahmet etme.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Sadece yakın arkadaşlarıyla konuşur. Yıllarca\nçektiği eziyet kalbini epey yıpratmış.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Öyle değil mi, Monodam?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "M-Monodam! Kalbini bana bile...\naçmayacak mısın!?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Görünüşe göre haklıymışım.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Bu tam olarak <CLT=cltSTRONG>düşündüğüm şey<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Ama bütün bunların arkasında kim var?\nBu saçma tiyatro da neyin—",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Gahhh! Kes sesini! Hepiniz buna fazlasıyla\nnormal tepki veriyorsunuz! Çok sıkıcı!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Aslında...kıyafetleri de biraz sıkıcı\ndurmuyor mu?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Bir dakika... Sence onlara henüz <CLT=cltSTRONG>ilk\nhatıralarını<CLT=cltNORMAL> vermemiş olabilirler mi?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Ha? Bu uyanmadan önce olması\ngerekiyordu...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Hey, soruma cevap verin!\nEğer siz Monoyavrularsanız, o zaman—",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Hey! Siz de kimsiniz lan ezikler!?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Ha?",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Ne demek istiyorsun?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Sadece merak ediyoruz...sizin <CLT=cltSTRONG>Ultimate\nyetenekleriniz<CLT=cltNORMAL> falan var mı?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>Ultimate yetenekler mi...?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Benim...yok.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Kendimi adadığım bir becerim var...ama ona\n<CLT=cltSTRONG>Ultimate yetenek<CLT=cltNORMAL> demezdim...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "B-Benim de...\nB-Benim öyle bir şeyim...yok...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "E-Evet...bende de yok.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Biliyordum! Henüz <CLT=cltSTRONG>ilk\nhatıralarını<CLT=cltNORMAL> almamışlar!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Monophanie...bu iş senin sorumluluğunda değil miydi?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "zzzzz...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Uyuyor mu? Size çok yorgun gibi\ngörünmüş müydü?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Belli ki numara yapıyor.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "zzzzzzzzz...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Numara yapsa bile çok huzurlu görünüyor.\nUyandırmamak için fısıldayalım.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Hıh! Sen öyle diyorsan!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "N-Neyse...eğer siz gerçekten\nMonoyavrularsanız, o zaman—",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Bizi boş verin. Asıl mesele siz\npislik herifler.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Aslında \"mesele\" demek hafif kalır...\nBu gerçekten büyük bir sorun.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Hepiniz yeteneklerinizi unutup sıradan\nlise öğrencilerine dönüşmüşsünüz.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Ha? Unutmak mı?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Bakın, hikayeye göre şu an bir\n<CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> sürüyor.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltSTRONG>Ultimate Avı<CLT=cltNORMAL> yüzünden hepiniz hafızanızı\nkaybedip farklı insanlara dönüştünüz.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Şey...neden bahsediyorsunuz?",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Şu anki halinizle bu konuyu sizinle\nkonuşmanın pek bir anlamı yok.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Sizden ilk yapmanızı istediğimiz şey\n<CLT=cltSTRONG>gerçek benliklerinizi<CLT=cltNORMAL> hatırlamanız.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Evet! Hafızanızı geri kazanarak <CLT=cltSTRONG>mühürlü\nyeteneklerinizi<CLT=cltNORMAL> geri almalısınız!",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Ne—!? Uyandın mı bile?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Anlamıyorum... Bahsettiğiniz bu <CLT=cltSTRONG>mühürlü\nyetenekler<CLT=cltNORMAL> de ne?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Bu kadar lanet olası soru sorup durursanız\nnasıl konuşacağız!?",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Evet! Biz yeni bir müstakbel eski sevgili\nbulmuş hızlı adımlı bir şarkıcı değiliz!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Hadi artık başlayalım. Kimse bir sürü sızlanan\nsıradan liseliyi izlemek istemez.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Önce sizi tatlı ve şık gösterecek şekilde\ngardırobunuzu yenileyeceğiz!",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "H-Ha? N-Ne giyiyorum ben?",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Hı-hı! Harika görünüyor! Artık daha çok\n<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'lara benziyorsunuz.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'lar mı...? Gerçekten mi?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Sırada hepinizin beklediği o\n<CLT=cltSTRONG>hatıra<CLT=cltNORMAL> var.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Hah işte! Hazır olun! Mühür kırıldığında\n<CLT=cltSTRONG>ölüm oyununun diyarında<CLT=cltNORMAL> olacağız!",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "<CLT=cltMIND>Ö-Ölüm oyunu mu...?",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "Şimdi, <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL> sizin <CLT=cltSTRONG>muhteşem\nyeteneklerinizi<CLT=cltNORMAL> hatırlamanıza yardım edince...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Bu <CLT=cltSTRONG>muhteşem hikaye<CLT=cltNORMAL> bu sefer\ngerçekten başlayacak!",
+  "tr": ""
+ }
+]

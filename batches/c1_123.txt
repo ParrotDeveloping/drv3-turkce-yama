@@ -1,0 +1,56 @@
+@ chap1_text_US
+## c01_700_002
+27|Amcamın bürosunun büyük bir kadrosu yok,\no yüzden genelde usta bir evcil hayvan dedektifi önerir.
+28|<CLT=cltMIND>Evcil hayvan dedektifi diye bir şey olduğunu bilmiyordum...
+29|Hayır diyemedim, o yüzden davayı kabul ettim...\nama bir timsah bulmam gerekeceğini beklemiyordum.
+30|Timsah mı!? Köpek değil, kedi değil...\nkoca bir timsah mı!?
+31|Ah, şey, *minyatür* bir timsahtı.\nEvcil hayvan olarak beslenebilen türden.
+32|Tamam ama yine de...bu epey yoğun.
+33|Timsah davranışlarını araştırdım ve onu yakalamak\niçin aletler hazırlamaya uzun zaman harcadım...
+34|Dağlara tırmanmam ve nehirlerde yüzmem\ngerekti... Çok zahmetliydi.
+35|Bununla kıyaslayınca bir aldatma davasında\nkarşılaştığım ilk kavga hiçbir şeydi.
+36|Tanrım, kulağa zor geliyor... Peki timsahı\nbulmayı başardın mı?
+37|Evet, tabii ki.
+38|Ne rahatlama! Sınıf arkadaşın da mutlu\nolmuştur, değil mi?
+39|Ah, sanırım... O, şey...Sevgililer Günü'nde\nbana biraz çikolata verdi...
+40|Çikolata mı!?
+41|...Gerçi sadece arkadaşça olduğundan epey\neminim.
+42|Mesele bu değil! Bence bu yaşadığın onca\nzahmete değmez!
+43|Heh, haklı olabilirsin...\nAma bence yeterince ödüldü.
+44|Emin misin...?
+45|O davayı çözmek için gereken bilgi...\ndedektiflik çalışmamın temeli oldu.
+46|Ve...birinin işine yaradığım için çok mutluydum.\nOnun "teşekkür ederim"ini bugün hâlâ duyabiliyorum.
+47|<CLT=cltMIND>Shuichi utangaçça güldü. Her şeyin nasıl\nsonuçlandığından epey memnun görünüyor.
+48|Dedektifliğin sana yakıştığını söylerdim, Shuichi,\nama bence bundan daha fazlası...
+49|Bence sen dedektif olmaya yazgılıydın.
+50|...Bunu neden söylüyorsun?
+51|Müşterilerinle nasıl görüştüğünü\nanlattığında...
+52|Dedektiflerin böyle bir şefkat gösterebileceği\nbir kez bile aklıma gelmemişti.
+53|Şefkat insanların sana güvenmesini sağlar.\nElini uzatırsan onlar da tutar...
+54|Dünyanın senin gibi daha fazla dedektife ihtiyacı var.\nO yüzden...umarım sonsuza kadar dedektif kalırsın.
+56|Ah, ama bu sadece benim fikrim!\nSonuçta karar senin, Shuichi.
+57|Evet, tabii ki...\nAma teşekkürler, Kaede.
+58|N-Neden bana teşekkür ediyorsun?\nSadece fikrimi söyledim, o kadar.
+59|Çünkü...biri bana bunu ilk kez\nsöylüyor.
+60|Bu anı asla unutmayacağım. Kendime inanabilecek\nve dedektif olmaktan gurur duyabileceğim.
+61|<CLT=cltMIND>Bu sözün ardındaki kararlılığı\nhissedebiliyorum.
+62|<CLT=cltMIND>Shuichi sözlerimi nasıl yorumladı\nbilmiyorum...
+63|<CLT=cltMIND>Ama ona herhangi bir şekilde yardımcı olduysa\nbu benim için yeterli.
+## c01_700_050
+0|Bu arada...
+1|Buralarda bir sürü tuhaf şey var.\nBelki daha fazla araştırmalıyız?
+5|<CLT=cltMIND>Shuichi'yle vakit geçireyim mi?
+6|Sadece çok merak ediyorum... Orada boşuna\nolduklarını sanmıyorum.
+7|Bana gerçekten yardımcı olabilirsin, Kaede.\nFarklı bir bakış açısı duymak isterim.
+8|<CLT=cltMIND>Shuichi'yle okulda araştırma yaparak\nbiraz vakit geçirdim...
+9|<CLT=cltMIND>Shuichi'yle bugün biraz daha yakınlaştık.
+## c01_700_051
+0|Süre sınırı iki gün sonra gece.\nAçıkçası...bence çok çabuk gelecek.
+4|<CLT=cltMIND>Shuichi'yle vakit geçireyim mi?
+5|Evet, bu gerçekten yardımcı olur...\nTek başıma her şeyi fazla düşünecekmişim gibi...
+6|<CLT=cltMIND>Shuichi'yle konuşarak biraz vakit geçirdim...
+7|<CLT=cltMIND>Shuichi'yle bugün biraz daha yakınlaştık.
+## c01_700_052
+0|Miu...nasıl desem...?\nKarmaşık biri.
+1|Benimle olman gerçekten çok yardımcı oldu, Kaede.
+5|<CLT=cltMIND>Shuichi'yle vakit geçireyim mi?

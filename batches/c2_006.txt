@@ -1,0 +1,66 @@
+@ chap2_text_US
+## c02_001_101
+46|Ah, doğru... Sana söyleyecektim...
+47|D-Dün için özür dilerim...\nBilirsin, sana...öyle yumruk attığım için.
+48|Ha? Ah, o... Sorun değil.
+49|A-Anlıyorum... O zaman gidelim.
+50|Diğerleri bekliyor, o yüzden\nyemekhaneye gidelim.
+51|<CLT=cltMIND>Kaito...neden burada?\nŞimdilik ne istediğini sorayım.
+52|<CLT=cltMIND>Kaito...neden burada?\nŞimdilik ne istediğini sorayım.
+57|<CLT=cltMIND>Kaito...neden burada?\nŞimdilik ne istediğini sorayım.
+60|<CLT=cltMIND>Normal bir yatak.\nEpey rahattı.
+61|<CLT=cltMIND>Epey büyük bir lamba.\nVe epey parlak da...
+62|<CLT=cltMIND>Dolabım benimkinin aynısı olan\nüniformalarla dolu...
+63|<CLT=cltMIND>Bütün bunları sadece bir ölüm oyunu için mi\nyaptılar? Amaçları ne...?
+## c02_002_001
+0|Ha? Tuvalete mi gitmen lazım?
+1|Eh, neyse. Burada bekleyeceğim,\no yüzden çabuk ol.
+2|H-Hey! Nereye gittiğini sanıyorsun, dostum!?
+3|Tanrım...hâlâ mahmur musun neysin?
+## c02_002_010
+0|Yazı mı...?
+1|Evet! Sanki biri yazıyı çimenlerin içine\nsaklamaya çalışmış! Tuhaf, değil mi!?
+2|Hmmmm... Atua bunun sadece duvar yazısı olduğunu söylüyor.
+3|Nyahahahaha! Artık bunun için endişelenmemize\ngerek yok!
+4|Atua mı? Bu daha da şüpheli...
+5|Oo? Atua'nın şüpheli olduğunu mu söylüyorsun?\nNe üzücü.
+6|Bu seni ilgilendirmez.
+7|Size ne oluyor?\nHâlâ o duvar yazısından mı bahsediyorsunuz?
+8|Neyse...Shuichi'yi getirdim, o yüzden\nkahvaltıya başlayalım artık.
+9|<CLT=cltMIND>Herkesin bana baktığını hemen\nfark ettim.
+11|Nyeh?
+12|<CLT=cltMIND>Beklediğim gibi yüzlerinde şaşkınlıkla\nbana bakıyorlardı.
+14|Ah... Günaydın...
+15|Ah, Shuichi... Şey...
+16|Sonunda o emo şapkadan kurtuldun!\nKaede öldüğü için falan mı?
+17|Sessiz ol, seni erkek!\nBiraz terbiye öğrensene!?
+18|Ah, ha, şapkanı takmıyorsun.\nFark etmemiştim bile.
+19|Sen de biraz terbiye öğrenebilirsin,\nseni duyarsız pislik!
+20|H-Hayır, sadece...yolumda duruyormuş\ngibi hissettim, o kadar.
+21|Bakmanıza gerek yok... Sadece şapkamı\nçıkardım, büyük bir şey değil...
+22|Haklısın. Özür dilerim.
+23|Beğendim. Bence şapkasız daha yakışıklı\ngörünüyorsun.
+24|Ah...teşekkürler.
+25|Keh, ne güzel senin için.
+26|Gözlüklerini çıkarır çıkarmaz görünmez olan\nşu Sıradan Ayşe'nin aksine.
+27|Sıradanım...ama tam tersi.\nGözlüklerimi çıkarmak gerçek hâlimi ortaya çıkarır.
+28|Hmhmhm...bilmiyor muydunuz? Gerçek hâlimi\ngörenler korkunç bir bedel öder.
+29|Neyse, bir daha geç kalma, Shuichi. Birlikte\nkahvaltı yapmaya zaten karar verdik.
+30|...Buna kendi başınıza karar verdiniz.
+31|Evet, evet. Herkes için kahvaltı hazırladım.
+32|Gerçekten mi? Sen mi hazırladın?
+33|Aynen öyle. Hiç zahmet olmadı.
+34|İtalyan omleti, ayranlı pankek, füme\nsomonlu galet hazırladım...
+35|Japon mutfağını tercih edenler için de\npirinç topları ve miso çorbası hazırladım.
+36|Kirumi, annem ol!
+37|Gonta da senin annesi olmanı istiyor!
+38|...Siz ikiniz ne diyorsunuz?
+39|Ah, evet! Size çok güzel bir şey\ngöstereceğim!
+40|Bakın, bakın! Himiko yemek yerken en\nsevimli suratı yapıyor!
+41|Aaa! Küçük bir hayvan gibi!
+42|Kesin şunu...yemek yememi zorlaştırıyorsunuz.
+43|<CLT=cltMIND>Kirumi'nin getirdiği yemekleri yemeye\nbaşlarken laflamaya başladık.
+44|Gonta yağcılık yapmak istemiyor ama...bütün bu\nyemekler çok lezzetli!
+45|Mmm, o kadar lezzetli ki dilimi kesip\natmak istiyorum.
+46|Hı-hı... Pirinç topları da sıradan eski\npirinç topları değil!
+47|Dağılmasın diye dışı sıkıca bastırılmış\nama içi güzel ve yumuşak!

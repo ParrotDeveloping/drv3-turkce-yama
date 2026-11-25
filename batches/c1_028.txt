@@ -1,0 +1,55 @@
+@ chap1_text_US
+## c01_016_010
+307|Ya...Monokuma'yı ya da bir Monoyavruyu kaçırıp...\nyok, ayı-çırıp rehin alsak!?
+308|Adam kaçırmak mı? Bu bir dövüş sanatçısının\nönereceği bir şey mi?
+309|Bir dövüş sanatçısının yolunda yürüsem de\nhemcinslerimi kurtarmak için her şeyi yaparım!
+310|Hayat oldukça umut vardır! Ama bir kez\nöldün mü, biter! Ustam bana bunu öğretti!
+311|Ama Monokuma'nın yedekleri var...\npek iyi bir rehine olmaz, değil mi?
+312|Monoyavruların da birbirine karşı hiç\nsadakati yok gibi...
+313|Onlar da iyi rehine olmaz.
+314|Muhtemelen hem seni hem rehineyi \nezerlerdi.
+315|A-Ah, anlıyorum... O zaman başka bir yol düşüneceğim.
+316|Hem onlara meydan okumanın anlamsız\nolduğunu biliyorsun, değil mi Tenko?
+317|Neden birlikte bir strateji düşünmüyoruz?
+318|T-Tamam...
+319|Açıkçası düşünmekte pek iyi değilimdir...\nAma senin için beynimi düğüm düğüm edeceğim!
+320|Açıkçası düşünmekte pek iyi değilimdir...\nAma senin için beynimi düğüm düğüm edeceğim!
+321|Bir kıza nasıl bu kadar yakın durursun!\nBu yoz erkeği ezeceğim!
+322|Ha? Shuichi'nin bana bu kadar yakın\ndurmasının nesi var?
+323|Her şeyi! Önce sadece sana yakın\ndurmakla başlar...
+324|Ama bu yozların oyunlarını bilirim!\nSana daha da yaklaşmaya çalışacak!
+325|Ş-Şey, hayır...öyle bir şey olmayacak.\nBunu çok fazla düşünüyorsun.
+326|Hayır! Erkekler aşağılık, yoz yaratıklardır!\nOnların yanında dikkatli olmalısın!
+327|T-Tabii...
+328|Bir şey olursa beni çağır!\nGöz açıp kapayıncaya kadar seni kurtarmaya gelirim!
+329|<CLT=cltMIND>Bundan sonra ne yapmamız gerektiğini\nherkesle konuşmalıyım...
+339|<CLT=cltMIND>Ha?
+340|<CLT=cltMIND>Bu kapı daha önce kapalıydı...\nNe zaman geçilebilir hale geldi?
+341|<CLT=cltMIND>Bundan sonra ne yapmamız gerektiğini\nherkesle konuşmalıyım...
+342|<CLT=cltMIND>Belki Shuichi kütüphaneye gitmeyi planlıyordur.\nGerçi buraya epey uzak.
+## c01_017_001
+0|Kütüphaneye mi gidiyoruz?
+1|Evet...orada sana her şeyi anlatacağım.
+2|Ne oldu, Kaede? Shuichi?\nAtua'ya dua etmek mi istiyorsunuz?
+4|Dua ederseniz iki gün sonra süzülerek inip\nsizi alıp götürecek.
+5|Evet, şey...iki gün sonra ölmeyi düşünmüyorum.\nHerkesi buradan çıkaracağım.
+6|Ben de aynı şekilde hissediyorum.\nYapabileceğimiz...bir şey olabilir.
+7|İşte o zaman dua etmek için daha da çok sebep var!
+9|Dua ederseniz siz çok çalışırken Atua\nikinizi de gözetecek.
+10|S-Sorun değil.\nŞu an canım istemiyor.
+11|Hmmm, anlıyorum.
+12|Dua etmek istediğinizde söyleyin!\nHoşça kalın!
+13|<CLT=cltMIND>Şu an yüce bir güce güvenemem.\nTek seçeneğimiz bunu kendimiz çözmek.
+14|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+15|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+16|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+17|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+18|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+23|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+25|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+## c01_017_004
+0|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+1|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+3|...Kaede, kütüphaneye gitmeliyiz.\nOrada sana her şeyi anlatacağım.
+## c01_018_019
+0|Pekala, her şeyi anlatacağım.\nÖnce kart okuyucuya bir bak.

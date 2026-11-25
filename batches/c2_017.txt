@@ -1,0 +1,54 @@
+@ chap2_text_US
+## c02_003_150
+66|<CLT=cltMIND>Bir monitör...\nSanki bunları görmeye alıştım.
+67|<CLT=cltMIND>Bu bir gülle.\nBurada atletizm etkinlikleri mi var?
+68|<CLT=cltMIND>Uzaktan kumandalı helikopter...\nEminim oğlanlardan bazıları bunu sever.
+69|<CLT=cltMIND>Burada bir sürü atletizm malzemesi var.\nBu yüksek atlama çıtası.
+70|<CLT=cltMIND>Bu minderler epey ağır...
+71|<CLT=cltMIND>Demek engel de var.\nBütün bunlarla bir spor şenliği yapabiliriz...
+72|<CLT=cltMIND>Tek kullanımlık fotoğraf makinesi mi? Gerçek\nhayatta ilk kez görüyor olabilirim...
+73|<CLT=cltMIND>Bu fotoğraf banyo sıvısı mı?\nBurada başka kimyasallar da var gibi.
+## c02_003_154
+0|Ne? Beni özledin mi neysin!?
+## c02_003_190
+1|<CLT=cltMIND>İçinde o kadar çok su yok...\nHavuzlar genelde daha dolu olmaz mı?
+2|Vaaay! Hep büyük bir ünlü gibi lüks bir\nhavuzda yüzmeyi hayal etmişimdir!
+3|Ne yazık ki yüzme bilmiyorum.
+4|<CLT=cltMIND>...O zaman sanırım o hayal epey\nuzakta.
+5|Benim hayalim değil tam olarak... Ama herkesle\nyüzmek kulağa eğlenceli geliyor.
+6|Yüzmeye çalışsam sadece batarım.
+7|<CLT=cltMIND>...Ve o daha da uzakta.
+8|Acaba herkesle yüzebileceğim gün hiç\ngelecek mi...
+9|Keebo! Merak ediyordum da...
+10|Bir tekneden düşüp dibe\nbatsan...
+11|...denizin altında, bir kayanın altında ya da\nbir ananasın içinde mi yaşamak zorunda kalırdın!?
+13|Hayır, bence çok derine inmeden bedenim\nbasınç yüzünden ezilirdi...
+14|Lütfen ikiniz de böyle korkunç şeyler\nsöylemeyin! Yoksa bir tekneye asla ayak basmam!
+16|Bir gün tekneye binme fırsatım olursa son\nteknoloji bir can yeleği giyeceğim.
+17|Burada lüks bir havuz varsa mayolar\nda olmalı!
+18|Ha? Emin misin?
+19|Tabii ki! Yoksa burada bu havuzun olmasının\nhiçbir anlamı olmazdı!
+20|Eh, sanırım bu doğru ama...
+21|Peki mayolar nerede? Yurtta sadece yedek\nokul üniformaları gördüm.
+22|<CLT=cltMIND>Bu doğru, bütün dolaplarda sadece yedek\nüniformalar var gibi...
+23|Mayo varsa...\nsanırım depoda olurdu.
+24|N-Ne skandal! Yoz erkeklerin kolayca\nerişebileceği bir yerdeler!
+25|Ben...bunun pek sorun olduğunu sanmıyorum...
+26|Ah, anladım!
+27|Yozlar sadece kullanılmış mayoları ya da kızların\ngiydiklerini önemser, değil mi!?
+28|Durum buysa depodaki mayolar kesinlikle\ngüvende!
+30|Acaba depodalar mı? Sonra onları\naramalıyım.
+31|<CLT=cltMIND>Ama Tenko...yüzme bilmiyorsun ki...
+32|<CLT=cltMIND>Hâlâ kafama takılan bir şey var...
+37|<CLT=cltMIND>Hâlâ kafama takılan bir şey var...
+41|<CLT=cltMIND>İçinde o kadar çok su yok...\n
+44|Burası...bir depoya mı benziyor?
+45|İçeri göz attım ve burada her türlü havuz\nmalzemesi buldum.
+46|Yüzme tahtaları, sutopu topları, hatta sağlam\nkauçuk şamandıralarla tamamen dolu.
+47|Belki onları şişirip vücudumun her yerine\ntakarsam suda yüzebilirim.
+48|Ah, bence o lastik şirketinin maskotu gibi\ngörünürdün...
+50|<CLT=cltMIND>O pencere spor salonunun penceresi olmalı.\nSpor salonundakine benziyor.
+51|<CLT=cltMIND>Sanırım bu, spor salonu ile havuz alanının\nbağlantılı olduğu anlamına geliyor.
+52|Bir okulda spor salonu ile havuz alanının\nbirbirine yakın olması epey standart.
+53|Ama bence havuz çok daha geniş bir alana\ntaşınabilir!
+54|Avluda bol bol arazi var!\nOraya ne dersiniz!?

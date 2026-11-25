@@ -1,0 +1,49 @@
+0	Maksimum etkiyi biraz artırır.\nSınıf duruşmasının her aşamasında etkilidir.\nKıskanç Etki ile birleştirilemez.
+1	Maksimum etkiyi çok artırır.\nSınıf duruşmasının her aşamasında etkilidir.\nDikkatli Etki ile birleştirilemez.
+2	Maksimum odağı biraz artırır.\nSınıf duruşmasının her aşamasında etkilidir.\nTehditkâr Odak ile birleştirilemez.
+3	Maksimum odağı çok artırır.\nSınıf duruşmasının her aşamasında etkilidir.\nOlağanüstü Odak ile birleştirilemez.
+4	Her aşamadaki süre sınırını biraz \nartırır. Sınıf duruşmasının her\naşamasında etkilidir.
+5	Doğru cevaplarla geri kazanılan etkiyi\nartırır. Durmaksızın Tartışmalarda ve \nseçimlerde etkilidir.
+6	Nişangahın daha az titremesini sağlar.\nDurmaksızın ve Toplu Panik Tartışmalarında\netkilidir. Huzur ile birleştirilemez.
+7	Nişangahın titremesini durdurur. Durmaksızın\nve Toplu Panik Tartışmalarında etkilidir.\nSoğukkanlı ve Sakin ile birleştirilemez.
+8	Nişangahın hızını düşürür. \nDurmaksızın Tartışmalarda etkilidir. \nVites Büyüt ile birleştirilemez.
+9	Nişangahın hızını artırır.\nDurmaksızın Tartışmalarda etkilidir.\nVites Küçült ile birleştirilemez.
+10	Atılan Gerçek Mermilerinin hızını artırır.\nDurmaksızın ve Toplu Panik\nTartışmalarında etkilidir.
+11	Gerçek Mermisi ya da Gerçek Kılıcı sonrası\nbekleme süresini azaltır. Durmaksızın, Toplu\nPanik ve Çürütme Düellosu'nda etkilidir.
+12	Yeterli süre geçince doğru Gerçek Mermisi\ngösterilir. Durmaksızın, Toplu Panik\nTartışmaları ve Çürütme Düellolarında etkilidir.
+13	Konsantre olurken nişangah zayıf \nnoktaların üzerine otomatik olarak gider.\nDurmaksızın Tartışmalarda etkilidir.
+14	Maksimum etkiyi biraz artırır.\nSınıf duruşmasının her aşamasında etkilidir.\nKıskanç Etki ile birleştirilemez.
+15	Konsantre olurken ve Coşku Zamanı'nda\nOdak Göstergesi daha yavaş azalır. \nSınıf duruşmasının her aşamasında etkilidir.
+16	Konsantre olurken ve Coşku Zamanı'nda\nEtki Göstergesi yavaşça dolar.\nSınıf duruşmasının her aşamasında etkilidir.
+17	Odak Göstergesinin dolma hızını\nartırır. Sınıf duruşmasının her\naşamasında etkilidir.
+18	Sınıf duruşmalarından sonra kazanılan\nMonocoin miktarını artırır.
+19	Gerçek Mermilerinin beyaz gürültüyü delip\ngeçmesini sağlar. Durmaksızın ve\nToplu Panik Tartışmalarında etkilidir.
+20	Susturucunun seri atış yapmasını sağlar.\nDurmaksızın ve Toplu Panik Tartışmalarında\netkilidir. Pompalı veya El Bombası ile birleşmez.
+21	Susturucu daha büyük atışlar yapar.\nDurmaksızın ve Toplu Panik Tartışmalarında\netkilidir. Makineli veya El Bombası ile birleşmez.
+22	Basılı tutarak güçlü Susturucu atışı yap.\nDurmaksızın ve Toplu Panik Tartışmalarında\netkilidir. Makineli veya Pompalı ile birleşmez.
+23	Beyaz gürültüyü yok etmek için <PAD=【Ｆ㊧】> \nkullanılabilir. Durmaksızın ve Toplu\nPanik Tartışmalarında etkilidir.
+24	Konsantre olurken nişangah yakındaki V \nNoktalarına kilitlenir. Durmaksızın\nve Toplu Panik Tartışmalarında etkilidir.
+25	Yalan Mermisi doluyken etki daha yavaş\nazalır. Durmaksızın Tartışmalarda\netkilidir.
+26	V Noktalarını gösterir. Durmaksızın \nve Toplu Panik Tartışmalarında etkilidir.
+27	Nişangahın üzerinde olanlar dışındaki bütün\nkonuşmaları susturur. Toplu Panik\nTartışmalarında etkilidir.
+28	Yüksek sesleri anında susturur. Toplu\nPanik Tartışmalarında etkilidir.
+29	İlk konuşmacının argümanındaki anahtar \nkelime baştan gösterilir.\nTartışma Arbedelerinde etkilidir.
+30	Son Hamle'de rakibi geri itmeyi\nkolaylaştırır. Tartışma Arbedelerinde\netkilidir.
+31	Bütün ekran daha sık aydınlanır.\nCellat Kumarı Ver3.0'da\netkilidir.
+32	İlk harf baştan doldurulmuş olur.\nCellat Kumarı Ver3.0'da\netkilidir.
+33	Parlama noktası anında tam boyuta \nulaşır. Cellat Kumarı Ver3.0'da\netkilidir.
+34	Tek seferde alınabilecek harf küpü\nsayısını artırır.\nPsişik Taksi'de etkilidir.
+35	Daha yüksek azami hızı ve daha iyi\nivmesi olan daha iyi bir arabaya geçer. \nPsişik Taksi'de etkilidir.
+36	Bir engele çarpıldığında sarsıntıyı\nazaltır. Psişik Taksi'de\netkilidir.
+37	Kılıç Kilidi sırasında rakibi geri itmeyi\nkolaylaştırır. Çürütme Düellolarında\netkilidir.
+38	Kesişlerin boyutunu artırır.\nÇürütme Düellolarında etkilidir.
+39	Rakip ne kadar iterse itsin imlecin\nserbestçe hareket etmesini sağlar.\nÇürütme Düellolarında etkilidir.
+40	Silinemeyen bir parçayı kırmanın süre\ncezasını kaldırır. Hayal Kazısı'nda\netkilidir.
+41	Bazı parçalar baştan eksik olur.\nHayal Kazısı'nda\netkilidir.
+42	Bir nesnenin bir kısmı görünür olunca\nnesnenin tamamı gösterilir. \nHayal Kazısı'nda etkilidir.
+43	Gerilim Göstergesi daha hızlı\r\nartar. Argüman Silahlanması'nda \r\netkilidir.
+44	Ritimleri tutturmayı kolaylaştırır.\nArgüman Silahlanması'nda etkilidir.
+45	Kritik hasarı artırır.\nArgüman Silahlanması'nda etkilidir.
+46	Bazı paneller baştan doldurulmuş\nolur. Kapanış Argümanı'nda \netkilidir.
+47	Son hamleni <PAD=【×】> ile geri\nalmanı sağlar. Hayal Kazısı'nda\netkilidir.
+123	Beyaz gürültüyü yok etmek için arka dokunmatik \nyüzey kullanılabilir. Durmaksızın ve Toplu\nPanik Tartışmalarında etkilidir.

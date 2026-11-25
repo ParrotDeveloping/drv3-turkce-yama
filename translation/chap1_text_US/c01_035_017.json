@@ -1,0 +1,292 @@
+[
+ {
+  "id": 0,
+  "en": "Sorry I'm late, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Ah, it's alright.\nI just got here too.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "How did it go? Did Miu finish the cameras?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "She must have been working all night. She\nwas even too tired to make fun of me...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Anyway, here's the result.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Two cameras that will take a picture\nwhen the sensor detects movement...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "And this one will take a picture *and*\ntrigger this receiver.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Of course, they're turned off right now,\nso they aren't taking any pictures...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Since they're disposable cameras, we'll\nhave to manually wind the film, right?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Yes, Miu thought of that. She told me that\nthe cameras will wind automatically.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "So once they're set up, they'll take pictures\nevery time the sensor is triggered?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "She also modified them so that they'll be\ncompletely silent, to not attract attention.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "They're completely silent... This is perfect.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "It needs to be...\nThese are absolutely essential to our plan.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "And do these cameras have flashes?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Yeah, they still have flashes on them, but I\nswitched them off. They shouldn't be a problem.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "But, we need to make *sure* they don't get\nturned on by accident and alert the mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Yeah, I'll be careful.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I'm impressed, though. Miu modified them\nto our specifications.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Alright, I'll tell you a little bit about this\nclassroom before we set up in the library.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Huh? Tell me about this classroom?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Yes, I think this is the perfect place to\nkeep watch after we set up the cameras.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "That's fine, but why this classroom?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Because we can see anyone who goes down\nto the basement. With the door open a little...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Look. You can see the staircase, right?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Oh yeah, you're right! We can keep a lookout\nfor anyone who goes down to the basement!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "There's one more reason I chose\nthis specific classroom.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>One more reason?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "It's because of something...\nSomething that's only here.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Anyway, it's time. We should set up\nthe cameras now...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>I wonder what that one reason is...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>This doesn't seem like the other reason...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>This doesn't seem like the other reason...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>This doesn't seem like the other reason...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>This doesn't seem like the other reason...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>This doesn't seem like the other reason...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Is this...a vent?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "It's connected to the library in the basement.\nYou'll recognize the smell immediately.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "The smell?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>After Shuichi told me that, I leaned in\ncloser to the vent—",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Oh! It smells like musty old books!\nDoes this lead to the library?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "It's probably a vent to control\nthe humidity in the library.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Remember the duct we noticed in the\nbasement hallway? It leads here.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "But a vent in a classroom? That's an odd\ndesign choice for a school...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Then again, everything about this school\nis odd...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "This vent is the other reason I chose\nthis specific classroom to keep watch.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "This vent is just big enough for someone to be\nable to fit, so we should watch this carefully too.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "I don't think I could fit through there...\nWell, maybe I could but it'd be tough.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Well, I guess this is the perfect spot to\nkeep a lookout.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Anyway, it's time. We should set up\nthe cameras now...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>It's finally time to set our plan in motion...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>I'm getting nervous...\nNgh, my heart is racing.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>There's a vent that connects to the library\nfrom here. I didn't even notice that...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>This doesn't seem like the other reason...",
+  "tr": ""
+ }
+]

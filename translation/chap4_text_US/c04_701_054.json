@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "O-Oh, Shuichi...\nWhat's the matter?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I hang out with Kaito for a while?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yeah, I don't mind talking, but...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "My stomach hurts a little.\nCan we talk somewhere I can rest?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time with Kaito...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Didn't he say his stomach hurt last night too?\nI hope he's okay...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Kaito and I grew a little closer today.",
+  "tr": ""
+ }
+]

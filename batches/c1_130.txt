@@ -1,0 +1,74 @@
+@ chap1_text_US
+## c01_703_051
+6|Kütüphaneye gitmek ister misin?\nCanım kitap okumak istiyor.
+7|<CLT=cltMIND>Rantaro'yla kütüphanede kitap okuyarak\nbiraz vakit geçirdim...
+## c01_703_052
+0|Ah evet, senin laboratuvarın açıldı, değil mi?
+1|Acaba benim laboratuvarımı hiç bulacak mıyım...\nO olursa yeteneğimi öğrenirim...
+6|...Laboratuvarımı bulmayı denemek istiyorum.\nMuhtemelen bulamayacağımı bilsem de.
+7|Çok zahmet olmazsa\nbana yardım eder misin?
+8|<CLT=cltMIND>Rantaro'yla okulda araştırma yaparak\nbiraz vakit geçirdim...
+## c01_703_053
+0|Süre sınırı yarın gece...
+1|Acaba...ne yapmalıyız...
+6|Bunu düşünerek vakit kaybetmenin anlamı yok.\nBenimle mola vermek ister misin?
+7|<CLT=cltMIND>Rantaro'yla avluda yürüyerek biraz\nvakit geçirdim...
+## c01_704_000
+0|<CLT=cltMIND>Gonta'ya hediye verme işlemi.
+4|<CLT=cltSYSTEM>Gonta'ya bir hediye vermek ister misin?
+9|Gonta Gokuhara'nın sevgi seviyesi ARTTI
+10|Gonta Gokuhara'nın sevgi seviyesi AZALDI
+14|<CLT=cltSYSTEM>Gonta'ya hediye vermek istemediğinden\nemin misin?
+## c01_704_001
+0|Kaede, müzik sever misin?
+1|Tabii ki!\nSonuçta ben <CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>im!
+2|Ş-Şey...Gonta da müzik sever!
+3|Ooo, gerçekten mi!? Ne tür müzik seversin?
+4|Böcek şarkıları! Gonta'nın en sevdiği!
+6|Gonta Kaede muhtemelen böcek şarkıları sever düşünüyor.
+7|<CLT=cltMIND>Böceklerden bahsetmesem daha iyi...ama belki\ncırcır böcekleri falan hakkında konuşabilirim.
+8|Gonta ormanında çok büyük böcek var.\nOnlar çok iyi şarkıcı.
+9|Büyük böcekler korkunç görünüyor ama güzel\nşarkılar yapıyor!
+10|<CLT=cltMIND>B-Böcekleri pek dinlemek istemiyorum! Özür\ndilerim Gonta ama konuyu değiştireceğim!
+11|A-Ah, evet! Şey, sence müzik ruh halini\ndeğiştirmek için harika değil mi?
+12|Hm? Ah, evet...
+13|Eğlenceli müzik Gonta'yı da mutlu ediyor.
+14|Uyuyamayınca Gonta kıyafetlerini çıkarıyor,\nmüzik açıyor. Sonra bütün gece uyuyabiliyor.
+15|Ne!? Çıplak mı uyuyorsun!?
+16|Gonta ormanda çıplak uyumayı öğrendi.\nKıyafetle iyi uyuyamıyor.
+17|Şey...çıplak uyumanın pek centilmence\nolduğunu sanmıyorum.
+18|N-Neeee!? G-Gerçekten mi?
+19|Şey, ben bir centilmeni öyle hayal ediyorum.
+20|İyi değil! Gonta herkesin onu centilmen\nolarak görmesini istiyor!
+21|Kaede iyi değil diyorsa Gonta artık\nyapmayacak!
+22|Centilmence olmayan başka bir şey düşünüyor musun?
+23|Hm...centilmence olmayan başka bir şey...
+24|Lütfen Gonta'ya gerçek centilmen olmak için\nen önemli ne olduğunu düşündüğünü söyle.
+25|Böceklerden bahsetme...
+26|Ruh hâlin mi?
+27|Çay mı?
+30|Böceklerden bahsetme...
+31|Ha!? Gonta böceklerden bahsedemez mi!?\nN-Neden!?
+32|Çünkü...böcekleri sevmeyen bazı insanlar\nvar...
+33|S-Sen...böceklerden nefret mi ediyorsun, Kaede!?
+34|B-Ben böcekleri severim! Sevdiğimi sana daha\nönce söylemiştim!
+35|Ama böcekleri sevmeyen insanlara böceklerden\nbahsedersen onları rahatsız edebilirsin.
+36|Sadece bunun centilmence olmadığını düşünüyorum, o kadar!
+38|<CLT=cltMIND>Gonta kızdı mı...?
+39|...Haklısın. Bazı insanlar böceklerden nefret ediyor.
+40|Evet, bu çok çok talihsiz.
+41|Bu yüzden böceklerden bahsetmek önemli!\nBöylece insanlar böceklerin neden harika olduğunu anlar!
+42|Ha? G-Gerçekten mi?
+43|Gonta sadece centilmen değil, aynı zamanda\nentomolog da!
+44|Gonta insanların böcekler hakkındaki fikrini\ndeğiştirmek için elinden geleni yapacak! Centilmen gibi!
+46|Ruh hâlin mi?
+47|Ruh hâli mi...?
+48|Bir centilmeni hayal edince iyi, ciddi\nve kibar birini görüyorum...
+49|Bana göre centilmen, bütün bu niteliklere\nsamimiyetle sahip olan kişidir, anlıyor musun?
+50|Evet! Gonta da öyle düşünüyor!
+51|Ama...Gonta tam olarak...ne yapacağını bilmiyor...
+52|Şey, sanırım...
+53|Ama Gonta insanlara iyi davranabilir...\nGonta ciddi olabilir...
+54|Gonta elinden geleni yapıyor...\nGonta yapabileceği her şeyi yapıyor.
+55|Çay mı?
+56|Hm? Neden çay?

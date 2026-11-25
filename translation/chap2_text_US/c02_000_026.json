@@ -1,0 +1,127 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>It's a screen for projecting movies onto.\n...It doesn't look like it's been used at all.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>It's a video player.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>There are several of them, but none\nof them have anything in them.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>The movie that Kaede said she wanted to watch...\n<CLT=cltSTRONG>The Legend of 1900<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>I'll watch it one day...\nIt's just...too hard right now...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>The movie discs are stored\nneatly in a large shelf.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>There are mostly documentaries, but there\nare some movies and shows mixed in...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>...Maybe it'd be nice to organize\nthem a little more?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>This is a nice speaker...\nI bet this would sound great.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>This is a nice speaker...\nI bet this would sound great.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>This is a nice speaker...\nI bet this would sound great.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>This is a nice speaker...\nI bet this would sound great.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Sofa A",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Sofa B",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Projector",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>There are several rolled up posters in rubber\nbands in a cylindrical container.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>These are...video game posters,\nif I remember correctly.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>Just as I thought, it only opens a little bit.\nI'll have to leave from the Game Room.",
+  "tr": ""
+ }
+]

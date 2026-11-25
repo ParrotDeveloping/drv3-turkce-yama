@@ -1,0 +1,63 @@
+@ chap2_text_US
+## c02_003_400
+0|<CLT=cltSYSTEM>Aşk Oteli'nde hayallerin gerçek olur...\nSevgilini yepyeni bir gözle bile görebilirsin.
+1|<CLT=cltSYSTEM>Ama kalbinin kilidini açmak için bir şeye ihtiyacın\nolabilir... Neden onu aramıyorsun?
+## c02_004_001
+1|Ne oldu, Tenko?\nAngie spor salonunda buluşmamız gerektiğini söyledi...
+2|Evet, biliyorum... Ama havuzu düşünmeden\nedemiyorum...
+3|*iç çeker* Keşke yüzebilsem...
+4|Özellikle de hayallerimin havuzu tam\nkarşımdayken!
+5|Ah, dur! Yüzemiyorsun ama belki havuz başında\ndinlenirsen kendini bir ünlü gibi hissedebilirsin?
+6|Haaa? Bu yoz erkek neden bahsediyor\nki?
+7|Bence o kadar da kötü bir fikir değil...\nBak, bir şemsiye alıyorsun ve...
+8|Onu havuzun yanına kurup gölgede dinlenirsen\nkesinlikle göz alıcı hissedersin.
+9|V-V-V-Vay! Bu harika bir fikir!\nAklımdan bile geçmemişti!
+10|Pekala o zaman, Shuichi!\nLütfen şemsiyeyi benim için kur!
+14|<CLT=cltSYSTEM>Tenko'yla gidecek misin?
+15|...Ha? Neden ben?\nBu şemsiyeyi sana veririm, sen kurarsın.
+16|Krggghh! Seni aptal, aptal...erkek!\nHiç anlamıyorsun!
+17|Kendimi bir ünlü gibi *hissetmek* istiyorum!\nÜnlüler ne zaman kendi işlerini kendileri yapar ki!?
+18|Peki! Zaten senin gibi işe yaramaz bir yoza\nayıracak vaktim yok!
+19|<CLT=cltMIND>Kendi işlerini kendilerinin yapmadığından\neminim ama hadi ama, biraz yardımcı ol...
+20|Pekala...tamam.
+21|Evet! Yoz erkekler kesinlikle haddini\nbilmeli!
+22|Tamam o zaman, sonra görüşürüz!
+23|<CLT=cltMIND>Eh, sanırım *o kadar* da\nzahmetli değil...
+24|Buna üzülmenin anlamı yok.\nŞimdi spor salonuna gidiyorum.
+25|Sen de gitsen iyi olur, Shuichi! Yavaş ve sakar\nerkekler daha erken ölmek için resmen yalvarıyor!
+## c02_004_003
+0|Maki, spor salonuna gitmiyor musun?
+1|Gideceğim.\nSen ve diğerlerinden sonra.
+2|<CLT=cltMIND>İçeri giren son kişi olduğundan emin olmak\nistiyor olmalı. İyi hazırlanmış...
+## c02_004_254
+1|Havuz Girişi Zelda Düzeneği Bitkiler
+4|<CLT=cltMIND>Kumarhane Kapısı Altıgen Anahtar Düzeneği (Açık)
+## c02_005_007
+0|Millet! Toplanın!
+1|Hepimiz burada mıyız? Güzel! O zaman başımızı\neğip Atua'ya dua edelim.
+2|Sen tam bir baş belasısın, biliyor musun!?\nNe halt istediğini söyle işte!
+3|Pekala o zaman, şuna bakın.
+4|Bu tuhaf görünümlü bir fener...\nEee, ne olmuş?
+5|Şeyy, ben de ne olduğunu bilmiyorum.\nEpey iyi inceledim...
+6|Nyahahaha, ama sonunda çözemedim.
+7|Çözemedin mi?
+8|O yüzden birinden yardım istedim.
+9|...Sakın şunu demek—
+10|Bir şey seni endişelendiriyorsa bırak\nMonokuma ilgilensin!
+11|Bir şeyi bilmiyorsan sana söylerim.\nYardıma ihtiyacın varsa yardım ederim.
+12|Bir şeyden hoşlanmıyorsan düzeltirim. O yüzden\nbenden kurtulma... Lütfen benden...kurtulma.
+13|Öyle davranan hanım sana avlanırsa\nçok kötü.
+14|Ha? Bunu kişisel tecrübeden mi\nbiliyorsun?
+15|Söyle bize, Monokuma. Bu fener ne?
+16|O bir <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>.
+17|Bir...Hatıra Işığı mı?
+18|Hatıra mı?
+19|Işık mı?
+20|O fener karanlığa ışık tutmaz, senin\n<CLT=cltSTRONG>kayıp anılarına<CLT=cltNORMAL> ışık tutar.
+21|Kayıp anılar mı...?
+22|Bu okula nasıl geldiğinizi hatırlayamadığınız\niçin endişeli görünüyordunuz...
+23|Ama o <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'nı kullanırsanız\nher şeyi hatırlayabilirsiniz!
+24|Ne...? Bu ışıkla mı?
+25|Demek kaçırıldığımız zamanı hatırlamamamız\nsenin suçun, ha?
+26|Bize ne yaptın ve anılarımızı nasıl\nçaldın?
+27|Hmm, belki <CLT=cltSTRONG>Hatıra Işığı<CLT=cltNORMAL>'nı kullanırsanız\nonu da hatırlayabilirsiniz.

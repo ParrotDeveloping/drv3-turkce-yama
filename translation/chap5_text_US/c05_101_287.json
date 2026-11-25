@@ -1,0 +1,927 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>The alarm system is off.\nIt must still be affected by the Electrobomb.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I should investigate this place thoroughly...\nThere must be some clues around here.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Phew... I think I'm starting to feel a little\nbetter now.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I'm sorry to worry you, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Ah, I was a bit worried...\nI'm glad you're feeling better.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>There was something I needed\nto ask Keebo.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Hey, Keebo. Before we went into the\nhangar this morning, you said...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "So I went to the hangar last night and tried\nto talk to him.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "You tried to...talk to him on your own?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I'm sorry... I thought it would be preferable\nfor him to release Kaito peacefully...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "How did it go?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "It went about as well as I expected...\nThere was no response at all.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "But I did witness a few things.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "You said that you witnessed a few things.\nWhat exactly did you see?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Ah, yes. Since we were in a hurry, I only told\nyou about the Exisal returning to the hangar...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Yes, you said the Exisals could pass through\nthe alarm system and barrier to the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I never imagined something like this would\nhappen, so I didn't mention it before...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "But before I saw the Exisal, I saw <CLT=cltSTRONG>someone<CLT=typeNORMAL>\nheading toward the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "You saw <CLT=cltSTRONG>someone<CLT=typeNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I saw...Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I was in my lab, trying to think of what I\nshould write to convince Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "That's when I saw her walking toward the\nhangar, clutching something in her hands...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I think it was a black bag.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "A black bag?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "At the time, I assumed she was going there\nto examine things or plead with Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "And since she came back later, I didn't\nthink much of it...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "But...after seeing her reaction this morning,\nI started to get a little suspicious.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Wh-What? What...did you see?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "She was acting like...she had something to\nhide. It's not that I want to suspect her...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "True, it is suspicious...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "You said you saw her come back, as well...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Was she holding the bag at that time?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Now that I think about it...she didn't.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>So she had it coming in,\nbut not leaving...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>It has to be. That black bag Himiko\nwas carrying was—",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "By the way, this is a little off-topic, Shuichi,\nbut...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Huh? What is it?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "The reason I wasn't feeling well may have\nbeen due to the Electrobomb.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "But it was because of the electromagnetic\nparticles, not because I'm a robot...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "So what I experienced was akin to an\nallergic reaction such as hay fever...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "So it could have affected a human the same\nway! Being a robot had nothing to do with it!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Ah, right...that must be it.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>So that thing Himiko said was bothering\nhim. He really is a bit too sensitive...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>K1-B0's Account<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Before I saw the Exisal enter the hangar\nlast night...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I saw Himiko heading toward the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "While I was in my lab, trying to think of what\nto write to convince Kokichi...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I saw her heading toward the hanger, clutching\nwhat appeard to be a black bag.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "A black bag?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "At the time, I assumed she was going there\nto examine things or plead with Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "And since she came back later, I didn't\nthink much of it...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But...after seeing her reaction this morning,\nI started to get a little suspicious.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Wh-What? What...did you see?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "She was acting like...she had something to\nhide. It's not that I want to suspect her...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "True, it is suspicious...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>And when Himiko was coming back,\nshe didn't have the black bag...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>She definitely had it with her when she\nwent in, but left empty-handed.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>The black bag Keebo saw...\nmust be...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>I've investigated thoroughly inside.\nI should check around the hangar now.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>I should get another look at\nwhere the Exisals are.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>There's an Electrohammer here...\nBut why?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>Why would there be an\nElectrohammer here?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>And it's out of power.\nIt must have been used.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>But used for what...?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "But, be careful. The Electrohammer runs\nout of battery pretty quickly.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "So if you use it against an Exisal, it'll run\nout of juice with just one shot, got it?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "If the Electrohammer's power is expended,\nit requires 24 hours to recharge...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>We know that for certain...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Used Electrohammer<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>I remember the sight I saw yesterday...",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>Exisals protecting Monokuma\nfor some reason.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>Kokichi said he was the mastermind,\nthe Exisals should have been around *him*.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>So why were they still protecting\nMonokuma? And four of them, too...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "I suppose I was so caught up thinking about\nKokichi, I ignored Monokuma...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Pay attention! Listen up! Take heed, I say!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Monokuma!?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "It's just...I noticed that you came this way\nlast night, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Huh...?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Puhuhu... You were acting all sneaky, weren't\nyou?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Like a teenage boy tryin' to creep into the\nadult movie section of the video store.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "But you didn't need to sneak around, cuz\nthe Exisals wouldn't have attacked you.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "...What are you saying?\nWe didn't have to sneak—",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Cuz everyone's coming to rent adult movies, so\nin a way, everyone going there is the same—",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "N-No, not *that*!\nI meant about the Exisals not attacking us.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Oh, at the time, the Exisals were on auto-pilot\nand directed to only observe me.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Their movements are more limited now that\nthe Monokubs aren't around to pilot them.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Autopilot? You mean...the remote control\nthat Kokichi has?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "...Yeah, that's pretty much it.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>So the Exisals were being controlled\nby Kokichi's remote control...",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>but they were focusing on Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "...Why are you telling me all of this?",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "This puts the person controlling\nyou at a disadvantage.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "But we're not talking about that...\nWe're talking about this.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Even if it puts someone at a disadvantage,\nthe class trial must always be fair.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "The person who shared that info with me didn't\nseem interested in sharing it with you guys...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "So you share it instead! That way, it'll be\nfair to all the participants!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>So someone else besides me\nknows this...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "<CLT=cltMIND>Why wouldn't they share this information?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Okaaaay! That's all I can tell you!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "By the way, renting movies is so old school.\nIt's more thrilling to illegally download them...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "It's like trying not to get caught by a big-game\nhunter while holding your breath during sex!",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltMIND>This information about the Exisals\ncould be a clue to solving this case...",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>I should remember this.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Exisals Protecting Monokuma<CLT=cltSYSTEM>\" has been added\nto the Truth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>Why would there be an\nElectrohammer here?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>And it's out of power.\nIt must have been used.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>But used for what...?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "But, be careful. The Electrohammer runs\nout of battery pretty quickly.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "So if you use it against an Exisal, it'll run\nout of juice with just one shot, got it?",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "If the Electrohammer's power is expended,\nit requires 24 hours to recharge...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>We know that for certain...",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "I remember the sight I saw yesterday...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>So the Exisals were being controlled\nby Kokichi's remote control...",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>but they were focusing on Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>Kokichi has control over the Exisals\nwith the remote control...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>But I don't understand why Monokuma\nwould tell me any of this.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>But someone else had this information,\nand they kept it to themselves.",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>That's what Monokuma said...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>Someone other than me knows,\nand they're not telling.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>Could that person...be involved\nin this case?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>This is the bathroom window.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>This is the hangar's only window,\nand it's not possible to fit through.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "That means the only way to get\ninto this hangar is through the shutter.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>This is the bathroom window.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>This is the hangar's only window,\nand it's not possible to fit through.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>That means the only way to get\ninto this hangar is through the shutter.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltMIND>The hangar's shutter...",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "<CLT=cltMIND>There's a security alarm here.",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "<CLT=cltMIND>You have to use the alarm remote to disable\nit to get near the shutter.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>If you come near the shutter\nwithout the remote...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "<CLT=cltMIND>A loud alarm would go off\naround the entire academy.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>We had to use an Electrobomb\nto disable the sensor and the alarm.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>That's how we got into the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Nee-heehee... It's not *exactly* a bomb, though.\nEven if it is called an <CLT=cltSTRONG>Electrobomb<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "It jams electronic signals by scattering particles\nthat interfere with electromagnetic waves.",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "For two hours, any and all electronic devices\nwithin 50 yards will be completely disabled.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "It's perfect for any secret activities too,\nsince it doesn't leave any debris behind.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "This invention is extraordinary! But I only\nhave three of them...",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "So I need to use them carefully. You guys will\nhave to settle for the Electrohammers.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "<CLT=cltMIND>Now that I think about it...\nthere were three Electrobombs total.",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "<CLT=cltMIND>One was stolen by Maki,\nbut what of the other two?",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Electrobomb<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "<CLT=cltMIND>There's a sensor alarm here.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "<CLT=cltMIND>You have to use the alarm remote to disable\nit to get near the shutter.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "<CLT=cltMIND>If you come near the shutter\nwithout the remote...",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "<CLT=cltMIND>A loud alarm would go off\naround the entire academy.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "<CLT=cltMIND>We had to use an Electrobomb\nto disable the sensor and the alarm.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>That's how we got into the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "<CLT=cltMIND>Now that I think about it...\nthere were three Electrobombs total.",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "<CLT=cltMIND>One was stolen by Maki,\nbut what of the other two?",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "<CLT=cltMIND>This is the control panel that controls\nthe electric barrier protecting the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltMIND>We hit it with an Electrohammer,\nso it isn't operational right now.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "That's right...\nWhat are these marks here?",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "<CLT=cltMIND>It looks as if it's been struck by\nsomething sharp. What could these be?",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Ah, wait...how were they even able\nto damage this in the first place?",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Getting near the control panel\nshould cause the alarm to go off.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "You have to turn off the alarm\nbefore you even get close...",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "<CLT=cltMIND>So how did the person who\ndid this get near the control panel?",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Hangar's Front Shutter<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "<CLT=cltMIND>This is the control panel that controls\nthe electric barrier protecting the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltMIND>We hit it with an Electrohammer,\nso it isn't operational right now.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "That's right, I was wondering...\nWhat are these marks here?",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "<CLT=cltMIND>It looks as if it's been struck by\nsomething sharp. What could these be?",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "Ah, wait...how were they even able\nto damage this in the first place?",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "Getting near the control panel\nshould cause the alarm to go off.",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "You have to turn off the alarm\nbefore you even get close...",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "<CLT=cltMIND>So how did the person who\ndid this get near the control panel?",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nPerhaps I'll never get used to these after all.",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "<CLT=cltMIND>The Exisal isn't showing any\nsigns of moving.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "<CLT=cltMIND>If Kokichi is alive, he can use his remote\ncontrol to move them as he pleases.",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>But...that remote control Kokichi\nhas for the Exisals...",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "<CLT=cltMIND>What is it, exactly? Does he have that\nbecause he's the mastermind?",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "<CLT=cltMIND>What exactly did I witness here...?",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "<CLT=cltMIND>I know for certain that the Exisals are\nbeing controlled by Kokichi's remote control...",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "<CLT=cltMIND>But why were they focusing on Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "<CLT=cltMIND>That's about all I was concerned\nwith in the hangar...",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "But I still don't have enough clues...\nThere have to be more.",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "<CLT=cltMIND>The other places that might\nyield some clues are...",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "Maki's lab...and my lab...",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "<CLT=cltMIND>The crossbow in the bathroom,\nthe bottle of poison...",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "<CLT=cltMIND>I need to investigate those leads.",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "I should also inspect the three Exisals\nthat were protecting Monokuma.",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "Why were they protecting him\nin the first place?",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "That might be related to\nthe case as well.",
+  "tr": ""
+ }
+]

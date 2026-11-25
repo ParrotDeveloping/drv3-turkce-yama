@@ -1,0 +1,317 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give Himiko a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you bullying me? You're bullying \nme cuz no one else is around, huh?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "I wanna turn you into a lowly \nworm with my magic.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Are you bullying me? You're bullying \nme cuz no one else is around, huh?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I wanna turn you into a lowly \nworm with my magic.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Nyeeeh...I'm at a loss.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "What are you thinking giving \nme something like this?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Nyeeeh...\nI don't want it.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I don't know what you want, \nbut put that away already.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Nyeeeh...I'm at a loss.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "What are you thinking giving \nme something like this?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Nyeeeh...\nI don't want it.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I don't know what you want, \nbut put that away already.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Nyeh... For me?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Sorry, but saying thanks \nis too much work...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Hm? Was that for me?\nI didn't realize.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "If you can't give proper gifts, \nyou'll have a lot of trouble in life.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Hm...offerings for the mighty\nHimiko... Yes, this will do.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "This thing has no magic. A gift for a \nmage should be magical, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Nyeh... For me?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Sorry, but saying thanks \nis too much work...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Hm? Was that for me?\nI didn't realize.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "If you can't give proper gifts, \nyou'll have a lot of trouble in life.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Hm...offerings for the mighty\nHimiko... Yes, this will do.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "This thing has no magic. A gift for a \nmage should be magical, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Nyeh... For me?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Sorry, but saying thanks \nis too much work...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Hm? Was that for me?\nI didn't realize.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "If you can't give proper gifts, \nyou'll have a lot of trouble in life.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Hm...offerings for the mighty\nHimiko... Yes, this will do.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "This thing has no magic. A gift for a \nmage should be magical, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Nyeh... For me?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Sorry, but saying thanks \nis too much work...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Hm? Was that for me?\nI didn't realize.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "If you can't give proper gifts, \nyou'll have a lot of trouble in life.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Hm...offerings for the mighty\nHimiko... Yes, this will do.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "This thing has no magic. A gift for a \nmage should be magical, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Hmm...yes, this will do.\nNow my MP can recover.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Well, it's still not enough \nto power a big spell...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "You must have used a \n\"Find Himiko A Good Gift\" spell.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Hm, well done. I don't mind you \ngiving me more stuff from now on.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Hmm...yes, this will do.\nNow my MP can recover.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Well, it's still not enough \nto power a big spell...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "You must have used a \n\"Find Himiko A Good Gift\" spell.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Hm, well done. I don't mind you \ngiving me more stuff from now on.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Oooh...you clearly know \nwhat's important for a mage.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Hm, as thanks I'll show you \nsome of my magic.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Oooh...this is it.\nThe item I needed.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Not bad. Please bring me more stuff \nto increase my magic stat.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Oooh...you clearly know \nwhat's important for a mage.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Hm, as thanks, I'll show you \nsome of my magic.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Oooh...this is it.\nThe item I needed.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Not bad. Please bring me more stuff \nto increase my magic stat.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Okay, I won't give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "No, I want to give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Himiko a present?",
+  "tr": ""
+ }
+]

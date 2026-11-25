@@ -1,0 +1,902 @@
+[
+ {
+  "id": 0,
+  "en": "Wow! Seriously!? You're correct again!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "A-Amazing! This is the third correct\nverdict in a row!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "If you manage to get 12 correct verdicts in\na row, you'll proceed to the bonus round!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "How's this gonna last that long!?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...It's finally over.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "No, not yet.\nI haven't...heard his answer yet.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Kiyo...why?\nWhy did you kill Angie and Tenko?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Yeah! He no need to kill them both, no\nmatter what <CLT=cltSTRONG>motive<CLT=cltNORMAL> he have!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Motive?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Did your motive have something to do with \nthe transfer student who was <CLT=cltSTRONG>resurrected<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Even if it did, though...\nHow did that trigger a murder?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Don't tell me... Were you actually scared of\nthe <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>, Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Sh-Shut up!\nI never said I was scared!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Kehehe... The <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>\nhad nothing to do with it.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>Nothing to do with it...?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Because we're friends, I'll tell you...\nI never once believed in the <CLT=cltSTRONG>ritual<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I would never kill someone\nover such a silly thing as that.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...So it has nothing to do with the motive?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Th-Then...why?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "For the one that I love...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "There is...someone that I love.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "From the bottom of my heart.\nSomeone so dear...someone I long for.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I love her with all my heart.\nAnd she loves me with all her heart.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Yes, we vowed an endless love to\neach other...forever bound by fate.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "None can come between us.\nWe are bound by an intense love...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "No matter what anyone says.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Braggin' about your perfect love life!?\nFuck you! Some of us aren't that lucky...!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "So to see this lover of yours,\nyou had to escape...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "That's why you killed Angie and Tenko?\nBut, why did you need to kill both-",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "If you asked if I did it to escape this\nplace, my answer would be... \"No.\"",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Because I have no need to escape \nthis place. The one I love...is inside.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>Inside?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "D-Don't look at me!\nI...I'm not his lover!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Calm down, no one would want a disgusting\nshit-stuffed bitch like you anyway.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Wh-Wh-What the what!?!?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Kiyo! Who is it!?\nWho's this person you love!?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...Is it really one of us?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Mmm... When I say \"inside,\" \nI do not mean \"inside this academy.\"",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I mean...inside me.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Yes, the one I love lives inside me.\nMy dearest <CLT=cltSTRONG>Sister<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "S-Sister!?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "D-Don't look at me!\nI...I'm not his sister!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Well, duh. If you were his sister, he\nwould've killed himself already.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Your sister? But...didn't you say \nshe was your lover?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Kehehe... It is not that difficult.\nMy sister is my lover.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "I loved her so deeply...\nAnd she loved me so deeply...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "The fact that we were siblings...\nmeant nothing to us.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "They called it \"<CLT=cltSTRONG>forbidden love<CLT=cltNORMAL>,\" but\nnone could stop the love we shared...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Ooh... How I long for my sister's warmth...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "The only time I felt at peace...was when \nI was enveloped in my sister's warmth!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "That is why...for my beloved sister...\nI had to-",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Y-You had to escape from here, right?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "No...\nI had to kill for her.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Sister was very sickly...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "She was always in and out of the \nhospital ever since she was a child.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Because of that, she didn't have many \nfriends. She always seemed so lonely...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Even if I could be her little brother \nand her lover, I couldn't be her friend.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "So I thought I'd find her some friends.\nFriends for my <CLT=cltSTRONG>dear deceased sister<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Deceased...?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "My sister is now a ghost, so her\nfriends should be ghosts, too, right?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "For Sister's sake...I've killed many!\nTo send her 100 friends!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "They were all wonderful people!\nWorthy of being Sister's friends!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Wh-What...?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "This is too impossible to understand...!\nToo...impossible!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Kehehe... Sister is very happy.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Yes, Korekiyo... I am very happy.\nThanks to you, I am not lonely.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "C-Could it be...that the lipstick\nversion of Kiyo is...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "I am Korekiyo's older sister. Thank you \nfor looking after my little brother.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Wh-What the hell!?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "After I lost my beloved sister, I was \nso distraught, I nearly went mad.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "But Sister came to save me.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "She visited me during one of my\nseances and stayed inside me...",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Kehehe...now I can see her whenever\nI want. I'm never lonely...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "That's wonderful, Korekiyo.\nYour love made the impossible, possible.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "A-Are you...serious!?\nIs this...really a spirit!?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "He's just delusional...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Hmhmhm... What a sad girl who can't \neven believe in the power of love...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "E-Either way, he's totally outta his mind.\nI mean...he killed for a dead chick.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "You said you killed a lot already, right? \nSo it wasn't just the two you killed here?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Wh-What?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Nee-heehee... Seems like he was already\ncrazy before he got here...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "You didn't kill to escape from here—\nthat wasn't your purpose from the get-go...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "You just wanted to slaughter a bunch, huh!?",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Do not make me out to be some\nbloodthirsty, indiscriminate killer.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "I only kill girls who I think are \nworthy of being Sister's friends.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Only girls?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "I see... So when we were deciding\non who should be the medium...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Before that, let's choose a spiritual\nmedium. It would work best with a girl...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "You said it would work best with a girl.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "I spent my time evaluating\nall the girls here...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "And besides Maki and Miu,\nthey were all worthy!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "All worthy of being Sister's friends!",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "All...worthy?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Hey, how come I'm not included!?\nI mean, not like I care!",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Then...the second vicitim...\ncould've been me?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Tenko...died in place of me?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Then I'll do it.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "I can't think of anyone but me\nthat Angie's spirit should go in.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "...No, I'll do it.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Himiko would've been great, but\nTenko volunteering made me so happy...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Her noble, earnest heart made\nher a perfect friend for Sister.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "She even infiltrated the student\ncouncil to protect Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Huh? Infiltrate? Really?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "But...how did you...?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Kehehe... It was obvious to me.\nI have studied many people.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Yes! She stood up against the\ndarkness of this school all by herself!",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "All for her beloved friend!",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "I was so touched by that! Wonderful!\nShe was a perfect friend for Sister!",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Kehehe... I can't understand why\nyou didn't like her, Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Though...I was planning on having you \nbecome Sister's friend, too...eventually.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Wh-What...? You do all that for—",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "Wooow, you did all that just to kill. For you\nto go that far...that's pretty impressive.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "You were interested in <CLT=cltSTRONG>The Caged Child<CLT=cltNORMAL>,\njust so you could use it to kill someone, right?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "It interested me as an anthropologist,\nof course. But more than that...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "I wanted to kill for Sister!\nI cannot deny that overpowering feeling!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Kaito, are you okay?\nYou look...kinda pale...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "D-Don't worry about it... \nLet's focus on Kiyo right now.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Allow me to explain, though.\nI did not plan to kill both of them.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "I knew I would have plenty of\nchances after escaping this place.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "But Angie walked in on me preparing and \nI ended up killing her a different way.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "So I figured I may as well kill\nsomeone else, too.",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "After all, it would be a shame to just\nwaste the seance trick I prepared.",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "Y-You're talking like...you killed her\njust because you could...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "No, not just because I could...\nI was sending another friend to Sister.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Korekiyo, you're such a thoughtful little\nbrother. But it was bad to get greedy.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "You're right... Because of that, now I\ncan't send 100 friends to Sister.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Do you understand now? Those were the\ncircumstances of Korekiyo's crime.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "I...I do not understand. This is all too\nimpossible for me to understand.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Th-That right... Killing two friends for your\ndead sister!?",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "That...wrong! That so wrong!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "Kehehe... Oh, don't get so worked up.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "There's something I learned after\nSister's death...",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Death only changes a person's form.\nThe soul lives on as a ghost.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "That's right. Even though I'm a ghost now,\nI am always by Korekiyo's side.",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Thank you, Sister...\nI love you.",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "C-Cut it out already!",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "I don't understand anything you're saying.\nNothing's making sense.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "It's not fair! Why did Angie and Tenko \nhave to die for something so unfair!?",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Because <CLT=cltSTRONG>death<CLT=cltNORMAL> is unfair.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Nyeh!?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "All deaths are <CLT=cltSTRONG>unfair deaths<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "Why do you think news stations get such high\nratings when they're reporting about death?",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Because...everyone likes unfair deaths.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Well if you look at it like that, this whole\nkilling game embodies that philosophy, right?",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Gifted high school students forced to play\na killing game...",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Man! If people were watching this, they\nwould get a kick out of it!",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltMIND>If people were watching this...?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Knock off the bullshit! Only sick fucks\nwould enjoy watching this!",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Hell yeah! If I wasn't in this killing game,\nI would have so much fun watching!",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Kehehe... The nature of this killing\ngame is yet shrouded in mystery...",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "But my role in it is over. I have \nfinished my explanation to you, friends.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "I think I shall go and see her now...\nMy beloved sister...",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "I was unable to send her 100 friends,\nbut at least I can see her again now.",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "It's alright, sweet Korekiyo...\nCome to me.",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Looks like you're already prepared.\nNow then, let's get started...",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "It's the moment you've all been\nwaiting for—Punishment Time!",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "Punishment Time...",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "My beloved sister... At long last...\nI'll finally get to see you again...",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "Yes... From now on, no one\nwill try to stop us.",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "We can be together without having\nto hide our love from others...",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "W-Wait! I can't accept this!",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "Like I said, there's no such thing\nas a death that can be accepted.",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "Why do you think so many different\ncultures have funeral rites?",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "Why do you think rumors of ways\nto resurrect the dead never cease?",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "The living must find a reason, however \nforced, to accept death when it happens.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "How you come to terms with death\nalso determines how you live, yes?",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "Wh-What...?",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "That was the answer I reached.\nHow about you?",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "How will you live a life that faces death?",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "I've prepared a special punishment for the\n<CLT=cltSTRONG>Ultimate Anthropologist<CLT=cltNORMAL>, Korekiyo Shinguji!",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "I will watch over you all as a ghost!\nAs your friend, I will watch over you!",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "It won't be just me and Korekiyo...\nAll those who died will be watching.",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "Kehehe... I'll be watching to see how \nyou face the death of your friends.",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "I'll be watching...forever and ever...",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "Let's give it everything we've got!\nIt's...PUNISHMENT TIIIME!",
+  "tr": ""
+ }
+]

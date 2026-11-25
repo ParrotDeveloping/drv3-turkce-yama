@@ -1,0 +1,342 @@
+[
+ {
+  "id": 0,
+  "en": "Good morning, Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Nyeeeh, good morning...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Hm? Tired?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Nyeh...? It's because I ran here \nfrom my room.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>You got tired just from that...?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Ah, why did you run?\nAre you in a hurry?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I decided to live life facing forward.\nThat's why I can't stop.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Actually, I can't even walk!\nI need to be constantly running forward!",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "I-Isn't that a bit extreme?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "...Huh? It's extreme?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I know you want to be positive, but that\ndoesn't mean you have to start sprinting.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "You don't want to live *too* fast.\nIt makes me worried.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Is that so...?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I don't know...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "What don't you know?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I want to live life facing forward\nfor Tenko and Angie's sakes...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "But I don't know what I'm supposed to do.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I'm probably paying for saying that \neverything was a pain up till now...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Well, why don't we start with\ngetting some excercise?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Here, this is a keikogi belt.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "You can wear this and train in the\ndojo, just like Tenko did.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...Will that make me positive?\nCan I live life facing forward?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Ah, I can't say for certain...but it's better\nthan just sitting around doing nothing.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Hm...you're right!\nJoin me there, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltSYSTEM>Would you like to go with Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Ah, I don't think I'll be going with you...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "What!? You're not!?\nYou can't read the mood at all!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Oh well... Thanks for pointing me \nin the right direction.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>I turned her down.\nPerhaps...I should have gone with her.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Of course I will, Himiko.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Thanks, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "You're a good person. But does that make\nyou a good detective?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Ah, *apprentice* detective.\nAnyway, when did you want to train?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "They say good deeds should be done quickly,\nso I'll start right after breakfast.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Well, I'll see you later.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Himiko...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Sorry... Saying discouraging stuff like that\nis probably far from being positive...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "I probably have to...figure out what it means \nto live facing forward as I go...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Yeah...good idea.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Alright then. I'll go scarf down some breakfast.\nSee ya...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>Hey, Tenko...\nCan you see Himiko from wherever you are?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>You've reached her, Tenko.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Maki. Good morning.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "...Good morning.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>...This is a bit awkward.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>Kaito's obliviousness made last\nnight...weird.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>But the way she talked about it like\nshe didn't care, that got to me...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...Hey, about last night.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Wh-What?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "You probably assumed I didn't care...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "But, that wasn't it at all.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "It wasn't?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "You're not fit to be a detective when you\nassume things without listening first.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Maki...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>Then...what were you trying to do?\nWhy did you bring it up?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>When I used the item, the vine suddenly\nwithered... How does that work?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>Pool Entrance Zelda Gimmick Plant",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>So this is the key to the gate...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)",
+  "tr": ""
+ }
+]

@@ -1,0 +1,292 @@
+[
+ {
+  "id": 0,
+  "en": "Kaede. Is there anything you wish for me\nto do?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Huh? Not at the moment.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Then why are you speaking to me?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Why...?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Oh, that's right! Kirumi's a maid...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>So she probably thinks I want her to\ndo something for me.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Sorry, Kirumi...for giving you the wrong idea.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I just wanted to have a chat with you. You know,\nwithout any of that <CLT=cltSTRONG>Ultimate Maid<CLT=cltNORMAL> stuff.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Have a chat...with me? Of course, I do not\nmind such requests.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>It's not a request, but more like... Well, I\ndon't wanna make this more complicated.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "To be quite frank...I wished to speak to you\nas well, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Really? That's unexpected.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Is it?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Yeah, we don't have much in common... Oh, but\nI'm happy to talk anyway! Ask me anything!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Thank you. I have prepared some questions\nI would like you to answer.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>Kirumi took out a notebook...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "These questions all concern food.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Do you have any food allergies I should be\naware of?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Ummm... No, I don't have any.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Are there specific foods that you detest?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "I can't think of any foods that I really like\nor really hate.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "I see, most impressive. Then I shall move on\nto my next question...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Do you have a preference for certain\nbedding materials?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Bedding materials?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "For example, do you prefer down, buckwheat,\nmemory foam, or cotton pillows?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Ummm... The pillow I have right now is\ngood enough...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "What are you planning?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Are you doing research?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Pillows are important",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>Why is she asking this? Is this some kind\nof interrogation?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "What are you planning?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Planning?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>Kirumi gave me a confused look.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I am not planning anything.\nYou have quite an imagination, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>Sh-She laughed at me!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>It's pretty rare to see Kirumi laugh.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Are you doing research?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Oh, my apologies. Are my questions causing\nyou discomfort?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "No, I did say you could ask me anything, but...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Ah, I should have been forthright with my\nintentions.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Pillows are important.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Yes, a proper pillow will not only ensure a good\nnight's rest, but prevent maladies as well.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "The pillows in the dormitory rooms seem\nadequate, I suppose...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "But I would prefer that everyone had their\nown custom pillow.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I understand, but...why are you so concerned\nabout that?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Why wouldn't I be concerned?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Your comfort matters very much to me, Kaede.\nHence, my questions.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "With the information you have provided,\nI can provide you with greater service.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "What!? You'd do all that for me?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Not just for you, but for everyone else\nas well.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Once we are finished here, I intend to\npresent these questions to the others.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>Oh, that's why she wanted to talk to me...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "If you are not content for any reason, please\ncall for me and I shall fulfill any request.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "O-Okay, thanks.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltMIND>Kirumi sure loves to take care of people...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltSYSTEM>Kirumi's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>After parting ways with Kirumi, I returned\nto my room.",
+  "tr": ""
+ }
+]

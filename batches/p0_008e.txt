@@ -1,0 +1,59 @@
+@ chap0_text_US
+## c00_008_250
+149|Aşk Süiti
+150|Aşk Süiti
+## c00_008_251
+1|<CLT=cltMIND>Vay... Bu adam korkutucu görünüyor.\nÇok iri ve kaslı...
+2|Şey...affedersin?
+3|...Hm?
+4|Ah! Teşekkür ederim!
+5|Ha? Teşekkür mü?
+6|Ah! Korkuttuğu için özür!
+7|Gonta korkunç görünüyor. Çoğu insan ilk\ntanışınca Gonta ile konuşmak istemez.
+8|O yüzden, centilmen gibi, Gonta teşekkür eder!\nGonta ile konuştuğun için teşekkürler!
+9|Şey...bu kadar kibar olduğun için teşekkürler.
+10|<CLT=cltMIND>Korkutucu görünüyor ama...hiç de\nkorkutucu biri gibi durmuyor.
+11|Ah...doğru!\nGonta kendini tanıtmalı!
+12|Şeyy... Gonta'nın adı Gonta Gokuhara.\nGonta'nın yeteneği <CLT=cltSTRONG>Ultimate Böcekbilimci<CLT=cltNORMAL>.
+13|Gonta centilmen olmak istiyor!\nGerçek centilmen olmak Gonta'nın hedefi!
+14|Ah, demek sen Gonta'sın.\nÇok tatlı bir isim.
+15|G-Gerçekten mi? T-Teşekkürler.
+16|Ayy, aslında çok iyi birisin.\nBaşta bu kadar korkmam ne saçmaymış.
+17|Ah... Gonta korkunç görünüyor, ha?
+18|Ah, özür dilerim...\nÖyle demek istememiştim...
+19|Yok, sorun değil. Gonta alışkın.\nGonta çocukluğundan beri korkunç denir.
+20|Çocukluğundan beri mi?
+21|Çocuk Gonta diğer çocuklardan büyüktü.\nDiğer çocuklar Gonta'dan korkardı...
+22|O yüzden çocuk Gonta yalnız oynardı. Gonta\nböcekleri böyle sevdi.
+23|Ama...Gonta çok odaklanınca etrafı\nkolayca unutur...
+24|Bir gün Gonta böcek bulmak için ormana gitti.\nSonunda kayboldu...
+25|Çok zor olmalı... Seni hemen\nbulabildiler mi?
+26|Evet... Gerçi on yıl sürdü.
+27|On yıl mı!?
+28|Ama Gonta iyiydi.\nYeni aile Gonta'ya baktı.
+29|A-Anlıyorum... İyi insanlar olmalarına sevindim.
+30|Ah...insan değil. Kurtlar.
+31|Kurtlar mı!?
+32|Ama çok iyiler.
+33|Orman ailesi sayesinde Gonta böcek ve\nhayvan dili konuşmayı öğrendi.
+34|Teşekkür olarak Gonta orman ailesine ne\nharika centilmen olduğunu göstermek istiyor!
+35|<CLT=cltMIND>Şey... Centilmen olmak onlara nasıl\nteşekkür etmek oluyor ki?
+36|Burası tuhaf, ha?\nBir sürü bitki var ama hiç böcek yok.
+37|...Dur, gerçekten mi? Hayvan olmaması\nanlaşılır ama hiç böcek de mi yok?
+38|Bu...tuhaf.\nTek bir böcek bile—
+39|Sen de böcek sever misin?
+40|Hey, en sevdiğin böcek ne!?\nOnların nesini seviyorsun!?
+41|Ah, h-hayır, böcekleri *sevdiğimi*\nsöylemiyordum...
+42|O zaman sen...böceklerden nefret mi ediyorsun?
+44|S-Sen...böceklerden nefret mi ediyorsun!?
+45|Ş-Şey...böceklerden nefret etmiyorsun!\nOnlara *bayılıyorsun*! Değil mi, Shuichi?
+46|E-Evet! Tabii ki!\nBen...böceklere...bayılırım?
+48|...Ah, tamam. Bu iyi.\nKötü insan böcek sevmez.
+49|<CLT=cltSYSTEM>Gonta'nın <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+50|...Bu korkutucuydu.
+51|<CLT=cltMIND>Of, evet...\nÖleceksin sandım.
+52|<CLT=cltMIND>Açıkçası ben de böceklere dayanamam,\nama bunu saklamak en iyisi olabilir...
+53|Burası çok tuhaf...
+54|Bir sürü yeşillik var ama böcek yok...\nNeden?
+58|Sanırım öyle...
+62|Sanırım öyle...

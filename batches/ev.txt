@@ -1,0 +1,507 @@
+@ game_resident_US
+## O-Event
+0|Sıfırdan Okul Hayatı
+1|Umutsuzluğa Davet
+2|Kim Yuvarlanarak Geldi
+3|Kaçırılma
+4|Umutsuzluğun Başlangıcı
+5|15 Arkadaş
+6|Umutsuzluk Robotu
+7|Re: Sıfırdan Okul Hayatı
+8|Umutsuzluğa Davet Seviye 2
+9|Kim Yine Yuvarlanarak Geldi
+10|Kaede'nin Hikâyesi
+11|Gizemli Cihaz
+12|Mühürlü Akademi
+13|Merhaba Umutsuzluk Robotu!
+14|Süper Exisal Savaşı
+15|Monokuma Tanrısını Cezalandır
+16|Kırmızı Ayıyı Cezalandır
+17|Duruşma Açıklaması V3
+18|Monokuma'nın Gözleri V3
+19|Hayatta Kalmak İçin Savaş!
+20|Ölüm Oyunu Başlıyor
+21|Akademi Kuralları
+22|Güvenilir Gonta!
+23|Umutsuzluğa Hoş Geldin
+24|Yine mi Umutsuzluk İstiyorsun!?
+25|Monokuma'nın Motif Videoları
+26|Monokuma Öldü mü!?
+27|Çocukları Şımart
+28|Boyun Eğmek
+29|Yeraltına Davet
+30|Hava Dolaşımı!
+31|Taslak
+32|Gizli Kameralar!
+33|Suçluluk
+34|Umutsuzluğun Eli
+35|Yavaşça...
+36|Monokuma Dosyası
+37|Her Şeyi Kaydet
+38|Eşdeğer Takas
+39|Cinayet!
+40|Herkes, Çabuk Gelin!
+41|Ultimate Yetenek Akademisi
+42|Fotoğrafları İncelemek
+43|Rantaro Ortaya Çıkıyor!
+44|Fotoğrafların Hikâyesi
+45|Rantaro'yu Aramak
+46|Fotoğraf Çekmek Yasak!
+47|Sessiz Asansör
+48|Sırlar
+49|Sınıf Duruşması Katılımcısı 1
+50|Sınıf Duruşması Katılımcısı 2
+51|Sınıf Duruşması Katılımcısı 3
+52|Koridor Taslağı
+53|Uzun Bir Sırıkla...
+54|Yukarıdan Fotoğraf
+55|Güllenin Rotası
+56|Exisal'larla Savaş!
+57|Sana Yumruk Atan Bana İnan!
+58|Kaede'nin Dileği
+59|Ölüm Oyunu Tanıtım Videosu
+60|Yetenek İmhası
+61|Gizemli Harfler
+62|Yeni Başlangıç!
+63|Gizli Eşyalar
+64|Gölgeye Saldırı
+65|Gizemli Cihaz B Yüzü
+66|Kaito'nun Motif Videosu
+67|Monoyavru Yemeği
+68|Eğitim Başlıyor!
+69|Hadi Bir Kule Yapalım
+70|Bu Aura da Ne!?
+71|Bu Gonta!
+72|Kokichi'nin Sürpriz Saldırısı
+73|Böcek Buluşması
+74|Böcek Buluşması LOL
+75|Keebo'nun Kayıt Cihazı
+76|Sihir Gösterisi Açılışı!
+77|Sihir Gösterisi Açılışı!!
+78|Sihir Gösterisi Açılışı!!!
+79|Sihir Gösterisi Açılışı!!!!
+80|Sihir Gösterisi Açılışı!!!!!
+81|Sahnede Huzursuzluk
+82|Haydi! Keebo!
+83|Gizli Monokuma Dosyası
+84|Aşağı Bakmak...
+85|Kaçışı Hayal Etmek
+86|Beden Değiştirmek
+87|Kadının Silahı
+88|Bu Eşyayı Getirdim
+89|Halat Sihri
+90|Okul Binası İnşaatı
+91|Hadi Birlikte Yapalım!
+92|Teleferik Sihri
+93|Kirumi'nin Motif Videosu
+94|Yük
+95|Hayatta Kalmaktan Vazgeçmek
+96|Ryoma'nın Motif Videosu
+97|ÖLMEYECEĞİM!
+98|Halka Açık İnfaz mı!?
+99|Simit Neden Bırakıldı?
+100|Derin Darbe
+101|Toplumsal Kargaşa
+102|Gizli Eşyalar II
+103|Tenko'nun Antrenmanı! Erkekler Baskısı
+104|Tenko'nun Antrenmanı! Kızlar Baskısı
+105|Bu Benim İlk Seferim...
+106|Ultimate Kayıp
+107|Maki'nin Süper Hızlı Şınavları
+108|Şok Edici Bir Motif!
+109|Gizemli Şekilde Değişen Mesaj
+110|Tanrı'nın Armağanı
+111|Öğrenci Konseyi
+112|Birlikte Antrenman
+113|Kızıl Saçlı ve Kara Gözlü Tanrı
+114|Öğrenci Konseyinin Yetkisi
+115|Sorun Çıkaran Monokuma Dosyası
+116|Necronomicon
+117|Kafesli Köpek Köyü
+118|Seans Hazırlığı: Kader
+119|Seans Hazırlığı: Tuz
+120|Seans Hazırlığı: Ziyafet
+121|Mum Kayboluyor
+122|Kafesteki Çocuk
+123|Yanan Mum
+124|Seans: Kin
+125|Seans: İyilik
+126|Yala Yala
+127|Ek Monokuma Dosyası
+128|Lanetli mi!?
+129|Gözlerden Işık!
+130|Maymuncuk Numarası
+131|Havalı Bir Tahterevalli
+132|Entrikacı Cadı
+133|Kayıt Fonksiyonu!
+134|Seanstan Hemen Önceki Fotoğraf
+135|Boş Odadaki Angie
+136|Sonsuz Aşk
+137|Kaybedilen
+138|Duyguyu Taşı
+139|Burada Ölecek Değilim...
+140|Rantaro'dan Bir Mesaj
+141|Ek Mesaj
+142|Silah Tavadır!
+143|Gizli Eşyalar III
+144|Tsumugi'nin Kabaresi
+145|Tarikat
+146|Devasa Uzay Karın Kasları
+147|Ezici Yumruk!
+148|Ultimate Çocuk Bakıcısı...?
+149|Yetimhanede Hayat
+150|Suikastçı Olarak Hayat
+151|Gece 3'te
+152|Konuşmak İstiyorum
+153|Son Teknoloji
+154|Konak Haritası
+155|Dünya Haritası
+156|Paralel Evren Monokuma Dosyası
+157|Ateşi Yak
+158|Giriş/Çıkış Kaydı
+159|Son Teknoloji Diriliyor
+161|Ölüm Oyunu Avcıları
+162|Tuvalet Kâğıdı Cinayeti
+163|Kâğıdı Kullan
+164|Alter Ego Gonta
+165|Kokichi'nin Deliliği
+166|Gerçek Kokichi'nin Deliliği
+167|Adalet Yumruğu!
+168|Sadece Soğuk Algınlığı...
+169|Ultimate Bir Lider
+170|Bu Dünya Bana Ait
+171|Monokuma'nın Cenazesi
+172|Gizli Eşyalar IV
+173|Robot Vücut Deneyi
+174|Arbalet Montajı
+175|Burada Ölecek Değilim Lan...
+176|İmha Planı
+177|Suikast Becerileri Devrede!
+178|Gofer Projesi
+179|16 Lise Öğrencisi
+180|Gemiyi Fırlatmak
+181|Akademi Panoraması
+182|Dışarıdaki Manzara
+183|Beynin Maskesi Düşüyor!
+184|İşte Buna Umutsuzluk Denir!
+185|Hope's Peak Akademisi Panoraması
+186|Trajedi
+187|Umutsuzluktaki Kız
+188|Umutsuz Lise Öğrencisi
+189|Umutsuzluk Başlıyor
+190|Gelecek Vakfı - Kalıntılar
+191|Yeniden İnşa Edilen Hope's Peak
+192|Virüs Yayılıyor
+193|Her Şey Bağlantılı...
+194|Ultimate Umutsuzluk Geldi!
+195|Umutsuzluktaki Ölüm Oyunu
+196|Erkek Sözü
+197|Görülmemiş Bir Kafa Karışıklığı
+198|İnsan Presi
+199|Ceza Vakti!
+200|Şüpheli Monokuma Dosyası
+201|Sinsi Sihirbaz
+202|Hangar Planı
+203|Kaito'nun İsyanı
+204|Kalıntılara Suikast
+205|Hayatta Kalmak İçin...
+206|Buna Bir Son Verelim...
+207|Gerçek Kokichi
+208|Yavruların İkinci Gelişi
+209|Keebo'nun Uyanışı!
+210|Yok Edilmiş Akademi
+211|Özel Bir Hatıra!
+212|Ultimate Umutsuzluk!
+213|Kaito'nun Geride Bıraktığı
+214|Makoto'nun Günlük Hayatı
+215|Odaklanacak Bir Şey
+216|Yok Edici Keebo
+217|Ölüm Oyunu Timi
+218|Ultimate Savaş
+219|Hope's Peak Resmi Belgeleri
+220|Bebekle Anılar
+221|Umutsuzluk Olayı
+222|Kokichi'nin Motif Videosu
+223|Bebekle Anılar
+224|Duvardaki Yazı
+225|İnsanlığın Kaderi
+226|Roketatarı Ateşle!
+228|Umudumuz
+229|Naber!? Exisal'lar!
+230|Karışmana İzin Vermeyeceğim!
+231|Roketleri Ateşle!
+232|Hayatta Kalan Ayrıcalıkları
+233|Keebo - Exisal'lar
+234|Sonun Başlangıcı
+235|Keebo'nun Büyüteç Gözleri!
+236|Keebo'nun Keskin Kulakları!
+237|Rantaro Amami Davası
+238|Beynin Suçu
+239|Şüphelinin Hareketleri
+240|Junko Enoshima Geldi
+241|Bitmeyen Göç
+242|Şişedeki Laboratuvar
+243|Danganronpa'nın Cazibesi
+244|Geçmiş Danganronpa'lar
+245|Yeni Danganronpa V3!
+246|Shuichi'nin Seçmesi
+247|Kaede'nin Seçmesi
+248|Kaito'nun Seçmesi
+249|V3 Anıları
+250|İç Sesler
+251|İzleyicilerin Gözleri
+252|Ölüm Oyununun Kurbanları
+253|Keebo'nun Son Formu
+254|Kaede'nin Tırnak Sanatı
+255|Kaito'nun Kumar Sorunu
+256|Sahte Ünlü
+257|Erkek Tutkusu, Uzay Baskısı
+258|Maki ve Katana
+259|Himiko'nun Eğitimi
+260|Ultimate Tanıtım: Shuichi Saihara
+261|Ultimate Tanıtım: Kaito Momota
+262|Ultimate Tanıtım: Ryoma Hoshi
+263|Ultimate Tanıtım: Rantaro Amami
+264|Ultimate Tanıtım: Gonta Gokuhara
+265|Ultimate Tanıtım: Kokichi Oma
+266|Ultimate Tanıtım: Korekiyo Shinguji
+267|Ultimate Tanıtım: K1-B0
+268|Ultimate Tanıtım: Kirumi Tojo
+269|Ultimate Tanıtım: Himiko Yumeno
+270|Ultimate Tanıtım: Maki Harukawa
+271|Ultimate Tanıtım: Tenko Chabashira
+272|Ultimate Tanıtım: Tsumugi Shirogane
+273|Ultimate Tanıtım: Angie Yonaga
+274|Ultimate Tanıtım: Miu Iruma
+275|Ultimate Tanıtım: Kaede Akamatsu
+276|Ultimate Tanıtım: Monokuma
+277|Yeni Ultimate Tanıtım: Junko Enoshima
+278|Ultimate Tanıtım: Hope Robot
+279|Monokuma Tiyatrosu 1 (1. Bölüm)
+280|Monokuma Tiyatrosu 2 (1. Bölüm)
+281|Monokuma Tiyatrosu 3 (1. Bölüm)
+282|Boş
+283|Monokuma Tiyatrosu 4 (2. Bölüm)
+284|Monokuma Tiyatrosu 5 (2. Bölüm)
+285|Monokuma Tiyatrosu 6 (2. Bölüm)
+286|Monodam Tiyatrosu 1 (3. Bölüm)
+287|Monodam Tiyatrosu 2 (3. Bölüm)
+288|Monodam Tiyatrosu 3 (3. Bölüm)
+289|Monokuma Tiyatrosu 7 (4. Bölüm)
+290|Monokuma Tiyatrosu 8 (4. Bölüm)
+291|Monokuma Tiyatrosu 9 (5. Bölüm)
+292|Monokuma Tiyatrosu 10 (5. Bölüm)
+293|Monokuma Tiyatrosu 11 (5. Bölüm)
+294|Monokuma Tiyatrosu 12 (5. Bölüm)
+295|Monokuma & Monoyavrular Tiyatrosu 1
+296|Monokuma & Monoyavrular Tiyatrosu 2
+297|Monokuma & Monoyavrular Tiyatrosu 3
+298|Monokuma & Monoyavrular Tiyatrosu 4
+299|Monokuma & Monoyavrular Tiyatrosu 5
+300|Monokuma & Monoyavrular TV Klibi
+301|Keebo'nun Gözleri!
+302|Keebo'nun Kulakları!
+303|Hesaplaşmaya Giden Asansör
+305|Kaede Akamatsu?
+306|Beynin Suçları
+307|Şüphelinin Hareketleri
+308|Junko Enoshima Geldi
+309|Mahsur Kalmış 15 Öğrenci
+310|Junko Enoshima'nın Ölümü
+311|Hatıra Işığı Karatahtası
+312|Tsumugi'nin Hatıra Işığı
+313|Uydurma Anılar
+314|Kurgu ve Gerçeklik
+315|Danganronpa'nın Cazibesi
+316|Geçmiş Danganronpa'lar
+317|Yeni Danganronpa V3!
+318|Shuichi'nin Seçmesi
+319|Kaede'nin Seçmesi
+320|Kaito'nun Seçmesi
+321|V3 Anıları
+322|KÖTÜ SON
+323|KÖTÜ SON
+324|İç Sesler
+325|İzleyicilerin Gözleri
+326|Ölüm Oyununun Kurbanları
+327|Keebo'nun Son Formu
+328|Kurgudan Kaçış
+329|Duvarın Ötesi
+330|Umut mu Uçurum mu?
+331|Danganronpa V3
+332|Danganronpa 1~3
+333|Önümüzde Ne Var
+334|Son Sahne
+336|Kaede'nin Tırnak Sanatı
+337|Kaito'nun Kumar Sorunu
+338|Sahte Ünlü
+339|Erkek Tutkusu, Uzay Baskısı
+340|Maki ve Katana
+341|Himiko'nun Eğitimi
+342|Ultimate Tanıtım: Shuichi Saihara
+343|Ultimate Tanıtım: Kaito Momota
+344|Ultimate Tanıtım: Ryoma Hoshi
+345|Ultimate Tanıtım: Rantaro Amami
+346|Ultimate Tanıtım: Gonta Gokuhara
+347|Ultimate Tanıtım: Kokichi Oma
+348|Ultimate Tanıtım: Korekiyo Shinguji
+349|Ultimate Tanıtım: K1-B0
+350|Ultimate Tanıtım: Kirumi Tojo
+351|Ultimate Tanıtım: Himiko Yumeno
+352|Ultimate Tanıtım: Maki Harukawa
+353|Ultimate Tanıtım: Tenko Chabashira
+354|Ultimate Tanıtım: Tsumugi Shirogane
+355|Ultimate Tanıtım: Angie Yonaga
+356|Ultimate Tanıtım: Miu Iruma
+357|Ultimate Tanıtım: Kaede Akamatsu
+358|Ultimate Tanıtım: Monokuma
+359|Yeni Ultimate Tanıtım: Junko Enoshima
+360|Ultimate Tanıtım: Hope Robot
+361|Monokuma Tiyatrosu 1 (1. Bölüm)
+362|Monokuma Tiyatrosu 2 (1. Bölüm)
+363|Monokuma Tiyatrosu 3 (1. Bölüm)
+364|Monokuma Tiyatrosu 4 (1. Bölüm)
+365|Monokuma Tiyatrosu 5 (2. Bölüm)
+366|Monokuma Tiyatrosu 6 (2. Bölüm)
+367|Monokuma Tiyatrosu 7 (2. Bölüm)
+368|Monokuma Tiyatrosu 1 (3. Bölüm)
+369|Monokuma Tiyatrosu 2 (3. Bölüm)
+370|Monokuma Tiyatrosu 3 (1. Bölüm)
+371|Monokuma Tiyatrosu 8 (4. Bölüm)
+372|Monokuma Tiyatrosu 9 (4. Bölüm)
+373|Monokuma Tiyatrosu 10 (5. Bölüm)
+374|Monokuma Tiyatrosu 11 (5. Bölüm)
+375|Monokuma Tiyatrosu 12 (5. Bölüm)
+376|Monokuma Tiyatrosu 13 (5. Bölüm)
+377|Monokuma & Monoyavrular Tiyatrosu 1
+378|Monokuma & Monoyavrular Tiyatrosu 2
+379|Monokuma & Monoyavrular Tiyatrosu 3
+380|Monokuma & Monoyavrular Tiyatrosu 4
+381|Monokuma & Monoyavrular Tiyatrosu 5
+## O-Shinmitsu
+0|Shuichi Saihara Bağ Seviyesi 1
+1|Shuichi Saihara Bağ Seviyesi 2
+2|Kaito Momota Bağ Seviyesi 1
+3|Kaito Momota Bağ Seviyesi 2
+4|Ryoma Hoshi Bağ Seviyesi 1
+5|Ryoma Hoshi Bağ Seviyesi 2
+6|Rantaro Amami Bağ Seviyesi 1
+7|Rantaro Amami Bağ Seviyesi 2
+8|Gonta Gokuhara Bağ Seviyesi 1
+9|Gonta Gokuhara Bağ Seviyesi 2
+10|Kokichi Oma Bağ Seviyesi 1
+11|Kokichi Oma Bağ Seviyesi 2
+12|Korekiyo Shinguji Bağ Seviyesi 1
+13|Korekiyo Shinguji Bağ Seviyesi 2
+14|K1-B0 Bağ Seviyesi 1
+15|K1-B0 Bağ Seviyesi 2
+16|Kirumi Tojo Bağ Seviyesi 1
+17|Kirumi Tojo Bağ Seviyesi 2
+18|Himiko Yumeno Bağ Seviyesi 1
+19|Himiko Yumeno Bağ Seviyesi 2
+20|Maki Harukawa Bağ Seviyesi 1
+21|Maki Harukawa Bağ Seviyesi 2
+22|Tenko Chabashira Bağ Seviyesi 1
+23|Tenko Chabashira Bağ Seviyesi 2
+24|Tsumugi Shirogane Bağ Seviyesi 1
+25|Tsumugi Shirogane Bağ Seviyesi 2
+26|Angie Yonaga Bağ Seviyesi 1
+27|Angie Yonaga Bağ Seviyesi 2
+28|Miu Iruma Bağ Seviyesi 1
+29|Miu Iruma Bağ Seviyesi 2
+30|Kaito Momota Bağ Seviyesi 1
+31|Kaito Momota Bağ Seviyesi 2
+32|Kaito Momota Bağ Seviyesi 3
+33|Kaito Momota Bağ Seviyesi 4
+34|Kaito Momota Bağ Seviyesi 5
+35|Ryoma Hoshi Bağ Seviyesi 1
+36|Ryoma Hoshi Bağ Seviyesi 2
+37|Ryoma Hoshi Bağ Seviyesi 3
+38|Ryoma Hoshi Bağ Seviyesi 4
+39|Ryoma Hoshi Bağ Seviyesi 5
+40|Rantaro Amami Bağ Seviyesi 1
+41|Rantaro Amami Bağ Seviyesi 2
+42|Rantaro Amami Bağ Seviyesi 3
+43|Rantaro Amami Bağ Seviyesi 4
+44|Rantaro Amami Bağ Seviyesi 5
+45|Gonta Gokuhara Bağ Seviyesi 1
+46|Gonta Gokuhara Bağ Seviyesi 2
+47|Gonta Gokuhara Bağ Seviyesi 3
+48|Gonta Gokuhara Bağ Seviyesi 4
+49|Gonta Gokuhara Bağ Seviyesi 5
+50|Kokichi Oma Bağ Seviyesi 1
+51|Kokichi Oma Bağ Seviyesi 2
+52|Kokichi Oma Bağ Seviyesi 3
+53|Kokichi Oma Bağ Seviyesi 4
+54|Kokichi Oma Bağ Seviyesi 5
+55|Korekiyo Shinguji Bağ Seviyesi 1
+56|Korekiyo Shinguji Bağ Seviyesi 2
+57|Korekiyo Shinguji Bağ Seviyesi 3
+58|Korekiyo Shinguji Bağ Seviyesi 4
+59|Korekiyo Shinguji Bağ Seviyesi 5
+60|K1-B0 Bağ Seviyesi 1
+61|K1-B0 Bağ Seviyesi 2
+62|K1-B0 Bağ Seviyesi 3
+63|K1-B0 Bağ Seviyesi 4
+64|K1-B0 Bağ Seviyesi 5
+65|Kirumi Tojo Bağ Seviyesi 1
+66|Kirumi Tojo Bağ Seviyesi 2
+67|Kirumi Tojo Bağ Seviyesi 3
+68|Kirumi Tojo Bağ Seviyesi 4
+69|Kirumi Tojo Bağ Seviyesi 5
+70|Himiko Yumeno Bağ Seviyesi 1
+71|Himiko Yumeno Bağ Seviyesi 2
+72|Himiko Yumeno Bağ Seviyesi 3
+73|Himiko Yumeno Bağ Seviyesi 4
+74|Himiko Yumeno Bağ Seviyesi 5
+75|Maki Harukawa Bağ Seviyesi 1
+76|Maki Harukawa Bağ Seviyesi 2
+77|Maki Harukawa Bağ Seviyesi 3
+78|Maki Harukawa Bağ Seviyesi 4
+79|Maki Harukawa Bağ Seviyesi 5
+80|Tenko Chabashira Bağ Seviyesi 1
+81|Tenko Chabashira Bağ Seviyesi 2
+82|Tenko Chabashira Bağ Seviyesi 3
+83|Tenko Chabashira Bağ Seviyesi 4
+84|Tenko Chabashira Bağ Seviyesi 5
+85|Tsumugi Shirogane Bağ Seviyesi 1
+86|Tsumugi Shirogane Bağ Seviyesi 2
+87|Tsumugi Shirogane Bağ Seviyesi 3
+88|Tsumugi Shirogane Bağ Seviyesi 4
+89|Tsumugi Shirogane Bağ Seviyesi 5
+90|Angie Yonaga Bağ Seviyesi 1
+91|Angie Yonaga Bağ Seviyesi 2
+92|Angie Yonaga Bağ Seviyesi 3
+93|Angie Yonaga Bağ Seviyesi 4
+94|Angie Yonaga Bağ Seviyesi 5
+95|Miu Iruma Bağ Seviyesi 1
+96|Miu Iruma Bağ Seviyesi 2
+97|Miu Iruma Bağ Seviyesi 3
+98|Miu Iruma Bağ Seviyesi 4
+99|Miu Iruma Bağ Seviyesi 5
+100|Kaede Akamatsu Bağ Seviyesi 1
+101|Kaede Akamatsu Bağ Seviyesi 2
+102|Kaede Akamatsu Bağ Seviyesi 3
+103|Kaede Akamatsu Bağ Seviyesi 4
+104|Kaede Akamatsu Bağ Seviyesi 5
+105|Kaito Momota Olayı
+106|Ryoma Hoshi Olayı
+107|Rantaro Amami Olayı
+108|Gonta Gokuhara Olayı
+109|Kokichi Oma Olayı
+110|Korekiyo Shinguji Olayı
+111|K1-B0 Olayı
+112|Kirumi Tojo Olayı
+113|Himiko Yumeno Olayı
+114|Maki Harukawa Olayı
+115|Tenko Chabashira Olayı
+116|Tsumugi Shirogane Olayı
+117|Angie Yonaga Olayı
+118|Miu Iruma Olayı
+119|Kaede Akamatsu Olayı
+120|Kaede'nin Tırnak Sanatı
+121|Kaito'nun Kumar Sorunu
+122|Sahte Ünlü
+123|Erkek Tutkusu, Uzay Baskısı
+124|Maki ve Katana
+125|Himiko'nun Eğitimi

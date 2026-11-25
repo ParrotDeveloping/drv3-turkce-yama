@@ -1,0 +1,277 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>That bottle of poison in the hangar...\nI need to confirm that it came from here.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>There's still some things I\nshould investigate here.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>There are several bottles of poison\nlined up here...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I haven't seen any poison outside\nof this lab, so...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>The small bottle of poison I found\nmust have come from here.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...Hm?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>There's...a little less liquid inside\nthis bottle than the others...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>The label says \"<CLT=cltSTRONG>Strike-9<CLT=cltMIND>\" poison.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>This poison takes some time to spread,\nbut even a small amount of it...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Can be lethal.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>I can't imagine that there's a smaller\namount in this bottle for no reason.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>This must be a clue.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Poison<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>There are several bottles of poison\nlined up here...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>I haven't seen any poison outside\nof this lab, so...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>The bottle of poison found in the\nhangar must have come from here.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>This bottle has a little less liquid in it...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>The label says \"<CLT=cltSTRONG>Strike-9<CLT=cltMIND>\" poison.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>This poison takes some time to spread,\nbut even a small amount of it...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Can be lethal.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>I can't imagine that there's a smaller\namount in this bottle for no reason.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>This must be a clue.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>Case files, lined up for me to read.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>There's nothing off about them.\nThey don't seem to be related.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltMIND>There are a bunch of bottles on top\nof the desk...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>Did someone take them out?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>These bottles say \"<CLT=cltSTRONG>antidote<CLT=cltMIND>.\"",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Antidotes, huh? I didn't know\nthese were here...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltMIND>According to the labels, each\nbottle is only one dose.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>And each one only works on a specific poison.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Well, I suppose that makes sense.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "There are plenty different kinds of poison,\nso that must be true for antidotes.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>There are a bunch of bottles on top\nof the desk. Did someone take them out?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>These bottles say \"<CLT=cltSTRONG>antidote<CLT=cltMIND>.\"",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>According to the labels, each\nbottle is only one dose.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>And each one only works on a specific poison.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Well, I suppose that makes sense.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "There are plenty different kinds of poison,\nso that must be true for antidotes.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltSTRONG>Strike-9 Poison<CLT=cltMIND> and <CLT=cltSTRONG>antidotes<CLT=cltMIND>.\nThat is disconcerting...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>...None of these antidotes are for\nthe Strike-9 poison.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>They're all for different poisons.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>What could that mean?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Alright...I've investigated this room thoroughly.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>I didn't find any evidence to\nsuggest Kaito isn't dead...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>On the contrary, there's plenty of\nevidence to suggest *Kokichi* isn't dead.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Monokuma is still moving around,\nand the killing game hasn't ended.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>And...Kaito's clothes were in\nthe hydraulic press...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>Which means...the victim must be...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "No, it's too soon to be thinking like that.\nIf I investigate a little more, I'll find something.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>There's still time...\nI should head back to the hangar.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>Perhaps I missed something...\nI should check again.",
+  "tr": ""
+ }
+]

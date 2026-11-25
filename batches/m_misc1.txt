@@ -1,0 +1,168 @@
+@ game_resident_US
+## G-Casino
+0|Yeterli kumarhane jetonu yok.\nMonocoin'leri jetonla takas etmek ister misin?
+1|Oyun başlıyor.\nHazır mısın?
+2|BAHİS olarak koyduğun jetonlar OUTLAW RUN'da\nne kadar iyi puan aldığına göre katlanır.\nBüyük kazanç için yüksek puana oyna!
+3|BAHİS olarak koyduğun jetonlar TREASURE HUNTER! Monolith'te\nne kadar iyi puan aldığına göre katlanır.\nBüyük kazanç için yüksek puana oyna!
+4|BAHİS olarak koyduğun jetonlar SALMON FISHING'de\nne kadar iyi puan aldığına göre katlanır.\nBüyük kazanç için yüksek puana oyna!
+5|Normal zorluğun kilidi açıldı!
+6|Acımasız zorluğun kilidi açıldı!
+7|Kaç Monocoin kumarhane jetonuyla\ntakas edilsin?
+8|Hiç Monocoin'in yok...
+9|Ne Monocoin'in ne de kumarhane jetonun var!\nİşte sana özel bir hediye, Ultimate Kaybeden!\n\n<DIG=●> kumarhane jetonu kazandın!
+10|Monocoin'ler kumarhane jetonuyla takas ediliyor.\nEmin misin?
+11|Bu ödül için <DIG=●> kumarhane jetonu\ntakas etmek istiyor musun?
+12|Bu ödül <DIG=●> kumarhane jetonu.
+103|MonoMono Slot
+110|1000 Monocoin için deseni tuttur!
+111|20 Monocoin için deseni tuttur!\nHiç WILD kullanmadan Monokuma ile 200!
+112|Bütün desenler sıfırlanır ama daha azını\nalırsın. Bir değişiklik daha için sadece WILD kullan.
+113|3'ten fazla çıkarsa 5 bonus oyun kazanırsın.\nBütün SCATTER'lar WILD'a dönüşür.
+## O-Artwork
+0|Shuichi'nin Tasarımı
+1|Kaito'nun Tasarımı
+2|Ryoma'nın Tasarımı
+3|Rantaro'nun Tasarımı
+4|Gonta'nın Tasarımı
+5|Kokichi'nin Tasarımı
+6|Korekiyo'nun Tasarımı
+7|K1-B0'ın Tasarımı
+8|Kirumi'nin Tasarımı
+9|Himiko'nun Tasarımı
+10|Maki'nin Tasarımı
+11|Tenko'nun Tasarımı
+12|Tsumugi'nin Tasarımı
+13|Angie'nin Tasarımı
+14|Miu'nun Tasarımı
+15|Kaede'nin Tasarımı
+16|Monoyavruların Tasarımı
+17|Exisal'ların Tasarımı
+18|K1-B0'ın Silah Tasarımı
+19|K1-B0'ın Son Form Tasarımı
+## O-Movie
+0|Açılış
+1|Jenerik
+2|Tanıtım Videosu
+3|Monoyavrular Geliyor
+4|16'nın Dönüşümü
+5|Kaede'nin Hatıra Işığı
+6|Monokuma Geliyor
+7|Epilog
+8|Tanıtım Videosu Tekrar
+9|Shuichi'nin Hatıra Işığı
+10|5. Bölüm Hatıra Işığı
+11|İnfaz: Der Flohwalzer
+12|İnfaz: Işkence Sicimi
+13|İnfaz: Kültürel Erime Potası
+14|İnfaz: Vahşi Batı Böcek İlacı
+15|İnfaz: Fırlat! 2. Ateşleme
+16|İnfaz: Ultimate İmha
+17|Şüpheli Geliyor
+18|???
+19|Hatırla
+20|K1-B0'ın Öfkesi
+21|Oylama: 1. Bölüm "Kaede Akamatsu"
+22|Oylama: 2. Bölüm "Kirumi Tojo"
+23|Oylama: 3. Bölüm "Korekiyo Shinguji"
+24|Oylama: 4. Bölüm "Gonta Gokuhara"
+25|Oylama: 5. Bölüm "Kaito Momota"
+26|Oylama: 6. Bölüm "Tsumugi Shirogane"
+27|Rantaro'nun Cesedinin Bulunuşu
+28|Ryoma'nın Cesedinin Bulunuşu
+29|Angie'nin Cesedinin Bulunuşu
+30|Tenko'nun Cesedinin Bulunuşu
+31|Miu'nun Cesedinin Bulunuşu
+32|Kaito'nun? Cesedinin Bulunuşu
+33|Kokichi'nin Cesedinin Bulunuşu
+34|Duruşma Salonunun Dönüşümü (1. Bölüm)
+35|Duruşma Salonunun Dönüşümü (2. Bölüm)
+36|Duruşma Salonunun Dönüşümü (3. Bölüm)
+37|Duruşma Salonunun Dönüşümü (4. Bölüm)
+38|Duruşma Salonunun Dönüşümü (5. Bölüm)
+39|Duruşma Salonunun Dönüşümü (6. Bölüm)
+40|Yargı Tapınağı Asansörü
+41|Asansör İniyor
+42|Okarina
+43|Antik Pasaport
+44|Ejderha Mücevheri
+45|Altıgen Krank
+47|Sihirli Anahtar
+48|Altın Çekiç
+49|Levitaş
+50|Ahtapot Fırça
+51|Bariyer Düşüyor
+52|Akademinin Yok Oluşu
+53|Yargı Tapınağı Asansörü 6. Bölüm
+54|Giriş Holünün Yok Oluşu
+55|Avlunun Yok Oluşu
+56|Sanal Dünya Yolculuğu
+57|Akademiden Kaçış
+58|Geleceğe Açılan Kapı
+59|K1-B0 Saldırıyor
+60|K1-B0 Geri Dönüyor
+61|Danganronpa'nın Sonu
+## Movie03
+1|Güçlerimizi birleştirince,
+2|biz Monoyavrularız!
+## Movie33
+0|Bu bir yalan!
+## A-ReactionVoice
+0|Haklısın!
+1|Anladım!
+3|Hm.
+4|Evet!
+5|Hı-hı.
+6|Sence öyle mi...?
+7|Hayır.
+8|Anlıyorum ama...
+9|Hm...
+10|Bu yanlış!
+11|Bu doğru değil.
+12|Doğru olabilir ama...
+14|Anlamıyorsun.
+15|Ben öyle düşünmüyorum.
+16|Evet, haklısın!
+17|Haklısın.
+18|Sence öyle mi?
+19|Hmmm.
+20|Evet!
+21|Hı-hı.
+22|Bu yanlış!
+23|Sence öyle mi...?
+24|İnkâr edemem...
+25|Hmmm...
+26|Hayır, bu yanlış!
+27|Bu doğru değil.
+28|Bu doğru ama...
+29|Sanırım öyle...
+30|Bu söz konusu bile olamaz.
+31|Göreceğiz bakalım.
+## B-TechouTsushinboSpecial
+0|Ultimate Dedektif
+1|Ultimate Astronot
+2|Ultimate Tenisçi
+3|Ultimate ???
+4|Ultimate Böcekbilimci
+5|Ultimate Yüce Lider
+6|Ultimate Antropolog
+7|Ultimate Robot
+8|Ultimate Hizmetçi
+9|Ultimate Sihirbaz
+10|Ultimate Çocuk Bakıcısı
+11|Ultimate Aikido Ustası
+12|Ultimate Cosplayer
+13|Ultimate Sanatçı
+14|Ultimate Mucit
+15|Ultimate Piyanist
+16|Ultimate Hayatta Kalan
+17|Ultimate Suikastçı
+18|Ultimate Şanslı Öğrenci
+19|Ultimate ???
+## Mtb-Skill
+100|İşlerin senin istediğin gibi gitmesine izin vermeyeceğim!
+200|Hiçbir şey göremiyorsun...ama hiçbir şey!
+300|Zorla da olsa sana anlatmam gerekecek!
+400|Seni öldüreceğim...!
+401|Gerçeği...daha fazla açığa çıkarma!
+500|Dış dünya tarafından reddediliyorsun.
+501|Dış dünya tarafından reddediliyorsun.

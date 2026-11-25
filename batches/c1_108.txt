@@ -1,0 +1,35 @@
+@ chap1_text_US
+## c01_271_000
+0|<CLT=cltSYSTEM>Bundan sonra <CLT=cltSTRONG>mavi renkli zayıf noktalar<CLT=cltSYSTEM>\ngörünecek.
+1|<CLT=cltSYSTEM>Şimdiye kadar gördüğün zayıf noktalara\n<CLT=cltSTRONG>İtiraz Noktaları<CLT=cltSYSTEM> dersek...
+2|<CLT=cltSYSTEM>Bu <CLT=cltSTRONG>mavi renkli zayıf noktalara<CLT=cltSYSTEM> da\n<CLT=cltSTRONG>Onay Noktaları<CLT=cltSYSTEM> denir.
+3|<CLT=cltSYSTEM><CLT=cltSTRONG>Onay Noktalarını<CLT=cltSYSTEM> Gerçek Mermileriyle vururken\n<CLT=cltSTRONG>düşünce tarzını tersine çevirmelisin<CLT=cltSYSTEM>.
+4|<CLT=cltSYSTEM>Karşındakinin ifadesinin <CLT=cltSTRONG>yalan ya da hata<CLT=cltSYSTEM>\niçerdiğini savunmak yerine...
+5|<CLT=cltSYSTEM>Lütfen karşındakinin ifadesinin <CLT=cltSTRONG>doğru<CLT=cltSYSTEM>\nolduğunu kanıtlayan Gerçek Mermilerini ateşle.
+6|<CLT=cltSYSTEM>Gerçek Mermilerin onların ifadesiyle\nbirleştiğinde...
+7|<CLT=cltSYSTEM>Birbirlerini tamamlayacak ve bir\n<CLT=cltSTRONG>Onay<CLT=cltSYSTEM> ortaya çıkacak!
+8|<CLT=cltSYSTEM>Bundan sonra tartışılan konuya göre "itiraz"\nmı "onay" mı en iyisi, <CLT=cltSTRONG>çıkarım<CLT=cltSYSTEM> yapmalısın.
+9|<CLT=cltSYSTEM><CLT=cltSTRONG>V Onayı<CLT=cltSYSTEM> da yapabilirsin, o yüzden\nkendine güveniyorsan bir dene.
+10|<CLT=cltSYSTEM>Zaman ayırdığın için teşekkürler.\nSaygılarımla, SİSTEM
+## c01_272_000
+0|<CLT=cltSYSTEM>Eyvah!\nÜç kişi aynı anda konuşuyor!
+1|<CLT=cltSYSTEM>Herkes masumiyetini kanıtlamak için bağırıyor!\nMahkeme salonunda <CLT=cltSTRONG>panik<CLT=cltSYSTEM> var!
+2|<CLT=cltSYSTEM>Ah, doğru ya. Vakti geldi. Şimdi bir\n<CLT=cltSTRONG>Toplu Panik Tartışmasına<CLT=cltSYSTEM> atılacaksın!
+3|<CLT=cltSYSTEM><CLT=cltSTRONG>Toplu Panik Tartışması<CLT=cltSYSTEM> sırasında\n<CLT=cltSTRONG>aynı anda üç tartışma yaşanacak<CLT=cltSYSTEM>.
+4|<CLT=cltSYSTEM>Ama sakin ol!\n<CLT=cltSTRONG>Tıpkı bir Durmaksızın Tartışma gibi<CLT=cltSYSTEM>.
+5|<CLT=cltSYSTEM>Sadece <CLT=cltSTRONG>üç kat fazla görüş duyuyorsun<CLT=cltSYSTEM>!\nBasit, değil mi?
+6|<CLT=cltSYSTEM>Gerçekten duymak istediğin konuşmayı hedefle\nve daha net duymak için odaklan.
+7|<CLT=cltSYSTEM>Herkesin görüşlerini ayıkla, <CLT=cltSTRONG>yalanı ya da\nçelişkiyi<CLT=cltSYSTEM> bul ve çürüt.
+8|<CLT=cltSYSTEM><CLT=cltSTRONG>V Karşılığı<CLT=cltSYSTEM> da kullanabilirsin, o yüzden\nkendine güveniyorsan bir dene.
+9|<CLT=cltSYSTEM>Vaktini aldığım için özür dilerim!\nAnlayışın için teşekkürler!
+## c01_273_000
+0|<CLT=cltSYSTEM>Görünüşe göre sana\n<CLT=cltSTRONG>karşı çıkıldı<CLT=cltSYSTEM>!
+1|<CLT=cltSYSTEM>Böyle bir şey olduğunda <CLT=cltSTRONG>Çürütme Düellosu<CLT=cltSYSTEM>\ndenen bire bir tartışmaya girersin.
+2|<CLT=cltSYSTEM>Çürütme Düellosu nedir?\nŞimdilik kontrolleri açıklayalım.
+3|<CLT=cltSYSTEM>Bu modda karşındakinin iddiasına <CLT=cltSTRONG>karşılık\nverip<CLT=cltSYSTEM> ona <CLT=cltSTRONG>itiraz edersin<CLT=cltSYSTEM>...
+4|<CLT=cltSYSTEM><CLT=cltSTRONG>Gerçek Kılıcını<CLT=cltSYSTEM> <PAD=【Ｌ３】> ile hareket ettir\nve rakibinin iddialarıyla hizala.
+5|<CLT=cltSYSTEM><PAD=【○】> tuşuna basarak kılıcın gösterdiği\nyönde <CLT=cltSTRONG>normal kesme<CLT=cltSYSTEM> yap.
+6|<CLT=cltSYSTEM><PAD=【△】> tuşuna basarak\n<CLT=cltSTRONG>Gerçek Kılıcıyla<CLT=cltSYSTEM> kes.
+7|<CLT=cltSYSTEM>...Ah, pardon, söylemeyi unuttum.
+8|<CLT=cltSYSTEM>Bu modda Gerçek Mermilerine\n<CLT=cltSTRONG>Gerçek Kılıçları<CLT=cltSYSTEM> denir.
+9|<CLT=cltSYSTEM>Rakibinin sözlerine normal kesme uygula,\nama bir <CLT=cltSTRONG>zayıf nokta<CLT=cltSYSTEM> belirdiğinde...

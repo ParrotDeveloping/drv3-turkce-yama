@@ -1,0 +1,332 @@
+[
+ {
+  "id": 0,
+  "en": "Nyeeeh...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>She looks really bothered\nby something.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Um, Himiko?\nThere's something I wanted to ask you.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Nyeeeh? \nMy magic's a trade secret.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "No, that's not it... I was wondering\nwhy you became a magician.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Ah, sorry, a \"mage.\" You said you had\na master, did he inspire you?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Hm, when I saw my master use his \nmagic, I awakened as a mage.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...Um, just making sure, but...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Did your master also say he was\na mage, not a magician?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Huh? My master is known around \nthe world as a legendary mage.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I see...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>Himiko insisting she's a \"mage\" is\nprobably her master's influence.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "The first time I saw my master was on\nthe stage during his magic show.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "The magic he performed\nwas miraculous...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Seeing it triggered the magic powers \nsleeping within me to awaken.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "But I didn't yet have the skill to \ncontrol such powerful magic...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Therefore, I studied under my master \nto control my own magic.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I-I see...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Fortunately, it only took a few years of \ntraining to become a full-fledged mage.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Master let me help in his show as \nan assistant while I trained.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "My master taught me the fundamentals \nof magic. Because he trained me...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "People started calling me \nthe <CLT=cltSTRONG>Ultimate Mage<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>She's actually the <CLT=cltSTRONG>Ultimate Magician<CLT=cltMIND>,\nbut I probably shouldn't bring that up.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "My master learned his magic by \nstudying around the world, you know?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Extreme Wind Magic, \"<CLT=cltSTRONG>Levitation<CLT=cltNORMAL>\"...\nExtreme Space Magic, \"<CLT=cltSTRONG>Teleport<CLT=cltNORMAL>\"...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Extreme Meat Magic, \"<CLT=cltSTRONG>Sawing A Person \nIn Half<CLT=cltNORMAL>\"...and many more.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltMIND>\"Extreme Meat Magic\"...doesn't sound...\nvery magical...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "My master made them all look simple, \nbut...they were hard for me to grasp.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I want to teach you the basics, but the\nstars aren't aligned right now, so...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Ah, I see...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Nyeeeh, so in return, this <CLT=cltSTRONG>Ultimate Mage<CLT=cltNORMAL> \nwill answer any question for you.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "It's not real magic, right?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "When people get sawed in half...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "What if a fly gets in your teleportation?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>A question?\nLet me think...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "It's not real magic, it's just\ntricks, right?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Go on...ask your question.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "...It's not real magic,\nit's just tricks, right?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "It's magic, it's magic, it's magic, it's magic,\nit's magic, it's magic, it's magic, it's...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "magic it's magic it's magic it's magic it's \nmagic it's magic it's magic iiit's maaagic!!!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...I'm sorry.\nYou're right, it's magic.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Hmph, it's magic.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "When people get sawed in half,\nhow do you put them back together?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Nyeeeh...it's...with magic, you know?\nLike, you activate the cells and...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "W-Well something like that.\nYou probably wouldn't get it...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Don't think, feel.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Is that right...?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "What happens if a fly touches you\nduring teleportation...?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Hm... Then you'd be face to face\nwith danger...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "But these days, spells are warded \nagainst interference from flies.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Good idea.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Even the Sawing Spell. It's great for \nwhen you want to make flies go away.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "I don't think you should be cutting up\na body just to keep away flies...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "In any case...I'm sure your master\nis worried about you right now.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>Hm? Is something wrong?\nHimiko's mood changed...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Well, maybe...\nHe might...be worried...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I'm too tired to talk.\nI'm going back to my room.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Ah, okay.\nSee you later then...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>Himiko's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>I watched Himiko walk away,\nand I returned to my room.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>Himiko was acting strange for a minute\nthere. I wonder what's wrong...",
+  "tr": ""
+ }
+]

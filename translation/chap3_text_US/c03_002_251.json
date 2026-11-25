@@ -1,0 +1,542 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Hm? What's that over there...?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "C'mon, what's the big deal?\nI can't hold back any longer...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "N-No... It's too soon...\nI'm not ready for that...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I won't make things worse...\nAnd you'll probably feel a lot better...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "We can take this relationship to the next\nlevel... Please.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "...But Miu, we shouldn't.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "It'll be fine...just come with me.\nWe'll do it together.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Pulling on Keebo's arm, Miu made her\nway to the <CLT=cltSTRONG>Ultimate Inventor<CLT=cltMIND>'s lab.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "What was that...? I feel like I just saw\nsomething I wasn't supposed to see.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I should...check to see what's going on.\nJust in case...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Ah, Keebo? What are you doing—",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Wah!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Ah! S-Sorry! Did I startle you?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "N-No, I'm the one who's sorry!\nReally, it's nothing!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Hey, quit gettin' in the way!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Get out! Go stand over there, ya peepin'\nTom!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>What? I was just talking to Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>Well, I suppose Miu is always like this.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I'm sorry, I can't right now...\nI'll just leave these objects with you.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Shuichi...there's something I have to tell you.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Something she has to tell me?\nWhat could it be?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "In the last trial, I admitted there was a trick\nto the water tank. But I didn't use it.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I did the Underwater Escape Act with magic.\nThat was magic.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Got it?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>She's still not gonna let that go, huh?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "But...I'm filled with regret.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Regret?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "My shows are supposed to make people smile.\nBut...it was used for the exact opposite.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Plus...if I hadn't used all my magic doing\nthe Underwater Escape...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I could've instantly killed the piranhas\nand saved Ryoma's body...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Himiko...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "It seems like...as a mage...\nI've still got a ways to go...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "It seems like...as a mage...\nI've still got a ways to go...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "This is my magic, too...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Ah, no, I used an item on the statue—",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "It's my magic.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "...Yeah, let's go with that.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "My spirit was weak last night...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I meant it when I said that I was sick\nof the killing game...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "But I'm ashamed I even suggested that\nwe give up and stay here forever.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "We're gonna escape this place, without\nresorting to killing! We can't give up!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "You're right. We can't give up.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "With Himiko by my side, I'll fight to carry on\nKaede and Kirumi's wishes!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Oh, and I guess...Rantaro and Ryoma's\nwishes too. Might as well...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "...Might as well.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "You should be grateful that I'm being nice\nand including degenerate wishes at all!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "We're gonna escape this place, without\nresorting to killing! We can't give up!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "With Himiko by my side, I'll fight to carry on\nKaede and Kirumi's wishes!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Yes! A dojo! No school is complete\nwithout a dojo!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Now, let's gooooo!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "...Oh, Shuichi, you can decline. I'd actually\nprefer it, since you're a degenerate and all.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Ahhhh, damn it all!\nThis is gonna bug me!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Bug you? What is it?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Huh? Mind your own goddamn business!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Tch! If he keeps this up, he's just gonna\nmake it worse...!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "How can he turn down a gorgeous genius\nlike me!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "The polite thing to do would be to accept it...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>She's muttering about something...\nIt's probably best to not get involved.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Arrrrgh... I can't hold back any longer...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Just thinkin' about it...\nHeh, heeheeheehee...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>She's muttering about something...\nIt's probably best to not get involved.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>Kirumi's final moments... I can't get the image\nof her running for her life out of my head.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>I can still hear her...\nHer scream of defiance.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>Perhaps running isn't so bad...\nPerhaps we aren't strong enough to face it.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>In order to live until the <CLT=cltSTRONG>end<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>It must be an <CLT=cltSTRONG>Ultimate Research Lab<CLT=cltMIND>.\nAnd from the look of the building—",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "It's the <CLT=cltSTRONG>Ultimate Aikido Master<CLT=cltNORMAL>'s lab!\nI'm sure of it!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Alright, let's go inside!\nDon't be shy, Himiko! Ladies first!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Nyeeeh...what a paiiinnn...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>Pushing Himiko along, Tenko stepped\ninside the building.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "I suppose I should check inside too.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>I don't remember there being any\nmysterious objects here. I'll look elsewhere.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>Careful not to make a sound,\nI opened the door and peeked inside...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>I heard a strange sound...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>When I looked for the source of the sound,\nmy eyes were met with an unbelievable sight.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Man... You're really plugged up.\nYou're practically throbbing..",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "...Throbbing with dust and debris, that is.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Mm-mm... This is no good. No good at all.\nYou must feel so pent up...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "I apologize... I've been neglecting my needs\never since I got here...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Relax... I'll get it all out. Trust me, you'll\nfeel much better afterward...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Oh, um... Thank you?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Oh yeah, your chassis is firm...\n*Really* firm. Like, damn...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Your body is seriously incredible!\nI've...never seen one like this...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "C-Careful... B-Be gentle...\nThat tickles...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "This is amazing... Whoever put you together\ndefinitely knew what they were doing...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Ahhhh... I feel...all tingly...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Y-You definitely know what you're doing, too.\nIf you keep this up, I just might—",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "WH-WHOAAAAA!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Mmmmmm... So that's the sound you make\nwhen I touch that spot. Good to know...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>...I closed the door without a word.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>Miu was just doing some maintenance\non Keebo's body. That's all it was.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>...Indeed. Nothing but that.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>Miu is doing some maintenance\non Keebo's body.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>...And nothing else.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "A...A building? What kinda technology\nmakes a building suddenly appear?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Haiyah! It's not just any building, it's a dojo!\nSo it doesn't matter how it appeared!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Like, I wouldn't care if a chef came by car or\ntrain, as long as they made me good food!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "<CLT=cltMIND>Is that really the same?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "<CLT=cltMIND>When I used the item on the stone statue,\na building rose up...",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "<CLT=cltMIND>What kind of technology is this?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Hm...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>This is a mysterious object, but I don't\nthink I can use any of the items on it...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>...Let me try a different object.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Hm...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>This is a mysterious object, but I don't\nthink I can use any of the items on it...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "<CLT=cltMIND>...Let me try a different object.",
+  "tr": ""
+ }
+]

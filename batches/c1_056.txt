@@ -1,0 +1,70 @@
+@ chap1_text_US
+## c01_100_019
+377|Hayır, sorun yok. Yapabilirim.
+378|<CLT=cltMIND>Kararımı vermiştim ve Rantaro'nun cesedine\ndoğru yürümeye başladım.
+## c01_100_020
+0|Ah, Rantaro...?
+1|Bu da ne böyle!?\nNeler oluyor lan!?
+2|Ah...aah...aaahh...
+3|GYAAAAAAAAAAHHHHHH!!!!!
+4|<CLT=cltMIND>Tenko çığlık atar atmaz kütüphanenin ön\nkapısı ardına kadar açıldı...
+5|<CLT=cltMIND>...ve Oyun Odası'ndaki dört kişi koşarak\niçeri daldı.
+6|N-Ne oldu? Gonta çığlık duydu—
+7|...Ha!?
+8|Vaaaaaaaahhhh!!!\nK-Kan...! Bir sürü kan!
+9|Nyeeeh...?
+10|Haaaa? Bu Rantaro değil mi?\nNesi var?
+11|...Ölmüş.
+12|Neee? Ölmüş mü?\nEh, ne yazık.
+13|Nasıl bu kadar sakin olabiliyorsun!?
+15|<CLT=cltMIND>Shuichi Rantaro'nun cesedini inceledi ve nefes\nalıp almadığını kontrol etmek için elini ağzına yaklaştırdı.
+16|...Çok geç kaldık.
+17|<CLT=cltMIND>Başını iki yana salladı.
+18|Ç-Çok geç mi...? Yani...öldü mü?
+19|Ö-Öldü mü...?
+21|<CLT=cltMIND>Görüşüm dönmeye başladı...\nBacaklarım titredi...
+22|<CLT=cltMIND>Ama çaresizlik içinde aklımı çalıştırmaya\ndevam ettim.
+23|<CLT=cltMIND>Rantaro neden buradaydı?
+24|<CLT=cltMIND>Ve...
+25|<CLT=cltMIND>Ekran kapalı.
+26|<CLT=cltMIND>Artık Monokuma'yı\ngöstermiyordu.
+27|<CLT=cltMIND>Bu...beynin öldüğü anlamına mı geliyor?
+28|<CLT=cltMIND>Evet, öyle olmalı.\nYani Rantaro—
+29|Yani ölüm oyunu başladı, ha?
+31|Ö-Ölüm oyunu mu!? O zaman biri Rantaro'yu\nöldürdü ve—
+32|Dur, belki de değil.
+33|Belki de değil ne demek!?
+34|Belki ölüm oyunu başlamadı...\nBelki...bu ona son verdi.
+35|Son mu verdi? Ne demek istiyorsun?
+36|...Beyin.\nRantaro beyindi.
+37|Ne!? <CLT=cltSTRONG>Beyin<CLT=cltNORMAL> mi!?
+38|...Nasıl öldüğünü bilmiyorum ama Rantaro süre\ndolmadan önce kütüphanedeyse...
+39|Bunu beynin planlamış olma ihtimali yüksek.\nVe eğer o öldüyse...
+40|<CLT=cltSYSTEM>*ding dong, dong ding!*
+42|Bir ceset bulundu!
+43|Herkes lütfen kütüphanede toplansın!
+44|Ne rahatlama. Süre dolmadan hemen önce\nbir cinayet işlendi!
+45|M-Monokuma mı!? Ama nasıl!?
+46|İtiraf etmeliyim, ölüm oyunu henüz başlamadığı\niçin biraz gergindim.
+47|Tanrım...beni merakta bırakmayı gerçekten\nbiliyorsunuz.
+48|N-Nasıl? Seni kontrol eden beyin...
+49|Hm? Beyin derken beni kontrol eden gerçek\nbeyni mi kastediyorsun?
+50|Ve onun Rantaro olduğunu mu sanıyorsun?
+51|Ahhh, ne hayal gücü!\nTabii ki yanlış!
+52|Beyin ölseydi bu ölüm oyunu\nbiterdi.
+53|A-Ama...
+54|Kurban Rantaro Amami, <CLT=cltSTRONG>Ultimate\n"Kimin Umurunda?"<CLT=cltNORMAL>. Ne fazlası ne eksiği.
+56|Shuichi, ne demek istiyor?\nNe olacak...?
+58|O... Monokuma yanılıyor, değil mi...?\nRantaro beyin değil mi?
+59|Evet! Sensör çalar çalmaz buraya geldik,\ndeğil mi?
+60|Kütüphanede başka kimse yoktu... Kitaplığı\noynatabilecek tek kişi Rantaro'ydu...
+61|Bu, onun o gizli kapıyı kullanmaya çalıştığı\nve beyin olduğu anlamına gelmez mi?
+62|Ama beyinse...ölüm oyunu neden\nbitmedi...?
+63|Neden...? Neden öldü...?
+65|Olmuyor, bilmiyorum,\nbilmiyorum...
+67|Ah! Fotoğraflar!\nFotoğraflara bakabiliriz!
+68|Eminim kütüphaneye kurduğumuz kameralar\nbize bir ipucu verecek—
+69|<CLT=cltMIND>O anda kütüphanenin kapısı ardına\nkadar açıldı...
+70|Kyaaaaaaaah!
+71|Rantaro mu!? Ama...neden!?
+72|Hırk...! B-Bu Rantaro mu? Oh, çok şükür!\nKirli bir paçavra yığını sanmıştım!

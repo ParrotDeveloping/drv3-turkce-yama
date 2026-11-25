@@ -1,0 +1,56 @@
+@ chap1_text_US
+## c01_710_001
+38|Ve o duygu sevgidir, değil mi?\nEh, tabii...bende olsaydı.
+39|Birine değer verme duygusu herkesin doğal\nolarak sahip olduğu bir duygudur.
+40|O duyguyu büyütünce sevgiye dönüşür,\nsence de öyle değil mi?
+42|...Bir tanrı gibi mi? Öyle bir şey dünyadaki\nen belirsiz fikirlerden biri.
+43|Öyle mi düşünüyorsun? Tanrı olup olmadığını\nbilemem...
+44|Ama bence birine değer vermeyi düşünmek\ngayet doğal.
+47|...Senin ilgi alanın bu mu? Tek bir yanlış\nhamlede polis tepene biner.
+48|Ö-Öyle değil! Çocuklar sadece bir örnek...
+49|Ama mesele kendinden başka birine değer\nverme düşüncesi.
+50|Çocuklar muhtemelen sevgini hissetmiştir, Maki.
+52|Bu kadar mı? O zaman gidiyorum.
+53|Ha!? Maki!
+54|<CLT=cltMIND>Gitti... Sanki sinirlenmiş gibiydi...
+55|<CLT=cltMIND>Yoksa sadece utandı mı?
+56|<CLT=cltSYSTEM>Maki'nin <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+57|<CLT=cltMIND>Öfkeyle çıkıp giden Maki'den ayrıldıktan\nsonra odama döndüm.
+## c01_710_002
+0|Hey, senin yetimhanen nasıl bir yer?
+1|Nasıl bir yer mi...?
+2|Yetimhaneleri sadece kitaplardan falan biliyorum...
+3|Ama seninkinin nasıl olduğunu öğrenmek\nistedim.
+4|...Yine ne beklediğini bilmiyorum ama\nözellikle tuhaf bir şey değildi.
+5|Sana tarif etmem gerekirse kampa gitmek\ngibi. Her yaştan çocuğun olduğu bir kamp.
+6|Kamp, ha?\nO zaman birlikte yemek mi pişiriyorsunuz?
+7|Pek sayılmaz. Bize günde üç öğün hazırlayan\nbir aşçımız vardı.
+8|Ama kendi arkamızı toplamamız gerekiyordu.\nÇamaşırlarımızı da kendimiz yıkamalıydık.
+9|Ancak küçük çocuklar öğrenene kadar onların\nçamaşırlarına yardım ederdik.
+10|Ooo! Sen de böyle <CLT=cltSTRONG>Ultimate Çocuk Bakıcısı<CLT=cltNORMAL>\noldun, değil mi!?
+11|...İnkâr etmeyeceğim ama özel bir şey\nyapmış değilim.
+12|Hepimiz aynı çatı altında yaşıyorduk. Yani tabii\nki birbirimize yardım etmek zorundaydık.
+13|Evet, tıpkı aile üyelerinin birbirine yardım\nettiği gibi.
+14|Öyle mi? Benim ailem olmadı, o yüzden\nbilemem.
+15|Ah...ö-özür dilerim...
+16|<CLT=cltMIND>Kahretsin. Tamamen düşüncesizce davrandım.
+17|Ş-Şey... Hafta sonları onlarla vakit\ngeçirir misin?
+18|Duruma göre değişir ama büyük çocuklar zaten\nonlara bakmak zorunda olduğu için genelde geçirirdik.
+19|Harçlığımız pek olmadığı için oyuncaklarımızın\nçoğu eskiydi...
+20|Bazı çocuklar daha yeni oyunlar istiyordu\nve bu epey sorun oluyordu.
+21|Şimdi söyleyince... Hiç cep telefonunuz ya\nda oyun konsolunuz var mıydı?
+22|Hayır...öyle bir şeyimiz yoktu.
+23|Liseye geçince işlerde çalışarak para kazanmaya\nbaşlayabilirsin ama o kadar.
+24|Hmm, anlıyorum... O zaman pek yapacak bir şey yoktu.
+25|Yetimhanedeki öğretmen de yapacak pek\nbir şeyimiz olmadığını düşünüyordu.
+26|Hey, gelip size piyano çalsam\nnasıl olur?
+27|...Ha? O ne?
+28|Ne? Piyanonun ne olduğunu bilmiyor musun?\nYetimhanede yok mu?
+29|Ah, evet...eski bir duvar piyanosu olabilir.
+30|O zaman oraya gitmem yeterli.\nNe dersin?
+31|Bunu sormak sorun olabilir. Böyle bir karar\nverme yetkim yok.
+32|Ah, bu doğru. Hahaha, kendimi davet ettiğim\niçin özür dilerim... Fazla heyecanlandım.
+33|Ama ciddiyim! Buradan kaçınca öğretmenden\nizin isteyebilir misin?
+34|...Ne işgüzarsın. Bunun ne faydası\nolacak?
+35|Öyle düşünme. Dedikleri gibi, "Bencilce\nyardım hiç yardım olmamasından iyidir."
+37|Sen gerçekten...buradan çıkabileceğimize\ninanıyorsun...

@@ -1,0 +1,742 @@
+[
+ {
+  "id": 0,
+  "en": "DANGANRONPA V3",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "DANGANRONPA V3",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "DANGANRONPA V3",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "V3 Gallery Music",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "DANGANVEGAS",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Beautiful Lie",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Darkness Time",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Spirit, Praise, and Beauty",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Beautiful Lie in the Virtual World",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Despair Searching",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Hope Searching",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Despair Searching: Virtual World",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Cool Morning",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Becoming Friends",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "New Classmates of the Dead",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Wonderful Story",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Rise of the Ultimates",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Nightmare in the Locker",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Mr. Monokuma's Lesson V3",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Mr. Monokuma After Class V3",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Rise and Shine, Ursine!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Heaven of Almost Hell",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Moon on the Water",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Finding Peace Party",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Heartless Journey",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Living in a Lazy Parallel World",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "REAL/FICTION",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Sing the Empty Truth",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Killing Game Completion Ceremony",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Caged Child",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Let's Start the Killing Game",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Clair de Lune - Suite Bergamasque (K. Akamatsu)",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Our Class Trial",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Class Trial: Dawn Edition Vol. 3",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Class Trial: Space Edition",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Class Trial: Resurrection Edition (No Intro)",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Class Trial: Resurrection Edition",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "V3 Argument -BREAK-",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "V3 Argument -TURN UP THE HEAT-",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "V3 Argument -HOPE VS DESPAIR-",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "V3 Argument -PANIC-",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "V3 Argument -BLADE LOCK-",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "PSYCHE TAXI",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Hangman's Gambit ver 3.0",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Debate Scrum",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Closing Argument V3",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "NEW A.A. (Ch. 1)",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "HYPER NEW A.A. (Ch. 1)",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "HYPER ULTRA NEW A.A. (Ch. 1)",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "NEW A.A. (Ch. 2)",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "HYPER NEW A.A. (Ch. 2)",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "HYPER ULTRA NEW A.A. (Ch. 2)",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "NEW A.A. (Ch. 3)",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "HYPER NEW A.A. (Ch. 3)",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "HYPER ULTRA NEW A.A. (Ch. 3)",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "NEW A.A. (Ch. 4)",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "HYPER NEW A.A. (Ch. 4)",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "HYPER ULTRA NEW A.A. (Ch. 4)",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "NEW A.A. (Ch. 5)",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "HYPER NEW A.A. (Ch. 5)",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "HYPER ULTRA NEW A.A. (Ch. 5)",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "FINAL A.A.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "HYPER FINAL A.A.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "HYPER FINAL ULTRA A.A.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Death Road of Despair",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Death Road of Hope",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Dangan Growth Plan",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Talent Selection",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Hope of Spring",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Hope of Summer",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Hope of Autumn",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Hope of Winter",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Season of Despair",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "DX Growth Plan",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Monokuma's Trial",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Trial Preparation",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Cave Ordeal",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Island Ordeal",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "School Ordeal",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Battle with Despair",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Battle with True Despair",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Battle with Final Despair",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Trial END",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "EXISAL TRIBE",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Beautiful Lie",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Climactic Re-enactment V3",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "New World Order V3",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Mind Mine",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "MonoMono Slots",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "OUTLAW RUN",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "SALMON FISHING",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "TREASURE HUNTER! Monolith",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "DANGANRONPA V3",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Living in a Lazy Parallel World",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "V3 Argument -PERJURY-",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "DANGANRONPA",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Let's Start the Killing Game",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Class Trial: Sun Edition",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Class Trial: Sun Edition",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "V3_BGM_037",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "V3_BGM_038",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "V3_BGM_039",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "V3_BGM_040",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "V3_BGM_041",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "V3_BGM_042",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "V3_BGM_043",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "V3_BGM_044",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "V3_BGM_045",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "V3_BGM_046",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "V3_BGM_047",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "V3_BGM_048",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "V3_BGM_049",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "V3_BGM_050",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "V3_BGM_051",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "V3_BGM_052",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "V3_BGM_053",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "V3_BGM_054",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "V3_BGM_061",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "V3_BGM_062",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "V3_BGM_063",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "V3_BGM_064",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "V3_BGM_065",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "V3_BGM_066",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "V3_BGM_067",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "V3_BGM_068",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "V3_BGM_069",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "V3_BGM_070",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "V3_BGM_071",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "V3_BGM_072",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "V3_BGM_073",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "V3_BGM_074",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "V3_BGM_075",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "V3_BGM_076",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "V3_BGM_077",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "V3_BGM_078",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "V3_BGM_079",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "V3_BGM_080",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "V3_BGM_081",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "V3_BGM_082",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "V3_BGM_083",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "V3_BGM_084",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "V3_BGM_085",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "V3_BGM_086",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "V3_BGM_087",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "V3_BGM_088",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "V3_BGM_089",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "V3_BGM_090",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "V3_BGM_091",
+  "tr": ""
+ }
+]

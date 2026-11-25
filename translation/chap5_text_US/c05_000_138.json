@@ -1,0 +1,122 @@
+[
+ {
+  "id": 0,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Everything moved to the empty\nclassroom has been put back here.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>But some things are still missing...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>There's a large wooden dog statue on the\npedestal. It looks pretty old.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>If the statue weren't here,\nor the cage or the sheet...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>Would this never have happened?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Window",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Sheet",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Basket",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Gold Leaf Katana",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltMIND>I don't think I'll ever forget that\nkatana in the effigy...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltMIND>It's packed with books and scrolls...\nThey're all weathered and old.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I don't think I could read all of these\nif I had a million years...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...Huh?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>The book on the <CLT=cltSTRONG>Caged Dog Village<CLT=cltMIND>\nis gone...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Who took it?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>If Kiyo found out, he would probably\n\"tear their nerves out\"...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>Ah, but...he's not here anymore.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>The book on the <CLT=cltSTRONG>Caged Dog Village<CLT=cltMIND>\nis gone...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>Who took it?",
+  "tr": ""
+ }
+]

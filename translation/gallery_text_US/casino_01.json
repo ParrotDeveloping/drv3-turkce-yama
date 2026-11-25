@@ -1,0 +1,412 @@
+[
+ {
+  "id": 0,
+  "en": "Huh? Did we always have a game like\nthis here?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "You can exchange your casino coins\nat the exchange booth upstairs.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "The coins you gain here can be taken\nto story mode, too!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Each game is made specifically for the casino.\nLots of points will get you lots of coins.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>This is OUTLAW RUN,\nA driving game.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I guess it isn't ready to play yet...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>This is OUTLAW RUN,\nA driving game.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltSYSTEM>OUTLAW RUN\nDriver's Manual",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSYSTEM>Run over the targets with style\nand try to get the high score!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltSYSTEM>Get a bunch in a row, combos are stylin'!\nMonodam is a bonus and Monokid is a boost!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...\nThis has nothing to do with driving at all.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nIt's a treasure hunting game...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>Looks like it's still being set up...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nIt's a treasure hunting game...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltSYSTEM>TREASURE HUNTER! MONOLITH\nTreasure Hunting Guide",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltSYSTEM>Connect two or more of the same color!\nUncover the hidden salmon fossils!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltSYSTEM>Try to find the rare Monokub statues!\nDig them up whenever you see one!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "...\nAre salmon fossils treasure...?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>SALMON FISHING!\nIt's a game where you fish for salmon.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltSYSTEM>SALMON FISHING!\nSalmon Night",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltSYSTEM>On this night, the salmon come left and right.\nUse your Monokuma Eye to find them.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltSYSTEM>Fish for the color Monokuma desires.\nBeware, mines hide beneath the current.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "...\nThat was quite the poetic explanation...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>MonoMono Slots...\nIt looks like a slot machine game.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSYSTEM>MonoMono Slots\nHow to Win at Slots",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...\nWell, that was nonsense.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>MonoMono Slots...\nIt looks like a slot machine game.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltSYSTEM>MonoMono Slots\nHow to Win at Slots",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "...\nWell, that was nonsense.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>MonoMono Slots...\nIt looks like a slot machine game.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltMIND>Maybe I'll try this one...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Read the rules",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltSYSTEM>MonoMono Slots\nHow to Win at Slots",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltSYSTEM>Insert as many coins as you'd like.\nThen, spin the slots!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltSYSTEM>You have a 100% chance of winning if you\nnever stop! Spin spin spin forever!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...\nWell, that was nonsense.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltSYSTEM>Would you like to play the game?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>This is OUTLAW RUN,\nA driving game.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>Looks like it's still being set up...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>TREASURE HUNTER! MONOLITH.\nIt's a treasure hunting game...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>Looks like it's still being set up...",
+  "tr": ""
+ }
+]

@@ -1,0 +1,63 @@
+@ chap0_text_US
+## c00_008_001
+0|Ah! Burası giriş holü mü!?
+1|Değil mi, Shuichi!? Burası giriş holü\nolmalı, sence de öyle değil mi?
+2|E-Evet, sanırım öyle...
+3|Bu da demek oluyor ki...
+4|...şu kapı girişin kendisi olmalı. İçinden\ngeçersek buradan kaçabiliriz, değil mi?
+5|D-Dur, kapıları dikkatsizce açmamamız\ngerektiğini düşünüyorum. Bir tuzak olabilir...
+6|Bunun için endişelenmenize gerek yok.\nKapıları ben zaten inceledim.
+7|Ah... Şeyy...
+8|"Bu da kim?" diye merak ediyorsunuz.\nEvet...önce bunu açıklığa kavuşturayım.
+9|Benim adım Korekiyo Shinguji...\nBana <CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL> derler.
+10|Korekiyo mu? Antropolog mu?
+11|Lütfen bana Kiyo deyin. Antropolojiye gelince,\nbasit bir açıklama ister misiniz?
+12|Tamam, olur...
+13|Antropoloji...gelenekleri, efsaneleri, \nhalk masallarını, şarkıları ve çok daha fazlasını inceler.
+14|Günlük hayatınızda kökenini bilmediğiniz\ngelenekler bile olabilir.
+15|Örneğin...doğum günü ya da yılbaşı\nkutlamalarının bazı yönleri.
+16|Antropoloji bu tür gelenek ve görenekleri \ntitiz bir analizle aydınlatır.
+17|Kültürün, inancın ve geleneklerin ardındaki \ndüşünceyi inceleyen bir bilimdir.
+18|Tamam...biraz anladım ama tam değil...\nAma çok eğlenceli gibi geliyor!
+19|Elbette eğlenceli...\nİnsanlığa odaklanan bir bilim sonuçta.
+20|İnanıyorum ki...insanlar sonsuz güzelliğe \nsahip varlıklardır.
+21|Ah, şeyy...
+22|İnsanlığın her yönünü—çirkin yanlarını\nbile—güzel buluyorum.
+23|İçinde bulunduğumuz durum oldukça...ilgi çekici.\nBurada ne tür güzelliklere tanık olacağım?
+24|Kehe... Kehehehe...\nİnsanlar harikadır...
+25|<CLT=cltMIND>Bu adam ürkütücü görünüyor...ve görünüşe\ngöre gerçekten de öyle.
+26|Neyse, bu kapılardan geçersek dışarı\nçıkabiliriz, değil mi?
+27|Bu tür soruların cevaplarını kendiniz\nbulmalısınız...
+28|Umutlarınızın paramparça olduğu an...\nO da...güzel olabilir...
+29|<CLT=cltMIND>P-Paramparça mı...?\nBununla ne demek istiyor?
+30|<CLT=cltSYSTEM>Korekiyo'nun <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM>, onunla yaşadıklarına\ngöre güncellendi.
+31|Umutlarımız paramparça mı olacak?\nBu...ne demek?
+32|Umutlarınızın paramparça olduğu an...\nO da...güzel olabilir...
+33|Kehe... Kehehehe...
+34|O-O zaman...gidelim.
+35|T-Tamam...
+36|<CLT=cltMIND>Kararlı olsam da...o ilk adımı atacak \ncesareti bir türlü toplayamadım.
+37|<CLT=cltMIND>Açıkçası korkuyordum.\nÇünkü...ya bunun ötesinde sadece—
+38|Ah, tanrım! Bu bana hiç yakışmıyor!
+39|Korkuyor olmam kaçacağım anlamına\ngelmez! İlerlemeliyim!
+40|K-Kaede!
+41|Merak etme!\nHadi gidelim, Shuichi!
+42|<CLT=cltMIND>Kendimi gaza getirdim ve yeni bulduğum güçle \nkapılara doğru cesurca yürüdüm.
+## c00_008_100
+0|<CLT=cltMIND>Bu bina yuvarlak ve içinde bir sürü küçük \noda var...
+1|Ayı-yi günler!
+2|Kusura bakmayın, rahatsız ediyoruz.
+3|Bu sefer ne var?\nHem rahatsız etmek de ne demek?
+4|Çünkü burası sizin eviniz, velet sürüsü!
+5|Duşları kurmayı bitirdik!\nArtık çiş yapabilirsiniz!
+6|Neden tuvaleti kullanmıyorlar ki?
+7|Ha? Büyük tuvalet için bile mi!?
+8|Dur, sen duşta büyük tuvaletini mi yapıyorsun!?
+9|Iyy, bu iğrenç.
+10|Ne demek...bizim evimiz?
+11|Burada yaşamamızı istiyorlar...\nBakın, 16 kapı var.
+12|Belki de...her birimiz için bir oda?
+13|Odaya ihtiyaç duyacak kadar uzun süre\nburada kalmayı düşünmüyorum.
+14|Her kapıda çizimler asılı...\nBelki isim levhası yerine?
+15|Bunu yapmak için neden bu kadar zahmete\ngirsinler ki...? Ne planlıyorlar?
+16|Amaçlarını anlayamıyorum...

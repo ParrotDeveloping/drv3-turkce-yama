@@ -1,0 +1,97 @@
+[
+ {
+  "id": 0,
+  "en": "Dammit...I don't understand!\nWhat is going on here!?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>But...I can't give up.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I need to keep my promise to Kaede.\nI need to find the truth.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>What's happening to us...\nWhy we're forced to play this killing game...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Anyway...I've still got some time today.\nI can't stay still, not now...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>It's usually for when something bad\nhappens... I hope it stays off.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>They went through all this just for a\nkilling game? What is their objective...?",
+  "tr": ""
+ }
+]

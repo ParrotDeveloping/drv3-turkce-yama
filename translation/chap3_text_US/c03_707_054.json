@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "...Do you need something? I'm busy right now.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "If you can't understand the purpose of the student\ncouncil, at least try not to get in the way.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Spend time together",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Never mind",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>What would you like to do with Keebo?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Spending time with Keebo Event 4",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time with Keebo...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Keebo and I grew a little closer today.",
+  "tr": ""
+ }
+]

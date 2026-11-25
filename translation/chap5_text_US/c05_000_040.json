@@ -1,0 +1,57 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Candles hung on the walls...\nThey're the only source of light in the room.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>There's no window in this room, so if you\nblew out the candles, it'd be pitch-dark.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>Candles hung on the walls...\nThey're the only source of light in the room.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>There's no window in this room, so if you\nblew out the candles, it'd be pitch-dark.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>It seems these floorboards are layered on\ntop of <CLT=cltSTRONG>crosspieces<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>That played a key role in\nKiyo's murder plan...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Hole in the Corner",
+  "tr": ""
+ }
+]

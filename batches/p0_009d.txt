@@ -1,0 +1,62 @@
+@ chap0_text_US
+## c00_009_007
+187|Az önce bahsettiğiniz <CLT=cltSTRONG>"ceza"<CLT=cltNORMAL> \nnedir?
+188|Basitçe söylemek gerekirse, idam!
+189|İ-İdam mı!?
+190|Suç işlersen cezasını çekersin.\nBu, toplumun en temel kuralı gibi bir şey.
+191|Ama bu bir ölüm oyunu, yani cinayetin cezası\nbiraz daha...<CLT=cltSTRONG>kalıcı<CLT=cltNORMAL>.
+192|Ooo! Acaba nasıl cezalar\nolacak!?
+193|Bahse girerim bol bol kan, bağırsak ve beyin!\nBeni fena halde azdıran türden şeyler!
+194|Ne!? Monokid, şimdiden azdın mı!?
+195|E-Evet! Şu an fena azgınım!
+196|Kan...bağırsak...beyin...
+197|BLÖRĞBLÖRĞBLÖRĞBLÖRĞBLÖRĞ!
+198|Vay! Monophanie az önce kustu!
+199|ŞU AN FENA AZGINIM!
+200|Ha? Kusmuk da mı seni azdırıyor?
+201|Ah-hahahahahaha!\nSiz çocuklar çok sevimlisiniz!
+202|B-Bunun neresi sevimli!?
+203|Pekala, bu sıkıcı açıklamalardan bıktım—
+204|Hadi şu heyecan dolu <CLT=cltSTRONG>ölümcül okul\ndönemini<CLT=cltNORMAL> başlatalım artık!
+205|Ayrıca istediğiniz gibi öldürmekte\ntamamen özgürsünüz.
+206|Sopayla dövmek! Ya da bıçaklamak! Cimri mi\nhissediyorsun? Boğmayı dene! Tembel misin? Zehirle!
+207|İster vur, ister yak, boğ, havaya uçur, ez,\nelektrik çarptır ya da kurbanını gülmekten öldür...
+208|İstediğin kişiyi istediğin yöntemle,\nistediğin şekilde öldürebilirsin!
+209|<CLT=cltSTRONG>Yetenekli Gençler için Ultimate Akademisi<CLT=cltNORMAL>'nde\nkatil potansiyelinizi keşfedeceksiniz!
+210|On altı yetenekli genç dahi, bir ölüm\noyununda birincilik için yarışıyor...
+211|Böyle bir etkinlik için <CLT=cltSTRONG>Ultimate Akademisi<CLT=cltNORMAL>'nden\ndaha iyi bir mekân olamaz!
+212|<CLT=cltSTRONG>Ölümcül okul dönemi<CLT=cltNORMAL>...\nBir oyun gibi.
+213|Kehehe...saçma bir oyun için hayatımızı\ntehlikeye atmak absürt.
+214|Gerçi sıkıcı olacak gibi görünmüyor.
+215|Hey! Siz yozlar nasıl bu kadar sakin olabiliyorsunuz!?
+216|B-Bu yalan olmalı...değil mi?\nBu...bir yalan, değil mi?
+217|<CLT=cltMIND>Yalan... Daha çok kurgu gibi...
+218|<CLT=cltMIND>Televizyondaki bir hikâye gibi...
+219|<CLT=cltMIND>Gerçeklikten o kadar kopuk bir senaryo ki,\nyaşandığına inanmak bile zor.
+220|B-Ben...bir ölüm oyununda olmak istemiyorum...\nBu yanlış, ben... Ben asla öyle bir şey yapmam.
+221|Puhuhu... Eh, ölüm oyununa katılmak\nistemiyorsanız bu bir sorun olacak...
+222|Çünkü burada olmanızın tek sebebi\nölüm oyunu.
+224|Şimdi, yeteneklerinizi serbest bırakın ve mutlu,\ncani, korkunç, eğlenceli bir ölüm oyunu oynayın!
+225|B-Bir dakika!
+226|...Hm?
+227|Ne derseniz deyin... Bunu yapmayacağız!
+228|Asla bir ölüm oyununa katılmayacağız!
+229|Ne planlıyorsanız planlayın, bunun\nyanınıza kâr kalmasına izin vermeyeceğim!
+230|K-Kaede! O şeye öyle düşüncesizce karşı\ngelmemelisin—
+231|Yok, yok! Direnişini memnuniyetle karşılarım! O tür\nbir başkaldırı ruhu ölüm oyunu için önemli.
+232|Başkaldıranların sonunda kopup ellerini\nkirletmelerini izlemek çok eğlenceli...
+233|B-Bununla ne demek istiyorsun...?
+234|Herkes ölüm oyunlarında o tür vahşete\nbayılır! Özellikle de ben!
+235|Hiç eskimiyor! O kadar eğlenceli ve keyifli ki\nAYI-rı derecede gaza geliyorum!
+236|Üstelik müdür olarak sizi buna zorlamak\nbenim görevim.
+237|Ahahahahahahahaha!
+238|Kyahahahahahahaha!
+240|<CLT=cltMIND>Monokuma ve yavrularının ciyak ciyak kahkahaları\narasında şaşkın bir sessizlik içinde kaldık.
+241|<CLT=cltMIND>Bu durumla ilgili her şey çok\nsapkındı.
+242|<CLT=cltMIND>Dev bir duvarla çevrili bir akademi...
+243|<CLT=cltMIND>İçinde mahsur kalmış 16 Ultimate öğrenci...
+244|<CLT=cltMIND>Gizemli pelüş ayılar ve ölümcül silahlar...
+245|<CLT=cltMIND>Ve yeni arkadaşlar...bir ölüm oyunu\noynamaya zorlanıyor.
+246|<CLT=cltMIND>Hepsi sadist bir kurgu eserinden\nfırlamış gibiydi...
+247|<CLT=cltMIND>Gerçekliğin kendisinden farksız, sadist\nbir hikâye...
+248|<CLT=cltMIND>Ve isteğim dışında artık o hikâyenin\nbir karakteriydim.

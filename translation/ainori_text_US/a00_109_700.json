@@ -1,0 +1,297 @@
+[
+ {
+  "id": 0,
+  "en": "Nyeeeh...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Nyeeeh...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Himiko!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>She looks annoyed...\nHer glare is telling me to go away.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "If you don't want to talk to me...\nyou could have turned me down.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I'm too lazy to say no.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Ah...I see.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I've never met someone\nso thoroughly lazy.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>But...that is strange...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Hey, Himiko?\nWhy did you decide to be a magician?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I'm not a magician.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "I'm a mage and I use real magic.\nDon't get it wrong.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Magic tricks, right?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Real magic, sure",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Then show me some real magic",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "It's real magic, okay?\nYou get it, right?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Magic tricks, right?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "It's magic.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "You say that, but there's no way\nmagic is real...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "It's magic!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "I'm telling you...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "It's magic, it's magic, it's magic, it's magic,\nit's magic, it's magic, it's magic, it's magic!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "...I'm sorry.\nYou're right, it's magic.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Hmph, it's magic.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Real magic, sure.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>I feel like this conversation will go\nnowhere if I disagree...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "No, it's magic. How many times \ndo I have to tell y—",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "It's magic...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Yes, that's right,\nI just said it was magic...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Yeah, you're right!\nIt's magic, it's magic! Hmph!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>She looks really happy...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Then show me some real magic,\nright now.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Nyeeeh...\nWell...that's...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "T-There's no mana here, so I can't.\nIf you sacrificed yourself I could...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "...I'd rather not be sacrificed,\nso I'll decline.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Oh, that's too bad. I guess you're just \nnot passionate enough about magic.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Not passionate enough to\nsacrifice myself, maybe...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Anyway, what were we talking about?\nWhy I'm a mage?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Why are you asking about that?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Well, because...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>Isn't it strange that such a lazy girl would\ngo through so much work for a magic trick?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "It seems like magic requires a ton\nof work to prepare, so...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "A typical amateur question. You don't \nneed annoying preparations for magic.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I-I see...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I'm talented. Not relying on my talent \nwould go against my master's teachings.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Master? You have a master, Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Nyeh...?\nDid I not tell you?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "This is the first time I'm hearing it.\nSo there are apprentice magicians?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Hm, that's right. My master was \nan amazing archmage...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Hey wait! You called me a \nmagician again! I'm a mage!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltSYSTEM>Himiko's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with her.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>I had to spend some time calming Himiko\ndown, who had become quite pouty.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>I wonder what kind of person\nHimiko's master is...",
+  "tr": ""
+ }
+]

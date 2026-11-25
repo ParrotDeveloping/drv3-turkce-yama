@@ -1,0 +1,56 @@
+@ chap1_text_US
+## c01_714_051
+6|Bir dakika...\nBeni öldürmeye mi geldin!?
+7|H-Hayır! Beni öldürürsen sadece hayranlarımı\nkızdırmazsın! Bütün insanlığı kızdırırsın!
+8|<CLT=cltMIND>Yanlış anlama yüzünden paniğe kapılan\nMiu'yu sakinleştirerek biraz vakit geçirdim...
+## c01_714_052
+0|Miu Iruma Serbest Zaman 3
+1|Birlikte vakit geçir
+2|Boş ver
+5|Etkinlik 3 Miu Iruma ile Vakit Geçirme
+6|<CLT=cltMIND>Miu'yla biraz vakit geçirdim...
+## c01_714_053
+0|Miu Iruma Serbest Zaman 4
+1|Birlikte vakit geçir
+2|Boş ver
+5|Etkinlik 4 Miu Iruma ile Vakit Geçirme
+6|<CLT=cltMIND>Miu'yla biraz vakit geçirdim...
+## c01_950_000
+0|Kaede...sanırım artık bütün kütüphaneyi\nincelemiş olduk.
+1|Ama hâlâ hiçbir şey bilmiyoruz. Sanki beyne\nhiç yaklaşamadık gibi hissediyorum.
+2|En önemli kanıt o fotoğraflar olacak.\nOnları alınca...
+3|Ama yine de, bunu söyleyip hiçbir şey yapmadan\nduramayız... Yapabildiğimizi araştırmaya devam edelim.
+4|Araştırmaya devam mı?
+5|Evet. Bence mazeretleri toplamalıyız.
+6|Rantaro'nun öldürüldüğü zaman diliminde\nherkesin nerede olduğunu doğrulamalıyız.
+11|Oyun Odası'nda olmaları gerekiyordu...\nRantaro'yla birlikte...
+12|Onlara orada ne olduğunu\nsoralım.
+14|Şimdilik Oyun Odası'na gidelim.
+## c01_950_001
+0|Sanırım burada da her şeyi\ninceledik...
+1|O zaman sonra ne yapmalıyız?
+2|Şimdilik diğerlerine birkaç soru soralım.\nHâlâ konuşmadığımız insanlar var.
+3|Fotoğraflar elimizde olsaydı bu iş biterdi.\nVaktimizi böyle boşa harcamak zorunda kalmazdık.
+4|Beynin kim olduğunu çoktan bilirdik...
+5|Bu doğru...\nAma boş boş bekleyip hiçbir şey yapmamalıyız.
+## c01_999_001
+0|<CLT=cltMIND>Rögar okul binasının arkasında.\nHerkese yetişmem lazım.
+## c01_999_250
+0|<CLT=cltMIND>Bugünlük yurt odama dönmeliyim...
+1|<CLT=cltMIND>Herkes bekliyor... Yemekhaneye gitmem\nlazım.
+3|<CLT=cltMIND>Şimdilik yemekhaneye gitmeliyim.
+5|Kaede, depoya gidelim.\nMiu'ya kameraları ve sensörleri vermemiz lazım.
+10|<CLT=cltMIND>Hemen yemekhaneye gitmem lazım!
+11|<CLT=cltMIND><CLT=cltSTRONG>Bodrum merdiveninin yanındaki sınıfta<CLT=cltMIND>\nShuichi'yle buluşmam lazım.
+12|Diğerlerinin kameraları görmesine izin veremeyiz...\no yüzden kütüphaneye acele etmeliyiz.
+13|<CLT=cltMIND>Bu plana odaklanmalıyım. Gözcülük yapmak\niçin sınıfa gitmem lazım.
+14|<CLT=cltMIND>Ortalıkta dolaşacak vaktim yok!\nShuichi'nin peşinden gitmem lazım!
+15|<CLT=cltMIND>Bir kale kapısına benziyor.\nArdında ne var?
+16|<CLT=cltMIND>Ne tuhaf bir anıt...\nBu neden burada?
+17|<CLT=cltMIND>Acaba o kapı nereye çıkıyor...
+18|<CLT=cltMIND>Çıkış olduğunu sanmıyorum ama kafama takılıyor...
+19|<CLT=cltMIND>Hemen yanında olduğu için bu çıkıntının\nbüyük kapıyla ilgili olduğunu hissediyorum...
+20|<CLT=cltMIND>Ama nasıl ilgili olduklarını bilmiyorum...
+21|<CLT=cltMIND>Bir yatak... Eh, yeterince rahat görünüyor.
+23|<CLT=cltMIND>Dolabın içinde benimkinin aynısı olan\nüniformalar dizilmiş.
+24|<CLT=cltMIND>Pembe yeleğim bile\nyanında...

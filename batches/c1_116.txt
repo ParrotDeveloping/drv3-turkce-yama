@@ -1,0 +1,56 @@
+@ chap1_text_US
+## c01_300_330
+55|Ama...yapamadım. Monokuma'nın\n<CLT=cltSTRONG>İlk Kan Ayrıcalığı<CLT=cltNORMAL> yüzünden.
+56|Anlıyorum... Orada hemen itiraf etseydin\ngidebilecektin...
+57|Ama buradan tek başına gidemeyeceğine\nkarar verdin, bu yüzden sessiz kaldın.
+58|<CLT=cltSTRONG>İlk Kan Ayrıcalığı<CLT=cltNORMAL> yüzünden gerçeği\nbizden saklamak zorunda kaldın.
+59|Evet, doğru...
+60|Yani <CLT=cltSTRONG>İlk Kan Ayrıcalığı<CLT=cltNORMAL> Kara'nın lehine\ndeğil, aleyhine işledi.
+61|Ama...aynı zamanda şöyle de düşündüm...
+62|Bunu herkes için yaptıysam itiraf ederek\nişleri kolaylaştırmak yerine...
+63|Size yalan söylemeliyim ki bu sizi ilerlemeye\ndevam etmeye motive etsin diye düşündüm.
+64|Duruşmanın sebebi bu mu?\nBeyni ortaya çıkarmak mı?
+65|Bunu yapmazsam Rantaro'nun ölümünün\nanlamsız olacağını hissettim.
+66|Bu sınıf duruşması boyunca hem <CLT=cltSTRONG>suçluyu<CLT=cltNORMAL>\nhem de <CLT=cltSTRONG>beyni<CLT=cltNORMAL> arıyorduk.
+67|Ah, Kaede bundan bahsetmişti.
+68|Ama işte bu yüzden başımıza gelen bütün\nkorkunç şeyleri bitirmek istiyorum!
+71|Suçumu hiçbir zaman sır olarak saklamak\nistemedim... Sonunda hepinize söyleyecektim...
+72|Ama söylemeden önce önce beyni ifşa\netmek istedim...
+73|O zaman ölüm oyunu sona erecek ve\n<CLT=cltSTRONG>ben hariç herkes<CLT=cltNORMAL> kurtulacaktı.
+74|Rantaro'yu öldürmemin kefaretini ödemenin\nen iyi yolunun bu olduğunu düşündüm...
+76|...Bu benim suçum. Yanıldım.\nBeyin yoktu...
+77|Yanıldın mı...? Ama beynin aramızdan\nbiri olduğunu söylememiş miydin?
+78|İlk başta öyle düşünmüştüm...\nAma sonunda elimizde hiçbir şey yok.
+79|Süre sınırında kimse hamle yapmadı,\nduruşma işe yaramadı...
+80|Shuichi tam Kara olarak oylanmak\nüzereyken bile...
+81|Yine de ortaya çıkmadılar.
+82|Off, bu cidden kıl payıydı.
+83|Kaede çenesini kapalı tutsaydı şu an\nhepimiz ölmüş olurduk.
+86|Öte yandan bu belaya sadece o anda bir şey\nsöylemeye karar verdiği için girdi.
+87|Kaede'yi korumak istedim ama aynı zamanda\nbeynin maskesini düşürmek de istedim.
+88|Ama katil tam mahkûm edilmek üzereyken\nbile saklı kaldılar.
+89|Bu, beynin aramızda olmadığı\nanlamına gelmeli.
+90|Yani Kaede bütün zaman boyunca\nyanlış fikre kapılmıştı...
+91|Bütün eylemlerini Shuichi'nin kusurlu\nmantığına dayanarak yaptı.
+92|Bu yüzden bu benim suçum.
+93|Bütün bunlar dedektiflik çalışmam yanlış\nolduğu için oldu.
+94|Bu kadar aptal olmasaydım...
+95|Kaede'ye bir beyinden hiç\nbahsetmeseydim...
+96|...Rantaro ölmezdi...\nKaede de katil olmazdı!
+97|Hepsi benim suçum!
+98|Hayır, değil.
+99|...Kaede...?
+100|Onu ben öldürdüm. Sen değil.
+101|...Değil mi? Ben öldürmedim mi?
+103|Ama Kaede, neden bu kadar karmaşık\nbir tuzak kurdun?
+104|Niyetin beyni öldürmekse <CLT=cltSTRONG>izlerini örtmen<CLT=cltNORMAL>\niçin hiçbir sebep yoktu.
+105|Apaçık değil mi? Çünkü...Shuichi'nin bilmesini\nistemedi.
+106|...Benim mi?
+107|Tabii ki ama...diğer herkesin de bilmesini\nistemedim.
+108|Çünkü...buradan herkesle birlikte kaçmak\nistediğimi söylemiştim.
+109|Ama birini öldürmüş bir kızla arkadaş olmak\nistemezdiniz, değil mi?
+110|Arkadaş...olmak mı?
+111|Kaede...bunu çok düşünmüş.
+112|O kadar çok düşünmüş ki bu onu bir deli\ngibi cinayet işlemeye sürüklemiş...
+113|Tanrım, ne salaksın...
+114|Değil mi?\nNe aptalım...

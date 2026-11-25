@@ -1,0 +1,32 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>This monument doesn't seem to have anything\nto do with the case. I'll leave it alone for now.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Pool Entrance, Zelda Gimmick Plant.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>So this is the key to the gate...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "But I don't think it's related to this case at all.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Closed)",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Casino Door Hexagon Wrench Gimmick(Open)",
+  "tr": ""
+ }
+]

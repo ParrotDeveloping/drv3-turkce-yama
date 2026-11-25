@@ -1,0 +1,42 @@
+[
+ {
+  "id": 0,
+  "en": "It doesn't seem as though there's anything of\ninterest here. And in any case...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I rewrote the program to delete all dangerous\nobjects that could be used as weapons.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I don't see anything dangerous that\ncould be used as a weapon.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>And besides, this is a simulator, right?\nWe won't *actually* die, right?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Perhaps because all the weapons were\ndeleted, the shelves are empty.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>The only thing here is an\nempty box and some lattice.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>Rolled up carpet, huh?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>...It does look safe.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,67 @@
+@ chap1_text_US
+## c01_702_001
+51|Tanrım...insanları dış görünüşlerine göre\nyargılama.
+52|<CLT=cltSYSTEM>Ryoma'nın <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+53|<CLT=cltMIND>Ryoma'dan ayrıldıktan sonra odama\ndöndüm.
+## c01_702_002
+0|Hey, Kaede. Neden benim gibi biriyle\nkonuşmaya devam ediyorsun?
+1|Neden mi...? Bir sorun mu var?\nAh, başka planların mı var?
+2|Öyle bir şey değil...
+3|O zaman ne demek istiyorsun?
+4|Benimle uğraşma.
+5|"Benimle uğraşma" mı...?
+6|Görünüşe göre unuttun, o yüzden hatırlatayım.\nBen bir katilim.
+7|Benim gibi bir katile yaklaşma konusunda\nseni uyarmıştım.
+8|Ah evet, bunu söylemiştin...
+10|Suratında boş bir ifade var...
+11|Şey...daha önce hiç bu durumda\nolmamıştım.
+12|Bulaşıcı bir soğuk algınlığın olsaydı senden\nuzak durmaya daha çok dikkat ederdim.
+13|Bir ölüm oyununa zorlandık ama katillere\nkarşı temkinli değil misin?
+14|Sana güveniyorum...ve grubumuzdaki herkesin\ndaha önce öldürdüğünü sanmıyorum.
+16|Hıh...demek senin yaşam tarzın böyle, ha?
+17|Neyse, şu "Benimle uğraşma"\ntavrına gelince...
+18|Bunu havalı duruyor diye düşündüğün\niçin mi söylüyorsun?
+20|Tabii ki geçmişin asla geri alamayacağın\nbir şey...
+21|Ama suçunu kabul ettin ve şimdi bir mahkûm\nolarak bedelini ödüyorsun, değil mi?
+22|Evet, öyle...
+23|Böyle birinin bu kadar ağır bir yükü tek\nbaşına taşıması gerektiğini sanmıyorum.
+25|Yoksa...ergenlerin en ergeni misin?
+26|"Sağ kolum karanlığın gücüyle titriyor" gibi\nbir şey mi söyleyeceksin!?
+27|Gerçekten o tür bir tipe mi benziyorum...?
+28|Hayır, benzemiyorsun.
+29|Ama...bunca zamandır surat asıyorsun,\no yüzden seni öyle görmeye başlıyorum.
+30|Ben...surat mı asıyorum?
+31|Eh, bunu duymayı beklemiyordum. Hem de beni\ndış görünüşüme göre yargılamışken.
+32|Şey, o... Evet, haklısın...
+33|Ama...surat asıyorum, ha? Belki...
+34|Yanılmıyor olabilirsin.
+35|<CLT=cltMIND>Ryoma derin bir iç çekti.
+36|<CLT=cltSTRONG>Ultimate Piyanist<CLT=cltNORMAL>, ha...?
+37|Sözlerin ve sesin...insanların kalplerine ilham\nveriyor...bir piyano melodisi gibi.
+39|Neyse, artık benimle uğraşma.\nAnladın mı?
+40|<CLT=cltMIND>Ve işte gidiyor...
+41|<CLT=cltMIND>Ama bunu söyleyiş şekli...\nSözlerim Ryoma'ya ulaştı mı?
+42|<CLT=cltSYSTEM>Ryoma'nın <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+43|<CLT=cltMIND>Ryoma'dan ayrıldıktan sonra odama\ndöndüm.
+## c01_702_050
+0|Biri seni uyardığında dinlemelisin...
+1|Yoksa...katillere karşı zevksiz bir\nilgin mi var?
+5|<CLT=cltMIND>Ryoma'yla vakit geçireyim mi?
+6|Hıh... Cesur musun yoksa sadece kalın\nkafalı mı, anlayamıyorum...
+7|Neyse, fark etmez. Gerçi anlatacak pek\nbüyük hikâyem yok...
+8|<CLT=cltMIND>Ryoma'nın gevezeliklerini dinleyerek biraz vakit geçirdim...
+9|<CLT=cltMIND>Ryoma'yla bugün biraz daha yakınlaştık.
+## c01_702_051
+0|Gerçekten yaşamak istiyor musun, istemiyor musun?\nHangisi?
+1|Hıh...sanırım sormama bile gerek yok.
+5|<CLT=cltMIND>Ryoma'yla vakit geçireyim mi?
+6|Pek umurumda değil ama...
+7|Emin misin? Benimle konuşarak vaktini\ngerçekten boşa mı harcamak istiyorsun...?
+8|<CLT=cltMIND>Ryoma'yla biraz vakit geçirdim...
+9|<CLT=cltMIND>Ryoma'yla bugün biraz daha yakınlaştık.
+## c01_702_052
+0|Monokuma ne olursa olsun ölüm oyununu\noynamamızı istediğini söyledi...
+1|Ama bunun ona ne faydası var?\nAmacı ne?
+5|<CLT=cltMIND>Ryoma'yla vakit geçireyim mi?
+6|Tek sebebi eğlenceli olmasıysa o zaman...
+7|Sandığımızdan bile daha büyük bir\nbelanın içinde olabiliriz.

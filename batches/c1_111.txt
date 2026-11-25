@@ -1,0 +1,35 @@
+@ chap1_text_US
+## c01_275_000
+26|<CLT=cltSYSTEM>Ama sağ tıkı basılı tutunca Gerçek Mermisi <CLT=cltSTRONG>zıt\nanlamlı<CLT=cltSYSTEM> bir <CLT=cltSTRONG>Yalan Mermisine<CLT=cltSYSTEM> dönüşür.
+27|<CLT=cltSYSTEM>Sağ fare tuşunu bırakınca\nYalan Mermisi ateşlenir.
+## c01_276_000
+0|<CLT=cltSYSTEM>Tam ortadan ikiye bölündünüz!
+1|<CLT=cltSYSTEM>Böyle zamanlar için <CLT=cltSTRONG>Tartışma Arbedeleri<CLT=cltSYSTEM> biçilmiş kaftan!
+2|<CLT=cltSYSTEM>Bir <CLT=cltSTRONG>Tartışma Arbedesinde<CLT=cltSYSTEM>\niki takıma ayrılırsınız...
+3|<CLT=cltSYSTEM>Sonra <CLT=cltSTRONG>görüşlerinizi<CLT=cltSYSTEM> birbirinize karşı <CLT=cltSTRONG>savunursunuz<CLT=cltSYSTEM>.
+4|<CLT=cltSYSTEM>Ama bak, herkes o kadar ateşlenmiş ki\nifadelerinizin <CLT=cltSTRONG>konuları<CLT=cltSYSTEM> uyuşmuyor.
+5|<CLT=cltSYSTEM>Tartışma hiç de böyle yapılmaz!
+6|<CLT=cltSYSTEM><CLT=cltSTRONG>Konunu<CLT=cltSYSTEM> rakiplerinkiyle eşleştirip\nonları <CLT=cltSTRONG>doğru sıraya<CLT=cltSYSTEM> koymalısın...
+7|<CLT=cltSYSTEM>İyi bir tartışma böyle yapılır!
+8|<CLT=cltSYSTEM>Senin tarafının <CLT=cltSTRONG>konu anahtar kelimeleri<CLT=cltSYSTEM> gösterilir\nama rakiplerinin <CLT=cltSTRONG>konuları<CLT=cltSYSTEM> henüz açıklanmaz.
+9|<CLT=cltSYSTEM>Rakiplerinin argümanının <CLT=cltSTRONG>konusunu<CLT=cltSYSTEM>\ndikkatle dinle!
+10|<CLT=cltSYSTEM>Rakibin ifadesini bitirmeden önce <PAD=【Ｐ上下】> ile\n<CLT=cltSTRONG>aynı konu anahtar kelimesini<CLT=cltSYSTEM> bul...
+11|<CLT=cltSYSTEM>Ve aynı anahtar kelimeyle <CLT=cltSTRONG>konuyu<CLT=cltSYSTEM> savunmak\niçin <PAD=【△】> tuşuna bas.
+12|<CLT=cltSYSTEM>Senin ve rakiplerinin argümanları <CLT=cltSTRONG>eşleşirse<CLT=cltSYSTEM>\nrakiplerinin anahtar kelimesi açıklanır!
+13|<CLT=cltSYSTEM>Ve bütün ifadeler eşleştiğinde...
+14|<CLT=cltSYSTEM><CLT=cltSTRONG>Finale<CLT=cltSYSTEM> girersin.\nBütün rakiplerini bir anda ikna etmeye çalış!
+15|<CLT=cltSYSTEM>Rakibinin iddiasını dışarı itmek için ekranda\ngösterilen tuşa sürekli bas!
+16|<CLT=cltSYSTEM>Geri itilme! <CLT=cltSTRONG>Kusursuz Çürütme<CLT=cltSYSTEM> için\nonların iddiasını dışarı it.
+17|<CLT=cltSYSTEM>Teşekkürler, teşekkürler, teşekkürler!
+18|<CLT=cltSYSTEM>Tam ortadan ikiye bölündünüz!
+19|<CLT=cltSYSTEM>Böyle zamanlar için <CLT=cltSTRONG>Tartışma Arbedeleri<CLT=cltSYSTEM> biçilmiş kaftan!
+20|<CLT=cltSYSTEM>Bir <CLT=cltSTRONG>Tartışma Arbedesinde<CLT=cltSYSTEM>\niki takıma ayrılırsınız...
+21|<CLT=cltSYSTEM>Sonra <CLT=cltSTRONG>görüşlerinizi<CLT=cltSYSTEM> birbirinize karşı <CLT=cltSTRONG>savunursunuz<CLT=cltSYSTEM>.
+22|<CLT=cltSYSTEM>Ama bak, herkes o kadar ateşlenmiş ki\nifadelerinizin <CLT=cltSTRONG>konuları<CLT=cltSYSTEM> uyuşmuyor.
+23|<CLT=cltSYSTEM>Tartışma hiç de böyle yapılmaz!
+24|<CLT=cltSYSTEM><CLT=cltSTRONG>Konunu<CLT=cltSYSTEM> rakiplerinkiyle eşleştirip\nonları <CLT=cltSTRONG>doğru sıraya<CLT=cltSYSTEM> koymalısın...
+25|<CLT=cltSYSTEM>İyi bir tartışma böyle yapılır!
+26|<CLT=cltSYSTEM>Senin tarafının <CLT=cltSTRONG>konu anahtar kelimeleri<CLT=cltSYSTEM> gösterilir\nama rakiplerinin <CLT=cltSTRONG>konuları<CLT=cltSYSTEM> henüz açıklanmaz.
+27|<CLT=cltSYSTEM>Rakiplerinin argümanının <CLT=cltSTRONG>konusunu<CLT=cltSYSTEM>\ndikkatle dinle!
+28|<CLT=cltSYSTEM>Rakibin ifadesini bitirmeden önce W ve S ile\n<CLT=cltSTRONG>aynı konu anahtar kelimesini<CLT=cltSYSTEM> bul...
+29|<CLT=cltSYSTEM>Ve aynı anahtar kelimeyle <CLT=cltSTRONG>konuyu<CLT=cltSYSTEM> savunmak\niçin sağ tıkla.

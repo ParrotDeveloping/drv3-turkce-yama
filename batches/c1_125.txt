@@ -1,0 +1,60 @@
+@ chap1_text_US
+## c01_701_002
+2|Her şeyden önce hem insanlarla iş birliği \nyapabiliyorsun hem de onlara liderlik edebiliyorsun.
+3|Burada herkesi bir araya toplamama bile gerek \nkalmadı çünkü sen benden önce davrandın.
+4|Ö-Öyle mi?
+5|Ama bazen tek başına öne atılma eğilimin\nde var.
+7|Benimle kıyaslayınca daha öğrenecek çok şeyin var!\nSeni yardımcım yapmama ne dersin?
+8|Hâlâ stajyerken bunu önermen\ndoğru mu gerçekten...?
+9|Eee, ne dersin? Buradan çıkınca astronot\nsınavına girmeyi denemek ister misin?
+10|Ama ben daha lisedeyim... Astronot olmak için\nüniversite diploması gerekmiyor mu?
+11|Sorun değil! Tanıdığım bir adama sorarım,\nseni sokarız...
+12|Bunu yapamazsın! Sen zaten istisnanın\nistisnasısın, değil mi?
+13|Ayrıca uzayla o kadar ilgilenmiyorum.\nEminim başkaları daha uygun olur.
+14|Anlıyorum. Eh, sadece ilgilenmiyorsan\nsorun değil...
+15|Sonuçta evren zorlu bir yer. Şu an oraya\nsadece birkaç kişi gidebiliyor.
+16|Ama biz astronotlar uzaya bir yol\naçınca...
+17|Senin gibi sanatsal yetenekleri olan insanlar\nda oraya gidebilecek.
+19|Kesinlikle!
+20|Dünya'da gelişen kültürü alıp evrenin\ndört bir yanına yayacağım!
+21|Ben Dünya'da kalmayı tercih ederim...
+22|Evet, bu harika olurdu
+23|Bir piyaniste ihtiyaçları var mı?
+25|Ne dersin? Şimdi benim izimden gitmek\nister misin?
+26|Ben Dünya'da kalmayı tercih ederim...
+27|Ne yahu!? Evrenle gerçekten *o kadar* mı\nilgilenmiyorsun?
+28|Evet, üstelik uzaya gitmek çok tehlikeli\nve korkutucu geliyor.
+29|Sana söyledim, o tehlikeleri ortadan kaldırmak\nbiz astronotların işi, değil mi?
+30|Sen rahatla ve benim açacağım yoldan git!
+31|Evet, bu harika olurdu.
+32|Değil mi? Benden sonra gelenlerin ne tür\nşeyler yapacağını görmek için çok heyecanlıyım!
+33|Bir piyaniste ihtiyaçları var mı?
+34|Ne diyorsun sen!? Kafana bu kadar takma!
+35|Bu koca dünyada gereksiz hiçbir sanat\nya da teknoloji yok!
+36|Daha önce dediğim gibi, eminim müzik evreni\nkat edip bütün yaşamı birbirine bağlayacak.
+37|Bunun için çalışabilirsin...\nGördün mü? Sadece düşünmek bile heyecan verici değil mi?
+39|Şey... Söyleyeceğim şeye kızabilirsin\nama...
+40|Hm? Ne oldu?\nKızmayacağım, söyle işte.
+41|Sadece uzaya gitmek istediğini sanıyordum,\no kadar.
+42|Ama sen şimdiden sonrasında ne yapacağını\ndüşünüyorsun.
+43|Tabii ki! Benden sonra gelenler için bir yol\naçacağım! Benim rolüm bu!
+44|Buradan da bir çıkış yolu açacağıma söz\nveriyorum, o yüzden merak etme!
+45|Ah, tamam...
+46|<CLT=cltMIND>Bunları başarmanın hiçbir yolu olmamasına\nrağmen beni hedeflerine ikna etmeye çalıştı...
+47|<CLT=cltMIND>Plansız bu kadar kendinden emin olabilen\nsadece Kaito olabilir...
+## c01_701_050
+0|Süre sınırı, ha?
+1|Bu ölüm oyununu oynamamızı o kadar\nistiyor ki bunu mu yapıyor!?
+5|<CLT=cltMIND>Kaito'yla vakit geçireyim mi?
+6|Pekala! Etrafa bakıp diğerlerinin şüpheli bir\nşey yapmadığından emin olalım!
+7|<CLT=cltMIND>Kaito'yla okulda dolaşarak biraz vakit\ngeçirdim...
+8|<CLT=cltMIND>Kaito'yla bugün biraz daha yakınlaştık.
+## c01_701_051
+0|Ne oldu? Benimle konuşmak istediğin\nbir şey mi var?
+4|<CLT=cltMIND>Kaito'yla vakit geçireyim mi?
+5|Evet, bana her şeyi anlatabilirsin! Öyle\ngörünmeyebilirim ama harika bir dinleyiciyim!
+6|<CLT=cltMIND>İyi bir dinleyici olduğunu söylemesine rağmen\nKaito'yu dinleyerek biraz vakit geçirdim...
+7|<CLT=cltMIND>Kaito'yla bugün biraz daha yakınlaştık.
+## c01_701_052
+0|Seninle Miu'nun laboratuvarlarının\nkilidinin açıldığını duydum?
+1|Eminim sıradaki benimki! Görmek için\nsabırsızlanıyorum!

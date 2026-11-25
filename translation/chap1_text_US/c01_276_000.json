@@ -1,0 +1,187 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>You're split down the middle!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSYSTEM>At times like this, <CLT=cltSTRONG>Debate Scrums<CLT=cltSYSTEM> are perfect!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>In a <CLT=cltSTRONG>Debate Scrum<CLT=cltSYSTEM>,\nyou will be split into two teams...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Then, you <CLT=cltSTRONG>argue your opinions<CLT=cltSYSTEM> against each other.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>But look, everyone's so fired up, the\n<CLT=cltSTRONG>subjects<CLT=cltSYSTEM> of your statements don't match.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>That's not how you debate at all!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>You have to match your <CLT=cltSTRONG>subject<CLT=cltSYSTEM> with your\nopponents' and put them <CLT=cltSTRONG>in the correct order<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>That's how you make a good debate!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>Your side's <CLT=cltSTRONG>subject keywords<CLT=cltSYSTEM> will be displayed,\nbut your opponents' <CLT=cltSTRONG>subjects<CLT=cltSYSTEM> won't be revealed yet.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>Listen closely for the <CLT=cltSTRONG>subject<CLT=cltSYSTEM>\nof your opponents' argument!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>Before your opponent finishes their statement,\nfind the <CLT=cltSTRONG>same subject keyword<CLT=cltSYSTEM> with <PAD=【Ｐ上下】>...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>And press <PAD=【△】> to argue the <CLT=cltSTRONG>subject<CLT=cltSYSTEM>\nwith the same keyword.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>If you and your opponents' arguments <CLT=cltSTRONG>match<CLT=cltSYSTEM>,\nthen your opponents' keyword will be revealed!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltSYSTEM>And when all the statements match up...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>You will enter the <CLT=cltSTRONG>finale<CLT=cltSYSTEM>.\nTry to convince all your opponents at once!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltSYSTEM>Continuously tap the button displayed on the screen\nto push your opponent's claim out!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSYSTEM>Don't get pushed back! Push their claim out\nfor a <CLT=cltSTRONG>Perfect Refutation<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltSYSTEM>Thank you, thank you, thank you!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltSYSTEM>You're split down the middle!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltSYSTEM>At times like this, <CLT=cltSTRONG>Debate Scrums<CLT=cltSYSTEM> are perfect!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>In a <CLT=cltSTRONG>Debate Scrum<CLT=cltSYSTEM>,\nyou will be split into two teams...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltSYSTEM>Then, you <CLT=cltSTRONG>argue your opinions<CLT=cltSYSTEM> against each other.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltSYSTEM>But look, everyone's so fired up, the\n<CLT=cltSTRONG>subjects<CLT=cltSYSTEM> of your statements don't match.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>That's not how you debate at all!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltSYSTEM>You have to match your <CLT=cltSTRONG>subject<CLT=cltSYSTEM> with your\nopponents' and put them <CLT=cltSTRONG>in the correct order<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltSYSTEM>That's how you make a good debate!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltSYSTEM>Your side's <CLT=cltSTRONG>subject keywords<CLT=cltSYSTEM> will be displayed,\nbut your opponents' <CLT=cltSTRONG>subjects<CLT=cltSYSTEM> won't be revealed yet.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltSYSTEM>Listen closely for the <CLT=cltSTRONG>subject<CLT=cltSYSTEM>\nof your opponents' argument!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltSYSTEM>Before your opponent finishes their statement,\nuse W and S to find the <CLT=cltSTRONG>same subject keyword<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltSYSTEM>And right-click to argue the <CLT=cltSTRONG>subject<CLT=cltSYSTEM>\nwith the same keyword.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltSYSTEM>If you and your opponents' arguments <CLT=cltSTRONG>match<CLT=cltSYSTEM>,\nthen your opponents' keyword will be revealed!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltSYSTEM>And when all the statements match up...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltSYSTEM>You will enter the <CLT=cltSTRONG>finale<CLT=cltSYSTEM>.\nTry to convince all your opponents at once!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltSYSTEM>Rapidly tap the key displayed on the screen\nto push your opponent's claim out!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltSYSTEM>Don't get pushed back! Push their claim out\nfor a <CLT=cltSTRONG>Perfect Refutation<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>Thank you, thank you, thank you!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltSYSTEM>Before your opponent finishes their statement,\nuse Z and S to find the <CLT=cltSTRONG>same subject keyword<CLT=cltSYSTEM>...",
+  "tr": ""
+ }
+]

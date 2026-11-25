@@ -1,0 +1,632 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Hm...Kaito's not here either?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Hey, has anyone seen Kaito!?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "You seem in a panic.\nOver the Kubs Pad if I'm not mistaken.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "You're not the only one who got one, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "We all did.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "We have all been given \"motive videos\".\nHowever, they have been mixed up.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Mixed up?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "When I woke up, there was a Kubs Pad in my \nroom, but the video on it wasn't even mine—",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Tsumugi, we should discuss this once\neveryone is here.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Oh, sorry... You're right.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "What do you mean, once everyone is here?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Kaito and Keebo went to gather everyone \nelse so that we may discuss our plans.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Shall we wait for everyone then? Until then,\nI can provide you all with massages—",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Thank you for waiting! We gathered everyone\nelse!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "My word...and after I was about to finally \nexperience one of Kirumi's famed massages...",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Wh-What do you mean? Are you also suggesting\nthat I cannot read the air?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "So what is it? Why did you drag us here?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Didn't I tell you?\nIt's about the Kubs Pads.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Monokuma gave us a new motive.\nWe can't *not* talk about it.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "That thing that looks like another Monopad?\nThat was a <CLT=cltSTRONG>motive<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Maki, haven't you watched the video on the\nKubs Pad yet!?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "No. I ignored it because I figured it was\nsomething stupid.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "That's actually really courageous \nin a weird sort of way...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "You don't have to speak up, but this is\nimportant, so you should at least listen.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "So, what are these videos?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "No doubt they're more <CLT=cltSTRONG>motives<CLT=cltNORMAL> from Monokuma,\nbut why were they all mixed up...?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Y-Yeah! Why Gonta get Tsumugi's video—",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "No! Don't say it, Gonta!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "...Hm?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Aah...I heard it... I see... \nSo Gonta has my video...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "...Huh? Gonta not supposed to say it?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Who fuckin' cares!? We're gonna exchange 'em\nanyway, right?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "No, we cannot exchange them.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>What? We can't?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Why not? They're videos of the \n<CLT=cltSTRONG>most important people<CLT=cltNORMAL> in our lives.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "And that is precisely why we cannot exchange\nthem.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Although we do not know why our <CLT=cltSTRONG>motives<CLT=cltNORMAL>\nwere mixed up...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "As long as we don't exchange them, we don't\nhave to see our motives at all.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "So it's better to just ignore them...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Yes. At least, that is what I think.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Th-That's true... If we ignore them, then we\nwon't have a <CLT=cltSTRONG>motive<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I'm against that.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Huh? Against it? Why? If you see that video, \nit'll turn into a <CLT=cltSTRONG>motive<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "That's why I want to see it.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "You do?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "You were saying something like that before...\nThat you don't plan on surviving.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "It might not matter to you whether \nyou get killed or not, but...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "We're different!\nWe all want to live!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Wake up already! You're like some zombie\nwandering around with no will to live!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "No will to live, huh? Hmph, if that's \nhow you see me, then so be it.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "But I've got no plans to change my opinion.\nThat's just not cool.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Wh-What did you say!?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Who cares? Ryoma just stated his opinion.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Actually...I feel the same way as him.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Are you...trying to cause trouble again?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Don't get the wrong idea. I'm not saying\nwe shouldn't care about killing or dying...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "But I think it'd be better if we didn't <CLT=cltSTRONG>cooperate<CLT=cltNORMAL>\nwith each other...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Actually, we *definitely* shouldn't <CLT=cltSTRONG>cooperate<CLT=cltNORMAL>\nwith each other!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "We shouldn't cooperate? Why not!?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Think back to all of Monokuma's actions so far.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Whenever we tried to work together, Monokuma\nwould retaliate with a plan to make us suffer.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "It happened when Kaede wanted us to cooperate,\nand again with these <CLT=cltSTRONG>motive videos<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Which means, the more we try to cooperate,\nthe more he'll try to make us suffer.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "You are saying that if we do not rally together,\nwe will not be made to suffer?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "That's why I had no choice but to screw with\nyou guys. But you ingrates didn't even notice.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "And you're not lying to us right now?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...Whether I'm lying or not, what I'm saying is\nstill true.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Anyway, we shouldn't force ourselves to \n<CLT=cltSTRONG>cooperate<CLT=cltNORMAL>. Let's just all do our own thing.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "So, I agree with Ryoma's suggestion.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>It's *because* we're trying to cooperate\nthat Monokuma is making us suffer...?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>But what about...\neverything we went through...?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>What was the point of Kaede\nsacrificing herself...?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Anyway, I'm warning you all for your sake.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Let's just exchange our <CLT=cltSTRONG>motive videos<CLT=cltNORMAL>\ninstead of cooperating with each other.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...I cannot comprehend that logic.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Well, now that I've said I won't cooperate, I\ncan't afford to be seen with you losers...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "C'mon, Gonta. Let's go.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "What? Gonta, too!?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "We promised to think of a way to get everyone\nto exchange their <CLT=cltSTRONG>motive videos<CLT=cltNORMAL>, remember?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Anyway, Kirumi, I'll hit you up later when I'm\nfeeling hungry.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "W-Wait! Did Gonta make promise!?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Why can't you tell when he's lying, Gonta?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Quit screwing around... \"Our sake\"?\nYeah, right. I've had it with his lies.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "So are we all done here? Then I'm leaving.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Kirumi, bring me my dinner later.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "I'm heading out too...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Wait up, Ryoma!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Don't forget. We're all struggling to get out \nof here alive.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "So don't get in our way...",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "I've got no intention of getting in your way.\nI'd never do something so uncool.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Kirumi, could I get you to clean \nmy room later?",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "You guys are relying on Kirumi too much.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "I do not mind... Serving others is the true\ndesire of any maid.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "You shouldn't spoil people, though!\nEspecially degenerate males!",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Our cooperation is the number one factor \nin our suffering, is it?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Kehehe... How, I wonder, will this turn out...?\nI will observe with great interest...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Oh, and Kirumi, I shall have you record my\nobservations. I trust you to do it properly.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Hah-hahaha! Well, I'm certainly not gonna\nhang out with a bunch of chumps like you!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Guess I'll go back, take a shit, and get some\nsleep! Kirumi, think of an invention for me, okay!?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Wow... How much is everyone going \nto depend on Kirumi?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "My workload has increased significantly...\nThis calls for a more tactical approach.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "C'mon, you can't spoil them! They'll just turn\ninto ungrateful leeches!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "...Wait, what's wrong, Himiko?\nAre you hungry?",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Then how about we eat together!?\nKirumi, one tripe hot pot please!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Tenko...you're giving her more work...",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "What's the matter, Himiko?\nYou don't like tripe hot pot?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "You don't get it, Tenko. Himiko isn't hungry.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "I know, cuz I have the almighty Atua.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Whatever! Let's just enjoy some tripe hot pot!",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Geez, you're so careless, Tenko.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>In the end, those of us that stayed behind\nhad tripe hot pot for a quirky take on breakfast.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>We also promised not to show each other\nthe <CLT=cltSTRONG>motives<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>This is an oddly-shaped monitor...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>This looks like the dining hall rules.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltSYSTEM>\"You may eat any food you\nfind in the dining hall.\"",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltSYSTEM>\"Please take responsibility for all utensils and\ndishes used and clean up after yourself.\"",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltSYSTEM>\"The dining hall will be locked\nduring nighttime.\"",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>It looks like you could get outside from here...\nbut it's completely blocked...",
+  "tr": ""
+ }
+]

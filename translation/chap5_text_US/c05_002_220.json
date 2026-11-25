@@ -1,0 +1,572 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Ah! Over there! It's...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "An Exisal!?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "All five of them are here!\nIt's too dangerous! Let's run!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "...Wait a second.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "They aren't moving. They're not reacting\nto us, and the lights are off...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Oh, now that you mention it...you're right.\nI wonder what's going on.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Ah-hahaha! Surprised? This is actually\nthe Exisal hangar!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yep, this is where the Exisals are stored!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>A facility for storing Exisals?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "This is where I was guarding the precious\nExisals so no one would mess with them...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "But...*sigh*...it's pointless now.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Is it because the Monokubs are gone?\nNo one can control the Exisals anymore.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "What!? No one can control them anymore!?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "...Am I wrong?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Oh, don't worry about my reaction just now.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I thought a somewhat over-the-top reaction\nwould put you guys on the defensive.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "What does that mean!?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Now, now! Don't get so worked up! You may\nbe a machine, but you're not a demon model!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>The deactivated Exisals...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Is this hangar <CLT=cltSTRONG>pointless<CLT=cltMIND> now that\nthe Monokubs are gone?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltMIND>If that's true...is nothing\nthreatening us anymore?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "This hangar is <CLT=cltSTRONG>pointless<CLT=cltNORMAL>, huh?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I bet Miu would have found a purpose for\nthis place.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "She would have been excited to dismantle\nthe Exisals and study them further.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "I can assert that with confidence because her\nactions are documented in my memory bank.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "When it came to machines and technology,\nMiu was...very genuine.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "She had a natural innocence that she kept\nhidden deep inside.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "When it came to machines and technology,\nMiu was...very genuine.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "She had an natural innocence that she kept\nhidden deep inside.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I have always suspected that I'm perceived\nas just a machine...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "But it is rather harrowing to have that\nsuspicion confirmed before my eyes...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "I may be just a machine to this press...but I'm\nsure other tests will confirm my humanity!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltMIND>I'll investigate around here some more.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>This huge machine has several moving\narms. What is this used for?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "...This machine is probably used to paint\nthe Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Ah, right...\nIt does kind of smell like paint thinner.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Which means, I could potentially use this\nmachine to give myself a makeover.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I don't think you need a makeover.\nYou're great just the way you are, Keebo!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Well, of course I am!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>...Then why bring it up?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>This huge machine has several\nmoving arms.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>It looks like a machine used to paint Exisals.\nIt smells kinda like paint thinner...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>This looks like a car wash.\nIs it for cleaning the Exisals?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...That seems comfortable.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "...Comfortable, huh?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>This looks like a car wash.\nI imagine it's for cleaning the Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>What is this door...?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>This is a huge, powerful machine...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "...This hydraulic press is probably used to\nscrap decommissioned Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Scrap them?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Yes, even the Exisals could not withstand\nbeing crushed by a giant metal slab.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "True...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Also, it seems you can control the hydraulic\npress using that control panel over there.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "There's an <CLT=cltSTRONG>up and down button<CLT=cltNORMAL>, as well as\nan <CLT=cltSTRONG>emergency stop button<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "There's a <CLT=cltSTRONG>safety notice<CLT=cltNORMAL> written here.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "The hydraulic press has an infrared sensor.\nWhen it detects a living being...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "it automatically stops, for safety reasons.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "If someone accidentally ended up in the\npress, the machine would stop.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "What do you think, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "...Of the safety function?\nI...don't know—",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...Let's give it a try.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "...Hm? Try what?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>As I stood there confused,\nKeebo suddenly got under the press.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...Shuichi, please!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Please what!?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "If the press comes to a stop when it detects\na <CLT=cltSTRONG>person<CLT=cltNORMAL>, what will happen if it detects me?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Let's find out!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Are you sure about that?\nI don't know if the sensor will work...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Don't worry. If I sense any danger, I'll\nmove out of the way.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "I just really want to try it out. If I don't, \nI'll never be able to rust in peace when I die.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltMIND>...He's not going to change\nhis mind about this.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "...Okay, let's do it. But get out of\nthere if it's dangerous, okay?",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Certainly! Now, if you would be so kind...\nStart it up!",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>Convinced by Keebo's enthusiasm,\nI pressed the button.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>And then...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Th-That was a close one!",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Y-Yes, it was! Why did you do that!?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "Why didn't you press the \"Force Stop\"\nbutton, Shuichi!?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "<CLT=cltMIND>It's not *my* fault!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "But...at least we know now.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "It seems I'm only perceived as a machine,\nnot a human.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Well, to this hydraulic press, that is...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Ah...yeah...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>This is a huge, powerful hydraulic press.\nPerhaps for disposing of Exisals.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>There's an infrared sensor on\nthis hydraulic press...",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>It's a safety function that prevents the\npress from crushing living things.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "It seems I'm only perceived as a machine,\nnot a person.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Well, to this hydraulic press, that is...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Ah...yeah...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>What is this?\nDoes this operate the machine here?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Ah, this control panel...",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "This is most likely the control panel for\nthe alarm system and electric barrier.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Yes, it seems like it.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "But there's no reason to turn the barrier\nback on, so we shouldn't touch it.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Are you saying that because I don't have the\n59-digit code to deactivate it memorized?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "Because all robots can memorize more than\nthree digits, is that what you're implying?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "N-No...?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "<CLT=cltMIND>All five Exisals are being stored here right now.\nThey aren't moving at all...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>Are the Exisals not going to move anymore?\nAre they no longer going to be used against us?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "<CLT=cltMIND>I've investigated everything here.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "<CLT=cltMIND>This is definitely a hangar for\nthe Exisals, but they're deactivated.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>Monokuma might be right...\nthis place no longer has any purpose.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Hey, Shuichi! There you are.\nI was looking for you!",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Hey, come to the dining hall. Tsumugi says\nshe wants everyone to meet there.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Huh? Tsumugi?",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "She told me she found something. It's probably\nthe <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "Anyway, come as soon as you can.\nI'm gonna go on ahead.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>The next <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>.\nWhat will we remember this time?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "I should head to the dining hall.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>I don't have any business in the boys bathroom.\nNot that I'd feel comfortable going in there...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Research Lab B",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Magician's Lab",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Clock Tower A",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Clock Tower B",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ }
+]

@@ -1,0 +1,62 @@
+@ chap1_text_US
+## c01_104_015
+4|Ooo, geldin.
+5|Geldim tabii. Seni görmeye geldim, güzelim.\nDehehe... Her zamanki gibi çok güzelsin.
+6|Ah Monosuke, ne kadar da çapkınsın.
+7|...Ah, sana bir içki ısmarlayabilir miyim?
+8|İstediğin kadar iç.\nHarcayacak bol param var.
+9|Hehe, teşekkürleeer.
+10|Bakar mısıııın! Buraya bir şişe alabilir miyiz!?
+11|Hahahahaha! Bu harika!
+12|Hey, bunu daha ne kadar\nyapacaksınız?
+13|A-Alın bunları...!
+14|Bunlar...bütün fotoğraflar. Her kamera için...\nayrı zarflara konuldu.
+15|Onları...o alçağı alt etmek için kullanın!\nA-Artık her şey...size...bağlı...!
+16|...*öldü*
+17|...Pöh, çok zenginim. Bir gazeteci bu konuda\nne yapabilir? Hiçbir şey, işte o kadar.
+18|Bu arada, Monophanie...vardiyan bitince\nburadan kaçalım mı?
+19|Hihihi...şık bir biftek yemeği istiyorum.
+20|Adın ve yaşın ne? Hangi semttensin?\nMaaşın ne? Başka bir işin var mı?
+22|N-Neyse...görünüşe göre fotoğraflar artık\nbizde.
+23|Evet, sonunda...
+24|...Kaede! Bunlar banyo edilmiş fotoğraflar mı!?
+25|Suçlu o fotoğraflarda olmalı,\ndeğil mi?
+26|Nişişi... Ne heyecan verici. Suçlunun aptal\nsuratını görmek istiyorum.
+27|Pekala! Hadi bakalım!
+28|Önce ön girişin yanındaki kameranın çektiği\nfotoğraflara bakalım.
+29|<CLT=cltMIND>Üstünde "Ön Giriş" yazan zarfta toplam\ndört fotoğraf var.
+30|<CLT=cltMIND>İlk fotoğrafa bakalım...
+31|Bu...bizim kütüphaneye geldiğimiz an.\nDemek o zaman bir fotoğraf çekmiş...
+32|Evet, bu Rantaro'nun cesedini bulmamızdan\nhemen önceydi.
+33|Bu benim epey kötü bir fotoğrafım...ama\nüzerinde çok durmayın, tamam mı?
+34|İçin rahat olsun, umurumuzda değil.
+35|Pekala, bir sonrakine geçelim.
+36|Şey... Bu...
+37|Tenko'nun çığlığını duyduktan sonra kütüphaneye\nkoşarak girdiğimiz anın fotoğrafı.
+38|Bunun bize hiç faydası yok. Acele et de\nbir sonraki fotoğrafı göster.
+39|E-Evet, tamam.
+40|Bu da ceset bulundu anonsundan sonra\nkütüphaneye gelen diğer herkes.
+41|Burada görünen herkes, ben dahil,\nbodruma doğru yoldaydık...
+42|Yani biraz geç vardık.
+43|Hey! Bunların hepsi cesedi bulduğumuz\nana ait fotoğraflar!
+44|Ön girişin bir fotoğrafı daha var,\ndoğru mu?
+45|Evet, ona da bakalım.
+46|Ha? Shuichi?
+47|Ah, pardon...görünüşe göre kameraları\nsökerken sensörlerden birini tetiklemişim.
+48|Kh! Ne diyorsun sen!?
+49|Şey...bu fotoğrafta da bize yardımcı olacak\nbir ipucu yok gibi...
+50|Ön girişe doğrultulan kamera sadece bu\ndört fotoğrafı çekmiş...
+51|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Ön Giriş Fotoğrafları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+52|Fotoğraflarda ne Rantaro var ne de suçlu\nolabilecek başka biri...
+53|O zaman ikisi de arka kapıdan mı \ngirdi?
+54|O zaman arka girişin yanındaki kameranın\nçektiği fotoğraflara bakalım.
+55|Hm... Arka girişe doğrultulan kamera sadece\niki fotoğraf çekmiş.
+56|Şey, ilk fotoğrafa bakalım...
+58|Demek Rantaro arka girişten girmiş.\nBelki kimse onu görmesin diye...
+59|Öldürüldükten sonra kütüphaneye taşınmış\nolabileceğini düşünmüştüm...
+60|Ama durum öyle görünmüyor.
+61|Yani kendi isteğiyle oraya gittikten sonra \nkütüphanede öldürülmüş...
+62|N-Neyse, bir sonrakine geçelim!\nBelki beyni gösterir!
+63|Ha!?
+64|Ah...pardon...yine ben. Bu kamerayı\nsökerkenki an...
+65|Nyeeeh... Ne ilgi manyağı!

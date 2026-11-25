@@ -1,0 +1,57 @@
+@ chap1_text_US
+## c01_102_026
+165|Bu Monokuma'nın şakalarından biri mi?
+166|Muhtemelen...
+168|<CLT=cltMIND>"Ultra Despair Girls 2" diye bir video\noyununun afişine benziyor...
+169|<CLT=cltMIND>Bunun davayla bir ilgisi olmadığından eminim.
+170|<CLT=cltMIND>Bu kapı Oyun Odası'na girmek için\nkullandığımızdan farklı.
+171|Bu koridora mı açılıyor?
+172|Öyle görünüyor...\nKontrol edelim.
+173|Sürgülü bir kapı. Ben açayım...
+174|<CLT=cltMIND>Açmaya çalıştım ama...
+175|<CLT=cltMIND>*kat-çank...*
+176|Ha? Bu tuhaf...\nSonuna kadar açılmıyor!
+177|Düzgün takılmamış gibi görünüyor...\nSadece kolumu sokabiliyorum.
+178|Öbür taraftaki koridoru görebiliyorum ama\nsanırım bu kapıyı kullanmak mümkün değil...
+179|Yok, yok...Gonta'ysa kapının sıkışık olması\nfark etmez.
+180|O süper ağır rögar kapağını fırlatacak \nkadar güçlü...
+181|Evet, bu kapıyı kahvaltıda yer!
+182|Gonta kahvaltıda kapı yemez! Kahvaltı her\ncentilmenin gününün en önemli öğünü!
+183|...Katılıyorum.
+184|Ha? Gonta'nın bu kapıyı yiyebileceğini mi düşünüyorsun?
+185|Ah, hayır, o değil. Yani öyle bir şey yaptığını\nsanmıyorum. Şuna bakın...
+186|Kapının rayında toz birikmiş.\nBu sürgülü kapı bir süredir oynamamış.
+187|O zaman...aralıktan zorla geçti \nsadece.
+188|Bu mümkün değil... Ancak bir beyzbol\ntopunun geçeceği kadar yer var.
+189|Sanırım yeterince inceyse bir kol da\ngeçebilir...
+190|O zaman...muhtemelen insanı zayıflatıp \nyağsız tutan bir büyü kullandı.
+191|Gonta büyü kullanamaz!
+192|Ah! Ben büyü kullanabilirim!
+193|<CLT=cltMIND>Bu ikisinin hiç önemli bir şey\nsöylediği yok...
+195|Ne oldu, Shuichi?
+196|Bir şey yok... Sadece doğrulamak istediğim bir\nşey var. Sürgülü kapıyı bir kez daha deneyeceğim.
+197|<CLT=cltMIND>Shuichi sürgülü kapının aralığından\nbakarken şöyle mırıldandı...
+198|...Tahmin ettiğim gibi. Bak, buradan\nkütüphanenin arka girişini görebiliyorsun.
+199|Bu kapı ve arka giriş tam karşı karşıya\nduruyor.
+200|...Hm? Ne olmuş?
+201|Önemli mi henüz emin değilim...ama biraz\nendişe verici.
+202|<CLT=cltMIND>Endişe verici...nasıl?
+203|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Sürgülü Kapı<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+204|<CLT=cltMIND>Bu sürgülü kapı düzgün yapılmamış...\nSadece kolumu sokabiliyorum.
+205|<CLT=cltMIND>Gonta muhtemelen kaba kuvvetle\naçabilirdi...
+206|<CLT=cltMIND>Ama ray tozla kaplı, bu da kimsenin\nonu zorla açmadığı anlamına geliyor...
+207|<CLT=cltMIND>Kütüphanenin arka girişi ve bu sürgülü\nkapı tam karşı karşıya.
+208|<CLT=cltMIND>Bu Shuichi'yi rahatsız etmiş gibiydi...
+## c01_103_001
+0|Ah! Birlikte mi soruşturuyoruz? Siz ikiniz\namma da samimi olmuşsunuz!
+1|Burada yalnız mısın, Kokichi?
+2|Hm? Evet, neden?
+3|Hepimiz en az bir kişiyle birlikte soruşturma\nyapmaya karar vermiştik.
+4|Ooohh, öyle mi? Eh, karar verdik diye\n*yapmak zorunda* değiliz, değil mi?
+5|Neden herkesin senden şüphelenmesine yol\naçacak bir şey yapıyorsun?
+6|Çünkü ben kötü bir yüce liderim, hatırladın mı?\nŞüpheli olmam gerekiyor!
+7|...Neyse, sana sormak istediğim\nbir şey vardı.
+8|Rantaro öldürüldüğü sırada ne\nyapıyordun?
+9|Ooooo, bizzat <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'ten\nbir sorgulama mı? Ne nadir bir fırsat.
+10|O zaman memnuniyetle cevaplarım!\nDoğrusunu söylemek gerekirse...
+11|...kütüphanede Rantaro'nun kafasını\nparçalıyordum!

@@ -1,0 +1,53 @@
+@ chap1_text_US
+## c01_102_025
+22|Kaito, Himiko'nun büyüsünün ve Angie'nin Atua'yla\nbağlantısının işe yarayacağını düşündü.
+23|Peki ya sen, Maki? Neden <CLT=cltSTRONG>Ultimate Çocuk\nBakıcısı<CLT=cltNORMAL>'nı da seçti?
+24|...Bana bakıp "Evet, sen muhtemelen dövüşmeyi\nbiliyorsun" dedi sadece.
+25|<CLT=cltMIND>Bu kadar mı? Tanrım... Gerçi tam da\nKaito'nun yapacağı bir şey...
+26|Ama neden bodrumdaki Oyun Odası'nda\nstrateji toplantısı?
+27|...Bilmem. Belki Kaito burada Monokuma'nın\nbizi bulmasının daha zor olacağını düşündü.
+28|<CLT=cltMIND>Yani sadece bir tesadüf müydü?
+29|Peki Rantaro o sırada ne yapıyordu?\nSizinle strateji toplantısında mıydı?
+30|Başta...evet.
+31|Ama sonra tuvalete gitmek için izin isteyip\ntek başına çıktı...
+32|Süre dolmadan toplantıyı bitirebilelim diye\nKaito ve Tenko onu aramaya gitti.
+33|<CLT=cltMIND>Bu da şu sıralarda olmuş olmalı...
+37|O zaman dördünüz bütün zaman boyunca Oyun\nOdası'nda mı beklediniz?
+38|Sadece Angie, Himiko ve ben kaldık.\nGonta bize hiç katılmadı.
+39|...Ha? Gonta sizinle değil miydi?
+40|Gonta geldi ama sonra gidip kendini\n<CLT=cltSTRONG>arkadaki Görsel-İşitsel Oda'ya<CLT=cltNORMAL> kilitledi.
+41|Görsel-İşitsel Oda'da tek başına mıydı?
+42|Şüpheli bir davranış, değil mi? Diğer ikisi\nde aynı şekilde düşündü.
+43|Hangi ikisi?
+44|Neden Görsel-İşitsel Oda'ya gitmiyorsun?\nMuhtemelen hâlâ oradalar...
+45|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Maki'nin İfadesi<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+46|Bizi burada toplayan Kaito'ydu.
+47|Süre dolunca Monokuma'yla yüzleşmemiz\ngerektiğini söyledi.
+48|Ve bir kavgada işe yarayacağını düşündüğü\nyedi kişiyi seçti.
+49|<CLT=cltMIND>Yedi kişi... Kaito, Gonta, Maki, Tenko,\nHimiko, Angie ve Rantaro...
+50|<CLT=cltMIND>Görünüşe göre bu toplantının Oyun Odası'nda\nyapılması sadece bir tesadüftü.
+51|Rantaro tuvalete gideceğini söyledi,\ndoğru mu?
+52|Ama süre dolmak üzere olduğu için \nKaito ve Tenko onu almaya gitti.
+53|<CLT=cltMIND>Bu da şu sıralarda olmuş olmalı...
+57|Ve Gonta gelince kendini Görsel-İşitsel\nOda'ya mı kilitledi?
+58|Şüpheli bir davranış, değil mi? Diğer ikisi\nde aynı şekilde düşündü.
+59|Hangi ikisi?
+60|Neden Görsel-İşitsel Oda'ya gitmiyorsun?\nMuhtemelen hâlâ oradalar...
+61|O ikisi hâlâ orada mıydı?
+62|Evet...karışmak istemedim...
+63|Akıllıca. Sadece dinlemek bile beni yordu.
+64|Himiko ve diğerleriyle konuşmak kaçınılmazdı,\norası doğru...
+65|...ama o odada gözüme çarpan başka bir sürü\nilginç nokta vardı.
+66|Hevesin...tuhaf.
+68|Bir suç işlendiğinden beri daha canlısın.\nDedektif olduğun için olmalı.
+69|B-Bu öyle değil...
+70|Hayır, sadece Shuichi'nin ne kadar güvenilir\nhale geldiğini görüyorsun.
+71|Bence bunun dedektif olmasıyla ya da bu olayla\nbir ilgisi yok.
+74|Eh, dedektif, bu davayı çözersen gerçekten\nişimize yarar.
+75|Bu durumdayız çünkü suçlu ortaya\nçıkmayı reddetti.
+77|Hadi, Shuichi! Konuşmamız gereken\ndaha çok insan var!
+81|Eh, dedektif, bu davayı çözersen gerçekten\nişimize yarar.
+82|Bu durumdayız çünkü suçlu ortaya\nçıkmayı reddetti.
+83|<CLT=cltMIND>Henüz gidemem... Araştırmam gereken\nşeyler hâlâ var.
+88|<CLT=cltMIND>Bu ekran süre sınırının dolmasına kadar\nbir geri sayım gösteriyordu...
+91|Hey, Shuichi... Görsel-İşitsel Oda arkadaki\noda, değil mi?

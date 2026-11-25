@@ -1,0 +1,34 @@
+@ chap1_text_US
+## c01_273_000
+10|<CLT=cltSYSTEM>onu bir <CLT=cltSTRONG>Gerçek Kılıcı darbesiyle<CLT=cltSYSTEM> kes!
+11|<CLT=cltSYSTEM>Tabii ki doğru Gerçek Kılıcın yoksa rakibinin\nsözünü kesemezsin.
+12|<CLT=cltSYSTEM>İşin güzel yanı, <CLT=cltSTRONG>aynı anda birden fazla\nkelimeyi<CLT=cltSYSTEM> kesersen süre bonusu kazanırsın.\n
+13|<CLT=cltSYSTEM>Aynı anda iki tane iki saniye kazandırır. Üç tane \nüç... <CLT=cltSTRONG>Ne kadar çok kesersen o kadar iyi<CLT=cltSYSTEM>.
+14|<CLT=cltSYSTEM>Rakibinin iddiasının konumunu dikkatle izle\nve kesebildiğin kadarını kes!
+15|<CLT=cltSYSTEM>Böylece tartışmanın havasını kendi\nlehine çevirebilirsin.
+16|<CLT=cltSYSTEM>Tartışmanın havası senin lehine olduğunda\ntartışma <CLT=cltSTRONG>ilerler<CLT=cltSYSTEM>.
+17|<CLT=cltSYSTEM>Öte yandan karşındakinin sözlerini görmezden\ngelirsen hava onun lehine döner.
+18|<CLT=cltSYSTEM>O zaman da <CLT=cltSTRONG>ilerleme kaybıyla<CLT=cltSYSTEM>\nuğraşmak zorunda kalırsın...
+19|<CLT=cltSYSTEM>Senin ve rakibinin argümanları eşitse\n<CLT=cltSTRONG>Kılıç Kilidi<CLT=cltSYSTEM> yaşanır!
+20|<CLT=cltSYSTEM>Bu olduğunda onu itmek için <PAD=【○】>\ntuşuna olabildiğince hızlı basmalısın!
+21|<CLT=cltSYSTEM>Görüşleri Gerçek Kılıcıyla doğrayıp biçmek\nharika değil mi?
+22|<CLT=cltSYSTEM>Ne? Pek değil mi?\nEh, denemeden yargılamamalısın.
+23|<CLT=cltSYSTEM><CLT=cltSTRONG>V Onayı<CLT=cltSYSTEM> da yapabilirsin, o yüzden\neğer bılabılabılabıla...
+24|<CLT=cltSYSTEM>Zaman ayırdığın için teşekkürler!
+26|<CLT=cltSYSTEM>Bu tür bir argüman ortaya çıktığında <CLT=cltSTRONG>Çürütme\nDüellosu<CLT=cltSYSTEM> denen bire bir tartışmaya girersin.
+29|<CLT=cltSYSTEM><CLT=cltSTRONG>Gerçek Kılıcını<CLT=cltSYSTEM> fare hareketleriyle oynat\nve rakibinin iddialarıyla hizala.
+30|<CLT=cltSYSTEM>Kılıcın gösterdiği yönde <CLT=cltSTRONG>normal kesme<CLT=cltSYSTEM>\nyapmak için sol tıkla.
+31|<CLT=cltSYSTEM><CLT=cltSTRONG>Gerçek Kılıcıyla<CLT=cltSYSTEM> kesmek için sağ tıkla.
+35|<CLT=cltSYSTEM>onu bir <CLT=cltSTRONG>Gerçek Kılıcı darbesiyle<CLT=cltSYSTEM> kes!
+36|<CLT=cltSYSTEM>Tabii ki doğru Gerçek Kılıcın yoksa rakibinin\nsözünü kesemezsin.
+37|<CLT=cltSYSTEM>İşin güzel yanı, <CLT=cltSTRONG>aynı anda birden fazla\nkelimeyi<CLT=cltSYSTEM> kesersen süre bonusu kazanırsın.\n
+38|<CLT=cltSYSTEM>Aynı anda iki tane iki saniye kazandırır. Üç tane üç...\n<CLT=cltSTRONG>Birlikte ne kadar çok kesersen o kadar iyi<CLT=cltSYSTEM>.
+39|<CLT=cltSYSTEM>Rakibinin iddiasının konumunu dikkatle izle\nve kesebildiğin kadarını kes!
+40|<CLT=cltSYSTEM>Böylece tartışmanın havasını kendi\nlehine çevirebilirsin.
+41|<CLT=cltSYSTEM>Tartışmanın havası senin lehine olduğunda\ntartışma <CLT=cltSTRONG>ilerler<CLT=cltSYSTEM>.
+42|<CLT=cltSYSTEM>Öte yandan karşındakinin sözlerini görmezden\ngelirsen hava onun lehine döner.
+43|<CLT=cltSYSTEM>O zaman da <CLT=cltSTRONG>ilerleme kaybıyla<CLT=cltSYSTEM>\nuğraşmak zorunda kalırsın...
+44|<CLT=cltSYSTEM>Senin ve rakibinin argümanları eşitse\n<CLT=cltSTRONG>Kılıç Kilidi<CLT=cltSYSTEM> yaşanır!
+45|<CLT=cltSYSTEM>Bu olduğunda onu itmek için olabildiğince\nhızlı sol tıkla!
+46|<CLT=cltSYSTEM>Görüşleri Gerçek Kılıcıyla doğrayıp biçmek\nharika değil mi?
+47|<CLT=cltSYSTEM>Ne? Pek değil mi?\nEh, denemeden yargılamamalısın.

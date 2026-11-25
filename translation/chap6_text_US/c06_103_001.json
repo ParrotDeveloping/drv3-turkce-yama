@@ -1,0 +1,32 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>Sorry for interrupting, but there's\ninfo you gotta know!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSYSTEM>Hold <PAD=【○】> or <PAD=【Ｒ１】> when near an Exisal to\nask Keebo for help!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>That's it. There's no trick to it\nor anything.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Sorry for interrupting, but there's\ninfo you gotta know!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Hold left-click when near an Exisal to\nask Keebo for help!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>That's it. There's no trick to it\nor anything.",
+  "tr": ""
+ }
+]

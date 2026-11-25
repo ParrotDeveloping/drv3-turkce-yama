@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_100_019
+157|Pekala, bakalım...
+158|<CLT=cltMIND>Kart okuyucunun aralığına daha yakından\nbakmak için eğildik.
+159|Ha? Toz hâlâ orada.
+160|Görünüşe göre kart okuyucu kullanılmamış.\nYani beyin buraya saklanmadı.
+161|Ya beyin kart okuyucuyu kullandıktan sonra\ntozu yerine koyduysa?
+162|Hayır, tozu tam olarak nereye koyduğumu\nhatırlıyorum. Hiç oynatılmamış.
+163|Beynin bu kapıdan geçmediğini varsaymak\ngüvenli bence.
+164|O zaman o sırada hareketli kitaplığı\noynatan kişi...
+165|...Rantaro'nun kendisi mi?
+166|Kesin...bir şey söyleyemem. Fotoğrafları\ngeri alınca daha çok şey bileceğiz.
+167|Başka birinin burada saklanıyor olma\nihtimali var.
+168|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kart Okuyucudaki Toz<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+169|Eh, ben hâlâ suçlunun beyin olduğunu\ndüşünüyorum.
+170|O yüzden sadece bizi beyne götürecek\nipuçlarını bulmamız lazım.
+171|Ölüm oyununa da böyle son vereceğiz.
+173|Hey, Shuichi.\nBiraz tavsiyeye ihtiyacım var...
+174|Sence önce neyi kontrol etmeliyiz?
+175|Ben de düşünüyorum...ama sen dedektif\nolduğun için benden fazlasını biliyor olabilirsin.
+176|Hm, önce kontrol etmemiz gereken...
+177|...kameraları koyduğumuz yerlerde herhangi\nbir değişiklik olup olmadığı.
+178|Kitaplıklar, havalandırma gibi...
+179|Oralarda ipuçları olabilir gibi\nhissediyorum.
+181|Ayrıca...Rantaro'nun cesedinin etrafında da\nipuçları olabilir bence. Zor olabilir ama...
+183|Ve son olarak buradaki herkesi\ndinlememiz lazım.
+184|Biri bizim kaçırdığımız bir şeyi\nfark etmiş olabilir.
+185|Tamam, anladım. Teşekkürler, Shuichi.
+186|Ah, hiç sorun değil...\nUmarım *biraz* olsun işe yararım...
+187|Yani burada araştırmamız gerekenler...
+188|Önce kameraları koyduğumuz yerlerin etrafında\nherhangi bir değişiklik olup olmadığına bakmak.
+189|Kitaplıklar, havalandırma gibi...
+190|Oralarda ipuçları olabilir gibi\nhissediyorum.
+191|Ayrıca...Rantaro'nun cesedinin etrafında da\nipuçları olabilir bence. Zor olabilir ama...
+192|Ve son olarak buradaki herkesi\ndinlememiz lazım.
+193|Biri bizim kaçırdığımız bir şeyi\nfark etmiş olabilir.
+194|Herkesin mazeretine çok dikkat\netmeliyiz.
+195|Rantaro'nun öldürüldüğü zaman aralığında\nherkesin nerede olduğunu doğrulamalıyız.
+196|Öyleyse kimi sorgulamalıyız?
+197|Rantaro'yla birlikte bodruma inen\naltı kişiyi...
+198|Kaito, Gonta, Maki, Tenko, Angie ve Himiko.
+199|Önce onlarla konuşalım.
+200|Eminim onlar da kütüphanenin yanındaki\nOyun Odası'ndaydılar...
+201|Orada ne yaptıklarını onlara\nsormalıyız.
+202|Tamam... Gidip onları bulalım.
+203|Kaito Momota ile Konuşma.
+204|Eee?
+205|<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'sen gözün suçluda\nolmalı, değil mi?
+207|Bana suçlunun kim olduğunu düşündüğünü söyle.\nSadece <CLT=cltSTRONG>tahmin<CLT=cltNORMAL> olsa da olur.
+208|Ah, ben de bilmek istiyorum...
+209|Ah, hayır, kusura bakma...\nHenüz bir şey söyleyemem...
+210|Ama...biraz şüphelendiğin biri var, \ndeğil mi? Hayır, olmalı.
+211|Ah...
+212|Ama bundan korkuyorsun. Birinden \nşüphelenmekten korkuyorsun, değil mi?
+213|Bana öyle görünüyor.
+214|Ama işler bu haldeyken başkalarından daha\nçok şüphelenmen daha iyi olmaz mı?
+216|Ve seni şimdiden uyarayım...
+217|Dünyanın işleyişi şöyledir: <CLT=cltSTRONG>konuşan \nkazanır<CLT=cltNORMAL>. Gerçek kolayca çarpıtılabilir.

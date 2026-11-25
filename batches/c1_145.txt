@@ -1,0 +1,65 @@
+@ chap1_text_US
+## c01_710_002
+38|Tabii ki! Ve bunun için hepimiz birlikte\nçalışmalıyız!
+40|Dürüst olacağım... Sinir bozucusun. Ama\nsanırım dünyanın senin gibi insanlara ihtiyacı var.
+41|<CLT=cltMIND>S-Sinir bozucu...\nMaki'nin hakaretleri hep çok sert...
+42|<CLT=cltMIND>Ama kötü biri gibi görünmüyor...
+43|<CLT=cltMIND>Bana karşı bu kadar dolaysızsa artık daha\nyakın olduğumuz anlamına mı geliyor?
+45|<CLT=cltMIND>Maki'den ayrıldıktan sonra odama\ndöndüm.
+## c01_710_050
+0|...Sen ne yapardın, duymak istemiyorum, sana\nne yapman gerektiğini de söylemeyeceğim.
+1|Kendin çöz.
+5|<CLT=cltMIND>Maki'yle vakit geçireyim mi?
+7|...Peki, sanırım. Aklında ne vardı?
+8|<CLT=cltMIND>Maki'yle sohbet ederek biraz vakit geçirdim...
+9|<CLT=cltMIND>Maki'yle bugün biraz daha yakınlaştık.
+## c01_710_051
+0|Sanki <CLT=cltSTRONG>Ultimate<CLT=typeNORMAL> yeteneklerimiz bize\nkeyfî olarak verilmiş gibi...
+1|Ve şimdi bu berbat durumdayız...\n<CLT=cltSTRONG>Ultimate<CLT=typeNORMAL> olmak berbat bir şey...
+5|<CLT=cltMIND>Maki'yle vakit geçireyim mi?
+6|Sana neden şikâyet ettiğimi bilmiyorum.\nSen de burada mahsur kaldın.
+7|...Ve şikâyet edecek vakit varsa onu verimli\nbir şeyler yaparak geçirmeyi tercih ederim.
+8|<CLT=cltMIND>Maki'yle okulda ipucu arayarak biraz\nvakit geçirdim...
+9|<CLT=cltMIND>Maki'yle bugün biraz daha yakınlaştık.
+## c01_710_052
+0|...Biz neredeyiz ki?
+1|Son Duvar gibi göz zevkini bozan bir şeyin\nhaberlerde falan her yerde olacağını düşünürsün...
+2|Ama hiç duymamıştım bile.\nSen de duymamıştın, değil mi?
+6|<CLT=cltMIND>Maki'yle vakit geçireyim mi?
+7|Ve farklı dillerdeki bütün bu kitaplar...\nBelki yabancı bir ülkedeyizdir...
+8|<CLT=cltMIND>Maki'yle bu yer hakkında tahminler yürüterek\nbiraz vakit geçirdim...
+9|<CLT=cltMIND>Maki'yle bugün biraz daha yakınlaştık.
+## c01_710_053
+0|...Hey. Araştırma laboratuvarın açık, değil mi?
+1|Bana...gösterebilir misin?
+5|<CLT=cltMIND>Maki'yle vakit geçireyim mi?
+6|...O zaman gidelim.
+7|<CLT=cltMIND>Maki'yle araştırma laboratuvarımda biraz\nvakit geçirdim...
+8|<CLT=cltMIND>Acaba piyanoyla ilgileniyor mu?\nİlgileniyorsa mutlu olurum...
+9|<CLT=cltMIND>Maki'yle bugün biraz daha yakınlaştık.
+## c01_711_000
+0|<CLT=cltMIND>Tenko'ya hediye verme işlemi.
+4|<CLT=cltSYSTEM>Tenko'ya bir hediye vermek ister misin?
+9|Tenko Chabashira'nın sevgi seviyesi ARTTI
+10|Tenko Chabashira'nın sevgi seviyesi AZALDI
+14|<CLT=cltSYSTEM>Tenko'ya hediye vermek istemediğinden\nemin misin?
+## c01_711_001
+0|Kaede! Her şey yolunda mı? İyi misin?
+1|Ha, ne?\nNeden bahsediyorsun?
+2|Buradaki yozlardan herhangi biriyle bir sorunun\nvarsa lütfen bana söyle!
+3|Fareye sarılan bir yılan gibi boyunlarını\nsıkacağım!
+4|Bu onları öldürmez mi!?
+5|Hey, neden öyle şeyler söylüyorsun?\nErkeklerle hiç sorunum olmadı...
+6|Gerçeği benden saklamana gerek yok!\nShuichi sana cinsel tacizde bulunuyor, değil mi!?
+7|Shuichi...ne yapıyor...?
+8|Seni Shuichi'yle çok görüyorum, o yüzden senin\nbir zaafından faydalandığını varsaydım...
+9|H-Hayır, hayır, hayır! Yani, birlikte çok\nvakit geçiriyoruz ama...
+10|...beni zorlamıyor falan. Kendiliğinden\nöyle oldu!
+11|Anlıyorum... O zaman sanırım sorun yok...
+12|<CLT=cltMIND>Sorun yok diye düşünüyormuş gibi görünmüyorsun...
+13|Ama yine de dikkatli olmalısın, tamam mı, Kaede?
+14|Ustam yoz erkeklerin kafasında hep sapıkça\nfanteziler döndüğünü söyledi!
+15|Shuichi bir ergen oğlan olabilir ama o\nkadar kötü olduğunu sanmıyorum...
+16|Ayrıca Shuichi zararsız görünüyor. Öyle şeyler\nhakkında fantezi kuracak birine benzemiyor.
+17|Ne—!? Nasıl bu kadar saf olabilirsin!?
+19|Dinle!

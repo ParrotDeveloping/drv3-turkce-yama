@@ -1,0 +1,60 @@
+@ chap1_text_US
+## c01_004_353
+154|İster uslu durmuş olun ister yaramazlık yapmış,\nçiş yapıp nini yapma vakti!
+155|Yemekhane ve spor salonu gece vakti\nkilitlidir, o yüzden dikkatli olun.
+157|Kyahahahaha! Tatlı rüyalar!
+158|Gece vakti, ha?\nEh, şansımızı zorlamanın anlamı yok.
+159|Muhtemelen yarın yeni bir başlangıç\nyapsak iyi olur.
+160|Yeni bir başlangıç mı?
+161|Her birimize yurtta bir oda verildi.\nBelki orada dinlenmeliyiz?
+162|Hiiiii! Orada mı dinleneceğiz!?
+163|Odalar o kadar kötü değil. Hapishane\nhücremden çok daha iyi, orası kesin.
+164|Ama...bu ürkütücü okulda geceyi geçireceğimizi\ndüşünmek beni geriyor.
+165|Eh, katlanmaktan başka çaremiz yok!\nPeki yarın için planımız ne?
+166|Yemekhane sabah 08:00'de açıldığına göre,\no saatte orada buluşsak nasıl olur?
+167|Olur, bence uygun.\nBenim için sorun yok.
+168|Odalarımıza gidebilir miyiz artık?
+169|Evet, olabildiğince dinlenip gücümüzü\ntoplamalıyız.
+170|Nyeeeh...gecenin ortasında tek başıma\nçişe gidebilir miyim bilmiyorum.
+171|Ben seninle gelirim! Tabii sakıncası yoksa!\nSöylemen yeter!
+172|Hey, millet? Sadece...bir uyarı olarak...
+173|Gardımızı indirmemeliyiz.\nGece kolay hedef oluruz.
+174|Ö-Ölüm oyunu yüzünden mi diyorsun?
+175|Burada cinayet gibi mantıksız bir şeyin\nyaşanması için endişelenmeye gerek görmüyorum.
+176|Biliyorum, biliyorum. Sadece bir uyarı.
+178|Ah, eğer hepimiz...birlikte çalışırsak...her şey\nyoluna girer. Eminim.
+179|Şey, Kaede?
+180|Bence Kokichi'nin söyledikleri için\nendişelenmene gerek yok.
+181|Bizi zorlamıyordun.\nEn azından ben öyle düşünmüyorum.
+182|Evet... Sağ ol, Shuichi.
+183|Ama bitkinim.\nOdalarımıza dönüp dinlenelim.
+184|...Doğru.\nŞey...yarın görüşürüz.
+185|Ne oldu? Sonunda bana sarılmak mı istiyorsun?
+186|Hayır, pek değil...
+187|Hey, çekinmene gerek yok!\nBiz aynı kumaştanız, değil mi!?
+188|Hey, siz ikiniz, flörtü kesin.\nHavayı okuyamıyor musunuz?
+189|F-Flört etmiyoruz!
+190|...Çok sinir bozucusunuz.
+191|Hey, daha önce neden özür diledin?\nYanlış bir şey yapmadın ki?
+192|Şey...kaçmaya çalışırken ortak bir hedefin\narkasında birleşmiş gibi hissetmiştim.
+193|Ama herkesin hayatını tehlikeye attıktan sonra\no birlik artık yok.
+194|Kes sesini! Bu sadece aptalca bir sonuç!\nSen öyle olmasını istemedin ya!
+195|Dinle beni. Senin suçun olmayan bir şey için\nözür dileme! Sadece kendini kötü hissedersin!
+197|Herkes seni suçlayıp pes etmeye karar verdi.\nSonra onlara ağzımın payını vereceğim.
+198|Neyse, şimdilik uyuyalım.\nYarın görüşürüz.
+200|<CLT=cltMIND>Teşekkürler, Kaito.
+201|Ş-Şimdi konuşmanın zamanı değil!\nAcele edip devam edelim!
+202|Bu bir tuzak olsa bile...tek yapmamız gereken\nsavaşarak ve uğraşarak ondan çıkmak.
+203|Tabii tehlikeli olacak...\nAma burada çürümekten iyidir.
+204|Ryoma Hoshi ile Konuşma: Kaçış oyunundan sonraki gece
+205|Eh, denemeye devam etmeliyiz.\nDenemezsek hiçbir şey değişmez.
+206|Rantaro ile Konuşma: Kaçış Oyunu Sonrası\nGece
+207|Demek çıkışmış!\nGonta herkese söylediğine sevindi!
+208|Gelin, millet! Gonta sizi koruyacak!
+209|Gonta ile Konuşma: Kaçış Oyunu Sonrası\nGece
+210|Yodelay-hii-huuuuuu!
+212|Ooohh! İyi yankılanıyor!\nDemek epey büyük.
+213|Dev bir yeraltı geçidi çok heyecan verici!\nBurada saklambaç oynamak istiyorum!
+214|Saklambaç mı?
+215|Nişişi... Ben saklambacın *bir numaralı*\nustasıyım.
+216|Kötü bir örgütün yüce lideri olarak hep\nkanundan kaçıyorum...

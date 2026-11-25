@@ -1,0 +1,63 @@
+@ chap1_text_US
+## c01_301_330
+57|Ha? *Hâlâ* bu sinir bozucu sorularla\nbeni rahatsız mı ediyorsunuz!?
+58|Beyin olup olmadığına biraz fazla\nodaklanmıyor musunuz?
+59|Böyle devam ederseniz hepinizin sonu\nKaede gibi olacak.
+62|Belki saçmalıklar için daha az endişelenip\narkanızı kollamaya daha çok vakit ayırırsınız, olur mu?
+63|Bir sonraki katilin kim olacağını\nasla bilemezsiniz.
+64|Ah, sabırsızlanıyorum! Acaba bir sonra ne tür\nbir ölüm oyunu göreceğiz!
+65|Kahretsin! Bu sefer bizi alt etmiş olabilirsin\nama bir dahaki sefere seni yakalayacağız! Göreceksin!
+66|Neden bu kadar gazlandın...?
+67|Burada en azından birinizin biraz\ncüreti olduğunu görmek güzel.
+68|Bir süre daha yaşayacağına dair bir his var içimde.
+69|Sağ ol! Elimden geleni yapacağım!
+70|Kes sesini lan! Bir...ölüm oyunu daha\nolmayacak!
+71|Ben, Kaito Momota, artık istediğini\nyapmana izin vermeyeceğim!
+72|Anladın mı!? O sırıtışı yüzünden yumruğumla\nsileceğim. Kesinlikle!
+73|Öyle mi...? Pek olası görünmüyor.
+74|Bunu yapacak kadar uzun yaşamayacağından\nepey eminim.
+75|Krgh...!
+76|Neyse, düşünecek çok şeyiniz var...
+77|Çok çalışın ve mezun olmak için elinizden geleni\nyapın! Çünkü eğlence daha yeni başladı!
+78|Hey, Monodam! Açıkla kendini!
+79|Monokid'in iğrenç ve kaba olduğunu anlıyorum\nama bu çok fazla haddini aştı...
+81|...BUNU-BİZİM-İÇİN-YAPTIM.
+82|Hey! Dur, Monodam!
+83|N-Nereye gidiyorsun!?
+84|Muhtemelen bütün o zorbalığın intikamı olarak\nöldürdü. Ne ilginç bir gelişme...
+85|<CLT=cltMIND>Ve böylece Monokuma ile yavrular gitti ve\nmahkeme salonunda sadece biz kaldık...
+87|B-Ben...bütün bunlara dayanabileceğimi sanmıyorum...
+88|Artık buna dayanamıyorum... \nS-Sanki...delireceğim...
+89|Tsumugi, umudunu yitirmemelisin.
+90|Burada umut diye bir şey var mı ki?\nOda umuttan tamamen arınmış gibi.
+91|Gh... Ergh... K-Kaede!
+92|N-Ne tür y-yoz bir erkek...herkesin önünde\na-ağlar...? Ç-Çok kaba...
+93|Ama Tenko, sen de ağlıyorsun.
+94|Bunu belirtmenin sırası değil, Keebo.\nBırak öyle kalsın.
+95|Böyle zamanlarda Kaede'nin ruhu huzur içinde\nyatsın diye dua etmeliyiz.
+96|B-Biri *öyle* öldürüldükten sonra nasıl\nhuzur içinde yatabilir ki!?
+97|Bundan sonra ne yapacağız...?
+98|E-Evet, ben de bilmek isterim...\nBundan çoktan bıktım...
+99|Aaargh! Susun! SU! SUN!\nHepinizin SUSMASI lazım!!!
+100|<CLT=cltMIND>Kaito'nun sesi havada gürledi\nve oda sessizliğe gömüldü.
+101|Her biriniz...ve sizin o pısırık küçük\nşikâyetleriniz...
+102|Beni deli ediyorsunuz lan!!!
+103|Ama beni en çok deli eden...
+104|...sensin, Shuichi!!
+106|<CLT=cltSYSTEM>*pat!*
+107|Dişlerini sık!
+108|Kaito! Bunu ona vurmadan *önce*\nsöylemen gerekiyordu!
+109|Kaede'nin söylediğini duymadın mı!?\nSana...inandığını söyledi!
+110|Dileğini sana devrettiğini!
+111|Ama senin derdin ne lan!?\nMonokuma'ya lanet olası tek kelime etmedin!
+112|Sen kendine erkek mi diyorsun!?!?
+114|...Ne oldu? \nBir şey söylesene artık.
+115|Sana az önce vurdum! Sinirlenmedin mi!?\nDerdin ne senin!?
+116|...Yeter, Kaito.
+117|Sinsice yumruk atmak epey alçakça...senin gibi\naşağılık yoz bir erkek için bile.
+118|Kessen iyi olur, yoksa <CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>mu\nsuratının her yerine patlatacağım!
+119|...Tch. Peki.
+120|Shuichi...iyi misin?
+121|...İyiyim.
+122|Lütfen durun. Bu tür bir kavga sadece\nzaman kaybı.
+123|Gonta zaman kaybı olduğundan emin değil.\nAma Gonta katılıyor, kavga iyi değil...

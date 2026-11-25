@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_033_010
+22|Ne dersiniz? Daha iyi bir fikriniz varsa \nduymayı çok isterim.
+23|Ş-Şey...aslında...
+25|<CLT=cltMIND>Ne yapmalıyım? Belki Shuichi'nin planını\nonunla paylaşırsam Ryoma fikrini değiştirir—
+26|Ryoma. Buna gerek yok.
+27|Hm?
+28|Buna gerek yok, çünkü bu oyuna\nben son vereceğim.
+29|Çoktan karar verdim.
+30|Sen mi...bu oyuna son vereceksin?
+31|Mesele bu ölüm oyununda herkesi alt etmek\ndeğil, oyunun kendisine son vermek.
+32|Asıl hedef bu.
+33|Böyle bir şeyi...başarabilir misin ki?
+34|Yapabileceğimi düşünmeseydim\nbunu söylemezdim.
+35|Peki nasıl son vereceksin? Süre sınırının\nbu gece dolduğunu anlıyorsun, değil mi?
+36|Haha, kusura bakma, söyleyemem. Aslında\nsöyleyebilseydim bu kadar zorlanmazdım.
+38|Tam dediğim gibi.\nBu oyuna son vereceğim...
+39|O yüzden hiçbiriniz gereksiz bir şey\nyapmayın, tamam mı?
+40|Gereksiz mi...?
+41|Hıh, öyle deyince daha alacak yolum var\ngibi görünüyor.
+42|Pekala, anladım. Önerimi geri alıyorum.
+43|İstediğinizi yapın. Yaşayıp yaşamamanız \nsize kalmış.
+44|<CLT=cltMIND>Ryoma bunu söyledikten sonra\nyemekhaneden çıktı.
+45|Tanrım, şu Ryoma...\nUmarım onu biraz sakinleştirmişimdir.
+46|Neyse, Rantaro... Bu oyuna son vermenin bir\nyolunu bildiğini söylerken ciddi miydin?
+47|...Emin değilim.
+49|Eh, bir fikrim *olsa* bile söyleyemezdim.\nKimsenin karışma riskini göze alamam.
+50|Tamamdır... O zaman Angie senin stratejinin\nbaşarısı için dua edecek, Rantaro.
+51|Ama yalan söylüyorsan Atua seni üç nesil\nboyunca cezalandıracağını söylüyor, tamam mı?
+52|Haha, bu bir tehdit işte. Eh, beklentilerinizi\nkarşılamak için elimden geleni yapacağım, hm?
+53|Sanırım...elimden geleni yapmak *zorundayım*.
+54|<CLT=cltMIND>Rantaro gitti ama söyledikleri beni\ngerçekten etkilemişti.
+55|Bu oyuna son vermek...\nBu mümkün mü ki?
+56|Bunu sadece ortamı yatıştırıp Ryoma'yı\ndurdurmak için söylediğinden şüpheleniyorum.
+57|Yani, bu oyuna son vermek...?
+58|Nyahahahaha, bunu bilemezsin!
+59|Belki Rantaro'nun <CLT=cltSTRONG>gizli yeteneği<CLT=cltNORMAL> aslında dev\nbir patlamadır! Sonuçta bunu sadece Atua bilir!
+60|<CLT=cltMIND>Rantaro'nun gizli yeteneği...
+62|<CLT=cltMIND>Ne olduğunu bilmek istiyorum ama çok vaktimiz\nkalmadı. Şimdi bunu dert edemem.
+63|<CLT=cltMIND>Bir şey yapmam lazım...
+64|<CLT=cltMIND>Anlamadığım şeyleri dert edecek vaktim yok...\nSadece yapabileceğimi yapmalıyım.
+65|<CLT=cltMIND>Yoksa...herkesi koruyamam.
+66|<CLT=cltMIND>Gidip Shuichi'yle buluşmalıyım.\n<CLT=cltSTRONG>Bodrum merdivenlerinin yanındaki sınıf<CLT=cltMIND>, değil mi?
+67|Ryoma çılgınca şeyler söylemeye başladı,\nne yapacağımızı bilemedik...
+68|Kaede, onu dinle...
+69|Önerisini...\nBelki sen de duymalısın.
+70|Ben izleyeceğim...
+71|Güzelliğinizi...sonun geldiğini kabul\nederken hepinizin.
+72|Bence Ryoma'nın fikrini kendin duyman en\niyisi olur...
+73|Oradan sonra ne yapılması gerektiğine geri\nkalan herkes karar verebilir.
+74|Arzum başkalarının arzularını yerine getirmek,\nbu yüzden herkesin son kararına uyacağım.
+75|Ooo? Düşündüğümden de şanssızız.
+76|Onları son gördüğümde tartışıyor gibi\ngörünüyorlardı.
+77|Atua konuştu...\nBütün insanlar eninde sonunda ölecek.
+78|Nyahahaha! Ama korkmuyorum çünkü\nAtua benimle!
+79|<CLT=cltMIND>Ryoma'yla konuşmam lazım!
+89|<CLT=cltMIND>Ryoma'yla konuşmam lazım!
+90|<CLT=cltMIND>Shuichi'yle <CLT=cltSTRONG>bodrum merdivenlerinin\nyanındaki sınıfta<CLT=cltMIND> buluşacağım...

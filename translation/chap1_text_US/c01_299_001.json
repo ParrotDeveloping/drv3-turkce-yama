@@ -1,0 +1,62 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>What should I do?\nI don't think I can do this anymore...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Is everyone suspecting me...?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Hm? Done debating already?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Well, this next part's mandatory so let's\nget it over with. It's...Voting Time!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Puhuhuhu...!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Is there...nothing else I can do?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Retry",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "We won't give up!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Make preparations and retry",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "We won't give up!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Quit",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Would you like to retry?",
+  "tr": ""
+ }
+]

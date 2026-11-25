@@ -1,0 +1,60 @@
+@ chap1_text_US
+## c01_102_025
+92|Kaede...daha önce hiç oraya girmedin mi?
+93|Hayır, henüz değil. Neyse, gidelim.
+94|<CLT=cltMIND>Maki'nin mazeretini doğrulamamız lazım.
+## c01_102_026
+0|Durun! Gonta kimseyi öldürmedi!
+1|Söyledim ya...öldürdüğünü söylemiyoruz.\nSadece konuşmak istiyoruz—
+2|Hayır...kesinlikle o.\nKatil suratı var.
+3|G-Gonta'yı dışına göre yargılamayın.\nİçinde Gonta centilmen.
+4|Hey, burada neler oluyor?
+5|Ah, selam, Kaede.\nSadece ona sormaya çalışıyorduk—
+6|Nyeeeh...biz hâlâ kibarca sorarken söyle. \nSuçlu sen misin, değil misin?
+7|Yoksa...suçlu değil değil misin?\nSuçlu değil değil değil misin?
+8|Gonta değil değil hayır...ş-şeyy...
+9|Bu böyle tekrar tekrar devam ediyor.\nHiç ilerleyemiyoruz.
+10|Bence sorun sorularınızda.
+11|O zaman soruyu değiştireyim. Ali tanesi 50 kuruştan\nbeş çilek ve bir elma alıyor...
+12|Bu tamamen konu dışı, Himiko!\nMatematik ödevini kendin yap!
+13|Hey, Gonta. Az önce Maki'yle konuştum...
+14|Bütün zaman boyunca bodrumdaki Görsel-İşitsel\nOda'da tek başınaydın, değil mi?
+15|Ama...burada tek başına ne yapıyordun?
+16|Gonta toplantıya davet edildiği için mutluydu. Ama\nGonta zeki olmadığı için pek yardımı olmayacağını düşündü...
+17|O yüzden Gonta burada tek başına böcek filmi izledi!
+18|Şey...ne? Bunun ne faydası var?
+19|Böcek filmi Gonta'yı savaş ruhuyla doldurur!\nGonta'yı Monokuma'yla savaşmaya hazırlar!
+20|Yani savaşmana yardım ediyor...\nTamam, peki. Nasıl istersen, Gonta.
+21|Ama...neden kilitliydi?
+22|Ne kilitliydi?
+23|Dürüstçe cevap vermezsen...büyümle seni \nbir kıza dönüştürürüm.
+24|Ha? Gonta kız-Gonta olamaz!\nO zaman Gonta asla centilmen olamaz!
+25|Himiko, bir saniye susabilir misin?\nBunu olması gerekenden daha zor hale getiriyorsun.
+26|Gonta...sonra ne olduğunu anlatabilir misin?
+27|Gonta...sadece odaklanmak istedi. Gonta odaklanmazsa...\nGonta savaş ruhuyla dolamaz.
+28|Bu kadar, gerçekten! Gonta sadece herkesi\nkorumak istiyor!
+29|Ama...Gonta'ya inanmayacaksınız, ha!?\nÇünkü Gonta çok büyük ve korkunç görünüyor, ha!?
+30|S-Sakin ol... \nÇok korkutucu bir surat yapıyorsun!
+31|Çünkü...Gonta kendini çok işe yaramaz hissediyor!
+32|<CLT=cltMIND>Hm... Hikâyesini duyunca insanların\nondan neden şüphelendiğini anlıyorum...
+33|<CLT=cltMIND>Ama gerçekte ne oldu acaba...\nGerçekten beyin olabilir mi?
+34|Kaede, bu odayı biraz daha araştıralım.
+35|Gonta'nın mazeretini de doğrulamamız lazım.
+36|Evet, haklısın.
+37|Kaede, bu odayı biraz daha araştıralım.\nGonta'nın mazeretini de doğrulamamız lazım.
+38|Şimdilik diğer herkesi dinleyelim.\nHenüz konuşmadığımız insanlar var.
+39|Tanrım... Bunun strateji toplantımızın hemen\nyanında olduğuna inanamıyorum...
+40|Kaito, bana bu strateji toplantından biraz\ndaha bahseder misin?
+41|Herkesi bodrumda buluşmak için\ntopladın, değil mi?
+42|Ne o, şimdi ben de mi şüphelilerinden biriyim?
+43|Hayır, şey...öyle demek istemedim—
+44|Yok, benden şüphelenmen çok doğal.
+45|Ama suçlu ben değilim!\nEvrene yemin ederim!
+46|Saklayacak hiçbir şeyim yok, o yüzden bana \nher şeyi sorabilirsin!
+48|Eh, fırsatımız varken bütün olaya birlikte\ngöz atalım.
+49|Kaito olay yerine bizimle gitti, o yüzden bizim\nkaçırdığımız bir şeyi fark etmiş olabilir.
+50|Pekala o zaman. Nereden başlayalım?
+51|Kaede'yle kameraları kurduktan sonra\nsınıftan gözcülük yapıyorduk.
+52|Biraz zaman geçti, sonra sizin bodruma\nindiğinizi gördük.
+53|İnsanlardan seninle gelmelerini ne zaman\nistemeye başladın?
+54|Tam saatini hatırlamıyorum...ama tek tek\nsordum ve hep birlikte oraya gittik.

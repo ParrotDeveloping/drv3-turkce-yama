@@ -1,0 +1,119 @@
+@ game_resident_US
+## Anagram-Question
+0|Kütüphaneye girmesi için gülle\nnereye yuvarlandı?
+1|Suçlu cesedi pencereler arasında\ntaşımak için ne yaptı?
+2|Gevşek döşeme tahtasına\nbasılınca ne oldu?
+3|Suçlu karanlıkta yerini bulmak için\nişaret olarak neyi kullandı?
+4|Sanal Dünya'nın kendine\nözgü bir özelliği nedir?
+5|Miu'nun avatarı şapele nasıl\nçarptı?
+6|Gonta hangi hatayı yaşadı?
+7|Üçüncü kişi hangara girmek\niçin neyi kullandı?
+8|Ceset görüntüleri izlendikten sonra\nbile neyin kimliği belirlenemiyor?
+9|Hangarda sadece iki kişi varken\ncesetler nasıl değiştirildi?
+10|Hatıra Işığı anılara\nne yapar?
+11|Ölüm oyununun şu an hangi\nsezonu yayınlanıyor?
+12|Asla neden vazgeçmemelisin?
+13|Cinayet silahı neydi?
+14|Cinayet silahı neydi?
+15|Cinayet silahı neydi?
+16|Cinayet silahı neydi?
+17|Cinayet silahı neydi?
+18|Cinayet silahı neydi?
+19|Önleyici saldırıda hangi silah\nkullanıldı?
+## BrainDrive-Question
+200|Ceset nereden getirildi?
+201|Ceset spor salonuna\nnereden getirildi?
+202|Sınıf penceresinden spor salonu\npenceresine nasıl taşındı?
+300|Sürgülü kilidin kolunu ne\nçevirdi?
+301|Katananın kilidi çevirmesi\niçin ne yapıldı?
+302|Katananın kilide etki etmesi için\nkuklaya ne yapıldı?
+400|Kokichi'yi kim öldürmeye çalıştı?
+401|Miu, Kokichi'yi nerede öldürmeye çalışıyordu?
+402|Kokichi'nin koltuğunda neden\nbir zehir şişesi vardı?
+403|Tabela hangi noktada\nsürüklendi?
+404|Nehrin sonu nerede?
+405|Sürüklendikten sonra tabela\nnerede bulundu?
+406|Nehrin akıntısına göre tabela\nhangi yöne yüzdü?
+500|Himiko Kaito'ya kaç ok\nverdi?
+501|Bütün oklar baştan beri\nhangarın içinde miydi?
+502|İki oku kim getirdi?
+600|Rantaro'nun kütüphanede kaç\nMonopad'i vardı?
+601|Hangi Monopad alındı?
+602|O Monopad nereye götürüldü?
+603|Gizli odaya kim girebilir?
+604|Asla neden vazgeçmemelisin?
+900|Burada kim yok?
+901|Bu davanın kurbanı kim?
+## BrainDrive-Answer
+200|Lab. penceresi
+201|Lab. kapısı
+210|Spor salonu kapısı
+211|Spor salonu penceresi
+220|Pencereden pencereye
+221|Havuz üzerinden
+300|Kuklanın eli
+301|Katananın kabzası
+310|Katana kuklaya saplandı
+311|Sürgülü kilitle oynandı
+320|Döndürerek
+321|İleri geri sallayarak
+322|Düşürerek
+402|Keebo
+410|Öbür dünya
+411|Gerçek dünya
+412|Sanal Dünya
+420|Dikkati dağıtmak için
+421|Yanlış yere konmuş
+422|Gizli kanıt
+430|Konak
+431|Nehir
+432|Şapel
+440|Konak tarafı
+441|Geçiş noktası
+442|Şapel tarafı
+450|Konak tarafı
+451|Geçiş noktası
+452|Şapel tarafı
+460|Akıntıya karşı
+461|Akıntıyla birlikte
+500|1
+501|2
+502|3
+503|4
+522|Üçüncü bir kişi
+600|1
+601|2
+602|3
+603|4
+610|Hayatta Kalan Ayrıcalığı Monopad'i
+611|Monoyavru Pad'i
+612|e-El Kitabı Monopad'i
+621|Gizli oda
+622|Oyun odası
+630|Kurban
+631|Hayatta kalan
+632|Ölen
+633|Beyin
+900|Kurban
+901|Suçlu
+## Imagination-Question
+0|Suçlu teleferikle karşıya geçmek\niçin ne kullandı?
+1|Suçlu laboratuvar kapısını\ndışarıdan nasıl kilitledi?
+2|Sanal Dünya'da hangi tuhaf\nolay yaşandı?
+3|Kokichi ne hakkında yalan söyledi?
+4|Hidrolik pres neden\ndurdu?
+5|Cesetleri değiştirmek için hidrolik\npresle başka ne durduruldu?
+6|Ölüm oyunlarının arkasında hangi\nyapım şirketi var?
+7|Cinayet silahı ne?
+8|Cinayet silahı ne?
+9|Cinayet silahı ne?
+10|Cinayet silahı ne?
+11|Cinayet silahı ne?
+12|Cinayet silahı ne?
+13|Cinayet silahı ne?
+14|Cinayet silahı ne?
+15|Cinayet silahı ne?
+16|Cinayet silahı ne?
+17|Cinayet silahı ne?
+18|Cinayet silahı ne?
+19|Yasuhiro'yu öldürmek için ne kullanıldı?

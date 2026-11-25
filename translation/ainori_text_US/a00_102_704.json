@@ -1,0 +1,387 @@
+[
+ {
+  "id": 0,
+  "en": "What on earth are you thinking?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "You know full well you shouldn't bother\nwith me... So why're you still here?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I've been told not to get involved\ncountless times before. But...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I don't intend on throwing our relationship\naway, Ryoma. And I won't let you, either.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "You knew the consequences but stuck to\nyour feelings anyway. I respect that.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "I don't want someone I respect to tell\nme that they have nothing.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "That's why I want to stay by your side...\nas your classmate, and your friend.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "...Ryoma?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Geez...so this is what it's like to \nbe at a loss for words.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "You're a bigger idiot than me.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "But...I don't dislike that about you.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Shuichi, you got a minute? Let's go \nto my research lab.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "First, go ahead and take these.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>A tennis ball and racquet?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I don't know if you've played tennis \nbefore, but you can hit the ball, right?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Ah, I think I can...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Then I'm going to check your resolve.\nReady? Aim for me with the ball.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Aim for you?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Try hitting me with it.\nRight in the face, if you can.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "You want me to do *what*!?\nHit you...? Are you serious?",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I can't do that!",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "I would be no match for you...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Alright, I'll do it",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I said I was going to test your \nresolve, right? So show me.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "I can't do that!\nIt's dangerous!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "You can't become that big of an idiot?\nWell too bad.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Come on. Join me in my stupidity.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "This is the only way I can \ntest your resolve.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "...Alright, I suppose...\nIf this is what you want, Ryoma...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "I would be no match for you...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Huh? I'm not saying we should \nhave a match.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "I want to see your resolve. This is a \ntest of feelings, not skill.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "I'll say it one more time.\nShuichi, serve the ball right at me!",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "O-Okay!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Alright, I'll do it.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>I don't know what he's thinking,\nbut if this is what he wants...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Hmph, good answer. I knew you were\nthat kind of idiot.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Now, let's get stupid.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>Ryoma stood on the other side of the net,\ntennis racquet gripped lightly in his hand.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>Imitating the pros to the best of my\nability, I threw the ball up and swung...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltSYSTEM>*pang*!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>My racquet connected, and the ball flew\ntoward Ryoma faster than I expected.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Guh!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Ryoma!?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "That was a good serve.\nI could feel how serious you are.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "But you've still got a ways to go!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltSYSTEM>*whap*!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "What!?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltSYSTEM>*zoom*!",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>I stood frozen in fear. The ball grazed by\nmy cheek so close I could feel the fibers.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "W-W-Wait a minute!\nYou're gonna hit it *back* at me!?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "I never said I wouldn't. Don't worry. \nI won't hit any vital parts.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>He's got his game face on!\nWhat am I supposed to do!?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "<CLT=cltMIND>Our fierce battle began...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "<CLT=cltMIND>Over the course of the match, I realized\nwhy Ryoma would test me like this.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>...Because that's just\nRyoma's way.",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "<CLT=cltMIND>Because during that game, we were both\nhaving fun, goofing off, messing around...",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "<CLT=cltMIND>I don't know how much time passed.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>After every drop of our energy was spent,\nwe both collapsed on the court, panting.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Hey, Shuichi... Even if we get out of \nhere, I'll still be in prison, but...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "If I ever get out...I'm going to go \nand pick up everything I threw away.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "It's too late for a lot of things, \nbut if I can still reach some...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "I'd like to bear those stains again.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Just like how I'm bearing you \non my back right now.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...Yeah.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Ryoma hasn't lost his\npassion for tennis.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "<CLT=cltMIND>I'm so glad that I could help\nhim face that side of himself...",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "<CLT=cltMIND>That's what this was\nall about, right?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>I helped him find the fun of the game\nagain, because of our bond as friends.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>As long as we have that bond,\nno opponent will ever beat us.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltSYSTEM>Ryoma's <CLT=cltSTRONG>Report Card<CLT=cltSYSTEM> has been updated\nbased on your experience with him.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "<CLT=cltSYSTEM>You have learned a new skill, <CLT=cltSTRONG>Killer Smash<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>Ryoma and I spent what felt like hours on that\ncourt, laughing and talking about nothing...",
+  "tr": ""
+ }
+]

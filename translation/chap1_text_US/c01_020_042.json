@@ -1,0 +1,27 @@
+[
+ {
+  "id": 0,
+  "en": "Magician's Lab",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Clock Tower A",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>*click...click...*",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>It's locked.\nI guess I can't enter.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>It says...Ancient Passport...\nI wonder if it means anything.",
+  "tr": ""
+ }
+]

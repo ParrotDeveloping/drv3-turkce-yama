@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "What is it?\nCan I help you with something?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Should I hang out with Tenko for a while?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Sure...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "But my student council duties are top\npriority! Cuz I'm a student council member!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time with Tenko,\na little on edge...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Tenko and I grew a little closer today.",
+  "tr": ""
+ }
+]

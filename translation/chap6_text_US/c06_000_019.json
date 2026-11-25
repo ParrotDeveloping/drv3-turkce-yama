@@ -1,0 +1,72 @@
+[
+ {
+  "id": 0,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Monitor",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Bookcase A",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Bookcase B",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Bookcase C",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Ladder",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Vent",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Moving Bookcase",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Front Double Door Entrance",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Rear Sliding Door",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Globe",
+  "tr": ""
+ }
+]

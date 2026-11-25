@@ -1,0 +1,252 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltSYSTEM>It seems you've been\n<CLT=cltSTRONG>contradicted<CLT=cltSYSTEM>!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltSYSTEM>When this sort of thing happens, you'll go into\na one-on-one debate called a <CLT=cltSTRONG>Rebuttal Showdown<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltSYSTEM>What's a Rebuttal Showdown?\nFor now, let's explain the controls.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>In this mode, you <CLT=cltSTRONG>counter<CLT=cltSYSTEM> the other person's\nclaim and <CLT=cltSTRONG>argue<CLT=cltSYSTEM> against it...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM><CLT=cltSTRONG>Move your Truth Blade<CLT=cltSYSTEM> with <PAD=【Ｌ３】>\nand align it with your opponent's claims.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Perform a <CLT=cltSTRONG>regular cut<CLT=cltSYSTEM> in the direction\nthe blade is pointing by pressing <PAD=【○】>.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltSYSTEM>Cut with a <CLT=cltSTRONG>Truth Blade<CLT=cltSYSTEM>\nby pressing <PAD=【△】>.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltSYSTEM>...Oh, sorry, I forgot to tell you.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltSYSTEM>In this mode, Truth Bullets\nwill be called <CLT=cltSTRONG>Truth Blades<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>Use regular cuts on your opponent's words,\nbut when a <CLT=cltSTRONG>weak spot<CLT=cltSYSTEM> appears...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>slash it with a <CLT=cltSTRONG>Truth Blade strike<CLT=cltSYSTEM>!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltSYSTEM>Of course, if you don't have the correct Truth Blade,\nyou will not be able to cut an opponent's remark.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltSYSTEM>What's neat is, if you cut through <CLT=cltSTRONG>multiple\nwords at once<CLT=cltSYSTEM>, you get a time bonus.\n",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltSYSTEM>Two at once gets you two seconds. Three is \nthree... <CLT=cltSTRONG>The more you cut down, the better<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltSYSTEM>Watch the position of your opponent's claim\nclosely and slice as many as you can!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltSYSTEM>By doing that, you can skew the debate's mood\nto your advantage.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltSYSTEM>When the mood of the argument is in your favor,\nthe debate will <CLT=cltSTRONG>progress<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltSYSTEM>On the other hand, if you ignore the other person's\nremarks, it will skew toward their advantage.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltSYSTEM>And then you'll have to deal with\n<CLT=cltSTRONG>loss of progress<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltSYSTEM>If you and your opponent's arguments are\neven, a <CLT=cltSTRONG>Blade Lock<CLT=cltSYSTEM> will occur!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltSYSTEM>When that happens, you have to mash\n<PAD=【○】> as fast as you can to push them off!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltSYSTEM>Isn't slicing and dicing opinions with a\nTruth Sword the bee's knees?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltSYSTEM>What? Not really?\nWell, you shouldn't knock it before you try it.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "<CLT=cltSYSTEM>You can also <CLT=cltSTRONG>V Agree<CLT=cltSYSTEM>, so if\nblahblahblahblah...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "<CLT=cltSYSTEM>Thanks for your time!",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltSYSTEM>It seems you've been\n<CLT=cltSTRONG>contradicted<CLT=cltSYSTEM>!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltSYSTEM>When this kind of argument surfaces, you will\ngo into a one-on-one debate called <CLT=cltSTRONG>Rebuttal Showdown<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "<CLT=cltSYSTEM>What's a Rebuttal Showdown?\nFor now, let's explain the controls.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "<CLT=cltSYSTEM>In this mode, you <CLT=cltSTRONG>counter<CLT=cltSYSTEM> the other person's\nclaim and <CLT=cltSTRONG>argue<CLT=cltSYSTEM> against it...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltSYSTEM><CLT=cltSTRONG>Move your Truth Blade<CLT=cltSYSTEM> with movements with the mouse\nand align it with your opponent's claims.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltSYSTEM>Left-click to perform a <CLT=cltSTRONG>regular cut<CLT=cltSYSTEM>\nin the direction the blade is pointing.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "<CLT=cltSYSTEM>Right-click to cut with a <CLT=cltSTRONG>Truth Blade<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "<CLT=cltSYSTEM>...Oh, sorry, I forgot to tell you.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "<CLT=cltSYSTEM>In this mode, Truth Bullets\nwill be called <CLT=cltSTRONG>Truth Blades<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltSYSTEM>Use regular cuts on your opponent's words,\nbut when a <CLT=cltSTRONG>weak spot<CLT=cltSYSTEM> appears...",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltSYSTEM>slash it with a <CLT=cltSTRONG>Truth Blade strike<CLT=cltSYSTEM>!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltSYSTEM>Of course, if you don't have the correct Truth Blade,\nyou will not be able to cut an opponent's remark.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltSYSTEM>What's neat is, if you cut through <CLT=cltSTRONG>multiple\nwords at once<CLT=cltSYSTEM>, you get a time bonus.\n",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltSYSTEM>Two at a time gets you two seconds. Three is three...\n<CLT=cltSTRONG>The more you can cut down together, the better<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltSYSTEM>Watch the position of your opponent's claim\nclosely and slice as many as you can!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltSYSTEM>By doing that, you can skew the debate's mood\nto your advantage.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltSYSTEM>When the mood of the argument is in your favor,\nthe debate will <CLT=cltSTRONG>progress<CLT=cltSYSTEM>.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltSYSTEM>On the other hand, if you ignore the other person's\nremarks, it will skew toward their advantage.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltSYSTEM>And then you'll have to deal with\n<CLT=cltSTRONG>loss of progress<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltSYSTEM>If you and your opponent's arguments are\neven, a <CLT=cltSTRONG>Blade Lock<CLT=cltSYSTEM> will occur!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltSYSTEM>When that happens, left-click as fast\nas you can, to push them off!",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltSYSTEM>Isn't slicing and dicing opinions with a\nTruth Sword the bee's knees?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltSYSTEM>What? Not really?\nWell, you shouldn't knock it before you try it.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltSYSTEM>You can also <CLT=cltSTRONG>V Agree<CLT=cltSYSTEM>, so if\nblahblahblahblah...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltSYSTEM>Thanks for your time!",
+  "tr": ""
+ }
+]

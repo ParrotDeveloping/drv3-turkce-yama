@@ -1,0 +1,1382 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>The moment I entered the dining hall,\nI heard an angry shout fill the room.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Q-Quit messing around!\nDon't just do whatever you want!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Hmmm? But I have Atua's blessing.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Yeah! We have Atua's blessing! And I'll throw\nany degenerate who won't shut up about it!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Hm...I know you claim to be the student council\nor somesuch, but this is going too far, yes?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "As we've said before, this is all to end the\nkilling game and keep the peace.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>What? What is going on?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Kaito, what's wrong?\nWhat are you fighting about?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "These guys did something unbelievable.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "They blocked the manhole that leads \nto the underground!",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "The manhole?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Gonta put heavy rocks on top of manhole,\nso no one can use it anymore.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I could've made it disappear with my magic, \nbut I decided to let Gonta handle it this time.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Why...would you do that?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Cuz the manhole is a reminder of our\ndesire to leave this place.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "We don't want another tragedy to happen\nagain, like what happened to Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "You said it, Angie! We need to forget all about\nthat underground tunnel and start fresh!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Dammit! She just does whatever she wants\nwithout even asking our opinion!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "It certainly is important to hear everyone's \nopinion, but if we did, nothing would get done.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "That's why we just decided to obey \nthe student council president!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "If it's Angie, then she'll make the right \ndecision! She can hear Atua, after all!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Man, she's a lost cause. Plain Janes like her\nare total rubes when it comes to cults.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Tsumugi, thank you for your fantastic speech.\nI was truly moved by it.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "Hmmmmmm...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Ah...",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Thank you for always supporting me. Atua smiles\non you for your plain and simple service.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I've been wondering...does Atua have \nred eyes and hair as black as night?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Atua has whatever features you desire.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "A red-eyed, black-haired god... Ah, \nwhat a cool god I have watching me!",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "When can I meet him!? I want to \nmeet him as soon as possible!",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Atua exists beyond time itself, but I'm certain\nyou will feel His presence very soon.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "So cool! Atua's just so cool!",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "...Cults like these can be reaaally\nannoying if you get on their bad side.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "But, but why are you guys so mad over\nthe manhole being covered?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Is it cuz you guys wanna use it to escape?\nYou still haven't given up on leaving here?",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "You haven't given up?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "You haven't given up?",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Wh-What the hell's wrong with you guys!?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "The student council cannot ignore that.\nIt seems we must tighten our control.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Tighten...? Are you callin' me loose!?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "You were in the computer room past \nnighttime yesterday, weren't you, Miu?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Eh? S-So what if I was!?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "So was Maki. She didn't go back to her room\nuntil way past nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Shuichi...you too, right?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Geez! This isn't good! If your life is in\ndisarray, your mind and body will be, too.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Atua is right... We must forbid everyone but\nthe student council from walking at nighttime.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Wh-What!? What I do and where I do it is\nnone of your fuckin' business!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "No, as long as everyone still wants to\nleave, that is not acceptable.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Why is the student council exempt from \nyour rules? That is blatantly unfair, yes?",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Nyahaha! I'm not worried about the student\ncouncil. They don't want to leave anymore.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "That's right.\nWhy would we need to go outside anyway?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Here, we have food, clothing, shelter, \nwonderful friends, and best of all, Atua.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "What else do you need?\nIt's not good to be greedy, you know?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Nyahaha! Everyone in the student council\nis so divine!",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "D-Don't be stupid! Are you telling me \nto just stay here and do nothing!?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Like hell I will!\nI haven't even gone to space yet!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "...ARE-YOU-ALL-FIGHTING?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I-I don't think so! I think that maybe they're\nnot actually fighting!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Y-Yeah! And even if they were fighting, it\nlooks like a friendly one!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "...What are you here for? We're busy right now.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "WE...WANT-YOU-TO-GET-EVEN-CLOSER-\nWITH-EACH-OTHER...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "SO, WE-BROUGHT-THIS...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "A Flashback Light!?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "It's part of our \"Use the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL> to\nrestore a new memory...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...and become better friends by talking\nabout it with each other\" plan!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Wow, I've suffered way too many blows to the\nhead to remember a plan name *that* long.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Ah, let me see that.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "AH—!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltMIND>Suddenly, Angie grabbed the <CLT=cltSTRONG>Flashback Light<CLT=cltMIND>\nfrom his hands and...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltSYSTEM>*crash!*",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>She threw it on the ground and\nstomped on it relentlessly!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "AH...AHHHHHHHHHH!",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Nyaha! The student council has decided that\nwe will not use <CLT=cltSTRONG>Flashback Lights<CLT=cltNORMAL> anymore.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "What!? Wh-Why!?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Because the Flashback Lights only restore\nour memories of the <CLT=cltSTRONG>outside world<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "But we don't need those memories anymore.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "We realize now that we don't belong in the\n<CLT=cltSTRONG>outside world<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "We belong here, at the Ultimate Academy...",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "O-Oh no...if you don't use the <CLT=cltSTRONG>Flashback\nLight<CLT=cltNORMAL>, our plan is a bust...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Wh-What are we gonna do, Monodam!?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Hey! He ran away!",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Heyyyyyy Monodaaaaam!\nWaaaaait!",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Nyahahaha! Bye-onara!",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "A-Angie...what are you doing!?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "We could've remembered something\nabout the funeral or the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "There's no reason to remember all that.\nWe're not returning to the outside world.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "...Yeah. It pointless now.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Wh-Why you... You've gone way too far!",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "Even if you want to stop the killing game, \nyou're going way too far.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Sorry, but you should take that up with Atua.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Geez, I don't think you're sorry at all. So, do\nyou have a plan for the \"<CLT=cltSTRONG>you-know-what<CLT=cltNORMAL>\"?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "You mean the <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>?\nOh, we have a plan for that!",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Wh-What!?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "What...are you planning?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Just a necessary precaution. The more friends\nwe have, the more fulfilling our lives will be.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "A necessary precaution?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Ummm... What if we get another time limit <CLT=cltSTRONG>motive<CLT=cltNORMAL>,\nlike the one that got Rantaro killed?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "...Shouldn't we have a sacrifice prepared, just\nin case?",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "You mean...if someone has to die, we should\nvolunteer someone we resurrected?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "You're going to resurrect someone...just to\nkill them all over again?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Kehehe... You have some cruel plans for someone\nwho wants to stop the killing game.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Life cannot always be fun and smiles... Atua\nmust make difficult, even cruel, decisions.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "But, but! We must submit to Atua's will if\nwe're to live a peaceful school life.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Atua's will is absolute.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "If Atua says so, then there's nothing \nwe can do about it.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Nyeeeh...it's just like Atua says.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "A-Are you serious about this? Did you forget\nthat thing's a motive for the killing game?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "<CLT=cltMIND>Kaito...what's going on with you?\nYou're looking worse and worse...",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "That <CLT=cltSTRONG>motive<CLT=cltNORMAL> is of no concern to us, as long\nas you cast aside your desire to escape.",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "By the way...who are you going to resurrect?",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Wh-What kind of stupid question is that!?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "Hmm... After discussing the matter with Atua,\nthe <CLT=cltSTRONG>transfer student<CLT=cltNORMAL> we will revive is...",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "...Rantaro Amami!",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Rantaro?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "Well...we simply cannot resurrect convicted\nmurderers, such as Kaede and Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "Nor criminals like Ryoma, who violated the\nrule against sharing one's motive video...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Which leaves Rantaro as the only one who'd\nbe of use to the student council...",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>True, Rantaro was the only one\nwho knew about the <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>They're going to bring him back?",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Hey, I have a question.\nThis might sound a little weird, but...",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Does the term <CLT=cltSTRONG>Ultimate Hunt<CLT=cltNORMAL>\nring a bell for anyone?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "<CLT=cltMIND>No... No, this is impossible!\nIt's not going to happen...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "<CLT=cltMIND>...He's dead.",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>Kaede...killed him.",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Oh my, it's already so late.\nI need to get going now.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "I must pray to Atua and begin preparations\nfor the ritual.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Nyeeeh...you're right.\nIt's time to pray to handsome Atua.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Well then, let's go.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Nyahahaha! Bye-onara!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "<CLT=cltMIND>With Angie leading them, the student\ncouncil strolled out of the room.",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "She acts like she's carrying out Atua's will,\nbut this is her will, isn't it?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Even so, we cannot defy her right now.\nExtreme faith is frightening, indeed.",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Then, it's an all-out war against the student\ncouncil! Six versus six! We can win this!",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Also, we have the assassin on our side!\nLet's have her kill them nice and quick!",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Ah, no... We have to resolve this peacefully.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "Sure, that'd be great, but I don't hear anyone\ncoming up with a plan to end this peacefully.",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "...What about you, Kaito? You've been quiet this\nwhole time. I bet you have some great ideas.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Huh? You say something?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Uh-oh... *Someone* was zoning out.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "<CLT=cltMIND>Kaito...\nSomething doesn't seem right.",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Kaito...what's wrong?\nAre you feeling okay?",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "O-Oh, it's nothing.\nI just feel a chill is all...",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "If I rub some spit on it, it'll feel better.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "...Rub spit on what, exactly?",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "A-Anyway...there's no such thing \nas <CLT=cltSTRONG>resurrecting the dead<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "Th-There's no way...\nIt's just not possib—",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Dammit...no.\nI can't stop these chills!",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "Sorry guys. My bad.\nI-I'm gonna go back to my room.",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "<CLT=cltMIND>Kaito left on unsteady feet to\ngo back to his room.",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "...What was that about? Is he getting sick?",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "We were just talking about all that\noccult stuff. Maybe he's possessed...",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "Hahaha! I'm starting to worry about that guy!",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "You seem to be enjoying this...",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "<CLT=cltMIND>The rest of us left the dining hall\nand went back to our rooms.",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "Student council has spoken! This decision\nfor everyone's sake!",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "<CLT=cltMIND>The decision of the student council...\nWhat does that mean? Is Kaito upset about it?",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "Uh-ooohh! Trouble already!\nWell, I knew this was gonna happen.",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "Oh, yeah. If we wanna start a war against\nthe student council...",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "...we should wait until after the <CLT=cltSTRONG>resurrection\nritual<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "Kokichi...you want to go along\nwith this motive?",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "Because it sounds fun! Don't you wanna\nsee the <CLT=cltSTRONG>resurrection ritual<CLT=cltNORMAL>, too!?",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Oh, but Angie wants to make Rantaro the\n<CLT=cltSTRONG>transfer student<CLT=cltNORMAL>, huh?",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "I don't want him to come back to life.",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "Why?",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "It's cuz...I love you most, Shuichi.\nI'm always thinking about you...",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "And you'd rather see Kaede brought\nback to life, huh?",
+  "tr": ""
+ },
+ {
+  "id": 175,
+  "en": "Th-That's...",
+  "tr": ""
+ },
+ {
+  "id": 176,
+  "en": "You're so admirable! \nThat's why I wanna support you!",
+  "tr": ""
+ },
+ {
+  "id": 177,
+  "en": "Oh wait, that's a lie!",
+  "tr": ""
+ },
+ {
+  "id": 178,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 179,
+  "en": "Come to think of it, I once saw this anime that\nwas also about a death game...",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "The mastermind sacrificed a family member as\nthe first victim to get the killing started.",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "Sacrificed a family member?\nAs in...killed them?",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "Yeah, as a show of force. Maybe that's\nwhat happened to Rantaro...",
+  "tr": ""
+ },
+ {
+  "id": 183,
+  "en": "What if Rantaro was working for the mastermind?\nBringing him back might be a bad idea.",
+  "tr": ""
+ },
+ {
+  "id": 184,
+  "en": "N-No, that's idiotic! Rantaro couldn't have been\nworking for the mastermind...",
+  "tr": ""
+ },
+ {
+  "id": 185,
+  "en": "<CLT=cltMIND>But...is it really impossible?",
+  "tr": ""
+ },
+ {
+  "id": 186,
+  "en": "<CLT=cltMIND>We only knew Rantaro for a\nshort time.",
+  "tr": ""
+ },
+ {
+  "id": 187,
+  "en": "<CLT=cltMIND>He did seem as though he was kind\nof <CLT=cltSTRONG>used to<CLT=cltMIND> the killing game.",
+  "tr": ""
+ },
+ {
+  "id": 188,
+  "en": "Nee-heehee... Looks like you're starting to\nunderstand what I'm getting at, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 189,
+  "en": "Well, no matter what we say, Angie's probably\ndead set on who the <CLT=cltSTRONG>transfer student<CLT=cltNORMAL> will be...",
+  "tr": ""
+ },
+ {
+  "id": 190,
+  "en": "If he comes back to life, then that's that!\nNothing we can do except look forward to it!",
+  "tr": ""
+ },
+ {
+  "id": 191,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 192,
+  "en": "Well, no matter what we say, Angie's probably\ndead set on who the <CLT=cltSTRONG>transfer student<CLT=cltNORMAL> will be...",
+  "tr": ""
+ },
+ {
+  "id": 193,
+  "en": "If he comes back to life, then that's that!\nNothing we can do except look forward to it!",
+  "tr": ""
+ },
+ {
+  "id": 194,
+  "en": "Reliance on a god is unavoidable...\nBut dependance is problematic.",
+  "tr": ""
+ },
+ {
+  "id": 195,
+  "en": "Dependance is a trait of one with a corrupted \nmind. The only thing we can truly depend on...",
+  "tr": ""
+ },
+ {
+  "id": 196,
+  "en": "...is love!",
+  "tr": ""
+ },
+ {
+  "id": 197,
+  "en": "Men who say creepy things like that are worse\nthan co-workers who won't stop talking to you.",
+  "tr": ""
+ },
+ {
+  "id": 198,
+  "en": "<CLT=cltMIND>What was that fight all about?\nI should hear it from Kaito...",
+  "tr": ""
+ },
+ {
+  "id": 199,
+  "en": "They may call themselves the student council,\nbut it seems \"<CLT=cltSTRONG>Atua<CLT=cltNORMAL>\" makes all their decisions.",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "Meaning they care little for the wishes \nof the students to begin with.",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "No one can go against Angie at the moment.\nBut what's even more worrying...",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "Her followers may begin acting on their\nown, using her name as an excuse.",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "...That's one way of looking at it.",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "Huh? Are Resting Bitch Face and Creepshow\nstartin' to feel sympathetic now!?",
+  "tr": ""
+ },
+ {
+  "id": 205,
+  "en": "Er, uh, I mean...I understand what you're\ntryin' to say...",
+  "tr": ""
+ },
+ {
+  "id": 206,
+  "en": "But that numbnuts, Kaito, isn't following \nalong at all! Explain it for him!",
+  "tr": ""
+ },
+ {
+  "id": 207,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 208,
+  "en": "Kaito...?",
+  "tr": ""
+ },
+ {
+  "id": 209,
+  "en": "He's still zoning out.",
+  "tr": ""
+ },
+ {
+  "id": 210,
+  "en": "<CLT=cltMIND>Seems like it... He didn't even respond\nto Miu teasing him.",
+  "tr": ""
+ },
+ {
+  "id": 211,
+  "en": "Well, let's just put aside that pathetic mess\nfor now...",
+  "tr": ""
+ },
+ {
+  "id": 212,
+  "en": "Just explain everything for this stupid bitchlet\nand her cow tits.",
+  "tr": ""
+ },
+ {
+  "id": 213,
+  "en": "Ergh... He insulted me!",
+  "tr": ""
+ },
+ {
+  "id": 214,
+  "en": "...Such a situation is common among groups\nwith absolute leaders.",
+  "tr": ""
+ },
+ {
+  "id": 215,
+  "en": "To gain the favor of their leader...\nOr to sacrifice themselves to their faith...",
+  "tr": ""
+ },
+ {
+  "id": 216,
+  "en": "The followers begin to take more\nradical actions.",
+  "tr": ""
+ },
+ {
+  "id": 217,
+  "en": "Which means...they might crack down on us\nto make Angie's rule more comfortable.",
+  "tr": ""
+ },
+ {
+  "id": 218,
+  "en": "Eh? Rule over us?",
+  "tr": ""
+ },
+ {
+  "id": 219,
+  "en": "Th-That might become a problem down\nthe line...",
+  "tr": ""
+ },
+ {
+  "id": 220,
+  "en": "Well, I doubt they'd start with that...\nBut it's only a matter of time.",
+  "tr": ""
+ },
+ {
+  "id": 221,
+  "en": "No one can go against Angie at the moment,\nbut even more worrying...",
+  "tr": ""
+ },
+ {
+  "id": 222,
+  "en": "Is if her followers begin to act on her will.",
+  "tr": ""
+ },
+ {
+  "id": 223,
+  "en": "Well, I doubt they'd start with that...\nBut it's only a matter of time.",
+  "tr": ""
+ },
+ {
+  "id": 224,
+  "en": "We're doing this to eradicate the killing game\nand bring peace to this school.",
+  "tr": ""
+ },
+ {
+  "id": 225,
+  "en": "You want that too, don't you, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 226,
+  "en": "The most important thing is peace in the\nacademy. That's what we're working towards.",
+  "tr": ""
+ },
+ {
+  "id": 227,
+  "en": "This is for your guys' sakes, too, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 228,
+  "en": "...Go and stop Kaito. Yelling at each\nother won't get anything done.",
+  "tr": ""
+ },
+ {
+  "id": 229,
+  "en": "Do you think there's a way to get both sides\nto understand each other?",
+  "tr": ""
+ },
+ {
+  "id": 230,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 231,
+  "en": "You said it earlier, right?",
+  "tr": ""
+ },
+ {
+  "id": 232,
+  "en": "I...don't know right now. But I know that nothing\nwill be resolved talking like this.",
+  "tr": ""
+ },
+ {
+  "id": 233,
+  "en": "I don't think the student council members\nwill change their minds.",
+  "tr": ""
+ },
+ {
+  "id": 234,
+  "en": "True, but...",
+  "tr": ""
+ },
+ {
+  "id": 235,
+  "en": "There are two sides to this... Why don't we\njust \"remove\" one of them?",
+  "tr": ""
+ },
+ {
+  "id": 236,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 237,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 238,
+  "en": "<CLT=cltMIND>Maki... Angie...",
+  "tr": ""
+ },
+ {
+  "id": 239,
+  "en": "N-No! We can't do that!\n\"Removing\" them won't resolve anything!",
+  "tr": ""
+ },
+ {
+  "id": 240,
+  "en": "...I know that already. It's just an option\nin the world I'm from.",
+  "tr": ""
+ },
+ {
+  "id": 241,
+  "en": "Just...think about it. That's all.",
+  "tr": ""
+ },
+ {
+  "id": 242,
+  "en": "Maki...",
+  "tr": ""
+ },
+ {
+  "id": 243,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 244,
+  "en": "Resurrecting the dead is impossible.",
+  "tr": ""
+ },
+ {
+  "id": 245,
+  "en": "And even if it wasn't, would they really\nwant to come back?",
+  "tr": ""
+ },
+ {
+  "id": 246,
+  "en": "Do you think they'd want to come back\nand live through this situation again?",
+  "tr": ""
+ },
+ {
+  "id": 247,
+  "en": "...I wonder.",
+  "tr": ""
+ },
+ {
+  "id": 248,
+  "en": "<CLT=cltMIND>Even if they came back,\nthe killing game would continue.",
+  "tr": ""
+ },
+ {
+  "id": 249,
+  "en": "<CLT=cltMIND>Just because they've died once\ndoesn't mean they won't try anything...",
+  "tr": ""
+ },
+ {
+  "id": 250,
+  "en": "What!? Are you defying the student council!?\nDon't make me throw you, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 251,
+  "en": "I don't understand why everyone's \ngetting so mad...",
+  "tr": ""
+ },
+ {
+  "id": 252,
+  "en": "This is so the killing game won't happen \nand we'll have a peaceful life here...",
+  "tr": ""
+ },
+ {
+  "id": 253,
+  "en": "Why is everyone so upset? I've already been\ngranted permission by Atua!",
+  "tr": ""
+ },
+ {
+  "id": 254,
+  "en": "Fuck your Atua! Don't just act on your own\nwithout hearing our opinions! Mainly mine!",
+  "tr": ""
+ },
+ {
+  "id": 255,
+  "en": "I'm down to <CLT=cltSTRONG>resurrect the dead<CLT=cltNORMAL> if they're just\ngonna be sacrificed after comin' back anyway!",
+  "tr": ""
+ },
+ {
+  "id": 256,
+  "en": "Doesn't matter if they die once, twice,\nor a hundred times...",
+  "tr": ""
+ },
+ {
+  "id": 257,
+  "en": "As long as they're dyin' instead of me, their\ndeath isn't goin' to waste!",
+  "tr": ""
+ },
+ {
+  "id": 258,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 259,
+  "en": "Wh-What...? Why are you glaring at me?",
+  "tr": ""
+ },
+ {
+  "id": 260,
+  "en": "Y-Y-You should wait for your balls to drop\nbefore you try to side-eye me!",
+  "tr": ""
+ },
+ {
+  "id": 261,
+  "en": "Y-Y-You should wait for your balls to drop\nbefore you try to side-eye me!",
+  "tr": ""
+ },
+ {
+  "id": 262,
+  "en": "<CLT=cltMIND>What's going on here?\nIs Kaito fighting with the student council?",
+  "tr": ""
+ },
+ {
+  "id": 263,
+  "en": "<CLT=cltMIND>Kaito...\nSomething doesn't seem right.",
+  "tr": ""
+ },
+ {
+  "id": 264,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 265,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 266,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 267,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 268,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 269,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 270,
+  "en": "<CLT=cltSYSTEM>\"Dining Hall Rules\"",
+  "tr": ""
+ },
+ {
+  "id": 271,
+  "en": "<CLT=cltSYSTEM>\"You may eat any food you\nfind in the dining hall.\"",
+  "tr": ""
+ },
+ {
+  "id": 272,
+  "en": "<CLT=cltSYSTEM>\"Please take responsibility for all utensils and\ndishes used and clean up after yourself.\"",
+  "tr": ""
+ },
+ {
+  "id": 273,
+  "en": "<CLT=cltSYSTEM>\"The dining hall will be locked\nduring nighttime.\"",
+  "tr": ""
+ },
+ {
+  "id": 274,
+  "en": "<CLT=cltMIND>What's going on here?\nIs Kaito fighting with the student council?",
+  "tr": ""
+ },
+ {
+  "id": 275,
+  "en": "<CLT=cltMIND>Kaito...\nSomething doesn't seem right.",
+  "tr": ""
+ }
+]

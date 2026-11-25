@@ -1,0 +1,367 @@
+[
+ {
+  "id": 0,
+  "en": "Definitely!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Not really...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>Would you like to give Tsumugi a present?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Oh, this...it's from that one \nshow, right? I knew it!",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Huh...? You don't know what \nI'm talking about?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Waaah! I must've misunderstood...\nI thought you knew it, Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Oh, this...it's from that one \ngame, right? I knew it!",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Huh...? You don't know what \nI'm talking about?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Waaah! I must've misunderstood...\nI thought you knew it, Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Is this some sort of bad joke?\nI don't know what to say...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Sorry...I think I don't feel well.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I'm gonna go put some ice on my head, \nso can you give me some space?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Is this some sort of bad joke?\nI don't know what to say...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Sorry...I think I don't feel well.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "I'm gonna go put some ice on my head, \nso can you give me some space?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Umm...I don't really get it. \nWhy are you giving this to me?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Fine then. This...means war.\nIs that what you wanted me to say?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Sorry, but...I don't have any good \nreferences for a weird thing like this.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I'm just a plain, boring girl.\nYou know that, right Kaede?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Umm...I don't really get it. \nWhy are you giving this to me?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Fine then. This...means war.\nIs that what you wanted me to say?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Sorry, but...I don't have any good \nreferences for a weird thing like this.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "I'm just a plain, boring girl.\nYou know that, right Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "I know what you're trying to say. This \nplain item's good for plain old me.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Just kidding... I know you didn't mean \nthat. It's just a joke, okay?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Hmm...well, things like this aren't bad. \nDo you like stuff like this, Kaede?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Why did you choose it? I'm curious \nabout other people's tastes.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Umm...it seems our tastes just \ndon't match that well.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Oh, I'm not ungrateful.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Even between otaku, likes and dislikes \ncan be completely different.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I know what you're trying to say. This \nplain item's good for plain old me.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Just kidding... I know you didn't mean \nthat. It's just a joke, okay?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Hmm...well, things like this aren't bad. \nDo you like stuff like this, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Why did you choose it? I'm curious \nabout other people's tastes.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Umm...it seems our tastes just \ndon't match that well.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Oh, I'm not ungrateful.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Even between otaku, likes and dislikes \ncan be completely different.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "I know what you're trying to say. This \nplain item's good for plain old me.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Just kidding... I know you didn't mean \nthat. It's just a joke, okay?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Hmm...well, things like this aren't bad. \nDo you like stuff like this, Kaede?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Why did you choose it? I'm curious \nabout other people's tastes.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Umm...it seems our tastes just \ndon't match that well.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Oh, I'm not ungrateful.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Even between otaku, likes and dislikes \ncan be completely different.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "I know what you're trying to say. This \nplain item's good for plain old me.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Just kidding... I know you didn't mean \nthat. It's just a joke, okay?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Hmm...well, things like this aren't bad. \nDo you like stuff like this, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Why did you choose it? I'm curious \nabout other people's tastes.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Umm...it seems our tastes just \ndon't match that well.",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Oh, I'm not ungrateful.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Even between otaku, likes and dislikes \ncan be completely different.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Huh, there was something like this \nhere? Are you sure I can have it?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Thanks, it was plain to see I was \nstressed, but this helped me calm down.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Oh, this is nice. \nYou've got good taste, Kaede.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "If you're offering it to me, I'll gladly \naccept it. I'm really happy now!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Huh, there was something like this \nhere? Are you sure I can have it?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Thanks, it was plain to see I was \nstressed, but this helped me calm down.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Oh, this is nice. \nYou've got good taste, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "If you're offering it to me, I'll gladly \naccept it. I'm really happy now!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "What!? I can have this!?\nReally!?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "I mean...no one else here can\neven appreciate this like I can!",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "You'd give this...to me...?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Thank you! Thank you so much!\nThose are the only words I can say!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "What!? I can have this!?\nReally!?",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "I mean...no one else here can\neven appreciate this like I can!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "You'd give this...to me...?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Thank you! Thank you so much!\nThose are the only words I can say!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "<CLT=cltSYSTEM>You cannot give that as a present.\nIt's a <CLT=cltSTRONG>key item<CLT=cltSYSTEM>...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Okay, I won't give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "No, I want to give her a present.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "<CLT=cltSYSTEM>Are you sure you don't want\nto give Tsumugi a present?",
+  "tr": ""
+ }
+]

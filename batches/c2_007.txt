@@ -1,0 +1,56 @@
+@ chap2_text_US
+## c02_002_010
+48|Ve pirinç ezilmediği için soğukken bile her\ntatlı, yapışkan tanenin tadını alabiliyorsun!
+49|Hey, senin bir tür ilahi dilin falan mı\nvar?
+50|Pirinci ezmeyince her bir tanenin arasında\nhava dolaşabiliyor.
+51|Üçgen şeklin kendisi, şekil verirken gevşek\ntutmaktan daha az önemlidir.
+52|Bütün bedeninle kavradığını hayal edersen\nçok daha kolay bulursun.
+53|Nyeeeh...pirinç topu yapamam. Pirinçle termiti\nbile birbirinden ayırt edemem.
+54|...Bunca zaman nasıl hayatta kaldın?
+56|Hm? Ne oldu, Kee-çocuk?\nYemiyorsun—
+57|Ah, evet! Yiyemediğini tamamen unuttum!\nBilirsin, robot olduğun için!
+59|Hadi ama, o kadar üzgün görünme.\nSonra sana bozuk bir televizyon getiririm.
+60|Onu istemiyorum... Ben çöp kutusu değilim.
+61|Nyahahaha! Keebo ile Kokichi harika\nanlaşıyor gibi.
+63|<CLT=cltMIND>Normal bir sohbet ediyorduk...\nsanki hiçbir şey olmamış gibi.
+64|<CLT=cltMIND>Ama hepimiz bunun gerçekten normal olmadığını\nbiliyorduk. <CLT=cltSTRONG>Zorlama bir sohbetti<CLT=cltMIND>.
+65|<CLT=cltMIND>Ama bu beklenen bir şey.\nSonuçta o olay daha dün oldu.
+66|<CLT=cltMIND>Herkes kendini zorluyor...\nBu yüzden...
+67|<CLT=cltMIND>Bu tür <CLT=cltSTRONG>zorlama bir normallik<CLT=cltMIND>\nbize sadece olanları hatırlatıyor...
+68|Hm? Ne oldu, Shuichi? Bunu yemeyeceksen\nben alırım!
+69|Ah, pardon. Hey, onu ben yiyecektim!
+70|<CLT=cltMIND>O gereksiz düşünceleri kafamdan atıp\nyemeği ağzıma tıkıştırdım.
+71|Bu arada, Gonta'nın demin bahsettiği şey...\ngidip bakacak mıyız?
+72|Keh! Boktan bir duvar yazısıyla uğraşmayı bırak\nda kendi boktan geleceğin için endişelen!
+73|Ha? Duvar yazısı mı?
+74|Ah, Gonta bu sabah buldu...
+75|Betonun üstünde, çimenlerin içinde saklı...
+76|Orada "horse a" kelimeleri yazıyor.
+77|Ha... Sence ne anlama geliyor?
+78|Şey...anlamı tamamen gizemle\nörtülü.
+79|<CLT=cltSTRONG>Ultimate Antropolog<CLT=cltNORMAL> bile bilmiyor...\nBir antropoloji meselesi sanmıştım.
+80|Eee, ne dersin, Shuichi? Hadi\n<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'in fikrini duyalım.
+81|Ha? Ah...
+82|Ben...bilmiyorum?\nBen de bilmiyorum.
+83|Gonta, çimenlerin içine saklanmış o duvar\nyazısını bulabilmene şaşırdım.
+84|Sen de mi ilahi olanla bağ kuruyorsun?
+85|Ah... O minik böcekler sayesinde.
+86|Böcekler mi...? Bu akademide hiçbir haşerenin\nolmadığını sanıyordum.
+87|Evet, Gonta da önceden öyle düşünüyordu ama...
+88|Avluda yürürken Gonta minik bir böcek\ngördüğünü düşündü.
+89|Ama...böcek o kadar minikti ki Gonta bile göremedi.\nÜstelik Gonta'nın görme keskinliği 8.0.
+90|Yani belki Gonta sadece yanıldı.\nAma Gonta düşünüyor ki...
+91|Hayır, belki Gonta sadece hayal gördü...
+92|Gah! Kararını ver artık,\nseni yoz!
+93|Yani o mesajı bir böceğin peşinden\nkoşarken mi buldun?
+94|Vaaay, Gonta! Başardın! Tanıştığımız andan\nberi sana güvenebileceğimi biliyordum!
+95|Ne? Gerçekten mi?
+96|...Evet! O yüzden benim için çalışmalısın!
+98|Ne? Öylece kabul mü\nedeceksin?
+99|Dikkatli ol, Gonta.\nO herif tam bir yalancı.
+100|Ne? Gerçekten mi?
+101|Haha, olur mu öyle şey.
+102|Güzel. O zaman Gonta'nın endişelenmesine gerek yok.
+103|Herkese mi inanacaksın!?
+104|Nii-hihi... Gonta, çok safsın.\nBiliyor musun, böyle saf olmaya devam edersen...
+105|Farkına varmadan <CLT=cltSTRONG>öldürülürsün<CLT=cltNORMAL>.\nAnladın mı?

@@ -1,0 +1,672 @@
+[
+ {
+  "id": 0,
+  "en": "Everyone, you have to believe me!\nShuichi is not the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "If we vote for Shuichi, we'll be making the\nwrong choice!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "And if that happens...\nEveryone will be executed...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I definitely won't let that happen, even if it\ncosts me my life!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Yeah, it's just like Kaede said!\nShuichi ain't the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Gonta believe in Shuichi, too!\nGentlemen always believe in friends!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Well, if Shuichi's not our \nculprit...then who is?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "We've already exhausted all\npossible avenues of discussion...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "No way. There has to be something else \nwe can discuss. We just gotta think.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Right, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Shuichi...even though you're not the culprit,\nyou've been quiet for a while...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "It's because you realized something, huh?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "You're scared to reveal the <CLT=cltSTRONG>truth<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "...Ah!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "I thought so...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Shuichi...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Answer me this—what <CLT=cltSTRONG>kind of truth<CLT=cltNORMAL> did you\nrealize?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Don't be scared to say it.\nNot just for me...but for everyone else.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Please...face the truth.",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...The <CLT=cltSTRONG>picture<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...Picture?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "The picture from the camera aimed at\nthe hidden door, just before the murder.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "I always thought it was suspicious...\nThe way Rantaro was acting...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Hm? What's suspicious?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "If you look at the picture, it looks like\nRantaro is trying to <CLT=cltSTRONG>remove the camera<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "But that must mean he <CLT=cltSTRONG>noticed<CLT=cltNORMAL> the camera\nwe set up.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "That's true.\nBut when did he notice that?",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "I believe it was when the camera\ntook its <CLT=cltSTRONG>first picture<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "This picture was taken when Rantaro\nmoved the bookcase.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "At that moment, <CLT=cltSTRONG>something<CLT=cltNORMAL> made him notice the\ncamera.",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "So, he tried to remove it, and that's when\nthe bookcase closed.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "The sensor was triggered, and that's when this\npicture was taken.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "If that is the case, we must find the reason\nwhy he noticed the camera.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "You're confusin' everyone! Except me, of\ncourse! Just get to the fuckin' point!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "I've been contemplating what it could be.\nWhy did he notice the camera?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "And the answer...is in this picture.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>I see... Shuichi knows...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Rear entrance camera",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Is it because he noticed the camera placed\nnear the rear entrance?",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "No, I don't think he noticed that\nparticular camera...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Bookcase sensor",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Is it because he noticed the sensor placed \non the bookcase?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "No, he shouldn't have noticed the\nsecurity sensor. The key is the camera...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "The camera flash",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Umm...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "What's wrong? If you got somethin' to say,\njust spit it out! Or swallow it, I don't care!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>Everyone's staring at me... \nThey all think less of me now...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>The reason why Rantaro noticed the \ncamera was because...",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Because of the <CLT=cltSTRONG>flash<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Nyeh? The flash?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Yes. The flash went off when the hidden door\ncamera took a picture.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Rantaro noticed the camera's flash.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "But how can you tell the flash went off?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Well, if you compare it to the\nother pictures that we have...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Remember the pictures that were\ntaken when I took down the cameras?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "This is the picture taken when I\nremoved the front camera...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "And this is the picture from\nwhen I removed the rear camera.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "And this...is the picture of Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Whoa! The <CLT=cltSTRONG>brightness<CLT=cltNORMAL> is\ntotally different!",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Same room, circumstance, and camera.\nAnd yet, there is a disparity in brightness...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Because only the camera aimed at the\nhidden door had the <CLT=cltSTRONG>flash turned on<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "What was the purpose of leaving the flash on? \nEspecially since it was meant to be hidden...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "A mistake, maybe?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "It's no mistake. There was an objective here.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "That camera was placed\nfor another reason.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Another reason, huh?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "To take a picture of the mastermind",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "<CLT=cltMIND>...No, the flash wouldn't have been necessary\nto take the mastermind's photo.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "<CLT=cltMIND>Come on... I need to face the truth!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "To light up the room",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>There would be no point in lighting up the\nroom if we weren't there.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>Come on... I need to face the truth!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "To lure the mastermind closer",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "To blind the mastermind",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>There would be no point in blinding them.",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>Come on... I need to face the truth!\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "What was this other reason, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Well, it's...",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "<CLT=cltMIND>...<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>I know this. There's only one reason\nthe camera's flash was used...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "The flash was used to <CLT=cltSTRONG>lure<CLT=cltNORMAL> whoever\nmoved the bookcase to the camera.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "So when the flash went off, they would\nhave noticed the camera right away.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "And that's exactly what happened.",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Rantaro moved the bookcase, noticed the\nflash, and then walked over to the camera.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "But the culprit didn't expect the camera to\ntake another picture when the door closed.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Hey, Kaede...?",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "What is it?",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Is...something wrong?\nYou've been acting...kinda strange.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "...Strange?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "Your last few remarks carry...\nmore conviction than before.",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Do you know who the culprit is!?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Yup, I know.\nI've known for a long time.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "...Hm? Long time?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Because there was only <CLT=cltSTRONG>one person<CLT=cltNORMAL>\nable to set the flash on the camera.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Isn't that right, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "The culprit of this incident is...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Kaede... I...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "...It's okay. I know you're not the culprit,\nShuichi.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "...It's alright. I know.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>It's okay. You just need to calm down...and\nsay it.\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Kaede...",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>It's okay. You just need to calm down...and\nsay it.\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "...No, that's wrong. I'm sorry.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "<CLT=cltMIND>It's okay. You just need to calm down...and\nsay it.\n<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Who killed Rantaro?",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "<CLT=cltMIND>Well, this is as far as it goes...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>I couldn't do it.\nI couldn't get to the mastermind.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>I'm sorry...everyone.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>I'm sorry...Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "<CLT=cltMIND>I'm sorry...Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "<CLT=cltMIND>You stayed silent this whole time because\nyou realized it already, right?",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "<CLT=cltMIND>But, you can't do that.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "<CLT=cltMIND>It may be the end of me, but I want\nmy <CLT=cltSTRONG>wish<CLT=cltMIND> to...",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "<CLT=cltMIND>I'm giving it to you, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "<CLT=cltMIND>From now on, you're going to carry on my \nwish! You're going to protect everyone!<CLT=cltNORMAL>",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "<CLT=cltMIND>Kaede...I know what you want me to do...",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "<CLT=cltMIND>That's so cruel...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "<CLT=cltMIND>It's cruel, but...",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "<CLT=cltMIND>...I understand. I'll do it.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "<CLT=cltMIND>You can trust me.",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "<CLT=cltMIND>I won't let your <CLT=cltSTRONG>wish<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "<CLT=cltMIND>...go ungranted.<CLT=cltNORMAL>",
+  "tr": ""
+ }
+]

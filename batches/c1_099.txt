@@ -1,0 +1,64 @@
+@ chap1_text_US
+## c01_225_000
+5|<CLT=cltMIND>Gerçeği ortaya çıkarmalıyım!
+6|Rantaro kütüphanede öldürüldüyse güllenin\norada kullanıldığı apaçık.
+7|Katılmıyorsan, Shuichi...bizi ikna edecek\nbir kanıt sunmanı istiyorum.
+8|Bunu yapabileceğini biliyorum.
+11|<CLT=cltMIND>Gerçeği ortaya çıkarmalıyım!
+12|Rantaro anında öldü ve onu hemen sonra bulduk.\nKütüphanede öldürüldüğü apaçık.
+13|<CLT=cltMIND>Hata yaptım...\nTekrar düşünmem lazım!\n<CLT=cltNORMAL>
+14|<CLT=cltMIND>Gülle illa ki kütüphanede kullanılmadı.\nKaede gerçeği ortaya çıkarmamı istiyor!
+15|<CLT=cltMIND>Onu hayal kırıklığına uğratmayacağım!\nCevabı bulacağım!
+17|<CLT=cltMIND>Onu hayal kırıklığına uğratmayacağım!\nCevabı bulacağım!
+19|<CLT=cltMIND>Onu hayal kırıklığına uğratmayacağım!\nCevabı bulacağım!
+## c01_225_001
+2|<CLT=size2>Rantaro<CLT=size1> <CLT=size2>öldürüldüğünde...
+3|Rantaro öldürüldüğünde...
+4|<CLT=cltWEAK><CLT=size2>Shuichi'yle<CLT=size1> <CLT=size2>sınıfta\nnöbet tutuyordum<CLT=size1><CLT=cltNORMAL>.
+5|Shuichi'yle sınıfta\nnöbet tutuyordum.
+6|Kaede hiç\n<CLT=size2>Rantaro'yu görmedi...
+7|Kaede hiç Rantaro'yu görmedi...
+8|o zaman onu nasıl <CLT=size2>öldürdü!?
+9|o zaman onu nasıl öldürdü!?
+10|Suçlunun <CLT=size2>gülleyi<CLT=size1> <CLT=size2>nerede<CLT=size1>\nkullandığını belirlemek <CLT=size2>önemli...
+11|Suçlunun gülleyi nerede\nkullandığını belirlemek önemli...
+12|<CLT=cltWEAK><CLT=size2>Kütüphanede\nolduğunu biliyoruz.
+13|Kütüphanede olduğunu biliyoruz.
+14|Sonuçta <CLT=size2>Rantaro<CLT=size1> <CLT=cltWEAK><CLT=size2>kütüphanede<CLT=cltNORMAL>\nöldürüldü<CLT=size1>.
+15|Sonuçta Rantaro kütüphanede\nöldürüldü.
+16|<CLT=size2>Tek açıklama bu.
+17|Tek açıklama bu.
+18|Bu durumda\nbenim suçlu olmam <CLT=size2>imkânsız<CLT=size1>.
+19|Bu durumda benim suçlu\nolmam imkânsız.
+20|G-Gördünüz mü!?
+21|İmkânı yok!
+22|Kanıtlar bunu gösteriyor...
+23|Bu doğru.
+24|Gerçekteeen mi?
+## c01_226_000
+0|Kaede gülleyi suç mahallinde\nkullanmadı...
+1|Onu nöbet tuttuğumuz <CLT=cltSTRONG>1. kattaki sınıfta<CLT=cltNORMAL>\nkullandı!
+3|Dur bir saniye. Rantaro'yu başka bir kattan\ngülleyle nasıl vurabilirdi?
+4|...Yuvarladı.
+5|Gülleyi 1. kattaki sınıftan yuvarlayıp\nRantaro'yu vurdu.
+6|Böyle bir isabet becerisini gösterebileceğinden\nşüpheliyim...
+7|Yani sihirli bir gülle miydi?\nNyeh. Bu mümkün değil.
+8|Mümkün...
+9|Sınıfın <CLT=cltSTRONG>doğru noktasından<CLT=cltNORMAL> yaparsan\nkütüphaneye ulaşır.
+10|Görünüşe göre...bunu zaten biliyordun...
+11|<CLT=cltMIND>Bunu çözmek istemedim...\nBilmek istemedim...
+12|<CLT=cltMIND>Ama...gerçeğe sırtımı\ndönemem...
+13|<CLT=cltMIND>Gülleyi sınıftan kütüphaneye götürmek\niçin yuvarladığı yer...
+14|<CLT=cltMIND>Bunu biliyorum!
+## c01_228_000
+0|<CLT=cltSTRONG>Sınıfın havalandırma kanalı<CLT=cltNORMAL>.
+1|Gülleyi oraya yuvarlarsan\nkütüphaneye ulaşır.
+2|Anlıyorum... O hava kanalı sınıfı\nkütüphaneye bağlıyor.
+3|Yani gülle havalandırma kanalına yuvarlanıyor,\nkanaldan geçiyor...
+4|...ve <CLT=cltSTRONG>kütüphane kitaplığının üstündeki\nhavalandırma ızgarasından<CLT=cltNORMAL> çıkıyor.
+5|Ama Rantaro'yu ta oradan nasıl\nvurabildi!?
+6|Havalandırma ızgarası Rantaro'nun cesedinden\nçok uzaktaydı!
+7|Yani sadece bir tesadüf müydü?
+8|Bu ne biçim tesadüf!?
+9|Hmm...ne gizem.
+10|<CLT=cltMIND>Hayır, onun da cevabını zaten\nbiliyorum...

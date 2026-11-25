@@ -1,0 +1,148 @@
+@ game_resident_US
+## B-TechouTsushinbo
+0|Shuichi Saihara 
+1|Shuichi Saihara 
+2|Shuichi Saihara 
+3|170 cm
+4|58 kg
+5|81 cm
+6|AB
+7|7 Eylül
+10|Kaito Momota
+11|Kaito Momota
+12|Kaito Momota
+13|183 cm
+14|74 kg
+15|89 cm
+16|O
+17|12 Nisan
+20|Ryoma Hoshi
+21|Ryoma Hoshi
+22|Ryoma Hoshi
+23|104 cm
+24|40 kg
+25|61 cm
+26|B
+27|1 Temmuz
+30|Rantaro Amami 
+31|Rantaro Amami 
+32|Rantaro Amami 
+33|178 cm
+34|62 kg
+35|81 cm
+36|B
+37|3 Ekim
+40|Gonta Gokuhara
+41|Gonta Gokuhara
+42|Gonta Gokuhara
+43|198 cm
+44|94 kg
+45|109 cm
+46|A
+47|23 Ocak
+50|Kokichi Oma 
+51|Kokichi Oma 
+52|Kokichi Oma 
+53|155 cm
+54|44 kg
+55|71 cm
+56|A
+57|21 Haziran
+60|Korekiyo Shinguji
+61|Korekiyo Shinguji
+62|Korekiyo Shinguji
+63|188 cm
+64|65 kg
+65|81 cm
+66|O
+67|31 Temmuz
+70|K1-B0
+71|K1-B0
+72|K1-B0
+73|160 cm
+74|89 kg
+75|89 cm
+76|???
+77|29 Ekim
+80|Kirumi Tojo
+81|Kirumi Tojo
+82|Kirumi Tojo
+83|175 cm
+84|52 kg
+85|84 cm
+86|B
+87|10 Mayıs
+90|Himiko Yumeno 
+91|Himiko Yumeno 
+92|Himiko Yumeno 
+93|150 cm
+94|39 kg
+95|69 cm
+96|O
+97|3 Aralık
+100|Maki Harukawa
+101|Maki Harukawa
+102|Maki Harukawa
+103|163 cm
+104|44 kg
+105|76 cm
+106|A
+107|2 Şubat
+110|Tenko Chabashira
+111|Tenko Chabashira
+112|Tenko Chabashira
+113|165 cm
+114|52 kg
+115|89 cm
+116|B
+117|9 Ocak
+120|Tsumugi Shirogane
+121|Tsumugi Shirogane
+122|Tsumugi Shirogane
+123|175 cm
+124|51 kg
+125|84 cm
+126|A
+127|15 Ağustos
+130|Angie Yonaga
+131|Angie Yonaga
+132|Angie Yonaga
+133|155 cm
+134|41 kg
+135|71 cm
+136|A
+137|18 Nisan
+140|Miu Iruma 
+141|Miu Iruma 
+142|Miu Iruma 
+143|173 cm
+144|56 kg
+145|99 cm
+146|AB
+147|16 Kasım
+150|Kaede Akamatsu
+151|Kaede Akamatsu
+152|Kaede Akamatsu
+153|173 cm
+154|53 kg
+155|89 cm
+156|O
+157|26 Mart
+160|Makoto Naegi
+161|Makoto Naegi
+162|Makoto Naegi
+163|160 cm
+164|52 kg
+165|76 cm
+166|A
+167|5 Şubat
+170|Hajime Hinata
+171|Hajime Hinata
+172|Hajime Hinata
+173|178 cm
+174|67 kg
+175|91 cm
+176|A
+177|1 Ocak
+## B-TechouKisekaeName
+## B-TechouKisekaeSetumei

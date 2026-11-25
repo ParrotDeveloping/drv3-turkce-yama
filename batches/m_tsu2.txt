@@ -1,0 +1,115 @@
+@ game_resident_US
+## B-TechouTsushinbo
+8|Romanlar
+9|Dedikodu
+18|Saksı bitkileri
+19|Doğaüstü şeyler
+28|Rus mavisi kediler
+29|Beyaz uçlu resif köpekbalıkları
+38|Ülke dışı haklar
+39|Arabalar
+48|Eklembacaklılar
+49|Muz
+58|Gazlı içecekler
+59|Domuz paçası
+68|Hasır halatlar
+69|Klima
+78|100-240 volt
+79|Otomatlar
+88|Temizlik
+89|İzin günleri
+98|Dar alanlar
+99|Okyanus
+108|Sabah göl kıyıları
+109|Kış göl kıyıları
+118|Nunçaku
+119|Erkekler
+128|EVA köpük
+129|Düzensiz kuyruklar
+138|Avokado
+139|Nem
+148|Çocuk programları
+149|Rahat takılmak
+158|Piyano tuşları
+159|Bisikletler
+168|Köri
+169|Kurutulmuş balık
+178|Kusamochi
+179|Sakuramochi
+## B-TechouKisekaeName
+0|Varsayılan El Kitabı
+1|Varsayılan El Kitabı
+2|Gerçek Mavi
+3|Kozmik Mor
+4|Hapishane Laciverti
+5|Gizemli Limon
+6|Böcek Yeşili
+7|Yüce Mor
+8|Folklor Kahvesi
+9|Elektrik Mavisi
+10|Terzi İşi Gri
+11|Büyülü Turkuaz
+12|Suikastçı Kızılı
+13|Neo-Aikido Nanesi
+14|Başkalaşım Mavisi
+15|Kutsal Sarı
+16|Flaş Macenta
+17|Ritmik Pembe
+18|Hope's Peak Academy
+19|Jabberwock Adası
+20|Ultra Despair Girls
+21|Danganronpa 53
+22|Monokuma'nın Sınavı
+23|Evrenler Arası Aşk
+24|Ultimate Yetenek Geliştirme Planı
+25|Monoyavru Dünyası
+26|Ekstrem Monokuma
+27|Umutsuzluğun Ölüm Yolu
+29|Gerçek Silindiri Mavi
+30|Gerçek Silindiri Pembe
+31|Gerçek Silindiri Yeşil
+32|Erkek Okul Rozetleri Koleksiyonu
+33|Kız Okul Rozetleri Koleksiyonu
+34|Karma Okul Rozetleri Koleksiyonu
+35|Exisal Pembe
+36|Exisal Siluet
+37|Exisal Analiz
+## B-TechouKisekaeSetumei
+0|Temel tema.
+1|Temel tema.
+2|Shuichi Saihara'nın teması. \nGerçeğin peşinden koşanlar için!
+3|Kaito Momota'nın teması. \nEvrende iz bırak!
+4|Ryoma Hoshi'nin teması. \nŞandan düşüş, günahın kederi...
+5|Rantaro Amami'nin teması. \nÜzerine düşündükçe daha da tuhaflaşıyor...
+6|Gonta Gokuhara'nın teması. \nBöcekleri neredeyse duyabiliyorsun.
+7|Kokichi Oma'nın teması. \nDünyayı gölgelerden yönet.
+8|Korekiyo Shinguji'nin teması. \nAntropolojinin harika dünyası.
+9|K1-B0'ın teması. \nRobot olmanın gururu ve acısı.
+10|Kirumi Tojo'nun teması. \nArzularına göre özel olarak hazırlandı.
+11|Himiko Yumeno'nun teması. \nBu gerçek büyü.
+12|Maki Harukawa'nın teması. \nKalbini sustur. Görevini yerine getir.
+13|Tenko Chabashira'nın teması. \nMoralini kesin yükseltir!
+14|Tsumugi Shirogane'nin teması. \nHayalî cazibeye dikkat!
+15|Angie Yonaga'nın teması. \nAtua seni gözetsin.
+16|Miu Iruma'nın teması. \nBeynini gıdıklaması garanti.
+17|Kaede Akamatsu'nun teması. \nUyumun tadını çıkar.
+18|Hope's Peak Academy teması. \nHer şey burada başladı...
+19|Jabberwock Adası teması. \nMavi gökyüzü, beyaz bulutlar...
+20|Ultra Despair Girls teması.\nBu iki kız dünyayı kurtarabilir!
+21|Danganronpa V3 teması.
+22|Monokuma'nın Sınavı teması.
+23|Evrenler Arası Aşk teması.
+24|Ultimate Yetenek Geliştirme Planı teması.
+25|Monoyavruların teması. \nKirli mi kirli bir Monoyavru dünyası.
+26|Monokuma'nın teması. \nSüper havalı!
+27|Umutsuzluğun Ölüm Yolu teması. \nYaşasın V3!
+28|Aşk Süiti teması. \nO anılar asla solmayacak...
+29|Gerçek Silindiri teması. \nMavi tabanlı havalı bir tema.
+30|Gerçek Silindiri teması. \nPembe tabanlı renkli bir tema.
+31|Gerçek Silindiri teması. \nYeşil tabanlı sakin bir tema.
+32|Erkek okul rozetleri teması.
+33|Kız okul rozetleri teması.
+34|Herkesin okul rozetleri teması.
+35|Exisal teması. \nYaramaz ve vahşiler için.
+36|Exisal teması.\nHavalı, olgun bir havası var.
+37|Exisal teması.\nExisal gerçekte nedir?

@@ -1,0 +1,557 @@
+[
+ {
+  "id": 0,
+  "en": "So you finally decided to raise your head.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "What?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Up till yesterday, you were always walking\naround staring at your feet, right?",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Even when you had to look up, you used your hat \nto block out what you didn't want to see...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>I can't deny that...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "This world can be too big and bright for eyes \nthat have spent too long staring down.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "So be careful. Don't let your eyes \ndeceive you...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yeah...you're right.\nThanks.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Hmph...sorry for the unsolicited advice.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "What's wrong? Your job right now is \nto find out what that junk is for, right?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "You're way too busy to waste time \ntalking to me.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I thought that statue was strange...\nBut who coulda guessed it'd do that?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Shuichi, there anything Gonta can do?\nPlease say so!",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Oh, I knew you'd come to check this area.\nThat dragon statue seems pretty sketchy.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "What, I wonder, does Monokuma wish \nfor us to do...?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "What do you mean?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "I cannot fathom the reason he would give us \nthose items and make us search the school...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Hm, now that I think of it, the school \nregulations did mention searching the school.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "\"With minimal restrictions, you are free to \nexplore the campus at your discretion\"...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "This rule is indirectly urging us \nto search the school.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>Yes, I suppose that is true...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "What will come of our search...?\nAnd how will everyone react to it?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "I shall closely observe each of them\nas well... Kehehe...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "What will come of our search...?\nAnd how will everyone react to it?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "I shall closely observe each of them\nas well... Kehehe...",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Oh? It was a hidden passage...?\nMy, how elaborate.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Have you recovered from your injury?",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Injury...?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "When Kaito struck you last night.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Ah, yeah, I'm fine.\nIt didn't bruise or anything, see?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Good. Should it begin to hurt again, please let\nme know.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Though I cannot perform surgeries, I can make\nuse of the medical supplies in the warehouse.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "You have medical experience, too, Kirumi?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "A true maid must be able to adapt to any\nsituation. Besides...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "I, too, intend to fulfill Kaede's request. So I will\nvaliantly perform any task, trivial or otherwise.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Kirumi...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>It sounds like everyone has taken\nKaede's final wish to heart.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>Even if Kaede is no longer with us...\n<CLT=cltSTRONG>Kaede's wish<CLT=cltMIND> will never vanish!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "I, too, intend to fulfill Kaede's request. So I will\nvaliantly perform any task, trivial or otherwise.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "I feel stagnant air drifting from this damaged\nwall...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "As if no one has set foot beyond this point\nfor quite some time...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "...You look better now.",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I didn't think you'd get over Kaede's death\nso quickly.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "...We don't have time to be standing around.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...How heartless. Guess you two weren't as\nclose as you looked.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "That's not true, it's because of the wish Kaede\ngave me that I have to keep moving...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>I made a promise...that I won't give up.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "...Do you have time to stop? Hurry up and find\na use for all that junk.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "O Atua, who art in heaven...\nPlease allow Rantaro into thy kingdom...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Ah, sorry, you were praying...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Cuz everyone's so sad over Kaede, they've\nforgotten about Rantaro.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "So I'm gonna keep praying for him.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "N-No, it's not that we forgot!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "It's okay. It's easier for me to earn points\nif I pray.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "It's a shortcut to a platinum membership!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>Her religion...has a point system?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "O Atua, who art in heaven...\nPlease allow Rantaro into thy kingdom...",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Shuichi, we've been waiting for you!\nHurry, hurry! We're all ready!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "<CLT=cltMIND>Hurry? Hurry for what?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Go on, try to solve the puzzle! You're\nclearly a pro at playing with yourself!",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Did you bust your boy-cherry, virgin!?\nHow's it feel to walk right now!?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>I wish I could have heard Kaede\nplay the piano in this classroom...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>From the look of this door...\nThis must be an <CLT=cltSTRONG>Ultimate Research Lab<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Alright, let's go inside.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Now this is a strange door...\nThis might be an <CLT=cltSTRONG>Ultimate Research Lab<CLT=cltMIND>.",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "Based on the design, could it be the\n<CLT=cltSTRONG>Ultimate Entomologist's Lab<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltMIND>Stairs... It looks like I can\ngo to the 3rd floor from here.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "They're a little scary...but I'll try it.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Part of the wall is gone!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Whoa, that's so cool! We can get past this wall\nnow! Alright then, chaaaaarge!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "W-Wait! Charging in is dangerous!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...Kirumi, what's wrong?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Nothing, but I feel stagnant air drifting from\nthis damaged wall...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "As if no one has set foot beyond this point\nfor quite some time...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Nobody's been here for a long time?",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>Exactly how long is a\n<CLT=cltSTRONG>long time<CLT=cltMIND>?",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>What is this...? A treasure chest?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Yahoo! We've found a treasure chest!\nWhy don't you open it, Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "...Really? I should open it?",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "I believe this treasure chest is saying you\nshould open it, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "<CLT=cltMIND>I'm getting the sense that she thinks\nit's dangerous and wants *me* to open it.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "...Alright, fine.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>With sweaty palms, I cautiously\nopened the chest, and...",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "What is this...? A flashlight?\nNo, it can't be just a flashlight...",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Maybe try turning it on?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "No, that's too dangerous.\nWe should inspect it—",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Hm? It'll be okay. Even the flashlight is\nsaying, \"Turn me on!\"",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "\"Turn me on!\" \"Hurry up and turn me on,\nShuichi!\" It's begging you.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Ah, i-if you're so eager,\nwhy don't *you* flip the switch, Angie?",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "Then I'll meet you halfway and inspect this\nflashlight myself.",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "*That's* meeting me halfway?\nAnd how are you going to inspect it?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "You're right. At times like this, we just\ngotta go for it!",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "<CLT=cltMIND>Angie snatched the flashlight from me.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Let's meet at the gym, Shuichi! I'll go get\nthe others, you just hurry over!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "What?\nWhy are we meeting in the gym?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "You'll get it once you arrive!\nBye-onara!",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "...And there she goes...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltMIND>I don't know what she's planning...\nbut I might as well do as she says.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Meeting me halfway, huh?",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Once you understand, I'll come teach you!\nBye-onara!",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "<CLT=cltMIND>Angie snatched the flashlight from me\nand ran off with a bounce in her step.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Wait, inspect it? How!?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "<CLT=cltMIND>The treasure chest is empty.\nThat flashlight was the only thing inside.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ }
+]

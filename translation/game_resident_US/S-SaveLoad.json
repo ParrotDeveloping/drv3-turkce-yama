@@ -1,0 +1,332 @@
+[
+ {
+  "id": 0,
+  "en": "Danganronpa V3: Killing Harmony",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Monocoins",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Number",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Play time",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "New save data",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "PlayStation®Vita",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "PlayStation®4",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Network:",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Uploading save data. Is that okay?",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Data that has been uploaded will be overwritten.\nIs that okay?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Data uploaded.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Downloading upload data. Is that okay?",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Data was updated during the download.\nDownload has been cancelled.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "There is no demo save data.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Loading demo save data...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "You cannot access uploaded data on PlayStation™Network right now. Please wait and try again.",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Danganronpa V3: Killing Harmony",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Danganronpa V3",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Danganronpa V3: Killing Harmony Demo version",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Danganronpa V3: Killing Harmony Demo version",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Save",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Load",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<PAD=【□】> Switch date display",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<DIG=●>/<DIG=●>/<DIG=●>　<DIG=●>:<DIG=●>:<DIG=●>",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "Free Slot <DIG=●>",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Updated",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Details",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Monocoins <DIG=●>",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Play time <DIG=●>:<DIG=●>:<DIG=●>",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Would you like to save in this slot?",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "Would you like to load the save data in this slot?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Would you like to overwrite the save data in this slot?",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Danganronpa V3: Killing Harmony",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "There is no save data for this game.\nCreate new save data?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Play without saving data?\nIf you select \"Yes\" you will not be able\nto save beyond this point.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Save data created successfully.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Failed to create save data.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Save data loaded successfully.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Failed to load save data.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Save data already exists.\nOverwrite?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Delete save data and\nsave replay data?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Loaded save data belongs to another user, \nso it cannot be used. \nStarting game from the beginning.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "Delete the corrupted save data\nand create a new one?",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "Creating save data.\nDo not turn off your PlayStation®4 system.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "Loading save data.\nDo not turn off your PlayStation®4 system.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "Saving save data.\nDo not turn off your PlayStation®4 system.",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "Creating save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "Loading save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "Saving save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "Creating save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "Loading save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "Saving save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 180,
+  "en": "Creating save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 181,
+  "en": "Loading save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 182,
+  "en": "Saving save data.\nDo not turn off your PlayStation®Vita system.",
+  "tr": ""
+ },
+ {
+  "id": 200,
+  "en": "The save data is corrupted and cannot be loaded.",
+  "tr": ""
+ },
+ {
+  "id": 201,
+  "en": "There is not enough available space in the\nHDD. At least <DIG=●> KB of free space is required\nto play the game. Exit the game and\nobtain the necessary space.",
+  "tr": ""
+ },
+ {
+  "id": 202,
+  "en": "Save replay data?",
+  "tr": ""
+ },
+ {
+  "id": 203,
+  "en": "This game has an autosave feature.\nPlease do not turn off your PlayStation®4 system\nwhen you see this icon.",
+  "tr": ""
+ },
+ {
+  "id": 204,
+  "en": "This game has an autosave feature.\nPlease do not turn off your PlayStation®Vita system\nwhen you see this icon.",
+  "tr": ""
+ },
+ {
+  "id": 205,
+  "en": "Do you want to save?",
+  "tr": ""
+ },
+ {
+  "id": 206,
+  "en": "Downloading and installning remaining data.\nTo continue, load data after installation has completed.",
+  "tr": ""
+ },
+ {
+  "id": 207,
+  "en": "You need to save to receive\nthe special reward.",
+  "tr": ""
+ },
+ {
+  "id": 208,
+  "en": "Returning to title...",
+  "tr": ""
+ },
+ {
+  "id": 209,
+  "en": "Demo version clear data has not been saved.\nWould you like to save?",
+  "tr": ""
+ }
+]

@@ -1,0 +1,63 @@
+@ chap0_text_US
+## c00_008_251
+55|<CLT=cltSYSTEM>
+59|<CLT=cltSYSTEM>
+63|<CLT=cltSYSTEM>
+## c00_009_007
+0|16 kişinin hepsi toplandık...
+1|Hmm, 16 <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>'ın bir arada toplandığını\ngörmek epey muhteşem.
+2|Kehehe... Çok yakında bu kadar rahat\nolamayabilirsiniz...
+3|Bu durumda bir şeyler düşünmenin faydası yok.\nO yüzden sonunda Tsumugi düşünmeyi bıraktı.
+4|Nyeeeh... Bize ne olacak?\nEminim çok zahmetli bir şey olacak...
+5|Hmmmmm...
+6|Ne? Neye bakıyorsun?
+7|Şey... Himiko, inanılmaz güçler kullanabiliyorsun,\ndeğil mi!? Medyumsun falan sonuçta, değil mi?
+8|Ben medyum değilim...büyücüyüm.
+9|Vuuuuv! Bu harika! Bunu kesinlikle\n<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'ya katmak istiyorum!
+10|Hey, o müthiş güçleri kazanmak için\nnasıl bir eğitimden geçtin!?
+11|Bundan bahsetmek çok yorucu...
+12|Epey tembelsin.
+13|Affedersiniz ama...tetikte olmalıyız.\nTehlikenin ne zaman geleceğini bilmiyoruz.
+14|Ö-Öyle deme... Çok korkuyorum...\nNe yapacağımı bilmiyorum...
+15|Endişelenmeye gerek yok.\nAtua bizi koruyacak.
+16|Oh be! Bu içimi rahatlattı!
+17|Kafanın içi ot mu dolu ne?\nO kafatasından hepsini sökerim!
+18|Merak etmeyin!\nSiz bana bırakın!
+19|O oyuncak ayılar bir daha ortaya \nçıkarsa hepsinin ağzını burnunu kırarım!
+20|...Ha? O ne?
+21|Hm? Ne oldu?
+22|Dinleyin... Duyuyor musunuz?
+23|Ah, sanırım duyuyorum. Robot animelerindeki \nbir motor sesine benziyor—
+24|Yuhuu! Ayı-l bakalım, uyan artık!
+25|Kyaaaaaaaaaah!
+26|Herkes Gonta'nın arkasına!
+27|B-Bu...canavarlar da ne böyle!?
+28|Vuuuuuaaaav!!! Çok havalııı!!!
+29|Bunlar Exisal—yüksek hareket kabiliyetli, iki ayaklı\nsilah platformları! Memleketleriyle de çok gurur duyarlar!
+30|...Bu geçmiş hikâyelerini takip edemiyorum.
+31|N-Ne olurlarsa olsunlar, önce çirkinleri\ngebertsinler, beni sona bıraksınlar!
+32|Kaç, Himiko!
+33|Neden birden benim için\nendişeleniyorsun?
+34|Hm, biri "hepsinin ağzını burnunu\nkıracağını" söylemiyor muydu?
+35|N-Ne halt!? \nKimse bana bunlardan bahsetmedi!
+36|Tamam, sakin olun, paniğe gerek yok...\nMuhtemelen tehlikede değiliz.
+37|Bizi öldürmek isteselerdi\nşimdiye kadar yapmışlardı.
+38|<CLT=cltMIND>Bunu deyip Rantaro rahat bir şekilde\nExisal'lara doğru yürüdü.
+39|Eee...bizden ne istiyorsunuz?
+40|Belli ki *bir şey* istiyorsunuz, silahlar\nbunun için, değil mi?
+41|Tahmin edeyim. Bizi bir şey yapmaya\nzorlayacaksınız, yapmazsak zarar göreceğiz.
+42|Eh, dikkatimizi çektiniz.\nNe istiyorsunuz?
+43|Ha. Amma da bilmiş biriymişsin.
+44|Ben başlayayım! İyi dinleyin! Siz eziklerden\nyapmanızı istediğimiz şey...
+46|Hahhhhh! Kalbim yüz kilometre hızla atıyor!\nSöyleyeceğim! Hazır mısınız!?
+47|Hah işte! Bu bir—
+48|ÖLÜM-OYUNU.
+50|M-M-Monodam! Benim sahnemi çalmaya NASIL cüret edersin!
+51|D-Dur bir saniye. Ne dedin sen?
+52|E-Eğer onu doğru duyduysam—
+53|ÖLÜM-OYUNU.
+54|Ah! Yine söyledi!
+55|Grrrrrrr! Kahrolası Monodam!\nSeni bu Exisal'la ezeceğim!
+56|Hadi ama, kendi aramızda kavga edecek\nvaktimiz yok.
+57|Evet! Kavga etmeyi bırakmazsan seni\nbu Exisal'la ezeceğim!
+58|Sen de mi, Monotaro?

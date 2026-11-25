@@ -1,0 +1,92 @@
+[
+ {
+  "id": 0,
+  "en": "Level <DIG=●>",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Level",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltKTDM> <PAD=【△】> Confirm <PAD=【□】> Show Question",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltKTDM> <PAD=【△】> Confirm <PAD=【□】> Hide Question",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<PAD=【△】>Confirm",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<PAD=【Ｆ㊧】>  <PAD=【○】> Use ",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND> In <DIG=●> more right answer(s), the lock will be released. ",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<PAD=【Ｌ３】> Move",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<PAD=【Ｒ３】> Camera",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<PAD=【Ｌ３】> + <PAD=【Ｌ１】> Run ",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<PAD=【×】> Run",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Ending game.\nIs that okay? ",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Date Ticket",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltKTDM> <PAD=【△】> Confirm  <PAD=【□】> Show Question <PAD=【ＭＣ↕】> Scroll",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "<CLT=cltKTDM> <PAD=【△】> Confirm  <PAD=【□】> Hide Question <PAD=【ＭＣ↕】> Scroll",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<PAD=【ＭＷ↕】>/<PAD=【Ｐ全】> Move",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<PAD=【Ｌ３】> Camera",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<PAD=【Ｐ全】> + <PAD=【×】> Run ",
+  "tr": ""
+ }
+]

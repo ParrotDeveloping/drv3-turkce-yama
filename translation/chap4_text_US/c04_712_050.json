@@ -1,0 +1,57 @@
+[
+ {
+  "id": 0,
+  "en": "A biohazard from a mysterious virus spreading...\nInfecting people with an unknown disease...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "For the time being, I think I'll stock up \non herbs...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Should I hang out with Tsumugi for a while?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "They stimulate natural healing and are \na cure-all. They're dangerously effective.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "It's a mystery how they're made \nor even how they're used...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "...Oh, sorry. I was talking about games.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltMIND>I spent some time with Tsumugi...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>Tsumugi and I grew a little closer today.",
+  "tr": ""
+ }
+]

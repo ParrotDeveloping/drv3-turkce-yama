@@ -1,0 +1,59 @@
+@ chap1_text_US
+## c01_016_010
+125|...Eh, bundan sonra ne yapacağınıza siz karar\nvereceksiniz. İstediğinizi yapın.
+126|Hep birlikte işbirliği yaparak ölebilir ya da\nkendi başınıza hayatta kalabilirsiniz. Karar sizin.
+127|Ah-hahahaha!
+128|Of beee, Babacığım formunda!\nBunları söyleyene kadar sinirlenmeye başlamıştım!
+129|Hah işte! Papa Kuma'nın dönüşünü kutlamak\niçin biraz bal içelim!
+130|Hey, Monodam! Git biraz saf organik\nbal getir!
+131|Üstüme bal dökün!\nCinayet adınaaaa...!
+133|<CLT=cltMIND>Monokuma gittikten sonra geriye kalan tek\nşey...derin bir korku ve umutsuzluktu.
+134|Ne yapacağız? İki gün sonraki gece \nvakti...göz açıp kapayıncaya kadar gelecek.
+135|Y-Yapabileceğimiz bir şey olmalı...\nÖlemem... Dünyanın benim dehama ihtiyacı var!
+136|İ-İstemiyorum... Ben...henüz ölmek istemiyorum!
+137|<CLT=cltMIND>Ölmek mi...?
+138|<CLT=cltMIND>Herkes...ölecek mi?\nTek seçenek ölmek mi?
+139|Endişelenmene gerek yok. Atua seni kollarını\naçarak karşılayacak.
+140|...O öldükten sonra, değil mi?
+141|B-Böyle bir şey yüzünden paniğe kapılamayız.\nBen...bir şey yapacağım.
+142|...Aklında bir hareket planı var mıydı?
+143|Ben...şimdi bir tane düşünmeye başlayacağım!
+144|...Tahmin etmiştim. Zaten senden hiçbir\nşey beklemiyordum.
+145|O-O zaman karşılık vermeliyiz...!
+146|E-Evet! Onlara sürpriz saldırılar yaparsak\nkazanma şansımız olabilir!
+147|Ne tür Aikido hareketleri sürpriz saldırı\niçerir ki...?
+148|Gelin, millet! Gonta vücudunu kullanıp\nherkesi koruyacak!
+149|O makinelere çıplak elle mi karşı \nkoyacaksın? Bu fazla pervasız değil mi?
+150|A-Ama...yapmak zorundayız! Yapmazsak öleceğiz!
+151|Durun! Bütün olası seçenekleri hesaplamak\niçin hâlâ bolca vaktimiz var—
+152|Kararsızlığa vaktimiz yok.\nBir karar vermeye zorlanıyoruz...
+153|Savaşarak ölmek...\nYa da süre sınırından ölmek.
+154|Neden iki seçenekte de ölüyoruz!?
+155|O-Olamaz... Gerçekten ölecek miyiz?\nHenüz ölmek istemiyorum...
+156|Hayatta kalacağım!\nNe olursa olsun başaracağım!
+157|N-Ne olursa olsun mu...?
+158|Dur! Ama bunu yapamazsın!\nHata yapsan bile yapamazsın—
+159|O zaman suçu sen mi üstleneceksin?
+161|Ben ölürsem suçu sen mi üstleneceksin? Ben\nölürsem üzülecek insanlar var, biliyor musun?
+162|Ş-Şey... Aslında—
+163|Nişişi...yalan söylüyorum.\nBen ölürsem kimse üzülmez.
+164|...Ama aynı şeyin herkes için geçerli\nolduğunu bilmiyorum.
+165|Neyse...ben kaçıyorum.
+166|Kaçmak mı? Nereye gidiyorsun, Kokichi?
+167|Ah, bilmiyoruuum. Belki odama dönüp\nher şeyi düşünürüm. Yalnız başıma.
+168|O-Odanda yalnız mı? Bununla ne demek\nistiyorsun? Beni gelip seni öldürmeye mi davet ediyorsun?
+169|Miu?
+170|B-Ben o ayrıcalığı...kendime almaya çalışacak\nlarım değil... B-Ben birini öldürmeyecek kadar klas biriyim!
+171|Siz aptallarla konuşmak çok yorucu...\nOdama gidip dinleneceğim!
+172|Miu! Sakın şüpheli bir şey yapma, tamam mı!?
+173|Endişelenmeye gerek yok, değil mi?\nKimse...kimseyi öldürmeyecek, değil mi?
+174|Biri öldürecekse \nrobota yönelsin.
+175|Bu daha da kötü!
+176|Hmm...demek herkes öldürmenin\nyanlış olduğunu düşünüyor...
+177|Ama neden?
+179|Tabii yasalara aykırı olduğunu biliyorum.\nAma yasalar sadece insanların belirlediği kurallardır.
+180|Burası o kurallardan arındırılmış bir alan.\nBu yüzden onlara uymamıza gerek yok.
+181|Böyle aptalca saçmalıklar söyleme! Çocuklar \nbile öldürmenin kötü olduğunu bilir! Sağduyu bu!
+182|Hayatta kalmak için bile mi...?
+183|Laboratuvar masasındaki kobaylar gibiyiz...\nHayatta kalma yollarımız konusunda seçici olamayız.
+184|N-Ne?

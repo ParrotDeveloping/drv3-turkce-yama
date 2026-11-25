@@ -1,0 +1,150 @@
+@ game_resident_US
+## A-KotodamaSetumei2
+31|Su Altı Kaçış Numarası için su tankında\nduran kilitli kelepçe.\n\nPaslanmaz çelikten yapıldığı için iz\nbırakmak zordu ama yine de küçük\nçizikler görülebiliyordu.\n\nUltimate Tenisçi'nin laboratuvarındaki\nduş odasından alınmış gibi\ngörünüyor.
+34|Spor salonundaki üst pencerenin\nçerçevesi. Bir şeyle kazınmış gibi\nbelirgin aşınmalar vardı.\n\nUltimate Tenisçi'nin laboratuvarının\npencere çerçevesinde de aynı belirgin\naşınmalar vardı. Pencere havuza ve\nspor salonuna bakıyordu.
+60|Kurban Ultimate Sanatçı\nAngie Yonaga.\n\nKurbanın cesedi Ultimate Sanatçı'nın\naraştırma laboratuvarında bulundu.\n\nÖlüm saati yaklaşık\n02:00.\n\nKurban gövdesine aldığı ölümcül\nbir bıçak yarasıyla öldürüldü. \nAyrıca alnında yırtık\nyaralar var.\n\nİkinci kurban Ultimate Aikido\nUstası Tenko Chabashira.\n\nKurbanın cesedi dördüncü kattaki\nboş bir odada bulundu.\nTahmini ölüm saati\n11:00.\n\nKurban ensesinden bıçaklanarak\nöldü. Başka yara tespit\nedilmedi.
+64|Asılı Kaede kuklasına\nsaplanmıştı.\n\nKatana çok eski olduğu için sapındaki\naltın varak kolayca dökülüyor.\nUcunda kan vardı.\n\nUltimate Antropolog'un laboratuvarından\nalınmıştı, bu yüzden vitrinde sadece\nkını kalmıştı.\nLaboratuvara herkes girebilirdi.
+73|Tenko'nun hemen altındaki gevşek\ndöşeme tahtası.\nSeanstan önce gevşek değildi.\n\nDöşeme tahtasının alt kısmında\nkurumuş kan vardı.
+103|Şapel ile Sanal Dünya'nın bittiği duvar\narasındaki karda donmuş ve yere\nyığılmış halde bulundu.\nKullanıcı çıkış yapınca avatarı\nkaybolur, ama kullanıcının gerçek\nvücudu ölürse avatar Sanal Dünya'da\nkalır.\n\nAvatarlar yaralanamadığı için\nMiu'nun hayattaki halinden hiçbir\nfarkı yok gibi görünüyor.\n\nÖlüm oyunu simülatöründeki her şeye\niki kategoriden biri atanır—"insan"\nya da "nesne." Çoğu avatar "insan"\nolarak ayarlıdır. Ancak "nesne"\nolarak ayarlanan tek avatar\nMiu'nunkiydi.
+127|Ultimate Suikastçı'nın araştırma \nlaboratuvarından sökülmüş bir arbalet.\n\nBüyük siyah bir çantada saklanıyordu.\nKurması karmaşıktı ve nasıl yapılacağı\nöğretilmemiş biri için zor olurdu.
+168|Annekuma'ya göre beyin\nkütüphanedeki gizli odaya\nsık sık gidiyor.\n\nAyrıca Hatıra Işıkları yapılan sınıf\nkapısı açılınca eski haline\ndönüyor.\n\nOnu çalıştıran kişi kimseye\ngörünmemeye dikkat ediyormuş\ngibi görünüyor.
+194|Makoto, Monokuma herkesi spor \nsalonuna çağırdığından beri \ngörülmemişti.\n\nSoruşturmanın ortasında yeniden\nortaya çıktı. Söylediğine göre\nbaştan beri akademiyi\ngeziyormuş.
+397|Makoto, Monokuma herkesi spor \nsalonuna çağırdığından beri \ngörülmemişti.\n\nSoruşturmanın ortasında yeniden\nortaya çıktı. Söylediğine göre\nbaştan beri akademiyi\ngeziyormuş.
+## A-KotodamaUso
+0|Monoyavru Dosyası 1
+1|Hareketsiz Kitaplık
+2|Temiz Kart Okuyucu
+3|Kaede'deki Alıcı
+4|Tek Kitap
+5|Kapalı Havalandırma
+6|Kapalı Havalandırma
+7|Rantaro'nun Kart Anahtarı
+8|Temiz Gülle
+9|Maki'nin Yalanı
+10|Sabit Sürgülü Kapı
+11|Kiyo'nun Yalanı
+12|K1-B0'ın Yalanı
+13|Ön Giriş Sahteleri
+14|Arka Giriş Sahteleri
+15|Gizli Kapı Sahteleri
+16|Uyarı Videosu Müziği
+17|Normal Sınıf
+30|Monoyavru Dosyası 2
+31|Kusursuz Kelepçe
+32|Yuvarlak Cam Levha
+33|Serbest Piranalar
+34|Temiz Pencere Çerçevesi
+35|Boş Tank
+36|Gonta'nın Yalanı
+37|Böcek Kaçışı ve Yalvarışı
+38|Kuru Merdiven
+39|Kısa Zayıf Halat
+40|Boş Havuz
+41|Beyaz Kumaş Parçası
+42|Yalnız Olmayan Maki
+43|Ryoma'yı Gözden Kaçırmak
+44|Kusursuz Lavabo
+45|Raket Telleri
+46|Kokichi'nin Yalanı
+47|Sihirli Su Tankı
+48|Gece Mazeretim
+49|Gece Yüzmek
+60|Monoyavru Dosyası 3
+61|Kafanın Arkasındaki Yara
+62|Temiz Koli Bandı
+63|Normal Asılmış Kuklalar
+64|Varak Kopyası
+65|Dışarıdan Açıldı
+66|Dışarıdan Açıldı
+67|Kokichi Kilit Açamaz
+68|Kutsal Kitap
+69|Tsumugi'nin Yalanı
+70|Kafesli Köpek Köyü
+71|Tenko Anında Öldü
+72|Normal Taş
+73|Sağlam Döşeme Tahtası
+74|Sessiz Seans
+75|Böcek Kafesi
+76|Kanlı Çarşaf
+77|Kedi Heykeli
+78|Shuichi'nin Çizdiği Sihirli Çember
+79|Ortadaki Delik
+80|Kırılmış Kiriş
+81|Zeminin Altındaki Bıçak
+82|Zeminin Altındaki Islak Kan
+83|Yarasız Kokichi
+84|El Feneri Kusurları
+90|Monoyavru Dosyası 4
+91|Kaito'nun Yalanı
+92|Küçük Panzehir Şişesi
+93|Konaktaki Olaylar
+94|Tsumugi'nin Yalanı
+95|Hafif Ses
+96|Yaşayan Miu
+97|Umut Restorasyon Simülatörü
+98|Giriş/Çıkış Sahtesi
+99|Sahte Konak Haritası
+100|Sahte Dünya Haritası
+101|Kâğıt Mendil
+102|Tabela Olarak Kullanılan Tabela
+103|Miu'nun Gerçek Vücudu
+104|Oyuncak Çekiç
+105|Ankesörlü Telefon
+106|Konağın Yanındaki Kafes
+107|Miu Kokichi'yle Buluşmadı
+108|Kokichi Salonda Değildi
+109|Miu'nun Kaldırdığı Duvar
+110|Kokichi'nin Normal Avatarı
+111|Avatar Hatası Yok
+112|Cihaz Engelleri
+120|Monoyavru Dosyası 5
+121|Bozuk Pres
+122|Tehlike Fonksiyonu
+123|Kokichi'nin Üniforması
+124|Bozulmamış Kan Lekesi
+125|Kilitsiz Kapak
+126|Tertemiz Banyo
+127|Bilinmeyen Arbalet
+128|3 Parçalı Ok
+129|Küçük Beyaz Çanta
+130|Büyük Dolu Şişe
+131|Büyük Banyo Penceresi
+133|Hangarın Arka Kepengi
+134|K1-B0'ın Yalanı
+135|Şarjlı Elektroçekiç
+136|Exisal'ları Koruyan Monokuma
+137|Panzehir
+138|Kaito'nun Kıyafetleri
+139|Görülen Kokichi
+140|Hayatta Kalma Videosu
+150|Ultimate Akademisi'nin Tarihi
+151|Hope's Peak Önsözü
+152|Shuichi'nin Motif Videosu
+153|Ölüm Oyunu Yalanı
+154|Tek Gizemli Mesaj
+155|Rantaro'nun Video Vasiyeti
+156|Gofer Projesi Ret Listesi
+157|Böcek Topu
+158|Babakuma
+159|Anahtarsız Gizli Kapı
+160|Annekuma'nın Yalanı
+161|Kurban Ayrıcalığı Monopad'i
+162|Kanlı Gülle
+163|Karartma Işığı Ayarları
+164|Normal Oda Geçidi
+165|Annekuma'nın Parmak İzi Sistemi
+166|Rantaro'nun Cesedinin Fotoğrafı
+167|Yedinci Monoyavru
+168|Kurbana Dair İpucu
+169|Umutsuzluk
+170|Hayatlarımızı Kullanma
+171|Oyunu Durdur
+190|Monoyavru Dosyası
+191|Şüpheli Kılıç Sapı
+192|Boğuşma İzi Yok
+193|Uzun Siyah Saç
+194|Makoto Kayıp Değildi
+195|Tenko'nun Yalanı
+196|Kesme Tahtası
+198|Reddet
+199|Onayla

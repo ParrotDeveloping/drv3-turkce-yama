@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "You know I'm busy preparing for the\nritual, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I'll call for you when I'm done so we can do\nthe ritual. Just wait until then.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Spend time together",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Never mind",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>What would you like to do with Angie?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Spend time with Angie Yonaga Event 5",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>I spent some time with Angie...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Angie and I grew a little closer today.",
+  "tr": ""
+ }
+]

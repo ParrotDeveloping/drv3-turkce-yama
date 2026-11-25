@@ -1,0 +1,47 @@
+@ chap1_text_US
+## c01_100_019
+280|Drom olsaydı vahşi canavar sürüsüne\nliderlik ederdi!
+281|Anlamadım.
+282|Bunu yapmaya ne zaman vaktin oldu...?
+283|İstediğiniz kameraları yaptıktan sonra canım\nsıkıldı, ben de bu uzaktan kumandalı uçağı değiştirdim.
+284|Üstüne bir de kamera taktım, böylece kusursuz\nhavadan fotoğraflar çekecek!
+285|Oradan fotoğrafları referans alıp soruşturmaya\nyardım edecek bir kat planı çizeceğim!
+286|Böylece gerçek soruşturma işlerinden\nyırtıyorum! Bvah-hahaha!
+287|<CLT=cltMIND>Fotoğraflarla...kat planı çizmek mi?
+288|Bu inanılmaz...\nEminim soruşturmaya yardımı dokunur.
+289|Tek sorun, dron kullanmaya ve onunla\nfotoğraf çekmeye alışkın değilim!
+290|Bununla gurur duymamalısın...ve acele\netmezsen soruşturma yakında bitecek!
+291|Bu konuda bir bok yapamam! O yüzden küçük\nmemelerini sakinleştir ve kes sesini!!
+292|S-Sen kes sesini! Benim göğsüm senin\niğrenç inek memelerinden çok daha iyi!
+293|Hiiiii!!!
+294|İ-İnek memesi...! İnek memesi mi...!?
+295|Biri sana karşı çıkınca biraz pısırıklaşıyorsun,\nha? Aslında tam bir korkaksın.
+296|Benimle konuşma, çirkin sürtük!\nSoruşturmayı bölmeyi kes!
+297|Ha!? Kahretsin, kare yine bulanık çıktı!\nLanet suratın lensi bulandırıyor, kaltak!
+299|<CLT=cltMIND>Kat planı soruşturmaya yarayabilir...
+300|<CLT=cltMIND>Ama sınıf duruşmasına kadar bitmeyebilir...\nSanırım fazla bir şey beklemeyeceğim.
+301|<CLT=cltMIND>Bir şeyi kaçırıyormuşum gibi hissediyorum...\nBiraz daha araştırmalıyım.
+306|<CLT=cltMIND>Ölüm oyununu başlatma süresi neredeyse\ndolmuştu...
+307|<CLT=cltMIND>Ama sonra geri sayım durdu, o sinir\nbozucu ses de kesildi.
+308|<CLT=cltMIND>Süre dolsaydı ne olurdu acaba...
+309|<CLT=cltMIND>Kitaplığa tonla kitap tıkıştırılmış,\nüstünde de çeşitli yığınlar halinde dizilmiş.
+310|Kameraları kurduğumuzdan beri hiçbir şey\ndeğişmemiş gibi görünüyor...
+311|Senin yığdığın kitaplar\noynamamış.
+312|Ah, insanlar havalandırmadan geçmesin diye\nyığdıklarımı diyorsun.
+313|Evet...onlara dokunulmamış.
+314|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Üst Üste Kitaplar<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+315|<CLT=cltMIND>Kitaplıklarda tıka basa bir sürü kitap\nvar.
+316|<CLT=cltMIND>Havalandırmanın önüne dizdiğim kitaplara\ndokunulmamış gibi görünüyor.
+317|<CLT=cltMIND>Kitaplıkların üstündeki kitapları düzenlemek\niçin kullandığım tekerlekli merdiven.
+318|<CLT=cltMIND>Burada olağan dışı bir şey yok...
+319|<CLT=cltMIND>Havalandırma açık... Izgarayı çıkarıp kanalın\niçine bırakan bendim.
+320|Ve bu havalandırmanın çıktığı sınıfta\nbiz gözcülük yapıyorduk.
+321|Suçlunun oradan girip çıktığını\nsanmıyorum.
+322|Evet, doğru.
+323|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kütüphane Havalandırması<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümüne eklendi.
+324|<CLT=cltMIND>Havalandırma, daha önce ızgarayı çıkardığımda\nbıraktığım gibi duruyor.
+325|<CLT=cltMIND>Shuichi'yle ben bu havalandırmaya bağlanan\nsınıfta gözcülük yapıyorduk...
+326|<CLT=cltMIND>Kimsenin buradan geçebileceğini sanmıyorum.
+327|<CLT=cltMIND>Hareketli kitaplık şu an kapalı,\no yüzden gizli kapı şu an görünmüyor.
+328|Bu kitaplığın üstüne bir güvenlik \nsensörü kurmuştunuz, değil mi?
+329|E-Evet, hâlâ orada olmalı...\nBakayım.

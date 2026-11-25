@@ -1,0 +1,387 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Miu and Kokichi were supposed to meet on\nthis very rooftop...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>And the person in charge of searching this\narea, Kaito, was forcibly logged out.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "This area *must* have something\nto do with the case.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Keebo, did you find anything?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Hmm... This is difficult. There's nothing here\nthat seems to resemble a clue.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "But Miu should have arranged to meet with\nKokichi here.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "I thought we could at least confirm whether\nor not she really came to the rooftop...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "But unfortunately there are no clues which\nindicate that...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Did Miu ever come to the roof...?\nThat *is* an important question.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Hey, Keebo.\nI wanted your opinion on something...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Do you think you could get up and down\nfrom this roof from outside the mansion?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "No, that would have been very difficult.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "This rooftop is rather high.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "Even the edge of the roof is roughly the height\nof a three to four-story building.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Yes...certainly too high to jump.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Which means, it would have been impossible\nto climb up from the outside.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>That means that the only way to this\nrooftop is the stairs...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "But Miu should have arranged to meet with\nKokichi here.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "I thought we could at least confirm whether\nor not she really came to the rooftop...",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "But unfortunately there are no clues which\nindicate that...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Hrm...",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "What's wrong, Himiko?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "When murders happen in a mansion\nin the snow like this...",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "They're always locked room mysteries created\nby piled up snow! Isn't that right!?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "But it's disappointing that you can't leave \nfootprints on the snow in this world.",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "<CLT=cltMIND>Is that something to be disappointed about...?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "It's disappointing that you can't leave \nfootprints on the snow in this world.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Umm...I see...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "What's wrong, Tsumugi?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Ah...look at that doorknob. It's locked.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Ah, it is...\nIt's a thumbturn lock.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Easy to lock.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "It seems like you can't lock it unless \nyou're on the outside.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "And, look. The keyhole is on this side\nof the door...",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Isn't it usually the other way around?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Not necessarily, I've seen this before.\nTo prevent you from locking yourself out.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Hmm... Is that so...?",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>This rooftop has a lock on the door...\nThat is important information.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "This door is locked.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "But you can only lock it from the outside...",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>It might not be directly connected to\nthe case, but I should inspect these binoculars.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "<CLT=cltMIND>I can see that this building is\non top of a hill...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>And I can't see past this point\nbecause it's the map loading point.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>But...that is strange...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "<CLT=cltMIND>Why would the map loading point\nbe right in the middle of the world?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Something...doesn't seem right.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "<CLT=cltMIND>I can see that this building is\non top of a hill...",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "<CLT=cltMIND>And I can't see past this point\nbecause it's the map loading point.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>But...that is strange...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "<CLT=cltMIND>Why would the map loading point\nbe right in the middle of the world?",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "Something...doesn't seem right.",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>I've investigated everything I need to.\nI should head back to the real world.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>There are still places I need\nto investigate...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "<CLT=cltMIND>I've investigated everything I need to.\nI should head back to the real world.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "<CLT=cltMIND>I've inspected everything here.\nAll that's left now is...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Oh, there you are... I was looking for you.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Maki? Why are you here?\nI thought you were analyzing the program—",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Monotaro finished analyzing the program, so\nhe told me to gather everyone.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "He finished?",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "We should probably head back, then. Our \ninvestigation here is pretty much done, right?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Yeah, you're right.\nI've investigated everything I needed to.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Well then, we'll head back first.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "*sob* I don't wanna!\nI don't wanna say goodbye to my avatar!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "D-Did you like it that much?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "We should go to.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "...What's wrong?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Well, you're definitely more reliable *in* a\nclass trial than out...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "All the others think so, too...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "I'm not trying to sound like Kaito but...I don't\nthink you should carry all the burden alone.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "You're <CLT=cltSTRONG>Shuichi Saihara<CLT=cltNORMAL> before you're a\ndetective. Don't ever forget that.",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Well, I shouldn't be talking. I threw away my\nidentity as <CLT=cltSTRONG>Maki Harukawa<CLT=cltNORMAL> to be an assassin...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "...Thank you, Maki.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>Was she being...considerate just now?",
+  "tr": ""
+ }
+]

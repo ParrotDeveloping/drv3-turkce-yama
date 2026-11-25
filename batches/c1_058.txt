@@ -1,0 +1,53 @@
+@ chap1_text_US
+## c01_100_020
+130|Suçlunun kim olduğunu bulamazsak\nkesinlikle yok edileceğiz.
+131|Y-Yok edilmek istemiyorum!\nEn azından kızların yaşamasına izin verilmeli!
+133|Nyeeeh... Ben sadece büyü yapabilen tatlı, \nnormal bir kızım, biliyor musun?
+134|Kendine <CLT=cltSTRONG>tatlı<CLT=cltNORMAL> diyecek son kişi\nsensin!
+135|Endişelenmeyin. Bunu bir polisiye diziden ya da\ndedektif mangasından bir sahne gibi düşünün.
+136|Değil mi, Shuichi?
+137|D-Doğru...
+138|Başım dertte... Hiç polisiye dizi izlemedim\nya da dedektif mangası okumadım!
+139|Şey...bu kadar düşünmeye gerek yok.\nSadece cesetle sohbet etmemiz yeterli...
+140|Ceset sadece ölmüş bir insan değildir.\nBu sadece yaşayanların bir varsayımıdır.
+141|Evet! Cesetle yüz yüze gelerek\npek çok şey öğreneceksiniz!
+142|Neden heyecanlanıyorsun!?\nCesetlerden hoşlanmıyorsun, değil mi!?
+143|Ama...doğru mu? Suçlu gerçekten aramızdan biri mi?
+144|...İhtimal on beşte bir. Bulması zor\nolmamalı.
+145|Burada mesele o değil!
+146|K-Kim lan bu suçlu, ha!?\nSen misin!? Yoksa belki sensin!
+147|İğne iğne, ucu düğme...\nKatil kim? Bunu sadece Atua bilir...
+148|Öyle seçemezsin!
+149|Ah-haha, herkes en paranoyak kim diye\nyarışıyor. Evet, bu hiç sıkıcı değil.
+150|Durun... Durun, kesin! Bunu yapamayız!\nBirbirimizi suçlayıp duramayız!
+151|Şimdilik...birbirimize güvenip ciddi bir\nsoruşturma başlatmalıyız.
+153|Bu yüzden hepimiz birbirimize güveni kaybedersek...\nher şey biter!
+154|Birbirimize inanıp bu davayı\nsoruşturmalıyız.
+155|Soruşturmak birbirimize güvenmemekle\naynı şey.
+156|Hayır, bu Monokuma'nın yapmamızı istediği\nşeyden tamamen farklı.
+157|O birbirimizi suçlamamızı ve birbirimize\nolan bütün güvenimizi kaybetmemizi istiyor...
+158|Ve biz...onun istediğini almasına izin veremeyiz.
+159|Bu cinayeti soruşturmalıyız. Birbirimize\ngüvenmediğimiz için değil, *güvendiğimiz* için.
+161|Ah...yanlış bir şey mi...söyledim?
+162|Sadece çok...doğrudan ve kendinden emindin.
+163|Ah, hayır, ben sadece...aklımdan geçeni söyledim...
+164|Gerçekten bir dedektifsin! Soruşturma yapmamız\ngerekince süper güvenilir oluyorsun!
+165|Shuichi'ye katılıyorum. Aslında tam benim\nsöyleyeceğim şeyi söyledi!
+166|Erkekler başkalarına kolayca ihanet eden yoz\nyaratıklardır ama bu sefer sana güveneceğim...
+167|Erkeklerin tek iyi yanı onları kızların\ndoğurması!
+168|Gonta zeki değil. Gonta'nın çok yardımı olur mu\nbilmiyor. Ama Gonta herkes için elinden geleni yapacak!
+169|Atua'nın rehberliğinde çok çalışacağım.\nZaten hayatta olmak ölü olmaktan çok daha güzel.
+170|Acemi müfettişler olarak mantık, paranoyaya\nkapılmak yerine birlikte çalışmamızı gerektirir.
+171|Herkesin arzusu buysa...bu göreve\nbütün gücümü vereceğim.
+172|Bana bırakabilirsiniz!\nSuçluyu hemen bulacağım!
+174|<CLT=cltMIND>Oh be, sevindim.\nHenüz kimse pes etmedi.
+175|<CLT=cltMIND>Evet...tabii ki etmediler.
+176|<CLT=cltMIND>Olmuş olanı değiştiremem.\nTek yapabileceğim yapılması gerekeni yapmak.
+177|<CLT=cltMIND>Yoksa...Rantaro boşuna ölmüş olur.
+178|<CLT=cltMIND>Yapmak zorundayım. Pes etmeyeceğim.
+179|<CLT=cltMIND>Hepimiz buradan kaçacağız!\nBundan emin olacağım!
+180|Pekala, başlayalım.
+181|Bunu yapmalıyız. Zavallı Rantaro'nun içinde \nukde kalmasın...ve hayatta kalabilelim diye.
+182|Evet... Rantaro'yu öldüren suçluyu bulalım.
+183|Haklısın! Hadi yapalım!
+184|<CLT=cltMIND>Teşekkürler, Shuichi...

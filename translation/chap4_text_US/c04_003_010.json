@@ -1,0 +1,602 @@
+[
+ {
+  "id": 0,
+  "en": "Alright, looks like everyone's here.\nLet's get started.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Oh, what about Kokichi?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Forget about him!\nIt's his fault for messing around like that!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "I guess...he must be a real pro at\nhide-and-seek.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "I magically looked all over the school,\nbut he was nowhere to be found.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "M-Magically?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "No one can find him, huh?",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "He might've used the <CLT=cltSTRONG>motive's card key<CLT=cltNORMAL>\nto enter a place we're unaware of.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Do you think that's where the real <CLT=cltSTRONG>motive<CLT=cltNORMAL>\nis being kept? Either way, it's worrisome.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Heh, next time I see him, I just gotta\ncatch him and ask.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Anyway, let's try out this <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "But...I'm still uneasy about these <CLT=cltSTRONG>Flashback \nLights<CLT=cltNORMAL>... Are they really okay to use?",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Well, if we don't use them, our memories\nwill never come back, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "So we've got no choice but to use it! The \nmemory we'll get from this is our only clue!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "I agree with fish dicks over here!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Who are you calling a chunk of breaded fish!?",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Ah-haha, for someone who looks like canned\ntuna, you make some pretty good comebacks.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Who are you calling a wad of shredded fish!?",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Wait...Kokichi!?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I knew you'd find us here...but only because\nit's you.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Thanks for the compliment! So, why are all\nmy merry friends gathered here?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "First things first...\nWhat did you do with that <CLT=cltSTRONG>card key<CLT=cltNORMAL>?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Ooh, so you're worried about that.\nWell, relax.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Unfortunately, I couldn't use the card key.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "You couldn't use it?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Yeah, I had no idea where to use it, so\nI just gave up instead.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "You don't seem too disappointed about\nnot being able to use it.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "I *am* disappointed, dammit!\nI wanted to use the card key!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "I smell another fuckin' lie!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Whatever... Talking to him's a waste of time.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "We've got more important things to do.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Oh hey, the <CLT=cltSTRONG>Flashback Light<CLT=cltNORMAL>.\nLemme see that.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Kaito doesn't have the balls to turn on\nthe switch—",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Of course I do!!!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>Egged on by Kokichi, Kaito\nthumbed the switch hard.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "<CLT=cltMIND>And once again,\nthe world warped—",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>The scenes that flew by inside\nmy consciousness...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>And what it all means...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>All at once, I...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "<CLT=cltMIND>I remembered.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Ah! The meteorites!",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "What happened with the meteorites!?",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "I remember...TV news and the Internet\ntalkin' non-stop about those meteorites!",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "There was a bunch of damage where I lived...\nPeople said it was only a matter of time...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "A researcher said that, too. Similar meteorite\nimpacts happened millions of years ago...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "All living organisms on Earth were\nannihilated...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "There were also a bunch of weird groups \nthat started to show up in the streets.",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "As the meteorites got worse, more people \nstarted saying it was the end of the world...",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Gonta hear that, too! Unless someone\ndoes something, world will end!",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Th-Those people were...always handing \nout flyers on street corners...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "I saw flyers all over the city, too.\nThey said, \"<CLT=cltSTRONG>Mankind deserves damnation<CLT=cltNORMAL>.\"",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltMIND>Mankind deserves damnation...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>I remember seeing those\nposters, but...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "And...the meteorites! What ended up \nhappening with the meteorites!?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "We haven't seen any since we got here.\nMaybe they died down...",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Then what happened to that plan? The one \nto save the world from the meteorites?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Oh right...I just remembered that...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "It was called the <CLT=cltSTRONG>Gofer Project<CLT=cltNORMAL>, right?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "It was the plan that all the countries of the\nworld came up with to save humanity...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I remember that, too...\nBut the <CLT=cltSTRONG>Gofer Project<CLT=cltNORMAL>...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Didn't it fail?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Huh? Is that true?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "That's what I heard too, but I can't\nremember why.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "S-So...we can't remember anything \npast that again.",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "I can't either...\nI don't remember anything about the Gofer—",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Heh...hehehehe...\nMankind deserves damnation...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Miu...?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Heh...hehehehe...\nMankind deserves damnation... Fuck that!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "We're already damned here!",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Being stuck here with you losers is the\nworst hell there is!",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "The \"you losers\" part...wasn't necessary.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Sh-Shut up! I'm tired of this!\nLet us outta here! Let us out!",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "C'mon, don't leave us in here!\nPull us out!",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "She seems really upset!",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Miu, calm down! It's okay!\nGonta will protect you!",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "<CLT=cltMIND>In the end, the <CLT=cltSTRONG>Flashback Light<CLT=cltMIND> didn't help.\nIt didn't connect to the other memories.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "<CLT=cltMIND>The <CLT=cltSTRONG>Ultimate Hunt<CLT=cltMIND> that was\nafter us...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "<CLT=cltMIND>The joint funeral...",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>The meteorites, the cult organization,\nthe Gofer Project...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>How are they all connected...?\nHow do they relate to the Ultimate Academy...?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "<CLT=cltMIND>And what happened with all those\nmeteorites? Did they just stop?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "It'll be okay, Shuichi.\nJust a little more...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "We probably need one more...",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Everything will start to connect after we\nremember one more thing...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>One more thing?\nWhat is Kokichi—",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "But I don't think I'd be surprised by the\noutcome of this situation.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "Like...if we were actually all dead,\nand this was the afterlife.",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "The afterlife?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "Wh-Why you... \nQuit saying stupid crap like that!",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "It's not stupid. If meteorites can happen,\nthen anything else can happen, too.",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "C'mon, you're an astronaut, aren't ya? Space\nis full of mysteries that we can't even fathom.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "That's why, if the meteorites really did fall on\nus, anything could've happened.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "A mysterious virus could've spread, or some\nweird technology...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Or even an <CLT=cltSTRONG>unknown substance<CLT=cltNORMAL> brought to Earth\nthat could've bent time and space—",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "That's like science fiction!\nI thought our theme was magic!",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "That's just your theme, Himiko...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Tch, that's just stupid! It's like the setting \nfor some third-rate anime or game!",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Do you think I'm making this up?",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "But then how would you explain the <CLT=cltSTRONG>Flashback\nLights<CLT=cltNORMAL>, Exisals, and even Monokuma?",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "We may be used to it *now*, but that kind of\nstuff goes against common sense, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Which means...it wouldn't be too farfetched if\nany of the things I mentioned actually happened.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Shut up! First off, I'm the only one here\nwho gets to talk about space!",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "Oh, you're right. Sorry, my bad.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "Ughhhh... Wh-Whatever... Just hurry up\nso I can get out of here...",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "S-Stop... You shouldn't think like that...\nAbout getting out of here...",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Everyone seems...very tired. We should\nprobably disperse for the time being.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Oh! You've finally learned to read the air!\nNice job, robot!",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "I'm...learning every day.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Oh, before we go, Gonta put manhole cover\nback how it was.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "If we wanna challenge underground again,\nthis time Gonta definitely—",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Ah-haha, no one's dumb enough to challenge\nthat dump again!",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Don't look down on hard work!",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "Himiko, you've really changed...",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "...Is what I'd like to say, but working hard \nat escaping from there is pointless.",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Well...no matter how much you've changed,\nof course you'd think that...",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "<CLT=cltMIND>We can't keep going like this...\nWe need to find a way out.",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "<CLT=cltMIND>I need to solve all of\nthese mysteries.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "<CLT=cltMIND>After our conversation,\nwe returned to our rooms.",
+  "tr": ""
+ }
+]

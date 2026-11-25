@@ -1,0 +1,877 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>I ran a full sprint to the warehouse.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Ah, wait, Kaede!\nYou shouldn't get so worked up!",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I can't help it! We're so close to learning\nthe truth!",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "We're gonna find out who the mastermind is!",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Oooh, you came.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Sure did. I came to see you, toots.\nDehehe... You're as lovely as always.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Oh Monosuke, you're such a flirt.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "...Ah, may I join you for a drink?",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Drink as much as you want.\nI've got cash to burn.",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Hehe, thank youuu.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Excuuuuse me! Can we get a bottle here!?",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Hahahahaha! This is great!",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Hey, how long are you guys gonna\ndo this for?",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "T-Take these...!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "It's...all the photos. They're...separated in\nenvelopes for each camera.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Use them...to take that bastard down!\nI-It's all up to...you...now...!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...*dead*",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "...Pfft, I'm so rich. What's a journalist gonna\ndo about it? Nothin', that's what.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "By the way, Monophanie...wanna get outta\nhere after your shift ends?",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "Teeheehee...I wanna fancy steak dinner.",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "What's your name and age? Home district?\nSalary? Do you have another job?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "A-Anyway...it looks like we have the pictures\nnow.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Yeah, finally...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "...Kaede! Are those the developed photos!?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "The culprit should be in those \nphotos, right?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Nee-heehee... How exciting. I wanna see\nthe dumb look on the culprit's face.",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "Alright! Let's take a look!",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Let's look at the photos taken by the camera\nnear the front entrance first.",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "<CLT=cltMIND>The envelope that says \"Front Entrance\" has\na total of four pictures.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>Let's see the first picture...",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "This is...when we arrived at the library.\nSo it took a picture then...",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "Yeah, this was right before we found \nRantaro's body.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "That's a pretty bad picture of me...but don't\nfocus on it too much, okay?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "Rest assured, we do not care.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Alright, let's go to the next one.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "Um... This is...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "It's a picture of us running into the library\nafter we heard Tenko scream.",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "That doesn't help us at all. Hurry up and\nshow us the next picture.",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Y-Yeah, okay.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "This is everyone else who came to the library\nafter the body discovery announcement.",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Everyone pictured here, myself included,\nwas on our way to the basement...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "So we got there a bit late.",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "Hey! These are all pictures of when \nwe found the body!",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "There is one more photo of the front\nentrance, correct?",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Yeah, let's take a look at that one.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Huh? Shuichi?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Ah, sorry...it looks like I tripped one of the\nsensors when I was removing the cameras.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Kh! What are you saying!?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Umm...this picture doesn't seem to have\nany clues that will help us either...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "The camera pointed at the front entrance\nonly snapped these four pictures...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Front Entrance Photos<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "Neither Rantaro nor anyone else who could be\nthe culprit are in the photos...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Did they both enter through the back door, \nthen?",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Let's examine the photos taken by the\ncamera near the rear entrance, then.",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Hm... Only two photos were taken by the\ncamera pointed at the rear entrance.",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Um, let's see the first picture...",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Rantaro!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "So Rantaro went in through the rear entrance.\nPerhaps so no one would see him...",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "I thought it might be possible that he was\nmoved to the library after being murdered...",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "But that does not appear to be the case.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "So that means he was killed in the library \nafter going there of his own will...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "A-Anyway, let's move on to the next one!\nMaybe it'll show the mastermind!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Huh!?",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Ah...sorry...me again. This is from when I\nwas removing the camera...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "Nyeeeh... What an attention hog!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "He had no choice... To remove the cameras,\nhe had to be close to the sensors.",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "That's all for the rear entrance.\nJust these two photos.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Rear Entrance Photos<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Huh? Culprit not in rear entrance photo\neither?",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Wh-What does this mean? They're not in\neither the front or rear entrance pictures...",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "Yeah, that's pretty odd. Why isn't there a\npicture of the mastermind entering?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Hey, Shuichi. Don't you think that's weird?",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Let's look at the pictures from the hidden\ndoor camera. That might tell us something...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "O-Oh, yeah...",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "That camera should've captured the moment\nthe mastermind opened the door.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "<CLT=cltMIND>I hoped that was the case as I removed\nthe photos from the envelope.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "<CLT=cltMIND>There were two photos.\nThe first one was...",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "Oh! Rantaro!?",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "But...if Rantaro was the one who\nmoved the bookcase, then...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "He must've known about the hidden door.",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Could the culprit have gone into \nthe hidden door?",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Yes, that is a possibility.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "For now, let us see the next picture.\nThere is one remaining, isn't there?",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "Y-Yeah, here it is.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "What!?",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "Huh? What's Rantaro doing?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "It looks like he's reaching for the camera.\nMaybe he was trying to remove it.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "Ah, I did notice something while I was\nremoving the camera...",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "The security sensor for this camera\nwas switched off.",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "In that case, this photo was likely taken\njust before the sensor was turned off.",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "But that would mean that Rantaro noticed it...\nHe saw...our hidden camera...",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "Moving the bookcase triggers the sensor,\nwhich in turn activates the camera, right?",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "The bookcase appears to have already been\nmoved, so why did the sensor activate...?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Who cares!? What happened to the culprit!?",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "How come they're not in any of the photos!?",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "This last photo must have been taken shortly\nbefore Rantaro was killed...",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "If so, then the culprit should be pictured \nright behind him in this photo.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "Then why is the culprit nowhere to be seen?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "<CLT=cltSYSTEM>\"<CLT=cltSTRONG>Hidden Door Photos<CLT=cltSYSTEM>\" has been added to the\nTruth Bullets section of your Monopad.",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "That's all the photos...",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "So we gained no new clues...and we still don't\nknow who the culprit is.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Hah-haha! What a fuckin' waste!",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "Did she really develop all the photos? Maybe she\ngot rid of the ones that showed the culprit?",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "Hmph! How rude. I developed all the film\nthat I was given.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "I swear by my almighty Daddy that I did.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "Those are all the photos from the hidden\ncameras, so relax and get to deducing.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "These are seriously all the pictures? You gotta \nbe kidding me! The culprit's not in any of em!",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "If the culprit didn't go to the library,\nthen how'd they kill Rantaro!?",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "Nyeeeh... So this must be what they \ncall a perfect crime.",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "A perfect crime!?",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "Aw maaan, I've only been slacking off cuz I\nthought those photos would reveal the culprit!",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "You should've been helping us investigate!",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "Oh, by the way...",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "Rantaro had his Monopad the whole time, didn't\nhe? Do you think anything was in it?",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "His student handbook did not contain much\nin the way of pertinent information...",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "I doubt it has anything to do with the case.\nHe simply had his Monopad with him.",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "I inspected his Monopad, but I didn't\nfind anything suspicious about it.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Aw man, so it's got nothing to do with the case.\nHow confusing.",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "...Kaede, are you okay?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Why...? Why aren't they in the pictures?",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "If the mastermind had these photos, it would\nhave solved everything...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "So...why the hell—!?",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "K-Kaede!",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "Alright! It's time for what you've all been\nwaiting for—the class trial!",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Please assemble in front of the <CLT=cltSTRONG>Shrine\nof Judgment<CLT=cltNORMAL> in the courtyard!",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "Remember that red door surrounded by\nplants? It's just on the other side.",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "From there, you'll be escorted to a\ndelightful class trial!",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "Puhuhuhu! See you all there!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "T-Time already...!?",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "It seems we have no choice but to continue\nthis discussion at the class trial.",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "*sigh* I don't want to go...",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Me neither... What a pain...",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Hah-haha! What, ya scared!? An NPC like\nyou has nothin' to be scared of!",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "I-It'll be fine... I just...feel like my back is up\nagainst the wall.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "We just need to expose the mastermind\nin this class trial!",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "And then everything, including this killing\ngame...will come to an end.",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "Yes, that's right.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Let's find this mastermind! And if it's a man,\nlet's beat him to death!",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Isn't beating them to death going a bit far?",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "<CLT=cltMIND>Everyone followed Monokuma's instructions\nand walked toward the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Kaede, really, are you okay...?",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Sorry, I didn't mean to worry you.\nI'm just so shocked...",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "I really thought that everything would be\nresolved once we looked at the photos...",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "<CLT=cltMIND>But...I can't give up.",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "<CLT=cltMIND>I can still expose the mastermind\nin this class trial.",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "<CLT=cltMIND>And then everything, even this killing game...\nwill come to an end.",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "I'm okay now, Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "Let's go! It's the red door in the courtyard,\nright?",
+  "tr": ""
+ },
+ {
+  "id": 155,
+  "en": "Let's hurry, Shuichi! It's the red door in\nthe courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 156,
+  "en": "Yeah... Everyone's gone ahead of us,\nlet's hurry.",
+  "tr": ""
+ },
+ {
+  "id": 157,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 158,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 159,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 160,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 161,
+  "en": "<CLT=cltMIND>This monitor is displaying the paused\ncountdown for the time limit...",
+  "tr": ""
+ },
+ {
+  "id": 162,
+  "en": "<CLT=cltMIND>When the countdown stopped, all that obnoxious\nnoise stopped, too.",
+  "tr": ""
+ },
+ {
+  "id": 163,
+  "en": "<CLT=cltMIND>I wonder what would've happened if the\ntime limit had expired...",
+  "tr": ""
+ },
+ {
+  "id": 164,
+  "en": "<CLT=cltMIND>This shot put ball is pretty heavy.",
+  "tr": ""
+ },
+ {
+  "id": 165,
+  "en": "<CLT=cltMIND>The athletes who have to hurl these things\nare pretty impressive...",
+  "tr": ""
+ },
+ {
+  "id": 166,
+  "en": "<CLT=cltMIND>A remote-controlled helicopter...\nWhat's this doing in a school warehouse?",
+  "tr": ""
+ },
+ {
+  "id": 167,
+  "en": "<CLT=cltMIND>It's a high-jump bar.",
+  "tr": ""
+ },
+ {
+  "id": 168,
+  "en": "<CLT=cltMIND>Not like it matters, though.\nWe have to get out of here.",
+  "tr": ""
+ },
+ {
+  "id": 169,
+  "en": "<CLT=cltMIND>A gym mat has been placed here.",
+  "tr": ""
+ },
+ {
+  "id": 170,
+  "en": "<CLT=cltMIND>Not like we'll have a chance to use it,\nthough, since we'll be out of here soon.",
+  "tr": ""
+ },
+ {
+  "id": 171,
+  "en": "<CLT=cltMIND>Track and field hurdles... I guess it's not\nweird for a school to have these.",
+  "tr": ""
+ },
+ {
+  "id": 172,
+  "en": "<CLT=cltMIND>But we won't be attending classes here.\nWe're getting out of this place!",
+  "tr": ""
+ },
+ {
+  "id": 173,
+  "en": "<CLT=cltMIND>Disposable Camera",
+  "tr": ""
+ },
+ {
+  "id": 174,
+  "en": "<CLT=cltMIND>Photographic Developer",
+  "tr": ""
+ }
+]

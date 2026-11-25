@@ -1,0 +1,107 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>I should go to the casino.\nI did promise Miu...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>Kokichi and Gonta...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>Angie and Himiko...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>And...Ryoma.\nAnd Maki, too.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>Everyone's all over the place...\nBut I shouldn't just leave them be.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>There has to be something I can do...\nYes, I'm going to do something about this!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>It's so clunky...\nI wonder if that's just what Monokuma likes.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "<CLT=cltMIND>Why all the uniforms...?\nThey could at least give me some casual clothes.",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "<CLT=cltMIND>Kaito's <CLT=cltSTRONG>motive video<CLT=cltMIND> is on here...",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "<CLT=cltMIND>We promised not to tell each other\nwho has whose <CLT=cltSTRONG>motive<CLT=cltMIND>.",
+  "tr": ""
+ }
+]

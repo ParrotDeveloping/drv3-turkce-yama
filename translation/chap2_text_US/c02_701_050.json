@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "en": "Oh, hey Shuichi!\nYou seen Kokichi anywhere?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "I saw him a while ago and tried to tell him\nsomething, but he got away again.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Should I hang out with Kaito for a while?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "You bored?\nThen come help me find Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "<CLT=cltMIND>Kaito and I spent some time\nlooking for Kokichi.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "<CLT=cltMIND>Kaito and I grew a little closer today.",
+  "tr": ""
+ }
+]

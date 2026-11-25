@@ -1,0 +1,57 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>Nighttime won't start for a while, so I guess\nI'll see what everyone else is doing.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us...\nBut there's nothing displayed right now.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "<CLT=cltMIND>I guess I'll go see what everyone else\nis doing.",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ }
+]

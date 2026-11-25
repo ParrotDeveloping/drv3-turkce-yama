@@ -1,0 +1,777 @@
+[
+ {
+  "id": 0,
+  "en": "Oh, I guess I should introduce myself.",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "My name's <CLT=cltSTRONG>Makoto<CLT=typeNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "I don't have any talents or anything.\nI'm just a regular teenager...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "This boring-looking person is me...",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "See, even the way I look is normal.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "Getting into an elite school like this \nwas just the start of my bad luck.",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "I can't keep up with my classmates' \nconversations or the teachers' lectures...",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I'm just treated like <CLT=cltSTRONG>empty space<CLT=typeNORMAL> in the\nclassroom.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "At home, my parents are constantly on my case...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Honestly...I'm fed up...",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I want to run away from my daily life...",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "I want to run away and just forget all this...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "I want to run away...and run away...and \nrun away and run away and run away.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "But I'm okay!",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "I have a reason to live!\nI've got something to look forward to!",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "That's why I'm gonna be okay!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Thanks for the courage!",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "Thanks for giving me something \nto get totally obsessed with!",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Thanks for the strength to keep going!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "I'll keep on rooting for you, so please\nkeep trying your best!",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "And—!",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "One day, I'll also—!",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "Kyaaaah!",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Wh-What happened!?",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "The school building blew up!\nWh-What happened!?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "Hey, over there!",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "<CLT=cltMIND>I turned my head to where\nMaki was pointing...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "K-Keebo!?",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "Keebo! What are you doing!?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "You're flying! Is it magic!?",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "I don't know what he's planning, but it looks\nlike he's attacking the school indiscriminately.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "We need to hurry and stop him... We'll get\ncaught up in this mess if we don't.",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "But how do we stop him?",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "We have to talk to him!\nWe can get him to come down!",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "It's dangerous, but...let's go to the courtyard\nand try to get his attention.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Y-Yeah! You're right!",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "<CLT=cltMIND>Confused by the situation unfolding in front\nof us, we ran to the center of the courtyard.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "Eeeeek! It's like a battlefield!",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "W-We need to get his attention!\nGet him to come down!",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Keeeebooooo! Come here!",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Are you trying to get us killed!?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Please, Keebo!\nCome down and talk to us!",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "<CLT=cltMIND>I shouted out to Keebo, who finally\ncame to a halt midair...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>and then slowly flew down to us.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "...Here he comes.",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Y-Yeah...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Did you call for me?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "Please keep it brief.\nI have other matters I must attend to.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "Other matters?",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "I'm going to end the killing game...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "End the killing game...?",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "To do that...I must destroy the Ultimate\nAcademy for Gifted Juveniles.",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "D-Destroy it!?",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "The killing game cannot go on if I destroy\nthis school in its entirety.",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "So that's why...you have that weapon?",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "What's with that weapon and the jet pack?",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "I obtained this equipment from my lab.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "You had equipment like that...in your lab?",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "I made some modifications to drastically\nimprove their power output and functionality.",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "Since when have you been able to do that?\nYou didn't level up or anything, right?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Did...something happen?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "Didn't...you say that you didn't\nwant to use anything from the lab?",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Th-That's right! You don't like looking sci-fi!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Yes...I wanted to be treated like a real human.\nA creature of flesh and blood like you all.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "But I no longer have the luxury of clinging\nto that wish anymore!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "My course is clear! I must destroy this\nacademy and end this killing game!",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "H-Hold on! If you do something like that...\nwe'll all die, too, y'know!?",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "There's no oxygen in the outside world...\nThere are no living things...",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "We're only able to survive because we're \n<CLT=cltSTRONG>inside this spaceship<CLT=typeNORMAL>, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "!",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "Th-That's right! Are you trying to kill us, too!?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "If my actions result in your deaths...so be it.",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "\"So be it\"?",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Monokuma told us that <CLT=cltSTRONG>despair<CLT=typeNORMAL> is our only\nchoice.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "That <CLT=cltSTRONG>hope<CLT=typeNORMAL>...does not exist here.",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "And unfortunately, he is right.",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "As long as this killing game continues, only\n<CLT=cltSTRONG>despair<CLT=typeNORMAL> awaits us.",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Wait...we still have hope.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Our hope is...everyone here.\nOur friends who are still alive.",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Y-Yeah... If we all work together, \neven this killing game will—",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "It will not stop. It will never stop.",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "And even if we did manage to stop this killing\ngame and escape, where would we go?",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "Earth is destroyed, humanity is extinct...\nWe have no home to return to.",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "Th-That...might be true, but...",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "Monokuma is right.\n<CLT=cltSTRONG>Despair<CLT=typeNORMAL> is all we have here.",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "We simply do not have the power to change\nthe <CLT=cltSTRONG>outside world<CLT=typeNORMAL> on our own.",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "All we can do now is refuse to submit\nto <CLT=cltSTRONG>despair<CLT=typeNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "And you would be willing to let all of\nus die to accomplish that?",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "That is a far better alternative than allowing\nMonokuma to continue the killing game.",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "A-Are you...serious!?",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "Kaito and Kokichi gave their lives to end\nthis killing game...",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "We should follow their example! We should be\nwilling to give our lives to end this killing game!",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "...Is that what your <CLT=cltSTRONG>inner voice<CLT=typeNORMAL> is telling\nyou to do?",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "No...I can no longer hear that voice.",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "You can't hear it anymore?",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "For some reason...my inner voice has gone\nsilent. This decision is my will, my choice.",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "I've chosen to modify myself and destroy\nthis academy.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "We can never submit to <CLT=cltSTRONG>despair<CLT=typeNORMAL>! Because\nwe are students of Hope's Peak Academy!",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "No...that's wrong.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "...Wrong?",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "Because there might still be <CLT=cltSTRONG>hope<CLT=cltNORMAL>.\nThere might still be a place to call home.",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "And what are you basing that claim on?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "...Nothing.",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "I just have a feeling.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "Just a feeling...?\nYou sound like <CLT=cltSTRONG>that idiot<CLT=typeNORMAL> right now.",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "...Kaito said so.",
+  "tr": ""
+ },
+ {
+  "id": 108,
+  "en": "It's just like Kokichi said! If this game's rules\nmatter so much, someone's watching.",
+  "tr": ""
+ },
+ {
+  "id": 109,
+  "en": "There can be no killing game\nwithout an audience.",
+  "tr": ""
+ },
+ {
+  "id": 110,
+  "en": "<CLT=cltSTRONG>Hope's Peak Academy<CLT=typeNORMAL> was the same way.\nIt was a killing game made for an audience.",
+  "tr": ""
+ },
+ {
+  "id": 111,
+  "en": "This game must be the same way.",
+  "tr": ""
+ },
+ {
+  "id": 112,
+  "en": "Someone is watching this somewhere...\nThere's someone left.",
+  "tr": ""
+ },
+ {
+  "id": 113,
+  "en": "There's still a possibility!",
+  "tr": ""
+ },
+ {
+  "id": 114,
+  "en": "True, we cannot say there is absolutely no\npossibility. But even a mere possibility—",
+  "tr": ""
+ },
+ {
+  "id": 115,
+  "en": "That possibility is our <CLT=cltSTRONG>hope<CLT=cltNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 116,
+  "en": "...What?",
+  "tr": ""
+ },
+ {
+  "id": 117,
+  "en": "We haven't investigated everything.\nThere are still a lot of mysteries in this school!",
+  "tr": ""
+ },
+ {
+  "id": 118,
+  "en": "If there are still questions to answer,\nthen we haven't found the truth.",
+  "tr": ""
+ },
+ {
+  "id": 119,
+  "en": "And that means...we can't give up!\nWe can't give up before we reach the truth!",
+  "tr": ""
+ },
+ {
+  "id": 120,
+  "en": "...Spoken like a true <CLT=cltSTRONG>Ultimate Detective<CLT=typeNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 121,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 122,
+  "en": "Very well. I shall cooperate with your attempt\nto stop this killing game your way.",
+  "tr": ""
+ },
+ {
+  "id": 123,
+  "en": "Keebo!",
+  "tr": ""
+ },
+ {
+  "id": 124,
+  "en": "But you have until dawn.\nI will not wait any longer than that.",
+  "tr": ""
+ },
+ {
+  "id": 125,
+  "en": "Until dawn?",
+  "tr": ""
+ },
+ {
+  "id": 126,
+  "en": "Though dawn here is simply an illusion\nprojected onto the dome...",
+  "tr": ""
+ },
+ {
+  "id": 127,
+  "en": "If you cannot stop the killing game by dawn...",
+  "tr": ""
+ },
+ {
+  "id": 128,
+  "en": "I will destroy the Ultimate Academy and\nend the killing game mysel—",
+  "tr": ""
+ },
+ {
+  "id": 129,
+  "en": "Puhuhu... You're gonna end what now?",
+  "tr": ""
+ },
+ {
+  "id": 130,
+  "en": "*sigh* Didn't I tell you? It's impossible\nto end the killing game.",
+  "tr": ""
+ },
+ {
+  "id": 131,
+  "en": "Cuz the killing game is forever eternal!",
+  "tr": ""
+ },
+ {
+  "id": 132,
+  "en": "H-He's back!",
+  "tr": ""
+ },
+ {
+  "id": 133,
+  "en": "Attempting to destroy this precious academy\nis more than a violation of school regulations.",
+  "tr": ""
+ },
+ {
+  "id": 134,
+  "en": "It's an act of mutiny!",
+  "tr": ""
+ },
+ {
+  "id": 135,
+  "en": "So what!? You are sorely mistaken if you\nthink I will allow this to continue!",
+  "tr": ""
+ },
+ {
+  "id": 136,
+  "en": "Huh? Is the robot malfunctioning? He must\nbe—why else would he try to defy me?",
+  "tr": ""
+ },
+ {
+  "id": 137,
+  "en": "Then let's kill him until he dies from it!\nHell yeah!",
+  "tr": ""
+ },
+ {
+  "id": 138,
+  "en": "Ripping a robot apart isn't gory at all, so\nI can go all out this time!",
+  "tr": ""
+ },
+ {
+  "id": 139,
+  "en": "Pops! Can we kill him!? Please!?",
+  "tr": ""
+ },
+ {
+  "id": 140,
+  "en": "Puhuhu... They're so brazen cuz they don't\nhave any hair downstairs.",
+  "tr": ""
+ },
+ {
+  "id": 141,
+  "en": "...Well, any last words?",
+  "tr": ""
+ },
+ {
+  "id": 142,
+  "en": "Eeeek! Th-They're all in battle mode!",
+  "tr": ""
+ },
+ {
+  "id": 143,
+  "en": "This place is dangerous. You all need to get\nout of here.",
+  "tr": ""
+ },
+ {
+  "id": 144,
+  "en": "Keebo, are you okay!?",
+  "tr": ""
+ },
+ {
+  "id": 145,
+  "en": "Shuichi... Please find this \"<CLT=cltSTRONG>truth<CLT=typeNORMAL>\" that you\nmentioned earlier while I stall them.",
+  "tr": ""
+ },
+ {
+  "id": 146,
+  "en": "It's all in your hands now!\nNow go!",
+  "tr": ""
+ },
+ {
+  "id": 147,
+  "en": "Alright!",
+  "tr": ""
+ },
+ {
+  "id": 148,
+  "en": "Never forgive rulebreakers! Anyone who\nmesses with the killing game must die!",
+  "tr": ""
+ },
+ {
+  "id": 149,
+  "en": "Exisals, assemble!",
+  "tr": ""
+ },
+ {
+  "id": 150,
+  "en": "No, I won't let you run amok anymore!\nThis killing game is over!",
+  "tr": ""
+ },
+ {
+  "id": 151,
+  "en": "In the name of Hope's Peak Academy, the\nsymbol of <CLT=cltSTRONG>hope<CLT=typeNORMAL> itself...",
+  "tr": ""
+ },
+ {
+  "id": 152,
+  "en": "I will destroy the Ultimate Academy, and\nbring down this monument to <CLT=cltSTRONG>despair<CLT=typeNORMAL>!",
+  "tr": ""
+ },
+ {
+  "id": 153,
+  "en": "<CLT=cltMIND>That's how it began.\nIn the war between Keebo and the Exisals...",
+  "tr": ""
+ },
+ {
+  "id": 154,
+  "en": "<CLT=cltMIND>the Ultimate Academy became a battlefield.",
+  "tr": ""
+ }
+]

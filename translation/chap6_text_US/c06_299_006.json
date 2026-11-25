@@ -1,0 +1,52 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "<CLT=cltMIND>I voted...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "<CLT=cltMIND>I didn't care who it was.\nI don't care what happens.",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltMIND>After all the talk, I...\nI guess I was a coward.",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "<CLT=cltMIND>But Maki and Himiko feel\nthe same way, it seems.",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>Is this really how it ends?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Retry",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "Make preparations and retry",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Quit",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Would you like to retry?",
+  "tr": ""
+ }
+]

@@ -1,0 +1,542 @@
+[
+ {
+  "id": 0,
+  "en": "Huh? What do you want now?",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "My affection level",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Monokuma's instructions",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "Nothing in particular",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltMIND>I wanted to ask Monokuma about...",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Alright! Let's take a look at your affection\nlevel, Shuichi!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "After all, the most important person you\ncan love is yourself.",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "How's anyone supposed to fall in love with\nyou if you don't love yourself...?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "Huh? You wanna hear something with a\nlittle more substance?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "Hmm... This feels like a rule violation, but...\nin your case, I'll make an exception.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Once your affection for someone is half full,\nspending time with them won't be enough.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "The honeymoon phase only lasts so long before\nyou gotta step up your love game.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "For a person like that, get a Date Ticket from\nthe casino and take them out on a date.",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "A change of scenery will let them see you in a\nnew light. Maybe even fall in love with you.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "But remember, you can't invite someone on\na date unless your affection is half full.",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "Also, if someone invites you on a date, you\nshould go—even if you're not that into them.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "It won't cost you a ticket and it won't take\ntoo long, so it's not a waste of your time.",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Anyway, do your best, Romeo! I'll be watching\nalong with the audience!",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "You're a weirdo for coming to this place.\nCan't you see there's nothing here?",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Hm? Then what am I doing here?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "Some questions in life are best left\nunanswered...",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "<CLT=cltMIND>100 casino coins were handed\nto me, laced with implication.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "Oh my, there's no reason for you to come to\nthis place...",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "*gasp!* Unless...you came to see me!?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "What do I do, what do I do...?",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Love between a human and a bear...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "But...there's no right way to fall in love...",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "BLURRRRRRRRRRRRRRRRRGH!",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "Urgh... I feel sick from overthinking...",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "<CLT=cltMIND>She gave me 5 casino coins\nas an allowance.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "Are you sure? You're wasting your time\ncoming here, you know that?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "But if you wanna see me that badly, then\nI won't stop you...",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "*gasp!* Is this about the coins!? Have you been\nusing me for my money this whole time!?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "<CLT=cltMIND>She gave me 3 casino coins\nas an allowance.",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "HELLO. THERE-IS-NOTHING-HERE...",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "TECHNICALLY, THAT-MEANS-THERE-IS-\n\"NOTHING-HERE\" HERE.",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "<CLT=cltMIND>He discreetly handed me 5 casino coins\nand left the way I came...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "DID-YOU-KNOW, DETECTIVE?",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "FATHER-ONLY-EATS-SALMON.",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "<CLT=cltMIND>He discreetly handed me 12 casino coins\nand left the way I came...",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "UP-UP-DOWN-DOWN...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "LEFT-RIGHT-LEFT-RIGHT-B-A...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "<CLT=cltMIND>He discreetly handed me 7 casino coins\nand left the way I came...",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "ITCHY...\nTASTY...",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "<CLT=cltMIND>He discreetly handed me 300 casino coins\nand left the way I came...",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Byeow! This wishy-washy, lovey-dovey bullcrap\nain't doin' anything for me!",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I bet shovin' Monodam in a scalding hot bath\nwill heat things up!",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "<CLT=cltMIND>I got 5 casino coins flung at me.",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Hell yeah! We're only doin' this lame crap cuz\nPapa Kuma's got a screw loose or somethin'!",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "But once Act 2 starts, all hell's gonna break\nloose! You can count on it!",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "First, I'll sacrifice Monodam and summon\nthe Demon Supermen!",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "<CLT=cltMIND>I got 2 casino coins flung at me.",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "Hell yeah!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "Byeow-nyeow-nyeow! My pain's a tattoo that's\nbeen etched on me for liiiiiiife!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "Byeow-nyeow-nyeow! If I say I regret it, that\nwould be such a liiiiiiiie!",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "<CLT=cltMIND>I got 4 casino coins flung at me.",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "There's no one past this point!",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "I'm the red Monokub! That means I'm a main\ncharacter, so I don't tell lies!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "...Hm?",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "But then, why do they call them \"bright red \nlies\"?",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "Are lies red? Does that mean I'm a liar?",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "You came a schlong way, just to talk to me?\nI knew you had great taste!",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "Since you got such great taste, lemme give\nyou some advice!",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "Even in a reality dating show, sometimes the\nhard-ons of life can become too much...",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "That's why it's important to relax every now\nand then!",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "Especially when life comes at you with\na hard-on! Got it?",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "Did you know girls' panties don't have\na weiner flap? Monophanie said so!",
+  "tr": ""
+ },
+ {
+  "id": 68,
+  "en": "...That's all I got.",
+  "tr": ""
+ },
+ {
+  "id": 69,
+  "en": "Nothin' to see here. Move along.",
+  "tr": ""
+ },
+ {
+  "id": 70,
+  "en": "Actually, you can't go any further. There's\ngrown-up business beyond this point.",
+  "tr": ""
+ },
+ {
+  "id": 71,
+  "en": "You know what I'm talkin' about, don'tcha?",
+  "tr": ""
+ },
+ {
+  "id": 72,
+  "en": "Wastin' your life takin' marchin' orders from\nlame-ass adults... Sounds familiar, don't it?",
+  "tr": ""
+ },
+ {
+  "id": 73,
+  "en": "But it's not too late. You can still alter the\ncourse of your life.",
+  "tr": ""
+ },
+ {
+  "id": 74,
+  "en": "Well, not now, of course. Your options are\na bit more limited at the moment.",
+  "tr": ""
+ },
+ {
+  "id": 75,
+  "en": "Didn't I tell ya there was nothin' to see here?",
+  "tr": ""
+ },
+ {
+  "id": 76,
+  "en": "Wait a minute...",
+  "tr": ""
+ },
+ {
+  "id": 77,
+  "en": "Do you think I'll let you through if ya just\nkeep talkin' my ear off?",
+  "tr": ""
+ },
+ {
+  "id": 78,
+  "en": "Not gonna work. You gotta fight with the\ncards you've been dealt.",
+  "tr": ""
+ },
+ {
+  "id": 79,
+  "en": "Even if tournament rules are in place, and all\nyour cards are on the ban list...",
+  "tr": ""
+ },
+ {
+  "id": 80,
+  "en": "Eh? What're you talkin' to me for?\nAre you too scared to find true love?",
+  "tr": ""
+ },
+ {
+  "id": 81,
+  "en": "There's nothin' stupider than being too\nscared to fall in love!",
+  "tr": ""
+ },
+ {
+  "id": 82,
+  "en": "No matter how much ya stress over it, you\ncan never know what others are thinkin'!",
+  "tr": ""
+ },
+ {
+  "id": 83,
+  "en": "The only guarantee in life is that ya can't go\nanyhere unless ya take that first step!",
+  "tr": ""
+ },
+ {
+  "id": 84,
+  "en": "And once you're movin, there's nothing else\nyou can do except crash and burn!",
+  "tr": ""
+ },
+ {
+  "id": 85,
+  "en": "But, uh, if ya *do* end up crashin' and burnin',\ndon't tell anyone it was my idea.",
+  "tr": ""
+ },
+ {
+  "id": 86,
+  "en": "<CLT=cltMIND>[Tentative] School Building/Hallway",
+  "tr": ""
+ },
+ {
+  "id": 87,
+  "en": "<CLT=cltMIND>[Tentative] Dining Hall",
+  "tr": ""
+ },
+ {
+  "id": 88,
+  "en": "<CLT=cltMIND>[Tentative] Dormitory",
+  "tr": ""
+ },
+ {
+  "id": 89,
+  "en": "<CLT=cltMIND>[Tentative] Miu's Lab",
+  "tr": ""
+ },
+ {
+  "id": 90,
+  "en": "<CLT=cltMIND>[Tentative] Pool",
+  "tr": ""
+ },
+ {
+  "id": 91,
+  "en": "<CLT=cltMIND>[Tentative] Training Arena",
+  "tr": ""
+ },
+ {
+  "id": 92,
+  "en": "<CLT=cltMIND>[Tentative] Rear garden (East)",
+  "tr": ""
+ },
+ {
+  "id": 93,
+  "en": "<CLT=cltMIND>[Tentative] Rear garden (West)",
+  "tr": ""
+ },
+ {
+  "id": 94,
+  "en": "<CLT=cltMIND>[Tentative] Shrine to the Court Room",
+  "tr": ""
+ },
+ {
+  "id": 95,
+  "en": "<CLT=cltMIND>[Tentative] Casino",
+  "tr": ""
+ },
+ {
+  "id": 96,
+  "en": "<CLT=cltMIND>[Tentative] Love Hotel",
+  "tr": ""
+ },
+ {
+  "id": 97,
+  "en": "Shuichi's current affection level is...",
+  "tr": ""
+ },
+ {
+  "id": 98,
+  "en": "Wow. Honestly, that is just awful.",
+  "tr": ""
+ },
+ {
+  "id": 99,
+  "en": "Not bad... Could use some improvement.",
+  "tr": ""
+ },
+ {
+  "id": 100,
+  "en": "It's pretty good...for Shuichi.",
+  "tr": ""
+ },
+ {
+  "id": 101,
+  "en": "There's some real potential there.",
+  "tr": ""
+ },
+ {
+  "id": 102,
+  "en": "It's right at a critical spot!",
+  "tr": ""
+ },
+ {
+  "id": 103,
+  "en": "Not half bad, y'know?",
+  "tr": ""
+ },
+ {
+  "id": 104,
+  "en": "It's pretty good!",
+  "tr": ""
+ },
+ {
+  "id": 105,
+  "en": "So good, even I'm jealous.",
+  "tr": ""
+ },
+ {
+  "id": 106,
+  "en": "No way...can he do the impossible!?",
+  "tr": ""
+ },
+ {
+  "id": 107,
+  "en": "...It's...beautiful... Utter perfection...",
+  "tr": ""
+ }
+]

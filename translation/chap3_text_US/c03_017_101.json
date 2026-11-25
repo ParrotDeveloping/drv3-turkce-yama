@@ -1,0 +1,342 @@
+[
+ {
+  "id": 0,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "<CLT=cltSYSTEM>*ding dong ding dong!*",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "The intercom? This early in the morning?\nI wonder who it could be...",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "L-Let's hurry and stop Angie, so we \ncan put an end to all this spooky stuff!",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "If things get any scarier, I'll seriously \ndie from a heart attack!",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "I can't believe someone your age would hide\nin bed because they're afraid of ghosts...",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "W-Well, y'know... This is...uh, just how \nmy body is. Can't do anything about it...",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "So you can stand to be around assassins,\nbut ghosts are where you draw the line?",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "I've been told that I'm scarier than any\nghost.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "Huh? I'm not scared of you at all.",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "Didn't I tell you? You're just a weak coward.\nAnd you just started your training.",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 14,
+  "en": "You, of all people, don't get to call me weak.",
+  "tr": ""
+ },
+ {
+  "id": 15,
+  "en": "Sh-Shut up!\nLet's go and stop Angie!",
+  "tr": ""
+ },
+ {
+  "id": 16,
+  "en": "...Let's bring Kaito to Angie before he\npasses out in terror.",
+  "tr": ""
+ },
+ {
+  "id": 17,
+  "en": "<CLT=cltMIND>This early in the morning?\nI wonder who it could be...",
+  "tr": ""
+ },
+ {
+  "id": 18,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 19,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 20,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 21,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 22,
+  "en": "What's with that face...?\nYou look like you just woke up.",
+  "tr": ""
+ },
+ {
+  "id": 23,
+  "en": "...I *did* just wake up.\nThe announcement was just a minute ago.",
+  "tr": ""
+ },
+ {
+  "id": 24,
+  "en": "You wake up to *that*?",
+  "tr": ""
+ },
+ {
+  "id": 25,
+  "en": "If you rely on that announcement as your alarm\nclock, you'll start getting used to this place.",
+  "tr": ""
+ },
+ {
+  "id": 26,
+  "en": "Well, I suppose that's true...",
+  "tr": ""
+ },
+ {
+  "id": 27,
+  "en": "It's fine. Let's just go stop the ritual.",
+  "tr": ""
+ },
+ {
+  "id": 28,
+  "en": "K-Kaito?",
+  "tr": ""
+ },
+ {
+  "id": 29,
+  "en": "I heard from Maki Roll. It seems like Angie's\ngonna do the ritual.",
+  "tr": ""
+ },
+ {
+  "id": 30,
+  "en": "Maki Roll...? Don't give me such a weird\nnickname.",
+  "tr": ""
+ },
+ {
+  "id": 31,
+  "en": "You brought Kaito here, Maki?",
+  "tr": ""
+ },
+ {
+  "id": 32,
+  "en": "...Is that weird? We need a backup plan in\ncase the straightforward approach fails.",
+  "tr": ""
+ },
+ {
+  "id": 33,
+  "en": "Who better than Kaito for a...less than\nstraightforward approach?",
+  "tr": ""
+ },
+ {
+  "id": 34,
+  "en": "But, Kaito...are you feeling okay?",
+  "tr": ""
+ },
+ {
+  "id": 35,
+  "en": "Heh, we don't have time to be worrying \nabout me.",
+  "tr": ""
+ },
+ {
+  "id": 36,
+  "en": "We gotta put a stop to this ridiculous\n\"<CLT=cltSTRONG>resurrecting the dead<CLT=cltNORMAL>\" crap...",
+  "tr": ""
+ },
+ {
+  "id": 37,
+  "en": "And then...we can finally drop that topic.\nOr else...I'm not gonna last...",
+  "tr": ""
+ },
+ {
+  "id": 38,
+  "en": "<CLT=cltMIND>Not gonna last?\nKaito...are you...",
+  "tr": ""
+ },
+ {
+  "id": 39,
+  "en": "Scared?",
+  "tr": ""
+ },
+ {
+  "id": 40,
+  "en": "Huh?",
+  "tr": ""
+ },
+ {
+  "id": 41,
+  "en": "Ah, it's just that I remember that you\ndon't like talking about ghosts and stuff...",
+  "tr": ""
+ },
+ {
+  "id": 42,
+  "en": "Now that I think about it, you've\nbeen acting strange ever since...",
+  "tr": ""
+ },
+ {
+  "id": 43,
+  "en": "we started talking about\n<CLT=cltSTRONG>resurrecting the dead<CLT=cltNORMAL>.",
+  "tr": ""
+ },
+ {
+  "id": 44,
+  "en": "D-D-Don't be stupid!\nTh-There's no way!",
+  "tr": ""
+ },
+ {
+  "id": 45,
+  "en": "Ah. So I was right.",
+  "tr": ""
+ },
+ {
+  "id": 46,
+  "en": "Wait... You mean the reason you didn't come\nto training is because you were scared?",
+  "tr": ""
+ },
+ {
+  "id": 47,
+  "en": "I-It's not that I'm scared...\nThat's just how my body is.",
+  "tr": ""
+ },
+ {
+  "id": 48,
+  "en": "I'm fine when it comes to cramped areas, space,\nand zero gravity, but...ghost stories...",
+  "tr": ""
+ },
+ {
+  "id": 49,
+  "en": "Since I was a kid, whenever I hear them...\nI start to feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 50,
+  "en": "<CLT=cltMIND>Kaito was looking more and more pale\nas he spoke...",
+  "tr": ""
+ },
+ {
+  "id": 51,
+  "en": "Cuz of that...I haven't been able to eat or \nsleep since all this crap started...",
+  "tr": ""
+ },
+ {
+  "id": 52,
+  "en": "So that's what happened...",
+  "tr": ""
+ },
+ {
+  "id": 53,
+  "en": "So...let's hurry and stop Angie, so we \ncan put an end to all this spooky stuff!",
+  "tr": ""
+ },
+ {
+  "id": 54,
+  "en": "If things get any scarier, I'll seriously \ndie from a heart attack!",
+  "tr": ""
+ },
+ {
+  "id": 55,
+  "en": "...",
+  "tr": ""
+ },
+ {
+  "id": 56,
+  "en": "Wh-Why are you looking at me like that?",
+  "tr": ""
+ },
+ {
+  "id": 57,
+  "en": "Unbelievable... You always act like you're\nnot afraid of anything.",
+  "tr": ""
+ },
+ {
+  "id": 58,
+  "en": "Sh-Shut up!\nLet's...just go stop Angie already!",
+  "tr": ""
+ },
+ {
+  "id": 59,
+  "en": "C'mon, bro! C'mon, Maki Roll!\nHurry up!",
+  "tr": ""
+ },
+ {
+  "id": 60,
+  "en": "Seriously...don't call me Maki Roll.",
+  "tr": ""
+ },
+ {
+  "id": 61,
+  "en": "A-Anyway...let's go to Angie's lab.",
+  "tr": ""
+ },
+ {
+  "id": 62,
+  "en": "<CLT=cltMIND>It's a monitor for communicating with us.\nThere's nothing on the screen.",
+  "tr": ""
+ },
+ {
+  "id": 63,
+  "en": "<CLT=cltMIND>But just seeing it makes me feel sick...",
+  "tr": ""
+ },
+ {
+  "id": 64,
+  "en": "<CLT=cltMIND>It's a normal bed.\nIt was pretty comfortable.",
+  "tr": ""
+ },
+ {
+  "id": 65,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 66,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 67,
+  "en": "<CLT=cltMIND>Do they plan for us to wear this forever?\nIt makes it easier to tell us apart, I suppose...",
+  "tr": ""
+ }
+]

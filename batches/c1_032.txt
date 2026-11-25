@@ -1,0 +1,58 @@
+@ chap1_text_US
+## c01_021_116
+12|Bu gidişle süre farkına bile varmadan\ndolacak...
+13|<CLT=cltMIND>Ama kaybetmeyeceğim... Pes etmeyeceğim.
+14|<CLT=cltMIND>Çünkü herkesin gülümsemesini biraz\ndaha görmek istiyorum...
+15|<CLT=cltMIND>Onlarla vakit geçirip normal gençler\ngibi gülüp konuşmak istiyorum.
+16|<CLT=cltMIND>O yüzden...pes etmeyeceğim.
+17|Size bir hanımefendinin gönlünü nasıl\nkazanacağınızı öğreteceğim.
+18|Önce ona bir hediye vermelisin.\nHanımefendiler hediyelere dayanamaz.
+19|Ama herhangi bir hediye veremezsin. Onun\nzevkine uygun bir hediye olmalı.
+20|Bir de el yapımı olmalı.\nBöylece üzerine düşünmüşsün gibi görünür.
+21|Mesela güçlü erkeklerden hoşlanan bir\nhanımefendi el yapımı bir...
+22|profesyonel güreş grubuna bayılır.
+23|Maço adamlarla çevrili olmaya bayılır, sen de\ngüreşçilerden para kazanırsın!
+24|Yeterince güreşçi popüler olursa büyük bir\netkinlik düzenlemek iyi olabilir.
+25|Ve birbirlerini dövmeyi bitirince diğer\nprofesyonel güreş gruplarıyla dövüşebilirler!
+26|Sadece bir dene, eminim onun kalbini\nkazanırsın!
+28|Zzzzzzz...
+29|Bu, Ultimate Akademisi'nden resmi bir\nduyurudur.
+30|Saat 08:00! Uyanma vakti! Bugün harika bir\nölümcül okul dönemi geçirelim!
+31|Zzzzzzz...
+32|Tanrım, Monokid gerçekten çok fazla bal içti...\nDaha ne kadar uyuyacak?
+34|Ah, bu arada...Babacığım'ın süre sınırı\n<CLT=cltSTRONG>yarın akşam 22:00'de<CLT=cltNORMAL> doluyor!
+35|Görüşürüz! Ayı-yi günler!
+36|<CLT=cltMIND>Süre sınırı yarın akşam doluyor...
+37|<CLT=cltMIND>Shuichi bunun üzerine kumar oynuyor, yani süre\ndolarken kütüphaneyi gözetlememiz gerekiyor.
+38|<CLT=cltMIND>O zaman hazırlanmaya başlamamız gerekmez mi?\nEndişelenmeye başladım...
+40|Ah, Shuichi? Tam zamanında...
+41|Miu'nun yemekhaneye gittiğini gördüm.\nSanırım hâlâ oradadır...
+42|Kaede...\nBunu senden istediğim için...özür dilerim.
+43|Kafana takma.\nSana yardım edeceğime söz vermiştim.
+44|Hadi, yemekhaneye gidelim.
+45|<CLT=cltMIND>Muhtemelen Shuichi'dir.
+46|<CLT=cltMIND>Tanrım, ne sinir bozucu!
+51|Shuichi! Sana bir şey sormak istiyordum—
+52|<CLT=cltMIND>Ama kapıyı açar açmaz...
+53|Maalesef! Benim!
+54|Aaaaaaaaahhhhh!!!!!
+55|Hıh... Genç bir kızın bana çığlık atması\nkalbimi acıtıyor.
+56|...Ama yine de çok güzel acıtıyor.
+57|N-Ne istiyorsun?
+58|Ahh, bazı araştırma laboratuvarlarının\naçıldığını haber vereyim dedim.
+59|<CLT=cltSTRONG>Ultimate Araştırma Laboratuvarları<CLT=cltNORMAL>'nı mı diyorsun?\n16 yeteneğimize göre hazırlanan sınıflar...?
+60|Hı-hı. Laboratuvarın sonunda hazır, o yüzden\nistediğin zaman girebilirsin.
+61|Şimdi hemen <CLT=cltSTRONG>Ultimate Piyanist Laboratuvarı<CLT=cltNORMAL>'na\ngit ve ölümcül bir melodi beste!
+62|Ölümcül bir melodi mi?\nNeden bahsediyorsun sen?
+63|Eee, şey...beni çaya içeri davet edecek\nmisin, etmeyecek misin?
+64|Hayır, tabii ki hayır!
+65|<CLT=cltMIND>Kapıyı var gücümle Monokuma'nın\nyüzüne çarptım.
+66|Tanrım...bu süper sinir bozucuydu...
+68|Tanrım! Ne sinir bozucu!
+69|Tanrım, yeter artık!\nBeni rahatsız ediyorsun!
+70|Ah, özür dilerim! Sonra mı geleyim?
+71|Ah, Shuichi! Pardon, söylediğimi boş ver!
+72|Ben de seninle konuşmak istiyordum, Shuichi...\nPlan için bir şeye ihtiyacımız var mı diye merak ediyordum.
+73|Ben de seninle bunu konuşmak istiyordum.\nKütüphaneyi nasıl gözetleyeceğimizi biliyor olabilirim.
+74|Kütüphanenin içine saklanıp oradan\ngözetlemeyi planlamıyor muyduk?
+75|Öyle yaparsak beynin bize rastlama riski var.\nDaha uzaktan izlemek daha güvenli.

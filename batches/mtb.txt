@@ -1,0 +1,52 @@
+@ game_resident_US
+## Mtb-Answer
+0|Ne yapmaya çalıştığımı\nbiliyor musun?
+1|BEYNİ
+2|ÖLDÜR
+3|MEK
+4|İÇİN
+100|O çöp parçası neyi kanıtlıyor ki!?
+101|KİRU
+102|Mİ'NİN
+103|ELDİ
+104|VENLERİ
+200|Korekiyo'nun katil olduğuna\ndair kanıtın yok...
+201|SÖKÜL
+202|MÜŞ
+203|DÖŞEME
+204|TAHTASI
+300|Konağın çatısından dışarı\nçıkmanın yolu yok!
+301|TUVALET KÂĞIDI
+302|KONAĞIN
+303|DIŞINDA
+304|BULUNDU
+400|Kokichi'nin panzehiri\niçtiğini gördüm!
+401|PANZEHİRİ
+402|İÇİYOR
+403|GİBİ
+404|YAPTI
+500|Danganronpa asla bitmeyecek, değil mi!?
+501|DANGANRONPA'YI
+502|KENDİ
+503|ELLERİMİZLE
+504|BİTİRECEĞİZ!
+505|kurgu dünyayı değiştiremez lol
+506|KURGU
+507|DÜNYAYI
+508|DEĞİŞTİRE
+509|BİLİR!
+510|Ölüm oyunları en iyi\neğlence türü!
+511|ÖLÜM
+512|OYUNU
+513|YANLIŞ
+514|BİR ŞEY!
+515|Kimse oy vermediği için anlamsız bir\nölüm, olabilecek en kötü son!
+516|ANLAMSIZ
+517|DEĞİL,
+518|HAYATLARIMIZ
+519|SİLAHIMIZ!
+900|Biz kimiz!?
+901|MO
+902|NO
+903|YAV
+904|RULAR

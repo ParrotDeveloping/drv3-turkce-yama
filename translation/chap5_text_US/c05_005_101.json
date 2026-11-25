@@ -1,0 +1,72 @@
+[
+ {
+  "id": 0,
+  "en": "<CLT=cltMIND>There's still some time...",
+  "tr": ""
+ },
+ {
+  "id": 1,
+  "en": "What should I do?",
+  "tr": ""
+ },
+ {
+  "id": 2,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 3,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 4,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 5,
+  "en": "<CLT=cltSYSTEM>Would you like to leave?",
+  "tr": ""
+ },
+ {
+  "id": 6,
+  "en": "Yes",
+  "tr": ""
+ },
+ {
+  "id": 7,
+  "en": "No",
+  "tr": ""
+ },
+ {
+  "id": 8,
+  "en": "Are you unsure of something?",
+  "tr": ""
+ },
+ {
+  "id": 9,
+  "en": "<CLT=cltSYSTEM>Would you like to rest in bed?\nFree Time will end if you do.",
+  "tr": ""
+ },
+ {
+  "id": 10,
+  "en": "<CLT=cltMIND>There's still some time left...\nI should get some rest while I still can.",
+  "tr": ""
+ },
+ {
+  "id": 11,
+  "en": "<CLT=cltMIND>It's a pretty big light.\nIt lights the room well...",
+  "tr": ""
+ },
+ {
+  "id": 12,
+  "en": "<CLT=cltMIND>My closet is filled with\nuniforms exactly like mine...",
+  "tr": ""
+ },
+ {
+  "id": 13,
+  "en": "<CLT=cltMIND>They went through all this just for a\nkilling game? What is their objective...?",
+  "tr": ""
+ }
+]

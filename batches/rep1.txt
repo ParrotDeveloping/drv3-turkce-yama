@@ -1,0 +1,31 @@
+@ game_resident_US
+## B-TechouTsushinboReport
+0|Çok çalışan ve birkaç dil konuşabilen\nbir astronot adayı. İletişim becerileri iyi,\nbilgili ve harika bir kişiliği var.\nPek de bir Ultimate gibi davranmıyor...
+1|Bana gizemli bir harita bulup korsanları\nyenmek için denize açıldığı bir hikâye\nanlattı. Bitmek bilmedi.\nBununla nereye varmak istediğini bilmiyorum.
+2|Bana yaz tatilini anlattı; bir ormanı keşfedip\ngizli kalıntılar bulmuş. Astronotlukla\nhiçbir ilgisi yok ama havalı bir\nhikâyeydi.
+3|Geçmişte bir sürü "yardımcı" yetiştirdiğini\nsöylüyor ama şüpheliyim.\nGerçi hakkını vermek gerekirse sözleri\nbiraz tuhaf olsa da çok inandırıcı.
+4|Geçmişimi biliyor ama yine de bana\ninanıyor. Yola devam etmeme yardım etmek\nistiyor. Bu destek için çok minnettarım.\nKaito, beni peşinden sürüklüyormuşsun\ngibi görünüyor ama hep yanında olacağım.
+5|Tenise olan tutkusunu kaybetmiş.\nEski takım arkadaşlarını sorduğumda\nonlardan bahsetmekten mutlu görünüyor\nama bunun artık onunla bir ilgisi\nolmadığını söylüyor.
+6|Rakipleriyle oynadığı maçları sordum ve\ngerçekten inanılmazdı. Tenisin bu kadar çok\nözel teknik içerebileceğini hiç düşünmezdim.\nAma uzak görünüyordu ve o şeyleri\nhatırlamak istemediğini söyledi.
+7|Geçmişini çöpe atmış—tenisi ve gelecek\nhayalleri kurduğu sevgilisini. Bana onu\numursamamamı, yoksa incineceğimi söyledi.
+8|Ryoma, mafyanın ayarladığı bir yeraltı\ntenis maçında şike yapmayı reddetti.\nBu yüzden ailesini öldürdüler, Ryoma da\nintikam almak için ellerini kana buladı.
+9|Onu umursamamam gerektiğini söyleyerek\nbeni uzaklaştırmaya çalışıp duruyor ama\nelimde değil. Sınıf arkadaşlarımı önemsiyorum.\nSonunda bana biraz açılmasını sağladım.
+10|Varlıklı bir ailenin çocuğu ve dünyayı\ngeziyor ama bunların yeteneğiyle ilgisi\nyok gibi. Kötü bir ağabey olduğundan\nbahsetti ama ne demek istediğini\nbilmiyorum...
+11|Yolculuklarını sordum, dünyanın dört bir\nyanında siyasette çok kötülük ve yolsuzluk\ngördüğünü söyledi. Üsteleyince gülümsedi\nve ayrıntıya girmedi. Mesafesini korumaya\nçalıştığını anlayabiliyordum.
+12|Ne yaparsa yapsın, ne kadar uğraşırsa\nuğraşsın, bir türlü ulaşamıyor.\nSabırsızlanmaya başladığı için onun için\nendişeleniyorum. Yardım etmeye çalışıyorum\nama tek çocuk olduğum için asla anlamayacağımı söylüyor.
+13|Küçük kız kardeşini delicesine arıyor ve\nkaç kez umutsuz olduğu söylenirse söylensin\nasla pes etmiyor. Bir yerlerde hâlâ yaşadığını\nbiliyor. Ona "Ultimate Ağabey" olması\ngerektiğini söyledim.
+14|Ultimate Dedektif olarak kayıp kız\nkardeşlerini bulma isteğini kabul ettim.\nGerçek gülümsemesini gördüğüm için ona\nhiç olmadığı kadar yakın hissediyorum.
+15|Gonta "centilmen" olmaya takıntılı.\nVahşi doğada büyümüş olması biraz tuhaf\nama hevesi ve olumlu tavrı\nçok sevimli.
+16|Onu 10 yıl boyunca büyüten aile aslında\nkertenkele insanlarmış. Ayrıca ormanından\ngeçen bir sürü dövüş sanatçısıyla da\ndövüşmüş. Bana bu hikâyeyi anlatacak\nkadar rahat olduğuna göre beni çok seviyor olmalı.
+17|Gonta nazik, içten, zarif ve kibar olmak\nistiyor. Gerçek bir centilmen. Tabii ki\nkurgudan etkilendiğini hissediyorum.
+18|Gerçek ailesinin orman ailesini kabul\netmesini istiyor ve centilmen olmanın bu\nhedefe yardımcı olacağını düşünüyor.\nAma centilmen olmanın buna nasıl yardım\nedeceğini hayal etmek zor.
+19|Ona Ultimate Böcekbilimci olmanın\nailelerini bir araya getirmeye yardım\nedeceğini söyledim ama yine de centilmen\nolmak istediğini söyledi. Ailesi için\ndeğil, kendisi için.
+20|10.000 üyeli kötü bir örgütün yüce lideri.\nTek bir telefonla dünyayı değiştirebileceğini\niddia ediyor. Sorulmadan bilgi veriyor, sonra\nda çok şey bildiğin için seni öldürmekle\ntehdit ediyor.
+21|Hayatımın söz konusu olduğu bir oyuna\nalet edildim. Bugünkü oyun bir kart\noyunuydu. Neyse ki berabere bitti. Daha\nüç oyun oynanacağını söylüyor.\nKokichi bu konuda ciddi mi?
+22|Beni bir çay partisine davet etti, ben de\noyunun iptal edildiğini sandım. Birlikte\ngüzel vakit geçireceğimizi düşünmüştüm\nama bana güldü ve hayatımın hâlâ\ntehlikede olduğunu söyledi.
+23|Kokichi'yle 100 el taş-kağıt-makas oynadım\nama hepsi berabere bitti! Bunu nasıl yapıyor?\nBu gerçekten dediği gibi\nbitecek mi?
+24|Hayatımı değil, kalbimi mi istiyor?\nYine mi yalan söylüyor? Oyunları yüzünden\noradan oraya savrulsam da en azından\nonu daha iyi tanıdım.
+25|Antropoloji, insanların insanlıklarını\nifade etmesini inceleyen bilimdir. Halk\nmasalları sadece halkın olduğu yerde var\nolur. Kiyo'nun her şeyi kolayca anlaşılır\nşekilde açıklamanın bir yolu var.
+26|Banyo, uyku, hatta spor için bile farklı\nmaskeleri var. Şaşırdığımı söyleyince\nantropolojiyle ufkumu açacağını\nsöyledi.
+27|Kiyo'nun antropolojiye ilgisi, görünüşe göre\nbir hastalıkla mücadele eden ablasının\nteşvikiyle başlamış. Çok yakın görünüyorlar.\nÜniformasını bile ablası dikmiş.
+28|Mitoloji hakkında çok şey biliyor ve en\nsevdiği hikâye Medusa'nınki. Bana bu\nhikâyenin ahlaki dersinin, insanlığın doğayı\nfethedebileceği ama ölümü fethedemeyeceği\nolduğunu söyledi. Söylerken gülümseyişi ürkütücüydü.
