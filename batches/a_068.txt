@@ -1,0 +1,58 @@
+@ ainori_text_US
+## a00_105_704
+57|<CLT=cltMIND>Ama kendi tarzıyla... sanırım bu onu\nbiraz anlamama yardım ediyor.
+59|<CLT=cltSYSTEM>Yeni bir beceri öğrendin:\n<CLT=cltSTRONG>Nazik Yalan<CLT=cltSYSTEM>.
+60|<CLT=cltMIND>Kokichi'yle yollarımızı ayırdık\nve odama döndüm.
+## a00_105_902
+0|Ah be...\nBu vakit kaybıydı...
+1|Seninle takılmaktan keyif alırım sanmıştım,\nShuichi. Ama yanılmışım...
+3|Çok eğlendim, Shuichi! Hepsi senin sayende!\nCidden şaşırdım!
+4|Yurda birlikte dönelim.
+5|Evet, epey iyi vakit geçirdim.
+6|Sana iyi davranmak zorunda değilim, o yüzden\nseninle takılmak gerçekten kolay, Shuichi.
+7|Neyse, dönelim.
+8|Hmm...\nBiraz daha pratik yapman lazım, Shuichi.
+9|Ne için pratik mi diyorsun?\nBeni eğlendirmek için pratik, işte o!
+10|Yani tek başıma döneceğim.
+11|İnsanlar arasında epey nefret edilirim ama\nseninleyken... beni tamamen geride bırakıyorsun...
+12|Senden önce başkalarının duygularını bu kadar\nhiçe sayan biriyle hiç tanışmamıştım...
+13|Neyse, bu tuhaf oldu. Ben gidiyorum.
+## a00_105_914
+0|Yalancı olmayan bir Kokichi Oma\nhayal edemiyorum...
+1|Eeeee...\nBöyle diyeceğini biliyordum.
+2|Ama ben tuhafın tekiyim! Biri bana dur dediğinde\ndaha çok yapmak istiyorum!
+3|Bununla birlikte...\nYalan söylemekten istifa ediyorum!
+4|Bu andan itibaren... artık ne kötü yalanlar ne de\niyi yalanlar söylemeyeceğime güneş üzerine yemin ediyorum!
+5|<CLT=cltMIND>Ona itiraz etmeme bile gerek yok,\nbunun yalan olduğundan *eminim*.
+7|Benimle dürüstçe konuşsaydın seni daha\niyi anlayabilirdim sanırım, Kokichi.
+8|Haaaa?
+9|Açıkçası gerçek benliğimden vazgeçmem\ngerekiyorsa seninle anlaşmayı pek istemem.
+11|Uğruna değişmeye değer biri olduğunu düşünmüyorum.
+12|Ne o, başkalarının kendini değiştireceği\nbiri olduğunu mu sandın?
+13|Öyleyse epey kibirlisin.\nBu düşünce tarzını değiştir.
+14|<CLT=cltMIND>Görünüşe göre Kokichi'yi yalan söylemekten\nvazgeçirmek imkânsız.
+16|Kendini yalan söylemekten keyif alacak\nşekilde koşullandırmanın mümkün olduğunu sanmıyorum...
+17|N-Ne...? Bu... benimle anlaşmak\nistemediğin anlamına mı geliyor?
+18|Ah, hayır, öyle demek istemedim...
+19|Ne kadar acımasııız!\nSadece arkadaşın olmak istemiştim!
+20|VAAAAAAAAAAAAAAHHHHHHHH!!!!!\nSen bir canavarsın, Shuichi!!!
+21|...Numara yapıyorsun, değil mi?
+22|Eh, yine de canavar olduğunu düşünüyorum.
+23|Çok dar kafalısın. Birkaç yalan yüzünden\nbu kadar kendini paralama.
+25|Ona bayıldığımı asla söylemeyeceğim... ama\nbelki ona katlanmayı öğrenebilirim.
+27|...Kararlılığının bu kadar küçük olduğunu\nfark etmemiştim, Shuichi.
+29|Yalanlardan böyle önemsiz bir sebeple nefret ediyorsun...
+30|Senden çok hayal kırıklığına uğradım!
+31|...O da yalan, değil mi?
+32|Nii-hihi... Taa-mam, sanırım beni epey iyi\nanlamaya başlıyorsun, Shuichi.
+33|Beni gerçekten anlayabilen biriyle\ntanıştığım için çok mutluyum.
+34|Vay. Belki de bu dünyaya sadece seninle\ntanışmak için doğdum, Shuichi.
+## a00_106_000
+4|Bunu kabul edemem.\nOkültü hafife mi alıyorsun?
+6|Açıkçası bunu bana verme sebebini\nanlayamıyorum.
+7|Söylesene... bunu bana verirken\nniyetin neydi?
+8|Hmm... zevkin kötü olsa bile\nbu da güzel...
+9|Herkes aynı tercihlere sahip değil.\nLütfen bunu aklında tut.
+14|Kehehe... bunu vermenin beni mutlu edeceğini\nmi düşündün? İlginç...
+15|Görünüşe göre beni henüz yeterince\ntanımıyorsun.
+16|Biri için bir şey yapma arzusu.\nBunu çok iyi anlıyorum.

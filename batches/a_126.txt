@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_112_113
+17|İlk kostümün için sevdiğin bir\nkarakteri seçmen en iyisidir...
+## a00_112_120
+5|Evet, hafif filmler izleyebilmek\ngüzel.
+6|Ah, hafif dedim ama içlerine harcanan\nbütün emeğe saygım var.
+7|Gönül eğlendiren demek istedim. Yani\nizlerken rahatlayabiliyorsun.
+8|Kıl payıydı. Neredeyse yanlış konuşuyordum.
+9|İnsanların kurguyu ne kadar sevdiğimi\nyanlış anlamasına izin veremem.
+10|Benim için sorun yok ama... sen korkunç\nşeylere dayanabiliyor musun, Shuichi?
+11|Aslında bunu daha önce bir\narkadaşımla izlemiştim.
+12|Ben tamamen iyiydim ama o\ngözyaşları içindeydi...
+13|Neredeyse ona zorbalık ediyormuşum gibi hissettim...
+14|Böyle bir şeyin olmasını istemiyorum,\no yüzden pas geçeceğim...
+15|Eh evet. Benimle bu bariz bir\nseçim olurdu.
+16|Hayır, kızmadım. Gerçek şu ki\nizlediğim şeylerin çoğu anime.
+17|Hem bunu sen de animeyi sevdiğin için\nönerdin. Değil mi, Shuichi?
+18|Pekâlâ, bütün gece en sevdiğim\nanimeleri izleyelim!
+## a00_112_130
+5|Merak etme, daha fazla uykulu\nolmayacaksın.
+6|Neden mi? Çünkü...
+7|Sana buradaki filmlerden hangilerinin\ngerçek başyapıt olduğunu anlatacağım!
+8|Pekâlâ, neyle başlasak?
+9|Dominodan bahsetmişken... hiç Rube Goldberg\nmakinesi duydun mu?
+10|Domino gibi zincirleme ilerleyen bir sürü\nşeyden oluşan büyük bir düzenek...
+11|Benzersiz bir sanat biçimi!
+12|Çalışıp çalışmayacağı konusunda gerilip\nher parçanın ilerleyişini izlersin...
+13|İşte bu! Eminim burada tamamen\nbununla ilgili bir film vardır!
+14|Sen öyle hissedebilirsin...\nama benim için farklı.
+15|Sadece kurgu dünyasında var olan\npek çok harika şey var...
+16|Bence... böyle bir şey söylemen\nkabalık.
+## a00_112_210
+5|Ha? Yemek de mi yapabiliyorsun?
+6|Beceri listen bir hafif romanın ana\nkarakterininki gibi.
+7|Yoksa... annen baban yurt dışında çalışıp\nseni tek başına yaşamaya mı bıraktı?
+8|Ve sonra gökten düşen sarı saçlı mavi\ngözlü bir kızla mı tanıştın!?
+9|Böyle şeyler yapmak istiyorsan\nKirumi'ye sormalısın.
+10|Ben yapsam bile sıkıcı olurdu.\nAnimedeki gibi çılgın ya da imkânsız değil.
+11|Şeyy... sanırım bunda gerçekten kötü olsam\nve tuzu şekerle karıştırsam...
+12|Bu işe yarar, değil mi?\nÇünkü daha iyi bir karakter olurdu.
+13|Her şey benden daha az sade olurdu.
+14|Sanırım şimdilik pas geçeceğim...
+15|İhtiyacımdan fazla su içmemeye\nçalışıyorum.
+16|Fazla su ya da tuz alırsam şişiyorum.\nKostümün kadim düşmanı...
+## a00_112_220
+5|Kriyojenik uykuya mı girmeye\nçalışıyorsun?
+6|Bu anime ve mangalarda sık sık\ngörülen bir şey.
+7|Böyle bir şey gerçekten işe yarasaydı\ndenemek istemez miydin?
+8|Dünyanın 100 yıl sonra nasıl görüneceğini\ndüpedüz merak ediyorum!
+9|Bu bana animelerdeki lise öğrencilerinin\nokul sonrası zamanlarını hatırlatıyor.
+10|Bundan bahsetmişken, animelerdeki tatlılar\nneden hep bu kadar lezzetli görünüyor?
+11|Özellikle gece geç saatte izlerken...\nçok acımasız...
+12|Bu anime ve mangalarda yaygın bir\nantrenman yöntemi ama...
+13|Bir sorun mu var? Konuşman gerekirse\ndinlerim.
+## a00_112_230
+5|Ah, yeşil çaydan bahsetmişken...
+6|Anime ve mangalarda siyah çay yeşil\nçaydan daha sık gösterilir.
+7|Pek bir amacım yok ama böyle şeyler\nilginç değil mi?
+8|Yemekten sonra uyumak istemeyi anlıyorum...\nama bir kostümcü olarak yapamam.
+9|Sağlıksız alışkanlıkların kostümümün\nözgünlüğüne zarar vermesine izin veremem.
+10|Kostüm çıkışını yapmak üzeresin,\no yüzden fazla yiyemezsin, Shuichi!
+11|Tombul bir Kanata kesinlikle\nolmaz!
+12|Evet, en iyisi bu!
+13|Kendini fazla zorlamamalısın ama kostümcülerin\nformda kalması hayati önemde.
+14|Şişmanladığım için bir kostüme sığamasaydım\nkendimden nefret etmekten ölebilirdim.
+15|Özellikle sponsorlar varken...

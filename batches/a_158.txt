@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_115_703
+52|Bu epey geniş bir soru,\ncevaplayabilir miyim bilmiyorum.
+53|Ah, doğru.\nŞeyy... mesela...
+54|Sinema
+55|Lunapark
+56|Karşı taraf ne seçerse
+58|Mesela... bir randevuya... çıksan nereye\ngiderdin? Sinemaya mı lunaparka mı?
+59|Sinemaya sanırım.
+60|Sinema, ha? Anlıyorum...\nBu arada, en sevdiğin tür ne?
+61|Ş-Şey, her şeyi izlerim ama...\naşk hikâyelerine hiç ısınamıyorum.
+62|A-Ah, anlıyorum...
+63|Zaten iki kişi romantik film izlemek\nbiraz erken olur!
+64|Lunaparka sanırım.
+65|Lunapark, ha?\nEpey dışa dönüksün.
+66|Ah, bunu çok duyuyorum. Ama dedektiflik\ndaha çok bilgi toplamakla ilgili, o yüzden...
+67|Hıhı.\nAnlıyorum.
+68|Karşı taraf ne seçerse sanırım.
+69|Hmmm... bu bir sorun olacak...
+71|Hiçbir şey! Sadece ilk adımı atma ihtimalinin\ndaha düşük olduğu anlamına geliyor, değil mi?
+72|<CLT=cltMIND>...Yine not alıyor.
+73|O notları ne için kullanacaksın?
+74|O...
+75|...Evet?
+76|Bir sır!
+78|Merak etme, kötü bir şey için kullanılmayacak!\nBu notları kimseye göstermeyeceğim!
+79|Dedektif Kaede Akamatsu daha yeni başlıyor!\nBildiğin her şeyi anlat bana, serseri!
+81|<CLT=cltMIND>Kaede beni sorgulamayı bitirince\nodama döndüm.
+## a00_115_704
+0|Tamam, Shuichi!\nPratik için gaza gelme zamanı!
+1|Evet, hadi yapalım!
+2|<CLT=cltMIND>Piyano düeti...\nİki kişinin birlikte piyano çalması.
+3|<CLT=cltMIND>İlk öğrenirken tam anlamamıştım.\nAma şimdi... güzel hissettiriyor.
+4|<CLT=cltMIND>Ben pes notaları, Kaede tiz notaları\nçaldı. Birlikte bir melodi çaldık.
+5|<CLT=cltMIND>Tabii ki benim çalışım onunkiyle kıyaslanamazdı\nama Kaede beni taşıdı.
+6|<CLT=cltMIND>Belki de ona büyülü bir birlik\nhissi veren buydu.
+7|<CLT=cltMIND>Başta yanımda oturan Kaede'ye o kadar\nodaklanmıştım ki odaklanamıyordum...
+8|<CLT=cltMIND>Ama çalmaya devam ettikçe kolaylaştı.\nTamamen doğal hissettirdi.
+9|<CLT=cltMIND>Sanki Kaede'yle ben...\ntek bir kişi olmuşuz gibi.
+14|<CLT=cltMIND>Çalmayı bitirdikten sonra bu duygunun\ntadını çıkararak yan yana oturmaya devam ettik.
+15|Harikasın, Shuichi. Bu kadar kısa sürede\nbu kadar geliştiğine inanamıyorum.
+16|H-Hayır, değilim...
+17|<CLT=cltMIND>Hayır, söylemek istediğim\ntam olarak bu değil.
+18|Bana piyano çalmanın güzelliğini gösteren\nharika bir öğretmenim vardı.
+19|Piyano çalmanın güzelliği mi?\nNe demek istiyorsun?
+20|Çalmak çok eğlenceli. Neden kendini\nkaptırdığını anlıyorum.
+21|Değil mi?\nŞu an burada sadece biz olsak bile...
+22|Biri duyabilir ve bu onu gülümsetebilir!\nİşte o zaman buna değdiğini anlarsın!
+23|Bu harika deneyimi ancak seninle\ntanıştığım için yaşayabildim, Kaede.
+24|Bunun... anormal bir durum\nolduğunu biliyorum...
+25|Ama yine de seninle tanıştığıma çok seviniyorum.
+26|"Bana piyano çalmanın güzelliğini gösteren\nharika bir öğretmenim vardı."
+27|Ş-Shuichi... Bu kadar utanç verici bir şey\nsöylediğine inanamıyorum.
+28|Ha? Ne?
+29|A-Ama... ben de...\nseninle tanıştığıma seviniyorum.
+30|Sana öğretirken piyanoların ne kadar\nharika olduğunu yeniden hatırladım...
+31|Ve piyanoda neler yapabileceğimi\nkendim de fark etmeye başladım.
+33|Hey, Shuichi. Buradan çıkınca\nbize gel.
+34|Ha? Ciddi misin?\nSenin... evine mi?
+35|Tabii ki, başka nereye?
+36|Ş-Şey, sadece...\nYani, senin evine gitmek...
+37|D-Dur bir dakika!\nHayır, öyle demek istemedim!
+38|Düet pratiğimizi en sevdiğim piyanoda\nyapmak istedim, duyabilesin diye!
+39|Ah, onu kastediyordun!\nÖzür dilerim, yanlış anladım.
+40|Ama... seninle konuşmak ve birlikte\ntelevizyon izlemek de istiyorum...
+42|Buradan çıkınca sana daha yakın olmak\nistediğimi söylediğimi hatırlıyor musun?
+43|Ve... sen olunca... birbirimizi çok daha\niyi tanıyabilirmişiz gibi hissediyorum...

@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_113_420
+5|Ohhh, topu potaya attığın oyun, değil mi?\nAdamda da o oyun var.
+6|Ama adamda kaybeden takım kurban\nedilir.
+7|Ve bir kez kurban seçildin mi,\nseçilmemiş olamazsın.
+8|Bugün kurban edilmek içimden gelmiyor,\no yüzden sanırım pas geçeceğim.
+9|Nyahaha! O zaman birbirimizin\nkıyafetlerini çıkaralım!
+10|Merak etme! Kıyafet çıkarmakta bir\nsürü tecrübem var!
+11|Çıkaramayacağım kıyafet yok!
+12|Nyahahaha! Bu akıllıca bir düşünce, Shuichi.
+13|Atua birinin yapabileceği en önemli\nşeyin hazırlıklı olmak olduğunu söylüyor.
+14|Atua dünyayı yaratırken yeterince hazırlanmadığını\nsöylüyor. Bu yüzden mükemmel değilmiş.
+15|Nyahahaha! Atua'nın beceriksizliği tatlı değil mi?
+## a00_113_430
+5|Atua darbe yemek acıttığı için bunu\nyapmamamız gerektiğini söylüyor.
+6|O yüzden Atua'yı dinleyip teklifini\nreddedeceğim.
+7|Ayrıca bunu neden bir kızla oynamak\nisteyesin, anlamıyorum.
+8|Hmmm? Bir erginlik törenine başkanlık\nmı etmek istiyorsun?
+9|Çok tuhafsın, Shuichi. Törenler katılımcı\nolunca daha eğlenceli.
+10|Ama, ama... bu senin o yanını sevmediğim\nanlamına gelmiyor, Shuichi.
+11|Utangaçlığın seni bu kadar çekici\nyapan şey.
+12|İyi fikir, Shuichi.\nAtua ateşi sever, biliyorsun.
+13|O zaman ben benzini getiririm,\nsen de kibritleri, tamam mı?
+14|Burası epey büyük. Atua'nın hoşuna gidecek\nkocaman bir ateş topu yapabiliriz eminim.
+## a00_113_510
+5|Bir adada büyüdüğüm için soluduğum temiz\nhava konusunda epey seçiciyim.
+6|...Ve bu havanın tadı berbat.\nDilin aptal mı, Shuichi?
+7|Ne? Hayııır.\nKoşmak yorucu.
+8|Bir yarışma değilse sebepsiz yere\nkendini yormak aptallık.
+9|Bu kafese hapsolduğumuz sürece dışarıda\nolmakla içeride olmak arasında fark yok.
+10|Klimalı bir oda cennet gibi\ngeliyor.
+11|Hadi içeri dönelim de sana Atua'yı\nbaştan sona anlatayım!
+## a00_113_520
+5|Ahhhhhhhhhh!
+6|<CLT=cltMIND>Angie aniden çığlık attı ve fırçasını\nçılgınca hareket ettirmeye başladı.
+7|Hahhh... Hahhh...
+9|Nyahaha! Manzaradan bahsedince\nilahi bir ilhamla doldum!
+10|Bu resim senin olsun, Shuichi!
+11|<CLT=cltMIND>Bir şekilde, bakmayı hatırlamasam da\nresmi elimde tutar buldum kendimi.
+12|Adamda sadece kadınların dans\netmesine izin verilir.
+13|İyi dans ederlerse izleyen bütün\nerkeklerden para alırlar.
+14|Ah, ama parayı ağızlarıyla almak zorundalar.\nEn önemli kısım bu.
+15|Ha? Yürümek mi? Düz yürümek mi?
+16|Atua bunun nesinin eğlenceli olduğunu\nanlamadığını söylüyor.
+17|Adak aramak için yürürüm ama zaten\nburada sadece biz varız.
+18|O yüzden yürüyüşe çıkmanın bir anlamı yok.
+## a00_113_530
+5|Değil mi ama?
+6|Burası epey rahat. Hepimizin burada kalsa\ngayet iyi olacağını düşünmeden edemiyorum.
+7|Seninle bir sürü şeyde hemfikiriz.
+8|Burada sonsuza dek yaşasak hiç\nsıkılmazdın eminim.
+9|Burada yemek, giysi ve barınak var.\nBaşka neye ihtiyacın var?
+10|Açgözlülük yozlaştırıcıdır, biliyor musun?\nSeni içten içe yok eder, Shuichi.
+11|Sandığımdan daha az ilahisin, Shuichi.
+12|Atua da öyle düşünüyor!
+13|Seninle mutlu bir aile kurmalıyız!
+14|Adamı ve halkını özlesem de\nburası o kadar kötü değil.
+15|Kimse ritüellerimi engellemeye çalışmıyor,\nAtua yok gibi küfürler etmiyor...
+16|Üstelik sen de varsın.
+17|Nyhahaha! Düşündükçe daha da\niyi geliyor!
+## a00_113_700
+0|Angie...\nİlginç bir ismin var.
+1|Ha? Gerçekten mi?\nİsmim o kadar tuhaf mı?
+2|Hayır, aslında "tuhaf" değil...\nBuralı değil misin?
+3|Angie, Atua'yla ilahi bir cennet\nadasında yaşar.
+4|Ah, doğru ama...\nAda nerede? Nasıl bir yer?
+5|Minicik, ilahi bir ada.\nEskiden çok daha büyükmüş...

@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_101_704
+36|Bunu söylemeye hakkın yok!\nNeler yaşadığımı bilmiyorsun!
+37|Hah! Güzel! Gerçekten biraz dişin\nolduğunu görmek güzel.
+38|Haklısın. Bilmiyorum.\nNe de olsa ben sen değilim.
+39|Ve bu yüzden sana bunu söyleyebilirim!
+40|Suçlu bir hileyle paçayı kurtarmaya\nçalışıyordu, değil mi?
+41|Birini öldürüp paçayı kurtarmaya\nçalışıyordu! O kötü biri!
+42|Paçayı kurtarsaydı suçluluğunun\nağırlığı altında ezilirdi.
+43|Ama sen o olmadan onu yakaladın!\nSana teşekkür etmeli!
+45|Merak etme, o aptal sana kin\nbeslese bile...
+46|Sonuna kadar seni destekleyeceğim!\nDoğru olanı yaptığını biliyorum!
+47|Ve sadece o adam için değil!
+48|Bundan sonra biri sana kin beslerse...\nkıçını tekmeleyeceğim!
+49|O yüzden sadece inandığın yolu\nizlemelisin!
+50|Sen benim yardımcımsın. O yüzden çekinme\nve ne zaman gerekirse bana güven!
+51|Kaito... teşekkürler.
+52|<CLT=cltMIND>Pekâlâ, gözü kara biri. Ama beni\ndestekliyor ve karşılığında hiçbir şey beklemiyor...
+53|<CLT=cltMIND>Benim için o kadar çok şey yapıyor ki...\nBuna asla sırtımı dönemem.
+54|<CLT=cltMIND>Desteğine ve güvenine asla ihanet etmeyeceğim.\nKaito'yla bağımı asla koparmayacağım!
+55|...Anlıyorum, Kaito.\nSana her zaman güveneceğim.
+56|Evet! Sadece bana bırak!
+57|<CLT=cltMIND>Kaito'nun gülümsemesi yıldız ışığı kadar\nparlaktı. Elimde olmadan ben de gülümsedim.
+58|<CLT=cltMIND>...Her şey yoluna girecek. Bu bizde\nolduğu sürece ilerleyebiliriz.
+59|<CLT=cltMIND>Bazen onu aşağı çekiyormuşum gibi hissediyorum\nama bir gün yetişeceğimi biliyorum.
+60|<CLT=cltMIND>Eminim gülüp bir yardımcı için epey\ncüretkâr olduğumu söylerdi.
+62|<CLT=cltSYSTEM>Yeni bir beceri öğrendin: <CLT=cltSTRONG>Uzay Yürüyüşü<CLT=cltSYSTEM>.
+## a00_101_902
+0|Bugün bana harika vakit geçirttin...\nYardımcımdan da bu beklenirdi!
+1|Bir dahaki sefere de takılalım! Yardımcımın\nbaşka birini seçmesine izin veremem!
+2|Muhtemelen artık dönmeliyiz.
+3|Seninleyken zaman uçup gidiyor.
+4|Seninle takılmaktan asla sıkılmam,\ndostum. Yakında yine yapalım!
+5|Yurda geri dönelim.
+6|Yorgun falan mısın?
+7|İyi hissetmiyorsan dinlen. Yardımcımın\nyorgunluğu benim yorgunluğumdur.
+8|Ben... önden döneyim.
+9|Hadi ama, dostum. Bir yardımcının\nsorumluluklarını unutma.
+10|Ben dönüyorum...
+## a00_101_914
+0|...Doğru. Bir meydan okumadan asla\ngeri adım atmazsın, değil mi Kaito?
+1|Değil mi!?
+2|Evreni keşfedecek bir adamın bundan\nkorkması mümkün değil!
+3|Özellikle senin önünde.
+4|...Benim önümde mi?
+5|Yardımcımın önünde zayıflık\ngösteremem.
+6|Daha önce ne duyduysan\nunut gitsin.
+7|Bir saniye emin olamadım ama şimdi\nmotivasyondan taşıyorum!
+8|<CLT=cltMIND>Bir şey saklıyormuş gibi\nkonuşuyor...
+9|<CLT=cltMIND>Bence bu konuşma iyi geçti.
+10|Bundan emin değilim, Kaito...\nBazen korkmak normal...
+11|Başkalarını endişelendirmek hiç\nbana göre değil...
+12|B-Ben senin için "endişelenmeye"\nçalışmıyorum falan...
+13|Sorun değil...
+14|Ben ne yaptım?\nÇok utanıyorum.
+15|Yardımcımı hayal kırıklığına uğrattım... Kusura bakma\nama beni biraz yalnız bırakabilir misin?
+16|<CLT=cltMIND>Lanet olsun, bu tuhaf oldu...
+17|Bana asla zayıflığını\ngöstermiyorsun, Kaito.
+18|Evet! Bunu yapmam mümkün değil. Senin\nuzaylı olduğunu söylemek kadar saçma.
+19|*O kadar* saçma değil...
+20|Hayır, benim için gerçekten çok önemli.
+21|Ama bu ruh halinden henüz pek\nsıyrılamıyorum...
+22|Kusura bakma ama şimdilik beni\nyalnız bırakabilir misin?
+23|<CLT=cltMIND>Görünüşe göre bu iyi\ngeçmedi...
+24|Ben senin yardımcınım...\nama aynı zamanda arkadaşınım, Kaito.
+25|Belki yardımcına zayıflık göstermezsin.\nAma arkadaşına gösterebilirsin.
+27|Yardımcına açılmak\nistemiyorsan...

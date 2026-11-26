@@ -1,0 +1,71 @@
+@ ainori_text_US
+## a00_300_111
+16|Unutmadın, değil mi!?
+17|Tabii ki hatırlıyorsun! Beni değiştirmek için\nbu kadar uğraştığına göre, değil mi!?
+18|<CLT=cltMIND>Tenko'yu değiştiren\nşey...
+19|Erkeklerin de insan olduğunu gördü
+20|Erkeklerin ne kadar harika olabileceğini gördü
+21|Ustasının erkek olduğunu fark etti
+22|Erkeklerin de insan olduğunu mu gördün?
+23|B-Benimle dalga mı geçiyorsun!?
+24|Yoz erkeklerin insan olduğunu zaten\nbiliyordum!
+25|Onlardan bu kadar nefret etmemin\nsebeplerinden biri de bu!
+26|<CLT=cltMIND>Bu daha da büyük bir sorun\ngibi geliyor...
+27|<CLT=cltMIND>Bu yanlıştı.\nTenko'nun fikrini değiştiren şey...
+28|Erkeklerin ne kadar harika olabileceğini mi gördün?
+30|Eğer doğruysa beni aydınlatman\ngerekecek.
+31|Ama var olmayan bir şeyi bana\nanlatamayacağına epey eminim.
+32|<CLT=cltMIND>Bu yanlıştı.\nTenko'nun fikrini değiştiren şey...
+33|Ustanın erkek olduğunu fark ettin.
+34|Evet! Kesinlikle bu!
+35|Pandora'nın kutumu açtın!
+36|Ama bunu fark edebildiğim için\nolgunlaştım.
+37|Olgunlaştın mı?
+38|Neo-Aikido'nun erkekleri daha iyiye\ndeğiştirme gücü olduğunu keşfettim!
+39|Bu bir yıldırım gibi aydınlanmaydı!
+40|Neo-Aikido'yu kullanmaya devam edersem...
+41|Bütün yoz erkekleri sadece yoz olmaktan\nöte bir şeye dönüştürebilirim!
+42|Dünyayı çirkin, iğrenç yozlardan\ntamamen kurtarabilirim!
+44|O zaman!\nShuichi, lütfen Neo-Aikido'da ustalaş!
+45|Sadece bir yoz olmaktan öteye geçtiğinde\nyanında nefesimi tutmayı bırakacağım!
+46|Bunca zaman nefesini mi\ntutuyordun!?
+47|Ah! Neo-Aikido'da ustalaşmak sana fazla zor\ngelirse cinsiyet değiştirmek çok daha hızlı olur!
+48|Ben kesinlikle ikincisini tercih ederim!
+49|Ah, e-evet... Düşüneceğim.
+50|<CLT=cltMIND>Kafam biraz karışsa da...\nTenko'ya gülümsemeden edemedim.
+51|<CLT=cltMIND>Gülümsemesinden bana olan inancını\nhissedebiliyordum.
+52|<CLT=cltMIND>Farkına bile varmadan kalbim daha\nhızlı atmaya başladı.
+53|<CLT=cltMIND>Evet, Tenko hâlâ erkeklerden nefret ediyor ama...
+54|<CLT=cltMIND>Belki de ben... sevebilirim...
+56|<CLT=cltMIND>İlişkimiz kurguda başladı...\nama atan kalbim gerçek.
+## a00_300_112
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nTsumugi'yle baş başa konuşmaya karar verdim.
+3|Buradaki hayatımızın son günü bugün.\nBiraz yalnız hissettiriyor...
+4|Keşke biraz daha burada kalabilsek\ndiyorum...
+5|...Gerçekten mi?\nBen gittiğim için sadece mutluyum.
+6|Yani tabii ben de mutluyum ama...
+7|Nasıl desem... Buradaki zamanımız neredeyse\nkurgu gibiydi, değil mi?
+8|O yüzden fırsatım varken daha çok\ntadını çıkarmalıymışım gibi hissediyorum.
+10|<CLT=cltMIND>Sanırım <CLT=cltSTRONG>Ultimate Kostümcü'nün<CLT=cltMIND>\nböyle düşünmesi o kadar da tuhaf değil.
+11|Ah, daha önemlisi,\nhatırlıyor musun?
+12|Buradan çıkıp birlikte kostüm giymekle\nilgili yaptığımız o konuşmayı.
+13|Buradan çıkmayı en çok senin kostüm\ngiydiğini görmek için istiyorum.
+14|Tabii ki hatırlıyorum...
+15|Benim kostümümü yapacaksın,\ndeğil mi?
+16|Evet. Tabii ki neyin kostümünü\ngiyeceğini hatırlıyorsun, değil mi?
+17|Ah, t-tabii ki hatırlıyorum...
+18|<CLT=cltMIND>Kostümünü giyeceğim karakter...
+19|Bir pembe dizi karakteri
+20|Ünlü bir animeden bir karakter
+21|Çocukluğumdan bir kahraman karakteri
+22|Bir pembe dizi karakteri, değil mi?
+23|Ha...? Bunu da nereden çıkardın?
+24|Dedektiflerin hafızası sandığım kadar\niyi değil mi?
+25|<CLT=cltMIND>Bu yanlıştı.\nKostümünü giyeceğim karakter...
+26|Akşam yayınlanan ünlü bir animeden\nbir karakter, değil mi?
+27|O saatte yayınlanan kaliteli bir sürü\nanime olduğu kesin...
+28|Ama onlardan bahsetmemiştik,\ndeğil mi?
+29|Yoksa fikrini mi değiştirdin?
+30|<CLT=cltMIND>Bu yanlıştı.\nKostümünü giyeceğim karakter...
+31|Çocukluğumdan bir kahraman karakteri.\nBeyaz Kanata.
+32|Evet! Kanata!

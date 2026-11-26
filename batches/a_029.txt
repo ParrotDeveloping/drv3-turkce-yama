@@ -1,0 +1,59 @@
+@ ainori_text_US
+## a00_101_700
+32|Ama ondan daha önemli bir şey var.\nVe o şey...
+33|Yetenek mi? Hiç uzmanlığın yoksa uzaya\ngitmek söz konusu bile olamaz.
+34|Eh, mantıklı. Uzayda bir sürü test\nyapman gerekiyor.
+35|Ama yeteneğin ne olursa olsun kesinlikle\nihtiyacın olan bir şey var.
+37|İletişim! Bir astronot için en önemli\nşey takım çalışması.
+38|Evren, dünya insanlarının birlikte meydan\nokuduğu bir sınır.
+39|Ve birlikte çalışmamız gerektiği için\niletişim hayati!
+40|Bu gerçekten çok önemli görünüyor...
+41|Değil mi? Bunu işe alım sınavında\nkontrol ediyorlar.
+42|Bu yüzden dil eğitimine ihtiyacın var!\nTemel eğitimin dörtte birini oluşturuyor.
+43|Tabii ben Japonca, İngilizce ve Rusçayı\nakıcı konuşabiliyorum!
+44|Sadece dilleri öğrenmedim, her kültürü\nde öğrenmem gerekti.
+45|<CLT=cltMIND>Kültür, ha?\nKaito'dan bunu duyacağımı hiç düşünmezdim...
+46|<CLT=cltMIND>...Ah, dur.\nŞimdi düşününce...
+47|<CLT=cltMIND>Birden fazla dil konuşabiliyor, bilgili ve\nastronot olmak için gerekenlere sahip.
+48|<CLT=cltMIND>...Onu hafife alıyormuşum.\nKaito inanılmaz!
+49|Lanet olsun! Antrenmana dönmek istiyorum!\nEvren elimden kaçıyor!
+50|Dünyanın bu Yıldızların Işığı'nın daha da\nparlak parlamasına ihtiyacı var!
+51|<CLT=cltMIND>...Bundan pek emin olmadığımı ona\nsöylemeye kıyamıyorum.
+53|<CLT=cltMIND>Kaito ile yollarımızı ayırdık ve\nodama döndüm.
+## a00_101_701
+0|Pekâlâ! Bugün sana kendimi\nanlatacağım!
+2|Bilmek istiyorsun, değil mi? Evren\nhakkında neden bu kadar güçlü hissettiğimi!?
+4|Güzel! Öyle düşünmüştüm!
+5|<CLT=cltMIND>Daha cevap bile vermedim!
+6|Baştan uyarayım, uzun bir hikâye olacak...
+7|<CLT=cltMIND>Yani beni dinlemeye zorlamakla kalmıyorsun,\nbir de uzun bir hikâye...
+8|Çocukken bazen oynamak için dedemin\nevine giderdim...
+9|Epey büyük bir deposu vardı. Hazine\narayarak içinde koşturup dururdum.
+10|Bir gün depoda etrafa bakınırken\nbir harita buldum...
+11|Harita mı? Neyin haritası?
+12|Dur! Her şey sırayla!
+13|Denizin saklı hazinelerinin haritasıydı...\nBir hazine haritası!
+14|<CLT=cltMIND>Bunun uzay hakkında bir hikâye\nolacağını sanıyordum!
+15|O haritayı bulduktan sonra bir karar\nverdim ve yola çıktım...
+16|En yakın rehinciye gidip haritayı biraz\nparaya sattım!
+17|Sattın mı!?
+18|Ben, Yıldızların Işığı Kaito Momota, maceraya\natılmak için asla bir haritayı takip etmem!
+19|Haritalardan özgür, kendi maceralarımı\nbulduğum bir hayat... bana göre hayat bu!
+21|Ama deniz yine de beni çağırıyordu, ben de\nbir tekne alıp yolculuğa çıktım.
+22|<CLT=cltMIND>Bunak mı yoksa sadece çok dobra mı\nanlayamıyorum...
+23|Kaptan olduktan kısa süre sonra kaderimdeki\nrakiple tanıştım!
+24|Rakibin mi?
+25|Evet! Büyük Korsanlar'ın patronu!
+26|<CLT=cltMIND>...Peki uzaya ne\noldu!?
+27|Savaş meydanında defalarca çarpıştık,\no kadar ki arkadaş olduk...
+28|Ama denizleri kimin fethedeceğini görmek\niçin yaptığımız son savaşta...
+29|Kazanabilirdim ama ben sadece denizle\nyetinecek biri değilim.
+30|Hayır! Ben sadece dünyayla yetinecek\nbiri değilim!
+31|Bu yüzden onu son bir yumrukla\nbitiremedim...
+32|Kendimi tuttuğum için bana kızdı.\nO günden beri görüşmedik...
+34|Bu hikâye daha ne kadar sürecek?
+35|Yazar olabilirdin, Kaito...
+36|(Dinlemeye devam edeceğim...)
+38|<CLT=cltMIND>Şüphenin faydasından yararlansa bile bu\nhikâye biraz şüpheli geliyor...
+40|Ne o, bunların hepsini uydurduğumu\nmu düşünüyorsun?
+41|H-Hayır, öyle demek istemedim! Sadece\nbunun uzayla hiçbir ilgisi yok...

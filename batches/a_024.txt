@@ -1,0 +1,29 @@
+@ ainori_text_US
+## a00_101_000
+6|Hey... hâlâ şakaymış gibi davranabiliriz,\no yüzden kaldır onu.
+8|D-Dur... onu yanıma yaklaştırma.\nAnladın mı?
+9|Neden böyle tuhaf bir şeyin var ki!?\nÇöpe at onu!
+14|Dalga mı geçiyorsun? Bununla ne\nyapmam gerekiyor?
+15|Neyin var senin?\nHiç sana göre değil bu, dostum!
+16|Gerçekten böyle bir şeyden hoşlanacağımı\nmı düşündün? Hadi ama, dostum...
+17|Benimle dalga mı geçiyorsun?\nYok, geçmezsin ama...
+24|Bir sürü şeyin var, ha?
+25|Bana sadece çöplerini kakalamaya\nçalışmıyorsun, değil mi?
+26|Ha? Bu ne?\nNereden buldun?
+27|Eh, senden bir hediyeyse\nkesinlikle kabul ederim.
+46|Bunu bana mı veriyorsun?\nHaha, beni çok iyi tanıyorsun!
+47|Pekâlâ! Bu havalı hediyeye teşekkür olarak\nsana havalı bir hikâye anlatacağım!
+48|Ah, bu epey ilginç.
+49|Bu, Yıldızların Işığı için neredeyse kusursuz\nbir hediye! Doğru yoldasın.
+54|Ah, güzel! Bu hediye tam on ikiden vurdu!\nDüşüncen tam kalbime isabet etti!
+55|Pekâlâ! Bana verdiğine göre sana bu şey\nhakkında her şeyi öğreteceğim!
+56|C-Ciddi misin!? Bunun buralarda\nbulunabileceğini düşünmemiştim!
+57|Kaede... bu beni çok mutlu etti!\nSarıl bana!
+61|Tahmin ettiğim gibi... hayır, harika iş!\nÇok mutluyum!
+## a00_101_050
+0|Ah, bu harika!\nSeninle konuşmak istiyordum!
+1|Bu surat ne?\nBir şey konuşmak mı istiyorsun?
+2|Hey, seni arıyordum, dostum!\nBugün takılacağız, değil mi?
+3|Beni davet etmeye geldin, değil mi?\nTabii ki! Sen benim yardımcımsın!
+9|Randevuya çık
+13|Yardımcımdan da bu beklenirdi!\nErkek erkeğe konuşalım!

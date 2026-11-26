@@ -1,0 +1,68 @@
+@ ainori_text_US
+## a00_190_440
+0|<CLT=cltMIND>Tahtalardaki gözleri saymayı\noyuna çevirdik.
+1|<CLT=cltMIND>Zeminin ne kadar soğuk olduğunu\ntest ederek oyalandık.
+2|<CLT=cltMIND>Topu havaya fırlatarak\noyalandık.
+3|<CLT=cltMIND>Bütün kas gruplarımızı kullanmaya\nçalışarak oyalandık.
+## a00_190_540
+0|<CLT=cltMIND>Avluyu keşfederek\noyalandık.
+1|<CLT=cltMIND>Çukur kazıp doldurmayı\noyuna çevirdik.
+2|<CLT=cltMIND>Otları yolup yeniden dikmeyi\noyuna çevirdik.
+3|<CLT=cltMIND>Hızla oturup kalkarak\noyalandık.
+## a00_200_240
+0|<CLT=cltSYSTEM>Eğlendin mi?\nJetonları ödüllerle takas edebilirsin!
+4|<CLT=cltSYSTEM>Bugünlük oynamayı bitirip yarına\nhazırlanmak ister misin?
+6|[Geçici] Jeton Değişimi
+7|[Geçici] Ödül Değişim Gişesi
+## a00_200_241
+0|Kumarhanede jeton kazanırsan onları\nödüllerle takas edebilirsin!
+1|Burada jeton kazanarak Randevu Biletleri\nde alabilirsin!
+2|Kumarhane jetonlarını benden satın alabilirsin!
+3|Ama sana bir sürü Monocoin'e patlar!
+4|Jetonlarınla hangi ödülü alacağını bilmiyorsan\nMonomergen-C'yi tavsiye ederim!
+5|Gün içinde kullanman için sana fazladan\nbir Serbest Zaman dilimi verir!
+6|...Neden öyle yapıyor ki?
+7|Bilmiyorum. Aklım ermiyor...
+8|...RI-CO-LAAAA.
+9|1000 jetonum olduğunu sanıyordum ama\nşimdi sıfıra düştüm...!
+10|Monodam'ı rehinciye satmam\ngerekecek...!
+14|<CLT=cltSYSTEM>Çıkarsan bir daha gelip oynayamazsın.\nKumarhaneden çıkmak ister misin?
+15|<CLT=cltMIND>Bu OUTLAW RUN,\nbir araba oyunu.
+21|<CLT=cltSYSTEM>Hedefleri tarzla topla ve en yüksek\npuanı almaya çalış!
+22|<CLT=cltSYSTEM>Çoklu toplamaya çalış, kombolar tarz işi!\nMonodam sayar ve Monokid hızlanır!
+27|<CLT=cltMIND>TREASURE HUNTERS!\nHazine aradığın bir oyun...
+32|<CLT=cltSYSTEM>TREASURE HUNTERS\nHazine Avı Rehberi
+39|<CLT=cltMIND>EXTREME FISHING!\nSomon avladığın bir oyun.
+44|<CLT=cltSYSTEM>EXTREME FISHING!\nSomonit'e Giden Yol
+## a00_300_100
+0|<CLT=cltMIND>Böylece Monokuma'nın bize verdiği\non gün geçti...
+1|Evet, on gün geçti.\nVe görünüşe göre...
+2|Shuichi işi bağlayamadı...
+3|hiç kimseyle!
+4|Ş-Şimdi ne olacak?
+5|Bilmem.
+6|Gözden düşmüş ünlüler...\nProjeleri iptal edilen sanatçılar...
+7|Hayallerinin peşinden gitmenin risklerini\nbiliyorlardı ve yine de başaramadılar.
+8|O yüzden o başarısızlığın sorumluluğunu\nalmalılar, değil mi?
+9|Kendi başına başaramadığın için kendi başınasın.\nO yüzden sana ne olacağını bilmiyorum.
+10|A-Ama bu benim suçum değil, buraya\ngelmeyi ben seçmedim...
+11|Bıörk! Hıörk! Kelime oyunun midemi\nbulandırıyor!
+12|Onun yerine aşk oyununa daha çok\nzaman ayırmalıydın.
+13|Her neyse, bu noktadan sonra sana ne\nolacağını bilmiyorum.
+14|Kaçmaya çalış ya da pes edip kendini öldür...\nNe istersen yap!
+15|Pekâlâ, sonra görüşürüz!
+16|<CLT=cltMIND>Her zamanki alaycı tonuyla böyle dedi\nve gözden kayboldu.
+17|<CLT=cltMIND>...Bu akademi artık Monokuma'nın\nkontrolünde.
+18|<CLT=cltMIND>Ama işte bu yüzden...
+19|<CLT=cltMIND>Umutsuzluktan kaçamıyorum.
+20|<CLT=cltMIND>Tek başıma kaçmamın imkânsız\nolduğunu biliyorum...
+21|<CLT=cltMIND>Monokuma gittiyse o zaman...
+22|<CLT=cltMIND>Bilincim hızla soldu...
+23|<CLT=cltMIND>Akademideki günlerim böyle\nsona erdi...
+25|<CLT=cltMIND>Hayır, bitmeyecek...
+26|<CLT=cltMIND>Ben ölene kadar bitmeyecek.
+27|<CLT=cltMIND>Asla bitmeyecek <CLT=cltSTRONG>son<CLT=cltMIND>.\nKollarımı açarak bekliyorum.
+## a00_300_101
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nKaito'yla baş başa konuşmaya karar verdim.
+1|<CLT=cltMIND>Bu, bu akademide geçireceğimiz\nson gün...
+2|<CLT=cltMIND>Bu okul hayatı çılgıncaydı ama şimdi\ngeriye bakınca güzel zamanlarımız oldu.

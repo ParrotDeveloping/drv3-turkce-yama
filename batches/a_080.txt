@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_107_120
+12|Umarım bir gün tıpkı komedi filmleri gibi insanları\ngülümseten türde bir robot olurum.
+13|Animeden de hoşlanırım.
+14|Özellikle robotların iyilik için bir güç olduğu\nanimelerle gerçekten bağ kuruyorum.
+15|Belki bu filmler popülerleştikçe robot fobisi\ntoplumdan yok olur.
+16|Bir gün ben de robot fobisini ortadan\nkaldırmada aktif rol oynayacağım!
+## a00_107_130
+2|Biraz gazoz içelim
+3|Rulo posterlerle kılıç dövüşü yapalım
+4|Kendimizi videoya çekelim
+5|Hıh...! Bu, insan gibi yiyip içememe karşı\nimalı bir laf sokma mıydı?
+6|Yiyip içemesem ne olmuş? İnsanların yapamadığı\nama benim yapabildiğim bir sürü şey var!
+7|Farklılıklarımız bizi özel kılar!\nRobot tacizin için seni dava edeceğim, anladın mı!?
+8|Şu an hissettiğin çocukça neşeyi\nanlıyorum...
+9|Ama ne zamanı ne de yeri.
+10|...Sonsuza dek çocuk kalamayız, biliyorsun?
+11|Yaşımıza uygun davranmayı hatırlamaya\nçalışalım...
+12|<CLT=cltMIND>Keebo sonsuza dek çocuk kalmak için\nayarlarını falan değiştiremez mi...?
+13|<CLT=cltMIND>Hayır, dur... bu robot fobikçe.
+14|O zaman korkusuz bir kahraman hakkında\ndramatik bir video mu çekelim?
+15|Kahraman tabii ki ben olacağım, sen de\nmasum bir seyirci olabilirsin.
+16|Kötü adam seni öldürmek üzereyken seni\nkurtaracağım ve bunu yaparken muhteşem görüneceğim!
+17|Bu videonun genç kitle arasında viral\nolacağından hiç şüphem yok!
+## a00_107_210
+3|Şeker yiyelim
+5|O zaman soğan doğrama görevini\nbana bırak.
+6|Neyse ki gözyaşı dökme işleviyle\ndonatılmadım!
+7|Yani gözlerim tamamen açıkken soğanı\nince ince doğramak benim için sorun değil...
+8|Hatta en dokunaklı anlara bile tanık olsam\ngözyaşı kanallarım kılını bile kıpırdatmaz!
+9|<CLT=cltMIND>Gözyaşı kanalları var mı ki...?
+10|Şeker mi...?
+12|Şeker yapabilen yapay zekâlı bir robot\nkendi başına bir iş olabilir, değil mi!?
+13|Müşterilerin bir robotun yaptığı şekeri almak\niçin sıraya gireceğinden eminim!
+14|...Ama reddetmek zorundayım.
+15|İleride hatırlaman için söylüyorum, lütfen\nyiyecek ve içecek tüketemediğimi aklında tut...
+16|Yoksa bunu zaten biliyor muydun? Şu an robot\nfobiklik yapmıyorsun, değil mi!?
+## a00_107_220
+3|Sadece tembellik yapalım...
+5|Seni bu fikri önermeye neyin sevk\nettiğini bilmiyorum...
+6|Narin mekanizmam zarar görseydi Profesör\nIdabashi'nin yüzüne bakamazdım...
+7|Bende arızaya yol açmaya çalışmıyorsun,\ndeğil mi?
+8|Hmhm... Mükemmel bir fikir.
+9|Buradaki hapsimiz şüphesiz acil bir\ndurum teşkil etse de...
+10|Her durumda insan da robot da zihinsel\nrahatlamadan faydalanabilir!
+11|Pekâlâ, bugün tembel ve verimsiz olmak\niçin elimizden geleni yapalım!
+12|Yiyecek ve içecek tüketemediğim için\noruç benim için sorun değil...
+13|Ama oruç tutmak genel sağlığın için\nzararlı olmaz mı, Shuichi?
+14|S-Sen... hapsin baskısına yenik mi\ndüşüyorsun...?
+15|Bu hiç iyi değil! Lütfen moralini yüksek\ntutmaya çalış!
+## a00_107_230
+3|Yemekten sonra şekerleme yapmak
+5|B-Bu da ne demek oluyor!?\nŞaka yapıyor olmalısın!
+6|Ve... bu konuda ne yapmamı bekliyorsun?\nÜreme işlevleriyle donatılmadım...
+7|Dur, mesele o değil!
+8|Kendim anlamasam da yemekten sonraki\nuyuşukluğun epey yoğun olabildiğini duydum.
+9|Bir robot olarak o hissin bendeki\nkarşılığı ne acaba...
+10|Belki de ekran koruyucumun açılmasından\nhemen önceki an.
+11|<CLT=cltMIND>...Keebo'nun ekranı\nnerede ki...?
+12|Bu mükemmel bir zihniyet! Profesör Idabashi\nde bunun güçlü bir savunucusuydu!
+13|Yemek sonrası uyuşukluk yoğun olabilir ama\nsadece yiyip uyursan ineğe dönüşürsün.
+14|İneğe dönüşmeni istemiyorum, Shuichi!\nGel, koşuya çıkalım!
+## a00_107_310
+5|N-Ne diyorsun sen!?

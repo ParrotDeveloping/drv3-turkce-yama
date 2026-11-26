@@ -1,0 +1,56 @@
+@ ainori_text_US
+## a00_112_700
+25|Buna sadelik mi diyorsun? Bence hazırlıklı\nolmak iyi bir şey.
+27|<CLT=cltMIND>Ha? Neden öyle bir surat yapıyor?\nBir şeye canı sıkılmış gibi görünüyor.
+28|Haberin olsun diye söylüyorum, sadelik\nlistem burada bitmiyor.
+29|Gerisini duyunca "Vay be, ne kadar\nsade biri!" diye düşüneceksin.
+30|<CLT=cltMIND>Bu konuda neden bu kadar\nısrarcı!?
+31|Bir kere, öğretmen sınıfta yoklama\nalırken beni atlar.
+32|Yani sayıldığımdan emin olmalıyım yoksa\ndevamsız yazılırım! Berbat değil mi?
+33|Sonra, takımlara ayrılırken sade olduğum\niçin hep en son seçilirim.
+34|Sonra, izin günümde şehre gittiğimde...
+35|Sokakta beni fark etmeyen insanların\narkasında kalırım çünkü sadeyim.
+36|Sonra bir mağazaya giderim ve hiçbir\ngörevli yardım etmez çünkü sadeyim.
+37|<CLT=cltMIND>"Çünkü sadeyim" hızla senin tekerleme\nsözün oluyor, Tsumugi...
+38|Ve sadece mendiller değil. İç çamaşırım\nda beyaz. Çünkü sadeyim.
+39|<CLT=cltMIND>İç çamaşırı mı!?
+40|Trene biletsiz binsem bile kimse\nfark etmez çünkü sadeyim.
+41|Ayrıca sinemaya biletsiz girebilirim\nçünkü sadeyim.
+42|A-Ama bu yasa dışı!
+43|Şaka şaka. Ama yapabileceğime eminim.\nO kadar sadeyim ki pek varlığım hissedilmez.
+44|Bu yüzden uluslararası bir casusum.\nGizli operasyonları bana bırak.
+45|Casus mu!?
+46|O da... şakaydı.\nBuna kanacağını düşünmemiştim.
+47|Yoksa kanmış gibi mi yaptın? Sandığımdan\ndaha mı şakacısın?
+48|<CLT=cltMIND>Hayır, tam olarak öyle değil...
+49|<CLT=cltMIND>Ne de olsa buradaki <CLT=cltSTRONG>Ultimate'ler<CLT=cltMIND>\narasında gerçek bir casus olabilir.
+50|Shuichi, tarikatlara ve dolandırıcılara\ndikkat et. Kandırılacaksın diye endişeleniyorum.
+51|<CLT=cltMIND>Ama... Tsumugi eğleniyor gibi görünüyor.\nSanırım sorun yok.
+53|<CLT=cltMIND>Tsumugi'yle yollarımızı ayırdık\nve odama döndüm.
+## a00_112_701
+0|Shuichi, geceleri ne yaparsın?\nHemen uyur musun?
+1|Şey, pek yapacak bir şeyim yok,\no yüzden genelde hemen yatarım.
+2|Ben de başta öyle yapıyordum ama artık\ngenelde geç saate kadar uyanığım...
+3|Saat 10 uyumak için çok\nerken geliyor.
+4|O yüzden uykum gelene kadar bir sonraki\nkostümüm için kâğıt kalıplar yapıyorum.
+5|Aklıma geldi, kıyafetleri yapmayı giymekten\ndaha çok sevdiğini söylemiştin, değil mi?
+6|Evet, başkalarının giymesinde sorun yok.\nDaha önce de söylemiştim ama...
+7|Bazı insanlar karakterlerinden çok\nkendilerini öne çıkarmaya başladı.
+8|Bu yüzden sevgiyle kostüm giyiyorsun.
+9|Tabii ki karakterlerinin önemli olduğunu\ndüşünen kostümcüler hâlâ var.
+10|Ama... en kötüleri karakterleri sadece\nbir basamak olarak kullanıyor.
+11|Basamak mı?
+12|İnsanlar kostümle ünlü olabiliyor,\nyani oradan sonra...
+13|Bazıları o şöhreti ünlü ya da idol\nolmak için kullanmaya çalışıyor.
+14|Sanırım doğru,\nonlar için bir basamak.
+16|Bana saygısızlık etmeleri sorun değil ama\nkarakterlere saygısızlık etmelerine izin vermem!
+17|Ama böyle sinirlendiğimde bana elitist\ndeyip dinlemeyi bırakıyorlar...
+18|<CLT=cltMIND>Tsumugi şakaklarını ovuşturarak iç çekti.\nBu ciddi olmalı...
+19|İnsanlar ilk kostüm giymeye başladığında...
+20|Sırf karakterleri sevdikleri için onlar\ngibi giyinmek isterler.
+21|Ama çok geçmeden... çarpılır. Ne kadar\nuzun yaparsan o kadar çarpılır.
+22|Çarpılır mı? Ama his değişmez,\ndeğil mi?
+23|Şeyy, yani... kostümde çoğu hobiye göre\nbaşkalarıyla daha çok temasın olur.
+24|Başta kıyafetleri giymek sadece\neğlencelidir ama...
+25|Sonra kıyaslamaya, fikirlerini dayatmaya,\ndrama çıkarmaya başlarsın...
+26|Ve farkına varmadan, karakter gibi\ngiyinme isteği...

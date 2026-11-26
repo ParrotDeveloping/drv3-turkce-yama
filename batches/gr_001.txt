@@ -1,0 +1,11 @@
+@ game_resident_US
+## D-Menu
+102|Kayıt verisi yükleme tamamlandı.
+103|Kayıt verisi yükleme başarısız oldu.
+104|Kayıt verisi indirme tamamlandı.
+105|Kayıt verisi indirme başarısız oldu.
+106|Yüklenmiş veri bulunamadı.
+107|Başka bir kullanıcının kayıt verisi okunuyor.\nVeri yüklenemez.
+109|Kayıt verisi indirme tamamlandı.\nKaydetmeden oyunu kapatırsan\nindirilen kayıt verisi kaybolacak.\nİndirilen kayıt verisini kaydetmek istiyor musun?
+## S-SaveLoad
+12|Ağ:

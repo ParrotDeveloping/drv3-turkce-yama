@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_115_530
+11|Evet! Düşünmesi bile beni heyecanlandırıyor!
+12|Bu aptal akademiden çıkalım!
+13|Ne diyorsun sen!?\nBurada kesinlikle kalamazsın!
+14|Birlikte çalışıp buradan çıkmanın bir\nyolunu bulmalıyız, tamam mı!?
+15|Benimle aynı şeyleri hissettiğini sanmıştım\nama... hissetmiyorsun, değil mi?
+## a00_115_700
+0|Ah, evet. Müzik hakkında pek bir\nşey bilmiyorsun, değil mi Shuichi?
+1|Popüler olanları biraz takip ediyorum?\nKlasik hakkında hiçbir şey bilmiyorum.
+2|Sanırım doğru. Normal lise erkekleri\nklasik müzik dinlemez...
+3|Ama Chopin'i kesinlikle duymuşsundur,\ndeğil mi?
+4|Evet. Epey ünlü, o yüzden\nkesinlikle duydum.
+5|Chopin birçok solo besteledi ve ona\nPiyanonun Şairi bile denirdi.
+6|Bu unvan başta sana bir şey ifade etmeyebilir\nama eserlerini dinleyince anlayacaksın.
+7|Hep konserlerde çalardı.
+8|Sen de konser veriyorsun, değil mi Kaede?
+9|Tabii ki! Ben şahsen Prelüd Op. 28 No. 15'i,\nnam-ı diğer Yağmur Damlası prelüdünü severim.
+10|Ah, evet. Chopin demişken...
+11|Bir keresinde bir kralın önünde Üç Vals\nOp. 34'ü çalmıştım.
+12|Kral mı?
+13|Evet, bir Avrupa kralı.\nKimliğini gizli tutmak zorundaydı.
+14|Ne!?\nNeden bunu yapmak zorundaydı!?
+15|Uluslararası bir yarışmadaki performansımı\nhaberlerde görmüş, o yüzden Japonya'ya gelmiş.
+16|Vay...
+17|Ama sıradan biri gibi görünüyordu.\nMasallardaki krallara hiç benzemiyordu.
+18|<CLT=cltMIND>Bir kralın "sıradan biri" denmesinden\nhoşlanacağını sanmıyorum.
+19|Ama bir kral gibi konuşuyordu! Konuşması ve\ntavırları kesinlikle bu çağa ait değildi!
+20|"Sanki parmaklarında bir tanrı yaşıyor!"
+21|Bunu söylerken diz çöktü!\nNe diyeceğimi bilemedim!
+22|<CLT=cltMIND>Ben... buna nasıl karşılık\nvereceğimi bilmiyorum.
+23|Başka ünlü insanlar da geldi mi?
+24|Evet, sayılır. Juilliard'dan bir temsilci,\nünlü piyanistler...
+25|O zaman çok gergindim.\nYani sonrasında bana ne diyeceklerdi?
+26|Ama sonunda her zamanki gibi çaldım\nve beğenmelerini umdum.
+27|Bu inanılmaz... Böyle hayranların varsa\ngerçekten harika olmalısın...
+28|Hahahaha!\nOlur mu öyle şey, Shuichi!
+29|Ben sadece Piyano Delisi olan sıradan\nbir lise kızıyım.
+30|Bu kadar önemli insanların sıradan bir\npiyanisti görmeye geleceğini sanmıyorum.
+31|Şey, sen <CLT=cltSTRONG>Ultimate Dedektif'sin<CLT=cltNORMAL>, Shuichi.
+32|Bir gün ünlü insanlar davalarını çözmen\niçin senden ricada bulunacak.
+33|<CLT=cltMIND>Ah, hayır, muhtemelen değil...
+34|<CLT=cltSYSTEM>Kaede'yle yaşadıklarına göre Kaede'nin\n<CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> güncellendi.
+35|<CLT=cltMIND>Kaede'yle yollarımızı ayırdık\nve odama döndüm.
+## a00_115_701
+1|Ah! Ne!?\nBu kadar yaklaşıp korkuttun beni!
+2|Hay aksi, pardon!\nSadece çok heyecanlandım!
+4|Birlikte piyano düeti çalalım!
+5|Piyano düeti mi?
+6|Ah, doğru. Henüz bilmiyorsun.
+7|Düet, iki kişinin aynı piyanoda\nçalmasıdır.
+8|Bu yapılabiliyor mu?
+9|Tabii ki, ne de olsa piyanonun 88 tuşu var!
+10|<CLT=cltMIND>Şimdi söyleyince,\npiyanolar epey geniş sanırım...
+11|Piyano hakkında daha çok şey bilmeni istiyorum!\nBu yüzden seninle düet mükemmel olur.
+13|Ha, ne oldu?\nBir sorun mu var?
+14|S-Sadece... Seninle çalmak büyük bir\nonur olurdu, bilmiyorum...
+15|Boş ver!\nBen sadece normal bir lise kızıyım!
+16|Ah! A-Ama daha önce hiç piyano çalmadım!
+17|Başta herkes öyledir!\nZaten yeni şeyler denemelisin!
+18|<CLT=cltMIND>Kendimi kısa sürede Kaede'nin\nlaboratuvarında, piyanosunun önünde buldum.
+19|Tamam, pratiğe başlayalım.\nPiyanonun önüne otur, Shuichi.
+21|Şimdi parmaklarını tuşlara koy.
+22|Böyle mi...?
+23|Ah, parmaklarını düz koyma. Parmaklarını\nhafif tut ve tuşlara çok sert basma.
+24|Ah... böyle mi?

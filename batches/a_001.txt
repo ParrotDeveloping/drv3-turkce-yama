@@ -1,0 +1,89 @@
+@ ainori_text_US
+## a00_000_001
+3|<CLT=cltSYSTEM>Açılış olayını yeniden\nizlemek ister misin?
+## a00_000_002
+0|<CLT=cltMIND>Hata Ayıklama Seçenekleri
+2|Açılışı Geç
+3|Son
+4|Ainori'ye
+5|Kokoronpa ya da Gece
+6|Her karakterin sonu
+7|Geceyle
+8|Gecesiz
+10|<CLT=cltSYSTEM>Geceyle ya da Gecesiz
+11|Kokoronpa
+12|Gece
+14|<CLT=cltSYSTEM>Kokoronpa ya da Gece
+15|Gerçek
+16|Sonsuza Dek Yalnız
+17|Seni endişelendiren bir şey mi var?
+18|<CLT=cltSYSTEM>Hangisini görmek istersin?
+## a00_001_007
+0|Shuichi! İyi misin!?
+1|Hey, Shuichi!
+2|<CLT=cltMIND>Shuichi...?
+3|<CLT=cltMIND>...O benim.
+4|<CLT=cltMIND>Kaede adımı söylüyor...
+5|<CLT=cltMIND>Ah... neredeyim ben...?\nBurada ne yapıyorum?
+6|Hatırlıyorum... her zamanki gibi okula\ngidiyordum...
+7|Birden ben...\nbir arabaya itildim...
+8|Ne olduğunu anlayamadan\nbilincimi kaybettim.
+9|...Doğru, burası Ultimate Akademi ve\nbiz... Biz...
+10|Ultimate yetenekleri olan\n16 lise öğrencisiyiz.
+11|Ve sonra...
+12|Monoyavrular...
+13|Bize alanı incelememizi emrettiler.
+14|Zil miydi o!?
+15|Kaede, monitöre bak!
+16|Hiiii! Sabrınız için teşekkür ayılarız!
+18|Sizi bekletmişiz alçaklar, ha!?
+19|Herkes lütfen spor salonuna gelsin.
+20|Açılış töreni nihayet başlayabilir!
+21|Of! Sonunda hazırlıklarımızı bitirdik!
+22|...Repliklerini tersten okuduğunun farkındasın,\ndeğil mi?
+24|<CLT=cltMIND>Spor salonu mu...? Açılış töreni mi?
+25|Kaede... ne yapalım?
+26|Ne mi yapalım? Gideceğiz tabii ki. Muhtemelen\nherkes aynı şeyi yapıyordur.
+27|Doğru ama... bu konuda biraz endişeliyim...
+28|<CLT=cltMIND>Açıkçası <CLT=cltSTRONG>biraz<CLT=cltMIND>dan\nfazlaydı.
+29|<CLT=cltMIND>Endişeme rağmen spor salonuna\ndoğru yola çıktık.
+30|<CLT=cltMIND>Vardığımızda tekinsiz bir ses\nkulaklarımızı karşıladı.
+31|<CLT=cltMIND>Bana dev robot animelerindeki\nmotor seslerini hatırlattı.
+32|<CLT=cltMIND>Ve tam o anda...
+33|Yuhuu! Uyanın bakalım, ayıcıklar!
+35|Herkes Gonta'nın arkasına!
+36|B-Bu... canavarlar da ne böyle!?
+37|Vaaaaaay!!! Çok havalııııı!!!
+38|Bunlar Exisal—yüksek hareket kabiliyetli, iki ayaklı\nsilah platformları! Memleket gururumuzdur!
+39|N-Ne olurlarsa olsunlar, önce çirkinleri\nöldürsünler de beni sona bıraksınlar!
+40|Kaç, Himiko!
+41|Birdenbire neden benim için\nendişeleniyorsun?
+42|Hm, biri "hepsinin kıçını tekmeleyeceğini"\nsöylememiş miydi?
+43|N-Ne halt bu!?\nKimse bana bunlardan bahsetmedi!
+44|Pekâlâ, sakin olun, paniğe gerek yok...\nMuhtemelen tehlikede değiliz.
+45|Bizi öldürmek isteselerdi\nşimdiye kadar öldürmüşlerdi.
+46|<CLT=cltMIND>Bunu söylerken Rantaro rahat bir tavırla\ncanavar gibi makineye yaklaştı.
+47|Peki bizden ne istiyorsunuz? Belli ki bir şey\nistiyorsunuz. Silahlar bunun için, değil mi?
+48|Tahmin edeyim. Bize bir şey yaptırmaya\nzorlayacaksınız ve yapmazsak zarar göreceğiz.
+49|Eh, dikkatimizi çektiniz.\nNe istiyorsunuz?
+50|Hıh. Amma da ukalasın?
+51|Ben başlıyorum! Dinleyin! Siz serserilerin\nyapmasını istediğimiz şey...
+53|Haaaa! Kalbim yüz kilometre hızla atıyor!\nSöyleyeceğim! Hazır mısınız!?
+54|Aynen öyle! Bu bir—
+55|ÖLDÜRME-OYUNU.
+57|M-M-Monodam! Benim önüme geçmeye nasıl CÜRET edersin!
+58|B-Bir saniye. Ne dedin?
+59|E-Eğer doğru duyduysam—
+60|Hayır, o iş olmayacak.
+62|Sevimli küçük yavrularım...\nBu öldürme oyununu iptal ediyorum...
+63|Ah! O ses!
+64|Baba!? Baba, sen misin!?
+65|Kuma Baba! Kuma Babaaaa!
+66|Babacığım!? Neredesin, Babacığım!?
+67|B-Babacığım mı?
+68|<CLT=cltMIND>Birden bir spot ışığı\nspor salonunu yardı.
+69|Ben bu yeni dünyanın tanrısıyım...
+70|ve Ultimate Akademi'nin müdürüyüm!
+71|Tek ve eşsiz... Monokuma!\nTanıştığımıza memnun oldum!
+72|Bir oyuncak ayı daha belirdi...
+73|Evet ama o sıradan bir oyuncak ayı değil.

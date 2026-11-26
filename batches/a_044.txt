@@ -1,0 +1,60 @@
+@ ainori_text_US
+## a00_103_230
+15|Dinle, kalori yakmaya falan çok\nmeraklı olduğunu biliyorum...
+16|Ama yemekten sonra egzersiz yapmak\nkarnımı ağrıtıyor...
+17|Kusura bakma, Shuichi.\nBunu pas geçmem gerekecek.
+## a00_103_310
+5|Hahaha, ah anladım! Havalı *davranıyorsun*\nama altında sapık küçük bir çocuksun, ha?
+6|Bunda yanlış bir şey yok... ama o\nodanda yalnızken yapılır, değil mi?
+7|Ah, merak etme, Shuichi.\nKimseye söylemem!
+8|İşte bu kulağa iyi geliyor!\nİyi bir mangaya bayılırım.
+9|Gerçeğinin yerini tutmaz ama bir macerada\ngibi hissetmek eğlenceli, değil mi?
+10|Hey, Shuichi, iyi bir tane biliyor musun?\nEn sevdiklerimizi birbirimizle paylaşalım!
+11|Ne tür mangalardan hoşlandığını merak\nediyorum. Tahmin edeyim... dedektif hikâyeleri?
+12|Öyle mi düşünüyorsun?\nAslında böyle yerleri çok severim...
+13|Ama hoşlanmıyorsan...\nBaşka bir yere gidebiliriz.
+## a00_103_320
+5|Ah, açıkçası... burada hapsolmuşken,\nüstüne bir de yeteneğimi unutmuşken...
+6|Pek ders çalışacak havada değilim.
+7|Ha? Bu hiç sana göre\ndeğil, Shuichi...
+8|Ama bunu sevdim...
+9|Herkesin başkalarına göstermediği\nbir yanı vardır.
+10|Birbirinin o özel yanlarını keşfetmek\nilişkilerin eğlencesinin bir parçası.
+11|Haklısın, gerçekten epey tozlu!\nNeden biraz temizlemiyoruz?
+12|Hey, belki temizlerken <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>\nyeteneğimi bile hatırlarım!
+13|...Gerçi yeteneğimin temizlik olduğunu\nsanmıyorum. Belki sadece hüsnükuruntu.
+## a00_103_330
+2|Manzara fotoğraflarına\nbakalım
+5|Bu albüm dünyanın her yerinden güzel\nmanzaralarla dolu...
+6|Böyle şeyleri severim.
+7|O ülkeyi ziyaret etmenin nasıl\nolacağını hayal etmek eğlenceli.
+8|Böyle fotoğraflara saatlerce\nbakabilirim, biliyor musun?
+9|Senin de öyle bir şeyin var mı? Sana keyif veren\nama pek "hobi" sayılmayan küçük şeyler.
+10|Dedektif olarak hobilerinin epey sert\nolduğunu hayal ediyorum, hm?
+11|Sanırım bazı insanlar öyledir.\nSessizlik... onları gürültü yapmaya itiyor.
+12|Dinle, sana görgü dersi vermek falan\nistemiyorum, burada sadece ikimiz varız...
+13|Ama lütfen bunu benim yanımda\nyapmaz mısın?
+14|Bilmiyorum, bazı kitaplara zarar\nverebilirsin...
+15|Hadi, Shuichi, yetişkin ol.\nBöyle oyun oynamamalısın.
+## a00_103_410
+5|Eh, spor salonuna boşuna\ngelmedik...
+6|Ama seni uyarmalıyım... pek\negzersiz meraklısı değilimdir.
+7|Yani kötü olduğumdan değil. Nefret\nfalan etmem. Sadece ortalamayım.
+8|Diyelim ki <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneğimin\nmuhtemelen sporla ilgisi yok.
+9|Hey, farklı ihtimalleri elemeye devam\netsem yeteneğimi daraltabilir miyim sence?
+10|Oha, burayı temizlemek çok iş\nolurdu, biliyor musun?
+11|Bu noktada her şeyi bir seraya çevirmek\nmuhtemelen daha hızlı olur.
+12|Belki tuğlalı çiçek tarhları, oturmak\niçin birkaç bank...
+13|...Şimdi düşününce kulağa gerçekten eğlenceli\ngeliyor! Bana hep en iyi fikirleri veriyorsun!
+14|...Buraya gelmemizin tek sebebi biraz\negzersiz yapmak değil miydi?
+15|Seninle ortak bir şeyimiz olduğunu sanıyordum\nama bu... anlamıyorum.
+## a00_103_420
+5|Basketbolu severim!\nÇok iyi değilim ama...
+6|Oynamayı severim ama profesyonellerin\noynamasını izlemeyi de severim, bilirsin?
+7|Spor izlerken çok heyecanlanırım.
+8|Haha, benim hakkımda bunu hiç düşünmezdin,\ndeğil mi? Bana bile tuhaf geliyor.
+9|Burada neden soyunmamız\ngereksin ki...?
+11|Ah. Anlıyorum.
+12|Bak Shuichi, gururumu okşadın ama\nbana birdenbire böyle teklif edemezsin.
+13|Ben öyle biri değilim. Başka biriyle\nşansın daha yaver gider, tamam mı?
+14|Evet, buralarda doktor yok,\nyaralansak kötü olur.

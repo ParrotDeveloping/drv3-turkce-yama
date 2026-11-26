@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_300_101
+3|Burada yaşadığımız son gün bu,\nha...?
+4|Mutlu olurum sanmıştım ama bitmesini\nistemiyorum... Biraz üzgünüm.
+5|Kısa bir süreydi ama bir sürü şey\nyaşadık. Ben de biraz üzgünüm.
+6|Ah, ama tabii ki yine de üzgün\nolmaktan çok mutluyum.
+7|Buradan çıkınca astronot eğitimine\ngeri dönecek misin?
+9|Astronot olma hayalimden asla\nvazgeçmem!
+10|Burada zaman kaybettim, o yüzden döner\ndönmez eskisinden daha sıkı çalışacağım!
+11|Kaybettiğim bütün zamanı olabildiğince\nçabuk telafi edeceğim!
+12|Doğru, biz buradayken diğer kursiyerler\nher gün eğitim yapıyordu.
+13|Evet, o farkı kapatmak zorlu bir\niş olacak!
+14|Ama biliyor musun, buraya gelmek...\nbence benim için iyi oldu.
+15|Sebeplerden biri seninle\ntanışmamdı...
+16|Ama aynı zamanda bir astronot için en\nönemli şeyi çalışma fırsatı buldum.
+17|En önemli şey mi?
+18|Ne? Sana daha önce söylemiştim, değil mi?\nSakın unuttuğunu söyleme.
+20|<CLT=cltMIND>Bir astronot için en önemli\nşey...
+21|Liderlik
+22|Her ortama uyum sağlamak
+23|İletişim
+24|...Liderlik, değil mi?
+25|Evet, bu bir astronot için kesinlikle\nönemli.
+26|Ama bana kalırsa en önemli şey\nbu değil.
+27|Hey, gerçekten unuttun mu?
+28|<CLT=cltMIND>Bu yanlıştı.\nEn önemli şey şu olmalı...
+29|...Her ortama uyum sağlayabilmek,\ndeğil mi?
+30|Şey, evet. Ortamına uyum sağlamak\nönemli...
+31|Ama ondan daha önemli bir şey var.\nCidden unuttun mu?
+32|<CLT=cltMIND>Bu yanlıştı.\nEn önemli şey şu olmalı...
+33|...İyi iletişim, değil mi?
+34|Ah, demek hatırlıyordun.
+35|Ne kadar harika olursan ol, iletişim\nkuramıyorsan astronot olamazsın.
+36|Uzay gemisinde kötü iletişim yüzünden\nçıkan bir kavga ölümcül olabilir, değil mi?
+37|Evet, bunun korkunç olacağını\ntahmin ediyorum.
+38|Uzay düşmanca bir yer, o yüzden\niletişim gerçekten önemli.
+39|Ama buradaki günlük hayatımız da\naynıydı, değil mi?
+40|Kapatılıp birlikte yaşamamız\nsöylendi...
+41|Burada birlikte yaşamak muhtemelen bir uzay\ngemisinde yaşamaktan bile zordu.
+42|Şey, burada iletişim hakkında çok\nşey öğrendin.
+43|Burada yaşamak senin için iyi\nbir eğitim olmuş olmalı.
+44|Evet, burada öğrendiklerimi boşa\nharcamayacağım.
+45|Ama senin için de aynısı geçerli, değil mi?
+47|Burada yaşamak astronot eğitimimde\nbana nasıl yardım ettiyse...
+48|Bence dedektiflik işinde de sana\nyardım etti.
+49|Belki burada geçirdiğin zaman geleceğin\niçin işe yarar, biliyor musun?
+50|Burada kazandığın bir şey yok\nmu?
+52|Evet, sanırım var.
+53|<CLT=cltMIND>Her dedektifin ihtiyaç duyduğu beceriler...
+54|<CLT=cltMIND>Her insanın ihtiyaç duyduğu beceriler...
+55|<CLT=cltMIND>Ve her şeyden önce...
+56|<CLT=cltMIND>Kaito gibi bir arkadaş edindiğim\niçin çok şanslıydım.
+57|Her şey için teşekkürler.
+58|Seninle tanıştığıma gerçekten çok seviniyorum, Kaito.
+59|Neden bahsediyorsun!?\nO benim repliğim!
+60|Seninle tanıştığıma sevindim, Shuichi!\nSen hep benim yardımcım olacaksın, tamam mı!?
+61|Evet, tabii ki!
+62|<CLT=cltMIND>Kaito'yla birbirimize gülümseyip\ntokalaştık.
+63|<CLT=cltMIND>İkimiz de tokalaşmaya bütün\ngücümüzü verdik.
+64|<CLT=cltMIND>Kaito'yla tanıştığıma gerçekten seviniyorum.
+65|<CLT=cltMIND>Yani en azından *bir* açıdan\nMonokuma'ya minnettarım.
+66|<CLT=cltMIND>Eminim Kaito da aynı şekilde hissediyordur.
+67|<CLT=cltMIND>Ama bunu birbirimize söylememize\ngerek yok. Kelimelere ihtiyacımız yok.
+68|<CLT=cltMIND>Kaito'nun ne hissettiğini onlar\nolmadan da tam olarak biliyorum.
+69|<CLT=cltMIND>Bu bağ, burada edindiğim o özel\n<CLT=cltSTRONG>şey<CLT=cltMIND> olabilir.
+70|<CLT=cltMIND>Ve böylece, Yetenekli Gençler için\nUltimate Akademisi'ndeki günlerimiz...
+71|<CLT=cltMIND>sona erdi.

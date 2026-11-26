@@ -1,0 +1,71 @@
+@ ainori_text_US
+## a00_109_220
+5|Büyülerimden birini öğrenmeye mi\nçalışıyorsun? Çalışıyorsun, değil mi?
+6|Dondurucuya girip dolaptan çıkmayı mı\nöğrenmek istiyorsun?
+8|Sana öğretmek isteyip istemediğime büyünün\nne kadar iyi olduğunu gördükten sonra karar vereceğim.
+9|Ama ilk olarak bu kadar gelişmiş bir büyüyü\nöğrenmek istediğine göre hırslısın.
+10|Eh, bu kötü bir fikir değil.
+11|Tatlılarımız da olursa onları büyünün\nkaynağı olan manaya dönüştürebilirim.
+12|Görünüşe göre büyünün nasıl işlediğini\nanlamaya başlıyorsun.
+13|Nyeh? Bence büyücü olmayı yanlış\nanlıyorsun...
+14|Büyü öğrenmek için disipline ihtiyacın\nolduğu doğru.
+15|Ama bu kendine acı çektirmen gerektiği\nanlamına gelmiyor.
+16|Potansiyelin olduğunu düşünmüştüm\nama sanırım yanılmışım...
+## a00_109_230
+5|Hm, evet, yeşil çayı severim.
+6|Ama çok sıcaksa değil...
+7|Çaylarımı biraz ılık severim.\nBunu da aklında tutsan iyi olur.
+8|Hmmm... büyüsel olarak düşününce\nbu doğru.
+9|İyi yiyip iyi uyumazsan asla iyi bir\nbüyücü olamazsın.
+10|Sanırım tıpkı ustamın öğrettiği gibi\nçok yiyip çok uyuyacağım.
+11|Sen neden bahsediyorsun!?
+12|Asla şişmanlamamamı sağlayan bir\nkoruma büyüsü kullanıyorum.
+13|Büyü yapabilen sıradan bir kıza böyle\nkaba bir şey söyleme!
+## a00_109_310
+5|Evet, sapık olduğunu zaten\nbiliyordum.
+6|Hm? Şaşırma...
+7|Benden sır saklamak anlamsız.\nBüyüm var.
+8|İçimden gelmiyor... Manam az, o yüzden\nbeynim bulanık...
+9|Daha düşünceli olduğunu sanıyordum...\nSanırım değilmişsin...
+10|Sıkılmak umurumda değil...
+11|Büyünün kaynağı olan mana ben\nrahatken birikir.
+12|Yani bazen sıkılmak bir büyücünün\nişinin parçası.
+## a00_109_320
+5|Demek sonunda büyü öğrenmek istiyorsun, ha?
+6|İstersen yardım ederim ama sıkı\nbir öğretmenimdir!
+7|Seninle işim bittiğinde muhteşem\nbir büyücü olacaksın!
+8|Muhtemelen minnettarlık gözyaşları\niçinde bana teşekkür edeceksin!
+9|Gündüz uykun geliyorsa geceleri iyi\nuyumadığın içindir...
+10|İyi yiyip iyi uyumazsan benim gibi\nufak kalırsın.
+11|Göğsüm büyümeyi bıraktı ve—
+12|Dur, sen kime tahta gibi dümdüz\ndiyorsun!?
+13|Evet, bu iyi değil. Bütün bu tozdan\nkurtulmak için büyümü kullanacağım...
+14|Ama... bunu yaparsam sadece daha çok\ntoz çıkaracakmışım gibi hissediyorum...
+15|Sanırım normal şekilde temizleyeceğim...\nbüyüm olmadan.
+16|Kesinlikle zahmetli olacak ama büyümün\nseviye atlamasına yardım edecek.
+## a00_109_330
+2|Bir büyü kitabı okuyalım
+5|Ooo! İyi göz! Burada büyü kitapları\nolduğunu bilmiyordum...
+6|Bu, bu akademide eskiden büyü dersleri\nolduğu anlamına mı geliyor!?
+7|Dur, önce şu büyü kitabına\nbakalım...
+8|Sen buldun, o yüzden...\nBaştan sona okuyalım.
+9|D-Dur, yapma!
+10|Böyle sessiz bir yerde bağırırsan\nbeni korkutursun...
+11|S-Sakın söyleme... Kalbin karanlık\nbüyüyle mi lekelendi?
+12|Ruhumu karanlığa mı gömmeye\nçalışıyorsun?
+13|Hm, bazen çocukça olmak kötü bir\nşey değil...
+14|Ama *ben* böyle aptalca oyunları\nçoktan geride bıraktım...
+15|Eh, sana ayak uyduracağım...\nEkstra büyük bir kule yapalım.
+## a00_109_410
+5|Bunu neden yapmam gerekiyor?
+6|Büyüm egzersiz yapmaya gerek kalmadan\nbeni sağlıklı tutuyor.
+7|Ayrıca etrafta dolaşınca sadece yoruluyorum.\nTek başına yapabilirsin.
+8|Evet, burada hava durgun...
+9|Durgun havanın büyü üzerinde olumsuz\nbir etkisi olabilir...
+10|Pekâlâ o zaman, temizliğe başla!\nSana koçluk yapacağım!
+11|<CLT=cltMIND>...Yani o zaman kendim\nyapacağım.
+12|Nyeh? Ama daha hiçbir şey\nyapmadın.
+13|Ama dinlenmek istiyorsan sakıncası yok.
+14|Sırf spor salonuna geldik diye egzersiz\nyapmamız gerekmiyor...
+15|Görünüşe göre büyüyü giderek daha çok\nanlamaya başlıyorsun.
+16|Seni öğrencim yapmak mümkün olabilir...\ngerçekten istiyorsan.

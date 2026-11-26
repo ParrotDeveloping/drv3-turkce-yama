@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_106_702
+24|Çok güzel yaptı.\nBenimki gibisi başka bir üniforma yok.
+25|<CLT=cltMIND>Korekiyo bana bunu anlatırken\nçok mutlu görünüyordu.
+26|Ablanla yakınsın, değil mi?\nHer abla kardeşine kıyafet dikmez.
+27|Ben tek çocuğum, o yüzden\nbiraz kıskanıyorum...
+28|Kehehe... Ablalara ilgin mi var,\nShuichi?
+29|B-Bunu hiç kastetmedim!
+30|Kehehehehehe... şaka yapıyorum. Doğrusunu\nsöylemek gerekirse Ablam hep hastalıklıydı.
+31|Bu üniformayı hastalık nöbetleri arasında\nbenim için yaptı.
+32|Üzgünüm...
+33|Ama eminim sen sıkı çalıştığın sürece\no da iyi olacaktır.
+34|Bununla ne demek istiyorsun...?
+35|Küçük kardeşinin sıkı çalışıp başarılı\nolduğunu görmek en iyi ilaçtır.
+36|Anlıyorum. Yani onun için sıkı çalışmam\ngerektiğini söylüyorsun. Tabii ki bunu biliyorum.
+37|Ah, özür dilerim, haddimi aşmak\nistemedim...
+38|Hayır, hayır. Ablam onun için endişelendiğin\niçin teşekkür ediyor. İyi bir insansın...
+39|Kız olsaydın Ablamın arkadaşlarından\nbiri olmanı isterdim...
+41|<CLT=cltMIND>Bütün arkadaşlarının kız mı\nolması gerekiyor...?
+42|<CLT=cltMIND>Belki ablası erkeklerin yanına yaklaşmasından\nhoşlanmıyordur. İşte *bu* bir kompleks...
+44|<CLT=cltMIND>Yeni bilgilerle dolu bir halde\nodama döndüm.
+## a00_106_703
+0|Söylemeliyim ki senin gibi dikkatli bir\nöğrenciye ders vermek keyifli.
+1|<CLT=cltMIND>Şimdi düşününce ne zaman takılsak\nbir derse dönüşüyor...
+2|<CLT=cltMIND>Eh, eğleniyorum,\no yüzden sorun değil.
+3|Kaguya Prenses efsanesini konuştuğumuzu\nhatırlıyor musun?
+4|Evet, dünyanın her yerinde benzer\nefsaneler olduğunu da.
+5|O diğer kültürlerde karşılıkları olan\nefsanelerden sadece biri.
+6|Böyle bir başka efsane—epey ilginç\nbulduğum—Hainuwele efsanesi.
+7|Hainuwele mi?
+8|Endonezya folklorunda geçen bir kızın\nadı.
+9|Özetlemek gerekirse değerli eşyalar\ndışkılayan bir tanrıçaydı.
+10|Hikâyede öldürüldü ve bedeni ekinler\niçin tohuma dönüştü.
+11|Japon folklorundaki benzer hikâyeler\nOhogesu Hime ve Uke Mochi'dir.
+12|Farklı topraklardan bu hikâyelerin bu kadar\nbenzer olması büyüleyici değil mi?
+13|Evet, kesinlikle...
+14|Açılmaması gereken kutular, kahraman\nmitolojisi, dilenci kılığındaki tanrılar...
+15|Dünyanın her yerinde bunlar gibi benzer\nunsurlar içeren hikâyeler var.
+16|İlginç. Yani efsaneler ve mitler hakkında\nher şeyi biliyor musun, Kiyo?
+17|Tabii ki. Mitler, folklor, efsaneler.\nHepsi antropolojiye bilgi verir.
+18|Özellikle seni etkileyen bir\ntane var mı?
+19|Beni etkileyen mitler... hmm...
+20|Medusa'yı hiç duydun mu?
+21|Ona bakan herkesi taşa çeviren\ncanavar... değil mi?
+22|Kehehe... Evet, onu bir canavar\nolarak tanıyor olabilirsin...
+23|Hm? Yanılıyor muyum?
+24|Hayır, yanılmıyorsun.
+25|Ama aslında bir doğa tanrıçası\nolarak bilinirdi.\n
+26|Bir doğa tanrıçası mı?
+27|Gerçekten de.\nAma zaman geçtikçe...
+28|Bir kahraman tarafından öldürülecek\nkorkunç bir canavara dönüştürüldü.
+29|Bu nasıl oldu?
+30|Doğa tanrılarına neden tapıldığını\ndüşünürsen cevap açık.
+31|Uzun zaman önce insanlık zayıftı ve doğanın\ngücüne karşı hiç şansı yoktu.
+32|Ama zamanla insanlık medeniyeti geliştirdi\nve toprağı evcilleştirmeye başladı.
+33|Bir doğa tanrıçasının korumasına\nartık ihtiyaç kalmadı.
+34|Tanrıçanın canavara dönüşmesi insanlığın\ndoğayı alt ettiğinin kanıtıdır.
+36|İyi bir korku hikâyesi olduğu için mi?
+37|Hiçbir fikrim yok...
+38|İnsanlığın gücünü göstermek için mi?
+40|Ama insanlar Medusa'nın hikâyesini anlatmaya\ndevam edecek. Bu neden?
+41|İyi bir korku hikâyesi olduğu için mi?\nEpey korkutucu...
+42|Kehehehehe...
+43|Çok iyi. Görünüşe göre bir antropoloğun\nniteliklerine sahipsin.
+44|Hiçbir fikrim yok...
+45|Kehehe, sebebi her canlının bağ\nkurabileceği bir şey.

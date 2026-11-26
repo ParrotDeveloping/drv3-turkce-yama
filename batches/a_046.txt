@@ -1,0 +1,58 @@
+@ ainori_text_US
+## a00_103_700
+18|Hey, Rantaro. Belki tam olarak yeteneğini\nhatırlamıyorsun...
+19|ama buraya gelmeden önceki her şeyi\nhatırlıyorsun, değil mi?
+20|Evet, o şeyleri hatırlıyorum. Yoksa\nkendimi tanıtamazdım.
+21|O zaman bana hatırladığın her şeyi anlat.\nİçinde bir ipucu olabilir.
+22|...Evet... haklısın!
+23|Bunu düşünmediğime inanamıyorum.\nSanırım sandığımdan daha çok sarsılmışım.
+24|Şey, nereden başlasam... Çocukluğumdan\nbaşlarsam bu sonsuza dek sürer.
+25|En sevdiğin şeylere ne dersin?\nBelki hobilerine?
+26|İnsanlar kendilerini hobilerine adayıp becerilerini\ngeliştirerek <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> olur.
+27|O zaman... seyahat diyeceğim.
+28|Seyahat mi?
+29|Seyahat benim hobim. Aslında dünyayı\ntekneyle geziyorum.
+30|Tekneyle mi!\nVay, bu inanılmaz!
+31|Haha, yok yok, inanılmaz olan ben değilim,\nbabam. Ben sadece teknesinde bedavaya geziyorum.
+32|Ben... nasıl desem...?
+33|Sanırım bana "zengin çocuğu" diyebilirsin.\nAilem epey varlıklı.
+34|Annemle babamın teknesini alıp\ncanım ne isterse onu yapıyorum.
+35|Ah be, şımarık bir velet gibi\nkonuşuyorum, değil mi?
+37|Sadece şaşırdım.\nDaha önce hiç "zengin çocuğu"yla tanışmamıştım...
+38|Eh, aile işine de yardım ediyorum.\nSeyahat ederken ticaret ortakları arıyorum.
+39|Böyle dünyayı gezince bir sürü\nbağlantı kuruyorsun, biliyor musun?
+40|Belki de <CLT=cltSTRONG>Ultimate Zengin Çocuğu<CLT=cltNORMAL> ya da\n<CLT=cltSTRONG>Ultimate Gezgin<CLT=cltNORMAL> gibi bir şeysindir.
+41|Yok... ikisi de doğru gelmiyor.
+42|Zengin çocuğu konusunda dışarıda benden\ndaha zengin bir sürü insan var.
+43|Ve "gezgin"...\nBilmem, bana biraz fazla romantik geliyor.
+44|<CLT=cltSTRONG>Ultimate İşe Yaramaz Ağabey<CLT=cltNORMAL>\nbana çok daha uygun geliyor.
+45|"İşe Yaramaz Ağabey" mi? Ne demek\nistiyorsun? Kardeşlerin var ama—
+46|Kusura bakma, Shuichi ama bundan\ngerçekten bahsetmek istemiyorum.
+48|Gerçekten, özür dilerim, bundan hiç\nbahsetmemeliydim. Unut gitsin.
+51|<CLT=cltMIND>Rantaro'nun gülümsemesi nedense...\nacı dolu görünüyordu.
+52|<CLT=cltMIND>Konuşma tıkanınca odama\ndöndüm.
+## a00_103_701
+0|Hey Shuichi. Ne oldu?\nÇok ciddi görünüyorsun...
+1|Seni rahatsız eden bir şey mi var?\nİstersen konuşabiliriz.
+2|Sadece... endişeliyim, Rantaro.
+3|Endişeli mi? Ne hakkında?
+4|Daha önce söylediğin şey hakkında. Senin\n<CLT=cltSTRONG>Ultimate İşe Yaramaz Ağabey<CLT=cltNORMAL> olduğun.
+6|Sana söyledim... onu unutmanı.
+7|Özür dilerim ama unutamam.\nBununla ne demek istedin?
+10|...Bunu kim takar?
+12|Hey, yeteneğim hakkında konuşmak ister misin?\nNe olduğunu hâlâ hatırlayamıyorum!
+13|İstersen sana hobilerim hakkında daha\nfazla şey anlatabilirim.
+14|<CLT=cltMIND>...Yine o gülümseme.\nBir uyarı. Üstüne gitmemi istemiyor.
+15|E-Evet, tabii ki...
+16|Teşekkürler!\nGerçekten çok yardımı oluyor, biliyor musun?
+17|Seyahatin hobin olduğunu söylemiştin, değil mi?
+18|Evet. Buraya getirilmeden önce\nKuzey Avrupa'da geziyordum.
+19|Kuzey Avrupa mı? Bir masal gibi bir\nyer olduğunu hayal ediyorum.
+20|Haha, evet...
+21|Şehir manzaraları muhteşem ama en güzel kısmı\ndoğa. Tam bir masal kitabından çıkma.
+22|Gerçi insanlar... Arkadaş canlısı görünüyorlar\nama işin aslına gelince epey mesafeliler.
+23|Çevre sertse belki kültür de\nöyle gelişmiştir.
+24|Evet, öyle bir şey. Mesela bir keresinde\nbilgi almaya çalışıyordum...
+25|Muhbir falan olduğumdan şüphelendiler.\nNeredeyse ortadan kaldırılıyordum.
+26|<CLT=cltMIND>Ha? "Ortadan kaldırılmak" derken...\nherhalde şunu kastetmiyordur...
+27|Ama Güney Amerika mı? Asıl dikkat etmen\ngereken yer orası. Bir sürü karanlık bölge var.

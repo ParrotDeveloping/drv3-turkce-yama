@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_110_700
+45|<CLT=cltMIND>Sadece kabullenmiş.
+46|<CLT=cltMIND>...Onu bu ruh haline sokan ne\nsöyledim ki?
+48|<CLT=cltMIND>Maki'nin inanılmaz hikâyeleriyle hâlâ\nbiraz sersemlemiş halde odama döndüm.
+## a00_110_701
+0|Hey, Maki. Laboratuvarındaki bütün o silahları fark\nettim, hepsini nasıl kullanacağını biliyor musun?
+3|<CLT=cltMIND>Eyvah. Onu yine mi kızdırdım?
+4|Özür dilerim... yanlış bir şey mi sordum?
+5|...Pek değil. Sadece bana sürekli alakasız\nsorular sormanı tuhaf buluyorum.
+6|Duruma göre silahlarım değişir.\nAma hepsini kullanmayı bilirim.
+7|Ah, öyle mi? Suikast deyince aklıma\ngizli silahlar geliyor.
+8|Onları da kullanırız ama çoğunlukla bıçaklarım var.\nAyrıca zehir, keskin nişancı tüfeği, jiu-jitsu, bomba—
+9|Bomba mı? Suikast için mi?
+10|Uyarı amaçlı bir öldürme gösterişli olmalı. Bir keresinde\n5 katlı bir binayı 4 katlıya çevirmiştim.
+11|<CLT=cltMIND>Bir patlamayı sadece bir katı yok\nedecek şekilde kontrol edebiliyor musun?
+12|<CLT=cltMIND>Ne korkutucu... <CLT=cltSTRONG>Ultimate Suikastçı<CLT=cltMIND>\nolmasına şaşmamalı...
+13|Gerçi o kadar gösterişli olmak nadir.\nNormalde tek bir hedefi ortadan kaldırmak yeter.
+14|...Peki ne tür insanlara suikast\ndüzenledin?
+16|Şey, suikastları sadece filmlerden falan\nbiliyorum, o yüzden...
+17|...Bu muhtemelen seni hayal kırıklığına uğratacak\nama sadece kötü insanları öldürmüyorum.
+19|Emir listemdeki herkesi öldürürüm.\nKişinin kim olduğu önemli değil.
+20|Sanırım durum bu.
+21|...Ama iyi tanıdığım insanları da ortadan\nkaldırmak zorunda kaldım.
+22|Ha? Kim gibi?
+23|Okuldan arkadaşlar.
+24|Arkadaşlar mı!? Bunu neden yapmak zorunda kaldın?
+25|Bir yakuza liderinin kızı. Çeteyle hiçbir bağı\nolmayan bir metresin çocuğuydu.
+26|Babası onu çok severdi...\nBu yüzden tehlikeli görülüyordu.
+27|Yakuzanın seçkinleri rakip grupların onu kullanma\nihtimaline karşı onun ortadan kaldırılmasına karar verdi.
+28|Ne!? Ama o hiçbir yanlış yapmamıştı!
+29|Neden!?
+30|Sanırım... mecburdun
+31|Sadece onu unutmadığından emin ol
+33|Evet ama emredildiği gibi yaptım.
+34|Neden!?
+35|Neden mi? Çünkü bu benim işim.
+36|Ama arkadaştınız, değil mi?
+37|Daha önce söyledim.\nKim oldukları önemli değil.
+39|Sanırım... mecburdun.
+40|Evet. İşte o zaman artık hayatımın\nbu olacağını anladım.
+41|Buna Tanrı'nın işi dediklerini duydum...
+42|Ben buna inanmıyorum.\nBaşka birini suçlamaya da niyetim yok.
+43|Sadece onu unutmadığından emin ol.
+44|Bana neden öyle bakıyorsun? Öldürdüğüm\nher yüzü hatırlayacak vaktim yok.
+46|Ama... aslında onu hatırlıyorum.
+47|Bu...
+48|...Hayır, bir şey yok.
+49|...Başkaları yüzünden birini öldürmenin\nmantıksız olduğunu düşünebilirsin.
+51|Herkes yaşamak için elinden geleni yapar.
+52|Sen, ben... ve öldürdüğüm herkes.
+53|Ben öldürürüm.\nAma ben de öldürülebilirim.
+56|<CLT=cltMIND>Soğuk ve kayıtsız Maki\nkelimelerin altında ezilmişti...
+57|<CLT=cltMIND>Bunun olduğunu daha önce hiç görmemiştim.\nSöyleyecek hiçbir şey düşünemedim.
+59|<CLT=cltMIND>Maki'nin hikâyesinin ağırlığıyla sendeleyerek\nodama döndüm.
+## a00_110_702
+0|Suikastçıların seçilerek alındığını\nbilmiyordum.
+1|Bilmemen daha iyi.\nAyrıca bilmene gerek de yok.
+2|Yetimhanelerden çocuk toplamak mı...?\nİnanamadım.
+3|Hmm... O zaman seni daha da çok\nşaşırtmamı ister misin?
+5|Büyüdüğüm yetimhane o sebeple\nişletiliyordu.
+7|Potansiyel adayları suikastçı olarak yetiştirmek için.
+9|Tarikat yetimhaneye "hayır" olarak bağış yapıyor.\nBu inandırıcı, değil mi?
+10|Ne kadar iş yaparsam o kadar hayır\nyapılıyor. Değiş tokuş böyle işliyor.
+12|<CLT=cltMIND>Maki omuzlarında ne kadar\nyük taşıyor...?
+13|<CLT=cltMIND>O kadar küçük omuzlar ki...
+14|Bir adam tarafından alındığını söylemiştin.\nSeni o mu yetiştirdi?

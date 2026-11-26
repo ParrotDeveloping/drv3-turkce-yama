@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_101_050
+14|Anladın mı?\nBu şeyleri diğerlerine anlatma.
+15|<CLT=cltMIND>Kaito'yla erkek erkeğe içten bir\nsohbet ettik...
+16|Yardımcımın dertleri benim dertlerimdir.\nBenim dertlerim de yardımcımın!
+17|Bana her şeyi anlat, dostum.\nBenden hiçbir sır saklama!
+18|<CLT=cltMIND>Bütün zamanı Kaito'dan tavsiye\nalarak geçirdim...
+19|Bir yardımcı kahramandan başkasını seçmez.\nBu düpedüz delilik!
+20|Eh, şimdi düşününce\nyardımcılar...
+21|<CLT=cltMIND>Kaito'nun yardımcılar hakkındaki\ndüşüncelerini dinledim...
+22|Bugün sana evrendeki maceraya en uygun\nyerleri anlatacağım.
+23|Garanti ediyorum, kalbinde evren için\nbir ateş yakacak!
+24|<CLT=cltMIND>Evrendeki en maceralı yerleri\nkonuştuk...
+## a00_101_110
+0|<CLT=cltMIND>Görsel-işitsel odada takılmaya\nkarar verdik.
+1|<CLT=cltMIND>Görünüşe göre burada sadece biz varız...\nNe yapalım?
+2|Böcekler hakkında belgesel izle
+3|Atletler hakkında belgesel izle
+4|Uzaylılar hakkında belgesel izle
+5|Bir süre önce böceklerin uzaydan geldiğine\ndair bir teori vardı, hatırlıyorum.
+6|Bütün yaşam okyanustan geldi ve bildiğim\nkadarıyla orada hiç böcek yok.
+7|Teori çürütüldü ama böyle şeyler beni\nhep çok gaza getirir!
+8|Bunu görmek bana astronot eğitimimi\nhatırlatıyor.
+9|Astronot eğitimi de atletlerinki kadar\nantrenman içeriyor.
+10|Benimle eğitim alan o çocuklar nasıl\nacaba...
+11|Pekâlâ! Bunu düşünmek beni süper\nmotive etti!
+12|Kesinlikle buradan çıkacağız,\nanladın mı!?
+13|Bu belgeselle neden ilgilendiğini\ngayet iyi anlıyorum.
+14|Ama biliyor musun... izlememeliyiz.
+15|Açıkçası yapımcılar hepsinin yalan\nolduğunu ağızlarından kaçırdı.
+16|Sahte bir belgesel...\nBunu öğrendiğim gün...
+17|O günkü kadar umutsuzluk hiç hissetmedim...\nMaceracı kalbimle nasıl oynarlar...
+19|<CLT=cltMIND>Ne oldu acaba?\nKaito derin düşüncelere dalmış gibi...
+20|(Lanet olsun...)
+22|<CLT=cltMIND>Az önceki ses. Bu... şey mi?
+23|<CLT=cltMIND>Kaito'nun iç düşünceleri mi...?
+## a00_101_112
+0|<CLT=cltMIND>Bir şey yüzünden derinden\nsıkıntılı görünüyor...
+## a00_101_113
+0|Ya gerçekten sonsuza dek burada\nkalmak zorundaysak...?
+1|Ya gerçekten sonsuza dek burada kalmak zorundaysak...?
+2|Hayır,\nne diyorum\n<CLT=size2>ben...?
+3|Hayır, ne diyorum ben...?
+4|Bunu kabul\netmeyeceğim!\n<CLT=size2>Asla!
+5|Bunu kabul etmeyeceğim!\nAsla!
+8|Benim\nbu kadar\n<CLT=size2>zayıf olmam...
+9|Benim bu kadar zayıf olmam...
+10|<CLT=cltWEAK>Hiç <CLT=size2>bana\n<CLT=size1>göre değil...<CLT=cltNORMAL>
+11|Hiç bana göre değil...
+12|<CLT=size2>Shuichi'nin\n<CLT=size1>beni böyle\n<CLT=size2>görmesine\n<CLT=size1>izin veremem...
+13|Shuichi'nin beni böyle görmesine izin veremem...
+14|<CLT=cltWEAK><CLT=size2>Yardımcımın<CLT=size1> önünde\n<CLT=size2>zayıflık<CLT=size1> gösteremem...
+15|Yardımcımın önünde\nzayıflık gösteremem...
+## a00_101_120
+2|Komedi filmi izle
+3|Korku filmi izle
+4|Aksiyon filmi izle
+5|Böyle filmler ruh halini değiştirmek\niçin harikadır.
+6|Moralin bozukken tek yapman gereken\nbir kahkaha atmak, her şey düzelir!
+7|Hep moralin bozuksa hayallerin\nelinden kaçabilir!
+8|S-Sanki öyle havalı olmayan bir şey izlerim.
+9|S-S-Sahte hayaletleri izlemenin neresi\neğlenceli!?
+10|Yanlış anlama!\nK-Korkmuyorum falan!
+11|Aksiyon filmleri eğlencelidir çünkü keyif almak\niçin fazla düşünmen gerekmez.
+12|Ve birçoğu evreni sahne olarak\nkullanıyor!
+13|Pekâlâ! Sana en sevdiklerimi\nanlatacağım!
+14|Not almaya hazır mısın!?

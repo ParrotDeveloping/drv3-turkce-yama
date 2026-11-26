@@ -1,0 +1,32 @@
+@ ainori_text_US
+## a00_111_914
+27|Grrrr... Bir yozun böyle zor bir soru\nsormasına şaşırdım...
+28|Bu kendini yok etmeye hiç niyetin\nolmadığı anlamına mı geliyor?
+29|O zaman erkeksiz bir dünya yaratana\nkadar savaşacağım!
+30|Shuichi! Kızların tarafına geçmek istiyorsan\ntam zamanı, anladın mı!?
+32|<CLT=cltMIND>...Bazen hiçbir şey söylememek\ndaha kolay.
+## a00_112_000
+4|Ah, bu... o diziden, değil mi?\nBiliyordum!
+5|Ha...? Neden bahsettiğimi\nbilmiyor musun?
+6|Vaaah! Yanlış anlamış olmalıyım...\nBildiğini sanmıştım, Kaede...
+7|Ah, bu... o oyundan, değil mi?\nBiliyordum!
+9|Vaaah! Yanlış anlamış olmalıyım...\nBildiğini sanmıştım, Shuichi...
+10|Bu bir tür kötü şaka mı?\nNe diyeceğimi bilmiyorum...
+11|Kusura bakma... sanırım iyi hissetmiyorum.
+12|Gidip kafama buz koyacağım,\nbiraz uzak durabilir misin?
+16|Şeyy... pek anlamadım.\nBunu bana neden veriyorsun?
+17|Pekâlâ o zaman. Bu... savaş demek.\nBöyle dememi mi istiyordun?
+18|Kusura bakma ama... böyle tuhaf bir şey için\niyi bir referansım yok.
+19|Ben sadece sade, sıkıcı bir kızım.\nBunu biliyorsun, değil mi Kaede?
+23|Ben sadece sade, sıkıcı bir kızım.\nBunu biliyorsun, değil mi Shuichi?
+24|Ne demeye çalıştığını biliyorum. Bu sade\neşya sade ben için uygun.
+25|Şaka şaka... Öyle demek istemediğini\nbiliyorum. Sadece bir şaka, tamam mı?
+26|Hmm... eh, böyle şeyler kötü değil.\nBöyle şeylerden hoşlanır mısın, Kaede?
+27|Neden onu seçtin? Başka insanların\nzevklerini merak ediyorum.
+28|Şeyy... görünüşe göre zevklerimiz pek\nuyuşmuyor.
+29|Ah, nankörlük etmiyorum.
+30|Otakular arasında bile sevilen ve sevilmeyen\nşeyler tamamen farklı olabilir.
+33|Hmm... eh, böyle şeyler kötü değil.\nBöyle şeylerden hoşlanır mısın, Shuichi?
+52|Ha, burada böyle bir şey mi vardı?\nBenim olabileceğine emin misin?
+53|Teşekkürler, stresli olduğum düpedüz belliydi\nama bu sakinleşmeme yardım etti.
+54|Ah, bu güzel.\nİyi bir zevkin var, Kaede.

@@ -1,0 +1,68 @@
+@ ainori_text_US
+## a00_102_701
+32|Bir gün bir maç izlemek isterim
+34|Benim yaşadığım dünya\nöyle bir yerdi.
+35|Bu tenisin sınırlarını aşıyor...\nDuyularını nasıl geri kazandın!?
+36|Hıh... sağduyunun her yerde geçerli\nolduğunu varsaymak aptalca...
+37|Bu iyi bir örnek, değil mi? Benim için\nsağduyu ama senin için değil.
+38|<CLT=cltMIND>Sanırım öyle...
+40|Neden öyle düşünüyorsun...?
+41|Şey, çünkü... o hikâyeyi anlatırken çok\neğleniyor gibi görünüyordun...
+43|Hıh, haklısın.\nSıkıcı olduğunu söyleyemem...
+44|Ama... o eski bir hikâye...
+45|Bir gün bir maç izlemek isterim.
+46|Bana yeniden oynamamı mı söylüyorsun?\nİmkânsız.
+47|H-Hayır, ah, şey, senin oynamanı izlemek isterim\nama başka oyuncuları da izleyebilirim...
+48|O zaman buradan çıkınca seni bir maça\nsokabilir miyim bir bakarım.
+49|Ama bilmeni isterim ki\nseninle gelmeyeceğim.
+50|Eh... bu kadar yeter.
+51|Daha fazla konuşursam unutulması daha\niyi olan şeyleri hatırlamaya başlarım...
+52|Ne diyorum ben? Hıh, bu kadar duygusallaşmak\nhiç bana göre değil.
+53|Neyse, görüşürüz...
+56|<CLT=cltMIND>Ryoma'nın üzgünce uzaklaşmasını\nizledim ve odama döndüm.
+## a00_102_702
+0|Hey, Shuichi. Artık tenis hakkında\nkonuşmayacağım.
+1|Ne!?\nNeden, ne oldu?
+2|Hıh, ne peşinde olduğunu biliyorum. Sadece\nyeniden tenis oynamamı istiyorsun.
+5|Dinle. Artık <CLT=cltSTRONG>Ultimate Tenis Profesyoneli<CLT=cltNORMAL>\ndeğilim.
+6|Bu sadece eskiden olduğum kişinin kabuğu.\nGeçmişimi geride bıraktım.
+7|...Gerçekten bıraktın mı, Ryoma?
+9|Taşıdığımız yüklerin bu kadar kolay\nbırakılabileceğini sanmıyorum.
+10|Kendi sırtında taşıdığın şeyi görmek\nzordur.
+11|Hepsini bırakmak istesen bile eminim\nbir kısmı hâlâ orada, sana yapışık duruyordur.
+12|Gömleğindeki kahve lekesi gibi tam\nolarak kurtulamadığın bir şey.
+13|Hahaha! Kahve lekesi mi?\nBu ne biçim örnek?
+14|Ah, şey...\nAmcam bunu hep söylerdi...
+15|Dedektiflerin insanların üstündeki "lekeyi"\nhep araması gerektiğini öğretti.
+16|Gerçeği böyle bulursun.\nEn azından amcam böyle yapardı.
+17|Hıh... Demek bu amcandan\naldığın bir şey.
+18|Eh, sanırım sonuçta işe yarıyor.\nEminim amcan iyi bir dedektiftir.
+19|Hâlâ taşıdığın bir şey var.\nTen—
+20|Hayır, tenis değil. Teniste asla olmaması\ngereken bir şey.
+21|Ama kararlılığımı topladım... ve yaptım...
+22|Kararlılık mı?\nBununla ne demek istiyorsun?
+23|Hiçbir şey. Ama sırtımdaki kahve lekelerinden\nbahsediyorduk, değil mi?
+24|Kusura bakma ama orada hiçbir şeyim yok.
+25|Taşıdığım tek bir pişmanlık varsa...\no da... o olurdu...
+27|Geleceğimi vaat ettiğim biri\nvardı.
+28|Yani... sevgili gibi mi!?
+29|Bir sevgilimin olması o kadar şaşırtıcı mı?\nHıh, bu tepkiye alışkınım...
+30|Ah ama "vardı" dedin...\nGeçmiş zaman mı?
+32|Onunla Amerika'da tenis eğitimi için\nyurt dışındayken tanıştım.
+33|O zaman aşka inanmıyordum...\nBir şaka olduğunu düşünüyordum...
+34|Açıkçası nasıl âşık olduk\nbilmiyorum ama...
+35|O... artık bu dünyanın\nbir parçası... değil.
+36|Yani... o...
+37|Evet. Öldü.
+38|Üzgünüm...\nNasıl öldü?
+39|Her şeyi geride bırakmaya karar verdim.\nBirbirimizi sevmemizin bir önemi yoktu.
+40|Ama o kadar önemliydi ki birlikte bir\ngelecek istedin. O zaman neden...?
+42|O... benimle olsaydı mutsuz\nolurdu.
+43|Hayır, sadece o değil.\nHerkes...
+44|Bu yüzden artık benimle uğraşmamalısın.\nAnladın mı?
+48|<CLT=cltMIND>Ryoma'nın inatla uzaklaşmasını izledim\nve odama döndüm.
+## a00_102_703
+0|Hey, Shuichi... Ne söyleyeceğimi\nbiliyorsun, değil mi?
+1|Bir tahminde bulunabilirim.\nSeninle konuşmamı istemiyorsun.
+2|Aynen öyle. Daha önce de dediğim gibi\nbenimle uğraşma.
+3|Ama bu bir *emir* değil, değil mi?

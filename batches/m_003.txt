@@ -1,0 +1,94 @@
+@ map_obj_name_text_US
+## ID150_lab_harukawa_text
+3|Silah Rafı
+14|Ateşli Silahlar
+## ID151_lab_chabasira_text
+1|Dev Tahta Kukla
+3|Neon Tabela
+4|Direk İskele
+5|Asma İskele
+22|Denge Direği
+## ID152_lab_shirogane_text
+1|Dev Stüdyo Seti
+2|Bar Seti
+3|Çekim Seti
+4|Atölye
+## ID153_lab_yonaga_text
+1|Balmumu Yığını
+2|Ön Kapı
+4|Ryoma'nın Balmumu Bebeği
+5|Rantaro'nun Balmumu Bebeği
+6|Kirumi'nin Balmumu Bebeği
+7|Kaede'nin Balmumu Bebeği
+8|Ryoma'nın Asılı Balmumu Bebeği
+9|Rantaro'nun Asılı Balmumu Bebeği
+10|Kirumi'nin Asılı Balmumu Bebeği
+11|Kaede'nin Asılı Balmumu Bebeği
+13|Angie'nin Cesedi
+14|Kan Gölü
+15|Katana
+## ID155_lab_akamatu_text
+0|Hoparlörler
+1|CD Rafı
+2|Piyano
+5|Nota Sehpası
+## ID190_pool_text
+2|Depo Kapısı
+3|Spor Salonu Penceresi
+4|Okul Binası Penceresi
+5|Atlama Tahtası
+6|Kurallar Tabelası
+7|Havuz Girişi
+## ID191_pool_text
+8|Simit
+9|Kumaş Parçaları
+## ID200_computer_A_text
+1|Bilgisayar
+## ID201_computer_B_text
+4|Küçük Şişe
+5|Miu'nun Cesedinin Yanı
+7|Vizör
+9|Kablo Girişi
+10|Kablo Çıkışı
+## ID220_hangar_text
+1|Boya Makinesi
+3|Tuvalet
+6|Pres Kontrol Paneli
+13|Kontrol Paneli
+14|Giysi Parçası
+15|Kan İzleri
+22|Vinç
+## ID222_hangar_wc_text
+4|Arbalet Oku
+5|Cam Şişe
+## ID240_casino_1f_text
+1|Yeraltı Merdiveni
+2|Değişim Gişesi
+3|Premium Değişim Gişesi
+## ID241_casino_B1_text
+0|OUTLAW RUN
+1|TREASURE HUNTER! MONOLITH
+2|SALMON FISHING
+3|Monomono Slot
+4|1. Kata Merdiven
+## ID247_sch_side_p_text
+0|Okul Binası
+6|Kumarhane Bölgesi
+7|Gizemli Anıt
+8|Bitkiler
+9|Altıgen Çıkıntı
+10|Dev Kapı
+12|Büyük Merdivenden Aşağı
+## ID248_elv_side_p_text
+3|Kalın Metal Kapı
+5|Ninja Heykeli
+6|Girintili Nesne
+7|Anahtar Deliği
+8|Okul Binasının Yanı
+9|Parşömen
+## ID252_backyard_c1_text
+2|Sağ Kapı
+3|Sol Kapı
+4|Rögar Kapağı
+## ID253_elevator_c1_text
+1|Monokuma Heykeli

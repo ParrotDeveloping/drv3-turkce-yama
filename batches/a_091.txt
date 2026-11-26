@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_108_230
+8|Bir hizmetçi olarak böyle ciddi bir hata yaptım.
+9|<CLT=cltMIND>Bunun *o kadar* büyük bir hata\nolduğunu sanmıyorum...
+10|Uyku ortamınızı izleyebilir miyim?
+11|Günün saatine göre uyku kaliteniz\ndeğişebilir. Bunu ayarlayabiliriz.
+12|Sorun değil... Bunun hiç de zahmetli\nolduğunu düşünmüyorum.
+13|En verimli sonuçları alabilmeniz için size\nhizmet etmek... İşte benim mutluluğum bu.
+14|O zaman sizin için bir egzersiz programı\nplanlamama izin verin.
+15|Sindiriminizi bozmayacak bir rutin\noluşturacağım.
+16|Bir ay içinde daha güvenilir bir\ndedektif olacaksınız.
+## a00_108_310
+6|Karşı cinse bu tür okuma materyalleri\ngöstermek konusunda epey... heveslisiniz.
+7|Reddetme yetkim yok\nama yine de reddedeceğim.
+8|Hizmetçilerin istekleri reddetme hakkı vardır.
+9|Sakıncası yok.
+10|Gelecekte referans olarak kullanacağım. Ama\nhangi manga türünü tercih ediyorsunuz?
+11|Müşterinin hobisini bilmek bir hizmetçinin\ngörevinin parçasıdır.
+12|Böylece gelecekte benzer bir istek aldığımda\nhizmetim daha kullanışlı olur.
+13|Bu bir istek mi...?\nSizi eğlendirmemi mi istiyorsunuz?
+14|Öyleyse size bir kitap getireceğim.
+15|Endişelenmeyin. Geçmiş profilimden sevdiğiniz\nve sevmediğiniz şeyleri biliyorum.
+16|<CLT=cltMIND>Bütün bunları sadece benim\nprofilimi çıkararak mı biliyorsun?
+## a00_108_320
+5|Evet, bu iyi bir tavır.
+6|Hizmet ettiğim insanlar arasında en başarılı\nolanlar derslerini asla ihmal etmedi.
+7|Bir gün en iyi dedektif\nolacaksınız...
+8|Böyle bir geleceği hayal edebiliyorum...
+9|Uyumak isterseniz sakıncası yok.
+10|Uykuya direnmek isterseniz size yardım\netmek için önlemler alabilirim.
+11|Size kafein verebilirim, ilaç uzatabilirim\nya da hatta acıyla uyandırabilirim...
+12|Lütfen seçiminizi yapın.
+13|Evet... Ne kadar sık temizlersem\ntemizleyeyim toz hiç bitmiyor.
+14|Odaların yapısında bir sorun\nolabilir...
+15|Bunu konuşmak canınızı sıkıyorsa\nkendimi tutacağım.
+16|Özür dilerim.\nCanınızı sıkmak istemedim.
+## a00_108_330
+2|Hizmetçiler hakkında bir kitap okuyalım
+4|Bu ilginç bir küre...
+5|Demek bu kitap Viktorya döneminde\nbir hizmetçiyi anlatıyor.
+6|Modern hizmetçilerden çok o dönemdeki\nhizmetçilerle mi ilgileniyorsunuz?
+7|O zaman o dönemin Londra gelenek ve\nkültürlerini çalışmanızı tavsiye ederim.
+8|Hangi geleneklerin günümüze aktarıldığını,\nhangilerinin modasının geçtiğini öğrenebilirsiniz...
+9|Böyle şeyleri öğrendikten sonra kendinizi\nbaşarılı hissedeceğinizi garanti ederim.
+11|Öyleyse görgü kurallarınıza dikkat\netmenizi tavsiye ederim.
+12|Sizde potansiyel görüyorum.\nLütfen beni hayal kırıklığına uğratmayın...
+13|Bu mobilya böyle gelişigüzel yerleştirilemeyecek\nkadar yüksek kalitede.
+14|Bu eşya bir uzmanı bile sevinçten\nağlatır.
+15|Bunu fark ettiyseniz estetik anlayışınız\netkileyici olmalı.
+16|Eh, Ultimate Dedektif'ten bu\nbeklenirdi.
+## a00_108_410
+5|Mükemmel bir fikir.\nBen de antrenman yapmayı düşünüyordum.
+6|Bana verilen bütün istekleri yerine getirmek\nistiyorsam birçok şeyde mükemmel olmalıyım.
+7|Bana savaşla ilgili bir görev verilebilir,\nbu yüzden her gün antrenman yapmalıyım.
+8|<CLT=cltMIND>Savaş için antrenman mı?\nBu biraz...
+9|<CLT=cltMIND>Hayır, sanırım o kadar da tuhaf değil.\nNe de olsa bu Kirumi.
+10|Bu bir hizmetçinin görevinin parçası.\nEndişelenmenize gerek yok.
+11|Gerçekten istiyorsanız sakıncası yok...
+12|...Hayır. Lütfen temizliği bana bırakın.
+13|Yanlış anlamayın ama siz\ntemizlik yapınca... ben...
+14|Öyleyse belki yurda dönüp\ndinlenmelisiniz.
+15|Özellikle az önce olanlar hakkında\nsöylenmek istemiyorum...
+16|...ama gelecekte ne yapmamanız gerektiği\nkonusunda size tavsiye vermek isterim.
+17|Emrinize amade bir hizmetçiniz var. Bunu aklınızda\ntutarsanız beni mutlu edersiniz.

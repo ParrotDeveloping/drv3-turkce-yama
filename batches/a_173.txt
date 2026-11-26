@@ -1,0 +1,63 @@
+@ ainori_text_US
+## a00_300_116
+48|Of be, Kaito... bunca şeyden sonra\nhâlâ lafta kalıyorsun.
+49|Üstteki kafası alttaki kafasının\nödeyemeyeceği çekler yazıyor!
+50|Her neyse... buradan gidebileceğimiz\nkesin gibi görünüyor, değil mi?
+51|Bu zaferi hak ettik.\nTadını çıkaralım!
+52|<CLT=cltMIND>Son gün...
+53|<CLT=cltMIND>Buradaki hayatımız bugün bitiyor.
+54|<CLT=cltMIND>Bu yerden ayrılıp gerçekliğe\ndöneceğiz.
+55|Birazcık bile olsa...\nMinicik bir parça bile olsa...
+56|Buradan ayrılmak düpedüz üzücü değil mi?
+57|Öyle mi? Buranın hiçbir kültürel değeri\nyok, o yüzden ilgim başka yerde.
+58|Açıkçası artık gitme seçeneğimiz\nolduğuna seviniyorum...
+59|Yani tabii gittiğim için mutluyum ama\ndaha uzun kalmak isterdim...
+60|Buradaki manzara kostümleri parlatıyor.\nBiraz daha tadını çıkarmak istemiştim.
+61|Hiçbirinizin buradan ayrıldığı için\npişmanlığı yok mu?
+62|Buradan ayrılınca...\nHapse geri döneceğim.
+63|Bunu düşününce... Evet, buradan ayrıldığım\niçin pişmanlıklarım var.
+64|Gonta herkesin gitmesine üzülüyor...\nHerkes iyi anlaşıyordu da...
+65|Ama buradan çıksak bile burada birlikte\ngeçirdiğimiz zamanı hatırlayacağız.
+66|Edindiğimiz şeyleri kalbimizde tutup\nyeni bir hayat için çok çalışmalıyız.
+67|...Edindiğimiz şeyler mi?
+68|Anlıyorsun değil mi, Shuichi?\nBu hayatta edindiğimiz şeyleri.
+70|<CLT=cltMIND>Burada geçirdiğimiz zamandan\nedindiğimiz şey...
+71|Flört teknikleri
+72|İyi reytingler
+73|Dostluk bağları
+74|Ah, flört teknikleri mi?
+75|Ne—!? Yoz erkekler nasıl bu kadar\nbayağı olabilir!?
+76|Anlıyorum. Demek başkalarının kalplerini\nkontrol eden bir kara büyücüsün, ha?
+78|<CLT=cltMIND>Sanırım bu yanlıştı.
+79|<CLT=cltMIND>Belki de...
+80|Ah, iyi reytingler mi?
+81|Ne!? Monokuma'nın tarafında mısın,\nShuichi!? Ryoji gibi casus muydun!?
+82|Lütfen bununla şaka yapmaz mısın,\nShuichi? Özellikle şimdi, sonunda.
+83|Eğer... sana artık güvenemeyeceğimi öğrenirsem...\nbir daha asla kimseye güvenemem.
+85|<CLT=cltMIND>Burada geçirdiğimiz zamandan\nedindiğimiz şey...
+86|Dostluk bağları, değil mi?
+87|Bu karmaşaya hiç sürüklenmeseydik\nbirbirimizle asla tanışmazdık.
+88|Belki de bu yüzden aramızdaki\nbağ bu kadar güçlü.
+89|...Iyy, utanç verici.
+90|Ama Shuichi kesinlikle haklı,\nbiliyor musun?
+91|Bağlarımız olduğu sürece gittiğimiz\niçin pişman olmamıza gerek yok!
+92|Benim hâlâ pişmanlıklarım var...
+93|Ama sizinle olan anılarım...\nhapsi benim için biraz kolaylaştıracak.
+94|Gonta daha çok çalışabileceğine inanıyor!\nGerçek bir centilmen olmak için!
+95|Artık burada hapis olmamamız sonsuza\ndek ayrı kalacağımız anlamına gelmiyor.
+96|Hizmetime ihtiyacınız olursa\nbeni çağırabilirsiniz.
+97|Herkesin mutluluğu için Atua'ya\ndua edeceğim.
+98|VAAAAAAAAAAAAAHHHHHHHH!!!!!\nHepinizle tanıştığım için çok mutluyuuuuum!!!
+99|Sizi sonsuza dek ve sonsuza dek ve\nsonsuza deeeeeeek seveceğim!!!
+101|Anlıyorum... Şey, herkes bundan\nmemnunsa...
+102|<CLT=cltMIND>Bu son on gün boyunca...\nyeri doldurulamaz bir şey edindik.
+103|<CLT=cltMIND>Yeri doldurulamaz bir bağ.
+104|<CLT=cltMIND>Ve o bağı kalbimizde taşıyarak\ngündelik hayatımıza döneceğiz.
+105|<CLT=cltMIND>Monokuma'nın, Monoyavruların, Exisal'ların,\nkilitli odaların ya da kuralların olmadığı hayatlara...
+106|<CLT=cltMIND>Sonunda, sadece... normal bir hayata.
+107|<CLT=cltMIND>Ama... içten içe...
+108|<CLT=cltMIND>Bu kurgusal dünyadan ayrılmak zorunda\nolduğum için pişmanlık duyan bir yanım var.
+109|<CLT=cltMIND>Belki de sadece sıkıcı günlere\ndönmekten korkuyorum.
+110|<CLT=cltMIND>Ama artık korkmamıza gerek yok.
+111|<CLT=cltMIND>Aramızdaki bu bağlara değer verirsek\nher şeyin üstesinden gelebiliriz.
+112|<CLT=cltMIND>Bütün bunlar hakkında böyle hissediyorum...

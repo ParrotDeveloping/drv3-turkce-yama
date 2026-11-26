@@ -1,0 +1,69 @@
+@ ainori_text_US
+## a00_050_250
+74|Eh, şimdi değil tabii. Şu an seçeneklerin\nbiraz daha kısıtlı.
+75|Sana burada görülecek bir şey yok demedim mi?
+76|Bir dakika...
+77|Sadece kafamı ütüleyip durursan geçmene\nizin vereceğimi mi sanıyorsun?
+78|İşe yaramaz. Eline gelen kartlarla\nsavaşmak zorundasın.
+79|Turnuva kuralları geçerli olsa ve bütün\nkartların yasaklı listesinde olsa bile...
+80|Ha? Benimle neden konuşuyorsun?\nGerçek aşkı bulmaktan çok mu korkuyorsun?
+81|Âşık olmaktan korkmaktan daha aptalca\nbir şey yoktur!
+82|Ne kadar strese girersen gir, başkalarının\nne düşündüğünü asla bilemezsin!
+83|Hayattaki tek garanti, o ilk adımı atmazsan\nhiçbir yere varamayacağındır!
+84|Ve bir kere harekete geçince yere çakılıp\nyanmaktan başka yapacak bir şey kalmaz!
+85|Ama şey, *eğer* yere çakılıp yanarsan\nkimseye benim fikrim olduğunu söyleme.
+86|<CLT=cltMIND>[Geçici] Okul Binası/Koridor
+87|<CLT=cltMIND>[Geçici] Yemekhane
+88|<CLT=cltMIND>[Geçici] Yurt
+89|<CLT=cltMIND>[Geçici] Miu'nun Laboratuvarı
+90|<CLT=cltMIND>[Geçici] Havuz
+91|<CLT=cltMIND>[Geçici] Antrenman Alanı
+92|<CLT=cltMIND>[Geçici] Arka bahçe (Doğu)
+93|<CLT=cltMIND>[Geçici] Arka bahçe (Batı)
+94|<CLT=cltMIND>[Geçici] Duruşma Salonuna Giden Tapınak
+95|<CLT=cltMIND>[Geçici] Kumarhane
+96|<CLT=cltMIND>[Geçici] Aşk Oteli
+97|Shuichi'nin şu anki sevgi seviyesi...
+98|Vay. Açıkçası bu düpedüz berbat.
+99|Fena değil... Biraz geliştirilebilir.
+100|Epey iyi... Shuichi için.
+101|Burada gerçek bir potansiyel var.
+102|Tam kritik bir noktada!
+103|Hiç de fena değil, biliyor musun?
+104|Epey iyi!
+105|O kadar iyi ki ben bile kıskanıyorum.
+106|Olamaz... imkânsızı mı başaracak!?
+107|...Bu... çok güzel... Mutlak kusursuzluk...
+## a00_100_000
+3|<CLT=cltSYSTEM>"Aşk Anahtarı"nı kullanmak ister misin?
+## a00_100_001
+2|<CLT=cltMIND>Buraya her geldiğimde onların "ideal"ini\ncanlandırıyorum. Ortak bir hayal gibi.
+3|<CLT=cltMIND>Kaito'nun aklında nasıl bir hayal var?\nGerginim... ama bilmek istiyorum.
+4|Heh, kuyruğunu bacaklarının arasına\nkıstırıp kaçmamana şaşırdım!
+6|İkimizin de 99 galibiyeti var...\nyani bu gerçek kazananı belirleyecek.
+7|Şimdi, bitirelim şunu!
+8|Bekle, ne!?
+9|<CLT=cltMIND>Kaito'nun aklındaki *bu* mu?
+10|<CLT=cltMIND>Bu hayalde tam olarak nasıl bir\nrol oynuyorum?
+11|Ah, şey, ikimizin de... 99 galibiyeti mi var?\nBir tür yarışmada mıydım...?
+12|Ne o, son savaştan önce geçmişi\nfalan mı düşünüyorsun?
+13|İlk tanıştığımızda...\nGökyüzündeydi...
+14|Gökyüzü mü...?
+15|Ben Kaito Momota!\nYıldızların Işığı!
+16|Uçsuz bucaksız evrene girmeden önce\nmavi gökyüzünü fethetmeye karar verdim...
+17|Ve sen oradaydın!
+18|Ben orada mıydım? Ben neyim\nböyle Allah aşkına!?
+19|İlk uçak yarışımızda birbirimizin\nadını bile bilmiyorduk!
+20|<CLT=cltMIND>Ah, anladım! Pilot falanız...\nKaito'nun hayalleri de kendisi kadar tuhaf.
+21|En hızlı ve en havalı kim diye kızgın\nbir savaşın başlangıcıydı!
+22|Ama savaşımızın bu kadar uzun\nsüreceğini hiç hayal etmemiştim.
+23|Ah, yani ikimiz de hava yarışını 99 kez\nkazandık ve sonraki yarış her şeyi belirleyecek!
+24|Aşağı yukarı. Artık uzatma\nyok, anladın mı?
+26|Evet... İşte bu...
+27|...Kaito? Bir sorun mu var...?
+28|Sadece... açıkçası kavgamıza son\nvermek israf gibi geliyor.
+29|Keşke bu günler sonsuza dek\nsürse, biliyor musun?
+31|<CLT=cltMIND>Ya sonsuza dek yarışsaydık? Eminim\nbazı yarışlar eğlenceli, bazıları kötü olurdu...
+32|<CLT=cltMIND>ama bir şekilde biliyorum ki...\nhep keyif alırdık. Birlikte.
+33|Ben de... aynı şeyi hissediyorum, Kaito.\nSeninle uçmayı seviyorum.
+34|Sanki rakip olsak da kalplerimiz\nbir. Bunu seviyorum.

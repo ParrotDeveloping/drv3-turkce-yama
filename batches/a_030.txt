@@ -1,0 +1,65 @@
+@ ainori_text_US
+## a00_101_701
+42|O kısım geliyor! Sadece rahatla ve\ndinle. Bu kadar sabırsız olma.
+44|Yazar mı!? Hah, sanırım evren hakkında\notobiyografimi yazabilirim.
+45|Astronot olmaya çalışan çocuklar için\nolmazsa olmaz bir kitap olur.
+46|<CLT=cltMIND>...Tam olarak öyle demek istememiştim.
+48|<CLT=cltMIND>Dinlemeye devam edeceğim...
+49|Hey... yüzünden okunuyor...
+50|Ha? Ne?
+51|Bunu ciddiye almıyorsun,\ndeğil mi!?
+52|Sıkıcıysa söyle! Dinliyormuş gibi\nyapmak hiç erkekçe değil!
+53|Ah, hayır! Hiç de sıkılmadım!\nGerçekten çok ilginç, Kaito!
+54|Ha, gerçekten mi? Sanırım yanlış anladım.\nBenim hatam!
+56|Eh, sanırım epey zaman aldı...\nPekâlâ! Bir dahaki sefere devam ederiz!
+58|<CLT=cltMIND>Sanırım bu hikâyenin ikinci kısmı var.\nNerede bitecek merak ediyorum...
+## a00_101_702
+0|Hey! Geri geldiysen bu demek oluyor ki...
+1|Haha! Hikâyelerimi gerçekten dinlemek\nistiyorsun, ha!? Eh, madem öyle diyorsun!
+2|<CLT=cltMIND>Hikâyeyi bir dahaki sefere bitireceğini\nsöyleyen *sendin*...
+3|Peki nerede kalmıştık?
+4|Rakip korsan sürüleriyle savaşıyordun ve\ngemini yeni terk etmiştin.
+5|Doğru! Şey, ondan sonra ne\noldu...?
+6|Ah, hatırladım! Teknemden inmeden önce\ninanılmaz bir şey oldu!
+7|<CLT=cltMIND>İnanılmazdı diyorsun ama unuttun mu?\n...Kendime saklayacağım.
+8|Savaştan sonra bir limana gidiyordum\nama... bir fırtınaya yakalandım.
+9|İşim bitti sandım ama tam en kötüsüne\nhazırlanırken...
+10|Teknemi bir balina yuttu!
+11|Ah. Anlıyorum.
+12|Bu ne biçim tepki!?\nYalan söylediğimi mi düşünüyorsun!?
+13|Bir balinaydı, dostum! Bu dünyada benden\nsonra en akıllı ikinci şey!
+14|Muhtemelen büyüklüğümü görüp beni\nfırtınadan uzakta midesinde sakladı.
+15|<CLT=cltMIND>Senden böyle bir masal beklemiyordum,\nKaito.
+16|Limana varıp karaya ayak bastığımda\naklıma bir şey geldi...
+17|Denizi fethetmeye çalıştım... ve o kazandı.\nBu yüzden sonraki hamlemin şu olacağına karar verdim...
+18|<CLT=cltMIND>Ah! Sonunda uzay kısmına\ngeliyor...
+19|Karayı fethetmek!
+21|Teknemi ve bütün eşyalarımı satıp\normana girdim!
+22|Ve tıpkı deniz gibi orası da vahşi bir sınırdı.
+23|Yeşilliklerin içinden kendi yolumu\naçarken... bir şeyle karşılaştım.
+24|Bir insanı bütün olarak yutabilecek\ndev bir anakonda!
+25|<CLT=cltMIND>Hikâyenin bu kısmı denizleri fethetme\nkısmından daha az görkemli görünüyor...
+26|Ama bu sadece başlangıçtı...\nOnu yenmek bir kapıyı açtı...
+27|Bir kapı mı? Nereye?
+28|Yeraltı İmparatorluğu'na açılan bir kapı!\nO bekçiydi!
+29|Yeraltı... İmparatorluğu mu?
+30|Evet! Dev bir yeraltı mağarasında koca\nbir medeniyet vardı!
+31|İmparatorluklarını istila edip imparatoru\nyardımcım yaptım ama...
+32|Ama süre o kadar çabuk doldu ki dedemin\nevine geri dönmek zorunda kaldım.
+33|Süre mi?
+34|Eh, evet. Yaz tatilim bitmişti,\nhaliyle.
+35|...Epey uzun bir yaz tatilin varmış,\ndeğil mi?
+36|Hem hâlâ neden astronot olmaya karar\nverdiğini bilmiyorum.
+37|Ha? Neden astronot olmak istediğim mi?\nBunu mu konuşuyorduk?
+38|Evet! Bunu konuşuyorduk!
+39|Çok basit! Evren fethetmem gereken\nson sınır!
+40|Hem biraz havalı, değil mi?\nAstronotlar en iyisi değil mi!?
+42|<CLT=cltMIND>Yani özetle sebebin "havalı olduğu\niçin"di...
+44|<CLT=cltMIND>Kaito hikâyesinden epey memnun görünüyordu,\nben de odama döndüm.
+## a00_101_703
+0|Dostum, buradan ne zaman çıkabileceğiz?\nBir sürü antrenmanı kaçırıyorum...
+1|Evet... bu doğru.
+2|Ama madem buradayız, benimle tanıştığına\nsevinmiyor musun?
+3|Seninle tanıştığıma mı?
+4|<CLT=cltMIND>Eh... sanırım Kaito beni daha önce\nkurtarmıştı...
+5|Utanılacak bir şey değil! Sadece benim\nyardımcım olduğun için gurur duy!

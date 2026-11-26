@@ -1,0 +1,76 @@
+@ ainori_text_US
+## a00_102_130
+12|Ama gerçeklikten uzaklaşmak isteyen\ninsanlar da var...
+13|Dedektifsen... bu aklında tutman\ngereken bir şey.
+## a00_102_210
+5|Hayatımda hiç yemek yapmadım.
+6|Hapse girmeden önce her boş vaktimde\nelimde bir raket olurdu.
+7|Kusura bakma ama yemek yapmak istiyorsan\nbaşka birine sormalısın.
+8|Bu beni geçmişe götürdü.\nSana bahsettiğim o kızı hatırlıyor musun?
+9|Bana hep ev yapımı tatlılar\nverirdi.
+10|Ona ne kadar lezzetli olduklarını\nhiç söyleyemedim ama...
+11|Yaptığı o tatlılara bayılırdım.
+14|Ah, unuttum...
+15|Burada istediğim zaman yiyip\niçebiliyorum, ha?
+16|Hapishanede sadece belli bir saatte\nyemek yiyebiliyordum...
+17|Hapishanenin dışında olmaya hâlâ\nalışamadım...
+## a00_102_220
+5|Şakanın bile bir sınırı var...
+6|Yoksa küçük, buz gibi bir yerde olmayı\nhak ettiğimi mi söylüyorsun?
+7|Şaşırtıcı derecede kızsı zevklerin var.
+8|Bu bana geçmişimdeki kızı hatırlatıyor...\nhatırlamamayı tercih etsem de...
+9|Ama tuhaf bir şekilde... bu sefer anılara\ndalmak o kadar da kötü değil.
+10|Bu senin hoşlandığın bir şey mi...?
+11|Yoksa...
+12|Bir tür antrenman olması mı\ngerekiyor?
+13|Seninle yapacak birini istiyorsan\nbaşka yere bak.
+14|Benim bir insan olduğumu unuttun mu?\nYemek yemem gerek.
+## a00_102_230
+5|Hıh... böyle basit bir şey bile artık\nbana savurganlık gibi geliyor.
+6|Böyle şeylere hapishanede izin\nverilmiyordu.
+7|Ne ironik...
+8|Bu yere hapsolmak yeniden bir insan\ngibi yaşamama izin verdi.
+9|Seni durdurmam ama... yemekten hemen\nsonra uyumak senin için kötü.
+10|Senin bir geleceğin var. Kendine iyi\nbaktığından emin olmalısın.
+11|Kendine iyi bakmak bir numaralı\nönceliğin olmalı.
+12|Hâlâ genç olsan bile sağlığını aklında\ntutmalısın, biliyor musun?
+13|Benim aksime senin bir geleceğin var.
+## a00_102_310
+5|Kusura bakma ama tek başına\nkeyfini çıkarman gerekecek...
+6|Böyle şeyler görmek... artık bana\nhiçbir şey hissettirmiyor.
+7|Ne nostaljik...
+8|Tenis günlerimde sürekli manga\nokurdum.
+9|Kahramanın özel hareketlerini alıp tenis\nkortunda kendim kullanırdım.
+10|Hmm... ama bu kötü bir şey değil, değil mi?
+11|Sıkılabiliyorsun çünkü\nözgürsün.
+12|Bunun kötü ya da gereksiz olduğunu\nasla düşünme.
+## a00_102_320
+6|Bir sürü şey öğrensen bile hapishanede\nkullanmanın yolu yok.
+7|Geçmişimi silmenin bir yolu olsaydı\ngözlerim kızarana kadar onu çalışırdım...
+8|Kesinlikle öyle. Hapishaneden\nçok daha tozlu.
+9|Şaşırtıcı, değil mi? Hapishane anormal\nderecede temizdi.
+10|Çoğunlukla gardiyanların ne kadar\nkatı olduğu yüzünden...
+11|Gerçekten böyle çocukça bir şey\nyapmak isteyeceğimi mi düşünüyorsun?
+12|Öyleyse nasıl biri olduğum hakkında\nbelli ki hiçbir fikrin yok.
+13|Dedektifsen insanları daha iyi okumayı\nöğrenmelisin.
+## a00_102_330
+2|Mafya hakkında bir kitap okuyalım
+3|Bir kitap yazalım
+5|...\nSeni kıracak bir şey mi yaptım?
+6|Bana böyle bir şey önermenin...\nBir sebebi var, değil mi?
+7|Bu dünyaya bırakacak hiçbir sözüm\nyok...
+8|Ama senin ne tür bir şey yazacağını\nmerak ediyorum.
+9|Hıh... görünüşe göre farkında olmadan\nsana ilgi duymaya başlamışım.
+10|Bitince hapishaneye getir.\nOkumayı dört gözle bekliyorum.
+11|Sessizliğe dayanamayan biri\nmisin?
+12|O zaman hapishaneden uzak\ndursan iyi olur.
+13|Hapishanede geceler epey kötüleşir.\nÖlümün durgunluğu gibi...
+## a00_102_410
+2|Bedenimizi hareket ettirelim
+3|Biraz temizlik yapalım
+6|Ben de biraz paslandığımı düşünmeye\nbaşlamıştım.
+7|Ama bu kusursuz zamanlama tesadüf mü\nyoksa dedektiflik becerilerin mi?
+8|Gerçekten tuhaf bir adamsın.
+9|Tabii, yapmak istediğin buysa\nyardım ederim.
+10|Ne kadar çalışkan birisin...
+11|Ama yine de bazen rahatlamalısın da,\ntamam mı? Gergin ip kolay kopar.

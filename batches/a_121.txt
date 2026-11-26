@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_111_702
+11|B-Bekle! Öylece dövüşmeye başlayamam!\nÖnce temelleri bilmem gerekmez mi!?
+12|Neee?\nNeo-Aikido'da "temel" diye bir şey yok!
+13|Havada bambu kılıç sallamak Kendo'da\nkazanmana yardım eder mi?
+14|Aynı şekilde havada sopa sallamak beyzbolda\nsayı vuruşu yapmana yardım eder mi?
+15|Sanırım etmez...
+16|Gelişmenin tek yolu gerçek bir dövüş\nyapmak. Gerçek pratik budur!
+17|Anlıyorum. Muhtemelen en iyisi bu.
+18|<CLT=cltMIND>Bu mantıklı gelmeye başlıyor...\nBelki Neo-Aikido sandığım kadar tuhaf değildir.
+19|Shuichi, artık daha ilgili görünmeye\nbaşladın.
+20|O zaman sana Neo-Aikido'nun özel\nsırrını söyleyeceğim!
+21|<CLT=cltMIND>...Belki de erken konuştum.
+22|Neo-Aikido uygulayıcıları olarak\nUsta ve ben...
+23|...aynı zamanda adalet kahramanlarıyız!
+24|Usta ve ben kılık değiştirmek için maske takarız!\nGece gündüz demeden kurtarmak için hizmet ederiz!
+25|Maske önemli mi?
+26|Bu utanç verici değil mi?
+27|Ah... süper kahramanlar gibi...
+29|<CLT=cltMIND>Adalet kahramanları mı?
+30|Maske önemli mi?
+31|Evet, Usta öyle dedi!\nAdalet kahramanları şık maskeler takmalı!
+32|Böylece kimse gerçek kimliklerimizi bilmez!\nUsta bunun adalet kahramanı için şart olduğunu söyledi!
+33|<CLT=cltMIND>Belki çizgi romanlarda... ama gerçek hayatta mı?
+34|Bu utanç verici değil mi?
+35|Neden utanalım ki!?\nİyi bir iş yapıyoruz!
+36|Zayıfı koru, güçlüyü yen!\nKötülüğü ezer, fakirlere bakarız!
+37|Aaaaahhhh!!! Çok havalıyız!!!\nUsta'nın fikirleri hep muhteşem!
+38|Ah... süper kahramanlar gibi...
+39|Hahaha, şaşırdın mı?\nAdalet kahramanları gerçek!
+40|Ah! Ama bunu sadece sana söyledim, o yüzden\netrafta başkalarına anlatma, tamam mı?
+41|İnsanlar Neo-Aikido uygulayıcılarının süper kahraman\nolduğunu öğrenirse çok fazla erkek katılmak ister!
+42|<CLT=cltMIND>Bunu bütün dünyaya yaymak istediğini\nsanıyordum...
+43|Peki bir "adalet kahramanı" ne tür\nişler yapar?
+44|Her şeyi yaparız!
+45|Yaşlı bir kadının eşyalarını taşımasına yardım...\nBir çocuğun karşıdan karşıya geçmesine yardım...
+46|Ah, evet!\nGeçen gün bir hırsız yakaladım!
+47|Anlıyorum... Epey sıkı çalışıyorsun.
+48|Ayrıca aldatan yozları cezalandırırız,\ntrenlerdeki tacizcilere ilahi adalet getiririz...
+49|Ve hatta zor bir ayrılık yaşamış\nkızlara yardım ederiz!
+50|Bu gerçekten adalet kahramanlarının\ngörev alanına giriyor mu?
+51|Tabii ki! Bir kızın bir erkek için ağladığını\ngörmekten daha sefil bir şey yoktur!
+52|Bazen erkeklerden intikam almalarına yardım\netmek için kızlara Neo-Aikido öğretiriz!
+53|İntikam mı!? Bu biraz aşırı değil mi?
+54|Sen neden bahsediyorsun!? Kızları ağlattıkları\niçin o yozların suçu!
+55|<CLT=cltMIND>Acaba... kaç erkek Neo-Aikido\ntarafından alt edildi...
+57|<CLT=cltMIND>Hâlâ adalet kahramanlarını anlamaya\nçalışarak odama döndüm...
+## a00_111_703
+0|Yine mi konuşmak istiyorsun? Neo-Aikido\nkonusunda epey ciddisin, değil mi Shuichi?
+1|<CLT=cltMIND>Pek sayılmaz ama...
+2|O zaman sana Neo-Aikido hakkında dikkat\netmen gereken bazı ipuçları öğreteceğim.
+3|<CLT=cltMIND>Tenko'nun ifadesi alışılmadık derecede ciddi.
+4|Doğrusunu söylemek gerekirse Neo-Aikido'nun\nbelli bir zayıflığı var... Ve o da...
+6|Noel ya da Sevgililer Günü için fazla heyecanlanırsan\nhareketlerin zayıflar!
+7|Ah... neden?
+8|Çünkü Usta öyle dedi!
+9|Bu pek iyi bir sebep gibi\ngelmiyor.
+10|Mükemmel bir sebep!
+12|<CLT=cltMIND>Ustası ona sadece saçmalık mı\nöğretti?
+13|<CLT=cltMIND>Belki onunla dalga geçiyordu.\nTenko epey saf...
+14|Benim durumumda erkeklerle etkileşime\ngirersem hareketlerim zayıflar.
+15|Ayrıca günde üçten fazla tatlı yersem\nya da ortamı temiz tutmazsam...
+16|<CLT=cltMIND>Tamam, kesinlikle onunla dalga geçiyordu.
+17|<CLT=cltMIND>Tenko'nun erkeklerden nefret etmesinin sebebi bu mu?

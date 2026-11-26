@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_110_000
+65|...Ha, kızgın mı görünüyorum?\nBelli etmiyorum ama aslında epey mutluyum.
+## a00_110_050
+1|Beni davet etmeye mi geldin?\nTuhaf birisin...
+2|Monokuma bizi neden buraya hapsetti acaba?
+3|Seni arıyordum. Eee, boş musun?
+13|...Benimle bir işin yoksa diğerleriyle\nvakit geçirmen gerekmez mi?
+14|Seni öldürebileceğimden endişelenmiyor musun?
+15|<CLT=cltMIND>Maki'yi ona güvendiğime ikna ederek\nbiraz vakit geçirdim.
+16|Eh, istemediğimi söylemiyorum.
+17|Ama bu yaşam tarzı epey yorucu.
+18|<CLT=cltMIND>Maki'ye yaşam tarzımı anlatarak biraz\nvakit geçirdim.
+19|Daha önce suçlularla uğraştım ama ilk kez\nbirini okuyamıyorum.
+20|Belki de mesleğim yüzünden bu karmaşaya\nbulaştım.
+21|Ah ama... şimdiye kadar hiç tehlikeli\nbir şey yapmadın, değil mi?
+22|<CLT=cltMIND>Maki'yle şimdiye kadarki hayatım\nhakkında konuşarak biraz vakit geçirdim.
+23|Seni ciddi bir şey için\naramıyordum...
+24|S-Sadece takılmak istedim...\nBu normal, değil mi?
+25|<CLT=cltMIND>Maki'yi utanmaması için ikna etmeye\nçalışarak birkaç dakika geçirdim...
+## a00_110_110
+4|Suikastçılar hakkında belgesel izle
+5|...Gonta'yı daha iyi anlamak istiyorsun,\nöyle mi?
+6|Seçimini küçümsemiyorum ama\nseninle izlemek zorunda mıyım?
+7|Sorun değil, pek karşı değilim...
+8|Ama ürkütücü bir şey gösterse bile\nbunu sonuna kadar izleyeceğiz.
+9|Yarıda bırakmaktan hoşlanmam.
+10|İzlemekte sakınca görmüyorum. Atletlerin\nbedenlerini nasıl çalıştırdığından etkileniyorum.
+11|Belki ciritleri nasıl attıklarını izlemek\n<CLT=cltSTRONG>işimde<CLT=cltNORMAL> bana yardımcı olabilir.
+12|Uzun, sırık benzeri bir silahı düz bir çizgide\natmak için belli bir beceri gerektiğini biliyor muydun?
+13|...Dur. Bundan neden bahsediyorum?\nBunu bilmene gerek yok.
+14|<CLT=cltMIND>Maki'nin bir şeye gerçekten heyecanlandığını\ngörmek göze bayram gibiydi.
+15|<CLT=cltMIND>Tabii konu daha barışçıl olsaydı\ndaha iyi olurdu...
+17|Böyle hastalıklı bir şeyi izlemek\nistemem mümkün değil.
+20|<CLT=cltMIND>Ne oldu acaba?\nMaki derin düşüncelere dalmış gibi...
+21|(Hıh...)
+24|<CLT=cltMIND>Maki'nin iç düşünceleri mi...?
+## a00_110_113
+0|Bunu neden hâlâ\nhatırlıyorum...?
+1|Bunu neden hâlâ hatırlıyorum...?
+2|Belki de\nsonuçta\n<CLT=size2>pişmanım...
+3|Belki de sonuçta pişmanım...
+4|Ama\nbaşka\nçarem yoktu...
+5|Ama başka çarem yoktu...
+6|Onları öldürmek zorundaydım...
+8|Neyse...
+10|Bunu düşünmeye\ndevam edersem\n<CLT=size2>işimi\n<CLT=size2>etkiler...
+11|Bunu düşünmeye devam edersem\nişimi etkiler...
+12|Sadece\n<CLT=cltWEAK><CLT=size2>unutmam\n<CLT=size2>gerek<CLT=cltNORMAL>...
+13|Sadece unutmam gerek...
+16|Acaba\n<CLT=cltWEAK>benden <CLT=size2>nefret<CLT=size1> ediyorlar mı<CLT=cltNORMAL>...
+17|Acaba benden nefret ediyorlar mı...
+18|Ama bunu düşünüp durmanın\nanlamı yok...
+19|Ama bunu düşünüp durmanın anlamı yok...
+20|Tabii ki ederler...\n<CLT=size2>Onlar öldü.
+21|Tabii ki ederler... Onlar öldü.
+## a00_110_120
+5|...Filmlerde de neden vahşet görmek zorundayım?
+6|Açıkçası birinin bundan neden\nhoşlandığını anlamıyorum.
+7|Komediyi pek anlamam\nama vahşetli filmlerden iyidir.
+8|En azından ekranda kan yok.\nBir kez olsun işteymişim gibi hissetmiyorum.
+9|Ah, evet.\nŞakaların bazılarını bana açıklayabilir misin?
+10|Belki böylece insanların komedi filmlerini\nneden bu kadar sevdiğini anlayabilirim.
+11|Bu... bana çocukluğumu hatırlatıyor.
+12|Çocukken animedeki kızlar gibi normal\nolabileceğimi düşünürdüm.
+13|Ah, sen çocukken nasıldın?\nGüçlü bir adalet duygun var mıydı?

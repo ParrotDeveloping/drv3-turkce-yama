@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_108_704
+63|Shuichi... Bunu size daha önce de söyledim\nama içinizde bir şey hissediyorum.
+64|Paradan bağımsız olarak size hizmet etmek istiyorum.
+65|Kişisel hizmetçiniz olarak...\nGeleceğinize destek olmama izin verin.
+66|Kaçtığımızda hizmetlerimden yararlanmayı\nciddi olarak düşünür müsünüz?
+68|<CLT=cltMIND>Bu sefer şaka değildi.\nKirumi tamamen ciddi.
+69|<CLT=cltMIND>Açıkçası Kirumi'nin bende tamamen\nharcanacağını hissediyorum ama...
+70|<CLT=cltMIND>Kirumi'nin bende gördüğü aynı\npotansiyeli... görmek istiyorum.
+71|Evet. Düşüneceğim, Kirumi.
+72|Size minnettarım...\nUmarım akıllıca bir seçim olur.
+74|<CLT=cltSYSTEM>Yeni bir beceri öğrendin:\n<CLT=cltSTRONG>Yatak Toplama<CLT=cltSYSTEM>.
+75|<CLT=cltMIND>Kirumi'yle geleceğimi konuştuk\nve odama döndüm.
+## a00_108_902
+0|Sizin sayenizde vaktimden keyif\nalabildim.
+1|Neden acaba... Sizinleyken daha iyi bir\nhizmetçi olabilirmişim gibi hissediyorum.
+2|Pekâlâ, yurda birlikte yürüyelim\nmi?
+3|Sizin sayenizde verimli bir gündü.
+4|İsterseniz lütfen benimle yine vakit\ngeçirin.
+5|Yurdumuza dönelim.
+6|Bir erkek olarak becerilerinizi daha çok\ngeliştirmenizi tavsiye ederim.
+7|Başka bir kadın olsaydı ne yapardı\nhayal bile edemiyorum.
+8|Pekâlâ, izninizle...
+9|Vaktinizi böyle mi geçirmek istediniz?
+10|Tek başıma döneceğim.
+## a00_108_914
+0|Doğru, zayıflıklarının üstesinden gelmek\niçin çalışmalısın.
+1|Bunu anlıyorum ama...\nÜstesinden nasıl geleceğimi bilmiyorum...
+2|Yardım edebileceğim bir şey varsa\nlütfen söyle.
+3|Evet, bu düşünceniz için teşekkürler.
+4|Ah... düşüncem.\nSanırım pek yardım edemiyorum, değil mi?
+6|Belki de... gerçekten üstesinden gelmen\ngerekmiyordur?
+7|Hm...\nBu pek de kötü bir düşünce tarzı değil.
+8|Ama ben bir hizmetçiyim. Efendime\nhizmetlerimi sunmam beklenir.
+9|Durgun kalmak yerine kendimi geliştirsem\ndaha iyi olur.
+10|Tabii ama...
+11|Bir zayıflığın olması seni biraz daha...\nyakın yapıyor. Hatta sevimli.
+12|Bütün zayıflıklarını örtersen o\nazıcık cazibeyi kaybedersin.
+14|Anlıyorum...\nBunu hiç düşünmemiştim.
+15|İnanılmaz, Shuichi...\nOlaya farklı bir açıdan bakıyorsunuz.
+16|Ah, hayır, "inanılmaz" bir şey değil...
+17|Yine de minnettarlığımı göstermeme izin verin.\nSizin sayenizde biraz daha iyi hissediyorum.
+19|Bazı şeyler düşünmeye\ndeğmez.
+20|Evet, katılıyorum...\nBenim için o konnyaku olurdu.
+21|Ne kadar sık düşünürsem düşüneyim\nkısır bir döngüyle bitiyor.
+22|Ama onu dert etmeyi bıraksaydım\nbu <CLT=cltSTRONG>kaçmakla<CLT=cltNORMAL> aynı olurdu.
+23|Kaçmak mı?
+24|Biri zayıflığımı istismar etmeye\nçalışırsa...
+25|...hizmet ettiğim efendiye sorun\nçıkarır.
+26|İhtimal epey düşük ama görmezden\ngelmemeliyim. Kaçmakla aynı olur.
+27|En azından ben böyle düşünüyorum.
+29|Özür dilerim...\nLütfen söylediklerimi unutun.
+30|Bir hizmetçi en başta asla\nşikâyet etmemeli...
+32|Bu vakit kaybı falan\ndeğil.
+33|Neden öyle?
+34|Buna ne kadar zaman harcarsam harcayayım\nüstesinden gelmenin bir yolunu düşünemiyorum.
+35|Belki haklısın, belki onu asla\ndoğru kesemeyeceksin...
+36|Ama o gerçeği kucaklarsan... bir karşı\nönlem geliştirebilirsin.
+37|Karşı önlem diyorsunuz... Yani biri zayıflığımı\nistismar ettiğinde, değil mi?
+38|Aynen öyle, Kirumi. Bunu düşüneceğini\nbiliyordum.
+39|Hayır... Görünüşe göre buna yeterince\nkafa yormamışım.
+40|Teşekkür ederim, Shuichi...
+41|Bu konuda bir şey yapabilirim...\nBunu fark ettiğime göre aydınlandım.
+42|Odama döner dönmez hemen bir karşı\nönlem düşüneceğim.
+## a00_109_000
+4|Bana zorbalık mı ediyorsun? Etrafta kimse\nyok diye bana zorbalık ediyorsun, ha?

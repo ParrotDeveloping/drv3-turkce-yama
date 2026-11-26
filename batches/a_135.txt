@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_113_050
+22|Nyahahaha! Çizen hep benim!\nÇizilmek biraz utanç verici!
+23|<CLT=cltMIND>Bir süre Angie'yi çizdim.
+24|Pekâlâ, ne yapalım?
+25|Atua'ya soralım mı?
+26|Yoksa sen mi karar vermek istersin, Shuichi?
+27|Nyahaha! Neye karar vereceğimize nasıl\nkarar vereceğimizi merak ediyorum.
+28|<CLT=cltMIND>Neye karar vereceğimize karar vermeyi\ndüşünerek biraz vakit geçirdim...
+## a00_113_110
+3|İnsan kaçakçılığı hakkında belgesel izle
+5|Gonta'yı severim ama böceklere olan\nsevgisi epey tuhaf.
+6|Adamda insanların beynine giren böcekler\nvar, o yüzden insanlar onlardan çok korkar.
+7|Nyahaha! Düşünmesi bile tüylerimi diken diken ediyor!
+8|Ah! Bir sürü adak var!
+9|Adam bu sistemi benimsese\nadak sıkıntımız çözülürdü!
+10|Ne kadar ilahi, Shuichi! Bana gerçekten\nişe yarar bir şey öğrettin!
+11|Beni kötü hissettirecek bir şey\nizlemek istemiyorum.
+12|Polisler, adamın törenlerini hep bozmaya\nçalışan dinsizlerdir.
+13|Atua'nın varlığını hissedemedikleri için\nvar olduğunu bile inkâr ederler.
+14|Sen de mi dinsizsin, Shuichi?
+16|<CLT=cltMIND>Acaba ne oldu?\nAngie derin düşüncelere dalmış gibi...
+20|<CLT=cltMIND>Bunlar Angie'nin iç sesi mi...?
+## a00_113_113
+0|<CLT=size2>Shuichi,\n<CLT=size1>sana nasıl\ndaha <CLT=size2>yakın<CLT=size1> olabilirim?
+1|Shuichi, sana nasıl\ndaha yakın olabilirim?
+2|<CLT=size2>Senin tek<CLT=size1> ve <CLT=size2>biricik<CLT=size1> olmak istiyorum.
+3|Senin tek ve biricik olmak istiyorum.
+4|Çünkü\nsen benim\n<CLT=size2>ilkimdin.
+5|Çünkü sen benim ilkimdin.
+6|<CLT=size2>Kocamı\n<CLT=size1>bu kadar\n<CLT=size2>kolay seçmemem<CLT=size1>\ngerektiğini söylüyorsun ama...
+7|Kocamı bu kadar kolay seçmemem gerektiğini söylüyorsun ama...
+8|<CLT=size2>Atua<CLT=size1> en <CLT=size2>iyisinin<CLT=size1> bu olduğunu söylüyor...
+9|Atua en iyisinin bu olduğunu söylüyor...
+10|<CLT=size2>Buldum!\n<CLT=size1>Belki sana bir <CLT=cltWEAK><CLT=size2>hediye<CLT=cltNORMAL> veririm?
+11|Buldum! Belki sana bir hediye veririm?
+14|Bunu <CLT=cltWEAK><CLT=size2>Atua'ya<CLT=size1>\n<CLT=size2>sorsam<CLT=size1> mı<CLT=cltNORMAL>!?
+15|Bunu Atua'ya sorsam mı!?
+16|Evet, evet.\n<CLT=size2>Başka\nseçenek\n<CLT=size1>yok!
+17|Evet, evet. Başka seçenek yok.
+## a00_113_120
+5|Aksiyon filmleri çok israf.
+6|Akan onca kan bunun yerine Atua'ya\nadanmalı.
+7|Keşke adamla paylaşsalar.
+8|Atua konuştu...
+9|Komik kısımları anlamıyor.
+10|Rahatlatıcı bir animasyon filmi izlemek istiyorum.
+11|Atua'nın başını döndürecek gereksiz\nbilimkurgu şeyleri olan bir film değil.
+12|Atua içinde sevimli hayvanlar olan\nanimasyon filmlerini çok sever.
+## a00_113_130
+5|Adamda öyle bir kararsızlık seni\nöldürtebilir.
+6|En ufak bir tereddüt bile sonun\nolabilir.
+7|Hmm? Bu bir tür ritüel mi?
+8|Neden onun yerine çocukları domino olarak\nkullanmıyoruz? Atua çok daha mutlu olurdu.
+9|Ve bütün çocuklar devrilince Atua\nkendi kendine güzelce güler!
+10|Aynen öyle, Shuichi! Filmler eğlenceli falan\nama ben gerçek hayatı tercih ederim.
+11|Ne de olsa filmler sadece gerçek hayatta\ngörülemeyen şeyleri gösterir.
+12|Atua'yı kaydedebilen bir kamera olsaydı\nherkese gösterirdim.
+## a00_113_210
+5|Müstakbel kocamın yemek yapmayı da\nbilmesi çok yerinde.
+6|Nyahahaha! Atua doğru adamı seçmeyi\ngerçekten biliyor!
+7|Belki bir evlendirme ajansı açmalıyım!
+8|Evet, evet! Atıştırmalıklar güzel.
+9|Adamda her türlü atıştırmalığı\nyerdim.
+10|Ve kilo almayı dert etmem bile\ngerekmiyor!
+11|Çünkü adamda ne kadar yersen ye kilo\naldırmayan bir ilaç var.
+12|Hm? İçecek mi? Kan adaklarından mı\nbahsediyorsun?

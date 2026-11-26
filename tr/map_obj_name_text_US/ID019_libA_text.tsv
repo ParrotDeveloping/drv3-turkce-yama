@@ -1,8 +1,18 @@
 0	Ekran
+1	Öndeki Kitaplık
+2	Ortadaki Kitaplık
+3	Arkadaki Kitaplık
+4	Seyyar Merdiven
+5	Havalandırma
 6	Hareketli Kitaplık
+7	Ön Çift Kanatlı Kapı
 8	Arka Sürgülü Kapı
 9	Küre
+10	Modifiye Kamera
+11	Modifiye Kamera
+12	Dağınık Kitaplar
 13	Düzenlenmiş Kitaplar
+14	Kitaplığın Üstü
 15	???
 16	???
 17	???
@@ -23,7 +33,14 @@
 32	???
 33	???
 34	???
+35	Açık Hareketli Kitaplık
+36	Siyah Beyaz Kapı
+37	Kart Okuyucu
+38	Havalandırma
+39	Kütüphanenin Arkası
+40	Dağınık Kitaplar
 41	Düzenlenmiş Kitaplar
 42	???
 43	???
 44	???
+45	Cesedin Yanı

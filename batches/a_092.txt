@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_108_420
+5|Bu bir istek mi?
+6|Öyleyse lütfen amacınızın ne olduğunu söyleyin.
+7|Eğlence içinse bütün yeteneğimi\nortaya koymayacağım.
+8|Yeteneğinizi sınamak istiyorsanız size\nbütün gücümle meydan okuyacağım.
+9|Bunun amacı ne?
+10|Nasıl cevap verdiğinize göre uygun\nharekete geçeceğim.
+11|Ben sizin hizmetçinizim, köleniz değil.
+12|Bayağı düşünceler aklınızdan geçiyorsa\ndurumun daha çok farkında olmanızı tavsiye ederim.
+13|Bu harika bir fikir.
+14|Ben yanınızdayken egzersiz sırasında zarar\ngörürseniz... hizmetçi olarak başarısız olurum.
+15|Pekâlâ, ayrıntılı bir antrenman programı\nyapalım mı?
+16|Başta kas ağrısı yaşayabilirsiniz ama\nlütfen rahatlamaya çalışın.
+## a00_108_430
+5|İsteğiniz buysa kabul edeceğim.
+6|Ancak sadece iki kişiyle yakan top\noynamak epey... zor.
+7|Bana biraz zaman verir misiniz? İki kişinin\noyundan keyif alabileceği kurallar düşüneceğim.
+8|Hakem siz mi olacaksınız?
+9|O zaman bu, yarışan tek kişinin ben\nolacağım anlamına mı geliyor?
+10|Ben bir hizmetçiyim, sergilenecek bir eşya değil.\nÖzür dilerim ama bu isteği reddediyorum.
+11|Bana iyi bir sebep verirseniz bu isteği\nkabul ederim.
+12|Ama bunu bir hevesle söylüyorsanız...
+13|...o zaman size olan güvenim yerle bir olmadan\nlütfen sözünüzü geri alın.
+14|Ve sizden nefret etmek istemem...
+## a00_108_510
+5|Nasıl isterseniz. Az önce dışarıdaydık\nama gidelim mi?
+7|Haddimi aşıyor olabilirim ama...\nzamanlama uygun olduğu için söyleyeceğim.
+8|Çok fazla endişeleniyorsunuz...
+9|Rahatlama zamanlarında sakinleşmenizi\ntavsiye ederim.
+10|Büyük bir potansiyeliniz var, bu yüzden\nkendinize iyi bakmanızı istiyorum.
+11|Bu bir ders gibi gelebilir ama...
+12|Hizmetçi olmam bunu herhangi birine\nsöylediğim anlamına gelmiyor.
+13|İsteğiniz buysa nasıl isterseniz.
+14|Buraya geldiğimden beri egzersiz eksikliğim\nyüzünden epey sıkıntıdaydım.
+15|Bu olağandışı mı? Hem hizmetçiler hem dedektifler\nmeslekleri için bedenlerini çalıştırmalı.
+16|Gerçi hiçbir bedensel işe katılmayan\nhizmetçiler duydum.
+17|Ama bu bir dedektifin işine benziyor,\nyanılıyor muyum?
+18|En başından neden içeride kalmayı\nistemediniz?
+19|Bir hizmetçi de sadece bir insandır...
+20|Sizi amaçsızca takip etmekten\nhoşlanmıyorum.
+## a00_108_520
+5|Evet, böyle zamanlarda rahatlamak\ngerekli.
+6|Shuichi...\nEpey gizemlisiniz.
+7|Sizi kendi düşüncelerinizde kaybolmuş görüyorum\nama başka zamanlarda dalgın görüyorum.
+8|Daha önce hiç sizin gibi bir müşterim\nolmadığı için çok merak ediyorum.
+9|Dans partneriniz olmamı mı istiyorsunuz?
+10|Pekâlâ... Bir istekse itaat ederim ama...
+11|<CLT=cltMIND>Pek istiyor gibi görünmüyor...\nama artık fikrimi değiştiremem.
+12|Evet. İçeride olmaya kıyasla ufkunuzu\ngenişletiyor ve keyifli.
+13|Hizmetçiler genelde içeride kalır, o yüzden\ndışarıda olmak ferahlatıcı.
+14|Bana böyle harika bir istek verdiğiniz\niçin teşekkür ederim.
+15|Sizi efendim yapmayı kaç kez\ndüşündüğümü merak ediyorum...
+## a00_108_530
+5|Ama bu sonsuza dek burada kalmamızın\nuygun olduğu anlamına gelmiyor.
+6|İnsanlar durgunluktan korkar... Rehavete\nyenik düşerseniz savaşmayı unutursunuz.
+7|Lütfen kaçma arzunuzu hatırlamaya\ndevam etmelisiniz.
+8|Evcilleştirilmemelisiniz.
+9|Evet, ben de aynısını hissediyorum...
+10|Anılarımız gitmiş olabilir ama bilincimiz kaldı.\nHapsedilmeden önce birine hizmet ediyordum.
+11|Görevlerimi terk ettiğim için kendimi\naffedemiyorum.
+12|Shuichi...\nBu akademiden kaçmalıyız.
+13|Bu imkânsız...\nLütfen böyle korkunç şeyler söylemeyin.
+14|Dış dünyadaki bütün görevlerinizi\ntamamladınız mı?
+15|Hayır... Tamamlamış olsanız bile burada\nkalmak istemenizin sebebi bu olamaz.
+## a00_108_700
+0|Shuichi, size nasıl yardım edebilirim?

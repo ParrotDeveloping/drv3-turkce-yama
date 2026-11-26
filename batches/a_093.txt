@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_108_700
+2|Bana herhangi bir emir verin.\nSizin için her şeyi yaparım.
+3|Ah, şu an senden isteyecek pek\nbir şeyim yok.
+4|O zaman benimle neden konuştunuz?
+5|Şey, birlikte biraz vakit geçirebiliriz\ndiye düşünüyordum. Olur mu?
+6|Hayır, hiç sorun değil. İsteğiniz buysa\nsonsuza dek yanınızda bekleyeceğim.
+7|O yüzden lütfen çekinmeyin ve\nher şeyi isteyin.
+8|Ah, bana hizmet etmeni istediğimden değil.\nSadece bir süre seninle olmak istedim.
+9|Bu epey belirsiz bir istek.\nNe yapmamı istiyorsunuz?
+10|Sana zaten söyledim, hiçbir şey yapmanı\n"istemiyorum".
+11|O zaman beni neden çağırdınız?
+12|Pekâlâ, şuna ne dersin?\nBir şeyler konuşalım.
+13|Size arkadaşlık ederek hizmet etmemi\nmi istersiniz?
+14|Hizmet mi...?
+15|İstediğiniz bu değil miydi?
+16|<CLT=cltMIND>Hayır, tam olarak o değil...\nNe desem?
+17|<CLT=cltMIND>Kirumi bir hizmetçi, belki bu yüzden\nbu konuda bu kadar ısrarcı.
+18|<CLT=cltMIND>Ama böyle giderse boğulacağım.\nKirumi fazla ciddi...
+19|...Hey, Kirumi.
+20|Öğle aralarında ya da okuldan sonra sınıf\narkadaşlarınla sohbet etmez miydin?
+21|Biraz ederdim.\nNeden soruyorsunuz?
+22|Şey, çünkü seninle o şekilde\nvakit geçirmek istiyorum.
+24|Mesela belki... yemekhanede biraz\nçay içebiliriz?
+25|Evet, bu olur.\nO zaman yemekhaneye gidelim.
+26|<CLT=cltMIND>Güzel, anlamış gibi görünüyor.
+27|Shuichi, ne içmek istersiniz?\nÇay mı kahve mi?
+28|Ah... çay, sanırım.
+29|Anlaşıldı.\nGidip hazırlayacağım. Lütfen bekleyin.
+30|Ah, bekle, Kirumi!
+31|<CLT=cltMIND>Ah, çok geç. Çoktan\nmutfakta.
+32|<CLT=cltMIND>Ona çayı tek başına hazırlatmak\nistememiştim...
+36|Beklettiğim için özür dilerim.\nHazır.
+37|<CLT=cltMIND>Kirumi bir servis arabasını iterek geri döndü.\nO arabanın üstünde...
+38|Vay!\nBütün bunlar ne!?
+39|Öğleden sonra çayınız.
+40|<CLT=cltMIND>Eh, onu görebiliyorum ama hiç bu kadar\nşatafatlı bir şey görmemiştim!
+41|<CLT=cltMIND>Arabanın üstünde nefis sandviçler,\nkekler ve çörekler dizilmişti...
+42|<CLT=cltMIND>Çay o kadar güzel kokuyordu ki daha önce\niçtiğim bütün çayları utandırıyordu.
+43|<CLT=cltMIND>Bunların hepsini birkaç dakikada hazırladı...\n<CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltMIND>'nin gücü bu mu?
+44|Shuichi, lütfen buraya oturun.
+45|Ah, evet.\nTeşekkürler...
+46|<CLT=cltMIND>Oturdum ama Kirumi'nin her zamanki gibi\nkusursuz bir duruşla ayakta beklediğini fark ettim.
+47|Kirumi? Oturmayacak mısın?
+48|Ama ben de oturursam size hizmet edemem.
+49|Bana hizmet etmeni istemiyorum.\nGel ve benimle otur...
+50|Bunu sadece sizin için hazırladım.\nO yüzden lütfen.
+52|Shuichi, bana çay hazırlamamı\nemrettiniz.
+53|Ve verilen her isteği yerine getirmeye\nniyetliyim. Lütfen çayın keyfini çıkarın.
+56|<CLT=cltMIND>Kirumi elimi ayağımı bağlarcasına bana hizmet etti,\nben de odama döndüm.
+57|<CLT=cltMIND>Çay, sandviçler, çörekler,\nkekler... Hepsi mükemmeldi.
+## a00_108_701
+1|Kirumi? Bir sorun mu var?\nİç çektiğini duydum...
+2|Özür dilerim...\nÖnünüzde iç çekmem kabalıktı...
+3|Hayır, sorun değil. Dert etme.
+4|Bu beni daha iyi hissettiriyor. Açıkçası\nbir şey için endişeleniyorum.
+5|Ne için?
+6|Hafızamın bir kısmı kaybolduğu için\nnet olarak hatırlayamıyorum...
+7|Belki... burada hapsolduğum için\nefendimi terk ettim.
+8|İşverenin açısından iz bırakmadan ortadan\nkaybolmuşum gibi görünür...
+9|Sanırım bu... endişe verici.
+10|Evet...\nBir isteği yerine getirememek...
+11|<CLT=cltMIND>Kirumi muhtemelen bunun affedilemez\nolduğunu düşünüyor.
+12|<CLT=cltMIND>Eminim çalışmak için Kirumi'ye\nbağımlı olan insanlar vardır.
+13|Eminim işvereninin seni işte görmeyince\nçok endişelenmiştir.
+15|Hey, Kirumi.

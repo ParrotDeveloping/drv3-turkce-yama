@@ -1,11 +1,82 @@
+0	Yine pratiğe geldin, değil mi?\nBu konuda ciddi olmana sevindim.
+1	O zaman başlayalım.
+2	Shuichi, bence burası durmak için iyi bir yer,\no yüzden bugünlük burada bitirelim.
+3	Ah, bitti mi bile?
+4	Evet, şey... Her görüştüğümüzde\nbirlikte piyano çalıyoruz, değil mi?
+5	Sanki seni buna zorluyormuşum gibi hissediyorum...
+6	Eğlenmiyorsun... değil mi, Shuichi?
+7	Olur mu öyle şey! Çok eğleniyorum!
 8	G-Gerçekten mi?
+9	Tamam!\nO zaman yine yapalım!
+10	Ben sana sırrımı anlattığıma göre\nsen de bana kendi sırrını anlatmalısın!
+11	Ne!?\nNeden?
+12	Çünkü ben karar verdim!\nBugün senden bahsediyoruz!
+13	<CLT=cltMIND>Öyle mi...?\nKaede bugün çok ısrarcı...
+14	Şey, madem istiyorsun...\nAma neden bahsetmeliyim?
+15	Mesela... hobilerin?
+16	Hobiler mi? Şeyy...
+17	Ha!?\nHobilerini *düşünmek* zorunda mısın!?
 18	Ş-Şey...
+19	<CLT=cltMIND>Dedektiflik işine yardım ettiğimi\nhatırlıyorum...
+20	Sanırım... dedektiflik *benim*\nhobim.
+21	Hıhı, anlıyorum.\nDedektiflik senin hobin...
+22	Ne, not mu alıyorsun!?\nO defteri nereden buldun!?
+23	Çantamdan.
 24	Ah, anlıyorum...
+25	Demek hobin dedektiflik...\nO zaman bugün bunun tadını çıkaralım.
 26	Ne?
+27	Senin sırrını ortaya çıkaracak dedektif\nben olacağım!
+28	Dedektif *ben* olacağım\nsanıyordum!
+29	Sorguya çekilmek iyi bir deneyim olabilir!\nBir dahaki görevinde işine yarar!
 30	Gerçekten mi!?
+31	Evet! Şimdi, sıradaki soru!\nEn sevdiğin yemek ne?
+32	Et mi? Sebze mi? Balık mı?
+33	Sulu et
+34	Sağlıklı sebzeler
+35	Taze balık
 36	Emin olmadığın bir şey mi var?
+37	<CLT=cltMIND>Şey, bu seçeneklerden...
+38	Sulu et...
+39	Hmm, epey tipik bir erkek cevabı.\nDev bir bifteği tek oturuşta yiyebilir misin?
 40	Ah, şey...
+41	Gerçiii, çok et yiyebilecek biri gibi\ngörünmüyorsun... Ama yargılamamalıyım...
+42	Sağlıklı sebzeler...
+43	Sebze mi?\nKalori alımın için mi endişeleniyorsun?
+44	Biraz...\nSporcu değilim, kolay kilo alıyorum...
+45	Hmmm, anlıyorum...\nDemek o tiplerdensin...
+46	Taze balık...
+47	Balık, ha? Ben de balığı ete tercih ederim!\nÇok benziyoruz!
 48	E-Evet...
+49	O zaman sanırım uyumumuz konusunda\nendişelenmeme gerek yok...
+50	<CLT=cltMIND>Ne mırıldanıyor bu...?
+51	Sıradaki soru!\nEn sevdiğin yer neresi?
+52	Bu epey geniş bir soru,\ncevaplayabilir miyim bilmiyorum.
+53	Ah, doğru.\nŞeyy... mesela...
+54	Sinema
+55	Lunapark
+56	Karşı taraf ne seçerse
 57	Emin olmadığın bir şey mi var?
+58	Mesela... bir randevuya... çıksan nereye\ngiderdin? Sinemaya mı lunaparka mı?
+59	Sinemaya sanırım.
+60	Sinema, ha? Anlıyorum...\nBu arada, en sevdiğin tür ne?
+61	Ş-Şey, her şeyi izlerim ama...\naşk hikâyelerine hiç ısınamıyorum.
+62	A-Ah, anlıyorum...
+63	Zaten iki kişi romantik film izlemek\nbiraz erken olur!
+64	Lunaparka sanırım.
+65	Lunapark, ha?\nEpey dışa dönüksün.
+66	Ah, bunu çok duyuyorum. Ama dedektiflik\ndaha çok bilgi toplamakla ilgili, o yüzden...
+67	Hıhı.\nAnlıyorum.
+68	Karşı taraf ne seçerse sanırım.
+69	Hmmm... bu bir sorun olacak...
 70	Ha? Neden?
+71	Hiçbir şey! Sadece ilk adımı atma ihtimalinin\ndaha düşük olduğu anlamına geliyor, değil mi?
+72	<CLT=cltMIND>...Yine not alıyor.
+73	O notları ne için kullanacaksın?
+74	O...
+75	...Evet?
+76	Bir sır!
 77	Ne?
+78	Merak etme, kötü bir şey için kullanılmayacak!\nBu notları kimseye göstermeyeceğim!
+79	Dedektif Kaede Akamatsu daha yeni başlıyor!\nBildiğin her şeyi anlat bana, serseri!
+80	<CLT=cltSYSTEM>Kaede'yle yaşadıklarına göre Kaede'nin\n<CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> güncellendi.
+81	<CLT=cltMIND>Kaede beni sorgulamayı bitirince\nodama döndüm.

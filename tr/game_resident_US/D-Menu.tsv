@@ -65,6 +65,13 @@
 64	Demo sürümünü oynadığın için teşekkür olarak\nşunları alacaksın:\n・333 Monocoin\n・"Tırnak Fırçası" Hediyesi\n・"Dipten Atış" Yeteneği
 65	Demo kayıt verisi yüklenmedi.
 66	Demo kayıt verisi
+102	Kayıt verisi yükleme tamamlandı.
+103	Kayıt verisi yükleme başarısız oldu.
+104	Kayıt verisi indirme tamamlandı.
+105	Kayıt verisi indirme başarısız oldu.
+106	Yüklenmiş veri bulunamadı.
+107	Başka bir kullanıcının kayıt verisi okunuyor.\nVeri yüklenemez.
+109	Kayıt verisi indirme tamamlandı.\nKaydetmeden oyunu kapatırsan\nindirilen kayıt verisi kaybolacak.\nİndirilen kayıt verisini kaydetmek istiyor musun?
 200	Oyun yüklenirken bu mod seçilemez.
 201	Oyun yüklenirken 2. Bölüm oynanamaz.
 202	Önceki kayıt verisi şu ankinden daha yeni bir\nsürüme ait. Bu veri oynanamaz.

@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_106_701
+4|<CLT=cltMIND>Konuşurken yemekhanede oturup biraz\nçay içmeye karar verdik.
+6|Bana tuhaf bir ifadeyle bakıyor gibisin.\nBir sorun mu var?
+7|Ah, şey, o maskeyi hep\ntakıyorsun, Kiyo...
+8|Sadece nasıl çay içeceğini\nmerak ediyordum.
+9|Ah, bu.\nBöyle zamanlarda çıkarırım...
+10|<CLT=cltMIND>Demek bazen *çıkarıyor*. Bu mantıklı,\nyoksa yiyip içemezdi.
+11|...ve yerine yemek maskesi\ntakarım.
+12|Yemek maskesi mi!?
+13|Doğru.
+14|Banyo, uyku ve hatta egzersiz için\nde bir tane var.
+15|<CLT=cltMIND>Demek çeşit çeşit var...
+16|İzninle...
+17|<CLT=cltMIND>İzin istedikten sonra Korekiyo bana sırtını\ndöndü ve maske değiştirmeye başladı.
+18|<CLT=cltMIND>Çıkarıp *bırakabilirdi*...\nBu kadar çeşidinin olmasına gerek yok.
+19|<CLT=cltMIND>Bu konuda neden bu kadar titiz...?
+20|Beklediğin için teşekkürler, Shuichi.
+21|Ha?\nMaskeni değiştirdin mi?
+22|Değiştirdim. Bu yemek maskesi.
+23|<CLT=cltMIND>...Tıpatıp aynı görünüyor.
+24|O zaman şimdi bu çayın keyfini\nçıkarmaya geçeceğim.
+26|Bu çayın güzel bir kokusu var. Genelde yeşil\nçayı tercih ederim ama bu harika.
+27|<CLT=cltMIND>Korekiyo çay fincanını dudaklarına\ngötürürken transa geçmiş gibiydi.
+28|<CLT=cltMIND>Ama maskenin üstüne\ndökülmeyecek mi...?
+29|Aaah... Dilde kendini tanıtan\nyumuşak bir tat.
+30|<CLT=cltMIND>Ha? Maske ıslanmadı.\nYarıktan mı döktü?
+31|<CLT=cltMIND>Yaptığını görmedim bile.
+32|Ah, kurabiyelerimiz de var.\nLezzetli görünüyorlar.
+33|<CLT=cltMIND>Kurabiyeler...
+34|<CLT=cltMIND>Onu yemek için maskesini çıkardığını\nkesinlikle göreceğim.
+35|<CLT=cltMIND>Nefesimi tutup Korekiyo'nun kurabiyeyi\ndudaklarına götürüşünü izledim...
+37|<CLT=cltMIND>Ne oldu!?\nKurabiye bir anda yok oldu...
+38|Ne oldu?
+39|O... Kurabiye, birden...\nyok oldu...
+40|Eh evet... Çünkü ağzıma\nkoydum.
+41|<CLT=cltMIND>Ama hiç yemiş gibi\ngörünmüyordun!
+42|Kehehe... nasıl yediğimi merak\nediyorsun, değil mi?
+43|Böyle önemsiz şeylere takılıyorsan\ndünyan hâlâ çok küçük.
+44|Dilersen dünyanı antropolojiyle\nsana açacağım.
+46|<CLT=cltMIND>Biraz çay içtikten sonra\nodama döndüm.
+## a00_106_702
+0|<CLT=cltMIND>Korekiyo bana antropoloji hakkında\ndaha çok şey öğretiyor.
+1|Yani antropolojik açıdan "hane" kelimesi\nillaki "aile" anlamına gelmez.
+2|Hane, hem konutu hem de insanları\nifade eden kapsayıcı bir terimdir.
+3|İlginç... Kullandığımız kelimelerin\nkökenini çözümlemek eğlenceli.
+4|Gerçekten de. Aileden bahsetmişken...
+5|Dedektiflik hayatını seçmene ne sebep oldu?\nAnne baban dedektif mi?
+6|Hayır, amcamdı...\nDedektif o, ben sadece ona yardım ediyorum.
+7|Ah, demek öyle oldu.
+8|Peki sen, Kiyo? Antropolog olmana\nne sebep oldu?
+9|Özel bir sebebi yok.\nSadece ilgi alanlarımın peşinden gittim.
+10|Gerisi... Ablamın etkisiydi.
+11|Ablan mı?
+12|Bir ablan mı var?
+13|Ah, sana söylemedim mi?\nHer neyse...
+14|Antropolojiyi ilk kez Ablamla bir kitap\nokurken öğrendim.
+15|Kaguya Prenses gibi hikâyelerin dünyanın\nher yerinde var olduğunu yazıyordu.
+16|Dünyanın dört bir yanındaki insanların bu\nkadar benzer fikirleri olmasına şaşırdım.
+17|İşte o zaman Ablam beni elimden geldiğince\naraştırma yapmaya teşvik etti.
+18|Demek <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> böyle oldun?
+19|Gerçekten de. Bugünkü ben olmamın\nsebebi tamamen Ablam.
+20|Ablam beni herkesten daha iyi\nanlardı.
+21|Bu üniformayı bile benim için o yaptı.
+22|Öyle mi...?
+23|Kıyafetim aslında çok daha sadeydi\nama bana yakışmadığını söyledi...

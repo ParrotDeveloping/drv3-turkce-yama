@@ -1,0 +1,69 @@
+@ ainori_text_US
+## a00_300_104
+15|Doğru, Gonta dünyadaki her böcekle\ntanışmayı çok isterdi...
+16|Ama bu Gonta'nın bir numaralı hedefi değil.
+17|<CLT=cltMIND>Bu yanlıştı.\nGonta'nın hedefi şu olmalı...
+18|Rüzgâr gibi koşmak mı?
+19|Bu harika olurdu ama... Gonta bunu\npek yapmak istemiyor.
+20|<CLT=cltMIND>Bu yanlıştı.\nGonta'nın hedefi şu olmalı...
+21|Gerçek ailenin orman aileni kabul\netmesini istiyorsun, değil mi?
+22|Evet! Bunun için Gonta <CLT=cltSTRONG>Ultimate Entomolog<CLT=cltNORMAL>\nolarak çok çalışacak!
+23|Gonta'nın <CLT=cltSTRONG>Ultimate Entomolog<CLT=cltNORMAL> olabilmesinin\nsebebi orman ailesi...
+24|Gonta <CLT=cltSTRONG>Ultimate Entomolog<CLT=cltNORMAL> olmaya devam ederse...\nbelki gerçek aile orman ailesini kabul eder!
+25|Onları kabul edeceklerini biliyorum, Gonta.\nYeteneğin gerçekten harika!
+26|Buradan çıktıktan sonra neye ihtiyacın\nolursa sana yardım etmek istiyorum.
+27|Shuichi Gonta'ya hep yardım ediyor.
+28|Gonta Shuichi'yle tanıştığına gerçekten çok seviniyor.
+29|Gonta Shuichi'yle hiç tanışmasaydı...
+30|Gonta orman ailesini nasıl kabul\nettireceğini bilemezdi...
+31|Gonta için Shuichi var olan en gerçek\ncentilmen!
+33|<CLT=cltMIND>Gonta'nın eli tahmin ettiğimden\nçok daha büyüktü...
+34|<CLT=cltMIND>Bu eller... istedikleri her\nhedefe ulaşabilir.
+35|<CLT=cltMIND>Ailelerini barıştıracağından\neminim.
+36|<CLT=cltMIND>Bunu kesinlikle söyleyebilirim.\nNe de olsa Gonta'nın en iyi arkadaşıyım.
+## a00_300_105
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nKokichi'yle baş başa konuşmaya karar verdim.
+3|Yaaa... okul hayatımızın ne kadar sııııkıcı\ngeçtiğine şaşırıyorum.
+4|En azından bir iki cinayet olur\nsanmıştım...
+5|Nii-hihi... Ama hiç şiddet olmadığına\nçok seviniyorum.
+6|...Bu bir yalan mı?
+7|Kim bilir?
+8|Son zamanlarda o kadar çok yalan söyledim ki\nneyin doğru neyin yanlış olduğunu artık ayırt edemiyorum.
+9|Ah, evet...\nSözümüzü hâlâ hatırlıyor musun, Shuichi?
+10|Söz mü?
+11|U-Unuttun... Nasıl yaparsın...?\nAma birbirimize yemin etmiştik...
+12|Y-Yalan söylüyorsun, değil mi!?\nHatırlıyorsun, değil mi!?
+13|<CLT=cltMIND>Kokichi'ye verdiğim söz...
+14|Kötü örgütüne katılmak mı?
+15|Beni öldürmesine izin vermek mi?
+16|Hiçbir söz vermedim...
+17|Kötü örgütüne katılmak mı?
+18|Evet, o! Gizli örgütümün bir üyesi olarak\nemrim altında bedavaya çalışmak zorundasın—
+19|Hayır, dur!\nÖyle bir söz hiç vermedim!
+20|Ah. O zaman hatırlıyor musun?
+21|<CLT=cltMIND>Of, kıl payı.\nAsıl söz şuydu...
+22|Beni öldürmene izin vermek mi?
+23|Demek aslında hatırlıyorsun.
+24|Evet, bir oyunda kaybedeceğine söz vermiştin.\nVe ondan sonra seni öldürecektim.
+25|Dur... o oyunu ben kazanmadım mı?\nSen hükmen kaybettin.
+26|Sııııkıcı.\nTamamen hatırlıyorsun.
+27|<CLT=cltMIND>Of, kıl payı.\nAsıl söz şuydu...
+28|Dur bir dakika, hiçbir söz vermedim...
+29|Neyse, sanırım hatırlıyorsun.
+30|Sonuna kadar yalancısın, ha Kokichi?
+31|Yalanlarım olmazsa başka hiçbir şeyim\nolmaz! Vücudumun %70'i yalandan oluşuyor!
+32|Bu... pek gurur duyulacak bir\nşey değil.
+33|Ama hey, yalanlarım seni hiç sıkmadı, değil mi?
+35|<CLT=cltMIND>Kabul etmek istemiyorum...\nAma bu doğru.
+36|<CLT=cltMIND>Kokichi sürekli yalan söyleyip gerçek\nniyetini hiç belli etmediği için...
+37|<CLT=cltMIND>İçine çekiliyormuşum gibi hissettim,\nhep daha fazlasını bilmek istedim.
+38|Sanırım sonuna kadar avucunun\niçindeydim...
+39|Bu sözleri senden duymak yalan söylemeye\ntamamen deeeğdi!
+40|Çünkü insanları eğlendirmek için yalan söylerim!
+41|O da bir yalan, değil mi?
+43|Neyse, buradan çıktıktan sonra da bu\nilişkiyi sürdürelim.
+44|Buradan çıktıktan sonra da mı?
+45|Çünkü aslında benim hakkımda hiçbir\nşey bilmiyorsun, değil mi?
+46|Gerçek beni tanımak istiyorsun, değil mi?
+47|O zaman yanımda kalmalısın.
+48|<CLT=cltMIND>...Kokichi haklı.

@@ -1,0 +1,69 @@
+@ ainori_text_US
+## a00_107_310
+6|Profesör Idabashi'nin güçlü yapay zekâsını\nasla pornografiye maruz bırakamam.
+7|Gerçi bir erkek olarak bu konulara hiç\nilgim olmadığını söylesem yalan olurdu...
+8|Dur, bana ne itiraf ettiriyorsun!?
+9|Ah evet. Bu iyi bir seçim.
+10|İster her sayfada savaşları anlatan\nerkeklere yönelik mangalar olsun...
+11|İster âşık olma deneyimini incelikle\nyakalayan kızlara yönelik mangalar...
+12|Biliyor musun, şu anki çıkmazımız da\nbir mangadan çıkma gibi!
+13|Belki Angie'ye bizim hakkımızda mükemmel\nbir manga yapmasını sipariş edebiliriz!
+14|...Biraz meraktan yoksun görünüyorsun, Shuichi.
+15|Etrafına bak—bütün bu harika kitaplarla\nçevriliyiz.
+16|Hepsini okumaya yetecek vakit olmayabilir\nama sıkılmak düpedüz söz konusu değil.
+## a00_107_320
+5|Evet! Kitaplara gömülelim!
+6|Profesör Idabashi şunu söylemeyi severdi...
+7|"Yarın ölecekmiş gibi yaşa, sonsuza dek\nyaşayacakmış gibi öğren."
+8|Profesör çok bilge bir adam! Sözleri insanın\nkalbinin en derinlerine ulaşıyor!
+9|<CLT=cltMIND>O atasözünü daha önce bir\nyerde duymuştum...
+10|Bir robot olarak uykulu hissetmenin nasıl\nbir şey olduğunu bilmiyorum...
+11|Ama yanındaki kişiye uykulu olduğunu\nsöylemenin kabalık olduğunu biliyorum.
+12|Robot olduğum için bana kaba\ndavranabileceğini mi düşünüyorsun!?
+13|O zaman ağzımdan sıcak hava üfleyip\nbütün bu tozu uçuracağım!
+14|Gerçi bu bir sürü toz bulutu kaldıracak.\nOrtamı terk etmen en iyisi olabilir.
+15|İşte başlıyorum!
+16|VIRRRRRRRRRRRRRRRRRRRRRR!!!
+## a00_107_330
+2|Robotlar hakkında bir kitap okuyalım
+5|Beni daha yeni bir model için hurdaya\nçıkarmayı mı planlıyorsun!?
+6|Güçlü bir yapay zekâyla donatıldım, o yüzden\nyerimi doldurmak imkânsız...
+7|V-Ve zaten beni değiştirmek senin haddin değil!
+8|Robotların haksız yere değiştirilmesine\nşiddetle karşıyım!
+9|...N-Ne diyorsun sen?
+10|Kütüphane kitap okunacak bir yer.\nKaraoke kabini değil, biliyorsun?
+11|Lütfen anlamsız şeyler söyleme.\nSen Kokichi değilsin.
+12|Kulağa harika geliyor!
+13|<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL> olduğun için muhtemelen\nharika bir polisiye roman yazabilirsin!
+14|Yazmayı bitirince lütfen okumama\nizin ver!
+15|Aslında sadece duygusal edebiyattan çok polisiye\nromanlar gibi mantıklı yazıları tercih ederim!
+16|<CLT=cltMIND>Ah, bundan emin değilim...
+## a00_107_410
+2|Bir koro kurmayı denemek ister misin?
+3|Bir oyunda rol almayı denemek ister misin?
+4|Meditasyon yapmayı denemek ister misin?
+5|Ne—! Ama korkunç bir şarkıcı olduğumu\nsöylemiştin, Shuichi!
+6|Y-Yoksa beni rezil etmeye mi\nçalışıyorsun!?
+7|Güçlü bir yapay zekâyla donatıldım! Yani asla\naynı hatayı iki kez yapmam!
+8|Evet ama bir komedi sahneleyelim!
+9|Trajediye karşı bir şeyim yok ama insanları\ngülümseten bir şey yapmayı tercih ederim.
+10|Şimdi bir senaryo yazmaya başlayalım!
+11|Sen ve ben dünyayı kahkahadan\nkırıp geçireceğiz!
+12|Meditasyon mu...? Yani sadece gözlerimizi kapatıp\nkendi içimize derinlemesine bakıyoruz, değil mi?
+16|...*hık!*
+17|Tuhaf bir sayı dizisi gördüm!\nSatır satır, hepsi 1 ve 0!
+18|Ne olabilir ki...?
+19|<CLT=cltMIND>Bir tür program\nolmalı...
+## a00_107_420
+5|Bana basketbolda meydan okuyacak kadar\nepey cesursun!
+6|Fiziksel gücüm güçlü bir yaşlı vatandaşınkine\nyaklaşık olarak eşit olsa da...
+7|Basketbol becerilerim bir kız ilkokulu basketbol\ntakımının en değerli oyuncusununkiyle aynı!
+8|Topu benden asla alamayacaksın!\nBir kez bile!
+9|<CLT=cltMIND>Bu tuhaf derecede spesifik.
+10|N-Ne kadar... ahlaksızca!
+11|Profesör Idabashi bile beni çıplak\ngörmedi!
+12|<CLT=cltMIND>...Keebo için "çıplak" ne\nsayılıyor?
+13|<CLT=cltMIND>Mesela... iç devreleri mi?
+14|Evet, yorucu bir egzersize başlamadan önce\nısınmak önemlidir.
+15|Esneme hareketleriyle başlayalım!
+16|Belimizi incitmemek için ısınırken acele\netmemeliyiz!

@@ -1,0 +1,68 @@
+@ ainori_text_US
+## a00_114_703
+30|A-Ateş mi!? H-Hayır!\nAteşim yok! Hayır hayır!
+31|Ama yüzün çok kızarmış...
+32|N-N-Ne halt!? Aşk hastası mı olduğumu\nsöylüyorsun!? Of be, ne sinir bozucusun!
+33|Biraz dinlenmelisin.\nBelli ki iyi hissetmiyorsun.
+34|Ha...? B-Bunu birden\nbaşıma patlatma...
+36|Ç-Çünkü, yani, bilirsin... yatağa girmeden\nönce en azından bir randevuya çıkmalıyız...
+38|Haaaaaa? Shuichi, seni kalın kafalı! Benim\ngibi bir dâhinin ne derdi olabilir ki!?
+39|...A-Ama endişelensem tuhaf olur muydu?
+40|Hiç de tuhaf olmazdı, Miu.\nDâhiler de bir şeyler için endişelenir.
+41|A-Ama bu sadece gönül derdi...
+43|Ahhhhh! Yani...!\nD-D-Demek istediğim... ahhhhhh!
+44|Gönül derdi... Anlıyorum, demek sorun bu.
+45|E-E-Evet! Sana âşık oluyorum!
+47|İlk sen söyledin. Benim için bu kadar\nendişelendiğini... çünkü bana âşıksın.
+48|...Öyle bir şey hiç söylemedim!
+49|...Ha? Söylemedin mi?
+50|Hayır, söylemedim!
+51|Ah, ah, ah...\nAHHHHHHHHHHHHHH!!!
+52|<CLT=cltMIND>Miu'nun yüzü bir şekilde daha da kızardı\nve feryat ederek kaçtı.
+53|<CLT=cltMIND>Miu... az önce bana aşkını\nmı itiraf etti...?
+55|<CLT=cltMIND>Miu çoktan gitmişti.\nŞaşkın bir hâlde odama döndüm.
+56|<CLT=cltMIND>Onu tekrar gördüğümde ne\ndemeliyim?
+## a00_114_704
+0|<CLT=cltMIND>Hâlâ Miu'nun itirafını düşünürken\nbir plan bulamadım...
+1|Hah-haha! Hey Shuichi, neden o üzgün,\nperişan surat!?
+2|<CLT=cltMIND>Sanırım buna kafa yoran\nsadece bendim.
+3|Bu kadar morali bozuk göründüğün için\nsana bir hediye getirdim!
+4|Bu... yine bir icat mı?
+5|Hah! Ne çılgınca bir fikir!\nNeredeyse sana acıyacağım!
+6|Ben, Miu Iruma, sana gerçekten ne kadar çok\nyönlü olduğumu göstereceğim! Al, şunu al!
+7|Bu... turta mı?
+8|Evet! Elmalı turta!\nSıfırdan kendim pişirdim!
+9|<CLT=cltMIND>Bana turta getireceğini\nhiç düşünmemiştim...
+10|<CLT=cltMIND>Üstelik çok profesyonel görünüyor.\nMiu epey iyi bir aşçı olmalı.
+11|<CLT=cltMIND>Etkilenmiş bir hâlde turtayı inceledim.\nİşte o zaman buldum...
+12|Ah... Miu?\nBu... bir saç teli mi?
+13|Hah-hahaha! Merak etme!\nBirkaç gizli malzeme ekledim!
+14|"Merak etme" mi!?\nYemeğimdeki saçı tabii ki dert edeceğim!
+15|Hngh...
+16|A-Ama... sadece sevdiğim kişinin\nbeni yemesini istiyorum...
+17|D-Daha fazlasını da yaptım... Tırnaklarımla\nkurabiye... Kanımla çikolata...
+18|<CLT=cltMIND>...Şey, en azından bu itirafının\ngerçek olduğu anlamına geliyor.
+19|<CLT=cltMIND>Ama biraz... fazla\nüstüme geliyor.
+21|<CLT=cltMIND>Eyvah, bana bakıyor!\nYememi istiyor!
+22|Ah, şey, bunu benim için yapmana gerçekten...\nonur duydum ama hijyen konusunda endişeliyim...
+23|Ayrıca buralarda hastane yok,\no yüzden dikkatli olmalıyız...
+25|Hah! Bana nutuk atmaya cesaretin var ha!
+26|Ama biliyor musun, benim gibi bir dâhi bile\nyaptığı şeylere daha dikkat etmeli!
+27|Sana bir şey olsaydı... ben...\nkafayı yiyebilirdim...
+28|Ö-Öyle bir şey olsa dünya asla\ntoparlanamazdı! Değil mi!? Değil mi ama!?
+29|E-Evet?
+30|Neyse! Sana başka bir şey\nyapmam gerekecek!
+32|Hah-ha! Sonunda bunu kullanma zamanı geldi!
+33|<CLT=cltMIND>Miu daha önceki ışın\ntabancasını çıkardı.
+34|Donsuz gezme zamanı!
+35|<CLT=cltMIND>Nişan aldı ve sonra...
+36|A-Ah!
+37|<CLT=cltMIND>Elimde aniden bir parça kumaş\nbelirdi!
+38|<CLT=cltMIND>Doğru hatırlıyorsam...\nBunun ne olduğunu biliyorum sanırım...
+39|Buna ne dersin, Shuichi!?\nKalan sıcaklığımı hissedebiliyor musun?
+40|<CLT=cltMIND>...Evet! Evet, hissediyorum!
+41|Şimdi anladın mı? Benimle çıkma\nhakkını kazandın!
+42|Neyi kazandım!?
+43|Buradan çıkınca benimle randevuya çıkıyorsun!\nAnladın mı!? Karar verildi bile!
+44|Öyle mi!?
+45|Tabii ki! Benimle randevuya çıkarsan\nheyecandan patlarım!

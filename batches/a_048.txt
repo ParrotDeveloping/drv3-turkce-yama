@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_103_702
+44|Hey, buradan çıkınca belki bu deneyimi\nkullanıp yeniden denerim.
+45|Ama her halükârda... başka bir şey yapmadan\nönce buradan çıkmalıyız.
+46|Burada... burada öylece sıkışıp\nkalmayı göze alamam...
+47|Ne gerekiyorsa,\nher şeyi yaparım...
+48|Buradan çıkmalıyım.\nYoksa... asla ulaşamam...
+50|Buradan bu kadar çıkmak istemenin...\niyi bir sebebi olmalı.
+51|Ne olduğunu... sorabilir miyim?
+52|...Kardeşin var mı, Shuichi?
+53|Ha? Kardeş mi?\nHayır, tek çocuğum...
+54|Anlıyorum.\nO zaman anlamazsın.
+56|<CLT=cltMIND>Neden bu kadar mesafeli?\nVe neden kardeşlerden bahsetti...?
+57|Ah, şey, her neyse... bununla tek başına\nyüzleşmek zorunda değilsin. Birlikte yapabiliriz.
+60|<CLT=cltMIND>Sessiz Rantaro'yla yollarımızı ayırdık\nve odama döndüm.
+## a00_103_703
+0|<CLT=cltMIND>Anlamazmışım...
+1|<CLT=cltMIND>Rantaro'nun sözlerini kafamdan atamıyordum.\nOnunla konuşmam gerekiyordu ama...
+2|...Yardımcı olabilir miyim?
+3|Sadece hatırını soruyorum...
+4|Seni yalnız bırakamazdım
+5|Sana yardım etmek istiyorum
+7|<CLT=cltMIND>Bana belli ki sinirleniyor...\nNe demeliyim?
+8|Sadece hatırını soruyorum...
+9|O zaman yalnız bırakılmayı tercih ederim.
+10|A-Ama seni rahatsız eden bir şey\nyok mu, Rantaro?
+11|...İyiyim.\nİnsanların benim için endişelenmesini istemiyorum.
+12|Seni yalnız bırakamazdım.
+14|Haha... ciddi olamazsın. Hadi,\nShuichi, o repliği kızlara sakla, ha?
+15|Bir erkekten duyunca... buna nasıl\ncevap vereceğimi bilmiyorum...
+17|Bak, beni düşünmene sevindim ama\ngerçekten yalnız kalmak istiyorum.
+18|Ama... senin yapayalnız olmanı\nistemiyorum, Rantaro.
+19|Sana yardım etmek istiyorum.
+20|Yardım mı? Ne için?
+21|<CLT=cltMIND>Ne için mi?
+22|<CLT=cltMIND>Sadece sana yardım etmek istiyorum, Rantaro...\nGerçekten bir sebebe ihtiyacım var mı?
+23|Sanırım pek bir sebebin yok.\nÖyleyse lütfen yalnız kalmak istiyorum.
+27|...*iç çekiş*, tamam, tamam.\nSen kazandın.
+28|Belki de... gerçekten beni dinlemeni\nistiyorum. İçten içe.
+29|Belki de bu yüzden sana düşünmeden\nbu kadar çok şey anlattım...
+30|<CLT=cltSTRONG>Ultimate İşe Yaramaz Ağabey<CLT=cltNORMAL>\nolayını mı kastediyorsun?
+31|...Evet, aynen öyle.
+32|Şey... aslında küçük bir kız kardeşim var.\nAma berbat bir ağabey oldum...
+33|<CLT=cltMIND>Ah, demek küçük bir kız kardeşin var.
+34|Ama burada hapsoldun.\nBu konuda yapabileceğin bir şey yok.
+35|Hayır, mesele o değil. Bu buraya\ngelmeden öncesinden...
+36|Öncesinden mi?
+37|Kaç yıl oldu şimdi...?
+38|O zamanlar küçük kız kardeşimle çok iyi\nanlaşırdık... Hep birlikteydik.
+39|Şey... Şey aslında pek değil, şey...
+40|Demek istediğim, hep peşimden gelirdi\nve ben de onunla ilgilenirdim, bilirsin?
+41|Neyse, bir gün bütün aileyle başka bir\nülkeye tekne gezisine çıktık...
+42|Tekneye ilk binişimdi. O kadar\nheyecanlıydım ki yerimde duramıyordum.
+43|Limana yanaştığımızda maceraya atılmak\nistedim... o yüzden gizlice tekneden indim.
+44|Yalnız olduğumu sanıyordum ama...\nkız kardeşim her zamanki gibi peşimdeydi.
+45|Ama fark etmedim. Onu görmedim.\nKeşfetmekle o kadar meşguldüm ki, bilirsin?
+46|Kız kardeşim... bir şekilde benden ayrıldı\nve... asla... Asla geri dönmedi.
+47|Annemle babam benim suçum olmadığını söyledi\nama ağabeyin kız kardeşini koruması gerekir.
+48|Ama bunu yapamadım... Yapamadım...\nAğabey olarak başarısızın tekiyim...
+50|Dünyayı gezmemin sebebi bu.\nKız kardeşimi bulmalıyım.
+51|Herkes bana bunun imkânsız olduğunu,\nartık çok geç olduğunu söylüyor...
+52|Ama onu kendi gözlerimle görene kadar\nonu aramayı asla bırakmayacağım.
+53|Ne kadar sürerse sürsün onu bulacağım.\nBeni bekliyor.
+54|Onu bulana kadar durmayacağım,\nShuichi. Asla.

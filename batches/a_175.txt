@@ -1,0 +1,73 @@
+@ ainori_text_US
+## a00_991_000
+55|Açıkçası... Konuşma yapmaktansa bir\nşarkı çalsam çok daha hızlı olurdu.
+56|Chopin'in "Askerî Polonez"i bağımızı\nkesinlikle sağlamlaştırırdı!
+57|Evet, bolonez epey güzeldir.\nGerçi et ya da domatesi pek sevmem.
+58|Ben de Kaede'ye katılıyorum!\nArkadaşlar arasında kavga edemeyiz!
+59|Ustam gücümüzü doğru yöne\nyöneltmemiz gerektiğini söylemişti!
+63|...N-Ne demek bu?
+64|Neyse... birlikte çalışıp çıkışı yeniden\narayalım.
+66|Hm? Dur bir saniye.\nDuvarda bir açıklık yoksa...
+67|O zaman... bu duvarların içine en\nbaşta nasıl girdik?
+68|Ha...? Ah, doğru, değil mi?
+69|O zaman bu... bir yerde bir delik olmalı\ndemek! Sadece onu aramamız lazım!
+70|Bizi buraya hapseden kişi birbirimizle\nsavaşmamızı istiyor ama...
+71|Bu olmayacak! Göstereceğiz size!
+72|Birbirimizle savaşmayacağız!\nBunun yerine birlikte çalışacağız!
+75|Hayır, öyle değil.
+76|Her şeyi açık açık söyledin,\no yüzden söylenecek başka bir şey yok.
+79|Ayrılıp çıkışı bulmaya çalışmalıyız!
+80|...Ah, şey, Gonta bir şey söyleyebilir mi?
+81|Neden? Tam gitmeye\nhazırlanıyorduk.
+82|Şeyy... Muhtemelen bir şey değil ama...
+83|Gonta... çimenlerde rögar kapağı buldu.\nOkul binasının arkasında.
+85|Evet. Yeraltı geçidine benziyordu.\nGonta çıkış olabilir diye düşündü...
+86|...Hayır. Muhtemelen bu kadar basit değil.
+87|Gyaaaaaa! Böyle önemli şeyleri daha\nçabuk söylemelisin!
+88|Evet. Yeraltıgeçidinebenziyordu.\nGontaçıkışolabilirdiyedüşündü...
+90|Neyse, gidip doğrulayalım. Okulun arkasında,\ndeğil mi? Lütfen bize yol göster, Gonta.
+91|T-Tamam! Gonta'yı takip edin!
+92|<CLT=cltMIND>Gonta önde, herkes koşuşturarak\nspor salonundan çıktı.
+95|Ha? Ne hakkında?
+96|Az önce havayı değiştirme şeklin.\nGörünüşe göre herkes sana saygı duyuyor.
+97|S-Saygı duymak mı... Abartıyorsun.\nSadece aklımdakini söyledim...
+105|Ve gitti...\nKeşke bu kadar esrarengiz olmasa...
+107|İradesi güçlü olmak burada başını\nçok derde sokabilir...
+110|Hayır, merak etme.\nBana sadece endişelendiğin için söyledin, değil mi?
+111|Evet... Rantaro bir gizem.\nÜstelik Ultimate yeteneğini de unutmuş...
+112|Bu gerçekten... unutulabilecek\nbir şey mi?
+113|Şey, bunu düşünmenin anlamı yok.\nNeyse, rögar kapağının olduğu yere gitmeliyiz.
+115|[Geçici]
+116|Rantaro gerçekten bir gizem...
+117|Neyse, rögar kapağının olduğu yere gitmeliyiz.
+124|Basket Potası_sağ
+125|Basket potası_sol
+## a00_992_001
+0|<CLT=size2>Ceset <CLT=size1>
+1|Ceset bulundu...
+2|<CLT=size2>bulundu<CLT=size1>...
+3|<CLT=size2>tam da<CLT=size1>
+4|süre dolmadan hemen önce!
+5|<CLT=size2>süre dolmadan önce<CLT=size1>!
+6|<CLT=size2>Kütüphanede\n<CLT=size1>öldürüldü.
+8|<CLT=size2>Rantaro<CLT=size1> <CLT=size2>kütüphanede<CLT=size1>\nyalnızdı.
+9|Rantaro kütüphanede yalnızdı...
+10|Katil <CLT=cltWEAK><CLT=size2>ona arkadan\npusu kurmuş<CLT=cltNORMAL><CLT=size1> olabilir.
+11|Katil ona arkadan pusu\nkurmuş olabilir.
+12|Neden <CLT=size2>kütüphaneye gittiğini<CLT=size1>\nmerak ediyorsan, şey...
+13|Neden kütüphaneye gittiğini\nmerak ediyorsan, şey...
+14|Hareketli
+15|Hareketli kitaplığı açmış\nolması şu demek...
+16|kitaplığı\n<CLT=size2>açmış
+18|olması <CLT=size2>şu<CLT=size1> demek...
+20|Gizli kapıyı biliyordu.
+21|<CLT=size2>biliyordu<CLT=size1>
+23|<CLT=size2>Gizli\nkapıyı
+24|Anladın mı?
+25|Anladın mı? Rantaro\noyunun beyniydi!
+26|<CLT=cltWEAK><CLT=size3>Rantaro
+27|<CLT=cltWEAK>oyunun
+28|<CLT=cltWEAK><CLT=size3>beyniydi!
+## a00_993_001
+0|<CLT=size2>Gizli kapıyı<CLT=size1>\nhesaba katmasak bile...
+4|<CLT=size2>saklanacak yerler<CLT=size1>\n<CLT=size2>bol bol<CLT=size1> var.

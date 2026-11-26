@@ -2,6 +2,66 @@
 1	Pek değil...
 2	Emin olmadığın bir şey mi var?
 3	<CLT=cltSYSTEM>Kirumi'ye bir hediye vermek ister misin?
+4	Kaede... Şaka bile olsa insanlara bu tür\nhediyeler vermek hoş değil.
+5	Böyle bir şey yapacağını hiç hayal\netmemiştim...
+6	Shuichi... Şaka bile olsa insanlara bu tür\nhediyeler vermek hoş değil.
+7	Böyle bir şey yapacağını hiç hayal\netmemiştim...
+8	Kaede... hangi hediyeyi seçeceğini bilmiyorsan\nlütfen bana sor.
+9	Sana en iyi hediyeyi nasıl seçeceğini ve onu\nsunmanın en uygun yolunu öğreteceğim.
+10	İnsanlar için seçtiğin hediyelerden\netkilenmedim.
+11	Onu atmamı emretsen çok daha verimli\nolurdu.
+12	Shuichi... hangi hediyeyi seçeceğini bilmiyorsan\nlütfen bana sor.
+13	Sana en iyi hediyeyi nasıl seçeceğini ve onu\nsunmanın en uygun yolunu öğreteceğim.
+14	İnsanlar için seçtiğin hediyelerden\netkilenmedim.
+15	Onu atmamı emretsen çok daha verimli\nolurdu.
+16	Bunu atmamı mı istiyorsun?\nAnlıyorum. Bana bırakın.
+17	Yanılıyor muyum? Lütfen özrümü kabul edin.\nİyi niyetinizi anlamakta hizmetçi olarak başarısız oldum.
+18	Bunu bana vermek istiyorsunuz, değil mi?\nAnlıyorum. Değerli tutacağım.
+19	Yanlış anlamanızı istemem...
+20	...ama sadece benim için bir hediye\nseçtiğiniz için minnettarım.
+21	Anlıyorum... demek bunu bana veriyorsunuz.
+22	Daha önce hediye isteyip istemediğim sorulmuştu\nama bu bir sürpriz. Teşekkür ederim.
+23	Bunu atmamı mı istiyorsun?\nAnlıyorum. Bana bırakın.
+24	Yanılıyor muyum? Lütfen özrümü kabul edin.\nİyi niyetinizi anlamakta hizmetçi olarak başarısız oldum.
+25	Bunu bana vermek istiyorsunuz, değil mi?\nAnlıyorum. Değerli tutacağım.
+26	Yanlış anlamanızı istemem...
+27	...ama sadece benim için bir hediye\nseçtiğiniz için minnettarım.
+28	Anlıyorum... demek bunu bana veriyorsunuz.
+29	Daha önce hediye isteyip istemediğim sorulmuştu\nama bu bir sürpriz. Teşekkür ederim.
+30	Bunu atmamı mı istiyorsun?\nAnlıyorum. Bana bırakın.
+31	Yanılıyor muyum? Lütfen özrümü kabul edin.\nİyi niyetinizi anlamakta hizmetçi olarak başarısız oldum.
+32	Bunu bana vermek istiyorsunuz, değil mi?\nAnlıyorum. Değerli tutacağım.
+33	Yanlış anlamanızı istemem...
+34	...ama sadece benim için bir hediye\nseçtiğiniz için minnettarım.
+35	Anlıyorum... demek bunu bana veriyorsunuz.
+36	Daha önce hediye isteyip istemediğim sorulmuştu\nama bu bir sürpriz. Teşekkür ederim.
+37	Bunu atmamı mı istiyorsun?\nAnlıyorum. Bana bırakın.
+38	Yanılıyor muyum? Lütfen özrümü kabul edin.\nİyi niyetinizi anlamakta hizmetçi olarak başarısız oldum.
+39	Bunu bana vermek istiyorsunuz, değil mi?\nAnlıyorum. Değerli tutacağım.
+40	Yanlış anlamanızı istemem...
+41	...ama sadece benim için bir hediye\nseçtiğiniz için minnettarım.
+42	Anlıyorum... demek bunu bana veriyorsunuz.
+43	Daha önce hediye isteyip istemediğim sorulmuştu\nama bu bir sürpriz. Teşekkür ederim.
+44	Bana hediye vermeyi dert etmenize gerek yok.\nAma nezaketle kabul edeceğim.
+45	Pekâlâ, bugün ne yapmalıyım?\nLütfen bana bir emir verin.
+46	Size hizmet etmek için burada olsam da\nböyle harika bir hediye aldığıma inanamıyorum.
+47	İyiliğinizi ödeyebilmemin tek yolu hizmetçiniz\nolarak hizmet etmek... Bu sizin için uygun mu?
+48	Görünüşe göre doğru hediyeyi nasıl seçeceğiniz\nkonusunda size tavsiye vermeme gerek yok.
+49	Beni... inanılmaz derecede mutlu ettiniz.
+50	Bana hediye vermeyi dert etmenize gerek yok.\nAma nezaketle kabul edeceğim.
+51	Pekâlâ, bugün ne yapmalıyım?\nLütfen bana bir emir verin.
+52	Size hizmet etmek için burada olsam da\nböyle harika bir hediye aldığıma inanamıyorum.
+53	İyiliğinizi ödeyebilmemin tek yolu hizmetçiniz\nolarak hizmet etmek... Bu sizin için uygun mu?
+54	Görünüşe göre doğru hediyeyi nasıl seçeceğiniz\nkonusunda size tavsiye vermeme gerek yok.
+55	Beni... inanılmaz derecede mutlu ettiniz.
+56	Buna ihtiyacım olduğunu hiç söylemedim ama...\nBunun bende olması gerçekten uygun mu?
+57	Teşekkür ederim. Bu bana çok yardımcı olacak.\nBunu kullanırsam herkese de yardımı olur.
+58	Bunu kullanmam gereken görevler olacak mı?\nO zaman elbette kabul edeceğim.
+59	Yanılıyor muyum? O halde bunu size yardım\netmek için kullanacağım. Başlayalım mı?
+60	Buna ihtiyacım olduğunu hiç söylemedim ama...\nBunun bende olması gerçekten uygun mu?
+61	Teşekkür ederim, bu bana çok yardımcı olacak.\nBunu kullanırsam herkese de yardımı olur.
+62	Bunu kullanmam gereken görevler olacak mı?\nO zaman elbette kabul edeceğim.
+63	Yanılıyor muyum? O halde bunu size yardım\netmek için kullanacağım. Başlayalım mı?
 64	<CLT=cltSYSTEM>Bunu hediye olarak veremezsin.\nBu bir <CLT=cltSTRONG>önemli eşya<CLT=cltSYSTEM>...
 65	Tamam, ona hediye vermeyeceğim.
 66	Hayır, ona hediye vermek istiyorum.

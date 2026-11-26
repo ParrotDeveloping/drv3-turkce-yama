@@ -1,0 +1,62 @@
+@ ainori_text_US
+## a00_100_004
+16|Dur, Shuichi gerçekten kadın mı!? Ö-Özür dilerim!\nGonta daha önce fark etmeliydi!
+17|Ah, h-hayır hayır, ben erkeğim!
+18|Ah, tamam. İyi... Gonta yanlışlıkla Shuichi'yi\nüzseydi ne yapacağını bilemezdi.
+19|Ah, onu dert etme...\nZararsız bir hata.
+20|Rol için pratik yapmak istiyorsun, değil mi?\nEh, sana yardım etmekten mutluluk duyarım.
+21|Shuichi çok iyi. Gonta keşke bir şekilde\niyiliğini ödeyebilse...
+22|Ah evet! Gonta üzerinde pratik yap!
+23|Ve pratik derken...
+24|Gonta daha önce hiç hanımefendi gibi davranmadı.\nAma izin verirsen Gonta elinden geleni yapacak.
+25|Ah! O-O kadarına gerek yok, Gonta!
+26|A-Ama Gonta ne yapmalı!?\nShuichi Gonta'ya çok iyi davranıyor!
+27|Gonta, sorun yok! Gerçekten,\nsorun yok... sadece sakin ol.
+28|Hey, Gonta ne yapmalı!?
+29|<CLT=cltMIND>Gonta omuzlarımı sertçe kavradı.\nAğırlığını kaldıramadım ve...
+30|Ah! Vay!
+31|<CLT=cltMIND>Kollarımız bacaklarımız birbirine dolanmış\nhalde arkamızdaki yatağa düştük.
+32|Ah... Şey...
+33|<CLT=cltMIND>Sırtüstü düşmüştüm ve Gonta tam\nüstümdeydi, nefes nefese.
+34|<CLT=cltMIND>Kıpırdayamıyordum. Gonta'nın koca bedeni\nüstümde çok ürkütücüydü.
+35|A-Aaaaaaah!
+37|<CLT=cltMIND>Gonta'nın bedeni görünmez bir güç çekmiş\ngibi yukarı fırladı ve birkaç adım geri sıçradı.
+38|Gonta? İyi misin?
+39|Gonta iyi değil! Hiç iyi değil!\nGonta bunu... nasıl yapabildi!?
+40|Ah, Gonta, kafana takma!\nSadece beni biraz şaşırttın, o kadar...
+41|Gonta takıyor! Centilmenin hanımefendiye\nkötü davranması affedilemez!
+42|<CLT=cltMIND>Yani hâlâ hanımefendiyi oynuyorum, ha?
+43|Hayır, Shuichi hanımefendi olmasa bile...\nYine de kötü.
+44|Gonta Shuichi'yi korkuttu... Gonta'nın centilmen\nolabilmesi için daha çok yol var.
+45|<CLT=cltMIND>Gonta...\nBiraz korktuğumu fark ettin...
+46|Gonta'ya inanmayabilirsin ama...\nGonta sana asla zarar vermek istemez.
+48|<CLT=cltMIND>Kalkıp ona doğru yürüdüm.\nOmuzlarının titrediğini görebiliyordum.
+49|Hey, ben gayet iyiyim, tamam mı?\nParti için pratik yapmaya devam edelim.
+50|Ş-Shuichi... Teşekkürler!
+51|Gonta bu sefer kusursuz eşlikçi olacak.\nGonta... seninle ilgilenecek.
+52|Teşekkürler, Gonta.
+53|<CLT=cltMIND>Gonta'nın kusursuz görgüsünden ilham alarak\nkarşılık verdim ve elimi uzattım.
+54|<CLT=cltMIND>Öyle görünmeyebilir ama Gonta'nın kibar\nve nazik olduğuna eminim. Bir centilmen.
+55|Şeeey... Centilmen ne derdi?
+56|Gonta seni bütün gece uyutmayacak!
+57|Bu... tamamen doğru bir ifade\nolmayabilir...
+## a00_100_005
+3|<CLT=cltMIND>Kokichi'nin hayali... Bunun ne kadar\nçılgın olacağını ancak hayal edebilirim...
+4|Ah be, böyle bir belaya bulaşmayalı\nepey olmuştu.
+5|...Bela mı?
+6|Beni böyle bir yerde kapana kıstırmak...\nTam sana göre, Bay Dedektif.
+7|<CLT=cltMIND>Demek onun hayalinde de dedektifim.\nOnun peşinde mi olmam gerekiyor?
+8|Ama çaldığım mücevheri nereye sakladığımı söylemem!\nİşkence de işe yaramaz, haberin olsun!
+9|S-Sana işkence etmeyeceğim! Bir dedektifin\ntam olarak ne *yaptığını* sanıyorsun?
+10|Beni bağlayıp hırpalamayı planlıyorsun,\ndeğil mi? Yatak bu yüzden burada, ha?
+11|H-Hayır, hayır, tamamen yanlış anladın!
+12|Ha? Ama yakalanan bir hayalet hırsızın\nbaşına gelen bu değil mi?
+13|Hayalet hırsız mı?
+14|Ama biliyor musun... çok çııılgın fantezilerin\nvarsa ben bile ayak uyduramam.
+15|Yanlış anladın dedim—
+16|<CLT=cltMIND>Hayır... bir dakika.\nTartışmamalıyız...\n
+17|<CLT=cltMIND>Kokichi'nin hayalindeyim.\nSakinleşip oyuna ayak uydurmalıyım.
+18|<CLT=cltMIND>Pekâlâ... Demek Kokichi\nbir hayalet hırsız, öyle mi...?
+19|...Sana hiçbir şey yapmayacağım.\nBundan sonra polislerin sorunusun.
+20|Kaçmak için fırsat yaratmak adına beni\nkızdırmaya çalışıyorsan... Yemezler, Kokichi.
+21|Ah, çoktan anladın mı?

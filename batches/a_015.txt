@@ -1,0 +1,69 @@
+@ ainori_text_US
+## a00_100_008
+15|<CLT=cltMIND>Buna izin veremem.\nO yüzden şimdilik oyuna ayak uyduracağım.
+16|Shuichi Efendi...\nBugün size bir şey söylemeliyim.
+19|Uzun zamandır efendi... babanız tarafından\nistihdam ediliyordum.
+20|Ama bu bugün bitiyor.\nYarın konaktan ayrılacağım.
+21|Ne!? Bu birden neden!?
+22|Çünkü...
+24|Shuichi, bana bir söz verir misiniz?
+25|Şimdi söyleyeceğim şey burada\nkalmalı... Sırrım...
+26|<CLT=cltMIND>Kirumi'nin sesi son derece\nciddileşti.
+27|...Pekâlâ, anlıyorum. Söz veriyorum.
+28|<CLT=cltMIND>Kararlılıkla başımı salladım.
+29|Çok teşekkür ederim.
+30|Herkesten çok sizin sözünüzü tutacağınıza\neminim, Shuichi Efendi.
+31|Kesinlikle... çünkü sevdiğim adam sizsiniz...
+32|Ben neyim!? Sevdiğin adam mı!?
+33|Her kelimesini kastediyorum.
+34|<CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL> olsam da kendi\nduygularımla nasıl başa çıkacağımı bilmiyorum.
+35|<CLT=cltMIND>Kirumi daha önce hiç görmediğim kadar\nkırılgan görünüyordu.
+36|Açıkçası sizi\nilk gördüğümde...
+37|Saihara ailesinin varisi olarak sağlığınız\nhakkında epey endişeliydim.
+38|Sizi yetiştirmenin ve büyümenize yardım\netmenin kaderim olduğunu biliyordum.
+39|Kaderimi henüz yerine getirmediğimi biliyorum\nama...
+40|Bu yolda bir yerlerde...\nSize... ilgi duymaya başladım.
+41|Zayıflara gösterdiğiniz cömert gülümseme...\n<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL> olarak bilgeliğiniz...
+42|Rolünüzden hâlâ emin olmasanız da\nilerlemeye cesaretiniz var...
+43|Ama en önemlisi... nezaketinizle...\nBana... eşitiniz gibi davranıyorsunuz...
+44|Ve bu... bir sorun mu?
+45|Anlamıyorum, Kirumi. Seni eşitim olarak\ngörüyorum, ve bir kadın olarak—
+46|Yapmamalısınız!\nLütfen böyle bir şey söylemeyin!
+48|Görevinizi hatırlamalısınız.\nSiz Saihara ailesinin varisisiniz.
+49|Korktuğum şey buydu...
+50|Duygularım size engel olacak... Sizi\nkaderinizden uzaklaştıracak...
+51|Aşkım sizin için kötü bir etki olacak.
+52|Bu yüzden... gitmeliyim.\nHizmetçi gururum beni buna zorluyor.
+53|B-Bir dakika!\nAnlamıyorum!
+55|Bana duyduğun saygı ve sevgi asla\nkötü bir şey olamaz!
+56|Böyle konuşmana izin\nvermeyeceğim, Kirumi!
+57|Shuichi... Efendi...
+59|<CLT=cltMIND>Kirumi bir süre hiçbir şey\nsöylemedi. Ancak...
+60|A-Aaah...
+61|<CLT=cltMIND>Her zaman koruduğu sakin, kusursuz\nsoğukkanlılığı çatlamaya başladı.
+62|A-Aaah... aaah...
+63|<CLT=cltMIND>Gözlerinden yaşlar serbestçe akarken\nbir çocuk gibi ağladı.
+64|Vaaaaaah!!!
+66|<CLT=cltMIND>Titreyen omuzlarına uzandım ve onu\nsıkıca sarıp kucakladım.
+67|A-Aah... Shuichi Efendi!\nShuichi Efendi!
+68|Emin misiniz...? Size karşı bu duyguları\nbeslemem gerçekten doğru mu?
+69|Evet... tabii ki.\nDuygularını ifade ettiğin için... teşekkürler.
+70|Böyle nazik sözlere layık değilim...
+71|Size tutkunum...\nSizi seviyorum!
+72|Lütfen sonsuza dek yanınızda\ndurmama izin verin!
+## a00_100_009
+3|<CLT=cltMIND>Himiko'nun ne tür hayalleri olabilir?\nBütün hayatı zaten hayal.
+4|Shuichi... manan tören için düzgünce\nayarlandı mı?
+5|Ha? Ah, ne?
+6|Ne o, yine hazırlıklarını mı atladın?\nNe işe yaramaz bir köle!
+7|Nyeeeh... senin gibi işe yaramaz birini\nneden kölem yaptım ki?
+8|Kölen mi...?
+9|Hâlâ anlamadın mı? Sözleşmeyi yaptığımda\naçıklamıştım.
+10|Köle derken... benim cinim olduğunu\nkastediyorum.
+11|Sana, büyülü bir canavara insan formu\nverdim. Karşılığında bana hizmet ediyorsun.
+12|...Yani bir hayvan mıyım? İnsan formunda?
+13|Çoktan unuttun mu?\nAslında bir kurttun.
+14|Ne!? Ben bir kurt muyum!?
+15|<CLT=cltMIND>Bu bir hayal için bile\nepey uçuk!
+16|<CLT=cltMIND>Himiko'nun hayali her şeye kadir bir\nbüyücü olmak mı...?
+17|Eee, manan ayarlandı mı ayarlanmadı mı?

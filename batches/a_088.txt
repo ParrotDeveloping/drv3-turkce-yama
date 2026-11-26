@@ -1,0 +1,31 @@
+@ ainori_text_US
+## a00_107_914
+31|Seninle arkadaş olabilmemin sebebi profesörün\nbeni büyütmesi, değil mi?
+32|Bu doğru ama bunun tavsiye almakla\nne ilgisi var?
+33|Senin gibi bir arkadaşım olduğu için çok şanslıyım, Shuichi.
+34|Profesör bana gerçekten kin besleseydi...
+35|Beni bu duyguları hissedebilecek\nşekilde büyütmezdi.
+36|Bu yüzden bana kin beslemiyor...\nArtık bunu biliyorum, senin sayende Shuichi.
+38|Buradan ayrılınca seni profesörle\ntanıştırmayı çok isterim.
+39|Senden hoşlanacağından eminim.
+## a00_108_000
+4|Kaede... Şaka bile olsa insanlara bu tür\nhediyeler vermek hoş değil.
+5|Böyle bir şey yapacağını hiç hayal\netmemiştim...
+6|Shuichi... Şaka bile olsa insanlara bu tür\nhediyeler vermek hoş değil.
+8|Kaede... hangi hediyeyi seçeceğini bilmiyorsan\nlütfen bana sor.
+9|Sana en iyi hediyeyi nasıl seçeceğini ve onu\nsunmanın en uygun yolunu öğreteceğim.
+10|İnsanlar için seçtiğin hediyelerden\netkilenmedim.
+11|Onu atmamı emretsen çok daha verimli\nolurdu.
+12|Shuichi... hangi hediyeyi seçeceğini bilmiyorsan\nlütfen bana sor.
+16|Bunu atmamı mı istiyorsun?\nAnlıyorum. Bana bırakın.
+17|Yanılıyor muyum? Lütfen özrümü kabul edin.\nİyi niyetinizi anlamakta hizmetçi olarak başarısız oldum.
+18|Bunu bana vermek istiyorsunuz, değil mi?\nAnlıyorum. Değerli tutacağım.
+19|Yanlış anlamanızı istemem...
+20|...ama sadece benim için bir hediye\nseçtiğiniz için minnettarım.
+21|Anlıyorum... demek bunu bana veriyorsunuz.
+22|Daha önce hediye isteyip istemediğim sorulmuştu\nama bu bir sürpriz. Teşekkür ederim.
+43|Daha önce hediye isteyip istemediğim sorulmuştu\nama bu bir sürpriz. Teşekkür ederim.
+44|Bana hediye vermeyi dert etmenize gerek yok.\nAma nezaketle kabul edeceğim.
+45|Pekâlâ, bugün ne yapmalıyım?\nLütfen bana bir emir verin.
+46|Size hizmet etmek için burada olsam da\nböyle harika bir hediye aldığıma inanamıyorum.
+47|İyiliğinizi ödeyebilmemin tek yolu hizmetçiniz\nolarak hizmet etmek... Bu sizin için uygun mu?

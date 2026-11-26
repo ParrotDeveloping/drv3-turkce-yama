@@ -1,0 +1,71 @@
+@ ainori_text_US
+## a00_114_110
+11|N-Numarayı nasıl yaptıklarını\nanlatacaklar, değil mi?
+12|Ş-Şey, vakit öldürmek için fena değil\ngibi, o yüzden sanırım kalırım.
+14|<CLT=cltMIND>Acaba ne oldu?\nMiu derin düşüncelere dalmış gibi...
+18|<CLT=cltMIND>Bunlar Miu'nun iç sesi mi...?
+## a00_114_113
+0|<CLT=size2>Kahretsin,\n<CLT=size1>ne yapmalıyım...?
+1|Kahretsin, ne yapmalıyım?
+2|Neden\nbu <CLT=size2>icadı\n<CLT=size1>düşündüm ki?
+3|Neden bu icadı düşündüm ki?
+4|Gerçekten,\ngerçekten, gerçekten\n<CLT=size2>yapmak<CLT=size1> istiyorum...
+5|Sadece gerçekten, gerçekten yapmak istiyorum...
+6|<CLT=size2>Ama\n<CLT=size1>bundan eminim ki\n<CLT=cltWEAK><CLT=size2>tiksinecek\n<CLT=cltNORMAL><CLT=size1>...
+7|Ama bundan eminim ki\ntiksinecek...
+8|Belki de\n<CLT=size2>bundan\nvazgeçmeliyim<CLT=size1>...
+9|Belki de bundan vazgeçmeliyim...
+10|Ama...\nbence\n<CLT=size2>Shuichi\n<CLT=size1>anlar...
+11|Ama... bence Shuichi anlar...
+12|Hayır!\n<CLT=size2>Shuichi'nin<CLT=size1> <CLT=size2>anlamasını<CLT=size1> istiyorum!
+13|Hayır! Shuichi'nin anlamasını istiyorum!
+14|Başkalarının ne düşündüğü umurumda değil,\n<CLT=cltWEAK>yeter ki o <CLT=size2>anlasın<CLT=cltNORMAL>!
+15|Başkalarının ne düşündüğü umurumda değil,\nyeter ki o anlasın!
+16|Ama ya tiksinirse...!
+17|Ama ya tiksinirse...!
+## a00_114_120
+2|Tuvalete gidelim
+3|Açık saçık bir film bulmaya çalışalım
+5|D-Doğru... Film sırasında gitmen gerekse\ncehennem olurdu.
+6|Iı...
+7|O trajedinin yeniden yaşanmasına izin\nveremem...
+8|<CLT=cltMIND>...Yeniden mi!?
+9|Hah! Tabii böyle dersin, seni kahrolası ezik!
+10|Ama yarım saniye düşün!
+11|Tam burada göğüslü bir güzel duruyor!\nGerçek bir kadın sahtesinden çok daha iyidir!
+12|S-Sakın bana sahte şeylerden zevk\naldığını söyleme!
+13|Ah, ben de aynı şeyi düşünüyordum!\nŞahsen ben biraz gerçekçiyimdir!
+14|Yani bütün dünya benim dâhiyane\nicatlarıma bağlı!
+15|Gerçeklik yerine filmleri seçseydim\ngerçeklik hüngür hüngür ağlardı!
+17|<CLT=cltMIND>Acaba ne oldu?\nMiu derin düşüncelere dalmış gibi...
+21|<CLT=cltMIND>Bunlar Miu'nun iç sesi mi...?
+## a00_114_130
+5|Hıh! O zaman neden hiç getirmedin!?\nDaha iyi plan yapmalıydın, bakir!
+6|Değerli zamanımı boşa harcattın.\nBakir kıçını asla affetmeyeceğim!
+7|E-Eyvah...!
+8|B-Bugün seni kızdırdığım için beni\ncezalandırmak mı istiyorsun...!
+9|Ö-Özür dilememi mi istiyorsun? Özür dilersem\nbeni incitmeden bırakır mısın?
+10|Hah! Benimle amatör porno çekmeye mi\nçalışıyorsun!? İşte BU tam bir bakir hareketi!
+11|Böyle bir boka meraklıysan bekâretini\nkaybetmek için çaresiz olmalısın!
+12|Ama öyleyse sana yardım ederim!
+13|Yalnız sen kendini tatmin ederken o acınası\nezik suratını kaydedeceğim!
+15|<CLT=cltMIND>Acaba ne oldu?\nMiu derin düşüncelere dalmış gibi...
+19|<CLT=cltMIND>Bunlar Miu'nun iç sesi mi...?
+## a00_114_210
+5|Y-Yemek mi? Sadece ikimiz mi...?
+6|L-Lanet olsun, bakir! Taşakların varmış, evlat!
+7|Sonunda benim tatlı mı tatlı turtamın\ntadına bakmak istiyorsun, ha!?
+8|Hah-haha! Seni suçlayamam! İstediğin\nbuysa seve seve servis ederim!
+9|Umarım açsındır, çünkü bu turtam\nçok çeşit servisle gelir!
+10|...Ha? Susamadım.
+11|Ama kahrolası ıslağım, hatta sırılsıklam.\nNeyse, sana ne oldu?
+12|D-Dur...! B-Beni uyuşturup hırpalamak\nmı istiyorsun!?
+14|<CLT=cltMIND>Acaba ne oldu?\nMiu derin düşüncelere dalmış gibi...
+18|<CLT=cltMIND>Bunlar Miu'nun iç sesi mi...?
+## a00_114_220
+5|Hah! Beni bir Miu-buza mı çevireceksin!?
+6|Bunu yapmak istediğine emin misin? Sevdiğin bu\nkremsi memeler taş gibi sertleşecek!
+7|Bunu istemezsin, değil mi!?
+8|Senin gibi bakirlerin koca memeler için\nçıldırdığını herkes bilir!
+9|<CLT=cltMIND>..."Herkes bilir", ha?
+10|Neyin peşinde olduğunu bilmediğimi mi sanıyorsun!?

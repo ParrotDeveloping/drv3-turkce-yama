@@ -1,0 +1,75 @@
+@ ainori_text_US
+## a00_109_420
+5|Y-Ya bana top çarparsa?\n"Ay!" der ve ağlamaya başlarım!
+6|Ağlamamı durdurmak çok zor olacak!\nBuna hazır mısın!?
+9|Ben gidiyorum...
+10|Hazırlanmak her zaman önemlidir.
+11|Bir büyücü ne kadar antrenman yaparsa yapsın\ngösteriden önce hazırlanmak önemlidir.
+12|Sadece "Normal Biri Gibi Hareket Et"\nbüyüsünü yapmak bir iki gün sürüyor.
+14|<CLT=cltMIND>...Hiçbir şey demeyeceğim.
+## a00_109_430
+6|Yakan top en aptalca spor.
+7|Belki anlamıyorsun ama...\nüstüme bir şeyler fırlatılmasından nefret ederim...
+8|Bir büyü yarışması mı\nyapacağız?
+9|Büyüyle ilgilenmene sevindim ama\nadil olacağını sanmıyorum.
+10|Burada en büyülü kişinin ben olduğunu zaten\nbiliyoruz, yani kazanan ben olurum.
+11|Anlıyorum... Demek ateş büyümü\ngörmek istiyorsun, öyle mi?
+12|Gösterirdim ama ne yazık ki burada ateş\nelementi manası yok.
+13|Gerçekten yazık...\nBiraz manayla sana gösterebilirdim...
+14|Büyüme bu kadar ilgi duyduğunu\ndüşünmemiştim... Öyle olduğunu görmek güzel.
+## a00_109_510
+5|Hm, bakalım...
+6|Çok uzun süre içeride kalırsam moralim\nbozulur ve büyüm zayıflar.
+7|Büyü de tıpkı sınavlara çalışmak gibi.\nMola vermek önemli.
+8|<CLT=cltMIND>...Himiko neden bu kadar gururlu görünüyor?
+9|Reddediyorum.
+10|Sadece zahmetli olduğu için de değil.\nBeni yoran hiçbir egzersizi sevmem.
+11|Daha yeni çıktık.\nNeden geri dönüyoruz?
+12|Yoruldun mu? O zaman büyülü tozumdan\nbiraz paylaşayım—
+13|Bir dakika... Bunların hepsi büyülü tozumu\nalmak için planının bir parçası mıydı!?
+14|Bu büyülü tozun süper yasadışı ve kanuna\naykırı olduğunu biliyorsun, değil mi!?
+15|<CLT=cltMIND>Büyülü bir eşyaya karşı bir yasa\ngerçekten gerekli mi...?
+## a00_109_520
+5|Güneşte ya da elektrikli battaniyenin altında\nuyurken mana toplayabilirim.
+6|Sanırım bir sonraki büyü gösterime hazırlanmak\niçin mana toplamaya başlayacağım...
+7|Dans etmekte iyi değilim...\nHep başım dönüyor.
+8|O kadar dans etmek istiyorsan\ntek başına yapabilirsin...
+9|Gerçekten mi? Bu manzarada özel bir\nşey olduğunu sanmıyorum...
+10|Sıkılıyorsan... belki senin için bir\nbüyü gösterisi yapabilirim?
+11|Nasıl ama? Büyü gösterimi izleyebileceğini\ndüşününce...
+12|Bu manzara sıkıcı gelmiyor mu?\nSaklamana gerek yok.
+## a00_109_530
+5|Evet ama...
+6|Bu sonsuza dek burada kalmamız\ngerektiği anlamına gelmiyor.
+7|Büyü gösterilerimi görmeyi bekleyen\ninsanlar var...
+8|Böyle bir yerde öylece\noturamam!
+9|Hm, haklısın!
+10|Hem gerçekçi hem de büyüsel olarak\ndüşününce ben de çıkmak istiyorum!
+11|Çıkınca gelmiş geçmiş en büyük büyü\ngösterisini yapıp dünyayı hayrete düşüreceğim!
+12|Hey, ciddi misin?\nSadece yorgun falan mısın?
+13|Karanlık bir büyücüye yakalanmamaya\ndikkat et!
+14|Zayıflamış insan ruhlarını manipüle\netmekte en iyisi onlardır!
+16|Sakın birinin seni çoktan ele geçirdiğini söyleme!?
+## a00_109_700
+3|Himiko!
+5|<CLT=cltMIND>Canı sıkılmış görünüyor...\nBakışları bana gitmemi söylüyor.
+6|Benimle konuşmak istemiyorsan...\nbeni reddedebilirdin.
+7|Hayır demeye üşeniyorum.
+9|<CLT=cltMIND>Hiç bu kadar baştan aşağı tembel\nbiriyle tanışmamıştım.
+11|Hey, Himiko?\nNeden sihirbaz olmaya karar verdin?
+12|Ben sihirbaz değilim.
+13|Ben bir büyücüyüm ve gerçek büyü kullanırım.\nYanlış anlama.
+15|Sihirbazlık numaraları, değil mi?
+16|Gerçek büyü, tabii
+17|O zaman bana gerçek büyü göster
+19|Gerçek büyü, tamam mı?\nAnladın, değil mi?
+20|Sihirbazlık numaraları, değil mi?
+21|Büyü.
+22|Öyle diyorsun ama büyünün gerçek\nolması mümkün değil...
+23|Büyü!
+24|Sana söylüyorum...
+25|Büyü, büyü, büyü, büyü,\nbüyü, büyü, büyü, büyü!
+26|...Özür dilerim.\nHaklısın, büyü.
+27|Hıh, büyü.
+28|Gerçek büyü, tabii.
+29|<CLT=cltMIND>İtiraz edersem bu konuşma hiçbir yere\nvarmayacakmış gibi hissediyorum...

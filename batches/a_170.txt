@@ -1,0 +1,72 @@
+@ ainori_text_US
+## a00_300_112
+33|Yaptığım ilk kostüm kıyafeti! Şimdi\niyice gaza geldim!
+34|Biraz utanıyorum ama sabırsızlıkla\nbekliyorum...
+35|Sen de gaza gelmelisin!
+36|<CLT=cltSTRONG>Ultimate Kostümcü<CLT=cltNORMAL> olarak yemin ederim,\nbundan daha iyi bir kostüm olacak!
+37|Bundan mı...?
+39|Yok, yok... bir şey değil.\nSadece kendi aramızda bir şaka.
+41|<CLT=cltMIND>Tek, kısacık bir an...
+42|<CLT=cltMIND>Tsumugi'nin gözlerindeki ışığın\nsöndüğünü gördüm sandım.
+44|<CLT=cltMIND>Yoksa bana mı öyle geldi?
+45|Kanata'yı seviyorsan bir sürü başka\nkarakteri de deneyelim!
+46|Seni çok geçmeden kostüm bataklığına\nçekeceğim!
+47|Ah, haha... Fazla derine dalmamaya\ndikkat edeceğim.
+48|Seninle çalışmayı sabırsızlıkla\nbekliyorum, Shuichi.
+49|<CLT=cltMIND>Elini uzattı ve ben de\nsıkıca tuttum.
+50|<CLT=cltMIND>Tsumugi'yle kostüm giymeyi\ndüşündüm.
+51|<CLT=cltMIND>Bunun bir kereyle kalmayacağına eminim.\nBirlikte defalarca kostüm giyeceğiz...
+52|<CLT=cltMIND>Nedense\nbunu biliyorum.
+53|<CLT=cltMIND>Tabii ki kostüm giymekten hâlâ\nbiraz utanıyorum...
+54|<CLT=cltMIND>Ama heyecanlıyım da.\nBu heyecanı hep saklayacağım.
+## a00_300_113
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nAngie'yle baş başa konuşmaya karar verdim.
+3|Buradan hiç çıkamayacağımızı düşünmüştüm.
+4|Kalmayı dert edeceğimden değil.
+5|Şey, ben kesinlikle gitmek istiyorum...
+6|Hey, Shuichi? Bana verdiğin sözü\nhatırlıyor musun?
+7|Kocam olup ilahi bir aile kurmak için\nadama taşınacağına söz vermiştin.
+8|Ah, hayır, bunun bir *söz*\nolduğunu sanmıyorum...
+9|Hmmm? Ne demek istiyorsun?
+10|Sen benim ilkimdin, o yüzden kocam\nolmak zorundasın.
+11|Sakın birlikte paylaştığımız o özel\nanı unuttuğunu söyleme.
+12|Hayır, onu hatırlıyorum, şey...
+13|<CLT=cltMIND>Bahsettiği "ilk"...
+14|Angie'ye tapmak
+15|İlk öpücüğü
+16|Ona kızmak
+17|...Sana... tapmak mı?
+18|Sen de bana tapıyor muydun,\nShuichi?
+19|Adamdaki herkes bana tapar.\nBenim sözlerim Atua'nın sözleridir.
+20|<CLT=cltMIND>Bu yanlıştı.\nAngie'nin bahsettiği "ilk"...
+21|İlk öpücüğün...
+22|Ne!? Ben uyurken beni öptün\nmü!?
+23|<CLT=cltMIND>D-Dur, öyle bir şey hatırlamıyorum!
+24|"İlk"...
+25|Seni ilk kez biri azarlamıştı,\nAngie.
+26|Aynen öyle! Beni ilk azarlayan\nsendin, Shuichi.
+27|Daha önce hiç azar işitmemiştim.\nGerçekten şok ediciydi...
+28|Ve o zamandan beri tek düşünebildiğim\nsendin...
+29|Bu yüzden kocam olmaktan başka\nseçeneğin yok, Shuichi.
+30|Atua bile başka seçeneğin olmadığını söylüyor!
+31|Ama yine de evlenmek...
+32|...Atua'nın ne dediğini duymadın mı?
+33|B-Ben sadece... henüz evliliği pek\ndüşünemiyorum...
+34|Ama seninle daha çok vakit\ngeçirmek istiyorum, Angie.
+35|Hmmm? Gerçekten mi?
+36|Adanı öğrenmek istiyorum...\nAtua'yı öğrenmek istiyorum...
+37|Seni öğrenmek istiyorum...
+38|Hâlâ bilmediğim çok şey var.
+39|O yüzden, şey, belki evlilik birbirimizi\ndaha iyi tanıyana kadar bekleyebilir?
+42|Nyahahaha! Atua bunun da olur diyor!
+43|Bizi sonsuza dek kollayacağını söylüyor!
+44|<CLT=cltMIND>Angie kızarmıştı ve onu görünce\nbenim de yanaklarımın kızardığını hissettim.
+45|<CLT=cltMIND>Sonra Angie'yle usulca sarıldık.
+46|<CLT=cltMIND>Birbirimizin çok hızlı atan\nkalbini hissettik...
+47|<CLT=cltMIND>İlişkimiz kurguda başladı...\nama atan kalplerimiz gerçek.
+## a00_300_114
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nMiu'yla baş başa konuşmaya karar verdim.
+3|Demek sonunda buradan çıktığımız gün\nbugün, ha...?
+4|Hem çok uzun geldi hem de yeterince\nuzun değildi...
+5|Kh! Bu konuda duygusallaştığıma\ninanamıyorum!
+6|Demek duygusallaşabiliyorsun?

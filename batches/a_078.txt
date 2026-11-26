@@ -1,0 +1,25 @@
+@ ainori_text_US
+## a00_107_000
+17|Bu hediyeyi öylece kabul etmem samimiyetsizlik\nolur, o yüzden kibarca reddetmeliyim.
+20|Özür dilerim. Böyle bir duruma uygun\ntepkiyi hesaplıyordum.
+26|...Özür dilerim. Buna bir gün ilgi\nduyacağımı hayal edemiyorum.
+27|Bu durumda mutluymuş gibi mi yapmalıyım?\nBu bana mantıksız geliyor...
+28|Ah, teşekkürler. Hediye almaya verilecek\nuygun duygusal tepki sevinçtir.
+29|Hediyenin kendisi ilgimi çekmese bile\nyine de anlıyorum... sevinç duymam gerektiğini.
+30|Kaede'den bir hediye... İşte, bu anının\nyedek kopyasını kaydetmeyi bitirdim.
+31|Umarım bir gün iyiliğini ödeyebilirim.
+36|Shuichi'den bir hediye... İşte, bu anının\nyedek kopyasını kaydetmeyi bitirdim.
+50|Bu güzel. Tercihlerimle uyuşuyor.
+51|Beni anlıyorsun...\nKendimi... mutlu hissediyorum.
+52|Bu... epey büyüleyici bir eşya!\nBenim olabileceğine emin misin?
+53|Keşke karşılığında sana bir şey verebilsem\nama verecek hiçbir şeyim yok... Özür dilerim.
+58|Bu... epey pratik bir hediye.\nTeşekkürler.
+59|Lütfen yanlış anlama...\nBu hediye çok pratik olduğu için mutluyum.
+60|Farklı koşullar altında bu hediye bir robot\nfobisi eylemi olarak görülebilirdi.
+61|Kaede... Çok teşekkür ederim.\nCömertliğin karşısında alçakgönüllü hissediyorum.
+62|Bunu bana sırf robot olduğum için mi verdin?\nRobot fobik eylemlerini rapor edeceğim.
+66|Shuichi... Çok teşekkür ederim.\nCömertliğin karşısında alçakgönüllü hissediyorum.
+## a00_107_050
+0|Ah, Shuichi! Boş vaktin varsa benimle\ngeçirmek ister misin?
+1|Aman tanrım... Kokichi robotlar hakkında\nen duyarsız yorumları yapıyor...
+2|O çocuğun düzgün bir eğitime umutsuzca\nihtiyacı var...

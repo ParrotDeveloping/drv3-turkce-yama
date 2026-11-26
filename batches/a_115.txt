@@ -1,0 +1,44 @@
+@ ainori_text_US
+## a00_111_000
+26|Ah hayır! Sana hiçbir şey getirmedim!\nÇ-Çok özür dilerim!
+27|Ha, hediye mi?\nÇ-Çok teşekkür ederim!
+28|Bu hediyenin değerini anlayamadığım için özür\ndilerim ama iyi duyguların bana ulaştı!
+29|A-Ah, bu benim için mi...?\nBu hediye bir suç işlemedi, o yüzden alacağım...
+30|Ama dedektif olsan bile hâlâ kızların\nduygularını anlayamayan bir erkeksin!
+31|Yoz bir erkek bir kıza hediye verdiğinde\nmutlaka gizli bir niyeti vardır...
+32|O yüzden bunu alacağım. Himiko'ya ya da\ndiğer kızlara vermenden iyidir!
+33|Ne düşündüğünü bilmiyorum, Shuichi.\nO yüzden sanırım kalıp seni dinleyebilirim!
+34|Kızlar hediye verdikten sonra birini kovacak\nkadar acımasız değildir!
+47|Vay! İnanılmaz, Kaede!\nBu harika bir hediye!
+48|Muhtemelen piyanist olduğun için hediye seçmeyi\nbiliyorsun! Lütfen bana öğret!
+49|Ne!?\nB-Bunu bana mı veriyorsun!?
+50|Vay, çok mutluyum!\nÇok teşekkür ederim!
+51|Erkek olmana rağmen birini mutlu\nedecek bir hediye verdin!
+52|Ama sadece bununla yenilecek kadar kolay değilim!\nLütfen beni hafife alma!
+53|Ah... Fena değil, Shuichi!\nBeni gerçekten çok mutlu ettin!
+54|Ama beni yatıştırabileceğini sanma!\nKızlar o kadar basit değildir!
+55|Bu benim olabilir mi?\nTeşekkürler.
+56|Düzgün kızlar minnettarlık gösterir. Erkek\nyozlar yanlış yapsa bile hediyeler yapmaz!
+57|K-Kaede, ne harika bir hediye! Gerçekten de\nkızların narin kalbini sadece kızlar anlar!
+58|Sana bir şekilde teşekkür edebilsem harika olurdu...\nSana bir Neo-Aikido hareketi öğretsem nasıl olur!?
+59|Çok teşekkür ederim, Kaede!\nBeni çok iyi anlıyorsun!
+60|Bu beni fazla mutlu ediyor!\nYüzümü kızartıyor!
+61|Erkek olmana rağmen beni mutlu ettin...\nKaybetmiş gibi hissediyorum!
+62|Sinirlendim, o yüzden seni fırlatacağım!\nSonra ödeşiriz!
+63|Bana tam ihtiyacım olanı verdin... Shuichi,\nsen de Neo-Aikido yolunu mu anlıyorsun!?
+64|O zaman belki bir Neo-Aikido hareketiyle\nbedenini yere çarpabilirim!
+## a00_111_050
+0|Y-Yoz bir erkek benden ne\nistiyor!?
+2|Eh, benimle gizli bir niyetle konuşuyor\ngibi görünmüyorsun.
+3|O yüzden bunu iyice anlasan iyi olur, tamam mı?
+4|Tuhaf bir şey yapmayı *düşünürsen* bile\nNeo-Aikido becerilerim hayatına son verir!
+5|Himiko... Himiko...\nHimiko, Himiko, Himiko!
+15|Erkekler kızlara savaş mı açıyor?\nÖldür ya da öldürül, öyle mi!?
+16|O zaman savaşmadan yenilmeyeceğim!\nGel üstüme!
+17|<CLT=cltMIND>Tenko'yu beni incitmemesi için ikna\netmeye epey vakit harcadım...
+18|Bir yozun benimle gizli bir niyet olmadan\nkonuşması mümkün mü...?
+19|Belki düşüncelerini okumamı engellemek için\nyüz kaslarında ustalaşmışsındır!
+20|<CLT=cltMIND>Tenko'ya hiçbir gizli niyetim olmadığını\naçıklayarak biraz vakit geçirdim.
+21|Eh... sanırım senin için endişelenmeme\ngerek yok, Shuichi.
+22|Ama gardım düşükken bana saldırma\nihtimalin hâlâ var...
+23|Her ihtimale karşı lütfen bana 3 metreden\nfazla yaklaşma!

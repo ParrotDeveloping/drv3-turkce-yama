@@ -1,5 +1,71 @@
+0	Shuichi, belli bir konu hakkında senden\ntavsiye isteyebilir miyim?
+1	Tavsiye mi?\nBana... sormak istediğine emin misin?
+2	Evet. Aslında bu konuyu konuşabileceğim\ntek kişi sensin.
+3	<CLT=cltMIND>Tek kişi mi?
+4	Bu soru bir süredir aklımı\nkurcalıyor...
+5	<CLT=cltSTRONG>Ultimate Robot<CLT=cltNORMAL> olmama rağmen sence\nsadece sıradan biri miyim?
+6	...Hayır, cevap vermene gerek yok. Herkesle\nkıyaslayınca kendimi oldukça sıradan hissediyorum.
+7	<CLT=cltMIND>...O zaman neden soruyorsun?
+8	O yüzden harekete geçerek bunu bir\nşekilde ele almam gerektiğini düşünüyordum.
+9	Shuichi, niyetim... bir robot işletmesi kurmak!
+10	Robot işletmesi mi?
+11	Evet, robot yeteneklerimden tamamen\nyararlanan bir işletme kuracağım.
+12	Bu yüzden... pop yıldızı robot olmak\niçin çalışacağım!
+13	Pop yıldızı mı? Neden o?
+14	Bu karara birçok seçeneği analiz ettikten\nsonra vardım.
+15	Asıl sebep... robotların pop müzik türünde\nhenüz ilerleme kaydetmemiş olması.
+16	<CLT=cltMIND>Bence robotlar *hiçbir* müzik türünde\nilerleme kaydetmedi...
+17	Şarkı söylemek
+18	Görünüşleri
+19	Dans etmek
 20	Emin olmadığın bir şey mi var?
+21	Pop yıldızları konusunda... En çok şarkı\nsöyleyerek tanınıyorlar, değil mi?
+22	Evet, şarkı söylemek.
+23	Bir robot olarak doğru müziği ve sözleri\nyükledikten sonra şarkı söyleyebilmeliyim.
+24	Bu açıdan pop yıldızı rolüne çok uygun\nolduğuma inanıyorum.
+25	Anlıyorum. Bunu epey düşünmüşsün.
 26	Tabii ki!
+27	Ayrıca pop yıldızları karşı cinsi hayranlık,\nneşe ve bir yaşama sebebiyle doldurur.
+28	"Mutluluk" duygusunu daha derinden anlamam\niçin mükemmel bir yol.
+29	Görünüşleri.
+30	Görünüş, ha...?
+31	Sanırım görünüşümü bir dereceye kadar\ndeğiştirebilirim...
+32	Ama profesörün beni tasarlayış şeklini değiştirmek\nistemiyorum. Şarkı söyleyerek öne çıkacağım!
+33	Dans etmek.
+34	Dans mı?
+35	Ah, sen... dans etmekte kötü müsün?
+36	Dans etmekte kötü olduğumu söyleyemem.
+37	Sadece... nedense dansım hep robot\ndansına dönüşüyor gibi...
+38	Anlıyorum... Belki de idol olmak\nsana göre değil...
+39	Bu yüzden şarkı söyleyerek öne çıkacağım!
+40	Şimdi senin için şarkı söyleyeceğim.\nLütfen ne düşündüğünü söyle.
+41	Pekâlâ, tabii.
+42	<CLT=cltMIND>Bu sözlerden yakında pişman olacaktım.
+43	♪～♪～♪～～♪～～♪～
+44	<CLT=cltMIND>Keebo'nun şarkı söylerkenki ifadesi\no kadar huzurlu, o kadar neşeliydi ki...
+45	Ah! Ah!!! Aaaaaahhh!!!
+46	<CLT=cltMIND>Ama beynim kızarıyordu!\nİçim allak bullak oluyormuş gibi hissettim!
+47	<CLT=cltMIND>Engelleyemiyorum!\nKusacağım!
+48	Ah! Hıh... Blööörk!
+49	<CLT=cltMIND>Birkaç dakika sonra...\nhâlâ iki büklüm halde gözlerimi açtım.
+50	Ne düşünüyorsun, Shuichi?\nEpey iyiydi, değil mi?
+51	Özür dilerim, Keebo... Müzik kariyerini...\ntakip edebileceğimi sanmıyorum...
 52	Ha? Ne demek istiyorsun?
+53	Keebo... şarkı söyleyişin... berbattı...\nDayanamadım...
+54	Ne—!? Gerçekten o kadar kötü müydü!?
+55	Evet... Şey... artık insanlar için şarkı\nsöylememen gerektiğini düşünüyorum...
+56	Ah hayır... Bu pop yıldızı olamayacağım\nanlamına mı geliyor?
+57	...Ah! Bekle, Keebo,\nişte bu!
+58	Müzik çalabiliyorsun, değil mi?\nNeden onu yapmıyorsun?
+59	Sadece şarkı söylüyormuş gibi yapıp\nşarkıyı ağzından çalsan...
+60	Bunu yapamam!
 61	Ne?
+62	Bu mantıksız bir uzlaşma, Shuichi!
+63	Lütfen anla, yapay zekâm insanın daha büyük\nbir anlayış arzusunun yansıması.
+64	Bu yüzden eğitimin zorluğunu yaşamalıyım!\nKolay yol sadece ilerlememi engeller!
+65	Biri Ultimate seviyesinde bir yeteneğe\nsahip olsa bile...
+66	O yetenek bir koltuk değneği değil, daha da\nyükseklere ulaşmak için bir basamak olmalı!
 67	<CLT=cltSYSTEM>K1-B0'ın <CLT=cltSTRONG>Karnesi<CLT=cltSYSTEM> onunla yaşadığın\ndeneyime göre güncellendi.
+68	<CLT=cltMIND>Keebo beni bir güzel azarladı,\nben de odama döndüm.
+69	<CLT=cltMIND>Bir robotun bir insana vaaz vereceği\ngünün geleceğini hiç düşünmezdim.
+70	<CLT=cltMIND>Ah, düşünüyorum da... robot işletmesi\nhakkında bir sonuca varamadık.

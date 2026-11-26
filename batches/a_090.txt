@@ -1,0 +1,68 @@
+@ ainori_text_US
+## a00_108_113
+15|Bir gün bu zayıflığım istismar\nedilirse...
+16|Hayır...\nBunu düşünmenin\n<CLT=cltWEAK>anlamı yok...<CLT=cltNORMAL>
+17|Hayır... Bunu düşünmenin anlamı yok...
+18|Çünkü üstesinden\n<CLT=size2>nasıl geleceğimi\n<CLT=size1>bilmiyorum...
+19|Çünkü üstesinden nasıl geleceğimi bilmiyorum...
+## a00_108_120
+5|İsteğiniz bu mu?
+6|Bir hizmetçi iş sırasında duygularını\ngöstermemeli...
+7|Ama... mutluyum.\nAksiyon en sevdiğim film türü.
+8|Dramatik hikâyeli böyle ferahlatıcı filmler\ngündelik yorgunluğumu alıyor.
+9|İsteğiniz bu mu?
+10|Komedi filmi izlemekte bir sorunum\nolmasa da...
+11|Bir kadınla film izlemek istiyorsanız\ngelecekte lütfen daha akıllıca seçin.
+12|Partnerinizle benzer bir mizah anlayışınız\nyoksa epey nahoş bir hal alır.
+13|Bunu duymak sizin için can sıkıcı olabilir...
+14|Ama vaktinizi bir kadınla böyle geçirmenize\nizin vermekte epey isteksizim.
+15|Lütfen müşterisini azarlamanın da bir\nhizmetçinin görevi olduğunu anlayın.
+16|Peki bu gerçekten isteğiniz mi?
+17|Öyleyse anlıyorum...
+18|<CLT=cltMIND>Bu cevaba bakılırsa...\nbelki animeyi sevmiyordur?
+19|<CLT=cltMIND>Keşke sadece "hayır" dese...\nAma anlıyorum. Kirumi aşırı derecede itaatkâr.
+## a00_108_130
+3|Video rafı canımı sıkıyor...
+5|Bunu dert etmenize gerek yok.
+6|Uyuyakalırsanız sizi uyandırmadan\nodanıza taşırım.
+7|Gücüme epey güvenirim. Sizin ağırlığınızla\nsizi kaldırmak için tek kol yeter.
+8|Bu doğru. Filmler düzenli olmadığı\niçin epey çirkin görünüyor.
+9|Benim de canımı sıkıyordu.\nHemen düzelteceğim.
+10|Dedektif olduğunuz için böyle\nayrıntıları fark ediyorsunuz...
+11|Ama belki bir uşak olma\npotansiyeliniz de vardır?
+12|Anlıyorum. Demek böyle düşünüyorsunuz.
+13|Fikrimi soruyorsanız özür dilerim.\nBir cevabım yok.
+14|Müşterim hangi fikri seçerse ben\nonu takip ederim... O kadar.
+15|Size hizmetçilerin nasıl düşündüğünü anlatmıştım, değil mi?
+## a00_108_210
+5|Sizinle mi?
+6|Bu bir müşteriyle ilk kez yemek\nyapışım olacak.
+7|Biraz gerginim ama...\nEmriniz üzerine elimden geleni yapacağım.
+8|Endişelenmeyin. Hem güvenliğinizi hem de\nyemeğin lezzetini garanti edeceğim.
+9|<CLT=cltMIND>Güvenliğim mi? Yemek yaparken kazara\nkendime zarar vereceğimi mi düşünüyor?
+10|<CLT=cltMIND>Şaşırdığımdan değil... Kirumi\nbüyük bir özveriyle dikkatli.
+11|O zaman size zevkinize en uygun\ntatlıyı yapacağım.
+12|Tatlı bir lezzet yerine daha doğal bir\nlezzeti tercih ediyorsunuz, değil mi?
+13|O zaman bu mevsimin meyveleriyle\nbir çörek nasıl olur?
+14|Bence keyif alacaksınız, Shuichi.
+15|<CLT=cltMIND>...Ona en sevdiğim tatlının ne olduğunu\nsöylediğimi hiç hatırlamıyorum.
+16|<CLT=cltMIND>Bu da bir hizmetçi olarak becerilerinden\nbiri mi? Neredeyse ürkütücü...
+17|O zaman susuzluğunuzu gidermek için hemen\nferahlatıcı bir içecek getireceğim.
+18|Hm? Ben mi?
+19|İhtiyacım yok.\nŞu an susamadım.
+20|Bir şey içmemi isterseniz içerim\nama...
+## a00_108_220
+5|Hijyen ve sağlık nedenleriyle böyle bir\nşey yapmanızı tavsiye etmem.
+6|Hizmetçilerin böyle istekleri reddetme hakkı vardır.
+7|Çay sever misiniz, Shuichi?
+8|O zaman çayın kökenleri hakkında bilgi\nedinmenizi tavsiye ederim.
+9|Aynı çayı içeceksiniz ama öğrendikten\nsonra tadı farklı gelecek.
+10|<CLT=cltMIND>Kirumi gerçekten çay hakkında konuşmaktan\nkeyif alıyor gibi görünüyor...
+11|<CLT=cltMIND>Yoksa bu sadece benim hayal gücüm müydü?
+12|Bu bir dini tören için mi?\nYoksa sağlığınız için mi?
+13|Bu öneri konusunda ciddi değilseniz\netkilenmedim.
+14|Hastalanırsanız hayatınızı etkiler.
+## a00_108_230
+5|Ah, hayır...\nSiyah çayı tercih ettiğinizi varsaymıştım...
+6|Böyle basit bir hata yapmam...\nHizmetçi olarak başarısız oldum...
+7|Beni nasıl azarlarsanız azarlayın umurumda değil...

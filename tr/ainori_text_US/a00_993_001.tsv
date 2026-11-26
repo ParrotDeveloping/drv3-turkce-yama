@@ -1,8 +1,23 @@
+0	<CLT=size2>Gizli kapıyı<CLT=size1>\nhesaba katmasak bile...
 1	Gizli kapıyı\nelesek bile...
 2	<CLT=size2>Kütüphanede<CLT=size1>
 3	Kütüphanede saklanacak\nyer bol.
+4	<CLT=size2>saklanacak yerler<CLT=size1>\n<CLT=size2>bol bol<CLT=size1> var.
+5	<CLT=size2>Arkasına saklanacak
+6	Her yerde arkasına saklanacak\nkitap yığınları var.
+7	<CLT=size2>kitap<CLT=size1> yığınları\nher yerde <CLT=size2>var<CLT=size1>.
+8	<CLT=size2>Katil<CLT=size1>
+9	Katil kameralar yerleştirilmeden\nönce oradaysa...
 10	suçlu orada
+11	<CLT=size2>kameralar\n<CLT=size1>yerleştirilmeden önce...
+12	Rantaro'yu
+13	Rantaro'yu öldürüp sonra kaçmış olabilir.
+14	<CLT=size2>öldürüp, <CLT=size1>
+15	sonra <CLT=size2>kaçmış olabilir.
+16	Ama katil <CLT=size2>onu öldürüp kaçtıysa<CLT=size1>,
 17	Ama suçlu onu öldürüp kaçtıysa\nkameraya yakalanmaz mıydı?
+18	<CLT=size2>kameraya yakalanmaz\nmıydı?
+19	Yeniden <CLT=size2>saklandıysa yakalanmaz...
 20	Rantaro'yu öldürdükten hemen sonra...
 21	<CLT=size2>tekrar<CLT=size1> saklandılarsa <CLT=size2>hayır.
 22	tekrar saklandılarsa hayır.
@@ -11,5 +26,13 @@
 25	<CLT=size2>herkes
 26	cesedin <CLT=size2>etrafında
 27	<CLT=size2>toplanınca...
+28	tek <CLT=size2>yapması gereken
 29	tek yapmaları gereken yeni koşarak gelmiş gibi yapıp...
+30	yeni koşarak
+31	gelmiş gibi yapmak...
+32	Sonra
+33	Sonra tek yapması gereken herkese katılmak.
+34	tek yapması gereken
+35	<CLT=size2><CLT=cltWEAK>herkese<CLT=cltNORMAL>
+36	<CLT=size2>katılmak.<CLT=size1>
 37	Özür dilerim...\nEn baştan tekrar anlatabilir misin?

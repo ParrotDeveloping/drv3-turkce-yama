@@ -1,0 +1,63 @@
+@ ainori_text_US
+## a00_106_703
+46|İnsanlığın gücünü göstermek için mi?\nDoğayı fethettiğimizi söylemek için mi?
+47|Bu doğru, evet...\nAma daha büyük bir sebep var.
+48|Taşa dönüşen canlılar...\nBu açıkça ölümü temsil eder, değil mi?
+49|Başka bir deyişle bütün insanlar\nbir gün yok olacak.
+50|Yani doğayı alt etsek bile\nölümü alt edemeyiz...
+51|<CLT=cltMIND>Maskenin arkasından tam anlayamadım ama\nKorekiyo'nun gülümsediğini tahmin ediyorum.
+52|<CLT=cltMIND>Neden öyle bir ifade takınsın ki?\nÖlümden korkmuyor mu?
+53|Hoppala...
+54|Görünüşe göre konudan saptım.\nMitleri tartışmaya geri dönelim.
+## a00_106_704
+0|<CLT=cltMIND>Bir antropoloji dersi daha\nvakti gelmişti...
+1|Saha çalışması mı?
+2|Araştırma olarak da bilinen saha çalışması\nantropoloji için çok önemlidir.
+3|Efsaneleri ilk ağızdan dinlemek,\naletleri ya da yaşam tarzlarını kaydetmek...
+4|Bunun için bütün ülkeyi gezdim.
+5|Bütün ülkeyi mi?\nEpey bir hayat olmalı.
+6|Kehehe... her gün büyüleyici şeyler\nkeşfedebiliyordum.
+7|İlgimi çeken son konu iplerle ilgili\ngelenekler.
+8|İpler mi?
+9|Japonya'daki pek çok bölgede misafirleri\nkarşılamak için geleneksel olarak ip kullanıldığını buldum.
+10|Neden bu kadar uzak yerlerde bu kadar\nbenzer gelenekler var diye merak ettim.
+11|Bu *gerçekten* ilginç.
+12|Bununla birlikte iplerin kullanılış\nşeklinde farklılıklar var.
+13|Bir bölgede misafirler kadınları bağlar.\nBaşka birinde misafirler bağlanır.
+14|<CLT=cltMIND>...Bu pek sıcak bir karşılama\ngibi görünmüyor.
+15|Ziyaretim sırasında o kadar sıkı bağlandım\nki neredeyse bayılıyordum.
+16|...Amma da karşılama.
+17|Kehehe, anlayışın henüz sığ.\nBu sadece başlangıçtı.
+18|Bağlıyken beni kırbaçladılar.\nO kadar sıcak bir karşılamaydı ki.
+19|<CLT=cltMIND>Bunun hiç de karşılama olduğunu\nsanmıyorum!
+20|Bu deneyim içimde yeni bir dünyanın\nkapısını açtı...
+21|<CLT=cltMIND>O kapının kapalı kalması gerektiğini\nhissediyorum.
+22|O kapıdan geçtikten sonra...
+23|Ölümün benden aldığı biriyle yeniden\nkavuşabildim.
+24|Alabileceğim en büyük karşılamaydı\nbu. Kehehehehe...
+25|<CLT=cltMIND>Ölüme yakın bir deneyimden\nmi bahsediyor?
+26|Böyle bir deneyim antropolojiye olan sevgini\nbüyütür. Senin için bunu istiyorum.
+27|Ne!? Ah, şey, bundan emin değilim,\ndaha temelleri bile öğrenmedim...
+28|Ah, gerçekten de. Temel bilgi olmadan\nişe yaramaz. Anladığına sevindim.
+29|Hâlâ keşfedilecek çok sır var
+30|Bunu asla yapabileceğimi sanmıyorum
+31|Eh, hayatımı riske atmak istemem...
+33|Her halükârda bir gün seni saha\nçalışmasına götürmek isterim.
+34|Hâlâ keşfedilecek çok sır var.
+35|Bunlar... illaki sır değil.
+36|Biz sadece hayatlarımızı böyle bilgilerden\nuzak yaşıyoruz.
+37|Bunu asla yapabileceğimi sanmıyorum.
+38|Eh, bilinmeyen topraklara girme\nkorkun olabilir.
+39|Ama bilgi merakının o korkuyu\nyenmesini sağlayacak.
+40|İnsanlar açgözlü yaratıklardır.\nBazen o içsel çirkinlik görünür olur.
+41|Ama o da insanlığın güzelliğinin\nbaşka bir yönüdür.
+42|İlgileniyorum ama hayatımı\nriske atmak istemem...
+43|Yanlış anlıyorsun.
+44|Saha çalışması seni bilinmeyenin içine koyar\nama bir macera değildir.
+45|Gizemli bir dağ köyünde öldürülmek sadece\nokült romanlarda olan bir kurgudur.
+46|<CLT=cltMIND>Daha önce anlattıklarına bakılırsa\ntehlikenin gerçek olduğunu söylerdim...
+47|Shuichi...\nDoğrusunu söylemek gerekirse...
+48|Saha çalışması için olmasa bile seninle\nülkeyi gezmek isterim.
+49|Sana bildiğim haliyle insanlığın\ngüzelliğini göstermek istiyorum.
+50|Seninle gitmek isterim, Kiyo.\nNereye gidersek gidelim eğlenirdik.
+51|Kehehe... Bunu söylediğini duymak\nbeni çok mutlu ediyor.

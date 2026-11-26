@@ -1,0 +1,72 @@
+@ ainori_text_US
+## a00_110_120
+14|...Seni çocukken hayal etmek kolay.\nSana çok sevimli denmiş olmalı, ha?
+## a00_110_130
+5|...Tamam, uyursan sakıncası yok.
+6|Uyursan ben dönerim.
+7|...Yani yapı blokları oyunu gibi, ha?\nYapması fena değil.
+8|Bana yetimhanedeki zamanları hatırlatıyor.\nEvcilik... Kum havuzunda oynamak...
+9|Zamanda geri gidip kendimi görebilseydim\nona bir şey söylerdim.
+10|Daha çok oynamasını söylerdim... çok daha\nfazla... hâlâ şansı varken...
+11|...Şaka.
+12|İyi bir dinleyicisin, o yüzden sonunda\nkendimden biraz fazla bahsettim.
+13|Bunu sadece gerçekliğin aslında ne kadar\ndehşet verici olduğunu bilmediğin için düşünüyorsun.
+14|Benim yaşadıklarımı yaşamış olsaydın\nböyle demezdin.
+## a00_110_210
+5|Olur... ama iyi miyim bilmiyorum.
+6|Yetimhanede yemeklerimizi aşçımız hazırlardı.\nYani aslında şimdiye kadar hiç yemek yapmak zorunda kalmadım.
+7|İş silahı dışında bir bıçak tutmayalı\nepey oldu.
+8|...Bazı bıçakların insan öldürmek için\nkullanılmadığını neredeyse unutmuşum.
+9|...Neden?
+10|...Ben sokakta değil yetimhanede\nbüyüdüm.
+11|Sakıncası yok. Yetimhanede temizliği ve\nçamaşırı kendimiz yapmak zorundaydık...
+12|Ev işi yapınca kendimi tamamen normal\nbiri gibi hissediyorum...
+13|Sen dedektifsin, o yüzden sen de öyle\nhissediyor olmalısın, değil mi?
+## a00_110_220
+5|...Ha, neden böyle çocukça bir şey yapmak\nistiyorsun? Şaka için mi?
+6|Çocuklar tarafından sevilebilirim\nama bu benim çocuk olduğum anlamına gelmez.
+7|Buna itirazım yok.\nTatlı şeyler beni sakinleştirir.
+8|Bir suikastçı olmak için hâlâ fazla yumuşağım...\nAma tatlıları sevmem sorun değil, değil mi?
+9|En azından yapılması gerekeni bitiriyorum...
+10|Hey, o sırıtışı yüzünden sil!\nBenimle dalga geçme!
+11|...Biliyor muydun?
+12|Açlık dünyadaki en acılı ölüm\nşekillerinden biridir.
+13|...Şaka.\nAma hayır, cidden, yapma.
+## a00_110_230
+5|Evet, işim için fazla yavaşlarsam fazla\nkilonun bana hiçbir faydası olmaz.
+6|Gerçi... zaten çok yağlı yemekler\npek yemem.
+7|Dedektif olarak işin için kilo mu\nveriyorsun alıyor musun?
+8|Kılık değiştirmek istersen bedenini fiziksel\nolarak değiştirmen gerekir diye düşünüyorum.
+9|Haha...
+10|Kusura bakma. Senin şişman bir sahte versiyonunu\nhayal ettim ve güldüm.
+11|...Kusura bakma, bunu bilemem.
+12|Yemekten sonra uykum gelmez, o yüzden uyanık\nkalmak için kahve içmeme gerek yok.
+13|Ayrıca acı hiçbir şeyi sevmem.
+## a00_110_310
+7|Yıllardır hiç manga okumadım...\nNedense beni geriyor.
+8|Eh... senin sayende son zamanlarda epey\nnostaljik hissediyorum...
+11|...Minnettarım... gerçekten.
+12|Burada hapsolmadan önce sıkılmak\nbenim için bir lükstü.
+13|Sürekli meşguldüm, o yüzden her boş\nvaktime değer verirdim.
+14|Yani şimdi sıkılmanın iyi olduğunu düşünüyorum.
+15|...Sanırım biraz değiştim.
+## a00_110_320
+4|Resimli bir kitap okuyalım
+5|...Şaşırtıcı derecede çalışkansın.\nDedektif vakaları mı çalışacaksın?
+6|O zaman sana katılıp seninle\nokuyacağım sanırım.
+7|Dedektiflik işini öğrenmek için mükemmel\nbir zaman olacak. Senden duymak istiyorum.
+8|...Neden? Anlamıyorum.
+9|Artık küçük bir çocuk değilsin, o yüzden\nöyle tuhaf şeyler söyleme.
+10|Yoksa ne?\nSeni rahatsız mı ediyorum?
+11|Öyleyse söyle artık.
+12|Bu... yetimhanede çocuklara kitap\nokuduğum için mi?
+13|Sen gerçekten...
+14|Hayır, bence... bu iyi...
+15|Başka insanlara da böylesin...\nSadece aklından geçeni söylemelisin.
+16|Çünkü muhtemelen yanlış anlayacak\ninsanlar vardır...
+17|<CLT=cltMIND>Yanlış mı anlayacaklar...?
+## a00_110_330
+2|Bir roman okuyalım
+3|Keşfedilmemiş yerlerin fotoğraf kitabına bakalım
+4|İncil okuyalım
+5|Ne tür kitaplar okursun? Dedektif olduğun\niçin polisiye mi okursun?

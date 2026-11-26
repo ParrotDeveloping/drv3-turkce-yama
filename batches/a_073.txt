@@ -1,0 +1,62 @@
+@ ainori_text_US
+## a00_106_530
+10|İnsanlık güzeldir... Bu gerçeği bizzat\ndeneyimlemeni dilerim.
+11|Sen yanımdayken insanlığın güzelliğinden\ndaha da çok keyif alacağımı hissediyorum.
+12|Bu görüşe katılamam...
+13|Ülkeyi birlikte gezmeye dair sözümüzü\nunuttun mu?
+14|Bu sana ve sadece sana verdiğim bir\nsözdü... Biraz ihanete uğramış hissediyorum...
+## a00_106_700
+0|Kiyo, antropoloji, tarih ve arkeoloji\narasındaki fark ne?
+1|Kehehe... sık sık karıştırılırlar,\nyani sorun gayet makul.
+2|O soruya "Farklıdırlar" muhtemel\nbir cevap olabilir.
+3|Tarih kayıtlardır, arkeoloji yapılar ve kalıntılar,\nantropoloji ise folklor ve gelenekler.
+4|Tarih... ülkelerdeki ya da bölgelerdeki\nolayları ve değişimleri zaman içinde inceler.
+5|Arkeoloji insanlığın seyrini fiziksel\nkalıntılar üzerinden izler.
+6|Antropoloji gelenek ve göreneklerin\nardındaki düşünceyi inceleyen bir bilimdir.
+7|Ah...\nBiraz anlıyorum ama biraz da anlamıyorum.
+8|Antropolojinin merkezinde insanlığı\ndüşünürsen açık olmalı.
+9|İnsanlardan duygular doğar, o duygular\nkesişir ve geleneğe dönüşür.
+10|En azından bu konudaki duruşum bu.
+11|Duygular kesişir mi?
+12|Evet, gelenekler ve halk masalları sadece\ninsanların onları paylaşabildiği yerlerde oluşur.
+13|Kusura bakma, bu tür şeylere pek\naşina değilim...
+14|Öyle mi? Ama antropolojiyle her gün\nkarşılaşıyorsun.
+15|Örneğin internetteki okült hikâyelerin\nkökleri folklora dayanır.
+16|Mesela yolculuktaki birinin bir dağ\nköyünde bir tabuyu çiğnemesi.
+17|Bu doğru,\nbunu sık duyuyorum.
+18|Çeşitli mitolojilere anime, manga ve\noyunlarda sık sık atıfta bulunulur.
+19|Bir karakterin geçmişi antropolojik\nbir mercekle incelenebilir.
+20|Arka plandaki aletler ve evler...\nMeslekler, konuşma, kıyafet ya da yemek...
+21|Doğru bilgiyle bu tür şeyler bir eseri\ndaha derinden anlamana yardım edebilir...
+22|Bu bilgi olmadan o ipuçları boşa gider.
+23|Bu büyüleyici...\nBu bilgi çok faydalı olurdu.
+24|Kehehe, görünüşe göre merakını uyandırdım.\nDaha çok konuşalım.
+25|Başında tabak olan bir canavar
+26|Maymuna benzeyen tüylü bir canavar
+27|Havalı bir ağabey
+29|Pekâlâ... "kappa" kelimesi aklına\nhangi imgeyi getiriyor, Shuichi?
+30|Başında tabak olan bir canavar.
+31|Kehehe...\nBöyle diyeceğini düşünmüştüm.
+32|Maymuna benzeyen tüylü bir canavar.
+33|Bu biraz şaşırtıcı bir cevap\n... ama tamamen beklenmedik değil.
+34|Havalı bir ağabey.
+36|Ne—... Ha?\nNeden öyle diyorsun?
+37|Ah, bir video oyunundan...
+38|Ah, anlıyorum... Sadece yeni bir trend.\nGörünüşe göre çalışmalarımda başarısız olmuşum.
+39|Başında tabak olan canavar muhtemelen\nen meşhur olanı.
+40|Kehehe...\nTam olarak doğru, ama yine de...
+41|Kappa hakkındaki zihinsel imgelerimizin\nörtüşmesi antropolojik olarak imkânsız.
+42|İmkânsız mı?
+43|Aslında canavarların bir şekli yoktu, çünkü\ninsanların duygularına dayanıyorlardı.
+44|O kappa imgesi pek çok farklı insanın\ndüşüncelerinin bir birleşimi.
+45|Kadim bir korku uzun yıllar boyunca\ntanımlayabileceğimiz bir yaratığa dönüştü.
+46|Kültür sürekli değişir.\nAntropoloji bu değişimlerin peşinden koşar.
+47|Bu yüzden geçmiş gelenekleri öğrenirken\nşimdiyi de aklımda tutmalıyım.
+48|Eee?\nBeklenmedik derecede derin, değil mi?
+49|Evet...\nÇok derin.
+51|<CLT=cltMIND>Antropoloji hakkında her şeyi öğrendim\nve sonra odama döndüm.
+## a00_106_701
+0|Buraya geldiğine göre antropoloji hakkında\ndaha çok şey öğrenmek istiyorsun, değil mi?
+1|Evet, senin için sakıncası yoksa daha\nçok şey öğrenmek isterim.
+2|Tabii ki. Duymak istediğin sürece\nbundan bahsedeceğim.
+3|Belki tartışmamız için bir yere\noturmalıyız.

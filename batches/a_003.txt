@@ -1,0 +1,57 @@
+@ ainori_text_US
+## a00_001_007
+140|Nyah-hahahaha!
+141|Bugünün çocukları... Başarısızlık garantiymiş\ngibi hep gelecek için endişeleniyorlar.
+142|Risk alın, ortalığı dağıtın, hata yapın!\nBaşarısızlık olunca dert edersiniz.
+143|Bir realite flört şovu...\nKulağa çok heyecanlı geliyor!
+144|Kuma Baba toplumun trendlerini\nyakından takip ediyor!
+145|Babalık tam bir kapitalist! Kâr için\nyürütmeyeceği fikir yok!
+147|Ah, bu arada, burada sadece iyi vakit\ngeçirmeniz gerektiğini söyledim biliyorum...
+148|Ama canınız ne isterse onu yaparsanız\nromantik kıvılcımlar çakmaz.
+149|On altınız da öylece dolanırsa seyirciler\nkimi izleyeceğini bilemez.
+150|Hey, sen neden bahsediyorsun be!?
+151|Bize âşık olmamızı falan mı söylüyorsun?\nNe yapmamızı istiyorsun!?
+152|Sakin ol, açıklamak üzereyim.
+153|Başka bir öğrenciyle "vakit geçirmek"\nistediğinizde...
+154|Ya da başka bir deyişle "randevuya çıkmak"\nistediğinizde lütfen bir Randevu Bileti verin.
+155|O ne? Bu biletlerden birini nasıl\nedinebiliriz?
+156|Bu biletlerin bedava olduğunu hiç söylemedim, değil mi?
+157|Bir şeyi istemek ona değer katar—yani\nonlar için para ödemeniz lazım.
+158|Kampüste para kazanabileceğiniz bir yer\nzaten gördünüz, değil mi?
+159|...Para kazanmak mı?
+160|Biliyorum, biliyorum!\nEminim kumarhaneden bahsediyordur!
+161|...SPOİLER-UYARISI.
+162|...Hoppala!
+163|Eyvah... Monophanie Babalıktan\nceza yiyecek—
+164|Demokraside suç herkesindir!
+165|Hıııııh! Çok kötü hissediyorum!\nHepsi benim suçum!
+166|Hayır, demokrasinin suçu!
+167|Pekâlâ, ne tür ateşli maceralara\natılacağınızı görmek için sabırsızlanıyorum!
+169|Kah-hahahahahaha!
+171|<CLT=cltMIND>O manyakça kahkaha kulaklarımda çınlarken\nşaşkınlıkla öylece kaldım.<CLT=cltMIND>
+172|<CLT=cltMIND>Buradaki her şey\nmanyakça ve çarpık...
+173|<CLT=cltMIND>Dev bir duvarla\nçevrili bir okul...
+174|<CLT=cltMIND>Hapsedilmiş on altı <CLT=cltSTRONG>Ultimate<CLT=cltMIND>...
+175|<CLT=cltMIND>Tepeden tırnağa silahlı bu\ntuhaf peluş hayvanlar...
+176|<CLT=cltMIND>Ve bütün bunların üstüne...\nbir tür realite flört şovu...
+177|<CLT=cltMIND>Bir an bile soluklanmadan bu çarpık\nhikâyenin oyuncu kadrosu olduk.
+## a00_050_101
+0|<CLT=cltMIND>Pekâlâ, bugünü nasıl\ngeçireyim?
+1|<CLT=cltMIND>Hâlâ biraz vaktim var.\nNe yapsam?
+2|<CLT=cltSYSTEM>Kumarhane için 100 jetonluk\nharçlık aldın.
+4|<CLT=cltMIND>Aklım hâlâ karmakarışıkken olanları\nanlamak için umutsuzca uğraştım.
+5|<CLT=cltMIND>...Dün bir rüya değildi.
+6|<CLT=cltMIND>Gerçek. Hepsi korkunç derecede gerçek.
+10|<CLT=cltMIND>Bunu dert etmenin anlamı yok.
+11|<CLT=cltMIND>Aklımı ondan uzaklaştırmalıyım.\nSadece yapabileceğime odaklanmalıyım...
+12|<CLT=cltMIND>Kararımı verip kendimi yataktan\nkalkmaya zorladım.
+17|Pekâlâ, Shuichi!\nTakılalım!
+18|Eh, benimle vakit geçirmekten başka\npek seçeneğin yok, değil mi?
+19|Şu an boş musun, dostum?
+20|Seninle konuşmayı gerçekten çok istiyorum.
+21|Meşgulsen sorun değil...
+22|Önemli değil...\nYani, oluyor böyle şeyler.
+25|Evet! Yardımcımın benden başkasıyla\ntakılması mümkün değil!
+27|Selam. Bugün benimle vakit geçirmeye\nne dersin?
+28|Neden bilmiyorum ama...\nSeninleyken içim rahat ediyor.
+29|Biraz vaktin var mı?

@@ -1,0 +1,77 @@
+@ ainori_text_US
+## a00_101_310
+12|Şikâyet etmeye başlamadan önce biraz\ndaha etrafına bak.
+## a00_101_320
+2|Ders çalışalım
+3|Uykum geliyor...
+4|Burası amma tozlu
+5|Evet! Astronot olmak için sıkı\nçalışmalısın!
+6|Dil çalışarak başlayalım!
+7|Ve ona ihtiyacın olmadığını söylediğini\nduymayayım.
+8|Bu dünyada gereksiz hiçbir şey\nyoktur!
+9|Evet, burası epey sessiz.
+10|Ama kütüphanenin sessizliği evrenle\nkıyaslanamaz, bilirsin?
+11|Ne de olsa evren koca bir sessiz\nodadan ibaret.
+12|Oraya çıksaydın muhtemelen hep\nuykulu olurdun.
+13|Evet ama şikâyet etmek yerine onun\nhakkında bir şey yapmalısın.
+14|Yardımcım olacaksan en azından\nbunu bilmelisin.
+## a00_101_330
+2|Gezegenlerin fotoğraflarına\nbakalım
+3|Çok yüksek sesle çığlık atmak istiyorum!
+4|Kitaplardan bir kule yapalım
+5|Gezegenlerin fotoğrafları, ha?
+6|Gerçekten orada olup onları gördüğümü\ndüşününce... tüylerim diken diken oluyor!
+7|Bekleyin, gezegenler!
+8|Ben, Yıldızların Işığı Kaito Momota,\nsizi kendi gözlerimle göreceğim!
+9|Ha? Bu hiç sana göre değil, Shuichi.
+10|Böyle kaba olacak tipte\nbiri değilsin.
+11|Kendini zorlamana gerek\nyok, bilirsin?
+12|Kulağa iyi geliyor. Hazır başlamışken\nburayı biraz toparlayabiliriz.
+13|Gökleri delecek bir kitap\nkulesi yapalım!
+## a00_101_410
+0|<CLT=cltMIND>Spor salonunda takılmaya karar\nverdik.
+2|Biraz kas antrenmanı yapalım
+3|Burayı yenileyelim
+4|Yoruldum...
+5|Pekâlâ!\n500 şınav çekelim!
+6|Durmadan devam edeceğiz,\no yüzden hazır ol!
+7|Ha? Çok mu fazla?
+8|500, yardımcım için çocuk oyuncağı olmalı!\nŞikâyet etme, sadece yap!
+10|Ne o, burayı daha rahat bir yer mi\nyapmak istiyorsun?
+11|Ya burayı sevmeye başlarsan?
+12|Birlikte çalışıp bu akademiden\nkaçmayacak mıydık?
+13|Ha? Daha hiçbir şey\nyapmadın ki.
+14|Böyle konuşmaya devam edersen yardımcım\nolsan bile kendimi tutmam!
+## a00_101_420
+2|Basketbol oynayalım
+3|Ah, belki kıyafetlerimizi çıkarmalıyız...?
+4|Biraz ısınalım
+5|Bana basketbolda meydan okuyacak\nkadar cesaretin var!
+6|Sana söylemedim mi?\nBasketbol becerilerim evren seviyesinde.
+7|Dünya çapındaki atletler sırf becerilerimi\nçalmak için çırağım olmaya çalışıyor.
+8|Ama... kaslarım kramp giriyor, o yüzden\nşu an pek basketbol oynayamam.
+10|Sen neden bahsediyorsun!?\nO şeyleri kızlara sakla!
+11|Yoksa dur, açıldın da bana\nsöylemedin mi!?
+12|Evet, sakatlanıp astronot olmaktan\nvazgeçmek zorunda kalsam berbat olurdu.
+13|O zaman ısınma hareketleri üzerinde çalışalım.
+14|Ah, dur. Isınma hareketleri yaparken\nsakatlanmak mümkün mü?
+15|Öyleyse ısınmadan önce ısınma\nhareketleri yapsak iyi olur...
+## a00_101_430
+2|Zihnimizi... çalıştıralım...
+3|Ben hakem olacağım
+4|Burayı yakıp kül edelim
+5|Evet! Egzersizle alakası yok ama\nzihnin önemli!
+6|Hedeflerini gözünde canlandıramazsan\nonlara asla ulaşamazsın.
+7|Yardımcımdan da bu beklenirdi!\nNeyin önemli olduğunu anlıyorsun!
+8|Ha? Hakem sen olursan tek başıma\nmı egzersiz yapacağım?
+9|Haha! Demek yardımcı kahramanın tam\npotansiyelini görmek istiyor?
+10|O zaman neden söylemedin!?\nSana elimdeki her şeyi göstereceğim!
+11|Ne? Hey, hadi ama, bu sen değilsin, dostum.
+12|Ne oldu? Bir sorun varsa tek yapman\ngereken benimle konuşmak.
+13|Benimle konuşmayacağın bir şeyse\nyapabileceğim bir şey yok...
+## a00_101_510
+0|<CLT=cltMIND>Avluda takılmaya karar\nverdik.
+2|Biraz temiz hava alalım
+3|Koşuya çıkalım
+4|İçeri dönelim
+5|Evet, içerideki bayat havadan yüz\nkat daha iyi.

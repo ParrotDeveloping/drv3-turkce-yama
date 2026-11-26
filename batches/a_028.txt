@@ -1,0 +1,72 @@
+@ ainori_text_US
+## a00_101_510
+6|Erkek dediğin geniş açık bir alanda\nolmalı, bilirsin?
+7|Çok uzun süre içeride kalmak seni dar\nkafalı biri yapar.
+8|Bu yüzden evrene gidip evren kafalı\nbiri olacağım!
+9|Evet, iyi fikir!
+10|Buraya geldiğimizden beri günlük\nantrenmanımı yapamadım.
+11|Geçmişimizi kovalıyormuş gibi koşalım!\nDedektiflerin de dayanıklılığa ihtiyacı var, değil mi?
+12|Ha? Hemen geri dönecektiysen burayı\nneden seçtin?
+13|Böyle sürekli fikir değiştirmek\nerkekçe değil!
+## a00_101_520
+2|Güneşin altında rahatlayalım
+3|Dans edelim!
+4|Ne harika bir manzara...
+5|Güneşlenebilmeyeli epey\nolmuştu.
+6|Çocukluğumdan beri güneşlenirken\nevreni düşünürdüm...
+7|Ama bu aralar antrenmanla o kadar meşguldüm ki\nrahatlamaya vaktim olmadı.
+8|Senin sayende bazen rahatlamanın ne\nkadar önemli olduğunu hatırladım!
+9|Ha? Seninle dans mı? Neden?
+10|İstemediğimden değil ama...
+11|Neyse, boş ver!
+12|Sen öneriyorsan eminim iyi bir\nsebebin vardır!
+13|Gerçekten mi? Bence değil.
+14|Yani ben evrene uçacak olan\nadamım.
+15|Böyle bir manzarayla yetinemem.\nDaha büyük ve daha iyi şeyler görmeliyim.
+## a00_101_530
+2|Burada olmaya alıştım...
+3|Bir an önce dışarı çıkmak istiyorum...
+4|Sonsuza dek burada kalmak o kadar da kötü olmazdı
+5|Evet, ben de. Ama bu kaçmak istediğim\ngerçeğini değiştirmiyor!
+6|Hayat kısa! Burada aylaklık ederek\nharcayacak vaktim yok.
+7|Rehavete kapılma!
+8|Böyle bir yerden keyif almaya başlarsan\nyeni ufuklar asla bulamazsın!
+9|Eh, bu apaçık...\nAklından asıl geçen ne, dostum?
+10|Endişelendiğin bir şey varsa\nbenimle konuş.
+11|Senin derdin benim derdim!\nBenim derdim senin derdin!
+12|Senin dertlerini hafifletebilirsem\nbenimkiler de hafifler!
+13|Ha!? Sen neden bahsediyorsun\nbe!?
+14|Sonsuza dek burada kalmamız mümkün değil!
+15|Yardımcım olsan bile bunu söylediğin\niçin seni affetmem!
+## a00_101_700
+0|Bana söyleyecek bir şeyin mi var?\nÇekinme! Dinleyeceğim!
+1|<CLT=cltMIND>Bu konuda epey heveslisin...
+2|Ah, şey, sen astronot adayısın,\ndeğil mi Kaito?
+3|Aynen öyle! Hâlâ adayım ama\nkesinlikle kabul edileceğim!
+4|Astronot olmak için eğitim almak zor\nolmalı... Kaldırabilir misin?
+5|Sorun değil!\nEğitimim çocuk oyuncağı!
+6|<CLT=cltMIND>Kaito bana sırıtıyordu ama sonra\nifadesi ciddileşti.
+7|Eh, açıkçası olabileceği kadar\nyoğun.
+8|Ama evren acımasız. Her duruma\nkatlanabilmen gerekir.
+9|<CLT=cltMIND>Her duruma...
+10|İlk iki yıl temel eğitim...
+11|Epey basit. Astronot olmak için gereken\nbecerileri öğreniyorsun!
+12|Tıp, havacılık mühendisliği, tüplü dalış,\ndilbilim, hayatta kalma eğitimi...
+13|Kısacası her şeyde ustalaşman\ngerekiyor.
+14|Hayatta kalma eğitimi mi?\nOnu da mı yapmak zorundasın?
+15|Evet, uzaydan beklenmedik bir dönüş\nyapmam gereken acil durumlar için.
+16|<CLT=cltMIND>Doğru, sanırım astronot olmak için\nhayatını tehlikeye atıyorsun.
+17|Ah, aklıma geldi, haberlerde bir şey\nizlediğimi hatırlıyorum...
+18|Okyanusun dibinde astronotlar için bir\neğitim tesisi var, değil mi?
+19|Doğru! Epey meşhurdur! Gerçi temel\neğitimden biraz farklı.
+20|Pekâlâ! Ani sınav! Bir astronotun\nihtiyaç duyduğu en önemli şey ne?
+21|Azim mi?
+22|Sağlıklı bir beden mi?
+23|Yetenek mi?
+25|Ha? Ah, şey...
+26|Azim mi?
+27|Tabii, o gerekli. Ama ondan daha\nönemli bir şey var.
+28|Deniz tabanındaki tesis insanların\ntam da bu şeyi çalışması için var!
+29|Ve o şey...
+30|Sağlıklı bir beden mi?
+31|Evet, bu doğru...\nİyi bir noktaya değindin.

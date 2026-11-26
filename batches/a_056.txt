@@ -1,0 +1,69 @@
+@ ainori_text_US
+## a00_104_701
+45|Gonta şimdi düşünüyor, muhtemelen onlarla\narkadaş olabilirdi.
+46|Savaştan doğan bir arkadaşlık...\nSanırım bu olabilir.
+48|Shuichi, Gonta'nın hikâyesini güzel dinledin.
+49|Tabii ki dinlerim, Gonta.\nAnlattığına sevindim.
+50|Herkes Gonta'yla dalga geçiyor.\nGonta'ya yalancı diyor.
+51|<CLT=cltMIND>Şüpheli bir hikâye... ama Gonta iyi biri.\nKötü niyetli değildi.
+52|Bunu yapmakla yanıldılar, Gonta.\nSırf insanları kandırmak için yalan söylemeyeceğini biliyorum.
+53|Ş-Shuichi!
+54|Shuichi iyi insan!\nGonta sana daha çok hikâye anlatmak istiyor!
+56|<CLT=cltMIND>Gonta'nın orman hikâyelerini dinledikten\nsonra odama döndüm.
+## a00_104_702
+0|Gonta'yı yine davet ettiğin için teşekkürler, Shuichi!
+1|Ah, hayır, bana teşekkür etmene\ngerek yok, Gonta...
+2|Ama centilmen minnettarlığını her zaman\nsözle gösterir.
+3|Centilmen, ha?\nBu konuda çok titizsin, Gonta.
+4|Evet! Gonta büyük bir centilmen olmak\nistiyor!
+5|Ama... Gonta gerçek centilmen olmadan önce\ndaha çok yol var...
+6|<CLT=cltMIND>Hm... daha fazla bilgi olmadan\npek tavsiye veremem...
+7|Sence bir "centilmen" nedir,\nGonta?
+8|Centilmen mükemmel adam!\nHatta en iyi adam!
+9|<CLT=cltMIND>...Sanırım Gonta'dan böyle bir\ncevap beklemeliydim...
+10|Ah, şey...\nSence bir "centilmen" ne yapar?
+11|Centilmen centilmen gibi davranır!\nNazik, ciddi, zarif, kibar...
+12|Ah, ve centilmen hanımefendiye hep saygıyla\ndavranır. Bu çok önemli.
+13|<CLT=cltMIND>Pekâlâ, bu bir centilmenden\nbekleyeceğim şeye daha yakın.
+14|Ve sürekli çay içer!\nVe zekice espriler yapar!
+16|Ve genç yardımcısıyla gizemleri çözer!
+17|Gizemleri... çözer mi?
+18|Gonta centilmenlerin taş maskeyi bulmak için\nmaceralara atıldığını duydu.
+19|Ve şık smokinler giyer!\nVe hanımefendileri tehlikeden kurtarır!
+20|Ama... Gonta akıllı değil. Gonta söyleyecek\nhavalı bir söz düşünebilir mi emin değil...
+21|Ah! Bazı centilmenler birbirleriyle kaslarıyla\nkonuşur! Gonta için mükemmel!
+23|O insanların hiçbiri centilmen değil...
+24|Nereden başlasam ki?
+25|Başkalarını taklit etmek centilmence görünmüyor
+27|Sen ne düşünüyorsun, Shuichi?\nGonta'ya en çok hangi centilmen yakışır?
+28|O insanların hiçbiri centilmen değil...
+29|Ha!? İmkânsız!\nGonta çok centilmen araştırması yaptı!
+30|Belki araştırman biraz yanlış yöne gitti...\nO insanların hepsi kurgusal, görüyor musun.
+31|Kurgusal mı?
+32|Ah, yani uydurma.\nBir masaldaki karakter gibi.
+33|<CLT=cltMIND>Nereden başlasam ki?
+34|Shuichi? Ne oldu?\nGonta seni rahatsız mı ediyor!?
+35|H-Hayır, öyle bir şey değil!
+36|Sadece... anlattığın "centilmenler" bana\ngerçek centilmen gibi gelmiyor.
+37|Başkalarını taklit etmek centilmence görünmüyor.
+38|Ha!? Gerçekten mi?
+39|Centilmeni neyin oluşturduğunu daha dikkatli\ndüşünmelisin, Gonta.
+40|Bahsettiğin insanlar kurgusal hikâyelerdeki\nkarakterler.
+41|Anlıyorum... Gonta bilmiyordu...
+42|Centilmenler hakkında çok şey biliyorsun, Shuichi...
+43|Ne? Ah, pek sayılmaz...
+44|Evet, biliyorsun!
+45|Belki Gonta'ya centilmen olmayı öğretirsin!
+48|<CLT=cltMIND>Kaygımla mücadele ederek\nodama döndüm.
+## a00_104_703
+0|Shuichi! Gonta'ya centilmen olmayı öğret!
+1|S-Sana söyledim, bu konuda hiçbir\nşey bilmem...
+2|<CLT=cltMIND>Bu sorgulama bir süredir\ndevam ediyor.
+3|<CLT=cltMIND>Görünüşe göre Gonta yanlışlıkla benim\n"centilmenler" hakkında çok şey bildiğime inanıyor.
+4|<CLT=cltMIND>Biraz sürdü ama sanırım sonunda\nGonta'ya anlatabildim...
+5|Ah... Shuichi bile Gonta'ya öğretemez...
+7|<CLT=cltMIND>Kendimi berbat hissediyorum...\nOnun böyle üzgün kalmasına izin veremem.
+8|Hey, Gonta?\nNeden centilmen olmaya bu kadar odaklandın?
+9|...Orman ailesi için.
+10|Ormandaki zaman Gonta'ya insan\nusullerini unutturdu.
+11|İnsanlar Gonta için endişelenmeye başladı.\nGonta'nın sosyalleşmeyi bilmediğini söyledi.

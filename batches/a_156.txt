@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_115_701
+25|Biraz daha bük.\nElinde bir yumurta varmış gibi düşün.
+26|Ellerine dokunacağım, tamam mı?\nDoğru duruşla nasıl çalınacağını öğrenmen için.
+28|<CLT=cltMIND>O kadar yakın ki... Bana dokunuyor...\nYumuşak... Sıcak...
+29|<CLT=cltMIND>Ne düşünüyorum ben!?\nUmarım fark etmemiştir...
+30|Tamam, aynen böyle.\nTuşlara sadece parmak uçlarının değdiğinden emin ol.
+31|Ö-Özür dilerim! Bu sefer doğru yapacağım!
+32|Ah, biraz... fazla yakın değil misin?
+33|Sadece gerçekten zor...
+35|Hm, Shuichi?\nPek odaklanmış görünmüyorsun.
+36|Ö-Özür dilerim! Bu sefer doğru yapacağım!
+37|Şey, artık epey heveslisin.\nBu kadar ilgilendiğini görmek beni mutlu ediyor.
+38|<CLT=cltMIND>Güzel... beni tuhaf\nbulmuyor.
+39|Hehe, birden çok rahatlamış görünüyorsun.\nSeni azarlayacak değilim ya.
+41|Ah, biraz... fazla yakın değil misin?
+42|Öyle mi? Ama sana yakın olmazsam\nsana yol gösteremem.
+43|E-Eller sorun değil... Ama, ah...\nYüzün... ve diğer şeyler...
+44|Aman tanrım!\nSana gerçekten çok yakınım! Ö-Özür dilerim!
+45|Hahaha...\nO kadar odaklanmıştım ki...
+46|İnsanlar bu yüzden bana Piyano Delisi diyor...
+47|Sadece gerçekten zor...
+48|Gerçekten mi?\nBen bunu hemen yapabilmiştim.
+49|Başkasına ders vermek çok zor.\nBelki de ben berbat bir öğretmenimdir...
+50|Ama bu iyi bir deneyim olacak.\nSenden öğreniyorum, Shuichi.
+52|<CLT=cltMIND>Kaede bana temelleri öğreterek\nbiraz vakit geçirdi.
+53|<CLT=cltMIND>Kaede başından sonuna kadar bana o kadar\nyakındı ki odaklanmakta zorlandım...
+54|<CLT=cltMIND>Ama artık ona neden Piyano Delisi\ndediklerini biliyorum.
+55|Evet! Epey iyisin, Shuichi!\nSanırım artık basit bir şarkı çalabilirsin!
+56|Öyle mi düşünüyorsun? Hayır, o kadar iyi değilim...\nsen harika bir öğretmensin, Kaede!
+57|Şey, yüce Kaede Akamatsu yapabileceğini\nsöylüyor, o yüzden kendine daha çok güven!
+58|...Yüce kısmı şakaydı.
+59|Haha, evet, teşekkürler.\nArtık kendime biraz daha güveniyorum.
+60|Piyanoda tuşlara bastığın sürece\nmüzik çalar.
+61|Kendi kendine öğrenip çok yol kat\neden bir sürü insan var.
+62|O yüzden sen de iyi olacaksın, Shuichi!\nNe de olsa sana her şeyi öğretmek için buradayım.
+63|<CLT=cltMIND>Burada olacak...
+65|<CLT=cltMIND>Kaede'yle ikimiz tatmin olana kadar\nçaldım, sonra odama döndüm.
+## a00_115_702
+0|Düet pratiğine gerçekten geldin!
+2|O zaman başlayalım!
+3|Of... Bugünlük burada bitirelim.
+4|Çok daha iyiye gidiyormuşum gibi hissediyorum!
+5|Kesinlikle! Dürüst olmak gerekirse bence\npiyano çalma yeteneğin var, Shuichi.
+6|Daha çok pratik yaparsan yeni <CLT=cltSTRONG>Ultimate\nPiyanist<CLT=cltNORMAL> olabilirsin!
+7|Ah, *o* kadarını bilemem...\nHem bu sadece pratik.
+8|Haklısın...\nPratik yapmak iyi ama...
+9|Birlikte buradan çıkmaya\nodaklanmalıyız.
+10|Bir an önce kaçmak istiyorum ki diğer\nöğrencileri tanıyabileyim.
+12|...Hey, Kaede.
+13|Hm? Ne oldu?
+14|Bu... tuhaf gelebilir ama...
+15|Ne oldu?\nBana söyleyebilirsin.
+16|Şey, ama cevaplaması zor bir şeyse\nsorun olabilir.
+17|Nasıl bu kadar iyimser olabiliyorsun?
+19|Hep iş birliğinden, birlikte çalışmaktan\nve pes etmemekten bahsediyorsun...
+20|Böyle konuştuğun her seferde\nhayran kalıyorum.
+21|Şey, hayır, sanırım böyle *konuşmak*\nkolay...
+22|Ama içten içe gerçekten böyle\nhissettiğini biliyorum.
+23|Sanırım sadece o duyguların nereden\ngeldiğini soruyorum.
+25|<CLT=cltMIND>Kaede... sıkıntılı görünüyor.
+26|Özür dilerim, sanırım tuhaf oldu.
+27|Ah, hiç de değil! Kızgın ya da sıkıntılı\nfalan değilim!
+28|Sadece sana nasıl açıklayabileceğimi\ndüşünüyordum.
+29|Çünkü duygularım gerçek deneyimden\ngeliyor.
+30|Gerçek deneyim mi? Daha önce böyle\nbir durumda mı bulundun!?

@@ -1,0 +1,65 @@
+@ ainori_text_US
+## a00_100_012
+15|Sıradan benim böyle gösterişli bir rolde\nolacağımı hiç düşünmemiştim.
+16|Mükemmel... tıpkı bir flört oyunundaki\nabi rotası gibi.
+17|Ya da senin için daha çok kız kardeş\nrotası, değil mi Tatlıchi?
+18|<CLT=cltMIND>Anlıyorum... demek olan bu.\nTsumugi'ye yakışıyor ama biraz... ağır.
+19|Ama senden sadece abim olduğun için\nhoşlanmıyorum, Tatlıchi...
+20|Tesadüfen kardeşin olan birine\nâşık olmak...
+21|Popüler bir klişe ama bunu kendimin\nyaşayacağını düşünmek...
+22|Tsumugi...
+23|Ooo, bana öyle deme, Tatlıchi...
+24|Sevgiliysek birbirimize lakaplarla\nhitap etmeliyiz, değil mi?
+25|Ah... özür dilerim.
+26|Hayır, ben özür dilerim...
+27|Bugün kendimde değilim. Karamsar olduğum\ndüpedüz belli. Bana ne oldu böyle?
+28|Böyle zamanlarda beni neşelendirmene\nihtiyacım var, Tatlıchi...
+29|Seni neşelendirmek... nasıl?
+30|Ha? Bana sorma! Bu tür şeylerde yeterince\ndeneyimim yok!
+31|Şeyy... peki ya sen... elini\nyanağıma koysan?
+32|Ah, tamam... bunu yapabilirim...
+33|<CLT=cltMIND>Söylendiği gibi Tsumugi'nin yanağını\navucuma aldım.
+34|<CLT=cltMIND>Tsumugi iç çekti ve elini\nbenimkinin üstüne koydu...
+35|<CLT=cltMIND>Ah... Ah!\nBu çok utanç verici!
+36|Aaah...
+37|<CLT=cltMIND>Tsumugi derin bir nefes verdi ve gözlüklerinin\narkasından beni dikkatle izledi.
+38|<CLT=cltMIND>O kadar baştan çıkarıcı bir bakıştı ki...\nNefes almayı neredeyse unuttum.
+39|Ellerin... şaşırtıcı derecede büyük,\nTatlıchi.
+40|Ah, ö-öyle mi düşünüyorsun...?
+41|Hmm? Ne oldu? Utandığın düpedüz\nbelli.
+42|Sadece, böyle şeyler söyleyince...\nsanki gerçek sevgililermişiz gibi hissettiriyor.
+43|Gerçek sevgili olduğumuzu düşünmüyor musun?
+44|<CLT=cltMIND>Tsumugi'nin yüz ifadesi derin bir\nküçümsemeye dönüştü.
+45|Yani... beni kız kardeşinden fazlası\nolarak göremiyor musun?
+46|Sevgilisiymiş gibi davranarak sadece aptal\nküçük kız kardeşinin gönlünü mü yapıyorsun?
+47|H-Hayır, öyle değil...
+49|<CLT=cltMIND>Tsumugi'nin ifadesi anlaşılmazdı.\nElimi yanağından çekti, sonra...
+50|V-V-Vay!
+51|Mmm...
+52|<CLT=cltMIND>parmağımı ağzına sokup\nemmeye başladı!
+53|N-N-Ne yapıyorsun!?
+54|<CLT=cltMIND>Soğukkanlılığımı tamamen kaybettim\nve parmağımı ağzından çektim.
+55|<CLT=cltMIND>Kaybolan sıcaklığı, kuruyup soğuyan\ntükürüğü düşünmemeye çalıştım...
+56|Haha... Bu... biraz fazla mı cüretkârdı?
+57|Ama o kadar ileri gitmeseydim\nfark etmezdin...
+58|Neyi... fark etmezdim?
+59|Beni... gerçek sevgilin yapmanı istiyorum.
+61|Seninle bir olmak istiyorum...\nHer şeyi birlikte hissetmemizi istiyorum...
+62|<CLT=cltMIND>Yanlış anlaşılması imkânsız bir şekilde\nbana kirpiklerini kırptı.
+63|<CLT=cltMIND>Gözleri, dudakları, bedeni...\nOnu almam için yalvarıyordu.
+64|Ben... senden hoşlanıyorum, Tatlıchi.
+65|Bu duyguları sırf kardeşiz diye\ngörmezden gelirsem...
+66|Hayatımın geri kalanında pişman olurum...\nSenden... bu kadar hoşlanıyorum.
+67|<CLT=cltMIND>Dudaklarında bir gülümsemeyle\nağır ağır bana doğru yürüdü.
+68|<CLT=cltMIND>Her heceyi içime işletircesine\nyavaşça konuştu.
+69|Seni seviyorum, Tatlıchi...
+70|<CLT=cltMIND>Sesi beynimi sarıp okşuyormuş\ngibi hissettim.
+71|<CLT=cltMIND>Elimde değildi...\nBeni ele geçirmişti.
+## a00_100_013
+3|<CLT=cltMIND>Kafası hep Atua'yla dolu olan Angie'nin\nhayali ne acaba...
+4|Hey, hey Shuichi! Sıkıldım!\nSıkıldım, sıkıldım, sıkıldım, sıkıldım, sıkıldım!
+5|Rütbem senden yüksek, yani sıkıntım için\nbir şey yapmazsan seni cezalandırmam lazım.
+6|Ah, rütben benden yüksek mi?
+7|Doğru! Senden büyük ve bilge olduğum\niçin kıdemliyim.
+8|Hmmm, neden anlamamış numarası yapıyorsun?\nBu oynadığımız yeni bir oyun mu?
+10|<CLT=cltMIND>Aynı yaştayız...\nama Angie'nin hayalinde kıdemli olan o mu?

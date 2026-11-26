@@ -1,0 +1,57 @@
+@ ainori_text_US
+## a00_100_002
+11|Seni görmek için bir sebebe mi ihtiyacım var?\nBirbirimizi görmek... tehlikeli değil ya.
+12|Eh, muhtemelen artık değil. Bulaştığım\nmafya çoktan yok oldu.
+13|Ama artık bir geleceğim yok.\nBenimle olmaktan kazanacağın hiçbir şey yok.
+14|...Seni sadece bir şey kazanacağım için\ngörmüyorum, Ryoma.
+15|Hıh... Menajerler oyuncularını\ndinlemeli, bilirsin?
+16|Seni görmek istemediğimi söylüyorum.\nPeşimden gelme. Sinir bozucu...
+17|B-Bunu bana nasıl\nsöylersin!?
+18|<CLT=cltMIND>Ryoma neden bu kadar inatçı?\nBenim onun ideali olmam gerekiyor...
+19|<CLT=cltMIND>Ah... belki de aslında gitmemi\nistemiyordur...
+20|En azından beni neden artık görmek\nistemediğini söyle. Bir cevabı hak ediyorum.
+21|İşi zorlaştırmaya çalışmıyorum, sadece...\nsenden duymadıkça inanmayacağım.
+23|Ne oldu, Ryoma?
+24|Tüh... Seni itmeye çalışıyorum ama sen\nbana yapışıyorsun. Ne tuhaf adamsın...
+25|Şimdi bencil dileklerimden bahsedeceğim.\nMuhtemelen baş belası olduğumu düşüneceksin.
+26|Ve yine de etrafımda kalacaksın.\nSen öyle bir adamsın işte.
+27|Eee? Çekip gitmek için son şansın.\nDinlediğine pişman olacaksın.
+28|Sana bunu yapmam. Bu kadar yol geldikten\nsonra olmaz. O yüzden lütfen... söyle.
+29|O halde... dürüst olacağım.\nSen yaşadığın sürece ben iyi olurum.
+30|...Ne? Ne demek istiyorsun?
+31|Sen... güneşin altında yaşayan birisin.\nArtık ulaşamayacağım bir yerde...
+32|Senin gibi birinin aklının bir köşesinde\nbeni hatırlaması... bana yeter.
+33|O yüzden lütfen... artık benim için\nendişelenme.
+34|Uzaklara git...\nve mutlu yaşa.
+35|Bana bunu söylemen... yanında kalmayı\ndaha da çok istememe sebep oluyor.
+36|Hıh... Biliyordum. Böyle bir şey\nsöyleyeceğini biliyordum...
+37|Ama bütün bunlar sanki peşimden\ngelmeni istiyormuşum gibi gösteriyor.
+38|Tüh... Ne acınası.
+39|Ama sorun değil, Ryoma. Sadece dürüst ol...\nve bana ne istediğini söyle.
+40|<CLT=cltMIND>Bir dürtüyle Ryoma'nın elini\nelime aldım.
+41|<CLT=cltMIND>Sıkıca tutmazsam benden kaçacakmış\ngibi hissettim.
+42|Gelecekte ne olacağını bilmiyorum.\nAma şu an mutlu olduğumu biliyorum.
+43|<CLT=cltMIND>Ryoma'nın eli benimkini biraz\ndaha sıkı kavradı.
+44|<CLT=cltMIND>Benimkinden küçüktü ve yıllarca tenis oynamak\nonu sertleştirmişti. Ama güçlüydü.
+45|Benim de daha gideceğim çok yol var...\nSonunda seni de işin içine kattım.
+46|Sorun değil... Kaçmayacağım.\nRyoma... lütfen sen de kaçma.
+47|Hıh... Artık öyle ezik bir şey\nyapmam.
+48|Uzun zamandır bekleniyor olabilir ama\nen azından düzgünce söyleyeceğim.
+49|Shuichi... işler eskisi gibi olmayacak ama\nbana yine yardım eder misin?
+50|Evet, tabii ki... Yapabileceğim bir şey\nvarsa seve seve...
+51|Öyle mi...? O zaman kararından pişman\nolmaman için...
+52|Ben de senin için elimden geleni yapacağım.
+53|Pekâlâ. Buna güveniyorum.
+54|<CLT=cltMIND>Elimden geleni yapmıştım. Ryoma'nın\nelini güvenle ve sıcacık tuttum.
+## a00_100_003
+2|<CLT=cltMIND>Rantaro'nun ne tür hayalleri var?\nAçıkçası hiçbir fikrim yok...
+3|Hı-hı, mükemmel! Görünüşe göre bütün\nödevlerini bitirmişsin.
+4|Ah... ödevler mi?\nNe demek istiyorsun?
+5|Ne mi demek istiyorum? Matematik kitabı,\nShuichi. Hepsini bitirdin!
+6|<CLT=cltMIND>Matematik kitabı...
+7|<CLT=cltMIND>Acaba... özel öğretmenim mi? Normal bir\nöğretmen olmak için fazla rahat...
+8|Bu yüzden en sevdiğim öğrencimsin.\nAferin! İyi iş, Shuichi!
+9|<CLT=cltMIND>Beni övgüye boğarken gülümseyerek\nsaçlarımı hafifçe karıştırdı.
+10|<CLT=cltMIND>Bu Rantaro'nun rüyasının bir parçası...
+11|<CLT=cltMIND>Karakterden çıkamam, yoksa uyanıp\nkötü hissedecek...
+12|<CLT=cltMIND>Şimdilik...\nsanırım sadece onun öğrencisi olacağım.

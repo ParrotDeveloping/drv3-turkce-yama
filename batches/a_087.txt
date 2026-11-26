@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_107_704
+38|Çok teşekkürler!\nGerçekten minnettarım...
+39|Sana böyle bir minnettarlık duyacağımı düşünmek...\nNe şanslı bir yanlış hesap.
+40|Hiç de değil, Keebo. Sana sadece benim\nyardım edebileceğimi söyleyen sendin.
+41|Ah, bu benim açımdan mantıklı bir karardı.\nÇünkü...
+42|Zayıflıklarını bir eşite göstermek tehlikelidir\nama senden aşağıda olan birine değil.
+44|<CLT=cltMIND>Demek bu yüzden benimle hep tepeden\nbakarak konuşuyordu!
+45|Ama artık ilişkimiz farklı.\nSenin ve benim eşit olduğumuzu hissediyorum...
+46|Hayır, özel ilişkimiz yüzünden eşit\nolduğumuza karar verdim.
+47|Ah, evet. Bu muhtemelen sezgi.
+48|Sezgi mi?
+49|Şimdiye kadarki etkileşimlerimize dayanarak...\niçinde bir şey hissettiğime inanıyorum.
+50|Bu yargı mantığa değil, daha çok insan\nsezgisine benzer bir şeye dayanıyor.
+51|O sezgi bana seninle bir arkadaşlık\nkurabileceğimi söylüyor, Shuichi.
+52|<CLT=cltMIND>Bir arkadaşlık, ha...? Evet, sanırım bu\neşit ama özel bir ilişki.
+53|Lütfen bana göz kulak ol, Shuichi.
+54|Sen de bana, Keebo.
+55|<CLT=cltMIND>Bir insan ve bir robot olarak\ntokalaştık.
+56|<CLT=cltMIND>Ama önemli olan o değil.\nBurada gerçek bir bağ var.
+57|<CLT=cltMIND>Benimle Keebo arasında gerçek\nbir bağ!
+59|<CLT=cltSYSTEM>Yeni bir beceri öğrendin: <CLT=cltSTRONG>Dijital Aşk<CLT=cltSYSTEM>.
+60|<CLT=cltMIND>Günün geri kalanını robot işletmesi\nihtimallerini konuşarak geçirdik...
+## a00_107_902
+0|Bugün çok keyif aldım!
+1|Yurda dönmemiz gerektiği için neredeyse\npişmanım...
+2|Benimle yine vakit geçirir misin?
+3|Seninleyken göğüs plakam ısınıyor...\nVe huzurla doluyorum...
+4|T-Tamam, yurda dönelim...
+5|Bugün için çok teşekkürler.
+6|Birlikte geçirdiğimiz zamanı takdir ediyorum.
+7|İstersen umarım beni yine davet edersin!
+8|Seninle vakit geçirmek benim için çok\nuyarıcı!
+9|Tamam, yurda dönelim.
+10|...Pek iyi hissetmiyor gibiyim.
+11|Miu'dan bakım istemem gerekecek...
+12|Özür dilerim, önden döneceğim.
+13|...Birlikte vaktimizi boşa harcamışız\ngibi mi geliyor?
+14|Profesör Idabashi arkadaş seçerken seçici\nolmam gerektiğini söylemişti...
+15|...Ben önden döneyim.
+## a00_107_914
+0|...Bence bu farklı, Keebo.
+2|Daha önce profesörü nasıl incittiğinden\nbahsediyordun, değil mi?
+3|Bence bu senin de profesörün ne\nhissettiğini anladığın anlamına geliyor.
+4|N-Nasıl bu kadar emin olabiliyorsun...?
+5|Ondan hep çok sevgiyle bahsediyorsun.
+6|Muhtemelen hep onu düşündüğün için...\nOnu çok seviyorsun.
+7|Profesörü senden daha iyi tanıyan\nbaşka kimse olduğunu sanmıyorum, Keebo.
+9|Senden nefret etmiyor.\nBunu herkesten iyi bilmelisin.
+10|Etseydi seninle ilgilenip seni büyütmek\niçin bu kadar zaman harcamazdı.
+12|T-Teşekkürler! Gözyaşı dökme işlevim\nyüklü olsaydı—!
+14|Doğru, kesin olarak sadece profesörün\nkendisi bilebilir.
+15|Bu kadar endişeleniyorsan bence\nona sormalısın, Keebo.
+16|Yani profesöre onu incittiğim için gerçekten\nkızgın olup olmadığını mı sorayım...?
+17|Bunu yüzüne sorma düşüncesi...\nbeni korkutuyor.
+18|Bu yükü hayatımın geri kalanında\ntaşımalıyım...
+19|Profesörü incittim...\nBunu geri alamam...
+21|Bana çok fazla güveniyorsun...
+22|Evet, biliyorum... Başkalarına güvenmeye çalışmak\nsadece ne kadar güvenilmez olduğumu kanıtlıyor...
+23|Belki bana yardım edebileceğini düşünmem\nbencilceydi...
+24|Ne duyduğunu düşünüyorsan...\nLütfen unut gitsin...
+26|Gerçekten ne kadar yardım edebilirim bilmiyorum\nama istersen sana tavsiye verebilirim.
+27|Aslında... umarım istersin. Arkadaşımın böyle\nşeyler için endişelenmesini istemem.
+29|...Teşekkürler. Ama buna artık gerek yok.

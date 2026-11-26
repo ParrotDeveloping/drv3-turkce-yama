@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_114_704
+46|Beni reddedersen dünya asla toparlanamaz!\nAnladın mı?
+47|Bana kendimi bu kadar iyi hissettiren dünyadaki\ntek erkek sensin!
+48|O yüzden yaptıklarının sorumluluğunu alsan\niyi olur! Hah-hahahahaha!
+50|<CLT=cltMIND>Demek Miu duygularını böyle\nifade ediyor.
+51|Pekâlâ... Anlıyorum.
+52|Hahahaaaaa! Randevu! Söz verdin!\nUnutmasan iyi olur!
+53|Ah, haha...
+54|<CLT=cltMIND>Miu gülümsedi ama ben ona daha çok\nyüz buruşturmaya benzer bir ifadeyle karşılık verdim.
+55|<CLT=cltMIND>Ama aynı zamanda...\nBana çok sevgi gösteriyor.
+56|<CLT=cltMIND>Miu'yla böyle bir bağ kurabildiğim\niçin mutluyum.
+57|<CLT=cltMIND>Bu konuda biraz... ah, hayır, *çok*\ngerginim ama yine de...
+58|<CLT=cltMIND>Eminim her şey yoluna girecek.\nBuradan birlikte çıkacağız!
+60|<CLT=cltSYSTEM>Yeni bir yetenek öğrendin:\n<CLT=cltSTRONG>XXX-Işın Gözlüğü<CLT=cltSYSTEM>.
+61|<CLT=cltMIND>Sonra bir süre Miu'nun hayalî\nrandevu fikirlerini dinledim...
+## a00_114_902
+0|Hah-haha! Benimle ve kocaman güzel memelerimle\ntakılırken iyi vakit geçirdin mi!?
+1|Harika vakit geçirdim!\nÇılgınca eğlenceliydi!
+2|Bir dahaki sefere nerede takılacağımızı\nbulmak için kafa patlatsan iyi olur!
+3|Şey, eminim nereye gidersek gidelim\nikimiz eğleniriz!
+4|Tamam... bir sonraki takılma seansımızı\nheyecanla bekliyorum...
+5|Kabul etmeliyim, sanırım bugün beni\ngerçekten eğlendirmeyi başardın.
+6|Bugünün anılarını yapman gerekeni\nyaparken kullanmaktan çekinme!
+7|Hah-hahaha! Of, açım!\nDönelim mi?
+9|Fena değildi sanırım.\nAma hâlâ cilveli hissediyorum...
+10|Sanırım ben döneyim.
+11|Sana açıkça söyleyeceğim: bugünkü\nperformansın berbattı!
+12|Şey, sanırım senin gibi birinden\nbekleyebileceğim en iyisi buydu!
+## a00_114_914
+0|Ne planladığını bilmiyorum ama sanırım\nhazırım.
+1|Artık bağışıklık kazandım.
+4|Hah-hahaha! Haklısın! İlişkimizi bozmak için\nçok daha fazlası gerekir, ha!?
+5|Pekâlâ, o zaman sana bir sonraki icat\nfikrimi anlatayım!
+6|Adı "Otuzbirmetre"!
+7|Birinin kaç kez kendini tatmin ettiğini tam\nolarak söyleyen bir cihaz!
+8|<CLT=cltMIND>Diğer icatlardan o kadar\nda farklı değil...
+9|<CLT=cltMIND>Ama onu daha iyi hissettiriyorsa\niyi.
+11|Söz veremem...
+12|Iırghhhh...! Herkesten çok senin\nanlayacağını düşünmüştüm, Shuichi...
+13|P-Peki! Öyle yapacaksan onu\nyapmayacağım!
+15|Bana neden özel davranıyorsun, Miu?
+16|Ha...!?\nÇünkü sen benim...
+19|Hey! Dünyadan özür dile!
+20|Şoktan motivasyonumu kaybedersem dünya\nbu kayıptan asla toparlanamaz!
+22|Beni bu kadar önemsiyorsan...\no zaman tabii ki yaparım, Miu.
+23|Hah-haha! Pekâlâ, bu kadar çok bilmek\nistiyorsan söyleyeyim!
+24|Üzerinde çalıştığım en yeni icadımın\nadı...
+25|"Sapıkjektör"!
+26|Kullanıcının bilinçaltındaki sapıkça fantezilerini\nanaliz edip filme yansıtır!
+27|Bittiğinde benim deneme tahtam\nolabilirsin!
+28|Gerçi koca memeli esmer olgun kadınlardan\nhoşlandığını zaten biliyorum!
+29|<CLT=cltMIND>Öyle miyim!?
+## a00_115_000
+3|<CLT=cltSYSTEM>Kaede'ye hediye vermek ister misin?
+4|Bu olmaz, Shuichi... Şaka olsa bile\nyapmaman gereken bazı şeyler var.
+5|Bu kadar tuhaf bir durumda olmasaydık\ngülüp geçebilirdim belki.
+6|Şeyy... Zevkin... farklı...
+7|Ah, kötü anlamda demedim.\nHoşuna gidiyorsa bu senin tercihin.
+8|Şeyy... bunu neden bana vermeyi\nseçtiğini biraz merak ediyorum...
+9|Nefret etmiyorum.\nAslında... mutlu oldum!
+10|Hmm... demek böyle şeylerden\nhoşlanıyorsun, Shuichi.
+11|Bunu aklımda tutacağım.\nBir gün ben de sana bir hediye vereceğim...
+12|Ah, tuhaf bir anlamda demedim.\nİyiliğinin karşılığı olarak, tamam mı?

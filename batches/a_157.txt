@@ -1,0 +1,73 @@
+@ ainori_text_US
+## a00_115_702
+31|Hayır, o değil. Geçmişte böyle bir durumda\nbulunmuş olmamın imkânı yok.
+32|Şey, benim deneyimime göre müzik her\nzaman insanların kalbine ulaştı.
+33|<CLT=cltMIND>Müzik mi...?
+34|Bunu sana daha önce söylemiştim...
+35|Piyano çalıyorum çünkü insanların\ngülümsediğini görmek istiyorum.
+36|Performanslarımla herkesin yüzü\naydınlanıyor.
+37|Daha bir dakika önce tanıştığım yabancılarla\nbirlikte gülümseyebiliyorum.
+38|Aynı dili konuşmasak bile müzik\nsayesinde bağ kurabiliyoruz.
+39|Bence bunun sebebi, müzik sayesinde insanların\ngerçek kişiliklerini görebilmemiz.
+40|O yüzden iyi olacağım. Sadece bir bağ kurarak\nher şeyin üstesinden gelebileceğimizi biliyorum!
+41|Evet... sanırım doğru, Kaede.
+42|İnsanların daha çok gülümsediğini görmek\nistiyorum, o yüzden... her türlü şeyi yapmayı planlıyorum.
+43|Ana odağım klasik müzik ama pop müzikle\nde bir performans yapmak istiyorum.
+44|Ah, evet!
+45|Ünlü oyunların ya da filmlerin müziklerini\naranje etmek çok eğlenceli olmaz mıydı?
+46|Şarkıları istediğim gibi besteleyip sonra\nbir konser verebilirim! Harika olurdu.
+48|Bence bu harika bir hayal, Kaede.\nYapabileceğine eminim.
+49|Gerçekten mi?\nÖyle mi düşünüyorsun?
+50|Kesinlikle. Ve o konsere gelmek\nisterim.
+51|Seni kesinlikle davet edeceğim!\nİlk bileti sana göndereceğim!
+52|Dur bir dakika!
+53|S-Sana hayalimi anlattım...\nHahaha... bu utanç verici...
+54|Sırrımı ağzımdan kaçırttığına\ninanamıyorum, Shuichi!
+55|<CLT=cltMIND>Kurcalamıyordum ki...
+56|<CLT=cltMIND>Ama bana anlattığına sevindim.
+58|<CLT=cltMIND>Kaede biraz sakinleştikten sonra\nodama döndüm.
+## a00_115_703
+0|Yine pratiğe geldin, değil mi?\nBu konuda ciddi olmana sevindim.
+1|O zaman başlayalım.
+2|Shuichi, bence burası durmak için iyi bir yer,\no yüzden bugünlük burada bitirelim.
+3|Ah, bitti mi bile?
+4|Evet, şey... Her görüştüğümüzde\nbirlikte piyano çalıyoruz, değil mi?
+5|Sanki seni buna zorluyormuşum gibi hissediyorum...
+6|Eğlenmiyorsun... değil mi, Shuichi?
+7|Olur mu öyle şey! Çok eğleniyorum!
+9|Tamam!\nO zaman yine yapalım!
+10|Ben sana sırrımı anlattığıma göre\nsen de bana kendi sırrını anlatmalısın!
+11|Ne!?\nNeden?
+12|Çünkü ben karar verdim!\nBugün senden bahsediyoruz!
+13|<CLT=cltMIND>Öyle mi...?\nKaede bugün çok ısrarcı...
+14|Şey, madem istiyorsun...\nAma neden bahsetmeliyim?
+15|Mesela... hobilerin?
+16|Hobiler mi? Şeyy...
+17|Ha!?\nHobilerini *düşünmek* zorunda mısın!?
+19|<CLT=cltMIND>Dedektiflik işine yardım ettiğimi\nhatırlıyorum...
+20|Sanırım... dedektiflik *benim*\nhobim.
+21|Hıhı, anlıyorum.\nDedektiflik senin hobin...
+22|Ne, not mu alıyorsun!?\nO defteri nereden buldun!?
+23|Çantamdan.
+25|Demek hobin dedektiflik...\nO zaman bugün bunun tadını çıkaralım.
+27|Senin sırrını ortaya çıkaracak dedektif\nben olacağım!
+28|Dedektif *ben* olacağım\nsanıyordum!
+29|Sorguya çekilmek iyi bir deneyim olabilir!\nBir dahaki görevinde işine yarar!
+31|Evet! Şimdi, sıradaki soru!\nEn sevdiğin yemek ne?
+32|Et mi? Sebze mi? Balık mı?
+33|Sulu et
+34|Sağlıklı sebzeler
+35|Taze balık
+37|<CLT=cltMIND>Şey, bu seçeneklerden...
+38|Sulu et...
+39|Hmm, epey tipik bir erkek cevabı.\nDev bir bifteği tek oturuşta yiyebilir misin?
+41|Gerçiii, çok et yiyebilecek biri gibi\ngörünmüyorsun... Ama yargılamamalıyım...
+42|Sağlıklı sebzeler...
+43|Sebze mi?\nKalori alımın için mi endişeleniyorsun?
+44|Biraz...\nSporcu değilim, kolay kilo alıyorum...
+45|Hmmm, anlıyorum...\nDemek o tiplerdensin...
+46|Taze balık...
+47|Balık, ha? Ben de balığı ete tercih ederim!\nÇok benziyoruz!
+49|O zaman sanırım uyumumuz konusunda\nendişelenmeme gerek yok...
+50|<CLT=cltMIND>Ne mırıldanıyor bu...?
+51|Sıradaki soru!\nEn sevdiğin yer neresi?

@@ -1,0 +1,28 @@
+@ ainori_text_US
+## a00_110_000
+4|Bu... bir çocuğa vermen gereken bir şey.\nBenim yaşımdaki birine vermemelisin.
+5|Eh... buradan çıkınca onu çocuklara veririm.\nBunu bana bu yüzden verdin, değil mi?
+9|Kusura bakma ama buna ihtiyacım yok.
+12|...Bunun beni mutlu edeceğini mi düşündün?
+13|Piyano dışında gerçekten hiçbir şey\nbilmiyorsun, değil mi?
+14|Dur... İstemediğim bir şeyi vermeyi planlıyorsan\nseni hemen şimdi durduracağım.
+15|...Yanılıyor muyum? Bu bir şaka, değil mi?
+16|Bu ne...?\nBu şeyi nereden buldun ki?
+17|Benim için mi? Bunu bana vermeyi\nneden düşündün ki?
+19|Bir dedektif için pek sezgili değilsin,\nhı?
+24|Anlıyorum... Bunu bana veriyorsun.
+25|Ne? Heyecanlanacağımı mı düşündün?
+26|Kusura bakma ama sosyal zorunluluk yüzünden\nboş yere teşekkür etmeye niyetim yok.
+27|Birlikte vakit geçirdikten sonra hediye\nvermenin kötü olduğunu düşünmüyorum...
+28|Ama vermeden önce hediyeyi gerçekten\niyice düşünmelisin, değil mi?
+29|...Şaşırtıcı derecede kötü bir zevkin var.
+30|İstemiyorsan onu saklamakta bir\nsakınca görmüyorum.
+41|Birlikte vakit geçirdikten sonra hediye\nvermenin kötü olduğunu düşünmüyorum...
+52|Hmm... Böyle bir durumda hediye veriyorsan\npek endişelenmiyor olmalısın...
+53|...Eh, umurumda olduğundan değil. Alırım.
+54|Senden böyle bir şey alacağımı\ndüşünmezdim.
+55|Ama karşılığında verecek hiçbir şeyim yok...\nBu senin için sorun olur mu?
+60|Bu benim için mi...? Hmm...
+61|...Ha, kızgın mı görünüyorum? Belli etmeyebilirim\nama aslında epey mutluyum.
+62|...Teşekkürler. Değerli tutacağım.
+63|Neden şaşırdın? Sevdiğim bir şey aldım,\ntabii ki bunun için teşekkür edeceğim.

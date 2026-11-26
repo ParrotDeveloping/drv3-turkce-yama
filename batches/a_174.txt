@@ -1,0 +1,71 @@
+@ ainori_text_US
+## a00_300_116
+113|<CLT=cltMIND>Bağlarımız saçma sapan bir flört\nyarışma programından doğdu...
+114|<CLT=cltMIND>Ama bu onları bir maskaralık yapmaz.
+115|<CLT=cltMIND>Aksine, onları daha da gerçek,\ndaha da özel yapar.
+116|<CLT=cltMIND>Kalbimizdeki yeni dostluklarla\ngerçekliğe döneceğiz.
+117|<CLT=cltMIND>Sıkıcı gerçekliğe...
+118|<CLT=cltMIND>Sıkıcı, tekdüze bir gerçekliğe...
+119|<CLT=cltMIND>Yine de. Sevdiğimiz bir gerçeklik.
+120|<CLT=cltMIND>Ve böylece...
+121|<CLT=cltMIND>Yetenekli Gençler için Ultimate\nAkademisi'ndeki günlerimiz...
+## a00_300_250
+0|<CLT=cltSYSTEM>Bütün sevgi seviyelerini sıfıra\ndöndürüp baştan başlayabilirsin.
+3|<CLT=cltSYSTEM>Sevgi silindi!
+6|<CLT=cltSYSTEM>Bunu geri alamazsın! Sevgini sıfıra\ndöndürmek istediğine emin misin?
+9|<CLT=cltSYSTEM>Sıfıra döndürmek\nister misin?
+11|<CLT=cltMIND>Birbirine âşık olan iki kişi mezun olabilir...
+12|<CLT=cltMIND>Görünüşe göre bu yalan değilmiş...
+16|<CLT=cltSYSTEM>Bütün sınıf arkadaşlarının mezuniyet\netkinliklerini görmek ister misin?
+20|<CLT=cltSYSTEM>Başka bir sınıf arkadaşının mezuniyet\netkinliğini görmek ister misin?
+21|<CLT=cltMIND> [Geçici] Okul Binası
+22|<CLT=cltMIND> [Geçici] Yemekhane
+23|<CLT=cltMIND> [Geçici] Yurt
+24|<CLT=cltMIND> [Geçici] Miu'nun Laboratuvarı
+25|<CLT=cltMIND> [Geçici] Havuz
+26|<CLT=cltMIND> [Geçici] Antrenman Arenası
+27|<CLT=cltMIND> [Geçici] Arka Bahçe (Doğu)
+28|<CLT=cltMIND> [Geçici] Arka Bahçe (Batı)
+29|<CLT=cltMIND> [Geçici] Mahkeme Salonu Tapınağı
+30|<CLT=cltMIND> [Geçici] Kumarhane
+31|<CLT=cltMIND> [Geçici] Aşk Oteli
+## a00_991_000
+0|<CLT=cltMIND>Etkinlik penceresi testi.
+1|<CLT=cltMIND>Normal pencere testi.
+2|Shuichi'nin sevgi seviyesine bir göz atalım!
+3|Neee!? Hiçbir şey yok!
+4|Bundan daha iyisini yapabilirsin, değil mi?
+5|Bu çocuk oyuncağı.
+6|Puhuhuhu...
+7|Yarı yoldasın, ha?
+8|Asıl etkinlik başlamak üzere.
+9|Of... Uzun yol kat ettin.
+10|Dün yarın demiştin!\nYAP! ARTIK!
+11|Yaşlı evli bir çift gibisiniz.
+12|Bu harika!
+13|Seçenek 1
+14|Seçenek 2
+15|Seçenek 3
+22|<CLT=cltMIND>"Gece" saat 22.00'den 08.00'e kadardır. Yemekhane\nve spor salonu geceleri yasaktır.
+25|<CLT=cltMIND>Üç ya da daha fazla öğrenci bir ceset bulduğunda\nCeset Bulundu Anonsu çalınacaktır.
+28|<CLT=cltMIND>Bu gerçek mi...?\nGerçekten bir öldürme oyununda mıyız?
+29|Bizimle oynamayı kesin... Ben...\nasla... asla bir öldürme oyununa katılmayacağım—
+30|[Geçici] Başlık Bölüm 1 "Benim Sınıf Davam,\nBizim Sınıf Davamız" (Olağan Dışı) Günlük Hayat
+31|Yetenekli Gençler için Ultimate\nAkademisi Okul Kuralları...
+32|Kim bizi böyle bir oyun oynamaya zorlar?\nHem neden...?
+33|Kimin umurunda? Hiç de sıkıcı değil gibi.
+34|B-Bunun nesini sevebilirsin ki!?\nBu en kötüsü!
+35|Kehehe... Sesini öyle yükseltme.
+37|Öldürme oyunu ve sınıf davaları sadece iki\nhayatta kalan öğrenci kalana kadar devam edecek.
+38|Sadece <CLT=cltSTRONG>iki hayatta kalan öğrenci<CLT=cltNORMAL> mi?\nBunun sebebi ne olabilir?
+40|Ohhh, anlıyorum.\nÇok zekisin, Shuichi.
+41|Öldürme oyunu... Okul Kuralları...
+42|Dalga geçmeyi kesin! Kim böyle bir\nşeye ayak uydurur ki!?
+43|<CLT=cltMIND>Kaito, Monopad'i yere çarpıp parçalayacakmış\ngibi havaya kaldırdı.
+46|Kuralları çiğnersen Exisal'lar seni\ncezalandırır...
+47|Kes sesini! Umurumda değil! Bu saçma\nsapan oyuna asla ayak uydurmayacağım!
+48|Bu ona "ayak uydurmak"la ilgili değil.\nŞu an ona karşı gelmek çok tehlikeli.
+51|<CLT=cltMIND>Nefes aldım ve sonra var gücümle bağırdım.
+52|Of be! Kavga etmeye vaktimiz yok!
+53|Vay! N-Ne oluyor!?
+54|Arkadaşlar arasında kavga etmemeliyiz!\nBöyle zamanlarda iş birliği yapmalıyız!

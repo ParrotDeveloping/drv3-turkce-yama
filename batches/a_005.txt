@@ -1,0 +1,52 @@
+@ ainori_text_US
+## a00_050_101
+99|Pekâlâ, nereye gidiyoruz?\nNereye gittiğimiz pek umurumda değil.
+101|Ne düşünüyordum bilmiyorum ama sana çıkma\nteklif etmeye geldim! Erkeklerden nefret etsem de!
+102|Eee, boş musun!? Boşsun, değil mi!?\nO zaman benimle takıl!
+103|Shuichi!
+104|Senin de Neo-Aikido sanatında ustalaşmak\nistediğini hissettim! O yüzden seni davet etmeye geldim!
+105|Günü benimle geçir!
+106|...Of, çok şükür!
+107|İsteğimi kabul etseydin ne yapacağımı\nbilemezdim.
+110|Haaaa?\nGerçekten günü benimle mi geçirmek istiyorsun!?
+111|Erkeklerden nefret ettiğimi biliyorsun, değil mi?\nGerçekten bu kadar kalın kafalı mısın, Shuichi!?
+112|<CLT=cltMIND>O zaman beni neden davet ettin?
+116|Shuichi, şimdi boş musun?\nBoşsan oynamak ister misin?
+117|Senin için kostümünü giyebileceğin\nkusursuz bir karakter düşündüm, Shuichi.
+118|Şu an boş musun?
+119|Hmm... İsteyebileceğini düşünmüştüm\nama sanırım istemiyorsun...
+120|Eh, olsun. Başka gün oynarız.
+121|Hmm... İsteyebileceğini\ndüşünmüştüm.
+123|O zaman nereye gidelim?
+125|Alola! Nasılsın!?
+126|Atua beni ziyaret etti, o yüzden seni\nrandevuya davet etmeye geldim.
+127|Atua konuştu... Shuichi'nin Angie'yle\nrandevuya çıkması gerektiğini söyledi.
+128|Atua'nın dediğini yapıp benimle randevuya\nçıkacaksın, değil mi?
+129|Atua konuştu... Angie'yi reddedersen\nkendinden başka suçlayacak kimse yok.
+131|Nyahahahaha!\nShuichi'den de bu beklenirdi!
+132|Atua nereye gidersek gidelim eğleneceğimizi\nsöyledi. Peki bugün ne yapmak istersin?
+135|Hey, Kaçkınchi! Bu surat ne?
+136|Burada sana çıkma teklif etmek üzere duran\nkocaman güzel göğüslü ateşli bir afet var!
+137|Bugün şanslı günün! Sıkılıyordum, ben de\ngelip seninle biraz eğleneyim dedim!
+138|Haaaa? Kabul edersin sanmıştım...
+140|Aynen öyle! Senin gibi bir ezik bana hayır\ndemeye ASLA cüret edemez, değil mi!?
+142|Hey, sen... bir yere gitmek ister misin belki?\nŞu an seninle konuşmak istiyorum, Shuichi.
+143|Şu an boş musun?\nİstersen birlikte bir yere gidebiliriz.
+144|Anlıyorum...\nEh... meşgulsen yapacak bir şey yok.
+146|Tamam o zaman!\nBugün nerede takılmak istersin?
+148|Kabul et
+149|Kibarca reddet
+151|<CLT=cltMIND>Daveti kabul etmeli miyim?
+## a00_050_250
+0|Ha? Şimdi ne istiyorsun?
+1|Sevgi seviyem
+2|Monokuma'nın talimatları
+3|Özel bir şey yok
+5|<CLT=cltMIND>Monokuma'ya şunu sormak istiyordum...
+6|Pekâlâ! Sevgi seviyene bir bakalım,\nShuichi!
+7|Ne de olsa sevebileceğin en önemli\nkişi kendinsin.
+8|Kendini sevmezsen kim sana nasıl\nâşık olsun ki...?
+9|Ha? Biraz daha içi dolu bir şey\nmi duymak istiyorsun?
+10|Hmm... Bu kural ihlali gibi geliyor ama...\nsenin için bir istisna yapacağım.
+11|Birine olan sevgin yarıya ulaşınca onunla\nsadece vakit geçirmek yetmez.
+12|Balayı dönemi ancak bir yere kadar sürer,\nsonra aşk oyununu bir üst seviyeye taşımalısın.

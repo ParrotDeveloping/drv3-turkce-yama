@@ -1,0 +1,70 @@
+@ ainori_text_US
+## a00_109_704
+21|Özür dileyeceksen hiç söylememen\ndaha iyi olurdu...
+22|Özel bir şeye... burnumu soktuğumu\ndüşündüm.
+23|Şimdi mi bunu dert ediyorsun?\nKriz anları dışında biraz aptalsın.
+25|<CLT=cltMIND>Ah...
+26|Ben öyle düşünüyorum.
+27|Neden öyle söyledin? Yani sanırım\nkulağa dedektifçe geliyor...
+28|<CLT=cltMIND>Sanırım... biraz daha iyi\nifade edebilirdim.
+29|Neyse, boş ver...\nVarsayımda bulunman umurumda değil.
+31|Büyümü kullanarak bile ustamı\nbulamıyorum.
+32|Muhtemelen onu bulmamı istemediği\niçindir.
+33|Dediğin gibi... belki bir sebebi vardır.\nBelki gizlice antrenman yapıyordur...
+34|Ben de bunu düşündüm.
+35|Bu yüzden büyünü geliştirmeye\nodaklanıyorsun.
+37|Ustan da büyüsünü cilalıyor, Himiko.\nSeninle yeniden sahneye çıkmak için.
+38|Bu yüzden... bir sihirbaz olarak sıkı\nçalışmaya devam etmelisin.
+39|Sihirbazlık numaraları seni ustana\nbağlayan şey.
+40|<CLT=cltMIND>Büyü yapmaya hiç üşenmemesinin\nsebebi bu olmalı.
+42|...Yanılıyorsun.
+44|Numara değil, gerçek büyü!
+45|Ah! Özür dilerim!\nHaklısın, gerçek büyü!
+46|Doğru.\nTüh, ne zaman anlayacaksın?
+47|Neyse, yakında buradan çıkmalıyız!\nBöylece birlikte sahneye çıkabilirsiniz!
+48|Hm, haklısın... Daha olumlu olacağım\nve daha sıkı çalışacağım.
+49|Seni büyümle destekleyeceğim.\nBana güvenebilirsin, tamam mı?
+50|Pekâlâ, Himiko. Teşekkürler.
+51|<CLT=cltMIND>Himiko ile ikimiz de aynı hedefe\nodaklandık. Buradan çıkmak.
+52|<CLT=cltMIND>Böyle birlikte durabilmemizin sebebi\naramızdaki bağ...
+53|<CLT=cltMIND>Bu bağa güvenirsem her şeyin üstesinden\ngelebileceğimizi biliyorum!
+55|<CLT=cltSYSTEM>Yeni bir beceri öğrendin:\n<CLT=cltSTRONG>Abrakadabra<CLT=cltSYSTEM>.
+56|<CLT=cltMIND>Himiko'yla yollarımızı ayırdık\nve odama döndüm.
+## a00_109_902
+0|Bugün çok eğlendim!
+1|Büyülerimiz epey güçlü bir şekilde uyumlu.
+2|Seninle vakit geçirerek iyi mana\ntoplayabildim.
+3|Ah evet! Yurda kadar beni sırtında\ntaşımaya ne dersin?
+4|Bugünü büyüsel olarak düşününce\nçok eğlendim.
+5|Bir süredir bu kadar\neğlenmemiştim...
+6|Benimle yine oynayabilirsin, biliyor musun?
+7|Pekâlâ, yurda birlikte dönmeye\nne dersin?
+8|Bugün çok yorgunum...
+9|Kusura bakma, dönüyorum.
+10|Nyeh... o kadar yorgunum ki hiçbir\nşey yapamıyorum.
+11|Sanırım manam bitti...
+## a00_109_914
+0|O kadar ufak ve sevimlisin ki\ninsanlar seninle uğraşmak istiyor.
+1|S-Sevimli mi?
+2|Beni... böyle pohpohlasan da\nhiçbir şey alamazsın!
+3|A-Ama sevimli olduğum doğru.
+4|Sürekli doğrunun söylenmesi kötü\nbir şey değil.
+6|"Uğraşmıyorum", sadece bunun bir\nsihirbazlık numarası olduğunu düşünüyorum...
+7|Büyü, büyü, büyü, büyü,\nbüyü, büyü, bü...
+8|yü büyü büyü büyü\nbüyü büyü büyü!!!
+9|Tamam, tamam.
+10|<CLT=cltMIND>İşe yaramıyor, elimde hiçbir şey yok.
+12|Eh, az önceki büyü gösterisi bir sürü\nnumara gibi görünüyordu...
+13|Büyü gösterisi çünkü içinde büyü\nyapıyoruz! Numara değil!
+15|Böyle davranacaksan seni büyümle\nkömüre çeviririm!
+16|Ya da adalet büyücüsü\nolmasaydım çevirirdim...
+17|<CLT=cltMIND>Bana kanıt olarak basit bir büyü\ngösterse tatmin olurdum...
+18|<CLT=cltMIND>Ama kaba olmak istemiyorum.
+20|H-Hayır, numara değil.
+21|Gerçek büyü yapıyorsun, değil mi? Numara değil.
+22|Hıh...\nSonunda anladığına sevindim.
+23|Buraya geldiğimden beri herkes\n"numara" şu, "numara" bu diyor...
+24|O yüzden... kendimden şüphe etmeye başladım...
+25|Tüh, kendimi nasıl böyle bir hale\nsokabildim?
+26|Bundan sonra herkese büyü kullandığımı\ngururla söyleyeceğim!
+27|<CLT=cltMIND>Sanırım bu konuda epey\nalıngandı.

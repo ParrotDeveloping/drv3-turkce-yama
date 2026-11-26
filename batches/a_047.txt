@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_103_701
+28|Ama hepsi kötü değil. Biraz risk almaya\nhazırsan istediğin her şeyi bulabilirsin.
+29|Biraz risk almak mı...?
+30|Ah, sorma. Sana söylersem\nhayatın tehlikeye girer.
+31|...Neden bu kadar tehlikeli bilgiye\nsahipsin, Rantaro?
+32|Eh, işler öyle\ngelişti işte.
+33|<CLT=cltMIND>İşler öyle gelişti, ha?
+34|Rantaro... sanki ikimizin "seyahat" tanımı\nçok farklı gibi hissediyorum.
+35|Gerçekten mi? "Seyahat" deyince\nne düşünüyorsun?
+36|Rahatlamayı ve manzaralı yerleri\ngezmeyi düşünüyorum...
+37|Hey, ben de gezip görüyorum. *Her şeyi*\ngörmek için seyahat ediyorum, bilirsin?
+38|Sanırım buna daha önce bahsettiğin\no "tehlike" de dahil...
+39|...Ah!\nBelki de budur!
+40|Ne?
+41|<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneğin!
+42|Dünyayı gezen bir lise öğrencisi\nkılığına giriyorsun...
+43|Belki... <CLT=cltSTRONG>Ultimate Casus<CLT=cltNORMAL>\nfalansındır?
+45|Casus, ha?\nHm, yok, sanmıyorum...
+46|Yani casus olsaydım sana kimliğimi\nsöylemezdim. Ya da böyle yakalanmazdım.
+47|Hem öyle havalı bir şey olamam, bana bak.\nSadece sıradan bir adamım.
+49|<CLT=cltMIND>Rantaro hep gülümsüyor.\nNazik, dostça bir gülümseme.
+51|Hayır, bir şey yok.
+52|<CLT=cltMIND>Ama şu an o gülümseme bir\nduvar gibi geliyor...
+54|<CLT=cltMIND>Rantaro'yla yollarımızı ayırdık\nve odama döndüm.
+## a00_103_702
+0|<CLT=cltMIND>Rantaro'nun bir sırrı var.
+1|<CLT=cltMIND>Bu sadece dedektif sezgimin\nsöylediği bir şey değil.
+2|<CLT=cltMIND>Sadece dünyayı geziyor olsaydı bu kadar\ntehlikeli duruma girmezdi.
+3|<CLT=cltMIND>Belki beni ilgilendirmez\nama...
+4|Shuichi?\nBir sorun mu var?
+5|Hayır, bir şey yok. Sadece yeteneğin hakkında\nbiraz daha konuşabiliriz diye düşündüm.
+6|Anlıyorum... Eh, bu kadar ilgi\ngösterdiğin için teşekkürler.
+7|Ama açıkçası hiçbir fikrim yok.
+8|Bunca şeyden sonra nasıl bir\n<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> olabilirim ki?
+9|Belki hiç yeteneğim yoktur.\nBelki de burada yanlışlıkla bulunuyorumdur.
+10|Hayır, Rantaro, bu doğru olamaz.
+11|Ha, sanırım başkasıyla karıştırıldıysam\n<CLT=cltSTRONG>Ultimate Şanssız Öğrenci<CLT=cltNORMAL> olurdum.
+12|Pek hoş bir yetenek değil...
+13|Hahaha, evet.\nSanırım onu pas geçerdim.
+16|Ne? Ah, kusura bakma.
+17|Burada neden olduğumu düşünmeye\nbaşladım...
+20|Ben... burada kalamam, Shuichi.\nBuna vaktim yok.
+21|Hepimiz için aynı.
+22|...Evet, bu konuda haklısın. Kimsenin\nböyle bir yerde sıkışıp kalacak vakti yok.
+23|Bu bir tür deney olabilir
+24|Kesinlikle okula benzemiyor
+25|Bir oyun gibi
+27|Cidden, burası ne acaba.\nBir türlü çözemiyorum.
+28|Bu bir tür deney olabilir.
+29|Yani burası bir araştırma enstitüsü\ngibi bir yer mi?
+30|Olabilir. Okula benziyor ama belki öyle\ngörünecek şekilde tasarlanmış bir laboratuvardır.
+31|Yani <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yetenekleri incelemek\niçin tasarlanmış bir tesis...
+32|Monokuma'nın ele geçirdiği bir tesis.\nEvet, akla yatkın görünüyor.
+33|Hey, gerçekten <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'sin!\nSeninki gibi bir sezgiye ihtiyacım var.
+34|Kesinlikle okula benzemiyor.
+35|Evet ama... bunu bir süredir\nbiliyoruz.
+36|Hadi, <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>,\neminim bundan fazlası vardır.
+37|Şimdiye kadar bir fikrin olur\nsanmıştım...
+39|Yok, özür dilemene gerek yok. Daha fazla bilgi\nolmadan çıkarım yapmak pek mümkün değil.
+40|Bir oyun gibi.
+41|Bir oyun...\nEvet, ben de aynı şeyi düşünüyordum.
+42|Bulmacaları çözerek bir odadan kaçman\ngereken bir oyun hatırlıyorum.
+43|Kazanamadım.\nÇok zordu, pes ettim.

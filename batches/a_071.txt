@@ -1,0 +1,70 @@
+@ ainori_text_US
+## a00_106_210
+11|Bir planın kurbanı olma düşüncesi\nhoşuma gitmiyor.
+12|Hayır, reddedeceğim...
+13|Ne yazık ki yemek maskemi\ngetirmedim.
+14|Bir şey yiyip içecektiysek bana önceden\nsöylemeni tercih ederdim...
+15|<CLT=cltMIND>Maskeni çıkarıp içebilirdin\naslında...
+## a00_106_220
+5|Bu bir tür öz disiplin mi...?
+6|Belki bir dedektif için gereken bazı\nnitelikleri geliştiriyordur...
+7|Ama benim için gerekli\nolduğunu düşünmüyorum...
+8|Fena bir öneri değil...
+9|Gerçi burada çaya uygun atıştırmalık\nolmaması çok yazık.
+10|Biraz böcek olsaydı sana etnik tatlılar\nhazırlayabilirdim.
+11|<CLT=cltMIND>Gonta'ya alınmasın ama etrafta böcek\nolmamasına seviniyorum.
+12|Kehehe... Oruç geleneklerine ilgi\nduyuyor musun?
+13|Öyleyse sana katılırım.
+14|Onları taklit ederek keşfedilecek\nbir şey olabilir.
+## a00_106_230
+3|Yemekten sonra şekerleme yapmak
+5|Hmm... Güçlü bir şehvet duygusu\nolan biri misin?
+6|Şehvette yanlış bir şey yok.
+7|Ama asla unutmaman gereken\nbir şey var.
+8|Gerçek aşk fiziksel bir bağ değil,\nzihinsel bir bağdır...
+9|Bunu her zaman aklının bir köşesinde\ntutarsan sevinirim.
+10|Arzulara boyun eğmek bir yaşam biçimidir...\nama uyurken bazı şeyleri kaçırabilirsin.
+11|Bir antropoloğun yolunu izlemek istiyorsan\nuyanık kalmalısın.
+12|<CLT=cltMIND>Antropolog olmaya falan\nçalışmıyorum ki...
+13|O felsefeye\nkatılmıyorum...
+14|Yemekten sonra egzersiz, fiziği korumak\niçin modern zamanların bir pratiği.
+15|Yediğin canlılar için şükrederek vakit\ngeçirmeni tercih ederim.
+## a00_106_310
+5|Kehehe... Eh, tabii ki.\nNe de olsa bir oğlansın, Shuichi.
+6|Böyle arzular bir insan için uygundur.\nOnları küçümsemem.
+7|Ama kalbimi zaten birine verdim,\no yüzden sana katılamam.
+8|Ah, daha önce bahsettiğim gibi...
+9|Anime ve mangalar hikâyelerinde sık sık\nfolklor ve mitolojiyi temel alır.
+10|Bu mükemmel. Bugün sana bu mangaları\nkullanarak öğreteceğim.
+11|Önünde bu kadar çok eser varken\nsıkıldığını mı iddia ediyorsun...?
+12|En bilge insan hiçbir şey bilmediğini\nbilendir.
+13|Belki daha meraklı olman sana\niyi gelir...
+## a00_106_320
+5|Kehehe...\nTakdire şayan bir öneri.
+6|Bilgiyi ne kadar çok arzularsan\no kadar çabuk gelir.
+7|Farklı mitolojilerdeki tanrıçaların\nniteliklerini tartışmaya ne dersin?
+8|Hepsi "tanrıça" olabilir ama her biri\nfarklı bir kadınlık imgesidir.
+9|Özellikle sessiz yerlerde uykun\ngelir mi, Shuichi?
+10|Uykululuğun kendisini kötülemeyeceğim.\nTemel bir insan içgüdüsüdür.
+11|Ama sadece içgüdülerle yaşamak insanı\nkültürü tanımaktan uzaklaştırır.
+12|Bu yüzden... uyuklamanla savaşman\ntavsiye edilebilir.
+13|Hm?\nHiçbir şey fark etmedim.
+14|<CLT=cltMIND>...Ah.
+15|<CLT=cltMIND>Çünkü maske takıyorsun!
+## a00_106_330
+2|Bir dünya haritasına bakalım
+5|Kehehe... Mükemmel seçim.\nHaritalardan epey hoşlanırım.
+6|Gittiğim bütün toprakları hatırlamak\niçin... mükemmeller.
+7|Ayrıca henüz ziyaret etmediğim toprakları\nhayal etmekten zevk alırım.
+8|Yüksek seslerden hoşlanmam...
+9|Çığlık atmak zorundaysan başka yerde at.
+10|En başta burada neden çığlık atma\nihtiyacı duyduğunu anlayamıyorum.
+11|Kuleler antropolojide çok ilginç\nbir temadır.
+12|İnsanların fiziksel yüksekliği neden\notorite ve güçle ilişkilendirdiği...
+13|Bu konuda pek çok makale var. İnsanlığı\nanlamanın merkezinde yer alır.
+14|Ne düşünüyorsun?\nFikrini duymak isterim.
+## a00_106_410
+5|Harika bir öneri.
+6|Saha çalışması için fiziksel güç\nşarttır.
+7|O yüzden önce temel güç antrenmanıyla\nbaşlayalım.
+8|Bu çok iyi bir öneri...

@@ -1,0 +1,75 @@
+@ ainori_text_US
+## a00_104_430
+6|Gonta o oyunu oynamak istemiyor...\nGonta insanları incitmeyi sevmiyor...
+7|Ah be! Gonta kovalamacaya bayılır!
+8|Gonta seni kovalayacak, Shuichi!\nGonta'ya yakalanmasan iyi olur!
+9|Y-Yakıp kül etmek mi!?\nN-Neden böyle bir şey yapasın!?
+10|Shuichi... gerçekten kötü adam mı!?
+## a00_104_510
+4|Boks yapalım
+5|Evet, temiz hava gerçekten iyi.
+6|Ah ama Gonta'nın orman evinin havası en iyisi!\nHer yemekten daha iyi!
+7|Bir tatsan görürsün, Shuichi!\nBuradan çıkınca Gonta sana gösterecek!
+8|Evet! Bedenini çalıştırmak asla\nvakit kaybı değil!
+9|Güçlü olmalıyız! Buradan çıktığımız\nzaman için!
+10|Gonta çok çalışacak! Böylece zamanı gelince\nGonta herkese faydalı olacak!
+11|Hayır...!
+12|Gonta ile Shuichi arkadaş...\nArkadaşlar neden kavga etsin...?
+13|Anlamsız şiddet... Gonta'yı üzüyor...
+## a00_104_520
+4|Böcek arayalım
+5|Ha? Ama daha yeni geldik.
+6|Gonta dışarıda daha uzun kalmak istiyor...
+7|Ah ama belki Shuichi Gonta'nın bilmediği bir\nşeyi biliyordur. İlk sefer olmazdı.
+8|Gonta dans edebilir! Uzun zaman önce\norman ailesinden öğrendi!
+9|Gonta sana göstersin, tamam mı?
+10|<CLT=cltMIND>Gonta'nın ifadesi birden çok sertleşti...
+11|Hah! Yah! Hah! Yah!
+12|<CLT=cltMIND>Ve muazzam bir güçle havaya\nyumruklar savurmaya başladı.
+13|Ve sonra bu duruşa akıp doğaya\nminnettarlık göster.
+14|<CLT=cltMIND>Bu hiç dans gibi görünmüyor...\nDaha çok bir dövüş sanatı gibi!
+15|Shuichi... Hiçbir yerde böcek olmadığı için Gonta'nın\nüzüldüğünü fark ettin mi?
+16|Teşekkürler!\nShuichi gerçek bir centilmen.
+17|Gonta burada böcek olmadığı için üzgün...
+18|Ama Shuichi burada olduğu sürece Gonta'nın\nüzüntüsü geçecek!
+## a00_104_530
+2|Top yakalama oynayalım
+4|Kelime zinciri oynayalım
+5|Gonta top yakalama oynamayı biliyor!
+6|Gonta orman ailesiyle top yakalama oynar!\nTop olarak tohum ve meyve kullanırız!
+7|Meyveleri çok sert atınca "bum!" diye patlıyor\nve hepimiz güzelce gülüyoruz!
+8|Gonta etrafta dolaşıp böceklere bakmayı seviyor!
+9|Ah ama... burada böcek yok.
+10|Yine de dolaşalım!\nBelki birkaç tane buluruz!
+11|Bu, önceki kelimenin son harfiyle başlayan\nkelime söylediğin oyun, değil mi?
+12|Gonta o oyunda en kötüsü...
+13|Gonta genelde hemen pes ediyor.\nGonta Shuichi'yi hayal kırıklığına uğratmak istemiyor...
+14|Shuichi kelime zinciri oynamak istiyorsa... lütfen\nbaşka biriyle oyna!
+## a00_104_700
+0|Teşekkürler, Shuichi!
+2|Gonta'yı davet ettiğin için!\nGonta çok, çok mutlu!
+3|Bu belki Gonta'nın boş vaktini biriyle\ngeçirdiği ilk sefer!
+4|O yüzden Gonta çok çalışacak!\nShuichi'ye gerçek centilmen gibi davranacak!
+5|Ah, sorun değil, Gonta. Bu kadar... yoğun\nolmana gerek yok. Sadece konuşmak yeterli.
+6|Hayır, yeterli değil!\nShuichi Gonta'yı davet etti!
+7|A-Ama... eğlenmek için ne yapmalıyız?\nDüşün Gonta, düşün...
+8|Ah, Gonta biliyor! Gel, yarışalım!
+9|Yarış mı?
+10|Gonta koşmakta iyi! Ormanda son hızla\nkoşmak çok eğlenceli!
+11|Ayrıca rüzgâr gibi koşmak iyi geliyor.\nBelki güzel bir hava değişikliği olur.
+12|<CLT=cltMIND>Centilmen olduğunu iddia ediyor\nama şimdi yarışmak mı istiyor?
+13|...Pekâlâ, Gonta.\nYarışmak istiyorsan yarışalım.
+14|Tamam! O zaman, hadi gidelim!
+15|<CLT=cltMIND>Gonta elimi tutup beni sıkıca çekti,\nben de arkasından koştum.
+16|G-Gonta!\nÇok hızlı koşuyorsun!
+17|<CLT=cltMIND>Gonta'nın vahşi doğada büyüdüğünü unutmuştum,\ntabii ki atletik!
+18|Daha değil! Rüzgâr gibi koşmak için çok\ndaha hızlı koşmalısın!
+20|<CLT=cltMIND>Gonta tarafından sürüklendikten sonra\nayaklarım birbirine dolanmaya başladı.
+21|<CLT=cltMIND>Bitkin düşüp sendelemeye başladım ve ne yazık\nki bodrum merdiveni tam oradaydı...
+22|<CLT=cltMIND>Vay, düşeceğim!
+23|Shuichi!?
+24|<CLT=cltMIND>Gonta'nın bağırdığını duydum ve bedenimin\ngeri çekildiğini hissettim.
+27|<CLT=cltMIND>Gonta beni kendine doğru çekti ve göğsüne\nçarptığımda ikimiz de düştük.
+28|<CLT=cltMIND>...Ya da öyle sandım.\nGonta ona çarptığımda kılını bile kıpırdatmadı.
+29|Shuichi... iyi mi?
+30|Ah, iyiyim... kıl payıydı.\nBeni kurtardığın için teşekkürler.

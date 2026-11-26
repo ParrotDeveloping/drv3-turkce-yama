@@ -1,0 +1,70 @@
+@ ainori_text_US
+## a00_111_130
+5|Kararsız yoz bir erkek...\nİşin bitti, Shuichi.
+6|Hayatından utanmıyor musun!?
+10|...Ben dönüyorum.
+11|Iıııh...!\nBir yoz için fena değil!
+12|Gerçekliğin filmlerden daha önemli\nolduğu kesinlikle doğru...
+13|Ancak gerçek hayattaki yoz erkekler...
+14|Varlıklarının hiçbir mantığı yok!\nTanrı onları bilinmeyen bir sebeple yarattı!
+15|Bir gün gerçek hayatta etrafımı sadece\nkızlarla dolduracağım!
+## a00_111_210
+5|Planlarını gayet iyi görüyorum, Shuichi...
+6|Yemek becerilerini göstererek beni\nkandırabileceğini mi sanıyorsun?
+7|Yoz erkekler işte bu yüzden...!\nÖlün artık!
+8|Kulağa harika geliyor! Ben de tatlı bir\nşeyler yemeyi düşünüyordum!
+9|Gerçi Himiko'yla olmaması çok yazık...\nNeyse, yapacak bir şey yok.
+10|Seninle biraz tatlı yiyeceğim,\no yüzden minnettar olsan iyi olur.
+11|Bu öneri epey şüpheli görünüyor...
+12|İçeceğime bir şey katıp benden\nfaydalanmayı planlamıyorsun, değil mi?
+13|Her halükârda bir erkekle yiyip içmeyi\nreddediyorum.
+## a00_111_220
+5|Yoz bir erkek *tabii ki* böyle derdi...\nHiç mantıklı değil.
+6|Ama seni durdurmam.
+7|Çünkü bu dünyada bir erkek eksik olsa\nharika olurdu!
+8|Bir yozla çay içmek beni hiç\nmutlu etmiyor!
+9|Ancak... biraz açım ve yiyecekler ile\niçecekler hiçbir yanlış yapmadı...
+10|Bu seferlik sana katılacağım.\nSadece senin için.
+11|Yozlar neden hep saçma şeyler\nsöylüyor?
+12|Bunu komik buluyorsan dilini ısırıp\nboğulmalısın!
+13|Ya da oruç tutup açlıktan ölmelisin!
+## a00_111_230
+5|Katılıyorum!\nYemekten sonra hareket etmek gerekli!
+6|Ah ama yemekten hemen sonra egzersiz\nyapmak hazımsızlığa yol açabilir!
+7|Tavsiyem—yemekten iki saat sonra egzersiz yap!
+8|Yoz erkeklerin nasıl düşündüğünü bilirim.
+9|Kahve içme becerilerini göstererek kızları\netkilemeye çalışıyorsun, değil mi!?
+10|Erkekler çok sığ.\nKızlar buna asla kanmaz.
+14|Nasıl ölmek istersin, Shuichi?
+15|Beni kızdırmayı seçtiğine göre zaten\nbiliyor olmalısın.
+## a00_111_310
+7|Hemen nefesini tut ve kendini\nboğ.
+8|Sen de manga sever misin, Shuichi?
+9|Kızların gündelik hayatlarını anlatan\nmangaları tercih ederim.
+10|Son zamanlarda zirvedeki idol olmayı hedefleyen\nkızlar hakkındaki mangalara daha çok merak sardım.
+11|Zirveye ulaşmak için amansız çaba, rekabet ve\ndostluk, zorluk, zafer... Çok tatlı!
+12|<CLT=cltMIND>Kızların çoğunun o hikâyeleri bu\nyüzden okuduğunu sanmıyorum...
+13|Anlıyorum... Bir yoz için epey sakinsin,\nShuichi.
+14|Yoz erkeklerin sıkılmak fikrini anlayamayacak\nkadar kaba olduğunu sanıyordum.
+15|Acaba erkekler aslında düzgün\nyaratıklar mı...
+16|Yok! Sen sadece özelsin, Shuichi!
+## a00_111_320
+5|Gizli niyetini zaten biliyorum.
+6|Ne kadar akıllı olduğunu görmemi sağlamaya\nçalışıyorsun ki sana hayran olayım!
+7|Erkeklerin planları çok sığ!\nBöyle bir numaraya kanmam!
+8|Bu doğru...\nBöyle sessiz yerler insanı uykulu yapar.
+9|Ben de bu yoğun uyuşukluk hissiyle\nsavaşıyorum!
+10|Sanırım sadece bu seferlik...
+11|Benden belli bir mesafe uzak duracağına söz\nverirsen burada birlikte şekerleme yapabiliriz.
+13|Yoz erkeklerin tozun ne olduğunu bilmesine\nsüperkalifrajilistikekspiyalidoşyus şaşırdım!
+14|Eh, fark ettiğine göre temizliğe\nbaşlayalım.
+15|Erkeklerin aksine kızlar ortalığı temiz tutmayı sever!
+## a00_111_330
+3|Bir mayo fotoğraf kitabı okuyalım
+4|Dövüş sanatları hakkında bir kitap okuyalım
+5|Roman, ha...
+6|Bir yozun böyle bir yerde doğrudan erotik\nkitaplara gideceğini varsaymıştım...
+7|Ama görünüşe göre ondan çok daha iyisin.
+8|Eh, diğer yozlarla kıyaslayınca.
+9|B-Bu cinsel taciz!\nShuichi beni cinsel olarak taciz ediyor!
+10|Aman tanrım, seninle aynı havayı solumaktan\nbile rahatsız olmaya başlıyorum!

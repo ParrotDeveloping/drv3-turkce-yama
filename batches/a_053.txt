@@ -1,0 +1,86 @@
+@ ainori_text_US
+## a00_104_210
+13|Gonta çok çay içerse anlar mı?
+## a00_104_220
+5|Dondurucunun içine mi girelim?\nBu... tuhaf bir şey, değil mi?
+6|...Ah! Bu bir sınav mı!?
+7|Shuichi Gonta'yı mı sınıyor? Gonta tuhaf\nşeyi gösterebilecek mi diye?
+8|Sorun yok! Gonta aklındakini söyleyebilir!
+9|Çay vakti! Gerçek centilmenler gibi!
+10|Gonta Shuichi'yleyken centilmen olmaya\ndaha yakın hissediyor.
+11|Gonta Shuichi gibi doğal centilmenlere hayran.
+12|Oruç mu...?
+13|Bu... koşmaktan farklı, değil mi?
+14|Özür dilerim, Shuichi...\nGonta anlamıyor!
+## a00_104_230
+3|Yemekten sonra kahve içmek
+4|Yemekten sonra azmak
+5|Gonta katılıyor!
+6|Yemekten sonra egzersiz zor...\nAma atlayamazsın!
+7|İhtiyacı olan kişiye yardım etmek için her gün\nbedenini çalıştırmalısın!
+8|Shuichi kahve içebiliyor mu?
+9|Gonta... kahve içemez...
+10|Gonta için çok acı...\nAma... kahve centilmen içeceği...
+11|T-Tamam! Gonta içmek için çok uğraşacak... bir yudum!
+12|Ha? Azmak mı? Gonta hiç yara\ngörmüyor. Hangi yaran azdı?
+13|Özür dilerim... Gonta her zaman anlamıyor.\nGonta akıllı çocuk değil...
+14|Ama Gonta Shuichi'ye güveniyor...\nShuichi'nin yarası muhtemelen görünmüyor...
+## a00_104_310
+5|H-Hayır! Centilmenler öyle şeyler okumaz!
+6|Shuichi onun yerine bedenini ve zihnini çalıştırmalı!
+7|Evet! Gonta resimli kitapları seviyor.
+8|Resimler karmaşık şeyleri kolay anlatıyor!\nGonta'nın anlaması kolay!
+9|Gonta böyle kitapların okunmasının kolay olduğunu\ndüşünüyor çünkü iyi insanlar yazıyor.
+10|Ama Gonta sıkıcı şeyleri de seviyor.
+11|Gonta'nın yapacak bir şeyi olmayınca\nrahatlayıp mutlu şeyler düşünebiliyor.
+12|Ayrıca orman ailesi hep der ki,\nsıkılmak mutluluğa götürebilir.
+13|Çünkü herkes kendini neyin mutlu\nettiğini bulmak zorunda.
+14|Mutlu olduğun sürece sıkılmak iyidir.
+15|<CLT=cltMIND>Gonta'nın "orman ailesi"...
+## a00_104_320
+5|Gonta ders çalışmaya itiraz etmez...\nSadece... anlaması zor...
+6|Ama Gonta elinden geleni yapacak.\nShuichi Gonta'ya yardım eder mi?
+7|Shuichi açıklarsa zor şeyler bile Gonta\niçin anlaşılır olur.
+8|He, he, he...\nGonta da epey yorgun.
+9|Belki bugün şekerleme yaparız?
+10|Ah! Biliyor muydun? Gonta buna\n"siesta" dendiğini öğrendi!
+11|Evet... Gonta temiz orman havasına alışkın.\nBöyle tozlu yer iyi değil...
+12|Belki böceklerin hepsinin gitmesinin sebebi toz.
+13|Havayı temizlemenin bir yolu var mı?\nGonta merak ediyor...
+## a00_104_330
+2|Yüksek edebiyat okuyalım
+3|Bir böcek rehberine bakalım
+4|Bir casus romanı okuyalım
+5|Gonta karmaşık kitapları sevmiyor...\nGonta'yı uykulu yapıyor...
+6|Ama Gonta biliyor...\nGonta aynı bahaneleri uyduramaz...
+7|Shuichi, bu kitapta dünyanın her yerinden\nböcek resimleri var!
+8|Ama böcekler gerçekte daha güzel...
+9|Buradan çıkınca Gonta Shuichi'ye\nbütün güzel böcekleri gösterecek!
+10|V-Vay! Bu kitap ilginç!
+11|Biliyor muydun? Centilmenler silahları ayakkabılarında ve\nbastonlarında saklıyor! Gonta bunu bilmiyordu!
+12|<CLT=cltMIND>Ah... belki de onun bunu okumasına\nizin vermemeliydim...
+## a00_104_410
+5|Gonta bedenini hareket ettirmeyi seviyor. Gonta\norman ailesiyle hep boğuşurdu.
+6|Boğuşarak birbirimizi\nanlayabiliriz!
+7|Ah ama her seferinde değil!\nVe her zaman önce tokalaşılır!
+8|Gonta temizliği seviyor!
+9|Bedeni hareket ettirip temizlik yapmak iyi geliyor!
+10|Her şeyi temizleyip herkesi şaşırtalım!
+11|Ne!? İyi misin!?
+12|Özür dilerim! Gonta fark etmedi!
+13|Gonta çok ısrarcı. Shuichi'nin yorgun\nolduğunu fark etmeliydi...
+## a00_104_420
+5|Bas... ket... bol mu?
+6|Özür dilerim... Gonta onun ne olduğunu bilmiyor...
+7|Shuichi... ekmek sepetini mi kastediyor?
+8|Centilmen şık kıyafetlerini çıkaramaz!\nÖzellikle burada asla!
+9|Belki Shuichi'nin soyunmak için bir dedektif\nsebebi vardır ama...
+10|Gonta... burada kıyafetlerini çıkaramaz...
+11|İyi fikir. Kas çekmek istemeyiz.\nBu kötü olur.
+12|Gonta'nın sırtını çıtlatmasına izin ver!
+13|Merak etme! Shuichi iyi olacak!\nGonta doğuştan sırt çıtlatıcı!
+14|Gonta Shuichi'yi kırmayacak!\nSadece Shuichi'nin sırtını!
+15|<CLT=cltMIND>Gonta beni dev kollarına aldı...\nve narin bir zarafetle sırtımı çıtlattı.
+## a00_104_430
+3|Kovalamaca oynayalım
+5|İnsanların birbirine top fırlattığı\noyun, değil mi?

@@ -1,0 +1,70 @@
+@ ainori_text_US
+## a00_110_704
+63|<CLT=cltMIND>Ve o bağ üzerine yemin ediyorum,\nbirlikte kaçacağız!
+65|<CLT=cltSYSTEM>Yeni bir beceri öğrendin:\n<CLT=cltSTRONG>Finansman<CLT=cltSYSTEM>.
+66|<CLT=cltMIND>Maki'yle yollarımızı ayırdık\nve odama döndüm.
+## a00_110_902
+0|Bu kadar eğleneceğimi hiç beklemiyordum.
+1|Teşekkürler... Senin sayende işi ve diğer\nolumsuz şeyleri unuttum.
+2|Gerçekten tuhaf bir adamsın.
+3|Yurda dönelim.
+4|...Vakit geçirmek için iyi bir yoldu.
+5|Seninleyken... zaman uçup gidiyor.
+6|Yurda dönmek ister misin?
+7|...Birden yoruldum.
+8|Biriyle vakit geçirmekte pek\niyi değilimdir...
+9|...Ben önden dönüyorum.
+10|Seninle vakit geçirirsem bütün kötü anılarımı\nunutabileceğimi düşünmüştüm...
+11|...ama sanırım yanılmışım.
+12|Pekâlâ, ben dönüyorum.
+## a00_110_914
+0|Bazı şeyleri unutmak daha iyi.\nAnılar... fazla acı verici.
+1|Ne yaparsam yapayım hep hatırlıyorum...
+2|...öldürdüğüm arkadaşı.
+3|Yakuza liderinin kızı olan\nkız mı?
+5|Eminim bana kin besliyordur...
+7|...Özür dilerim, unut gitsin.
+8|Ama bundan bahsettikten sonra biraz daha iyi hissediyorum.\nBirine ilk kez anlattım.
+9|<CLT=cltMIND>O zaman her şey yoluna\ngirecek, Maki.
+10|<CLT=cltMIND>Umarım seni daha iyi hissettirecek\nbir şey yapabilirim.
+12|Hayır. Onu asla unutma.
+13|Eminim o da onu hatırlamanı\nistiyordur.
+14|...Ne? Neler yaşadığımı nasıl\nanlayabilirsin ki?
+15|...Sempatin sinir bozucu.
+17|Öldürdüğün arkadaşından bahsediyorsun,\ndeğil mi? Kin konusunu bilmem...
+18|...Bunu bana söylemene gerek yok.\nOnun yerinde olsaydım... kin beslerdim...
+19|Böyle gereksiz bir şey söyleme.
+20|<CLT=cltMIND>Maki bana sırtını döndü\nve sessiz kaldı.
+22|Öyle olduğunu sanmıyorum, Maki.
+23|...Biliyormuş gibi söyleme.
+24|Onun hayatı elinden alındı.\nTabii ki kin besler.
+25|Ama o senin arkadaşındı, Maki.
+26|Evet...\nİş için olsa bile arkadaşımı öldürdüm.
+27|Ama bu sana kin beslediği anlamına\ngelmiyor.
+28|*Beni* öldürsen bile bunun için\nseni suçlayabileceğimi sanmıyorum...
+29|Arkadaş olmanın bir parçası bu değil mi?
+33|Hayır... unut gitsin.
+34|<CLT=cltMIND>Maki bana sırtını döndü.
+35|<CLT=cltMIND>Ama dönerken onu gülümserken\nyakaladığımı sanıyorum.
+## a00_111_000
+4|Bundan pek emin değilim, Kaede...\nSöylemeyi pek istemiyorum...
+5|Ama bunu başkasına verdiğini düşünmek...\nEh, kalbimi acıtıyor...
+6|Kaede! Burada neler oluyor!?
+7|O yoz erkekler seni bayağı ve duyarsız\nolmaya mı etkiledi!?
+8|O zaman sana Neo-Aikido öğreteceğim!\nZihnin sakinleşecek!
+9|...Görünüşe göre cezalandırılmak istiyorsun.
+10|Söyleyecek bir şeyin var mı?\nSadece tek kelime söyleyebilirsin.
+11|İ-İnanılmaz!\nBana böyle bir şeyi nasıl verirsin!?
+12|Erkek yozların cezalandırılması gerektiğini\nhatırlattığın için... teşekkür ederim!
+13|K-Kızlar arasında hassasiyet konusunda bu kadar\nbüyük bir fark olacağından haberim yoktu!
+14|Eh, zevkini reddetmiyorum...\nAma sanırım bunu pas geçeceğim...
+15|Kaede, senin... şey... sıra dışı bir zevkin var.\nEh, piyanistsin, yani...
+16|Biraz fazla korunaklı büyüdüğünü ve bunun\nzevkini etkilediğini düşünüyor musun?
+18|Kusura bakma, bu hediyenin bir yoz için *bile*\nne kadar kötü olduğuna şaşırdım!
+19|Seni odanın öbür ucuna fırlatmamı istediğini\nvarsayıyorum, değil mi Shuichi!?
+20|Haaaa? Böyle bir şeyle ne\nyapmamı istiyorsun?
+21|Mutlu olacağımı mı düşündün?\nBeni tamamen hafife alıyorsun!
+22|Şimdi seni fırlatacağım!
+23|Vay! Okulda böyle bir şey olduğunu\nbilmiyordum! Nereden buldun, Kaede?
+24|Keşke karşılığında sana bir şey verebilsem...\nOnun yerine biraz Neo-Aikido görmek ister misin!?
+25|Bana hediye getirmen ne kadar hoş, Kaede!\nAma tabii ki bir kız getirir!

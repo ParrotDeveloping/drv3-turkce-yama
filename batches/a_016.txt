@@ -1,0 +1,69 @@
+@ ainori_text_US
+## a00_100_009
+18|Ah, şey... henüz bitmedi.
+19|Demek hazırlıklarını atladın...\nBu bir cezayı gerektirir.
+20|C-Ceza mı!?
+21|Kıpırdama! Kıpırdarsan büyümle bütün\nsaçlarını yolarım!
+22|<CLT=cltMIND>Himiko kaşlarını çatarak bana doğru\nbirkaç cesur adım attı.
+23|<CLT=cltMIND>Ne yapıyor...? Büyüsü için kobay\nmı olmak üzereyim?
+25|<CLT=cltSYSTEM>*püt*!
+27|<CLT=cltMIND>Aşağı baktığımda Himiko'nun yüzünü\ngöğsüme gömdüğünü gördüm.
+28|Ne... yapıyorsun?
+29|Bu senin cezan.
+30|Vay, hey!
+31|<CLT=cltMIND>Himiko beni sıkıca sardı ve alnını\ngöğsüme sürttü.
+32|Nyeh... Nyeh, nyeeeh...
+33|<CLT=cltMIND>Sahibine sürtünen bir köpek ya da kedi\ngibi görünüyor... Biraz sevimli...
+34|<CLT=cltMIND>H-Hayır, dur, şimdi bunu düşünmenin\nzamanı *değil*!
+35|Ah... bu... benim cezam mı?
+37|Genelde seni ben şımartırım. Ama...\nbazen efendinin de şımartılması gerekir.
+38|<CLT=cltMIND>Himiko yüzü hâlâ bana sokulmuş\nhalde mırıldandı.
+39|<CLT=cltMIND>Pek emir gibi gelmedi...\ndaha çok bir çocuğun surat asması gibi.
+40|Acele et...
+42|<CLT=cltMIND>Onu şımartmak...\nBelki... başını okşamak?
+43|Nyeh!\nHmm... hm, hmm...
+44|<CLT=cltMIND>Ah, haklıymışım.\n...Gerçekten bir evcil hayvan gibi.
+45|Daha çok...
+46|Bu senin cezan, yani... ben tatmin\nolana kadar... beni okşamalısın...
+47|<CLT=cltMIND>Daha çok mu?\nYani... başka bir yeri mi okşamalıyım?
+48|<CLT=cltMIND>Sanki aklımı okumuş gibi\nHimiko fısıldadı...
+49|Sırtımı...
+50|S-Sırtını mı? Ah, yapmalı mıyım\nbilmiyorum, bu...
+51|Hıh, efendine karşı mı\ngeleceksin?
+53|<CLT=cltMIND>Ah, evet, doğru... Tıpkı bir hayvanı\nokşamak gibi! Bunda yanlış bir şey yok!
+54|<CLT=cltMIND>Yarı yarıya ikna olmuş halde elimin\naşağıya, sırtına kaymasına izin verdim.
+55|Ooo!\nMmmmmm...
+56|<CLT=cltMIND>Gerçekten keyif alıyor gibi...\nOkşanmayı seviyor mu?
+57|Mmmm... Hmhm...
+59|Hmhm... Mm, Mmnyeh...
+60|<CLT=cltMIND>Himiko'nun okşamama tepki verişini izlerken\nzamanın nasıl geçtiğini tamamen unuttum.
+62|<CLT=cltMIND>Hiç uyarmadan Himiko'nun bedeni gevşedi\nve bana doğru kıvrıldı.
+63|Ah! İ-İyi misin?
+65|<CLT=cltMIND>Düşmeden onu yakalamayı başardım\nama tam yere bırakacakken...
+67|<CLT=cltMIND>Himiko'nun kolları boynuma dolandı\nve beni sıkıca sardı.
+69|Ne istediğini biliyorum, Shuichi...
+70|...Biliyor musun?
+71|Sahip olduğum büyü gücünü\narzuluyorsun, değil mi?
+72|Sorun... değil...\nEğer... onu yapmak istiyorsan...
+73|Ben sadece cinine âşık olmuş aptal\nbir büyücüyüm...
+74|<CLT=cltMIND>Aşk mı...?
+75|Hazırım... Beni istiyorsan...\no zaman senin olacağım...
+76|<CLT=cltMIND>Himiko'nun nefesi baştan çıkarıcı bir\nfısıltıyla kulağıma çarptı.
+77|<CLT=cltMIND>Sanki... bir büyünün etkisine\ngirmiş gibiydim...
+## a00_100_010
+3|<CLT=cltMIND>Maki'nin ideal hayali...\nNasıl bir şey olabilir acaba...
+4|...Hey.
+5|Ah... hey?
+6|10 yıldan fazladır birlikte olmamıza rağmen\nhâlâ... hiçbir şey bilmiyorum.
+7|10 yıl mı...?
+8|İlkokula başlamadan hemen önce yetimhaneye\ngelmiştin... hatırlıyor musun?
+9|Ah, evet... Hatırlıyorum.
+10|<CLT=cltMIND>Anlıyorum...\nMaki ile yetimhaneden arkadaşız.
+11|<CLT=cltMIND>Ama 10 yıldan fazla birlikte olduğumuzu\nsöyledi, değil mi?
+12|<CLT=cltMIND>Belki bu, bu hayalde... Maki'nin\nhiç suikastçı olmadığı anlamına geliyordur?
+13|Hey, Maki. Kulağa tuhaf gelebilir ama...\nBunca zaman birlikte miydik?
+14|...Evet.\nNeden bana tuhaf sorular soruyorsun?
+15|<CLT=cltMIND>Yalan söylüyor gibi görünmüyor.\nSanırım gerçekten suikastçı değil.
+16|<CLT=cltMIND>Eh, bu Maki'nin hayaliyse\no zaman...
+17|...Neyin var? Son zamanlarda\nçok tuhaf davranıyorsun.
+18|<CLT=cltMIND>Maki'nin suikastçı olduğunu bilmiyormuş\ngibi davranmalıyım.

@@ -1,0 +1,36 @@
+@ map_obj_name_text_US
+## ID257_backyard_c2_text
+4|Referans Alınan Rögar Kapağı
+## ID270_sch_side_5_text
+13|horse a
+## ID272_backyard_c6_text
+5|Çit
+## ID287_cyber_area_0_text
+2|Kepenk Kontrol Paneli
+4|Hangar Güvenlik Lambası
+7|Elektrikli Bariyer
+13|Hangar Kepengi
+14|Alarm Sistemi
+## ID353_under_text
+1|Geçit Girişi
+2|Çıkış Tabelası
+7|Metal Çubuklar
+## ID354_escapedeck_text
+1|Büyük Yuvarlak Kapı
+17|Bariyer
+## ID510_cafe_text
+5|Temiz Zemin
+## ID950_1F_text
+5|Sınıf
+## ID951_residence_text
+18|İsimlik
+## ID954_Private_15_text
+12|Kilit
+14|Banyo Kapısı
+15|Kristal Küre
+16|Dağıtılmış Oda
+## ID955_showerroom_text
+0|Yasuhiro'nun Cesedi
+## ID956_cafe_text
+6|Duvarda Asılı Bıçaklar
+7|Mutfak Girişi

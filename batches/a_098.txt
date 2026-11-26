@@ -1,0 +1,39 @@
+@ ainori_text_US
+## a00_109_000
+5|Büyümle seni aşağılık bir solucana\nçevirmek istiyorum.
+9|Nyeeeh... ne diyeceğimi bilemedim.
+10|Bana böyle bir şey verirken ne\ndüşünüyorsun?
+11|Nyeeeh...\nİstemiyorum.
+12|Ne istediğini bilmiyorum ama\nkaldır şunu artık.
+18|Nyeh... Benim için mi?
+19|Kusura bakma ama teşekkür etmek\nçok zahmetli...
+20|Hm? Bu benim için miydi?\nFark etmedim.
+21|Düzgün hediye veremezsen hayatta\nçok sıkıntı çekersin.
+22|Hm... güçlü Himiko'ya adaklar...\nEvet, bu iş görür.
+23|Bu şeyde hiç büyü yok. Bir büyücüye\nhediye büyülü olmalı, biliyor musun?
+42|Hmm... evet, bu iş görür.\nArtık MP'm yenilenebilir.
+43|Eh, büyük bir büyüye güç vermek\niçin hâlâ yeterli değil...
+44|Bir "Himiko'ya İyi Bir Hediye Bul"\nbüyüsü kullanmış olmalısın.
+45|Hm, aferin. Bundan sonra bana daha\nfazla şey vermene itirazım yok.
+50|Ooo... bir büyücü için neyin önemli\nolduğunu açıkça biliyorsun.
+51|Hm, teşekkür olarak sana büyümden\nbiraz göstereyim.
+52|Ooo... işte bu.\nİhtiyacım olan eşya.
+53|Fena değil. Büyü istatistiğimi artırmak\niçin bana daha fazla şey getir lütfen.
+55|Hm, teşekkür olarak sana büyümden\nbiraz göstereyim.
+## a00_109_050
+0|Nyeh? Yardımcı olabilir miyim?
+1|Ah, Shuichi. Ne oldu?\nBüyüme mi ihtiyacın var?
+2|Nyeh? Ne?\nBeni davet etmeye mi geldin?
+3|Büyüm numara değil. Sana kaç\nkez söylemem lazım?
+4|Bir sonraki gösterimde seyircileri\nkoltuklarından fırlatacağım.
+14|Sana büyü öğretmemi mi istiyorsun?\nEh, kolay değil ama...
+15|Karanlık bir büyücünün gönderdiği bir\ncasus olman mümkün, o yüzden...
+16|Önce casus olmadığından emin olmak\niçin basit bir test yapacağım.
+17|<CLT=cltMIND>Sonraki bir saati aslında karanlık bir\nbüyücünün casusu olmadığımı kanıtlayarak geçirdim.
+18|Yani bizi bu akademiden çıkarmak için\nbüyümü kullanmayı denememi mi istiyorsun?
+19|Kusura bakma ama bunu zaten denedim.
+20|Neredeyse başarıyordum ama şu anki büyü\nlistemle tam olarak beceremedim.
+21|Ama ustam burada olsaydı onun büyüsüyle\nkesinlikle kaçabilirdik...
+22|<CLT=cltMIND>Himiko'nun ustasını övmesini\ndinleyerek biraz vakit geçirdim.
+23|Seninle vakit geçirmekte sakınca görmüyorum\nama bunun büyüme ne faydası olacak?
+24|Eee? Bana açıkla, büyülü bir şekilde.

@@ -1,0 +1,56 @@
+@ ainori_text_US
+## a00_106_704
+52|<CLT=cltMIND>Korekiyo'nun gözleri nazik ve iyi niyetliydi.
+53|<CLT=cltMIND>Başta ürkütücü olduğunu düşünmüştüm...\nAma şimdi aramızda gerçek bir bağ var.
+54|Belki o zaman seni ilk öğrencim\nolarak görebilirim?
+55|Kehehe... Bu kadar erken bir öğrencim\nolacağını hiç hayal etmemiştim.
+57|<CLT=cltSYSTEM>Yeni bir beceri öğrendin: <CLT=cltSTRONG>Doğaüstü Olay<CLT=cltSYSTEM>.
+58|<CLT=cltMIND>Buradan çıkınca ne yapacağımızı\nkonuşarak biraz vakit geçirdik...
+## a00_106_902
+0|Senin sayende çok keyifli vakit\ngeçirdim.
+1|Saha çalışması dışında bu kadar keyifli\nvakit geçirmek...
+2|Kehehe... Çok gizemli birisin,\nShuichi.
+3|Memleketin seni nasıl etkiledi merak\nediyorum. Görmeyi merak etmeye başladım.
+4|Şimdi birlikte dönelim mi?
+5|Bana eğlenceli vakit geçirttiğin için minnettarım.\nLütfen beni yine davet et.
+6|Sana antropolojinin cazibesi hakkında\nöğretmek istediğim çok şey var.
+7|Pekâlâ, belki de dönmeliyiz.
+8|"Harika vakit geçirebildim..."
+9|Böyle bir şey söyleseydim\nyalan olurdu.
+10|Belki önce başkalarının duygularını\ndüşünmen gerekiyordur...
+11|Pekâlâ, ben önden döneyim...
+13|Sinirlerini söküp almamı mı istiyorsun?
+## a00_106_914
+0|Antropoloji hakkında konuşmaktan\nbiraz yoruldum...
+1|Korktuğum gibi...
+2|Her çalışmanın bir durgunluk\ndönemi gelir.
+3|Keşke sana daha ilginç bir şekilde\nöğretebilseydim...
+4|Ah, hayır, senin suçun değil...
+5|Hayır, bir öğrencinin durgunluğu şüphesiz\nöğretmenin başarısızlığıdır.
+6|Antropolojiye olan ilgini sürdüremediğim\niçin... çok özür dilerim.
+8|Evet, bana antropoloji öğret.
+9|Kehehe... Görünüşe göre antropolojiye\nolan ilgin sonuçta azalmamış.
+10|Benim sana yaptığım gibi bilgini yayabilirsen\nmutlu olurum.
+11|Bilginin yayılması insanlığın güzelliğinin\nönemli bir yönüdür.
+12|Bunu bana sen öğrettin. Sen olmasaydın\nbunların hiçbirini bilemezdim.
+13|Senin gibi bir öğrencisi olduğu için\nçok şanslı bir antropoloğum.
+15|Aşk zor bir konu... Başkalarıyla\ntartışılacak bir şey olmayabilir.
+16|Bunu söylediğini duyduğuma çok sevindim.
+17|Çünkü bu demek oluyor ki... aşk konusundaki\nfelsefemi paylaşıyorsun.
+18|Aşk başkalarıyla tartışılacak değil,\nişte yetiştirilecek bir şeydir.
+20|Ama beni bu kadar iyi anlayan\nsenin gibi biri için...
+21|Belki bir gün... böyle şeyleri birlikte\ntartışabiliriz.
+23|Aşkı senden duymak istiyorum,\nKiyo.
+24|İlgilenmene sevindim ama...
+25|İnsanlar aşkı kendi başlarına\ndüşünmeli.
+26|Başkalarıyla konuşmaktan kazanılacak\nhiçbir şey yok.
+27|Ah, öyle mi...?
+28|Belki anlayamıyorsun? Seni gözümde\nbüyütmüş olabilirim...
+## a00_107_000
+4|...Oyuncak mı? Bana böyle mi arkadaş getiriyorsun?\nBeni de oyuncak olarak mı görüyorsun?
+5|Bu oyuncakla kıyaslanmamayı tercih ederim... ama\noyuncak olarak sanırım biraz sevimli.
+8|Özür dilerim. Yiyecek ve içeceklerle onlara\nbakmaktan başka bir şey yapamam...
+9|Bu tür bir hediye bana harcanır. Muhtemelen\nbaşka birine vermelisin.
+12|N-Neyin var senin!? Bana neden böyle\nbir hediye veriyorsun!?
+13|Bu bir tür robotfobik mikro\nsaldırganlık değil, değil mi!?
+16|...Böyle bir hediye verilmesine nasıl\ntepki vereceğimi bilmiyorum.

@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_112_230
+16|Senden giymeni istedikleri karaktere\nuyduğundan emin olman gerekecek.
+## a00_112_310
+5|Bu bir kızı okumaya davet etmen\ngereken bir şey değil.
+6|Ah...
+7|Bunu azar işitmek falan için bilerek\nsöylemedin, değil mi?
+8|Ben de aynı şeyi düşünüyordum!
+9|Romanlar ve edebiyat iyi ama önce\nmangalara göz atmalısın.
+10|Mangalar çok harika!\nİnsan kültürünün zirvesi!
+11|Gerçekten mi? Kitaplarla çevriliyken\nbüyük bir heyecana kapılırım...
+12|Sanırım pek anlaşamayacağız...
+## a00_112_320
+5|Burada bile derslerine özen gösteriyorsun,\nha Shuichi?
+6|Hmm... O zaman sen çalışkan\nkarakter olursan...
+7|Ben de gözlüklü öğrenci konseyi\nbaşkanı rolünü oynarım!
+8|İyi uyuyamıyor musun?
+9|Böyle bir durumda bu\nanlaşılabilir...
+10|Uyuyamıyorsan sakinleşmek için asal\nsayıları saymanı tavsiye ederim.
+11|Evet! O zavallı kitaplar için üzülüyorum!
+12|İster manga ister DVD olsun, ona düzgün\nbakmak alıcının görevidir!
+13|Ah, özür dilerim...
+14|Sana kızmak istemedim...\nSenin suçun olmadığını biliyorum.
+## a00_112_330
+2|Üniformaların fotoğraf albümüne bakalım
+5|Sadece kurgu karakterlerin kostümünü giyerim\nama gerçek üniformalar da sevimli!
+6|Bazen bunları giyen hiçbir karakter\nolmadığına kızıyorum.
+7|Yoksa... Efsanevi Ultimate Dedektif'e\nmi dönüşeceksin?
+8|Özel efektli dönüşümlerde de çok\nbilgiliyim. Beni hafife alma.
+9|Dönüşümlerimiz için bağırma pratiği\nyapmanın en iyi yolu... siyasi tartışma!
+10|Şeyy... bence kitaplarla böyle\noynamamalısın.
+11|Orijinal eserlere saygı göstermek istiyorum,\no yüzden onlara özensiz davranılmasını sevmem.
+## a00_112_410
+5|Evet, kulağa iyi geliyor.\nBiraz egzersiz yapalım mı?
+6|Ha...? Egzersiz yapmama\nşaşırdın mı?
+7|Tabii ki bir atlet kadar yapmıyorum ama\nesneme hareketleri ve koşu yapıyorum.
+8|Çünkü esnek değilsem pozları\niyi veremem.
+9|Şeyy... yani ot yolmak gibi\nmi?
+10|Bence olduğu haliyle güzel görünüyor.
+11|Bilimkurgu anime mekânı gibi, değil mi?\nTıpkı bir tablo gibi olduğu düpedüz belli.
+12|Böyle bir arka planla gerçekten harika\nkostüm fotoğrafları çekebiliriz!
+13|Gerçekten mi? Öyleyse yanlış yere\ngelmedin mi?
+14|Buraya uzanırsan saçın ve kıyafetlerin\ndağılır.
+15|Bunu umursamayan biri misin,\nShuichi?
+## a00_112_420
+5|Ben... basketbol oynamak istiyorum...
+6|Ah, pardon... ağzımdan kaçtı...
+7|Ama basketbol oynaman istendiğinde bunu\nsöylememek daha tuhaf olurdu, değil mi?
+8|Yok, yok. Öyle birden söylesen\nbile soyunmam.
+9|Benim uzmanlığım kıyafet giymek,\nçıkarmak değil...
+10|Ayrıca neyin var? Böyle şeyler söylemek\nhiç sana göre değil...
+11|Hazırlık her şey için önemlidir,\nbiliyor musun?
+12|Kostüm giyerken bile hazırlanmazsan\nfelaket olabilir.
+13|Cidden... düpedüz felaket. Mesela makyaj\ntemizleyiciyi unutursan...
+14|Bir keresinde tam yüz boyasıyla\neve gitmek zorunda kalmıştım...
+15|Ama şimdi geriye bakınca\ngüzel bir anı.
+## a00_112_430
+5|B-Bu demek oluyor ki... beni davet\nettiğini varsaymam sorun değil, değil mi?
+6|Zırhlı bir peygamberdeveyle dövüşü hayal\netmene yardım etmemi istiyorsun, değil mi!?
+7|Ha...? Hakem sen olursan\nben ne yapacağım?
+8|Yuri'nin yapacağı gibi bir artistik\npatinaj gösterisi mi?
+9|İzlenmek düpedüz utanç verici olurdu...\nayrıca burada buz yok...
+10|Kusura bakma, ben... düpedüz şaşkınım.\nBir tepki bulamıyorum.
+11|Alev silahlı, mohikan saçlı kıyamet sonrası\nadamlara mı hayransın?
+## a00_112_510
+5|Bütün gün okul binasında olmak boğucu.\nSanki çürüyüp gidiyoruz.
+6|Dışarı çıkıp biraz temiz hava solumak\ngerçekten iyi geliyor.

@@ -1,0 +1,68 @@
+@ ainori_text_US
+## a00_105_702
+29|"Ne peşindesin" de ne demek?\nSadece fedai tetikçim olmanı istiyorum.
+30|"Fedai tetikçi" mi!?
+31|Sadece öldürmek israftır. Adamları harcamanın\ndeğerini öğrenmek daha önemli!
+32|<CLT=cltMIND>Her iki durumda da öldürmek!
+34|Hm, neden yalan olduğunu düşünüyorsun?\nBir numara olduğu konusunda o kadaaar paranoyak mısın?
+35|Kimse kandırılmaktan hoşlanmaz, Kokichi.
+36|Ah, öyle mi?
+37|Bütün dünyayı kandırırsan <CLT=cltSTRONG>gerçek<CLT=cltNORMAL> olur.\nZaten gerçek <CLT=cltSTRONG>gerçek<CLT=cltNORMAL> o kadar da harika değil.
+38|Bütün dünyayı kandırmak mı?
+39|Dünya şu an seni kandırıyor olabilir\nve sen bunu bilmezsin bile.
+40|...Ama bu konuda da yalan söylüyor olabilirim.
+45|Yani... sanırım gideyim.
+46|Bu arada bu olayı oyun oynamadan harcamanın\nsorun olmadığına emin misin?
+48|Artık hayatta kalmak için bir şansın eksildi,\nbiliyor musun?
+49|Sana sadece üç olayın kaldığını zaten söyledim.\nAma epey rahat görünüyorsun.
+50|B-Bir dakika, bugün çay içmemizi\nsöyleyen sendin!
+51|Yani beni mi suçluyorsun?\nEvet tabii, neyse!
+53|Ah-haha! İşte orada, Shuichi!\nGörmek istediğim surat buydu!
+54|Ben kötülüğün yüce lideriyim!\nİnsanların umutlarını ve hayallerini ezerim!
+55|Atıştırmalık molamı verdiğime göre bugün\nsıkı çalışabilirim!
+56|Nii-hihihi!
+58|<CLT=cltMIND>Kokichi'nin yüzsüz kahkahasını üzerimden\natıp odama döndüm.
+## a00_105_703
+0|Hey, Shuichi!\nBugün düzgün bir savaş yapalım!
+1|Yanan Özür denen bir oyuna\nne dersin?
+2|Yanan Özür mü!?
+3|Evet! Kızgın bir metal levhanın üstünde\ndiz çöküp seni öldürmemem için yalvar!
+4|Gerçekten yaşamak istiyorsan\nyapabileceğini biliyorum!
+5|Bunu yapamam, ölürüm!\nVe bu kulağa "oyun" gibi gelmiyor...
+6|Hıh. Demek anladın.
+7|Tabii ki anladım!
+8|O zaman... Çelik Kiriş Yürüyüşü'ne ne dersin?
+9|Çelik Kiriş Yürüyüşü mü?
+10|İnce bir çelik kirişin üstünde düşmeden\nsonuna kadar yürüyorsun! Sonra kazanıyorsun!
+11|Ah... bu kulağa... idare eder geliyor.
+12|Bu arada kiriş iki binanın arasına\nyerleştirilmiş. İşin içinde elektrik de var.
+13|Ve tabii sen de karşıya\ngeçmeyi planlıyorsun?
+14|Tabii ki geçeceğim!\nDenge konusunda kendime epey güvenirim!
+15|Ama bu bir yalan!\nYani hayır! Gitmeyeceğim!
+16|<CLT=cltMIND>Benimle uğraşmak için epey\nçaba harcıyor...
+17|Yapabileceğimiz başka bir şey var mı?\nÖlüm kalım oyunu istiyorum.
+18|Kokichi, bu meydan okumalar... Fikir şu ki\nkazanırsam ölmüyorum, doğru mu?
+19|Aynen öyle! Ne olmuş?
+20|O zaman neden *ikimiz de*\nhayatımızı riske atıyoruz?
+21|Kimin umurunda? Bir gün nasılsa öleceğiz.\nBu sadece zamanlamayı biraz değiştiriyor.
+22|Ben kötülüğün yüce lideriyim!\nHayatımı riske atmaya alışkınım!
+23|...Ama çelik kiriş yürüyüşü\nyapmıyorsun.
+24|Ah-haha, tabii ki!\nSöylediğim bir yalandı!
+26|<CLT=cltMIND>Bu noktada alıştım.
+27|Peki o zaman, basit bir taş-kâğıt-makas\noyunu oynasak?
+28|Taş-kâğıt-makas mı?\nO tamamen şans değil mi?
+29|Nii-hihi... Ama bu yüzden eğlenceli!\nShuichi, hayatta kalmada bol şans!
+30|Taa-mam! İşte geliyooorum!\nTaş, kâğıt, makas!
+31|İkimiz de aynı şeyi attık.
+32|Anlıyorum. Bir daha.\nHazır mısın? Taş, kâğıt, makas!
+33|<CLT=cltMIND>...Yine mi aynı?
+34|Nii-hihihi!\nHayatını ne kadar uzatacaksın, Shuichi?
+35|Taş, kâğıt, makas!
+40|Yine aynı...
+41|Ah! Artık sıkıldım!
+42|Bu milyarıncı berabere kalışımız!\nShuichi, lütfen bitir artık!
+43|Yapabileceğim... pek bir\nşey yok...
+44|Peki, o zaman bugünlük bu kadar.\nTebrikler, Shuichi. Hâlâ hayattasın.
+45|Ah evet, bu arada...
+46|Taş-kâğıt-makasta bilerek aynı şeyi\natmanın bir yolu olduğunu biliyor muydun?
+48|Nii-hihihi...

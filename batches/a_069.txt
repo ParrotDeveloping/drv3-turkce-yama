@@ -1,0 +1,43 @@
+@ ainori_text_US
+## a00_106_000
+17|Ama o kişiyi neyin mutlu edeceğini\ndüşünmek gerekmez mi?
+18|Hmm... demek hoşlandığın şey bu,\nKaede? Anlıyorum... aklımda tutacağım.
+23|Hmm... demek hoşlandığın şey bu,\nShuichi? Anlıyorum... aklımda tutacağım.
+34|Bu benim olabilir mi?\nKehehe... çok teşekkür ederim.
+35|Hediye vermekten hoşlanıyor musun? Belki kültürel\nhediyeleşme pratiklerini konuşabiliriz.
+36|Bu güzel bir hediye... Neredeyse alan kişi\nolduğum için üzülüyorum.
+37|Karşılığında en azından sana birkaç hikâye\nanlatmak isterim. Ama hangisini...?
+42|Bu...! Kaede, böyle bir şeyi nereden\nbuldun Allah aşkına!?
+43|Ooo... Burada böyle muhteşem bir eşyayla\nkarşılaşacağımı hiç hayal etmemiştim.
+44|Bunu bana getirmek...\nHazineler için gerçekten bir gözün var.
+45|Kehehe... ne harika bir kadınsın.\nBu konuda hiçbir şikâyetim yok.
+46|İstersen sana bu eşyanın tarihini\nanlatabilirim. İlgilenir misin?
+47|Bu...! Shuichi, böyle bir şeyi nereden\nbuldun Allah aşkına!?
+## a00_106_050
+0|Hm? Antropoloji hakkında bir şeyler\nduymak mı istiyorsun?
+1|Beni bir yere davet etmeye\nmi geldin?
+2|Benimle insanlığın güzelliğini tartışmak\nistiyorsun, değil mi?
+3|Beni mi seçtin? Ben de sana sormayı\ndüşünüyordum, Shuichi.
+7|<CLT=cltSYSTEM>Korekiyo'yla ne yapmak istersin?
+13|Bugün aksesuarların kültürel önemini\ntartışmaya ne dersin?
+14|<CLT=cltMIND>Günü aksesuarların antropolojisini\nöğrenerek geçirdim.
+15|Görünüşe göre antropolojik bilgiye olan\narzun arttı.
+16|Öyleyse belki onda neyi ilginç bulduğunu\nbana anlatabilirsin?
+17|Konu hakkındaki düşüncelerini en çok\nmerak ediyorum.
+18|<CLT=cltMIND>Kiyo'ya antropolojide neyi ilginç\nbulduğumu anlatarak biraz vakit geçirdim.
+19|Davetin gururumu okşadı...\nAma yeterince vakit olmadığından endişeliyim.
+20|İnsanlığın güzelliğine olan aşkım sadece\nbir günde anlatılamaz.
+21|Bununla birlikte tartışmaya başlamazsam\nasla sonuçlanmaz.
+22|Belki sadece insanlığın güzelliğinin temel\nnoktalarını anlatırım.
+23|<CLT=cltMIND>Kiyo'nun insanlığın güzelliğinden bahsedişini\ndinleyerek biraz vakit geçirdim.
+24|Bu kadar uyumlu olmamız için geçmiş bir\nhayatta birbirimizi tanımış olmalıyız.
+25|Shuichi, ruhun yeniden doğuşuna, reenkarnasyona\nya da ruhlara inanıyor musun?
+26|Genelde okült diye geçiştirilirler ama\nantropolojiyle yakından bağlantılılar.
+27|Örneğin...
+28|<CLT=cltMIND>Günü ruhların antropolojisini\nöğrenerek geçirdim.
+29|<CLT=cltMIND>Korekiyo'yla bugün biraz daha yakınlaştık.
+## a00_106_110
+4|Medyumlar hakkında belgesel izle
+5|Kehehe...\nİyi bir zevkin var.
+6|İnsanlarla böcekler arasındaki kültürel\nilişki büyüleyici.
+7|Bazıları onları haşere, bazıları yemek olarak görür,\nbaşkaları ise onlara tanrı gibi tapar...

@@ -1,0 +1,69 @@
+@ ainori_text_US
+## a00_300_101
+72|<CLT=cltSYSTEM>Yeni bir tema edindin:\n"Evrenin Ötesinde Aşk."
+## a00_300_102
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nRyoma'yla baş başa konuşmaya karar verdim.
+3|Dış dünyadaki hayatım bugün\nsona eriyor...
+4|Buraya ilk hapsolduğumuzda...\nbir kâbus gibi görünüyordu...
+5|Ama şimdi böyle bir hayattan vazgeçmek\nzorunda olduğum için pişmanım...
+6|<CLT=cltMIND>Doğru...\nRyoma hapse geri dönmek zorunda.
+7|Bana acıma...
+8|Aksine, sana minnettarım.
+9|Senin sayende burada hiç\nsıkılmadım...
+10|Ve dahası, belli belirsiz bir...\numut kırıntısı yakalayabildim...
+12|Evet, umut olduğundan hiç şüphem yok.
+13|Buraya gelmeden önce hiçbir\ngeleceğim yoktu.
+14|Ama şimdi kendimi "Hapisten\nçıktığımda..." diye düşünürken buluyorum.
+15|Hâlâ gelecek hakkında düşünebildiğime\nşaşırıyorum.
+16|<CLT=cltMIND>Onunla ilk tanıştığımda gerçekten de\ngeleceği hiç düşünmüyordu.
+17|<CLT=cltMIND>Şimdi ise hep ileriye bakıyor.
+18|<CLT=cltMIND>Değişmesine yardım ettiğimi bilmek...\nHiçbir şey beni bundan daha mutlu edemez.
+19|Bunu söylemene gerçekten çok\nsevindim, Ryoma.
+20|Hıh... Hep aynısın.\nSonuna kadar.
+21|Bu arada, hapisten çıkınca yapmak\nistediğini söylediğin şey...
+22|Ne oldu...?
+23|O içten konuşmayı yaptık, şimdi de\nunuttuğunu mu söylüyorsun?
+24|H-Hayır, şey...
+25|<CLT=cltMIND>Ryoma hapisten çıkınca ne\nyapmak istiyordu?
+26|Sevgilisiyle buluşmak
+27|Şefle çorba içmek
+28|Attığı bir şeyi bulmak
+29|Sevgilinle buluşacaksın, değil mi?
+31|Sevgilim öldü...
+32|Çünkü... onu ben attım...
+33|<CLT=cltMIND>Bu yanlıştı.\nRyoma'nın yapmak istediği şey...
+34|Şefle çorba içmeye gitmek\nistiyorsun, değil mi?
+35|Hıh, of be...\nSana öyle bir hikâye hiç anlatmadım.
+36|Dinliyormuş gibi görünüyordun\nama tek kelime duymadın, ha?
+37|<CLT=cltMIND>Bu yanlıştı.\nRyoma'nın yapmak istediği şey...
+38|Attığın bir şeyi bulacaksın,\ndeğil mi?
+39|Evet, attığım şeyler...\nOnlara yeniden uzanmak istiyorum.
+40|Şey, hapisten çıktığımda...\nçoğu için çok geç olacak.
+41|Çok geç olsa bile belki buradaki zamanın\nsana yeni ve önemli bir şey verdi.
+43|Böyle utanç verici şeyleri nasıl\nsöyleyebiliyorsun?
+44|Seni dinlemek bile beni\nutandırıyor...
+46|Özür dileme. Böyle şeyleri dert\netmem. Hiç etmem.
+47|Seninle tanıştığıma gerçekten seviniyorum...
+48|<CLT=cltMIND>Bana uzatılan eli sıkıca\ntuttum.
+49|<CLT=cltMIND>Ellerinin ne kadar nasırlı ve güçlü\nolduğunu fark ettim...
+50|<CLT=cltMIND>Bu ellerin attığı şeyleri\nbulabileceğinden eminim.
+51|<CLT=cltMIND>Kanıtlayamam ama inanıyorum.
+52|<CLT=cltMIND>Belki de inanmamın sebebi\naramızdaki bağdır.
+55|<CLT=cltSYSTEM>Yeni bir tema edindin:\n"Evrenin Ötesinde Aşk."
+## a00_300_103
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nRantaro'yla baş başa konuşmaya karar verdim.
+3|Şey, Shuichi?\nAslında sana söyleyeceğim bir şey var.
+5|Şey, aslında ben...
+7|Yeteneğimi hatırladım!
+9|Zamanlamanın fazla uygun göründüğünü\nbiliyorum ama doğru!
+10|Belki Monokuma çıkabileceğimizi söyleyince\nbir şeyi tetikledi. Belki de değil...
+11|Ama her neyse,\nartık hatırlıyorum.
+12|Peki, nedir?
+13|Bir maceracı.
+14|Meğer ben <CLT=cltSTRONG>Ultimate Maceracı'ymışım<CLT=cltNORMAL>!
+15|...Maceracı mı?
+16|<CLT=cltMIND>Rantaro sonunda yeteneğini keşfetti\nama bu yeni soruları da beraberinde getiriyor...
+17|Haha, tamam, böyle tepki vermene\nkızmıyorum.
+18|Ben bile doğrudan bir mangadan çıkmış\ngibi geldiğini kabul ediyorum.
+19|E-Evet... Pek aşina olduğum\nbir şey değil...
+20|Ama ben gerçekten <CLT=cltSTRONG>Ultimate Maceracı'yım<CLT=cltNORMAL>.

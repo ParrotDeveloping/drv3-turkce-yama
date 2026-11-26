@@ -1,0 +1,33 @@
+@ ainori_text_US
+## a00_101_914
+28|belki en yakın arkadaşına açılırsın.\nNe dersin, Kaito?
+30|Teşekkürler.\nArtık iyiyim.
+31|Ne? Emin misin?
+32|Beni böyle düşündüğünü bildiğime göre...\nBütün şüphelerim gitti!
+33|Pekâlâ! Bu berbat akademiden\nbirlikte kaçalım!
+34|<CLT=cltMIND>Güzel, görünüşe göre ikimiz de\nçok eğlendik.
+## a00_101_916
+0|<CLT=cltMIND>Ne olduğunu anlayamadım
+## a00_102_000
+4|Bunu bana mı veriyorsun?\nNe peşindesin...?
+5|Serserilik mi yapıyorsun yoksa sadece\nmeraklı mısın bilmiyorum ama bunu kabul etmiyorum.
+8|Bu hakaret yüzünden olay çıkarmayacağım...\nama aklımda tutacağım.
+9|Biri iyi bir insan olmasa bile öyle\nkaba davranamazsın...
+12|Benden tam olarak nasıl bir tepki\nbekliyordun?
+13|Kusura bakma ama şaka hediyelerini\nsevmem.
+14|Bu hiç hoş değil... Daha iyi bir zevkin\nolduğunu sanıyordum.
+15|Hıh... Böyle bir hediyeye söyleyecek\nbir şeyim yok.
+20|Hıh... bunu bana mı veriyorsun?\nBunun anlamı ne?
+21|Neyse, boş ver. Sanırım kötü bir\nniyetin yoktu.
+22|Ha? Vicdanlı biri gibi görünüyordun,\nyoksa seni yanlış mı değerlendirdim?
+23|Eh... sanırım böyle bir yanının olması\nda cazibenin bir parçası, ha?
+24|Bana hediye vermek...\nTuhaf birisin.
+25|Ben... düşünceni takdir ediyorum.
+44|Ah... iyi bir zevkin var.
+45|Umarım iyiliğini ödeyebilirim.\nAma hediye vermekte pek iyi değilim.
+46|Hıh... beni mutlu etmekten iyi bir şey\nçıkmaz, biliyorsun değil mi?
+47|Ne kadar mutlu olduğumu gösteremediğim için kusura bakma...\nBu hediye için gerçekten minnettarım.
+52|Hıh... hiç fena değil.
+53|Bazen ben bile mutlu hissetmek istiyorum\n... o yüzden bunu kabul edeceğim. Teşekkürler.
+54|Bunu bana veriyorsan...\nbeni gerçekten anlıyorsun, ha?
+55|Sana verecek bir şeyim yok, sorun olur mu?\nHıh... tuhaf birisin.

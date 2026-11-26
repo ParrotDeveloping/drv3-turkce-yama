@@ -1,0 +1,71 @@
+@ ainori_text_US
+## a00_113_210
+13|O insanlar için değil.\nOnu sadece Atua içebilir.
+14|Bir keresinde bir damla tattım ama pek\nlezzetli değildi.
+## a00_113_220
+5|Oh? Saklambaç gibi mi?
+6|Bana saklambaç teklif ettiğine göre\nepey kendinden eminsin.
+7|Çünkü, çünkü, çünkü... Atua'nın gözünden\nhiçbir şey kaçamaz.
+8|Dünyanın merkezine saklansan bile\nAtua seni her seferinde bulur.
+9|Benden saklanmayı bir dene, Shuichi!
+10|Nyahahaha! Ne kadar şıksın, Shuichi!
+11|Çay saatine varım ama kimin kanını\nkullanacaksın?
+13|<CLT=cltMIND>Bunu yanlış duyduğuma *kesinlikle* eminim.
+14|Hm? Ama açken Atua'nın sesini\nduyamazsın.
+15|Atua'nın benimle konuşmayı bırakmasını mı\nistiyorsun, Shuichi?
+17|Kimse benimle Atua'nın arasına giremez.\nSen bile.
+## a00_113_230
+5|Atua konuştu...\nKahve içilemeyecek kadar acı.
+6|Hmmm... Belki de sen ve Atua o kadar\nuyumlu değilsiniz.
+7|Yemekten sonra uyursan kurban edilme\nihtimalin artar, biliyor musun?
+8|Yoksa kurban olarak Atua'ya hizmet\netmek mi istiyorsun? Hmmm?
+9|Ne zaman hazır olursan yaparım, tamam mı?
+10|Nyahaha! Her zamanki gibi ilahisin, Shuichi.\nAtua yemekten sonra egzersiz öneriyor.
+11|Yemekten hemen sonra uyursan kurban\nedilme ihtimalin fırlar.
+12|Baksana, adam hakkında nasıl bu kadar\nçok şey biliyorsun?
+13|Ah! Yoksa önceki hayatında adamda bir\nprens miydin!?
+14|O zaman birbirimizle tanışmamız kaderdi!\nAtua'nın gözdesi olmana şaşmamalı!
+## a00_113_310
+5|Şu egzersiz kitabından mı bahsediyorsun?
+6|Başkasının egzersiz yapmasını izlemektense\nkendim yapmayı tercih ederim.
+7|Ama Atua izlemenin eğlenceli olduğunu söyledi...\nsanırım egzersiz yapmanı izleyebilirim.
+8|Ama tek başına yapmak istersen\nbana söyle, tamam mı?
+9|Atua, böyle çocukça şeyleri bir kenara\nbırakman gereken bir zamanın geldiğini söylüyor.
+10|O yüzden artık öyle şeyler okumuyorum.
+11|Bu kadar sessiz biri için epey\nolgunlaşmamışsın.
+12|Cidden o kadar sıkıldım ki\nkafayı yiyeceğim.
+13|Keşke burada DeepSea'ye erişimimiz olsaydı.
+14|O zaman kan ve çocuk ithal ederdim,\nhep birlikte oynardık.
+## a00_113_320
+5|Hayır, hayır... Ders çalışmama gerek yok.
+6|Çünkü bir şey bilmem gerekirse\nsadece Atua'ya sorarım.
+7|Benim hakkımda öğrenecek daha çok şeyin\nvar, Shuichi.
+8|Sebepsiz yere gürültü yaparsan\nAtua'nın gazabına uğrarsın.
+9|Atua'yı memnuniyetsiz mi bırakmaya çalışıyorsun?
+10|Bunu yaparsan yarını göremezsin.
+11|Gökyüzüne uzanan bir kitap kulesi inşa\nederek Atua'yla tanışmak mı istiyorsun?
+12|İyi bir fikir ama burada yeterince\nkitap yok.
+13|İstersen senin için Atua'ya bir mesaj\niletebilirim.
+## a00_113_330
+3|Adaların fotoğraf albümüne bakalım
+5|Atua o polisiye romanı daha önce\nokuduğunu söyledi.
+6|Hikâyenin başındaki kadın suçlu\nçıkıyormuş.
+7|Nyahahaha! Atua sayesinde okumama\nbile gerek kalmadı!
+8|Bu, daha önce keşfedilmemiş bir adada\nçekilmiş fotoğrafların albümü.
+9|Bakalım, bakalım...\nYamyamlık, kölelik...
+10|Nyahahaha! Ne kadar şirin!
+11|Böyle eski moda geleneklere sahip adalar\nolduğuna inanamıyorum.
+12|...Neden onu okumak isteyesin ki?
+13|Ben tek gerçek tanrı olan Atua'ya taparım.
+14|Beni Atua'ya ihanet etmeye\nzorlamaya çalışma, Shuichi...
+## a00_113_410
+5|Ha? Bir tür egzersiz yarışması falan\nmı?
+6|Atua egzersizi gündüz değil gece\nyapman gerektiğini söylüyor.
+7|Atua'ya karşı gelemem.\nSen istesen bile.
+8|Ne? Bunu yapmana gerek yok.
+9|Çünkü Atua öyle diyor, tamam mı?
+10|Ayrıca gerçekten yapmak istiyorsan\ntek başına yapman gerektiğini söyledi.
+11|Ama öyle yaparsan sıkılırım.\nO yüzden belki hiç yapmasan iyi olur.
+12|Ne komik bir şey söyledin, Shuichi.\nDaha hiçbir şey yapmadık.
+13|Gerçekten yorgunsan seni biraz\ncanlandırayım mı!?
+14|Sorun yok, sorun yok. Benim yardımımla\nyorgunluğun eriyip gidecek!

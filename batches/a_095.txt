@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_108_702
+20|Evet. Durum acil müdahale\ngerektiriyordu.
+21|Tabii onlara tek başıma saldırsaydım\nhayatta kalamazdım.
+22|Kızın güvenliği en büyük önceliğimdi.
+23|Shuichi... Bu durumda olsaydınız\nnasıl bir emir uygulardınız?
+24|Ah, şey... konumu biliyordun, yani\ndüzeni de biliyor olmalıydın.
+25|Bunu avantajına kullanıp düşmanı\nbölerek onlarla çatışabilirdin.
+26|Aferin, Shuichi...
+27|Evet, düşman kuvvetlerini ayırıp onları\nteker teker etkisiz hale getirdim.
+28|<CLT=cltMIND>Açıkçası hayret ettim... Tabii, bunu\ndüşünebilirim ama asla gerçekten yapamazdım.
+29|Kızını güvenceye alıp örgütün patronuna\nulaştım...
+30|Yani dava kapandı mı?
+31|Hayır, bu yeterli değildi. Onları öyle bıraksaydım\nyeniden denemeye kalkışırlardı.
+32|Bu yüzden...
+33|<CLT=cltMIND>...Hepsini... öldürdü mü?
+34|Suç örgütünün liderini bir işletme kurmaya\nikna ettim.
+35|Bir işletme mi?
+36|Onda sizde gördüğüm kadar potansiyel\ngörmedim ama biraz vardı.
+37|Ona hizmetçisi olarak hizmet edersem onu\nkesinlikle başarılı yapacağımı söyledim.
+38|Durumu çabuk anladı ve teklifimi\ndeğerlendirdi.
+39|<CLT=cltMIND>"Değerlendirdi" doğru kelime mi\nbilmiyorum...
+40|<CLT=cltMIND>Koca bir grubu tek başına alt edebilen bir\nhizmetçiyi asla geri çeviremezdi.
+41|Şu anda bir uşak hizmeti sektörünü\nsürdürüyoruz.
+42|Ah, uşaklar.\nAnlıyorum...
+43|<CLT=cltMIND>Kirumi tarafından eğitiliyorlarsa\neminim gayet iyi iş çıkarırlar.
+44|<CLT=cltMIND>Kirumi bir süper hizmetçi...\ninanılmaz bir hizmetle.
+46|<CLT=cltMIND>Kirumi'yle yollarımızı ayırdık\nve odama döndüm.
+## a00_108_703
+0|Shuichi...\nSanırım bir şeyi yanlış anlıyorsunuz...
+1|Yanlış mı anlıyorum...?
+2|Kusursuz bir hizmetçi olduğumu mu düşünüyorsunuz?
+3|Bana anlattıklarına bakılırsa\ntamamen kusursuzsun...
+4|Ve senin desteğinle herkes inanılmaz\nderecede başarılı olabilir.
+5|*iç çekiş* Bunu takdir etsem de...
+6|"Kusursuz hizmetçi makinesi" denmesini\ntercih etmem.
+7|<CLT=cltMIND>Hiç öyle dediğimi sanmıyorum...
+8|Hem başarı potansiyeli olmayanlara yardım\netmek neredeyse imkânsızdır.
+9|Eh, öyle olabilir ama...
+10|Ama potansiyeli olanlara bile destek\nolamadığım zamanlar oldu...
+12|Hizmetçi olarak kariyerime yeni başladığım\nzamanlarda böyle bir zaman olmuştu.
+13|Bir iş adamı beni işe aldı. Ve hırs ve\nyetenekle dolup taşıyordu.
+14|Ünlü olacağını biliyordum,\nbu yüzden elimden gelen her şeyi yaptım.
+15|Günlük ihtiyaçlarıyla ilgilendim ve ona tavsiye\nverdim. Hatta bazen sekreterliğini yaptım.
+16|Efendim meşgulken çalışanlarına emir\nvermede onun yerini alırdım.
+17|Şirket böyle istikrarlı bir şekilde büyüdü.\nEfendime "Çağımızın Kahramanı" denirdi.
+18|Ama sonunda... efendim kendi başına\nhiçbir şey yapamaz hale geldi.
+20|Onun için çok fazla şey sağladım.
+21|Efendime her sorumlulukta yardım etmenin\nona faydalı olacağını düşündüm...
+22|Ama bana artık hiçbir karar veremediğini\nsöyleyerek ağladı...
+23|Ah, bu senin suçun değil, Kirumi...\nSadece sana fazla bağımlıydılar.
+24|Hayır, benim suçumdu.
+25|Senin için iyi bir deneyimdi
+26|Şımartan bir anne gibisin
+27|Böyle bir hata yapmana şaşırdım
+29|Sadece kendi eylemlerimi düşündüm ve\nefendimin duygularını ihmal ettim...
+30|Hoş bir anı olmayabilir\nama senin için iyi bir deneyimdi.
+31|Belki...\nBir hizmetçi olarak kendimi yeniden değerlendirebildim.
+32|Özverili bağlılık ilkem bu deneyimden\nkaynaklanıyor.
+33|Şımartan bir anne gibisin.
+35|<CLT=cltMIND>Ha?\nYanlış bir şey mi dedim?
+36|Lütfen bana anne demeyin...\nAynı yaştayız.
+37|Bu bir kadın için hakaret olarak algılanabilir.\nSöylemeden önce düşünün.
+38|A-Ah, tamam.\nÖzür dilerim.

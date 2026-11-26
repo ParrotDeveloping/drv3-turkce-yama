@@ -1,0 +1,74 @@
+@ ainori_text_US
+## a00_115_330
+6|Bence piyanolar birer sanat eseri.
+7|Karmaşık yapıları var...\nVe narin ve güzeller...
+8|Piyanonun sesi nereye konduğuna ve\nkimin çaldığına göre değişir!
+9|Bu fotoğraflara bütün gün bakabilirim!
+10|Ha? Ç-Çığlık mı atmak istiyorsun?
+11|Sadece biz varken sorun yok ama başka\ninsanların yanında bunu yapmamalısın, tamam mı?
+12|Konserlerde bile bazı insanlar şarkının\nortasında boğazını temizler...
+13|Ve sonra bütün performans mahvolur.
+14|Şey, pardon.
+15|Seninle hiçbir ilgisi yok ama sadece\nhatırlamak bile beni üzdü...
+16|Şeyy... Bir kitabı oyuncak gibi kullanmanın\niyi bir fikir olduğunu sanmıyorum...
+17|Ama sanırım hepsinin yere saçılmasından\ndaha iyi.
+18|Kimin daha hızlı dizeceğine dair\nyarışmak ister misin?
+## a00_115_410
+5|Tabii, topla uğraşmam gerekmediği\nsürece her şey olur!
+6|Bir piyanistin parmakları çok önemlidir,\no yüzden burkmamaya dikkat etmeliyim.
+7|Bir süredir egzersiz yapmadım,\no yüzden çok heyecanlıyım!
+8|Hareket etmek kafamızı tazelemeye yardımcı olur!
+9|Kirumi'ye sorsak burayı kusursuzca\ntemizlerdi...
+10|Ama sırf hizmetçi olduğu için ondan istemek\nbiraz tuhaf olabilir.
+11|Pekâlâ o zaman!\nTemizleyip herkesi şaşırtalım!
+12|Ha?\nSpor salonunda olmak istemiyor musun?
+13|Madem buraya geldik, biraz egzersiz\nyapmak istemiştim...
+14|Yoksa... benimle dalga mı geçiyorsun?
+## a00_115_420
+4|Esneme yapmalıyız
+5|Parmaklarımı burkmaktan korkuyorum,\no yüzden pas geçeceğim.
+6|Burada hastaneye de gidemem\nzaten...
+7|Neeeeeeeeee!?\nNe dedin!?
+8|S-Sen çok...
+9|Bence bunu beni bir randevuya çıkardıktan\n*sonra* söylemelisin...
+10|Dur! Ben ne diyorum!?
+11|Ah, performanstan önce esneme yapmak\nepey önemlidir.
+12|Yoğun bir performanstan önce esneme\nyapmazsan parmaklarını sakatlayabilirsin.
+13|Sonra düetimizi yaparken\nsana göstereceğim.
+## a00_115_430
+5|Piyano için zihinsel canlandırma mı...?
+6|Zihinsel canlandırma işe yarayabilir ama...\nbence bunu yapmamalıyız...
+7|Piyano çalmak istiyorsan neden araştırma\nlaboratuvarımda çalmıyorsun?
+8|Bazen tuhaf şeyler söylüyorsun,\nShuichi.
+9|Beden eğitiminde parmaklarımı kırarım diye\nyedek kulübesinden izlemek zorundaydım.
+10|Ahh, benim okuluma gitseydin birlikte\nkulübeden izleyebilirdik.
+11|...Şaka şaka.
+12|Ama sınıfta senin yanında oturmak...\nBu beni kızartıyor...
+13|Şaka da olsa bunu\nsöylememelisin.
+14|Senden nefret etmeme sebep olacak\nşeyler söyleme, Shuichi.
+## a00_115_510
+5|Muhtemelen sadece bana öyle geliyor ama\ndışarının havası hep çok ferahlatıcı.
+6|Beste yapmak uzmanlığım değil ama şu an\nrahatlatıcı bir şarkı besteleyebilirim gibi.
+7|Koşmak, ha?\nSanırım arada bir bunu yapmak iyidir.
+8|Ama çabuk yorulurum, o yüzden\nlütfen bana yüklenme.
+9|Beni geride bırakırsan sana hiç piyano\nöğretmem! Anladın mı?
+10|Ha?\nO zaman neden dışarı çıktık?
+11|Seni anlamıyorum, Shuichi...
+## a00_115_520
+5|Güneşte dinlendiğimde aklımdaki her\nşey uçup gidiyor.
+6|Gerçi bunun kötü bir şey olduğunu hissediyorum...
+7|Ama bazen kafaya takmamak iyidir.
+8|Pekâlâ! Karar verdim o zaman!
+9|Hayattaki ufak şeyleri düşünmeyeceğim\nve sonuna kadar dinleneceğim!
+10|Keşke dans edecek bir şarkımız olsaydı...
+11|Çok sessiz olursa biraz utanç verici\ndeğil mi?
+12|Ah! Sen mi yöneteceksin, Shuichi?\nSen yönetirsen dans ederim.
+13|Yurtlardan iyi ama hâlâ burada\nhapsolmuş durumdayız...
+14|Harika bir manzara, ha?\nBen öyle görmüyorum...
+## a00_115_530
+5|Şey, sanırım benim için de aynısı geçerli...
+6|Ama sonsuza dek burada kalmanın sorun\nolmadığını düşünme.
+7|Neden olduğunu bile bilmeden bu yerde\nhapsolduk...
+8|Bu kesinlikle olamaz!
+9|Değil mi!? Kaçtığımızda yapmak istediğim\nbir sürü şey var!
+10|Yeni müzikler dinlemek...\nPiyanomu çalmak...

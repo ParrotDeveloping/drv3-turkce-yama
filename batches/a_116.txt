@@ -1,0 +1,59 @@
+@ ainori_text_US
+## a00_111_050
+24|<CLT=cltMIND>Sonraki birkaç saati Tenko'dan dikkatle\nmesafemi koruyarak geçirdim.
+25|Himiko neden bu kadar sevimli?
+26|Hiç şüphesiz o kadar kusursuz ki...\nO benim ideal kız imgem!
+27|Sadece bir yoz olsan bile Himiko'nun ne kadar\nsevimli olduğunu anlamalısın, değil mi!?
+28|<CLT=cltMIND>Tenko'yla Himiko'nun ne kadar sevimli olduğunu\nkonuşarak epey vakit geçirdik.
+## a00_111_110
+3|Dövüş sanatları hakkında belgesel izle
+4|Pop yıldızları hakkında belgesel izle
+5|İşte! Yoz erkeklerin en sevdiği hareket!\nErkeklerin gerçek dostluk "bağı"!
+6|Ne sana ne de Gonta'ya ilgim var!
+7|Gerçek dostluğu göstermek istiyorsan kızlardan\nöğren! Birlikte tuvalete gitmek gibi!
+8|Birlikte çiş bile yapamıyorlarsa yoz erkekler\nnasıl gerçek dost olduklarını söyleyebilir!
+9|Hı-hı, anlıyorum... Rakibin kafasını tut\nve sonra alnına diz at...
+10|Bunu Neo-Aikido'ya katıp katamayacağımızı\nUsta'ya danışacağım!
+11|<CLT=cltMIND>Ona göstermemem gereken bir şeyi\ngöstermişim gibi hissediyorum...
+12|Pop yıldızları harika! Neşeli kişilikleri olan\nçok sevimli çiçekler!
+13|Sadece onlara bakmak bile günümü aydınlatıyor!
+15|Erkek pop yıldızları!\nOnlara dayanamıyorum!
+16|Tuhaf kıyafetler içinde dans eden terli yozları\nizlemenin neresi eğlenceli?
+17|Bunu asla anlamayacağım!\nPop yıldızları sadece kız olmalı!
+19|<CLT=cltMIND>Ne oldu acaba?\nTenko derin düşüncelere dalmış gibi...
+20|(Mmm...)
+23|<CLT=cltMIND>Tenko'nun iç düşünceleri mi...?
+## a00_111_113
+2|<CLT=size2>Erkek<CLT=size1> yozlardan\nzaten\nneden bu kadar\n<CLT=size2>nefret ediyorum<CLT=size1>?
+3|Erkek yozlardan zaten neden bu kadar nefret ediyorum?
+4|Hayır! <CLT=size2>Sebebe<CLT=size1> <CLT=size2>ihtiyacım yok!
+5|Hayır! Sebebe ihtiyacım yok!
+6|Bütün erkekler\n<CLT=size2>yoz!\n<CLT=size1>İhtiyacım olan tek <CLT=size2>sebep bu!
+7|Bütün erkekler yoz!\nİhtiyacım olan tek sebep bu!
+8|<CLT=cltWEAK><CLT=size2>Bütün\nerkek<CLT=size1> yozlar\n<CLT=size2>ölmeli<CLT=cltNORMAL>!
+9|Bütün erkek yozlar ölmeli!
+10|Ama dünya\n<CLT=size2>erkek<CLT=size1> yozlarla\n<CLT=size2>dolu...
+11|Ama dünya erkek yozlarla dolu...
+12|İşler böyle\n<CLT=size2>kalırsa<CLT=size1> bu dünyada\n<CLT=size2>yaşamak<CLT=size1>\n<CLT=size2>zor<CLT=size1> olacak...
+13|İşler böyle kalırsa bu dünyada\nyaşamak zor olacak...
+14|Bütün bunları düzeltmenin <CLT=size2>etkili\nbir yolu<CLT=size1> olsa harika olurdu...
+15|Bütün bunları düzeltmenin etkili\nbir yolu olsa harika olurdu...
+16|O halde!
+18|<CLT=size2>Bütün <CLT=size2>dünyayla<CLT=size1> ve onun\n<CLT=size2>erkek<CLT=size1> yoz <CLT=size2>nüfusuyla<CLT=size1> <CLT=cltWEAK>savaşmalıyım<CLT=cltNORMAL>!
+19|Bütün dünyayla ve onun erkek yoz\nnüfusuyla savaşmalıyım!
+## a00_111_120
+5|Böyle diyeceğini biliyordum!
+6|Yozlar silahlar ve patlayan binalar\nolduğu sürece tatmin olur!
+7|Böyle barbarca zevkleri kabul edemem!
+8|Sanırım bunu bir erkekle izlemek\nsorun değil.
+9|Erkekler başka türdeki filmlerde bir seks\nsahnesi gördükleri her an azıyor.
+10|Shuichi, bir gün azgın hissetmeye başlarsan\nNeo-Aikido'mla onun icabına bakarım!
+11|Ben kendini koruyabilen bir kızım!
+12|Yoz erkekler her zaman çocuksu kalacak.
+13|Ama bazı iyi animeler olduğunu inkâr edemem.
+14|Ah!\nAz önce harika bir fikir buldum!
+15|Himiko'nun başrolde olduğu bir anime yapsak\nsüper sevimli olmaz mıydı!?
+16|Gerçek hayatta zaten çok tatlı...\nAma büyülü bir kıza dönüşseydi...
+17|O zaman bu tek kelimeyle harika olurdu!
+## a00_111_130
+2|Ne izleyeceğime karar vermek zor

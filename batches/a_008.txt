@@ -1,0 +1,57 @@
+@ ainori_text_US
+## a00_100_001
+35|Ama... öyle ya da böyle bunun\nbir sonu olmalı.
+36|Birlikte uçtuğumuz bu gökyüzü fena değildi...\nama benim gerçek kaderim evren!
+37|Evet... haklısın, Kaito.
+38|Neyin var senin?\nO ateşin nerede, dostum?
+39|Bu son yarışımız olacak.\nBütün gücünle üstüme gel!
+40|E-Evet, tabii!\nSadece... şey...
+41|<CLT=cltMIND>Bu konuda heyecanlanır mıyım bilmiyorum.\nSonuçta gerçekten uçamıyoruz...
+42|Hayır, anlamıyorsun!
+44|<CLT=cltMIND>Bir anda kendimi duvara yaslanmış buldum,\nvarlığı beni bunaltıyordu.
+45|Son yarışımıza gerçekten böyle\nmi gireceksin!?
+47|<CLT=cltMIND>Kaito bağırıp avucunu başımın yanındaki\nduvara vurdu ve gözlerimin içine baktı.
+48|Ne oldu? O kararlı bakışın\nnerede?
+49|Kaito, sen...
+50|<CLT=cltMIND>Bakışlarına zar zor karşılık verebildim.\nBana yukarıdan bakarken o kadar yakındı ki...
+51|<CLT=cltMIND>İşte o zaman nerede olduğumu\nhatırladım ve...
+52|Ah, Kaito! Ah, b-biraz geri çekil...
+53|<CLT=cltMIND>Gözlerim odada gezindi ve arkasındaki\no tuhaf yatağa takıldı...
+54|<CLT=cltMIND>Hayale o kadar kapılmıştım ki bir dakika\nnerede olduğumu unutmuştum.
+55|<CLT=cltMIND>Ama Kaito bana bu kadar yakınken, böyle bir\nyerde... Sakin kalmak zor.
+56|Hayır, geri çekilmeyeceğim!
+58|Gerçekten dediğini yapacağımı\nmı sanıyorsun?
+59|<CLT=cltMIND>Geri çekilmek yerine yüzünü benimkine\nsantimler kalana kadar yaklaştırdı...
+60|Tüh, sen ilksin...
+61|Daha önce hiç kimse beni tek bir yerde\nbu kadar uzun kalmak isteyecek hale getirmedi.
+62|Evrene olabildiğince hızlı ulaşmak istiyorum\nama... bunun bitmesini istemiyorum.
+63|Hey... bunun ne demek olduğunu anlıyor musun?
+64|<CLT=cltMIND>Burada olduğum sürece Kaito'nun\nideali olduğumu biliyorum. O yüzden ben...
+65|<CLT=cltMIND>Anlıyorum, Kaito...\nKalbinin anahtarı bende ama...
+66|Eh, sanırım anlamazsın.\nAynı şeyleri hissetmen mümkün değil.
+67|Neyse, böyle gevezelik etmeye başlamak\nhiç bana göre değil!
+68|<CLT=cltMIND>Kaito hızla bir adım\ngeri çekildi.
+69|<CLT=cltMIND>Tuttuğumu fark etmediğim derin\nbir nefesi bıraktım.
+70|Dinle beni, Shuichi Saihara! Kazanırsam\nsana söylemem gereken bir şey var!
+71|Bana... söylemen gereken bir şey mi?
+72|<CLT=cltMIND>Bu... şu anlama mı...?
+73|Artık karar verildiğine göre acele edip\nsöylemek istiyorum! Hadi gidelim!
+74|<CLT=cltMIND>Kaito çıkışa doğru yürüdü,\nben de aceleyle peşinden gittim.
+75|<CLT=cltMIND>Bana yarıştan *sonra* bir şey\nsöylemek istiyorsa o zaman...
+76|<CLT=cltMIND>Bu ona sorabileceğim bir şey değil.\nKendisi söylemeli.
+78|Pekâlâ, kazanacağım!\nBöylece sonunda sana söyleyebilirim!
+80|Sadece <CLT=cltSTRONG>"tamam"<CLT=cltNORMAL> mı!? <CLT=cltSTRONG>"Kaybetmeyeceğim!"<CLT=cltNORMAL>\nya da <CLT=cltSTRONG>"Siktir git!"<CLT=cltNORMAL> demelisin!
+81|Ah, şey, kaybetmeyi planlamıyorum! Sadece...\nne söyleyeceğini merak ettim, Kaito.
+82|Kazanacağımı söylemedim mi!? O yüzden\nbana biraz laf sok artık!
+83|Ah... ne karmaşa...
+84|<CLT=cltMIND>Ve böylece biz iki havacı son bir\nyarışa doğru... birlikte yola çıktık.
+88|<CLT=cltSYSTEM>Yeni bir tema elde ettin: "Aşk Süiti."
+## a00_100_002
+3|<CLT=cltMIND>Ryoma nasıl bir ideal hayal ediyor\nmerak ediyorum. Biraz... utanmış gibi.
+4|Shuichi... seni daha önce uyarmıştım...\nbenim peşimden gelme diye...
+5|N-Ne demek istiyorsun... "peşinden" mi?
+6|Artık eski bir tenisçi ve bir menajerden\nfazlası değiliz... Sadece yabancıyız.
+7|<CLT=cltMIND>"Menajer." Ryoma'nın tenis oynarken\ntanıdığı biri olmalıyım.
+8|<CLT=cltMIND>Yani Ryoma'nın hayalinde...\nben onun peşinden koşuyordum.
+9|<CLT=cltMIND>Bunların hepsi onun rüyasının bir parçası...\nBunu onun için mahvedemem.
+10|Birbirimizi görmek için hiçbir sebebimiz yok.\nAnladıysan acele et de git.

@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_102_703
+4|Hıh... doğru. Sana emir vermeye\nhakkım yok.
+5|Peki kendi sevgilisini terk eden bir\nadamla ne işin var?
+6|Senin kalpsiz bir şey yapacağını\nhayal edemiyorum, Ryoma.
+7|Bir sebebin olmalı.\nMafyayla ilgili bir şey mi?
+8|Peki bunu neden yaptın, Ryoma?
+10|Senden duymak isterim
+11|Cevap vermek zorunda değilsin
+12|Bana anlatmak tehlikeli mi?
+14|Sen... gerçekten duymak istiyor musun?
+15|Senden duymak isterim.
+16|Hıh... O surat bana bir dedektif olarak\nilgilenmediğini söylüyor.
+17|Öyleyse... cevap vermemek için bir\nsebebim yok.
+18|İstemiyorsan cevap vermek\nzorunda değilsin.
+19|Öyle diyorsun... ama duymak istediğin\nyüzünden okunuyor.
+20|Ve *senin* yüzünden de birine anlatmak\niçin can attığın okunuyor.
+21|Hıh... iyi oynadın. Görünüşe göre\nsonuçta biraz omurgan varmış.
+22|Öyleyse seni dinlemeye zorlayacağım.\nSonra pişman olursan o senin sorunun.
+23|Bana anlatmak tehlikeli mi?
+24|Hıh, korktun mu?
+25|Yarıda bırakma, dedektif.\nBöyle giderse gerçeği asla bulamazsın.
+26|<CLT=cltMIND>...Hayır, buna hazırım.\nŞimdi geri adım atma!
+27|Bana anlatmanı istiyorum, Ryoma.
+28|Hıh... tamam.
+29|Bir davetle başladı.
+30|Mafyaya ait lüks bir gemide düzenlenen\nyeraltı tenis turnuvasına bir davetti.
+31|Yeraltı tenis turnuvası mı?
+32|Maçlar üzerine kumar oynuyorlardı.\nZenginlerin bayağı bir hobisiydi sadece.
+33|Buna bulaşmak istemedim ama bir\ntürlü peşimi bırakmadılar.
+34|Gidip ortalığı mahvederek onlara bir\nders vereyim dedim.
+35|<CLT=cltMIND>Tenis üzerine kumar...\nHer şeyin bir meraklısı var.
+36|Turnuva diyorlardı ama sadece bir sürü\nşikeli maçtan ibaretti.
+37|Bundan hoşlanmadım, o yüzden planlarına\nuyuyormuş gibi yaptım...
+38|Ve son saniyede kaybetmem gereken\nrakibi ezip geçtim.
+39|Ne!? Ama rakibin mafyadansa bu\nşu anlama gelir...
+40|Evet. Mafyacılar itibarları zedelenince\nçok sinirlenir.
+41|O zamanlar safın tekiydim...\nÇok saftım...
+42|İntikam için ailemi katledecekleri\naklımın ucundan bile geçmedi.
+43|Katletmek mi!?
+44|Sevgilim güvendeydi ama ona ne\nzaman ulaşacaklarını bilmiyordum.
+45|Bu yüzden onu uzaklara kaçmaya\nikna ettim...
+46|Ama hiçbir işe yaramadı. Onu buldular\nve yine de öldürdüler.
+47|Mafyadan kaçabilen tek kişi bendim,\no da kıl payı...
+48|İnanamıyorum!
+49|Onu bırakmamalıydım. Yanımda tutup\nkorumalıydım.
+50|Bunu yapsaydım... en azından yalnız\nolmazdı.
+51|Ondan sonra ne olduğunu\nbiliyorsun, değil mi?
+52|...Onları katlettin.\nİntikam için.
+53|Ve bu yüzden hapse\natıldım.
+54|<CLT=cltMIND>Bu Ryoma'dan bekleyebileceğim her\nşeyin ötesinde...
+55|Gördün mü? Sormamalıydın.\nBen sadece çaresiz bir aptalım.
+57|<CLT=cltMIND>Bir cevap düşünemeden Ryoma'nın uzaklaşmasını\nizledim ve odama döndüm.
+## a00_102_704
+0|Ne düşünüyorsun Allah aşkına?
+1|Benimle uğraşmaman gerektiğini çok iyi\nbiliyorsun... O zaman neden hâlâ buradasın?
+2|<CLT=cltMIND>Daha önce sayısız kez karışmamam\nsöylendi. Ama...
+3|İlişkimizi bir kenara atmaya niyetim yok,\nRyoma. Ve senin de atmana izin vermeyeceğim.
+5|Sonuçlarını bildiğin halde duygularının\narkasında durdun. Buna saygı duyuyorum.
+6|Saygı duyduğum birinin bana hiçbir\nşeyi olmadığını söylemesini istemiyorum.
+7|Bu yüzden yanında kalmak istiyorum...\nsınıf arkadaşın ve dostun olarak.
+9|...Ryoma?
+10|Tüh... demek söyleyecek söz bulamamak\nböyle bir şeymiş.
+11|Sen benden daha büyük bir aptalsın.
+12|Ama... senin bu yanını sevmiyor değilim.
+14|Shuichi, bir dakikan var mı? Araştırma\nlaboratuvarıma gidelim.

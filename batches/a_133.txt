@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_112_704
+63|<CLT=cltMIND>Bir söz... Buradan çıkacağımıza\ndair bir söz.
+64|<CLT=cltMIND>Tsumugi ve ben bu sözü tutacağız.\nArtık aramızda o bağ var.
+65|<CLT=cltMIND>Ama... kostüm, ha?\nSanırım denemekten zarar gelmez.
+67|<CLT=cltSYSTEM>Yeni bir yetenek öğrendin:\n<CLT=cltSTRONG>2D Aşkı<CLT=cltSYSTEM>.
+68|<CLT=cltMIND>Tsumugi sonraki birkaç saati benimle\nkostüm hakkında coşarak geçirdi.
+## a00_112_902
+0|Kostüm dışında bir şey yaparken bu kadar\neğlenmeyeli uzun zaman olmuştu.
+1|Bu kadar neden eğlendiğim benim için\nbile bir gizem...
+2|Muhtemelen senin sayende, Shuichi!
+3|Yurtlara birlikte dönelim\nmi?
+4|Bir anime ya da oyun karakteri olsaydın\nkesinlikle popüler olurdun, Shuichi.
+5|Kurgusal olsan bile insanları bu kadar\neğlendirebilmek değerli bir şey.
+6|Pekâlâ, yurtlara birlikte\ndönelim.
+7|Bu düpedüz sıkıcıydı...
+8|Umarım bir dahaki sefere daha iyi olur...
+9|Pekâlâ... ben önden dönüyorum...
+10|Şeyy... acaba uyum oranımız mı\ndüşük...?
+11|Ben önden dönüyorum...
+## a00_112_914
+0|Kanata olmak istiyorum. Yine de biraz\nutanırdım ama...
+1|Neee!? Tam düşündüğüm gibi mi!?
+3|Biraz emin değildim ama ilk kostümünün\nKanata olması gerektiğini biliyordum!
+4|Ne de olsa ilk kostümün en sevdiğin\nkarakter olmalı!
+6|Giydiğin karakter en sevdiğin olursa\nçok daha fazla eğlenirsin.
+7|Hâlâ Kanata olmak istediğini duyunca\ntüm şüphelerim uçup gitti.
+8|Artık kıyafetini yapmak için\ngerçekten gaza geldim!
+10|Ah, aslında Kanata'dan emin değilim...
+11|Ha...? Kanata'yı sevdiğini söylemedin mi?
+12|Küçükken seviyordum...
+13|Ama şimdi onun kostümünü giymeye\nfazla utanırım sanırım.
+15|Anlıyorum...
+16|K-Kostümü küçümsediğimden değil,\nsadece yapmaya çok utanırdım...
+17|Hayır, dert etme...
+18|Seni hiçbir şeye zorlamak istemem...
+19|O zaman ikinci kostümünden itibaren\nKanata dışında bir şey yaparız.
+20|<CLT=cltMIND>...Yani ilk kostüm olarak kesinlikle\nyapıyoruz, ha?
+22|Belki daha popüler bir karakter...?
+23|Ha? Gerçekten mi? Bununla ilgilendiğini\nbilmiyordum...
+24|Daha önce Kanata'yı yapmak istediğini\nsöylememiş miydin, Shuichi?
+25|Ah, sadece biraz kendimi kaptırdım...
+26|Sanırım bir dedektifin hafızasıyla\nyarışmamın imkânı yok...
+27|O zaman ikinci kostümün için daha popüler\nbir karakter yaparız, tamam mı?
+29|<CLT=cltMIND>Kötü hissettim, o yüzden sadece başımı salladım...
+31|Kostüm seçerken popülerliğin önemli\nolduğunu sanmıyorum...
+32|Bunu söylediğine sevindim.\nBen de aynı şeyi düşünüyordum.
+33|Popüler olsun ya da olmasın, sevdiğin\nkarakterlerin kostümünü giymelisin.
+34|Ama popüler karakterlerle diğer kostümcülerle\narkadaş olmak daha kolay olur.
+35|Bunun da iyi olabileceğini düşünmüştüm...
+36|Ama bunu söylediğini duyunca\nşüphelerim uçup gitti!
+37|Ne de olsa en sevdiğin karakterlerin\nkostümünü giymek daha eğlenceli!
+38|Ben bir acemiyim ama en iyisini senin\nbildiğine güveniyorum, Tsumugi.
+39|Pekâlâ! O zaman ilk kostümün yine de\nKanata olacak!
+40|Onu yapmaya tüm kalbimi ve ruhumu\nkoyacağım, o yüzden hazır ol!
+## a00_113_000
+4|Kaede... Dilersen Atua seni affeder.\nGel, Onun affı için birlikte dua edelim.
+5|Yoksa... Atua seni sonraki altı\nhayatın boyunca lanetler.
+6|Shuichi... Dilersen Atua seni affeder.\nGel, Onun affı için birlikte dua edelim.
+7|Yoksa... Atua seni sonraki altı\nhayatın boyunca lanetler.
+8|Hmm? Ne oldu, Kaede? Atua'nın sesini\nduyamadığın için mi üzgünsün?
+9|Sorun değil; sana ne dediğini söylerim.\nHiçbir şey için endişelenmene gerek yok.
+10|Ah, o adağı atabilirsin.
+11|Atua konuştu...\nBöyle bir adak kabul edilemez.

@@ -1,0 +1,60 @@
+@ ainori_text_US
+## a00_105_703
+49|<CLT=cltMIND>Kokichi az önce bunu mu yapıyordu?\nKazanmamak için mi?
+50|<CLT=cltMIND>Ama bunun ne anlamı olurdu ki?
+51|Sadece iki olayın kaldı...
+53|Ama yalan söylüyorum.\nSadece şanslısın, Shuichi.
+54|<CLT=cltMIND>Yüz kez aynı şeyi attık.\nBu sadece "şans" değil...
+55|Belki dedektif sezgin daha keskinleşiyordur.\nEh, sen <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'sin.
+56|Yine de... bir dahaki buluşmamız son olacak.\nKalan azıcık vaktinin tadını çıkar, Shuichi.
+59|<CLT=cltMIND>Yani bir olay daha sonra her şey bitecek.\nBir şekilde bundan şüpheliyim...
+## a00_105_704
+0|Geldiğine sevindim, Shuichi!\nUnutma! Bugün son şansın, tamam mı?
+1|<CLT=cltMIND>Kokichi'nin her zamanki kadar\nneşeli olduğunu görüyorum.
+2|<CLT=cltMIND>Ne zaman ciddi olduğunu, ne zaman benimle\noynadığını bilmiyorum... Hangisi?
+3|Şimdi son oyunun vakti!\nBu... Taa-daaaa!
+4|Vay! Bıçak mı!?\nSen ne...?
+5|Nii-hihi... bu kadar huzursuz olma.\nMerak etme—sadece oyun için.
+6|Bıçak oyununun ne olduğunu biliyorsun, değil mi?
+7|Bıçak oyunu mu?
+8|Avucunu parmaklar açık şekilde masaya koy.\nBıçakla parmaklarının arasına sapla.
+9|Ne!? Bu çok tehlikeli!
+10|Bugünün meydan okuması bu olacak.\nSon oyun için yakışır, değil mi?
+11|Ama bu... gerçekten tehlikeli...\nYa yaralanırsak?
+12|Hm, sen neden bahsediyorsun?\nShuichi, kaybedersen...
+13|Yaralanmanın ötesine geçersin, biliyor musun?\nÖlürsün.
+14|<CLT=cltMIND>Kokichi'nin tavrı değişti...\nŞimdi çok daha ciddi görünüyor.
+15|İlk hamleyi ben yapacağım, tamam mı?
+16|<CLT=cltMIND>Kokichi parmaklarını masaya açtı,\nsonra bıçağı kaldırdı...
+18|<CLT=cltMIND>Kokichi'yi daha önce hiç bu kadar\nciddi görmemiştim.
+19|<CLT=cltMIND>Bir <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltMIND> böyle mi\ngörünür...?
+20|Hazırım!
+22|<CLT=cltSYSTEM>*TAK TAK TAK TAK!*
+23|<CLT=cltMIND>Çok hızlı!\nBunu yapabiliyorsa...
+24|<CLT=cltSYSTEM>*ŞAK!*
+27|<CLT=cltMIND>Kokichi'nin elinden kan sızdı.\nHemen harekete geçip bileğini tuttum.
+28|Devam etmek zorunda değilsin, dur!\nSadece kıpırdama, ben hallederim...
+29|<CLT=cltMIND>Yakındaki bir ilk yardım çantasını buldum\nve Kokichi'nin kesiğini beceriksizce sardım.
+30|<CLT=cltMIND>Ve bu sırada Kokichi...
+32|<CLT=cltMIND>Gülüyordu. Hayatının en güzel anını\nyaşıyormuş gibi gülüyordu.
+33|Tamam, sanırım bu iyi.\nNe düşünüyorsun?
+34|Evet. Derin bir kesik değildi, o yüzden yeter.\nYaramı sardığın için teşekkürler, Shuichi.
+36|Ah be, kaybettim!\nTebrikler, Shuichi! Kazandın!
+37|Ama daha yapmadım ki...\nYine de kazanan ben miyim?
+38|Eh, ben hata yaptım. Yani evet.\nHükmen kazandın.
+39|Hem amacıma zaten ulaştım.
+40|Amaç mı...?
+41|Seni öldürmek, Shuichi!
+42|...Ama hayattayım.
+43|Kalbini endişeden *öldürdüm*, değil mi?
+45|Seni öldüreceğimi söyledikten sonra bütüüün\nzaman aklındaydım, değil mi?
+46|Ciddi olup olmadığımı ya da neden kafa\nkarıştırıcı bir şey söylediğimi düşündün...
+47|Ha, şimdi bile! Kalbinin derinliklerinden\nbenim için endişeleniyorsun!
+48|Nii-hihi... Artık hayatının geri kalanında\nbeni *asla* unutmayacaksın.
+49|Kalbini çaldım, artık tatmin oldum!\nArtık hayatını çalmama gerek yok!
+50|Bu da ne demek!?\nBunu neden söyledin?
+51|Çünkü o bir yalandı.\nEn başından beri hayatını hiç istemedim.
+52|Ve en başından beri söylediğim gibi\nben bir yalancıyım!
+54|<CLT=cltMIND>Söyleyecek bir şeyim yok...\nBenimle oynamak demek hafif kalır.
+55|<CLT=cltMIND>Kokichi'yi gerçekten anlayacağım bir gün\ngeleceğini sanmıyorum. Ona uzanıyorum...
+56|<CLT=cltMIND>Ama elimi tutmuyor.

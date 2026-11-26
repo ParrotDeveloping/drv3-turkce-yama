@@ -1,0 +1,61 @@
+@ ainori_text_US
+## a00_101_703
+6|<CLT=cltMIND>...Yardımcı.
+7|Epey sağlam bir sicilim var. Bana\n<CLT=cltSTRONG>Ultimate Kahraman<CLT=cltNORMAL> bile denebilir!
+8|"Sicilin" mi? Ne demek istiyorsun?
+9|Heh, doğrusunu söylemek gerekirse... geçmişte\nbirkaç tane yardımcım oldu.
+10|Sadece astronot adayıyım ama başka\nalanlarda adım efsane!
+11|Ah, gerçekten mi...?
+12|Evet! Mesela...
+13|Büyük ligdeki o yıldız çaylak var ya?\nEskiden benim yardımcımdı!
+15|Nobel Ödülü kazanan o mühendis var ya?\nO da eskiden benim yardımcımdı.
+16|Şimdiki başbakana bile siyasetin\nincelik ve püf noktalarını gösterdim.
+17|Ah evet! Bir de o pop yıldızı var ya?\nOna şarkı söylemeyi ve dans etmeyi ben öğrettim!
+18|Ah, a-anlıyorum...
+19|<CLT=cltMIND>Bundan emin değilim...\nO insanların bazıları Kaito'dan büyük.
+20|Bununla birlikte... onları sadece doğru\nyöne hafifçe ittim.
+21|Kendinden şüphe etme! Sadece inandığın\nyolu izlemelisin!
+22|Kaybolursan sana ben inanırım!\nKorkarsan sana ben yardım ederim!
+24|Küçük bir itişle insan değişebilir.\nKabuğunu kırabilir.
+25|Ve onlara ihtiyaç duydukları cesareti\nveren gerçek bir erkektir!
+26|<CLT=cltMIND>Bu doğru.
+27|<CLT=cltMIND>Tek bir kişi bile olsa...\nbu herkesi cesaretlendirirdi.
+28|<CLT=cltMIND>Ama o tek kişi özel olmalı.\nKaito gibi biri olmalı...
+29|Bir şey konuşmak istersen çekinme!\nKonuşarak çözeriz!
+31|Ve bunda yanlış bir şey yok!
+32|Ah, evet... teşekkürler.
+33|<CLT=cltMIND>Kaito her zaman çok dürüst ve yakın.\nSana her konuda yardım etmeye hazır.
+34|<CLT=cltMIND>...Bana ancak Kaito gibi biri\nyardım edebilirdi.
+35|<CLT=cltMIND>Duymam gerekeni bana ancak onun\ngibi biri söyleyebilirdi.
+36|<CLT=cltMIND>...Ah, b-boş ver. Başka bir erkek\nhakkında böyle konuşmamalıyım...
+## a00_101_704
+0|Hey, bir dakikan var mı?\nKonuşacak bir şeyim var.
+2|<CLT=cltMIND>Üzgün görünüyor...\nOnu kızdıracak bir şey mi yaptım?
+3|Direkt söyleyeceğim!\nNe diye surat asıp duruyorsun!?
+5|Yardımcım surat asınca bu beni\ngerçekten sinir ediyor!
+6|<CLT=cltMIND>Ben... surat mı asıyorum?
+7|Sana söyledim, dostum! Bir sorun varsa\nbenimle konuşmaktan çekinme.
+8|Ama hâlâ benden bir şeyler saklıyorsun!\nYeterince güvenilir değil miyim!?
+9|Söyle hadi! Her şeyi içine atarsan\nhiçbir şey düzelmez!
+10|Özür dilerim, neden bahsettiğini bilmiyorum.\nTavsiye aramıyorum...
+11|Bana yalan söylemeye çalışmak için epey cesaretin var.
+13|Pekâlâ o zaman!\nDinle...
+14|<CLT=cltMIND>Kaito beni cesaretlendirdi, yeteneğim\nhakkında iltifat etti. Ona söylemeliyim...
+15|<CLT=cltMIND>O zaman nedenini anlardı.
+16|<CLT=cltMIND>Ona bana <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltMIND> unvanını\nkazandıran davayı baştan sona anlattım.
+17|<CLT=cltMIND>Ona her şeyi anlattım... gerçekte ne kadar\nyeteneksiz olduğumu bilsin diye.
+18|Anlıyorum... Demek bir davayı çözdükten\nsonra seçildin.
+19|Evet ve en önemli kısmı...
+20|Gözden kaçırılmış bir kanıtı tesadüfen buldum.\nBulmacayı kazara çözdüm.
+21|Hepsi tesadüftü, rastlantı...\nVe suçlunun intikam planını bozdum.
+22|Durumu anlamadım, daha iyisini\nbilmiyordum. O adam... benden nefret ediyor.
+23|Tüh... En önemsiz şeyleri dert\nediyorsun, dostum.
+24|Önemsiz derken ne demek istiyorsun?
+25|Eh, dedektiflik önemsiz bir iş...
+26|Bunu söylemeye hakkın yok!
+28|<CLT=cltMIND>...Önemsiz mi?
+30|Suçlunun duyguları. Neden onları\ndert ediyorsun ki?
+32|Haklısın. Dedektiflik önemsiz\nbir iş...
+33|Para için pis sırları ortaya\nçıkarıyorsun. Bütün iş bu.
+34|Ha? Sen neden bahsediyorsun?\nİşinle gururun nerede?
+35|İşin önemsiz değil! Harika!\nBen suçludan bahsediyorum!

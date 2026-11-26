@@ -1,0 +1,72 @@
+@ ainori_text_US
+## a00_101_130
+2|Uyuyakalabilirim...
+3|Film kutularıyla domino oynayalım
+4|Filmlere değil gerçekliğe odaklanmalıyız
+5|Eh, tabii. Sıkıcı bir film falan\nseçersen.
+6|Ama baştan öyle olacağına karar verirsen\nmuhtemelen öyle olur.
+7|Hep en kötüsünü beklersen\nhep en kötüsünü yaşarsın!
+8|Öyle görünmeyebilirim ama domino dizmekte\nepey iyiyimdir!
+9|Astronot eğitimi sırasında el becerisi\nalıştırmaları yapmak zorundaydık.
+10|Ben, Yıldızların Işığı Kaito Momota, seni bile\nşok edecek bir domino dizisi yapacağım!
+11|Aynen öyle! İşte benim yardımcım!
+12|Erkek sahte şeyler izleyerek oturmamalı,\ngerçek tutkuların peşinden koşmalı!
+13|Aynen öyle!\nŞimdi deli gibi gaza geldim!
+14|Sana evreni hayal ettiğim haliyle\nanlatacağım!
+## a00_101_210
+0|<CLT=cltMIND>Yemekhanede takılmaya karar\nverdik.
+2|Bir şeyler pişirelim
+3|Fırında bir şeyler yapalım
+4|Bir şeyler içelim
+5|Ha? Yemek yapabiliyor musun, Shuichi?
+6|Bu, benim de yemek yapabildiğim anlamına gelir!
+7|Yardımcımın yetenekleri benim yeteneklerim,\nbenim yeteneklerim de yardımcımın!
+8|Kusura bakma, pek tatlı havasında\ndeğilim.
+9|Daha... erkeksi bir şeye ihtiyacım var.\nKarnımı doyuracak bir şeye.
+10|Çok fazla tatlı yersen şımarık biri\nolursun.
+11|S-Susadığımı nereden bildin!?
+12|Böyle bir sezgi tam da <CLT=cltSTRONG>Ultimate\nDedektif<CLT=cltNORMAL>'ten beklenecek şey.
+13|Ya da belki... yardımcı güçlerin\nsana ipucu verdi!
+14|Öyleyse böyle harika bir yardımcım\nolduğu için gurur duyuyorum!
+## a00_101_220
+2|Dondurucuya girelim
+3|Biraz çay içelim
+4|Oruç tutmayı deneyelim
+5|Biliyor muydun...
+6|Astronot eğitiminde sıfırın altındaki\nsıcaklıklarda hayatta kalabilmen gerekir!
+7|Kim daha uzun dayanacak yarışmasıysa\nkaybetmem!
+8|Kaybeden kaç kıza âşık olduğunu\nsöylemek zorunda!
+9|Evet, biraz çay alıp içten bir\nsohbet edelim.
+10|Benden hiçbir sır saklama!
+11|Yardımcıyla kahraman arasında sır\nolmamalı, bilirsin?
+12|Ne!? Bunu yaparsan kesin\nölürsün!
+13|Ateşin mi var? Kendini zorlama,\ntamam mı?
+14|İyi hissetmiyorsan bu benim kötü\nyönetimim yüzünden.
+## a00_101_230
+1|<CLT=cltMIND>Görünüşe göre burada sadece biz varız...\nNe hakkında konuşalım?
+2|Yemekten sonra yeşil çay içmek
+3|Yemekten sonra uyumak
+4|Yemekten sonra egzersiz yapmak
+5|Evet! Yeşil çay harikadır!
+6|Taze demlenmiş tavşan kanı bir fincan\nçay cidden en iyisi.
+7|Ama şimdi düşününce uzayda taze çay\niçemezsin, değil mi?
+8|O kadar bariz ki hiç aklıma\ngelmemişti...
+9|Pekâlâ o zaman! Dünya'dayken\nolabildiğince keyfini çıkaracağım!
+10|Evet, anlıyorsun!\nYardımcımdan da bu beklenirdi!
+11|Yemekten sonra uyumanın kilo aldırdığını\nsöylerler ama içgüdüyle savaşamazsın!
+12|Ve bunu söyleyince...\nbenim de uykum geldi...
+13|Pekâlâ! İçgüdülerimi dinleyip erkek\ngibi uyuyacağım!
+14|Bunun en iyisi olduğunu biliyorum ama\nyemekten sonra uykun gelmiyor mu?
+15|Sanırım yardımcım olsan da bazen\nepey farklıyız...
+## a00_101_310
+0|<CLT=cltMIND>Kütüphanede takılmaya karar\nverdik.
+2|Açık saçık bir kitap okuyalım
+3|Manga okuyalım
+4|Bu sıkıcı...
+5|Hehe! Tabii ki!
+6|Erkeklerin kütüphanede öyle kitaplar\naramaması tuhaf olurdu!
+7|Tabii bunu kızlardan gizli\ntutmalıyız!
+8|Macera mangaları en iyisi!\nİçlerinde o kadar çok tutku var ki!
+9|Bütün meşhur macera mangalarını\nokumalısın, Shuichi!
+10|Kanka olduğumuza göre birkaçını birlikte\nokusak harika olur.
+11|Gerçekten mi? Burada o kadar çok kitap var ki\nilgini çeken birkaç tane olmalı.

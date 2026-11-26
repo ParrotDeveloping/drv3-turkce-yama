@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_110_330
+6|Ah, polisiye demişken... Bazen romanlardaki\nayrıntılar vahşi ve kanlı oluyor...
+7|Bundan kim keyif alır ki?
+8|Olabildiğince sade hikâyeleri severim.\nSonsuza dek mutlu yaşayan normal bir kız gibi.
+9|...Dedektif olduğun için muhtemelen kurgu\nolarak kan okumak istemezsin, değil mi?
+10|Dünyanın keşfedilmemiş bölgelerinin\nresimlerine bakmak... yatıştırıcı.
+11|Umarım bir gün böyle yerlere gidebilirim...\nEh, zor olurdu...
+12|Ah. Dedektif olduğun için muhtemelen soruşturma\niçin çok seyahat ediyorsundur, değil mi?
+13|Bana biraz hikâye anlat. Kendim gidemiyorsam\nen azından duymak istiyorum.
+14|...Sana zaten söyledim. Tanrı yok.
+15|Gerçi inanmana engel olmam.\nEn azından benim için... o yok.
+## a00_110_410
+5|Son zamanlarda pek egzersiz yapmıyorum.\nVaktimiz varken antrenman yapmalıyız.
+6|Merak etme. Bir suikastçının antrenmanı\ntehlikeli hiçbir şey gerektirmez.
+7|<CLT=cltSTRONG>Artık işler olmaya başladığına göre<CLT=cltNORMAL>\nbiraz kas antrenmanı yapmalıyız.
+8|<CLT=cltMIND>Yani sadece <CLT=cltSTRONG>şimdi<CLT=cltMIND> mi antrenman yapmalıyız?\nPeki ya <CLT=cltSTRONG>öncesi<CLT=cltMIND>?
+10|Tozluysa sağlığımız için iyi değil...
+11|Küçük çocukların toz yüzünden daha sık\nhastalandığını biliyor muydun?
+12|Yetimhanemde küçük çocuklara düzgün\ntemizlik yapmayı öğretirlerdi.
+13|...Ve yine geçmişimden bahsettim.
+14|Seninleyken bazen kendimi\nkaptırıyorum.
+15|...Ama daha hiçbir şey yapmadın, değil mi?\nDedektiflerin güçlü olması gerekmez mi?
+16|Böyle devam edersen suçlu senden\nhızlı koşup kaçar.
+## a00_110_420
+5|İyi fikir, çünkü bedenlerimiz önemli.
+6|O zaman hafiften başlayalım.\nÖnce 100 şınava ne dersin?
+7|Bu senin fikrin olduğu için\npes etmesen iyi olur, tamam mı?
+9|Zihinsel canlandırma antrenmanı kesinlikle önemli.
+10|Planlama eksikliği yüzünden başarısız\nolan suikast hikâyeleri duydum.
+11|...Ama spor salonu egzersizleri zihinsel\ncanlandırma gerektirmez.
+12|Bazen hiç mantıklı olmayan şeyler\nsöylüyorsun.
+13|Sakin miyim değil miyim hiç bilmem\nama seninle konuşunca hep rahatlıyorum.
+## a00_110_430
+5|Eminim bunu zaten biliyorsundur, değil mi?\nNişan almakta iyiyimdir.
+6|Şansla bile kazanacağını sanmıyorum. Ama\nrazıysan senin rakibin olurum.
+7|Bence yapmasan senin için daha iyi olur.
+8|...Bütün gün içeride tıkılı kalmak yerine\nbazen terlemek iyidir.
+9|Ayrıca egzersiz yapmayı planlamıyorduysan\nburaya neden geldin ki?
+10|Artık küçük bir çocuk değilsin,\no yüzden saçma sapan konuşma.
+11|Böyle tehlikeli bir şaka yapmamalısın.\nKimin dinliyor olabileceğini asla bilemezsin.
+12|...Senden böyle bir şey duyacağımı\nhiç beklemezdim.
+13|...Açıkçası hoşuma gitmedi.
+## a00_110_510
+4|Birine suikast düzenleyelim
+5|Kan kokusu almak zorunda kalmadığım\nsürece her hava iyidir.
+6|...Sen de aynısını hissediyorsun, değil mi?
+7|Dedektifler de suikastçılar da yakuzayla\nbağlantılıdır...
+8|Gerçi hiçbir şey değişecek değil...
+9|Ama bu konuda konuşabileceğin\nbirinin olması kötü değil.
+10|Koşmaktan hoşlanırım çünkü aklımı\ngeri kalan her şeyden uzaklaştırır.
+11|Bir anlığına bile olsa işi ya da sevmediğim\nşeyleri düşünmek zorunda kalmam.
+12|Pekâlâ o zaman, buradan başlayarak 10 tur koşalım.
+13|Beni sen davet ettin, yani sonuna kadar\nbenimle koşacaksın.
+## a00_110_520
+5|...Sakıncası yok ama bugünlük pas geçeyim.\nFazla rahatlarsam yumuşarım.
+6|...Sen de aynı şeyi düşünüyorsun, değil mi?
+7|Buradaki hayat fazla huzurlu görünüyor ama sahte...\nDışarıda beni kanlı bir hayat bekliyor...
+8|...Özür dilerim.\nBunu söylememeliydim.
+9|Tamam, dans edelim...
+10|...asla söylemeyeceğim bir şey.
+11|Dans etmek istiyorsan istekli birini\ndavet etmelisin.
+12|Dedektiflerin insanların profilini çıkarmakta\niyi olduğunu sanıyordum.
+13|...Gerçekten mi? Bakmaktan sıkıldım.

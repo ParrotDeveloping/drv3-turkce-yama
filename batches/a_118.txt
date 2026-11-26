@@ -1,0 +1,70 @@
+@ ainori_text_US
+## a00_111_330
+11|Hı-hı, dövüş sanatçıları hakkında bir kitap.
+12|Kabul etmeliyim, yoz bir erkek için epey\niyi bir zevkin var.
+13|Bir gün kız olarak yeniden doğarsan\nseni öveceğim!
+14|<CLT=cltMIND>...Yani şu an hiçbir övgü\nbeklememeliyim.
+## a00_111_410
+5|Bunca yolu spor salonuna geldik, tabii\nki bedenlerimizi hareket ettirmeliyiz!
+6|Ama sanırım yoz erkekler böyle bariz bir\nşeyi bile bilmiyor...
+7|O zaman sanırım diğer yozlardan daha\niyisin, Shuichi.
+8|Ah! Bunu bir yozdan duymak beni\nşaşırttı!
+9|Erkeklerin odalarının ne kadar iğrenç olduğundan\ntamamen memnun olduğunu sanıyordum...
+10|Yoksa!? Kendi pisliğinin farkına\nmı vardın!?
+11|Bu büyük bir adım! Daha da çok uğraşıp\nbütün pisliğinden kurtulmalısın!
+12|Peki, buyur.\nHemen şimdi bayılmakta özgürsün.
+13|Ben başka bir yerde olurum.
+## a00_111_420
+5|Bana sporda meydan okuduğuna göre epey\ncesur olduğunu söylemeliyim...
+6|Neo-Aikido her türlü tekniğe karşılık\nverebilir.
+7|Mesela bana attığın toplar beni sıyırmaz\nbile!
+8|<CLT=cltMIND>...Kesinlikle kuralları yanlış anlamış.
+9|Biliyordum!\nSonunda gerçek yüzünü gösteriyorsun!
+10|Uslu çocuk gibi davranabilirsin ama yoz\nerkeklerin hepsi aynı!
+11|Kıyafetlerimi çıkarmamı istiyorsan önce\nsen kendininkileri çıkarmalısın!
+12|Çırılçıplak kalınca o çirkin bedenini\nbütün internete göstereceğim!
+13|Evet, yoğun antrenman sakatlığa yol\naçabilir, o yüzden ısınma hareketleri gerekli!
+14|Antrenmandan sonra soğuma yapmak\nda önemli.
+15|Yapmazsan bütün yorgunluk kalbine\nağır bir yük bindirir!
+16|Ama erkekler bütün yorgunluklarından\nölse umurumda olmaz!
+## a00_111_430
+4|Benimle idman maçı yapmak mı istiyorsun?
+5|Yakan topu severim!
+6|Yozlara karşı biriken bütün nefretimi\nboşaltmanın iyi bir yolu!
+7|O zaman başlayalım!
+9|Seni hiç anlamıyorum, Shuichi.
+11|Artık erkeklerin sonuçta değersiz olduğunu\ntamamen anlıyorum!
+12|Yanması gereken spor salonu değil,\nyoz erkekler!
+13|Tabii!\nİdman partnerin olurum!
+14|Gerçi seni burada yere fırlatmak fazla\ntehlikeli olabilir...
+15|Eh, sanırım seni öldürmeyecek kadar\nhafif fırlatmam gerekecek.
+16|Tabii *sadece* ölmeyeceğin\nkadar!
+## a00_111_510
+5|N-N-Ne!?\nBir erkek böyle narin sözler mi söyledi!?
+6|Erkeklerin duyularının o kadar çarpık olduğunu\nsanıyordum ki çay kekini balık kekinden ayıramıyorlar.
+7|Aslında kız mısın, Shuichi?
+8|Neo-Aikido için kaslarını çalıştırmana\ngerek yok. Bunu biliyorsun, değil mi?
+9|Makul miktarda egzersiz gerekli ama fazla\nkas sadece seni yavaşlatır.
+10|Ama Neo-Aikido'yla ilgilendiğin için seni\ntakdir edeceğim.
+11|Yoz bir erkek için epey düzgün bir\nzevkin var.
+12|Gizli niyetini zaten biliyorum!
+13|Bir kızın gardını düşürmek için romantik\nşeyler söylemek...
+14|GYYYAAAAAAAAAAHHHHH!!!!!
+15|<CLT=cltMIND>Beni tehdit mi ediyor?
+## a00_111_520
+5|Güneşte rahatlamak da Neo-Aikido'nun\nantrenman programına dahildir!
+6|Güneşlenirken bedenindeki\nçakra...
+7|Şey... Biraz... bilirsin...\no... her türlü iyi oluyor!
+8|<CLT=cltMIND>...Bu sadece dinlenmek değil mi?
+9|İmkânsız! Yoz bir erkekle el ele tutuşup\netrafta dönmek...
+10|Bu benim için sadece işkence!\nYeryüzünde cehennem gibi olurdu!
+11|Dans etmek istiyorsan tek başına dans et!\nHazır başlamışken bayılmalısın da!
+12|Tabii ki yozlar hiçbir zaman mantıklı\nolmaz.
+13|Dışarı çıktık, şimdi içeri mi dönüyoruz?\nNe düşünüyorsun?
+## a00_111_530
+4|Baloncuk üfleyelim
+5|Yoz erkekler hiç büyümüyor, değil mi?
+6|Bu yaşta bile çocukça oyunları nasıl\nsevebiliyorsun?
+7|Sadece sana bakmak bile beni üzüyor...
+8|Y-Yozlar neden yapamayacakları şeylere\nmeydan okumaya çalışıyor?
+9|Benden çok, çok uzaklara kaçmalısın!

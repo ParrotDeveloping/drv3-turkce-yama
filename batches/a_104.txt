@@ -1,0 +1,73 @@
+@ ainori_text_US
+## a00_109_702
+41|Bu yüzden ben—onun öğrencisi—bu kadar\nharika bir büyücü oldum.
+42|Bunu neden anlamıyorlar!? Ustamdan...\ndaha iyi olmam mümkün değil.
+44|<CLT=cltMIND>Sesim bana hiç benzemiyordu,\nalışılmadık şekilde anlayışlı ve teselli ediciydi.
+45|<CLT=cltMIND>Himiko biliyor olmalıydı...\nUstasını geride bırakmıştı.
+46|Ve sonra... ustam...
+48|Hikâye burada bitiyor.
+50|Konuşmaktan yoruldum.\nBugünlük kapandım...
+## a00_109_703
+0|Shuichi. Sana öyle davrandığım için\nözür dilerim.
+1|Bu özür de nereden çıktı?
+2|Daha önce sana büyüden bahsetmenin\nzahmetli olduğunu düşünüyordum ama...
+3|Ama şimdi farklı! Değiştim!\nİleriye bakarak yaşamaya karar verdim!
+4|O yüzden zahmetli olduğunu söylemeden\nsana büyüyü anlatacağım.
+6|<CLT=cltMIND>Bu da ne?\nHer zamankinden farklı.
+7|Buraya... bunun için gelmedin mi?\nKaldığımız yerden devam etmek için?
+8|Ah, doğru, tabii.\nSakıncası yoksa duymak isterim?
+9|<CLT=cltMIND>Belki bu hikâyenin gerçek bir\nanlamı yoktur bile.
+10|Nyeh... büyücülere bu kadar ilgi\ngösterdiğini görmek hoşuma gidiyor.
+11|<CLT=cltMIND>Himiko mutlu görünüyordu ama\nifadesi çabucak soldu...
+12|Ustamın emekli olmasını durduramadım.
+13|Onun unvanının peşindeki kişi tam\nistediğini elde etti.
+14|Ne? Ne demek istiyorsun?
+15|Bir keresinde... ustam gösterilerinden\nbirine başlamak üzereydi...
+16|Seyircilerin en arkasında ustamın\ndüşmanı planını işletiyordu.
+17|Bu dünyada büyücülerin ölümcül\ndüşmanını biliyor musun?
+18|Ölümcül düşman mı...?
+19|Büyüyü elinden alma gücüne sahipler...\nbir anti-büyücü.
+20|<CLT=cltMIND>Bu bir mangaya benzemeye\nbaşlıyor...
+21|Bu anti-büyücü... ustamın büyüsünü elinden\naldı ve başarısız olmasına sebep oldu.
+23|Ustama tuzak kuruldu! Yoksa başarısız\nolması mümkün değildi!
+24|Altın çağındaki ustam bir anti-büyücüye\nyenilmezdi!
+25|Ama seyirciler ustama karşı döndü...\nBen de onları uyandırmaya çalıştım.
+26|Ustam adına\nanti-büyücüyü yok ettim.
+27|<CLT=cltMIND>Yani Himiko ustasının hatalarını düzeltmeye\nçalıştı ama bu şu anlama gelir...
+28|Ustam benim yenebileceğim birine\nkaybetmezdi.
+29|Evet, onlara haddini bildirdim.
+30|Gösteri başka sorun çıkmadan\nbitti. Ama...
+31|Kulise döndüğümde ustam\ngitmişti...
+32|O zamandan beri onu görmedim...
+33|<CLT=cltMIND>Tam düşündüğüm gibi...
+34|<CLT=cltMIND>Muhtemelen hatalarını Himiko'nun\ndüzeltmesinden utanmıştı.
+36|Himiko... bunların hiçbiri\nsenin suçun değil.
+37|Biliyorum. Acımana ihtiyacım yok.
+38|Özür dilerim...
+39|Özür dilemene gerek yok.
+40|Ustamın ne düşünmüş olabileceğini\nbiliyorum.
+42|Muhtemelen... benim için ortadan kayboldu.
+43|Muhtemelen beni bir büyücü güç savaşına\nbulaştırmak istemedi...
+44|Doğru...\nKesin öyle olmuştur.
+47|<CLT=cltMIND>Söyleyecek söz bulamadım...
+48|<CLT=cltMIND>Himiko'nun başı önünde uzaklaşmasını\nizledim ve odama döndüm...
+## a00_109_704
+0|Himiko. Ne olursa olsun sana söylemem\ngereken bir şey var.
+1|N-Ne? S-Sakın bana âşık olduğunu\nsöyleme!?
+2|H-Hayır! O değil!\nUstanla ilgili bir şey.
+3|Nyeh... ustam mı?
+4|Evet. Hikâyeni\ndüşünüyordum...
+5|Belki ustan seninle yeniden sahneye çıkabilmek\niçin gizlice antrenman yapıyordur.
+7|<CLT=cltMIND>Himiko'nun yüzü değişmedi.\nO da aynı şeyi düşünüyor olmalı.
+8|<CLT=cltMIND>Belki sadece umuyordur...
+9|Evet, bundan eminim
+10|...Bunu söylediğim için özür dilerim. Düşünmeden söyledim
+11|Ben öyle düşünüyorum
+13|Sen... haklı olabilirsin...
+14|Evet, bundan eminim.
+15|Nasıl bu kadar emin olabilirsin?
+16|Dedektiflerin insanların ruhunu okuyan\nbir büyüsü mü var?
+17|<CLT=cltMIND>Himiko'nun ifadesi biraz olsun\naydınlandı.
+18|Haha, kim bilir! Merak etme, o büyüyü\nkullanmaktan kaçınacağım.
+19|Nyeh, haklısın...\nBenim de ona ihtiyacım yok.
+20|...Bunu söylediğim için özür dilerim. Düşünmeden söyledim.

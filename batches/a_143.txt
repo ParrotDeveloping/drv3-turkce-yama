@@ -1,0 +1,51 @@
+@ ainori_text_US
+## a00_114_000
+38|Vay be, Salakaede! Gerçekten bana güzel\nbir şey getirmişsin!
+39|Pekâlâ, sana icatlarımdan birini göstereyim!\nEminim o kadar minnettarsın ki ağlayacaksın!
+40|Ha? İ-İlgilenmiyor musun? Neeedeeen?
+41|Vay! Bunu epeydir istiyordum!\nSende olacağını hiç beklemiyordum, Salakaede!
+42|Neden daha önce vermedin!? Of be,\ndeğerli zamanımı boşa harcadın!
+43|Vay be, Bokuichi! Gerçekten bana güzel\nbir şey getirmişsin!
+46|Vay! Bunu epeydir istiyordum!\nSende olacağını hiç beklemiyordum, Bokuichi!
+48|Ne—! B-Bunu... çok... istiyordum...
+49|Seni salak sanmıştım, Salakaede, ama\nmeğer epey işe yararmışsın!
+50|Heh, minnettarlığımın göstergesi olarak sana\nicatlarımdan birini verebilirim!
+51|N-Ne?\nBunu istediğimi nereden bildin?
+52|S-Sakın bana... benden bu kadar hoşlandığını\nsöyleme...
+53|Doğal olarak senin gibi dümdüz göğüslü bir salak\nbenim gibi zeki, göğüslü bir güzele vurulur!
+55|Fena değil, ebedi bakir! Bu kocaman memelerin\narasına ne zaman bir şey sıkıştırmayı planlıyorsun!?
+56|Şey, her gün beni düşünerek kendini\ntatmin ediyorsan buna göz yumabilirim!
+59|Şey, sanırım senin gibi ebedi bir bakir\nbütün gün düşünmeden edemez!
+## a00_114_050
+0|Ha? Senin gibi zavallının benim gibi muhteşem\nbir dâhi kızdan ne istediği var!?
+2|Büyük, güzel memelerime tapmana izin\nvermem için yalvarmaya mı geldin?
+3|Cidden mi!? Yüzünden ne kadar birikmiş ve\nhüsrana uğramış olduğun belli!
+4|Perhiz eğitiminin poster çocuğu\ngibisin!
+6|B-Benimle öyle birdenbire konuşma!\nKorkuttun beni!
+16|Bir şansın varmış gibi neden bana çıkma teklif\nediyorsun!? Haddini bil, kahrolası!
+17|Bir insan olarak değerin doğduğun günden\nitibaren taşa kazınmıştır!
+18|Sutyen bedeni olsaydın C olurdun! En fazla!
+19|<CLT=cltMIND>...Neden sutyen bedeniyle kıyasladı?
+20|<CLT=cltMIND>Miu'yla bir insan olarak değerim hakkında\nkonuşarak biraz vakit geçirdim...
+21|Peki! Sadece o kokuşmuş bakir ellerini\ngörebileceğim yerde tut!
+22|Onun dışında iznim var!
+23|Gözlerin renk değiştirene kadar\nistediğin kadar bak!
+24|<CLT=cltMIND>Gözlerimin renk değiştirmesini bekleyerek\nMiu'ya uzun süre baktım.
+25|Uyurken muhtemelen sapıkça rüyalar\ngörüyorsundur, ha?
+26|O zaman sana göre bir şeyim var!
+27|En yeni icadım: "Rüya Yazma\nMakinesi"!
+28|Bu bebek rüyalarındaki sapıkça sahneleri\nen ufak pis ayrıntısına kadar kaydeder...
+29|Bununla sapıkça rüyalarının tek bir\nmilisaniyesini bile unutmazsın!
+30|Ne dersin? Senin gibi sansürsüz bir\npiç için mükemmel!
+31|<CLT=cltMIND>Bir süre... icatlarını test\nettik.
+32|Ş-Şimdi de beni korkutarak eğleniyorsun...
+33|Onu internete hareketli GIF olarak koyup...\nbeni maskara edeceksin...
+34|<CLT=cltMIND>Bir süre Miu'yu bunu yapmayacağıma\nikna etmeye çalıştım...
+## a00_114_110
+3|Mucitler hakkında belgesel izle
+5|S-Sen o boka mı meraklısın!? Ne, Gonta'yı\ndaha iyi anlamak falan mı istiyorsun...?
+6|Y-Yoksa bu benden o kadar hoşlanmadığını\nsöylemenin bir yolu mu!?
+7|Ne!? Ama tam burada koca memeli muhteşem\nbir mucit duruyor!
+8|Gerçek bir kadınla olmak yerine bir ucube\ngibi ekrana bakmayı mı tercih ediyorsun!?
+9|Yaşlı pis bir herif gibi bu tür şeylerden\nzevk mi alıyorsun yoksa?
+10|N-Ne demek numara!?\nB-Bu hiç ilgimi çekmiyor!

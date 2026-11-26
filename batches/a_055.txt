@@ -1,0 +1,70 @@
+@ ainori_text_US
+## a00_104_700
+31|Gonta'ya teşekkür etme... Gonta Shuichi'yi koşturdu...\nHepsi Gonta'nın suçu...
+32|Eğlendim
+33|Beni neden davet ettin?
+34|Bu kadar sorun çıkardığım için özür dilerim
+36|Özür dilerim...\nGonta sonuçta pek eğlenceli değil...
+37|Hayır, Gonta, eğlendim!
+39|Tabii ki! O kadar hızlı koşmak zorunda kalmayalı\nepey olmuştu... Bir bakıma iyi geldi.
+40|Güzel bir hava değişikliği.
+41|Ah! O zaman Gonta Shuichi'nin eğlenmesine sevindi...
+43|Beni neden davet ettin?\nKaito koşmakta daha iyi gibi görünüyor...
+44|Kaito'yu mu davet edelim? Emin misin?\nGonta sorun çıkarmak istemiyor...
+45|Ah, bence... onu gelmeye zorlamadığın\nsürece sorun olmaz.
+47|Ah, şey, Gonta...\nSeninle koşarken çok eğlendim.
+48|Bu kadar sorun çıkardığım için özür dilerim.
+49|Shuichi neden özür diliyor!?\nHata yapan Gonta, Shuichi değil!
+50|Senin suçun değil, Gonta,\ntökezleyen bendim.
+51|Hem koşmaya gitmek çok eğlenceliydi.\nGüzel bir hava değişikliği.
+53|Bunu bir ara yine yapmak isterim.\nBir dahaki sefere hava değişikliğine ihtiyacım olduğunda.
+54|T-Tamam! O zaman Gonta bekleyecek!\nGonta'yı ne zaman istersen davet et!
+55|Gonta Shuichi için her şeyi yapar!\nGonta seni korur! Centilmen gibi!
+56|<CLT=cltMIND>Gonta olumlulukla dolup taşıyor.
+57|<CLT=cltMIND>...Gonta gerçekten saf.
+59|<CLT=cltMIND>Gonta'nın masumiyetine kendi kendime\ngülümseyerek odama döndüm.
+## a00_104_701
+0|Teşekkürler, Shuichi! Gonta'yı yine davet ettiğin için!
+1|Burada böcek yok ama Gonta Shuichi'nin\nyanında olmaktan keyif alıyor!
+2|Şimdi sen söyleyince...\nBurada hiç böcek olmaması biraz tuhaf değil mi?
+3|Hı-hı... Yer neresi olursa olsun her zaman\nbulunacak böcekler olmalı.
+4|Gonta'nın ormanındaki gibi çok böcek\nolması gerekmez...
+5|O ormanda on yıl yaşadın,\ndeğil mi?
+6|Evet. Orman ailesi Gonta'yla ilgilendi.
+7|Doğru, bir kurt ailesinden\nbahsetmiştin...
+9|...Gonta?\nBir sorun mu var?
+10|Özür dilerim. O... bir yalandı.
+11|Ne? Yalan mı...?
+12|Centilmenler yalan söylemez. Gonta bunu biliyor.\nGonta yalan söylemek istemiyor ama...
+13|Ama... Gonta yalan söylemek zorunda... orman ailesi için...\nGonta çok özür diliyor!
+14|Orman ailen için mi?
+15|Gonta gerçeği söyleyecek.\nShuichi Gonta'yı dinler mi?
+16|Tabii ki dinlerim, Gonta...
+17|Yani Gonta aslında... Sürüngenler tarafından büyütüldü.
+18|...Pardon?
+19|Dinozorlar yok olmadı... Dinozorlar dinozor\ninsanlara dönüştü—Sürüngenler.
+20|Sürüngenler ormanın derinliklerinde tek başına yaşıyor...\nGonta'yı onlar büyüttü.
+21|G-Gerçekten mi...\nAh, o zaman kurtlar hakkında neden yalan söyledin?
+22|Gonta'ya sır tutmasını söylediler. İnsanlar\nöğrenirse kötü şeyler olacağını söylediler.
+23|Sürüngenlerle insanlar uzun zaman önce savaştı.
+24|Ama Sürüngenler kaybetti ve insanlar\nbaskın tür oldu...
+25|Ve Sürüngenler artık savaşmak istemiyor.
+26|Ah... Bu... Bu epey bir hikâye...
+27|A-Ama Sürüngenler çok nazik!
+28|Sürüngenler Gonta'yı kendi çocukları gibi büyüttü.\nGonta'ya ormanda hayatta kalmayı öğretti.
+29|<CLT=cltMIND>Bu hikâye kelimenin tam anlamıyla inanılmaz.\nAma bu Gonta... böyle bir hikâye uydurmaz.
+30|Ah ama orman ailesi Gonta'nın tek öğretmeni değil...
+31|Gonta'nın başka ilginç deneyimleri de var...
+32|Ah, bir tane daha mı?
+33|Bir gün ormana güçlü bir adam geldi.\nGonta'yla dövüşmek için, dedi.
+34|Ve güçlü adam pek çoğunun ilkiydi.
+35|Pek çoğunun ilki mi...?\nHepsi seninle dövüşmeye mi geldi?
+36|Hepsi Gonta'yla dövüşmeye geldi.\nOnurlu, bire bir dövüşlerde.
+37|Gonta nedenini anlamadı. Ama... layık bir\nrakip bulmaya geldiklerini söylediler.
+38|<CLT=cltMIND>...Bu bir video oyunu\ngibi geliyor.
+39|Gonta bu kadar çok insanla tanıştığı için mutlu!\nBu kadar çok şey öğrendi!
+40|Gonta'yı en çok şaşırtan... ateş püskürten\nHindistanlı adamdı.
+41|Bir de Gonta'ya uçan kafa atışıyla saldıran\nJaponyalı başka bir adam.
+42|Gonta profesyonel güreşçiyle de dövüştü—Kızıl\nKasırga! Çok güçlü ve havalıydı!
+43|<CLT=cltMIND>...Bu *kesinlikle* bir video oyunu\ngibi geliyor.
+44|Gonta bütün rakiplerle yüzleşti... sadece dövüşe\nodaklandı... O gün çok büyüdü...

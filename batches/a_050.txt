@@ -1,0 +1,63 @@
+@ ainori_text_US
+## a00_103_704
+60|Ah! Yanlış anlamış olmalısın.\n*On iki* kız kardeşim var.
+61|...Ne?\nOn iki... kız kardeşin mi var!?
+62|Evet. Sana anlattığım hikâye sadece\n*en küçük* kız kardeşimle ilgiliydi.
+63|Yani çoğu üvey kardeş ama benim için\ngerçek kardeşler, bilirsin?
+64|Öyle ya da böyle on ikisini de dünyanın\ndört bir yanında kaybettim...
+65|Hepsiyle yeniden kavuşmamın bir\nömür süreceğini düşünüyorum.
+66|Bir ömür mü!?
+67|Hey, şimdi geri adım atamazsın!\nHem Shuichi...
+68|Seninle dünyayı gerektiği kadar dolaşırım.\nHayatımın geri kalanı olsa bile.
+69|<CLT=cltMIND>Buradan çıkınca Rantaro'yla dünyayı\ngezeceğim... belki bir ömür boyu.
+70|<CLT=cltMIND>Bunun olacağını hiç\nbeklemiyordum...
+71|<CLT=cltMIND>Ama Rantaro bana güveniyor.\nVe sözümü tutmak istiyorum.
+72|<CLT=cltMIND>Rantaro'yla aramızdaki bu bağı\nsonsuza dek... korumak istiyorum.
+74|<CLT=cltSYSTEM>Yeni bir beceri öğrendin:\n<CLT=cltSTRONG>Dayanıklılık<CLT=cltSYSTEM>.
+75|<CLT=cltMIND>Rantaro'yla günün geri kalanını bir\nsonraki maceramızı planlayarak geçirdik.
+## a00_103_902
+0|İstersen birlikte vakit geçirmek\ngüzel olurdu.
+1|Sadece bir his ama...
+2|Seninle biraz vakit geçirirsem yeteneğimi\nhatırlayabilirmişim gibi hissediyorum.
+3|Buna dair pek kanıtım yok...\nSadece inan, olur mu?
+4|Pekâlâ, yurda dönelim.
+5|Senin sayende biraz\nrahatlayabildim.
+6|Böyle bir yerde bu kadar iyi vakit\ngeçirmeme de biraz şaşırdım.
+7|Pekâlâ, yurda benimle birlikte\nyürümek ister misin?
+8|Tamam, bu... biraz tuhaftı.\nGarip davrandıysam kusura bakma.
+9|...Ben döneyim.
+10|...Biraz yoruldum.
+11|...Ben kaçayım.
+## a00_103_914
+0|Bu doğru...\nBu da başka bir bakış açısı.
+1|...Demek <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>\nbu konuda böyle düşünüyor, ha?
+2|Ah, hayır, sadece belirtiyordum...
+3|Biliyorum, biliyorum...\nAma...
+4|Sadece ihtimali bile... Böyle bir\nşey yaşamak zor.
+5|Rantaro...
+6|Özür dilerim, bundan hiç\nbahsetmemeliydim.
+7|Sadece... aptalca.\nHiçbir şey söylememişim gibi unut.
+8|<CLT=cltMIND>Yine o gülümseme... Sanki beni itiyor,\nişin içine girmemi istemiyor...
+10|Hayır, durum bu olamaz.
+11|...Nasıl bu kadar emin olabilirsin?\nMakul bir şüphe bile yok mu?
+12|Monokuma tarafından <CLT=cltSTRONG>Ultimate\nyeteneklerimiz<CLT=cltNORMAL> olduğu için seçildik.
+13|Yeteneği olmayan tek bir kişinin işin\niçinde olması fazla tuhaf olurdu.
+14|Eh, bu doğru ama...
+15|...Hm.
+16|Neden... yeteneğim olmadığına kendimi\nikna etmek için bu kadar uğraşıyorum acaba.
+17|Haha...\nSanırım hep biraz karamsar olmuşumdur.
+18|Sonuçta daha gideceğim çok yol var.\nSadece anılarımın geri gelmesini beklemeliyim.
+20|Hatırlamak istemediğin bir yetenek...\nMesela suçla ilgili bir şey mi?
+22|<CLT=cltSTRONG>Ultimate Kundakçı<CLT=cltNORMAL> ya da <CLT=cltSTRONG>Ultimate Katil<CLT=cltNORMAL>\ngibi bir şey çıkmak istemem.
+23|Burada ciddi sorunlara yol açacak\nbir yetenek olabilir.
+24|...Peki ne demeye çalışıyorsun?
+26|Yeteneğim tehlikeli bir şey olabilir.\nSen de biliyorsun, ben de.
+27|Ama bundan en çok korkan kişi...\n*benim*.
+28|O yüzden beni daha çok endişelendirecek\nşeyler söylemezsen sevinirim, tamam mı?
+30|Hatırlamak istemediğin bir yetenek...\nMesela suçla ilgili bir şey mi?
+32|Ya bir katil falan olduğum için\nanılarımı bilerek sildiysem...?
+33|Hayır, öyle olduğunu sanmıyorum.
+34|Ama nasıl *emin* olabilirsin?\nBunu öyle rahatça söyleyemezsin...
+35|Eminim çünkü seni tanıyorum.
+36|Seni kısa süredir tanıyorum ama seni\nanladığımı hissediyorum, Rantaro.
+37|Bildiğim kadarıyla soğukkanlı suçlar\nişleyecek biri değilsin.

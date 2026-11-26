@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_114_220
+11|Sana kendi "sularımdan" çay demlememi\nistiyorsun, değil mi!?
+12|Bvah-hahaha! Aman tanrım, istiyorsun!\nNe KADAR kahrolası bir sapıksın!
+13|...Peki, madem ısrar ediyorsun, çaydanlığı koyayım!
+14|Aman KAHROLASI tanrım...!
+15|Bu senin hoşlandığın tuhaf bir fantezi oyunu\nmu? Açken daha mı azgın oluyorsun?
+16|Azgınsan söyle gitsin! Çünkü bu her neyse\nbende hiç işe yaramıyor!
+## a00_114_230
+5|Kahve harikadır!
+6|Çünkü seni kahrolası bir şekilde uyandırır!
+7|Uyandırır! Kahrolası! UYANDIRIR!!!
+8|<CLT=cltMIND>...Neden iki kez söyledin?
+9|"Şekerleme" derken, tıkınmayı bitirdikten\nsonra beni tatlı olarak yemek istiyorsun!
+10|Hadi canım! Senin gibi bir ezik benim gibi\nbir afet parçasıyla başa çıkabilir mi sanıyorsun!?
+11|Sen kendi fantezilerinle idare et, ufaklık!\nEn azından onlar bedava!
+12|Siktir et! Çok riskli! Ya kalp krizi geçirip—\nne bileyim—ÖLÜRSEM!?!?
+13|Teknoloji ve bilimdeki tüm ilerlemeler en\naz iki yüzyıl gecikir!
+14|<CLT=cltMIND>Bu biraz abartı olabilir...
+15|<CLT=cltMIND>Gerçi bahsettiğimiz kişi\nMiu *ne de olsa*...
+## a00_114_310
+5|Bütün sünnetsiz ezikler sürekli sapıkça şeyler\nmi düşünür, yoksa sadece sen mi?
+6|Bu gidişle kızgınlıktaki dişilerin yanında\nbile azmaya başlayacaksın!
+7|Kimi kandırıyorum? Eminim en az bir kez bir\nköpeği düşünerek kendini tatmin etmişsindir!
+8|Hıh! Aslında fena fikir değil, bakir!
+9|Ne de olsa çizgi romanlar cinsel\nuyanışımda kilit rol oynadı!
+10|Pekâlâ! Sana tam olarak nasıl olduğunu\nanlatayım! Hiçbir pis ayrıntıyı atlamadan!
+11|Ailemle bir Çin restoranındayım ve şu çizgi\nromanı buluyorum, anladın mı? O zamanlar—
+12|<CLT=cltMIND>Bu herkesin içinde anlatılacak\nbir hikâye mi!?
+13|Ne? Birlikteyken... sıkılıyor\nmusun?
+14|Iıııh... Ben de bir randevuya çıkmak\nüzereyiz sanıyordum...
+15|Sadece ben mi... heyecanlanıyordum?
+## a00_114_320
+6|Ben mi, ders çalışmak? Ne halt için çalışayım!?\nDâhi beynim seninki gibi arızalı değil!
+7|Sen sidik ve mısır gevreğinin birlikte güzel\nolduğunu düşünen iğrenç bir kafasız mısın!?
+8|Yani diyorsun ki...
+9|benimle yatmak mı istiyorsun...?\nBunu mu kastediyorsun...?
+10|B-B-B-B-Birden şımarma...
+11|Of, çok gerginim...\nŞimdi nasıl uyuyacağım!?
+12|Ha? Tabii ki tozlu! Başka parlak tespitlerin\nvar mı, Kaptan Bariz!?
+13|Söylesene, aletine bakıp "Vay! Ne kadar\nküçüksün!" de der misin?
+14|Belki de fasulyeni nasıl fasulye sırığına\nçevireceğini araştırmalısın!
+15|<CLT=cltMIND>...Neden bana bağırıyorsun?
+## a00_114_330
+2|Patent yasaları hakkında bir kitap okuyalım
+5|Ay, patent yasaları...\nNe işe yarıyorlar ki?
+6|O kadar evrak işi tam bir baş belası...\nO zamanı icat yapmaya harcamayı tercih ederim.
+7|Yani hayır, patent yasaları hakkında aptal,\nkahrolası bir kitap okumak istemiyorum!
+8|Oh? Sessizliğe dayanamıyorsan sana göre\nbir icadım var!
+9|Kendi sıcak ve ağır nefes alışımın\nbir kaydını yaptım!
+10|O yüzden soyun, mendilleri hazırla ve\ndinle!
+11|<CLT=cltMIND>...Miu'nun nefes nefese sesi\nkütüphanede yankılandı.
+12|Hah-hahaha!\nİster kule dik ister çadır kur!
+13|Herkesin içinde ona dokunmadığın sürece\npolis bir halt yapmaz!
+14|Açıkçası senin gibi bir bakirin kaldırabilip\nkaldıramadığını görmek istiyorum!
+15|<CLT=cltMIND>Bu... ne halt... diyor böyle?
+## a00_114_410
+6|S-Spor salonunda v-vücudumuzu hareket ettirmek...\nY-Yoksa... ŞUNU mu kastediyorsun?
+7|V-Vücudumuzu... spor salonunun depo odasına...\ngötürüp işin nereye varacağına bakmak mı...?
+8|E-Epey hayal gücün varmış...\nBir bakire göre tabii...
+9|<CLT=cltMIND>O kafanın içinde neler oluyor?
+10|Ha? Temizlemene neden ben yardım edeyim?
+11|Bir şeyi bu kadar temizlemek istiyorsan\no minik aletini temizlesene!
+12|Kaç kez yıkarsan yıka asla daha\nbüyük olmayacak!

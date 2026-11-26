@@ -1,0 +1,50 @@
+@ ainori_text_US
+## a00_050_101
+30|Nedense seninle sohbet etmek\nistiyorum...
+31|Yapamazsan sorun değil.
+33|Hıh... İyi bir çocuksun.
+35|Ah, Shuichi. Seninle konuşmayı umuyordum.\nŞu an konuşacak vaktin var mı?
+36|Bugün bir planın var mı?\nİstersen arkadaşlığından keyif alırım.
+37|Eh, herkesin kendi işi var.\nSonra görüşürüz.
+39|Teşekkürler.\nEee, nereye gidiyoruz?
+41|Shuichi, bugün Gonta'yla vakit geçirmek ister mi?\nGonta eşlik edecek! Centilmen gibi!
+42|Shuichi, Gonta'yla vakit geçirmek ister mi!?
+43|Gonta Shuichi'yle vakit geçirince kendini\ncentilmen gibi hissediyor!
+44|Özür dilerim. Gonta seni birden davet etmemeliydi.\nGonta'ya yakışmadı, centilmence değil...
+46|Teşekkürler!\nShuichi nereye gitmek istiyor?
+48|Heeey, Shuichi! Benimle takılacağına dair\nsözünü hâlâ hatırlıyorsun, değil mi?
+49|<CLT=cltMIND>...Öyle bir şey hatırlamıyorum...
+50|Bugün benimle takılmak ister misin?\nBuna değeceğine söz veriyorum.
+51|Eh, yalan söyledim.
+52|Zaten seninle vakit geçirmek istemiyordum!
+53|Sana sonra yine soraaarım!
+56|Nii-hihi...\nKararını epey çabuk veriyorsun, Shuichi.
+57|Eee, bugün ne yapmak istiyorsun?
+60|Ayıracak vaktin var mı?
+61|Bence birlikte harika vakit\ngeçireceğiz...
+62|Eminim yeni bir antropoloji hikâyesi\nduymaya heveslisindir, değil mi?
+63|Eee? Şu an boş musun?
+64|Ne talihsizlik... Birlikte kaliteli vakit\ngeçirebileceğimizi düşünmüştüm...
+66|Kehehe... Böyle diyeceğini\ndüşünmüştüm, Shuichi.
+67|Peki bugün nereye gidelim?
+70|Bugün öğleden sonrayı benimle geçirmek\nister misin?
+71|Bence birlikte vakit geçirmek ikimize de\nçok faydalı olur.\n
+72|Başardım, Shuichi! Harika bir robot\nişletmesi için bir fikir buldum!
+73|Beni dinleyecek vaktin var mı?
+74|...Tabii ki. Sana yük olmak istemem.
+75|Anlıyorum. Başka zaman gelirim...
+78|Teşekkürler! Böyle diyeceğini hissetmiştim,\nShuichi!
+80|İstersen bugün seninle biraz vakit\ngeçirebilir miyim?
+81|Evet dersen sana bütün sadakatimle\nhizmet edeceğim.
+82|Şu an boş musun?
+83|Mümkünse seninle biraz vakit\ngeçirmek isterim...
+84|Anlıyorum...\nGörünüşe göre uygunluk senin için çok önemli.
+86|Gününü nasıl geçirmek istediğine\nkarar vermeyi sana bırakıyorum.
+88|Hey, Shuichi. Bugün benimle biraz\nvakit geçirmek ister misin?
+89|Nyeeeh... Nedense bugün\nçok sıkılıyorum...
+90|Sanırım seninle vakit geçirebilirim...\ngerçekten istiyorsan.
+91|Yapamaz mısın? Eh, olsun.
+93|Hmm...\nNereye gidelim?
+95|...Hey, şu an boş musun?
+96|İstersen... benimle bir yere gitmek\nister misin?
+97|...Sorun değil. Seninle vakit geçirmek\nistemiyordum zaten... falan...

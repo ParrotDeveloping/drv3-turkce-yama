@@ -1,0 +1,62 @@
+@ ainori_text_US
+## a00_104_703
+12|<CLT=cltMIND>Bu anlaşılabilir...\nNe de olsa vahşi doğada büyüdün.
+13|Gonta insan ailesine yeniden katıldı ama...\nGonta kendini pek kabul edilmiş hissetmiyor.
+14|İnsan ailesi Gonta'ya kendi çocukları gibi\ndavranıyor ama...
+15|Orman ailesini kabul etmiyorlar.
+16|Onları kabul etmiyorlar mı?\nNe demek istiyorsun?
+17|Gonta bütün hikâyeyi bilmiyor...
+18|Gonta'nın tek bildiği, Gonta'nın insan ailesi\nçok ünlü, çok saygın.
+19|Gerçekten mi!?\nÖyle mi...?
+20|O yüzden Gonta'ya kızıyorlar. Gonta'nın aile\nadına layık olmadığını söylüyorlar.
+21|Gonta'nın orman ailesini suçluyorlar.\nHepsinin onların suçu olduğunu söylüyorlar.
+22|<CLT=cltMIND>Bu korkunç... on yıl boyunca seninle\nilgilendikleri için minnettar olmalıydılar...\n
+23|Gonta orman ailesini seviyor.\nOrman ailesi Gonta için çok önemli.
+24|Ve Gonta insan ailesini de seviyor.\nGonta onu doğuran insan annesini seviyor.
+25|O yüzden Gonta insan ailesinin orman ailesini\nkabul etmesini istiyor...
+26|O yüzden Gonta düşündü, gerçek centilmen ol!\nO zaman insan ailesi orman ailesini kabul eder!
+27|Ve... orman ailesi de Gonta'yla gurur duyar!\nGonta'nın böyle büyük centilmen olduğunu görür!
+28|Kulağa harika bir fikir gibi geliyor!
+29|Ah... öyle mi düşünüyorsun...?
+30|Belki başka bir yol daha iyi olur?
+32|Gonta akıllı değil ama bunu çok düşündü!\nİyi fikir, değil mi Shuichi?
+33|Kulağa harika bir fikir gibi geliyor!
+34|Teşekkürler! Shuichi onaylarsa Gonta kendini\ndaha güvenli hissediyor!
+35|Gonta gerçek centilmen olmak için\nçok çalışacak!
+36|Ah... öyle mi düşünüyorsun...?
+37|Ha? Kötü fikir mi?
+38|Hayır, "kötü" değil... Sadece centilmen\nolmak epey zaman alıyor...
+39|Gonta ne kadar süreceğini umursamıyor!\nGonta ciddi...
+40|Ne kadar sürerse sürsün, ne kadar zor\nolursa olsun, Gonta centilmen olacak!
+41|<CLT=cltMIND>Gonta asla centilmen olamayabilir\nama bunu ona asla söylemem...
+42|Belki başka bir yol daha iyi olur?
+43|Başka yol mu? Şeyy...\nNe tür başka yol?
+44|Ah, şey...\nBelki saygın bir meslek?
+45|Saygın meslekle bile...\nGonta yine de saygın insan olmalı.
+46|<CLT=cltMIND>...Bu doğru.\nBelki de ailesinin istediği buydu.
+47|Evet, aynen öyle.
+48|<CLT=cltMIND>Ama... Gonta centilmen olsa bile\norman ailesi yine de...
+49|<CLT=cltMIND>Hayır, kafasına şüphe sokmamalıyım.\nBunu o kadar çok istiyor ki.
+51|<CLT=cltMIND>Gonta'yla yollarımızı ayırdık\nve odama döndüm.
+## a00_104_704
+0|<CLT=cltMIND>Bugün Gonta'yla bir şeyler konuşarak\nvakit geçirmeye karar verdim.
+1|<CLT=cltMIND>Gonta <CLT=cltSTRONG>Ultimate Böcekbilimci<CLT=cltMIND> olduğu için\nona işini sormaya karar verdim.
+2|Gonta, gerçekten etkileyicisin,\nbiliyor musun?
+3|G-Gonta özel değil. Gonta sadece böceklerin\nne dediğini dinliyor.
+4|<CLT=cltMIND>Hep bu kadar alçakgönüllü...
+5|<CLT=cltMIND>Tabii yeni böcek türleri keşfediyor ama\naynı zamanda yetiştirme yöntemleri geliştiriyor...
+6|<CLT=cltMIND>Ve bir keresinde hastalığa yol açan parazit\nbir solucan keşfetti ve kahraman olarak övüldü.
+7|Pek çok hayat kurtardın, Gonta.
+8|Evet ama centilmenlerin insanlara yardım\netmesi gerekiyor.
+9|Gonta daha da çok çalışıp gerçek\ncentilmen olmalı.
+11|Biliyor musun Gonta, öyle diyorsun ama...
+12|Ne kadar gerçekten muhteşem olduğunu biliyorum.
+13|Centilmen olmak için bu kadar çok çalışman\ngerektiğini sanmıyorum. Zaten inanılmazsın.
+14|A-Ama, Shuichi! Gonta centilmen olmalı!\nOrman ailesi için!
+15|<CLT=cltSTRONG>Ultimate Böcekbilimci<CLT=cltNORMAL> yeteneğini\ngeliştirmenin sebebi...
+16|orman ailenin sana böcekler ve hayvanlar hakkında\nbu kadar çok şey öğretmesi, değil mi?
+17|Evet, doğru...
+18|O yüzden bununla gurur duymalısın, Gonta.\nKim ne derse desin.
+19|Orman ailen bugünkü yetenekli adam\nolmana yardım etti!
+20|Gonta'nın ihtiyacı olan tek şey bu mu...?
+21|Bu fazlasıyla yeter, Gonta.\nBundan sonra...

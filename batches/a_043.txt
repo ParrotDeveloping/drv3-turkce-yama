@@ -1,0 +1,60 @@
+@ ainori_text_US
+## a00_103_000
+55|Bir gün ben de sana özel bir şey alacağım.\nBende de epey nadir şeyler var.
+## a00_103_113
+14|Neyse, bunun için kafa yormanın <CLT=size2>anlamı yok<CLT=size1>...
+15|Neyse, bunun için kafa yormanın anlamı yok...
+16|Kendimi bir şeyi hatırlamaya\nzorlayamam.
+18|Tek yapabileceğim beklemek...
+## a00_103_120
+5|Böyle filmler çok ferahlatıcı,\nbiliyor musun?
+6|Yani bazen epey yoğunlaşıyorlar ama\nkurgu olduğu için bunu affedebilirsin.
+7|...Şimdi düşününce durumumuz neredeyse\nkurgusal gibi geliyor.
+8|Ama sanırım işlerin aksiyon filmlerindeki\nkadar şiddetli olmamasına seviniyorum.
+9|Komediler harika. Beynini kapatıp\nizleyebilirsin, biliyor musun?
+10|Böyle hafif filmler izlemek rahatlatıcı.\nÖzellikle işler zorlaştığında.
+11|İki erkeğin arkasına yaslanıp birlikte eğlenceli\nbir komedi izlemesi güzel, değil mi?
+12|Hm...\nPek benim tarzım değil...
+13|Ama hey, izlemek istiyorsan sanırım\nseninle izlerim, Shuichi...
+## a00_103_130
+5|Haha, evet... uzun süre film izlemek\ninsanı uykulu yapıyor.
+6|Özellikle müzikleri güzel ve\nhuzurluysa...
+7|Ah, bir fikrim var. Filmi izlemeden önce\nbize biraz kahve yapabilirim belki?
+8|Ne de olsa özel bir gün, birbirimizin\nüstüne uyuyakalmak istemeyiz!
+9|Gerçekten mi, Shuichi? Bu biraz\nçocukça değil mi sence?
+10|Yani bu özel bir gün, film izlemeyi\ntercih etmez misin?
+11|...Çok ciddi. Ama havalı, biliyor musun?
+12|Benden duyunca biraz klişe gelmiş olabilir\nama Ultimate Dedektif'ten...
+13|Önemli olan gerçeklik, ha?
+14|Haklısın tabii.\nGerçekliğe dönmek istiyorum.
+15|...Bunu atlatalım, tamam mı Shuichi?\nPes etmek yok.
+## a00_103_210
+5|Ah, kulağa güzel geliyor! İnan ya da inanma,\naslında epey iyi bir aşçıyım.
+6|Dünyayı dolaşırken epey tarif\nöğrendim.
+7|İstersen sana bir şey yapmayı çok isterim.\nBunu benden sana bir hediye olarak düşün.
+8|En sevdiğin ne? Her şeyi yapabilirim,\nbir isteğin varsa söyle!
+9|Shuichi, tatlıya düşkünsün, ha?
+10|Hayır, şey, tatlılardan hoşlanmıyor değilim.\nBiraz yapabilirim, sorun değil.
+11|Sadece... şey, burada iki erkek...\nBiraz utanç verici, o kadar.
+12|Şey, aslında pek susamadım,\no yüzden...
+13|Haha, hadi Shuichi, sen bir dedektifsin.\nTahmin yürütmemelisin!
+## a00_103_220
+5|...İşte bu hiç mantıklı değil.\nHayır teşekkürler, Shuichi, pas geçeyim.
+6|Sanki beni bir tuzağa falan düşürmeye\nçalışıyorsun gibi geliyor...
+7|Kulağa iyi geliyor!\nÇayın yanında ne yemek istersin?
+8|Yemek yapmakta epey iyiyimdir, muhtemelen\nbize bir şeyler yapabilirim.
+9|Belki Kirumi kadar iyi değilimdir ama\nne yaptığımı biliyorum. Güven bana!
+10|...Bir sorun mu var, Shuichi?
+11|Yemek yemeyi reddetmek epey sağlıksız.\nBaşına çok dert açabilir.
+12|Her halükârda açlık grevine katılmak\nistemiyorum. Başka birine sor.
+## a00_103_230
+5|Yemekten sonra çay içmek çok rahatlatıcı!\nİnsana yaşadığını hissettiriyor...
+6|Hahaha, tamam, belki bu *biraz*\nabartılı oldu...
+7|Ama... belki o hissin saklı yeteneğimle\nbir ilgisi vardır? Bilmiyorum.
+8|Belki ölüme yakın bir deneyim yaşadım\nya da ölüm tehditleri aldım falan...
+9|Belki de böyle zamanlarda hayatta olduğum\niçin bu kadar minnettarımdır. Öyle bir şey.
+10|...Yok, belki de değil.\nŞiddet yanlısı biri olacağımı hayal edemiyorum...
+11|Eh, büyük bir yemekten sonra\ninsanın gerçekten uykusu geliyor!
+12|Ama gündüz şekerleme yapmanın o kadar\nda kötü olmadığını duydum, biliyor musun?
+13|Stresi azaltıyor ve beynini şarj ediyor.\nSeni daha verimli yapıyor!
+14|Eee, benimle şekerleme yapmak\nister misin, Shuichi?

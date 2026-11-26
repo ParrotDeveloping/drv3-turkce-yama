@@ -1,0 +1,62 @@
+@ ainori_text_US
+## a00_105_700
+1|Ben <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>'im, biliyorsun?\nNii-hihi...
+2|Öyle diyorsun. Ama bunun gerçekten bir anlamı var mı?\nVe yönettiğin bu örgüt ne?
+3|Haaaa, sana söylemedim mi? Ben gizli bir kötü\nörgütün yüce lideriyim!
+4|Evet, bunu söyledin ama...
+5|Epey etkileyici de.\n10.000'den fazla üyesi var!
+6|Onu da söyledin. Ama bu tanıma uyan hiçbir\nörgüt aklıma gelmiyor...
+7|Haaaa, sana söylemedim mi?\nAynı zamanda bir yalancıyım da, biliyorsun.
+8|...Evet. Bahsetmiştin.
+9|Ama gizli bir kötü örgütün yüce lideri olduğumu\nsöylediğimde doğruyu söylüyorum!
+11|<CLT=cltMIND>Kokichi'yle konuşunca başım dönüyor...\nKelimelerin nasıl işlediğini unutuyormuşum gibi...
+12|Örgütüm bütün dünyayı kontrol ediyor.\nAma tabii ki perde arkasından.
+13|Dünyadaki bütün mafya örgütleri\nbenim emrimde.
+14|Onları kontrol etmezsem bölge savaşlarına girerler.\nBu da herkes için sadece dert.
+15|Zahmetli, özellikle de barış dünya için\nen iyi şey olduğundan.
+16|<CLT=cltMIND>Bir "kötü örgüt" liderinin sözlerine\ninanabileceğimi sanmıyorum...
+17|Ah, evet! Bu yüzden aynısını hükümetle\nde yapıyorum!
+18|Politikacıları şantajla kontrol ediyorum...\nCanım isteyince borsayı manipüle ediyorum...
+19|Dünyanın her yerinde astlarım var.\nBeyaz Saray, Kremlin, Pekin...
+20|Wall Street, Londra...\nVe hatta Tokyo Borsası!
+21|Bir telefon açarım, dünya değişir.\nDünyadan sıkılırsan haber ver.
+22|(Bu kesin yalan olmalı...)
+23|Zirveye nasıl çıktın?
+24|Astların seni almaya geliyor mu?
+27|<CLT=cltMIND>Bu kesin yalan olmalı...
+28|Öyle düşünmemelisin, Shuichi.
+30|"Bu kesin yalan olmalı..."
+32|Ah-haha! Biliyordum!\nVay, gerçekten zihin okuyabiliyorum!
+33|...Şaka şaka!\nNe düşündüğün epey belliydi.
+34|Nii-hihi... böyle düşünmeye devam edersen\nstresten öleceksin, Shuichi.
+35|Zirveye nasıl çıktın?
+36|Nii-hihi, şey... Annemle babamı öldürüp\nörgütü miras aldım.
+37|Ne!?\nÖ-Öldürdün mü...
+38|Merak etme, yalan söylüyorum.
+40|Sadece ağabeyimi öldürdüm!
+42|Ah-haha! Onda da yalan söylüyorum!\nNasıl güç kazandığım çok gizli!
+43|Beni taklit edersen rakibim olur.
+44|Astların seni almaya geliyor mu?
+45|Kim bileeeer? Epey hıyar bir diktatörüm.\nPatronları gittiği için muhtemelen mutlulardır.
+47|Ooo, hayal kırıklığına mı uğradın? Pardon.\nKötü örgütlerin pek lidere ihtiyacı yok.
+48|Kendi kendilerine işleyebilirler. Şimdi ne\nzorluklar çektiğimi görüyor musun? Hıh!
+49|Yani... artık bizi bildiğine göre, Shuichi...\nÖlmelisin!
+50|N-Ne!? Bana *sen* anlattın,\nben sormadım bile!
+51|Ah, evet!\nHoppala, ne kadar dalgınım!
+52|O zaman hatayı ben yaptığım için şimdilik\nyaşamana izin vereceğim. Ama eninde sonunda öldüreceğim.
+53|Sen... ciddi misin?
+54|Evet, ciddi ciddi! Yalanlardan ve şakalardan nefret ederim!
+55|...Şaka şaka! Yine yalan söyledim!
+57|<CLT=cltMIND>Zihnim ve bedenim bitkin halde\nodama döndüm...
+58|<CLT=cltMIND>Neden sadece konuşmaktan\nbu kadar yoruldum...?
+59|<CLT=cltMIND>Beni öldüreceğini söyledi...\nSadece yalan söylüyor, değil mi?
+## a00_105_701
+0|Bugün ne için buradasın?\nHayatın için yalvarmaya mı geldin?
+1|Ah... beni öldürmek konusunda ciddi misin?
+2|Evet, tabii ki.\nÇünkü ben <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>'im, haliyle.
+3|Örgütümü koruyacağıma kendi unvanım üzerine\nyemin ettim. Bu yüzden ölmelisin.
+5|<CLT=cltMIND>Anlayamıyorum... ciddi mi değil mi...
+6|Eeee, yap artık!\nYere yat ve köpek gibi yalvar!
+7|Ooooh, karnını yardığını da görmek istiyorum!\nHadi! Yap, lütfen lütfen lüüütfen!?
+8|Bunu yaparsam ölürüm!
+9|Pöh, sanırım seni kandıramadım.\nÇok sııııkıcı.

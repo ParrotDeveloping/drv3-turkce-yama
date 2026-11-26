@@ -1,0 +1,69 @@
+@ ainori_text_US
+## a00_100_015
+22|Ş-Şey... Tanrım, Shuichi!\nSana itiraf eden bendim, biliyorsun!
+23|Ö-Özür dilerim, Kaede ama açıkçası ne\nsöylememi istediğini bilmiyorum...
+24|Tüh!
+25|<CLT=cltMIND>Ah hayır, onu yine mi kızdırdım?
+26|Bana sadece Kaede'den başka bir şey demen\niçin daha ne kadar beklemem gerekecek?
+27|<CLT=cltMIND>Kaede'den başka bir şey mi...?
+28|Bana... sevgilim falan de...
+29|Ah, şey... Ah...
+30|Söyle!
+31|...Sev—... Sevgilim?
+34|*hık*!
+35|K-Kaede! İyi misin?
+36|Ben... iyi değilim...\nBunu duymak beni şaşırttı.
+37|<CLT=cltMIND>Ah, evet, beni de.
+38|Ama yine bana Kaede demeye döndün.
+39|...Ah... özür dilerim.
+40|Sorun değil.\nGerçekten seviyorum...
+41|...senin o çekingen yanını...
+43|Tüh! Bana öyle sessizleşme!\nŞimdi çok utandım!
+44|<CLT=cltMIND>Hiç uyarmadan, yüzü kızarmış\nKaede beni kollarına aldı.
+45|V-Vay!
+46|K-Kaede, dur!\nDikkat—
+47|<CLT=cltMIND>Kaede bana yaslanınca dengemi\nkaybettim ve...
+48|<CLT=cltSYSTEM>*güm*!
+49|<CLT=cltMIND>Gözlerimi açtığımda... Kaede'yi kucağımda\nbuldum, ikimiz de yatakta oturuyorduk.
+50|Ah! K-Kaede, özür dilerim, bu biraz...\nAh...
+51|<CLT=cltMIND>Biz... yataktayız...\nAh, bir şey yapmaya kalkacağımdan değil!\n
+54|Evet...?
+55|Sarıl bana...
+57|Böyle...
+58|<CLT=cltMIND>Kulağıma fısıldadı ve beni\ndaha sıkı sardı.
+59|<CLT=cltMIND>Yavaşça kollarımı ona doladım,\nonu nazikçe kendime çektim.
+60|<CLT=cltMIND>Hareketlerime uyarak bedenini yaklaştırdı\nve kendini bana bastırdı.
+62|<CLT=cltMIND>Kaede'nin sıcaklığı benimle konuşuyordu...\nve bütün bedenim dinliyordu.
+63|Kalp atışımı duyabiliyor musun?
+64|...Evet, Kaede.
+65|Ben de seninkini duyabiliyorum, Shuichi.\nEn sevdiğim melodi.
+66|Beni sıcak ve güçlü bir kucaklamayla sarıyor...\nbaşka hiçbir şarkının yapamayacağı kadar.
+67|İçimi cesaretle dolduruyor...
+68|Shuichi, kalbimi benim piyano çaldığımdan\ndaha iyi çalıyorsun.
+70|Lütfen bana sevgilim de...
+71|S-Sevgilim...
+72|Bugün dürüst olacaksak o zaman...\nbunu söylediğini duymak istedim...
+73|Bana bu cesareti verdiğin sürece her şeyi\nyapabilirim. Aah, ne yapsam...?
+74|<CLT=cltMIND>Kaede— Ah, yani sevgilim...\ngeri çekilip kucağıma yerleşti.
+75|<CLT=cltMIND>Uzun süre birbirimizin gözlerine baktık...\nburunlarımız neredeyse değiyordu...
+76|Shuichi, benimle... yapar mısın?\nBunu her şeyden çok isterim.
+78|<CLT=cltMIND>Cevap yerine onu kendime\ndaha da yaklaştırdım...
+## a00_100_016
+0|Ohhhh! Kahramanlar iş başında uyumamalı!\nAcınası!
+2|Günaydın! Teknik olarak hâlâ gece olsa da\nyine de dinlenmiş hissediyor musun?
+4|Güzel surat, Shuichi. Sabahları kesinlikle\nen iyi halinle görünüyorsun.
+5|Gerçi daha iyi görünebilirdin. İnsanların\nsabah suratları konusunda epey seçiciyimdir.
+7|Ne kaba! Benim vaktim çok değerli, biliyor musun!
+8|Aşk Anahtarı'nı hâlâ elinde sıkarak\nuyuyakaldığın için...
+9|Seni uyandırmak için zahmet edip geldim!\nKeşke biraz daha minnettar olsan!
+10|Aşk Anahtarı mı...? Kumarhanede kazandığım\nbu şeyi mi kastediyorsun?
+11|Evet, evet! Sana nasıl kullanılacağını anlatacağım.
+12|Nasıl "kullanılacağını" mı?
+13|Puhuhu... O anahtar çok özel bir yere\ngiden yolu açar...
+14|Kumarhanenin civarında görmüş olabileceğin\nbir yer... İpucu ipucu...
+15|<CLT=cltMIND>Ah, doğru. *O* bina.\nSanırım böyle bir anahtarı olurdu...
+16|Puhuhu! Çözmüş gibi görünüyorsun!
+17|Güzel. Sağlıklı bir gencin beyni <CLT=cltSTRONG>seks<CLT=cltNORMAL> ve\n<CLT=cltSTRONG>şehvetle<CLT=cltNORMAL> takıntılı olmalı!
+19|Oradaki anahtar o bedensel arzulardan\nbazılarını boşaltmana yardım etmeli!
+21|Ah, heyecanlanmaya mı başladın?\nHer şeyi salmaya hazır mısın?
+22|Pekâlâ, lütfen talimatları oku.

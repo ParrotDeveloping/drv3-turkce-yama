@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_103_703
+56|...Rantaro...\nSen işe yaramaz bir ağabey değilsin.
+57|Bunca yıl sonra hâlâ arıyorsun.\nSen <CLT=cltSTRONG>Ultimate Ağabey<CLT=cltNORMAL>'sin.
+58|Ha, öyle mi düşünüyorsun...?
+60|Bu gerçekten bir şey olurdu...\nkeşke doğru olsa...
+63|<CLT=cltMIND>Rantaro yalnız kalmak istediğini söyledi,\nben de odama döndüm.
+## a00_103_704
+0|Shuichi, tam zamanında.\nSeninle bir şey konuşmak istiyordum.
+1|Şey, aslında daha çok senden bir\niyilik isteyeceğim. Büyük bir iyilik.
+2|Büyük bir iyilik mi?\nBu beni biraz gerdi...
+3|Hayır, sorun yok, kötü bir şey değil!\nSadece sana güvendiğim için istiyorum, Shuichi.
+4|<CLT=cltMIND>Bana güveniyor musun?
+5|Daha önce bana ne söylediğini\nhatırlıyor musun?
+6|Kötü bir ağabey olmadığımı, benim\n<CLT=cltSTRONG>Ultimate Ağabey<CLT=cltNORMAL> olduğumu...
+7|Açıkçası... beni gerçekten şaşırttı.
+8|Sana kız kardeşimden bahsedersem senin\nde bana vazgeçmemi söyleyeceğini düşünmüştüm.
+9|Herkes böyle derdi, değil mi?
+10|Ama Shuichi, sen...\nDuygularımı onayladın.
+11|Buna gerçekten şaşırdım ama\naynı zamanda... çok, çok mutlu oldum.
+12|O yüzden teşekkürler.
+13|Teşekkür etmene gerek yok, Rantaro,\nsadece dürüst davranıyordum.
+14|Hayır, lütfen söylememe izin ver.
+15|Bütün bunları içinde tutmak çok\nstresli, biliyor musun?
+16|...Neyse, sanırım bende bir kız kardeş\nkompleksi falan var, ha?
+17|Belki yeteneğim\n<CLT=cltSTRONG>Ultimate Kız Kardeş Kompleksi<CLT=cltNORMAL>'dir.
+18|...Bunun bir yetenek olduğunu pek sanmıyorum...
+19|Hahaha, evet, haklısın!
+20|<CLT=cltMIND>Rantaro gülümsemesiyle gözlerimi kamaştırdı.
+21|<CLT=cltMIND>Bu, kendini başkalarından ayırmak için\ntaktığı her zamanki gülümsemesi değildi.
+22|<CLT=cltMIND>Bu içten bir gülümsemeydi. Bu anlamda...\nRantaro'nun gülümsediğini ilk kez gördüm.
+23|Neyse!\nSenden istediğim iyilik.
+24|Dedektifler evden kaçanları ve kayıp\ninsanları araştırır, değil mi?
+25|Evet, araştırırız...\nAh, anladım!
+26|Haha, ne düşündüğümü bileceğini\nbiliyordum!
+27|<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'ten kız kardeşimi\naramasını resmen talep ediyorum.
+28|Küçük kız kardeşini bulmamı istiyorsun...
+29|Tam ihtiyacım olan kişinin sen olduğunu\nhissediyorum. Onu bulabiliriz, Shuichi.
+30|Elimden geleni yapacağım
+31|Emin misin? Gerçek bir dedektif değilim...
+32|Ah, yol masrafları...
+34|Ne dersin? Buradan çıkınca benimle\ndünyayı gezmek ister misin?
+35|Elimden geleni yapacağım.
+36|Evet! Bu harika! Çok teşekkürler,\nsana güveniyorum!
+37|A-Ama ben hâlâ çırağım, bana fazla\ngüvenmemelisin...
+38|Haha, hadi Shuichi,\nbeni geriyorsun!
+39|Sorun yok, Shuichi. Söz veriyorum, sana\n*fazla* güvenmiyorum.
+40|Biz bir takımız. Birbirimize yardım\nedebiliriz, değil mi?
+41|Birbirimize tutunursak\nher şeyi yapabiliriz!
+42|Emin misin?\nGerçek bir dedektif değilim...
+43|Pek emin\ngörünmüyorsun...
+44|...Ben hâlâ çırağım.
+45|...Ne olmuş? Bu sadece eşit olduğumuz anlamına gelir.
+46|Eşit mi?
+47|Ben çırak bir <CLT=cltSTRONG>Ultimate Ağabey<CLT=cltNORMAL>'im!\nHadi gidelim, iki çırak, takım olalım!
+48|İkimiz bir araya gelince epey güvenilir\nbir kişi ederiz, değil mi?
+49|Ah... sanırım bu doğru. Tamam.
+50|Ah, yol masrafları...
+51|<CLT=cltMIND>Dünyayı gezmenin ne kadara mal\nolacağını hayal bile edemiyorum...
+52|Ah, endişelendiğin şey bu mu?\nOnu dert etme, Shuichi!
+53|Hatta bunu... ödülün olarak\ndüşün.
+54|Ah, tamam!\nBu fazlasıyla yeter.
+55|Pekâlâ o zaman, seninle çalışmayı\ndört gözle bekliyorum, ortak.
+56|Lütfen, gerçek bir <CLT=cltSTRONG>Ultimate Ağabey<CLT=cltNORMAL>\nolacağım güne kadar... yanımda kal.
+57|Tabii ki kalacağım, Rantaro.\nDört gözle bekliyorum.
+58|Bir dedektif olarak küçük kız kardeşini bulup\nikinizi yeniden kavuşturacağıma söz veriyorum.
+59|İkimizi mi?

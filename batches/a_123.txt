@@ -1,0 +1,63 @@
+@ ainori_text_US
+## a00_111_704
+29|<CLT=cltMIND>Bu doğru *olamaz* ama yine de bunu\nbelirtmem mümkün değil.
+30|Shuichi. Senin sayende Neo-Aikido'da ustalaşmaya\nbir adım daha yaklaştım.
+31|İkimiz de Neo-Aikido'da ustalaşmayı hedefliyoruz. Yani...\nerkek olsan bile iyi bir insansın.
+32|<CLT=cltMIND>Beni... kabul mü ediyor? Sonunda?
+33|<CLT=cltMIND>Meşhur erkek düşmanı gerçekten\nbeni kabul ediyor...
+34|<CLT=cltMIND>Sanırım aramızdaki mesafe biraz kapandı.\nBirbirimizi anlıyoruz.
+35|<CLT=cltMIND>Belki pek "bağ" sayılmaz\nama iş görür.
+36|Aaaaahhhh!!! Elini sıkabilirim sandım\nama sıkamıyorum!
+38|Shuichi, lütfen hemen şimdi cinsiyet değiştir!\nO zaman hiçbir sorun kalmaz!
+39|N-Ne!? Hiç sanmıyorum!
+40|Bir yoza dokunmam imkânsız!\nPis! Zayıflarım!
+41|Ama bir dakika önce iyi bir insan\nolduğumu söyledin!
+42|Ah... doğru. Shuichi, sen de Neo-Aikido'da\nustalaşmaya niyetlisin...
+43|Ama yine de elini sıkamam!\nCinsiyet değiştirmen için yalvarıyorum!
+44|Ah, hayır, o iş olmaz...\nV-Ve tokalaşmak zorunda değiliz...
+45|Bildim! Hemen şimdi Neo-Aikido yolunda ustalaş!\nO zaman erkek olsan bile sorun olmaz!
+46|Ne, hemen şimdi mi!?
+47|Kendi sınırını belirleyemezsin!\nŞimdi benimle gerçek bir dövüş yap!
+49|<CLT=cltSYSTEM>Yeni bir beceri öğrendin:\n<CLT=cltSTRONG>Dünyanın Kanunları<CLT=cltSYSTEM>.
+50|<CLT=cltMIND>Günün geri kalanını Tenko'yla antrenmanlara\nsürüklenerek geçirdim.
+## a00_111_902
+0|B-Bu günün geleceğini hiç hayal\netmemiştim...
+1|Bu nasıl mümkün olabilir!?
+2|Kabul etmek istemiyorum ama aslında\nseninle takılırken eğlendim...
+3|Shuichi, lütfen benimle yine vakit geçir.
+4|İçimin senin yüzünden mi yoksa başka bir şey\nyüzünden mi kıpır kıpır olduğunu görmeliyim!
+5|Ş-Şey o zaman... yurda dönelim.
+6|Yoz bir erkek için beni epey iyi\neğlendirebildin!
+7|Ne yazık...
+8|Kız olsaydın iyi arkadaş\nolabilirdik.
+9|Neyse, yurda dönelim!
+10|Sonuçta yoz bir erkeksin.
+11|Tabii ki bir erkek bir kızı nasıl\neğlendireceğini bilmez!
+12|Şimdi yurda döneceğim...
+13|Bir erkekle vakit geçirmem aptallıktı.
+14|...Şimdi dönüyorum.
+## a00_111_914
+0|Ölmek mi? Bu fazla ileri gitmek...
+1|*iç çekiş*\nAnlamıyorsun.
+2|O utanmaz tavır erkeklerin neslinin tükenmesi\ngerektiğinin bir başka sebebi!
+3|Sadece erkek olmanız bile neslinizin\ntükenmesi için yeterli sebep!
+4|Böyle şeyler söylersen asla aynı fikirde\nolamazsınız...
+5|Ha!? Bence burada bir şeyi yanlış anladın!
+6|Erkeklerle anlaşmayı planlamıyorum! Yozların\ntamamen yok olmasını diliyorum!
+7|<CLT=cltMIND>Görünüşe göre bu noktada normal bir\nkonuşma yapmak söz konusu bile değil.
+9|Doğru, bu senin için çok büyük bir\nmesele olabilir, Tenko.
+10|Grrrrrr! Bir yoz için başkalarının duygularına\nkarşı epey hassassın!
+11|Anladıysan kendini yok etmelisin!
+12|Ah, hayır, bunu yapacağımı sanmıyorum...
+14|Bunu savaşmadan yapmanın bir yolu yok mu?\nBarışçıl bir yol olmalı...
+15|Haaa? Varsa lütfen söyle.
+16|Eh, öyle bir yöntem olsa bile\nzaten denemek istemem!
+17|<CLT=cltMIND>...Eh, aslında hiçbir şey aklıma gelmiyor.
+19|Savaşacaksan...\nseni destekleyeceğim.
+20|V-Vay! Kendinden kurtulmaya karar\nmı verdin!?
+21|Yani lanetli varlığını yok edip bu dünyayı\nkızlara mı bırakacaksın!?\n
+22|Ah, hayır. Daha çok nefretinin üstesinden gelmek\niçin savaşmana yardım etmeyi düşünüyordum.
+23|Yoz erkeklere olan nefretimin üstesinden mi!?
+24|Sen ne diyorsun!? Erkeklerden nefret etmek\nkesinlikle gerekli!
+25|Tanrı bu boyun eğmez doğa kanununu yarattı!
+26|Ama sonsuza dek böyle yaşamaya razı mısın?\nSorunlarından kaçarak mı?

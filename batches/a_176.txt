@@ -1,0 +1,25 @@
+@ ainori_text_US
+## a00_993_001
+5|<CLT=size2>Arkasına saklanacak
+6|Her yerde arkasına saklanacak\nkitap yığınları var.
+7|<CLT=size2>kitap<CLT=size1> yığınları\nher yerde <CLT=size2>var<CLT=size1>.
+8|<CLT=size2>Katil<CLT=size1>
+9|Katil kameralar yerleştirilmeden\nönce oradaysa...
+11|<CLT=size2>kameralar\n<CLT=size1>yerleştirilmeden önce...
+12|Rantaro'yu
+13|Rantaro'yu öldürüp sonra kaçmış olabilir.
+14|<CLT=size2>öldürüp, <CLT=size1>
+15|sonra <CLT=size2>kaçmış olabilir.
+16|Ama katil <CLT=size2>onu öldürüp kaçtıysa<CLT=size1>,
+18|<CLT=size2>kameraya yakalanmaz\nmıydı?
+19|Yeniden <CLT=size2>saklandıysa yakalanmaz...
+28|tek <CLT=size2>yapması gereken
+30|yeni koşarak
+31|gelmiş gibi yapmak...
+32|Sonra
+33|Sonra tek yapması gereken herkese katılmak.
+34|tek yapması gereken
+35|<CLT=size2><CLT=cltWEAK>herkese<CLT=cltNORMAL>
+36|<CLT=size2>katılmak.<CLT=size1>
+## a00_999_110
+0|<CLT=cltMIND>Takılmaya karar verdik

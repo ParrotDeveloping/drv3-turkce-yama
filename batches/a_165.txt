@@ -1,0 +1,67 @@
+@ ainori_text_US
+## a00_300_105
+49|<CLT=cltMIND>İstiyorum...\nOnun hakkında daha çok şey bilmek istiyorum.
+50|<CLT=cltMIND>Yalanlar nerede bitiyor\nve gerçek nerede başlıyor?
+51|<CLT=cltMIND>Onun neresi gerçek?\nNeresi gerçek değil?
+52|<CLT=cltMIND>Bütün bunları öğrenmek için...\nbana uzatılan eli sıktım.
+53|<CLT=cltMIND>Bir sürü şey hakkında yalan söyleyebilir...\nAma elinin sıcaklığını saklayamaz.
+## a00_300_106
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nKiyo'yla baş başa konuşmaya karar verdim.
+3|Burada geçirdiğimiz zamanda şaşırtıcı\nderecede çok şey kazanıldı.
+4|Tuhaf ama ben de... çok eğlendim.\nFolklor hakkında da çok şey öğrendim.
+5|Kehehe... Gerçekten bir antropolog\nolacak yeteneğe sahipsin.
+6|Öğrenmekten zevk alabilmek her\nçalışmada önemli bir yetenektir.
+7|Bu arada... sözünü hatırlıyor musun?\nBuradan ayrıldığımızda yapacağımız planları?
+8|<CLT=cltMIND>Sözümüz mü?\nDoğru hatırlıyorsam...
+9|Ablasıyla tanışmak
+10|Çırağı olmak
+11|Birlikte seyahat etmek
+12|Beni ablanla tanıştıracaktın,\ndeğil mi?
+13|Böyle bir söz verdiğimi\nhatırlamıyorum...
+14|Ablamdan bir noktada\nbahsetmiş miydim...?
+15|Onu nereden biliyorsun,\nShuichi?
+16|Ah, şey, bir önsezi...?
+17|<CLT=cltMIND>Bu yanlıştı.\nVerdiğimiz söz şuydu...
+18|Çırağın olmak mı?
+19|Ne diyorsun? Shuichi, sen zaten benim\nen iyi öğrencimsin.
+20|Hem bu senin sözünden farklı,\ndeğil mi?
+21|<CLT=cltMIND>Bu yanlıştı.\nVerdiğimiz söz şuydu...
+22|Birlikte seyahat etmek, değil mi Kiyo?
+23|Kehehe... Görünüşe göre\nunutmamışsın.
+24|Evet, insanlığın bildiğim güzelliğini kendi\ngözlerinle görmeni istiyorum.
+25|Seninle gidersem insanlığın güzelliğini\nyeniden keşfedebileceğimi biliyorum.
+26|O yüzden... bir kez daha soracağım.\nBenimle ülkeyi gezer misin?
+27|Tabii ki. Nerede olursan ol hep\neğleniyor gibi görünüyorsun.
+28|Kehehe... Bunu söyleyebileceğini\ndüşünmüştüm, Shuichi.
+29|Ah, bir de... buradan çıkınca seni\ntanıştırmak istediğim biri var.
+30|Tanıştırmak mı?
+31|Sevgilim.
+32|O ve ben birlikte olmaya yazgılıyız.\nBirbirimize ölümsüz aşk sözü verdik...
+33|Bence Ablamla gayet iyi\nanlaşırsın.
+34|...Ablan mı? Ah, anlıyorum, benim hatam.\n*Sevgilim* dedin sanmıştım...
+35|Kehehe... Buradan çıkınca her şey\nnetleşecek.
+36|Daha önemlisi, Shuichi...\nArkadaşım olduğun için teşekkür ederim.
+37|Ablamla da arkadaş olabilirsen beni\nçok mutlu edersin...
+38|<CLT=cltMIND>...Abla ve sevgili meselesini\nhâlâ çözemedim.
+39|<CLT=cltMIND>Ama Kiyo beni kiminle tanıştırırsa\ntanıştırsın arkadaş olurmuşum gibi hissediyorum.
+40|<CLT=cltMIND>Ona sarsılmaz bir güvenim olduğunu\nşimdi fark ediyorum.
+## a00_300_107
+0|<CLT=cltMIND>Akademiden ayrılmadan önce...\nKeebo'yla baş başa konuşmaya karar verdim.
+3|Demek bugün buradaki son günümüz...\nÇok uzun gibi görünse de çok kısa geldi...
+4|Biraz üzücü, değil mi? Buraya gelmeye\nzorlanmış olsak bile.
+5|Evet... Buradan ayrılmaktan üzüntü\nduymadığımı söylesem yalan olur.
+6|Ama planımızı profesöre sunmayı\ndüşününce o üzüntü uçup gidiyor.
+7|Planımız mı?
+8|Unuttun mu!? Seninle birlikte\nbulduğumuz plan!
+9|Ah, evet, plan.
+10|Profesör Idabashi'ye sunmak için\nbulduğumuz öneri, değil mi?
+11|Evet, o plan...\nAma biraz emin değil gibisin...
+12|Planımızın ayrıntılarını hatırlıyorsun,\ndeğil mi?
+14|<CLT=cltMIND>Keebo'yla birlikte bulduğumuz plan...
+15|Daha fazla Keebo yapmak
+16|Keebo'yu dev yapmak
+17|Keebo'nun geçmiş hikâyesi
+18|Daha fazla Keebo versiyonuyla ilgiliydi, değil mi?
+19|Evet, doğru.
+20|Seri üretilebilmem için farklı modeller\nve renkler hazırlamamız gerekecek.
+21|...Hayır, bahsettiğim şey hiç de bu değil!

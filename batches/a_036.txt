@@ -1,0 +1,73 @@
+@ ainori_text_US
+## a00_102_410
+12|Şimdi dağıldığını görmek\nistemem.
+13|Daha hiçbir şey yapmamış\nolmana rağmen mi?
+14|Dinlenmek istiyorsan gidilecek daha\niyi yerler var...
+15|Dürtüsel olmak cesur olmaktan farklıdır,\nbiliyorsun değil mi?
+## a00_102_420
+5|Tenis dışında bir şey oynamayalı\nepey oldu...
+6|Oynamak istiyorsan tabii,\nsana katılırım.
+7|Gerçi sana kolay davranacağıma\nsöz veremem.
+8|Dur.\nHapishaneden anılar canlanıyor.
+9|Cık... Sanırım bugünlük bu kadar.
+10|Ah, bu spor için önemli.
+11|Tenis için özellikle kalçalarını esnetmek\nönemli.
+12|Kalçaların gevşek değilse tek bir adımı\nbile düzgün atamazsın.
+14|Bir anlığına biraz kendimi\nkaptırdım...
+## a00_102_430
+2|Yakan top oynayalım
+6|Tenis olmasa bile... insanlara top\nfırlatmaya doydum.
+7|Vücut geliştirmeyle ilgileniyor musun?
+8|O zaman verimli bir antrenman programı\nplanlamalısın...
+9|Bildiğim her şeyi sana öğreteceğim.
+10|Lütfen bununla ilgili şaka yapma...
+11|Bunun için hapse atılırsan sevdiklerin\nüzülür...
+12|Benim aksime senin öyle insanların var...
+## a00_102_510
+5|Evet, fırsatım varken bu değerli dış\nhavayı soluyacağım.
+6|Hayatta ne olacağını bilemezsin,\no yüzden elinden geldiğince keyfini çıkarmalısın.
+7|Bu bana hapishanedeki egzersiz\nsaatini hatırlatıyor...
+8|Gerçi burada hapishane gardiyanı\nyok.
+9|Sadece sağlıklı olmaya mı çalışıyorsun\nbilmiyorum ama kendimizi zorlamayalım.
+10|Yüzümü dışarıdaki güneşten saklamamı\nmı söylüyorsun?
+11|Senin gibi birinin böyle bir şey\nsöyleyeceğini düşünmezdim. İlginç...
+12|İnsanları okuma konusunda hâlâ gideceğim\nçok yol var.
+## a00_102_520
+4|Yürüyüşe çıkalım
+5|Hapishaneyle kıyaslayınca... her\nmanzara güzel olur.
+6|Etrafına bakıp sadece geçmişe hapsolmuş\nadamlar gördüğünü hayal etmeye çalış.
+7|Senin gibi geleceğe bakan birini\ngörmek güzel...
+8|Bu bana benim de öyle yaşayabileceğime\ndair aptalca bir fikir veriyor...
+10|Gerçekten bu teklifini kabul edecek\nbiri gibi mi görünüyorum?
+11|Anlaşacağımızı düşünmüştüm\nama sanırım yanılmışım...
+12|İyi fikir. Bu artık hapiste\nolmadığımı hatırlamama yardım eder.
+13|Orada canım istediğinde yürüyüşe\nçıkmayı hayal bile edemezdim.
+14|Komik, değil mi? Benim için basit bir\nyürüyüş bile savurganlık...
+## a00_102_530
+5|Böyle sıcak bir hayata alışacağımı\ndüşünmek... Ben bile şaşırdım.
+6|Ama nedense... böyle hissedebildiğim\niçin bile mutluyum.
+7|Değişebildiysem...\nbu senin sayendeydi.
+9|Evet... Herkesin gülen yüzlerini\ngörmek harika olurdu...
+10|Ama... ben...
+11|Kusura bakma...\nBiraz yalnız kalabilir miyim?
+12|Senin için endişelenen insanlar\nvar, değil mi?
+13|O zaman... böyle şeyler söyleme!\nŞaka olarak bile!
+## a00_102_700
+0|Eee? Benimle konuşmaya neden\ngeldin?
+1|Muhtemelen o mafyayı nasıl çökerttiğimi\nduymak istiyorsundur, değil mi?
+2|Ne!?\nHiç de öyle planlamamıştım...
+3|Gerçekten mi? Meraklı bir suratın var...
+4|Tenisi hâlâ önemseyip önemsemediğimi\nmi merak ediyorsun?
+5|Nedense bu da işgüzarların önemsediği\nbaşka bir şey gibi görünüyor.
+6|Hayır, gerçekten öyle bir şey yapmaya çalışmıyordum...\nSadece seninle konuşmak istedim, Ryoma.
+7|Öyle mi?
+8|Yani endişelenen tek kişi bendim.\nHıh, hâlâ gideceğim çok yol var...
+9|Eh, açıkçası...
+10|<CLT=cltSTRONG>Ultimate Yeteneğine<CLT=cltNORMAL> *hiç* ilgim\nolmadığını söyleyemem...
+11|Eh, bu dürüstçe...
+12|Sen dedektif değil misin? Böyle bir\ndürüstlük aptallık olarak görülebilir, biliyor musun?
+13|Ah, sanırım bu doğru, evet.
+14|Ama... o dürüstlüğe saygımdan...
+15|Biraz... tenis hakkında konuşmakta\nbir sakınca görmüyorum.
+17|Öyle dedim.\nDuymadın mı?
+18|Pekâlâ... tam olarak ne hakkında\nkonuşayım...?

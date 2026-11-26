@@ -1,0 +1,68 @@
+@ ainori_text_US
+## a00_114_700
+6|Haaaa!? Yani beni hiç plan yapmadan\nmı davet ettin?
+8|Tipik... Erkekler taşıdığım ateşi görünce\ngerilip kaskatı kesilirler.
+9|Ama tam keyfimin yerinde olduğu bir zamana\ndenk geldin... Peki, sana icatlarımı göstereyim!
+11|<CLT=cltMIND>Cevabımı beklemeden Miu çalım\natarak laboratuvarına yürüdü.
+12|Tadaa! İşte geldik: Miu Iruma'nın araştırma\nlaboratuvarı!
+13|<CLT=cltMIND>Biliyorum, beni buraya sen getirdin...
+14|Şimdi, sana göstereceğim ilk icat bu!
+15|Bu ne? Bir sensör mü?
+16|Vay, sensör olduğunu gerçekten anladın!\nAma ne tür bir sensör olduğunu bilebilir misin!?
+17|Bilmiyorum.
+18|Ben de öyle düşünmüştüm!\nBu bebeğe "Birliktelik Sayacı" diyorum!
+19|Birliktelik Sayacı mı?
+20|Kaç kişiyle yattığını sayar!\nYa da kaç kişinin seninle yattığını!
+21|O-Onu bana doğrultma!
+22|Çok geç! Sonuca bir bakalım mı?
+23|HAH-HAHAHAHA!\nOlamaz be! Dalga mı geçiyorsun!?
+24|<CLT=cltMIND>Ne dedi? Ne dedi!?
+25|Şimdi, sıradaki icada geçelim!
+26|<CLT=cltMIND>Miu, ucunda boks eldiveni olan bir kola\nbenzeyen bir makine uzattı.
+27|...Bu ne?
+28|"Berbat Açık Saçık Şakalar Yaptığın İçin\nSana Yumruk Atan Otomatik Yumrukçu"!
+29|İsmi neden bu kadar düz!?
+30|Kimin umurunda? Bazen isim düşünmeye\nüşeniyorum.
+31|Sürekli yeni icatlar çıkarıyorum!\nHepsine isim vermemi bekleyemezsin!
+32|Yani sen de mendile boşalttıktan sonra her\nbir minik adamına tek tek isim veriyor musun?
+33|<CLT=cltSYSTEM>*GÜM!*
+34|Grgh!
+36|<CLT=cltMIND>Miu epey sert bir yumruk yedi...\nİyi mi?
+37|O-Of be... Birden oldu...\nYine de... iyi bir yumruktu...
+38|<CLT=cltMIND>Sanırım iyi.
+39|Hehehehehe... Pekâlâ, eğlenceni böldüğüm için\nüzgünüm ama gösterecek bir icadım daha var!
+40|Bu sefer ne?
+41|<CLT=cltMIND>Bu... bir bilimkurgu filmindeki\nışın tabancasına benziyor.
+42|Bu bebek iç çamaşırlarını göz açıp kapayıncaya\nkadar ışınlar! Adı "Donsuz Gezen" tabancası!
+44|Bu ışığı bir iç çamaşırına doğrult,\nonu istediğin yere gönderebilirsin!
+45|Ne dersin!? Harika bir şey, değil mi!?
+46|Ne? Nesneleri ışınlayabiliyor musun!?
+47|Bütün nesneleri değil! Sadece iç çamaşırını!
+48|<CLT=cltMIND>Sadece iç çamaşırı mı? Bu inanılmaz\nteknolojiyi iç çamaşırına mı harcıyor?
+49|Hah-hahahaha! Ne dersin!?\nMuazzam yeteneğimin önünde eğil!
+50|*iç çeker*... Ne diyeceğimi bilmiyorum.\nBunların hepsi çok tuhaf.
+51|N-Ne...? B-Bana... öyle bakma...\nO... soğuk gözlerle...
+52|Ben sadece... bunları sana göstermek istedim...
+53|<CLT=cltMIND>Eyvah, onu üzdüm mü?
+54|Hayır, şey, bunlar... gerçekten yaratıcı!\nGerçekten iyi şeyler.
+56|Evet! Bence... icatlarınla bu kadar\neğlenmen güzel.
+57|Öyle mi düşünüyorsun? Bu beni mutlu etti.\nEvet, icatlarım...
+58|Hah-hahahahaha! Söylemeye bile gerek yok,\nicatlarım her zaman müthiştir!
+59|Ama dâhiler bile övülmeyi sever! Bunu\nepey iyi anlıyor gibisin!
+60|Biliyor musun, sen epey iyisin!\nBundan sonra sana çok iyi davranacağım!
+61|Sadece tekniğim aklını fazla\nbaşından almasın!
+62|Hah-hahahahahahahaha!
+63|<CLT=cltMIND>Bana "iyi" mi davranacaksın?\nYani bende... hiçbir şey test etmeyeceksin, değil mi?
+65|<CLT=cltMIND>Beynim biraz karışmış hâlde\nodama döndüm.
+## a00_114_701
+0|Hah-hahaha! Bugün de muhteşem bir\nkeyfim var!
+1|Öyle görünüyor...
+2|Hey, hey! Neden o huysuz surat!?
+3|Heh, heh, biliyorum!\nTıkandın, ha?
+4|O zaman işleri yürütecek bir şey\nvereyim! Hah-hahahaha!
+5|<CLT=cltMIND>Miu neden bu kadar keyifli?\nBiraz... ürkütücü.
+6|Gel, Shuichi! Araştırma laboratuvarıma!
+7|<CLT=cltMIND>Kafamın karışıklığını tamamen görmezden\ngelen Miu laboratuvarına yöneldi.
+8|Şimdi, başlayalım.
+9|Başlamak mı? Neye başlamak?
+10|Kulaklarındaki boku temizle, Bokuichi!

@@ -1,0 +1,72 @@
+@ ainori_text_US
+## a00_115_704
+44|<CLT=cltMIND>Bu... şu anlama mı... geliyor...?
+45|İşte bu yüzden...
+46|Bu yüzden...?
+47|Of be!\nErkek ol da evet de artık!
+48|Ah! Pardon! Evet! Evet, evet!
+49|...Pfft!
+51|Hahahahaha!
+52|Henüz o noktada değiliz... Düetimiz,\narkadaşlığımız, her şeyimizle...
+53|Bu yüzden kaçacağız... umarım\nbirlikte büyüyebilmek için.
+55|<CLT=cltMIND>Kaede'nin ne demeye çalıştığını\nbiraz anladım.
+56|<CLT=cltMIND>Sanırım bunun sebebi aramızda\nçok güçlü bir bağ olması.
+57|<CLT=cltMIND>Ama buradan çıkınca...\nbunu daha da ileri götürmek isteyebilirim...
+59|<CLT=cltSYSTEM>Yeni bir yetenek öğrendin:\n<CLT=cltSTRONG>Piyano Düeti<CLT=cltSYSTEM>.
+60|<CLT=cltMIND>Kaede'yle günün geri kalanını kaçtıktan\nsonra ne yapacağımızı konuşarak geçirdik.
+## a00_115_902
+0|Çok güzel vakit geçirdim!
+1|Piyano dışında bir şey yaparken bu kadar\neğlenmeyeli uzun zaman olmuştu!
+2|İstersen... yine takılalım.
+3|Seni daha çok tanımak istiyorum, Shuichi...
+4|Y-Yurtlara birlikte yürüyelim!
+5|Şey, keyifliydi! Seninle takılırken neden\nbu kadar eğleniyorum acaba?
+6|Belki de başkaları için işi eğlenceli\nhâle getirmeyi biliyorsun, Shuichi.
+8|Şeyy... biraz yoruldum.
+9|Kusura bakma ama şimdi dönüyorum.
+10|Böyle olacağını bilseydim onun yerine\ntek başıma piyano çalardım...
+## a00_115_914
+0|...Doğru, sanırım aklının başka yerde olduğunu\nbilmek insanı iyi hissettirmiyor.
+1|Haklısın...\nBunu zaten biliyorum...
+2|Ama farkına varmadan çoktan onu\ndüşünüyordum...
+4|Bu kadar kaba olacaksam belki de kimseyle\nbirlikte olmamalıyım...
+6|Hayır, bu hiç de kaba değil.
+7|Ama seninle ilgilenmeyen biriyle birlikte\nolmaktan hoşlanmazsın...
+8|Piyanoyu sevdiğini biliyorum, Kaede.
+9|Sana sevdiğin şeyi düşünmeyi bırak\nasla demezdim.
+12|Ama seninleyken başka şeyler\ndüşünmemeye çalışacağım.
+13|Kaede, gerçekten...
+14|Hayır, ciddiyim.
+15|Seninleyken birlikte geçirdiğimiz\nzamana odaklanmak istiyorum.
+17|Hep piyanoyu düşündüğün\ndoğru...
+18|Evet, elimde değil...
+19|Ve başkalarının keyfini kaçırmak iyi\nbir şey değil, biliyorsun...
+20|Böyle olacağını bilseydim onun yerine\nodamda tek başıma kalmalıydım...
+21|Hayır, hiç de değil, Kaede.
+22|Biri bana aynı şeyi yapsaydı...
+23|...Kendimi çok kötü hissederdim.\nYapabileceğin en kötü şey bu...
+25|Sen "piyano delisi" değilsin, Kaede.
+26|Hayır, ben *bir* Piyano Delisiyim.
+27|Ne zaman boş vaktim olsa piyano\nçalarım...
+28|Bunda sorun yok. Ama başka biriyleyken\npiyanoyu düşünüyorum...
+29|Öyle olsa bile dert etmiyorum.
+30|Aslında zamanını adayabileceğin bir yeteneğin\nolmasını biraz kıskanıyorum.
+31|Bunu senin harika olan bir yanın daha\nolarak görüyorum, Kaede.
+33|Seninle tanıştığıma seviniyorum, Shuichi.
+35|H-Hiçbir şey.
+36|Neyse, yine düet yapalım!\nHer zamankinden daha katı olacağım!
+## a00_190_140
+0|<CLT=cltMIND>Ünlü şarkı isimleri bulmaya\nçalıştık.
+1|<CLT=cltMIND>Parmaklarımızı disklerin deliklerine\nsokarak oyalandık.
+2|<CLT=cltMIND>Eğlencesine ses kalitesiyle\noynadık.
+3|<CLT=cltMIND><CLT=cltSTRONG>AV<CLT=cltMIND> için resmî isimler uydurarak\noyalandık.
+## a00_190_240
+0|<CLT=cltMIND>Bütün tabakları saymayı\noyuna çevirdik.
+1|<CLT=cltMIND>Şık bir yemek masasıyla\n"evcilik" oynadık.
+2|<CLT=cltMIND>Tabaklara parmak izi bulaştırarak\noyalandık.
+3|<CLT=cltMIND>Konserve kutularını yuvarlayarak\noyalandık.
+## a00_190_340
+0|<CLT=cltMIND>Sözlükte kelime aramayı\noyuna çevirdik.
+1|<CLT=cltMIND>Kitaplardaki bütün sonsözleri\nokumayı oyuna çevirdik.
+2|<CLT=cltMIND>Kitapların yayın tarihlerine\nbakarak oyalandık.
+3|<CLT=cltMIND>Kitapların kalınlığını kıyaslamayı\noyuna çevirdik.

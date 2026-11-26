@@ -1,0 +1,76 @@
+@ ainori_text_US
+## a00_115_113
+16|Bu yüzden\nherkes bana\n<CLT=cltWEAK><CLT=size2>Piyano Delisi<CLT=cltNORMAL> diyor...
+17|Bu yüzden herkes bana Piyano Delisi diyor...
+## a00_115_120
+4|Müzikal izle
+5|Ah, iyi seçim.
+6|Bu akademide hapsolmak beni epey\nbunaltıyor...
+7|...ama böyle zamanlarda eğlenceli fikirler\nbulmalıyız!
+8|Şeyy...\nKorkunç bir şey izlemek pek istemiyorum...
+9|Onun yerine daha neşeli bir şey\nizlesek nasıl olur?
+10|Müzikaller güzel!\nŞarkı söyleyesim geliyor!
+11|En çok piyano baladlarını severim ama\ngenelde her türlü müziği severim.
+12|Hobimi anlaman epey hoş.
+## a00_115_130
+5|İnsanlar sıkıcı bir film izlerken\nuykuları gelir.
+6|Piyano çalarken iki saat çok çabuk geçer.\nZamanın nasıl uçtuğu ilginç.
+7|Yine de aynı şeyi düşünmene\nsevindim.
+8|Uyuyakalan sadece ben olsaydım\nepey utanç verici olurdu...
+9|Kusura bakma ama öyle düşünmüyorum.
+10|O filmlerin her biri için bir sürü insan\nçok emek verdi.
+11|Davranış şeklinden hoşlanmıyorum...
+12|Ha? Ne oldu?\nFilmleri sevmediğini mi söylüyorsun?
+13|O zaman buraya neden geldik?
+## a00_115_210
+5|Yemek yapmakta iyi değilim...
+6|Şey, daha çok... yemek yapma fırsatım\nhiç olmuyor diyelim.
+7|Piyanist olduğum için parmaklarımı incitirim\ndiye yemek yapmama izin verilmezdi...
+8|Ah, evet! Yemek yapmayı biliyorsan\nbana öğretir misin?
+9|Sen yanımda durursan güvende\nolacağımı biliyorum!
+10|Shuichi, atıştırmalık pişirmeyi biliyor musun?\nBu harika, fırıncı bey!
+11|Yoksa... dedektiflerin pasta\npişirmeyi bilmesi mi gerekiyor?
+12|Hmm... Sanırım piyano dışında bir şeyler\nde çalışmalıyım.
+13|Hayır, o kadar susamadım.
+14|Ama bir şey içmek istersen sana\neşlik ederim...
+## a00_115_220
+5|Bence hasta olabilirsin, Shuichi.
+6|Bir sürü yoğun şey oldu, yani...\nbence odana gidip dinlenmelisin.
+7|Harika fikir!\nHadi çay içip sohbet edelim!
+8|Seni daha iyi tanımak istiyorum,\nyani tam zamanında.
+9|Şeyy...\nBu dedektifler için bir tür eğitim mi?
+10|Bunun piyano performanslarıma yardımı\nolacağını sanmıyorum, o yüzden pas geçeceğim...
+11|Hem madem buradayız, daha eğlenceli\nşeyler yapmayı tercih ederim...
+## a00_115_230
+5|Yemekten sonra çay neden bu kadar\nrahatlatıcı acaba?
+6|Klasik müzik dinlemek gibi...\nHayatta olduğum için mutlu ediyor beni.
+7|Doğru olmadığını biliyorum ama bazen öylece\nyan yatıp kestirmek istiyorum.
+8|Annem eskiden beni sürekli azarlardı...
+9|Ah, hatırlıyor musun? Piyano çalmak için\nbana gelmekten bahsetmiştik.
+10|Geldiğinde seni annemle\ntanıştıracağım.
+11|Şey, sağlıklı olduğunu biliyorum ama...
+12|Yemekten sonra hep uykum gelir...
+13|Y-Yani fark etmez, değil mi!?
+14|Kestirdikten sonra hareket ederim, yani\nkesinlikle kilo almam!
+## a00_115_310
+5|Bana cinsel taciz mi yapıyorsun!?
+6|Olamaz! Bu kadar pis bir sapık olduğuna\ninanamıyorum, Shuichi!
+7|Ben de mangaları severim!
+8|Ana konusunda müzik olan mangaları okuduğumda\nkendimi bulduğum için çok ağlarım...
+9|Sadece kurgu olduğunu biliyorum ama\ngerçekten oluyormuş gibi hissediyorum...
+10|Nasıl açıklasam?\nBeni daha çok çalışmaya motive ediyor.
+11|Gerçekten mi? Büyük kelimelerle dolu bir\nkitap okumak zorunda değiliz ki...
+12|Benimle takılacak havanda değil misin?
+## a00_115_320
+5|Çok ciddisin, Shuichi.
+6|Piyano pratiği yapabilirim ama kitapla\nalışılmış şekilde ders çalışamam...
+7|Evet, kütüphaneler benim de uykumu getirir.
+8|Belki de burada müzik çalmadığı\niçindir.
+9|Burada sadece biz olduğumuza göre arka\nplanda bir şey çalabilirim.
+10|Şimdi söyleyince, biraz tozlu.
+11|Havalandırmak istiyorum ama...\nburada hiç pencere yok...
+12|Ah, evet!\nKeebo'ya sormalıyız!
+13|Hatırlıyor musun? Temizlik fonksiyonu var!
+## a00_115_330
+2|Piyanoların fotoğraf albümüne bakalım
+5|Ooo! Dünyanın dört bir yanından piyano\nfotoğrafları albümü!

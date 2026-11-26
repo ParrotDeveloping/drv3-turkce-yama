@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_103_420
+15|İşte bizim <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'imiz!\nHep iki adım ileriyi düşünüyor!
+16|Keşke kişilik özelliklerimi analiz ederek\nyeteneğimi çözebilsem...
+17|Ama kendin hakkında tek başına keşfedemeyeceğin\nçok şey var, biliyor musun?
+## a00_103_430
+5|...Bu sadece iki kişiyle pek işe\nyaramaz, değil mi?
+6|Ayrıca şey, can acıtan şeyleri yapmayı\npek sevmem...
+7|Ve seni incitmek istemem, Shuichi.\nSana top fırlatmak istemiyorum.
+8|Onun yerine başka bir spor seçebilir miyiz?
+9|Tabii, iyi fikir!
+10|Gerçi pek egzersiz yapmadığım için\nfazla bir şey yapamayabilirim...
+11|Hey, her gün yapsam Gonta gibi dev\nolabilir miyim sence?
+12|Eh, belki bu *biraz* fazla iddialı...\nAma yine de, yüksek hedefle!
+13|...Shuichi... ağzından böyle bir şey\nçıkacağını hiç beklemezdim.
+14|Gerçekten dedektif misin?\nYoksa o sadece bir yalan mıydı?
+## a00_103_510
+5|Kulağa güzel geliyor. Biraz temiz hava\nalmak zihni gerçekten açıyor...
+6|Belki <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> anımı geri\nkazanmama bile yardım eder.
+7|Haha, sanki o kadar kolay olacakmış gibi...
+8|Sanırım sabırlı olmam gerekecek. Ama sorun\ndeğil. Seninleyken sıkılmam.
+9|Koşmak mı...?
+10|Ah, bilmem... Epey ağrım olur bence,\nbir süredir bedenimi hareket ettirmedim...
+11|Ama yine de bedenimin gevşemesine\nizin vermemeliyim!
+12|Sadece bana fazla sert davranma!
+13|...Şey...
+14|O zaman neden dışarı çıktık?
+15|Monokuma'nın bize nasıl davrandığını biliyorsun?\nBizi nasıl oradan oraya savurduğunu?
+16|Gerçekten canını acıtıyor, biliyor musun?\nBirinin saçmalığına ayak uydurmaya zorlanmak.
+## a00_103_520
+5|Güneş çok güzel geliyor... Kötü bir\nruh halinde olsan bile iyi hissettiriyor.
+6|Bana sanki... paniğe gerek yokmuş gibi,\nsadece sakin ol, rahatla der gibi...
+7|Biraz moralim bozuktu, bu güzel bir\nhava değişikliği oldu...
+8|Şey...\nBu biraz utanç verici değil mi sence?
+9|Hem ikimiz de pek dansçı sayılmayız,\nbiliyor musun?
+10|Evet, manzara içeriden çok daha\ngüzel.
+11|Dünyayı gezip sürekli bundan bile\ndaha muhteşem ufuklar gördüğünü hayal et...
+12|...O ufukları seninle paylaşmak\nistiyorum, Shuichi.
+13|İnsanı küçücük hissettiren manzaralar...\nRüya gördüğünü sandıracak kadar güzel yerler...
+14|...Neden bu kadar duygusallaşıyorum?
+## a00_103_530
+5|Eh, *fazla* alışma, Shuichi.\nBurada sonsuza dek kalmayacağız.
+6|Buradan çıkınca ailemi bulmak için\ndünyayı gezeceğiz.
+7|...Bunu unutma, tamam mı?
+8|Evet, ne demek istediğini anlıyorum.
+9|Burası... bizim geleceğimiz değil.\nBuraya ait değiliz.
+10|Buradan çıkalım.\nNe olursa olsun.
+11|...Ciddi değilsin, değil mi?
+## a00_103_700
+0|Pes ediyorum...\nBu neden bizim başımıza geliyor?
+1|Neden buraya getirildik?
+2|Ben... emin değilim. Bize buranın bir okul\nolduğunu söylediler ama şüphelerim var.
+3|Burası bir okul *olsa* bile müdürünün bir\nayı robot olması hiç mantıklı değil.
+4|Hoppala, bunu söylememeliyim. Keebo robotlar\nhakkında kötü konuşmamdan hoşlanmaz.
+6|<CLT=cltSTRONG>Ultimate Robot<CLT=cltNORMAL>... bunu asla\ntahmin edemezdim. Sanırım her şey mümkün.
+7|Belki benim yeteneğim de gerçekten\nçok sıra dışı bir şeydir.
+8|Rantaro, yeteneğini hâlâ\nhatırlamıyor musun?
+9|Evet, gerçek bir baş belası...
+10|Herkes yeteneğini hatırlıyor ama sen\nneden kendininkini hatırlayamıyorsun?
+11|Belki de... hatırlamak istemiyorum.
+13|Belki buraya isteğim dışında getirildim. Belki\nbir hataydı ve gerçekten bir yeteneğim yok.
+14|Yani bu imkânsız değil, değil mi?
+15|<CLT=cltMIND>Kesinlikle değil. Ben de buraya pek\n"isteyerek" getirilmedim...
+16|<CLT=cltMIND>Benziyoruz. Bana sırf tesadüfen bir davayı\nçözdüğüm için <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltMIND> deniyor...

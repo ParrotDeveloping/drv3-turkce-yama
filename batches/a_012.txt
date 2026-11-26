@@ -1,0 +1,57 @@
+@ ainori_text_US
+## a00_100_005
+22|Tüüüh, sana âşık olduğum için bana ne\nistersen yapmana izin verecektim, Shuichi...
+23|Ama vay, adımı bile araştırmışsın! Kimliğim\nçırılçıplak, sadece senin gözlerin için!
+24|Kokichi... az önce bana\nShuichi mi dedin?
+25|Eh, senin adını bulmak çocuk\noyuncağıydı!
+26|<CLT=cltMIND>Ah, yani burada farklı biri değilim.\nBen benim, Kokichi de Kokichi...
+27|<CLT=cltMIND>Onun ideali olmam gerektiğini biliyorum\nama bana âşık olduğunu söylediğinde bile...
+28|<CLT=cltMIND>tam tersini kastettiğini\ndüşünmeden edemiyorum.
+29|Sen bir şey yapmayacaksan\nbelki ben yaparım.
+30|<CLT=cltMIND>Aklım bunu idrak etmeye fırsat bulamadan\nKokichi'nin sırıtışı üzerimdeydi.
+31|Ah, hey!
+32|<CLT=cltMIND>Refleksle geri çekildim.\nNeler yapabileceği hakkında hiçbir fikrim yoktu...
+33|Korkmana gerek yok...\nSana ne yapacağımı sandın?
+34|Ah, sadece temkinli davranıyorum.\nPek arkadaş sayılmayız, Kokichi...
+35|<CLT=cltMIND>...Değil mi?
+36|<CLT=cltMIND>Bütün bu durum yönümü bulamayacağım\nkadar tuhaf.
+37|<CLT=cltMIND>Böyle bir konuşma yapmak neden burada\nolduğumu anlamayı daha da zorlaştırıyor...
+38|Tüh, bana bu kadar soğuk davranma.\nBunca zamandır peşimdesin.
+39|Hırsızlık kısmı beni senin tarafından\nkovalanmak kadar heyecanlandırmıyor, biliyor musun?
+40|Sen de aynısını hissetmiyor musun, Shuichi?\nBenimle oynarken sıkılmadın, değil mi?
+41|Ah, şey, öyle diyemem—
+42|Eh, ne düşündüğün umurumda değil zaten!
+43|...Çünkü sen hep canın ne isterse\nonu yaparsın, değil mi Kokichi?
+44|Seninle oynadığım için mi kızgınsın?
+45|Merak etme.\nHep seni düşünüyorum!
+46|Beni yakalamak için hep elinden geleni yapıyorsun.\nKazanmak için gerçekten bütün gücümü vermeliyim.
+47|Köşeye sıkışmış bir suçlu için bundan\nepey keyif alıyor gibisin...
+48|Çünkü oyun henüz bitmedi.
+49|Hey, Shuichi... Beni yakalamanı *istediğimi*\nsöylesem ne yapardın?
+51|Üzerimde bir verici var, yani arkadaşlarım\nmuhtemelen burayı çoktan sarmıştır.
+52|Nii-hihi... Görünüşe göre bağlanıp hırpalanacak\nolan sen olacaksın, Shuichi!
+54|<CLT=cltMIND>...mümkün... değil mi?\nOlamazdı.
+55|<CLT=cltMIND>Kokichi'nin sözleri beni hazırlıksız yakaladı\nama sonra rollerimizi hatırladım.
+56|Kokichi...\nYalanların bende işe yaramaz.
+57|Ooof... Hiç sarsılmadın.\nDaha çok heyecanlanırsın sanmıştım.
+58|Yazık...\nGözlerinin gerçekten üzerimde olmasını istiyordum...
+59|Sanıyordum ki... benim ne hissettiğim\numurunda değil...
+60|...Bu bir yalandı.\nBilirsin... çünkü ben bir yalancıyım.
+61|Ama beni yakalamanı istediğimi söylediğimde...\nBu kesinlikle yalan değildi.
+63|Demek oluyor ki... bana ne istersen\nyapabilirsin. Ve bu gerçek.
+64|Gel... Benimle oyna...\nBirlikte çok daha fazlasını yapalım...
+65|<CLT=cltMIND>Kokichi bana doğru geldi. Attığı her adımda\nben bir adım geri çekildim ama ayaklarım yatağa çarptı.
+67|<CLT=cltMIND>Ama Kokichi hiç dinlemiyordu.\nBeni sertçe yatağa itti.
+68|Kokichi, dur! Dur!
+70|...Şaka şaka. Kandırdım mı?
+72|<CLT=cltMIND>Kokichi cevap vermeden çıkışa\ndoğru koştu.
+73|Kokichi, olduğun yerde dur!
+74|<CLT=cltMIND>Peşinden gitmeye çalıştım ama dizlerim\nzayıfladı ve yataktan yuvarlandım.
+75|<CLT=cltMIND>Bu hayalde ezeli düşmanlarız ama\nyine de Kokichi gidiyor olamazdı...
+76|<CLT=cltMIND>Bu düşünceyi bastırmadan önce kendimi\nonun kalmasını dilerken buldum.
+77|Nii-hihi... Epey eğlenceliydi.\nGörüşürüz, Shuichi.
+78|Bir dahaki sefere daha heyecanlı bir oyun\ndüşüneceğim. O yüzden sen de beni heyecanlandır.
+79|<CLT=cltMIND>Kokichi gösterişle bana sırtını döndü,\nsonra elini kapıya koydu...
+## a00_100_006
+3|<CLT=cltMIND>Kiyo'nun hayali...
+4|<CLT=cltMIND>Ondan biraz korkuyorum...\nAma merak ettiğimi inkâr etmeyeceğim.

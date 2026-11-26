@@ -1,0 +1,48 @@
+@ ainori_text_US
+## a00_113_000
+12|Kaede, bence bu adak Atua'yı gücendirecek.\nBen kesinlikle hayal kırıklığına uğradım.
+13|Hmm? Ne oldu, Shuichi? Atua'nın sesini\nduyamadığın için mi üzgünsün?
+17|Shuichi, bence bu adak Atua'yı gücendirecek.\nBen kesinlikle hayal kırıklığına uğradım.
+18|Bunun kutsal bir emanet olduğunu mu düşünüyorsun, Kaede?\nBen pek göremiyorum.
+19|Ama Atua zevkinin fena olmadığını söylüyor.\nAferin sana, Kaede.
+20|Hmmm, bu senin adağın mı, Kaede?
+21|Fena bir çaba değil. Atua bağlılığını\nyakından izliyor.
+22|Akademide böyle gizemli mucizeler mi var?\nBu ancak Atua'nın bir lütfu olabilir.
+23|Bunun kutsal bir emanet olduğunu mu düşünüyorsun, Shuichi?\nBen pek göremiyorum.
+24|Ama Atua zevkinin fena olmadığını söylüyor.\nAferin sana, Shuichi.
+25|Hmmm, bu senin adağın mı, Shuichi?
+38|Ah, anlıyorum... Bu adak Atua'nın gözüne\nbiraz girmeni sağlayacak, Kaede.
+39|Bir gün altın üye olabilmen için senin\niçin Atua'ya dua edeceğim, Kaede.
+40|Atua konuştu...\nKaede, benim bakıcım olmalısın.
+41|Çünkü beni neyin mutlu ettiğini\nkeşfettin.
+42|Kaede, bugün daha eğlenceli şeyler yapalım.
+43|Anlıyorum, anlıyorum... Kaede, Angie'nin\nbugün nasıl hissettiğini biliyorsun.
+44|Getirdiğin bunca adakla Angie\nçok eğleniyor olmalı.
+45|Mutlu olacağım.
+46|Ah, anlıyorum... Bu adak Atua'nın gözüne\nbiraz girmeni sağlayacak, Shuichi.
+47|Bir gün altın üye olabilmen için senin\niçin Atua'ya dua edeceğim, Shuichi.
+48|Atua konuştu...\nShuichi, benim bakıcım olmalısın.
+50|Shuichi, bugün daha eğlenceli şeyler yapalım.
+51|Anlıyorum, anlıyorum... Shuichi, Angie'nin\nbugün nasıl hissettiğini biliyorsun.
+54|Ohhhh! Ne kadar ilahi, Kaede!
+55|Nyahaha! Minnettarlığım taşıyor!
+56|İşte bu! Tam da peşinde olduğum şey!
+57|Nereden bildin, Kaede?\nAtua seninle mi konuştu?
+58|Nyahahaha! Aferin, Kaede!
+59|Ohhhh! Ne kadar ilahi, Shuichi!
+62|Nereden bildin, Shuichi?\nAtua seninle mi konuştu?
+63|Nyahahaha! Aferin, Shuichi!
+## a00_113_050
+0|Neden geldiğini biliyoruuum...\nBeni davet etmeye geldin, değil mi?
+1|Atua, Shuichi'nin yakında beni davet etmeye\ngeleceğini söyledi.
+2|Yah-ha! Beni davet etmeye mi geldin?
+3|Atua konuştu...\nShuichi benimle vakit geçirmeli.
+4|Tam zamanında! Ben de seni arıyordum!
+14|Atua bana kargoların ne zaman geleceğini ya da\nbeyzbol maçlarının ne zaman uzatmaya gideceğini söyler.
+15|Nyahahaha! Atua'nın sesini duymak\nçok işe yarıyor!
+16|<CLT=cltMIND>Angie'yle Atua ve onun iyilikleri\nhakkında biraz konuştum.
+17|Sen de Atua'nın sesini duymak ister misin, Shuichi?
+18|O zaman önce Atua'ya dua edelim.
+19|<CLT=cltMIND>Angie'yle birlikte Atua'ya dua ettim...
+20|Ha? Neden olmasın?\nAtua öyle söyledi.
+21|Beni çizersen çok mutlu olurum.

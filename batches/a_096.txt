@@ -1,0 +1,72 @@
+@ ainori_text_US
+## a00_108_703
+39|<CLT=cltMIND>Bu konuda... alıngan\nmı acaba?
+40|Böyle bir hata yapmana\nşaşırdım.
+41|Daha önce de söylediğim gibi\nher şeyi bilen kusursuz bir makine değilim.
+42|Ben de tıpkı sizin gibiyim...\nTecrübesiz bir lise öğrencisi.
+43|Aynı hataları bir daha yapmayacağım...
+44|Ama hâlâ üstesinden gelemediğim bir\nzayıflık var... En korkunç düşmanım.
+45|En korkunç düşmanın mı?\nNe o?
+47|Konnyaku...
+49|Konnyaku kesemiyorum...
+51|Fark etmediğinizi varsayıyorum...\nYemeklerimde asla konnyaku kullanmam.
+52|<CLT=cltMIND>Şimdi sen söyleyince...\nSanırım bu doğru!
+53|Şüphe çekmemek için ondan kaçınıyordum...\nAma onu doğrayıp kullanmaya hazırım!
+55|<CLT=cltMIND>Kirumi'ye konnyaku kesmeyi öğretmeye\nçalışarak biraz vakit geçirdim.
+## a00_108_704
+0|*iç çekiş*\nNe zahmetli...
+1|Kirumi? Bir sorun mu var?
+2|Şikâyet etmemi duymak üzeresiniz.\nHizmetçi olarak sizi hayal kırıklığına uğratırım.
+3|Hayır, bu doğru değil!\nSeni rahatsız eden buysa...
+4|Yardım istemek ve sorunları daha hızlı çözmek\nefendine de yardımcı olur... değil mi?
+6|Ama şu anda hizmet edecek bir efendim\nyok... Sadece başıboş bir hizmetçiyim...
+7|"Başıboş hizmetçi" mi!?
+8|Anlamanıza yardım etmek için "başıboş hizmetçi"\ndedim. Sokak kedisine ya da köpeğine benzer.
+9|<CLT=cltMIND>Her şeyden önce o şeylerin aynı\nkategoriye girdiğini sanmıyorum...
+10|Ne yapmalıyım...?
+11|Başıboş bir hizmetçi olmak o kadar\nbüyük bir sorun mu?
+12|Evet, inanılmaz derecede onursuzca.
+13|<CLT=cltMIND>Kirumi bana en korkunç düşmanını anlattığı\nzamandan bile daha ciddi...
+14|Ya son efendim benden kurtuldu ya da\nhiç kimsenin yardımıma ihtiyacı yok...
+15|Bu da hiç var olmamakla aynı şey...
+16|<CLT=cltMIND>...Gerçekten mi? O kadar kötü mü?
+17|Ah, Kirumi?\nSana bir teklifim var.
+18|Kısa bir süreliğine bile olsa... neden\nben senin efendin olmayayım?
+19|Senin için sakıncası yoksa tabii.
+20|Sizseniz hiçbir şikâyetim olmaz.\nAma bana ödeme yapmanız gerekecek...
+21|Sözleşmeyi imzaladıktan sonra\nhizmetçiniz olarak hizmet edeceğim.
+23|Maaşıma gelince...
+24|Standart ücret günlük 10.000 dolar.
+26|Bu çok pahalı değil mi!?
+27|Kesinlikle buna değersin
+28|...Daha düşük kaliteli bir ücret alabilir miyim?
+30|Bazen size ek ücretler de yansıtacağım.
+31|Bu çok pahalı değil mi!?
+32|Evet, olağan piyasa fiyatından daha pahalı\nolduğunun farkındayım...
+33|...ama hizmetimin buna kesinlikle değeceğine söz\nveriyorum. Paranız boşa gitmeyecek.
+34|<CLT=cltMIND>Bunu söyleyiş şekli...\nTamamen kendinden emin.
+35|Kesinlikle buna değersin. Gerçi açıkçası...\ngerçekten çok pahalı.
+36|Tabii ki.\nMaaş hizmetimin kalitesine uygun.
+37|<CLT=cltMIND>Ne özgüven...
+38|Hizmetimin değerli olduğunu söylersem belki\nbeni işe almanız için sizi teşvik eder.
+39|Ama ödemenize değecek bir hizmet sunmak\nda benim görevim.
+40|...Daha düşük kaliteli bir ücret alabilir miyim?
+42|Bu benim için çok pahalı, indirim\nfalan alabilir miyim?
+43|Özür dilerim ama...\nHizmetimin kalitesini düşüremem.
+44|Böyle bir şey yapsaydım ikimiz için de\nkaybettiren bir senaryo olurdu.
+45|Ah.
+46|Pekâlâ... ödeyeceğim.
+47|Emin misiniz?
+48|Bunu geleceğim için bir yatırım olarak\ndüşünürsem o kadar da pahalı değil.
+49|Ve en önemlisi...\nonurunu korumuş olursun.
+51|Kirumi?\nBir sorun mu var?
+52|Pıft...!
+53|<CLT=cltMIND>Gülüyor mu!?\nKirumi... gülüyor mu!?
+54|Şaka yapıyordum.
+55|Ş-Şaka mı!?
+56|Günlük 10.000 dolar kesinlikle çok\nfahiş bir ücret!
+57|Ayrıca başıboş hizmetçi konusunda da şaka yapıyordum.
+59|Şaka yapabildiğini\nbilmiyordum, Kirumi.
+60|Evet, efendisini rahatlatmak için bir\nhizmetçiden böyle bir mizah beklenir.
+61|Bana göre efendime şaka yapardım.
+62|<CLT=cltMIND>Efendisine mi?

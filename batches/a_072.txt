@@ -1,0 +1,64 @@
+@ ainori_text_US
+## a00_106_410
+9|Pek çok önemli belge genelde temizlik\nsırasında keşfedilir.
+10|Belki bu odayı temizlerken yeni bir\nbilgi keşfederim...
+11|Bu bana düzgün planlamanın açıkça\neksik olduğunu düşündürüyor...
+12|Uzak bir dağda saha çalışması yaptığımızı\nhayal et.
+13|Böyle bir durumda geride bırakılırsan\nölebilirsin, değil mi?
+## a00_106_420
+5|Reddedeceğim...
+6|O oyunda ilgimi çeken hiçbir şey\nbulamıyorum.
+7|Maskemi çıkarmamı sağlamaya mı\nçalışıyorsun, Shuichi...?
+8|Kusura bakma ama şimdi bunun\nzamanı değil.
+9|Ablam sana güvenilip güvenilemeyeceğine\nhenüz karar vermedi.
+10|<CLT=cltMIND>Ablası mı?\n...Neden bahsediyor?
+11|Bu fena bir öneri değil.
+12|İnsanın hedefine ulaşıp ulaşamayacağı\nısınma sırasında belirlenir.
+13|Ben buna inanıyorum...
+14|Fazla temkinli olmak ya da fazla ileriyi\nplanlamak diye bir şey yoktur.
+15|Kendinin bu yönlerini güçlendirmeye\ndevam etmelisin, Shuichi.
+## a00_106_430
+5|Böyle bir oyun sadece ikimizle\nmümkün mü?
+6|Yoksa bilmediğim özel bir kural\nmı var?
+7|Öyleyse duymayı merak ediyorum...
+8|Ama benimle dalga geçiyorsan sinirlerini\nderinden söküp alırım.
+9|Sporla uğraşacak olsaydım hakemlik\ngörevi bana uygun düşerdi.
+10|Kortun yanında dursalar da hakem\nyine de dışarıdan biridir...
+11|Medeniyetten uzak bir toprakta saha çalışması\nyapan bir antropolog için de aynısı geçerli.
+12|Görünüşe göre saha çalışması sürecini\nanlamaya başladın, Shuichi...
+13|Burada antropolojik değeri olan herhangi\nbir belge olduğundan şüpheliyim.
+14|Yani bu binayı ateşe vermek elimizdeki\nseçeneklerden biri.
+15|Ama bunu iyice inceledikten sonraya\nbırakmayı tercih ederim.
+16|Ancak incelememden sonra\nsana yardım edeceğim.
+## a00_106_510
+5|Doğanın saflığı pek çok kültürde\nortak bir temadır.
+6|Bazen havanın tadı konumun ya da\nhavanın bir göstergesi olabilir.
+7|Ooo... sadece bundan bahsetmek bile\nuzak diyarlara seyahat etme isteği uyandırdı.
+8|Belki kaçtıktan sonra seyahatlerimde\nbana eşlik etmek istersin.
+9|Yorucu egzersizden hoşlanmam ama...\nbelki keyifli olur.
+10|İnsanlığı anlayabilmek pek çok farklı\ndeneyim sayesinde mümkündür.
+11|Kehehe... Seninle olmak bana birçok\nyeni deneyim kazandırdı.
+12|Reddedeceğim...
+13|Güneşte fazla kalınca aşırı ısınmama\nyol açan bir rahatsızlığım var.
+14|<CLT=cltMIND>...Muhtemelen tamamen siyah\nkıyafetler giydiğin için...
+## a00_106_520
+5|Öyle mi düşünüyorsun...?
+6|Bir şekilde duyularım bana bu manzaranın\nsahte olduğunu söylüyor.
+7|Eh, amatörlerin daha isabetli olduğu\nzamanlar da olur.
+8|Belki bu konuyu tartışmaktan\nkaçınırız.
+9|Bu da antropolojiyle ilgili.
+10|Antropoloji ve dans aslında çok\nderinden bağlantılıdır.
+11|Daha önce etnik dansları duydun,\ndeğil mi?
+12|Bazen bir kültürün gelenekleri ve tarihi\ndans aracılığıyla gösterilir.
+13|Her geçen gün daha çok bir antropolog\ngibi görünüyorsun, Shuichi.
+14|Kehehe... tamamen harika\nbir öneri.
+15|Yerinde araştırmalar saha çalışmasının\ntemel taşıdır.
+16|Açıkçası yerel halkla tanışmak insanın\nbilgisini genişletmek için en iyisidir...
+17|Ama Monokuma ya da onun yavrularıyla\nkonuşmak verimsiz olurdu.
+18|O yüzden sen ve ben bu okulu birlikte\niyice inceleyeceğiz.
+## a00_106_530
+5|Şimdi düşününce ben de öyle.\nAma fazla bağlanma.
+6|Hayat bir dizi karşılaşma ve\nvedalaşmadan ibarettir.
+7|Başkalarıyla etkileşim bu kadar keyiflidir\nçünkü hayatta bir kez yaşanan bir olaydır.
+8|Bunu bilerek bu anın birlikte tam\nkeyfini çıkaralım.
+9|Kaçtıktan sonra seninle ülkeyi gezmeyi\nde dört gözle bekliyorum.

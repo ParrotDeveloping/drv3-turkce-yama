@@ -1,0 +1,70 @@
+@ ainori_text_US
+## a00_114_410
+13|Ha!? Y-Yoksa öylece yığılıp <CLT=cltSTRONG>işin bir\nyerlere varmasını<CLT=cltNORMAL> mı umuyordun...?
+14|B-Bunca tecrübeme rağmen... bunu birden\nbaşıma patlatamazsın!
+15|<CLT=cltMIND>Eyvah, anlamıyor...
+## a00_114_420
+5|Boş ver. Ya tanrısal ellerimden birinin\nparmağını burkarsam?
+6|Hiçbir şey icat edemem! Ah, dünya\nnasıl acı çekerdi!
+7|O küt parmaklarının benimkilerle\nkıyaslanabileceğini sanma!
+8|N-Neden burada çıkarmak zorundayım!?
+11|B-Bana bakmayı kes...
+12|Çıkaracağım...\nSadece... bana öyle bakmayı kes!
+13|Hadi esneyelim! Sokmadan önce her\nşeyi gevşetmen lazım!
+14|<CLT=cltMIND>Miu eğilirken esnemesine yardım etmek\niçin sırtına temkinle bastırdım...
+15|Hngh... grgh... AH!\nO yöne eğilemem!
+## a00_114_430
+5|Anladım! Yakan topta bir numarayım!
+6|Becerebilirsen topu bana nişanlayıp büyük,\ngüzel memelerimi oyundan çıkarmayı dene!
+7|Topu bana nişanlayıp büyük, güzel\nmemelerimi oyundan çıkarmayı dene!
+8|<CLT=cltMIND>...Neden iki kez söyledi?
+9|Ha? Hakem mi olmak istiyorsun?
+10|Sen izlemekten zevk alan hasta\npiçlerden misin!?
+11|Ne yazık ki ben öyle şeylere meraklı değilim.
+12|Ama... bir sonraki icadım üzerinde\nçalışmak için ilham geldi.
+13|Pekâlâ, Shuichi!\nBensiz başlayabilirsin!
+14|"Instaburn" icadımı kullanmak\nister misin?
+15|Çok fazla selfie çeken çirkin sürtüklerin\nsosyal medya hesaplarını yakmak için!
+16|Başka hiçbir yeri yakmaz!\nBana güven, test edildi!
+## a00_114_510
+5|Ha? Neden hava emmek isteyesin?
+6|Senin gibi bir bakir hava emmektense bu\nmemeleri emmeyi tercih etmez mi?
+8|Havanın benim kokum gibi tat vermesini sağlayan\nbir hava temizleyici yapsam nasıl olur?
+10|<CLT=cltMIND>Bu hava temizleyicinin tam\ntersi olurdu.
+11|Ha? Koşmak istemiyorum.
+12|Bir mucitten egzersiz yapmasını istemek, bir sumo\ngüreşçisinden yemek çubuklarını bırakmasını istemek gibi!
+13|İşte bu yüzden hep bakir kalacaksın!\nÇünkü böyle temel şeyleri bile bilmiyorsun!
+14|Ohhhh...\nNe planladığını biliyorum.
+15|Esmer kızlara zaafın var ve beni daha\nçok tipine benzetmek istiyorsun, ha bakir!?
+16|Sanırım başka seçeneğim yok! Öyle bronzlaşacağım\nki gece göğü bile "Vay, ne esmersin!" diyecek!
+## a00_114_520
+5|Ne planladığını biliyorum!
+6|Güzel bir manzaranın önünde sapıkça şeyler\nyapmak seni heyecanlandırıyor, değil mi!?
+7|Böyle saçma bir konu açarak bana cinsel\ntacizde bulunmaya çalışıyorsun, ha?
+8|O zaman... cevap evet!
+9|<CLT=cltMIND>...Evet mi?
+10|Ha? Sadece dans mı?
+11|Bu ne sıradan bir saçmalık?
+12|Hah! Sen sadece yürüyüşe çıkarak bile azan\nsapıklardan mısın!?
+13|Senden böyle erkeksi bir fikir beklemezdim,\nbakir!
+14|<CLT=cltMIND>...Erkeksi mi?
+## a00_114_530
+5|Evet, kesinlikle buraya alışıyoruz...
+6|Ama bu sonsuza dek burada kalmalıyız\ndemek değil! Berbat bir fikir!
+7|Bir düşün: muhteşem dâhi kız Miu Iruma,\nsonsuza dek burada hapis...
+8|Dünyanın dört bir yanındaki bakirler\nsarılma yastıklarına hıçkıra hıçkıra ağlar!
+9|Memelerim bu kadar büyük olduğu için öyle görünmeyebilirim\nama aslında bakirlere karşı zaafım var!
+10|Evet, bu dar yerden çıkmak istemeden\nedemiyorum!
+11|Ben bir bilim insanıyım, kahretsin! İcatlarımı\nsadece on beş denek üzerinde test edemem!
+12|Bu akademiden siktir olup gidelim, tamam mı!?
+13|Ve sonra çocuk yapmaya başlayalım!
+15|...Kafan iyi mi?
+16|...Sana acıyorum.
+17|Belli ki kafayı yiyorsun.\nYaptığın onca otuzbirden olmalı.
+## a00_114_700
+0|Pekâlâ, Bokuichi! Hazır mısın?
+1|Hazır mı?
+2|Ha? Bana roketatarla bir güvercini havaya\nuçurmuşum gibi bakma!
+3|Ben, muhteşem dâhi kız Miu Iruma,\nzamanımı sana adayacağım!
+4|Sen de karşılığında beni eğlendireceksin, değil mi?\nBeni %100 tatmin edeceksin, değil mi?
+5|B-Bilemiyorum...

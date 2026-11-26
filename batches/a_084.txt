@@ -1,0 +1,62 @@
+@ ainori_text_US
+## a00_107_701
+10|Ama... profesörün öngörmediği bir olay\nyaşanana kadar gerçekten "doğmamıştım"...
+11|Bir olay mı...?
+12|Güçlü yapay zekâm zihinsel yaşım görünüşümü\nyansıtacak şekilde programlanmıştı.
+13|Ama şimdikinin aksine...
+14|Yapay zekâm insan duygularının sadece çok\ndar bir yelpazesini gösterebiliyordu.
+15|Buna karşılık profesör bana bir babanın\noğluna davranacağı gibi davrandı...
+16|Ama işler düzelmedi.
+17|Birkaç yıl sonra bir gün rutin bir deney\nsırasında bir kaza oldu...
+18|Programım kontrolden çıktı... ve sonunda\nprofesörü ciddi şekilde yaraladım.
+20|Neyse ki profesör yarasından\nkurtuldu...
+21|Ama ben o gün öldüm.
+22|Öldün mü...?
+23|Profesörü incittiğimde "hüzün" denen\nduygusal tepki beni sardı.
+24|Robot Biliminin Birinci Yasası der ki: "Bir robot\nbir insana zarar vermemelidir."
+25|O kuralı çiğnediğim için cezalandırılmasam da\nyine de "hüzün" hissettim...
+26|Babamı incittiğim için kendimi suçladım.\nBöylece "suçluluk" beni sardı...
+27|"İnsan duygularına sahip olmak böyle\nhissettiriyormuş!"
+28|O anda yapay zekâm aniden sıfırlandı... ve\nyeni doğmuş bir bebekten farksız oldum.
+29|<CLT=cltMIND>Anlıyorum... demek "öldü" derken\nbunu kastediyor.
+30|Belki de sadece profesörün oğlu olarak\nyeniden "doğmak" istemiştim.
+31|Profesör böyle bir sonuca vardı ve beni\nkendi çocuğu gibi büyüttü...
+33|Doğrusunu söylemek gerekirse yapay zekâm\nsıfırlanınca anılarım silindi...
+34|Yani bütün bunları ikinci elden profesörün\nkendisinden öğrendim.
+35|<CLT=cltMIND>Bu kadar inanılmaz bir şey yaşadığından\nhiç haberim yoktu.
+36|Shuichi? Bir sorun mu var?
+37|Ah, şey... Nasıl desem?
+38|Sadece düşünüyordum da... gerçekten\n<CLT=cltSTRONG>Ultimate Robot<CLT=cltNORMAL>'sun.
+39|<CLT=cltMIND>Profesör Idabashi için Keebo sadece\nbir robottan fazlası.
+40|<CLT=cltMIND>Ve eminim Keebo için de\nprofesör...
+41|N-Ne demek bu? Robot olduğum için şimdi\nbeni küçük mü görüyorsun?
+42|Ne kaba! Lütfen gelecekte bana karşı\ntavrını yeniden gözden geçir.
+43|Haha... Evet. Anladım, Keebo.
+45|<CLT=cltMIND>Keebo'nun profesör hakkındaki hikâyelerini\ndinledim, sonra odama döndüm.
+## a00_107_702
+0|Shuichi, belli bir konu hakkında senden\ntavsiye isteyebilir miyim?
+1|Tavsiye mi?\nBana... sormak istediğine emin misin?
+2|Evet. Aslında bu konuyu konuşabileceğim\ntek kişi sensin.
+3|<CLT=cltMIND>Tek kişi mi?
+4|Bu soru bir süredir aklımı\nkurcalıyor...
+5|<CLT=cltSTRONG>Ultimate Robot<CLT=cltNORMAL> olmama rağmen sence\nsadece sıradan biri miyim?
+6|...Hayır, cevap vermene gerek yok. Herkesle\nkıyaslayınca kendimi oldukça sıradan hissediyorum.
+7|<CLT=cltMIND>...O zaman neden soruyorsun?
+8|O yüzden harekete geçerek bunu bir\nşekilde ele almam gerektiğini düşünüyordum.
+9|Shuichi, niyetim... bir robot işletmesi kurmak!
+10|Robot işletmesi mi?
+11|Evet, robot yeteneklerimden tamamen\nyararlanan bir işletme kuracağım.
+12|Bu yüzden... pop yıldızı robot olmak\niçin çalışacağım!
+13|Pop yıldızı mı? Neden o?
+14|Bu karara birçok seçeneği analiz ettikten\nsonra vardım.
+15|Asıl sebep... robotların pop müzik türünde\nhenüz ilerleme kaydetmemiş olması.
+16|<CLT=cltMIND>Bence robotlar *hiçbir* müzik türünde\nilerleme kaydetmedi...
+17|Şarkı söylemek
+18|Görünüşleri
+19|Dans etmek
+21|Pop yıldızları konusunda... En çok şarkı\nsöyleyerek tanınıyorlar, değil mi?
+22|Evet, şarkı söylemek.
+23|Bir robot olarak doğru müziği ve sözleri\nyükledikten sonra şarkı söyleyebilmeliyim.
+24|Bu açıdan pop yıldızı rolüne çok uygun\nolduğuma inanıyorum.
+25|Anlıyorum. Bunu epey düşünmüşsün.
+27|Ayrıca pop yıldızları karşı cinsi hayranlık,\nneşe ve bir yaşama sebebiyle doldurur.

@@ -1,0 +1,61 @@
+@ ainori_text_US
+## a00_001_007
+74|Görebiliyorum... o lanetli şeyin etrafında\ndönen umutsuzluğu ve deliliği...
+75|Vay... Her şeyden önce ben oyuncak ayı değilim.\nBen Monokuma'yım.
+76|Ve biraz saygı gösterin! Ben <CLT=cltSTRONG>Yetenekli Gençler için\nUltimate Akademi<CLT=cltNORMAL>'nin müdürüyüm!
+77|...Müdür mü?
+78|Benim gibi yerleşik yapay zekâsı olan bir\ntür otonom robot gibi görünüyor...
+80|Ama Exisal'lar farklı!\nOnlar beyinsiz civata yığınları!
+81|Sadece biz Monoyavruların kontrol edebildiği\nakılsız öldürme makineleri.
+82|Silah platformu kullanan otonom robotlar...\nBu gerçekten ilginç bir hikâyeye dönüşüyor.
+83|Öyle olabilir ama benim endişelendiğim\nbahsettiğin şu "<CLT=cltSTRONG>öldürme oyunu<CLT=cltNORMAL>".
+84|Bu tam olarak ne demek?
+85|Ah, onun için endişelenmenize gerek yok.\nÖldürme oyununu iptal etmeye karar verdim.
+86|İ-İptal mi!?
+87|Bu seriyi sağmanın stresi sonunda seni\nçıldırttı mı, Baba!?
+88|Merak etme, Kuma Baba!\nRahatlamana yardım edeceğim!
+89|Bir Monodam kum torbası yaparak!
+91|Şiddetten ve kandan hoşlanmam, o yüzden\niptal edilse de pek umurumda değil...
+92|B-Babalık yalan söylüyor olmalı!
+93|Arıza yapmış olmalı! Onun yaşına gelince\nböyle şeyler olur!
+94|Yoo, babanız hayatında tek bir\narı—
+96|arı-arı-arı—
+98|arı-arı-arı—
+100|arı-arı-arıza yapmadı!
+101|Üstü krema içinde olup pastaya dokunmadığına\nyemin eden çocuk gibisin!
+102|Tam Babalık! Gururu Eyfel Kulesi'nden\nyüksek!
+103|Neyse, öldürme oyununu iptal etmeye\nkarar verdim!
+104|Ve hiç arıza yapmadım!\nBen bir profesyonelim, kahretsin!
+105|...O zaman ne yapmamız gerekiyor?
+106|Bunca şeyden sonra bizi öylece\nbırakmanız mümkün değil.
+108|Bu kadar komik olan ne?
+109|Sadece... tekrar söylediğimde biraz baştan\nsavma söyledim ve şimdi tuhaf hissediyorum...
+110|Bu modda sizden yapmanızı istediğim\ntek bir şey var...
+111|Bu modda...
+112|Sadece akademide eğlenceli bir hayat\nyaşamanızı istiyorum.
+114|Mod mu...?
+115|Ah, onu kafaya takmayın.\nKendi aramızda bir şaka.
+116|Neyse, akademide eğlenceli bir hayat\nyaşadığınız sürece benim için sorun yok.
+117|Hormonların kolayca coştuğu o özel\nyaştasınız.
+118|Şey, ne demek istediğini anlamadım.
+119|Bir realite flört şovu için bütün\nmalzemelerimiz var, anladın mı?
+120|Her zaman yayında böyle bir şov olur,\nbilirsin?
+121|Hani bir sürü kız ve erkek aynı çatı altında\nyaşar, birbirlerine tutulur...
+122|Seyirciler kim kiminle olacak diye\nizlerken buna bayılır.
+123|Sizden istediğim bu. Kendi realite flört\nşovunuzda başrol oynamanızı istiyorum.
+124|Dalga geçmeyi bırak!\nBunu neden yapmak zorundayız ki!?
+125|Evet, böyle klişe bir tepki\nbekleniyordu...
+126|Ama akademiye göz attıysanız\nzaten biliyorsunuz, değil mi?
+127|Akademi devasa bir duvarla çevrili.\nDış dünyaya kaçamazsınız...
+128|Ve Exisal'lar bizde olduğu sürece\nbize karşı gelemezsiniz.
+129|Yani ölmek istemiyorsak söylediğini yapalım.
+130|D-Dalga geçiyor olmalısın!\nNeden böyle bir şey yapmak zorundayız!?
+131|Bağırmayı kes. Bu, aslında sizin için\nplanladığımdan çok daha yumuşak.
+132|Ayrıca burada sonsuza dek yaşamak\nzorundasınız demiyorum.
+133|Bu... bizi buradan çıkaracağın anlamına mı geliyor?
+134|Dinlemiyor muydun? Bunun bir realite flört\nşovu olduğunu söyledim.
+135|Ve tıpkı o şovların vaat ettiği gibi sonunda\nbirlikte olan çift mezun oluyor.
+136|Ama, şey, çabuk olmaya çalışın, tamam mı?\nBugünlerde seyirciler çabuk sıkılıyor.
+137|On gün sonunda kimse bir araya gelmezse\nbu şov yayından kaldırılmak zorunda kalacak.
+138|Peki bu şov bitince ne olacak?
+139|Belki de o zaman bize öldürme oyununu\noynatır?

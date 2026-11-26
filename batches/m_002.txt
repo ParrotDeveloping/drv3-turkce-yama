@@ -1,0 +1,123 @@
+@ map_obj_name_text_US
+## ID045_sch_6F_text
+0|1. Kat Koridoru
+## ID051_sch_1F_text
+23|Enkaz
+32|Zemindeki Delik
+## ID055_sch_4F_text
+1|Soldaki Boş Oda
+2|Ortadaki Boş Oda
+3|Sağdaki Boş Oda
+## ID071_sch_1F_text
+22|Uzamış Çimenler
+## ID073_sch_3F_text
+0|Merdiven
+2|Kaito Lab ※Kaldırıldı
+3|3K Araştırma Lab A ※Kaldırıldı
+4|3K Araştırma Lab B ※Kaldırıldı
+## ID076_wc_text
+1|Hademe Dolabı
+3|Hademe Dolabı Duvarı
+5|Gizli Geçit Girişi
+## ID101_Private_00_text
+5|Raf
+6|Gizli Monokuma No. 1
+7|Gizli Monokuma No. 2
+8|Gizli Monokuma No. 3
+9|Gizli Monokuma No. 4
+10|Gizli Monokuma No. 5
+11|Gizli Monokuma No. 6
+12|Gizli Monokuma No. 7
+13|Gizli Monokuma No. 8
+14|Gizli Monokuma No. 9
+15|Gizli Monokuma No. 10
+16|Gizli Monokuma No. 11
+17|Gizli Monokuma No. 12
+18|Gizli Monokuma No. 13
+19|Gizli Monokuma No. 14
+20|Gizli Monokuma No. 15
+21|Gizli Monokuma No. 16
+22|Gizli Monokuma No. 17
+23|Gizli Monokuma No. 18
+24|Gizli Monokuma No. 19
+25|Gizli Monokuma No. 20
+26|Gizli Monokuma No. 21
+27|Gizli Monokuma No. 22
+28|Gizli Monokuma No. 23
+29|Gizli Monokuma No. 24
+30|Gizli Monokuma No. 25
+31|Gizli Monokuma No. 26
+32|Gizli Monokuma No. 27
+33|Gizli Monokuma No. 28
+34|Gizli Monokuma No. 29
+35|Gizli Monokuma No. 30
+42|Yavru Pad'i
+## ID103_Private_02_text
+11|Dolaylı Aydınlatma
+## ID106_Private_05_text
+12|Toplanan Kanıtlar
+13|Belge Kutusu
+## ID116_Private_15_text
+13|Anahtar Askısı
+## ID130_lab_saihara_text
+1|Kimyasal Rafı
+2|Kitaplık
+8|Sallanan Sandalye
+10|Masadaki Eşyalar
+17|Saat
+19|Küçük Cam Şişeler
+## ID131_lab_momota_text
+2|Kokpit
+3|Planetaryum Cihazı
+12|Büyük Delik
+## ID132_lab_hoshi_text
+1|Koridora Açılan Kapı
+3|Tenis Filesi
+24|Demetlenmiş Kablo
+## ID134_lab_hoshi_shower_text
+3|Lavabo
+4|Kapalı Pencere
+## ID135_lab_amami_text
+1|Dizüstü Bilgisayar
+2|Dev Kasa
+3|Monokuma USB
+4|Sahte Para
+5|Rus Ruleti Tabancası
+6|Krupiye Maskesi
+7|Asılı Kâğıt
+## ID136_lab_gokuhara_text
+1|Böcek Örnekleri
+2|Dizilmiş Kitaplar
+3|Böcek Kafesi
+## ID137_lab_oma_text
+0|Vitrin
+3|Süper Araba
+4|Ortadaki Koltuk
+5|Mağara Duvarı
+7|Kitap
+## ID138_lab_shinguji_text
+1|Arka Kapı
+6|Metal Kafes
+8|Sergi Dolabı
+11|Katlanmış Kumaş
+## ID147_lab_tojo_text
+0|Çamaşır Makinesi
+1|Temizlik Makinesi
+3|Dolap Kapısı
+5|Küçük Masa
+6|Dolap 1
+7|Yemek Masası
+19|Çalışma Masası
+20|Aile
+24|Çocuk
+25|Avize
+## ID148_lab_yumeno_text
+1|Kazan
+2|Testere
+3|Kılıç Saplama Kutusu
+4|Beden Kesme Kutusu
+5|Kuş Kafesi
+6|Giyotin
+7|Küçük Su Tankı
+## ID150_lab_harukawa_text
+1|Siyah Çanta

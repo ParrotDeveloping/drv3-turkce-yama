@@ -1,0 +1,73 @@
+@ ainori_text_US
+## a00_105_701
+10|Taa-mam, şuna ne dersin? Yaşamak istiyorsan\nbir oyunda beni yenmelisin!
+11|Bir oyun mu?
+12|Kabul ediyorum
+13|Ne tür bir oyun?
+14|Beni öldürmek sadece bir şakaydı, değil mi?
+16|Sana pek seçenek vermedim... ama dinle,\nbu hayatta kalma şansın.
+17|Kabul ediyorum.
+18|...Ooo, ne çabuk karar verdin.\nBunu beklemiyordum.
+19|Çok ilginçsin, Shuichi!\nBenim için ilginç tutmaya devam et, tamam mı?
+20|Ne tür bir oyun?
+21|Rus Ruleti ama her yuvada bir mermi\nvar! Önce sen başla!
+22|Ne!? Kesin ölürüm!
+23|Eh, asla bilemezsiiin!\nMermi sıkışabilir.
+24|...Toplu tabancalar sıkışmaz.
+25|Ooo, sanırım bunu zaten biliyordun!
+26|Rus Ruleti oynamıyorum!
+27|Peki, peki! Tüh, burada öldürülmek üzere\nolan biri için epey seçicisin.
+28|Beni öldürmek sadece bir şakaydı, değil mi?
+29|Yalanlardan ve şakalardan nefret ederim.
+30|...Yine yalan söylediğini\nsöyleyeceksin, değil mi?
+31|Evet, yalan söylüyorum!
+32|Kokichi...\nBir kerecik ciddi konuşabilir miyiz?
+33|Kaba! Ben *ciddiyim*, biliyor musun?\nSeni kesinlikle öldürmeyi planlıyorum!
+34|Ve bunun olmasını istemiyorsan...
+35|O zaman bir Gölge Oyunu oynamalısın!\nDü-dü-dü-dü-dü-dü-düello vakti!
+36|Bir... düello mu? Gölge Oyunu mu...?
+37|Hmhmhm... Evet, kaybedenin ruhu Gölge\nDiyarı'na gönderilecek...
+38|İkimiz de bu desteden birer kart çekeceğiz\nve en büyük sayıyı çeken kazanacak!
+39|<CLT=cltMIND>Kartları nereden\nbuldun!?
+40|Sıra bende! Kart çekiyorum!
+41|...Hehehe, Kartların Kalbi'nin gücü\niçimde çok güçlü.
+42|7 sayısını çektim! Ne yüksek ne düşük!\nKazanma ihtimalin %50'ye düşüyor!
+43|<CLT=cltMIND>Kokichi'nin tuhaf bir havası var...\nNeler oluyor acaba.
+44|Hıhıhı... Sıramı bitiriyorum.\nŞimdi sıra sende!
+45|Kartını çek\nve saldırını başlat!
+47|Ah. Bir 7.
+48|N-Ne!? Bu nasıl olabilir!?\nCanavarı Dirilt kartını mı çektin!?
+49|Nii-hihihi...\nGerçekten muhteşem bir düellocusun, Shuichi.
+50|Onun yerine beraberliği hedefledin...\nBeni meraklandırıyorsun.
+51|<CLT=cltMIND>Bunu bilerek yaptığımı\nsöyleyemem...
+52|Ama bu senin sonun! Beni yenseydin\n*sadece* o zaman yaşamana izin verirdim!
+53|Hayatında sadece üç olay kaldı,\no zamana kadar beni eğlendirsen iyi olur!
+55|<CLT=cltMIND>Üç olay mı? Hangi üç olay?
+58|<CLT=cltMIND>Kokichi... sadece benimle\noynuyor musun...?
+## a00_105_702
+0|Kokichi, bugün daha fazla oyun\noynayacak mıyız—
+1|Hey, Shuichi!\nBugün bir çay partisi yapalım!
+2|Ne? Çay partisi mi?
+3|Yapabilir miyiz, lütfen lüüütfen? Eh, yapacağız\nzaten, o yüzden yemekhaneye gidelim!
+4|B-Bekle, Kokichi!
+5|Mmm, bu hoş. Ruhum bedenime geri\ndönüyormuş gibi hissediyorum!
+7|Örgütüm herkesin öğleden sonra mola vermesini\nzorunlu kılar. Verimliliği artırır.
+8|Ah. Kulağa epey... huzurlu bir\nörgüt gibi geliyor.
+9|Evet. Yüce lider, *öhöm* yani ben, barışseverim.\nBu yüzden kavgaları oyunlarla çözerim.
+10|Bu arada bana kaybeden herkes şu an\nSibirya'da sıkı çalışıyor olmalı.
+11|<CLT=cltMIND>Sibirya mı!?
+12|Eh, tabii hayattalarsa!
+13|<CLT=cltMIND>Hayattalarsa *mı*!?
+14|Merak etme, Shuichi.\nSen Sibirya yerine cennette olacaksın.
+15|...Olmamayı tercih ederim.
+16|Mmm... Eh...
+17|Neden örgütüme katılmıyorsun?\nÜye olsaydın hiçbir sorun olmazdı.
+18|Reddetmek zorundayım...
+19|Ne peşindesin, Kokichi?
+20|Örgüt bir yalan, değil mi?
+22|Epey ilginç bir adamsın,\nbence katılmak senin için iyi olabilir.
+23|Reddetmek zorundayım...
+24|Neeee?\nYaşamak istediğini sanıyordum, Shuichi!
+25|İstiyorum! Ama kötü niyetli bir örgüte\nasla katılamam...
+26|Ah-haha! Sanırım bu doğru!\nAma biraz hayal kırıklığı.
+27|Senin gibi biri katılsaydı\nasla sıkılmazdım.

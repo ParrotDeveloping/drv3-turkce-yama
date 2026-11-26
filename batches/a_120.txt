@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_111_701
+1|Ama bunun sebebi yoz bir erkek olman.\nÖyle doğduğun için kendini suçla.
+2|<CLT=cltMIND>Bu pek özür gibi gelmiyor.
+3|Yatakta uyandım...\nBeni odama sen mi taşıdın, Tenko?
+4|İstemiyordum... ama seni orada öylece\nbırakamazdım. İçime sinmedi.
+5|Ah, haha... Eh, teşekkürler.
+6|Eh... Başka iyi bir yanın olmayabilir\nama en azından cesaretin var.
+7|Cesaret mi?
+8|Seni bez bebek gibi fırlatmama rağmen\nyine de benimle konuşmaya geldin.
+9|Çoğu erkek gibi gizli bir niyetin olabilir\nama çok cesaretin var.
+10|Tabii üstüne basılmaktan zevk alan\nyozlardan değilsen!!!
+11|S-Sen çetin cevizsin!
+12|H-Hayır, bu yanlış!\nÖyle bir fetişim falan yok!
+13|Tenko... konuşmayı hep çok ileri götürüyorsun.\nBelki biraz sakinleşmeyi denesen?
+14|Sen ne bilirsin!?\nEskisinden çok daha sakinim!
+15|Eskisinden daha mı sakinsin?
+16|Evet... Annemle babam eskiden patlayan bir\nyanardağa benzer öfke nöbetlerim olduğunu söylerdi.
+17|<CLT=cltMIND>Yanardağ mı?\nNe kadar kötüydü ki?
+18|Sanırım annemle babam bu konuda epey\nendişeliydi.
+19|Böyle topluma uyum sağlayamayacağımı\ndüşündüler...
+20|Bu yüzden zihnimi disipline etmeme yardım\netmesi için beni bir tapınağa gönderdiler.
+21|Nerede?
+22|Anlıyorum... Eh, bu iyi
+23|Harika bir annen baban var
+25|Ve eğitimimin sonucunda bugünkü sakin\nve soğukkanlı kız oldum!
+26|Nerede?
+27|Haaaa?\nGözlerin süs falan mı?
+29|Tüh, yozlar her şeyi inkâr eder!\nBunun havalı olduğunu falan mı sanıyorsun?
+30|Böyle giderse hep çocuk kalacaksınız.\n10.000 yıl asi ergenlikte sıkışıp kalacaksınız!
+31|<CLT=cltMIND>Muhtemelen buna cevap\nvermemeliyim...
+32|Anlıyorum... Eh, bu iyi.
+33|Evet, artık insanlarla rahatça konuşabilmem\niyi bir şey.
+34|O kadar kötü müydü?
+35|Önceden normal konuştuğumu sanıyordum ama\nbaşkalarının bana artık katlanamadığını fark ettim.
+36|<CLT=cltMIND>...Bunu görebiliyordum.
+37|Harika bir annen baban var.
+38|Evet. Bunu bir çocuktan pek duymazsın ama\nannemle babama çok minnettarım!
+39|*hık*! Gardımı düşürmek için annemle\nbabamı mı övüyorsun!?
+41|Evet ama eminim annemle babam baş rahiple\nbaşardığım şeyi hiç beklemiyorlardı.
+42|<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL>'yu birlikte yarattık!
+43|<CLT=cltMIND>...Ne? Aikido bunun neresine\nuyuyor ki?
+44|Tapınaktaki zihinsel eğitimim sırasında\nbaş rahibe "Usta" derdim.
+45|Çünkü düzgün unvanlar gereklidir!
+46|Usta bundan çok memnun oldu ve tapınağa\nyeni bir kural ekledi.
+47|Dövüş sanatlarının Ustası olduğunu\nilan etti!
+48|Çünkü o kadar önemli biri!
+49|O kadar önemli, ha?
+50|Ustanın uzmanlaşacağı bir dövüş sanatı yaratmaya\nkarar verdik ve üzerine düşündükten sonra...
+51|<CLT=cltSTRONG>Neo-Aikido<CLT=cltNORMAL> doğdu!
+52|Bu... tuhaf bir köken hikâyesi...
+53|Aaah! Bunu söylemeye nasıl cüret edersin!?
+54|Eh, peki! Yeni kavramları insanlar zaten\nzor kabul eder!
+55|Ama bir gün Neo-Aikido'yu ulusal spor\nyapacağım! Bu benim hayalim!
+57|<CLT=cltMIND>Hâlâ <CLT=cltSTRONG>Neo-Aikido<CLT=cltMIND>'nun kökenini\ndüşünerek odama döndüm...
+## a00_111_702
+0|Zaten biliyorum, Shuichi!\nHiçbir şey söylemene gerek yok!
+2|Neo-Aikido'ya ilgi duymaya başladın,\ndeğil mi?
+3|...Hayır, pek değil.
+4|Merak etme!\nNeo-Aikido yoz erkekleri de kabul eder!
+5|Hedefimiz ulusal spor olmak.\nZaruret kanun tanımaz!
+6|<CLT=cltMIND>Yüz ifadesi istemediğini\nsöylüyor.
+7|Önce sana Neo-Aikido'ya zihinsel olarak\nnasıl hazırlanacağını öğreteceğim!
+8|Neo-Aikido yoğun miktarda hareket gerektirir,\no yüzden lütfen dikkatli ol!
+9|Pratik yeterli değil!\nGerçek dövüşü de deneyimlemelisin!
+10|O halde, Shuichi!\nBir idman maçına hazırlan!

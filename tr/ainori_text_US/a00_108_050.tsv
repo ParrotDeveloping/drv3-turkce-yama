@@ -1,7 +1,30 @@
+0	Bir isteğiniz mi var?
+1	Beni davet mi ediyorsunuz?
+2	Öyleyse gitmek istediğiniz her yere\nsizi takip edeceğim.
+3	Ama yemek için henüz çok erken, değil mi?
 4	Birlikte vakit geçir
 5	Boş ver
 6	Emin olmadığın bir şey mi var?
+7	<CLT=cltSYSTEM>Kirumi'yle ne yapmak istersin?
 8	Birlikte vakit geçir
+9	Randevuya çık
 10	Boş ver
 11	Emin olmadığın bir şey mi var?
+12	<CLT=cltSYSTEM>Kirumi'yle ne yapmak istersin?
+13	Anlıyorum. Demek bu aslında bir istek değil.
+14	Öyleyse bunu sizinle vakit geçirme\nisteği olarak göreceğim.
+15	Sizi elimden geldiğince eğlendireceğim,\no yüzden endişelenmeyin.
+16	<CLT=cltMIND>Kirumi'yle geçirdiğim zamanda\nbir kez bile sıkılmadım...
+17	Belirli bir isteğiniz var mı?
+18	Bu bana farklı biri gibi davranacağınız\nanlamına geliyor...
+19	Ama bana hizmetçi gibi davranmaya devam\netmeniz beni daha çok rahatlatıyor.
+20	Eee, bir isteğiniz var mı?
+21	<CLT=cltMIND>İsteğimi düşünerek biraz\nvakit geçirdim...
+22	Bu akademiden ayrılmamız neredeyse\nimkânsız olabilir...
+23	Ama böyle şeyleri sürekli söylememeliyim.
+24	Bu akademiden kaçmanın bir yolunu\ndüşünelim...
+25	<CLT=cltMIND>Kirumi'yle bir kaçış planlayarak\nbiraz vakit geçirdik...
+26	Biraz bile acıkırsanız uygun bir\nyemek hazırlayacağım.
+27	Ama akşam yemeği yiyebilmeniz için\nporsiyonu ayarlayacağım.
+28	<CLT=cltMIND>Kirumi'nin hazırladığı atıştırmalığı\nyedim...
 29	<CLT=cltMIND>Kirumi'yle bugün biraz daha yakınlaştık.

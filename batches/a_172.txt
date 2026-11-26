@@ -1,0 +1,68 @@
+@ ainori_text_US
+## a00_300_115
+32|Zamanlamamızı... nefesimizi ne kadar iyi\nuyumlu hâle getirebileceğimizi görmek istiyorum.
+33|Piyanomun sesini dinlemeni\nistiyorum.
+34|Senin için *bu kadar* önemli olan bir piyanonun\ngüzel bir sesi olduğuna eminim, Kaede.
+35|Bir milyon dolara mal olmadı falan ama\nkalitesi yine de birinci sınıf.
+37|N-Neden birden sustun?
+38|Ah, seninle tanıştığım için ne kadar\nmutlu olduğumu düşünüyordum, Kaede.
+39|Seninle hiç tanışmasaydım piyanonun\ngüzelliğini asla keşfedemezdim...
+40|Çalmanın ne kadar eğlenceli olduğunu ya da\nsesinin zenginliğini asla bilemezdim...
+41|Bana bunları gösterdiğin için çok\nmutluyum, Kaede.
+42|Ama daha işim bitmedi.
+44|Sana piyanonun bütün harika yanlarını\ndaha öğretmedim!
+45|Senin özel hocan olup sana her şeyi öğreteceğim!
+46|Artık dünyanın bütün zamanı bizim...
+47|...değil mi?
+48|<CLT=cltMIND>...Evet. Haklısın.
+49|<CLT=cltMIND>Dünyanın bütün zamanı bizim.\nÖzgür olduğumuzda.
+50|<CLT=cltMIND>Ve her saniyesini seninle\ngeçirmek istiyorum.
+51|<CLT=cltMIND>Kötü zamanlar olabilir, tabii...
+52|<CLT=cltMIND>Her zaman kolay olmayacağını\nbiliyorum.
+53|<CLT=cltMIND>Ama biliyorum ki... Kaede'yle olan\n<CLT=cltSTRONG>geleceğimi<CLT=cltMIND> sabırsızlıkla bekliyorum.
+54|<CLT=cltMIND>Ve onun da aynı şekilde\nhissettiğini biliyorum.
+55|<CLT=cltMIND>Bunu kelimelerle söylememiş olabiliriz ama...\nsöylememize gerek yokmuş gibi hissediyorum.
+## a00_300_116
+1|<CLT=cltMIND>Monokuma bizi spor salonuna çağırdı.
+4|<CLT=cltMIND>Dramatik etki için tuhaf derecede uzun\nbir duraklamadan sonra Monokuma devam etti.
+5|Hepiniz...
+6|...<CLT=cltSTRONG>mezun<CLT=cltNORMAL> olabilirsiniz.
+8|Mezuniyet...
+9|Yani...\nhepimiz buradan çıkabilir miyiz?
+10|...Evet. Anlamı bu.
+11|Yozlar da dahil mi!?
+12|O erkeklerin hayatlarının geri kalanında\nburaya kapatılmasını tercih ederdim...
+13|H-Hey! Monokuma'ya tuhaf fikirler\nverme!
+14|Rahat ol. O kadar boş vaktim yok.
+15|Bir bonus modunda büyük değişiklikler\nyapacak değilim.
+16|Yine de... herkesin mezun olmasını\ngörmek istemiyorum...
+17|Ama izleyicilerin istediği sonuç bu,\nolan oldu...
+18|İzleyicilerden bahsederken bunu izleyen\ninsanları mı kastediyorsun?
+19|Hey, hey! Bunun nasıl biteceğine neden\nonlar karar veriyor?
+20|Of be! Bunun önemi yok!
+21|Tıpkı Himiko'nun büyüsünün sadece salon\nnumarası olup olmamasının önemi olmadığı gibi!
+22|Ne—!? Bu da nereden çıktı!?
+23|Büyüyle dalga geçme! Büyü dünyanın\nüzerine kurulduğu temeldir!
+24|...Neyse, hepinizi bu sözlerle\nbaş başa bırakacağım.
+25|Bu sonuç kaybettiğim anlamına gelmiyor!
+26|Mezun olmanıza kızgın değilim.\nAslında beklediğim de buydu...
+27|Her şey olması gerektiği gibi gitti.\nGenel olarak bence bu iyi bir şey...
+28|Ne kötü bir kaybeden.
+29|Öyleysem ne olmuş!?
+30|Başarısız olsam bile hatalarımdan ders alırım.\nBen öyle bir ayıyım işte.
+31|Gelecek için herhangi bir plan olursa diye\ndüşünecek çok şeyim var.
+32|Plan mı...?
+33|Hiç mantıklı konuşmuyorsun!
+34|Yani bundan ne istedin ki zaten!?
+35|Belli ki benim çektiğin gizli fotoğrafları\nsatmakla ilgilenmiyordun!
+36|Ne mi istedim...?\nApaçık ortada, apaçık.
+37|Ben hep seyircinin ne istediğini\ndüşünürüm.
+38|Çünkü ben Danganronpa'nın sevgili maskotuyum!
+39|...Danganronpa mı?
+40|...Gonta anlamıyor.\nGonta akıllı olmadığı için mi?
+41|Hayır... en başından beri hiç mantıklı\nkonuşmuyor.
+42|Bu yan hikâyede ana oyunu mahvetmek\nistemem, o yüzden burada bırakıyorum.
+43|Neyse, sonra görüşürüz! Ve unutmayın:\nMonokuma sonsuza dek ebedidir!
+44|...Ve gitti.
+45|Yani... artık gidebilir miyiz?
+47|Birden fikirlerini değiştirirlerse kıçlarına\ntekmeyi basıp yörüngeye yollarım!

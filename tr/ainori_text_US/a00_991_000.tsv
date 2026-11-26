@@ -1,31 +1,101 @@
+0	<CLT=cltMIND>Etkinlik penceresi testi.
+1	<CLT=cltMIND>Normal pencere testi.
+2	Shuichi'nin sevgi seviyesine bir göz atalım!
+3	Neee!? Hiçbir şey yok!
+4	Bundan daha iyisini yapabilirsin, değil mi?
+5	Bu çocuk oyuncağı.
+6	Puhuhuhu...
+7	Yarı yoldasın, ha?
+8	Asıl etkinlik başlamak üzere.
+9	Of... Uzun yol kat ettin.
+10	Dün yarın demiştin!\nYAP! ARTIK!
+11	Yaşlı evli bir çift gibisiniz.
+12	Bu harika!
+13	Seçenek 1
+14	Seçenek 2
+15	Seçenek 3
 16	<CLT=cltMIND>Öğrenciler öngörülebilir gelecek boyunca\nUltimate Akademisi'nde yaşamak zorundadır.
 17	<CLT=cltMIND>Bir cinayet işlendiğinde hayatta kalan bütün\nöğrenciler bir sınıf duruşmasına katılmalıdır.
 18	<CLT=cltMIND>Kara sınıf duruşmasında ortaya çıkarılırsa\nsadece o idam edilir.
 19	<CLT=cltMIND>Kara ortaya çıkarılmazsa geri kalan bütün\nöğrenciler idam edilir.
 20	<CLT=cltMIND>Kara sınıf duruşmasından sağ çıkarsa mezun\nolur ve dış dünyaya geri döner.
 21	<CLT=cltMIND>Ölüm oyunu ve sınıf duruşmaları hayatta\nsadece iki öğrenci kalana kadar devam eder.
+22	<CLT=cltMIND>"Gece" saat 22.00'den 08.00'e kadardır. Yemekhane\nve spor salonu geceleri yasaktır.
 23	<CLT=cltMIND>Monokuma asla doğrudan cinayet\nişlemez.
 24	<CLT=cltMIND>Monopad'leriniz çok önemli eşyalardır.\nLütfen onlara zarar vermeyin.
+25	<CLT=cltMIND>Üç ya da daha fazla öğrenci bir ceset bulduğunda\nCeset Bulundu Anonsu çalınacaktır.
 26	<CLT=cltMIND>Asgari kısıtlamalarla kampüsü dilediğiniz\ngibi keşfetmekte özgürsünüz.
 27	<CLT=cltMIND>Bu kuralları çiğneyen öğrenciler Exisal'lar\ntarafından derhal imha edilir.
+28	<CLT=cltMIND>Bu gerçek mi...?\nGerçekten bir öldürme oyununda mıyız?
+29	Bizimle oynamayı kesin... Ben...\nasla... asla bir öldürme oyununa katılmayacağım—
+30	[Geçici] Başlık Bölüm 1 "Benim Sınıf Davam,\nBizim Sınıf Davamız" (Olağan Dışı) Günlük Hayat
+31	Yetenekli Gençler için Ultimate\nAkademisi Okul Kuralları...
+32	Kim bizi böyle bir oyun oynamaya zorlar?\nHem neden...?
+33	Kimin umurunda? Hiç de sıkıcı değil gibi.
+34	B-Bunun nesini sevebilirsin ki!?\nBu en kötüsü!
+35	Kehehe... Sesini öyle yükseltme.
 36	Hey, hey! Bu altıncı kural ne\ndemek?
+37	Öldürme oyunu ve sınıf davaları sadece iki\nhayatta kalan öğrenci kalana kadar devam edecek.
+38	Sadece <CLT=cltSTRONG>iki hayatta kalan öğrenci<CLT=cltNORMAL> mi?\nBunun sebebi ne olabilir?
 39	Belki sadece iki kişiyle duruşma\nyapılamayacağı içindir...?
+40	Ohhh, anlıyorum.\nÇok zekisin, Shuichi.
+41	Öldürme oyunu... Okul Kuralları...
+42	Dalga geçmeyi kesin! Kim böyle bir\nşeye ayak uydurur ki!?
+43	<CLT=cltMIND>Kaito, Monopad'i yere çarpıp parçalayacakmış\ngibi havaya kaldırdı.
 44	Vay, hey, dur, yapma.
 45	Okul kuralları onu kıramayacağını söylüyor.
+46	Kuralları çiğnersen Exisal'lar seni\ncezalandırır...
+47	Kes sesini! Umurumda değil! Bu saçma\nsapan oyuna asla ayak uydurmayacağım!
+48	Bu ona "ayak uydurmak"la ilgili değil.\nŞu an ona karşı gelmek çok tehlikeli.
 49	Boş verin onu! Dünyanın uğraşacağı\nbir salak eksilir sadece!
 50	Hey! Kime salak diyorsun!?
+51	<CLT=cltMIND>Nefes aldım ve sonra var gücümle bağırdım.
+52	Of be! Kavga etmeye vaktimiz yok!
+53	Vay! N-Ne oluyor!?
+54	Arkadaşlar arasında kavga etmemeliyiz!\nBöyle zamanlarda iş birliği yapmalıyız!
+55	Açıkçası... Konuşma yapmaktansa bir\nşarkı çalsam çok daha hızlı olurdu.
+56	Chopin'in "Askerî Polonez"i bağımızı\nkesinlikle sağlamlaştırırdı!
+57	Evet, bolonez epey güzeldir.\nGerçi et ya da domatesi pek sevmem.
+58	Ben de Kaede'ye katılıyorum!\nArkadaşlar arasında kavga edemeyiz!
+59	Ustam gücümüzü doğru yöne\nyöneltmemiz gerektiğini söylemişti!
 60	N-Neyse...hepiniz fazla panikliyorsunuz...\nSadece...sakin olun...benim gibi...
 61	Vay! Amma da titriyorsun!
 62	Bu yoğun titreşimlere ben bile dayanamam!\nVe inan bana—bu konuda çok tecrübeliyim!
+63	...N-Ne demek bu?
+64	Neyse... birlikte çalışıp çıkışı yeniden\narayalım.
 65	Ama...o duvarın her yerine baktık \nve tek bir delik bile yoktu.
+66	Hm? Dur bir saniye.\nDuvarda bir açıklık yoksa...
+67	O zaman... bu duvarların içine en\nbaşta nasıl girdik?
+68	Ha...? Ah, doğru, değil mi?
+69	O zaman bu... bir yerde bir delik olmalı\ndemek! Sadece onu aramamız lazım!
+70	Bizi buraya hapseden kişi birbirimizle\nsavaşmamızı istiyor ama...
+71	Bu olmayacak! Göstereceğiz size!
+72	Birbirimizle savaşmayacağız!\nBunun yerine birlikte çalışacağız!
 73	<CLT=cltMIND>...
 74	Neden sessizsiniz...?\nYanlış bir şey mi söyledim?
+75	Hayır, öyle değil.
+76	Her şeyi açık açık söyledin,\no yüzden söylenecek başka bir şey yok.
 77	Kesinlikle haklısın!\nBu kadar kolay pes edemeyiz!
 78	Evet, doğru!
+79	Ayrılıp çıkışı bulmaya çalışmalıyız!
+80	...Ah, şey, Gonta bir şey söyleyebilir mi?
+81	Neden? Tam gitmeye\nhazırlanıyorduk.
+82	Şeyy... Muhtemelen bir şey değil ama...
+83	Gonta... çimenlerde rögar kapağı buldu.\nOkul binasının arkasında.
 84	Rögar mı?
+85	Evet. Yeraltı geçidine benziyordu.\nGonta çıkış olabilir diye düşündü...
+86	...Hayır. Muhtemelen bu kadar basit değil.
+87	Gyaaaaaa! Böyle önemli şeyleri daha\nçabuk söylemelisin!
+88	Evet. Yeraltıgeçidinebenziyordu.\nGontaçıkışolabilirdiyedüşündü...
 89	Dur, öyle değil! Çok hızlı konuşuyorsun!
+90	Neyse, gidip doğrulayalım. Okulun arkasında,\ndeğil mi? Lütfen bize yol göster, Gonta.
+91	T-Tamam! Gonta'yı takip edin!
+92	<CLT=cltMIND>Gonta önde, herkes koşuşturarak\nspor salonundan çıktı.
 93	<CLT=cltMIND>Tam onların peşinden gitmek üzereyken...
 94	...Kaede, az önce epey havalıydın.
+95	Ha? Ne hakkında?
+96	Az önce havayı değiştirme şeklin.\nGörünüşe göre herkes sana saygı duyuyor.
+97	S-Saygı duymak mı... Abartıyorsun.\nSadece aklımdakini söyledim...
 98	Demek bu sende doğal olarak var.\nBu daha da havalı.
 99	Kazanmak için gerekenler sende var...
 100	Ne...?
@@ -33,14 +103,25 @@
 102	Kesinlikle el ele tutuşup birlikte\nçalışmamızı istemiyorlar...
 103	...Senin peşine düşecekler, Kaede.\nEllerindeki her şeyle.
 104	Senin için biraz endişeleniyorum.\nÇok...dobrasın.
+105	Ve gitti...\nKeşke bu kadar esrarengiz olmasa...
 106	Ah, belki bir uyarıdır?\nBen öyle düşünüyorum en azından...
+107	İradesi güçlü olmak burada başını\nçok derde sokabilir...
 108	...
 109	Ah, ö-özür dilerim... Böyle bir zamanda bu\nkadar olumsuz konuşmak istememiştim.
+110	Hayır, merak etme.\nBana sadece endişelendiğin için söyledin, değil mi?
+111	Evet... Rantaro bir gizem.\nÜstelik Ultimate yeteneğini de unutmuş...
+112	Bu gerçekten... unutulabilecek\nbir şey mi?
+113	Şey, bunu düşünmenin anlamı yok.\nNeyse, rögar kapağının olduğu yere gitmeliyiz.
 114	Ah, haklısın...
+115	[Geçici]
+116	Rantaro gerçekten bir gizem...
+117	Neyse, rögar kapağının olduğu yere gitmeliyiz.
 118	Ah, haklısın...
 119	Evet
 120	Hayır
 121	Emin olmadığın bir şey mi var?
 122	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
 123	Ekran
+124	Basket Potası_sağ
+125	Basket potası_sol
 126	Skor Tabelası

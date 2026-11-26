@@ -1,4 +1,8 @@
+0	<CLT=cltSYSTEM>Eğlendin mi?\nJetonları ödüllerle takas edebilirsin!
 1	Evet
 2	Hayır
 3	Emin olmadığın bir şey mi var?
+4	<CLT=cltSYSTEM>Bugünlük oynamayı bitirip yarına\nhazırlanmak ister misin?
 5	Ekran
+6	[Geçici] Jeton Değişimi
+7	[Geçici] Ödül Değişim Gişesi

@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_112_703
+51|Çünkü kostümle ilgileniyorsun, değil mi?\nBirini içeri çekme sırası bende.
+53|Bir de... insanların anılarıyla dalga\ngeçecek biri gibi görünmüyordun.
+54|Sorun değil, ben sordum...
+55|Evet ama... ne kadar sade ve sıkıcı\nolduğuna hayal kırıklığına uğramadın, değil mi?
+56|Hiç de değil! Böyle hikâyeleri\nduymaktan mutluyum.
+57|G-Gerçekten mi? Şey, hoşuna gittiyse\nsorun yok.
+59|<CLT=cltMIND>Tsumugi bana birkaç kostüm hikâyesi daha\nanlattı ve odama döndüm.
+## a00_112_704
+0|Düşünüyordum da... Kostüm denemek\nister miydin, Shuichi?
+2|Kostüm hakkında dinlemekten hoşlanıyor gibisin,\no yüzden denemek isteyebileceğini düşündüm.
+3|Ş-Şey, ilgimi *çekiyor*...
+5|Muhtemelen her şeyin altından kalkarsın.\nKarşı cins kostümünde bile harika olabilirsin...
+7|<CLT=cltMIND>Şimdiden beni ölçüp biçiyor mu!?
+8|Hey, kostüm giyseydin ne olmak\nisterdin?
+9|Ah, b-ben henüz hiçbir şeyi kabul etmedim...
+10|Gerçekçi bir okul üniforması mı?
+11|Ortaçağ şövalyesi mi?
+12|Bir kız mı?
+14|Kendini hangi karakterin kostümünde\nhayal edebiliyorsun?
+15|Belki... gerçekçi bir okul üniforması?
+16|Şey, birçok kişi bununla başlamanın\nkolay olacağını düşünür...
+17|Ama o tuzağa düşme! Üniformalar kolay\ngörünür ama aslında zordur.
+18|Hiçbir değişiklik yapamazsın ve malzemeler\nkonusunda çok yaratıcı olman gerekir.
+19|Belki... bir ortaçağ şövalyesi?
+20|Şövalye... bir prensesi korumak için,\ndeğil mi? Anlıyorum... demek böyle şeylerden hoşlanıyorsun.
+21|G-Gülme...
+22|Ah, hayır. Yanlış anlama.\nSeninle dalga geçmiyorum.
+23|Ben de tatlı prenseslere özendiğim için\nkostüm giymeye başladım.
+24|Senin de aynı olmana biraz...\nmutlu oldum, Shuichi.
+25|Belki... bir kız?
+26|Daha ilk seferde mi!?\nVay, cesaretin var Shuichi!
+27|Ama giyinirken farklı bir sen olmak\nistemeyi anlıyorum.
+28|Yani... bu kostüm denemek istediğin\nanlamına geliyor, değil mi? Değil mi!?
+29|D-Dur bir dakika!\nHâlâ emin değilim...
+30|Epey iyi bir Shizuo olabilirsin.\nSesin hariç tabii.
+31|Gözlerin Genos'a çok uyuyor...\nAh! Ya da Mikazuki de iyi olabilir!
+32|<CLT=cltMIND>Gerçekten beni ölçüp biçiyor!
+33|Ama bence senin için... Beyaz Kanata\nmuhtemelen en iyisi olurdu.
+34|Beyaz Kanata mı? Eskiden sabahları\nyayınlanan şu dizi mi?
+35|Ne!? Biliyor musun, Shuichi?
+36|Evet, çok severdim.
+37|Neeeee!? Cidden mi!?\nNe süper bir tesadüf!
+38|<CLT=cltMIND>Tesadüf mü?
+39|Hey, Shuichi! Sana bir Kanata kıyafeti\nyapacağım, hadi kostüm giyelim!
+40|Ve birlikte bir fuara gidelim!
+41|G-Gerçekten mi!?
+42|Aslında yaptığım o ilk kıyafet bir\nKanata kostümüydü.
+43|Hm? Yani onu giymek isteyen o\nkostümcü bir erkek miydi?
+44|Hayır, erkek karakterlerin kostümünü\nçok iyi giyen bir kız.
+45|Ama o bir yana, zevklerimizin bu kadar\nbenzer olacağını hiç düşünmemiştim!
+47|<CLT=cltMIND>Ben tepki veremeden Tsumugi elimi\ntuttu ve ileri geri salladı.
+48|Burada konuşabileceğim biriyle\ntanışacağımı düşünmek! Çok mutluyum!
+49|Bu kıyafet köklerime dönüş olacak,\no yüzden yapmak için çok heyecanlıyım!
+52|<CLT=cltMIND>El ele tutuştuğumuzu fark edince\nkızardı ve kıpırdamadan durdu.
+53|<CLT=cltMIND>...Ama bırakmadı.
+54|Pardon... kendime benzeyen birini\nbulunca fazla heyecanlandım...
+55|Şey... ben sadece bir kostüm hayranı kızım\nama senin için elimden geleni yapacağım, Shuichi...
+56|Yani bana katılmaz mısın? Sana kostüm\ndünyasını öğretmek istiyorum, Shuichi.
+57|<CLT=cltMIND>Gözlerindeki parıltı geri gelmişti.
+58|<CLT=cltMIND>Tsumugi beni çok sevdiği dünyaya,\nkostüm dünyasına davet ediyor.
+59|<CLT=cltMIND>Ben de sadece başımı salladım.
+60|Tamam, Tsumugi.
+61|Yaşasın! O zaman buradan çıkınca birlikte\nbir fuara gidelim! Söz veriyorsun!
+62|<CLT=cltMIND>Tsumugi kıkırdayarak elimi yeniden\nileri geri sallamaya başladı.

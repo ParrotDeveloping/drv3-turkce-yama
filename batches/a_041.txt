@@ -1,0 +1,56 @@
+@ ainori_text_US
+## a00_102_902
+7|Ben önden döneyim...
+8|Sen ve ben, ikimizin de daha gideceği\nçok yol var...
+## a00_102_914
+0|Eminim kedine iyi\nbakılıyordur...
+1|Nereden biliyorsun?
+2|Kedine gerçekten çok değer\nveriyordun, değil mi Ryoma?
+3|Bu yüzden ona güvenilir birinin bakmasını\nsağladın, değil mi?
+4|Eh, sanırım...
+5|Güvendiğin birinin kedine kötü\ndavranacağını sanmıyorum.
+6|Senin muhakemene güveniyorum. Bu iş için\nkesinlikle en iyi kişiyi seçerdin.
+7|Hıh... sanırım bu da bir bakış\naçısı.
+8|Teşekkürler... bu beni biraz\ndaha iyi hissettirdi.
+10|Eh, kediyi birine bıraktıktan sonra\nona ne olduğunu kim bilir.
+11|Şimdi bunu düşünmenin bana bir\nfaydası yok biliyorum ama...
+13|Bu acıyı taşımak cezamın bir\nparçası...
+14|Büyük bir hata yaptım... İşlerin böyle\nolacağını bilseydim...
+16|Ryoma... buradan çıkmayı başarsan bile\nözgür olmayacaksın, değil mi?
+17|Belki de en iyisi... sadece unutmaktır.
+18|Evet, biliyorum. Hatırlasam bile\nyapabileceğim bir şey yok.
+19|Suçlarımın bedelini bir gün ödesem bile...\no zamana çoktan gitmiş olur...
+22|Böyle iç karartıcı bir şeyi açtığım için\nkusura bakma. Unut gitsin...
+24|Hiçbir şey değişmeyecek mi?
+25|Unuttun mu?
+26|Buradan çıksam bile hapse geri\ndöneceğim.
+27|Hatırlayıp hatırlamamamın bir farkı\nolmayacak...
+28|Ama bu yüzden *hatırlamalısın*,\nRyoma.
+29|Kedinle ilgili anın burada ayakta\nkalmana yardım ediyor...
+30|Ve kedinin böyle nazik bir sahibini\nunutmayacağından eminim.
+31|Kediler akıllıdır, bu\nşeyleri bilirler.
+33|Hıh, kedilerin gerçekten bu kadar\nduygusal olduğunu mu düşünüyorsun?
+35|Hayır, sorun değil. Benim için\nendişelendiğine sevindim.
+37|Bunu söylediğin için teşekkürler. Böyle\ndüşünmek teselli edici.
+## a00_103_000
+4|Bunu bana... mutlu olacağımı düşündüğün\niçin mi aldın?
+5|Sanırım giyimime bakıp böyle bir şeyden\nhoşlanacağımı düşündün.
+6|Haha... Eh, şey, yine de teşekkürler.
+7|Bana hediye mi aldın?\nAww, beni düşünmüşsün...
+9|Haha, bayıldım. Teşekkürler.
+10|Haha... aman, bu epey karanlık bir hediye.
+11|Güneşli ve neşeli bir kız gibi görünüyorsun\nama sanırım karanlık bir yanın var.
+13|İçine kapanık bir çocuk gibi görünüyorsun\nama sanırım karanlık yanını saklıyorsun.
+14|Gerçekten mi? Bunu bana mı veriyorsun?
+15|Kaede, senin... sıra dışı bir zevkin var.\nSenden bunu hiç beklemezdim.
+16|Şey, kabalık etmek istemem ama belki\nbundan daha çok keyif alacak başka biri vardır?
+17|Bence bunu gerçekten takdir edebilecek\nbirine vermelisin.
+19|Shuichi, senin... sıra dışı bir zevkin var.\nSenden bunu hiç beklemezdim.
+22|Ah... benim için mi?
+23|Yok yok, sevmediğimden değil...\nSadece düşüncesi bile beni mutlu ediyor, Kaede.
+24|İnsanlar bana hediye verince içim hep\nkıpır kıpır olur. Teşekkürler.
+25|*Senin* istediğin bir şey var mı, Kaede?\nKarşılığında sana bir şey vermek istiyorum.
+26|Vay, burada böyle şeyler bile mi var?\nBurası gittikçe tuhaflaşıyor.
+27|Sence de tuhaf değil mi?\nBu şeyleri burada bulman?
+29|Yok yok, sevmediğimden değil...\nSadece düşüncesi bile beni mutlu ediyor, Shuichi.
+31|*Senin* istediğin bir şey var mı, Shuichi?\nKarşılığında sana bir şey vermek istiyorum.

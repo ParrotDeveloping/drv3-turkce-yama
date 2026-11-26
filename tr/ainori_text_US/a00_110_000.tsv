@@ -2,8 +2,70 @@
 1	Pek değil...
 2	Emin olmadığın bir şey mi var?
 3	<CLT=cltSYSTEM>Maki'ye bir hediye vermek ister misin?
+4	Bu... bir çocuğa vermen gereken bir şey.\nBenim yaşımdaki birine vermemelisin.
+5	Eh... buradan çıkınca onu çocuklara veririm.\nBunu bana bu yüzden verdin, değil mi?
+6	Bu... bir çocuğa vermen gereken bir şey.\nBenim yaşımdaki birine vermemelisin.
+7	Eh... buradan çıkınca onu çocuklara veririm.\nBunu bana bu yüzden verdin, değil mi?
 8	...
+9	Kusura bakma ama buna ihtiyacım yok.
 10	...
+11	Kusura bakma ama buna ihtiyacım yok.
+12	...Bunun beni mutlu edeceğini mi düşündün?
+13	Piyano dışında gerçekten hiçbir şey\nbilmiyorsun, değil mi?
+14	Dur... İstemediğim bir şeyi vermeyi planlıyorsan\nseni hemen şimdi durduracağım.
+15	...Yanılıyor muyum? Bu bir şaka, değil mi?
+16	Bu ne...?\nBu şeyi nereden buldun ki?
+17	Benim için mi? Bunu bana vermeyi\nneden düşündün ki?
+18	...Bunun beni mutlu edeceğini mi düşündün?
+19	Bir dedektif için pek sezgili değilsin,\nhı?
+20	Dur... İstemediğim bir şeyi vermeyi planlıyorsan\nseni hemen şimdi durduracağım.
+21	...Yanılıyor muyum? Bu bir şaka, değil mi?
+22	Bu ne...?\nBu şeyi nereden buldun ki?
+23	Benim için mi? Bunu bana vermeyi\nneden düşündün ki?
+24	Anlıyorum... Bunu bana veriyorsun.
+25	Ne? Heyecanlanacağımı mı düşündün?
+26	Kusura bakma ama sosyal zorunluluk yüzünden\nboş yere teşekkür etmeye niyetim yok.
+27	Birlikte vakit geçirdikten sonra hediye\nvermenin kötü olduğunu düşünmüyorum...
+28	Ama vermeden önce hediyeyi gerçekten\niyice düşünmelisin, değil mi?
+29	...Şaşırtıcı derecede kötü bir zevkin var.
+30	İstemiyorsan onu saklamakta bir\nsakınca görmüyorum.
+31	Anlıyorum... Bunu bana veriyorsun.
+32	Ne? Heyecanlanacağımı mı düşündün?
+33	Kusura bakma ama sosyal zorunluluk yüzünden\nboş yere teşekkür etmeye niyetim yok.
+34	Birlikte vakit geçirdikten sonra hediye\nvermenin kötü olduğunu düşünmüyorum...
+35	Ama vermeden önce hediyeyi gerçekten\niyice düşünmelisin, değil mi?
+36	...Şaşırtıcı derecede kötü bir zevkin var.
+37	İstemiyorsan onu saklamakta bir\nsakınca görmüyorum.
+38	Anlıyorum... Bunu bana veriyorsun.
+39	Ne? Heyecanlanacağımı mı düşündün?
+40	Kusura bakma ama sosyal zorunluluk yüzünden\nboş yere teşekkür etmeye niyetim yok.
+41	Birlikte vakit geçirdikten sonra hediye\nvermenin kötü olduğunu düşünmüyorum...
+42	Ama vermeden önce hediyeyi gerçekten\niyice düşünmelisin, değil mi?
+43	...Şaşırtıcı derecede kötü bir zevkin var.
+44	İstemiyorsan onu saklamakta bir\nsakınca görmüyorum.
+45	Anlıyorum... Bunu bana veriyorsun.
+46	Ne? Heyecanlanacağımı mı düşündün?
+47	Kusura bakma ama sosyal zorunluluk yüzünden\nboş yere teşekkür etmeye niyetim yok.
+48	Birlikte vakit geçirdikten sonra hediye\nvermenin kötü olduğunu düşünmüyorum...
+49	Ama vermeden önce hediyeyi gerçekten\niyice düşünmelisin, değil mi?
+50	...Şaşırtıcı derecede kötü bir zevkin var.
+51	İstemiyorsan onu saklamakta bir\nsakınca görmüyorum.
+52	Hmm... Böyle bir durumda hediye veriyorsan\npek endişelenmiyor olmalısın...
+53	...Eh, umurumda olduğundan değil. Alırım.
+54	Senden böyle bir şey alacağımı\ndüşünmezdim.
+55	Ama karşılığında verecek hiçbir şeyim yok...\nBu senin için sorun olur mu?
+56	Hmm... Böyle bir durumda hediye veriyorsan\npek endişelenmiyor olmalısın...
+57	...Eh, umurumda olduğundan değil. Alırım.
+58	Senden böyle bir şey alacağımı\ndüşünmezdim.
+59	Ama karşılığında verecek hiçbir şeyim yok...\nBu senin için sorun olur mu?
+60	Bu benim için mi...? Hmm...
+61	...Ha, kızgın mı görünüyorum? Belli etmeyebilirim\nama aslında epey mutluyum.
+62	...Teşekkürler. Değerli tutacağım.
+63	Neden şaşırdın? Sevdiğim bir şey aldım,\ntabii ki bunun için teşekkür edeceğim.
+64	Bu benim için mi...? Hmm...
+65	...Ha, kızgın mı görünüyorum?\nBelli etmiyorum ama aslında epey mutluyum.
+66	...Teşekkürler. Değerli tutacağım.
+67	Neden şaşırdın? Sevdiğim bir şey aldım,\ntabii ki bunun için teşekkür edeceğim.
 68	<CLT=cltSYSTEM>Bunu hediye olarak veremezsin.\nBu bir <CLT=cltSTRONG>önemli eşya<CLT=cltSYSTEM>...
 69	Tamam, ona hediye vermeyeceğim.
 70	Hayır, ona hediye vermek istiyorum.

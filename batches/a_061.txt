@@ -1,0 +1,65 @@
+@ ainori_text_US
+## a00_105_120
+6|Kahraman kötü örgütü yenince\ntamamen coşturucu oluyor!
+7|Bilirsin, beynimiz kötü yerine iyiyi\ndesteklemeye programlı.
+8|<CLT=cltMIND>...Belki... bu Kokichi'nin\nşaka yapma şekli.
+9|Bunlar güzel, çünkü izlerken düşünmen\ngerekmiyor.
+10|Kafam hep karmaşık düşüncelerle\ndolu.
+11|Özellikle de süper kötü bir örgütün\nlideri olduğum için, bilirsin?
+12|Bu yüzden böyle akılsız filmler bir\nnefes temiz hava gibi.
+13|<CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>'in bu sırrımı\nçözmesine şaşırmadım.
+14|Kaç kez yeniden doğarsam doğayım\nsenin gibilere rakip olamam.
+15|Böyle çocukça şeylerden pek hoşlanmam.
+16|Animelerde adalet kahramanları ya da kötülüğün\nyüce liderleri gibi bağ kurulamayan hikâyeler var.
+17|Hadi ama, gerçekten mi!? Seyircinin zekâsını\no aptalca saçmalıklarla küçümsemeyin!
+18|<CLT=cltMIND>...O konuya hiç girmeyeceğim.
+## a00_105_130
+5|Hmm... Eh, şekerleme yapmak istemiyorum.\nHem de hiç.
+6|Sen hâlâ küçük bir çocuksun, Shuichi.
+7|Ha!? Domino mu!? Film kutularıyla mı!?
+8|Kötülüğün yüce liderinin bu kadar çocukça\nbir şey yapacağını mı düşünüyorsun!?
+9|Beni kim sanıyorsun!?
+10|Eh... denersek eğlenceli\nolabilir!
+11|İnsanlar hep hayatta yeni şeyler dene der,\no zaman Guinness rekoruna ne dersin!?
+13|Vay, Shuichi.\nBen de tam olarak aynı şeyi düşünüyordum.
+14|Gerçeklik filmlerden daha önemli.\nBu çok doğru.
+15|Bu kadar gereksiz bir şeyi tam aynı anda\ndüşündüğümüze inanamıyorum...
+16|Belki de geçmiş bir hayatta sevgiliydik!
+## a00_105_210
+4|Bulaşık yıkayalım
+5|Sana daha önce söylemedim mi?\nYemek yapmakta iyi değilim.
+6|Bıçak tutunca kendi elimi keseceğim\ndiye çok gerilirim...
+7|Bıçak bile tutamayan işe yaramaz bir\nkötülüğün yüce lideriyim...
+8|...Ama bu belli ki bir yalan.
+9|Kendimi bile bilmiyorum...
+10|Ama sana yalan söylemeyi neden bu kadar\nseviyorum, Shuichi?
+11|Muhtemelen yalanları benden çekip\nçıkarmakta bir yeteneğin var.
+12|Beni çok iyi tanıyorsun, Shuichi!
+13|Çöp karıştırmayı dünyadaki her şeyden\ndaha çok severim!
+14|Çöp karıştırmaya o kadar takılırım ki\nyemeyi içmeyi unuturum!
+15|...Ama bu belli ki bir yalan.
+16|Ah be, seninleyken o kadar eğleniyorum\nki daha da çok yalan söylüyorum!
+17|Ne!? Pis karmaşalarla uğraşmak istemiyorum!
+18|Doğrusunu söylemek gerekirse, ne zaman bulaşık\nyıkasam... farklı bir kişiliğim ortaya çıkıyor.
+19|O adam ortaya çıkarsa\nherkesin hayatı tehlikeye girer...
+20|...Evet, bulaşık yıkamayı pas geçeyim.
+21|<CLT=cltMIND>İstemiyorsan söylemen\nyeterdi...
+## a00_105_220
+5|Demek soğukkanlı kalmak istiyorsun.
+6|Hı-hı, bence bu kesinlikle şu an\nihtiyacın olan bir şey, Shuichi!
+7|Hadi, gir içeri! Kapıyı senin için kapalı\ntutacağım, sen rahatla ve kafanı dondur!
+8|Bu arada çay yapraklarının hayvan yeminde\nkullanıldığını biliyor muydun?
+9|Yemi sterilize etmek için çay yapraklarının üzerine\nsıcak su dökerlerdi. Çay da böyle ortaya çıktı!
+10|Eh, hepsi yalan...
+11|Sence Kirumi'ye sorarsak bize çayın gerçek\nkökenini anlatır mı?
+12|Hmmm...?
+13|Şu an yalan söylemek bile içimden gelmiyor.
+## a00_105_230
+5|Sağlık manyağı mısın, Shuichi?\nBu epey gereksiz, o yüzden yapmayalım.
+6|Hayatımızın geri kalanında burada mahsuruz,\nyani sağlıklı olmanın anlamı yok.
+7|VAAAAAAAAAAAAAAHHHHHH!!!!!
+8|Kahveden nefret ettiğimi bile bile\nneden böyle bir şey söylüyorsun!?
+10|...Tamam, şimdi daha iyi hissediyorum.
+11|Bütün o ağlamak beni susattı...\nBir kahve alayım, lütfen.
+13|Eh, sonuçta hâlâ bir oğlansın.\nO zaman sana güzel bir şey söyleyeyim.
+14|Öyle görünmese de Tenko aslında süper\nsapık bir kız!

@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_104_704
+22|<CLT=cltSTRONG>Ultimate Böcekbilimci<CLT=cltNORMAL> olarak çok çalıştığın\nsürece ailen seni kabul edecek.
+24|Ama... Gonta şu an kimseye yardım etmiyor.
+25|Ediyorsun!\nDaha önce beni kurtarmıştın, hatırlıyor musun?
+26|Neredeyse merdivenden düşüyordum!
+28|Gonta... düşündüğünden çok daha\nmuhteşem birisin.
+30|Teşekkürler!\nGonta'nın gözleri açıldı!
+31|Gonta anladı!\nGonta senden öğreniyor...
+32|Gonta orman ailesinden aldığı yetenekte\ndaha da iyi olacak!
+33|Ama... Gonta yine de centilmen olmaya\nçalışacak.
+35|İlk başta Gonta bunu orman ailesi için yapıyordu.\nAma şimdi...
+36|Gonta sadece centilmen olmak istiyor.
+37|Gonta nazik, ciddi, zarif, kibar bir\ncentilmen olmak istiyor.
+38|Artık Gonta'nın hedefi bu!
+39|Anlıyorum...\nO zaman bence bu harika bir hedef.
+40|Evet! Gonta hedefe ulaşmak için çok çalışacak!
+41|<CLT=cltMIND>Kararlılıkla başını salladıktan sonra Gonta'nın\nifadesi yumuşadı ve bana baktı...
+42|Çok teşekkürler, Shuichi. Gonta senin sayende\nçok daha fazla şey anlıyor.
+43|Gonta Shuichi'yle tanıştığına seviniyor.
+44|Bundan sonra Gonta seni ve diğer herkesi\ngüvende tutacak... gerçek centilmen gibi!
+45|<CLT=cltMIND>Gonta elimi tutup sıktı.\nBen de onunkini sıktım.
+46|<CLT=cltMIND>...Burada gerçek bir bağ var.\nBuna bütün kalbimle inanıyorum.
+48|<CLT=cltSYSTEM>Yeni bir beceri öğrendin:\n<CLT=cltSTRONG>Vahşi Uyanış<CLT=cltSYSTEM>.
+## a00_104_902
+0|Bugün için teşekkürler! Gonta Shuichi'yle vakit\ngeçirdiğine sevindi!
+1|Bugün çok eğlenceliydi! Ve Gonta gerçek centilmen\nolmaya daha yakın hissediyor!
+2|Gonta'yla yine vakit geçirir misin?
+3|Gel, yurda birlikte dönelim!
+4|Gonta'yla vakit geçirdiğin için teşekkürler!
+5|Gonta Shuichi'yleyken zaman çok hızlı\ngeçiyor!
+8|Bugün pek eğlenceli değildi, ha?
+9|Gonta daha iyi bir arkadaş olamadığı için özür diliyor...
+10|Gonta şimdi dönüyor... Özür dilerim...
+11|Gonta çok yorgun hissediyor. Neden bilmiyor...\nGonta önden dönüyor...
+## a00_104_914
+0|Bir centilmenin birçok yetenek ve becerinin\nustası olması gerektiği doğru...
+1|Doğru! Gonta centilmenin her şeyi\nyapabileceğini düşünüyor.
+2|Hatta centilmen muhtemelen Olimpiyat\nmadalyası ve Nobel ödülü bile alabilir!
+3|<CLT=cltMIND>Bu centilmenden çok insanüstü.\nYine de yüksek hedeflemek iyi...
+4|Çok çalış, Gonta. Seni destekliyorum.
+5|Teşekkürler! Gonta centilmen olmak için\nçok çalışacak!
+7|Bir centilmenin *her şeyi* yapabilmesi\ngerektiğini sanmıyorum...
+8|Hayır, centilmenler her şeyi yapabilir.\nCentilmenler toplumda saygı görür.
+9|Centilmenler gelmiş geçmiş en akıllı, en güçlü,\nen nazik insanlar.
+10|Gonta umarım öyle bir centilmen\nolabilir...
+12|Gonta kendine güvenmiyor... Gonta'nın diğerleri\ngibi akıllı olmaması yeterince kötü...
+14|Zekâ en önemli özellik değil.
+16|Bazı centilmenler gerçekten akıllı olabilir ama\nbazılarının yeteneği naziklik.
+17|Sadece *sana* göre centilmen olmanın\nen iyi yolunu bulmalısın.
+19|Hm? Bir sorun mu var?
+20|Ah, özür dilerim... Gonta Shuichi'nin nazik\nsözlerinden çok etkilendi...
+21|Gonta daha önce hiç Shuichi gibi biriyle\ntanışmadı.
+22|Gonta sözlerini yatmadan önce centilmen\ngünlüğüne yazacak!
+23|Shuichi sayesinde Gonta centilmen olmak\niçin çok çalışabilir!
+25|Centilmenlerin genelde epey akıllı\nolduğu doğru.
+26|Evet. Gonta akıllı değil... o yüzden Gonta centilmen\nolabilir mi diye merak ediyor...
+27|S-Sorun yok! İyi olduğun başka\nbecerilerin var, Gonta!
+28|Ama centilmen akıllı olmalı.
+29|Sana uygun bir şekilde centilmen\nolabilirsin...
+30|Gonta daha akıllı olabilir mi...?\nGonta bunun mümkün olduğundan emin değil...
+31|<CLT=cltMIND>İşe yaramıyor...\nHiç dinlemiyor...
+## a00_105_000
+4|Ben... benden bu kadar nefret ettiğini\nbilmiyordum, Kaede...
+5|VAAAAAAAAAAAHHHHHH!!!!!\nBenden nefret etsen bile bu çok fazla!
+6|Eh, en azından sıkıcı değil... Ama sonra\nbunu telafi etmelisin, tamam mı?

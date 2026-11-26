@@ -1,0 +1,63 @@
+@ ainori_text_US
+## a00_108_701
+16|Senin için sakıncası yoksa... bana işverenin\nhakkında biraz bahsedebilir misin?
+17|<CLT=cltSTRONG>Ultimate Hizmetçi<CLT=cltNORMAL>'nin geçmişte ne tür\nişler yaptığını duymak ilgimi çekiyor.
+18|Gizli olduğu için size fazla bir şey\nsöyleyemem. Ama anılarıma göre...
+19|Hizmet ettiğim son kişi hafif roman\nyazarıydı.
+20|<CLT=cltMIND>Anlıyorum, bir yazar... Ne hoş, bir yazara\nhizmet eden bir hizmetçi.
+21|Çok fazla fikri vardı. Ama hepsini yazamadığı\niçin büyük bir kargaşa içindeydi.
+22|Ben de hızlı yazmak konusunda tavsiye verdim.
+23|Beni dinledikten sonra ayda bir roman\nyayımlayabildi. Epey minnettardı.
+24|<CLT=cltMIND>Ayda bir mi!?\nBunu nasıl yapabildi ki!?
+25|Ondan önce yabancı bir ülkeden bir\npolitikacıya hizmet ettim.
+26|Ona hizmetçi olarak hizmet ettim ama aynı\nzamanda Mahjong'da akıl hocası oldum.
+27|Bir politikacının Mahjong için akıl\nhocasına mı ihtiyacı vardı?
+28|Ülkenin tuhaf bir sistemi vardı.\nHer şeye Mahjong'la karar verirlerdi.
+29|Hizmet ettiğim kişi bütün rakiplerini\nyendi ve başbakan oldu.
+30|<CLT=cltMIND>Demek Kirumi Mahjong da oynayabiliyor...
+31|Bu inanılmaz, Kirumi...\nHep başarılı insanlarla birliktesin.
+32|İstekleri bir hizmetçinin yapacağı gibi\nyerine getiririm. Bu yüzden...
+33|Size hizmet edersem siz de aynı başarı\nyolunda yürüyebileceksiniz.
+34|Ha? Ben mi?
+35|Shuichi, sizde potansiyel görüyorum...
+36|Geçmişte hizmet ettiğim insanlar gibi belki\nsiz de işlenmemiş bir elmassınız?
+38|Mümkün değil...
+39|Kendi yolumu kendim seçerim
+41|Size destek olursam belki daha\nbaşarılı olabilirsiniz.
+42|Öyle mi düşünüyorsun? Hayal\nbile edemiyorum...
+43|Sadece henüz fark etmediniz.\nGördüğüm şeyde yanılmıyorum.
+44|Belki... ama unutma, <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> olmak için\nsadece tesadüfen seçildim...
+45|Shuichi.\nAlçakgönüllülük de bir erdemdir...
+46|...ama siz kendinizi küçümsüyorsunuz.\nKendinize daha çok inanmalısınız.
+48|Mümkün değil...
+49|Bunu neden bu kadar inatla reddediyorsunuz?
+50|Kendimi herkesten iyi tanıyorum.\nÖzel olmadığımı biliyorum.
+51|Kendi inançlarınızla gözünüz bulanmış.\nBir kabuğa sıkışıp kalmışsınız.
+52|Kabuğunuzu kırmak yerine gözlerinizi\ngeleceğinizden kaçırıyorsunuz.
+53|Bu yüzden... sizi yalnız bırakamam.
+55|Kendi yolumu kendim seçerim.\nSenin yardımın olmadan da gayet iyi olurum.
+56|Bu muhteşem, Shuichi.
+57|Kendi sorumluluklarınız için harekete\ngeçmekten asla geri durmuyorsunuz.
+58|Bu beni size daha da çok destek olmaya itiyor...
+60|<CLT=cltMIND>Kirumi potansiyelimi görmemi sağlamaya\nçalışarak benimle biraz vakit geçirdi...
+## a00_108_702
+0|Shuichi... daha önce konuştuğumuz şey\nhakkında biraz düşündünüz mü?
+1|Daha önce konuştuğumuz şey mi?
+2|Saklı potansiyelinizle ilgili.
+3|Ah, tabii...
+4|Tepkinize bakılırsa bunu düşünmediğinizi\nvarsayıyorum.
+5|...Demek anlayabiliyorsun, ha?
+6|Hizmetçiler efendilerinin düşüncelerini\nsezme yeteneğine ihtiyaç duyar.
+7|<CLT=cltMIND>Bir hizmetçinin yetenekleri, ha?
+8|Her şeye hazırlıklı gibisin, Kirumi.\nAma bu senden bekleniyor mu?
+9|Efendimin bütün ihtiyaçlarını karşılamak\nistiyorsam tabii ki.
+10|Sadece ihtiyaçları değil, efendimin güvenliği\niçin savaşmam gereken zamanlar da olur.
+11|Savaşmak mı? Ne demek istiyorsun?
+12|Tam olarak söylediğim gibi.\nGerçi pek sık olmadı.
+13|Pek sık değil mi? Ne oldu?
+14|Daha önce bir holding sahibine hizmet ettim.\nKızı suçlular tarafından kaçırıldı.
+15|Suç örgütü kızını kullanarak devlet\nbütçesine eşit bir fidye istedi.
+16|Sahibi öderdi. Ancak suçlulara bu kadar\npara vermekten kaçınılmalıydı.
+17|Neyse ki suçluların ana üssünün nerede\nolduğunu biliyorduk.
+18|Kızını kurtarabilmem için sahibine\nsilahlarımı hazırlattım.
+19|Yani tek başına mı!?

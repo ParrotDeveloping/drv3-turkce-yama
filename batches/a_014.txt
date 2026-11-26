@@ -1,0 +1,59 @@
+@ ainori_text_US
+## a00_100_007
+14|Gördüğün gibi ben bir robotum.\nVe bundan utanmıyorum ama...
+15|Henüz aşk duygusunu deneyimlemedim.\nİnsan çocukları bile daha önce aşkı hissetmiştir.
+16|Ah, yani... O duyguyu benimle\ndeneyimlemek mi istiyorsun?
+17|İnsanlar sık sık aşkın dünyadaki en değerli,\nen harika duygu olduğunu söyler.
+18|Ben de aşkın ne olduğunu deneyimlemek\nistiyorum. Lütfen bana yardım eder misin?
+19|Ah, yani... Sevgilin gibi davranmamı\nmı istiyorsun, Keebo?
+20|<CLT=cltMIND>Sanırım...\nbunu yapabilirim...
+21|Tabii bunu yapacaksak ciddiye almana\nihtiyacım olacak.
+23|Neden şaşırdın? Sadece göstermelik\nyapmak dürüstlük olmaz.
+24|Birbirimizi koşulsuz sevmeliyiz...\nBirbirimizi tamamen anlamalıyız...
+25|Randevulara çıkmalı, daha da yakınlaşmalıyız...\nVe sonra hayatlarımızı birbirimize adamalıyız!
+26|Dur bir dakika!
+27|Ha? Haddimi mi aştım?
+28|Hayır, mesele o değil, sadece... bir iyilik\niçin biraz uzun vadeli değil mi sence?
+29|Ama... bunda yanlış bir şey yok, değil mi?
+30|Yoksa birine aşk hissetmenin daha\nkolay bir yolu olduğuna mı inanıyorsun?
+31|Ah, hayır, söylemeye çalıştığım\nşey o değil...
+32|O zaman lütfen beni hastalıkta ve sağlıkta kabul et,\nböylece aşkın ne olduğunu gerçekten bileyim!
+33|<CLT=cltMIND>Pekâlâ, çok hızlı gidiyor!\nBiraz yavaşlamasını sağlamalıyım...
+34|Ama Keebo... benden gerçekten o kadar hoşlanıyor\nmusun? Yalanlara dayalı bir ilişki istemem...
+35|A-Ah... Şimdi kendimi oldukça... tuhaf hissediyorum...
+37|Bunu söylediğini duymak istememiştim...\nAslında seni sevmiyorum.
+39|Dürüst olmayan bir ilişki istediğim izlenimini\nverdiysem özür dilerim...
+40|Sadece böyle bir iyilik isteyebileceğim tek\nkişinin sen olduğunu düşünmüştüm.
+41|Bunu başka kimseden isteyemezdim.\nSadece... bunu bilmeni istiyorum.
+42|Bu doğru mu, Keebo? Çok özür dilerim...\nDuygularından asla şüphe etmemeliydim.
+43|Hayır, şüpheci olduğun için seni suçlamıyorum.\nYaklaşımım tamamen inceliksizdi.
+44|Romantizm konusundaki aşırı hevesimin\nküçümsemene yol açtığı artık açık...
+45|H-Hey...\n"Hayır" demedim ki.
+47|Gelecek için bir planım yok...\nama sana yardım etmek istediğimi biliyorum, Keebo.
+48|Sanırım... sana çoktan âşık olmuş olabilirim.
+50|Sanırım... sana karşı duygularım üstel\nbir hızla artıyor!
+51|Lütfen bana daha çok güzel söz söyle!\nBu duyguların gitmesini istemiyorum!
+52|Ah! Ben de istemiyorum, sadece...\nBöyle şeyler söylerken utanıyorum...
+53|O zaman... acaba...
+54|e-elini tutabilir miyim?
+55|Elimi mi...?
+56|<CLT=cltMIND>Aşk konusunda pek deneyimim olmayabilir\nama onu reddedemeyeceğimi biliyorum...
+57|Eh... sadece buysa... tamam.
+58|<CLT=cltMIND>Elimi uzattım, Keebo da kendininkini\nuzattı. Robot eli titremedi.
+60|Ah... Keebo?\nBu tokalaşma...
+61|Ha!? Ah... doğru. Sevgililer el ele\nfarklı bir şekilde tutuşur!
+62|Ama... oldukça gerginim. Biraz daha böyle\nkalsak olur mu...?
+63|Kalbim... şu an huzurlu.
+64|Evet. Tabii ki olur.
+65|<CLT=cltMIND>Sıktığım elin soğuk olması gerekirdi.\nAma nedense... o kadar sıcaktı ki.
+## a00_100_008
+3|<CLT=cltMIND>Kirumi'yle nasıl olacak merak ediyorum.\nTuhaf hayalleri var mı bilmiyorum.
+4|Shuichi Efendi...
+5|...Ha? Ben mi?
+7|Ah, bana "<CLT=cltSTRONG>efendi<CLT=cltNORMAL>" dediğin için\nkafam karıştı...
+8|Çünkü sen benim efendimsin.
+9|Ben, Kirumi Tojo, sahip olduğum her şeyi\nShuichi Efendi'ye sunacağım.
+11|<CLT=cltMIND>Bu Kirumi'nin hayali mi?\nOnun rüyasının bir parçası mıyım...?
+12|<CLT=cltMIND>Görünüşe göre aramızda hizmetkâr\nve efendi ilişkisi var.
+13|<CLT=cltMIND>Her halükârda şimdi karakterden çıkamam.\nKirumi rüyasından uyanır...
+14|<CLT=cltMIND>ve çok kötü hisseder.

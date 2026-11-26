@@ -1,0 +1,58 @@
+@ ainori_text_US
+## a00_111_703
+18|Neo-Aikido'da ustalaşacağım! Bu yüzden\nerkekler bana dokunamaz!
+19|Shuichi! Ne kadar yakınlaşırsak yakınlaşalım\nbana asla dokunmamalısın!
+20|Neo-Aikido yolunda yürümeyi planlıyorsan\nbuna hazırlıklı olmalısın!
+21|Hiç erkekle karşılaşmadan yaşamak\nimkânsız değil mi?
+22|Neo-Aikido'da ustalaşamayacağımı mı söylüyorsun!?\nSınırım bu mu!?
+23|<CLT=cltMIND>Eyvah, bunu söylememeliydim...
+24|O zaman erkekleri kesinlikle affedemem! Onlardan\nkurtulursam artık hiçbir engel kalmaz!
+25|Yoz erkeklerden zaten hoşlanmıyordum! Ama şimdi\nvarlığımın her zerresiyle onlardan nefret ediyorum!
+26|İnsanlar Aikido'yla rakibi basitçe uçurabileceğini\ndüşündüğünde hissettiğim şey bu!
+27|Aikido'nun amacı bedenini kullanmak!\nHer gün ayaklarını toprağa bas!
+28|Hayalleriyle sürekli kafalarını bulutlarda\ngezdiren erkeklerin aksine!
+29|B-Bekle, Tenko!\nBiraz sakin ol...
+30|Yoz erkeklerin bütün varlığı affedilemez!\nMazur görülemez!
+31|Beni hafife almasan iyi olur, tamam mı!?\nFiziksel olarak erkeklerden zayıf olabilirim...
+32|Ama Neo-Aikido güçle değil, ne kadar\nkaytardığınla belirlenir!
+33|<CLT=cltMIND>Hiç dinlemiyor...
+34|Neo-Aikido'da silah kullanabilirsin!\nHatta maç başlamadan saldırabilirsin bile!
+35|Bunlar Usta'nın öğretileri!\nŞimdi ne kadar yenilmez olduğunu görüyor musun!?
+36|Bu hiç Aikido gibi gelmiyor!
+37|Ayrıca... ustan bir erkek değil mi?\nOna dokundun, değil mi?
+40|AAAAAHHHHHHHHH!!!!!
+41|N-N-Nasıl olabilir bu!?\nHaklısın... Usta... Usta...
+42|O da yoz bir erkeeeeeek!!!
+43|Bunu daha yeni mi fark ettin!?
+45|<CLT=cltMIND>Tenko panikle çığlık attı, sonra\nkendinden geçmiş bir halde uzaklaştı.
+46|<CLT=cltMIND>Onun gidişini izledikten sonra\nodama döndüm.
+47|<CLT=cltMIND>Tenko gerçekten sarsılmış görünüyordu.\nİyi olacak mı acaba...
+## a00_111_704
+0|Tenko, iyi misin?\nPek iyi görünmüyorsun...
+1|İyiyim!
+2|Teşekkürler ama erkeklerin aslında sempati\ngösterirken gizli bir niyetleri olduğunu biliyorum!
+3|Gardımı düşüremem!
+4|<CLT=cltMIND>Ah, normale dönmüş. Belki ustasının\nerkek olduğunu kabullenmiştir.
+5|Eh, bu tam zamanı... teşekkürler,\nShuichi.
+6|Bana teşekkür mü ediyorsun?
+7|Sen bile olsan *herhangi* bir yoz erkeğe\nteşekkür etmekten hoşlanmam...
+8|<CLT=cltMIND>Bu doğru... Yüzündeki ifadeye bakılırsa\nbundan açıkça nefret ediyor.
+9|Ama neden bana teşekkür ediyorsun?\nHiçbir şey yapmadım...
+10|Aptalı mı oynuyorsun!?\nSorumsuz yoz erkek!
+11|Dünyamı alt üst ettin! Bilmek istemediğim\nbir şeyi fark etmemi sağladın!
+12|Ustanın erkek olduğunu mu?
+13|Evet...\nYani hayır, sadece o değil...
+14|Bazı erkeklerin Usta gibi iyi insanlar\nolduğunu fark etmemi sağladın.
+15|Sadece o değil...\nBence sen de iyi bir insansın.
+17|*hık*!?\nŞimdi tuhaf şeyler hayal etmeye başlama!
+18|Bu, özel olduğunu düşünmeye başladığım\nduygusal bir an falan değil!
+19|Yanlış anlama! Sana iyi bir insan\ndedim diye... özel olduğun anlamına gelmez!
+20|Ama... etkileşimlerimizden sonra bile\nNeo-Aikido hareketlerim zayıflamadı.
+21|Bence...
+22|Belki Neo-Aikido'da ustalaşmaya çalışan\nher yoza katlanılabilir.
+23|<CLT=cltMIND>Neo-Aikido'da ustalaşmaya çalışmıyorum...\nAma bundan bahsetmem gerektiğini sanmıyorum.
+24|Sadece bir erkek olsan bile Neo-Aikido\nsayesinde gelişip kendini değiştirebilirsin...
+25|Usta erkek olmasına rağmen iyi bir insan!\nBu yüzden o Neo-Aikido'nun Ustası!
+26|<CLT=cltMIND>Dur, Neo-Aikido'nun ustasının\nTenko olduğunu sanıyordum...
+27|<CLT=cltMIND>Ama yine bundan bahsetmem\ngerektiğini sanmıyorum.
+28|Bana erkek olduğunu hiç söylemedi çünkü\nbunu kendim fark etmemi istedi!

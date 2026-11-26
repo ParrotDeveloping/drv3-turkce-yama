@@ -1,0 +1,66 @@
+@ ainori_text_US
+## a00_102_700
+19|<CLT=cltMIND>Ryoma düşünceli bir şekilde aşağı baktı\nama ifadesi mutlu kalmaya devam etti.
+20|<CLT=cltMIND>Görünüşe göre Ryoma tenis tutkusunu\nkaybetmemiş.
+21|<CLT=cltMIND>Önemli değilmiş gibi davranıyor\nama belli ki...
+22|<CLT=cltMIND>...Gerçekten zorlanıyor olmalı.
+23|Bana tenis kulübündeki arkadaşlarından\nbiraz bahsetsene?
+24|Arkadaşlarım... tenis kulübündeki...
+26|En çok göze batan... şu adamdı...
+27|Kim?
+28|Takım kaptanımız...
+29|Onun bölgesini... hiç kıramadığım için\npişmanım...
+30|"Bölgesi" mi?
+31|Tek bir noktada durup topu sürekli\ngeri döndürebildiği bir beceri.
+32|Vay, bunu yapabiliyor musun!?
+33|Hıh... ben değil. Bunu yapabilen\nkaptanımızdı.
+34|Bana <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> deniyordu ama onlarla\nkıyaslayınca hâlâ gideceğim çok yol var...
+35|Kulüpte dahi olarak görülen bir üst\nsınıf öğrencisi de vardı.
+36|Sadece onun yapabileceği karşı\nhamleler geliştirmişti...
+37|Hep gülümserdi ama ne düşündüğünü\nasla tam anlayamazdın.
+38|Bundan bahsetmişken, bir üst sınıf\nöğrencisi daha vardı.
+39|Bize tuhaf içecekler içirirdi. O kadar\niğrençti ki öleceğimi sandım...
+40|O kadar kötü müydü, ha?
+41|Sebze suyundan yapıldığını söylerdi ama...\nnormal olmadıkları herkes için belliydi.
+42|A-Anlıyorum...\nOkulunuzun biraz... sıra dışı oyuncuları varmış.
+44|Sanırım...\nKesinlikle sıkıcı değildi.
+45|Ama... artık benimle hiçbir ilgisi\nolmayan bir yer...
+47|Çok konuştum...\nMuhtemelen dinlerken sıkıldın.
+48|Vaktini harcadığım için kusura bakma.\nGörüşürüz...
+50|Ah, doğru.
+51|Az önceki için kusura bakma. Meraklı\nbir suratın var dediğimde.
+52|Sorun değil, Ryoma.\nHiç rahatsız etmedi.
+53|Hıh, öyle mi...?\nEh, görüşürüz.
+55|<CLT=cltMIND>Ryoma'nın uzaklaşmasını izledim\nve odama döndüm.
+## a00_102_701
+0|Ne oldu? Konuşacak bir şeyimiz\nolduğunu sanmıyorum.
+1|Yok mu? Eh...
+2|<CLT=cltMIND>Ryoma'nın tenis tutkusunu kaybetmediğini\nbiliyorum.
+3|<CLT=cltMIND>Eski tenis arkadaşlarından bahsedişini\ndinledikten sonra bundan eminim.
+4|<CLT=cltMIND>Belki Ryoma'nın duygularını kabul\netmesine yardım edebilirim!
+5|Hey, ne oldu?
+6|Ah, sadece tenis hikâyelerinin ne kadar\neğlenceli olduğunu düşünüyordum. Daha fazlasını duymak isterim.
+7|Onlardan gerçekten keyif mi aldın...?\nHıh, ne tuhaf adam.
+8|Tenis arkadaşlarımı konuştuk.\nBaşka ne duymak istiyordun?
+9|Ah, belki...\nrakiplerinle ilgili hikâyelerin vardır?
+10|Hıh, rakiplerim.
+11|Onlara öyle der miyim bilmiyorum\nama bazı insanlar vardı...
+12|Geçen sefer bahsettiğim kaptanı\nhatırlıyor musun?
+13|O "bölge" tekniğini kullanan adam mı?
+14|Onu yenen biri vardı.
+15|Ne!?\nBölgesi kırıldı mı?
+17|Rakibinin zayıflıklarını görmek için İçgörü\ndenen bir teknik kullanıyordu.
+18|Rakiplerini ezmek için bu tekniği\nsonuna kadar kullanırdı...
+19|Kortların Kralı olarak\nkorkulurdu.
+20|<CLT=cltMIND>Kral mı...?
+21|Tanrının Çocuğu ve İmparator gibi çılgın\nlakapları olan başkaları da vardı...
+22|Tanrının Çocuğu mu? İmparator mu?\nBöyle tenisçiler mi var...?
+23|Evet, Tanrının Çocuğu'nun aurası\nbaş belasıydı.
+24|Beş duyum da çalındı...\nSonunda ayakta bile duramadım.
+25|Duyuların mı çalındı!?
+26|İmparator'un özel tekniğinin adı\n<CLT=cltSTRONG>Fu Rin Ka Zan<CLT=cltNORMAL>'dı. Bir kez karşılaştım...
+27|Ama sonra gerçek gücünün mührünü açtı\nve <CLT=cltSTRONG>Fu Rin Ka In Zan Rai<CLT=cltNORMAL> oldu.
+28|<CLT=cltMIND>Bütün o gizli tekniklere... tenis\niçin mi ihtiyacın var?
+29|Hepimiz elimizdeki her şeyi verirdik...\nYenilmek bizi sadece daha güçlü yaptı.
+30|Bu tenisin sınırlarını aşıyor
+31|Çok eğlenceli olmalı!

@@ -1,0 +1,171 @@
+@ map_obj_name_text_US
+## ID000_dummy_text
+0|Object 0
+1|Object 1
+2|Object 2
+3|Object 3
+4|Object 4
+5|Object 5
+6|Object 6
+7|Object 7
+8|Object 8
+9|Object 9
+## ID001_sch_1F_text
+0|Giriş Kapısı
+7|Geometrik Desenli Kapı
+10|Kapı
+11|Geometrik Desenli Kapı
+12|2. Kat
+13|Bodrum
+21|Koridorun Sonu
+## ID002_sch_2F_text
+4|1. Kat
+5|3. Kat
+6|Bronz Ejderha Heykeli
+## ID003_sch_3F_text
+0|2. Kat
+2|Kapı
+3|Kapı
+4|Kapı
+5|4. Kat
+7|Büyük Kapı
+## ID004_sch_B1_text
+4|Havalandırma
+5|1. Kat
+## ID005_sch_4F_text
+0|3. Kat
+1|Soldaki Oda
+2|Ortadaki Oda
+3|Sağdaki Oda
+5|Ultimate Antropolog Laboratuvarı (Arka)
+7|5. Kat
+9|Ultimate Sanatçı Laboratuvarı (Arka)
+10|Fütüristik Sanat
+11|Asma Parşömen
+## ID006_sch_5F_text
+1|4. Kat
+5|Şatafatlı Kapı
+## ID007_gym_text
+1|Basket Potası
+2|Basket Potası
+7|Kapalı Perde
+8|Açık Pencere
+11|Arabadaki Çekiç
+12|Silah Yığını
+## ID008_gym_magic_text
+0|Sahne
+1|Su Tankının Yanı
+2|Sahnenin Arkası
+3|Perde
+4|Işık Paneli
+6|Zamanlayıcı
+7|Ryoma'nın Cesedi
+8|Perde
+9|Piranhalar
+10|Kanlı Tank
+11|Kırık Tank
+12|Ryoma'nın Eşyaları
+13|Kelepçe
+14|Cam Panel
+15|Cam
+16|Kova
+17|İp
+18|Su Birikintisi
+19|Sahne Merdiveni
+21|Kapalı Perde
+22|Açık Pencere
+23|Asılı Su Tankı
+25|Büyük Su Tankı
+26|Büyük Su Tankı
+## ID014_shop_text
+1|Monomono Makinesi
+## ID015_warehousea_text
+2|Gülle
+3|Uzaktan Kumandalı Helikopter
+4|Yüksek Atlama Çıtası
+5|Minder
+6|Engel
+## ID017_classRoom_A_text
+0|Karatahta
+3|Kapalı Kapı
+4|Açık Kapı
+5|Havalandırma
+## ID018_classRoom_B_text
+0|Karatahta
+3|Kapı
+4|Dolap
+## ID019_libA_text
+1|Öndeki Kitaplık
+2|Ortadaki Kitaplık
+3|Arkadaki Kitaplık
+4|Seyyar Merdiven
+5|Havalandırma
+7|Ön Çift Kanatlı Kapı
+10|Modifiye Kamera
+12|Dağınık Kitaplar
+14|Kitaplığın Üstü
+35|Açık Hareketli Kitaplık
+36|Siyah Beyaz Kapı
+37|Kart Okuyucu
+39|Kütüphanenin Arkası
+45|Cesedin Yanı
+## ID020_libB_text
+0|Özel Modifiye Kamera
+2|Rantaro'nun Cesedi
+3|Dağınık Kitaplar
+## ID021_libA_text
+45|Kitaplık
+46|Gizli Oda
+## ID025_gam_text
+2|Ağaç Kökü
+3|？？？
+## ID026_av_text
+1|Perde
+2|Video Oynatıcı
+3|Video Rafı
+5|5.1 Kanal Hoparlör
+12|Poster Kovası
+13|Arka Sürgülü Kapı
+## ID027_secretRoom_0_text
+0|Yarı Kırık Kapı
+2|Perde
+4|Monopad
+## ID028_secretRoom_1_text
+0|Yarı Kırık Kapı
+2|Kapı
+4|Monopad
+## ID031_classRoom_C_text
+43|Hologram
+44|Hologram Ekranı
+46|Geri Dönüş Işığı
+## ID032_cold_text
+1|Belgeler
+2|Gizemli Makine
+5|Kapsül
+## ID036_vacancy_00_text
+0|Yanan Mum
+2|Zemin
+## ID037_vacancy_01_text
+3|Tahtası Sökülmüş Zemin
+4|Yamuk Döşeme Tahtası
+6|Sihirli Çember
+7|Bozulmuş Sihirli Çember
+8|Bir Şeyi Örten Demir Kafes
+10|Demir Kafesteki Köpek Heykeli
+14|Bir Şeyin Üstündeki Beyaz Örtü
+15|Beyaz Örtü
+16|Kıvrılmış Tenko
+17|Tenko'nun Cesedi
+## ID041_vacancy_01_text
+1|Kanlı Tahta
+2|Kurumuş Kan
+3|Delik
+4|Kanlı Orak
+5|Kesik Çapraz Kiriş
+## ID010_cafe_text
+2|Teras Kapısı
+3|Dikenli Tel
+4|Çimen
+5|Zemin
+6|Bıçak
+7|？？？

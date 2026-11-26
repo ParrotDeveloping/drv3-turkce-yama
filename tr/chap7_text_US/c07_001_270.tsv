@@ -1,10 +1,125 @@
+0	İyi misin...?
+1	...Evet, bir şekilde.
+2	B-Biraz sıkıştım burada!\nBiri... yardım etsin!
+3	Himiko! Dikkat et...
+4	Nyeh... kurtuldum...
+5	Başardık...
+6	Hey, nasıl kurtulduk?\nNeden hâlâ hayattayız?
+7	Ah... Evet, neden hayattayız...?
 8	Acaba...
+9	<CLT=cltMIND>Öldürme oyunu bitti...
+10	<CLT=cltMIND>Sınıf duruşmaları bitti...
+11	<CLT=cltMIND>Ve kurgusal dünya... bitti.
+12	<CLT=cltMIND>O zaman... neredeyiz?
+13	<CLT=cltMIND>Kurgu bittikten sonra başka bir\nkurgusal dünya mı?
+14	<CLT=cltMIND>Burada bizim için ne kaldı?
+15	<CLT=cltMIND>Uzun süre sessiz kaldık,\n"<CLT=cltSTRONG>öbür tarafa<CLT=cltMIND>" baktık.
+16	<CLT=cltMIND>Bizim umut etmeye devam ettiğimiz...
+17	<CLT=cltMIND>Ve onların bize işkence etmeye devam ettiği...
+18	<CLT=cltMIND><CLT=cltSTRONG>Dış dünyaya<CLT=cltMIND>.
+19	<CLT=cltMIND>53 kez umut ilerledi.
+20	<CLT=cltMIND>53 kez acı devam etti.
+21	<CLT=cltMIND>Kurgunun öbür tarafındaki dünya,\n<CLT=cltSTRONG>gerçek dünya<CLT=cltMIND>.
 22	...
+23	Peki şimdi ne yapacağız?
+24	Sonrasında ne yapacağımızı planlamadık.\nOrada bizim için her şeyin bittiğini sanmıştım.
+25	Ama hayatta kaldık.
+26	...Ve gerçek bu.
+27	Görünüşe göre pek seçeneğimiz yok...\nartık burada kalamayız.
+28	Ama... anlamıyorum.\nCidden, nasıl hâlâ hayattayız?
+29	Bu dünya kendini yok ettiğinde\nbiz de onunla gideriz sanmıştım.
+30	Muhtemelen Keebo bizi kurtardı.
+31	Ölmememizi sağladı.
+32	Ama neden... bunu yapsın ki?
+33	Dış dünyaya kaçmamızın bir anlamı yok...\nBiz sadece kurgusal karakterleriz...
+34	Keebo bizi... <CLT=cltSTRONG>dış dünyanın istediği<CLT=cltNORMAL>\nşeye göre davrandığı için mi kurtardı?
+35	O zaman belki de...\nbu <CLT=cltSTRONG>dış dünyanın istediği<CLT=cltNORMAL> şey.
+36	Nyeh? Yaşamamız mı?
+37	Doğru. Bütün bunları bitirmenin yanında...\n<CLT=cltSTRONG>Dış dünya<CLT=cltNORMAL> yaşamamızı istedi...
+38	Sanırım... <CLT=cltSTRONG>dış dünya<CLT=cltNORMAL> bu yalanın\ngerçeğe dönüşmesini istedi.
+39	O yüzden hadi millet. Dışarı çıkalım.\nKendimize güvenerek.
+40	Dış dünya bekliyor.
+41	Dış dünyaya, ha?\nAcaba nasıl bir dünya.
+42	Kavganın ve umutsuzluğun olmadığı huzurlu\nbir dünya. Tsumugi öyle demişti, değil mi?
+43	Evet. Ah... tabii yalan söylemiyorduysa.
+44	Nyeh!? Yalan olabilir mi!?
+45	Tsumugi'nin son söylediği şeyi... hatırlıyor musunuz?
 46	Planım o kadar kusursuz bir <CLT=cltSTRONG>kopyaydı<CLT=typeNORMAL> ki\ntam sonunda başarısız bile oldu...
 47	Yani <CLT=cltSTRONG>kostümcü-taklitçi bir suçlu<CLT=typeNORMAL> olarak\nbaşımı dik tutabilirim, değil mi?
+48	<CLT=cltSTRONG>"Kopya"<CLT=cltNORMAL> demişti...
+49	Bu da birini <CLT=cltSTRONG>kopyalıyor<CLT=cltNORMAL>\nolması gerektiği anlamına gelir, değil mi?
 50	Bu ne demek?
+51	Gerçekten de ne...
+52	Ne!? Bilmiyor musun!?
+53	Ah, şey, bazı teorilerim var.
+54	Belki de <CLT=cltSTRONG>Hope's Peak Akademisi<CLT=cltNORMAL> ve\n<CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltNORMAL> gerçekten var.
+55	Belki de Tsumugi performansını sadece\nonlara dayandırıyordu.
+56	Yani Tsumugi bütün bu dünyanın sadece\nkurgu olduğu konusunda yalan mı söyledi?
+57	N-Ne!? Sürpriz bir son mu!?
+58	Hayır, kesin bilmiyorum. <CLT=cltSTRONG>"Kopya"<CLT=cltNORMAL>\nderken yalan söylüyor olabilir.
+59	Ama doğruyu söylüyorduysa... o zaman <CLT=cltSTRONG>o<CLT=cltNORMAL>\nşeyin yalan olması mantıklı olurdu.
+60	<CLT=cltSTRONG>"O"<CLT=cltNORMAL> derken neyi kastediyorsun?
+61	Tsumugi'nin bize gösterdiği...\nİlk geldiğimizde... nasıl olduğumuz.
 62	H-Ha? N-Ne giyiyorum ben?
+63	Hı-hı! Güzel görünüyorsunuz! Artık daha\nçok <CLT=cltSTRONG>Ultimate'a<CLT=cltNORMAL> benziyorsunuz.
+64	<CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> mı...? Gerçekten mi?
+65	Sırada hepinizin beklediği\n<CLT=cltSTRONG>anı<CLT=cltNORMAL> var.
+66	Aynen öyle! Hazır olun! Mühür kırılınca\n<CLT=cltSTRONG>öldürme oyununun alemine<CLT=cltNORMAL> gireceğiz!
+67	<CLT=cltMIND>Ö-Öldürme oyunu mu...?
 68	Yani... seçildik mi!?
 69	Seçildik mi!?\nGerçekten mi!? Yaşasın!
+70	V-Vay, gerçekten mi!?\nBen de mi <CLT=cltSTRONG>ona<CLT=cltNORMAL> seçildim!?
+71	Hâlâ inanmıyorum. Herhangi birimizin buna\ngönüllü olacağına inanamıyorum.
+72	O ilk Geri Dönüş Işığı'ndan sonra eski\nhalimizle ilgili her şeyi unuttuk, değil mi?
+73	Tsumugi öyle dedi ama...\nbu konuda bir şey kafama takılıyor.
+74	Bu öldürme oyununa takıntılı olsak bile\nona katılacağımıza hâlâ inanamıyorum.
+75	Sadece... inanmıyorum.
+76	Ah ama...\nBunun arkasında pek bir mantık yok...
+77	Kaito'nun önsezilerinden biri, ha?
+78	Neyse, Akademi'ye ne zaman başvurduğumuzu\nkontrol etmemizin bir yolu yok, değil mi?
 79	Evet...
+80	Ne? Kontrol edemez miyiz?
+81	Yani sonuçta... neyin doğru neyin yanlış\nolduğunu hâlâ bilmiyoruz...
+82	Kurgusal dünya burada bitiyor ve\ngerçek dünya dışarıda.
+83	Belki de hemen ötesinde gerçek vardır...
+84	Ama belki de yoktur...
+85	Belki o dünyada her şey hâlâ\nkurgudur, ya da...
+86	Belki o dünyada Danganronpa hâlâ\ndevam ediyordur, ya da...
+87	Ya da belki dış dünya bu dünyayla\naynıdır.
+88	Yalanlarla dolu... bir dünya olabilir.
+89	Eh... buradan çıkabilirsek\nkesin öğreniriz.
+90	Evet... ama bence... gerçek ve yalanın\no kadar da anlamı yok...
 91	Nyeh? Ne demek istiyorsun?
+92	Yani... bir şey yalan olsa bile,\nkurgu olsa bile...
+93	Dünyayı değiştirme gücü varsa\nbir tür gerçek içeriyor olmalı.
+94	Bunun kanıtı biz değil miyiz?
+95	Bu kurgusal dünyada bütün bu kurgusal\nmücadelelerin üstesinden geldik...
+96	Ama o şeyler bizi değiştirdi.\nVe biz de dünyayı değiştirebildik.
+97	O yüzden gerçeğin nerede bitip yalanın\nnerede başladığı pek önemli değil.
+98	<CLT=cltSTRONG>Yalanlar<CLT=cltNORMAL> da dünyayı en az <CLT=cltSTRONG>gerçek<CLT=cltNORMAL>\nkadar değiştirebiliyorsa...
+99	O zaman yalanlar... gerçeği anlatmanın\nbaşka bir yolu.
+100	Bazı yalanlar dünyayı umuda götürebilir...\nBazı gerçekler dünyayı umutsuzluğa götürebilir...
+101	O yüzden sonunda hangisinin daha <CLT=cltSTRONG>doğru<CLT=cltNORMAL>\nolduğunu kimsenin söyleyebileceğini sanmıyorum.
+102	Sanırım gerçek mi yalan mı olduğu önemli\ndeğil. Sadece nereye götürdüğü...
+103	Evet. Ben buna inanıyorum.
+104	Bir ayağımız kurguda,\nbir ayağımız gerçekte duruyoruz...
+105	O zaman bu kurgusal dünyanın dış dünyayı\ndeğiştirip değiştirmediğini kendimiz görmeliyiz.
+106	Ve bu noktadan sonra ne yapabileceğimizi...
+107	Haklısın. Bu kurgusal dünyada sonsuza\ndek kalamayız. Zaten bitti.
+108	Bu dünyada kazandığımız bütün deneyimi\nalıp bir sonrakine geçmeliyiz.
+109	Evet. Gidelim.
+110	Bu dünyanın ne kazandığını, ne kaybettiğini\nve geri kalan her şeyi göreceğiz.
+111	Hadi birlikte öğrenelim.
+112	<CLT=cltMIND>Bu dünyanın öbür tarafına...
+113	<CLT=cltMIND>Kurgunun öbür tarafına...
+114	<CLT=cltMIND>Hadi birlikte öğrenelim.
+115	<CLT=cltMIND>Başarabildiğimiz şey bu.
+116	<CLT=cltMIND>Hikâye yaşamaya devam ediyor.
+117	<CLT=cltMIND>Eminim, şimdi bile...
+118	<CLT=cltMIND>Öbür tarafta bile...\nOrada da yaşamaya devam ediyor.
+119	<CLT=cltMIND>Ve böylece hikâye yaşamaya devam ediyor.
+120	<CLT=cltMIND>Bu yalan bir şeyi değiştirebildi mi?
+121	<CLT=cltMIND>Bu yalan birini değiştirebildi mi?
+122	<CLT=cltMIND>Bu yalan... dünyayı değiştirebildi mi?
+123	<CLT=cltMIND>En küçük bir şeyi bile\ndeğiştirebildiyse...
+124	<CLT=cltMIND>...O zaman hikâye bitmedi.

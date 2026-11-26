@@ -1,12 +1,32 @@
+0	<CLT=cltSYSTEM>Bütün sevgi seviyelerini sıfıra\ndöndürüp baştan başlayabilirsin.
 1	Evet
 2	Evet
+3	<CLT=cltSYSTEM>Sevgi silindi!
 4	Hayır
 5	Emin olmadığın bir şey mi var?
+6	<CLT=cltSYSTEM>Bunu geri alamazsın! Sevgini sıfıra\ndöndürmek istediğine emin misin?
 7	Hayır
 8	Emin olmadığın bir şey mi var?
+9	<CLT=cltSYSTEM>Sıfıra döndürmek\nister misin?
+10	<CLT=cltMIND>Böylece Monokuma'nın bize verdiği\non gün geçti...
+11	<CLT=cltMIND>Birbirine âşık olan iki kişi mezun olabilir...
+12	<CLT=cltMIND>Görünüşe göre bu yalan değilmiş...
 13	Evet
 14	Hayır
 15	Emin olmadığın bir şey mi var?
+16	<CLT=cltSYSTEM>Bütün sınıf arkadaşlarının mezuniyet\netkinliklerini görmek ister misin?
 17	Evet
 18	Hayır
 19	Emin olmadığın bir şey mi var?
+20	<CLT=cltSYSTEM>Başka bir sınıf arkadaşının mezuniyet\netkinliğini görmek ister misin?
+21	<CLT=cltMIND> [Geçici] Okul Binası
+22	<CLT=cltMIND> [Geçici] Yemekhane
+23	<CLT=cltMIND> [Geçici] Yurt
+24	<CLT=cltMIND> [Geçici] Miu'nun Laboratuvarı
+25	<CLT=cltMIND> [Geçici] Havuz
+26	<CLT=cltMIND> [Geçici] Antrenman Arenası
+27	<CLT=cltMIND> [Geçici] Arka Bahçe (Doğu)
+28	<CLT=cltMIND> [Geçici] Arka Bahçe (Batı)
+29	<CLT=cltMIND> [Geçici] Mahkeme Salonu Tapınağı
+30	<CLT=cltMIND> [Geçici] Kumarhane
+31	<CLT=cltMIND> [Geçici] Aşk Oteli
