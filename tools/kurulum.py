@@ -13,9 +13,9 @@ sys.path.insert(0, HERE)
 from cpk import CPK, decompress_layla
 from spc import SPC, stx_read, stx_write
 from font import Font
-import cpk_patch, gen_font
+import cpk_patch, gen_font, gen_trial_font
 
-VERSION = '1.0'
+VERSION = '1.1'
 CPKS = {'resident': 'partition_resident_win.cpk', 'data_us': 'partition_data_win_us.cpk'}
 SCRIPT_VERSIONS = ['003', '004', '005', '006', '007']
 SCRIPTS = ['chap0', 'chap1', 'chap2', 'chap3', 'chap4', 'chap5', 'chap6', 'chap7', 'ainori', 'gallery']
@@ -159,6 +159,38 @@ def build(cpks, out, fstx, fsrdv):
         open(dst, 'wb').write(s.build())
 
 
+def trial_needed_chars():
+    chars = set()
+    for d in os.listdir(os.path.join(DATA, 'tr')):
+        if not d.startswith('chap'): continue
+        for fn in os.listdir(os.path.join(DATA, 'tr', d)):
+            for ln in open(os.path.join(DATA, 'tr', d, fn), encoding='utf-8'):
+                chars.update(TAG.sub('', ln.rstrip('\r\n').split('\t', 1)[-1]).replace('\\n', '').translate(FIX))
+    # sadece harfler (rakam/noktalama İngilizce metinde zaten aynı yerlerde var; yer sınırlı)
+    return sorted(c for c in chars if (c.isascii() and c.isalpha()) or c in 'çÇğĞıİöÖşŞüÜ')
+
+
+def build_trial_fonts(cpk, out):
+    """Sınıf duruşması fontlarına (alt küme fontlar) eksik Türkçe/Latin harfleri ekle."""
+    needed = trial_needed_chars()
+    paths = sorted(p for p in cpk.by_path if p.startswith('trial_font/') and p.endswith('.spc'))
+    fonts = {}
+    for p in paths:
+        s = SPC(cpk.read(p))
+        d = {e['name']: e for e in s.entries}
+        stx = next(n for n in d if n.endswith('.stx')); srdv = next(n for n in d if n.endswith('.srdv'))
+        srd = s.get(d[stx])
+        fonts[p] = (s, d[stx], d[srdv], gen_trial_font.load(srd, s.get(d[srdv])), gen_trial_font.font_name(srd))
+    for p, (s, est, esv, f, name) in fonts.items():
+        donors = [v[3] for q, v in fonts.items() if q != p and v[4] == name and v[3].fs1 == f.fs1]
+        if not gen_trial_font.add_chars(f, name, donors, needed): continue
+        srd, tex = gen_trial_font.write_font(f)
+        s.set(est, srd); s.set(esv, tex)
+        dst = os.path.join(out, 'data_us', p)
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        open(dst, 'wb').write(s.build())
+
+
 def ordered_targets():
     """007 sürümü (referans) önce işlenmeli; diğer sürümler İngilizce metinle eşleşir."""
     ref = [t for t in TARGETS if '/007/' in t[1] or not t[1].startswith('wrd_script')]
@@ -186,6 +218,7 @@ def install(game):
         TARGETS = ordered_targets()
         out = os.path.join(tmp, 'mod')
         build(cpks, out, fstx, fsrdv)
+        build_trial_fonts(cpks['data_us'], out)
         for c in cpks.values(): c.close()
         say('[4/4] Oyuna yazılıyor...')
         for k, n in CPKS.items():

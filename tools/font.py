@@ -68,7 +68,7 @@ class Font:
          self.bm_off, self.rank_off) = struct.unpack('<8I', b[4:36])
         self.fs1, self.fs2, self.u28 = struct.unpack('<HHI', b[36:44])
         self.bm = bytearray(b[self.bm_off:self.rank_off])
-        self.chars = [c for c in range(self.maxc + 1) if (self.bm[c >> 3] >> (c & 7)) & 1]
+        self.chars = [c for c in range(min(self.maxc + 1, len(self.bm) * 8)) if (self.bm[c >> 3] >> (c & 7)) & 1]
         assert len(self.chars) == self.count
         self.glyphs = {}
         for i, c in enumerate(self.chars):

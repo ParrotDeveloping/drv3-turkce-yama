@@ -79,28 +79,73 @@ def apply(cpk, mod, bdir):
     with open(cpk, 'r+b') as fh:
         toc, tsize, raw = load(fh)
         index = index_rows(utf_layout(raw, toc + 16))
+        fh.seek(0); hdr = fh.read(0x800)
+        from cpk import parse_utf
+        align = parse_utf(hdr[0x10:])[0].get('Align') or 0x800
         changed = 0
-        for root, _, files in os.walk(mod):
-            for fn in files:
+        files = []
+        for root, _, fns in os.walk(mod):
+            for fn in fns:
                 full = os.path.join(root, fn)
-                rel = os.path.relpath(full, mod).replace('\\', '/')
+                rel = os.path.relpath(full, mod).replace(os.sep, '/')
                 if rel not in index:
                     print('  ! not in CPK, skipped:', rel); continue
-                data = open(full, 'rb').read()
-                r = index[rel]
-                pos = toc + r['FileOffset'][0]; slot = r['FileSize'][0]
-                if len(data) > slot:
-                    raise SystemExit('  ! %s is %d bytes, larger than its slot (%d) - cannot patch in place' % (rel, len(data), slot))
-                if pos not in saved:
-                    fh.seek(pos); orig = fh.read(slot)
-                    bf = 'slot_%d.bin' % len(meta['slots'])
-                    open(os.path.join(bdir, bf), 'wb').write(orig)
-                    meta['slots'].append({'pos': pos, 'file': bf, 'path': rel}); saved.add(pos)
-                fh.seek(pos); fh.write(data + b'\0' * (slot - len(data)))
-                for col, val in (('FileSize', len(data)), ('ExtractSize', len(data))):
-                    _, ap, f = r[col]; fh.seek(ap); fh.write(struct.pack(f, val))
-                changed += 1
-                print('  + %s %d/%d' % (rel, len(data), slot))
+                files.append((rel, open(full, 'rb').read()))
+        files.sort(key=lambda x: x[0])
+        up = lambda v: (v + align - 1) // align * align
+        inplace, moved = [], []
+        for rel, data in files:
+            r = index[rel]
+            pos = toc + r['FileOffset'][0]; slot = r['FileSize'][0]
+            (inplace if len(data) <= slot else moved).append((rel, data, r, pos, slot))
+        # --- plan (nothing is written until everything has a place)
+        free = []
+        for rel, data, r, pos, slot in inplace:
+            st = up(pos + len(data))
+            if pos + slot > st: free.append([st, pos + slot])
+        blocks, gaps = [], []
+        for st, en in sorted((pos, pos + slot) for _, _, _, pos, slot in moved):
+            if blocks and blocks[-1][1] <= st < blocks[-1][1] + align:
+                if st > blocks[-1][1]: gaps.append((blocks[-1][1], st))
+                blocks[-1][1] = en
+            else:
+                blocks.append([st, en])
+        free += blocks
+        plan = []
+        for rel, data, r, pos, slot in sorted(moved, key=lambda x: -len(x[1])):
+            free.sort(key=lambda x: x[1] - x[0])
+            spot = next((fr for fr in free if fr[1] - fr[0] >= len(data)), None)
+            if spot is None:
+                raise SystemExit('  ! %s (%d bytes) does not fit anywhere in %s' % (rel, len(data), os.path.basename(cpk)))
+            plan.append((rel, data, r, spot[0]))
+            spot[0] = up(spot[0] + len(data))
+
+        def backup(pos, size, rel):
+            if pos not in saved:
+                fh.seek(pos); orig = fh.read(size)
+                bf = 'slot_%d.bin' % len(meta['slots'])
+                open(os.path.join(bdir, bf), 'wb').write(orig)
+                meta['slots'].append({'pos': pos, 'file': bf, 'path': rel}); saved.add(pos)
+
+        def set_entry(r, pos, data):
+            for col, val in (('FileSize', len(data)), ('ExtractSize', len(data))):
+                _, ap, f = r[col]; fh.seek(ap); fh.write(struct.pack(f, val))
+            _, ap, f = r['FileOffset']; fh.seek(ap); fh.write(struct.pack(f, pos - toc))
+
+        # --- backups of every byte range that will change
+        for rel, data, r, pos, slot in inplace + moved: backup(pos, slot, rel)
+        for st, en in gaps: backup(st, en - st, '<gap>')
+        json.dump(meta, open(meta_fn, 'w'), indent=1)
+        # --- write
+        changed = 0
+        for rel, data, r, pos, slot in inplace:
+            fh.seek(pos); fh.write(data + b'\0' * (slot - len(data)))
+            set_entry(r, pos, data); changed += 1
+            print('  + %s %d/%d' % (rel, len(data), slot))
+        for rel, data, r, npos in plan:
+            fh.seek(npos); fh.write(data)
+            set_entry(r, npos, data); changed += 1
+            print('  > %s %d (moved)' % (rel, len(data)))
     json.dump(meta, open(meta_fn, 'w'), indent=1)
     print(changed, 'files patched in', os.path.basename(cpk))
 

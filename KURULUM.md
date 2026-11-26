@@ -52,5 +52,5 @@ py -I tools/build_patch.py build     # sadece mod/ klasörüne üret
 Gerekenler: Python 3.10+, `numpy`, `Pillow`. Kurulum paketi `tools/kurulum.py`'den PyInstaller ile üretilir:
 
 ```
-py -m PyInstaller --onefile --console --name DRV3_Turkce_Yama --paths tools --add-data "tr;tr" --hidden-import gen_font --hidden-import cpk_patch tools/kurulum.py
+py -m PyInstaller --onefile --console --name DRV3_Turkce_Yama --paths tools --add-data "tr;tr" --hidden-import gen_font --hidden-import gen_trial_font --hidden-import cpk_patch tools/kurulum.py
 ```
