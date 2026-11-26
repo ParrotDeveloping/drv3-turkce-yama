@@ -1,0 +1,59 @@
+@ chap6_text_US
+## c06_101_137
+124|Merhaba... Gofer Projesi için seçilenlerden\nbiri misin?
+125|Gofer Projesi mi...?
+126|Seni yerdeki bir el ilanında gördüm.
+127|O... <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltNORMAL>'nın işi.\nGofer Projesi katılımcıları gizli—
+128|Onlardan biri misin?\nYüzleri hatırlamakta çok iyiyimdir.
+129|Evet... bunu çok duyuyorum.\nKorkarım beni biriyle karıştırdın.
+130|Hepsi Hope's Peak Akademisi'nden\nöğrenciler, değil mi?
+131|Ben... sıradan bir lise öğrencisiyim.\nÖzel bir yeteneğim yok.
+132|Anlıyorum... Ama tıpkı ona benziyorsun.
+133|Onu boş ver. Bak, şu an dışarıda olman\ndoğru mu? Göktaşı—
+134|Ben onlardan korkmuyorum!
+135|Çünkü babam Gelecek Vakfı'nın o göktaşlarının\nicabına bakacağını söyledi!
+136|Gofer Projesi başarılı olursa\ngöktaşları düşmeyecek!
+137|Hayır, duyduğuma göre... Gofer Projesi\nbizi kurtarmak için yok...
+138|Söylentiyi duydun mu? Bütün katılımcılar\nbir kazada ölmüş...
+139|Yanılıyorsun! Ölmediler!
+140|Bunu nereden bilebilirsin...?
+141|Çünkü! O insanlar dünyayı kurtaracak\nkahramanlar, değil mi?
+142|Gofer Projesi bizi kurtarmak için yaratılmadı—!
+144|...Boş ver.
+145|Kahramanlar ölmez!\nKahramanlar pes etmez!
+146|O yüzden hâlâ hayattalar!\nÇünkü onlar kahraman!
+147|Kahraman mı...?
+148|Ah... Ah...
+149|<CLT=cltMIND>B-Bu... bir anıydı... değil mi?
+150|Bu... o Geri Dönüş Işığı'ndan!
+152|Shuichi... Az önce...
+153|Bu... Geri Dönüş Işığı olmalı. Monokuma'nın\nKaito'nun duruşmasından sonra kullandığı.
+154|Kaito'nun duruşmasından sonra mı...?
+155|...Hey, sen ne hatırladın?
+156|O anı...
+157|<CLT=cltSTRONG>Gofer Projesi<CLT=cltNORMAL>'nden kaçıp <CLT=cltSTRONG>yeteneğimi<CLT=cltNORMAL>\nbıraktığım zamandandı...
+158|Ben de... aynı şeyi hatırladım.
+159|Ama neden...? Monokuma bize o anıyı\nneden verdi?
+160|Ve... az önce gördüğümüz gibi bir\ngeri dönüş daha yaşayacak mıyız?
+161|<CLT=cltMIND>Bilmiyorum ama...\nŞimdi tereddüt edemem.
+162|Maki, incelemeye odaklanalım.\nKontrol etmemiz gereken çok şey var.
+164|...Kokichi'nin odasına gidiyorsun, değil mi?\nO zaman seninle geleceğim.
+165|Ha? Gelecek misin...?
+166|Onunla ilgili bir şey... aklımı kurcalıyor.\nBu yüzden kontrol etmek istiyorum...
+168|<CLT=cltMIND>Endişeli... görünüyor.\nO geri dönüş acaba—
+169|...Ne? Ölmek mi istiyorsun?
+170|Ah, hayır, bir şey yok.\nGidelim.
+171|<CLT=cltMIND>Yine de...
+172|<CLT=cltMIND>Kahraman, ha?
+173|<CLT=cltSYSTEM><CLT=cltSTRONG>Bağın<CLT=cltSYSTEM> arttı!\nArtık daha fazla enkaz taşıyabilirsin.
+174|<CLT=cltMIND>Hope's Peak Akademisi'nin Eksiksiz\nTarihi'nin sonsözünde yazana göre...
+175|<CLT=cltMIND>Bu kitabı pek çok araştırmacı birlikte derlemiş\nve doğruluğundan eminlermiş...
+176|<CLT=cltMIND>Buradaki bilgiler tamamen doğru\nolmalı.
+177|<CLT=cltMIND>Ama bu doğruysa, o zaman benim\nanılarım ve Maki'nin anıları...
+182|<CLT=cltMIND>Oyuncak bir helikopter mi...?
+183|<CLT=cltMIND>Bu Kokichi'nin mi?
+184|<CLT=cltMIND>Kumandası şurada gibi görünüyor...
+## c06_102_100
+4|<CLT=cltMIND>Kokichi'nin vasiyetinde... bahçedeki kazanın\nyanındaki duvarda ikinci bir mesaj olduğu yazıyordu.
+5|<CLT=cltMIND>Gidip ne olduğuna bakmalıyım...
+9|<CLT=cltMIND>Kokichi... bahçedeki kazanın yanındaki\nduvarda ikinci bir mesaj olduğunu söylemişti.

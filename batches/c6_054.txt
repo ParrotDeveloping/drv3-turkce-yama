@@ -1,0 +1,69 @@
+@ chap6_text_US
+## c06_215_000
+40|Bu gerçeği nasıl çürütebilirsin ki?
+41|Çürütmek mi? Bu... hepsi sadece bir tesadüf...
+42|Ah! Keebo ile Ryoma'nın mazereti yoktu.\nYa onlar kızlar tuvaletine gittiyse—
+43|Kızlar tuvaletinde onlardan birini gördün mü?
+45|Onlardan biri o tuvalete girmiş olsaydı\nbirbirinizi görürdünüz, değil mi?
+46|Ama bundan hiç bahsetmedin.
+48|...Tsumugi, bu ne demek oluyor?
+49|Bu... gerçekten doğru olabilir mi?
+51|Tsumugi... bu doğru mu?
+52|H-Hayır, değil!
+53|Gerçekten sadece tuvaleti kullanmaya gittim.\nGizli geçitten haberim yoktu—
+54|Canlanın, Monoyavrular!\nSıra sizde! Kıçınızı kaldırın!
+55|B-Babam bana daha önce hiç böyle\nbağırmamıştı...
+56|Burada iyi iş çıkarmazsak... hep birlikte\nhavaya uçacağız!
+57|Daha uzun yaşamak istiyorum!\nSonraki bölümü görmek istiyorum!
+58|O yüzden lütfen—kazanmamıza izin verin!
+60|Lütfen! Lütfen kazanmamıza izin verin!
+## c06_216_000
+0|Ne olmuş!? Kanıtın varsa söyle işte!
+2|<CLT=cltMIND>Ne dersen de, artık çok geç!\nGeri adım atmayacağım!
+3|<CLT=cltMIND>Kanıtlar Tsumugi'nin beyin\nolduğunu gösteriyor...
+4|<CLT=cltMIND>Annekuma'nın söyledikleri bunu doğruluyor!
+6|<CLT=cltMIND>O zaman fark etmemiştim\nama artık kesin biliyorum!
+## c06_216_001
+0|<CLT=size2.2>Ölmek<CLT=size1.1>\n<CLT=size2.2>　\n　\n　\n　
+1|Ölmek istemiyoruz!
+2|<CLT=size2.2>istemi
+3|<CLT=size2.2>　\n　\n　\n　\nyoruz!
+4|<CLT=size2.2>Biz<CLT=size1.1>\n<CLT=size2.2>　\n　\n　\n　
+5|Biz kar taneleri gibiyiz!\nHer birimiz eşsiziz!
+6|<CLT=size1.1>kar <CLT=size2.2>taneleri gibiyiz!\n<CLT=size2.2>　\n　
+7|<CLT=size2.2>　\n　\n<CLT=size1.1>Her <CLT=size2.2>birimiz
+8|<CLT=size2.2>　\n　\n　\n　\n<CLT=size1.1><CLT=size2.2>eşsiziz!
+9|<CLT=size2.2>\n　\n<CLT=size2.2>Dört Göz'ün\n<CLT=size1.1>neden bahsettiğini bilmiyorum...
+10|Dört Göz'ün neden\nbahsettiğini bilmiyorum...
+11|<CLT=size2.2>Kötü\n<CLT=size1.1>adamlar\n<CLT=size2.2>　\n　\n　\n　
+12|Kötü adamlar asla gözlük takmaz!
+13|<CLT=size2.2>asla
+14|<CLT=size2.2>　\n　\n　\n　\ngözlük\n<CLT=size1.1>takmaz!
+15|<CLT=size1.1>Neyse, sadece\n<CLT=size2.2>kesin şunu!\n　\n　
+16|Neyse, sadece kesin şunu!
+21|<CLT=size2>Monokuma<CLT=size1> ile\n<CLT=size2>beyin<CLT=size1> burada kötü adamlar.
+22|Monokuma ile beyin burada kötü adamlar.
+23|<CLT=size2>Ölmek<CLT=size1> mi <CLT=size2>istemiyorsunuz!? 
+24|Ölmek mi istemiyorsunuz!?\nKaç arkadaşımın kurban edildiğini biliyor musunuz!?
+25|<CLT=size2>Kaç<CLT=size1> <CLT=size2>arkadaşımın<CLT=size1> kurban\n<CLT=size2>edildiğini<CLT=size1> biliyor musunuz!?
+26|<CLT=size2.2>Lütfen!\n<CLT=size2.2>　\n　
+27|Lütfen! Bize yardım edin!
+28|<CLT=size2.2>\n　\n<CLT=size1.1>Yardım <CLT=size2.2>edin!
+29|<CLT=size1.1>Şuradaki <CLT=size2.2>Dört Göz\n<CLT=size2.2>　\n　\n　\n　
+30|Şuradaki Dört Göz gerçekten beyin mi!?
+31|<CLT=size1.1><CLT=size2.2>gerçekten\n<CLT=size2.2>　\n　
+32|<CLT=size2.2>　\n　\nbeyin<CLT=size1.1>
+33|<CLT=size2.2>　\n　\n　\n　\nmi!?
+34|Hiçbir <CLT=size2.2>şey\n<CLT=size2.2>bilmiyoruz!\n<CLT=size2.2>　\n　
+35|Hiçbir şey bilmiyoruz!
+36|<CLT=size2.2>İstemiyorum<CLT=size1.1>!\n<CLT=size2.2>　\n　\n　\n　
+37|İstemiyorum! Patlamak istemiyorum!
+38|<CLT=size2.2>Patlamak\n<CLT=size1.1>istemiyorum
+39|<CLT=size2.2>　\n　\n　\n　\n!
+40|<CLT=size2.2>　\n　\nO<CLT=size1.1> <CLT=size2.2>suçlu<CLT=size1.1> olsa\nbile...
+41|O suçlu olsa bile...
+42|<CLT=size2.2>Hey!\n　\n　\n　\n　
+43|Hey! Hadi bunu bırakalım!
+44|<CLT=size2.2>Hadi\n　\n　
+45|<CLT=size2.2>bunu
+46|<CLT=size2.2>　\n　\nbırakalım

@@ -1,0 +1,54 @@
+@ chap6_text_US
+## c06_211_000
+76|Iskaladığı için süre sınırı yüzünden\nhepimiz yok olacaktık...
+77|Ama beyin bu durumdan kaçınmak istedi,\nbu yüzden harekete geçti.
+78|Nanokumalar sayesinde beyin Kaede'nin planladığı\ncinayet silahını biliyor olmalıydı...
+79|Yani planı başarısız olduğunda ellerinde\nzaten başka bir gülle hazır olacaktı.
+80|Sonra beyin olay yerini Kaede başarılı\nolmuş gibi görünecek şekilde değiştirdi.
+81|Tek yapmaları gereken Kaede'nin güllesini\nsadece kendilerinin girebildiği gizli odaya saklamaktı.
+82|Y-Yani... Kaede haksız yere mi idam edildi!?
+83|Evet... evet, öyle.\nAslında kimseyi öldürmedi.
+84|Ama yine de idam edildi.
+85|Çünkü beyin Rantaro'nun cinayetini\nonun üstüne yıktı!
+86|Ve Monokuma da buna ayak uydurdu. Beynin\nyalanına inanmamıza izin verdi.
+87|Kaede dahil hepimiz kandırıldık. Sonuna\nkadar onun suçlu olduğunu düşündük.
+88|Ve bize bu oyunun adil olduğunu mu söylemek\nistiyorsun? Kurallar olduğunu mu? Hepsi saçmalık!
+89|Bu oyunun hiçbir mantığı yok!
+90|Monokuma bu dava için gerçeği\nçarpıttıysa...
+91|...diğer davalar için de çarpıtmış olabilir,\nbu da öldürme oyununu adaletsiz yapar.
+92|O-O zaman artık bir öldürme oyunu bile değil.\nSadece... öldürmek.
+94|...Onları affetmeyeceğim.
+95|Kuralları çiğneyip Kaede'yi öldürdükleri\niçin onları asla affetmeyeceğim.
+96|Çok acımasız... Onları asla affetmeyeceğim!\nVe Kaede'nin intikamını *alacağım*!
+97|Onun iyiliği, sevgisi... ve mezarı üzerine\nintikamını alacağıma yemin ediyorum!
+98|Evet! Beyin sevimli Monodam'ı havaya uçuran\nfünyeyi yapmaya nasıl cüret eder!
+99|Onu havaya uçuran sendin!\nSuçu başkasına atma!
+100|Neyse, beynin aynı zamanda Rantaro'nun katili\nolduğunu biliyoruz. Kim olduğunu bulalım.
+101|Tabii Monokuma hâlâ bu sınıf duruşmasını\nsürdürmek istiyorsa...
+102|Tabii ki devam edeceğiz! Dediğim gibi,\nbu öldürme oyunu asla bitmeyecek!
+103|Hayır, Monokuma. Bunu ben bitireceğim.
+104|Beynin kimliğini ortaya çıkarıp öldürme\noyununu bitireceğim!
+105|Ş-Şey... Araya girebilir miyim? Bu sözde\nbeyni suçlayıp duruyorsun ama...
+106|...gerçekten bir beyin olduğundan\nemin misin?
+107|Bunu hayal etmediğinizden emin misiniz alçaklar?\nBeyin gerçekse onu bize gösterin.
+108|Onu saklayanlar sizsiniz!
+109|Beynin hâlâ bu akademide olması mümkün.\nHayatta Kalan Ayrıcalığı öyle diyordu.
+110|Rantaro'nun cinayetine karıştılarsa\nhiç şüphe yok.
+111|O zaman <CLT=cltSTRONG>Gofer Projesi<CLT=cltNORMAL> sırasında gizlice\nsızmış ve akademide saklanmış olmal—
+113|Az önce "ah" dedin!\nO "ah" ne içindi?
+114|Az önce bir şey fark ettim...
+115|Söyle! Yoksa "Çıktığın Bütün Erkekler Bekâr\nBaba Olacak" lanetimi yaparım!
+116|Bu... <CLT=cltSTRONG>Kaede'nin ikiz kız kardeşi<CLT=cltNORMAL>!
+117|<CLT=cltMIND>...Onun neyi?
+118|İkiz... kız kardeşi mi?
+119|Bu Gofer Projesi katılımcı listesinde yazıyordu.\nBir <CLT=cltSTRONG>ikiz kız kardeşi<CLT=cltNORMAL> var.
+120|Bana biraz tuhaf geldi.\n<CLT=cltSTRONG>Junko Enoshima<CLT=cltNORMAL>'nın da bir ikizi vardı, değil mi?
+121|Aynı durumların burada da geçerli\nolduğunu mu söylüyorsun?
+122|Bu öldürme oyunu bir öncekinden çok\netkilenmiş, değil mi?
+123|O zaman belki beynin gerçek kimliği\nde öyledir.
+124|<CLT=cltMIND>Akademiye gizlice sızıp bize bu hastalıklı\noyunu oynatan beyin...
+125|<CLT=cltMIND>...Kaede'nin ikiz kardeşi mi?
+127|B-Belki... Sanırım bu bir ihtimal...
+128|Her halükârda beynin bu okulda bir yerde\nsaklandığına şüphe yok.
+129|Son incelemenizde onu bulamamanız\nne talihsizlik.
+130|Duruşma sürerken ayrılmanıza izin yok,\no yüzden şimdi onu arayamazsınız.

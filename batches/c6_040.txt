@@ -1,0 +1,70 @@
+@ chap6_text_US
+## c06_201_000
+7|SINIF-DURUŞMASINDA-GERÇEĞİ-ORTAYA-ÇIKARIRSANIZ-\nÖLDÜRME-OYUNUNUN-BİTECEĞİNİ-SÖYLEDİNİZ.
+8|PEKİ, SİZİ-ALÇAKLAR... BU-SINIF-DURUŞMASININ-\nAMACI-NE?
+9|Ah! Bu iyi bir soru!
+10|Ama sesi kısıktı!
+11|Ses yüksekliğinin hiç mi önemi yok!?
+12|<CLT=cltMIND>Bu sınıf duruşmasının amacı...
+13|Pekâlâ, size bir cevap vereceğim.\nBu duruşmayı çağırmamın sebebi...
+14|Keebo ile Monokuma'nın kavgasını durdurmak
+15|<CLT=cltMIND>...Hayır, sorun bu değil.\nAkademiyi incelerken bir sürü kanıt ortaya çıkardım.
+16|Hey! Artık bir şey söyle!
+18|Öldürme oyununu sürdürmek
+19|<CLT=cltMIND>Hayır...\nBu sınıf duruşması öldürme oyununu *bitirecek*!
+20|BUNUN-AMACI-NE?\nCEVAP-VER...
+22|Geçmiş bir davayı yeniden görmek
+24|...Neden bu kadar sessizsin!?
+26|<CLT=cltMIND>Bu sınıf duruşmasının amacı...
+27|...<CLT=cltSTRONG>Geçmiş bir davayı yeniden görmek<CLT=cltNORMAL> istiyorum.
+28|Yeniden yargılama mı!?
+29|Hangi dava için?
+30|İlki—<CLT=cltSTRONG>Rantaro Amami cinayeti<CLT=cltNORMAL>.\nDavayla ilgili yeni kanıtlar buldum.
+31|Bu kanıtlar ışığında yeniden yargılama talep ediyorum!
+32|Yeniden yargılamanın ne anlamı var? İlk sınıf\nduruşmasının sonucu zaten belli oldu.
+33|Evet, evet!
+34|Ya oylamamız... <CLT=cltSTRONG>yanlışsa<CLT=cltNORMAL>?
+35|Nyeh? Yanlış mı!?
+36|Monokuma o olayın kara elinin\nKaede olduğunu söylemişti...
+37|Onun yanıldığını mı söylüyorsun!?
+38|N-N-Ne-Neeeee!?
+39|Monokid, tepkilerin fazla abartılı!\nBizi kötü gösteriyor.
+41|S-Siktir! Fünye zaten elinde!
+42|Oylamamızın geçerliliğini sınamak için\nbütün davayı yeniden göreceğiz.
+43|Monokuma yanıldıysa... bu duruşmaların\ngeçerliliği sorgulanır.
+44|Bütün öldürme oyununun artık\nhiçbir anlamı kalmaz!
+45|Anlıyorum... Oyun yöneticisi olarak başarısızlığımı\nortaya çıkararak oyunu yıkabileceğini sanıyorsun.
+46|Saklayacak bir şeyin yoksa bununla\nbir sorunun olmamalı, Monokuma.
+47|Puhuhu... Demek sonunda ilk dava yine\nodak noktası haline geldi...
+48|Ne sürpriz! Ne ilginç bir sürpriz!\nTamam, yapalım şunu!
+49|Peki bu yeni gerçek ne?
+50|Birkaç tane var... ama daha ileri gitmeden\nönce <CLT=cltSTRONG>Rantaro'nun yeteneğini<CLT=cltNORMAL> konuşmak istiyorum.
+51|Yeteneğinin ne olduğunu öğrendin mi?
+52|<CLT=cltMIND>Rantaro'nun Ultimate yeteneği bir\ngizemdi ama artık biliyorum...
+53|Ultimate Kurban
+54|Rantaro...\nUltimate Kurban'dı.
+55|Bu ne biçim hüzünlü bir yetenek!?
+58|Ultimate Beyin
+59|Rantaro...\nUltimate Beyin'di!
+60|Hayır, o videoyu ikimiz de gördük.
+61|Hem beyin o olsaydı öldürme oyunu\nçoktan bitmiş olurdu.
+63|Ultimate Bilgi Yarışması Sunucusu
+64|Rantaro... Ultimate... Bilgi Yarışması\nSunucusuydu.
+65|Nyeh?\nTahminim doğru muydu?
+66|Ama cidden.\nO videoyu ikimiz de gördük, hatırladın mı?
+69|Shuichi, odasındaki videoyu hatırla!
+71|<CLT=cltMIND>Rantaro'nun Ultimate Yeteneği...
+72|O... <CLT=cltSTRONG>Ultimate Hayatta Kalan<CLT=cltNORMAL>'dı.
+73|Ultimate... Hayatta Kalan mı?
+74|Ben de gördüm. Videosunda öyle söyledi.
+76|Sen Ultimate Hayatta Kalan'sın.\nÖnceki öldürme oyunundan sağ çıktın.
+77|Bu ayrıcalığı bu yüzden alıyorsun—Hayatta Kalan Ayrıcalığı.
+78|Rantaro geçmiş bir öldürme oyunundan sağ\nçıktıktan sonra Ultimate Hayatta Kalan oldu.
+79|Hafızası silindikten sonra... öldürme oyununa\nbir kez daha katıldı.
+80|Yani bu Rantaro'nun ilk öldürme oyunu değil miydi?
+81|Ama neden ikinci bir öldürme oyununa\nkatıldı ki!?
+82|Henüz emin değilim...
+83|Ama Rantaro'nun Ultimate Hayatta Kalan olduğunu\nöğrendikten sonra amacını çıkardım.
+84|...Rantaro'nun amacı mı?
+85|Öldürülmeden önce kütüphaneye gitmesinin ve\n<CLT=cltSTRONG>gizli kapıyı<CLT=cltNORMAL> bilmesinin sebebi.
+86|Gizli kapıyı tesadüfen fark etmemiş\nmiydi?

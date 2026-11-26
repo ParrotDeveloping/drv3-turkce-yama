@@ -1,0 +1,53 @@
+@ chap6_text_US
+## c06_106_021
+1|<CLT=cltMIND>Gizli kapı... tamamen yok olmuş!
+2|...Kapı açık. Sonunda girebiliriz.
+3|B-Beyin orada saklanıyor!\nHiç şüphe yok!
+4|Ama... öylece içeri girmek doğru mu?\nYa saldırıya falan uğrarsak?
+5|...O zaman biz de karşılık veririz.
+6|Size katılırdım ama Exisal'ları burada\ntutmam gerekiyor...
+7|Shuichi, her şey sana bağlı. Ne olursa\nolsun lütfen beyni yakala.
+8|T-Tamam... anladım.
+9|<CLT=cltMIND>Beyin burada mı...?
+10|<CLT=cltMIND>Bu kesinlikle mümkün.\nDikkatli olmalıyız.
+15|Tuhaf... Bazen tıpkı onun gibisin,\nbiliyor musun?
+18|<CLT=cltMIND>Kapıdan geçelim.
+23|<CLT=cltMIND>Gizli odayı incelemeliyim.
+33|Pekâlâ... gidelim.
+34|Önce ben gireceğim... Bir şey olursa\nsavaşabilecek tek kişi benim.
+35|Ah, evet... Lütfen.
+36|<CLT=cltMIND>Maki'nin önderliğinde gizli kapıdan\ngeçtik...
+## c06_107_002
+0|Bu oda...\nArkadaki sınıfı incelemeliyim.
+1|Neyse, içeri girip incelemeliyim.\nŞafağa çok vakit kalmadı!
+## c06_107_004
+0|2. kattaki sınıfa gitmeliyim.\nŞafağa çok vakit kalmadı!
+5|<CLT=cltMIND>Bir fikrim var...\nBeyni nasıl bulacağımı biliyorum!
+## c06_107_021
+0|<CLT=cltMIND>Gizli odadan çıktığımızda...
+1|<CLT=cltMIND>Keebo ile Exisal'ı şiddetli bir\nsavaşın içinde gördük!
+2|Ah! Ah...
+3|İyi misiniz!? Herhangi biriniz yaralandı mı!?
+4|B-Ben iyiyim...
+6|<CLT=cltMIND>Gizli kapı enkazla\nkapanmış!
+8|Özür dilerim! İkinizin de yaralanmamış olmasına\nsevindim.
+9|D-Dur... Himiko...!
+10|<CLT=cltMIND>H-Himiko!
+26|<CLT=cltMIND>Enkazın içinden geçemiyorum!
+28|<CLT=cltMIND>Gizli kapı enkazla kapanmış!\nNe girebiliyoruz ne çıkabiliyoruz!
+29|H-Himiko... mahsur mu kaldı?
+30|S-Sanırım öyle...
+31|Keebo, bir şey yapabilir misin!?
+32|Enkazı yok edebilirim ama Himiko'nun\ndurumunu bilmeden...
+33|Pervasızca saldırmam tehlikeli\nolabilir.
+34|O-O zaman... onu orada öylece mi\nbırakalım diyorsun?
+35|Böyle bir şey yapamam! Biz arkadaşız!
+36|Ama enkazı kaldıracak kadar güçlü\ndeğilim...
+37|...Exisal'ı kullanalım.
+39|Exisal'ı mı kullanalım...? Nasıl?
+40|Miu'nun icatlarından hiç kalmadı ve\nMonoyavrular Exisal'ların içinde—
+41|Aynen öyle. Bunu Monokuma'ya ve\nMonoyavrulara yaptıracağız.
+42|...Monokuma'ya ve Monoyavrulara mı?
+43|Onlar da bunu istemiyor. Amaçları\nöldürme oyununu sürdürmek...
+44|Onlara teslim olup öldürme oyununu\nsürdürmeyi mi öneriyorsun!?
+45|Ama Himiko tehlikede! Onu kurtarmak\nilk önceliğimiz—

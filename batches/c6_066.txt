@@ -1,0 +1,67 @@
+@ chap6_text_US
+## c06_227_000
+120|Ah, hatırladın!\nEvet, aynen öyle.
+121|O zaman... bu ne anlama geliyor?
+123|Söylediğim doğruysa\n<CLT=cltSTRONG>Hope's Peak Akademisi<CLT=cltNORMAL>...
+124|<CLT=cltMIND>Hope's Peak Akademisi'nin ne olduğu mu...?
+125|<CLT=cltMIND>Tsumugi onların kostümünü giyebiliyorsa...\ntek bir ihtimal var.
+126|Hâlâ var
+127|Hope's Peak Akademisi hâlâ var...
+128|Ahaha. Öyle olsaydı kostümünü\ngiyemezdim.
+129|Kılık değiştirmek kostümden farklıdır.
+131|Kapatıldı
+132|Hope's Peak Akademisi kapatıldı.
+133|Yok, yok. Kapatılmış olsa bile\nyine de gerçek olurdu, değil mi?
+134|Gerçek olduğu an\nbenim için imkânsız olur.
+136|Kurgusal
+138|Kurgunun kostümünü giyebilirim ama gerçek bir\ninsan gibi giyinmek kılık değiştirmektir.
+139|Ve benim kostümümü giymek mümkün olduğuna göre...
+140|Eh, size bolca ipucu verdim.
+142|<CLT=cltMIND>Hope's Peak Akademisi...
+143|<CLT=cltSTRONG>Kurgusal<CLT=cltNORMAL>... Hepsi kurgu mu!?
+144|...Kurgu mu?
+145|İnsanlık Tarihinin En Büyük, En Korkunç,\nEn Trajik Olayı hiç yaşanmadı...
+146|Hope's Peak, Gelecek Vakfı ve Umutsuzluk\nKalıntıları yok...
+147|Çünkü hepsi kurgu. Hiçbiri gerçek\ndünyada yaşanmadı.
+148|Bütün o olaylar <CLT=cltSTRONG>Danganronpa<CLT=cltNORMAL> denen\nkurgusal bir dünyada geçiyordu.
+149|Danganronpa!
+150|Dangan... ronpa...?
+151|Ne!? Sen neden... bahsediyorsun?
+152|Ne? Danganronpa'yı hiç duymadın mı?\nHepimiz... onun karakterleriyiz.
+153|Doğru! Ben, o iğrenç domuz kusmuğu ve\ndiğer herkes kurgusal.
+154|Bir dakika. O zaman... Hope's Peak\nAkademisi yok mu?
+155|Yok! Çünkü kurgu!\nGerçek dünyada yok!
+157|Şaşırtıcı değil mi!?
+158|Evet... Şimdiye kadar kurgunun gerçek\nolduğunu sandınız.
+159|Ama kurgu sadece kurgudur.\nDanganronpa sadece kurgu.
+160|Bütün bu Danganronpa hikâyesi sadece\nanılarınıza tıkıştırıldı.
+161|Bu yüzden hepiniz o kurgu eserinin\naslında gerçek olduğuna inandınız.
+162|Ve böylece herkesin görmesi için bir\nkostüm gösterisi sahneledik!
+163|Koca Danganronpa dünyasının bir\nkostüm gösterisi!
+164|Koca dünyanın... kostümü mü?
+165|Y-Yani... bunların hepsi sahte miydi?\nHer şey uydurma mıydı?
+166|Ve bunca zaman... gerçek sandık!?
+167|Ultimate Kostümcü'nün yeteneğinin sadece\nkarakterlerle sınırlı olduğunu mu sandınız?
+168|Büyük kötü beynin tek yapabildiği\nbu olsaydı biraz ezik olurdu...
+169|Bundan çok daha fazlasını yapabilirim...\nDünyanın kendisinin kostümünü giyebilirim!
+170|O yüzden beni düşmanınız yapmak istiyorsanız...
+171|Düşmanınız Danganronpa dünyasının\nta kendisi!
+172|Danganronpa'nın... kendisi mi?
+173|A-Ama... neden? Bunu neden yaptın?\nBize neden gerçek olduğunu düşündürdün—
+174|Eh tabii ki! Hepiniz <CLT=cltSTRONG>öldürme oyununu<CLT=cltNORMAL>\noynayasınız diye!
+175|Burası Danganronpa dünyası, bilirsin?\nTabii ki öldürme oyunu oynuyoruz.
+176|Ama herhangi bir öldürme oyunu değil.
+177|Gerçek dünyada geçen, kurguyla ayakta\ntutulan bir öldürme oyunu.
+178|Başka bir deyişle <CLT=cltSTRONG>Ultimate Gerçek Kurgu<CLT=cltNORMAL>!!!
+179|Ultimate... Gerçek Kurgu mu?
+180|Ama... kurguysa...\nHer şey... gerçek değilse...
+181|O zaman... dünyanın yıkılmış olması da\nkurgu, değil mi?
+182|Dışarıdaki dünya... iyi, değil mi?
+183|Ah, doğru! Tabii ki!
+184|O sahneyi nasıl buldunuz!?\nEkibimiz üzerinde çok çalıştı!
+185|...Ekip mi?
+186|Sahne arkasındaki insanlar için\nendişelenmenize gerek yok!
+187|Neyse, konuşmamıza dönersek...\nRahatlayabilirsiniz.
+188|Dünya yok edilmedi.
+189|Gerçekten mi!? Yok edilmedi mi!?\nO zaman hepimiz eve gidip—
+190|Yok, o iş olmaz.

@@ -1,0 +1,99 @@
+@ chap6_text_US
+## c06_235_000
+91|Bu, umut ya da umutsuzluk için tek bir\noy kullanılmadan biterse...
+92|Seyirciler bundan nefret eder. Böyle bir\nsonu asla kabul etmezler...
+93|O yüzden çekimser kalıyorum! Dış dünyaya\nistediği sonu vermeyi reddediyorum!
+94|Keebo'ya oy vermeyeceğim! Tsumugi'ye de!
+95|Hem umudu hem umutsuzluğu reddediyorum!
+97|<CLT=cltMIND>Umut... öldürme oyununu bitirmeyecek mi?
+98|<CLT=cltMIND>Bu doğruysa umut için kazanmam\ngerektiği hissi...
+100|<CLT=cltMIND>Ne yapmam gerekiyor...?
+## c06_235_025
+0|Al sana umut!
+1|Keebo kaybetmeyecek!
+2|Keebo umuttur...
+3|ve umut yaşıyor!
+4|Shuichi umutsuzluk döngüsü mü?
+5|İşler ilginçleşiyor.
+6|Kavga daha yeni başlıyor!
+8|Ne diyorsun, şapkalı çocuk?
+9|artık bir şey diyemezsin, çaylak
+10|Artık şapka takmıyor.
+11|Ya beyin Shuichi'yse?
+12|Kim yaşayacak merak ediyorum.
+13|Umut hep dalga dalga gelir.
+14|Hata yapıyorsun, dedektif.
+15|acele edin oy verin
+16|Bana umudu göster.
+17|Umutsuzluk olduğu için umut var.
+18|Ateş, Keebo! İzin veriyorum!
+19|Umutsuzluğa mı düşüyor?
+20|Ne diyorsun, dedektif?
+21|Shuichi'yi unutun.
+22|Umutsuzluğa düştün, değil mi?
+23|bana umutsuzluk sonunu göster
+24|Bazen umutsuzluk hissetmek normaldir...
+25|Bunu neden yapıyorduk ki...?
+26|Umut geri dönmez!
+27|Sonunda büyük açıklama.
+28|Tam da ilginçleşiyordu.
+29|Beyin biziz.
+30|Bizi mi suçluyorlar?
+31|acele edin çürütün şunu!
+32|Hadi, Keebo! Saldır!
+33|Umudu zorla geçir.
+34|bir şey farklı değil mi?
+35|Hadi, Keebo!
+38|Ne olacak?
+39|mmm... Shuichi'nin gözleri ^q^
+## c06_236_000
+0|Doğru, Keebo!\nHep birlikte umuda inanalım!
+1|Umut bizi ileri taşıyacak!
+2|<CLT=cltMIND>Bu sonuç gerçekten doğru mu...?
+3|<CLT=cltMIND>Umuttan vazgeçmemeliyim...\nBunu biliyorum.
+4|<CLT=cltMIND>Ama umut bizden trajedi talep\netmeye devam ederse...
+5|<CLT=cltMIND>Ne yapmam gerekiyor...?
+## c06_236_001
+0|Bu <CLT=size2>öldürme oyununa<CLT=size1> bir son vereceğim!
+1|Bu öldürme oyununa bir son vereceğim!
+2|Onu durduramazsın!
+4|Eğer
+5|Eğer Danganronpa biterse...
+6|<CLT=size2>Danganronpa
+7|biterse...
+8|<CLT=size2>İşsiz<CLT=size1> <CLT=size2>kalırım!
+9|İşsiz kalırım!
+10|Bunların hepsi <CLT=size2>sahte<CLT=size1> olsa bile...
+11|Bunların hepsi sahte olsa bile...
+12|<CLT=size2>çektiğimiz
+13|çektiğimiz eziyet ve acı gerçek!
+14|<CLT=size1>eziyet<CLT=size1> ve
+15|<CLT=size2>acı<CLT=size1>
+16|<CLT=size2>gerçek!
+17|<CLT=size2>Benim<CLT=size1> için de <CLT=size2>zordu<CLT=size1>...
+18|Benim için de zordu...
+19|Bu bir ölüm oyunu.\n<CLT=size2>Ne<CLT=size1> halt <CLT=size2>edeceksin ki!?
+20|Bu bir ölüm oyunu. Ne halt edeceksin ki!?
+21|Umutsuzlukla bitmesine\n　\n　
+22|Umutsuzlukla bitmesine\nizin vermek daha iyi değil mi yahu!?
+23|<CLT=size1>\n　\nizin vermek daha iyi değil mi yahu!?
+24|Hem\n<CLT=size2>umudu<CLT=size1> hem
+25|Hem umudu hem umutsuzluğu reddediyorum!
+26|<CLT=size2>umutsuzluğu reddediyorum!
+27|Bize bunu yaptıracak <CLT=size2>dünyayı\n<CLT=size2>reddediyorum<CLT=size1>!
+28|Bize bunu yaptıracak dünyayı\nreddediyorum!
+29|Bu yüzden oy vermekten\n<CLT=size2>çekimser kalıyorum<CLT=size1>!
+30|Bu yüzden oy vermekten çekimser kalıyorum!
+31|Yani bu ne <CLT=size2>umutla<CLT=size1>
+32|Yani bu ne umutla ne de umutsuzlukla bitecek!
+33|ne de <CLT=size2>umutsuzlukla<CLT=size1> <CLT=size2>bitecek!
+34|<CLT=size2>Geleceğinizi<CLT=size1> <CLT=size2>çöpe atamazsınız!
+35|Geleceğinizi çöpe atamazsınız!
+36|<CLT=cltWEAK><CLT=size3>Umut<CLT=cltNORMAL><CLT=size1>
+38|<CLT=size2>bulaşıcıdır!
+39|UMUT
+## c06_237_000
+1|Keebo? Ne yapıyorsun?
+2|İç sesin gerçekten bunu yapmanı mı söyledi?\nUmudu reddetmeni mi söyledi?
+3|Hayır... İç sesim hâlâ bana umuttan\nvazgeçmememi söylüyor...
+4|Ama o umut bizden trajedi talep\nediyorsa...

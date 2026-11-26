@@ -1,0 +1,60 @@
+@ chap6_text_US
+## c06_231_000
+71|Evet. Yetenekleriniz bir yığın yalan.
+72|Yani size bir dereceye kadar uyuyorlardı ama\nçoğunlukla plasebo etkisi gibi bir şeydi.
+73|Bir tür kendi kendine telkin gibi...\nBilirsin, yaparsan her şey yoluna girer gibi.
+74|Ama sadece yetenekleriniz değil.\nKişilikleriniz, aileleriniz, anılarınız...
+75|Hepsi Geri Dönüş Işığı'nın yarattığı kurgu.
+76|Şimdi gerçekten kurgusal olmadığınızı söyleyebilir misiniz?
+77|Bedeniniz gerçek olsa bile kimlikleriniz,\nkişilikleriniz, yetenekleriniz ve geçmişiniz kurgu.
+78|Şimdi gerçekten bunların hiçbirinin kurgu\nolmadığını söyleyebilir misiniz?
+80|B-Bir dakika...\nNe... saçmalıyorsun sen?
+81|Kimliklerimiz, kişiliklerimiz, yeteneklerimiz\nve geçmişimiz kurgu mu? Bu aptalca!
+82|Aptalca değil!\nHepinizin istediği bu değil miydi!?
+83|...Bunu biz mi istedik?
+84|Evet, hatırlamazsınız ama hepiniz\ndış dünyadandınız.
+85|Sevdiğiniz şovun bir parçası olmak\nistemeniz hiç de tuhaf değil.
+86|Olamaz! Bu öldürme oyununa katılmayı\n*istediğimizi* mi söylüyorsun!?
+87|Bu mümkün değil, nasıl olur da—
+88|Lütfen, millet! Şuna bir bakın!
+89|154 numara... Benim adım ●×△□.
+90|Her zaman çok büyük bir Danganronpa hayranı\noldum ve... hep birinde yer almak istedim...
+91|Bir yarışmacı olsaydım... Ultimate Dedektif\nolmak isterdim.
+92|Geçmişte birkaç tane olduğunu biliyorum\nve o karakterleri hep sevdim...
+93|O yüzden onlardan biri olmak isterdim.
+94|Ah ama dedektif olmak *zorunda* değilim.\nŞovun parçası olmak için her şey olurum.
+95|Ve ciddiyim, her şey. Danganronpa'nın\nparçası olmak için... her şeyi yaparım.
+96|Söz veriyorum, seçilirsem...\nelimden gelenin en iyisini yapacağım!
+97|En iyi, en vahşi cinayetleri bulacağım,\nsöz veriyorum! Herkes bayılacak!
+98|Ve henüz hiçbir Ultimate Dedektif kara el\nolmadı, eminim bunu yapabilirim!
+99|Ayrıca bir Ultimate Dedektif için... kusursuz\nbir ceza da düşünüyorum...
+101|N-Ne... neydi o...?
+102|O sen değil miydin, Shuichi?
+103|H-Hayır... olamaz!\nBöyle bir şeyi asla söylemem—
+104|Şimdi söylemezsin ama bu <CLT=cltSTRONG>şimdiki\nhaline dönüşmeden önceki<CLT=cltNORMAL> sen.
+106|Seçme videonu görünce aklımıza\nbir fikir geldi.
+107|Gelmiş geçmiş en zayıf Ultimate Dedektif...\nOnun gelişimini görmek harika olmaz mıydı?
+108|Bu yüzden karakterini yarattık ve\nseni ekibe kattık.
+109|Geri kalanınız da farklı değil.\nSiz de seçmelere katılıp seçildiniz.
+110|Seçmeler mi...?
+111|E-Evet... S-Seçildiğinizde hepiniz\nç-çok heyecanlanmıştınız...
+112|Sanırım... hepiniz <CLT=cltSTRONG>Ultimate Gardırobunuzu<CLT=cltNORMAL>\naldıktan hemen sonraydı.
+113|H-Ha? N-Ne giyiyorum ben?
+114|Hı-hı! Güzel görünüyorsunuz! Artık\ndaha çok Ultimate'a benziyorsunuz.
+115|Ultimate mı...? Gerçekten mi?
+116|Sırada hepinizin beklediği\nanı var.
+117|Aynen öyle! Hazır olun! Mühür kırılınca\nöldürme oyununun alemine gireceğiz!
+118|Ö-Öldürme oyunu mu...?
+119|Yani... seçildik mi!?
+120|Seçildik mi!?\nGerçekten mi!? Yaşasın!
+121|V-Vay, gerçekten mi!?\nBen de mi seçildim!?
+122|Biz gerçekten... bunu söyledik mi?
+123|Bu bir yalan! Buna dair hiçbir anım yok!
+124|Sadece unuttunuz o kadar. Üzerinizde\nkullandığımız Geri Dönüş Işığı yüzünden.
+125|Eskiden olduğunuz insanlar gitti.\nArtık kurgusal karakterlersiniz.
+126|Sonunda anladınız mı?
+127|Hepiniz etten ve kandan <CLT=cltSTRONG>kurgusal\nkarakterlersiniz<CLT=cltNORMAL>.
+128|Yani dönecek hiçbir yeriniz yok!\nO şeylerin hepsi de kurgu!
+129|O-O zaman... arkadaşlarım ve ailem...\nBuraya gelmeden önceki bütün hayatım...
+130|Hepsi kurgu!\nGeçmiş hikâyesi dediğin BUDUR!!!
+131|Eve dönemezsiniz!\nÇünkü öyle bir yer yok!

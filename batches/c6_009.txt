@@ -1,0 +1,50 @@
+@ chap6_text_US
+## c06_102_100
+21|<CLT=cltMIND>Ama henüz pes etmeyeceğim.\nÇünkü gerçeğe henüz ulaşmadık!
+## c06_102_106
+0|<CLT=cltMIND>Demek Kokichi'nin odası burası...
+1|Bütün bunları nereden bulduğunu bilmiyorum\nama epey eşya biriktirmiş...
+2|Tedirgin edici ama... incelemeliyiz.
+4|<CLT=cltMIND>Bu odayı inceleyerek... Kokichi hakkında\ndaha fazla şey öğrenebiliriz.
+5|<CLT=cltMIND>Kokichi, <CLT=cltSTRONG>Gofer Projesi<CLT=cltMIND>'ne karşı olan\nbir örgütün lideri olduğunu söylemişti.
+6|<CLT=cltMIND>Bu uğurda <CLT=cltSTRONG>beynin<CLT=cltMIND> yerini almaya\nçalışmıştı.
+7|<CLT=cltMIND><CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND> o örgütün <CLT=cltSTRONG>Umutsuzluk\nKalıntıları<CLT=cltMIND> olduğunu hatırlamamızı sağladı.
+8|<CLT=cltMIND>Kokichi... <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltMIND>'nın\nlideriydi.
+9|<CLT=cltMIND>Ama gerçek bu mu? Sanki içinde bir\nyalan varmış gibi hissediyorum...
+10|Hey... sana bir şey sormak istiyordum.
+11|Hm? Ne oldu, Maki?
+12|Kaito... Kokichi'ye inandı. Birinin bu öldürme\noyununu izlediğine inandı.
+13|...Sen ne düşünüyorsun?
+14|...Kokichi'nin ikna edici bir noktası var.
+15|Bu öldürme oyunu ancak bir seyirci\nvarsa mantıklı.
+16|Yoksa onu daha ilginç kılmak için tasarlanmış\nbunca kural neden olsun?
+17|Tıpkı geçmişteki Junko Enoshima'nın\nöldürme oyunu gibi.
+18|Monokuma kurallara uymak ve öldürme oyununu\nhareketlendirmek konusunda özellikle katı...
+19|...Biri izlediği için mi? Ama insanlıktan\ngeriye kalan sadece biziz, değil mi?
+20|Birine göstermek için dese bile, başka\nhiçbir yerde kimse hayatta değil, değil mi?
+21|Acaba... gerçekten biri buraya\nsızmış olabilir mi?
+22|Bu *gerçekten* bir gizem...
+23|Ama her gizem bir gerçeği saklar...
+24|Bu öldürme oyununda bulunacak bir\ngerçek hâlâ var.
+25|<CLT=cltMIND>O gerçeğin umut mu umutsuzluk mu\nolduğu... bambaşka bir mesele.
+26|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Öldürme Oyunu<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+28|...Biri izlediği için mi? Ama insanlıktan\ngeriye kalan sadece biziz.
+29|O halde bunu gösterecek hayatta kimse\nolmamalı... Bu ne anlama gelebilir?
+30|<CLT=cltMIND>Bu *gerçekten* bir gizem...\nBu gizem hangi gerçeği saklıyor?
+31|Ben buradaki planlara bakacağım.
+32|Kokichi'nin vasiyetini araştırmana engel olmam.\nSadece çok fazla vakit harcama.
+33|<CLT=cltMIND>Daha yakından incelemeliyim...
+39|<CLT=cltMIND>Mobilyası ve aydınlatmasıyla bu oda\nbenimkiyle aynı.
+42|Ah, bu... kütüphaneye kurduğum\ngizli kamera mı...?
+43|Bu da havuzda yüzen\nsimit...
+44|Bu da <CLT=cltSTRONG>Kafesteki Çocuk<CLT=cltNORMAL> seansındaki\nkitap!
+45|...Geçmiş olaylardaki bütün kanıtları\nmı topluyormuş?
+46|Cinayet silahları burada değil ama bütün\nbunları neden topluyordu ki—
+47|...Hayır, onun ne düşündüğünü anlamaya\nçalışmak anlamsız.
+48|Belki de haklısın...
+49|<CLT=cltMIND>Gizli kamera, havuzdaki\nsimit...
+50|<CLT=cltMIND>Önceki davaların kanıtlarının çoğu\nburada...
+51|<CLT=cltMIND>Cinayet silahlarını göremiyorum.\nBunlarla ne yapmayı planlıyordu?
+52|<CLT=cltMIND>Belgelerle dolu birkaç karton\nkutu var...
+53|Bunlar... plana benziyor.
+54|Plan mı?

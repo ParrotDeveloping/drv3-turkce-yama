@@ -1,0 +1,63 @@
+@ chap6_text_US
+## c06_001_270
+35|E-Evet! Haklısın!
+36|<CLT=cltMIND>Önümüzde gelişen durum karşısında şaşkın\nbir şekilde avlunun ortasına koştuk.
+37|Iiiiyy! Savaş alanı gibi!
+38|O-Onun dikkatini çekmeliyiz!\nAşağı inmesini sağlamalıyız!
+39|Keeeebooooo! Buraya gel!
+40|Bizi öldürtmeye mi çalışıyorsun!?
+41|Lütfen, Keebo!\nAşağı in de bizimle konuş!
+42|<CLT=cltMIND>Keebo'ya seslendim, sonunda havada\ndurdu...
+43|<CLT=cltMIND>ve sonra yavaşça yanımıza indi.
+44|...Geliyor.
+46|Beni mi çağırdınız?
+47|Lütfen kısa tutun.\nİlgilenmem gereken başka işlerim var.
+48|Başka işler mi?
+49|Öldürme oyununu bitireceğim...
+50|Öldürme oyununu... bitirmek mi...?
+51|Bunu yapmak için... Yetenekli Gençler için\nUltimate Akademi'yi yok etmeliyim.
+52|Y-Yok etmek mi!?
+53|Bu okulu tamamen yok edersem öldürme\noyunu devam edemez.
+54|Yani... o silah bu yüzden mi sende?
+55|O silah ve jet paket de ne?
+56|Bu ekipmanı laboratuvarımdan aldım.
+57|Laboratuvarında... böyle bir ekipman mı vardı?
+58|Güç çıkışlarını ve işlevlerini büyük ölçüde\nartırmak için bazı değişiklikler yaptım.
+59|Bunu ne zamandan beri yapabiliyorsun?\nSeviye falan atlamadın, değil mi?
+60|Bir... şey mi oldu?
+62|Laboratuvardan hiçbir şey kullanmak\nistemediğini... söylememiş miydin?
+63|D-Doğru! Bilimkurgu gibi görünmekten hoşlanmıyorsun!
+64|Evet... gerçek bir insan gibi muamele görmek\nistedim. Sizin gibi etten kemikten bir varlık.
+65|Ama artık o dileğe tutunma lüksüm\nyok!
+66|Yolum belli! Bu akademiyi yok edip bu\nöldürme oyununu bitirmeliyim!
+67|D-Dur! Öyle bir şey yaparsan...\nhepimiz de ölürüz, biliyor musun!?
+68|Dış dünyada oksijen yok...\nCanlı hiçbir şey yok...
+69|Sadece <CLT=cltSTRONG>bu uzay gemisinin içinde<CLT=typeNORMAL> olduğumuz\niçin hayatta kalabiliyoruz, biliyor musun?
+71|D-Doğru! Bizi de mi öldürmeye çalışıyorsun!?
+72|Hareketlerim ölümünüzle sonuçlanırsa...\nöyle olsun.
+73|"Öyle olsun" mu?
+74|Monokuma bize tek seçeneğimizin\n<CLT=cltSTRONG>umutsuzluk<CLT=typeNORMAL> olduğunu söyledi.
+75|<CLT=cltSTRONG>Umudun<CLT=typeNORMAL>... burada var olmadığını.
+76|Ve ne yazık ki haklı.
+77|Bu öldürme oyunu devam ettiği sürece bizi\nsadece <CLT=cltSTRONG>umutsuzluk<CLT=typeNORMAL> bekliyor.
+78|Dur... hâlâ umudumuz var.
+79|Umudumuz... buradaki herkes.\nHâlâ hayatta olan arkadaşlarımız.
+80|E-Evet... Hepimiz birlikte çalışırsak\nbu öldürme oyunu bile—
+81|Durmayacak. Asla durmayacak.
+83|Ve bu öldürme oyununu durdurup kaçmayı\nbaşarsak bile nereye gideceğiz?
+84|Dünya yok oldu, insanlık soyu tükendi...\nDönecek bir evimiz yok.
+85|B-Bu... doğru olabilir ama...
+86|Monokuma haklı.\nBurada elimizdeki tek şey <CLT=cltSTRONG>umutsuzluk<CLT=typeNORMAL>.
+87|<CLT=cltSTRONG>Dış dünyayı<CLT=typeNORMAL> kendi başımıza değiştirecek\ngücümüz yok.
+88|Şimdi tek yapabileceğimiz <CLT=cltSTRONG>umutsuzluğa<CLT=typeNORMAL>\nboyun eğmeyi reddetmek!
+89|Ve bunu başarmak için hepimizin ölmesine\nizin vermeye razı mısın?
+90|Bu, Monokuma'nın öldürme oyununa devam\netmesine izin vermekten çok daha iyi bir seçenek.
+91|C-Ciddi misin!?
+92|Kaito ve Kokichi bu öldürme oyununu\nbitirmek için hayatlarını verdi...
+93|Onların örneğini izlemeliyiz! Bu öldürme oyununu\nbitirmek için hayatımızı vermeye razı olmalıyız!
+94|...<CLT=cltSTRONG>İç sesin<CLT=typeNORMAL> sana bunu mu yapmanı\nsöylüyor?
+95|Hayır... o sesi artık duyamıyorum.
+96|Artık duyamıyor musun?
+97|Nedense... iç sesim sustu. Bu karar\nbenim irademe, benim seçimime ait.
+98|Kendimi değiştirip bu akademiyi yok\netmeyi seçtim.
+99|Asla <CLT=cltSTRONG>umutsuzluğa<CLT=typeNORMAL> boyun eğemeyiz! Çünkü\nbiz Hope's Peak Akademisi öğrencileriyiz!

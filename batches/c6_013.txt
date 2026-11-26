@@ -1,0 +1,58 @@
+@ chap6_text_US
+## c06_103_272
+100|K-Keebo...
+101|Evet... ben... iyiyim...
+102|Özür dilerim... Aniden bir geri dönüş\nyaşadım ve ellerim kaydı...
+103|Ah, sen de mi hatırladın, Keebo?
+104|Evet. Hope's Peak Akademisi'ndeydik, Gofer\nProjesi'ne katılmak üzereydik.
+105|...Monokuma ne düşünüyor da bize bunu\n*şimdi* hatırlatıyor...?
+106|Muhtemelen yine <CLT=cltSTRONG>umutsuzluğa<CLT=typeNORMAL>\nkapılmamızı istiyor.
+107|<CLT=cltMIND>Umutsuzluk mu?
+108|<CLT=cltMIND>Hayır, ama... bu anılar...
+110|"twins b" mi...? Shuichi, bu mesajdan\nne anlıyorsun?
+111|Kokichi'nin odasında bir vasiyet buldum...\n"ikinci bir mesaj"dan bahsediyordu.
+112|Ben de onu aramaya gittim.
+113|...Demek Kokichi vasiyetini bize emanet etmiş.
+114|Ve bir de ikinci mesajı...
+115|Bıraktığı bu mesaj, yere yazdığı o mesajla\nilgili olabilir mi?
+116|Sence bize bir şey anlatmak için... o mesaja\nekleme yapmaya mı çalıştı?
+117|Bilmiyorum, vasiyette\nyazmıyordu...
+118|<CLT=cltMIND>Daha fazlasını ekleyecek idiyse\nmesaj eksikti.
+119|<CLT=cltMIND>Ama eksikse, Kokichi bize bunu\nsöyleyerek ne yapmaya çalışıyordu?
+120|"twins b"...
+129|<CLT=cltMIND>"Bu dünya benim. Kokichi Oma" yazıyor.
+130|Kokichi'nin yazdığı o mesaj...
+131|Bizi onun <CLT=cltSTRONG>beyin<CLT=cltNORMAL> olduğuna inandırmak\niçin uydurduğu bir şey.
+133|<CLT=cltMIND>Gerçekten... niyeti bu muydu?
+135|<CLT=cltMIND>Gonta onu ilk bulduğunda\neksik, karmakarışık harflerdi.
+136|<CLT=cltMIND>Zamanla daha fazlası eklendi...
+137|<CLT=cltMIND>Ve sonunda...
+138|<CLT=cltMIND>"Bu dünya benim. Kokichi Oma" mesajı oluştu.
+139|<CLT=cltMIND>Kokichi bunu, bizi onun <CLT=cltSTRONG>beyin<CLT=cltMIND>\nolduğuna inandırmak için yazdı...
+142|<CLT=cltSYSTEM>Enerji doldurmak için bir Exisal'ın\nyakınında sol tıka basılı tut.
+## c06_104_006
+0|<CLT=cltMIND>Öylece durmaya vakit yok.\nİncelemek için sadece şafağa kadar vaktimiz var.
+1|<CLT=cltMIND>Her köşeyi araştırmalıyım...\nBulabildiğim kadar ipucu toplamalıyım.
+2|Sırada <CLT=cltSTRONG>oraya<CLT=cltNORMAL> gitmeliyim.
+3|Keebo geçen seferki gibi kapıyı yok ederse\n<CLT=cltSTRONG>oraya<CLT=cltNORMAL> girebilirim...
+4|Ah, Shuichi! Sonunda seni buldum!
+5|Tsumugi? Ne oldu...?
+6|Şey, 6. kattaki Kaito'nun araştırma\nlaboratuvarını kontrol ediyordum ama...
+7|Keebo'nun saldırısı okulun bir duvarını yıktı\nve yeni bir oda ortaya çıktı!
+8|Yeni bir oda mı?
+9|Ve... çok da tuhaf bir oda.\nNeyse, benimle gel.
+10|<CLT=cltMIND>Tsumugi neredeyse cesaretlendirir gibi\nkonuştu, sonra önden yürüdü.
+11|Tuhaf bir oda, ha...?\nBunu görmezden gelemem.
+12|<CLT=cltMIND>Sanırım başka seçeneğim yok. <CLT=cltSTRONG>Oraya<CLT=cltMIND>\nsonra giderim, şimdi 6. kata çıkayım.
+13|<CLT=cltMIND>Keebo beni içeri sokabilir.\nRantaro'nun laboratuvarını inceleyeceğim.
+16|<CLT=cltMIND>Rantaro'nun laboratuvarı...\nKeebo bu kapıyı kırarsa—
+17|...Beklediğin için teşekkürler.
+18|Amma da gösterişli giriş yaptın!
+19|Bu kapıyı hemen yok edeceğim.\nLütfen geri çekil, Shuichi.
+21|*öhö, öhö!*
+22|Pekâlâ, gerisini sana bırakıyorum.
+23|Girmek isteyip de giremediğin başka bir\nyer olursa lütfen beni çağır.
+24|...Şimdi senin için yaptığım gibi\nbir giriş patlatırım.
+25|<CLT=cltMIND>Ve geldiği gibi hemen\ngitti Keebo.
+26|Girmek istediğim herhangi bir yer...
+27|<CLT=cltMIND>Keebo'nun yardımıyla *her yere* gidebilirsem...

@@ -1,0 +1,98 @@
+@ chap6_text_US
+## c06_232_000
+0|Doğru! Bu umutsuzlukla biten\nbir hikâye!
+1|Buna izin vermeyeceğim!\nBütün umutsuzluğunuzu yok edeceğim!
+2|Hepsini yok edeceğim... tek bir iz kalmayana kadar!
+3|Ve herkesi kurtaracağım!
+## c06_232_001
+4|Herkes\n<CLT=cltWEAK><CLT=size2>umutsuzluk<CLT=cltNORMAL>\nhissetmek istiyor!
+5|Herkes umutsuzluk hissetmek istiyor!
+8|Bu da benim\n<CLT=size2>53.\n<CLT=size1>çıkışım!
+9|Bu da benim 53. çıkışım!
+10|Bu sefer\ntema kötü\nbir sonun\n<CLT=cltWEAK><CLT=size2>umutsuzluğu<CLT=size1><CLT=cltNORMAL>!
+11|Bu sefer tema kötü bir\nsonun umutsuzluğu!
+## c06_232_002
+0|Dış dünya\n<CLT=cltWEAK><CLT=size2>umutsuzluğa<CLT=cltNORMAL>\nhasret!
+1|Dış dünya umutsuzluğa hasret!
+4|Ve seyirciler bana\n<CLT=size2>bayılıyor!
+5|Ve seyirciler bana bayılıyor!
+6|Bazen <CLT=size2>böyle bile görünüyorum!
+7|Bazen böyle bile görünüyorum!
+8|Bu <CLT=cltWEAK><CLT=size2>umutsuzluk\n<CLT=cltNORMAL><CLT=size1>gerçekliğin\nkendisini sikip atacak!
+9|Bu umutsuzluk gerçekliğin kendisini sikip atacak!
+## c06_232_003
+0|Öldürme oyunu\n<CLT=size2>sonsuza dek<CLT=size1> yaşayacak!
+1|Öldürme oyunu sonsuza dek yaşayacak!
+2|Bu <CLT=size2>öldürme oyunu
+3|Bu öldürme oyunu umutsuzlukla bitecek.
+4|<CLT=cltWEAK><CLT=size2>umutsuzlukla<CLT=cltNORMAL> bitecek.
+7|<CLT=cltWEAK><CLT=size2>Umutsuzluk<CLT=cltNORMAL><CLT=size1>
+8|Umutsuzluk Danganronpa'dır.
+9|<CLT=size2>Danganronpa'dır.
+12|Ve ürünlerimiz de var!\n<CLT=size2>Web sitesine<CLT=size1>\nmutlaka göz atın!
+13|Ve ürünlerimiz de var!\nWeb sitesine mutlaka göz atın!
+## c06_233_000
+0|Asla pes etmeyeceğim!\nUmut asla umutsuzluğa yenilmeyecek!
+1|Haaa? Pes etmemek sana ne faydası\nolacak, ha? Ha?
+2|Pes etmesen bile, başka birini feda\netmedikçe—
+3|Kendimi feda edeceğim.
+5|Keebo ile ben kendimizi feda edersek...\nShuichi ile Himiko yaşar, değil mi?
+6|O zaman onlar... bu saçma öldürme\noyunundan sağ çıkabilir...
+7|Maki...?
+8|Keebo'yu dinledikten sonra karar verdim...
+9|Bu öldürme oyununun umutsuzlukla bitmesini\nistemiyorum. Bu sadece... sinirimi bozar.
+10|Sırf seni öyle yazdığım için öyle hissetsen\nbile mi? Tıpkı Kaito'daki gibi...
+11|O zaman bile... seni öldürebilmek demekse\no sonu seçeceğim.
+12|Hayatımı feda etmem gerekse bile\nseni öldüreceğim!
+13|Feda mı?
+15|Özür dilerim... Kararımı çoktan verdim.
+16|A-Ama... bize ne olacak?\nGerçekten dış dünyaya dönebilir miyiz?
+17|Ne mi olacak? Orada sizin için hiçbir şey\nolmadığını size defalarca söyledim.
+18|Hayır, seyirciler bu sonu görünce\nbize yardım edeceklerinden eminim.
+19|Her şey yoluna girecek!\nKesinlikle umut bulacağız—
+20|Umut da ne demek?
+22|Ben... ben reddediyorum.
+23|O umudu kabul etmeyeceğim!
+24|Shuichi... Ne oldu?
+25|Bütün bunlar umut yüzünden\nyaşanıyor!
+26|O umudu reddediyorum!
+## c06_233_025
+0|Ana karakter Keebo!
+1|Keebo! Keebo!
+2|Artık sıra Keebo'da.
+3|Sana kaldı, Keebo.
+4|Herkesin intikamını al!
+5|Umuda inanmıştım.
+6|Hehehe... Ne kaba...
+7|deli gibi umutsuzluğu reddediyor XD
+8|aman tanrım Keebo, yaşa
+9|İşte bu Danganronpa!
+10|Umut zafere giden yol.
+11|Herkes, umudunuzu benimle paylaşın!
+12|Demek Ultimate bu...
+13|Keebo coştu!
+14|Demek Keebo'nun gerçek gücü bu!
+15|haydiiii Keebo!
+16|Biz de buradayız!
+17|Bu benim ilk canlı izleyişim.
+18|Biz de seninleyiz!
+19|shuichi'nin kanının rengini görmek istiyorum <3
+20|Makiiii
+21|sevgili suikastçım T_T
+22|Umut yaşıyor!
+23|İyi söyledin!
+24|Yine mi umut döngüsü?
+25|Umut bulaşıcıdır!
+26|İki adım ileri...
+27|Umutsuzluğa yenilme!
+28|Maki'nin kaderiyle oynama.
+29|İşte benim Maki'm.
+30|bir robot ve bir suikastçı...
+31|Umut devam etmeli!
+32|Maki, sevgilim...
+33|;_; ağlayacağım…
+34|Umut umutsuzluğa karşı!
+35|Bir oy Keebo'ya!
+36|Suikastçııııı
+37|umutsuzluğa düştüğün o an
+38|BÜTÜN BU GÖZYAŞLARI

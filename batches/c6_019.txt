@@ -1,0 +1,63 @@
+@ chap6_text_US
+## c06_105_032
+11|Hıh, hepimiz için aynı.
+12|Ama biliyor musun, Dünya'yı geride bırakıp\nyıldızlar arasında yolculuk etmek erkeğin hayalidir!
+13|...Ne kadar umursamaz biri.
+14|Hah! Daha çok salağın teki diyelim!
+15|Hey!? Kime salak diyorsun!?
+16|Tamam, kesin şunu! Burada arkadaş olmamız\nlazım, birbirinizle kavga etmeye başlamayın!
+17|Hm...? Arkadaş mı dedin?
+18|Doğru. Bundan sonra arkadaşız.
+19|Hımmm... Bizimle daha yeni tanışmışken ve\nnasıl insanlar olduğumuzu bilmezken mi?
+20|Şey... bundan sonra 16'mız burada\nbirlikte olacağız.
+21|Zor olabilir ama her seferinde bir\nadım atmaya çalışalım.
+22|Başta kavga edebiliriz ama birbirimize\ninanmayı unutmamalıyız.
+23|Hepimiz çok zor bir dönemden geçtik,\no yüzden hepimiz iyi arkadaş olabiliriz bence!
+24|Değil mi? Ne dersiniz?
+25|Gonta katılıyor! Gonta herkesle arkadaş\nolmak istiyor!
+26|Dondurulmuş uykudan uyandıktan sonra birlikte\nyaşamaktan başka seçeneğimiz olmayacak...
+27|O yüzden iyi geçinsek iyi olur.
+28|Nyahahaha! Biz zaten arkadaşız!\nAtua bile arkadaş olduğumuzu söylüyor!
+29|Nyeeh... Zahmetli gibi geliyor.\nAma tamam, olur.
+30|Hey, ya sen?
+31|Ha? B-Ben mi?
+32|Ah, evet... tabii ki...
+33|Anlıyorum, sevindim...
+34|Ne kadar kavga edersek edelim sonunda gülümseriz...\nGerçek arkadaşlık budur.
+35|Öyle olabilsek harika olurdu!\nHepimiz, 16 kişi!
+36|Evet, katılıyorum! Yeter ki o yozlaşmış\nerkekleri dışarıda bırakalım!
+37|Ha, şey... Bence biz erkekler de\ndahil olmalıyız.
+38|O zaman yapalım. Hepimizin yeniden\ngörüşmesi muhtemelen birkaç yıl sürecek...
+39|Ama hep birlikte çalışıp elimizden gelenin\nen iyisini yapalım...
+40|Evet, çünkü biz insanlığın son umuduyuz.
+41|Pekâlâ, o zaman hepimiz biraz kestirelim!\nSonra görüşürüz!
+42|*soluk, soluk* Ah!
+44|<CLT=cltMIND>Şimdi... hatırladım...\nBu oda...
+45|Burası... dondurularak uykuya\nyatırıldığımız odaydı.
+46|Tsumugi... sen de mi hatırladın?
+47|Burası... <CLT=cltSTRONG>Gofer Projesi<CLT=cltNORMAL> için dondurularak\nuykuya yatırıldığımız oda.
+48|16'mızın ilk tanıştığı yer.
+49|Ama o zaman hepimiz birlikte çalışacağımızı\nsöylemiştik... Arkadaş olacağımıza söz vermiştik...
+50|Ve şimdi birbirimizi öldürüyoruz...\nNeden... böyle bitmek zorundaydı...?
+51|...Bu Monokuma'nın suçu. Monokuma'nın ve onu\nyöneten <CLT=cltSTRONG>gerçek beynin<CLT=cltNORMAL>.
+52|Bu akademide saklanan o <CLT=cltSTRONG>gerçek beyin<CLT=typeNORMAL>\nbize bunları yaptırıyor, değil mi?
+53|Hey, Shuichi! Ne olursa olsun onları bulalım\nve öldürme oyununu tamamen bitirelim!
+54|Ve sonra... hepimizin verdiği o sözü\nsonunda yerine getirelim.
+55|Artık birçoğumuz eksik\nama hâlâ geç değil.
+57|Burada ilk tanıştığımızda ve uyandıktan\nsonra yeniden karşılaştığımızda...
+58|İkisinde de... Kaede hepimizin arkadaş\nolmamız gerektiğini söylemişti.
+59|Haklısın...\nGerçekten tam Kaede'lik bir şey...
+61|Tsumugi?
+62|A-Ah... bir şey yok.
+63|Ne olursa olsun beyni bulalım ve\nöldürme oyununu tamamen bitirelim!
+64|Ve sonra... hepimizin verdiği o sözü\nsonunda yerine getirelim.
+65|Artık birçoğumuz eksik\nama hâlâ geç değil.
+67|Aklıma geldi... Maki ile Himiko'nun\nnerede olduğunu biliyor musun?
+68|Onlara burayı anlatmak için arıyordum\nama bulamadım...
+69|Maki yurtta, Kokichi'nin odasında.
+70|Kokichi'nin yurt odası mı? Orada ne işi var?
+71|Kokichi'nin geride bırakmış olabileceği ipuçları\niçin bütün eşyalarını karıştırıyor.
+72|Himiko da Rantaro'nun odasına\ndoğru gidiyor...
+73|Rantaro'nun geride bırakmış olabileceği\nipuçlarını bulmaya çalışıyor.
+74|<CLT=cltMIND>Tsumugi buraya gelirken Himiko'yla\nkarşılaşmamış olmalı...
+75|Ah, demek ikiniz de yurttaydınız.

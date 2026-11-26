@@ -1,0 +1,78 @@
+@ chap6_text_US
+## c06_211_000
+131|Çişin gelmedikçe duruşma sırasında\nayrılamazsın!
+132|Ah! Çişim geldi!
+133|Bu numaraya kanmıyoruz!
+134|<CLT=cltMIND>Kaede'nin ikiz kardeşi mi...?\nBeyin hâlâ bir yerde mi saklanıyor?
+135|<CLT=cltMIND>Beyin gerçekten o mu?\nGerçekten bu kadar basit mi?
+## c06_212_000
+0|Hayır!\nKesin o olmalı!
+1|Beyin gizli odadaydı ve bize\nbirbirimizi öldürtüyordu!
+3|Kesin bu! Beyin Kaede'nin ikiz\nkız kardeşi!
+4|Sen de katıldığına göre artık\neminim, Shuichi!
+5|<CLT=cltMIND>...Bu ne?\nNeden bu kadar rahatsız hissediyorum...?
+6|<CLT=cltMIND>Listeyi gördük ama...\nBir şeyi kaçırıyormuşuz gibi hissediyorum.
+8|<CLT=cltMIND>Gofer Projesi katılımcı listesine göre\nKaede'nin ikiz kız kardeşi vardı...\n
+9|<CLT=cltMIND>Ama bu 17. bir kişi olduğunu kanıtlar\nmı? Şart değil...
+11|<CLT=cltMIND>Belki doğrudur ama...\nönce bir şeyi belirlemeliyiz.
+## c06_212_001
+0|Siz
+1|Siz beynin kimliğini\nçözebilir misiniz?
+2|beynin <CLT=size1.5>kimliğini<CLT=size1>
+3|<CLT=size1.5>çözebilir misiniz?
+4|Bu okuldaki
+5|Bu okuldaki 16 kişinin yanında...
+6|<CLT=size3>1
+7|<CLT=size3>6
+8|kişinin
+9|yanında...
+10|bir de
+11|bir de 17. kişi vardı!
+12|<CLT=size3>7<CLT=size2>.
+13|kişi vardı!
+15|O 17. kişi beyin!
+16|<CLT=cltWEAK><CLT=size3>1
+17|<CLT=cltWEAK><CLT=size3>7
+18|<CLT=cltWEAK><CLT=size2>.
+19|<CLT=cltWEAK>kişi
+20|<CLT=cltWEAK>beyin<CLT=cltNORMAL>!
+21|<CLT=size2>Kaede'nin\nikiz kız kardeşi<CLT=size1> olabilir...
+22|Kaede'nin\nikiz kız kardeşi olabilir...
+23|Tıpkı önceki\n<CLT=size2>öldürme oyunu gibi...
+24|Tıpkı önceki öldürme oyunu gibi...
+25|<CLT=size2>Beynin<CLT=size1> bu oyunda da bir <CLT=size2>ikizi
+26|Beynin bu oyunda da bir ikizi\nolabilir!
+27|<CLT=size2>Beynin<CLT=size1> bu oyunda da bir <CLT=size2>ikizi
+28|<CLT=cltAGREE><CLT=size2>Beynin<CLT=size1> bu oyunda da bir <CLT=size2>ikizi
+29|olabilir,
+30|gerçekten!
+31|Gerçekten önceki öldürme oyunuyla\naynıysa...
+33|o zaman Kaede\nhâlâ hayatta olabilir...
+34|o zaman Kaede hâlâ hayatta olabilir...
+35|ve\npotansiyel\nolarak\nbeyin olabilir.
+36|ve potansiyel olarak\nbeyin olabilir.
+37|Kimin umurunda!?\nCevaba hâlâ <CLT=size2>hiç yaklaşmadın<CLT=size1>!
+38|Kimin umurunda!?\nCevaba hâlâ hiç yaklaşmadın!
+39|Duruşma sürerken
+40|Duruşma sürerken\nayrılmak yok!
+41|<CLT=size2>ayrılmak yok!
+42|Önceki öldürme oyunu gibi.
+43|Muhtemelen hâlâ\nsaklanıyorlar.
+44|Bu mümkün!
+45|Kaede olabilir mi...?
+46|İkiz bir kız kardeş...
+47|Çürütmesi zor.
+48|Beyinleriniz\nkarmakarışık!
+49|Kaede... hayatta mı...?
+50|Bence Kaede\nbeyin değil!
+51|Nyeeeh!\nÇok sinir bozucu!
+52|×
+## c06_213_000
+0|Hayır, beyin 17. bir kişi olamaz.\nBu <CLT=cltSTRONG>Annekuma<CLT=cltNORMAL>'nın söyledikleriyle çelişiyor.
+2|Bu, beynin bütün zaman boyunca gizli\nodada olmadığını gösteriyor.
+3|Oda ile akademi arasında gidip geliyor\nolmalılar, değil mi?
+4|Tamamen saklı kalması gereken biri\ngerçekten bu riski alır mı?
+5|Doğru. Saklanmaya çalışıyorlarsa\nyerlerinden kıpırdamazlardı.
+6|Anlıyorum! Etkileyici bir mantık!
+7|Ona katılma!
+8|Ve inceleme sırasında <CLT=cltSTRONG>Geri Dönüş Işığı\nyapan bir sınıf<CLT=cltNORMAL> buldum...

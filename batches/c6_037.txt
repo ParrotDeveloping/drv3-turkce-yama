@@ -1,0 +1,62 @@
+@ chap6_text_US
+## c06_111_273
+40|...Beni affetmenizi beklemiyorum.\nYaptığım şey aptalcaydı.
+41|Ama... sizinle birlikte savaşmama izin verir\nmisiniz!? Gerçeği bulmanıza yardım etmek istiyorum!
+43|Tabii ki, Keebo.\nEn başından beri istediğim buydu.
+44|Sen olmasaydın bunu yapamazdık.
+45|Yani... izin veriyor musunuz?
+47|Ah... Kızgın görünüyorsun, Tsumugi.\nYardım etmemi istemez miydin...?
+48|Kızgın değilim... sadece kendimi tutuyorum.
+49|Biri o kadar ısrarla "lütfen" deyince hep\n"Ama reddediyorum" diye cevap vermek istiyorum.
+50|Ama burada havayı okuyabiliyorum...\nO yüzden kendimi tutuyorum.
+51|Tabii ki.
+52|Evet, artık iyiyim! Tabii ki bizimle\nsavaşabilirsin, Keebo!
+53|Canlılarla nesneler arasında büyük bir duvar\nvar ama sen bizim arkadaşımızsın, Keebo.
+55|Şey... Bu arada Maki, bir süredir\nsana sormak istiyordum ama...
+56|Taşıdığın o... elektrikli süpürge\nne?
+57|...Böcek Süpürgesi. Sanırım Kokichi tasarladı\nve Miu'ya yaptırdı.
+58|Ah evet, Gonta daha önce <CLT=cltSTRONG>minik böceklerden<CLT=typeNORMAL>\nbahsetmişti...
+59|Evet, bir şeye ipucu olabileceğini\ndüşündüm.
+60|Ama onunla hiç böcek yakalayamıyoruz.\nHiç yok gibi görünüyor.
+61|Demek sonuçta gerçekten sadece Gonta'nın\nhayal gücüymüş.
+62|Bekle, buna karar vermek için erken olabilir.
+63|En azından... gözlerimle inceleyene\nkadar bekleyebilir miyiz?
+64|<CLT=cltMIND>Gözlerinle mi?
+65|Ne demek istiyorsun, Keebo?
+66|Gözlerin ne işe yarar ki? Pek keskin\ngözlerin yok, değil mi?
+67|Bu doğruydu... yakınlaştırma işlevimi\nyükleyene kadar.
+68|...Yakınlaştırma işlevin mi?
+69|Laboratuvarımda, jet paketi ve roketatarın\nyanındaydı...
+70|O yakınlaştırma işlevi sayesinde görüşüm\nyüz kat arttı.
+71|Yüz kat mı!?
+72|Bu, varsayılan ayarlarını çok aşan bir\ngüçlendirme!
+73|Ultimate Robot'un gerçek yeteneği\nbu...
+74|Robot olduğum için bir insan için\nmümkün olmayan şekillerde evrimleşebilirim.
+75|Sonunda... bunu kabullendim.
+76|Aramızda belirgin farklar var ama\nbunlar utanılacak şeyler değil.
+77|Çünkü... <CLT=cltSTRONG>yeteneğimle<CLT=typeNORMAL> hepinizi\nkurtarabilmem mümkün.
+78|<CLT=cltMIND>Keebo Böcek Süpürgesi'ni Maki'den\naldı ve...
+79|Denemeye değer. Maksimum yakınlaştırmada\ngörüşüm bir mikroskopla aynı seviyede.
+80|...Maki, bu Böcek Süpürgesi'ni biraz ödünç alacağım.
+81|<CLT=cltMIND>Ona dikkatle baktı.
+82|...Görüyorum!\nBu anıyı yazdıracağım!
+83|<CLT=cltMIND>Tıpkı önceki gibi Keebo ağzından\nbir fotoğraf yazdırdı.
+84|<CLT=cltMIND>Onu dudaklarından alıp\nbana uzattı.
+85|Bu... Monokuma mı!?
+86|Gonta'nın bahsettiği <CLT=cltSTRONG>küçük böcekler<CLT=typeNORMAL>\nbunlar mı?
+87|Bir insanın gözleri nano ölçekte var olan\nşeyleri göremez.
+88|Gonta'nın onları fark etmiş olması...\ngörüşünün gerçekten insanüstü olduğunu gösterir.
+89|Hey, bu şeyler ne tutuyor?\nKamera mı tutuyorlar?
+90|...Neden onlara sormuyoruz?
+91|Bununla *konuşabilir* miyiz?
+92|Evet, gelişmiş bir duyma işlevini\nzaten yükledim.
+93|S-Sanırım her şey mümkün...
+94|Konuşmaya başla. Hemen.\nYoksa sizi tek tek ezerim.
+95|İşleviniz her neyse onu yerine\ngetiremezsiniz...
+96|Bu şartları kabul ediyor musunuz?
+97|<CLT=cltMIND>Keebo bunun pazarlığa açık olmadığını\nbelli eden bir şekilde sordu.
+99|Kendilerine... <CLT=cltSTRONG>Nanokumalar<CLT=typeNORMAL> diyorlar.\nGörünüşe göre Monoyavruların üyeleriymiş.
+100|Ne? Bu minicik şey mi...?
+101|O zaman aslında altı Monoyavru mu varmış?
+102|Tam olarak değil. Bunlar birey olarak değil,\nbir kovan zihni olarak var oluyorlar.
+103|Havada sürü halinde dolaşıp kampüsün\nher santimetrekaresini kaplıyorlar.

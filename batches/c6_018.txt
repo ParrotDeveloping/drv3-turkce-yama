@@ -1,0 +1,56 @@
+@ chap6_text_US
+## c06_104_135
+260|<CLT=cltSTRONG>12 Çin burcu hayvanı<CLT=typeNORMAL> ve <CLT=cltSTRONG>12 yıldız\nburcu<CLT=typeNORMAL> varsa, o zaman sadece 12x12!
+261|...Bu 144 eder. Rastgele bütün kombinasyonları\ndenemek için çok fazla...
+262|O zaman cevabı biliyor musun!?\nÇünkü ben hiç anlamıyorum!
+263|Bir dakika...\nDüşüneyim...
+264|<CLT=cltMIND>Bir <CLT=cltSTRONG>A<CLT=cltMIND> bir de <CLT=cltSTRONG>B<CLT=cltMIND> kadranı var, birinde <CLT=cltSTRONG>Çin\nburçları<CLT=cltMIND>, diğerinde <CLT=cltSTRONG>yıldız burçları<CLT=cltMIND>...
+265|<CLT=cltMIND>Bir de akademide bir yerde bir ipucu mu?\nBunu çözebileceğime eminim...
+266|Shuichi, az önce sana bağırdım biliyorum\nama takılırsan benimle konuş.
+267|Aklına bir şey gelmesine yardımı olur.\nNe de olsa *ben* efsanevi bir büyücüyüm.
+268|E-Evet... teşekkürler.
+269|<CLT=cltMIND>Vakit yok... denemeliyim.\nBu kadranları incelemeliyim...
+270|<CLT=cltMIND>Çözemezsem...\nHimiko'ya sorabilirim...
+271|<CLT=cltMIND>İşe yaramıyor, açılmıyor.\nBunu körlemesine yapmak imkânsız...
+272|<CLT=cltMIND>Himiko'yla konuşmak daha iyi\nolabilir...
+273|Evet! Açıldı!
+274|Nasıl bilmiyorum ama açıldı!\nAma... bütün bunlar ne demekti?
+275|Akademideki ipucu Kokichi'nin\nyazdığı mesajdı.
+276|Bu kadranlar için bir ipucuydu.
+277|Asıl mesajın üzerine yazılmıştı...
+278|Gonta ilk gördüğünde sadece\n"horse a" yazıyordu.
+279|Kokichi ona daha fazlasını ekledi...
+280|ama bu sadece bir oyalamacaydı.
+281|<CLT=cltSTRONG>"horse a"<CLT=cltNORMAL> aslında ipucunun\nkendisiydi. Yani "A: At".
+282|Ooo! Anladım! Yani <CLT=cltSTRONG>A<CLT=typeNORMAL> kadranı\n<CLT=cltSTRONG>at<CLT=typeNORMAL> olmalı!
+283|Yani <CLT=cltSTRONG>A kadranındaki<CLT=typeNORMAL> <CLT=cltSTRONG>Çin burcu<CLT=typeNORMAL>\n<CLT=cltSTRONG>"at"<CLT=typeNORMAL>tı.
+284|Diğer ipucu arka bahçede saklıydı.
+285|<CLT=cltSTRONG>"twins b"<CLT=cltNORMAL> yazıyordu. Yani "B: İkizler".
+286|Anladım! Yani <CLT=cltSTRONG>B<CLT=typeNORMAL> kadranı\n<CLT=cltSTRONG>İkizler<CLT=typeNORMAL> olmalı!
+287|Evet. <CLT=cltSTRONG>B kadranındaki<CLT=typeNORMAL> <CLT=cltSTRONG>yıldız burcu<CLT=typeNORMAL>\n<CLT=cltSTRONG>"İkizler"<CLT=typeNORMAL>di.
+288|Nyeeh, demek anlamı buymuş! Çıkarımların\nsayesinde her şey aydınlandı!
+289|Ama... Kokichi neden bütün o şeyleri ekledi?
+290|Kendini beyinmiş gibi göstermeye\nçalışıyordu.
+291|Buna inanmamız gerekiyordu...
+292|Beynin *ta kendisi* olmaya çalışıyordu.
+293|Nyeeeh... öldükten sonra bile başımıza dert\noluyor... Tam bir baş belası!
+294|Bakalım kasada ne var...
+295|Buraya girmek bu kadar zorsa içinde\nönemli bir şey olmalı.
+296|G-Gerildim!\nÖnce kussam olur mu?
+297|...Gerilince midin mi bulanıyor?
+298|<CLT=cltMIND>Açık kasanın içine göz attım\nve şunu buldum...
+299|Bir USB bellek mi...?
+300|O Monokuma deseni burada bir şey olduğu\nanlamına gelmeli ama içine nasıl bakacağız?
+301|<CLT=cltMIND>Hm, bu laboratuvardaki <CLT=cltSTRONG>o şeyi<CLT=cltMIND>\nkullanabilirim.
+302|<CLT=cltMIND>Kasadaki tek şey USB bellekti.\nOnun dışında boş.
+## c06_105_032
+0|B-Bu...
+1|Değil mi? Bu oda çok tuhaf, değil mi?\nBir türlü çözemiyorum.
+2|Sanırım... şu da mümkün—
+4|B-Bir tane daha!\nBu sefer... ne—
+5|O zaman başlayalım.
+6|D-Dur! Henüz zihnen hazır değilim!
+7|Eh, robotların muhtemelen insanlar gibi\nzihnen hazırlanmasına gerek yoktur...
+8|Aslında robotların dondurularak uyutulmaya\nihtiyacı var mı ki?
+9|Ben de sizin gibi hâlâ bir gencim. Uyanık kalan\ntek kişi ben olsaydım yalnız hissederdim.
+10|Ama... gerçekten sorun yok mu? Bu ilk\ndondurularak uyutulmam, o yüzden çok gerginim.

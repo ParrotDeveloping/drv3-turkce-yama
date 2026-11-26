@@ -1,0 +1,65 @@
+@ chap6_text_US
+## c06_209_000
+2|N-Ne...? Öyle bir şey...\nnerede olabilir ki?
+3|...Tıpkı sizin gibi <CLT=cltSTRONG>Monoyavru<CLT=cltNORMAL> olmalarına\nrağmen bilmiyor musunuz?
+4|Ha? Monoyavru mu?
+5|...Bunları kastediyorum.
+6|Ooo... Ne kadar sevimli ve minicikler.
+7|...Değil mi? Onlar da sizin kardeşleriniz.
+8|Bu kadar büyük bir sırrı bu kadar\nrahat açıklamak olur mu!
+9|Bu ufaklıklara Nanokuma deniyor.\nGörevleri kampüsü izlemek.
+10|BUNU-NEREDEN-BİLİYORSUN...?
+11|Ah, babam söyledi! Herkese söylediğimden\nemin olmamı söyledi!
+12|Tamamen unutmuştum.\nİyi ki şimdi hatırladım!
+13|Salak! Çok geç hatırladın!
+14|Kampüsün her yerinde vızıldayan sayısız\nNanokuma var.
+15|Kaydettikleri bütün görüntüler kablosuz olarak\n<CLT=cltSTRONG>Annekuma üzerinden iletiliyor<CLT=cltNORMAL>...
+16|ve sonra Monokuma'ya gönderiliyor.
+17|Evet, Annekuma üzerinden. Bu önemli bir nokta.
+18|Kamera görüntülerini Annekuma alıyorsa\nbeyin ona her şeyi sorabilirdi.
+19|Kütüphanedeki ve gizli odadaki durumu\nbilirlerdi.
+20|Anlıyorum! Annekuma onlara kameraların\naralık zamanlayıcılarını söyleyebilir!
+21|O zaman beyin Monopad'i Rantaro'dan\nçaldıktan sonra gizli odadaydı.
+22|Ama Monopad'i neden çalsınlar ki?
+23|Beyin muhtemelen Rantaro'nun ayrıcalığını\nbizim ele geçirmemiz fikrinden ödü kopmuştu.
+26|Korkmuş değildim aslında...
+27|Hayatta Kalan Ayrıcalığı sadece Rantaro'nun\ngörmesi içindi. Tabii bilgiyi sizinle paylaşabilirdi...
+28|Ama bu, bilgiyi doğrudan Monopad'den\nalmakla aynı şey değil.
+29|Çünkü o zaman sadece Rantaro'nun görmesi\niçin bir Hayatta Kalan Ayrıcalığı diyemezsin, değil mi?
+30|O yüzden ölünce onu geri aldım.\nO kadar.
+31|...Bundan emin değilim.
+32|Hm? Neden öyle düşünüyorsun?
+33|Şimdi sakin görünüyorsun... ama o sırada\nepey çaresiz kalmış olmalısın.
+34|Monopad'de açıkça <CLT=cltSTRONG>akademide bir beyin\nolduğu<CLT=cltNORMAL> yazıyordu.
+35|Her şeyin ardında bir beyin olduğunu o zaman\nbilseydik birlikte çalışırdık.
+36|Ama buna izin veremezdin.\nBirbirimizin peşine düşmemiz gerekiyordu.
+38|Her halükârda Monopad'i beynin çaldığını\nkabul ediyorsun, değil mi?
+39|Eh, evet... Ama istemeyerek.
+40|O zaman beyin hata yapmış!
+41|Monopad'i geri almak istiyorlarsa\nbunu Monokuma'ya yaptırmalılardı!
+42|Yoo, bu imkânsız.
+43|Kurallara göre <CLT=cltSTRONG>bir cinayete katılamam<CLT=cltNORMAL>,\nbuna olay yerini kurcalamak da dahil.
+44|<CLT=cltMIND>Okul kuralları...
+45|Kurallara uymak konusunda bu kadar katıysan\nbiri izliyor mu demek oluyor?
+46|Eğer öyleyse—
+47|Yine de ne Hayatta Kalan Ayrıcalığı israfı!
+48|Biraz daha yaşasaydı bu bilgi işleri\nilginç hale getirirdi!
+49|Nyeh! Konuyu değiştirmeyi bırak!
+50|<CLT=cltMIND>Hâlâ bütün resmi göremiyorum...\nama görünüşe göre hepimiz izleniyoruz.
+51|<CLT=cltMIND>O halde...\nbu plan iyi gitmeli.
+52|<CLT=cltMIND>Bu öldürme oyununun kendi kurallarına\nuymadığını kanıtlayıp onu mahvedersem...
+53|<CLT=cltMIND>her şeyi bitirebilmeliyim!
+54|Ama bu sınıf duruşmasının amacı Rantaro'nun\ndavasını tartışmak, değil mi?
+55|Beynin onun Hayatta Kalan Ayrıcalığı'nı\nçalması bunu hiç etkilememeli.
+56|Sonuçta onu Kaede öldürdü...\nBu gerçekten kaçış yok.
+58|Gerçek tektir!
+59|Hayır, gerçek bu değil.\nBundan eminim.
+60|Bu senin uydurduğun bir <CLT=cltSTRONG>yalan<CLT=cltNORMAL>.
+61|...Ben mi? Yalan mı?
+62|Doğru! Rantaro'yu öldüren Kaede değildi!\nGerçek suçlu...
+64|Monoyavrular!
+65|Neee!? Yine mi biz!?
+66|Bu doğru olamaz! Bir cinayete katılmamıza\nizin yok!
+69|Monokuma!
+70|Müdahale edemem! Okul kuralları\nfalan filan yüzünden!
+73|Rantaro

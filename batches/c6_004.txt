@@ -1,0 +1,53 @@
+@ chap6_text_US
+## c06_100_001
+10|...Belli ki öldürme oyununun ardındaki\nbeynin gerçek kimliğini bulmalıyız.
+11|Beyin mi...? Bu akademide gerçekten bir\nbeyin var mı?
+12|Dış dünya yok olduysa beyin bu\nokulda olmalı, değil mi?
+13|Kokichi beyin değildi...\nO zaman bu durumda...
+14|Ama Gofer Projesi tarafından kurtarılanların\nsadece biz 16 öğrenci olduğunu sanıyordum...
+15|<CLT=cltSTRONG>Birinin<CLT=typeNORMAL> Gofer Projesi'ne sızmış olması\nmümkün değil mi sizce?
+16|O biri bu okulda bir yerde saklanan\nbeyin olabilir.
+17|<CLT=cltSTRONG>Biri<CLT=typeNORMAL> mi... Bir <CLT=cltSTRONG>Umutsuzluk\nKalıntısı<CLT=typeNORMAL>'nı kastediyorsun, değil mi?
+18|O zaman bu akademide Kokichi'den başka\nbiri daha <CLT=cltSTRONG>Umutsuzluk Kalıntısı<CLT=typeNORMAL> mı?
+19|Onu bulup öldürebilirsek bu öldürme\noyunu bitmeli.
+20|Ah, *öldürmek* konusunda emin değilim...
+21|Ama beynin bu akademide bir yerde\nsaklanıyor olma ihtimali var.
+22|Bu yapı çok büyük, henüz keşfetmediğimiz\nyerler olmalı.
+23|Denemeye değer gibi görünüyor.
+24|Ve bulmamız gereken tek şey\nbu değil...
+25|Bu öldürme oyununu gerçekten bitirmek için\nbu <CLT=cltSTRONG>umutsuzluk<CLT=cltNORMAL> beynini bulmalıyız...
+26|ve ayrıca <CLT=cltSTRONG>umudu<CLT=cltNORMAL> bulmalıyız.
+27|...Umut mu?
+28|Evimiz. Bu öldürme oyunu bittikten sonra\nyaşayacağımız yer.
+29|Dışarıda bir yerde <CLT=cltSTRONG>umut<CLT=cltNORMAL> olduğunu biliyorum.\nGitmeden önce onu bulmalıyız.
+30|Bu kurgusal bir hikâye değil, o yüzden işlerin\no kadar iyi gideceğini sanmıyorum...
+31|Ama ararsak bulabiliriz.\nDenemezsek... asla hiçbir şey bulamayız.
+32|O yüzden denemeliyiz.
+33|Keebo Exisal'ların dikkatini dağıttığı için okul\nkurallarını çiğnemek konusunda endişelenmemize gerek yok...
+34|Henüz incelemediğimiz başka odalar\nolmalı.
+35|Haklısın... Söylenmenin anlamı yok.\nHepimiz elimizden geleni yapalım.
+36|Ş-Şey... hepimiz birlikte çalışırsak\nher şey yoluna girer... değil mi?
+37|Evet... zor olmamalı.
+38|Ne kadar imkânsız görünürse görünsün\nbaşaracağız.
+40|...Evet... doğru!
+41|<CLT=cltMIND>Bu akademide saklı <CLT=cltSTRONG>umudu<CLT=cltMIND> ve\n<CLT=cltSTRONG>umutsuzluğu<CLT=cltMIND> bulmalıyız...
+42|<CLT=cltMIND>Her şey ortaya çıktığında...\nbu öldürme oyunu bitecek!
+43|O zaman ayrılıp aramaya başlayalım.
+44|Nyeh!? Ayrılacak mıyız?\nAma daha yeni bu kadar birlik olmuştuk.
+45|Şey... ne yazık ki hep birlikte gitmek\niçin yeterli vaktimiz kalmadı.
+46|Doğru... yakında görüşürüz.
+47|Tamam, ben de gitmeliyim. Bu öldürme oyununu\nşafaktan önce bitirmeliyiz—
+49|N-Ne? Bir... delik mi...?
+50|<CLT=cltSYSTEM>Şimdi arkadaşlarınla olan <CLT=cltSTRONG>bağlarını<CLT=cltSYSTEM>\nsınama vakti!
+51|<CLT=cltSYSTEM>Şafağa kalan süre ve arkadaşlarınla olan\n<CLT=cltSTRONG>bağın<CLT=cltSYSTEM> gösterilecek.
+52|<CLT=cltSYSTEM><CLT=cltSTRONG>Bağın<CLT=cltSYSTEM> artarsa büyük enkazları\nhareket ettirebilirsin.
+53|<CLT=cltSYSTEM>O yüzden şafak sökmeden bu öldürme oyununu\nbitirmek için sıkı çalış!
+54|<CLT=cltMIND>Bir merdiven var...\nBurada neden bir merdiven var?
+55|<CLT=cltMIND>Bu merdiven... bir <CLT=cltSTRONG>gizemli eşyayla<CLT=cltMIND>\nmı açılacaktı?
+56|Burada ipuçları olmalı...\nİncelemeliyim!
+## c06_100_058
+0|<CLT=cltMIND>Kırık ama bu kapıdan anlaşılan...
+1|Burası bir Ultimate laboratuvarı olmalı.
+2|<CLT=cltMIND>Açık değil ama geriye sadece bir\nUltimate laboratuvarı kaldı...
+3|Kokichi'nin...\n<CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>'in laboratuvarı.
+4|<CLT=cltMIND>Bu kapının açılmaması gerekiyor...

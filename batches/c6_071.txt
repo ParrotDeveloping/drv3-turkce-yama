@@ -1,0 +1,62 @@
+@ chap6_text_US
+## c06_231_000
+132|Tıpkı gerçek dünyada Togami Şirketi\nolmadığı gibi.
+133|Biz kurgusal karakterlerin yaşayabileceği\ntek yer bu kurgusal dünya.
+134|Sadece bu dünyada. <CLT=cltSTRONG>Sadece Danganronpa'da.<CLT=cltNORMAL>
+135|Sadece... bu dünyada mı?
+136|Evet, aslında hapsolduğunuz yer\nDanganronpa dünyası!
+137|Bu yüzden buradan ayrılamazsınız.
+138|Bu yüzden tek seçeneğiniz burada\nöldürme oyununa devam etmek.
+139|Hepiniz birbirinizi öldürmek için yaratılmış\nkurgusal karakterlersiniz. Dünyanın istediği bu.
+140|Bu yüzden... kaçacak hiçbir yer yok.
+141|Y-Yeter...
+142|Başka hiçbir şey bilmek istemiyorum!\nYeter artık!
+143|Ah! O tepki...!
+144|Yoksa... umutsuzluğa mı düştün?
+145|Böyle zamanlarda destek için\narkadaşlarına bakmalısın.
+146|Ama bütün arkadaşların da kurgusal.
+148|Mesela... Kaito'nun hastalığı bile\nkarakterinin bir parçası olarak verilmişti.
+150|O olay örgüsünü bulup ona o virüsü\nveren bendim.
+151|Senin Kaito'ya âşık olduğun olay örgüsünü\nbulan da bendim.
+152|N-Ne... diyorsun sen?
+153|O zaman Tenko ne olacak!? Beni hep\nkoruması şu yüzden miydi—
+154|Çünkü karakteri öyleydi.\nBenim için de aynısı geçerli.
+155|Tıpkı benim gibi, öldürme oyununa heyecan\nkatmak için yaratılmış bir karakter.
+156|Böylece öldürme oyunu heyecanla kabardı.\nPantolonum bile kabarmaya başladı.
+157|B-Bize... bunların hepsinin yalan olduğunu\nmu söylüyorsun? Duygularım... bile mi?
+158|*Onların* bile yalan olduğunu mu söylüyorsun!?
+159|Eh, kurguya yalan diyeceksen...\no zaman evet.
+160|Bu dünyadaki her şeyin bir yazarı var.\nBütün sözlerimiz ve eylemlerimiz...
+161|...sadece bir yığın <CLT=cltSTRONG>yalan<CLT=cltNORMAL>.
+162|Mesela... kırılmaz bir kardeşlik yemini\nsadece basit bir olay örgüsü.
+163|Söyledin, kardeş! Ama muhteşem bir\nolay örgüsüydü!
+164|Kaede'nin Shuichi'nin kalbine dokunan\no sözü bile...
+166|Sana inanıyorum, o yüzden sen de kesinlikle\nkendine inanmalısın!
+167|Bu bir yalandı! Çünkü gerçek Kaede şöyle dedi...
+168|Öldürme oyunu için biçilmiş kaftanım.\nİnsanlığa hiç inancım yok.
+169|Ve Kaito'nun ilham verici sözünü kim unutabilir?
+171|Bu bir yalandı! Çünkü gerçek Kaito şöyle dedi...
+172|Sadece Danganronpa'da yer almayacağım,\nherkesi öldürüp kazanacağım!
+173|Şöhreti ve serveti elde ettiğimde neyin\nimkânsız olduğunu dert etmem gerekmez.
+174|Hepsiiii kurgu! Hepsiiii yalan!
+175|Bu öldürme oyununda yaşanan\nher bir şey...
+176|...bir <CLT=cltSTRONG>yalan<CLT=cltNORMAL>!
+177|<CLT=cltMIND>Hepsi... yalan mı?
+178|<CLT=cltMIND>Şu an hepimizin burada olmasının\nsebebi onlar...
+179|<CLT=cltMIND>Onlar sayesinde...\ndeğişebildim.
+180|<CLT=cltMIND>Bu yüzden onlar için de yaşamaya çalışıyordum...\nOlumlu kalmak için çok uğraşıyordum...
+181|<CLT=cltMIND>Ama... o bile yalansa...
+183|Ben... neden buradayım?\nBu kadar uzun süre neden hayatta kaldım ki?
+184|Bu kurgu.\nDaha büyük bir anlamı yok.
+185|Ölümün daha büyük bir anlamı yok.\nHayatın daha büyük bir anlamı yok.
+186|Hepsi kurgu. Hiçbirinde bulunacak\nbir anlam yok.
+187|Iyy! O kadar iğrenç ki kusabilirim!
+188|Eh, sanırım bütün bunlara inanmamanız\nmantıklı.
+189|Nasıl ama?\nUmutsuzluğa düştünüz mü artık?
+190|Hükmümüz altında umutsuzluğa düşmezseniz\nbizim için sorun olur!
+192|Danganronpa tamamen umutsuzlukla ilgili!
+193|Bu öldürme oyununun bu kadar popüler\nolmasının... 53 sezon sürmesinin sebebi...
+194|O sebep umutsuzluk.\nİzleyiciler sizin umutsuzluğunuzu görmeye akın ediyor.
+195|Bu yüzden oradaki bütün o insanlar çok\nmutlu görünüyor! Görüyor musun!?
+197|<CLT=cltMIND>Umutsuzluk mu...?
+198|<CLT=cltMIND>Bu... umutsuzluk mu?

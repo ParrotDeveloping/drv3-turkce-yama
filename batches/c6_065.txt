@@ -1,0 +1,62 @@
+@ chap6_text_US
+## c06_227_000
+53|Sahte anılarla kontrol ediliyordun,\nbeynin elinde oyun hamuru gibi.
+54|Ama kontrol edilen tek kişi Maki\ndeğildi. Hepiniz öyleydiniz.
+55|Kokichi'nin dış dünyanın gerçeğini\nortaya çıkardığı zamanı hatırlıyor musunuz...?
+56|Hepiniz o kadar bunaldınız ki öldürme\noyununa bile odaklanamadınız.
+57|Dur, o zaman... bundan toparlanmamız\niçin sen...
+58|Evet! Size Hope's Peak Akademisi öğrencisi\nolduğunuza dair anılar verdik! Umudun sembolü!
+59|Böylece hepiniz umutsuzlukla yüzleşebilirdiniz.
+60|Sen... bizi o sahte anıyla mı kontrol ettin!?
+61|Eh, sadece o anı değildi.\nŞimdiye kadarki hepsiydi.
+62|Yeni gizemler ve gerçekler motivasyona\ndönüşür. Motivasyon bir hikâyeyi sürükler.
+63|Geri Dönüş Işıkları'ndan gelen her şey\nsizi ilerletmek için bir motivasyondu sadece.
+64|Amaaa... sanırım sahte bir motivasyondu.
+65|Siz salaklar anlamsız yalanlarla\nsürekli oradan oraya savruldunuz!
+66|Bu sınıf duruşması da öyleydi, değil mi?\nBunu yapmak için neden bu kadar motiveydiniz?
+67|Çünkü Geri Dönüş Işıkları'ndan birinden\nbir anı aldınız, değil mi?
+68|O da bizi kontrol etmek için kullandığın bir anı mıydı?
+69|Hey, ondan ne hatırlamıştınız\nbir daha?
+70|İlk başta insanlığın son umudu olan\nGofer Projesi'nden kaçtınız...
+71|Ama sonra kaderinizi cesurca kabul\netmeyi seçtiniz...
+72|Arkadaşlarınızın ve ailelerinizin bütün\ndileklerini üstlendiniz...
+73|...Ve şimdi buraya nasıl geldiğinizi\nhatırlıyorsunuz.
+74|Dünyanın umudunun size emanet edildiğini\nhatırladınız, değil mi?
+75|O umudun ağırlığını hatırlamak sizi daha\ngüçlü hissettirmiş olmalı.
+76|"Kaçmalıyım!" "Asla pes etmeyeceğim!"\n"Beyne yenilmeyeceğim!"
+77|Kaito ile Kokichi gitmiş, Keebo da\nçıldırmaya başlamış olsa da...
+78|Umudu bırakmadınız. Bu öldürme oyunuyla\nyüzleşmeye karar verdiniz, değil mi?
+79|Duygularımızı mı kontrol ediyordun?\nBeyni yenme kararlılığımızı bile mi?
+80|Bu bir öldürme oyunu. Duyguların kan\ngibi aktığı bir ölüm oyunu.
+81|Katılımcılar yaşamak için ellerinden\ngeleni yapmazsa pek heyecanlı olmuyor.
+82|B-Bütün anılar... sahte miydi?\nO zaman... şimdiye kadarki her şey neydi?
+83|O anı ve o anı...
+84|Ve o anı ve o anı ve o anı\nve o anı ve o anı ve o—!
+85|Hepsi sahte anılarsa o zaman...
+86|Biz... neredeyiz?\nNeden bu öldürme oyunundayız?
+87|Evet, kim bilir? İnsanlığın son öldürme\noyunu için planlarım biraz suya düştü.
+88|O yüzden nedenini kendiniz çözün.\nNe de olsa bu bir sınıf duruşması.
+89|O zaman... sen kimsin!?
+91|...*Kim* olduğunu bilmiyorum.
+92|Ha? Anlaşılmayacak ne var?
+94|...ben oldu. Bunun neresini\nanlamıyorsun?
+95|Bu öldürme oyunu Hope's Peak Akademisi'yle\nbağlantılıysa sana inanırım.
+96|Bu kesinlikle Junko Enoshima'nın iradesini\nsürdüren birinin işi.
+97|Ama bizim Hope's Peak'le hiçbir ilgimiz yok,\nyani sen Junko olamazsın.
+98|O zaman sen kimsin be!?
+99|Ben benim. Başka kimse değil.
+102|Ha? Onu tanıyorsunuz, değil mi? Jabberwock\nAdası öldürme oyunundaydı.
+103|Ben <CLT=cltSTRONG>Hajime Hinata<CLT=cltNORMAL>...
+104|B-Bunu kastetmiyoruz.\n*Sen* ne yapıyorsun!?
+105|Ne mi yapıyorum...? Sadece <CLT=cltSTRONG>kostüm\ngiyiyorum<CLT=cltNORMAL>.
+106|Kostüm mü?
+107|Evet, bu sadece bir kostüm.
+108|Ama sıradan bir kostüm değil! Çünkü karakteri\nkusursuzca kopyalayabiliyorum!
+109|Bakın! Sesim bile tıpatıp aynı!
+110|Junko Enoshima da mı...
+111|Evet... Benim kostümüm.
+112|Birçok karakteri kusursuzca kopyalayıp\ngerçekten onlara dönüşebiliyorum...
+113|<CLT=cltSTRONG>Ultimate Kostümcü<CLT=cltNORMAL>'nün yeteneği bu!
+114|Birçok karakter mi?
+115|Hope's Peak Akademisi öğrencilerinin kostümünü\nnasıl giyebilir ki!?
+116|Çünkü Tsumugi bize söylemişti...

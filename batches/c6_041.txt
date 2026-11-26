@@ -1,0 +1,59 @@
+@ chap6_text_US
+## c06_201_000
+87|O zaman öyle düşünmüştüm ama görünüşe\ngöre bu varsayım yanlışmış.
+88|Rantaro'nun kapıyı bilmesinin gerçek\nbir <CLT=cltSTRONG>sebebi<CLT=cltNORMAL> vardı.
+89|<CLT=cltMIND>Evet, o sebep...
+90|Kaede ona söyledi
+91|<CLT=cltMIND>Hayır... buna dair bir kanıt yok...
+92|Bir sebebi mi var...?
+93|Belki de Rantaro en başından beri biliyordu...
+95|Kütüphaneyi inceledi
+96|<CLT=cltMIND>Belki de tıpkı benim gibi odayı ararken\nkapıyı fark etmiştir.
+97|<CLT=cltMIND>...Hayır, bunu yapmadan önce kapıyı\nbiliyor olmalıydı.
+98|Gizli kapıyı fark edenler sadece Shuichi\nile Rantaro'ydu, değil mi?
+99|Başka biri söylemeden kendi başına\nbulduğunu hayal edemiyorum...
+101|Hayatta Kalan Ayrıcalığı
+102|Tesadüf
+103|Himiko haklı.\nSadece bir tesadüftü.
+104|Demiştim.
+105|...Dostum, *bunu* açıklamak için mi bizi bu kadar beklettin!?
+108|Işıltı büyüsüyle gizli kapıyı\nbulabilirdim ama...
+109|Ne yazık ki Büyücüler o büyüyü alamıyor.
+111|<CLT=cltMIND>Rantaro'nun o kapıyı bilmesinin\nsebebi...
+112|Rantaro'ya bu Monopad bir tür\n"<CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı<CLT=cltNORMAL>" olarak verilmişti...
+113|İçinde henüz kilidi açılmamış yerler dahil\nbütün akademinin haritası var.
+114|Tabii buna <CLT=cltSTRONG>gizli oda<CLT=cltNORMAL> da dahil.
+115|Rantaro'ya bunun Hayatta Kalan Ayrıcalığı\nolarak verildiğini düşünmek...
+116|Gizli odayı bu haritayla mı öğrendi?
+117|Monopad'de Rantaro'nun kendisi için\nkaydettiği bir video da vardı.
+118|Beynin yedek bir Monokuma'ya ihtiyacı olursa\ngizli odaya gidecekti.
+119|Gizli odayı incelemek için kütüphaneye\ngitmesine ilham veren o mesajdı.
+120|Artık bir süre sınırı yürürlükte! İki gün\nsonra geceye kadar bir cinayet işlenmezse...
+123|Süre dolunca beyin Monokuma'yı seri üretmek\niçin o odaya gidecekti...
+124|Yani beynin kim olduğunu\nbulmak için...
+125|Rantaro süre dolmadan hemen önce kütüphanenin\narkasındaki gizli odaya gitti.
+126|Doğru. Rantaro da Kaede ile benim vardığımız\nsonuca varmış olmalı.
+127|Ultimate Hayatta Kalan'ın Kaede'nin tuzağı\nyüzünden ölmesi gerçekten ironik.
+128|Ama Rantaro'nun elinde böyle bir ipucu\nvardıysa neden bize gelmedi?
+129|Sanırım bize güvenmediği için. Ne de olsa\nöldürme oyunu daha yeni başlamıştı.
+130|Video mesajında söyledikleri de\nkesinlikle işe yaramadı.
+131|Kendine bu bilgiyi sadece güvenebileceği\ninsanlarla paylaşmasını söyledi.
+132|Bu mesajı kaydettiğine dair hiçbir\nanısı yoktu, değil mi?
+133|Demek ki ona inanmakta o da\nzorlanmış olmalı.
+134|Muhtemelen onun için de kafa karıştırıcıydı.\nBu yüzden bize danışmadı.
+142|O videoya mı, bize mi, yoksa kendine mi\ngüvenebileceğini bilmiyordu...
+143|Çok... çaresiz kalmış olmalı...
+144|Ama süre sınırı yaklaşınca\nşansını denemeye karar verdi.
+152|O yüzden kimseye söylemeden kütüphaneye\ntek başına gitti...
+153|Ve sonra Kaede'nin tuzağıyla öldürüldü...
+154|O sırada gizli kapıyı bilen tek kişiler\nRantaro ile bendim...
+155|Yanımda Kaede vardı ve ona güvenebileceğimi\ndüşündüm. O yüzden ona gizli odayı anlattım...
+156|Sanırım benimle Rantaro arasındaki fark\nbuydu. Benim Kaede'm vardı...
+157|Ve onu öldüren de Kaede!
+158|Ne yılan!
+160|Hey, şey... siz neden bahsediyorsunuz?\nBu benim unuttuğum bir şey mi?
+161|Ne dediklerine dair hiçbir şey\nbilmiyorum.
+162|BU... BİZ-DOĞMADAN-ÖNCE-Mİ-\nYAŞANDI?
+163|Peki ne demek istiyorsun?
+164|Rantaro'nun kim olduğunu ve neden öyle yaptığını\nbiliyorsun... Ama artık anlamsız, değil mi?
+165|Hayır, anlamsız değil.

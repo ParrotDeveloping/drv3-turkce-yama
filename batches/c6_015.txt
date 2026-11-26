@@ -1,0 +1,66 @@
+@ chap6_text_US
+## c06_104_135
+55|<CLT=cltMIND>Ama belki de... Kokichi'nin o mesaja\nekleme yapması...
+56|<CLT=cltMIND>sadece bir oyalamacaydı?
+57|<CLT=cltMIND>Öyle düşününce\ndiğer mesaj...
+58|<CLT=cltMIND>"twins b"...\n
+59|<CLT=cltMIND>O iki mesaj birer ipucu!
+60|Ne oldu? Bir şey hatırlamış gibi\nbir yüz ifaden var.
+61|Ah, evet... sanırım bir şey buldum.
+63|O zaman deneyelim! Yardımcın olarak\nseni izleyeceğim!
+64|Yardımcım beni izleyecek...
+65|<CLT=cltMIND>Vakit yok.\nÇıkarımımı denemeliyim...
+66|Kasanın kadranlarını gördüğüm mesajlara\ngöre çevirdim...
+68|Ne oldu, Shuichi? Bu kadar yol geldikten\nsonra özgüvenini mi kaybettin?
+69|H-Hayır, sadece...
+70|Böyle zamanlarda gerçek sana bir mermi gibi\ncarpar! Sadece onu okuman gerek!
+71|Bir mermi gibi mi?
+72|Nyeh? Ne diyorum ben? Bu sözler\naklıma... bir yerden geldi.
+73|Böyle zamanlarda gerçek sana bir mermi gibi\ncarpar! Sadece onu okuman gerek!
+74|Aniden aklıma gelen sözler bunlar\nama... ne anlama geliyorlar ki?
+75|S-Sanırım kusmayı tutabilirim.
+76|Düşününce bir süredir bir şey yemedik.\nKusacak bir şeyim bile yok.
+77|O Monokuma tasarımı burada bir şey olduğu\nanlamına gelmeli ama içine nasıl bakacağız?
+78|Büyüm bitti, o yüzden buna bakamam...\nBüyümle içini göremeyiz.
+79|<CLT=cltMIND>İncelemem gereken bir sürü\nşey var.
+84|Bir dizüstü bilgisayar mı...?
+85|Ooo, bu umut verici görünüyor! Büyüm\nbunun önemli olduğunu söylüyor!
+86|Burada bir ipucu olabilir.\nKontrol etmeliyim.
+87|<CLT=cltMIND>Hâlâ çalışıyor gibi görünüyor...\nİçinde ne olduğuna bakmalıyım...
+89|Ne oldu?
+90|Bu... boş.
+91|Boş mu? Ne demek istiyorsun?
+92|İçinde hiç veri yok.
+93|Ne!? İçinde ilginç bir şey bile yoksa\nburaya neden dizüstü bilgisayar koysunlar!?
+94|Öyle görünüyor...
+95|H-Hayır ama...\nBüyüm bir şeye tepki verdi.
+96|Bir şey olmalı!\nDaha iyi bak!
+97|<CLT=cltMIND>"Daha iyi bak" mı...?\nHem büyüyle ilgili o şey neydi?
+98|<CLT=cltMIND>Kaç kez bakarsam bakayım\ndizüstü bilgisayar boş.
+99|<CLT=cltMIND>İçinde bir şey olabilir sanmıştım...
+100|Hâlâ çalışıyor gibi görünüyor...
+101|USB belleği buraya takarsam\nverilere bakabilirim.
+102|<CLT=cltMIND>Kasadan USB belleği alıp dizüstü\nbilgisayara taktım.
+103|<CLT=cltMIND>Tek bir dosya buldum.
+104|Bir video mu...?
+105|<CLT=cltMIND>Video dosyasını açtım ve...
+106|Selam. Sanırım kendimi tanıtmama\ngerek yok, ha?
+107|...Ah!?
+108|<CLT=cltMIND>Şaşkınlıkla nefesim kesildi ve\nhiç düşünmeden videoyu durdurdum.
+110|B-Bu...\nBu Rantaro'ydu, değil mi?
+111|Muhtemelen ölmeden önce burada kaydetti...
+112|Hayır, bu mümkün değil.
+113|Video açıkça Rantaro'nun\nlaboratuvarında kaydedilmiş.
+114|Ama bu odaya ancak şimdi\ngirebildik.
+115|Gonta'nın davasından sonra açılması gerekiyordu\nama Rantaro zaten öldüğü için...
+116|kalıcı olarak kilitli kaldı.
+117|Ama Keebo sayesinde\niçeri girebildik.
+118|Bunca şeyi bilirken... Rantaro bu odada\nnasıl video kaydetmiş olabilir?
+119|B-Bu doğru olabilir ama...\nÖnce videoya bakmamız gerekmez mi?
+120|Ah, evet... Doğru.
+121|<CLT=cltMIND>Bir kez daha dizüstü bilgisayara döndüm ve\ntitreyen elimle videoyu oynattım.
+124|Sanırım en baştan başlamalıyım.
+125|İlk önce şunu söyleyeyim, ben... senim.\nHile yok, oyuncu yok. Bu <CLT=cltSTRONG>sensin<CLT=typeNORMAL>.
+126|Bunu kaydettiğini hatırlamamanın sebebi\no anının silinmiş olması.
+127|Bu videoyu, hafızasını kaybetmeden önceki\nRantaro'dan bir mesaj olarak düşün...
+128|...hafızasını kaybettikten sonraki\nRantaro'ya.

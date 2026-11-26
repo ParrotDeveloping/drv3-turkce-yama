@@ -1,0 +1,65 @@
+@ chap6_text_US
+## c06_111_273
+166|<CLT=cltMIND>Artık endişelenmenin anlamı yok.\nŞu an...
+167|<CLT=cltMIND>sadece buradan sağ çıkmayı\ndüşünmeliyiz.
+168|<CLT=cltMIND>Ve böylece yıkılmış Ultimate Akademi'yi\nardımızda bıraktık...
+169|<CLT=cltMIND>ve son duruşma alanına doğru yola çıktık.
+170|<CLT=cltMIND>Hayatta kalan son kişileri taşıyan\nasansör bizi aşağı indirdi.
+171|<CLT=cltMIND>Beşimizi ne bekliyor olabilir?
+172|<CLT=cltMIND>Eminim... bu <CLT=cltSTRONG>umutsuzluğun<CLT=cltMIND> sonu.
+173|<CLT=cltMIND>Ve <CLT=cltSTRONG>umudun<CLT=cltMIND> başlangıcı.
+174|<CLT=cltMIND>Her şey burada bitiyor.
+175|<CLT=cltMIND>Her şey.
+176|<CLT=cltMIND>Hope's Peak Akademisi'nin öldürme oyunu...\nJabberwock Adası'nın öldürme oyunu...
+177|<CLT=cltMIND>Ve bu Ultimate Akademi'nin öldürme oyunu.
+178|<CLT=cltMIND>Tatmin olmaları için daha ne kadar gerek?\nBunun sonu bu.
+179|<CLT=cltMIND>Ben... bundan bıktım.
+180|<CLT=cltMIND>Onu bitireceğiz.
+181|<CLT=cltMIND>Bu acımasız oyunu bitireceğiz.
+## c06_111_335
+0|Demek burası... son duruşma alanı.
+1|Puhuhu, bunun son olup olmadığına karar\nvermek ne sana ne de bana kalmış.
+3|Daha önemlisi, bu sınıf duruşmasını yapmamızı\nsiz istediğinize göre...
+4|Benim de katılmama itiraz etmezsiniz\neminim, değil mi?
+5|Ben de katılırsam tartışmak daha kolay olur.
+6|Doğru, bu sefer seni katılmaya zorlayacaktım\nama gönüllü olacağını düşünmemiştim.
+7|...Kendinden emin görünüyorsun.
+8|Puhuhu...
+9|Ş-Şimdi kendinden eminsin ama büyümle\nvücudunu bir otobüse çevireceğim!
+10|O-Otobüs mü...? Araç olanı mı yoksa\nşu derleme kitap olanı mı...?
+11|Kes şunu! Ucuz tehditlerinle beni\nkışkırtamazsın!
+12|...Epey kışkırmış görünüyor.
+13|Babalık katılacaksa işler fena halde\nilginçleşecek.
+14|Yapabilirsin, Baba!
+15|Sesimiz kısılıp kanayana kadar sana\ntezahürat yapacağız! Değil mi, Monodam!?
+16|...BU-ÇOK-GÜZEL.
+17|...Hm? Bana tezahürat mı? Siz de\nkesinlikle katılıyorsunuz.
+19|Sizin kilit bir rolünüz var çocuklar. Bütün ilgiyi\nüzerime çeksem nasıl bir baba olurdum?
+20|Ve siz kilit bir rol oynamazsanız\nne işe yararsınız ki?
+21|K-Kilit rol mü? Gerçekten yapabilir miyiz?
+22|Bilmem...
+23|Merak etmeyin! İyi bir ebeveyn olarak sizi\nmotive etmek için elimden geleni yapacağım!
+24|...Bu düğmeyle.
+25|O düğme... ne için?
+26|Sevimli çocuklarımın ellerinden gelenin en iyisini\nyapmasını sağlamak için hazırladığım bir <CLT=cltSTRONG>Monoyavru fünyesi<CLT=cltNORMAL>.
+27|F-Fünye mi!?
+28|Evet! Bu düğmeye bir basışla her birinizin\nvücudundaki bombaları patlatacağım.
+29|O yüzden çok çabaladığınızdan emin olun, yoksa\nbu düğmeye basmaya başlarım. Anlaşıldı mı?
+30|Bu çok fazla!
+31|Ne derler bilirsiniz... Çocukların sevimliyse\niçlerine bomba koy!
+32|B-Böyle bir söz yok!
+33|Sevimli çocuklarımın bunu yapabileceğini\nbiliyorum. Sadece doğru motivasyon lazım...
+34|O yüzden endişelenmeyin! Sadece hepiniz kilit\nroller oynadığınızdan emin olun! O kadar!
+35|AHHHHHHHHH!!!
+36|...Ne kadar saçma.
+37|...Gerçekten berbatın tekisin.
+38|Berbatlıkta en iyisi benim,\nsence de öyle değil mi!?
+39|Puhuhu... Söyleyeyim, insanlar kaba\nşaklabanlıklarıma doyamıyor!
+40|Pekâlâ, başlayalım! Bu kaba doruk\nnoktasını başlatalım!
+## c06_201_000
+0|Bu sınıf duruşması onun fikri olduğu için\nShuichi'ye bir soru sorarak başlamak istiyorum...
+1|Bu sınıf duruşmasının tam olarak\n<CLT=cltSTRONG>amacı<CLT=cltNORMAL> ne?
+2|Evet! Kimse ölmediyse neden sınıf\nduruşması yapıyoruz!?
+3|Vay! Sesim beklediğimden çok daha yüksek\nçıktı! Bugün formumda olabilirim!
+4|Hey, ben de çenesi düşüklükte\nhiç fena değilimdir!
+6|Ama Monodam'ın sesi çok kısık.\nOnun havaya uçmasına herkes razı mı!?

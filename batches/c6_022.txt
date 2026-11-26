@@ -1,0 +1,60 @@
+@ chap6_text_US
+## c06_106_019
+70|<CLT=cltMIND>O böcekler gerçekten sadece\nGonta'nın hayal gücü müydü?
+71|<CLT=cltMIND>İşin içinde daha fazlası olmalı...
+72|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Böcek Süpürgesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+73|S-Siz burada mıydınız!?
+74|Nyeeeh! Hep birlikte buluşacaksak\nneden kimse bana söylemedi!?
+75|Kimseyi bulamadım, endişelenmeye\nbaşlamıştım!
+77|...Peki şimdiye kadar neredeydin?
+78|Rantaro'nun odasına gittin, değil mi?\nİlginç bir şey buldun mu?
+80|<CLT=cltMIND>*Bu* yüz ifadesi de ne...?
+81|Böcek Süpürgesi makinesi dışında\nbaşka bir şey yoktu.
+82|Sadece... bir yığın ıvır zıvırdı.
+83|Çocukların hayal edeceği silahların ve\ndev robotların çizimleriydi.
+84|Diğer çizimlerin bazıları insanlara şaka\nyapmak için makinelerdi.
+85|Acele edip gizli kapıya bakalım.\nŞafağa çok vakit kalmadı.
+86|...Bana söylemene gerek yok. Öldürmeyeceğim...\nSadece intikam alacağım.
+87|Tuhaf... Bazen tıpkı onun gibisin,\nbiliyor musun?
+88|Burası hâlâ güvenli görünüyor.
+89|Yerin altında, o yüzden o kadar kolay\nyıkılmaz... değil mi?
+90|Ama bina çökerse kitap çığına sebep\nolacağından endişeleniyorum.
+91|Kitapların altında kalarak ölmek...\nKötü bir ölüm şekli olmazdı.
+92|Gerçi şimdi olmasını istemem.
+93|Şey... Gonta'nın araştırma laboratuvarı\nda mı yıkıldı?
+94|Olanlara bakılırsa\nöyle olabilir...
+95|Yani mümkün ki...
+96|"Böcek Buluşması" sırasında gördüğümüz\nböcekler şimdi okulda serbest mi...?
+99|M-Merak etme, sorun yok! Böcek Süpürgesi'yle\nhiçbir şey yakalamadık, değil mi?
+100|Ah, haklısın! Evet, sorun yok!
+101|Ah, ne rahatladım...
+102|Şimdi böcekleri dert etmenin zamanı değil\nbiliyorum ama... hâlâ ruhen epey yaralıyım...
+104|Keebo'nun az önceki saldırısıyla beyin yenildi!\nKazandık! 3. Kısım bitti!
+105|İşlerin bu kadar kolay biteceğine\nbel bağlamamalıyız...
+106|<CLT=cltMIND>İncelenecek daha çok şey var,\nşimdi geri dönemem!
+116|<CLT=cltMIND>Kitaplık açılınca gizli bir kapı\nortaya çıkıyor...
+117|<CLT=cltMIND>Bu kapı bunca zaman boyunca\nkilitliydi.
+118|<CLT=cltMIND>Keebo'nun yardımıyla açabiliriz\nbelki.
+119|Sadece kart anahtarıyla açılabilen kapı...\nBurada bir şey olmalı.
+120|Belki... beyin bu gizli kapının\narkasında saklanıyordur?
+121|O zaman onu öldürürsek... bu öldürme\noyununu bitirebiliriz...
+122|Hayır, söyledim, onu öldüremeyiz.\nBunu yaparsak biz de aynı—
+123|Kyaaaaaahhh!!!
+125|Buldum sizi!
+126|Canınız ne istiyorsa onu yapıyorsunuz,\nha?
+127|İzinsiz istediğiniz her yere gidemezsiniz!\nBabam kızacak!
+128|Babamın kızmasından hoşlanmıyorum!\nO yüzden o bunu öğrenmeden...
+129|Hepinizi yok edeceğim!
+130|Lanet olsun! Herkes kaçsın!
+131|Vaaaah! Kıpırdayamıyorum!
+132|Sadece olduğunuz yerde kalın... şimdilik.
+133|Keebo, bizi kurtardın! Ödül olarak seni büyümle\ngerçek bir çocuğa dönüştüreceğim—
+134|O kapıyı açmam gerekiyor, değil mi?
+135|E-Evet, lütfen...
+136|Beni görmezden mi geliyorsun!? Eh, sanırım\nyapacak bir şey yok, manamı doldurmam—
+137|...Lütfen geri çekilin. Çok yakın durmak\ntehlikeli.
+138|<CLT=cltMIND>Bu kısa yorumdan sonra Keebo roketatarını\nkapıya doğrulttu.
+139|<CLT=cltMIND>Önce Maki'ye planları\nsormalıyım...
+140|<CLT=cltMIND>Himiko neden öyle bir yüz yapıyor?\nOna sormalıyım...
+141|<CLT=cltMIND>Maki ne buldu?\nAyrıntıları ona sormalıyım.
+143|<CLT=cltMIND>Pekâlâ...\nGizli kapıyı incelemeliyim.

@@ -1,0 +1,47 @@
+@ chap6_text_US
+## c06_217_000
+76|Hey, artık bunu bırakalım!\nYanılıyorsun!
+77|Ç-Çünkü hepimiz arkadaşız, değil mi!?
+78|Bu öldürme oyununu bitirmek için birlikte\nçalışmayacak mıydık!?
+79|Bu bir <CLT=cltSTRONG>sınıf duruşması<CLT=cltNORMAL>!
+81|Bu sınıf duruşmalarına beyin tarafından zorlansak\nda hayatta kalmamızı sağlayan buydu!
+82|Tek yol buydu...\nHayatta kalabilmemizin tek yolu buydu!
+83|O yüzden lütfen Tsumugi, kanıtları çürüt!\nBir şey söyle! Hayatın buna bağlı...
+86|Tsumugi... senden şüphelenmek istemiyorum...\nSana inanmak istiyorum.
+87|Beynin önceki öldürme oyunlarındaki gibi\nbaşka bir yerde olmasını istiyorum...
+88|O yüzden... gerçekten beyin değilsen\npes etme! Sana tezahürat yapacağım!
+89|Ö-Öyle desen de...
+91|Puhuhu... Tsumugi ağırdan alıyor ama\nbeklemek çok sıkıcı...
+92|Hey, Shuichi. Neden davayı yeniden\ngözden geçirmiyoruz?
+94|Hadi, bu senin işin.\nGerçeği sun ve bunu bitir.
+95|Çünkü bu kısma gelene kadar neler olup\nbittiğini hiç anlamayan insanlar var!
+96|Pekâlâ, başlayalım!
+## c06_218_000
+0|Bu yeni kanıtla... <CLT=cltSTRONG>Rantaro'nun cinayetine<CLT=cltNORMAL>\ngeri bakalım.
+1|Olay gecesi Kaede ile ben\n<CLT=cltSTRONG>1. kattaki sınıftaydık<CLT=cltNORMAL>.
+2|Beynin <CLT=cltSTRONG>kütüphaneye<CLT=cltNORMAL> kurduğumuz tuzağı\ntetiklemesini bekliyorduk.
+3|O sıralarda <CLT=cltSTRONG>yemekhanede<CLT=cltNORMAL> <CLT=cltSTRONG>beyin<CLT=cltNORMAL> dahil\ndört kişi vardı.
+4|Beyin muhtemelen henüz hiç cinayet\nişlenmemesine sinirleniyordu.
+5|Motif verildikten sonra Kaede'nin bir şey\nplanladığını biliyorlardı...
+6|Ama beyin bir güvence istiyordu.\nGerekirse harekete geçeceklerdi.
+7|Beyin izin isteyip yemekhaneden çıktı\nve tuvalete gitti.
+8|Oradan da <CLT=cltSTRONG>kütüphanede sadece beynin\ngirebildiği gizli odaya<CLT=cltNORMAL>.
+9|Ve orada... beklediler.
+10|Süre sınırının dolmasına bir saatten az kala\nRantaro <CLT=cltSTRONG>kütüphanenin kitaplığını hareket ettirdi<CLT=cltNORMAL>...
+11|...bu da elimde tuttuğum <CLT=cltSTRONG>alıcıyı<CLT=cltNORMAL>\nçalıştırdı.
+12|Her şey ilk duruşmada belirlediğimiz\ngibi oldu... sonu hariç...
+13|Ben odadan koşarak çıktım, Kaede de\n<CLT=cltSTRONG>gülleyi<CLT=cltNORMAL> <CLT=cltSTRONG>havalandırmaya<CLT=cltNORMAL> yuvarladı.
+14|Aynı anda Rantaro, Kaede'nin kurduğu gizli\nkameranın <CLT=cltSTRONG>flaşıyla<CLT=cltNORMAL> kendine çekildi.
+15|Farkında olmadan güllenin yolunun\ntam üstüne adım attı.
+16|Gülle Kaede'nin yaptığı <CLT=cltSTRONG>yoldan<CLT=cltNORMAL> aşağı\nyuvarlandı ve sonra...
+17|...doğrudan Rantaro'nun kafasına düşüp onu\nanında öldürdü... ya da biz öyle sandık.
+18|Meğer bu sadece beynin bizim <CLT=cltSTRONG>inanmamızı\nistediği<CLT=cltNORMAL> şeymiş.
+19|Gerçekte Kaede'nin cinayet planı\nbambaşka gelişti.
+20|Kaede'nin yuvarladığı gülle aslında\nRantaro'ya <CLT=cltSTRONG>çarpmadı<CLT=cltNORMAL>.
+21|...Bir güllenin birdenbire öyle düştüğünü\ngörünce şaşırmış olmalı.
+22|Ama kaderi belirlenmişti.
+23|<CLT=cltSTRONG>Beyin<CLT=cltNORMAL> Kaede'nin planının başarısız olduğunu\ngördü ve işi bitirmek için devreye girdi.
+24|Beyin gizli odadan fırladı ve\n<CLT=cltSTRONG>Rantaro'ya arkadan saldırdı<CLT=cltNORMAL>!
+25|Ve elinde gerçek cinayet silahı vardı—\nkendi güllesi.
+26|Rantaro Kaede'nin güllesiyle değil,\n<CLT=cltSTRONG>beynin<CLT=cltNORMAL> güllesiyle öldürüldü.
+27|Beyin <CLT=cltSTRONG>Kaede'nin güllesini aldı<CLT=cltNORMAL> ve\nolay yerinde <CLT=cltSTRONG>kendi güllesini<CLT=cltNORMAL> bıraktı.

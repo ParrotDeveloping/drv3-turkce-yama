@@ -1,0 +1,72 @@
+@ chap6_text_US
+## c06_213_000
+75|<CLT=cltMIND>Kim olduğunu bulmak için bir şeyi\ndoğrulamam gerek.
+76|Bütün ölüm sebepleri
+77|Şimdiye kadar ölen herkesin bütün ölüm\nsebeplerini kesinleştirirsek...
+78|Birinin beyin olup olmadığını belirlemek için\nçok fazla kurban var...
+79|Ama beynin Rantaro'nun ölümüne karıştığını\nkesin olarak biliyoruz, değil mi?
+81|Rantaro'nun cinayeti için mazeretler
+82|İlk uyandıktan sonra olanlar
+83|Hepimiz uyandıktan sonra tam olarak ne\nolduğunu hatırlamaya çalışalım.
+84|Hımm... Genelde hatırlamakta epey\niyiyimdir ama üzerinden epey zaman geçti...
+87|Hey! Acele et de cevap ver!
+89|<CLT=cltMIND>Beyni ortaya çıkarmak için\nbelirlemem gereken şey...
+90|Herkesin Rantaro'nun cinayeti için <CLT=cltSTRONG>mazeretini<CLT=cltNORMAL>\nyeniden gözden geçirmeliyiz.
+91|Mazeretlerimizi mi... o zamanki?
+92|Bunu ilk duruşmada konuşmamış mıydık?\nYeniden konuşmanın ne faydası olur?
+93|Rantaro'nun beyin tarafından öldürüldüğünü\nbildiğimize göre bir yere varabilir.
+94|O zaman görmediğimiz birinin mazeretinde\nbir açık bulabiliriz.
+95|...Yani sadece mazeretlerimizi yeniden vermemiz gerek.
+96|P-Peki... O zaman yapalım.
+97|Böylece beynin bizden biri olmadığından\nemin olabiliriz...
+98|Puhuhu... Bu tartışmanın nereye\nvaracağını merak ediyorum.
+99|Tam bu odadaki bir beyne mi varacak?\nYoksa... varmayacak mı?
+100|Her halükârda bu duruşmanın heyecanlı\nkalmasını sağlayacağız!
+## c06_214_000
+0|Olay sırasında Oyun Odası'ndaki\ntoplantıya katıldım.
+1|Şimdiye kadar kimse Oyun Odası'ndan\nayrıldığımı söylemedi.
+3|Rantaro Oyun Odası'ndan tuvalete gittiğinde\nonu bekliyordum!
+4|Maki Rulo benimleydi, yani kesinlikle\ndoğruyu söylüyorum!
+6|Doğru, mazeretim yok... ama ben değilim!\nLütfen, bana inanın!
+8|Yemekhane ve tuvalet birinci kattaydı\nve o kadar uzun süre gitmedim...
+9|Kütüphane bodrumda. Oraya o kadar hızlı\nvaramayacağım düpedüz belli.
+11|Ha? Bu bir itiraf mı? Rantaro'yu öldürmek\niçin kullanılan yöntemi söyle!
+12|Yoksa... yine Kaede'den mi şüpheleniyorsun?\nVay be, dedektif hayatı zor!
+14|<CLT=cltMIND>...\nTuvalete mi gitti...?
+15|<CLT=cltMIND>...\nBuradaki biri Rantaro'yu öldürdüyse...
+16|<CLT=cltMIND>...Sadece o olabilir!
+17|<CLT=cltMIND>...\nBurada açıkça yanlış bir şey var...
+18|<CLT=cltMIND>Buradaki biri Rantaro'yu öldürdüyse...
+## c06_214_001
+0|Bodrumdaki\n<CLT=size2>Oyun Odası'ndaydım.
+1|Bodrumdaki Oyun Odası'ndaydım.
+2|Kaito,
+3|Kaito, Gonta ve Maki'yle birlikte...
+5|ve
+6|<CLT=size2>Gonta
+7|ve
+10|Ayrıca
+11|Ayrıca Tenko ve Angie de oradaydı.
+12|<CLT=size2>Tenko
+13|ve
+14|<CLT=size2>Angie
+15|de oradaydı.
+16|Aynı bodrumda olsam bile...
+18|Rantaro'yu <CLT=size2>öldürmüş<CLT=size1> olmam\n<CLT=cltWEAK><CLT=size2>imkânsız<CLT=cltNORMAL><CLT=size1>.
+19|Rantaro'yu öldürmüş olmam imkânsız.
+20|Hey! <CLT=cltWEAK>Ben de <CLT=size2>Rantaro'yu öldürmedim<CLT=cltNORMAL><CLT=size1>!
+21|Hey! Ben de Rantaro'yu öldürmedim!
+22|<CLT=size2>Odamdaydım,
+23|Odamdaydım, tek başıma...
+24|<CLT=size1>tek <CLT=size2>başıma...
+25|Ryoma ile
+26|Ryoma ile Kokichi de öyleydi.
+27|<CLT=size2>Ryoma
+28|ile
+29|<CLT=size2>Kokichi
+30|de<CLT=size2> öyleydi<CLT=size1>
+31|Bunun zayıf bir mazeret olduğunu biliyorum ama...
+33|<CLT=size2>Ben <CLT=cltWEAK>Rantaro'yu
+34|Ben Rantaro'yu öldürmedim!
+35|<CLT=cltWEAK><CLT=size2>öldürmedim<CLT=cltNORMAL>!
+36|<CLT=size2>Yemekhanedeydim.

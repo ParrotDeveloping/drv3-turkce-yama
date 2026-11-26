@@ -1,0 +1,60 @@
+@ chap6_text_US
+## c06_104_135
+129|Pekâlâ, konuya girelim o zaman.\nBu görüntüyü kaydetmemin sebebi.
+130|Öldürme oyununa katıldığım için özel bir\nayrıcalık hakkı kazandım.
+131|O ayrıcalığın bir parçası bu video mesajı.
+132|Monokuma senin için bir tür bulmaca\nhazırlayacağını söyledi...
+133|...ama bunu izliyor olman, onu zaten\nçözdüğün anlamına geliyor.
+134|Ayrıca bunu kimseyle paylaşamazsın.
+135|Monokuma'nın birilerini senden uzaklaştırdığını\ngörürsen sebebi bu.
+136|Bu ayrıcalığın bir parçası daha var, oyunun\nbaşında aldığın bir şey.
+137|Neden bahsettiğimi biliyorsundur eminim.\nEn başından beri sende olan bir şey, değil mi?
+138|Akıllıysan onu öldürme oyununu bitirmek için\nkullanmış olursun diye *düşünmüştüm*.
+139|Ama bunu izliyorsan belli ki\nişe yaramamış.
+140|Hayat hiç kolay değil, ha?
+141|Neyse, ayrıcalık bu. Onun dışında\naynen diğerleri gibisin.
+142|İçeri giriyorsun, hafızanı siliyorlar\nve öldürmeye başlıyorsun.
+147|<CLT=cltSYSTEM>*bzzt!*
+148|Hahaha... Görünüşe göre bunu söylememi\nistemediler, ha?
+149|Sanırım o küçük gizemi sen çözeceksin.\nAma hey, akıllısın. Yapabileceğini biliyorum.
+150|...Ha. Bir şey... daha var.
+151|Aslında gerçek şu ki... bu senin ilk\nöldürme oyunun değil.
+152|Sen <CLT=cltSTRONG>Ultimate Hayatta Kalan<CLT=typeNORMAL>'sın.\n<CLT=cltSTRONG>Önceki öldürme oyunundan<CLT=typeNORMAL> sağ çıktın.
+153|Bu ayrıcalığı bu yüzden alıyorsun—<CLT=cltSTRONG>Hayatta\nKalan Ayrıcalığı<CLT=typeNORMAL>.
+154|Ama her şey eğlence ve oyun değil.
+160|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Rantaro'nun Video Mesajı<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+161|B-Bu... ne?
+162|<CLT=cltMIND>Bu ilk öldürme oyunu değil mi?
+163|<CLT=cltMIND>Onun... *istediği* bir öldürme oyunu mu?
+164|Ş-Shuichi...\nBütün bunlar ne demekti?
+165|Rantaro Amami... *kimdi*?
+166|Önceki öldürme oyunundan sağ çıktığını söyledi.\nVe o video <CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı<CLT=cltNORMAL>'nın parçası.
+167|<CLT=cltSTRONG>Ultimate Hayatta Kalan<CLT=cltNORMAL>'dı...\nölüm oyunlarında uzmandı...
+168|O-O zaman... neden bu kadar çabuk öldü?
+169|Ne dediğini hatırla...
+171|Onun peşinde olan mı?\nKaede'den mi bahsediyordu?
+172|Hayır... o Rantaro'nun kimliğini bilmiyordu.\nOnun beyin olduğunu sanıyordu...
+173|O zaman... Rantaro'nun gerçek kimliğini\nbilen kim?
+174|...<CLT=cltSTRONG>Gerçek beyin<CLT=cltNORMAL> bilirdi.
+175|Yani bu akademide saklanan <CLT=cltSTRONG>beyin<CLT=typeNORMAL>\nRantaro'nun öldürülmesini mi ayarladı?
+176|Sanırım öyle...
+178|<CLT=cltMIND>Şimdilik...
+179|Ve bu öldürme oyununu istediğini söyledi...
+180|Bunu neden istesin ki?
+181|Böyle aptalca bir şey yapmasaydı\nmuhtemelen öldürülmezdi...
+182|<CLT=cltMIND>Başka bir öldürme oyunu...
+183|<CLT=cltMIND>En başta neden katılıyordu ki?\n<CLT=cltSTRONG>Diğer öldürme oyunu<CLT=cltMIND> neydi?
+184|<CLT=cltMIND>Çünkü öldürme oyunu—
+185|Bir şey daha vardı... Rantaro <CLT=cltSTRONG>Hayatta Kalan\nAyrıcalığı<CLT=typeNORMAL>'nın bir parçası daha olduğunu söyledi, değil mi?
+186|O diğer parça neydi?
+187|Oyunun başında onda olduğunu\nsöyledi...
+188|Ama cesedini bulduğumuzda...
+189|Üzerinde sadece oda anahtarı\nve Monopad'i vardı...
+190|Ve o Monopad bizdeki öğrenci el\nkitabının aynısıydı...
+191|O zaman hâlâ yurt odasında olabilir...
+192|Evet, olabilir...
+193|<CLT=cltMIND>İlk kurban Rantaro'nun bu şekilde yeniden\ngündeme geleceğini hiç hayal etmemiştim—
+194|Ah! Y-Yine!
+195|O-Oluyor!\nG-Geri dönüş!
+196|Selam, Shuichi! Sonunda Gofer Projesi'ne\nkatılacağını duydum!
+198|*öhö, öhö* İ-İyi misin?\nKendini fazla zorlamadığına emin misin?

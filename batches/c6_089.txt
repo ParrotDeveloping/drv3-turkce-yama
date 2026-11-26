@@ -1,0 +1,11 @@
+@ chap6_text_US
+## c06_999_250
+15|<CLT=cltMIND>Kızlar tuvaletinde ne olabilir?
+16|<CLT=cltMIND>İçeri giremem, ben erkeğim...\nÖnce Himiko'ya sormalıyım.
+17|<CLT=cltMIND>Kızlar tuvaleti... ha.
+19|<CLT=cltMIND>Pekâlâ... avluya. Ama bu öldürme\noyununu durdurmadan önce...
+20|<CLT=cltMIND>Ultimate Akademi'nin yıkılmasını\ndurdurmalıyım.
+21|<CLT=cltMIND><CLT=cltSTRONG>Yargı Tapınağı<CLT=cltMIND>'na gitmeliyim.
+24|<CLT=cltMIND>Lanet olsun... Çok vakit harcadım!\nŞafak çoktan söktü...
+25|<CLT=cltSYSTEM>Çok oyalandın! Dikkatli ol, her şeyi\nincelemeye vaktin yok...
+26|<CLT=cltSYSTEM>Sadece gerekenleri incele!

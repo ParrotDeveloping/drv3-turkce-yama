@@ -1,0 +1,58 @@
+@ chap6_text_US
+## c06_225_000
+92|Ne içindi, ha? Haaa?
+93|Hadi, söyle onlara.\nGeri Dönüş Işıkları ne için?
+95|<CLT=cltMIND>Geri Dönüş Işıkları ne için kullanılıyor...\nNeden farklı anılar seçilebiliyor...
+96|<CLT=cltMIND>Ve o anılar birbiriyle çelişiyorsa\nbu ne anlama geliyor?
+97|<CLT=cltMIND>Bütün parçaları bir araya getirirsem\nher şey anlam kazanacak.
+98|<CLT=cltMIND>Gerçek hakikati görebileceğiz!
+## c06_227_000
+0|Evet, işte bu! Geri Dönüş Işığı bir şey\n*hatırlamamıza* yardım etmek için değil!
+1|Sahte anılar <CLT=cltSTRONG>yerleştirmek<CLT=cltNORMAL> için bir araç!
+2|Anı... yerleştirmek mi!?
+3|Evet. Geri Dönüş Işıkları için seçilebilen\nanılar gerçek anılarımız değildi.
+4|İçimize <CLT=cltSTRONG>yerleştirilecek anılardı<CLT=cltNORMAL>.
+5|Bu yüzden o anıların içerikleri\nbirbiriyle çelişiyor.
+6|Bir Geri Dönüş Işığı'na maruz kalınca o anılar...\nbizim için <CLT=cltSTRONG>gerçek<CLT=cltNORMAL> oluyor.
+7|Yani Geri Dönüş Işıkları'yla geri\nkazandığımız anılar...
+8|Gerçek değil. Hepsi sahte anılardı.
+9|Hepsi <CLT=cltSTRONG>yalandı<CLT=cltNORMAL>!
+10|Yalan mı!?
+11|Ah! Ne korkunç bir gerçek! Geri Dönüş\nIşıkları'ndan gelen anılar yalansa...
+12|O zaman her şey yalanmış! Bütün gerilim\nve ipuçları boşunaymış!
+13|İnanabiliyor musunuz? Sanki olan hiçbir\nşeyin önemi yokmuş gibi.
+14|Eh, anlamı *tam olarak* bu.
+16|Yalanlar kartopu gibidir.\nNe kadar yuvarlarsan o kadar büyür.
+17|Ne kadar büyükse ortaya çıktıklarında\no kadar eğlenceli ve şok edici olur.
+18|Bu yüzden şimdiye kadar her şey\nyalandı! Gerçek bu!
+19|Geri Dönüş Işıkları'ndan gelen anılar...\nsadece yalan mıydı?
+20|Shuichi'nin dediği gibi—Geri Dönüş Işıkları\nkayıp anıları geri kazanmak için değil.
+21|<CLT=cltSTRONG>Yenilerini yerleştirmek<CLT=cltNORMAL> için araçlar.
+22|Yaydıkları ışık aslında ışık dalgalarına\ndönüştürülmüş bilgi.
+23|O ışık doğrudan beyne yansıtılıyor ve\nbir tür déjà vu olayına yol açıyor.
+24|Beyin kafası karışıyor ve az önce aldığı\nbilginin geçmişte yaşandığını sanıyor.
+25|B-Biz sadece... kafası karışmış mıydık?
+26|Mesela Hope's Peak Akademisi öğrencisi\nolduğunuza dair anılarınız...?
+27|Sahte! Hı-hı! Sizin Hope's Peak Akademisi'yle\nhiçbir ilginiz yok!
+28|Hiçbirimiz orada öğrenci olmadık.\nSadece sahte bir anıydı.
+29|Biz... Hope's Peak öğrencisi değil miyiz?
+30|Evet, hepsi sahteydi.
+31|Geriye bakınca Hope's Peak'i size\nhatırlatmak bir hataydı.
+32|Aslında size o anıları vermeyi\nplanlamamıştım ama...
+33|Aceleyle bütün o tutarsızlıkları gözden\nkaçırdım, siz de her şeyi çözdünüz...
+34|Ahahaha! Umutsuzca berbat!
+35|Kokichi'nin ölmek zorunda kalmasının sebebi bu mu?
+36|Hımmm. Aferin, Bay Dedektif...\nBuldun.
+37|Kokichi'nin bir Kalıntı olduğunu düşünmemizin\ntek sebebi Geri Dönüş Işıkları'ydı.
+38|Ama bir tarikat örgütünün lideri olduğunu\nsöylemişti...
+39|Bu kendi uydurduğu bir yalandı.
+40|Beyin olmak istiyordu...\nBuna inanmamızı istiyordu...
+41|Bu yüzden yalan söyledi.
+44|Demek oluyor kiii... Monokuma'yı Gemi'ye\ngizlice sokan beyin...
+46|Beynin rolünü gasp etti ama bunu yaparken\nonun ayağına batan bir diken oldu.
+47|O engelden kurtulmak için beyin\nyalana ayak uydurdu.
+48|Beyin Kokichi'nin bir Umutsuzluk Kalıntısı\nolduğunu düşünmemiz için bizi yönlendirdi.
+49|Aynı zamanda herkese Hope's Peak\nAkademisi'ni hatırlatmak...
+50|...onu bir Umutsuzluk Kalıntısı sandığınız\niçin hedef almanızı sağladı.
+51|Bizi kontrol etmek için Geri Dönüş\nIşıkları'nı mı kullanıyordun!?
+52|O zaman Kokichi'yi öldürmeye çalışmamın sebebi...

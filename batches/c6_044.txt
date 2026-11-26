@@ -1,0 +1,62 @@
+@ chap6_text_US
+## c06_204_001
+32|<CLT=size2>　\n　\n　\n　\n<CLT=size2>imkânsız!<CLT=size1>\n<CLT=size2>
+33|<CLT=size2>Üzerinde<CLT=size1>\nsadece<CLT=size2>\n　\n　\n　
+34|Üzerinde sadece öğrenci\nel kitabı Monopad'i vardı!
+35|<CLT=size2.2>　\n　\n　\n<CLT=size1.1>öğrenci el kitabı\n<CLT=size2.2>Monopad'i vardı!
+36|<CLT=size1.1><CLT=cltWEAK>Hayatta Kalan\nAyrıcalığı'nı\n<CLT=size2.2>　\n　\n　
+37|Hayatta Kalan Ayrıcalığı'nı\nyanında getirmedi!
+38|<CLT=size2.2>　\n　\n　\n<CLT=size2.2>getirmedi!
+39|<CLT=size1.1>ÇALINDIĞINI-\n<CLT=size2.2>İDDİA-\n<CLT=size1.1>EDEMEZSİN...
+40|ÇALINDIĞINI-İDDİA-\nEDEMEZSİN...
+41|<CLT=size2.2>Evet, evet!\n<CLT=size1.1>Aynen öyle!
+42|Evet, evet!\nAynen öyle!
+## c06_205_000
+0|Hayır, Rantaro'nun Hayatta Kalan Ayrıcalığı\nMonopad'ini kütüphaneye getirdiğine şüphe yok.
+1|Ölmeden hemen önce çekilen fotoğrafta\nonu tuttuğu açıkça görülüyor.
+2|O senin bildiğin kadarıyla öğrenci\nel kitabı Monopad'i de olabilir!
+3|Hayır, kesinlikle bu aynı Monopad'di.
+4|<CLT=cltSTRONG>Kanın<CLT=cltNORMAL> burada nasıl kuruduğunu görüyor musun?
+5|<CLT=cltSTRONG>Parmaklarının izi<CLT=cltNORMAL> fotoğrafta onu nasıl\ntuttuğuyla birebir uyuşuyor.
+6|Ah, haklısın!
+7|Bu fotoğraf çekildikten kısa süre sonra\nRantaro'nun kafasına gülle çarptı.
+8|Monopad'deki bu kanlı iz o zaman mı\noluştu sence?
+9|Evet. Bu yüzden Rantaro'nun bu fotoğrafta\ntuttuğu Monopad...
+10|...şu an elimizdeki Monopad'in aynısı olmalı!
+11|N-Neeeee!?
+12|Hadi ama, abartma! Dikkatimizi vermiyormuşuz\ngibi gösteriyor!
+13|İstediğin kadar bağır! Havaya uçacak\nolan Monosuke—
+14|Vaaaaaah! Monokid!
+15|BLRGLBRBLRLBLRGL...
+16|Ah! Sevimli yavrularım kaybetti diye o kadar\nüzüldüm ki parmağım kaydı!
+17|Ama güzel havai fişeklerdi.\nÖlümde bile çocuğum tam bir tatlış.
+18|Aslanların yavrularını öldürmek için dipsiz\nuçurumlara ittiğini duydum.
+19|Onları *öldürmek* için değil!
+20|Demek bir hırsız varmış, ha? Birinin bu kadar\nkötü bir şey yapacağına inanamıyorum...
+21|Peki Monopad'i kim aldı?\nBaşka bir şey biliyor musun?
+22|<CLT=cltMIND>Rantaro'nun Monopad'ini alan kişi\nhakkında bir şey biliyor muyuz...?
+23|<CLT=cltMIND>Evet... sanırım biliyoruz!\nGerçekleri toparlayıp düşüneyim!
+## c06_207_000
+0|O Monopad'i alan kişi... <CLT=cltSTRONG>beyin<CLT=cltNORMAL>.\nBundan eminim.
+1|Beyin mi!?
+2|Hayatta Kalan Ayrıcalığı Monopad'i\nkütüphanenin gizli odasında bulundu.
+3|Ve o odaya sadece beyin girebilirdi,\ndeğil mi?
+4|Rantaro'nun öldüğü zamanla onu bulduğumuz zaman\narasında o Monopad'i gizli odaya mı koydular?
+5|Yoo, bu imkânsız!
+7|Ha? Bilmiyor musunuz? Benim sevimli küçük\nyavrularım bile çoktan çözdü.
+8|Ha!? Çözdük mü!?
+9|E-Evet. O yüzden... açıklamayı\nMonotaro'ya bırakacağım.
+10|Ha? Ne hakkında konuştuğumuzu\nbile çoktan unuttum...
+12|Ah kahretsin, basacak! Monokid'in\nbaşına gelen yine olacak!
+13|BEYİN... KÜTÜPHANEDE-ÇEKİLEN-FOTOĞRAFLARIN-\nHİÇBİRİNDE-YOK. BU-NEDEN?
+15|Ah, bu doğru...
+16|Gizli odaya gitmek için kitaplığı\nhareket ettirmen gerekiyor, değil mi?
+17|Ama Shuichi ile Kaede o gizli kameraları\nkurmuştu, o yüzden...
+18|Beyin o kapıyı kullansaydı kameraya\nyakalanırdı.
+19|Ama fotoğrafların hiçbirinde öyle\nbiri görünmüyordu.
+20|O-HALDE... O-AKIL-YÜRÜTME-YANLIŞ...
+21|Harika, Monodam! Aferin!
+22|Bir dakika. Kütüphanedeki gizli kameraların\n<CLT=cltSTRONG>aralıklı<CLT=cltNORMAL> zamanlayıcıları vardı.
+24|Çünkü kameraları filmi elle çevirmek yerine\notomatik sarsın diye yeniden tasarladım.
+25|Belki de beyin o 30 saniyelik aralığın\niçinde hareket etmiştir?
+26|Anlıyorum. Yani beyin gizli odada saklanıp\ndoğru zamanı bekledi...

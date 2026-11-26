@@ -1,0 +1,26 @@
+@ chap6_text_US
+## c06_100_058
+7|<CLT=cltMIND>Ama Keebo'nun patlayıcıları kapıyı kırdı.\nİçeri girebilmeliyim.
+8|<CLT=cltMIND>İçeri girmeliyim.
+9|<CLT=cltMIND>Hâlâ cevaplanması gereken sorular var.\nİlerlemeye devam etmeliyim.
+## c06_101_100
+0|Bu okul yavaş yavaş yıkılıyor...\nYurtlar çökse şaşırmam.
+1|Bu olmadan önce... Kokichi'nin odasını\nincelemeliyim.
+2|...Biliyorum. Bunca yolu sadece enkazın altında\nezilmek için gelmiş olsak hiç komik olmazdı.
+7|<CLT=cltMIND>Kokichi'nin odasına gitmeliyim.
+8|<CLT=cltMIND><CLT=cltSTRONG>Gerçeği<CLT=cltMIND> <CLT=cltSTRONG>yalanlardan<CLT=cltMIND>\nayırmalıyım.
+9|İmkânsız mümkündür!\nTek yapman gereken onu mümkün kılmak!
+10|<CLT=cltMIND>Kaito...\nSözlerin bana hâlâ ilham veriyor.
+11|<CLT=cltMIND>Teşekkür ederim... çok.
+20|<CLT=cltMIND>Keebo'nun kararlılığı...
+21|<CLT=cltMIND>Bu korkunç yeri yok etmeye kararlı\nve buna saygı duyuyorum.
+22|<CLT=cltMIND>Ama pes etmeyeceğim!\nÇünkü henüz gerçeğe ulaşmadık!
+40|<CLT=cltMIND>Keebo, Monokuma'yı ve Monoyavruları\noyalarken gerçeği bulmalıyım!
+## c06_101_137
+0|Demek Kokichi'nin laboratuvarı burası...
+1|<CLT=cltMIND>Kesinlikle bir "<CLT=cltSTRONG>kötü örgüt<CLT=cltMIND>"\nhavası var...
+2|<CLT=cltMIND>Ama <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltMIND>'nı\nişaret eden hiçbir şey yok.
+3|Ona Hope's Peak Akademisi öğrencilerinin asla\n<CLT=cltSTRONG>umutsuzluğa<CLT=typeNORMAL> boyun eğmeyeceğini gösterelim!
+6|<CLT=cltMIND>O sırada... Kaito Exisal'ın içindeydi...
+7|<CLT=cltMIND>Ama <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltMIND> hakkında\nhiçbir şey biliyor gibi görünmüyordu.
+8|<CLT=cltMIND>O <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND>'nı kullandığımızda\nKokichi ile Kaito orada değildi.

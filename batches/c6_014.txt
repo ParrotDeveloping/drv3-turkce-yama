@@ -1,0 +1,57 @@
+@ chap6_text_US
+## c06_104_006
+28|<CLT=cltMIND>Bu, <CLT=cltSTRONG>oraya<CLT=cltMIND> da girebileceğim\nanlamına mı geliyor?
+29|Hayır, önce Rantaro'nun davası.\nOnun laboratuvarını incelemeliyim.
+## c06_104_135
+0|Sonunda girdim!\nDemek Rantaro'nun laboratuvarı burası...
+1|<CLT=cltMIND>Ama bu nasıl bir oda...?\nNeredeyse... ürkütücü...
+2|Yeteneği neydi?\nBuraya gelince anlarım sanmıştım—
+3|Hiç anlamıyorum.
+4|Himiko!?
+5|O patlama bu laboratuvarın kapısını kırman\nmıydı? Epey sert bir yöntem.
+6|Ah, o ben değildim... Keebo'ydu.
+7|Ama... burası da neyin nesi?\nBerbat bir havası var...
+8|Bir tür... <CLT=cltSTRONG>bulmaca odası<CLT=typeNORMAL> gibi görünüyor...
+9|Belki de "<CLT=cltSTRONG>Ultimate Bilgi Yarışması Kralı<CLT=typeNORMAL>"ydı\nve bu unvanı yarışmalar kazanarak aldı?
+10|Emin değilim...\nÖnce incelemeliyiz.
+11|O zaman sana yardım edeceğim!
+12|Hiii hii hii hii! Sevin! Efsanevi\nbüyücü senin yardımcın!
+13|Ah, evet... bu içimi rahatlattı.
+14|Demek buranın kapısını kıran\nKeebo'ymuş...
+15|Ama Keebo artık bilimkurgu gibi görünmekten\nnefret eden o çocuktan bambaşka biri.
+16|Ya da aslında... sanırım artık bambaşka\nbir robot demeliyim.
+17|Nyeh? Belki...
+18|O Keebo gerçek değil! Muhtemelen yedeği\nK2-B1, namıdiğer "K-tubi"!
+19|...Hayır, sanmıyorum. Yedeği falan yok,\no aynı Keebo...
+20|<CLT=cltMIND>Ama... epey değiştiği de\ndoğru...
+21|Neyse, Keebo'yu bırakalım. Bu odanın\nher köşesine bakalım.
+22|Sonra Rantaro'nun yeteneğinin ne\nolduğunu çözeriz.
+23|Merak etme! Yardımcın bir büyücü olduğu\niçin şanslısın!
+25|Hımm... akademide bir yerde bir ipucu...
+26|Bir şema ya da harfler gibi bir şey mi acaba?\nBüyük bir nesne olsaydı sorun olurdu.
+27|N-Neredeyse çözdüm!\nManam mı yetmiyor yoksa!?
+28|<CLT=cltMIND>Bir şeyi keşfetmenin tam eşiğindeymişim\ngibi hissediyorum...
+29|<CLT=cltMIND>Belki Himiko'yla konuşmaya devam\nedersem bir şey çıkar...
+30|<CLT=cltSTRONG>A<CLT=cltNORMAL> etiketli, <CLT=cltSTRONG>12 Çin burcu<CLT=cltNORMAL> olan bir kadran...\n<CLT=cltSTRONG>B<CLT=cltNORMAL> etiketli, <CLT=cltSTRONG>12 yıldız burcu<CLT=cltNORMAL> olan bir kadran...
+31|Yani <CLT=cltSTRONG>A<CLT=cltNORMAL>'yı, <CLT=cltSTRONG>B<CLT=cltNORMAL>'yi, <CLT=cltSTRONG>Çin burçlarını<CLT=cltNORMAL>\nve <CLT=cltSTRONG>yıldız burçlarını<CLT=cltNORMAL> düşünmemiz gerek...
+32|Bu kasayı açmanın ipuçları bunlar.
+33|Nyeeeh... bir şey vardı gibi geliyor ama...
+34|Nyeeeh... Bu akademide bir yerde bir ipucu...\nAma hiçbir şey aklıma gelmiyor...
+35|Belki çok iyi saklanmıştır?
+36|Hayır, bir tür ipucu olmalı...\nKimse görmezse bir anlamı olmazdı.
+37|Bir tür... psikolojik kör nokta.
+38|Psikolojik kör nokta mı?\nBu büyüyle ilgili bir kavram.
+39|Büyüyle ilgili bir kavram mı?
+40|Hm, büyücülerin büyü yaparken\nkullandığı bir teknik var.
+41|Mesela büyük büyüler yaparken bir sürü\ngösterişli, abartılı şey ekleriz.
+42|Seyircinin dikkatini bunlara veririz...\nbüyümüzün kaynağını saklamak için.
+43|<CLT=cltMIND>Büyünün kaynağı...\nYani arkasındaki yöntem mi?
+44|Tabii benim büyüm çok ileri seviyededir, bilirsin.
+45|Büyülerimin kaynağı sızsa bile\nherkes onları taklit edemez!
+46|Genelde saklamama gerek yok\nama tedbirli olmak iyidir!
+48|Neyse, belki ipucu bizden böyle\nsaklanmıştır?
+49|Muhtemelen zaten gördük ama henüz\nipucu olduğunu bilmiyoruz.
+50|Zaten gördüğümüz bir şey...
+52|<CLT=cltMIND>İşte bu!\nHimiko haklı!
+53|<CLT=cltMIND>Kokichi'nin mesajı!
+54|<CLT=cltMIND>Gonta mesajı ilk gördüğünde\n"horse a" yazıyordu.

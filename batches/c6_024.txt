@@ -1,0 +1,64 @@
+@ chap6_text_US
+## c06_107_021
+46|Hayır. Bu öldürme oyununu\n*bitireceğiz*.
+47|...Ne demek istiyorsun? Bir tür planın\nmı var?
+48|Evet, var. Sadece biraz dedektiflik\ngerektiriyor...
+49|Biraz daha incelememiz gerek.
+50|Ha? Peki ya Himiko?
+51|...Onun için endişeleniyorum ama şu an iyi\nolduğuna güvenmek zorundayız.
+52|Her şeyi ona bırakmamızı söylediğinde\nona güvenmiştik.
+53|Burada öylece durursak onun isteğine\nsaygı göstermemiş oluruz.
+55|T-Tamam... Himiko <CLT=cltSTRONG>Ultimate Sihirbaz<CLT=typeNORMAL>...
+56|Eminim büyüsünü kullanıp o odada düpedüz\nharika bir ipucu bulacaktır.
+57|Evet, Himiko'nun iyi olduğuna eminim.
+59|İpucu arıyorsanız 2. kattaki sınıfı\nincelerdim...
+61|Avluda Exisal'larla savaşırken orada tuhaf\nbir şey gözüme çarptı.
+62|Aradığınız ipucu her neyse orada\nolabilir.
+63|Tuhaf bir şey...
+64|Sadece acele edin! Fazla vaktiniz yok!\nŞafak sökmek üzere.
+65|Ve... Himiko için endişeleniyorum.
+67|Ama süre sınırını değiştirmeyeceksin... değil mi?
+68|Exisal'ların saldırılarından o süre sınırının\nötesinde kaçmaya devam edemem.
+69|Bunu yakında halletmezsek yok edileceğim.
+70|Ve bu olursa Ultimate Akademi'yi yok etme\nşansımızı kaybederiz...
+71|Bu en kötü son olur...\nHayır...
+72|...Saf umutsuzlukla dolu bir son olur.
+73|<CLT=cltMIND>Keebo...
+74|Tsumugi, ben ikinci kata gidiyorum.
+75|Hepsine ulaşabilir miyim bilmiyorum\nama elimden geleni yapacağım!
+76|Sonra görüşürüz!
+77|<CLT=cltMIND>Tsumugi kendinden emin adımlarla\nkütüphaneden koşarak çıktı.
+78|<CLT=cltMIND>Himiko... biraz daha dayan...
+## c06_107_027
+0|Gizli oda bu demek...\nBeklediğimden çok daha büyük.
+1|Bu odanın havası...
+2|Junko Enoshima'ya hayran olan <CLT=cltSTRONG>Umutsuzluk\nKalıntıları<CLT=typeNORMAL>'nı hatırlatmıyor mu...?
+3|Bu öldürme oyununun ardındaki beyin\nburada saklanıyor olmalı.
+4|Nyeeeh, nerede!? Beyin nerede saklanıyor!?
+5|Burada!
+7|Az önceki... Monokuma'nın sesi miydi?
+8|Son aşamaya hoş geldiniz! Sanırım final\npatronunun sahneye çıkma vakti geldi!
+9|N-Nerede? O ses nereden geliyor?
+12|O da ne!? Dev bir Monokuma kafası mı!?
+13|B-Böyle bir şeyin konuşabilmesi için...\nGüçlü bir büyücü tarafından büyülenmiş olmalı!
+14|N-Nerede!? Beyin nerede saklanıyor!?
+15|Lütfen, Annekuma! Beynin nerede\nsaklandığını size sorabilir miyiz!?
+16|Neden bu kadar kibarsın!?
+17|Şey, o kadar önemli bir bilgiyi paylaşamam.\nÖldürme oyununu daha az heyecanlı yapar.
+18|En azından burasının beynin odası olduğunu\nbiliyoruz. Bir <CLT=cltSTRONG>Umutsuzluk Kalıntısı<CLT=typeNORMAL>'na göre bir yer.
+19|Burasının beynin odası olduğuna şüphe yok.\nKesinlikle <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=typeNORMAL> için.
+20|Ah, o kadar belli mi? Eh, haklıysan\nhaklısın.
+21|Aradığınız kişi bu odaya epey sık\ngelir.
+22|<CLT=cltMIND>Epey sık mı?
+23|Ama sizin onu suçüstü yakalamanıza izin\nverecek kadar aptal değil!
+25|O zaman beyin burada değil mi?
+26|<CLT=cltMIND>Ve sık sık geliyorsa—
+27|Puhuhu, sanırım <CLT=cltSTRONG>ipucum<CLT=typeNORMAL> sonunda Shuichi'nin\nkafasına dank etti.
+28|<CLT=cltMIND>İpucu mu?
+29|Bize neden "ipucu" veriyorsun?\nGerçeği bulmamızı *istiyor* musun?
+30|Ya istiyorsam?
+31|Öldürme oyununu daha eğlenceli\nyaptığı sürece her şey serbest!
+32|Bu öldürme oyununu bitirse bile mi?
+33|Hm? Öldürme oyununu bitirmek mi?
+34|Ah, sen... Bunca zamandır bunu tekrar\ntekrar söyleyip durmadım mı?
+35|Öldürme oyunu sonsuzdur!

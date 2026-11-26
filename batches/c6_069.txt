@@ -1,0 +1,62 @@
+@ chap6_text_US
+## c06_231_000
+2|Derslerinizde gerisiniz! Seyirciler\ncevabı hemen bildi!
+3|Başlangıçtaki jenerikte de yazıyor.
+4|Ben de Team Danganronpa'nın bir parçasıyım...
+5|En kaliteli öldürme eğlencesini yapıyoruz!\nHerkes işimizden çooook keyif alıyor!
+6|Ve en yeni projemiz...\n<CLT=cltSTRONG>Danganronpa V3: Killing Harmony<CLT=cltNORMAL>!
+7|Ultimate Gerçek Kurgu ile hayat bulan\nyürek hoplatıcı bir öldürme oyunu!
+8|Kes sesini... Kes sesini!
+9|Bize bu kurgusal öldürme oyununu oynatmak\niçin... koca bir kurgusal dünya mı yarattın!?
+10|Bize ne kadar sahte anı yerleştirilmiş olursa\nolsun *biz* kurgusal değiliz!
+13|H-Her halükârda artık bunu yapmak\nistemiyorum. Bırakın eve gideyim artık!
+14|Bu imkânsız. Dönecek eviniz olmadığını\nsöylemedim mi?
+15|N-Ne!? Neden olmasın!?
+16|Çünkü siz de tıpkı bizim gibisiniz. Sadece\nDanganronpa dünyasının içinde varsınız.
+17|...Tıpkı sizin gibi mi?
+18|Hıh... Hâlâ anlamadınız mı? Kendinize sadece\ntek bir soru sormanız gerek...
+19|SİZ DE KİMSİNİZ BE!?!?
+20|<CLT=cltMIND>Biz... kimiz...?
+21|Gerçek insanlar
+22|Biz... gerçeğiz!\nYaşayan, nefes alan insanlarız!
+23|Hayır! Siz de tıpkı BENİM GİBİSİİİİİİNİZ!!!
+24|<CLT=cltMIND>Hayır...\nBu... olamaz...\n<CLT=cltNORMAL>
+25|Kurgusal karakterler
+27|Anlamıyor musun?\nTıpkı bizim gibiyseniz...
+28|Bundan daha umutsuz bir şey olamaz.
+30|<CLT=cltMIND>Biz... kimiz...?
+31|Aynı mıyız...?\nHepimiz... tıpkı senin gibi miyiz!?
+32|Evet, doğru.\nSiz de hepiniz <CLT=cltSTRONG>kurgusalsınız<CLT=cltNORMAL>.
+34|Sadece bu öldürme oyunu için yaratılmış\nkurgusal karakterlersiniz.
+35|Korkarım bu konuda yapabileceğimiz bir şey yok.\nDanganronpa öyle bir yapım.
+36|N-Ne diyorsun sen...?
+37|B-Biz kurgusal değiliz!\nYaşayan, nefes alan insanlarız!
+38|Maddi olmayan varoluşunuz, gerçek etinizden\nve kanınızdan bağımsız bir uydurma.
+39|Evet, hepiniz kurgusalsınız.
+40|Dördüncü duvarın ötesindeki sizler\nbunu zaten biliyordunuz, değil mi!?
+41|Ultimate Akademi'ye ilk geldiğinizde\nhiçbiriniz böyle görünmüyordunuz...
+42|Gerçek benlikleriniz onlardı.\nŞimdi hepiniz sadece kurgusal karakterlersiniz.
+43|<CLT=cltSTRONG>Gerçek<CLT=cltNORMAL> bu.
+44|<CLT=cltMIND>Gerçek bu mu?\nO zaman... gerçek kimliklerimiz...
+45|Hope's Peak Akademisi Öğrencileri
+46|Biz Hope's Peak Akademisi\nöğrencileriyiz...
+47|Dediğim gibi Hope's Peak Akademisi\ngerçek dünyada yok.
+48|<CLT=cltMIND>Biz... kurgusal mıyız?\n<CLT=cltNORMAL>
+49|Saklanan Ultimate'lar
+50|Biz... Ultimate Avı'ndan kaçmak için...\nsahte bir cenaze töreni yaptık...
+51|Hâlâ bundan mı bahsediyorsun? O işleri\nbir süre önce bitirdik.
+53|Sıradan insanlar
+55|Acele et de söyle artık.\nUzatmanın anlamı yok.
+57|<CLT=cltMIND>Gerçek kimliğimiz...
+58|Hiçbir <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL> yeteneği olmayan sıradan,\nortalama, gündelik insanlarsınız.
+60|Bu akademiye ilk kez geldiğinizde...
+61|Sadece sıkıcı, sıradan lise öğrencileriydiniz.
+62|Yeteneği olmayan ortalama öğrencilerdiniz...\ntıpkı benim gibi.
+63|Ama sıkıcı, sıradan karakterlerin\nDanganronpa'da yer alma hakkı yok...
+64|O yüzden hepiniz yeni rollerinize\ndaha uygun hale getirildiniz.
+65|İlk Geri Dönüş Işığı sayesinde herkes\nhatırladı.
+66|Karakterlerinizi yaratmak için hepinize kişilikler,\nyetenekler ve geçmişler verildi.
+67|Tıpkı o enfes belgesel\nMaking a Murderer gibi!
+68|Bu hikâyenin prologu işte o noktada\nbaşladı.
+69|Bu da <CLT=cltSTRONG>Ultimate yeteneklerinizin<CLT=cltNORMAL> hepsinin\nsadece kurgu olduğu anlamına geliyor...
+70|Yeteneklerimiz de mi...?

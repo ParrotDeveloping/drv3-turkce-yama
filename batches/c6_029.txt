@@ -1,0 +1,69 @@
+@ chap6_text_US
+## c06_107_027
+302|Ve sonra öldürme oyunu başlayacak!
+304|<CLT=cltMIND>Hatırladım...
+305|<CLT=cltMIND>kayıp son anımı.
+306|B-Bu... dondurulmuş uykudan uyandıktan\nhemen sonrasındandı...
+307|Evet... öldürme oyunu başlamadan\nhemen önceki bir anı.
+308|Her birimiz Monokuma tarafından uyandırıldık\nve anılarımız alındı...
+309|V-Ve bütün bunları... yapmaya\nzorlandık mı...?
+310|B-Birlikte çalışacaktık...\nArkadaş olacağımıza söz vermiştik...
+311|Monokuma... seni asla affetmeyeceğim!
+312|Ben de! Onu kesinlikle... asla affetmeyeceğim!
+313|Ben de aynı şeyi hissediyorum...\nAma şu an incelememiz gerek.
+314|Şafak yaklaşıyor.
+315|O zaman... burayı bana bırakın.\nSiz gidip diğer yerlere bakın.
+317|Burada hâlâ bir gizem varmış gibi hissediyorsun,\ndeğil mi Shuichi? O zaman onu senin için bulacağım.
+318|Hepimiz birlikte çalışıp gerçeği bulmaya\nçalışıyoruz ama ben daha hiç ipucu bulamadım...
+319|Onurumu geri kazanmalıyım!
+320|Himiko... tek başına iyi olacak mısın?
+321|Bu aptalca bir soru!
+322|O anıyı geri kazandığımdan beri\nöfkeden kuduruyorum!
+323|Yeteneklerimle o alçak Monokuma'yı ve\nbeyni yakalayacağım!
+324|...Anlıyorum.\nO zaman sana bırakıyorum, Himiko.
+325|Ne? B-Bekle, gerçekten mi? Bunu gerçekten bana\nmı bırakacaksın? Tek başıma?
+326|Yapabileceğine yeterince güvenmiyorsan\nkendini zorlamana gerek yok...
+327|H-Hayır, iyiyim!
+328|Bana inandığınıza göre elimden gelenin\nen iyisini yapmalıyım...
+330|B-Böyle uğursuz şeyler söyleme...
+331|Sadece ne kadar kararlı olduğumu söylüyorum.\nBana inanın ve devam edin.
+332|Teşekkürler. Bu gerçekten içimi\nrahatlattı, Himiko.
+333|Ne yapalım? Bu kadar az vakit kalmışken\nayrılmak en iyisi, değil mi?
+334|Evet. Ayrılıp bütün laboratuvarları\nbir kez daha kontrol etmeliyiz.
+335|Herhangi birinde bir ipucunu kaçırdıysak...\nbüyük ihtimalle *o* laboratuvardır.
+336|Anladım! Gidelim!
+338|Sen de, Himiko.
+## c06_108_031
+0|<CLT=cltMIND>Keebo avluda savaşırken tuhaf\nbir şey gördüğünü söylemişti.
+1|<CLT=cltMIND>Buradan bütün avluyu\ngörebilmeliyim.
+2|Bahsettiği şey bu olmalı...
+3|<CLT=cltMIND>Pekâlâ, bakalım bir şey bulabilecek miyim...
+4|Himiko? Gizli odadan nasıl\nçıktın?
+5|Kütüphanedeki gizli kapı\nyıkılmıştı...
+6|Senin için çok endişelendik!\nOrada mahsur kalmıştın...
+7|Nyeh? Oradan nasıl kaçtığımı\nanlamıyor musun?
+8|...Hayır?
+9|Hmhmhm, anlıyorum... anlamıyorsun...
+10|Nasıl kaçtığımı bilmiyorsun...
+11|O zaman söyleyeyim! O kapalı odadan\nbüyümle kaçtım!
+12|...Himiko. Şimdi sırası değil—
+13|Iiiiiik!
+14|Himiko! İyi misin?
+15|K-Kıl payı kurtuldum!\nNeredeyse ölüyordum!
+16|Sana söyledim... şimdi sırası değil...
+17|A-Anladım. Söyleyeceğim...
+18|Kesinlikle büyümü kullandım ama o kapalı\nodadan kaçmama yardım eden bir şey daha...
+19|...okul binasının 1. katındaki kızlar\ntuvaletiydi.
+20|Tuvalet mi?
+21|Benimle oraya gelmek ister misin?
+23|S-Seni benimle tuvalete gelmeye davet\netmiyorum! Tuhaf şeyler düşünmeye başlama!
+24|Ah, hayır, biliyorum...
+25|<CLT=cltMIND>1. kattaki kızlar tuvaleti mi? Bunun\ngizli odayla ne ilgisi var?
+26|<CLT=cltMIND><CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltMIND> dışında yeni bir\nipucu yok gibi görünüyor.
+27|Pekâlâ... tuvalete gideceğim.
+28|O odadan kaçabilmemin sebebi 1. kattaki\ntuvaletti.
+29|Benimle gel... tuvalete...
+30|Ama aptalca bir şey yaparsan büyümle\nseni kıza çeviririm!
+31|Ah... bunun için endişelenmene gerek yok.
+32|<CLT=cltMIND>Keebo'nun bahsettiği oda bu.
+33|<CLT=cltMIND>Burayı incelemeliyim.

@@ -1,0 +1,72 @@
+@ chap6_text_US
+## c06_000_004
+0|Havalandırma Kanalı
+2|Monitör 2
+## c06_000_005
+0|Ultimate Sanat Laboratuvarı Kapısı (Arka)
+## c06_000_019
+5|Kitaplık A
+6|Kitaplık B
+7|Kitaplık C
+8|Merdiven
+11|Ön Çift Kanatlı Giriş Kapısı
+12|Arka Sürgülü Kapı
+13|Küre
+## c06_000_106
+6|Aydınlatma
+7|Dolap
+## c06_000_135
+5|Dizüstü Bilgisayar
+6|Kasa
+## c06_000_137
+4|Vitrin
+7|Süper Araba
+8|Yönetici Koltuğu
+9|Mağara
+10|Amblem
+12|Helikopter
+13|Helikopter Kumandası
+## c06_000_150
+4|<CLT=cltMIND>İncelenecek o kadar çok şey var ki...\nBuna dikkatimi dağıtacak vaktim yok.
+## c06_000_251
+0|<CLT=cltMIND>Tapınak Kapısı
+1|<CLT=cltMIND>Ninja Heykeli
+2|<CLT=cltMIND>Levitaş\nKeebo'nun Laboratuvarı Girişi
+## c06_000_270
+0|<CLT=cltMIND>Yemekhane
+1|<CLT=cltMIND>Havuz Girişi Bulmaca Taş Anıtı
+## c06_001_270
+0|Ah, sanırım kendimi tanıtmalıyım.
+1|Adım <CLT=cltSTRONG>Makoto<CLT=typeNORMAL>.
+2|Hiçbir yeteneğim falan yok.\nSadece sıradan bir gencim...
+3|Bu sıkıcı görünüşlü kişi benim...
+4|Bakın, görünüşüm bile normal.
+5|Böyle seçkin bir okula girmek kötü\nşansımın sadece başlangıcıydı.
+6|Sınıf arkadaşlarımın sohbetlerine ya da\nöğretmenlerin derslerine ayak uyduramıyorum...
+7|Sınıfta sadece <CLT=cltSTRONG>boşluk<CLT=typeNORMAL> gibi\nmuamele görüyorum.
+8|Evde ailem sürekli tepemde...
+9|Açıkçası... bıktım...
+10|Gündelik hayatımdan kaçmak istiyorum...
+11|Kaçıp bütün bunları unutmak istiyorum...
+12|Kaçmak istiyorum... ve kaçmak... ve\nkaçmak ve kaçmak ve kaçmak.
+13|Ama iyiyim!
+14|Yaşamak için bir sebebim var!\nDört gözle beklediğim bir şey var!
+15|Bu yüzden iyi olacağım!
+16|Cesaret verdiğiniz için teşekkürler!
+17|Bana tamamen takıntılı olacağım bir\nşey verdiğiniz için teşekkürler!
+18|Devam etme gücü verdiğiniz için teşekkürler!
+19|Sizi desteklemeye devam edeceğim, o yüzden\nlütfen elinizden gelenin en iyisini yapmaya devam edin!
+20|Ve—!
+21|Bir gün ben de—!
+22|Kyaaaah!
+24|Okul binası patladı!\nN-Ne oldu!?
+25|Hey, şurada!
+26|<CLT=cltMIND>Başımı Maki'nin gösterdiği yere\nçevirdim...
+27|K-Keebo mu!?
+28|Keebo! Ne yapıyorsun!?
+29|Uçuyorsun! Sihir mi bu!?
+30|Ne planladığını bilmiyorum ama görünüşe göre\nokula gelişigüzel saldırıyor.
+31|Acele edip onu durdurmalıyız... Yoksa bu\nkargaşanın içinde kalırız.
+32|Ama onu nasıl durduracağız?
+33|Onunla konuşmalıyız!\nAşağı inmesini sağlayabiliriz!
+34|Tehlikeli ama... avluya gidip dikkatini\nçekmeye çalışalım.

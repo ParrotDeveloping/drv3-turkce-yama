@@ -1,0 +1,51 @@
+@ chap6_text_US
+## c06_107_027
+162|<CLT=cltMIND>Ama bu güllede kan yok. Kaede'nin\nRantaro'yu öldürmek için kullandığı gülle olamaz.
+163|O zaman... bu nereden geldi?\nBunun burada ne işi var?
+164|Ah, bu...
+165|<CLT=cltMIND>Gülleye yapışmış <CLT=cltSTRONG>bir şey<CLT=cltMIND>\nfark ettim.
+166|Bir şeyden kalma kumaş lifleri mi...?
+167|<CLT=cltMIND>Yakından incelediğimde güllenin yüzeyine\nyapışmış birkaç pembe lif görebiliyorum.
+168|Pembeler...
+169|<CLT=cltMIND>Dur! Bu demek oluyor ki bu gülle...
+171|<CLT=cltMIND>...Anlıyorum.
+172|<CLT=cltMIND>Bu öldürme oyununun beynini nasıl\nyakalayacağımı biliyorum...
+173|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Pembe Lifli Gülle<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+174|<CLT=cltMIND>Çöp kutusunda bir gülle vardı.
+177|<CLT=cltMIND>Bu demek oluyor ki bu gülle...
+179|<CLT=cltMIND>Anlıyorum. Bu öldürme oyununun beynini\nnasıl yakalayacağımı biliyorum.
+184|<CLT=cltMIND>Bir Monopad mi!? Üstünde de kan var...
+185|Bu kimin Monopad'i? Ve üstünde neden\nkan lekesi var?
+186|Bilmiyorum...\nAma yakından incelemeliyiz.
+187|<CLT=cltMIND>Bu bir öğrenci el kitabıysa açıldığında\nsahibinin adı görünmeli.
+188|<CLT=cltMIND>Monopad'i açtım ve...
+189|Bu Monopad... Hayatta Kalan Ayrıcalığı mı!?
+190|<CLT=cltMIND>Bu demek oluyor ki videoya ek olarak\nRantaro'nun Hayatta Kalan Ayrıcalığı...
+191|<CLT=cltMIND>bu <CLT=cltSTRONG>diğer Monopad'di<CLT=cltMIND>.
+192|Bu Ultimate Akademi'nin haritası mı?
+193|<CLT=cltMIND><CLT=cltSTRONG>Gizemli eşyalarla<CLT=cltMIND> açılan yerler\nde işaretlenmiş.
+194|<CLT=cltMIND>...Gizli oda da.
+195|<CLT=cltMIND>Yani bu, Yetenekli Gençler için Ultimate\nAkademi'nin eksiksiz bir haritası.
+196|Demek Rantaro'ya bu harita <CLT=cltSTRONG>Hayatta Kalan\nAyrıcalığı<CLT=cltNORMAL>'nın bir parçası olarak verilmiş...
+197|Gizli kapıyı bu yüzden biliyordu.
+199|Öldürme oyununu bitirmek için bir ipucu mu!?
+200|<CLT=cltSYSTEM>Öldürme oyununun ardındaki beyin akademinin\niçinde bir yerde saklanıyor.
+201|<CLT=cltSYSTEM>Onu ifşa etmek için en iyi şansın\nMonokuma'nın bir yedeğe ihtiyaç duyduğu an.
+202|<CLT=cltSYSTEM>O sırada beyin kütüphanenin gizli\nodasına gidecek.
+203|<CLT=cltSYSTEM>Bu ipucunun doğru olduğunu kanıtlamak\niçin bir şey tahmin edeceğim.
+204|<CLT=cltSYSTEM>İlk hatırlayacağın şey Ultimate Avı\nolacak.
+205|<CLT=cltSYSTEM>Bu bilgiyi sadece güvenebileceğini\nbildiğin insanlarla paylaş.
+206|<CLT=cltSYSTEM>Bunu nasıl belirlediğin yaşamın ya da\nölümün demek olacak. —Rantaro Amami
+207|<CLT=cltMIND>Kendinden kendine bir ipucu...\n<CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı<CLT=cltMIND>'nın bir parçasıydı.
+208|<CLT=cltMIND>Rantaro'nun bundan bahsetmesinin sebebi\nbu. Çünkü bu ipucunu okumuştu.
+214|<CLT=cltMIND>O bile tamamen inanmamıştı...\nAma başka seçeneği yoktu.
+215|<CLT=cltMIND>Bu yüzden kütüphaneye gitti.
+216|Her şeyi başlatan buydu...
+217|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı Monopad'i<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+218|O Monopad öğrenci el kitabı değil.\nBaşka bir şeye benziyor...
+219|Ama bu kan lekesi mi?\nBu kimin kanı?
+220|Ben de onu kontrol edecektim.
+221|Bu kanın kime ait olduğunu belirleyebilirsem\ngerçeğe o kadar yaklaşmış oluruz.
+222|Nasıl kontrol edeceksin...?
+223|Kaede ile buraya kurduğumuz kamera.\nFotoğraflardan çıkarabiliriz.
+224|O fotoğraf Kokichi'nin odasında.

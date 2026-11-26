@@ -1,0 +1,64 @@
+@ chap6_text_US
+## c06_001_270
+100|Hayır... bu yanlış.
+101|...Yanlış mı?
+102|Çünkü hâlâ <CLT=cltSTRONG>umut<CLT=cltNORMAL> olabilir.\nHâlâ ev diyebileceğimiz bir yer olabilir.
+103|Peki bu iddiayı neye dayandırıyorsun?
+104|...Hiçbir şeye.
+105|Sadece bir his.
+106|Sadece bir his mi...?\nŞu an <CLT=cltSTRONG>o aptal<CLT=typeNORMAL> gibi konuşuyorsun.
+107|...Kaito öyle demişti.
+109|Seyirci olmadan öldürme oyunu\nolamaz.
+110|<CLT=cltSTRONG>Hope's Peak Akademisi<CLT=typeNORMAL> de aynıydı.\nSeyirci için yapılmış bir öldürme oyunuydu.
+111|Bu oyun da aynı olmalı.
+112|Biri bunu bir yerden izliyor...\nGeriye kalan biri var.
+113|Hâlâ bir ihtimal var!
+114|Doğru, kesinlikle hiçbir ihtimal olmadığını\nsöyleyemeyiz. Ama sadece bir ihtimal bile—
+115|O ihtimal bizim <CLT=cltSTRONG>umudumuz<CLT=cltNORMAL>!
+117|Her şeyi incelemedik.\nBu okulda hâlâ bir sürü gizem var!
+118|Cevaplanacak sorular hâlâ varsa\ngerçeği bulmamışız demektir.
+119|Ve bu da... pes edemeyeceğimiz anlamına geliyor!\nGerçeğe ulaşmadan pes edemeyiz!
+120|...Gerçek bir <CLT=cltSTRONG>Ultimate Dedektif<CLT=typeNORMAL> gibi konuştun.
+122|Pekala. Bu öldürme oyununu kendi yönteminle\ndurdurma girişimine işbirliği yapacağım.
+123|Keebo!
+124|Ama şafağa kadar vaktin var.\nBundan fazla beklemeyeceğim.
+125|Şafağa kadar mı?
+126|Gerçi buradaki şafak sadece kubbeye\nyansıtılan bir yanılsama...
+127|Şafağa kadar öldürme oyununu\ndurduramazsan...
+128|Ultimate Akademi'yi yok edip öldürme\noyununu kendim bitireceğ—
+129|Puhuhu... Neyi bitireceksin?
+130|*iç çekiş* Söylemedim mi? Öldürme oyununu\nbitirmek imkânsız.
+131|Çünkü öldürme oyunu sonsuza dek ebedi!
+132|G-Geri döndü!
+133|Bu değerli akademiyi yok etmeye kalkışmak\nokul yönetmeliklerinin ihlalinden de öte.
+134|Bu bir isyan!
+135|Ne olmuş!? Bunun devam etmesine izin\nvereceğimi sanıyorsan fena yanılıyorsun!
+136|Ha? Robot arıza mı yapıyor? Öyle olmalı;\nyoksa neden bana karşı gelsin ki?
+137|O zaman ölene kadar öldürelim onu!\nAynen öyle!
+138|Bir robotu parçalamak hiç de kanlı değil,\no yüzden bu sefer sonuna kadar gidebilirim!
+139|Babalık! Onu öldürebilir miyiz!? Lütfen!?
+140|Puhuhu... Aşağıda kılları olmadığı için\nbu kadar yüzsüzler.
+141|...Ee, son sözlerin var mı?
+142|Iiiiyy! H-Hepsi savaş modunda!
+143|Burası tehlikeli. Hepiniz buradan\nçıkmalısınız.
+144|Keebo, iyi misin!?
+145|Shuichi... Ben onları oyalarken lütfen az önce\nbahsettiğin şu "<CLT=cltSTRONG>gerçeği<CLT=typeNORMAL>" bul.
+146|Artık her şey senin elinde!\nŞimdi git!
+148|Kuralları çiğneyenleri asla affetme! Öldürme\noyunuyla uğraşan herkes ölmeli!
+149|Exisal'lar, toplanın!
+150|Hayır, artık kudurmanıza izin vermeyeceğim!\nBu öldürme oyunu bitti!
+151|<CLT=cltSTRONG>Umudun<CLT=typeNORMAL> ta kendisinin sembolü\nHope's Peak Akademisi adına...
+152|Ultimate Akademi'yi yok edip bu <CLT=cltSTRONG>umutsuzluk<CLT=typeNORMAL>\nanıtını yıkacağım!
+153|<CLT=cltMIND>Her şey böyle başladı.\nKeebo ile Exisal'lar arasındaki savaşta...
+154|<CLT=cltMIND>Ultimate Akademi bir savaş alanına döndü.
+## c06_100_001
+0|<CLT=cltMIND>Yaşanan savaştan kaçmaya çalışarak\ngiriş salonuna koştuk.
+1|B-Bir anda işler gerçekten kötüleşti...
+2|Demek sonunda robot ayaklanması oldu...\nHep korktuğum şeydi ama...
+3|B-Böyle olacağını hiç beklemiyordum!
+4|Ama Monokuma araştırma laboratuvarında\nneden öyle bir silah bıraksın ki?
+5|Epey... dikkatsiz, değil mi?
+6|Iiiiyy! K-Korkmuyorum! Korkmuyorum!
+7|Hey, ne yapmalıyız?
+8|...Daha önce dediğim gibi. Bu öldürme oyununu\nbitirmek için gerçeği bulmalıyız.
+9|Tamam ama... neye bakmamız lazım?

@@ -1,0 +1,54 @@
+@ chap6_text_US
+## c06_108_031
+34|<CLT=cltMIND>Önüne çıkan her şeyi havaya uçurmak\nen iyisi olabilir...
+35|<CLT=cltMIND>O ses... bu dolaptan\nmı geldi?
+36|<CLT=cltMIND>Kontrol etmeliyim...
+37|<CLT=cltMIND>Himiko nasıl kaçtı?\nOna sormalıyım.
+42|<CLT=cltMIND>Biri karatahtaya yazmış...\nBu ne zaman oldu?
+43|<CLT=cltMIND>Tuhaf ama Keebo'nun bahsettiği şeyin\nbu olduğunu sanmıyorum.
+44|<CLT=cltMIND>"Lütfen Geri Dönüş Işığı'nı\nResepsiyon Alanı'ndan alın."
+45|<CLT=cltMIND>Ekranda yazan sadece bu.
+46|<CLT=cltMIND>Yine de... bu karatahtada böyle bir\nekran olduğunu hiç bilmiyordum.
+47|<CLT=cltMIND>Karatahta normale döndü.
+48|<CLT=cltMIND>Sırayı çalıştırmak için bir yerde\nbir anahtar olmalı...
+49|<CLT=cltMIND>ama buralarda öyle bir şey\ngöremiyorum.
+50|<CLT=cltMIND>Sıra dönmüş...
+51|<CLT=cltMIND>Özellikle tuhaf bir şey yok. Keebo'nun\nkastettiğinin bu olduğunu sanmıyorum.
+52|<CLT=cltMIND>Duyduğum ses... dolaptan geldi,\ndeğil mi?
+53|<CLT=cltMIND>Sırayı çalıştırmak için bir yerde\nbir anahtar olmalı...
+54|<CLT=cltMIND>ama bir anahtar göremiyorum.
+61|<CLT=cltMIND>Dolap sağlam görünüyor...
+62|<CLT=cltMIND>ama Keebo'nun bahsettiği şeyin bu\nolduğunu sanmıyorum.
+63|Duyduğum ses kesinlikle bu dolabın\niçinden geldi.
+64|Açacağım...
+65|Ah, bir Geri Dönüş Işığı!
+66|<CLT=cltMIND>Bu yeni...\nDaha yeni gelmiş.
+67|Tam tahmin ettiğim gibi... O sırayla\nGeri Dönüş Işığı yapılabiliyor.
+68|<CLT=cltMIND>Neden normal görünümlü bir sınıfta\nsaklandığını bilmiyorum...
+69|<CLT=cltMIND>ama bir yerde gizli bir anahtar\nolmalı.
+70|<CLT=cltMIND>O anahtarı çevirmek bu sırayı\nçalıştırıyor.
+71|<CLT=cltMIND>Eminim oda yıkıldığında Keebo\nbunların hepsini gördü...
+72|<CLT=cltMIND>Ama beni ilgilendiren, bu <CLT=cltSTRONG>Geri Dönüş\nIşıkları<CLT=cltMIND>'nın tam olarak nasıl yapıldığı.
+73|<CLT=cltMIND>Tek bir gerçek var...\nSadece *tek* bir gerçek anı olmalı...
+74|<CLT=cltMIND>Ama bu açıkça seçim yapmana izin veriyor. Neden?\nVe hangilerinin gerçek olduğuna dair bir işaret yok.
+76|Birden fazla gerçek mi var...?
+77|Gerçek ne... yalanlar ne?
+78|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Geri Dönüş Işığı Ayarları<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+79|<CLT=cltMIND>Tam o anda sınıfın kapısı\naniden ardına kadar açıldı.
+80|<CLT=cltSYSTEM>*vuuş!*
+81|İşte buradasın, Shuichi!
+82|H-Himiko!?
+83|<CLT=cltMIND>...Ha? Sınıf normale\nmi döndü?
+84|<CLT=cltMIND>Yani kapı açılınca... sınıf\n<CLT=cltSTRONG>normale dönüyor<CLT=cltMIND> mu?
+85|<CLT=cltMIND>Bunun odanın amacını gizlemek için\nyapıldığını varsayabilirim.
+86|<CLT=cltMIND>Bütün bunları çalıştıran kişi\nbizim görmemizi *istemiyordu*.
+87|<CLT=cltMIND>Ve bize karşı bu kadar temkinliyse...
+89|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Beyne Dair İpuçları<CLT=cltSYSTEM>" Monopad'inin Gerçek\nMermileri bölümünde güncellendi.
+90|Ne düşündüğünü bilmiyorum\nShuichi ama...
+91|Hayatta kaldığıma biraz daha sevin! O kapalı\nodadan muhteşem bir kaçış yapmayı başardım!
+92|Ah, doğru!
+93|<CLT=cltMIND>Giriş enkazla kapanmışken Himiko\nnasıl kaçtı?
+94|Nyeeeh!? Bu bir <CLT=cltSTRONG>Geri Dönüş Işığı<CLT=cltNORMAL>!
+95|E-Evet ama onu kullanmamalıyız...
+96|N-Neden!?
+97|Hâlâ önemli bir şeyi unutuyor\nolabiliriz!

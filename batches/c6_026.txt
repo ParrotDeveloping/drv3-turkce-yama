@@ -1,0 +1,62 @@
+@ chap6_text_US
+## c06_107_027
+96|Sen... Monokuma mısın!?
+97|Tabii ki. Ama herhangi bir Monokuma değilim.
+98|Öldürme oyununun gözetmeni ve bütün\nMonokuma'ların kaynağıyım...
+99|O yüzden bana özel bir isim verildi...\n<CLT=cltSTRONG>Annekuma<CLT=typeNORMAL>!
+100|<CLT=cltMIND>"Anne"kuma mı?
+101|O zaman... bu akademide yedek Monokuma\nyapan makine...
+102|Ah, o benim.
+103|Arkamdaki bu muhteşem makineyi görüyor musun?
+104|Yedek Monokuma'lar üretiyor! Tek yapmam\ngereken düşüncelerimi kopyalamak ve...
+105|Hop! Kendimi doğuruyorum!
+106|Ha? Yedek Monokuma mı? Bu kadar kolay\nyapılabiliyor mu? Gelişmiş robotlar sanıyordum...
+107|...Şey, evet, o yüzden bu kadar muhteşemim.
+108|Hayır, bu bir yalan olabilir. Bizi sahte\nbilgilerle kandırmaya çalışıyor.
+109|Herkes bu şeyin fazla kolay ve fazla\nbilgi verdiğini görebilir.
+110|Haaa? Ama yalan değil.\nYedekleri gerçekten kolayca yapabilirim.
+111|Bunu şimdi yapabilir misin?
+112|Evet! Yeni bir Monokuma yapmayı dene!
+114|Ha? Ne oldu?
+115|Beni sevmeyen biri için Monokuma\ndoğuramam.
+116|Doğduktan sonra ne olacak, ha!? Hiç bunu\ndüşündün mü? Biraz sorumluluk al!
+117|Neyse, sadece bir Monokuma doğur!
+118|Hayır! Yapmayacağım! Sevmediğim biri söyledi\ndiye ona Monokuma doğurmayacağım!
+119|...Acele et de bir Monokuma doğur.
+121|...Dinliyor musun?\nYeni bir Monokuma doğur dedik.
+123|Bizi tamamen görmezden geliyor. Yedeklerle\nilgili şey... sonuçta bir yalan mıydı acaba.
+124|<CLT=cltMIND>Bir yalan, ha...
+125|<CLT=cltMIND>Ama bu konuda neden yalan söylesin?
+126|<CLT=cltMIND>Yalan söylemek için bir sebep olmalı...
+127|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Annekuma<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+128|Hey, bu Monokuma'yı bırakın.\nAcele edip bu odayı arayalım.
+129|Haklısın! Beyin burada bir yerde\nsaklanıyor!
+130|Shuichi, öylece durma!\nBeyni ara!
+132|<CLT=cltMIND>Doğru. Önce beynin burada saklanıp\nsaklanmadığını görmeliyiz.
+133|<CLT=cltMIND>Burada başka ipuçları da olmalı.
+134|D-Doğurmak mı!? Bana bir tane daha doğurtmadan\nönce seninkileri sahiplen!
+136|<CLT=cltMIND>Yedeklerle ilgili söylediği gerçekten\ndoğru muydu acaba...
+137|Öldürme oyunu asla bitmeyecek!
+138|Ne yaparsanız yapın bu öldürme oyunu\nasla bitmeyecek! Asla!
+139|Öldürme oyunu umutsuzluğun sembolü!\nBitemeyecek kadar eğlenceli!
+140|Puhuhu... Gerçek bu. Tek yapabileceğiniz\nonu kabullenmek.
+141|Kumaşla örtülü... bir şey var.\nŞüpheli görünüyor...
+142|<CLT=cltMIND>Kumaşı dikkatlice kaldırdım ve...
+143|Bir Monokuma kafası mı!?
+144|Puhuhu... Beni buldunuz. Daha doğrusu sadece\nbulmanız gereken bir yeri buldunuz.
+145|Her halükârda öldürme oyununu bitiremezsiniz.
+146|Öldürme oyunu umutsuzluğun rahminden\ndoğdu...
+147|<CLT=cltSTRONG>Ultimate Umutsuzluk<CLT=typeNORMAL>'un yarattığı Hope's Peak\nAkademisi'ndeki öldürme oyunundan başlayarak...
+148|Hepsi birbirine bağlı! Öldürme oyunu\numutsuzluğun ta kendisi!
+149|<CLT=cltMIND>B-Bu da ne!?
+150|Eyvah... Final patronunu görmezden gelmek\nhiç iyi değil...
+151|Bana katılırsan sana dünyanın yarısını\nverecektim... ama boş ver!
+152|Ha? Önce benimle konuş.
+153|Sonunda sıra bende! Size her şeyi anlatmak\niçin sabırsızlanıyorum!
+154|<CLT=cltMIND>Bu bir çöp kutusu.
+155|Bunu da incelemeliyim.\nBurada *bir* ipucu olduğuna eminim.
+156|<CLT=cltMIND>Çöp kutusunu öylesine açtım ve...
+157|Ha?
+158|<CLT=cltMIND>Şaşkınlıkla nefesim kesildi.
+160|<CLT=cltMIND>Çöp kutusundaki bu <CLT=cltSTRONG>şey<CLT=cltMIND>\ndüşündüğümden çok daha ağır...
+161|Bir gülle mi!?\nBunun burada ne işi var?

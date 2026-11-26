@@ -1,0 +1,53 @@
+@ chap6_text_US
+## c06_242_001
+6|Gerçekten <CLT=size2>Danganronpa'nın<CLT=size1>
+7|Gerçekten Danganronpa'nın bitmesini istiyor musun?
+8|<CLT=cltWEAK><CLT=size2>bitmesini<CLT=cltNORMAL> istiyor musun？
+9|<CLT=size2>Hadi\nama,\nsürekli
+10|Hadi ama, sürekli gidip gelsek bile...
+11|<CLT=size2>gidip\ngelsek\nbile
+12|...
+13|<CLT=cltAGREE><CLT=size2>bu oyunu<CLT=cltNORMAL> sürdürelim!
+14|bu oyunu sürdürelim!
+15|Henüz <CLT=cltAGREE><CLT=size2>Oylama Vakti<CLT=size1>\n　\n　\n　\n<CLT=cltAGREE><CLT=size2>olmasına<CLT=size1> izin vermeyeceğim!
+16|Henüz Oylama Vakti olmasına izin vermeyeceğim!
+## c06_243_000
+0|Hey! Neden hiçbir şey yapmıyorsun!?
+1|Ben... bu oyunu bırakıyorum.\nArtık senin oyununu oynamayacağım, Monokuma.
+2|Şimdi oylamayı başlat.
+3|Bu oyunu bırakmana izin vermeyeceğim.
+4|Kesinlikle izin vermeyeceğim!
+5|Evet! Hâlâ oyunu oynamaya devam\netmenize ihtiyacım var!
+## c06_243_025
+0|Sevgili suikastçım T_T
+## c06_245_000
+0|Hey... ne yapıyorsun?
+1|Oyunla daha çok eğlenelim! Danganronpa'yla\nçok ama çok eğlenelim!
+## c06_247_000
+0|Sınıf duruşmasını düzgün yapın! Yoksa\nseyirciler sıkılacak!
+6|Sıkılsınlar o zaman...\nBiz sizi eğlendirmek için burada değiliz.
+7|Hayatta kalmaya çalışıyoruz! Bizim eğlenceli\nolmamızı isteyen sizsiniz!
+9|Şikâyet edecekseniz...\nbelki de izlemeyi bırakmalısınız.
+10|Bütün seyircilerin bizden nefret etmesini\nsağlamamız gerekse bile durmayacağız.
+11|Trajedimizi burada bitireceğiz.
+12|Artık pes et de Oylama Vakti'ni başlat.
+13|Dördümüz de oy vermekten çekimser kalacağız...\nYani hayatta kalan tek kişi sen olacaksın.
+14|Buna razı mısın, Keebo? İç sesin\nbunun sorun olmadığını söylüyor mu?
+15|Dış dünya gerçekten bunu mu istiyor!?\nDanganronpa'nın bitmesini mi istiyorlar!?
+16|Hey! Ne diyorlar!?\nİç sesin ne diyor!?
+17|İç sesimin artık önemi yok!\nBu oyunu arkadaşlarımla birlikte bitireceğim—
+18|...Hıh!?!?
+20|...\n...
+24|Keebo... ne oldu?
+25|Haha! Ben de öyle düşünmüştüm.
+26|Ah-hahahahahaha! Gördün mü?
+27|Böyle bir son istemiyorlar!\nÖldürme oyunlarının sürmesini istiyorlar!
+28|Bu... dış dünyanın... <CLT=cltSTRONG>kararı<CLT=cltNORMAL>!
+30|Değil mi, Keebo?
+32|Evet... İç sesim umudun ya da umutsuzluğun\nolmadığı bir sonu kabul etmeyecek...
+34|Keebo! Kendine gel!
+35|Bu mümkün değil. Orada gördüğün\nKeebo senin tanıdığın Keebo değil.
+37|Dediğim gibi, onların vekiliyken\nseyircilere karşı gelemezsin.
+38|Öyle saçma bir şey yaptığı için şimdi\n<CLT=cltSTRONG>seyircilerin öfkesini<CLT=cltNORMAL> hissediyor.
+39|Ne demek istiyorsun?\nKeebo'ya ne oluyor?
+40|Keebo seyircilere karşı gelmeye devam ettiği\niçin oylama yaptılar ve karar verdiler...

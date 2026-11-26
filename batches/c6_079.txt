@@ -1,0 +1,61 @@
+@ chap6_text_US
+## c06_239_025
+18|Hoşumuza gidiyorsa ne olmuş!?
+19|Shuichi'yi korumak istiyorum <3
+## c06_240_000
+0|Evet, doğru. Çok dolaysız ve dürüst.\nYazdığım karakter bu işte.
+1|Hikâyenin önemi yok! Onu değiştirebilirsek\nbu gerçeklik sahici olacak!
+2|<CLT=cltMIND>Doğru. Gerçekliği değiştirebilirsek...\nO zaman duygularım artık kurgu olmayacak...<CLT=cltNORMAL>
+3|<CLT=cltMIND>Shuichi'ye inanacağım...\nO burada olsaydı yapacağı şey bu olurdu...
+4|Tam dediğin gibi. Ölenler arkadaşlarının\nyaşamaya devam etmesini diler...
+5|Öyle değil! Herkesin düşüncelerini\nbirleştirmek için hayatımı kullanacağım!
+8|Varlığım bir kurgu eseri olsa bile...\nBirinin yazdığı bir hikâye parçası olsa bile...
+9|O gerçekliği değiştirebilirsek\nartık kurgu olmayacak!
+10|<CLT=cltMIND>Doğru. Gerçekliği değiştirebilirsek...\nO zaman duygularım artık kurgu olmayacak...<CLT=cltNORMAL>
+12|<CLT=cltMIND>Bu öldürme oyununu bitireceğim...\nDuygularıma inanacağım!
+## c06_240_001
+0|<CLT=size2>Düşüncelerin<CLT=size1> bile\n<CLT=size3>\n　\n　\n　
+1|Düşüncelerin bile\nbirer kurgu eseri.
+2|<CLT=size2>birer<CLT=size1>\n<CLT=size3>\n　\n　\n　
+3|<CLT=size2>kurgu eseri.\n<CLT=size3>\n　\n　\n　
+4|Hepsi taslağıma <CLT=cltAGREE><CLT=size2>harfiyen<CLT=size1> <CLT=size2>uyuyor<CLT=cltNORMAL><CLT=size1>.
+5|Hepsi taslağıma harfiyen uyuyor.
+6|Hepsi <CLT=cltAGREE><CLT=size2>taslağıma harfiyen uyuyor<CLT=cltNORMAL><CLT=size1>.
+7|Bu koca iş kurgu!
+9|İşte <CLT=size2>Danganronpa<CLT=size1> bu!
+10|İşte Danganronpa bu!
+11|Kurgu olsa bile!
+13|Buraya kadar
+14|Buraya kadar herkesin fedakârlıkları\nsayesinde geldik!
+15|<CLT=size2>herkesin
+16|<CLT=size2>fedakârlıkları
+17|sayesinde
+18|geldik!
+19|Onların <CLT=size2>ölümleri\n<CLT=size2>sadece kurgudan<CLT=size1>\nfazlası olmalı...
+20|Onların ölümleri sadece kurgudan fazlası olmalı...
+21|Yapabileceğimiz\n<CLT=size2>bir şey<CLT=size1> olmalı!
+22|Yapabileceğimiz bir şey olmalı!
+23|Hayatlarınızı\n<CLT=size2>onlar<CLT=size1> için de
+24|Hayatlarınızı onlar için de yaşamayı kastediyorsun.
+25|<CLT=cltAGREE><CLT=size2>yaşamayı<CLT=size1> kastediyorsun.
+26|Bu <CLT=size2>kurguyu<CLT=size1>\n<CLT=size2>gerçekliği değiştirmek<CLT=size1>\niçin <CLT=size2>kullanacağız!
+27|Bu kurguyu gerçekliği değiştirmek için kullanacağız!
+28|<CLT=size2>Dangan<CLT=size1>
+29|Danganronpa'yı bitireceğiz!
+30|<CLT=cltAGREE><CLT=size2>ronpa'yı<CLT=size1>
+31|<CLT=cltAGREE><CLT=size2>bitireceğiz!
+## c06_241_000
+0|Her şey kurgusal olsa bile...\nduygularıma inanacağım.
+1|Duygularıma inanamazsam\nvarlığımın hiçbir anlamı olmaz.
+2|Gerçekliği değiştirebilirsek sadece\nkurgu olmayız...
+3|Hayatlarımızın bir önemi olur.
+4|Ve umarım... duygularımın da bir\nönemi olur.
+5|Herkesin birlikte ölmesinin... sorun\nolmadığını mı söylüyorsun!?
+6|Dostum, neden ölmeyi bu kadar çok istiyorsunuz!?
+7|Ölmek istediğimden değil!
+8|Hayatta kalmak için o kadar çok savaştık ki...\nTabii ki ölmek istemiyoruz.
+9|Ama mesele sadece biz değiliz. Öldürme oyunlarında\nölen herkes de aynı şeyi hissetti.
+10|Hepsi umutsuzca yaşamak istiyordu.\nHayatta kalmak istiyorlardı.
+11|Kendileri için...\nve başka biri için.
+12|O istek... bizim için kurgu değil!\nO acı bizim için kurgu değil!
+13|Bizim için öldürme oyunu gerçek bir trajedi!

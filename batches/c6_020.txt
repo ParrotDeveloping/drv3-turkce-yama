@@ -1,0 +1,60 @@
+@ chap6_text_US
+## c06_105_032
+76|Neyse, hâlâ iyilerse sorun yok.\nKeebo ile Monokuma ortalığı birbirine katarken...
+77|Himiko ile Maki'nin yıkımın arasında\nkalacağından düpedüz endişelenmiştim.
+78|Kütüphanenin arkasında gizli bir oda\nolabilir gibi görünüyor gerçekten...
+79|Hayır, kesinlikle bir şey var!\nHadi gidelim, Shuichi!
+80|<CLT=cltMIND>Buralarda biraz daha inceleme\nyapmalıyım.
+85|<CLT=cltMIND>Masada bırakılmış bazı belgeler\nvar.
+86|Gofer Projesi katılımcı listesi mi?
+87|Ah, evet. Buna bakmanı istiyordum.\nDaha önce buradayken buldum...
+88|Özellikle dikkat çeken bir şey var mı?
+89|Hepimizin profili burada yazılı...
+90|Çoğu zaten bildiğimiz şeyler\nama önemli olan o değil...
+91|Kaede'yle ilgili...
+92|Ne? Kaede'ye ne olmuş?
+93|Onun... bir ikizi var.
+94|...İkizi mi?
+95|Evet, görünüşe göre ikiz bir kız\nkardeşi var.
+96|Kardeşinin bir akrabası tarafından evlat edinildiği\nve neredeyse hiç görüşmedikleri yazıyordu ama...
+97|Yine de biraz endişeliyim. Çünkü...\nJunko Enoshima'nın da bir <CLT=cltSTRONG>ikiz kardeşi<CLT=typeNORMAL> vardı.
+98|Ah, doğru ama...
+99|Üstelik Junko öldürme oyununu perde arkasından\nyönetmek için ikiz kardeşini kullanmıştı.
+100|Yani... muhtemelen sadece bir tesadüf ama\nsana söylemem gerektiğini düşündüm, Shuichi.
+101|E-Evet... Teşekkür ederim.
+103|<CLT=cltMIND>Kaede'nin bir ikizi olduğunu ilk\nkez duyuyorum.
+104|<CLT=cltMIND>Ama bunun... bir ilgisi var mı?
+105|<CLT=cltMIND>Pek önemi yok, değil mi?
+106|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Gofer Projesi Katılımcı Listesi<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+107|S-Sanırım... savaşları daha da\nşiddetlendi.
+108|Acaba bir şey olmayacak mı... Bina yakında\nyıkılacak gibi görünüyor...
+109|Keebo bize şafağa kadar vakit vereceğini\nsöyledi ama...
+110|Ama Monokuma'nın Keebo'yu ondan önce\nyenme ihtimali var, değil mi?
+111|Her halükârda... acele etmeliyiz.
+112|Şimdi ne yapacaksın?
+113|İncelememiz gereken <CLT=cltSTRONG>bir yer<CLT=cltNORMAL> var.
+114|Öldürme oyunu başladıktan hemen sonra buldum\nama bunca zaman kapalıydı.
+115|Yani...
+116|Evet. Kütüphanenin arkasındaki\ngizli oda.
+117|Keebo'nun yardımıyla <CLT=cltSTRONG>içeri<CLT=cltNORMAL>\ngirebileceğimden eminim.
+118|Ah, haklısın! Seninle geleceğim!
+120|<CLT=cltMIND>Katılımcı listesine göre Kaede'nin\nikiz bir kız kardeşi var.
+121|Tsumugi haklı... <CLT=cltSTRONG>ikiz<CLT=cltNORMAL>.
+122|Öldürme oyununu perde arkasından\nböyle yönetmişti...
+123|<CLT=cltMIND>Ama bunun bir ilgisi olamaz.\nDünyada bir sürü ikiz var.
+124|<CLT=cltMIND>İlgisi yok... değil mi?
+## c06_105_131
+0|<CLT=cltMIND>Yeni bir oda...\nO olmalı.
+2|Etrafa bakmayı deneyeceğim...
+3|O deliğin öbür tarafında nasıl bir oda\nolduğunu bilmiyorum ama...
+4|Kesinlikle tuhaf bir oda.
+5|O oda... birlikte dondurularak\nuyuduğumuz yerdi...
+6|Ama şimdi üzülmenin zamanı değil!
+7|Verdiğimiz sözü yerine getirmek için\nkütüphanedeki gizli odaya gidelim!
+8|<CLT=cltMIND>Deliğin öbür tarafındaki odayı\nkontrol etmeliyim.
+14|<CLT=cltMIND>Maki'nin bulduğu Gofer Projesi\nhakkında bir belge var.
+15|<CLT=cltMIND><CLT=cltSTRONG>"Olağanüstü yetenekli kızlar ve erkekler"<CLT=cltMIND>...\nbiziz.
+16|<CLT=cltMIND>Ultimate Akademi'nin kendisi <CLT=cltSTRONG>yeni bir\ndünyaya<CLT=cltMIND> giden gemi.
+17|<CLT=cltMIND>Cihaz bozulmak üzere gibi görünüyor.\nYıldızlar görünmüyor...
+18|<CLT=cltMIND>Dışarısı hâlâ karanlık...
+19|<CLT=cltMIND>Ama şafağa çok vakit kalmadı.\nAcele etmeliyim.

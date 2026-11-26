@@ -1,0 +1,63 @@
+@ chap6_text_US
+## c06_110_270
+37|Hatta girişimini memnuniyetle karşılıyorum! Bu\ngelişme işleri çok ilginç hale getirecek!
+38|<CLT=cltMIND>Demek bu şartlarda bile işleri ilginç\nhale getirme fırsatını kaçırmıyorsun...
+39|<CLT=cltMIND>Bu da demek oluyor ki bu öldürme oyunu—
+40|Ama bir sınıf duruşması yapacaksak bunun\nsorumluluğunu size yükleyeceğim.
+41|Sorumluluk mu...?
+42|Tatmin edici bir sonuca ulaşmayan bir sınıf\nduruşması yapsak kötü olur.
+43|Yani duruşma istediğiniz gibi gitmez ve\ngerçek ortaya çıkmadan biterse...
+44|O zaman böyle hayal kırıklığı yaratan bir sınıf\nduruşması düzenlemenin sorumlusu siz olursunuz.
+46|Puhuhu... Kararlılığından hiç şüphem yok.
+47|Ama diğerleri de buna razı mı? Sorumluluk\nhepiniz arasında paylaşılacak...
+48|S-Sorumluluk... paylaşılacak mı?
+49|Biz hazırız.
+50|Sana güveneceğim. Ama bunu berbat edersen...
+51|...Monokuma'dan önce ben seni öldürürüm.
+52|...E-Evet, sana inanıyorum.
+53|H-Haklısın... Şimdi panik\nyapmanın anlamı yok...
+54|Güvenebileceğim arkadaşlarım var!\nKorkacak hiçbir şey yok!
+57|Ayrıca bu sınıf duruşmasını yapacaksak bütün\no şatafatlı bilimkurgu teçhizatını çıkarmalısın.
+58|Sonuç senin lehine olmazsa çıldırma\nriskini göze alamayız...
+59|Bu teçhizatı çıkarmak...
+60|Bu silahları şimdi çıkarırsam bu akademiyi\nyok etme şansımı kaybederim...
+61|Bu... son şans. Monokuma'nın kazanmasına\nizin vermemek için son şans...
+62|Bu... gerçekten doğru mu?
+63|Keebo... lütfen, bana inan.
+64|Monokuma'nın kazanmasını istemiyorum.
+65|*Biz* kazanacağız.
+66|<CLT=cltSTRONG>Umudumuz<CLT=cltNORMAL> bu <CLT=cltSTRONG>umutsuzluk<CLT=cltNORMAL>\noyununu bitirecek!
+67|O sonun bizi beklediğini gerçekten düşünüyor\nmusun? Açıkçası gerçek olamayacak kadar güzel.
+68|Evet, düşünüyorum.
+69|O <CLT=cltSTRONG>son<CLT=typeNORMAL> bizim için\n<CLT=cltSTRONG>umudun<CLT=typeNORMAL> ta kendisi.
+70|...Ve <CLT=cltSTRONG>umuttan<CLT=typeNORMAL> vazgeçemeyiz.
+72|Keebo... burada Shuichi'ye güvenelim.
+73|Sen de ölmek istemiyorsun... değil mi?
+74|Hepimiz birbirimize inanabilen\narkadaşlarız, değil mi!?
+76|...Pekâlâ, silahlarımı çıkaracağım.\nBu sınıf duruşmasını yapalım.
+77|Teşekkürler, Keebo.
+78|Puhuhu... O zaman karar verildi.
+79|Doğru. Bizim sınıf duruşmamız!
+80|Son savaşımız! <CLT=cltSTRONG>Umudumuz<CLT=typeNORMAL> senin\n<CLT=cltSTRONG>umutsuzluğunu<CLT=typeNORMAL> yenecek!
+81|Puhuhu... puhuhuhu...
+83|Neden gülüyorsun...?
+84|K-Kazanacağından bu kadar emin mi?
+85|S-Sorun olmayacak! Muhtemelen sadece blöf yapıyor!
+87|Neyse, bu sınıf duruşmasını yapacaksak acele\nedip duruşma alanına gitmeliyiz.
+88|Ama... Monoyavrulara o robotun\nteçhizatını söktüreceğim.
+90|Diğer herkes lütfen Yargı Tapınağı'na\ngidip oradan duruşma alanına geçsin.
+91|Puhuhu... Ben önden gidip hazırlıklara başlayacağım.\nMonoyavrular, buradan sonrası sizde.
+92|Pekâlâ o zaman! Bu robotun üstündeki\nbütün teçhizatı sökeceğiz!
+93|Saniyeler içinde bitiririm çünkü yemek yer\ngibi çalışırım—hızlı ve özensiz!
+94|Özensiz olmakla gurur duymamalısın.
+95|...Orada görüşürüz.
+97|<CLT=cltMIND>Keebo, Exisal'larla birlikte laboratuvarına\ndoğru yürüdü.
+98|Biz de gitmeliyiz...
+99|Bir sınıf duruşması daha yapacağımıza\ninanamıyorum...
+100|Monokuma'nın bu kadar kolay kabul\nedeceğini düşünmemiştim.
+101|Fazla kolay oldu... Biraz tuhaf\nhissetmeden edemiyorum.
+102|Muhtemelen Keebo'nun akademiyi yok etmesini\ndurdurmak için kabul etti.
+103|<CLT=cltMIND>Yine de... neredeyse fazla kolaydı.
+104|<CLT=cltMIND>Belki de Monokuma sadece bunu bekliyordu.
+105|<CLT=cltMIND>Ama yine de hayal ettiğimden çok\ndaha kolaydı.
+106|<CLT=cltMIND>...Şimdi bunu dert etmenin anlamı yok.\nBuraya kadar geldik, yapmak zorundayız.

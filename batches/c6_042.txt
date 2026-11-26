@@ -1,0 +1,69 @@
+@ chap6_text_US
+## c06_201_000
+166|Bu yeni bilgiyi öğrendiğimize göre\nRantaro'nun davasına geri bakarsak...
+167|...o zaman gözden kaçırdığımız <CLT=cltSTRONG>yeni bir\ngerçek<CLT=cltNORMAL> bulabiliriz.
+168|...Yeni bir gerçek mi?
+169|Pek anlamadım ama sadece Rantaro'nun\ndavasına yeniden bakmamız gerek, değil mi?
+170|O zaman yapalım.
+171|Evet! Bunu birlikte yapalım!
+172|Muazzam büyü güçlerimle Monokuma'yı\nbir otobüse çevireceğim!
+173|Onu da pek anlamadım ama sanırım\nMonokuma'yı yeniden basacağız!
+174|<CLT=cltMIND>Ben de pek emin değilim...\nAma asıl savaş daha yeni başlıyor.
+175|<CLT=cltMIND>Sonucun yanlış olduğunu kanıtlayıp\nbeyni birlikte köşeye sıkıştıracağız!
+## c06_202_000
+0|Rantaro bodrumdaki strateji toplantısında\nayrılana kadar bizimleydi.
+1|Az sonra onu kütüphanede bulduk,\nyani süre sınırından önceydi.
+2|...Üzerinden zaman geçti diye mi unuttun?
+4|Ne? Rantaro beyni ifşa edip öldürme\noyununu bitirmeye çalışıyordu.
+5|Tüh! Sırf öldü diye onun hakkında\nağzına geleni söyleme.
+7|Şey... Ölüm sebebi başının arkasına\nkünt darbeydi, değil mi?
+8|Gülle yüzünden olduğundan\neminim ama...
+10|Ha? Kaede tam otomatik öldürme makinesini\nsınıftan çalıştırdı, değil mi?
+11|Orada biri olsaydı cinayete\ntanık olurdu!
+12|İşleri heyecanlı tutmak için bundan daha\nciddi bir argümana ihtiyacın var!
+14|<CLT=cltMIND>Hayır... Rantaro öldürüldükten sonra\nbiri kütüphaneye gelmiş olmalı.
+15|<CLT=cltMIND>Bunu kanıtlayan bir kanıt\nvar...
+16|<CLT=cltMIND>Olay yerinde sadece Rantaro vardı...\nİlk duruşmada vardığımız sonuç buydu.
+17|<CLT=cltMIND>Ama gerçekten doğru muydu?
+## c06_202_001
+0|<CLT=size2>Rantaro<CLT=size1>
+1|Rantaro kütüphaneye gitti...
+2|<CLT=size2>kütüphaneye gitti...
+3|<CLT=cltWEAK>Monokuma'nın
+4|Monokuma'nın süre sınırı dolmadan hemen önce...
+5|<CLT=cltWEAK>süre sınırı<CLT=cltNORMAL> dolmadan hemen önce...
+6|Hayatta Kalan\nAyrıcalığı'nın\nsağladığı\n<CLT=size2>bilgileri<CLT=size1> kullanarak...
+7|Hayatta Kalan Ayrıcalığı'nın\nsağladığı bilgileri kullanarak...
+8|<CLT=size2>gizli\nkapıya
+9|gizli kapıya doğru ilerledi.
+10|doğru
+11|<CLT=size2>ilerledi.
+12|<CLT=size2>Beynin<CLT=size1> kimliğini\n　\n<CLT=cltWEAK><CLT=size2>ifşa<CLT=size1> etmek için!
+13|Beynin kimliğini\nifşa etmek için!
+14|Ama o <CLT=size2>amacına\nulaşamadan...
+15|Ama o amacına ulaşamadan...
+16|<CLT=cltWEAK>kafasına
+17|kafasına bir gülle çarptı\nve öldü.
+18|<CLT=cltWEAK>bir <CLT=size2>gülle
+19|<CLT=cltWEAK><CLT=size2>çarptı
+20|ve öldü.
+21|<CLT=size2>Kaede'nin
+22|Kaede'nin tam otomatik öldürme makinesi yüzünden!
+23|<CLT=size2>tam otomatik\nöldürme makinesi<CLT=size1> yüzünden!
+24|Ha? <CLT=size2>Tam otomatik mi?
+25|Ha? Tam otomatik mi?
+26|Olay yerinde <CLT=size2>suçlu<CLT=size1> yoktu...
+27|Olay yerinde suçlu yoktu...
+28|<CLT=size2>Cinayet<CLT=size1> sırasında\n<CLT=size2>kütüphanedeki<CLT=size1> tek kişi...
+29|Cinayet sırasında\nkütüphanedeki tek kişi...
+30|<CLT=cltWEAK>Rantaro'nun kendisiydi<CLT=cltNORMAL>!
+31|Rantaro'nun kendisiydi!
+32|Bu bir <CLT=size2>gerçek,<CLT=size1> değil mi?
+33|Bu bir gerçek, değil mi?
+34|Olaydan hemen önce
+35|Olaydan hemen önce\nkamera çalıştı...
+36|<CLT=size2>kamera<CLT=size1> çalıştı...
+37|ve fotoğrafta <CLT=size2>sadece Rantaro<CLT=size1> vardı.
+38|ve fotoğrafta sadece Rantaro vardı.
+39|Neden bahsediyorduk?
+40|Sadece davayı gözden geçir!

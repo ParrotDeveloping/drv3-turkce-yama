@@ -1,0 +1,58 @@
+@ chap6_text_US
+## c06_252_000
+0|...Bu son mu?
+1|Lütfen söyleyin bana.\n<CLT=cltSTRONG>Size<CLT=cltNORMAL> soruyorum.
+2|Ne zaman başım derde girse <CLT=cltSTRONG>iç sesim<CLT=cltNORMAL>\nbana hep yol gösterirdi.
+3|Beni buraya getiren o rehberlik.\nBunun bir hata olduğuna inanmıyorum.
+4|O yüzden... ona güveneceğim.
+5|Lütfen... söyleyin bana.\nNe yapmam gerektiğini söyleyin.
+6|Lütfen, <CLT=cltSTRONG>kararınızı<CLT=cltNORMAL> söyleyin.
+7|...Seslerinizi gayet net duyuyorum.
+## c06_253_000
+0|<CLT=cltSTRONG>İç sesim<CLT=cltNORMAL> bu durumu... düzeltmem\ngerektiğini söylüyor.
+1|Bu yüzden pes etmeyeceğim!
+2|Sonuna kadar umuttan vazgeçmeyeceğim!
+4|Pes edemeyiz. Ne olursa olsun <CLT=cltSTRONG>umut<CLT=cltNORMAL>\nher zaman ulaşılabilir mesafede.
+5|Başımızı dik tutup özellikle en derin\numutsuzlukta <CLT=cltSTRONG>umudu<CLT=cltNORMAL> aramalıyız.
+6|Umut mu...?
+7|Ha...? Ne umudu...?
+8|...Kendin söyledin—bu öldürme oyunu\nUltimate Gerçek Kurgu.
+9|Bu hem gerçek hem kurguysa mantıken\nhepsi kurgu olamaz...
+10|Bu dünya kurgu olsa bile, biz kurgu olsak bile\nyapabileceğimiz bir şey olmalı.
+11|O yüzden bunu aşmanın bir yolu olmalı!\nUmuttan vazgeçmeyeceğim! Asla!
+12|Ah, tüh... Ne sinir bozucu...
+13|Dış dünya sadece umutsuzluk istemiyor...\nUmut da istiyor...
+14|Seslerimiz dış dünyaya ulaştıysa\n<CLT=cltSTRONG>iç sesimin<CLT=cltNORMAL> bana söylediği şey—
+15|Ah, iç sesin mi?\nO <CLT=cltSTRONG>dış dünyanın sesi<CLT=cltNORMAL>.
+17|Biliyorum çünkü senin olay örgünü de ben yazdım.
+18|Duyduğun kişinin kim olduğunu\nbilmemem mümkün değil.
+19|O dış dünyanın sesi.
+20|Dış dünyanın sesi mi...?
+21|Bu öldürme oyununun başından beri\nbenzersiz bir rolün vardı...
+22|Sen <CLT=cltSTRONG>seyirci vekilisin<CLT=cltNORMAL>.
+23|S-Seyirci vekili mi?
+24|İç sesin seninle seyirciler arasında\niletişim kurulmasını sağlıyor...
+25|O işlev seyircileri eğlendirmek\niçin var.
+26|Şimdi söyle bakalım—iç sesin ne!?\nNet konuş ve tane tane söyle!
+27|<CLT=cltMIND>İç sesim ne...?
+28|<CLT=cltMIND>Seyircilerin vekiliysem... ve bunca\nzamandır iletişim kuruyorsak o zaman...
+29|Keebo'nun vicdanı
+30|Benim... vicdanım mı?
+31|Vicdanın da senaryomun\nbir parçasıydı.
+32|Ama sadece o olsaydı seyirciler için\nhiç de o kadar eğlenceli olmazdı.
+33|O yüzden seni seyircilerin bağ kurabileceği\nbir karakter yapmaya karar verdim. Gerçekten!
+34|<CLT=cltMIND>Bunca zaman bana yol gösteren iç sesim...\nAcaba aslında...?
+35|Beynin iradesi
+36|Bu... beynin sesi mi?
+37|Karakterini ben yazmış olabilirim ama\niç sesinle oynamadım.
+38|Çünkü o zaman bir anlamı kalmazdı.
+40|Seyirci anketi
+42|Sadece seyircilerin Danganronpa'dan daha\nçok keyif alması için varsın.
+44|<CLT=cltMIND>İç sesim aslında...
+45|Bir... <CLT=cltSTRONG>seyirci anketi<CLT=cltNORMAL> mi?
+46|Mvah-hahahahahaha! Aferin!\nEvet! Gerçekten de gerçek bu!
+47|Evden programa katılmanı sağlayan\niki yönlü bir iletişim.
+48|İç sesinin gerçek doğası bu.\nBir seyirci anketinin sonuçları.
+49|Rehberliğine güvendiğim ses... sadece anket\nsorularını cevaplayan... seyirciler miydi!?
+50|Ve attığın her adım seyircilerin o ankete\nverdiği cevaplarla belirlendi.
+51|Danganronpa'nın bu sezonunda ana numara\n<CLT=cltSTRONG>seyirci katılımı<CLT=cltNORMAL>!

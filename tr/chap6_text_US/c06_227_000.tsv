@@ -1,20 +1,241 @@
+0	Evet, işte bu! Geri Dönüş Işığı bir şey\n*hatırlamamıza* yardım etmek için değil!
+1	Sahte anılar <CLT=cltSTRONG>yerleştirmek<CLT=cltNORMAL> için bir araç!
+2	Anı... yerleştirmek mi!?
+3	Evet. Geri Dönüş Işıkları için seçilebilen\nanılar gerçek anılarımız değildi.
+4	İçimize <CLT=cltSTRONG>yerleştirilecek anılardı<CLT=cltNORMAL>.
+5	Bu yüzden o anıların içerikleri\nbirbiriyle çelişiyor.
+6	Bir Geri Dönüş Işığı'na maruz kalınca o anılar...\nbizim için <CLT=cltSTRONG>gerçek<CLT=cltNORMAL> oluyor.
+7	Yani Geri Dönüş Işıkları'yla geri\nkazandığımız anılar...
+8	Gerçek değil. Hepsi sahte anılardı.
+9	Hepsi <CLT=cltSTRONG>yalandı<CLT=cltNORMAL>!
+10	Yalan mı!?
+11	Ah! Ne korkunç bir gerçek! Geri Dönüş\nIşıkları'ndan gelen anılar yalansa...
+12	O zaman her şey yalanmış! Bütün gerilim\nve ipuçları boşunaymış!
+13	İnanabiliyor musunuz? Sanki olan hiçbir\nşeyin önemi yokmuş gibi.
+14	Eh, anlamı *tam olarak* bu.
 15	...Ha?
+16	Yalanlar kartopu gibidir.\nNe kadar yuvarlarsan o kadar büyür.
+17	Ne kadar büyükse ortaya çıktıklarında\no kadar eğlenceli ve şok edici olur.
+18	Bu yüzden şimdiye kadar her şey\nyalandı! Gerçek bu!
+19	Geri Dönüş Işıkları'ndan gelen anılar...\nsadece yalan mıydı?
+20	Shuichi'nin dediği gibi—Geri Dönüş Işıkları\nkayıp anıları geri kazanmak için değil.
+21	<CLT=cltSTRONG>Yenilerini yerleştirmek<CLT=cltNORMAL> için araçlar.
+22	Yaydıkları ışık aslında ışık dalgalarına\ndönüştürülmüş bilgi.
+23	O ışık doğrudan beyne yansıtılıyor ve\nbir tür déjà vu olayına yol açıyor.
+24	Beyin kafası karışıyor ve az önce aldığı\nbilginin geçmişte yaşandığını sanıyor.
+25	B-Biz sadece... kafası karışmış mıydık?
+26	Mesela Hope's Peak Akademisi öğrencisi\nolduğunuza dair anılarınız...?
+27	Sahte! Hı-hı! Sizin Hope's Peak Akademisi'yle\nhiçbir ilginiz yok!
+28	Hiçbirimiz orada öğrenci olmadık.\nSadece sahte bir anıydı.
+29	Biz... Hope's Peak öğrencisi değil miyiz?
+30	Evet, hepsi sahteydi.
+31	Geriye bakınca Hope's Peak'i size\nhatırlatmak bir hataydı.
+32	Aslında size o anıları vermeyi\nplanlamamıştım ama...
+33	Aceleyle bütün o tutarsızlıkları gözden\nkaçırdım, siz de her şeyi çözdünüz...
+34	Ahahaha! Umutsuzca berbat!
+35	Kokichi'nin ölmek zorunda kalmasının sebebi bu mu?
+36	Hımmm. Aferin, Bay Dedektif...\nBuldun.
+37	Kokichi'nin bir Kalıntı olduğunu düşünmemizin\ntek sebebi Geri Dönüş Işıkları'ydı.
+38	Ama bir tarikat örgütünün lideri olduğunu\nsöylemişti...
+39	Bu kendi uydurduğu bir yalandı.
+40	Beyin olmak istiyordu...\nBuna inanmamızı istiyordu...
+41	Bu yüzden yalan söyledi.
 42	Neyse, itiraf etmem lazım... Az önce bahsettiğim\no tarikatı biliyorsunuz? Lideri... benim.
 43	...Ha?
+44	Demek oluyor kiii... Monokuma'yı Gemi'ye\ngizlice sokan beyin...
 45	Beniiiim!!!
+46	Beynin rolünü gasp etti ama bunu yaparken\nonun ayağına batan bir diken oldu.
+47	O engelden kurtulmak için beyin\nyalana ayak uydurdu.
+48	Beyin Kokichi'nin bir Umutsuzluk Kalıntısı\nolduğunu düşünmemiz için bizi yönlendirdi.
+49	Aynı zamanda herkese Hope's Peak\nAkademisi'ni hatırlatmak...
+50	...onu bir Umutsuzluk Kalıntısı sandığınız\niçin hedef almanızı sağladı.
+51	Bizi kontrol etmek için Geri Dönüş\nIşıkları'nı mı kullanıyordun!?
+52	O zaman Kokichi'yi öldürmeye çalışmamın sebebi...
+53	Sahte anılarla kontrol ediliyordun,\nbeynin elinde oyun hamuru gibi.
+54	Ama kontrol edilen tek kişi Maki\ndeğildi. Hepiniz öyleydiniz.
+55	Kokichi'nin dış dünyanın gerçeğini\nortaya çıkardığı zamanı hatırlıyor musunuz...?
+56	Hepiniz o kadar bunaldınız ki öldürme\noyununa bile odaklanamadınız.
+57	Dur, o zaman... bundan toparlanmamız\niçin sen...
+58	Evet! Size Hope's Peak Akademisi öğrencisi\nolduğunuza dair anılar verdik! Umudun sembolü!
+59	Böylece hepiniz umutsuzlukla yüzleşebilirdiniz.
+60	Sen... bizi o sahte anıyla mı kontrol ettin!?
+61	Eh, sadece o anı değildi.\nŞimdiye kadarki hepsiydi.
+62	Yeni gizemler ve gerçekler motivasyona\ndönüşür. Motivasyon bir hikâyeyi sürükler.
+63	Geri Dönüş Işıkları'ndan gelen her şey\nsizi ilerletmek için bir motivasyondu sadece.
+64	Amaaa... sanırım sahte bir motivasyondu.
+65	Siz salaklar anlamsız yalanlarla\nsürekli oradan oraya savruldunuz!
+66	Bu sınıf duruşması da öyleydi, değil mi?\nBunu yapmak için neden bu kadar motiveydiniz?
+67	Çünkü Geri Dönüş Işıkları'ndan birinden\nbir anı aldınız, değil mi?
+68	O da bizi kontrol etmek için kullandığın bir anı mıydı?
+69	Hey, ondan ne hatırlamıştınız\nbir daha?
+70	İlk başta insanlığın son umudu olan\nGofer Projesi'nden kaçtınız...
+71	Ama sonra kaderinizi cesurca kabul\netmeyi seçtiniz...
+72	Arkadaşlarınızın ve ailelerinizin bütün\ndileklerini üstlendiniz...
+73	...Ve şimdi buraya nasıl geldiğinizi\nhatırlıyorsunuz.
+74	Dünyanın umudunun size emanet edildiğini\nhatırladınız, değil mi?
+75	O umudun ağırlığını hatırlamak sizi daha\ngüçlü hissettirmiş olmalı.
+76	"Kaçmalıyım!" "Asla pes etmeyeceğim!"\n"Beyne yenilmeyeceğim!"
+77	Kaito ile Kokichi gitmiş, Keebo da\nçıldırmaya başlamış olsa da...
+78	Umudu bırakmadınız. Bu öldürme oyunuyla\nyüzleşmeye karar verdiniz, değil mi?
+79	Duygularımızı mı kontrol ediyordun?\nBeyni yenme kararlılığımızı bile mi?
+80	Bu bir öldürme oyunu. Duyguların kan\ngibi aktığı bir ölüm oyunu.
+81	Katılımcılar yaşamak için ellerinden\ngeleni yapmazsa pek heyecanlı olmuyor.
+82	B-Bütün anılar... sahte miydi?\nO zaman... şimdiye kadarki her şey neydi?
+83	O anı ve o anı...
+84	Ve o anı ve o anı ve o anı\nve o anı ve o anı ve o—!
+85	Hepsi sahte anılarsa o zaman...
+86	Biz... neredeyiz?\nNeden bu öldürme oyunundayız?
+87	Evet, kim bilir? İnsanlığın son öldürme\noyunu için planlarım biraz suya düştü.
+88	O yüzden nedenini kendiniz çözün.\nNe de olsa bu bir sınıf duruşması.
+89	O zaman... sen kimsin!?
 90	Hm?
+91	...*Kim* olduğunu bilmiyorum.
+92	Ha? Anlaşılmayacak ne var?
+93	Ben...
+94	...ben oldu. Bunun neresini\nanlamıyorsun?
+95	Bu öldürme oyunu Hope's Peak Akademisi'yle\nbağlantılıysa sana inanırım.
+96	Bu kesinlikle Junko Enoshima'nın iradesini\nsürdüren birinin işi.
+97	Ama bizim Hope's Peak'le hiçbir ilgimiz yok,\nyani sen Junko olamazsın.
+98	O zaman sen kimsin be!?
+99	Ben benim. Başka kimse değil.
 100	<CLT=cltMIND>...Ne?
 101	Bu...ne?
+102	Ha? Onu tanıyorsunuz, değil mi? Jabberwock\nAdası öldürme oyunundaydı.
+103	Ben <CLT=cltSTRONG>Hajime Hinata<CLT=cltNORMAL>...
+104	B-Bunu kastetmiyoruz.\n*Sen* ne yapıyorsun!?
+105	Ne mi yapıyorum...? Sadece <CLT=cltSTRONG>kostüm\ngiyiyorum<CLT=cltNORMAL>.
+106	Kostüm mü?
+107	Evet, bu sadece bir kostüm.
+108	Ama sıradan bir kostüm değil! Çünkü karakteri\nkusursuzca kopyalayabiliyorum!
+109	Bakın! Sesim bile tıpatıp aynı!
+110	Junko Enoshima da mı...
+111	Evet... Benim kostümüm.
+112	Birçok karakteri kusursuzca kopyalayıp\ngerçekten onlara dönüşebiliyorum...
+113	<CLT=cltSTRONG>Ultimate Kostümcü<CLT=cltNORMAL>'nün yeteneği bu!
+114	Birçok karakter mi?
+115	Hope's Peak Akademisi öğrencilerinin kostümünü\nnasıl giyebilir ki!?
+116	Çünkü Tsumugi bize söylemişti...
 117	Zaten cosplay en başta öyle olması\ngereken bir şeydir!
 118	Son zamanlarda bazıları kurgusal olmayan karakterlerin\ncosplay'ini yapmayı tercih ediyor, bu affedilemez...
 119	O kadar affedilemez ki denemeye kalksam bile\nkozçiçeğine yakalanıyorum...
+120	Ah, hatırladın!\nEvet, aynen öyle.
+121	O zaman... bu ne anlama geliyor?
 122	...Ne?
+123	Söylediğim doğruysa\n<CLT=cltSTRONG>Hope's Peak Akademisi<CLT=cltNORMAL>...
+124	<CLT=cltMIND>Hope's Peak Akademisi'nin ne olduğu mu...?
+125	<CLT=cltMIND>Tsumugi onların kostümünü giyebiliyorsa...\ntek bir ihtimal var.
+126	Hâlâ var
+127	Hope's Peak Akademisi hâlâ var...
+128	Ahaha. Öyle olsaydı kostümünü\ngiyemezdim.
+129	Kılık değiştirmek kostümden farklıdır.
 130	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+131	Kapatıldı
+132	Hope's Peak Akademisi kapatıldı.
+133	Yok, yok. Kapatılmış olsa bile\nyine de gerçek olurdu, değil mi?
+134	Gerçek olduğu an\nbenim için imkânsız olur.
 135	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+136	Kurgusal
 137	...
+138	Kurgunun kostümünü giyebilirim ama gerçek bir\ninsan gibi giyinmek kılık değiştirmektir.
+139	Ve benim kostümümü giymek mümkün olduğuna göre...
+140	Eh, size bolca ipucu verdim.
 141	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+142	<CLT=cltMIND>Hope's Peak Akademisi...
+143	<CLT=cltSTRONG>Kurgusal<CLT=cltNORMAL>... Hepsi kurgu mu!?
+144	...Kurgu mu?
+145	İnsanlık Tarihinin En Büyük, En Korkunç,\nEn Trajik Olayı hiç yaşanmadı...
+146	Hope's Peak, Gelecek Vakfı ve Umutsuzluk\nKalıntıları yok...
+147	Çünkü hepsi kurgu. Hiçbiri gerçek\ndünyada yaşanmadı.
+148	Bütün o olaylar <CLT=cltSTRONG>Danganronpa<CLT=cltNORMAL> denen\nkurgusal bir dünyada geçiyordu.
+149	Danganronpa!
+150	Dangan... ronpa...?
+151	Ne!? Sen neden... bahsediyorsun?
+152	Ne? Danganronpa'yı hiç duymadın mı?\nHepimiz... onun karakterleriyiz.
+153	Doğru! Ben, o iğrenç domuz kusmuğu ve\ndiğer herkes kurgusal.
+154	Bir dakika. O zaman... Hope's Peak\nAkademisi yok mu?
+155	Yok! Çünkü kurgu!\nGerçek dünyada yok!
 156	N-Ne...?
+157	Şaşırtıcı değil mi!?
+158	Evet... Şimdiye kadar kurgunun gerçek\nolduğunu sandınız.
+159	Ama kurgu sadece kurgudur.\nDanganronpa sadece kurgu.
+160	Bütün bu Danganronpa hikâyesi sadece\nanılarınıza tıkıştırıldı.
+161	Bu yüzden hepiniz o kurgu eserinin\naslında gerçek olduğuna inandınız.
+162	Ve böylece herkesin görmesi için bir\nkostüm gösterisi sahneledik!
+163	Koca Danganronpa dünyasının bir\nkostüm gösterisi!
+164	Koca dünyanın... kostümü mü?
+165	Y-Yani... bunların hepsi sahte miydi?\nHer şey uydurma mıydı?
+166	Ve bunca zaman... gerçek sandık!?
+167	Ultimate Kostümcü'nün yeteneğinin sadece\nkarakterlerle sınırlı olduğunu mu sandınız?
+168	Büyük kötü beynin tek yapabildiği\nbu olsaydı biraz ezik olurdu...
+169	Bundan çok daha fazlasını yapabilirim...\nDünyanın kendisinin kostümünü giyebilirim!
+170	O yüzden beni düşmanınız yapmak istiyorsanız...
+171	Düşmanınız Danganronpa dünyasının\nta kendisi!
+172	Danganronpa'nın... kendisi mi?
+173	A-Ama... neden? Bunu neden yaptın?\nBize neden gerçek olduğunu düşündürdün—
+174	Eh tabii ki! Hepiniz <CLT=cltSTRONG>öldürme oyununu<CLT=cltNORMAL>\noynayasınız diye!
+175	Burası Danganronpa dünyası, bilirsin?\nTabii ki öldürme oyunu oynuyoruz.
+176	Ama herhangi bir öldürme oyunu değil.
+177	Gerçek dünyada geçen, kurguyla ayakta\ntutulan bir öldürme oyunu.
+178	Başka bir deyişle <CLT=cltSTRONG>Ultimate Gerçek Kurgu<CLT=cltNORMAL>!!!
+179	Ultimate... Gerçek Kurgu mu?
+180	Ama... kurguysa...\nHer şey... gerçek değilse...
+181	O zaman... dünyanın yıkılmış olması da\nkurgu, değil mi?
+182	Dışarıdaki dünya... iyi, değil mi?
+183	Ah, doğru! Tabii ki!
+184	O sahneyi nasıl buldunuz!?\nEkibimiz üzerinde çok çalıştı!
+185	...Ekip mi?
+186	Sahne arkasındaki insanlar için\nendişelenmenize gerek yok!
+187	Neyse, konuşmamıza dönersek...\nRahatlayabilirsiniz.
+188	Dünya yok edilmedi.
+189	Gerçekten mi!? Yok edilmedi mi!?\nO zaman hepimiz eve gidip—
+190	Yok, o iş olmaz.
 191	Nyeh!?
+192	N-Neden? Dünya hâlâ sağlamsa dönecek\nevlerimiz var demektir—
+193	Sana o iş olmaz dedim, seni deniz kestanesi\nkafalı aptal... dur, o benim!
+194	Monokuma, neler oluyor?
+195	Gerçekten bilmek istiyor musun?
+196	Puhuhu... Dünyayı unutun.\nO sizinle hiçbir şekilde ilgilenmek istemiyor.
+197	Bu akademinin duvarları artık sizin dünyanız.\nDış dünya sizi ilgilendirmez.
+198	<CLT=cltSTRONG>Seyirciler<CLT=cltNORMAL> kesinlikle bana katılıyor.\nDeğil mi, millet?
+199	N-Ne? Bu insanlar kim!?
+200	Hepsi bu öldürme oyununun gelişimini\nizliyordu.
+201	Tabii burada gördükleriniz toplam\nizleyicilerimizin sadece bir kısmı.
+202	<CLT=cltMIND>...Bizi mi izliyorlar?
+203	Tıpkı Shuichi'nin dediği gibi. Bunların hepsi\ninsanlar görmek istediği için düzenlendi.
+204	Yani bunların hepsi bir şovdu...\nBütün bu öldürme oyunu!
+205	Evet, bütün bu <CLT=cltSTRONG>huzurlu dünyadaki<CLT=cltNORMAL> herkes\nbu şovu izliyor.
+206	Huzurlu... dünya mı?
+207	D-Dış dünya h-huzurun ta kendisi.\nOrada u-umutsuzluk ya da savaş yok, v-ve...
+208	...Hapşu!
+209	Bu huzurlu dünyadaki bütün insanlar bu\nöldürme oyunu için resmen deli oluyor!
+210	Kyeeehahahaha!
+211	B-Bekle, huzurlu bir dünyanın neden böyle\nbir oyuna ihtiyacı olsun—
+212	Bu öldürme oyunu tam da dünya bu kadar\nhuzurlu olduğu *için* gerekli!
+213	Çok ama çok huzurlu...\nVe bu yüzden çok ama çok sıkıcı.
+214	Bunca huzurla insanlar sıkıldı.\nUyarılmaya ihtiyaçları var...
+215	Danganronpa bu ihtiyacı karşılayabilsin diye\nbu <CLT=cltSTRONG>Ultimate Gerçek Kurgu<CLT=cltNORMAL>'yu yarattık.
+216	Dış dünyada bunu izleyen herkes büyük\nbir Danganronpa hayranı.
+217	Herkes öldürme oyunlarını seviyor...\nBu öldürme oyunu herkes için...
+218	Yani bu <CLT=cltSTRONG>herkesin öldürmeli okul dönemi<CLT=cltNORMAL>.
+219	Bu öldürme oyunu Danganronpa'nın\nen yeni bölümü.
+220	Herkesin uzun zamandır beklediği\ndevam oyunu!
+221	Bu öldürme oyununun gerçeği bu!\nUltimate Gerçek Kurgu değil mi ama!?
+222	Biz... biz kurgusal bir öldürme\noyununu oynamaya mı zorlandık?
+223	Danganronpa!
+224	Çok geç fark ettin! Monokuma olmadan\nDanganronpa olmaz!
+225	Ben burada olduğuma göre burası\nDanganronpa demek!
 226	Bu ne...?
+227	Anlamadın mı? Bu sizin yaptığınız\n<CLT=cltSTRONG>şimdiki Danganronpa'nın adı<CLT=cltNORMAL>.
+228	Bu kana bulanmış dünyanın Danganronpa'ya\nolan dinmeyen susuzluğunun kanıtı...
 229	...Ne demek istiyorsun?
+230	Danganronpa bütün dünya ondan keyif alıp\ndesteklediği için bu kadar uzun sürdü.
+231	Ha...? Ne kadar uzun sürdü...?
+232	Bunun Danganronpa'nın <CLT=cltSTRONG>kaçıncı sezonu<CLT=cltNORMAL>\nolduğunu unuttunuz mu? Karıncalardan aptalsınız.
+233	Shuichi... sen ne düşünüyorsun?
 234	Ne?
+235	Bu kaçıncı öldürme oyunu?\nSence kaçıncı sezondayız?
+236	Logodan anlayabilmelisin.
+237	Mmhmhm... O da yeterli ipucu değilse\nkemerimin altına bir göz at.
+238	<CLT=cltMIND>Bu hangi öldürme oyunu...?\nBu kaçıncı Danganronpa...?
+239	<CLT=cltMIND>Logodan anlaşılabiliyor mu...?
+240	<CLT=cltMIND>O zaman bu öldürme oyunu...

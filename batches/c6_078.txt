@@ -1,0 +1,74 @@
+@ chap6_text_US
+## c06_238_000
+3|<CLT=cltMIND>Sadece kendimiz için değil... Tenko ile\nAngie boşuna ölmemiş olsun diye!
+4|Evet, dostlarım...\nAnlamsız bir ölümden kaçınmalısınız.
+5|Anlamsız değil!\nHayatlarımızı... bu deliliği bitirmek için kullanıyoruz!
+8|Himiko... gerçekten bu öldürme oyununun\nsürdüğü bir geleceği mi seçmek istiyorsun?
+11|<CLT=cltMIND>Bu öldürme oyununu durdurmazsak...\nBu trajediler yaşanmaya devam edecek...
+12|<CLT=cltMIND>Tenko ile Angie... bunu istemezdi!
+## c06_238_001
+0|Oy vermeyi <CLT=size2>reddedersek...
+1|Oy vermeyi reddedersek...
+2|<CLT=size2>hepimiz ölürüz.
+3|hepimiz ölürüz.
+4|<CLT=size2>Ölümü seçmek<CLT=size1>
+5|Ölümü seçmek yaşamın kendisine\nkarşı küfür etmektir!
+6|<CLT=cltAGREE><CLT=size2>yaşamın<CLT=size1> kendisine karşı <CLT=size2>küfür etmektir<CLT=cltNORMAL><CLT=size1>!
+7|<CLT=size2>Umut
+8|Umut da umutsuzluk da kazanmazsa...
+9|da <CLT=size2>umutsuzluk da
+10|kazanmazsa...
+11|Böyle bir <CLT=size2>son
+12|Böyle bir son kimse istemez.
+13|<CLT=size2>kimse<CLT=size1> istemez.
+14|Bunun için\n<CLT=size2>hayatını\n<CLT=size1><CLT=size2>çöpe mi atacaksın<CLT=size1>?
+15|Bunun için hayatını\nçöpe mi atacaksın?
+16|Bu <CLT=cltAGREE><CLT=size2>anlamsız\n<CLT=size1>bir ölüm<CLT=cltNORMAL> olur.
+17|Bu anlamsız bir ölüm olur.
+18|Hayır, olmaz!
+20|<CLT=size2>Hayatlarımız<CLT=size1> en güçlü\n<CLT=size2>silahlarımız!
+21|Hayatlarımız en güçlü silahlarımız!
+22|Ve bu <CLT=size1.5>silahlarla
+23|Ve bu silahlarla\ndış dünyaya karşı ayaklanıyoruz!
+24|<CLT=cltAGREE><CLT=size1.5>dış dünyaya<CLT=size1> karşı
+25|<CLT=cltAGREE><CLT=size1.5>ayaklanıyoruz!
+## c06_239_000
+0|Kurgusal bir karakter olsam bile\nhayatım gerçek...
+1|Öldürme oyunları bu yüzden eğlenceli, değil mi?\nİki hayatın çarpışmasını görmek eğlenceli, değil mi?
+2|Ama hayatımı bir şov için kullanmanıza izin vermeyeceğim!
+3|Hayatımı... bu öldürme oyununu bitirmek\niçin kullanacağım!
+4|Böylece Tenko, Angie ve geçmişteki bütün\nkurbanlar huzur içinde yatabilir...
+5|Elimdeki tek silahı kullanacağım! Bu öldürme\noyununa son vermek için hayatımı kullanacağım!
+6|N-Ne!? Sebebin ne olursa olsun\nintihar intihardır!
+7|Belki de bu düşünce de taslağıma uyan\nbaşka bir kurgu eseridir...
+8|Tıpkı Maki'nin Kaito'ya âşık olması gibi\nsenaryomun bir parçası olabilir, bilirsin?
+10|Çünkü hiçbiriniz oy vermezseniz ve ben verirsem\nhayatta kalan tek kişi ben olurum!
+11|Bu tam da büyük kötü beynin\naklına gelecek bir şey gibi değil mi?
+13|Sorun yok, Maki.\nBana inan.
+14|Ve tıpkı Kaito'ya inandığın gibi\nkendine de inan.
+15|Kendime... inanmak mı?
+16|Bu yüzden korksan bile savaşmalısın.\nÇünkü o güce sahipsin.
+17|Hadi, kahraman bu kadar kolay pes\nederse berbat bir hikâye olur!
+18|<CLT=cltMIND>Bu öldürme oyununu bitirme isteğim\nkurgusal olabilir...
+19|<CLT=cltMIND>Ve beynin tek hayatta kalan olması\nonun için uygun bir son olabilir...
+20|<CLT=cltMIND>Bunların hepsi de yerleştirilmiş olabilir...\nTıpkı Kaito'ya karşı duygularım gibi...
+21|<CLT=cltMIND>Her şey kurgu.\nBirinin yazdığı bir hikâye...
+22|<CLT=cltMIND>Ama... yine de ben...!
+## c06_239_025
+0|dur, ne?
+1|Öldürme oyununu bitireceğim.
+2|Neler oluyor?
+4|Kendine gel, Tsumugi.
+5|Himiko'nun gözleri açıldı.
+6|Bu umut mu?
+7|Bizim suçumuz mu?
+8|Yoksa bu umutsuzluk mu?
+9|Himiko, ölme!!!
+10|Himiko şapkaları neredeyse tükendi!
+11|pöh, intihar ezikçe.
+12|Hiper Himiko!
+13|Tam keikaku'daki gibi.
+14|Danganronpa bitecek mi?
+15|Ölümler gerçek.
+16|Bu iyi olmazdı...
+17|Ekranın öbür tarafı.

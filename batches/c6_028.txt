@@ -1,0 +1,58 @@
+@ chap6_text_US
+## c06_107_027
+225|O serseri... geçmiş davaların kanıtlarını\ntoplamış, sırf...
+226|Eminim o fotoğrafı da toplamıştır.
+227|Peki hangisine ihtiyacın var?\nBirkaç fotoğraf vardı, değil mi?
+228|Rantaro'nun çekilen son fotoğrafı, kamerayı\nsökmeye çalıştığı fotoğraf.
+229|Kameranın flaşla onu kendine çektiği\nfotoğraf...
+230|...Anladım. Gidip onu getireyim,\nburayı sana bırakıyorum.
+231|Maki... dikkatli ol, tamam mı?\nKeebo ile Exisal'lar savaşıyor—
+232|Hey, sen beni kim sanıyorsun?
+234|...Sonunda bunun bir şaka olduğunu\nanlayabilecek noktaya geldim.
+235|<CLT=cltMIND>Bu Monopad...
+236|<CLT=cltMIND>Bu, Rantaro'nun <CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı<CLT=cltMIND>\nolarak aldığı Monopad'di.
+237|<CLT=cltMIND><CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı Monopad'i<CLT=cltMIND> bütün\nakademinin haritasını içeriyor.
+238|<CLT=cltMIND>Yani Rantaro gizli odayı en başından\nbiliyordu.
+239|Ve...
+240|Kendisine yazdığı bu ipucu vardı. Öldürme\noyununu nasıl durduracağına dair bir ipucu...
+241|Bu da <CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı<CLT=cltNORMAL>'nın bir parçasıydı.
+242|<CLT=cltSYSTEM>Cinayetleri tasarlayan beyin akademinin\niçinde bir yerde saklanıyor.
+243|<CLT=cltSYSTEM>Onu yakalamayı umut etmek için\nyedek Monokuma'ya ihtiyacın olacak.
+244|<CLT=cltSYSTEM>O sırada beyin kütüphanenin\nderinlerindeki odaya gidecek.
+245|<CLT=cltSYSTEM>Bu ipucunun gerçeğin kanıtı\nolduğunu tahmin ediyorum.
+248|-Rantaro Amami
+258|<CLT=cltMIND>Monopad'deki bu kan...\nBu kimin kanı?
+259|<CLT=cltMIND>Rantaro'nun son anlarında çekilen fotoğrafa\nbakarsak anlayabiliriz.
+260|Fotoğrafları Maki'ye bırakacağım.
+261|<CLT=cltMIND>Pekâlâ... İncelemem gereken her\nşeyi bitirdim.
+262|Nyeeeh!? Neler oluyor?\nBeyni hiçbir yerde bulamıyorum!
+263|Burada saklanmıyormuş...
+265|Bulduğum her şeyi inceledim ama burada\nhâlâ saklı bir şey varmış gibi hissediyorum...
+266|...Ah! Aaah!!!
+267|Y-Yine!\nBir... anı daha!
+273|Bu...
+274|Selam, Shuichi! Görünüşe göre sonunda\nuzun bir uykudan uyandın!
+276|M-Monokuma mı?
+277|İlk kez tanışıyor olsak da\nbeni zaten tanıyorsun...
+278|Puhuhu... Eh, tabii ki tanıyorsun.\nNe de olsa ünlüyüm.
+279|Hope's Peak Akademisi'nin öldürme oyunu televizyon\ntarihinin en çok izlenen yayınıydı.
+280|Monokuma'nın burada ne işi var?\nB-Bu olamaz...
+281|Ah, olabilir.\nHer şey burada başlıyor.
+282|<CLT=cltSTRONG>Gofer Projesi<CLT=typeNORMAL>'nin sunduğu yepyeni\nbir öldürme oyunu.
+283|Ö-Öldürme oyunu mu!?
+284|Pekâlâ, buradan sonra işler her zamanki\ngibi ilerleyecek.
+285|Hepiniz hafızanızı kaybedip bu ana kadar\nolan her şeyi unutacaksınız.
+286|Gofer Projesi'nin önemini, insanlığın size\nemanet ettiği umutları ve hayalleri...
+287|Ah, bir de insan ırkının hayatta kalan son\n16 kişisi olduğunuzu da unutacaksınız.
+288|Kurduğunuz güven bağlarını, iğrenç\narkadaşlık sözlerinizi...
+289|Öldürme oyunu başlayınca bunların\nhepsi bay bay olacak!
+290|Ne...?\nN-Neden bunu yapıyorsun...?
+291|Bana soru sormanın anlamı yok.\nZaten her şeyi unutacaksın.
+292|Bunun arkasında kim var!? Sen *kimsin*!?\nJunko Enoshima öldü—
+293|Dediğim gibi, anlamı yok. Onu da\nunutacaksın zaten.
+294|Y-Yalan söylüyorsun!\nBunu nasıl unutabilirim ki!?
+295|Taa-daa! Karartma Işığı!
+297|<CLT=cltSTRONG>Karartma Işığı<CLT=typeNORMAL> tamamen <CLT=cltSTRONG>hafıza kaybına<CLT=typeNORMAL>\nyol açma gücüne sahip.
+298|Yaydığı ışık bazal çekirdekleri ve\nhipokampusu uyarıyor—
+300|Yoo! Beklemeyeceğim!
+301|Bu ışığı kullanacağım, sonra siz baygınken\nhepinizi dolaplara tıkacağım...

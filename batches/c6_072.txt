@@ -1,0 +1,59 @@
+@ chap6_text_US
+## c06_231_000
+199|Dış dünyanın istediği bu mu?\nBizden istedikleri bu mu?
+202|Ha? Bağıracak gücün mü yok?
+203|Eh, yardım için bağırmak kurgusal\nkarakterler için zaten işe yaramaz.
+204|Size acıdıklarında izleyiciler daha da\nyozlaşıyor ve takıntılı hale geliyor.
+205|İzlememeleri gerektiğini bile bile, sırf\nbütün o yozlaşmanın tadını çıkarmak için izliyorlar.
+206|O yozlaşma ölüm oyunlarının cazibesi.\nBu öldürme oyununun cazibesi...
+207|Danganronpa'nın kendisinin cazibesi.
+209|Peki ne yapmamız gerekiyor?
+210|Ha? Ne dedin?
+211|Ne... yapmamız... gerekiyor?\nBize ne olacak?
+212|Hm? Siz neden bahsediyorsunuz?
+213|Sınıf duruşmasını mahvedip öldürme\noyunlarını bitirmeyecek miydiniz?
+214|Durdurabiliyorsanız durdurun hadi!\nOna takıntılı bir dünyayı durdurmayı deneyin!
+215|B-Bunu durdurmanın yolu yok...\nBu... imkânsız...
+216|Ha? Şimdiden pes mi ediyorsun?
+217|Hepsi yalan... değil mi?
+218|Ben... Buradaki herkes... Ölen herkes...
+219|Her şey yalan, değil mi?
+220|Bir yalan için... savaşamam, değil mi?
+221|Ohhhh? Ne oldu?\nUmutsuzluğa mı düştün?
+222|Ne kadar gelişirsen geliş, Shuichi,\nsonuçta hâlâ zayıfsın...
+223|Her şeyin yalan olduğunu öğrenince yine o\nzayıf Ultimate Dedektif'e döndün...
+225|Ahahahaha! Bu bizi memnun ediyor!\nDanganronpa'ya yakışır bir umutsuzluk!
+227|Eh, bu şaşırtıcı derecede hayal kırıklığıydı...\nAma sanırım sorun yok! Hâlâ senaryodayız!
+228|<CLT=cltMIND>Her şey yalan...
+229|<CLT=cltMIND>Her şey anlamsız...
+230|<CLT=cltMIND>Yaptığımız her şey, birlikte\nyüzleştiğimiz her şey...\n<CLT=cltNORMAL>
+231|<CLT=cltMIND>...Bütün duygularımız...\n<CLT=cltNORMAL>
+232|Zifiri karanlık yalanlar.
+233|Kaç gizem çözdüğünün bir\nönemi yok.
+234|Gizemler en başından beri kurguydu.\nHepsi senaryoydu.
+235|Her şey bitti.
+236|Zaten hepsi sadece bir yalan.
+237|Ne yaptığının bir önemi yok.
+238|...Artık bitti.
+## c06_231_025
+0|Umutsuzluğa düştünüz mü?
+1|S seviye umutsuzluk!
+2|O tepkiye bayılıyorum.
+3|Bu umutsuzluk...
+4|Tüylerim diken diken oldu.
+5|Ultimate Umutsuzluk Himiko
+6|Umutsuzluk Umutsuzluk Umutsuzluk
+7|umutsuzluk vaktiii!
+8|Umutsuzluk böyle olmalı.
+9|UMUTSUZLUK
+10|Shuichi'nin tepkisi XD
+11|Değil mi ama!? Umutsuzluk en iyisi.
+12|XD umutsuzluk suratı.
+13|Acı çekiyor musunuz? Ben de!
+14|Ne sürpriz!
+15|UMUTSUZLUK!
+16|aman tanrım ÇOK SIKICI
+17|Danganronpa umutsuzluktur.
+18|Hepiniz umutsuzluktasınız XD
+19|Mmm... Shuichi'nin umutsuzluğu <3
+20|UMUTSUZLUKUMUTSUZLUKUMUTSUZLUKUMUTSUZLUKUMUTSUZLUKUMUTSUZLUKUMUTSUZLUK

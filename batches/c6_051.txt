@@ -1,0 +1,57 @@
+@ chap6_text_US
+## c06_213_000
+9|Geri Dönüş Işığı yapan bir sınıf mı?
+10|Ah, ayrıntıları sonra açıklarım...\nAma ilginç bir şey vardı...
+16|Kapı açılınca sınıf <CLT=cltSTRONG>eski haline<CLT=cltNORMAL>\ndönüyor.
+17|Belli ki oda bir şey saklıyor.
+18|Bu apaçık değil mi?
+19|Beyin Geri Dönüş Işığı yaparken kimsenin\nonu görmesini istemiyordu...
+20|Ama neden böyle bir sınıf yaratsın ki?\nBeyin 17. bir kişi olsaydı...
+21|...Geri Dönüş Işığı yapmak için tamamen\nayrı bir odası olabilirdi.
+22|Gerçekten... Bu çok daha güvenli olurdu.
+23|Bunu bilerek beynin kimliği hakkında\nbirkaç varsayımda bulunabiliriz.
+24|Ama sonuçları... iyi değil.
+25|B-Bunu ne kadar uğursuz bir şekilde söyledin...
+26|Ama endişelenecek bir şey yok!\nArkadaş olduğumuz için buraya kadar geldik!
+27|Ne olursa olsun bu işte birlikteyiz!\nKorkacak bir şey yok!
+28|E-Evet! Haklı!
+30|<CLT=cltMIND>Beynin kimliği...
+31|<CLT=cltMIND>Elimizdeki gerçekler düşünülünce\ndedektiflik çalışmam şunu gösteriyor...
+33|<CLT=cltMIND>Hayır...\nBuna dair somut bir kanıt yok.
+34|Uğursuz uğursuz konuşup sonra susma!\nGerçekle yüzleşebiliriz!
+35|<CLT=cltMIND>Gerçekle yüzleşmeliyim...\n<CLT=cltNORMAL>
+36|Kaede Akamatsu'nun ikiz kardeşi
+37|<CLT=cltMIND>Hayır... en başta ikiz bir kız kardeşi\nolduğuna dair gerçek bir kanıt yok.
+38|Hepimiz arkadaşız! Buraya gelmek için birçok\nzorluğu aştık. O yüzden söylemekten çekinme!
+40|Öldürme oyununun bir katılımcısı
+41|17. kişi
+42|<CLT=cltMIND>Hayır, şimdiye kadar topladığımız kanıtlar\n17. bir kişi olmadığını gösteriyor...
+43|Sorun yok, Shuichi! Hepimiz arkadaşız!\nAklından geçeni söyle yeter!
+44|<CLT=cltMIND>Hayır...\nGerçekle yüzleşmeliyim...\n<CLT=cltNORMAL>
+46|...Kim o?\nBuraya kadar geldik, söylemelisin.
+48|<CLT=cltMIND>Beynin kimliği...
+49|Beyin büyük ihtimalle... <CLT=cltSTRONG>bu öldürme oyununun\nkatılımcılarından biri<CLT=cltNORMAL>.
+50|K-Katılımcılardan... biri mi!?
+51|Bu oyunu oynamaya zorlanan 16 kişiden\nbiri. Bizden biri.
+52|N-Ne... dedin?
+53|Geri Dönüş Işığı yapan sınıf ve gizli odanın\nsık sık ziyaret edilmesi...
+54|Hepsi beynin <CLT=cltSTRONG>akademide her gün gördüğümüz\nbiri<CLT=cltNORMAL> olduğunu gösteriyor.
+55|Her gün gördüğümüz biri...\n16 öğrenciden biri gibi mi?
+56|B-Bu delilik! Beynin bizden biri\nolması mümkün değil!
+57|Çünkü... hepimiz arkadaşız!\nBirlikte savaşacağımıza yemin ettik!
+58|Puhuhu... O zaman bütün o arkadaşlık\nlafları yalanmış demek, değil mi?
+59|K-Kes sesini! Bu mümkün değil!
+60|Puhuhu... Üzgün ve mantıksızsınız. Böyle\nzamanlarda bir sağduyu sesi gerekli.
+61|Kesinlikle gerekli!
+62|A-Anladım! Sıra bizde!
+63|Pekâlâ, mantıklı ama aynı zamanda olağanüstü\nbir gösteri yapıp yaşama hakkımızı kazanacağız!
+64|Ha? Yaşama hakkımız mı...? Biri ölmek\nüzere mi? Olan bu mu?
+65|Neyse! Sana inanmıyorum!\nBeynin burada olması mümkün değil!
+66|Bekle... 16 öğrenciden biri olsa bile\nbizden biri olduğu anlamına gelmez, değil mi?
+68|Beynin sadece ölümünü taklit edip bunca\nzaman hayatta kalmış olması mümkün.
+69|Artık Monokuma'nın kuralları istediği gibi\nçiğneyeceğini bildiğimize göre bu ihtimal—
+70|Bu ne demek oluyor?\nAcele et de cevap ver!
+71|Acele etmezsen geri kalan Monoyavruları\nda havaya uçuracağım!
+72|Ahhh! Acele et de cevap ver!
+73|<CLT=cltMIND>Beynin kimliğini... kesin\nolarak öğreneceğiz...
+74|<CLT=cltMIND>Rantaro'yu kimin öldürdüğünü\nbelirlediğimizde.

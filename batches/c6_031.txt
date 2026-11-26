@@ -1,0 +1,47 @@
+@ chap6_text_US
+## c06_108_031
+98|Hatırlayıp durduğumuz bu küçük şeyler...\nHepsini tek seferde geri alabiliriz belki!
+99|Açıkçası bütün bu geri dönüşler\nbeni kötü hissettiriyor...
+100|Hepsini aynı anda halledebilirsek\nbunu tercih ederim!
+101|Ne hissettiğini anlıyorum, Himiko...
+102|<CLT=cltMIND>Ama bu <CLT=cltSTRONG>Geri Dönüş Işıkları<CLT=cltMIND>'nın\nayarları kafama takılıyor.
+103|<CLT=cltMIND>Sadece *tek* bir gerçek olmalı ama bu\nayarlar seçim yapmana izin veriyor. Neden?
+104|<CLT=cltMIND>Ve hangilerinin gerçek olduğuna dair bir işaret yok.
+105|Hm, anlıyorum. Bir şey düşünüyorsun\ngibi görünüyor, değil mi?
+106|Sanırım onurunu kurtarmak bana düşüyor.
+107|Beni bu kadar kurtaran <CLT=cltSTRONG>Ultimate Dedektif<CLT=cltNORMAL>\niçin yapabileceğim en az şey bu.
+108|E-Evet... Teşekkürler.
+109|<CLT=cltMIND>Sırayla yeni yapılmış bir\nGeri Dönüş Işığı.
+110|<CLT=cltMIND>Gerçi nasıl yapıldıklarında tuhaf\nbir şey var...
+114|<CLT=cltMIND>Birden fazla gerçek mi var...?
+115|<CLT=cltMIND>Gerçek ne... yalanlar ne?
+118|<CLT=cltMIND>Yüzeydeki klavye artık yok.\nNormal bir sıra gibi görünüyor.
+119|<CLT=cltMIND>Onu çalıştıran bir tür anahtar\nolmalı...
+120|<CLT=cltMIND>ama öyle bir şey bulamıyorum.
+121|<CLT=cltMIND>Bu sıra da ne...?\nÜstünde havada duran bir klavye var.
+122|<CLT=cltMIND>Bu bir bilgisayara mı bağlı?
+123|Keebo'nun bahsettiği <CLT=cltSTRONG>"tuhaf şey"<CLT=typeNORMAL>\nbu olmalı.
+124|<CLT=cltMIND>Klavyeye dokunduğumda...
+125|<CLT=cltSYSTEM>*tak!*
+126|O ses...
+127|O dolaptan geldi...
+133|"Geri Dönüş Işığı Kurulumu"...
+134|Kurulum mu? Ayarlar gibi mi?
+135|<CLT=cltMIND>Cevap arayarak <CLT=cltSTRONG>Enter tuşuna<CLT=cltMIND>\nbastım.
+136|<CLT=cltMIND>Buna bir göz atmalıyım...
+137|<CLT=cltMIND>Görünüşe göre... bir şey seçmen\ngerekiyor. Aşağı kaydıracağım...
+138|<CLT=cltMIND>Yeni anının kilidini açmak mı...?
+139|<CLT=cltMIND>Bu ayarlar yeni <CLT=cltMIND>Geri Dönüş\nIşıkları<CLT=cltMIND> mı yaratıyor?
+140|<CLT=cltMIND>Çıkarımımı sınamak için kategorilerden\nbirini seçtim.
+141|<CLT=cltMIND>Bu kategori <CLT=cltSTRONG>yeni anıların kilidini açmak<CLT=cltMIND> için.\nDiğerlerinden farklı görünüyor...
+142|<CLT=cltMIND>"Hatırlamak istediğiniz konuyu seçin"...
+143|<CLT=cltMIND>Yani hâlâ hatırlamadığımız bazı\nanılar mı var?
+144|Yeni bir şey hatırlayabilirsek...\nbu kesinlikle bir ipucu olur.
+145|...Pekâlâ, deneyelim.
+146|<CLT=cltMIND>Ne tür bir anı olduğunu merak ediyorum.\n<CLT=cltSTRONG>"Hayatta Kalanlar"<CLT=cltMIND>la başlayacağım.
+149|Hm? Hatırlamak istediğiniz\nkonuyu seçin mi?
+150|<CLT=cltMIND>"Seçin" ne demek?\nBunların hepsi <CLT=cltSTRONG>unuttuğumuz anılar<CLT=cltMIND>...
+151|<CLT=cltMIND>Bunların *hepsi* <CLT=cltMIND>gerçek olaylar<CLT=cltMIND> olmalı.\nO zaman neden... birini seçebiliyorsun?
+152|<CLT=cltMIND>Ve bu kategoriler... hayatta kalanlarla\nilgili birkaç tutarsızlık var.
+153|<CLT=cltMIND>Doğru olanı... seçmem mi gerekiyor?
+154|Sanırım "Başka bir gezegendeki hayatta\nkalanlar"ı seçeceğim.

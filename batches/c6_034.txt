@@ -1,0 +1,65 @@
+@ chap6_text_US
+## c06_109_027
+55|B-Bir dakika, bu "belirlenmiş kişi"...\nBeyni mi kastediyorsun?
+56|Sadece beynin sesli komutu mu sana yedek\nMonokuma yaptırıyor?
+57|Puhu... puhuhu... O-O ipucu... deyim\nyerindeyse... müesseseden...
+58|Ah-hahahaha! Bütün şan şeref öldürme oyununa—!
+61|Görünüşe göre... bu sefer gerçekten bozuldu.
+62|<CLT=cltMIND>Bu önemli bir ipucuydu.
+63|<CLT=cltMIND>Annekuma beynin sesli komutunu aldıktan\nsonra yedek Monokuma yaratıyor.
+65|<CLT=cltMIND>Annekuma hiç kıpırdamıyor.\nGerçekten bozulmuş.
+66|Yine de... önemli bir ipucu elde ettik.
+67|Annekuma beynin sesli komutuyla yedek\nbir Monokuma "doğuruyor".
+68|<CLT=cltMIND>O geçit bizi buraya getirdiği için hayati bir\nipucuydu. Orada kontrol edecek bir şey yok.
+69|<CLT=cltMIND>Muhtemelen buradan çıkmalıyım.
+70|<CLT=cltMIND>Tuvaletin girişi enkazla kapansaydı\ntamamen mahsur kalırdık.
+71|Himiko, gidelim. Burada neler\nolduğu hakkında iyi bir fikrim var.
+73|Hm? Bir sorun mu var?
+74|S-Sadece bana açıkça söyle... erkek gibi.
+75|...Neyi söyleyeyim?
+76|Bulduğum gizli geçit...\nİşe yarar bir ipucu mu?
+77|A-Arkadaşlarıma faydalı olmak istiyorum.
+78|Ama incelemelerde pek yardımım dokunmuyor,\ndeğil mi? Beyni bulamadım...
+79|Ah, bunu dert ediyorsun...
+80|Himiko, sadece *faydalı* olmakla kalmadın,\ndavayı tamamen çözmüş olabilirsin.
+81|Gerçekten mi!? Böyle muhteşem bir ipucu bulduysam\nsıradan biri olmadığımın kanıtı bu!
+82|Hiii hii hii hii!\nKendi büyü gücümden korkuyorum!
+83|D-Doğru...\nHadi buradan çıkalım.
+## c06_109_029
+0|<CLT=cltMIND>Bu geçidin nereye çıktığını görmeliyim.
+1|<CLT=cltMIND>Tuvaletin girişi enkazla kapanırsa\niçeride mahsur kalırım...
+## c06_110_270
+0|<CLT=cltMIND>Avluya çıktığımda sesimin\nçıktığı kadar bağırdım.
+1|Keebo! Monokuma!\nLütfen, savaşmayı bırakın!
+2|Bunu başka bir yolla çözebiliriz!\nİkiniz için de en iyisi olan bir yolla!
+3|Lütfen, beni dinleyin!
+4|<CLT=cltMIND>Sesim bütün avluda\nyankılandı.
+5|<CLT=cltMIND>Ve bir süre sonra...
+6|Anlaştığımız gibi şafak sökmek üzere...
+7|Aradığını buldun mu? Yapılması gerekeni\nyapmaya hazır mısın, Shuichi?
+8|Her halükârda... bu son şansın.
+9|Neler olduğu hakkında hiçbir fikrim yok ama bu\nrobotla uğraşmak canımı sıkmaya başladı, o yüzden...
+10|Sanırım seni dinleyeceğim.
+11|Peki, bu başka yol ne?
+13|Bir sınıf duruşması.
+14|Hepimiz son bir kez sınıf duruşması\nyapacağız!
+15|Sınıf duruşması mı!?
+16|...Ne demek istiyorsun? Öldürme oyununu\nsürdürmeye mi çalışıyorsun?
+17|Şimdi dalga geçmenin sırası değil! Onu\nbitireceğini sanıyordum!
+18|Dalga geçmiyorum.
+19|Bu sınıf duruşması... öldürme oyununu bitirecek!
+20|Öldürme oyununu *bitirecek* bir sınıf duruşması mı?
+21|<CLT=cltMIND>Keebo konuşurken Maki'nin okul binasından\nkoşarak geldiğini gördüm.
+22|Hey, sınıf duruşması yapacağız da\nne demek?
+24|Öldürme oyununu böyle mi\nbitireceksin?
+25|...Herkes burada.\nŞimdi şunu söyleyeyim.
+26|Savaşmayı bırakmalıyız...\nve bir sınıf duruşması daha yapmalıyız.
+27|Orada bütün gerçeği ortaya çıkarırsak\nbu öldürme oyununu bitirebiliriz.
+28|Gerçek ortaya çıkınca öldürme oyunu bitecek\nmi? Neden böyle bir şey söylüyorsun?
+29|Sınıf duruşmasının sonunda\nbu netleşecek.
+30|Monokuma... bu sınıf duruşmalarını\nçağıran sensin...
+31|Ama bu sefer değil! Bu sefer sınıf duruşmasını\n*biz* çağırıyoruz! Hepsini bitirecek olanı!
+32|Ama... kimse öldürülmemişken neden sınıf\nduruşması yapmamız gereksin?
+33|...Bunu söylemek isterdim ama... anlıyorum.
+35|Bu dökülen robotla küçük çatışmam bir\nsüredir eğlenceli değildi.
+36|Ve sizin sınıf duruşması yapmaya razı olmanız\nbence epey ilginç.

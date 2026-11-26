@@ -1,0 +1,61 @@
+@ chap6_text_US
+## c06_102_106
+108|<CLT=cltMIND>Kokichi'nin bütün o kanıtları toplaması\ntesadüftü...
+109|<CLT=cltMIND>Değil mi?
+110|<CLT=cltMIND>Kirumi'nin davası sırasında hepimize\n<CLT=cltSTRONG>motif<CLT=cltMIND> olarak verilen bir Monoyavru Pad'i...
+111|<CLT=cltMIND>Bunun içinde... Kokichi'nin <CLT=cltSTRONG>motif videosu<CLT=cltMIND> var.
+112|<CLT=cltMIND>Ya biriyle değiş tokuş etti ya da en\nbaşından kendi <CLT=cltSTRONG>motif videosu<CLT=cltMIND> ondaydı...
+113|<CLT=cltMIND>Yine de beni düşündüren\n<CLT=cltSTRONG>motif videosunun<CLT=cltMIND> içeriği.
+114|<CLT=cltMIND>Kokichi hakkında bildiğim\nbilgilerle tutarsız.
+115|<CLT=cltMIND>Ama bu ne anlama gelebilir?
+117|<CLT=cltMIND>Kokichi'nin odasındaki hemen hemen\nher şeye baktım...
+118|İşin bittiyse gidebilirsin. Ben planlara\nbakacağım.
+120|Özellikle bu durumda en çok sana\ngüveniyoruz.
+121|Ne de olsa sen... Kaito'nun yardımcısısın...
+123|Ama gitmeden önce, bakmanı istediğim\ntuhaf bir şey buldum.
+124|Tuhaf bir şey mi?
+125|Bu ne...? Bu gerçek bir vasiyet mi?
+126|Bence gerçek bir vasiyet ama sahte olsa da\nşaşırmam. Ne de olsa yalancının tekiydi.
+127|Ama gerçekse neden bıraktı ki...?
+128|Planı başarısız olursa diye bu bilgiyi\nbize bırakmış...
+129|...Öyle mi? Böyle bir şey yapacağını\nsanmıyorum.
+130|Eh, içine bakmalıyız.\nO zaman daha çok şey öğreniriz.
+131|<CLT=cltMIND>Zarfı açtığımda...
+132|<CLT=cltMIND>küçük kâğıt parçaları düştü.
+133|Hm... ikinci bir mesaj mı?\nKazanın yanındaki duvar...
+134|Hepsi bu mu...? Muhtemelen yine onun\nkorkunç şakalarından biri.
+135|...Bundan emin değilim.
+136|Her ihtimale karşı incelemeliyim.\nÖnemli bir ipucu olabilir.
+137|...Ne istersen yap, sadece vakit kaybetme.\nŞafak bir anda sökecek.
+139|<CLT=cltMIND>Pekâlâ, bahçedeki kazana\ngitmeliyim...
+## c06_103_001
+0|<CLT=cltSYSTEM>Böldüğüm için kusura bakma ama\nbilmen gereken bir bilgi var!
+1|<CLT=cltSYSTEM>Keebo'dan yardım istemek için bir Exisal'ın\nyakınındayken <PAD=【○】> veya <PAD=【Ｒ１】>'e basılı tut!
+2|<CLT=cltSYSTEM>Bu kadar. Hiçbir püf noktası\nfalan yok.
+3|<CLT=cltSYSTEM>Böldüğüm için kusura bakma ama\nbilmen gereken bir bilgi var!
+4|<CLT=cltSYSTEM>Keebo'dan yardım istemek için bir Exisal'ın\nyakınındayken sol tıka basılı tut!
+5|<CLT=cltSYSTEM>Bu kadar. Hiçbir püf noktası\nfalan yok.
+## c06_103_272
+0|<CLT=cltMIND>Duvar... kazanın yanındaki...
+1|<CLT=cltMIND>Ne olabilir?\nBelki sadece bir şakadır...
+2|İncelemen nasıl gidiyor? Öldürme oyununu\nkendi yolunla bitirebilecek misin?
+3|Ah, gidiyor... iyi...\nAslında daha yeni başladım...
+4|Bu akademide incelemediğimiz\nbirçok yer var.
+5|İnceleyemediğiniz yerler...\nHımm...
+6|...Monokuma'nın saçma kuralı yüzünden\nRantaro'nun laboratuvarına da girilemiyor.
+7|Doğru, ben de bundan endişeliyim...\nKeşke içeri girmenin bir yolu olsa—
+8|Sana yardım edeceğim.
+9|Bana yardım mı?
+10|Araştırma laboratuvarının kapısını yok ederek\niçeri girebilmeni sağlayacağım.
+11|E-Eğer yapabilirsen... çok işime yarar...
+12|O zaman lütfen onun laboratuvarına git,\norada buluşalım.
+13|Ama dikkatli ol.
+14|İzni olmadan inceleme yaptığın için\nMonokuma peşine düşecek.
+15|Exisal'lar seni doğrudan öldürmeyebilir\nama kesinlikle durdurmaya çalışacaklar.
+17|İşler tehlikeli hale gelirse beni çağır,\nExisal'ların icabına bakarım.
+18|Bana... yardım mı edeceksin, Keebo?
+19|Ben senin düşmanın değilim. Bu yüzden\nincelemende sana yardım ediyorum.
+20|Ama sadece şafakta süre dolana kadar.
+21|<CLT=cltMIND>Sadece süre dolana kadar, ha...?
+22|<CLT=cltMIND>Sanırım bu akademiyi yok etmeye\nhâlâ kesin kararlı.
+23|Yine de...\nDeğiştin, Keebo...

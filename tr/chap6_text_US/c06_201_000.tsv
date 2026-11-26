@@ -1,22 +1,138 @@
+0	Bu sınıf duruşması onun fikri olduğu için\nShuichi'ye bir soru sorarak başlamak istiyorum...
+1	Bu sınıf duruşmasının tam olarak\n<CLT=cltSTRONG>amacı<CLT=cltNORMAL> ne?
+2	Evet! Kimse ölmediyse neden sınıf\nduruşması yapıyoruz!?
+3	Vay! Sesim beklediğimden çok daha yüksek\nçıktı! Bugün formumda olabilirim!
+4	Hey, ben de çenesi düşüklükte\nhiç fena değilimdir!
 5	Ben de!
+6	Ama Monodam'ın sesi çok kısık.\nOnun havaya uçmasına herkes razı mı!?
+7	SINIF-DURUŞMASINDA-GERÇEĞİ-ORTAYA-ÇIKARIRSANIZ-\nÖLDÜRME-OYUNUNUN-BİTECEĞİNİ-SÖYLEDİNİZ.
+8	PEKİ, SİZİ-ALÇAKLAR... BU-SINIF-DURUŞMASININ-\nAMACI-NE?
+9	Ah! Bu iyi bir soru!
+10	Ama sesi kısıktı!
+11	Ses yüksekliğinin hiç mi önemi yok!?
+12	<CLT=cltMIND>Bu sınıf duruşmasının amacı...
+13	Pekâlâ, size bir cevap vereceğim.\nBu duruşmayı çağırmamın sebebi...
+14	Keebo ile Monokuma'nın kavgasını durdurmak
+15	<CLT=cltMIND>...Hayır, sorun bu değil.\nAkademiyi incelerken bir sürü kanıt ortaya çıkardım.
+16	Hey! Artık bir şey söyle!
 17	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+18	Öldürme oyununu sürdürmek
+19	<CLT=cltMIND>Hayır...\nBu sınıf duruşması öldürme oyununu *bitirecek*!
+20	BUNUN-AMACI-NE?\nCEVAP-VER...
 21	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+22	Geçmiş bir davayı yeniden görmek
 23	...
+24	...Neden bu kadar sessizsin!?
 25	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+26	<CLT=cltMIND>Bu sınıf duruşmasının amacı...
+27	...<CLT=cltSTRONG>Geçmiş bir davayı yeniden görmek<CLT=cltNORMAL> istiyorum.
+28	Yeniden yargılama mı!?
+29	Hangi dava için?
+30	İlki—<CLT=cltSTRONG>Rantaro Amami cinayeti<CLT=cltNORMAL>.\nDavayla ilgili yeni kanıtlar buldum.
+31	Bu kanıtlar ışığında yeniden yargılama talep ediyorum!
+32	Yeniden yargılamanın ne anlamı var? İlk sınıf\nduruşmasının sonucu zaten belli oldu.
+33	Evet, evet!
+34	Ya oylamamız... <CLT=cltSTRONG>yanlışsa<CLT=cltNORMAL>?
+35	Nyeh? Yanlış mı!?
+36	Monokuma o olayın kara elinin\nKaede olduğunu söylemişti...
+37	Onun yanıldığını mı söylüyorsun!?
+38	N-N-Ne-Neeeee!?
+39	Monokid, tepkilerin fazla abartılı!\nBizi kötü gösteriyor.
 40	...
+41	S-Siktir! Fünye zaten elinde!
+42	Oylamamızın geçerliliğini sınamak için\nbütün davayı yeniden göreceğiz.
+43	Monokuma yanıldıysa... bu duruşmaların\ngeçerliliği sorgulanır.
+44	Bütün öldürme oyununun artık\nhiçbir anlamı kalmaz!
+45	Anlıyorum... Oyun yöneticisi olarak başarısızlığımı\nortaya çıkararak oyunu yıkabileceğini sanıyorsun.
+46	Saklayacak bir şeyin yoksa bununla\nbir sorunun olmamalı, Monokuma.
+47	Puhuhu... Demek sonunda ilk dava yine\nodak noktası haline geldi...
+48	Ne sürpriz! Ne ilginç bir sürpriz!\nTamam, yapalım şunu!
+49	Peki bu yeni gerçek ne?
+50	Birkaç tane var... ama daha ileri gitmeden\nönce <CLT=cltSTRONG>Rantaro'nun yeteneğini<CLT=cltNORMAL> konuşmak istiyorum.
+51	Yeteneğinin ne olduğunu öğrendin mi?
+52	<CLT=cltMIND>Rantaro'nun Ultimate yeteneği bir\ngizemdi ama artık biliyorum...
+53	Ultimate Kurban
+54	Rantaro...\nUltimate Kurban'dı.
+55	Bu ne biçim hüzünlü bir yetenek!?
 56	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 57	Ultimate Hayatta Kalan
+58	Ultimate Beyin
+59	Rantaro...\nUltimate Beyin'di!
+60	Hayır, o videoyu ikimiz de gördük.
+61	Hem beyin o olsaydı öldürme oyunu\nçoktan bitmiş olurdu.
 62	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+63	Ultimate Bilgi Yarışması Sunucusu
+64	Rantaro... Ultimate... Bilgi Yarışması\nSunucusuydu.
+65	Nyeh?\nTahminim doğru muydu?
+66	Ama cidden.\nO videoyu ikimiz de gördük, hatırladın mı?
 67	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 68	...
+69	Shuichi, odasındaki videoyu hatırla!
 70	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+71	<CLT=cltMIND>Rantaro'nun Ultimate Yeteneği...
+72	O... <CLT=cltSTRONG>Ultimate Hayatta Kalan<CLT=cltNORMAL>'dı.
+73	Ultimate... Hayatta Kalan mı?
+74	Ben de gördüm. Videosunda öyle söyledi.
+75	Aslında gerçek şu ki... bu senin ilk\nöldürme oyunun değil.
+76	Sen Ultimate Hayatta Kalan'sın.\nÖnceki öldürme oyunundan sağ çıktın.
+77	Bu ayrıcalığı bu yüzden alıyorsun—Hayatta Kalan Ayrıcalığı.
+78	Rantaro geçmiş bir öldürme oyunundan sağ\nçıktıktan sonra Ultimate Hayatta Kalan oldu.
+79	Hafızası silindikten sonra... öldürme oyununa\nbir kez daha katıldı.
+80	Yani bu Rantaro'nun ilk öldürme oyunu değil miydi?
+81	Ama neden ikinci bir öldürme oyununa\nkatıldı ki!?
+82	Henüz emin değilim...
+83	Ama Rantaro'nun Ultimate Hayatta Kalan olduğunu\nöğrendikten sonra amacını çıkardım.
+84	...Rantaro'nun amacı mı?
+85	Öldürülmeden önce kütüphaneye gitmesinin ve\n<CLT=cltSTRONG>gizli kapıyı<CLT=cltNORMAL> bilmesinin sebebi.
+86	Gizli kapıyı tesadüfen fark etmemiş\nmiydi?
+87	O zaman öyle düşünmüştüm ama görünüşe\ngöre bu varsayım yanlışmış.
+88	Rantaro'nun kapıyı bilmesinin gerçek\nbir <CLT=cltSTRONG>sebebi<CLT=cltNORMAL> vardı.
+89	<CLT=cltMIND>Evet, o sebep...
+90	Kaede ona söyledi
+91	<CLT=cltMIND>Hayır... buna dair bir kanıt yok...
+92	Bir sebebi mi var...?
+93	Belki de Rantaro en başından beri biliyordu...
 94	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+95	Kütüphaneyi inceledi
+96	<CLT=cltMIND>Belki de tıpkı benim gibi odayı ararken\nkapıyı fark etmiştir.
+97	<CLT=cltMIND>...Hayır, bunu yapmadan önce kapıyı\nbiliyor olmalıydı.
+98	Gizli kapıyı fark edenler sadece Shuichi\nile Rantaro'ydu, değil mi?
+99	Başka biri söylemeden kendi başına\nbulduğunu hayal edemiyorum...
 100	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+101	Hayatta Kalan Ayrıcalığı
+102	Tesadüf
+103	Himiko haklı.\nSadece bir tesadüftü.
+104	Demiştim.
+105	...Dostum, *bunu* açıklamak için mi bizi bu kadar beklettin!?
 106	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 107	...
+108	Işıltı büyüsüyle gizli kapıyı\nbulabilirdim ama...
+109	Ne yazık ki Büyücüler o büyüyü alamıyor.
 110	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+111	<CLT=cltMIND>Rantaro'nun o kapıyı bilmesinin\nsebebi...
+112	Rantaro'ya bu Monopad bir tür\n"<CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı<CLT=cltNORMAL>" olarak verilmişti...
+113	İçinde henüz kilidi açılmamış yerler dahil\nbütün akademinin haritası var.
+114	Tabii buna <CLT=cltSTRONG>gizli oda<CLT=cltNORMAL> da dahil.
+115	Rantaro'ya bunun Hayatta Kalan Ayrıcalığı\nolarak verildiğini düşünmek...
+116	Gizli odayı bu haritayla mı öğrendi?
+117	Monopad'de Rantaro'nun kendisi için\nkaydettiği bir video da vardı.
+118	Beynin yedek bir Monokuma'ya ihtiyacı olursa\ngizli odaya gidecekti.
+119	Gizli odayı incelemek için kütüphaneye\ngitmesine ilham veren o mesajdı.
+120	Artık bir süre sınırı yürürlükte! İki gün\nsonra geceye kadar bir cinayet işlenmezse...
 121	bu ölüm oyununa katılmaya zorlanan bütün\nöğrenciler ölecek!
 122	Söylentilere konu olan Monokuma yapan\nmakineden çıkan sayısız Monokuma tarafından paramparça edilerek!
+123	Süre dolunca beyin Monokuma'yı seri üretmek\niçin o odaya gidecekti...
+124	Yani beynin kim olduğunu\nbulmak için...
+125	Rantaro süre dolmadan hemen önce kütüphanenin\narkasındaki gizli odaya gitti.
+126	Doğru. Rantaro da Kaede ile benim vardığımız\nsonuca varmış olmalı.
+127	Ultimate Hayatta Kalan'ın Kaede'nin tuzağı\nyüzünden ölmesi gerçekten ironik.
+128	Ama Rantaro'nun elinde böyle bir ipucu\nvardıysa neden bize gelmedi?
+129	Sanırım bize güvenmediği için. Ne de olsa\nöldürme oyunu daha yeni başlamıştı.
+130	Video mesajında söyledikleri de\nkesinlikle işe yaramadı.
+131	Kendine bu bilgiyi sadece güvenebileceği\ninsanlarla paylaşmasını söyledi.
+132	Bu mesajı kaydettiğine dair hiçbir\nanısı yoktu, değil mi?
+133	Demek ki ona inanmakta o da\nzorlanmış olmalı.
+134	Muhtemelen onun için de kafa karıştırıcıydı.\nBu yüzden bize danışmadı.
 135	...
 136	Neden suratın asık?
 137	Bir şey yok...
@@ -24,6 +140,9 @@
 139	Monokuma'nın tam da yapmamızı istediği bu...\nPeki planının başka hangi parçaları var?
 140	Benim hafızam da mı bunun bir parçası?\nEğer öyleyse...
 141	...kendime bile güvenebilir miyim?
+142	O videoya mı, bize mi, yoksa kendine mi\ngüvenebileceğini bilmiyordu...
+143	Çok... çaresiz kalmış olmalı...
+144	Ama süre sınırı yaklaşınca\nşansını denemeye karar verdi.
 145	Buna gerek yok, çünkü bu oyuna\nben son vereceğim.
 146	Çoktan karar verdim.
 147	Sen mi...bu oyuna son vereceksin?
@@ -31,4 +150,27 @@
 149	Asıl hedef bu.
 150	Böyle bir şeyi...başarabilir misin ki?
 151	Yapabileceğimi düşünmeseydim\nbunu söylemezdim.
+152	O yüzden kimseye söylemeden kütüphaneye\ntek başına gitti...
+153	Ve sonra Kaede'nin tuzağıyla öldürüldü...
+154	O sırada gizli kapıyı bilen tek kişiler\nRantaro ile bendim...
+155	Yanımda Kaede vardı ve ona güvenebileceğimi\ndüşündüm. O yüzden ona gizli odayı anlattım...
+156	Sanırım benimle Rantaro arasındaki fark\nbuydu. Benim Kaede'm vardı...
+157	Ve onu öldüren de Kaede!
+158	Ne yılan!
 159	...
+160	Hey, şey... siz neden bahsediyorsunuz?\nBu benim unuttuğum bir şey mi?
+161	Ne dediklerine dair hiçbir şey\nbilmiyorum.
+162	BU... BİZ-DOĞMADAN-ÖNCE-Mİ-\nYAŞANDI?
+163	Peki ne demek istiyorsun?
+164	Rantaro'nun kim olduğunu ve neden öyle yaptığını\nbiliyorsun... Ama artık anlamsız, değil mi?
+165	Hayır, anlamsız değil.
+166	Bu yeni bilgiyi öğrendiğimize göre\nRantaro'nun davasına geri bakarsak...
+167	...o zaman gözden kaçırdığımız <CLT=cltSTRONG>yeni bir\ngerçek<CLT=cltNORMAL> bulabiliriz.
+168	...Yeni bir gerçek mi?
+169	Pek anlamadım ama sadece Rantaro'nun\ndavasına yeniden bakmamız gerek, değil mi?
+170	O zaman yapalım.
+171	Evet! Bunu birlikte yapalım!
+172	Muazzam büyü güçlerimle Monokuma'yı\nbir otobüse çevireceğim!
+173	Onu da pek anlamadım ama sanırım\nMonokuma'yı yeniden basacağız!
+174	<CLT=cltMIND>Ben de pek emin değilim...\nAma asıl savaş daha yeni başlıyor.
+175	<CLT=cltMIND>Sonucun yanlış olduğunu kanıtlayıp\nbeyni birlikte köşeye sıkıştıracağız!

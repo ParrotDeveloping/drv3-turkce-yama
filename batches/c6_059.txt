@@ -1,0 +1,57 @@
+@ chap6_text_US
+## c06_219_000
+96|İnsanlığın son umudu olarak seçilenleri\nöldürme oyunumu oynamaya zorladım.
+97|Sonra da "Tsumugi Shirogane" adını alıp\naralarına gizlice sızdım.
+98|Kokichi... bunu biliyor muydu?\nO bir <CLT=cltSTRONG>Umutsuzluk Kalıntısı<CLT=cltNORMAL> değil miydi?
+99|O senin yoldaşındı, değil mi?
+100|Ha...? Yoldaş mı? Junko Enoshima'nın\nyoldaşı olmaz.
+101|Yani, televizyonu attıktan sonra kumandaya\nihtiyacın kalmaz, değil mi?
+102|Umutsuzluk Kalıntıları sadece bir avuç\numutsuzluk hayranı oğlan ve kız.
+103|Ama ben... umutsuzluğun ta kendisiyim...
+104|Ben bir umutsuzluk tanrısıyım!\nKokichi sadece müritlerimden biriydi!
+105|Bir tanrı müritlerinden biriyle\nyoldaş olmaz, değil mi?
+106|O zaman Kokichi de gerçek kimliğini\nbilmiyordu...
+107|Puhuhu... Ne kadar umutsuz bir\nvaroluş sürdü...
+108|Sonuna kadar taptığı şeyin burnunun\ndibinde olduğundan habersizdi.
+109|H-Hikâyen umurumda değil!\nBize izleyen insanları anlat!
+110|Bu öldürme oyunu kime gösteriliyor!?\nİnsanlığın hayatta kalanları nerede!?
+111|Kimse izlemiyor.
+113|Hayatta kalan son 16 insan bizdik, biliyorsunuz?\nKim izliyor olabilir ki? İnsanlık yok oldu.
+114|Hayır, yalan söylüyorsun... Bu kimseye gösterilmiyorsa\nkurallara neden bu kadar önem veriyorsun?
+115|Oyunu ilginç hale getirmekten bahsedip duran\nsensin! Kimin için?
+116|Bu sadece kusursuz kopyamın bir\nparçasıydı.
+117|Senin neyin?
+118|Kendi öldürme oyunumu kusursuzca kopyaladım\no kadar. Tıpkı eski Junko gibi!
+119|Aslı gösterilmek içindi,\nben de benimkini öyle yaptım!
+120|Sadece geçmişteki öldürme oyununu yeniden\nyaratmak istedin... Bu kadar mı?
+121|Evet, bu kadar.
+122|İnsanlıktan hayatta kalan yok.\nHer şey hatırladığınız gibi...
+123|Ultimate Akademi öldürme oyununun\ngerçeği bu!
+125|Aman tanrım! Çok şaşırdım!
+126|Belki hepimiz dışarıda kimse kalmadığını\nhatırlıyoruz...
+127|Ama anılarımızın gerçek olduğunu nereden bileceğiz?
+128|Ha? Bununla ne demek istiyorsun?\nAnılarının yanlış olduğunu mu düşünüyorsun?
+129|Anılarımızla ilgili bir süredir aklımı\nkurcalayan bir şey var...
+130|Al, şu kitaba bak.
+131|<CLT=cltSTRONG>Hope's Peak Akademisi'nin Eksiksiz Tarihi<CLT=cltNORMAL> mi?
+132|Bu kitap Hope's Peak Akademisi hakkında\nyıllarca yapılmış araştırmaları içeriyor.
+133|Bu kitabın bir sahne aksesuarı olduğunu gösteren\nhiçbir şey yok. Buradaki bilgilerin doğru olduğuna inanıyorum.
+134|Ama burada anılarımızdan <CLT=cltSTRONG>farklı\nolan<CLT=cltNORMAL> bir sürü şey yazıyor.
+135|...Ne farklı?
+136|Bunu kesin olarak bilmek için herkesin\nyardımına ihtiyacım var.
+137|Hope's Peak Akademisi hakkında hatırladığınız\nher şeyi bana anlatmanızı istiyorum.
+138|Sadece Hope's Peak'ten hatırladıklarımızı\nkonuşmamız mı gerek? Tamam...
+139|Şey... İnsanlık Tarihinin En Büyük, En Korkunç,\nEn Trajik Olayı'yla başladı.
+140|O olay Hope's Peak Akademisi'nde başladı ve\ndünya çapında savaşlara ve terörizme yol açtı.
+141|O olayın bütün insanlığa <CLT=cltSTRONG>umutsuzluk<CLT=cltNORMAL>\ngetirdiğini söylemek abartı olmaz.
+142|Ve hepsine... tek bir lise öğrencisi\nkız sebep oldu.
+143|Evet! O bendim!
+144|Junko Enoshima, Hope's Peak Akademisi'ne\nUltimate Moda Tutkunu olarak kaydoldu...
+145|Ama gerçek kimliğim\n<CLT=cltSTRONG>Ultimate Umutsuzluk<CLT=cltNORMAL>'tu!
+146|Dünyayı umutsuzlukla kaplamak için\nplanlarımı—
+147|Bir dakika, burada bir şeyler uymuyor.
+148|Ha? Hafıza bankalarımda hiçbir tutarsızlık\nalgılamıyorum...
+149|Evet, az önce söylediklerimizin hepsi\ntam hatırladığımız gibi...
+150|Ama Hope's Peak Akademisi'nin tarihinde\nyazanlarla <CLT=cltSTRONG>uyuşmuyor<CLT=cltNORMAL>.
+151|<CLT=cltMIND>Tam olarak nedenini sonra belirlerim...\nŞimdilik tutarsızlığı tespit etmeliyim.
+152|Yani "Farkı Bul" oynamalısın!

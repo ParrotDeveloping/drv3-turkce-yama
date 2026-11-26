@@ -1,0 +1,64 @@
+@ chap6_text_US
+## c06_211_000
+2|Ne dedin!?\nNeler oluyor hiçbir fikrim yok!
+3|Farklı bir gülle mi? Ne demek istiyorsun?
+4|Gizli odadaki çöp kutusunda bir\ngülle buldum.
+5|Ama o cinayet silahı değildi. O güllenin\nüstünde hiç kan yoktu.
+6|Aksine...
+7|...o güllenin üstüne yapışmış <CLT=cltSTRONG>pembe bir lif<CLT=cltNORMAL> vardı.
+8|...Pembe lif mi? Ne olmuş?
+9|Kaede'nin gülleyi nasıl taşıdığını\nhatırlıyor musunuz?
+10|...Kaede'nin sırt çantası.\nGülleyi onun içinde taşıyordu.
+15|Anlıyorum... Sırt çantasındaydı!
+16|Yedek yeleğine sarılıydı.
+17|<CLT=cltSTRONG>*Pembe* yeleğine<CLT=cltNORMAL>.
+18|Anlıyorum... Gizli odada bulduğun güllenin\nüstünde pembe bir lif vardı...
+19|Evet, yeleğinden bir lif.
+20|Bu, bulduğum güllenin Kaede'nin sırt\nçantasındaki gülle olduğu anlamına gelir.
+21|N-Ne dedin!? Gerçekten neden bahsettiğine\ndair hiçbir fikrim yok!
+22|O güllenin üstünde kan yoktu, yani\ncinayet silahı olamazdı.
+23|Kısacası Kaede'nin kullandığı gülle\nRantaro'ya çarpmadı!
+24|O-O zaman... belki kanı yıkayıp\ntemizlemişlerdir!
+25|Öyle olsaydı güllenin üstündeki lif de\nyıkanıp gitmiş olurdu!
+26|Gerçek cinayet silahının Kaede'deki gülleden\n<CLT=cltSTRONG>farklı<CLT=cltNORMAL> olduğu benim için açık.
+27|Evet, Kaede kitaplığı ayarladı ve\ngülleyi havalandırmaya yuvarladı...
+28|Ama o gülle Rantaro'ya çarpmadı!\nPlanı <CLT=cltSTRONG>başarısız oldu<CLT=cltNORMAL>!
+29|B-Başarısız mı oldu!? Ne demek bu bilmiyorum bile!
+30|O-O gülleyi gizli odada bulduysan\no zaman bu demek oluyor ki...
+31|<CLT=cltMIND>Gülleyi gizli odada bulmamın\nsebebi...
+32|Hep oradaydı
+33|Gülle hep gizli odadaydı.
+34|...Ha?\nBunda yanlış bir şey mi var?
+36|Beyin aldı
+37|Monokuma aldı
+38|Monokuma alıp götürdü!
+39|Kaç kez tekrar edeyim? Bir öldürme oyunu\nkatılımcısına yardım edemem.
+41|Monoyavrular aldı
+42|Monoyavrular alıp götürdü!
+43|Ne!? Biz mi!?
+44|Bu imkânsız! Katılımcılara yardım\nedemeyiz!
+47|Eee?\nCevabı öğrenmek istiyorum!
+50|<CLT=cltSTRONG>Beyin<CLT=cltNORMAL> onu kütüphaneden aldı.\nNe de olsa o odaya sadece o girebilirdi.
+51|Beyin mi aldı?
+52|Yani Rantaro'yu ıskalayan gülleyi geri\naldılar ve o başka bir gülleyle öldürüldü.
+53|Rantaro'yu, Kaede suçluymuş gibi gösteren\nbeyin öldürdü.
+54|Bu, beynin biraz hile yapmasını\ngerektirdi...
+55|Rantaro'yu öldürmek için kendi güllesini hazırladı\nve onu Kaede'nin güllesiyle değiştirdi.
+56|Kaede'nin güllesini alıp gizli odaya\nsakladı.
+57|Basitçe söylemek gerekirse... Rantaro'yu\nKaede değil, beyin öldürdü!
+58|Ne
+59|diyorsun
+60|seeeen!?
+61|HERKES, SAKİN-OLUN!\nBABA-BAĞIRACAK—
+62|Ne! Monodam, neden!?
+63|Hoppala. Fazla heyecanlandım ve yanlışlıkla\nfünyeye bastım.
+64|BLRGLGRBLRBLRGLRBLG...
+65|Beyin Rantaro'yu öldürdü... ama neden?
+66|Sebebin <CLT=cltSTRONG>süre sınırı<CLT=cltNORMAL> motifiyle bir\nilgisi olduğuna inanıyorum.
+69|Kaede hepimizi bir arada tutuyordu ve\nbirbirimizi öldürmeyi reddediyorduk.
+70|Bu çıkmazı kırmak için beyin o motifi\nortaya attı.
+71|Ama bu bir kumardı. Ne de olsa tam bir\nkaosa yol açmak istemiyorlardı.
+72|Çünkü bu her şeyi bitirirdi. Heyecanlı bir\nöldürme oyunu istiyorlardı...
+73|O motif bizim kadar beyni de\nbaskı altına aldı.
+74|Evet. Kaede'nin beyni öldürme planı vardı\nama tuzağa Rantaro yakalandı.
+75|Ama... planı sonunda başarısız oldu.\nYuvarladığı gülle Rantaro'ya çarpmadı.

@@ -1,0 +1,65 @@
+@ chap6_text_US
+## c06_218_000
+28|Ayrıca Rantaro'nun cesedinden <CLT=cltSTRONG>Hayatta Kalan\nAyrıcalığı Monopad'ini<CLT=cltNORMAL> de yağmaladılar.
+29|O şeyler ellerinde, gizli odaya geri\nçekildiler.
+30|Kaede ile oraya vardığımızda kitaplığın\nkapandığını gördüğümü hatırlıyorum.
+31|Beyin muhtemelen suçunu daha yeni\nbitirmişti.
+32|Ve böylece asıl gerçek bizden kusursuzca\nsaklandı. Sınıf duruşmasına gittik...
+33|...ve Kaede'nin suçlu olduğu "gerçeğine"\nulaştık.
+34|Ama o <CLT=cltSTRONG>gerçek beyin tarafından\nçarpıtılmıştı<CLT=cltNORMAL>!
+35|Cinayetten sonra beyin çaldığı Monopad'i\ngizli odadaki <CLT=cltSTRONG>masaya<CLT=cltNORMAL> bıraktı...
+36|ve Kaede'nin güllesini <CLT=cltSTRONG>çöp kutusuna<CLT=cltNORMAL>\nattı.
+37|Bütün kanıtlardan kurtulmamaları...\nbiraz dikkatsizlik.
+38|Muhtemelen kimsenin o odaya asla\ngiremeyeceğine inanıyorlardı. Ama biz girdik.
+39|Suçu tamamlanınca beyin <CLT=cltSTRONG>gizli geçitten<CLT=cltNORMAL>\ngeri döndü.
+40|Geçit gizli odadan ta...
+41|...<CLT=cltSTRONG>birinci kattaki kızlar tuvaletine<CLT=cltNORMAL> kadar uzanıyordu!
+42|Beyin kızlar tuvaletini kullanıyormuş\ngibi yaparken...
+43|...aslında gizli geçidi kullanıyordu.
+44|Fark edilmeden böyle hareket ettiler.
+45|Gizli geçidi sadece yemekhanedekiler\ndeğil, herkes kullanabilirdi.
+46|Ama hayatta kalanlara bakınca... beyin\nolabilecek tek kişi sensin.
+47|Yanılıyorsam... lütfen, beni çürüt.
+48|Lütfen bize beyin olmadığını söyle,\n<CLT=cltSTRONG>Ultimate Kostümcü Tsumugi Shirogane<CLT=cltNORMAL>!
+49|Yemekhanedekiler
+50|Shuichi koşuyor
+51|Rantaro kameraya çekiliyor
+52|Rantaro'nun kafasının tam üstünde...
+53|Beyin dışarı bakıyor
+55|Gülle geri dönüştürülebilir mi?
+56|Tuvaletteki gizli geçit
+57|Rantaro öldürülmeden hemen önce\nbeyin neredeydi?
+58|Güvenlik sensörü çaldıktan sonra\nsınıftan ilk kim koştu?
+59|Gizli kameranın flaşını fark ettikten sonra...
+60|Gülle nereye düştü?
+61|Gizli odadan kim fırladı?
+62|Beyin Rantaro'nun cesedinden\nne aldı?
+63|Beyin çöp kutusuna\nne attı?
+64|Gizli geçit nereye\nbağlanıyor?
+## c06_219_000
+0|Bu davanın, öldürme oyununun kendisinin\ngerçeği bu. Eee, Tsumugi?
+1|E-Eee... ne?
+2|E-Evet! Ne kavurucu bir gelişme! Fünyeyi\ntutan elim geriliyor...
+3|G-Gerilme! S-S-Sakin ol!
+4|Babacığım! Lütfen, bunu bırak!
+5|Bizi çooook sevdiğin eski haline\ngeri dön!
+6|Eski halim... bundan farklı bir hikâyeye\ndaha uygundu.
+8|Kısacası senin hikâyenin önemi yok!\nBu heyecanlı gelişmeyi izlemeliyim!
+9|Eee, Tsumugi? Shuichi'nin mantığında\nhiç kusur var mı?
+10|Varsa... lütfen bize söyle.
+11|K-Kusur mu? Her yerinde bir sürü...\nkusur var.
+12|O zaman açıkla.
+13|Y-Yapabilirsin! Yapabilirsin, Tsumugi!
+14|B-Bana tezahürat yapsan da...
+15|Öyle değil! Ben yapmadım!\nDüpedüz belli!
+16|Karşılık ver, Tsumugi! Hadi!\nYapabilirsin, yapabilirsin!
+17|Babacığım, yine geriliyorsun!
+18|Hâlâ yaşamak istiyorum, o yüzden lütfen\ndüğmeye basma!
+19|Tsumugi, lütfen bir şey söyle!\nKendini savunmazsan—
+20|<CLT=cltSTRONG>Junko Enoshima<CLT=cltNORMAL>!
+22|Çünkü... hep o oldu.
+23|Hope's Peak öldürme oyununda da\nJabberwock Adası öldürme oyununda da...
+24|Junko Enoshima katılmadı.\nOyunu dışarıdan yönetti.
+25|Sıkıcı ya da tekrarlayıcı olsa bile\nbeyin hep o, değil mi!?
+26|O zaman bu sefer de öyle!\nYine Junko olmalı!
+27|Junko Enoshima öldü.\nBu öldürme oyununun bir parçası değil.

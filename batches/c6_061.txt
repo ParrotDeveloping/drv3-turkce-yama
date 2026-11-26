@@ -1,0 +1,69 @@
+@ chap6_text_US
+## c06_221_000
+19|Ve dünya yeniden toparlanmaya doğru\nilerlemeye başladı.
+20|Sonra Gelecek Vakfı ile Umutsuzluk Kalıntıları\narasındaki savaş sürüp gitti...
+21|Ama en kötü senaryo önlendi!\nYaşasın, mutlu son!
+22|<CLT=cltMIND>Henüz değil. Tarihle çelişen\ndaha fazla nokta var.
+23|<CLT=cltMIND>Sırada onları göstereceğim.
+## c06_222_000
+0|Şimdi ne!?\nH-Hayır ama... bu doğru.
+1|Hope's Peak'in Eksiksiz Tarihi'ne\nbir daha bak.
+3|Hope's Peak Akademisi'nin Eksiksiz Tarihi doğru\ndeğil mi? Bilgilerinden şüphe etmemelisin.
+5|Umutsuzluk Kalıntıları ve Gelecek Vakfı...\nİkisi de vardı, değil mi?
+6|Burada Hope's Peak Akademisi'nin Eksiksiz\nTarihi'nde yazdığını görebilirsin.
+8|<CLT=cltMIND>Sonuçta anılarımızdan\nfarklı...
+9|<CLT=cltMIND>Çünkü hepsi kendi istekleriyle\nburadaydı...
+11|<CLT=cltMIND>Çelişki ne?
+## c06_222_001
+0|<CLT=size2>İnsanlık Tarihinin En Büyük, En Korkunç,\nEn Trajik Olayı\n<CLT=size1>yaşandı...
+1|İnsanlık Tarihinin En Büyük, En Korkunç,\nEn Trajik Olayı yaşandı...
+2|çünkü <CLT=size2>Junko\n<CLT=size1><CLT=size2>umutsuzluk<CLT=size1> yaymak için\nsayısız <CLT=size2>yol<CLT=size1> hazırlamıştı.
+3|çünkü Junko umutsuzluk yaymak\niçin sayısız yol hazırlamıştı.
+4|Hope's Peak Akademisi'nin<CLT=size2>\n\n　\n　\n　\n　\n<CLT=size1><CLT=size2>78. sınıfının<CLT=size1>\n<CLT=cltWEAK><CLT=size2>öldürme oyunu<CLT=cltNORMAL><CLT=size1> gibi.
+5|Hope's Peak Akademisi'nin 78. sınıfının öldürme oyunu gibi.
+6|<CLT=size2>Onlar
+7|Onlar Ultimate Umutsuzluk\ntarafından esir tutuldu...
+8|<CLT=cltWEAK>Ultimate
+9|<CLT=cltWEAK>Umutsuzluk
+10|tarafından
+11|esir tutuldu
+12|ve öldürme oyununa\n<CLT=size2>zorlandı<CLT=size1>.
+13|ve öldürme oyununa zorlandı.
+14|Ah, bununla ilgili\nbazı <CLT=size2>kötü haberlerim<CLT=size1> var...
+15|Ah, bununla ilgili bazı kötü haberlerim var...
+16|<CLT=size2>Ölümümün
+17|Ölümümün harekete geçirdiği olaylar...
+18|<CLT=size2>harekete
+19|<CLT=size2>geçirdiği
+20|<CLT=size2>olaylar
+22|<CLT=size3>...
+23|...
+24|<CLT=size2>ancak şimdi<CLT=size1>\n<CLT=size2>doruğa<CLT=size1> ulaşıyor.
+25|ancak şimdi doruğa ulaşıyor.
+26|Yani\n<CLT=cltWEAK><CLT=size1><CLT=size2>Umutsuzluk\n<CLT=size1><CLT=size2>Kalıntıları<CLT=size1> ile
+27|Yani Umutsuzluk Kalıntıları ile\nGelecek Vakfı hâlâ savaşıyor...
+28|<CLT=cltWEAK><CLT=size2>Gelecek\nVakfı
+29|hâlâ savaşıyor...
+30|Ama şimdilik\nen <CLT=size2>kötüsünü<CLT=size1> <CLT=size2>atlattık.
+31|Ama şimdilik en kötüsünü atlattık.
+32|Ah, bu kötü görünüyor!
+33|Öyle bir şey yapmadı!
+34|Ah, belki de yaptı...
+35|78. sınıf, değil mi?
+36|Gerçekten esir miydiler?
+37|Ama daha fazla umutsuzluk istiyordum! Daha fazla!
+38|O kadar uzun süredir mi devam ediyor?
+39|Bana uygun görünüyor!
+## c06_223_000
+0|78. sınıfı Hope's Peak Akademisi'ne hapseden\nUltimate Umutsuzluk değildi.
+1|Sınıfın kendisiydi.\n<CLT=cltSTRONG>Kendilerini kapattılar<CLT=cltNORMAL>.
+2|Kendilerini mi kapattılar?
+3|Neden kendilerini kapatsınlar ki?
+4|Bunun <CLT=cltSTRONG>Hope's Peak Akademisi Sığınak\nProjesi<CLT=cltNORMAL> ile ilgisi var.
+5|Trajedi sırasında 78. sınıf...
+6|...korunmak için <CLT=cltSTRONG>kendilerini<CLT=cltNORMAL> Hope's Peak\nAkademisi'ne kapattılar.
+7|Yani 78. sınıfın Ultimate Umutsuzluk tarafından\nhapsedildiğine dair anımız...
+8|Anılarımızın... yanlış olduğunu mu söylüyorsun?
+9|Sadece o belgelerin baştan savma\nyazıldığı anlamına geliyor.
+10|Endişelenmene gerek yok.\nAnıların tamamen doğru.
+11|Söylediklerin tutarlı değil!\nÖnce sadece "tesadüf" demiştin.

@@ -1,0 +1,60 @@
+@ chap6_text_US
+## c06_241_000
+14|Bu yüzden onu durdurmalıyız!\nBunun bir daha olmasına izin vermeyeceğiz!
+15|Sana söyledim, durmayacak.\nÇünkü dünyanın istediği bu.
+16|Dünya öldürme oyunları istediği sürece\nDanganronpa bitmeyecek!
+17|O zaman onu değiştirmeliyiz!
+18|Onu değiştirmenin hiçbir yolu yok!\nKurgu asla gerçeği değiştiremez—
+19|Kurgunun gücüne inanmıyor musun?
+21|Fiziksel bir güç olmayabilir ama dileğimiz\nmutlaka biri tarafından karşılık bulacak.
+22|Kurgunun insanların kalbine dokunma gücü\nvarsa o güç dünyayı değiştirebilir!
+23|Benim inandığım bu! Ben de Shuichi'nin\nönerdiği gibi oyumu bırakacağım!
+24|O zaman karar verildi...\nHepimiz oy vermekten çekimser kalıyoruz.
+25|Umudu da umutsuzluğu da reddediyoruz! Dış\ndünyanın taleplerine boyun eğmeyi reddediyoruz!
+26|Ciddi misiniz?
+27|Telaşlandın mı? Kostüm değiştirmelerin\nartık daha seyrek.
+28|Deli misiniz!? Bunu yaparsanız sadece beyin\nolan ben hayatta kalırım, biliyor musunuz?
+29|Peki ya umut!?
+30|Peki ya umutsuzluk!?
+31|Umutla da umutsuzlukla da ne istersen yap.
+32|Bu öldürme oyununu bırakmaya\nçoktan karar verdik!
+33|Bu kurgusal dünya umurumda değil...
+34|Doğru! Bu sınıf duruşması bitti!\nŞimdi, Oylama Vakti'ni başlat—
+35|...Oylama Vakti mi?
+36|Hayır! Henüz değil!\nBu oyun devam edecek!
+37|Öldürme oyunu devam edecek!
+38|Bu sınıf duruşması sonsuza dek sürecek!
+## c06_241_025
+0|Maki de mi...
+1|intihardan bahsedilince tetikleniyorum
+2|Kendimi suçlu hissetmeye başlıyorum.
+3|ağlayacağım ;_;
+4|XD kötü olanlar biz miyiz?
+5|Hadi bırakalım.
+6|xd şaka şaka... yanılmışım
+7|Maki'nin ölmesini istemiyorum.
+8|Umut ile umutsuzluk kapışması nerede?
+9|Karakterlerin hayatları...
+10|Maki ölürse bir milyon kaybederim.
+11|intihar etseler süper ezik olurdu
+12|Bu ne ya anlamadım bile
+13|12 yaşındayım lütfen kanalıma gelin
+14|Keebo neden var ki zaten?
+15|Ah, izlemeye devam etmek istiyordum...
+16|Bundan hoşlanmaya başlıyorum.
+17|Eğlenceli değilse Ronpa değildir!
+18|Bana kızımı hatırlatıyorlar.
+19|Shuichi'nin hatırına <3
+## c06_242_000
+0|Hey, hey!\nSıkıcı yalanları kesin!
+1|Bahse girerim bu oyunda gerçekten\neğlenmek istiyorsunuz, değil mi!?
+2|<CLT=cltMIND>Monokuma ne derse desin umurumda\ndeğil, bu oyun bitti!\n<CLT=cltNORMAL>
+18|<CLT=cltMIND>Oy vermekten çekimser kalacağız,\nbu hileli oyunu oynamak zorunda değiliz...
+19|<CLT=cltMIND>Her şeyi bırakacağım...\nBu öldürme oyununu bitireceğim.
+## c06_242_001
+0|Bu <CLT=size2>oyun<CLT=size1>\n<CLT=cltAGREE><CLT=size2>devam edecek<CLT=cltNORMAL>!
+1|Bu oyun devam edecek!
+2|Ve bu <CLT=size2>sınıf duruşması<CLT=size1> da <CLT=cltAGREE>henüz bitmedi<CLT=cltNORMAL><CLT=size1>!
+3|Ve bu sınıf duruşması da henüz bitmedi!
+4|Öldürme oyununun gerçekten\n<CLT=cltWEAK><CLT=size2>bitmesini<CLT=cltNORMAL> istiyor musun?
+5|Öldürme oyununun gerçekten bitmesini istiyor musun?

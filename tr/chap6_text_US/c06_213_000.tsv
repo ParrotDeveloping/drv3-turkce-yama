@@ -1,8 +1,101 @@
+0	Hayır, beyin 17. bir kişi olamaz.\nBu <CLT=cltSTRONG>Annekuma<CLT=cltNORMAL>'nın söyledikleriyle çelişiyor.
+1	Aradığınız kişi bu odaya epey sık\ngelir.
+2	Bu, beynin bütün zaman boyunca gizli\nodada olmadığını gösteriyor.
+3	Oda ile akademi arasında gidip geliyor\nolmalılar, değil mi?
+4	Tamamen saklı kalması gereken biri\ngerçekten bu riski alır mı?
+5	Doğru. Saklanmaya çalışıyorlarsa\nyerlerinden kıpırdamazlardı.
+6	Anlıyorum! Etkileyici bir mantık!
+7	Ona katılma!
+8	Ve inceleme sırasında <CLT=cltSTRONG>Geri Dönüş Işığı\nyapan bir sınıf<CLT=cltNORMAL> buldum...
+9	Geri Dönüş Işığı yapan bir sınıf mı?
+10	Ah, ayrıntıları sonra açıklarım...\nAma ilginç bir şey vardı...
+11	<CLT=cltMIND>Tam o anda sınıfın kapısı\naniden ardına kadar açıldı.
+12	<CLT=cltSYSTEM>*vuuş!*
+13	İşte buradasın, Shuichi!
+14	H-Himiko!?
+15	<CLT=cltMIND>...Ha? Sınıf normale\nmi döndü?
+16	Kapı açılınca sınıf <CLT=cltSTRONG>eski haline<CLT=cltNORMAL>\ndönüyor.
+17	Belli ki oda bir şey saklıyor.
+18	Bu apaçık değil mi?
+19	Beyin Geri Dönüş Işığı yaparken kimsenin\nonu görmesini istemiyordu...
+20	Ama neden böyle bir sınıf yaratsın ki?\nBeyin 17. bir kişi olsaydı...
+21	...Geri Dönüş Işığı yapmak için tamamen\nayrı bir odası olabilirdi.
+22	Gerçekten... Bu çok daha güvenli olurdu.
+23	Bunu bilerek beynin kimliği hakkında\nbirkaç varsayımda bulunabiliriz.
+24	Ama sonuçları... iyi değil.
+25	B-Bunu ne kadar uğursuz bir şekilde söyledin...
+26	Ama endişelenecek bir şey yok!\nArkadaş olduğumuz için buraya kadar geldik!
+27	Ne olursa olsun bu işte birlikteyiz!\nKorkacak bir şey yok!
+28	E-Evet! Haklı!
 29	...
+30	<CLT=cltMIND>Beynin kimliği...
+31	<CLT=cltMIND>Elimizdeki gerçekler düşünülünce\ndedektiflik çalışmam şunu gösteriyor...
 32	Kaede Akamatsu
+33	<CLT=cltMIND>Hayır...\nBuna dair somut bir kanıt yok.
+34	Uğursuz uğursuz konuşup sonra susma!\nGerçekle yüzleşebiliriz!
+35	<CLT=cltMIND>Gerçekle yüzleşmeliyim...\n<CLT=cltNORMAL>
+36	Kaede Akamatsu'nun ikiz kardeşi
+37	<CLT=cltMIND>Hayır... en başta ikiz bir kız kardeşi\nolduğuna dair gerçek bir kanıt yok.
+38	Hepimiz arkadaşız! Buraya gelmek için birçok\nzorluğu aştık. O yüzden söylemekten çekinme!
+39	<CLT=cltMIND>Gerçekle yüzleşmeliyim...\n<CLT=cltNORMAL>
+40	Öldürme oyununun bir katılımcısı
+41	17. kişi
+42	<CLT=cltMIND>Hayır, şimdiye kadar topladığımız kanıtlar\n17. bir kişi olmadığını gösteriyor...
+43	Sorun yok, Shuichi! Hepimiz arkadaşız!\nAklından geçeni söyle yeter!
+44	<CLT=cltMIND>Hayır...\nGerçekle yüzleşmeliyim...\n<CLT=cltNORMAL>
 45	...
+46	...Kim o?\nBuraya kadar geldik, söylemelisin.
+47	<CLT=cltMIND>Hayır...\nGerçekle yüzleşmeliyim...\n<CLT=cltNORMAL>
+48	<CLT=cltMIND>Beynin kimliği...
+49	Beyin büyük ihtimalle... <CLT=cltSTRONG>bu öldürme oyununun\nkatılımcılarından biri<CLT=cltNORMAL>.
+50	K-Katılımcılardan... biri mi!?
+51	Bu oyunu oynamaya zorlanan 16 kişiden\nbiri. Bizden biri.
+52	N-Ne... dedin?
+53	Geri Dönüş Işığı yapan sınıf ve gizli odanın\nsık sık ziyaret edilmesi...
+54	Hepsi beynin <CLT=cltSTRONG>akademide her gün gördüğümüz\nbiri<CLT=cltNORMAL> olduğunu gösteriyor.
+55	Her gün gördüğümüz biri...\n16 öğrenciden biri gibi mi?
+56	B-Bu delilik! Beynin bizden biri\nolması mümkün değil!
+57	Çünkü... hepimiz arkadaşız!\nBirlikte savaşacağımıza yemin ettik!
+58	Puhuhu... O zaman bütün o arkadaşlık\nlafları yalanmış demek, değil mi?
+59	K-Kes sesini! Bu mümkün değil!
+60	Puhuhu... Üzgün ve mantıksızsınız. Böyle\nzamanlarda bir sağduyu sesi gerekli.
+61	Kesinlikle gerekli!
+62	A-Anladım! Sıra bizde!
+63	Pekâlâ, mantıklı ama aynı zamanda olağanüstü\nbir gösteri yapıp yaşama hakkımızı kazanacağız!
+64	Ha? Yaşama hakkımız mı...? Biri ölmek\nüzere mi? Olan bu mu?
+65	Neyse! Sana inanmıyorum!\nBeynin burada olması mümkün değil!
+66	Bekle... 16 öğrenciden biri olsa bile\nbizden biri olduğu anlamına gelmez, değil mi?
 67	Ha? Ne demek istiyorsun?
+68	Beynin sadece ölümünü taklit edip bunca\nzaman hayatta kalmış olması mümkün.
+69	Artık Monokuma'nın kuralları istediği gibi\nçiğneyeceğini bildiğimize göre bu ihtimal—
+70	Bu ne demek oluyor?\nAcele et de cevap ver!
+71	Acele etmezsen geri kalan Monoyavruları\nda havaya uçuracağım!
+72	Ahhh! Acele et de cevap ver!
+73	<CLT=cltMIND>Beynin kimliğini... kesin\nolarak öğreneceğiz...
+74	<CLT=cltMIND>Rantaro'yu kimin öldürdüğünü\nbelirlediğimizde.
+75	<CLT=cltMIND>Kim olduğunu bulmak için bir şeyi\ndoğrulamam gerek.
+76	Bütün ölüm sebepleri
+77	Şimdiye kadar ölen herkesin bütün ölüm\nsebeplerini kesinleştirirsek...
+78	Birinin beyin olup olmadığını belirlemek için\nçok fazla kurban var...
+79	Ama beynin Rantaro'nun ölümüne karıştığını\nkesin olarak biliyoruz, değil mi?
 80	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+81	Rantaro'nun cinayeti için mazeretler
+82	İlk uyandıktan sonra olanlar
+83	Hepimiz uyandıktan sonra tam olarak ne\nolduğunu hatırlamaya çalışalım.
+84	Hımm... Genelde hatırlamakta epey\niyiyimdir ama üzerinden epey zaman geçti...
 85	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
 86	...
+87	Hey! Acele et de cevap ver!
 88	<CLT=cltMIND>Herkes bana bakıyor...\nBerbat ettim, sahtekâr olduğumu düşünüyorlar...\n<CLT=cltNORMAL>
+89	<CLT=cltMIND>Beyni ortaya çıkarmak için\nbelirlemem gereken şey...
+90	Herkesin Rantaro'nun cinayeti için <CLT=cltSTRONG>mazeretini<CLT=cltNORMAL>\nyeniden gözden geçirmeliyiz.
+91	Mazeretlerimizi mi... o zamanki?
+92	Bunu ilk duruşmada konuşmamış mıydık?\nYeniden konuşmanın ne faydası olur?
+93	Rantaro'nun beyin tarafından öldürüldüğünü\nbildiğimize göre bir yere varabilir.
+94	O zaman görmediğimiz birinin mazeretinde\nbir açık bulabiliriz.
+95	...Yani sadece mazeretlerimizi yeniden vermemiz gerek.
+96	P-Peki... O zaman yapalım.
+97	Böylece beynin bizden biri olmadığından\nemin olabiliriz...
+98	Puhuhu... Bu tartışmanın nereye\nvaracağını merak ediyorum.
+99	Tam bu odadaki bir beyne mi varacak?\nYoksa... varmayacak mı?
+100	Her halükârda bu duruşmanın heyecanlı\nkalmasını sağlayacağız!

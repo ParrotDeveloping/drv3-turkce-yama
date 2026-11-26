@@ -1,0 +1,66 @@
+@ chap6_text_US
+## c06_219_000
+28|Y-Yanılıyorsun...\nO yok edilmedi... O...
+29|Hepsi Junko'nun işi!\nBu öldürme oyunu da onun işi!
+30|Evet! Kesin bu!\nÇünkü Junko Enoshima...
+31|Junko Enoshima ne?
+32|Çünkü Junko Enoshima...
+33|Junko Enoshima ne!?
+34|Babacığım, lütfen bu kadar heyecanlanma!\nYanlışlıkla düğmeye basacaksın!
+35|Sevimli yüzlerimize bak! Gerçekten\nbizsiz kalmaya dayanabilir misin!?
+36|Junko Enoshima...
+37|Junko Enoshima ne!?
+38|...Tamam, reklam arası vakti!
+39|Hayır, değil!
+40|Bakın, iyi bir komedi grubuyuz da!\nO yüzden lütfen—
+41|Çünkü... Junko Enoshima...
+42|Junko... Enoshima...
+43|Tam da burada, be!
+44|Puhuhu...\nBeklettiğim için kusura bakmayın.
+45|Kimse beklemiyor olsa bile,\n"Ne, yine mi?" dedirtse bile...
+46|Umutsuzluğun divası bir kez daha sahnede!\n<CLT=cltSTRONG>53. Junko Enoshima<CLT=cltNORMAL>!
+47|Bvah-hahahaha! İşte karşınızda! Bir kez\ndaha beyin Junko Enoshima!
+48|Bvah-hahahahahaha!
+49|Junko Enoshima... 53. mü?
+50|Tsumugi... n-ne oldu?\nSen... Tsumugi Shirogane değil misin?
+51|Bizimle birlikte hayatta kalan arkadaşımız?
+52|Hahaha, kusura bakmayın. Tsumugi Shirogane'yi\nunutabilirsiniz artık.
+53|Çünkü ben sadece bir karakterim!\nBilirsiniz, bir <CLT=cltSTRONG>yalan<CLT=cltNORMAL>!
+54|Oradaki bütün hayranlarından özür dilerim.\nTabii hiç var olsalardı.
+56|Tsumugi Shirogane, beyin olan benim için\nbir paravandan başka bir şey değildi.
+57|Puhuhu... Ona arkadaşınız demeniz...\nAh, gerçekten gülünç.
+58|Gerçekten güleceğim!\nAhahahahahahahaha!
+59|C-Ciddi misin!? Bunun ardındaki beyin\nsen misin?
+60|Ama neden?\nO yüz ve o ses! Tıpkı...
+61|Junko Enoshima!
+62|Değil mi ama!?\nAh, bu sizi umutsuzluğa sürüklüyor mu!?
+63|Ahahaha! Eee, sürüklüyor mu!?
+64|Hayır, bu mümkün değil...\nJunko Enoshima öldü!
+65|Ama... kendine neden "53." dedin?
+66|Tarih tekerrür ettikçe Junko Enoshima\nda tekerrür eder...
+68|Gördüğünüz gibi ben Junko Enoshima'nın\nkusursuz bir kopyasıyım.
+69|Yani... sadece Junko Enoshima taklidi\nyapan bir ucubesin, öyle mi!?
+70|Hayır, <CLT=cltSTRONG>kusursuz bir kopya<CLT=cltNORMAL>!
+71|Kusursuz kopyalar aslının\ntıpatıp aynısıdır.
+72|Mantığını takip etmek imkânsız, tıpkı\ngerçek Junko Enoshima'nınki gibi...
+73|Her ne ise... Bu öldürme oyununun asıl\nbeyni sensin, değil mi?
+74|Yani seni öldürürsek her şey biter,\ndoğru mu?
+75|Ah, öyle kaba şeyler söyleme...\nHem beni öldürmek oyunu asla bitirmez.
+76|Oyunu asla bitirmez mi? Ne demek istiyorsun?
+77|Blöf yapıyor.\nHadi onu öldürüp işi bitirelim.
+78|Bekle! Güç kullanmak gerekiyorsa onun ne\nyaptığını gördükten sonraya kadar—
+79|Gerek yok, Keebo.\nÇünkü bu sınıf duruşması *bitti*.
+80|Ne? Çoktan bitti mi?\nAma ben daha yeni geldim!
+81|Kaede'yi sen öldürdün ve Monokuma bunu\nsahte bir hikâyeyle örtbas etti!
+82|Sınıf duruşmaları hileli ve bütün\nbu oyun gayrimeşru!
+83|Ah o, doğru. Evet, onu kesinlikle\nberbat ettim. Kusura bakmayın.
+86|Eee? Söyleyeceğin bu kadar mı?
+87|İzleyiciler böyle bir özrü kabul etmez!\nÖldürme oyununu durdurmalısın!
+88|Ha? İzleyiciler mi?
+89|Şey... Yanlış yolda gibisiniz,\no yüzden açıklayayım...
+90|Tamam! Önce bana bu öldürme oyununu\nplanlamam için ilham veren olayla başlayayım.
+91|Bu... göktaşı düşmelerinin\nşiddetlenmeye başladığı sıralardaydı...
+92|Kendi kendine büyük bir hikâyeye\nmi başladı az önce...?
+93|Hope's Peak Akademisi'nin <CLT=cltSTRONG>Gofer Projesi<CLT=cltNORMAL>'ni\nbiliyordum ve içimdeki Junko bana şunu söyledi...
+94|İnsanlığın son umudu olan Gofer Projesi'ni\nezmek kusursuz bir umutsuzluk olurdu.
+95|İşte o zaman tasarladığım öldürme\noyununu devraldım...

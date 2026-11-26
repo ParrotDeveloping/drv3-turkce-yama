@@ -1,0 +1,74 @@
+@ chap6_text_US
+## c06_214_001
+37|Yemekhanedeydim.
+38|<CLT=size2>Kiyo
+39|Kiyo, Miu ve Kirumi benimleydi.
+42|<CLT=size2>,<CLT=size1> ve
+43|<CLT=size2>Kirumi
+44|benimleydi.
+45|Gerçi tuvalete gitmek için kısa\nbir süre ayrıldım...
+46|Gerçi tuvalete gitmek için kısa bir süre ayrıldım...
+47|Rantaro'yu <CLT=size2><CLT=cltWEAK>öldürmüş<CLT=size1> <CLT=size2>olamam<CLT=size1><CLT=cltNORMAL>!
+48|Rantaro'yu öldürmüş olamam!
+50|Shuichi de Kaede'yleydi, yaniii...
+52|birlikteydi
+53|<CLT=size2>Kaede'yle
+54|<CLT=size2>,<CLT=size1> yaniii...
+55|<CLT=cltWEAK>O da Rantaro'yu <CLT=size2>öldürmüş\n<CLT=size2>olamaz<CLT=cltNORMAL><CLT=size1>!
+56|O da Rantaro'yu öldürmüş olamaz!
+57|Ondan emin değilim!
+58|Tartışmaya katılamayız!
+59|Unuttun mu?
+60|Ama itiraz etmezsem\nben...
+61|Patlama olmasın, lütfen!
+63|Ha? Patlayacak mıyız?
+64|Çok fazla şey unutuyorsun!
+65|Az önce patladılar, hatırlasana!?
+67|ve Monokid!
+68|Monodam ve\nMonokid mi...?
+69|Bunu unutamazsın!
+70|Biz aileyiz, değil mi!?
+71|Birlikte Monoyavrularız!
+72|Monoyavrular mı...?\nTanıdık geliyor...
+73|Ah! Şimdi hatırladım!
+74|Çok geç!
+75|Sadece hatırlamak bile\nbeni duygulandırıyor!
+76|Iyy!\nÖlmek istemiyorum!
+## c06_215_000
+0|Bir dakika, Tsumugi.
+2|...Tuvalete gittiğini söyledin.
+4|<CLT=cltSTRONG>Yemekhanenin yanındaki kızlar tuvaletine<CLT=cltNORMAL>... değil mi?
+5|N-Ne dedin!? O tuvalete mi!?
+6|Ha? N-Ne? Ne olmuş ona?
+7|Shuichi, kızlar tuvaletini incelememiş\nmiydin? Bir şey buldun mu?
+8|O tuvaletteki hademe dolabında...
+9|...<CLT=cltSTRONG>gizli bir geçit<CLT=cltNORMAL> var.
+10|Kütüphanenin arkasındaki <CLT=cltSTRONG>gizli odaya<CLT=cltNORMAL>\nbağlanan bir geçit.
+11|Yani o tuvaletten gizli odaya girmek\nmümkün!
+13|Rantaro öldürüldüğü sıralarda Tsumugi\ntam da o tuvalete gitti.
+14|Rantaro öldürüldüğünde suçlunun gizli\nodada olduğundan eminim.
+15|Tesadüf olamayacak kadar denk geliyor.
+16|D-Dur. Bunların hepsi o kadar ani ki\nanladığımı sanmıyorum.
+17|Ama... belki de oraya kütüphanedeki\ngizli kapıdan gitmişlerdir.
+18|Hayır, sanmıyorum.
+19|Kütüphanedeki kart okuyucuya toz\nkoyduğumu hatırla.
+20|Gizli kapının kart okuyucuyla açılıp\naçılmadığını belirlemeye çalışıyordum.
+21|Ama toz düşmedi. Bu da kimsenin o kart\nokuyucuyu kullanmadığı anlamına geliyor.
+22|Yani... gizli odaya girmek için başka bir\nyol kullanmaları gerekirdi—kızlar tuvaletini.
+23|Evet, durumun bu olduğuna inanıyorum.
+24|Suçlu gizli odaya birinci kattaki kızlar\ntuvaletinden girdi...
+25|...ve Annekuma'nın yardımıyla kütüphanede\ngelişen durumu izledi.
+26|Kaede'nin planının başarısız olduğunu görür\ngörmez kameranın aralığını bekledi...
+27|ve elinde gülleyle gizli odadan\nfırladı.
+28|Gizli kapı içeriden açılabiliyordu, yani\nkart okuyucuyu kullanmaya gerek yoktu.
+29|Her halükârda suçlu Rantaro'ya gülleyle\nsaldırdı, onu kütüphanede bıraktı...
+30|...Kaede'nin kullandığı gülleyi aldı\nve gizli odaya döndü.
+31|Ve Rantaro'daki Hayatta Kalan Ayrıcalığı\nMonopad'ini de aldılar, değil mi?
+32|Evet. Sonra Monopad'i ve gülleyi gizli odada\nbırakıp geçide yöneldiler...
+33|...ve kızlar tuvaletine döndüler.
+34|Bunu yapanın... Tsumugi olduğunu\nmu söylüyorsun?
+35|H-Hayır... Bu... bir tür hata\nolmalı.
+36|Şimdiye kadar her şey beynin bizden biri\n*olmadığını* gösteriyordu!
+37|Tsumugi bütün bunları yapabilecek biri mi?\nO sadece bir kostümcü, bilirsin?
+38|E-Evet! Bunların hepsi sıradan bir kostümcü\niçin imkânsız olurdu!
+39|Ama Rantaro'nun cinayeti sırasında o tuvalete\ngittiğini *sen* söyledin.

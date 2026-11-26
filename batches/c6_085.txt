@@ -1,0 +1,64 @@
+@ chap6_text_US
+## c06_253_000
+52|Başındaki o anten onların cevaplarını\nalmanı sağlıyor.
+53|B-Bu bir anten mi...?
+54|Antenin kırılıp çıldırdığında...
+55|Bu bizim için büyük bir sorundu.\nSeyircilerden şikâyet yağdı.
+56|Ama tek rolün bu değil...\nAynı zamanda seyircilerin <CLT=cltSTRONG>kamerasısın<CLT=cltNORMAL>.
+57|K-Kamera mı...?
+58|Gözlerin...
+59|...seyircilerin kendi gözleri!
+60|Seyircilerin... gözleri mi?
+61|Dış dünya bunca zaman senin\ngözlerinden izliyordu!
+62|Bu onlara gerçekten Danganronpa dünyasının\nbir parçasıymış gibi hissettiriyor!
+63|Ve hepsi senin sayende!
+64|Bu yüzden sonuna kadar hayatta\nkalmana çok sevindim!
+65|Çünkü artık seni kullanarak dış dünyayı\numutsuzluğa sürükleyebilirim!
+66|U-Umutsuzluk mu...?
+67|Seyirci vekili umutsuzluğa düşerse\nseyirciler de düşer.
+68|Seni umutsuzluğa düşürerek bütün\ndünyayı umutsuzluğa düşürebilirim!
+69|Umutsuzluğum kurgudan gerçeğe dönüşecek\nve gerçekliğin kendisini yok edecek.
+70|Puhuhu... Bu en enfes umutsuzluk\ndeğil mi?
+71|N-Neden bu kadar zahmete giriyorsun!?\nJunko Enoshima... sadece bir kostüm değil mi?
+72|Ah Keebo, mon petit doudou...\nKostümüm kusursuz bir kopya.
+73|Karakterlerin yapacağı şeyleri gerçekten\nyapmak da tamamen bunun bir parçası!
+74|Dünyanın umutsuzluğa düşmesini bu\nyüzden mi... istiyorsun?
+75|B-Bu... çok sapkınca!
+76|Hihihi... Ama Danganronpa'nın bütün\nolayı bu...
+77|Dış dünya korkunç kurgular ve\nsonuçlar görmek istiyor!
+78|Kurgusal bir umutsuzluğun gerçek dünyayı\naşındırmasından daha korkunç ne olabilir?
+79|Kimse bu kadar umutsuz bir sonu\nhayal edemezdi.
+83|Haaa?
+84|Seyircilerin vekiliysem...
+85|O zaman iç sesimi dış dünyaya\n<CLT=cltSTRONG>umut<CLT=cltNORMAL> yaymak için kullanacağım!
+86|Sana söyledim be!\nDış dünya sadece umutsuzluk istiyor!
+87|Öldürme oyunları izleyen seyircilere\numut yaymanın hiçbir yolu yok.
+88|Hayır! İç sesim bana ne yapmam gerektiğini\nzaten söyledi! Bunu <CLT=cltSTRONG>düzeltmeliyim<CLT=cltNORMAL>!
+89|O dış dünyanın sesiyse o zaman dış\ndünya aslında <CLT=cltSTRONG>umut<CLT=cltNORMAL> istiyor!
+90|O yüzden dış dünyaya güveneceğim!\n<CLT=cltSTRONG>Umuda<CLT=cltNORMAL> güveneceğim!
+91|<CLT=cltSYSTEM><CLT=cltSTRONG>Umut<CLT=cltSYSTEM> Monopad'e kaydedildi.\nGerçek Mermisi menüsünden görüntüleyebilirsin.
+92|Bu ne?
+93|Bu umudun gücü!
+94|Umutsuzluğuna yenilmeyeceğim! Dış dünyanın\numudunu taşırken asla!
+95|Ah, ne sinir bozucu. Umut mu?\nBu popüler değil...
+96|Eh, senin gibi birini umutsuzluğa\ndüşürebilirsem harika bir son olur.
+97|Bunu yapmana izin vermeyeceğim!\nUmut asla umutsuzluğa boyun eğmeyecek!
+98|Ooo? O kadar ileri mi gideceksin?
+99|O zaman... bunu halledelim.
+100|Umut ile umutsuzluk arasındaki son savaş!
+101|Yuhuu! İşte Danganronpa budur!
+102|Bunu... nasıl halledeceğiz?
+103|Evet, bu bir sorun. Monokuma bir kuralı\nçiğnediği için sınıf duruşması karmakarışık...
+104|Kuralı çiğneyen sensin...
+105|Baştan başlayıp özel bir oylama\nyapmaya ne dersiniz?
+106|...Özel bir oylama mı? Ama kuralları en\nbaşta çiğneyen sensin—
+107|Neyse, dostum! Buraya kadar birlikte geldik!\nSon bir oylama yapalım işte!
+108|Çünkü Danganronpa budur!
+109|Bu son özel oylama şunu belirleyecek...
+110|Keebo ile ben arasında...\nHangimiz cezalandırılmalı?
+112|B-Bu, bu h-hikâyenin nasıl biteceğini\nbelirleyecek bir oylama olacak...
+113|Bu hikâyenin umutla mı umutsuzlukla\nmı biteceğine siz karar vermelisiniz.
+114|Umutla bitmek mi...?
+115|Umutsuzlukla bitmek mi...?
+116|Biz mi karar veriyoruz...?
+117|Vay be, bu harika! Dış dünya\ncoşmaya başlıyor!

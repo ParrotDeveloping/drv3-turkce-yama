@@ -1,0 +1,82 @@
+@ chap6_text_US
+## c06_209_000
+74|Rantaro'nun kendisiydi...
+75|Ha? Ama Rantaro Kaede'nin tuzağı yüzünden öldü.\nDolayısıyla suçlu Kaede.
+78|Kaede'nin suçlu olduğuna hiç\nşüphe yok...
+80|<CLT=cltMIND>Rantaro'yu öldüren gerçek suçlu...
+81|...Monokuma'yı yöneten <CLT=cltSTRONG>beyin<CLT=cltNORMAL>!\nRantaro'yu öldüren o!
+82|Suçlu beyin mi!?
+83|Tüh... Bir de kendine Ultimate Dedektif\ndiyorsun?
+84|İlk sınıf duruşmasının sonuçlarını\ntersine çevirmeye çalışmak...
+85|Monoyavrular buna sessiz kalmayacak!
+87|Ama bilmiyoruz dedik!
+## c06_210_000
+0|Ne? Kaede kameranın flaşını kullandığını\nbizzat kabul etti.
+1|Suçlunun itirafını kabul etmemek mi?\nShuichi, çok inatçısın!
+3|Hey! Anıları yok diye yavrularıma\nsaçmalıklarla zorbalık edemezsin!
+4|Kaede her şeyi kendisinin kurduğunu\nbizzat kabul etti!
+6|Ne? Kaede'deki gülle değil miydi?
+7|Ama güllelerin hepsi aynı görünüyor, yani\nbunu bilemezsin, değil mi?
+9|Beyin Kaede değilse kim!?\nBen de anlayayım diye açıkla!
+10|Puhuhu... Shuichi buna inanmak\nistemiyor sadece!
+12|<CLT=cltMIND>Cinayet silahı olan gülle Kaede'deki\ngülle değildi!
+13|<CLT=cltMIND>Bunun bir kanıtı olmalı elimde!
+14|<CLT=cltMIND>Kaede'nin suçlu olmadığını gösterebilirsem\nargümanları çöker!
+## c06_210_001
+0|Rantaro'nun katili
+1|Rantaro'nun katili beyinse...
+2|<CLT=size2>beyinse...
+3|o zaman beyin\n<CLT=size2>Kaede'ydi!
+4|o zaman beyin Kaede'ydi!
+5|SUÇLUNUN-
+6|SUÇLUNUN-BEYİN-OLDUĞUNU-\nKANITLAYABİLİR-MİSİN?
+7|BEYİN-
+8|OL
+9|DUĞUNU-
+10|KANITLA-
+11|YABİLİR-MİSİN
+12|?
+13|Evet! Hiç
+14|Evet! Hiç kanıtın var mı!?
+15|<CLT=size2>kanıtın var mı!?
+16|Kaede'nin
+17|Kaede'nin suçlu olduğuna kanıt mı istiyorsun?
+18|<CLT=size2>suçlu<CLT=size1> olduğuna
+19|<CLT=size2>kanıt<CLT=size1> mı istiyorsun?
+20|Cinayet <CLT=size2>yerindeki
+21|Cinayet yerindeki gülle!
+22|<CLT=size2>gülle!
+23|<CLT=size2>Kamera flaşını
+24|Rantaro'yu kendine çekmek için\nkamera flaşını kullandı...
+25|<CLT=cltWEAK><CLT=size2>Rantaro'yu çekmek<CLT=size1> için kullandı...
+26|Sonra da <CLT=size2>gülleyle<CLT=size1>\nkafatasını <CLT=size2>parçaladı!
+27|Sonra da gülleyle\nkafatasını parçaladı!
+28|<CLT=size2>Evet, evet!
+29|Evet, evet! Her şeyi\nKaede kurdu...
+30|<CLT=cltWEAK>Kaede kurdu
+31|<CLT=cltWEAK><CLT=size2>her şeyi<CLT=cltNORMAL>...
+32|<CLT=size2>Ölümcül<CLT=size1> gülle <CLT=size2>bile...
+33|Ölümcül gülle bile...
+34|<CLT=cltWEAK><CLT=size2>Kaede'nin\n<CLT=size1>elindeydi <CLT=cltNORMAL>baştan beri.
+35|Kaede'nin elindeydi baştan beri.
+36|Gördün mü? <CLT=cltWEAK><CLT=size2>Beyin
+37|Gördün mü? Beyin sonuçta Kaede!
+38|sonuçta <CLT=cltWEAK><CLT=size2>Kaede!<CLT=size1><CLT=cltNORMAL>
+39|Ölülerle <CLT=size2>neden<CLT=size1> bu kadar <CLT=size2>ilgileniyorsun...?
+40|Ölülerle neden bu kadar ilgileniyorsun...?
+41|<CLT=size1.5>Soğuk<CLT=size1>\n<CLT=size2>　\n　\n　\n　
+42|Soğuk bir şişe mi açmak istiyorsun!?
+43|<CLT=size2>bir\n　\n　\n　\n　
+44|<CLT=size2>şişe mi\n　\n　\n　\n　
+45|<CLT=size2>açmak\n　\n　\n　\n　
+46|istiyorsun!?<CLT=size2>\n　\n　\n　\n　
+47|Bu mümkün değil...
+48|Beyin Kaede miydi...?
+49|Kanıtı göster bize!
+51|Cinayet silahı gülleydi, değil mi?
+52|*klik!*
+53|Bu fena iş, kanka!
+54|Gülle
+## c06_211_000
+0|İnceleme sırasında keşfettiğimiz en\nönemli gerçek şu...
+1|Rantaro'yu öldüren gülle, Kaede'deki gülleden\n<CLT=cltSTRONG>farklıydı<CLT=cltNORMAL>!

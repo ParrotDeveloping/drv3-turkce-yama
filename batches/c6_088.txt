@@ -1,0 +1,67 @@
+@ chap6_text_US
+## c06_300_335
+2|N-Neler oluyor!?\nKeebo oy vermedi mi!?
+3|Of... rahatladım.
+4|H-Ha...? Neden? Bu ne?
+5|...Dünya değişti.
+7|Keebo <CLT=cltSTRONG>oy vermeyi reddettiyse<CLT=cltNORMAL>\ndünya değişmiş demektir.
+8|Seyircilerin de oy vermemeyi\nseçtiği anlamına gelir.
+9|...Bu öldürme oyununu reddettiler.
+11|Oh olsun! Kuralları öyle çiğnersen\nbaşına gelecek budur!
+12|Dur! B-Bu... gerçekten doğru mu!?
+13|Danganronpa bitecek mi?
+14|Gergin çekişmeler ve arkadaşlar arasında\nsırttan bıçaklamalarla dolu öldürme oyunu...
+15|53. sezonla öylece aniden mi bitecek?\nBu gerçekten doğru mu?
+17|Sözlerin artık onlara ulaşamıyor.
+18|Bizi hiç takdir etmedin... Ve görünüşe göre\nkurgunun gücünü de takdir etmedin!
+19|Artık kimse seni istemiyor! Artık kimse hastalıklı,\nçarpık hikâyelerini duymak istemiyor!
+21|Bitti...
+22|İşte bu...
+23|Sona erdi...
+24|Gerçekten... son bu, değil mi?
+25|Peki şimdi ne yapacağız?
+26|Madem bitti, artık hiçbir cezaya\ngerek yok.
+27|Ne baştan savma bir son. Danganronpa\nböyle bitirilmez.
+28|Hayır, en azından... bir cezayla\nbitmesi gerek.
+30|Şimdi... biz... bundan sonra yaşamaya devam\nedersek... yaptığımız seçimin bir önemi kalmaz.
+31|İnsanlar sadece başka bir öldürme\noyunu isteyecek, yani...
+32|Yani bu öldürme oyununu durdurmanın tek\nyolu... kendimizi öldürmek...
+33|A-Anladım!\nO zaman ş-şu işi bitirelim!
+34|Herkesin yok olmasıyla mı bitecek?
+35|Böyle bir son hiç beklemiyordum,\no yüzden hazır bir cezam yok...
+36|O yüzden bunu Keebo'ya bırakacağım.
+38|Bu öldürme oyununu bitiren ben olacağım.
+39|Bu kurguyu sona erdireceğim.
+40|Bu dış dünyanın iradesi.
+41|Bütün bu kurgusal dünyayı yok et ve\nöldürme oyununu bitir...
+42|Dış dünyanın istediği... bu.
+43|Bunu 53 sezon sürdürmek için çok\nçalıştım ve şimdi her şey bitti...
+44|Eh, sorun değil... Artık öldürme oyunlarının\nolmadığı bir dünyaysa burası...
+45|Onun bir parçası olmak istemiyorum.
+46|Danganronpa'nın olmadığı bir dünyayla\nhiç ilgilenmiyorum.
+47|Sanırım... bizim için son bu.
+48|Hayatta kalan yok...\nBiraz moral bozucu.
+49|Ama artık her şey bitti. Öldürme oyunlarından\nacı çeken son kişiler biziz...
+50|Hadi, millet! Gurur duymalıyız!\nSonunda dünyayı değiştirebildik.
+51|Bunların hepsi sadece kurguysa şimdiye kadar\nbaşardığımız her şey yalan olabilir.
+52|Ama o yalanlar...\nDünyayı değiştirdi.
+53|Biri tarafından uydurulmuş kurgusal\nkarakterler olsak bile.
+54|Dünyayı değiştirebildik.
+55|Haklısın. Ben de aynı şeyi hissediyorum.
+56|Planım o kadar kusursuz bir <CLT=cltSTRONG>kopyaydı<CLT=typeNORMAL> ki\ntam sonunda başarısız bile oldu...
+57|Yani <CLT=cltSTRONG>kostümcü-taklitçi bir suçlu<CLT=typeNORMAL> olarak\nbaşımı dik tutabilirim, değil mi?
+58|"Kostümcü-taklitçi bir suçlu" mu?
+59|...Pekâlâ, başlayalım.
+60|Daha doğrusu, bunu bitirelim!\nBu dış dünyanın iradesi!
+61|<CLT=cltSYSTEM>Yeni "Danganronpa 53"\ntemasını elde ettin.
+62|<CLT=cltSYSTEM>Bitirme verisi bonusunu kullanabilmek\niçin oyunu kaydetmelisin.
+63|<CLT=cltSYSTEM>Oyunu kaydetmeni\nşiddetle tavsiye ediyoruz.
+## c06_999_250
+0|<CLT=cltMIND>Bizimle iletişim kurmak için bir monitör.\nBozuk, ekranda hiçbir şey yok.
+1|<CLT=cltMIND>Boş bir ekrana bakacak\nvaktim yok.
+8|<CLT=cltMIND>Önce Rantaro'dan başlamalıyım.\nOnun laboratuvarını incelemeliyim.
+9|<CLT=cltMIND>Tsumugi'nin bahsettiği 6. kata\ngideceğim.
+10|<CLT=cltMIND>...Kütüphaneye gitmeliyim.
+11|<CLT=cltMIND>Keebo'nun yardımıyla içeri\ngirebileceğimden eminim.
+13|<CLT=cltMIND>Himiko 1. kattaki kızlar tuvaletinden\nbahsediyordu...
+14|<CLT=cltMIND>Gitmeliyim.

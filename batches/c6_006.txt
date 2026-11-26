@@ -1,0 +1,49 @@
+@ chap6_text_US
+## c06_101_137
+9|<CLT=cltMIND>Ama o anı olmasa bile...\ngerçek aynı.
+10|<CLT=cltMIND>Bu laboratuvar Kokichi için yapıldıysa\n<CLT=cltSTRONG>Kalıntılar<CLT=cltMIND>'la *bir* bağlantı olmalı...
+11|Belki bir yerde saklıdır...\nİyice incelemeliyim.
+12|<CLT=cltSTRONG>Gofer Projesi<CLT=cltNORMAL>'nden kaçmak için <CLT=cltSTRONG>Ultimate<CLT=cltNORMAL>\nyeteneklerimizi bıraktığımızda...
+13|Ben... bir suikastçınınkinden farklı\nbir yol seçmiştim...
+14|Ama sonunda... yine geri sürüklendim.
+16|...Bir şey yok. Şimdi bunu düşünmenin\nzamanı değil.
+17|Kokichi'nin odasına gidelim.\nİstediğin buydu, değil mi?
+18|Kokichi'nin odasına gitmeyecek miydik?
+19|Sadece şafağa kadar vaktimiz var...\nOyalanacak zamanımız yok.
+20|<CLT=cltMIND>Kokichi'den bahsediyoruz...\nBurada *bir şey* olmalı!
+25|<CLT=cltMIND>Burada birbirine uyan pek çok renkte\nayakkabı ve takım elbise var.
+26|<CLT=cltMIND>Burası <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltMIND>'in laboratuvarıysa...
+27|<CLT=cltMIND>bunlar örgütün diğer üyeleri için\nüniformalar mı?
+28|<CLT=cltMIND>Burada biraz... tedirgin edici eşyalar var...\nGaz maskeleri, kelepçeler...
+29|<CLT=cltMIND>Kılık değiştirmek için peruklar ve gözlükler\nde var sanırım. Ama biraz... komikler.
+30|Bu... <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltNORMAL>'nın\nkullanacağı bir şeye benzemiyor...
+31|<CLT=cltMIND>Strateji toplantılarında kullanıldığını\ntahmin ettiğim büyük bir masa.
+32|<CLT=cltMIND>Masanın üstünde özellikle ilgi çekici\nhiçbir şey yok.
+33|Bir süper araba mı...?
+34|<CLT=cltMIND>Bu kötü örgütün üyeleri böyle\nşeylerle mi dolaşıyor?
+35|<CLT=cltMIND>...Ama bir <CLT=cltSTRONG>kötü örgüt<CLT=cltMIND> gerçekten bu kadar\ngösterişli arabalarla dolaşmak ister mi?
+36|Bu daha çok... bir çocuğun <CLT=cltSTRONG>kötü örgüt<CLT=cltNORMAL>\nhayaline benziyor.
+37|<CLT=cltMIND>Bu Kokichi'nin koltuğu. Kesinlikle bir\n<CLT=cltSTRONG>Yüce Lider<CLT=cltMIND>'in oturacağı türden.
+38|<CLT=cltMIND>Ama... bir şeyler tuhaf.\nHepsi fazla... <CLT=cltSTRONG>klişe<CLT=cltMIND>.
+39|<CLT=cltMIND>Sanki bütün bu oda özenle\nhazırlanmış bir şakaymış gibi.
+42|<CLT=cltMIND>Bu, Kokichi'nin liderlik ettiği\nörgütün amblemi olmalı.
+43|<CLT=cltMIND>...Ama <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltMIND>\namblem asar mı...?
+44|<CLT=cltMIND>Burada kitap gibi ciltlenmiş\nbir dosya koleksiyonu var.
+45|...Hope's Peak Akademisi'nin\nEksiksiz Tarihi mi?
+46|<CLT=cltMIND>Kitabı alıp sayfalarını hızla\nçevirmeye başladım.
+47|<CLT=cltMIND>Ve içinde...
+48|<CLT=cltMIND><CLT=cltSTRONG>Hope's Peak Akademisi<CLT=cltMIND>, <CLT=cltSTRONG>Gelecek Vakfı<CLT=cltMIND>\nve <CLT=cltSTRONG>Umutsuzluk Kalıntıları<CLT=cltMIND> hakkında bilgiler.
+49|Bu... <CLT=cltSTRONG>umut<CLT=cltNORMAL> ile <CLT=cltSTRONG>umutsuzluk<CLT=cltNORMAL> arasındaki\nsavaşın tarihi.
+50|<CLT=cltMIND>Ama bunların hepsini zaten hatırladık.\nBu bilgileri biliyoruz.
+51|<CLT=cltMIND>Pek işe yarar bir ipucu olacağını\nsanmıyorum...
+52|<CLT=cltMIND>...Sanmıyorum... ama...
+54|Hayır. Bir şeyler doğru değil.
+55|<CLT=cltMIND>Bir şeyler tuhaf.\nÇünkü bu kitapta yazanlar—
+56|...Gerçekten kitap okuyacak vaktin var mı?
+57|Ah! Maki!?
+58|<CLT=cltMIND>Maki elimdeki kalın kitaba göz atınca\nşaşkınlıkla irkildim.
+59|...Hope's Peak Akademisi'nin Eksiksiz Tarihi mi?\nŞimdi bunu okumanın ne anlamı var?
+60|Hope's Peak Akademisi'ni zaten <CLT=cltSTRONG>Geri\nDönüş Işığı<CLT=typeNORMAL>'yla hatırladın, değil mi?
+61|Evet, ben de... öyle düşünmüştüm...
+62|Ah, Maki, tam zamanında geldin.\nBenimle gelir misin?
+63|...Ne için?

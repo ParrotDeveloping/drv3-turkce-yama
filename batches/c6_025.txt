@@ -1,0 +1,51 @@
+@ chap6_text_US
+## c06_107_027
+36|Ne yaparsanız yapın, bu öldürme oyunu\nkesinlikle, katiyen asla bitmeyecek.
+37|Öldürme oyunu umutsuzluğun sembolü!\nBu kadar eğlenceli bir şey nasıl biter!?
+39|Ah, ne anlama geldiği konusunda kafanı\nyormana gerek yok.
+40|Anlamı bir yana, bu gerçek.
+41|Puhuhu... Yapabileceğiniz en iyi şey\no gerçeği kabullenmek.
+43|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Beyne Dair İpuçları<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+44|Beyin burada değil mi!?
+45|Bizimle ilahi bilgeliğini paylaş, Annekuma!\nBeyin nerede saklanıyor!?
+46|Yoo. Kaç kez sorarsan sor söylemeyeceğim.\nÖldürme oyununu mahveder.
+47|Bunu bana bırakın!
+48|Bana inandığınıza göre elimden gelenin\nen iyisini yapmalıyım.
+49|Büyümün son damlasını tüketip beni\nöldürse bile ipucunu bulacağım!
+50|...Sesi oradan geliyor\nduyabiliyorum.
+51|<CLT=cltMIND>Maki odanın arka tarafına\nöfkeyle baktı.
+52|Perdenin arkasında bir şey var...
+53|O... Sadece bir kafa ama o\nMonokuma mı?
+54|Burası kesinlikle beynin odası.\n<CLT=cltSTRONG>Umutsuzluk<CLT=cltNORMAL> kokuyor.
+55|Kokichi bir <CLT=cltSTRONG>Umutsuzluk Kalıntısı<CLT=typeNORMAL> olsa da\nlaboratuvarı böyle hissettirmiyordu.
+56|Laboratuvarı sadece <CLT=cltSTRONG>Ultimate Yüce Lider<CLT=cltNORMAL>'e\naitmiş gibi hissettiriyordu, o kadar.
+57|Az önceki Monokuma'nın sesiydi, değil mi?
+58|Monokuma... şu an dışarıda Keebo\ntarafından oyalanmıyor mu?
+59|Acil durum olduğu için başka bir yedeği\nmi devreye soktu acaba?
+60|O ekstra Monokuma belki de...
+61|...son savaşı daha havalı yapmak için diğeriyle\ngüçlerini birleştirir. Genelde öyle olur.
+63|...Neredeyse mutlu görünüyorsun, Himiko.
+64|Daha önce Monokuma'nın sevimli olduğunu\nsöylemişti...
+65|H-Hayır... yani...\nMonokuma o zaman arkadaşımızdı...
+66|Ama bize ihanet etti.\nOna bir daha güvenmeyeceğim.
+67|Monokuma'ya inanmamız mümkün değil...\nO kesinlikle düşmanımız.
+68|Ve beynin buraya geldiğine de muhtemelen\nşüphe yok...
+69|Kesinlikle bir ipucu olmalı.\nİyice bakalım.
+70|Ayrılıp bütün araştırma laboratuvarlarını\nyeniden kontrol edeceğiz, değil mi?
+71|Keebo ile Exisal'lar akademiyi yok ederken\nne kadar vaktimiz kaldığını kim bilir.
+72|Ama yapmaktan başka çaremiz yok!\nHadi gidelim!
+73|Buraya kadar geldin, *şimdi* mi bırakacaksın?\nGözümün içine bile bakamıyorsun, korkak!
+74|Puhuhu, korktun mu? Eh, seni suçlayamam,\nfinal patronuyla yüz yüzesin!
+75|<CLT=cltMIND>Bu odada ipuçları olmalı!
+80|<CLT=cltMIND>Bu odanın bir yerinden bir ses\nduyabiliyorum...
+81|<CLT=cltMIND>*Bu* da ne?\nMonokuma mı...?
+82|Sanırım onunla konuşmalıyım...
+83|<CLT=cltMIND>Keebo gizli kapıyı yok ettiği için\nsonunda girebildik.
+84|<CLT=cltMIND>Girmenin diğer tek yolu kart anahtarıydı...
+85|<CLT=cltMIND>Tabii hiçbirimizde o yoktu, o yüzden\ndaha önce giremedik.
+86|<CLT=cltMIND>Ama gizli kapının *iç tarafında* kart\nokuyucu yok gibi görünüyor.
+87|<CLT=cltMIND>Enkazı iyice inceledim ama öyle\nbir şey bulamadım.
+88|<CLT=cltMIND>Yani... bu odadan *çıkmak* için kart\nanahtarına gerek yok.
+90|<CLT=cltMIND>Bu taraftan çıktılarsa o kart okuyucunun üstüne\ntoz koymanın bir önemi olmazdı.
+91|<CLT=cltSYSTEM>"<CLT=cltSTRONG>Kütüphanedeki Gizli Kapı<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+92|<CLT=cltMIND>Buraya kütüphaneden girmek için normalde\nkart anahtarı gerekir.

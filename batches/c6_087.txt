@@ -1,0 +1,102 @@
+@ chap6_text_US
+## c06_253_000
+184|Bence Keebo'ya oy verdikten sonra herkes\nkendini çok daha iyi hissedecek...
+185|Hadi, birlikte kalalım. Lütfen?
+186|Birlikte... olur mu?
+187|Sizi kandırmasına izin vermeyin!
+188|Umutsuzluk bu öldürme oyununu bitirmeyecek...
+189|Sadece umut bitirir!
+## c06_253_025
+60|Umut!
+61|Umutsuzluk!
+## c06_280_001
+0|sevgili suikastçım ;_;
+10|Killing Harmony
+11|aynen be gerçek kurgu
+12|biz dangan hayranlarıyız!
+13|yeni sezon için 3 yıl bekledim be
+14|puhuhuhuhuhu
+15|Roo-keebo
+16|O karakter anılarımı canlandırdı
+17|*şıng*
+18|Bu gerçek umutsuzluk...
+19|Shuichi yapabilirsin!
+20|53
+22|aman tanrım bu kadar sürmüş...
+27|53=çöp
+28|çöp deme
+29|Shuichi'yi seviyoruuum!
+30|53. sezon
+31|güzel tepki
+32|11037 hâlâ değişmemiş.
+33|faydalı yorum!
+34|Ben de buna katılmak istiyorum.
+35|Umutsuzluuuuuuuuuuk!
+36|bu şov epeydir sürüyor
+37|eyv hepiniz sayesinde
+38|maki ruloyu gösterin be
+39|shuichi çok tatlı.
+41|aman tanrım beyin
+42|Evet, beyin benim. Ne olmuş?
+43|sadece beyin.
+45|belki hepsi beyindir
+46|Hepsi beyin.
+47|en kara el benim
+48|beyin mi? beyin değil bu, be—
+49|Mmm... shuichi'nin burnu...
+50|team dangerroomba! team dangerroomba!
+51|Team Danganronpa mı?
+52|daha çok team danganrandıman
+53|Team danganronpa'ya katılmak istiyorum
+54|her sezon aynı ama
+55|hakları başka yere satın artık
+56|Yeni Danganronpa V3
+57|Team Danganronpa en iyisi.
+58|team dangerroomba üyeleri teşekkürler
+59|shuichi'nin kulakları üşümüş gibi
+60|yediniz mi
+61|AAAAAAAAAAAHHHHHHHHH
+62|Sadece kazan, Maki
+63|umutsuzluk geldi
+64|Lütfen hayatta kal, Himiko
+65|Kur kur kur kurgu!
+66|tüh danganronpa çok
+67|ooohhh gaza geliyorum
+68|Burada artık kurgu dışı diye bir şey yok.
+69|shuichi'nin parmakları kız parmağı gibi
+## c06_299_001
+0|<CLT=cltMIND>İşe yaramıyor...\nOnları ikna edemiyorum.
+1|<CLT=cltMIND>Böyle giderse umut kaybedecek...!
+2|Sonuçta herkes umutsuzluk istiyor.
+3|Öldürme oyunları sonsuza dek sürecek.
+4|Puhuhuhuhuhu...!
+5|Burada bitemez...!
+7|Asla pes etmeyeceğim!
+## c06_299_002
+0|<CLT=cltMIND>H-Hayır...\nKararımı veremiyorum...
+1|<CLT=cltMIND>Özür dilerim... herkes...
+5|Böyle bir sona gerçekten\nrazı mıyım...?
+7|Hayatımı ileriye bakarak yaşayacağım!
+## c06_299_003
+0|<CLT=cltMIND>Neye... inanmalıyım...?
+1|<CLT=cltMIND>Sonuçta her şey kurgu...
+5|Burada bitirirsek... o zaman biz...
+7|Böyle bitmesine izin veremeyiz!
+## c06_299_004
+0|Evet! Oyundan keyif almaya devam etmek istiyoruz!
+1|Bunların hepsini geride bırakıp öldürme\noyununa devam edelim!
+2|Danganronpa asla bitmeyecek!
+5|Hayır... Bu oyunu bırakacağım!
+## c06_299_005
+0|<CLT=cltMIND>İşe yaramıyor!\nOnlara hiç ulaşamıyorum!
+1|Ahaha! Söylemiştim!\nKarşılık vermek boşuna!
+2|Dış dünyanın ne istediğini sonunda\nanladın mı?
+3|Öldürme oyunları asla bitmeyecek.
+## c06_299_006
+1|<CLT=cltMIND>Oy verdim...
+2|<CLT=cltMIND>Kim olduğu umurumda değildi.\nNe olacağı umurumda değil.
+3|<CLT=cltMIND>Bunca laftan sonra ben...\nSanırım bir korkaktım.
+4|<CLT=cltMIND>Ama görünüşe göre Maki ile Himiko\nda aynı şeyi hissediyor.
+5|<CLT=cltMIND>Gerçekten böyle mi bitiyor?
+## c06_300_335
+1|Beş kişinin hepsi... oy vermekten çekimser mi kaldı?

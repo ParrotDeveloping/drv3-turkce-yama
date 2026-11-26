@@ -1,16 +1,182 @@
+0	Duruşma alanından bir dahaki çıkışımızda\nher şey bitmiş olacak, değil mi!?
+1	K-Kazanabiliriz, değil mi...?
+2	T-Tabii ki...
+3	Sorun olmayacak... Bu sınıf duruşması\ndiğerlerinden çok daha kolay olmalı.
 4	Ha? Neden?
+5	Şimdiye kadar sınıf duruşmalarında suçluyu\nkendi grubumuzun içinden bulmak zorundaydık.
+6	Bu yüzden istesek de birlikte çalışamıyorduk.\nAma... bu sefer farklı.
+7	Ah, aramızda suçlu olmadığı için hiç şüphe\nduymadan birlikte çalışabiliriz.
+8	Bu sefer hep birlikte çalışacağız...\nŞimdiden içim daha rahat!
 9	...
+10	Ama... keşke daha önce olsaydı.\nBaşta 16 kişiydik...
+11	Ama şimdi burada sadece 4'ümüz duruyoruz,\nartı sonradan gelecek olan Keebo.
+12	...Son savaşa gitmek üzereyiz.\nNeden bu kadar karamsarsın?
 13	Ah, pardon... Haklısın.
+14	...Beklediğin için teşekkürler.
+15	Çabuk geldin, Keebo.
 16	...
+17	<CLT=cltMIND>Silahları sökülmüş. Sanırım saldırması\nkonusunda endişelenmemize gerek yok...
 18	...
+19	N-Ne? Hayal kırıklığına mı uğradın?\nSonuçta bilimkurgu teçhizatını mı tercih ettin?
 20	Hayır, öyle değil...
+21	Ben sadece... çok özür dilerim!
+22	<CLT=cltMIND>Keebo bize belinden eğilerek\nselam verdi.
+23	Pervasızca davrandım ve hepinizi ciddi\ntehlikeye attım...
+24	Özür dilerim! Çok, çok özür dilerim!
+25	Ha? Ne oldu? Savaş modundaki halinden\ntamamen farklısın...
+26	...Shuichi, daha önce bana <CLT=cltSTRONG>umuttan<CLT=typeNORMAL>\nvazgeçmememi söylemiştin.
+27	D-Doğru...
+28	Sonunda haklı olduğunu anladım...
+29	İç sesim bana söyledi...
+30	İç sesin mi? Artık onu duyamadığını\nsöylediğini sanıyordum...
+31	Şey, Monoyavrulara savaş teçhizatımı çıkarmanın\nyanı sıra beni tamir de ettirdim...
+32	Ve şimdi nedense iç sesimi yeniden\nduyabiliyorum.
+33	<CLT=cltMIND>Demek tamirden sonra onu yeniden\nduyabiliyor...
+34	<CLT=cltMIND>Ama görünüşe göre...\nSaçı... bir anteni... andırıyor...
+35	<CLT=cltMIND>Bu sadece süs olmadığı anlamına\nmı geliyor?
+36	<CLT=cltMIND>Ve düşününce, onun "iç sesi" tam\nolarak ne? Ne duyuyor?
+37	Sırf <CLT=cltSTRONG>umutsuzluğa<CLT=typeNORMAL> yenilmemek için her şeyi\nyok etmeye çalışmakla hata ettim...
+38	Sonuna kadar gitseydim bile ardından ne\n<CLT=cltSTRONG>umut<CLT=typeNORMAL> ne de <CLT=cltSTRONG>gelecek<CLT=typeNORMAL> kalırdı.
+39	O durumda eylemlerim sadece bambaşka\nbir <CLT=cltSTRONG>umutsuzlukla<CLT=typeNORMAL> sonuçlanırdı.
+40	...Beni affetmenizi beklemiyorum.\nYaptığım şey aptalcaydı.
+41	Ama... sizinle birlikte savaşmama izin verir\nmisiniz!? Gerçeği bulmanıza yardım etmek istiyorum!
 42	Lütfen!
+43	Tabii ki, Keebo.\nEn başından beri istediğim buydu.
+44	Sen olmasaydın bunu yapamazdık.
+45	Yani... izin veriyor musunuz?
 46	...
+47	Ah... Kızgın görünüyorsun, Tsumugi.\nYardım etmemi istemez miydin...?
+48	Kızgın değilim... sadece kendimi tutuyorum.
+49	Biri o kadar ısrarla "lütfen" deyince hep\n"Ama reddediyorum" diye cevap vermek istiyorum.
+50	Ama burada havayı okuyabiliyorum...\nO yüzden kendimi tutuyorum.
+51	Tabii ki.
+52	Evet, artık iyiyim! Tabii ki bizimle\nsavaşabilirsin, Keebo!
+53	Canlılarla nesneler arasında büyük bir duvar\nvar ama sen bizim arkadaşımızsın, Keebo.
 54	T-Teşekkürler...
+55	Şey... Bu arada Maki, bir süredir\nsana sormak istiyordum ama...
+56	Taşıdığın o... elektrikli süpürge\nne?
+57	...Böcek Süpürgesi. Sanırım Kokichi tasarladı\nve Miu'ya yaptırdı.
+58	Ah evet, Gonta daha önce <CLT=cltSTRONG>minik böceklerden<CLT=typeNORMAL>\nbahsetmişti...
+59	Evet, bir şeye ipucu olabileceğini\ndüşündüm.
+60	Ama onunla hiç böcek yakalayamıyoruz.\nHiç yok gibi görünüyor.
+61	Demek sonuçta gerçekten sadece Gonta'nın\nhayal gücüymüş.
+62	Bekle, buna karar vermek için erken olabilir.
+63	En azından... gözlerimle inceleyene\nkadar bekleyebilir miyiz?
+64	<CLT=cltMIND>Gözlerinle mi?
+65	Ne demek istiyorsun, Keebo?
+66	Gözlerin ne işe yarar ki? Pek keskin\ngözlerin yok, değil mi?
+67	Bu doğruydu... yakınlaştırma işlevimi\nyükleyene kadar.
+68	...Yakınlaştırma işlevin mi?
+69	Laboratuvarımda, jet paketi ve roketatarın\nyanındaydı...
+70	O yakınlaştırma işlevi sayesinde görüşüm\nyüz kat arttı.
+71	Yüz kat mı!?
+72	Bu, varsayılan ayarlarını çok aşan bir\ngüçlendirme!
+73	Ultimate Robot'un gerçek yeteneği\nbu...
+74	Robot olduğum için bir insan için\nmümkün olmayan şekillerde evrimleşebilirim.
+75	Sonunda... bunu kabullendim.
+76	Aramızda belirgin farklar var ama\nbunlar utanılacak şeyler değil.
+77	Çünkü... <CLT=cltSTRONG>yeteneğimle<CLT=typeNORMAL> hepinizi\nkurtarabilmem mümkün.
+78	<CLT=cltMIND>Keebo Böcek Süpürgesi'ni Maki'den\naldı ve...
+79	Denemeye değer. Maksimum yakınlaştırmada\ngörüşüm bir mikroskopla aynı seviyede.
+80	...Maki, bu Böcek Süpürgesi'ni biraz ödünç alacağım.
+81	<CLT=cltMIND>Ona dikkatle baktı.
+82	...Görüyorum!\nBu anıyı yazdıracağım!
+83	<CLT=cltMIND>Tıpkı önceki gibi Keebo ağzından\nbir fotoğraf yazdırdı.
+84	<CLT=cltMIND>Onu dudaklarından alıp\nbana uzattı.
+85	Bu... Monokuma mı!?
+86	Gonta'nın bahsettiği <CLT=cltSTRONG>küçük böcekler<CLT=typeNORMAL>\nbunlar mı?
+87	Bir insanın gözleri nano ölçekte var olan\nşeyleri göremez.
+88	Gonta'nın onları fark etmiş olması...\ngörüşünün gerçekten insanüstü olduğunu gösterir.
+89	Hey, bu şeyler ne tutuyor?\nKamera mı tutuyorlar?
+90	...Neden onlara sormuyoruz?
+91	Bununla *konuşabilir* miyiz?
+92	Evet, gelişmiş bir duyma işlevini\nzaten yükledim.
+93	S-Sanırım her şey mümkün...
+94	Konuşmaya başla. Hemen.\nYoksa sizi tek tek ezerim.
+95	İşleviniz her neyse onu yerine\ngetiremezsiniz...
+96	Bu şartları kabul ediyor musunuz?
+97	<CLT=cltMIND>Keebo bunun pazarlığa açık olmadığını\nbelli eden bir şekilde sordu.
 98	...
+99	Kendilerine... <CLT=cltSTRONG>Nanokumalar<CLT=typeNORMAL> diyorlar.\nGörünüşe göre Monoyavruların üyeleriymiş.
+100	Ne? Bu minicik şey mi...?
+101	O zaman aslında altı Monoyavru mu varmış?
+102	Tam olarak değil. Bunlar birey olarak değil,\nbir kovan zihni olarak var oluyorlar.
+103	Havada sürü halinde dolaşıp kampüsün\nher santimetrekaresini kaplıyorlar.
+104	<CLT=cltMIND>Yani sadece bir tane değil... koca\nbir Monoyavru sürüsü.
+105	O kadar küçüklerse burnumda ya da ağzımda\nolsalar bile asla anlamazdım.
+106	Bunu düşünmek hoşuma gitmiyor...
+107	Ve işlevleri...
+108	burada yaşanan olayların görüntülerini kaydedip\nMonokuma'ya iletmekmiş.
 109	...Ne?
+110	Minik kameralarıyla görüntü kaydedip\nkablosuz olarak iletiyorlar...
+111	Annekuma görüntüleri alıp işledikten sonra\nMonokuma'ya gönderiyor.
+112	Yani... bir güvenlik kamerası gibi mi!?
+113	<CLT=cltMIND>Çıplak gözle görülemeyecek kadar\nküçükler...
+114	<CLT=cltMIND>Güvenlik kameraları onlar olmalı!
+115	<CLT=cltSYSTEM>"<CLT=cltSTRONG>Altıncı Monoyavru<CLT=cltSYSTEM>" Monopad'inin\nGerçek Mermileri bölümüne eklendi.
+116	D-Demek sonuçta güvenlik kameraları varmış.
+117	Ve görüntüleri kablosuz olarak\nkaydediyorlarmış...
+118	Kokichi Elektro Bomba'yı kullanmakta haklıymış.
+119	Onu kullandığında Nanokumalar Monokuma'ya\nhiçbir görüntü gönderemedi.
+120	Evet, o durumda Monokuma'nın gerçek\nsuçluyu bildiğinden şüpheliyim.
+121	Şey... ne kadar çok şey öğrenirsem keşke Kokichi\nbizimle normal bir şekilde çalışsaydı diyorum.
+122	Bu imkânsız. Kaç kez yeniden doğarsa doğsun\nruhunun derinliklerine kadar yalancı.
+123	<CLT=cltMIND>Altıncı Monoyavrunun güvenlik kameraları\nolacağını hiç hayal etmemiştim.
+124	<CLT=cltMIND>Monokuma bütün akademiyi böyle\ngözetleyebiliyormuş.
+125	<CLT=cltMIND>...Bizimle oynuyor.
+126	<CLT=cltMIND>Sadece kendinden emin değil.\nKazanacağından *eminmiş*.
+127	<CLT=cltMIND>Düşündüğü şeyin bu olduğunu\nbiliyorum...
+128	...En azından artık o önemli ayrıntıyı biliyoruz.\nSınıf duruşmasından önce söylemene sevindim.
+129	Evet! Teşekkürler Keebo!
+130	Rica ederim ama... artık gitmeliyiz.
+131	...Evet, geç kalırsak Monokuma'nın ne\nyapacağını bilmiyoruz.
+132	H-Haklısın... O zaman duruşma alanına\ndoğru yola çıkalım.
 133	...Tamam.
+134	Yardım edebildiğime sevindim.
+135	Şimdiye kadar gösterdiğim tek gelişimin bilimkurgu\nsilahlarım olduğunu düşünmenizi istemem.
+136	...Pekâlâ o zaman, gidelim.\nMonokuma bizi bekliyor.
+137	Maki, o şeyi yanında getirmişsin, ha?
+138	Soğuk ve mesafeli davranıyorsun ama\nşaşırtıcı derecede sıcak ve ciddisin...
+139	Sonunda ne kadar yakın olduğumuzu\nanladığımı hissediyorum.
+140	Sonunda beyni bulamadık.
+141	Saklambaçta çok iyi olmalı.\nAma... büyümden kaçamaz.
+142	Onu "Bütün İlişkilerin Aşk Üçgeniyle\nSonuçlanacak" lanetimle vuracağım!
+143	B-Bu... çok işe yarar, Himiko.
+144	Keebo'nun gözleriyle, ha...?
+145	Gonta bile göremediyse Keebo'nun da\ngörebileceğinden şüpheliyim.
+146	Rahatla. Başarısız olursak ve seni öldürme\nvaktim gelirse...
+147	Hayatını çabucak sonlandırırım,\nacı çekmezsin.
+148	...T-Teşekkürler?
+149	Keebo... öncekinden tamamen farklı görünüyor.
+150	Belki de... bütün o silahları kuşanmak\nduygularını da güçlendirmiştir.
+151	Kostümde de olur. Bir kostüm giyince\no karakter gibi davranmaya başlarsın.
+152	Gonta keşfetti, Kokichi tasarladı,\nMiu cihazı yaptı...
+153	Keebo'nun son ipucunu bulabilmesi\nhepsi sayesinde oldu.
+154	Sanki... herkes bize tezahürat yapıyor gibi.
+155	<CLT=cltMIND>Keebo'nun gözleri mi? Ne demek istiyor?
+156	<CLT=cltMIND>Gidelim! Son duruşmaya,\narkadaşlarımla!
 157	Evet
 158	Hayır
 159	Emin olmadığın bir şey mi var?
 160	<CLT=cltSYSTEM>Ayrılmak istiyor musun?
+161	<CLT=cltMIND>Keebo'nun gözleri mi? Ne demek istiyor?
+162	<CLT=cltMIND>Gidelim! Son duruşmaya,\narkadaşlarımla!
+163	<CLT=cltMIND>Keebo'nun gözleri mi? Ne demek istiyor?
+164	<CLT=cltSYSTEM>*gürül gürül!*
+165	<CLT=cltMIND>Pekâlâ... Gidelim.
+166	<CLT=cltMIND>Artık endişelenmenin anlamı yok.\nŞu an...
+167	<CLT=cltMIND>sadece buradan sağ çıkmayı\ndüşünmeliyiz.
+168	<CLT=cltMIND>Ve böylece yıkılmış Ultimate Akademi'yi\nardımızda bıraktık...
+169	<CLT=cltMIND>ve son duruşma alanına doğru yola çıktık.
+170	<CLT=cltMIND>Hayatta kalan son kişileri taşıyan\nasansör bizi aşağı indirdi.
+171	<CLT=cltMIND>Beşimizi ne bekliyor olabilir?
+172	<CLT=cltMIND>Eminim... bu <CLT=cltSTRONG>umutsuzluğun<CLT=cltMIND> sonu.
+173	<CLT=cltMIND>Ve <CLT=cltSTRONG>umudun<CLT=cltMIND> başlangıcı.
+174	<CLT=cltMIND>Her şey burada bitiyor.
+175	<CLT=cltMIND>Her şey.
+176	<CLT=cltMIND>Hope's Peak Akademisi'nin öldürme oyunu...\nJabberwock Adası'nın öldürme oyunu...
+177	<CLT=cltMIND>Ve bu Ultimate Akademi'nin öldürme oyunu.
+178	<CLT=cltMIND>Tatmin olmaları için daha ne kadar gerek?\nBunun sonu bu.
+179	<CLT=cltMIND>Ben... bundan bıktım.
+180	<CLT=cltMIND>Onu bitireceğiz.
+181	<CLT=cltMIND>Bu acımasız oyunu bitireceğiz.

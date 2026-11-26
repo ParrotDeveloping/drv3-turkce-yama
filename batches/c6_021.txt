@@ -1,0 +1,64 @@
+@ chap6_text_US
+## c06_105_131
+22|<CLT=cltMIND>Duvardaki büyük delikten geçip\nyandaki odaya adım attım.
+## c06_106_019
+1|...Buraya geleceğini biliyordum.
+2|Eski yerleri yeniden inceliyorsan\ner geç buraya gelmen gerekirdi.
+3|Ama... ondan önce söyleyeceklerimi\ndinle.
+4|Planlarla mı ilgili?\nHepsine baktın mı?
+5|Evet, baktım ama gözüme takılan ve\nbeni endişelendiren bir şey oldu.
+6|Gerçi ne kadar önemli olduğundan emin değilim.
+7|Hey, Himiko, Rantaro'nun odasında\nbir şey buldun mu?
+8|Söylemeyeceğim! Sormayı bırak!\nSus! Beni rahat bırak!
+10|Hiçbir şey bulamadım dersem işe yaramaz\nolduğuma karar vereceksin, değil mi...?
+11|B-Buna izin vermeyeceğim...
+12|Yani... sanırım hiçbir şey bulamamış.
+13|Merak etme. Zaten senden hiçbir\nşey beklemiyordum.
+14|B-Bu da en az o kadar kötü!
+15|<CLT=cltMIND>Rantaro'nun odasında değilse,\n<CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı<CLT=cltMIND> nerede?
+16|<CLT=cltMIND>Cesedinde hiçbir şey bulmadık.\nÖlmeden önce bir yere mi sakladı?
+17|<CLT=cltMIND>Ama... onu saklamak için en güvenli\nyer kendi odası olurdu...
+18|<CLT=cltMIND>Biri... onu aldı mı?
+19|...Shuichi, ne oldu?
+20|Hey, gizli kapının arkasında ne olduğuna\nbakacaktık, değil mi? Acele edip yapalım.
+21|E-Evet, haklısın.
+22|<CLT=cltMIND>Gizli kapı, Rantaro'nun ölmeden hemen\nönce incelediği yer...
+23|<CLT=cltMIND>İçeride değerli bir ipucu olacak\nbir şey olabilir.
+24|<CLT=cltMIND>Önce gizli kapıyı incelemeliyim.
+25|Efsanevi büyücü olan bana işe yaramaz\ndemeye cesaretin var demek!
+26|Keşke büyünü işe yarar olmak için kullansan.
+28|Bırak, Maki! Himiko'da hiç iş olmadığını\nzaten biliyoruz!
+29|Hey! Bende döş olmadığını söylemeye\nnasıl cüret edersin!
+30|Ne? Hiç de öyle demedim. Göğsünü dert\nettiğin açıkça belli...
+31|H-Hiç de dert etmiyorum!
+32|Shuichi oyalandığı için yanlış duydum sadece!\nAcele et de gizli kapıya bak!
+33|<CLT=cltMIND>Ne? Bu neden *benim* suçum?
+34|Vakit kaybetmeyi bırak da gizli kapıya bak!
+35|H-Hadi gidelim! Beyni büyümle\npüskürteceğim!
+36|Hey, Maki, baktığın o planlarda\nne vardı?
+37|Beni biraz endişelendiren bir tasarım buldum.\n*Fazla* ayrıntılı çizilmişti...
+38|Bir... elektrikli süpürgeye benziyor.\nNe tuhaf bir şekli var...
+39|Böcek Süpürgesi denen, böcekleri\nemen bir makine.
+40|"Böcek Süpürgesi" mi?
+41|Tasarımı Kokichi mi buldu? Ama Gonta'nın\nlaboratuvarı dışında böcek yok sanıyordum.
+42|Şimdi sen söyleyince...
+50|Gonta hep <CLT=cltSTRONG>küçük böcekler<CLT=cltNORMAL> görüyordu.
+51|Ama Gonta sadece hayal gördüğünü söylemişti...
+52|Belki Kokichi kendisi görmek için Miu'dan\nbunu icat etmesini istemiştir.
+53|Yani Miu bunu gerçekten yaptı mı?
+54|Bu tasarımı bulduktan sonra Miu'nun araştırma\nlaboratuvarına gittim...
+55|...ve hâlâ üzerinde çalıştığı bir\nprototip buldum.
+56|İşte bu. Prototip olabilir ama zaten\nçalışıyor gibi görünüyor.
+57|Emme işlevi zaten tamamlanmış.
+58|<CLT=cltMIND>Bunu söylerken Maki makinenin\nanahtarını çevirdi ve...
+59|<CLT=cltSYSTEM>*vrrrrummm!*
+60|Epey güçlü emiyor...
+61|Bununla etrafındaki bütün böcekleri\ntek seferde süpürebilirsin.
+62|Hm... İçi boş.
+63|Evet. Birkaç kez kullanılmış gibi görünüyor\nama hiç böcek yakalamamışlar gibi.
+64|<CLT=cltMIND>Maki iç çekip böcek yakalayıcıyı\nkapattı.
+65|O zaman böcek yok mu demek oluyor?\nSonuçta sadece Gonta'nın hayal gücü müydü?
+66|Muhtemelen öyle...
+67|Neyse, böcek olsa bile bunun nasıl\nbir ipucu olacağını bilmiyorum...
+68|Ama sana söylemek istedim. Özellikle de\nincelemek için çok vakit harcadığım için.
+69|Doğru, teşekkürler...

@@ -1,0 +1,81 @@
+@ chap6_text_US
+## c06_202_001
+41|Dava hakkında hiçbir şey bilmiyoruz!
+42|Defolun, veletler!
+43|SESSİZ-OLUN-VE-DİNLEYİN...
+44|Aynen öyle!
+45|Aynen öyle!\nSaçmalayıp\nbaş belası olalım!
+46|BU-DA-BİZİM-İŞİMİZ...
+47|Hayatta Kalan Ayrıcalığı mı? O ne?
+48|Ben nereden bileyim!?
+49|Gizli kapı mı? Ne saçma!
+50|Ama onu biz hazırlamadık mı?
+51|Saçmalamaya devam edersek\nKuma Baba bizi parçalayacak!
+52|B-Beyin mi!?
+53|Bir beyin var mıydı...?\nHatırlayamıyorum.
+54|Beyin mi? Hiç duymadım!
+55|Kokuşmuş bir beyne\nihtiyacımız yok!
+56|Ah! Babam konuşuyor!
+57|Babam ne olursa olsun\nen havalısı!
+58|Beni de kadraja al!
+59|Aynen öyle!\nKamerayı tekeline alma, Monotaro!
+60|BABA-KONUŞUYOR.\nSESSİZ-OLUN...
+61|Böyle zamanlar\nkonuşmak içindir!
+62|Ve babam konuşmasını bitirdi...
+63|İstediğin kadar konuş!
+64|O kadar uzun süre sessiz kaldım ki\nkonuşmayı unuttum!
+65|Ama şu an konuşuyorsun!
+66|Ah! Haklısın!\nSesimin duyulduğunu unuttum!
+67|Aynen öyle! Gevezelik yeter!\nHadi konuşmaya geçelim!
+68|Ve işte böylece bitti!
+## c06_203_000
+0|Hayır, cinayet işlendiği sırada kütüphanedeki\ntek kişi Rantaro değildi.
+1|Bu <CLT=cltSTRONG>Hayatta Kalan Ayrıcalığı Monopad'i<CLT=cltNORMAL> bunun kanıtı.
+2|O Monopad neden kanıt olsun ki?
+3|Monopad, Hayatta Kalan Ayrıcalığı olarak\nsadece Rantaro'ya verilmişti, değil mi?
+4|Ama Rantaro'nun cesedini aradığımızda\nüzerinde değildi.
+5|Sadece <CLT=cltSTRONG>öğrenci el kitabı Monopad'i<CLT=cltNORMAL> vardı.
+6|Bu da biri cinayetten sonra bu Monopad'i\nRantaro'dan almış demek!
+7|Vay! Biz de onu söylüyorduk!
+8|Ne? Ah, sessiz olur musun? Şu an\nsaçmalıklarına ayıracak vaktim yok.
+9|Gerçekten kimin neden bahsettiğine\ndair hiçbir fikrim yok...
+10|Yakında araya girmezsek Babalık\nfünyeye basacak!
+11|O zaman bu lanet ezikleri daha fazla\nkonuşturmasak iyi olur!
+## c06_204_000
+0|Hiçbir lanet kanıt görmüyorum!\nUyduruyorsun!
+2|<CLT=cltMIND>Böyle vakit kaybedemem.\nBunu çabucak bitirmeliyim.
+3|<CLT=cltMIND>Argümandaki açık belli.\nO fotoğrafla kanıtlayabilirim!
+4|<CLT=cltMIND>Argümandaki açık belli.\nHemen karşılık vereceğim!
+## c06_204_001
+0|<CLT=size2.2>Kanlı\n　\n　\n　\n　
+1|Kanlı bir Monopad iğrenç!
+2|<CLT=size2.2>Monopad\n<CLT=size1.1>çok
+3|<CLT=size2.2>\n　\n　\n　\niğrenç!
+4|<CLT=size2.2>Onu<CLT=size1.1> hemen<CLT=size2.2>\n　\n　\n　\n　
+5|Onu hemen yıkamalısın!
+6|<CLT=size2.2>yıkamalısın<CLT=size1.1>
+7|<CLT=size2.2>\n　\n　\n　\nhemen!
+8|<CLT=size1.1>Bu <CLT=size2.2>gerçek\n<CLT=size1.1>bir <CLT=size2.2>itiraz değil!
+9|Bu gerçek bir itiraz değil!
+10|<CLT=size2.2>Biri<CLT=size2.2>\n　\n　\n　\n　
+11|Biri Hayatta Kalan Ayrıcalığı\nMonopad'ini mi çaldı!?
+12|<CLT=size2.2>çaldı mı<CLT=size1.1>\n　\n　
+13|　\nHayatta\nKalan\nAyrıcalığı
+14|<CLT=size2.2>　\n　\n　\n　\nMonopad'ini!?
+15|<CLT=size2.2>Kanıtı\n<CLT=size1.1>nerede <CLT=size2.2>bunun!?
+16|Kanıtı nerede bunun!?
+17|<CLT=size2.2>Kanlı<CLT=size1.1> bir\n<CLT=size2.2>hırsız olamaz!
+18|Kanlı bir hırsız olamaz!
+19|Ama unutma, <CLT=size2>Rantaro
+20|Ama unutma, Rantaro Hayatta Kalan\nAyrıcalığı Monopad'ini kütüphaneye getirdi.
+21|<CLT=size1>Hayatta Kalan Ayrıcalığı <CLT=size2>Monopad'ini\n<CLT=size1><CLT=size2>kütüphaneye<CLT=size1> getirdi.
+22|Şimdi kayıpsa,
+23|Şimdi kayıpsa,\nbiri onu çalmış olmalı!
+24|biri onu\n<CLT=size2>çalmış olmalı!
+25|<CLT=size2.2>O<CLT=size1.1> o Monopad'i<CLT=size2.2>\n　\n　\n　\n　
+26|O Monopad'i kütüphaneye mi getirdi!?
+27|<CLT=size2.2>getirdi mi
+28|<CLT=size2.2>　\n　\n　\n　\n<CLT=size1.1>kütüphaneye\n<CLT=size2.2>!?
+29|<CLT=size2>Bence\n　\n　\n　\n　
+30|Bence bu belki de imkânsız!
+31|<CLT=size1>bu\n<CLT=size2>belki de

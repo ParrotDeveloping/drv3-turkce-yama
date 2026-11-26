@@ -1,0 +1,76 @@
+@ chap6_text_US
+## c06_223_000
+12|Ha? Öyle mi?
+13|...Hadi devam edelim. Anılarımızdan bir şey\ndaha konuşmak istiyorum.
+14|Gittiğimiz yeniden inşa edilmiş\n<CLT=cltSTRONG>Hope's Peak Akademisi<CLT=cltNORMAL> hakkında.
+15|Hope's Peak Akademisi'ne ne olmuş?
+16|16'mızın Hope's Peak Akademisi öğrencisi\nolduğuna şüphe yok.
+17|Yeniden inşa edildiğini ve yeniden yetenekli\nöğrencilerden başvuru kabul ettiğini duyduk...
+18|Ve böylece yepyeni Hope's Peak\nAkademisi'nde toplandık.
+19|Hope's Peak Akademisi büyük olduğu için\nhepimiz ayrı sınıflardaydık...
+20|Ama yeni okulun öğrencileri olduğumuza\nşüphe yok.
+22|<CLT=cltMIND>Tam düşündüğüm gibi, burada\nyanlış bir şey var.
+23|<CLT=cltMIND>Ama neden?\nAnılarımız neden bu kadar farklı?
+## c06_224_000
+0|Hope's Peak'in Eksiksiz Tarihi'nin kesinlikle\ndoğru olduğunu söylememiş miydin, Shuichi?
+2|Ha?\nOkul büyük değil miydi?
+3|Ah, kesinlikle büyük.\nBunu herkesten iyi bilirim.
+5|Yanıldığımı mı söylüyorsun?
+6|O şeyler gerçek! Ultimate Dedektif\nya da her neysen fark etmez!
+8|<CLT=cltMIND>Yetenekli öğrencilerden başvuru kabul etmek...\nKitapta yazan bu değil.
+10|<CLT=cltMIND>...Neden?\nAnılarımız neden farklı?
+## c06_224_001
+0|Hope's Peak
+1|Hope's Peak Akademisi yeniden inşa edildi...
+2|Aka
+3|demisi
+5|yeniden inşa edildi
+7|Ve <CLT=size2>bununla...
+8|Ve bununla...
+9|<CLT=cltWEAK><CLT=size2>yetenekli\n<CLT=size1><CLT=size2>öğrenci\nalımı\n<CLT=cltNORMAL><CLT=size1>yeniden başladı.
+10|yetenekli öğrenci alımı yeniden başladı.
+11|Bunu <CLT=size2>öğrenince<CLT=size1>...
+12|Bunu öğrenince...
+13|yeni
+14|yeni Hope's Peak Akademisi'ne geldik.
+15|<CLT=size2>Hope's\n<CLT=size3>Peak
+16|Akademisi'ne.
+17|Yeni
+18|Yeni Hope's Peak Akademisi\nkocaman bir okuldu.
+19|<CLT=size2>Hope's\n<CLT=size3>Peak
+20|Akademisi\n<CLT=cltWEAK>kocaman bir okuldu<CLT=cltNORMAL>.
+21|Bu yüzden hepimiz\n<CLT=size2>farklı sınıflardaydık.
+22|Bu yüzden hepimiz\nfarklı sınıflardaydık.
+23|Ama hepimiz aynıyız!
+25|Doğru!\n<CLT=cltWEAK>Hepimiz Hope's Peak
+26|Doğru! Hepimiz Hope's Peak\nAkademisi öğrencisiydik!
+27|<CLT=cltWEAK>Akademisi öğrencisiydik<CLT=cltNORMAL>!
+28|Ve hâlâ yaşıyor!
+29|Danganronpa Bilgi Yarışması!
+30|Öğrenci
+31|Ve hepinizin öyle\nyetenekleri vardı ki!
+32|Gerçekten o kadar büyük müydü?
+33|Gerçekten öğrenci miydiniz?
+## c06_225_000
+0|Hope's Peak Akademisi'nin yetenekli öğrencilerden\n<CLT=cltSTRONG>başvuru<CLT=cltNORMAL> kabul ettiğini hatırlıyoruz...
+1|...ama burada yazan bu değil.
+2|Akademi başvuru kabul etmiyordu.\nBütün öğrencileri <CLT=cltSTRONG>seçilerek alınıyordu<CLT=cltNORMAL>.
+3|Seçilerek mi!? Bunu hiç duymadım!
+4|Ben seçilmedim. Hope's Peak Akademisi'ne\nkendim başvurdum!
+5|Ben de. Hope's Peak'e gelmeyi *ben* seçtim.
+6|...En azından ben öyle hatırlıyorum.
+7|Yanlış hatırladığımızı mı söylüyorsun?
+8|Ama ya bu kitap düpedüz yanlışsa!?\nAraştırmacılar da hata yapar!
+9|Belki öyle ama bunların hepsini sadece\nkitaptan çıkarmıyorum...
+10|Başka kanıtlar da var.
+11|Başka... ne?
+12|İçinde bulunduğumuz öldürme oyunu Hope's Peak\nAkademisi'yle başlayan bir oyun.
+13|Yani bu, Hope's Peak ve Jabberwock Adası'ndan\nsonraki üçüncü oyun.
+14|Ama Rantaro'nun ne dediğini hatırlıyor musun?
+17|Ama Rantaro'nun adı oyunun geçmiş\nkatılımcıları arasında yoktu.
+18|Junko'nun düzenlediği iki öldürme oyununda\nda bulunmamıştı.
+19|O zaman... Rantaro hangi öldürme oyununa\nkatıldı?
+20|Tam emin değilim ama... açıkça tutarsız,\ndeğil mi?
+21|Ve tutarsızlıklar bununla bitmiyor.\nKokichi'nin anlattıkları da şüpheli.
+22|Kokichi'nin anlattıkları da mı tutarsız?
+23|Ah, bir tutarsızlık mı? Anlatsana...
